@@ -63,12 +63,14 @@ def process_graph(graph, labmt_wordlist):
     for node in graph.nodes:
         philosopher_name = node
         philosopher_file_name = philosopher_name.replace(' ', '_') + ".txt"  # Format the philosopher file name
+        philosopher_file_path = os.path.join(DOWNLOADS_DIR, philosopher_file_name)  # Prepend directory path
+
 
         # Check if the file exists for this philosopher
-        if os.path.exists(DOWNLOADS_DIR + philosopher_file_name):
+        if os.path.exists(philosopher_file_path):
             try:
                 # Read the text file content
-                with open(philosopher_file_name, 'r', encoding='utf-8') as f:
+                with open(philosopher_file_path, 'r', encoding='utf-8') as f:
                     text = f.read()
 
                     # Tokenize the text
