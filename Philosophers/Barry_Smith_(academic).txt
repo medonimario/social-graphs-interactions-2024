@@ -1,5 +1,0 @@
-#REDIRECT [[Barry Smith (ontologist)]]
-
-{{Redirect category shell|
-{{R from move}}
-}}

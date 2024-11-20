@@ -1,5 +1,0 @@
-#REDIRECT [[Valentin Asmus (philosopher)]]
-
-{{Redirect category shell|
-{{R from move}}
-}}

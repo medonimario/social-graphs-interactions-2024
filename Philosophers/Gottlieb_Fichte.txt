@@ -1,6 +1,0 @@
-#REDIRECT  [[Johann Gottlieb Fichte]]
-
-{{Rcat shell|
-{{R from short name}}
-{{R from move}}
-}}
