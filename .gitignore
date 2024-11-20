@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#  All the downloaded philospher files in downloads direct
+#  All the downloaded  files and pickle files
+*.pkl
 Philosophers/
 downloads/
 # C extensions
