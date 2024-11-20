@@ -1,0 +1,123 @@
+{{Short description|Ghanaian philosopher, writer and author (1931–2022)}}
+{{EngvarB|date=January 2022}}
+{{Use dmy dates|date=January 2022}}
+<!-- Missing image removed: [[Image:Kwasi Wiredu, B. Phil.jpg|thumb]] -->
+{{Infobox philosopher
+|name        = Kwasi Wiredu
+|image       = 
+|alt         = 
+|caption     = 
+|birth_name  = 
+|birth_date  = {{birth date|1931|10|03|df=y}}
+|birth_place = [[Kumasi]], [[Colony of the Gold Coast|Gold Coast]]
+|death_date  = {{death date and age|2022|01|06|1931|10|03|df=y}}
+|death_place = United States
+|spouse      = 
+|module      = {{Infobox philosopher |embed=yes
+|region           = [[African philosophy]]
+|era              = {{hlist|[[20th-century philosophy]]|[[21st-century philosophy]]}}
+|school_tradition = {{hlist| [[Plato]] | [[David Hume]] | [[Immanuel Kant|Kant]] | [[Bertrand Russell|Russell]] | [[Gilbert Ryle]] | [[John Dewey]]}}
+|main_interests   = {{hlist| [[African philosophy]]}}
+|notable_ideas    = 
+<!-- Unknown parameters
+|influences       = {{hlist| [[Plato]] | [[David Hume]] | [[Immanuel Kant|Kant]] | [[Bertrand Russell|Russell]] | [[Gilbert Ryle]] | [[John Dewey]]}}
+|influenced       = [[Motsamai Molefe]]
+-->
+| education        = [[University of Ghana]], [[University of Oxford]] (Bphil)
+| institutions     =
+''As faculty member'': {{hlist|[[University of Ghana|Ghana]]|[[University of South Florida|South Florida]]}}
+|thesis_title      = Knowledge, Truth, and Reason
+|thesis_url        = 
+|thesis_year = 1960
+|doctoral_students = 
+|awards            = 
+}}
+|signature         = 
+|signature_alt     = 
+}}
+
+'''Kwasi Wiredu''' (3 October 1931 – 6 January 2022) was a Ghanaian philosopher. Often called the greatest [[African philosophy|African philosopher]] of his generation, his work contributed to the conceptual [[Decolonization|decolonisation]] of African thought.<ref name="Internet Encyclopedia">{{Cite encyclopedia|title=Wiredu, Kwasi |encyclopedia=Internet Encyclopedia of Philosophy|url=https://iep.utm.edu/wiredu/|access-date=20 March 2021|language=en-US}}</ref><ref name="Hountondji">{{Cite web|title=Farewell to a Great Philosopher: Kwasi Wiredu (1931-2022)|url=https://criticalsouth.blog/2022/03/14/farewell-to-a-great-philosopher-kwasi-wiredu-1931-2022/|access-date=14 March 2023|website=criticalsouth.blog}}</ref><ref name="Conversation">{{Cite web|title=Kwasi Wiredu cleared the way for modern African philosophy
+|url=https://theconversation.com/kwasi-wiredu-cleared-the-way-for-modern-african-philosophy-174917|access-date=14 March 2023|website=theconversation.com}}</ref><ref name="Daily Nous">{{Cite web|title=Kwasi Wiredu (1931-2022)|url=https://dailynous.com/2022/01/10/kwasi-wiredu-1931-2022/|access-date=14 March 2023|website=dailynous.com}}</ref>
+
+== Life and career ==
+Wiredu was born in [[Kumasi]], [[Colony of the Gold Coast|Gold Coast]] (present-day [[Ghana]]), in 1931, and attended [[Adisadel College]] from 1948 to 1952. It was during this period that he discovered philosophy, through [[Plato]] (which weaned him from his interest in Practical Psychology) and [[Bertrand Russell]]. He gained a place at the [[University of Ghana]], [[Legon]]. After graduating in 1958, he went to [[University College, Oxford]] to read for the [[Bachelor of Philosophy|B.Phil.]]<ref name="Internet Encyclopedia" /><ref>{{Cite web|title=USF :: Department of Philosophy|url=http://philosophy.usf.edu/faculty/kwiredu/|access-date=20 March 2021|website=philosophy.usf.edu}}</ref>
+
+At Oxford University, Wiredu was taught by [[Gilbert Ryle]] (his thesis supervisor), [[Peter Strawson]] (his College tutor), and [[Stuart Hampshire]] (his special tutor), and wrote a thesis on "Knowledge, Truth, and Reason". Upon graduating in 1960 he was appointed to a teaching post at the [[University College of North Staffordshire]] (now the [[University of Keele]]), where he stayed for a year. He returned to Ghana, where he accepted a post teaching philosophy for his old university. He remained at the University of Ghana for twenty-three years, during which time he became first Head of Department and then Professor. From 1987 until he retired, he was an Emeritus Professor at the [[University of South Florida]] in [[Tampa]].
+
+Wiredu held a number of visiting professorships:
+* [[University of California, Los Angeles]], California (1979–1980)
+* [[University of Ibadan]], [[Nigeria]] (1984)
+* [[University of Richmond]], [[Virginia]] (1985)
+* [[Carleton College]], [[Minnesota]] (1986)
+* [[Duke University]], [[North Carolina]] (1994–1995; 1999–2001)
+
+He was a member of the Committee of Directors of the [[International Federation of Philosophical Societies]] from 1983 to 1998. He was also a fellow at the [[Woodrow Wilson International Center for Scholars]] (1985) and the [[National Humanities Center]], North Carolina (1986). He was Vice-President of the ''Inter-African Council for Philosophy''.
+
+Wiredu died on 6 January 2022 in the [[United States]], at the age of 90.<ref>{{cite news|url=https://www.lemonde.fr/afrique/article/2022/01/11/mort-de-kwasi-wiredu-figure-majeure-de-la-philosophie-africaine_6109017_3212.html |title=Mort de Kwasi Wiredu, figure majeure de la philosophie africaine|newspaper=[[Le Monde]]|first=Séverine |last=Kodjo-Grandvaux|date=11 January 2022}} {{in lang|fr}}</ref><ref>{{cite web|url=https://theconversation.com/kwasi-wiredu-cleared-the-way-for-modern-african-philosophy-174917|title=Kwasi Wiredu cleared the way for modern African philosophy|website=The Conversation|first=Sanya|last=Osha|date=18 January 2022|access-date=19 January 2022}}</ref>
+
+== Philosophical work ==
+One of Wiredu's concerns when defining "African Philosophy" was keeping colonialised African philosophy in a separate category from precolonised Africa.<ref>{{Cite journal|last=Jeffers|first=Chike|title=Kwasi Wiredu et la question du nationalisme culturel|url=https://www.cairn.info/revue-critique-2011-8-page-639.htm|journal=[[Critique (French journal)|Critique]]|date=August–September 2011|number=771–772|pages= 639–649|doi=10.3917/criti.771.0639|via=CAIRN}}</ref> Wiredu (1998) proposes that the African philosopher has a unique opportunity to re-examine many of the assumptions of Western philosophers by subjecting them to an interrogation based on African languages. Let's say hypothetically an African was born and raised in China. Their thoughts and philosophy will be biased to the culture of the language. Not only will they naturally philosophise in that language, but also shape their life around that language.<ref>{{cite journal|last1=Wiredu|first1=Kwasi|title=Toward Decolonizing African Philosophy and Religion|journal=African Studies Quarterly|year=1998|volume=1|issue=4|page=17|url=http://asq.africa.ufl.edu/files/Vol-1-Issue-4-Wiredu.pdf|access-date=17 July 2014|archive-date=25 July 2014|archive-url=https://web.archive.org/web/20140725190213/http://asq.africa.ufl.edu/files/Vol-1-Issue-4-Wiredu.pdf|url-status=dead}}</ref>
+
+Wiredu opposed the "[[Ethnophilosophy|ethnophilosophical]]" and "philosophical sagacity" approaches to [[African philosophy]], arguing that all cultures have their distinctive folk-beliefs and world-views, but that these must be distinguished from the practice of philosophising.<ref>{{Cite journal|last=Osha|first=Sanya|title=KWASI WIREDU AND THE PROBLEMS OF CONCEPTUAL DECOLONIZATION|url=http://quest-journal.net/Quest_1999_PDF_articles/Quest_13_osha.pdf|journal=Quest: Revue Africaine de Philosophie|volume=XIII|number= I-II|date= 1999|pages=157–64 }}</ref> It is not that "folk philosophy" cannot play a part in genuine philosophy; on the contrary, he has acknowledged his own debt to his own ([[Akan people|Akan]]) culture's history of thought. Rather, he argues that genuine philosophy demands the application to such thought of critical analysis and rigorous argument.<ref>{{Cite web |url=https://www.uta.edu/philosophy/faculty/burgess-jackson/Interview.pdf |title=Reginald M.J. Oduor, "African Philosophy, and Non-human Animals" (interview with Anteneh Roba and Rainer Ebert) |access-date=17 July 2014 |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303230805/https://www.uta.edu/philosophy/faculty/burgess-jackson/Interview.pdf |url-status=dead }}</ref>
+
+One of Wiredu's most prominent discussions revolves around the Akan concept of personhood. He believes this traditional framework hosts a two part conception of a person. First, and most intuitive to Western conceptions of persons, is the ontological dimension. This includes one's biological constitution. Further, Wiredu states that the second dimension, the normative conception of personhood, is based on one's ability to will freely. One's ability to will freely is dependent on one's ethical considerations. One can be said to have free will if one has a high regard to ethical responsibilities. This then designates a person to become a person. One is not born a person but becomes one through events and experiences that lead one to act ethically. This differs from the Western conception of personhood in that people, in traditional Akan thought, are not born as willed beings. Wiredu also is certain that African tradition is not "purely theoretical because he shows how certain aspects of African political thought may be applied to the practical resolution of some of Africa's most pressing problems."<ref>{{cite web|title=African Philosophy|date=15 March 2003|url=http://www.ascleiden.nl/content/webdossiers/african-philosophy|publisher=African Studies Center Leiden|accessdate=16 July 2014}}</ref>
+
+His influences include, apart from his tutors at Oxford, [[David Hume]], [[Immanuel Kant]], the [[American Pragmatism|pragmatist]] [[John Dewey]], and the [[epistemological]], metaphysical, and ethical resources of the Akan culture. The result is philosophy that is at once universally relevant and essentially African.
+
+Wiredu, in his work, enlightened many people on the philosophy and religion of Africa. Not only did he summarise and outline their beliefs in many of his works but he also challenged outsiders predispositions to African beliefs. He wished to shed light and understanding to their belief systems and what they believe to be true and physical. He expressed his thoughts and ideas in The Routledge Companion to Philosophy of Religion on African Religions.<ref name="African Religions">{{cite book|last1=Meister|first1=Chad|last2=Copan|first2=Paul|title=The Routledge Companion to Philosophy of religion|date=2012|publisher=Routledge|location=Abingdon, Oxon|isbn=9780415782951|pages=30–38|edition=Second}}</ref>
+
+== Bibliography ==
+
+=== Books ===
+*''Philosophy and an African Culture'' (Cambridge: Cambridge University Press, 1980). {{ISBN|0-521-22794-1}}<br>(this won him the 1982 Ghana National Book Award)
+*''Cultural Universals and Particulars: An African Perspective'' (Bloomington: Indiana University Press, 1996). {{ISBN|0-253-21080-1}}
+*''Person and Community: Ghanaian Philosophical Studies'' [Ed] Wiredu & [[Kwame Gyekye]] (New York: Council for Research in Values and Philosophy, 1992). {{ISBN|1-56518-004-6}}
+*''A Companion to African Philosophy'' (Oxford: Blackwell, 2003). {{ISBN|0-631-20751-1}}
+
+=== Articles ===
+* {{Cite journal |archive-url=https://web.archive.org/web/20220303114259/http://asq.africa.ufl.edu/files/Vol-1-Issue-4-Wiredu.pdf |archive-date=2022-03-03 |url=http://asq.africa.ufl.edu/files/Vol-1-Issue-4-Wiredu.pdf |format=PDF |access-date=21 September 2023 |title=Toward Decolonizing African Philosophy and Religion |first=Kwasi |last=Wiredu |journal=African Studies Quarterly |volume=1 |issue=4 |pages=17–46 |date=1998}}<ref>{{Cite web |url=https://rainerebert.com/2012/05/17/interview-african-philosophy-and-non-human-animals/ |last1=Oduor |first1=Reginald M.J. |title=Interview: African Philosophy, and non-human animals. University of Nairobi’s Reginald M. J. Oduor talks to Anteneh Roba and Rainer Ebert |website=rainerebert.com |access-date=21 September 2023 |publisher=Rainer Ebert}}</ref>
+* {{Cite web |url=https://them.polylog.org/2/fwk-en.htm |title=Democracy and Consensus in African Traditional Politics. A Plea for a Non-party Polity |first=Kwasi |last=Wiredu |website=them.polylog.org |access-date=21 September 2023 |publisher=Polylog. Forum for Intercultural Philosophy. polylog. Zeitschrift für interkulturelles Philosophieren |date=2000}}
+* {{Cite journal |last1=Wiredu |first1=Kwasi |date=Spring 2009 |title=An Oral Philosophy of Personhood: Comments on Philosophy and Orality |journal=Research in African Literatures |volume=40 |issue=1 |pages=8–18 |doi=10.2979/RAL.2009.40.1.8 |jstor=30131182 |s2cid=170858179}}
+
+== Secondary literature ==
+
+* Futter, D.B. ''Wiredu on Conceptual Decolonisation''. ''Theoria'', issue 175, vol. 70, no. 2, 2023, p.&nbsp;24-41. [[doi:10.3167/th.2023.7017503]]
+* Oladipo, O. ''Philosophy and the African Experience: The Contributions of Kwasi Wiredu.'' Ibadan: Hope Publications, 1996.
+* Osha, S. ''Kwasi Wiredu and Beyond: The Text, Writing and Thought in Africa''. Dakar: Codesria, 2005.
+* Hallen, B. ''Kwasi Wiredu and Beyond: The Text, Writing and Thought in Africa''. ''African Studies Review'', vol. 49, no. 3, 2006, p.&nbsp;175-176.
+* Molefe, M. ''A critique of Kwasi Wiredu’s humanism and impartiality''. ''Acta Academica'', vol. 48, no. 1, 2016, p.&nbsp;91-110.
+* Hallen, B. ''Reading Wiredu''. Bloomington: Indiana University Press, 2021.
+
+== See also ==
+* [[Africana philosophy]]
+
+== Sources ==
+* {{Cite web |archive-url=https://web.archive.org/web/20200129093754/http://philosophy.usf.edu/faculty/kwiredu |archive-date=2020-01-29 |url=http://philosophy.usf.edu/faculty/kwiredu |access-date=21 September 2023 |title=Faculty. Kwasi Wiredu, Distinguished University Professor Emeritus |website=philosophy.usf.edu |publisher=University of South Florida |date=2020}}
+* {{Cite book |first=Peter J. |last=King |title=One Hundred Philosophers : A Guide to the World's Greatest Thinkers |publisher=Chartwell Books |location=New York, NY |date=2013 |isbn=9780785830221 |oclc=824532348}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Cite web |url=https://iep.utm.edu/wiredu/ |title=Kwasi Wiredu (1931— ) |first=Sanya |last=Osha |website=iep.utm.edu |access-date=21 September 2023 |publisher=[[Internet Encyclopedia of Philosophy]]. A Peer-Reviewed Academic Resource |date=}}
+* {{Cite web |url=https://them.polylog.org/2/intro-en.htm |title=Introduction. Kwasi Wiredu's Ethics of Consensus. An African Model |website=them.polylog.org |publisher=polylog. Forum for Intercultural Philosophy 2 (2000) |access-date=21 September 2023 |first=Anke |last=Graneß |date=2000 |translator-first=Kai |translator-last=Kresse}} Introduction to and discussion of Wiredu's philosophy.
+* {{Cite web |url=http://www.iep.utm.edu/afr-sage |title=African Sage Philosophy |first=Gail M. |last= Presbey |website=iep.utm.edu |access-date=21 September 2023 |publisher=[[Internet Encyclopedia of Philosophy]]. A Peer-Reviewed Academic Resouce |date=}}
+* {{Cite web |url=https://brittlepaper.com/2022/01/kwasi-wiredu-renowned-ghanaian-academic-and-philosopher-passes-on-at-90/ |website=brittlepaper.com |title=Renowned Ghanaian Philosopher Kwasi Wiredu Passes on at 90 |date=January 19, 2022 |first=Chukwuebuka |last=Ibeh |publisher=[[Brittle Paper]] is an online literary magazine for readers of African Literature.}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wiredu, Kwasi}}
+[[Category:1931 births]]
+[[Category:2022 deaths]]
+[[Category:Duke University faculty]]
+[[Category:Alumni of University of London Worldwide]]
+[[Category:Alumni of University College, Oxford]]
+[[Category:Ghanaian philosophers]]
+[[Category:University of South Florida faculty]]
+[[Category:Academic staff of the University of Ibadan]]
+[[Category:University of Richmond faculty]]
+[[Category:Academics of Keele University]]
+[[Category:People from Kumasi]]
+[[Category:Ghanaian writers]]
+[[Category:African writers]]
+[[Category:African philosophers]]

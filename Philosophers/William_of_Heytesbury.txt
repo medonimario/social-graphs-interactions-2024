@@ -1,0 +1,59 @@
+{{Use dmy dates|date=August 2019}}
+'''William of Heytesbury''', or '''William Heytesbury''', or '''William de Heytisbury''', called in [[Latin]] ''' Guglielmus Hentisberus''' or '''Tisberus''' (c. 1313 – 1372/1373), was an [[Kingdom of England|English]] philosopher and logician, best known as one of the [[Oxford Calculators]] of [[Merton College]], [[University of Oxford|Oxford]], where he was a fellow.
+{{Infobox person
+| name         = William of Heytesbury 
+| image        =  Tomb_of_William_of_Heytesbury.jpg
+}}
+
+==Life==
+Heytesbury had become a [[fellow]] of Merton by 1330. In his work he applied logical techniques to the problems of [[Infinitely divisible|divisibility]], the [[Continuum (set theory)|continuum]], and [[kinematics]]. His ''[[masterpiece|magnum opus]]'' was the ''Regulae solvendi sophismata'' (''Rules for Solving Sophisms''), written about 1335.<ref>W. A. Wallace, ''Prelude to Galileo: Essays on Medieval and Sixteenth-Century Sources of Galileo's Thought'', Dodrecth: Reidel 1981, p. 60.</ref>
+
+He was [[List of Chancellors of the University of Oxford|Chancellor]] of the [[University of Oxford]] for the year 1371 to 1372.<ref>{{cite SEP |url-id=heytesbury |title=William Heytesbury |last=Longeway |first=John}}</ref>
+
+== Works ==
+* 1335 - ''Regulae solvendi sophismata'' (''Rules for Solving Sophisms'') 
+** 1. ''On insoluble sentences'' 
+** 2. ''On knowing and doubting'' 
+** 3. ''On relative terms''  
+** 4. ''On beginning and ceasing'' 
+** 5. ''On maxima and minima'' 
+** 6. ''On the three categories'' (''De tribus praedicamentis)''
+* 1483 - ''De probationibus conclusionum tractatus regularum solvendi sophismata'' (''On the Proofs of Conclusions from the Treatise of Rules for Resolving [[Syllogism]]s) -'' Pavia
+* ''Liber Calculationum''
+
+==Notes==
+{{reflist}}
+
+== Further reading ==
+* Sylla, Edith (1982), "The Oxford Calculators", in [[Norman Kretzmann]], [[Anthony Kenny]] & Pinborg (edd.), ''The Cambridge History of Later Medieval Philosophy''.
+* Murdoch, John (1982), "Infinity and Continuity", in Kretzmann, Kenny & Pinborg (edd.), ''The Cambridge History of Later Medieval Philosophy''.
+* Curtis, Wilson (1956), ''William Heytesbury. Medieval Logic and the Rise of Mathematical Physics.'' Madison: University of Wisconsin Press.
+
+== External links ==
+* {{cite web|url=https://plato.stanford.edu/entries/heytesbury/ |title=William Heytesbury|author=Miroslav Hanke |author2=Elzbieta Jung |website=Stanford Encyclopedia of Philosophy|date=2022 }}
+
+{{s-start}}
+{{s-aca}}
+{{succession box
+| title=[[Chancellor of the University of Oxford]]
+| years=1371–1372
+| before=[[Adam de Toneworth]]
+| after=[[William de Remmyngton]]
+}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Heytesbury, William}}
+[[Category:Year of birth unknown]]
+[[Category:Year of death unknown]]
+[[Category:14th-century English mathematicians]]
+[[Category:14th-century philosophers]]
+[[Category:14th-century English writers]]
+[[Category:14th-century writers in Latin]]
+[[Category:Scholastic philosophers]]
+[[Category:Fellows of Merton College, Oxford]]
+[[Category:Chancellors of the University of Oxford]]
+
+
+{{England-philosopher-stub}}

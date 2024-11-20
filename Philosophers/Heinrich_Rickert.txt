@@ -1,0 +1,333 @@
+{{Short description|German philosopher (1863–1936)}}
+{{For|the politician|Heinrich Rickert (politician)}}
+{{Infobox philosopher
+| name             = Heinrich Rickert
+| image            = Heinrich Rickert.jpg
+| caption          = 
+| birth_name       = Heinrich John Rickert
+| birth_date       = {{Birth date|1863|05|25|df=y}}
+| birth_place      = Danzig, [[Kingdom of Prussia|Prussia]] (now [[Gdańsk]], [[Poland]])
+| death_date       = {{Death date and age|1936|07|25|1863|05|25|df=y}}
+| death_place      = [[Heidelberg]], [[Nazi Germany|Germany]]
+| residence        = 
+| nationality      = German
+| era              = [[19th-century philosophy]]
+| region           = [[Western philosophy]]
+| school_tradition = [[Neo-Kantianism]] ([[Baden school]])
+| main_interests   = [[Epistemology]]
+| education        = [[University of Berlin]]<br>[[University of Strasbourg]] ([[PhD]], 1888)
+| institutions     = [[University of Freiburg]] (1894–1915)<br>[[University of Heidelberg|Heidelberg]] (1915–1932)
+| notable_ideas    = Qualitative distinction held to be made between historical and scientific facts<br>Distinction between knowing (''kennen'') and cognizing (''erkennen'')<ref>Heinrich Rickert, "Knowing and Cognizing: Critical Remarks on Theoretical Intuitionism," in ''The Neo-Kantian Reader: An Anthology of Key Texts''. Edited by Sebastian Luft. New York/London: Routledge, 2012, pp. 384–395.</ref>
+| doctoral_advisor  = [[Wilhelm Windelband]]
+| doctoral_students = [[Bruno Bauch]]<br>[[Martin Heidegger]]
+| notable_students  = [[Rudolf Carnap]]
+| thesis_title      = Zur Lehre von der Definition (On the Theory of Definition)
+| thesis_url        = https://web.archive.org/web/20140318224748/http://dds.crl.edu/loadStream.asp?iid=8439
+| thesis_year       = 1888
+}}
+
+'''Heinrich John Rickert''' ({{IPA|de|ˈʁɪkɐt|lang}}; 25 May 1863 – 25 July 1936) was a German [[philosopher]], one of the leading [[neo-Kantian]]s.
+
+==Life==
+Rickert was born in Danzig, [[Kingdom of Prussia|Prussia]] (now [[Gdańsk]], [[Poland]]) to the [[journalist]] and later [[politician]] [[Heinrich Edwin Rickert]] and Annette née Stoddart. He was professor of philosophy at the [[University of Freiburg]], Germany (1894–1915) and [[University of Heidelberg|Heidelberg]] (1915–1932), where he succeeded Windelband's professorship (and Husserl succeeded Rickert's professorship at Freiburg when it was vacated).
+
+He died in [[Heidelberg]], [[Nazi Germany|Germany]].
+
+==Philosophy==
+
+He is known for his discussion of a qualitative distinction held to be made between historical and scientific facts. Contrary to philosophers like [[Nietzsche]] and [[Bergson]], Rickert emphasized that [[values]] demand a distance from life, and that what [[Henri Bergson|Bergson]], [[Wilhelm Dilthey|Dilthey]] or [[Georg Simmel|Simmel]] called "vital values" were not true values.{{Citation needed|reason=No such "vital values" exist in Bergson's writings.|date=October 2020}}
+
+Rickert's philosophy was an important influence on the work of [[sociologist]] [[Max Weber]].  Weber is said to have borrowed much of his methodology, including the [[concept]] of the [[ideal type]], from Rickert's work. Also, [[Martin Heidegger]] started out his academic career as Rickert's assistant, graduated with him and then wrote his [[habilitation thesis]] under Rickert.<ref>Sebastian Luft (ed.), ''The Neo-Kantian Reader'', Routledge 2015, p. 461.</ref>
+
+Charles R. Bambach writes:
+{{blockquote|In his work Rickert, like [[Dilthey]], intended to offer a unifying theory of [[knowledge]] which, although accepting a division between science and history or ''Natur'' and ''Geist'', overcame this division in a new philosophical method. For Dilthey the method was wedded to [[hermeneutics]]; for Rickert it was the [[Transcendental idealism|transcendental method of Kant]].<ref>Bambach, Charles R. ''Heidegger, Dilthey and the Crisis of Historicism''. Ithaca: Cornell University Press, 1995. [https://books.google.com/books?id=gn2ugJyDHysC&pg=PA30 30]</ref>}}
+
+Rickert, with [[Wilhelm Windelband]], led the so-called [[Baden school]] of [[neo-Kantians]].
+
+==Published works==
+The numbering of items here largely follows ‘Bibliographie der publizierten Schriften Heinrich Rickerts’ in Heinrich Rickert, ''Philosophische Aufsätze'', ed. Rainer A. Bast (Mohr Siebeck, 1999), pp.&nbsp;439–456.
+
+'''1888'''
+
+1. '''''Zur Lehre von der Definition''''' [On the Theory of Definition] (C. A. Wagner, [https://web.archive.org/web/20140318224748/http://dds.crl.edu/loadStream.asp?iid=8439 1888]; 2nd ed. J.C.B. Mohr, 1915; 3rd ed. J.C.B. Mohr, 1929; critical ed. ''Heinrich Rickert: Sämtliche Werke'', Bd. 1, De Gruyter, [https://www.degruyter.com/document/doi/10.1515/9783110567700/html#contents 2020], S. 1–100).
+: Doctoral thesis at the [[University of Strasbourg]].
+
+'''1892'''
+
+2. '''''Der Gegenstand der Erkenntnis: Ein Beitrag zum Problem der philosophischen Transcendenz''''' [The object of knowledge: A contribution to the problem of philosophical transcendence] (J.C.B. Mohr, [https://books.google.com/books?id=scZCAAAAIAAJ 1892]; 2nd ed. [https://books.google.com/books?id=NeQZAAAAMAAJ 1904]; 3rd ed. 1915; 4th and 5th ed. 1921; 6th ed. 1928; critical ed. ''Heinrich Rickert: Sämtliche Werke'', Bd. 2, De Gruyter, [https://www.degruyter.com/document/doi/10.1515/9783110567830/html#contents 2018]).
+: [[Habilitation]] thesis at the [[University of Freiburg]].
+: (in Japanese translation) リッケルト著・中川得立訳『認識の対象』岩波書店, 1916.
+
+3. Review of Paul Weisengrün, ''Das Problem'', in ''Deutsche Litteraturzeitung'', Jg. 13, Nr. 32 vom 6.VIII.1892, [https://archive.org/details/bub_gb_XKQxAQAAMAAJ/page/n528 S. 1036-1037].
+
+4. Review of Georges Dwelshauvers, ''Les Méthodes de l’idéalisme scientifique'', in ''Deutsche Litteraturzeitung'', Jg. 13, Nr. 35 vom 27.VIII.1892, [https://archive.org/details/bub_gb_XKQxAQAAMAAJ/page/n578 S. 1135].
+
+'''1895'''
+
+5. Review of Robert Hugo Hertzsch, ''Der ontogenetisch-phylogenetische Beweis für das Dasein eines persönlichen Gottes'', in ''Deutsche Litteraturzeitung'', Jg. 14, Nr. 6 vom 11.II.1893, [https://archive.org/details/bub_gb_AEBYAAAAMAAJ/page/n107 S. 167-168].
+
+6. Review of Hermann Heisler, ''Ein Ausflug in das Gebiet des Bewusstseins'', in ''Deutsche Litteraturzeitung'', Jg. 14, Nr. 14 vom 8.IV.1893, [https://archive.org/details/bub_gb_AEBYAAAAMAAJ/page/n238 S. 422-423].
+
+7. Review of Richard Böhme, ''Die Grundlagen des Berkeleyschen Immaterialismus'', in ''Deutsche Litteraturzeitung'', Jg. 14, Nr. 38 vom 23.IX.1893, [https://archive.org/details/bub_gb_AEBYAAAAMAAJ/page/n630 S. 1189-1190].
+
+8. Selbstanzeige [Author's Notice] of Item 2, in ''Vierteljahrsschrift für wissenschaftliche Philosophie'', Jg. 17, S. 133f.
+
+'''1894'''
+
+9. Review of Johannes Eitle, ''Grundriss der Philosophie'', in ''Deutsche Litteraturzeitung'', Jg. 15, Nr. 6 vom 10.II.1894, [https://archive.org/details/bub_gb_XjFYAAAAMAAJ/page/n105 S. 164].
+
+10. Review of Matthias Kappes, ''Die philosophische Bildung unserer gelehrten Berufe'', in ''Deutsche Litteraturzeitung'', Jg. 15, Nr. 11 vom 17.III.1894, [https://archive.org/details/bub_gb_XjFYAAAAMAAJ/page/n186 S. 325-326].
+
+11. ‘Zur Theorie der naturwissenschaftlichen Begriffsbildung’, in ''Vierteljahrsschrift für wissenschaftliche Philosophie'', Bd. 18, Heft 3, S. 277–319.
+
+'''1896'''
+
+12. '''''Die Grenzen der naturwissenschaftlichen Begriffsbildung: Eine logische Einleitung in die historischen Wissenschaften''''' (Part 1, J.C.B. Mohr, 1895; Part 2, 1902; one-volume ed. [https://archive.org/details/diegrenzenderna00rickgoog 1902]; 2nd ed. 1913; 3rd and 4th ed. 1921; 5th ed. 1929; critical ed. ''Heinrich Rickert: Sämtliche Werke'', Bd. 3, De Gruyter, [https://www.degruyter.com/document/doi/10.1515/9783110567854/html#contents 2023]).
+: (in English translation) ''The Limits of Concept Formation in Natural Science: A Logical Introduction to the Historical Sciences'' (abridged), trans. Guy Oakes (Cambridge University Press, 1986).
+
+13. Review of Thomas Carlyle, ''Socialpolitische Schriften'', in ''Vierteljahrsschrift für wissenschaftliche Philosophie'', Jg. 20, S. 332–336.
+
+14. Selbstanzeige [Author's Notice] of Item 12 (Part 1), in ''Vierteljahrsschrift für wissenschaftliche Philosophie'', Jg. 20, S. 516f.
+
+'''1898'''
+
+15. ‘Berichtigung’ [Correction], in ''Zeitschrift für Psychologie und Physiologie der Sinnesorgane'', Bd. 17, S. 397–398.
+: Rickert’s response to Paul Barth's critical review of Item 12 in Bd. 16 of this journal.
+
+'''1899'''
+
+16. '''''Kulturwissenschaft und Naturwissenschaft: Ein Vortrag''''' (J.C.B. Mohr, 1899, 2nd ed. 1910; 3rd ed. 1915; 4th and 5th ed. 1921; 6th and 7th ed. [https://archive.org/details/KulturwissenschaftUndNaturwissenschaft 1926])
+: (in English translation) ''Science and History: A Critique of Positivist Epistemology'', trans. George Reisman (D. Van Nostrand, [https://archive.org/details/sciencehistorycr0000rick 1962])
+: (in Japanese translation) リッカート著・錦田義富訳「文化科学と自然科学」『京都法学会雑誌』8巻8号-9巻5号, 1913-1914; リッカート著・佐竹哲雄訳『文化科学と自然科学』大村書店, 1922; リッケルト著・佐竹哲雄・豊川昇共訳『文化科学と自然科学』岩波書店, 1939.
+
+17. '''''Fichtes Atheismusstreit und die Kantische Philosophie: eine Säkularbetrachtung''''' (Reuther & Reichard, 1899; also in ''Kant-Studien'', Bd. 4, 1900, S. 137–166).
+: (in Japanese translation) リッケルト著・眞下信一訳『フィヒテの無神論論争とカント哲学』岩波書店, 1930.
+
+'''1900'''
+
+18. ‘Psychophysische Causalität und psychophysischer Parallelismus’ in ''Philosophische Abhandlungen: Christoph Sigwart zu seiner siebzigsten Geburtstage, 28. März 1900'' (J.C.B. Mohr, 1900), [https://archive.org/details/philosophischeab00tbuoft/philosophischeab00tbuoft/page/58 S. 59–87].
+
+19. Review of Karl Gneisse, ''Deduktion und Induktion'', in ''Deutsche Litteraturzeitung'', Jg. 21, Nr. 26 vom 23.VI.1900, [https://archive.org/details/bub_gb_ak4-AQAAMAAJ/page/n890 S. 1692].
+
+'''1901'''
+
+20. ‘Les Quatre modes de ‚l’Universel‘ dans l'histoire', in ''Revue de Synthèse historique'', tome 2, n° 5 (April), pp.&nbsp;121–140.
+: (the German original) ‘Die vier Arten des Allgemeinen in der Geschichte’, in Item 12 (5th ed. 1929), S. 737-754.
+
+21. ‘Naturwissenchaftliche Weltanschauung?’, in ''Der Lotse'', Jg. 1, Bd. 2, Heft 51 vom 21.IX.1901, [https://books.google.com/books?id=BRMQAAAAYAAJ&pg=PA813 S. 813-820] and Jg. 2, Bd. 1, Heft 1 vom. 5.X.1901, [https://books.google.com/books?id=3JkQAAAAYAAJ&pg=PA6-IA7 S. 5–13].
+
+22. Review of Hugo Münsterberg, ''Grundzüge der Psychologie'', Bd. 1, in ''Deutsche Litteraturzeitung'', Jg. 22, Nr. 14 vom 6.IV.1901, [https://archive.org/details/bub_gb_dqUxAQAAMAAJ/page/n480 S. 841–846].
+
+23. Review of A. D. Xénopol, ''Les Principes fondamentaux de l’histoire'', in ''Historische Zeitschrift'', Bd. 86, [https://archive.org/details/historischezeit150sybegoog/page/464 S. 464–470].
+
+'''1902'''
+
+24. Review of ''Kants Briefwechsel'', in ''Deutsche Litteraturzeitung'', Jg. 23, Nr. 15 vom 12.IV.1902, [https://archive.org/details/bub_gb_dEY-AQAAMAAJ/page/n502 S. 907–911].
+
+25. ‘Ueber die Aufgaben einer Logik der Geschichte’, in ''Archiv für Philosophie, Abt. II: Archiv für systematische Philosophie'', Bd. 8, Heft 2, [https://www.digizeitschriften.de/id/827940653_0008%7CLOG_0033?tify=%7B%22pages%22%3A%5B150%5D%2C%22view%22%3A%22info%22%7D S. 137–163].
+
+'''1903'''
+
+26. Review of Eugénie Dutoit, ''Die Theorie des Milieu'', in ''Deutsche Litteraturzeitung'', Jg. 24, Nr. 23 vom 6.VI.1903, [https://archive.org/details/deutschelitterat2419unse/page/n753 S. 1399-1400].
+
+'''1905'''
+
+27. ‘Geschichtsphilosophie’, in ''Die Philosophie im Beginn des zwanzigsten Jahrhunderts: Festschrift für Kuno Fischer'' (Carl Winter, 1905), Bd. 2, [https://books.google.com/books?id=meEYAAAAIAAJ&pg=PA51 S. 51–135]; 2nd ed. 1907, S. 321–422; published separately as '''''Die Probleme der Geschichtsphilosophie: Eine Einführung''''' (Carl Winter, 1924).
+: (in Japanese translation) リッケルト著・田辺重三訳『歴史哲学』大村書店, 1922; リッケルト著・山本泰教訳『歴史哲学』春秋社, 1931.
+
+'''1907'''
+
+28. ‘Vorbemerkung des Herausgebers’, in Walter Zschocke, ''Über Kants Lehre vom Schematismus der reinen Vernunft: Aus dem Nachlass'', in ''Kant-Studien'', Bd. 12, Heft 2, [https://ia800708.us.archive.org/view_archive.php?archive=/22/items/crossref-pre-1909-scholarly-works/10.1515%252Fkant.1907.12.1-3.104.zip&file=10.1515%252Fkant.1907.12.1-3.157.pdf S. 157–212].
+
+'''1909'''
+
+29. '''‘Zwei Wege der Erkenntnistheorie: Transscendentalpsychologie und Transscendentallogik’''', in ''Kant-Studien'', Bd. 14, Heft 2, [https://archive.org/details/kantstudienphilo14kantuoft/page/n183/mode/2up S. 169-228]; published separately by C.A. Kaemmerer, 1909.
+: (in Japanese translation) リッケルト著・宮本和吉訳「認識論の二つの道」『哲学雑誌』344-354号, 1925-1926.
+
+'''1910'''
+
+30. ’Vom Begriff der Philosophie’, in ''Logos'', Bd. 1, [http://www.digizeitschriften.de/dms/img/?PPN=PPN51032052X_1910-11_0001&DMDID=dmdlog13 S. 1-34].
+: (in Japanese translation) リッカート著・坂崎侃訳『哲学の概念』大村書店, 1922.
+
+'''1911'''
+
+31. ‘Helena in Goethes Faust: Zur Festvorstellung im Stadttheater’, in ''Akademische Mitteilungen: Organ für die gesamten Interessen der Studentenschaft an der Albert-Ludwigs-Universität in Freiburg i. Br.'', Neue Folge, 11. Semester, Nr. 2 vom 24.10.1911, S. 9–12.
+
+'''1912'''
+
+32. '''‘Das Eine, die Einheit und die Eins: Bemerkungen zur Logik des Zahlbegriffs’''', in Logos, Bd. 2, [http://www.digizeitschriften.de/dms/img/?PPN=PPN51032052X_1911-12_0002&DMDID=dmdlog9 S. 26-78]; published separately by J.C.B. Mohr, 1924; ; critical ed. ''Heinrich Rickert: Sämtliche Werke'', Bd. 1, De Gruyter, [https://www.degruyter.com/document/doi/10.1515/9783110567700/html#contents 2020], S. 101–220.
+: (in Japanese translation) リッケルト著・伊藤謹一郎訳『一者、統一および一』岩波書店, 1931.
+
+33. ‘Lebenswerte und Kulturwerte’, in ''Logos'', Bd. 2, [http://www.digizeitschriften.de/dms/img/?PPN=PPN51032052X_1911-12_0002&DMDID=dmdlog22 S. 131-166].
+
+34. ‘Urteil und Urteilen’, in ''Logos'', Bd. 3, [http://www.digizeitschriften.de/dms/img/?PPN=PPN51032052X_1912_0003&DMDID=dmdlog27 S. 230-245].
+
+'''1913'''
+
+35. ‘Vom System der Werte’, in ''Logos'', Bd. 4, [http://www.digizeitschriften.de/dms/img/?PPN=PPN51032052X_1913_0004&DMDID=dmdlog41 S. 295-327].
+
+36. ‘Zur Besetzung der philosophischen Professuren mit Vertretern der experimentellen Psychologie’, in ''Frankfurter Zeitung'', Jg. 57, Nr. 63 vom 4.3.1913, Erstes Morgenblatt, S. 1f.
+
+'''1914'''
+
+37. ‘Über logische und ethische Geltung’, in ''Kant-Studien'', Bd. 19, [https://www.gleichsatz.de/b-u-t/begin/rickert/hr-geltu1.html S. 182–221].
+
+'''1915'''
+
+38. ‘Emil Lask: Ein Nachruf’, in ''Frankfurter Zeitung'', Jg. 60, Nr. 288 vom 17.10.1915, Erstes Morgenblatt, S. 1–3; republished with modifications as Item 51 and Item 54.
+
+39. ‘Wilhelm Windelband’, in ''Frankfurter Zeitung'', Jg. 60, Nr. 308 vom 6.11.1915, Erstes Morgenblatt, S. 1-2 and Nr. 309 vom 7.11.1915, Erstes Morgenblatt, S. 1–3.
+
+40. '''''Wilhelm Windelband''''' (J.C.B. Mohr, 1915; 2nd ed. 1929).
+: (in Japanese translation) リッケルト著・杉正俊訳『ヴィルヘルム・ヴィンデルバント』岩波書店, 1931.
+
+'''1917'''
+
+41. ‘Hugo Münsterberg’, in ''Frankfurter Zeitung'', Jg. 61, Nr. 2 vom 3.1.1917, Erstes Morgenblatt, S. 1-2 and Nr. 3 vom 4.1.1917, Erstes Morgenblatt, S. 1–2.
+
+'''1920'''
+
+42. ‘Die gegenwärtige Lage der europäischen Philosophie’, in ''Schweizerland'', Jg. 6, Bd. 2, S. 743–751.
+
+43. '''''Die Philosophie des Lebens: Darstellung und Kritik der philosophischen Modeströmungen unserer Zeit''''' (J.C.B. Mohr, [https://archive.org/details/diephilosophiede00rickuoft 1920]; 2nd ed. 1922).
+: (in Japanese translation) リッケルト著・小川義章訳『生の哲学』改造社, 1923.
+
+'''1921'''
+
+44. ‘Psychologie der Weltanschauungen und Philosophie der Werte’ in ''Logos'', Bd. 9, [http://www.digizeitschriften.de/dms/img/?PPN=PPN51032052X_1920-21_0009&DMDID=dmdlog9 S. 1-42].
+
+45. ''System der Philosophie, Erster Teil: Allgemeine Grundlegung der Philosophie'' (J.C.B. Mohr, 1921).
+
+'''1922'''
+
+46. ‘Goethes Faust und der deutsche Idealismus (Für die Zeitschrift ‚Kaizo‘)’, in『改造』1922年4月号, 170-184頁.
+: (in Japanese translation) 「ゲェテのファウストと理想主義——雑誌『改造』のために」ibid., 2-28頁.
+
+46a. ‘Die philosophischen Grundlagen von Fichtes Sozialismus’, in『改造』1922年6月号、103-112頁.
+: (in Japanese translation)「フィヒテの社会主義の哲学的基礎」ibid., 69-87頁.
+: Republished as Abschnitt I-III of Item 52.
+
+47. ‘Moderne Wissenschaft und greichische Philosophie (Für die Zeitschrift ‚Kaizo‘)’, in『改造』1922年11月号, 94-109頁.
+: (in Japanese translation) 「近代の科学と希臘の哲学——雑誌『改造』のために」ibid., 67-93頁.
+: Republished with modifications as Item 57.
+
+48. ’Die Wetten in Goethes Faust’, in ''Logos'', Bd. 10, [https://haab-digital.klassik-stiftung.de/viewer/image/1307373119/6/ S. 123–161].
+
+'''1923'''
+
+49. ‘Ethischer Individualismus und wirtschaftlicher Sozialismus bei Fichte (Für die Zeitschrift ‚Kaizo‘)’, in『改造』1923年5月号, 76-96頁.
+: (in Japanese translation)「フィヒテの哲学に於ける倫理的個性主義と経済的社会主義」ibid., 54-74頁.
+: Republished as Abschnitt VI-X of Item 52.
+
+50. ‘Die Internationalität der Kulturwissenschaften’, in ''Japanisch-Deutsche Zeitschrift für Wissenschaft und Technik'', Jg. 1, Heft 1, S. 4–9.
+
+51. ‘Persönliches Geleitwort’, in ''Emil Lask: Gesammelte Schriften'', ed. Eugen Herrigel (J.C.B. Mohr, 1923), Bd. 1, S. V-XVI.
+: Republication with modifications of Item 38.
+
+52. ‘Die philosophischen Grundlagen von Fichtes Sozialismus’, in ''Logos'', Bd. 11, [https://www.digizeitschriften.de/id/51032052X_1922-23_0011%7Clog1?tify=%7B%22pages%22%3A%5B155%5D%2C%22view%22%3A%22info%22%7D&origin=%2Fsearch%3Ffilter%255BZeitschriften%255D%255B1%255D%3D51032052X%257CLOG_0000%26filter%255BObjekttyp%255D%255B1%255D%3Dvolume%26q%3D51032052X S. 149-180].
+: Republication with modifications of Item 46a and Item 49.
+
+'''1924'''
+
+53. ‘Alois Riehl’, in ''Frankfurter Zeitung'', Jg. 69, Nr. 889 vom 30.11.1924, Erstes Morgenblatt, S. 1–3.
+: Republished with modifications as Item 61.
+
+54. ‘Emil Lask’, in ''Frankfurter Zeitung'', Jg. 68, Nr. 230 vom 26.3.1924, Erstes Morgenblatt, S. 1–2.
+: Republication of Item 38.
+
+55. '''''Kant als Philosoph der modernen Kultur: Ein geschichtsphilosophischer Versuch''''' (J.C.B. Mohr, 1924).
+: (in Japanese translation) リッケルト著・大江清一訳『現代文化の哲人としてのカント』理想社, 1928.
+
+56. ‘Kant und die Philosophie der modernen Kultur’, in ''Frankfurter Zeitung'', Jg. 68, Nr. 297 vom 20.4.1924, Erstes Morgenblatt, S. 1.
+
+57. ‘Das Leben der Wissenschaft und die greichische Philosophie’, in ''Logos'', Bd. 12, S. 303–339.
+: Republication with modifications of Item 47 and Item 57a.
+
+57a.「学術の生命」『改造』1924年1月号, 78-91頁
+: Japanese translation of Abschnitt IV of Item 57.
+
+58. ‘Die Methode der Philosophie und das Unmittelbare: Eine Problemstellung’, in ''Logos'', Bd. 12, S. 235–280.
+
+59. Review of F.E.A. Krause, ''Ju-Tao-Fo: Die religiösen und philosophischen Systeme Ostasien''s, in ''Logos'', Bd. 12, S. 404–406.
+
+60. (with Ernst Hoffmann) ‘Zur Einführung’, in Item 32 (2nd ed.), S. IIIf.
+
+'''1925'''
+
+61. ‘Alois Riehl’, in ''Logos'', Bd. 13, [https://www.digizeitschriften.de/id/51032052X_1924-25_0013%7Clog1?tify=%7B%22pages%22%3A%5B166%5D%2C%22view%22%3A%22info%22%7D&origin=%2Fsearch%3Ffilter%255BZeitschriften%255D%255B1%255D%3D51032052X%257CLOG_0000%26filter%255BObjekttyp%255D%255B1%255D%3Dvolume%26q%3D51032052X S. 162-185].
+: Republication with modifications of Item 53.
+
+62. ‘Die Einheit des Faustischen Charakters: Eine Studie zu Goethes Faustdichtung’, in ''Logos'', Bd. 14, [https://www.digizeitschriften.de/id/51032052X_1925_0014%7Clog1?tify=%7B%22pages%22%3A%5B5%5D%2C%22view%22%3A%22info%22%7D&origin=%2Fsearch%3Ffilter%255BZeitschriften%255D%255B1%255D%3D51032052X%257CLOG_0000%26filter%255BObjekttyp%255D%255B1%255D%3Dvolume%26q%3D51032052X S. 1-63].
+
+63. ‘Fausts Tod und Verklärung’, in ''Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte'', Jg. 3, Bd. 3, Heft 1, [https://archive.org/details/deutsche-vierteljahrsschrift-fur-literaturwissenschaft-und-geistesgeschichte-3.1925/page/1 S. 1-74].
+
+64. ‘Der Gesang der Erzengel in Goethes Faust: Zur Erinnerung an Franz Boll’, in ''Das Jahrbuch der badischen Lehrer'', Jg. 2, S. 179–187.
+
+65. ‘Helena in Goethes Faust’, in ''Die Akademie'', Heft 4, S. 1-62.
+
+66. ‘Über idealistische Politik als Wissenschaft: Ein Beitrag zur Problemgeschichte der Staatsphilosophie’, in ''Die Akademie'', Heft 4, S. 147–168.
+: Japanese translation with small modifications published as Item 66a.
+
+66a.「如何にして国家学は学として可能なるか——フィヒテ及びヘーゲルに関する一研究」in『改造』1925年1月号, 155-175頁.
+
+67. ‘Vom Anfang der Philosphie’, in ''Logos'', Bd. 14, [https://www.digizeitschriften.de/id/51032052X_1925_0014%7Clog1?tify=%7B%22pages%22%3A%5B125%5D%2C%22view%22%3A%22info%22%7D&origin=%2Fsearch%3Ffilter%255BZeitschriften%255D%255B1%255D%3D51032052X%257CLOG_0000%26filter%255BObjekttyp%255D%255B1%255D%3Dvolume%26q%3D51032052X S. 121-162].
+
+* ''Über die Welt der Erfahrung'' (1927).
+* ''Die Logik des Prädikats und das Problem der Ontologie'' (1930).
+* ''Die Heidelberger Tradition in der Deutschen Philosophie'' (1931).
+* ''Goethes Faust'' (1932).
+* ''Grundprobleme der Philosophie: Methodologie, Ontologie, Anthropologie'' (1934). {{ISBN|3-86550-985-1}}
+* ''Unmittelbarkeit und Sinndeutung'' (1939).
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{NDB|21|550|552|Rickert, Heinrich|Rainer A. Bast}}
+
+==Further reading==
+* Christian Krijnen. ''Nachmetaphysischer Sinn. Eine problemgeschichtliche und systematische Studie zu den Prinzipien der Wertphilosophie Heinrich Rickerts''. Würzburg 2001. {{ISBN|3-8260-2020-0}}.
+* Dewalque, Arnaud. ''Être et jugement. La fondation de l’ontologie chez Heinrich Rickert'', Hildesheim: Georg Olms, coll. « Europaea Memoria », 2010. {{ISBN|9783487143040}}.
+* Kupriyanov V. "Teleology as a method of historical cognition in H. Rickert's philosophy," SGEM2015 Conference Proceedings, 2015 (Vol. 1, Book 3, pp.&nbsp;697–702). [https://web.archive.org/web/20160815040325/http://sgemsocial.org/ssgemlib/spip.php?article1845]
+* Mayeda, Graham. 2008. "Is there a Method to Chance? Contrasting Kuki Shūzō’s Phenomenological Methodology in The Problem of Contingency with that of his Contemporaries Wilhelm Windelband and Heinrich Rickert." In Victor S. Hori and Melissa Anne-Marie Curley (eds.), ''Frontiers of Japanese Philosophy II: Neglected Themes and Hidden Variations'' (Nagoya, Japan: Nanzan Institute for Religion and Culture).
+* Zijderveld, Anton C. ''Rickert's Relevance. The Ontological Nature and Epistemological Functions of Values''. Leiden, Brill 2006. {{ISBN|978-90-04-15173-4}}.
+
+==References==
+*{{cite SEP |url-id=heinrich-rickert |title=Heinrich Rickert |last=Staiti |first=Andrea}}
+
+== External links ==
+* {{Internet Archive author |sname= Heinrich Rickert}}
+* [https://www.ub.uni-heidelberg.de/allg/benutzung/bereiche/pdf/HeidHs2740_Nachlass_Rickert.pdf Nachlaß Heinrich Rickert: Übersicht]
+* [https://kalliope-verbund.info/de/findingaid_toc?fa.id=DE-611-BF-6410&fa.enum=1&lastparam=true Nachlaß Heinrich Rickert: Inhaltzverzeichnis]
+{{Authority control}}
+
+{{DEFAULTSORT:Rickert, Heinrich}}
+[[Category:1863 births]]
+[[Category:1936 deaths]]
+[[Category:Writers from Gdańsk]]
+[[Category:People from the Province of Prussia]]
+[[Category:19th-century German essayists]]
+[[Category:19th-century German non-fiction writers]]
+[[Category:19th-century German philosophers]]
+[[Category:20th-century German essayists]]
+[[Category:20th-century German philosophers]]
+[[Category:Continental philosophers]]
+[[Category:German epistemologists]]
+[[Category:German male essayists]]
+[[Category:German male non-fiction writers]]
+[[Category:Kantian philosophers]]
+[[Category:Metaphysicians]]
+[[Category:Ontologists]]
+[[Category:German philosophers of education]]
+[[Category:German philosophers of history]]
+[[Category:Philosophers of logic]]
+[[Category:German philosophers of mind]]
+[[Category:German philosophers of science]]
+[[Category:Philosophers of social science]]
+[[Category:German philosophy academics]]
+[[Category:Philosophy writers]]
+[[Category:University of Strasbourg alumni]]
+[[Category:Humboldt University of Berlin alumni]]
+[[Category:Academic staff of Heidelberg University]]
+[[Category:Academic staff of the University of Freiburg]]
+[[Category:Members of the Prussian Academy of Sciences]]

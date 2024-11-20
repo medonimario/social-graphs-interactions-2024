@@ -1,0 +1,170 @@
+{{Short description|Archbishop of Canterbury from 1272 to 1278}}
+{{Use British English|date=June 2013}}
+{{Use dmy dates|date=July 2017}}
+{{Infobox Christian leader
+| type = cardinal
+| name = Robert Kilwardby
+| honorific-suffix = [[Order of Preachers|OP]]
+| title = [[Cardinal (Catholicism)|Cardinal]], [[Archbishop of Canterbury]]<br />[[Primate (bishop)|Primate of All England]]
+| image = Robert Kilwardby.jpg
+| image_size = 
+| alt = Robert Kilwardby
+| caption = 
+| appointed = 11 October 1272
+| term_end = 5 June 1278
+| predecessor = [[William Chillenden]]
+| successor = [[Robert Burnell]]
+| other_post = [[Cardinal Bishop of Porto and Santa Rufina]]
+| consecration = 26 February 1273
+| consecrated_by = [[William of Bitton II|William of Bitton ''(II.)'']]
+| cardinal = 12 March 1278
+| rank = [[Cardinal bishop]]
+| birth_date = [[Wiktionary:circa|c.]] 1215
+| death_date = 11 September 1279
+| death_place = [[Viterbo]]
+| buried = Dominican convent, Viterbo
+| education = [[University of Paris]]
+| module = {{Ordination
+| denomination                 = Roman Catholic
+| embed                        = yes
+| ordained deacon by           =
+| date of diaconal ordination  =
+| place of diaconal ordination =
+| ordained priest by           =
+| date of priestly ordination  =
+| place of priestly ordination =
+| consecrated by               = [[William of Bitton II|Bishop William of Bitton ''(II.)'']]
+| co-consecrators              = [[Nicholas of Ely]], [[Hugh Belsham]], [[Dominican Order|O.P.]], [[Walter Bronscombe]], [[Godfrey Giffard]], and [[Anian Schonaw]], [[Dominican Order|O.P.]]
+| date of consecration         = 26 February 1273
+| place of consecration        =
+| elevated by                  = [[Pope Nicholas III]]
+| date of elevation            = 12 March 1278
+| bishop 1                     = [[Robert Wickhampton]]
+| consecration date 1          = 13 May 1274
+| bishop 2                     = [[Walter de Merton]]
+| consecration date 2          = 21 October 1274
+| bishop 3                     = [[Thomas Cantilupe|Saint Thomas Cantilupe]]
+| consecration date 3          = 8 September 1275
+| bishop 4                     = [[Gerard Grandison]]
+| consecration date 4          = 29 March 1276
+| bishop 5                     = [[William Middleton (bishop)|Bishop William Middleton]]
+| consecration date 5          = 29 May 1278
+| bishop 6                     = [[John Bradfield (bishop)|John Bradfield]], [[O.S.B.]]
+| consecration date 6          = 29 May 1278
+}}
+| birth_place = [[England]]
+}}
+
+'''Robert Kilwardby''' ([[Wiktionary:circa|c.]] 1215&nbsp;– 11 September 1279) was an [[Archbishop of Canterbury]] in England and a [[cardinal (Catholicism)|cardinal]]. Kilwardby was the first member of a [[mendicant order]] to attain a high ecclesiastical office in the English Church.
+
+==Life==
+Kilwardby studied at the [[University of Paris]], then was a teacher of [[grammar]] and [[logic]] there. He then joined the [[Dominican Order]] and studied [[theology]],<ref name=Lawrence146>Lawrence "Thirteenth Century" ''English Church and the Papacy'' p. 146</ref> and became regent at [[Oxford University]] before 1261,<ref name=Thought288>Knowles ''Evolution of Medieval Thought'' p. 288</ref> probably by 1245.<ref name=Leff290>Leff ''Paris and Oxford Universities'' pp. 290–293</ref> He was named [[provincial superior|provincial]] [[Prior (ecclesiastical)|prior]] of the Dominicans for England in 1261,<ref name=BHOCant>Greenway ''[http://british-history.ac.uk/report.asp?compid=33853 Fasti Ecclesiae Anglicanae 1066-1300: Volume 2: Monastic Cathedrals (Northern and Southern Provinces): Canterbury: Archbishops]''</ref> and in October 1272 [[Pope Gregory X]] appointed him as [[Archbishop of Canterbury]] to end a dispute over the election. Kilwardby was provided to the archbishopric on 11 October 1272, given the temporalities on 12 December 1272, and consecrated on 26 February 1273.<ref name=Handbook233>Fryde, et al. ''Handbook of British Chronology'' p. 233</ref>
+
+Kilwardby crowned [[Edward I of England|Edward I]] and his wife [[Eleanor of Castile|Eleanor]] as king and queen of England in August 1274, but otherwise took little part in politics. He instead concentrated on his ecclesiastical duties, including charity to the poor and donating to the Dominicans.<ref name=Moorman371>Moorman ''Church Life'' p. 371</ref>
+
+In 1278 [[Pope Nicholas III]] named Kilwardby [[Cardinal Bishop of Porto and Santa Rufina]].<ref name=Princes173>Bellenger and Fletcher ''Princes of the Church'' p. 173</ref> He then resigned Canterbury and left England,<ref name=Handbook233/> taking with him papers, registers and documents belonging to the see. He also left the see deep in debt again, after his predecessor had cleared the debt.<ref name=Moorman173>Moorman ''Church Life'', p. 173.</ref> While in theory this was a promotion, probably it was not, as the pope was unhappy with Kilwardby's support of efforts to resist the payment of papal revenues and with the lack of effort towards the reforms demanded at the [[Second Council of Lyon]] in 1274.<ref name=Edward249>Prestwich ''Edward I'' p. 249</ref>
+
+He died in Italy in 1279, and was buried in the Dominican convent in [[Viterbo]].<ref name=Princes173/>
+
+==Reputation==
+Kilwardby's theological and philosophical views were summed up by [[David Knowles (scholar)|David Knowles]] who said that he was a "conservative eclectic, holding the doctrine of seminal tendencies and opposing...the [[Aristotle|Aristotelian]] doctrine of the unity of form in beings, including man."<ref name=Thought249>Knowles ''Evolution of Medieval Thought'' p. 249</ref> Some sources state that he was the author of ''Summa Philosophiae'', a history and description of the schools of philosophical thought then current, but the writing style is not similar to his other works, and Knowles, for one, does not believe it was authored by Kilwardby.<ref name=Thought287>Knowles ''Evolution of Medieval Thought'' p. 287</ref>
+
+It has been alleged that Kilwardby was an opponent of [[Thomas Aquinas]]. In 1277 he prohibited the teaching of thirty theses, some of which have been thought to touch upon Thomas Aquinas' teaching. Recent scholars, however, such as Roland Hissette, have challenged this interpretation.<ref name=Burton206>Burton,''Monastic and Religious Orders'' pp. 206–207</ref>
+
+==Works==
+
+'''Writings on grammar'''
+* Commentaria Priscianus minor (A Commentary on the books 17 and 18 of Priscian's ''Institutiones grammaticae'')
+
+'''Writings on logic'''
+* Notulae super librum Praedicamentorum
+* Notulae super librum Perihermeneias
+* Notule libri Priorum
+* Notule libri Posteriorum
+* Comentum super librum Topicorum
+* Notulae super librum Porphyrii
+* De natura relationis
+* Priorum Analyticorum expositio
+* Notuale super librum Sex Principiorum
+
+'''Writings on natural philosophy'''
+* De spiritu fantastico sive de receptione specierum
+* De tempore
+
+'''Writings on ethics'''
+* Quaestiones supra libros Ethicorum
+* Quaestiones in librum primum Sententiarum
+* Quaestiones in librum secundum Sententiarum
+* Quaestiones in librum tertium Sententiarum
+* Quaestiones in librum quartum Sententiarum
+* De ortu scientiarum
+
+''De tempore'' has been edited and translated by [[Alexander Broadie]], and published as ''On Time and Imagination, Part 2: Introduction and Translation''. A critical edition of ''De orto scientiarum'' was published by Albert G. Judy, for The Pontifical Institute of Mediaeval Studies in 1976. A critical edition of the four volumes of ''Quaestiones in librum Sententiarum'' was published in five volumes in 1982–1993 by Elisabeth Gössmann, Gerhard Leibold, Richard Schenk and Johannes Schneider for the [[Bavarian Academy of Sciences and Humanities]].
+
+The ''Notuel libri Priorum'' (on Aristotle's ''Prior Analytics''), has been edited and translated by Paul Thom and John Scott (Oxford: Published for the British Academy by Oxford University Press, 2015; two volumes).
+
+Kilwardby was also the author of a summary of the writings of the [[Church Fathers]], arranged alphabetically, ''Tabulae super Originalia Patrum'', edited by Daniel A. Callus (Bruges: De Tempel, 1948).
+
+==Citations==
+{{reflist|40em}}
+
+==References==
+{{refbegin|60em}}
+* {{cite book |author1=Bellenger, Dominic Aidan |author2=Fletcher, Stella |title=Princes of the Church: A History of the English Cardinals |publisher=Sutton |location=Stroud, UK |year=2001 |isbn=0-7509-2630-9}}
+* {{cite book |author=Burton, Janet |title= Monastic and Religious Orders in Britain: 1000–1300  |url=https://archive.org/details/monasticreligiou00burt |url-access=registration |year= 1994|publisher=Cambridge University Press|series=Cambridge Medieval Textbooks |location=Cambridge, UK |isbn=0-521-37797-8}}
+* {{cite book |author=Clanchy, C. T.  |title=From Memory to Written Record: England 1066–1307|edition=Second |year= 1993 |publisher= Blackwell Publishing |location=Malden, MA |isbn= 978-0-631-16857-7}}
+* {{cite book |author1=Fryde, E. B. |author2=Greenway, D. E. |author3=Porter, S. |author4=Roy, I. |title=Handbook of British Chronology|edition=Third Edition, revised |publisher=Cambridge University Press |location=Cambridge, UK |year=1996 |isbn=0-521-56350-X }}
+* {{cite book |author=Greenway, Diana E. |section=Canterbury: Archbishops |title=Fasti Ecclesiae Anglicanae 1066-1300|volume=2: Monastic Cathedrals (Northern and Southern Provinces)|section-url=http://british-history.ac.uk/report.asp?compid=33853 |access-date= 11 September 2007 |publisher=Institute of Historical Research |year=1971}}
+* {{cite book |author= Knowles, David |author-link=David Knowles (scholar) |title= The Evolution of Medieval Thought  |year=1962 |publisher=Longman |location=London |oclc= 937364}}
+* {{cite encyclopedia| author = Lawrence, C. H. |encyclopedia= The English Church and the Papacy in the Middle Ages |title= The Thirteenth Century | editor= Lawrence, C. H.| pages = 117–156 | place = Stroud| publisher = Sutton Publishing|isbn=0-7509-1947-7 | orig-year = 1965 |year=1999 |edition=Reprint}}
+* {{cite book |author=Leff, Gordon |title= Paris and Oxford Universities in the Thirteenth and Fourteenth Centuries: An Institutional and Intellectual History |publisher=Robert E. Krieger Pub. Co |location=Huntington, NY |year=1975 |isbn=0-88275-297-9 }}
+* {{cite book |author=Moorman, John R. H. |author-link= John Moorman  |title= Church Life in England in the Thirteenth Century  |year=1955|edition=Revised |publisher= Cambridge University Press |location= Cambridge |oclc= 213820968  }}
+* {{cite book |author=Prestwich, Michael|author-link=Michael Prestwich |title=Edward I |publisher=Yale University Press |location=New Haven, CT |year=1997 |isbn=0-300-07157-4 }}
+{{refend}}
+
+==Further reading==
+{{refbegin}}
+* Lagerlund, Henrik & Thom, Paul (eds.), ''A Companion to the Philosophy of Robert Kilwardby'', Leiden: Brill, 2012.
+* [[Osmund Lewry|Lewry, Patrick Osmund]] ''Robert Kilwardby's Writings on the Logica vetus Studied with Regard to Their Teaching and Method.'' Ph.D. diss. Oxford, 1978.
+* Thom, Paul, ''Logic and Ontology in the Syllogistic of Robert Kilwardby'', Leiden: Brill, 2007.
+* {{cite encyclopedia|author= Tugwell, Simon |title=Kilwardby, Robert (c.1215–1279) |encyclopedia=Oxford Dictionary of National Biography |publisher=Oxford University Press |year=2004 |url=http://www.oxforddnb.com/view/article/15546|access-date= 12 March 2011 |doi= 10.1093/ref:odnb/15546}} {{ODNBsub}}
+{{refend}}
+
+==External links==
+*{{cite SEP |url-id=robert-kilwardby |title=Robert Kilwardby |last=Silva |first=José Filipe}}
+* [http://maritain.nd.edu/jmc/etext/homp312.htm History of Medieval Philosophy] by Jacques Maritain
+* Kilwardby, Robert: [http://roderic.uv.es/uv_ms_0049 ''Tabula in librum sancti Augustini De civitate Dei''] (1464), digitized codex at [http://roderic.uv.es/handle/10550/43 Somni]
+{{Clear}}
+
+{{s-start}}
+
+{{s-rel|ca}}
+{{s-bef|before=[[William Chillenden]] |as=archbishop-elect}}
+{{s-ttl|title=[[Archbishop of Canterbury]] |years=1273–1278}}
+{{s-aft|after=[[Robert Burnell]] |as=archbishop-elect}}
+{{s-bef|before=[[John of Toledo]]}}
+{{s-ttl|title=[[Roman Catholic Suburbicarian Diocese of Porto-Santa Rufina|Cardinal Bishop of Porto and Santa Rufina]] |years=1278–1279}}
+{{s-aft|after=[[Bernard de Languissel]]}}
+{{s-end}}
+
+{{Archbishops of Canterbury}}
+{{Philosophy of science}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kilwardby, Robert}}
+[[Category:1210s births]]
+[[Category:1279 deaths]]
+[[Category:13th-century English cardinals]]
+[[Category:Cardinal-bishops of Porto]]
+[[Category:English Dominicans]]
+[[Category:Dominican cardinals]]
+[[Category:Archbishops of Canterbury]]
+[[Category:13th-century writers in Latin]]
+[[Category:Scholastic philosophers]]
+[[Category:English logicians]]
+[[Category:Philosophers of science]]
+[[Category:13th-century philosophers]]
+[[Category:13th-century English writers]]
+
+[[Category:Year of birth uncertain]]

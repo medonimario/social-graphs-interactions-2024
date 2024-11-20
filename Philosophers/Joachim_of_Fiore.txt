@@ -1,0 +1,165 @@
+{{short description|Italian Christian theologian, Catholic abbot, and apocalyptic thinker (died 1202)}}
+{{Infobox philosopher
+| name               = Joachim of Fiore
+| image              = Joachim of Flora.jpg
+| caption            = Joachim of Flora, in a 15th-century woodcut
+| birth_date         = 1135
+| birth_place        = [[Celico]], [[Calabria]], [[Kingdom of Sicily]]
+| death_date         = 1202
+| era = [[Medieval philosophy]]
+| influenced = {{flatlist|
+*[[Fraticelli]]
+*[[Dulcinians]]
+*[[Protestantism]]
+*[[Brethren of the Free Spirit]]
+*[[Amalrician]]
+*[[Cult of the Holy Spirit]]
+*[[Dante]]
+*[[Cieszkowski]]
+}} 
+| notable_ideas    = [[Premillennialism]]<br>[[Three Eras]]
+|school_tradition=[[Joachimites|Joachimitism]]<br>[[Historicism (Christianity)|Historicism]]|region=[[Western philosophy]]}}
+
+'''Joachim of Fiore''', also known as '''Joachim of Flora''' ({{langx|it|Gioacchino da Fiore}}; {{langx|la|Ioachim Florensis}}; {{c.}} 1135 – 30 March 1202), was an Italian [[Christian theology|Christian theologian]], Catholic [[abbot]], and the founder of the monastic order of [[San Giovanni in Fiore Abbey|San Giovanni in Fiore]].<ref name=EB1911>{{cite EB1911 |wstitle=Joachim of Floris |volume=15 |pages=417–418|first=Paul Daniel|last=Alphandéry}}</ref> According to theologian [[Bernard McGinn (theologian)|Bernard McGinn]], "Joachim of Fiore is the most important [[Apocalypticism|apocalyptic thinker]] of the whole medieval period."<ref name=pbs>{{Cite web|url=https://www.pbs.org/wgbh/pages/frontline/shows/apocalypse/explanation/joachim.html|title=Apocalypticism Explained &#124; Apocalypse! FRONTLINE &#124; PBS|website=www.pbs.org}}</ref> The ''[[Divine Comedy]]'' of [[Dante Alighieri]] is one of the most famous works possibly inspired by his ideas.<ref name=":0" />
+Later followers, inspired by his works in [[Christian eschatology]] and [[Historicism (Christianity)|historicist theories]], are called [[Joachimites]].
+On June 27, 2024,<ref>{{cite web |title=Papa Francesco: Giornata mondiale creato, cita Gioacchino da Fiore, “non scoraggiarsi davanti alla barbarie umana” |url=https://www.agensir.it/quotidiano/2024/6/27/papa-francesco-giornata-mondiale-creato-cita-gioacchino-da-fiore-non-scoraggiarsi-davanti-alla-barbarie-umana/}}<!-- auto-translated from Italian by Module:CS1 translator --></ref> [[Pope Francis]], in his message for the World Day of Creation, described Joachim of Fiore, saying that "''Joachim was able to propose the ideal of a new spirit of coexistence among people''"<ref>{{cite web |title=MESSAGE OF HIS HOLINESS POPE FRANCIS |url=https://www.vatican.va/content/francesco/en/messages/cura-creato/documents/20240627-messaggio-giornata-curacreato.pdf}}<!-- auto-translated from Italian by Module:CS1 translator --></ref> and thus marks a turning point in history, as this had not happened in more than eight centuries since the death of the Florensis monk. 
+
+==Biography==
+Born in the small village of [[Celico]] near [[Cosenza]], in [[Calabria]]<ref name=EB1911/> (at the time part of the [[Kingdom of Sicily]]), Joachim was the son of Mauro de Celico, a well-placed notary,<ref name=Gardner>{{Catholic Encyclopedia |wstitle=Joachim of Flora |last=Gardner |first=Edmund |volume=8 |inline=1}}</ref> and Gemma, his wife. He was educated at Cosenza, where he became first a clerk in the courts, and then a notary himself. In 1166–1167 he worked for [[Stephen du Perche]], archbishop of Palermo (c. 1167–1168) and counsellor of [[Margaret of Navarre]], regent for the young [[William II of Sicily]].
+
+[[File:Gioacchinodafiore.jpg|thumb|100px|left|A 1573 fresco depicting Gioacchino da Fiore, in the [[Archdiocese of Santa Severina|Cathedral of Santa Severina]], Calabria, Italy]]
+
+About 1159 he went on [[pilgrimage]] to the [[Holy Land]], where he experienced a spiritual crisis and conversion in [[Jerusalem]] that turned him away from worldly life. When he returned, he lived as a [[hermit]] for several years, wandering and preaching before joining the [[Cistercian Order|Cistercian]] abbey of [[Sambucina (abbey)|Sambucina]] near [[Luzzi, Italy|Luzzi]] in Calabria, as a lay brother without taking the religious habit.<ref name=Gardner/> There he devoted his time to lay preaching. With the ecclesiastical authorities raising objections to his mode of life, Joachim joined the monks of the [[Lamezia Terme#Main sights|Abbey of Corazzo]], and was ordained a priest, apparently in 1168. He applied himself entirely to Biblical study, with a special view to uncovering the arcane meanings he thought were concealed in the Scriptures,<ref name=Gardner/> especially in [[Book of Revelation|the apostle John's Revelation]]. To his dismay, the monks of Corazzo proclaimed him their abbot (c. 1177). He then attempted to join the monastery to the [[Cistercian Order]], but was refused because of the community's poverty. In the winter of 1178, he appealed in person to William II, who granted the monks some lands.
+
+In 1182 Joachim appealed to [[Pope Lucius III]], who relieved him of the temporal care of his abbey, and warmly approved of his work, bidding him to continue it in whatever monastery he thought best. Joachim spent the following year and a half at the Cistercian [[Abbey of Casamari]],<ref name=EB1911/> where he engaged in writing his three great books. There the young monk, Lucas (afterwards [[Archbishop of Cosenza]]), who acted as his secretary, was amazed to see so famous and eloquent a man wearing such rags, and the wonderful devotion with which he preached and said Mass.<ref name=Gardner/>
+
+In 1184 he was in Rome, interpreting an obscure prophecy found among the papers of Cardinal Matthew of Angers, and was encouraged by [[Pope Lucius III]]. Succeeding popes confirmed the papal approbation, though his manuscripts had not begun to circulate.  Joachim retired first to the hermitage of Pietralata, writing all the while, and then founded the Abbey of Fiore (''Flora'') in the mountains of Calabria. He refused the request of King [[Tancred of Sicily]] (r. 1189–1194) to move his new religious foundation to the existing Cistercian monastery of [[Santa Maria della Matina]].
+
+On Good Friday in 1196, [[Constance, Queen of Sicily|Empress Constance]], also Queen of Sicily, summoned Joachim of Fiore to Palermo to hear her confession in the [[Cappella Palatina|Palatine Chapel]]. Initially, the empress sat on a raised chair, but when Joachim told her that as they were at the places of Christ and [[Mary Magdalene]], she needed to lower herself, she sat on the ground.<ref>The Feast of Saint Abraham: Medieval Millenarians and the Jews, p. 12, Chapter 1, Robert E. Lerner</ref>
+
+Fiore became the centre of a new and stricter branch of the Cistercian order, approved by [[Pope Celestine III|Celestine III]] in 1198.<ref name=Gardner/>
+
+In 1200 Joachim publicly submitted all his writings to the examination of [[Pope Innocent III|Innocent III]],<ref name=EB1911/> but died in 1202 before any judgment was passed. The holiness of his life was widely known: [[Dante]] affirmed that miracles were said to have been wrought at his tomb,{{Citation needed|date=June 2013}}<ref>See one reference to Joachim in ''Paradiso'' XII.141-2.</ref> and, though never officially beatified, he is still venerated as a ''beatus'' on May 29.<ref name=Gardner/>
+
+He theorized the dawn of a new age, based on his interpretation of verses in the [[Book of Revelation]], in which the [[Catholic Church|Church]] would be unnecessary and in which infidels would unite with Christians. Members of the [[Fraticelli|spiritual]] wing of the [[Franciscan]] order acclaimed him as a prophet. However, Joachim denied being a prophet himself.<ref>{{Cite book|last=Riedl|first=Matthias|url=https://books.google.com/books?id=VDE9DwAAQBAJ&q=Joachim+of+fiore|title=A Companion to Joachim of Fiore|date=2017-10-23|publisher=BRILL|isbn=978-90-04-33966-8|language=en}}</ref> His popularity was enormous in the period. [[Richard I of England|Richard the Lionheart]] met with him in Messina before leaving for the [[Third Crusade]] of 1189–1192 to ask for his prophetic advice.<ref name=pbs/>
+[[File:Joachim von Fiore in seinem Studierzimmer, Holzschnitt 1516.jpg|thumb|Joachim of Fiore studying]]
+His famous Trinitarian "IEUE" interlaced-circles diagram was influenced by the different 3-circles Tetragrammaton-Trinity diagram of [[Petrus Alphonsi]], and in turn led to the use of the [[Borromean rings]] as a symbol of the Christian [[Trinity]] (and possibly also influenced the development of the [[Shield of the Trinity]] diagram).<ref>{{cite web |url= http://www.liv.ac.uk/~spmr02/rings/trinity.html |title= Borromean rings in Christian iconography |publisher= Liv.ac.uk |date= 2007-07-27 |access-date= 2012-04-07 |url-status= dead |archive-url= https://web.archive.org/web/20120414231546/http://www.liv.ac.uk/~spmr02/rings/trinity.html |archive-date= 2012-04-14 }}
+</ref>
+
+==Theory of the three ages==
+{{main|Three Eras}}
+The mystical basis of his teaching is his doctrine of the "eternal gospel", founded on an interpretation of Revelation 14:6 (Rev 14:6, "Then I saw another angel flying in midheaven, with an eternal gospel to proclaim to those who live on the earth—to every nation and tribe and language and people." NRSV translation.).
+
+His theories can be considered [[millenarian]]; he believed that history, by analogy with the [[Trinity]], was divided into three fundamental epochs:
+
+* The '''Age of the Father''', corresponding to the [[Old Testament]], characterized by the obedience of mankind to the Rules of God;
+* The '''Age of the Son''', between the advent of Christ and 1260,<ref>{{Cite book|chapter-url=https://books.google.com/books?id=VDE9DwAAQBAJ|title=A Companion to Joachim of Fiore|last=Andrews|first=Frances|publisher=BRILL|year=2017|isbn=9789004339668|editor-last=Riedl|editor-first=Matthias|series=Brill's Companions to the Christian Tradition|location=Leiden, Boston|pages=241–244|language=en|chapter=The Influence of Joachim in the 13th Century}}</ref> represented by the [[New Testament]], when Man became the son of God;{{citation needed|date=May 2024}}
+* The '''Age of the Holy Spirit''', impending, a contemplative utopia.<ref name=pbs/> The Kingdom of the Holy Spirit, a new dispensation of universal love, would proceed from the Gospel of Christ, but transcend the letter of it. In this new Age the ecclesiastical organization would be replaced and the ''Order of the Just'' would rule the Church.<ref>{{citation | last1=Manuel |first1=Frank E. |last2=Manuel|first2=Fritzie P. |title=Utopian Thought in the Western World |year=1982 |publisher=Belknap Press of Harvard University Press |isbn=0674931866 |pages=56–59}}.</ref> This ''Order of the Just'' was later identified with the [[Franciscan]] order by his follower [[Gerardo of Borgo San Donnino]].{{citation needed|date=July 2023}}
+
+Joachim's idea of the Age of the Holy Spirit would also later greatly influence the [[Cult of the Holy Spirit]] which would in later centuries have a considerable impact in [[Portugal]] and its colonies, and would suffer severe persecution by the [[Portuguese Inquisition]].
+
+According to Joachim, only in this third age will it be possible to truly understand the words of God in their deepest meanings, and not merely literally. In this period, instead of the ''parousia'' (second Advent of Christ), a new epoch of peace and concord would begin; also, a new religious "order" of spiritual men would arise, thus making the present hierarchy of the Church almost unnecessary.
+
+Joachim distinguished between the "reign of justice" or "of law" in an imperfect society, and the "reign of freedom" in a perfect society.<ref>[[Eric Hobsbawm]], ''Primitive rebels'', introduction, Norton Library 1965, p. 11.</ref>
+
+Joachim saw that a pope will be the Antichrist and that Rome represents Babylon.<ref name=":1">{{Cite book|last=Whalen|first=Brett Edward|url=https://books.google.com/books?id=POw3H2C9Ak0C&q=Joachim|title=Dominion of God: Christendom and Apocalypse in the Middle Ages|date=October 2009|publisher=Harvard University Press|isbn=978-0-674-03629-1|language=en}}</ref>
+
+==Condemnation==
+{{main|Joachimites}}
+Joachim's theories were disputed by [[Thomas Aquinas]] in his ''[[Summa Theologica]]'' (written 1265–1274). In contrast, [[Dante Alighieri]] situated Joachim in the [[Paradiso (Dante)|Paradiso]] of his ''[[Divine Comedy]]'' (composed c. 1320). Among the Spirituals, the stricter branch of the [[Franciscan Order|Franciscans]], a Joachite group arose, many of whom saw Antichrist already in the world in the person of [[Frederick II, Holy Roman Emperor]] (who died in 1250).
+
+As the appointed year approached, spurious works began to circulate under Joachim's name: ''De Oneribus Prophetarum,'' an ''Expositio Sybillae et Merlini'' ("Exposition of the [[Sibyl]] and [[Merlin (wizard)|Merlin]]") and commentaries on the prophecies of Jeremiah and Isaiah. The [[Fourth Council of the Lateran]], in 1215, condemned some of his ideas about the nature of the Trinity. In 1263, the [[archbishop]] Fiorenzo enhanced the condemnation of his writings and those of his follower [[Gerardo of Borgo San Donnino]], joining a commission in the [[Synod of Arles (1263)|Synod of Arles]], in which Joachim's theories were declared [[Heresy|heretical]]. The accusation was of having an unorthodox view of the [[Holy Trinity]].
+
+His views also inspired several subsequent movements: the [[Amalrician]]s, the [[Dulcinian]]s and the [[Brethren of the Free Spirit]]. All of these were eventually declared heretical by the Catholic Church. Joachimite interpretations became popular in the [[Protestant reformation]],<ref>{{Cite book|last=Maas|first=Korey|url=https://books.google.com/books?id=M_aARwxw7lkC&dq=Joachim+of+fiore+reformation&pg=PA132|title=The Reformation and Robert Barnes: History, Theology and Polemic in Early Modern England|date=2010|publisher=Boydell & Brewer|isbn=978-1-84383-534-9|language=en}}</ref> and even influenced some Protestant interpretations.<ref>{{Cite book|last=Lundin|first=Roger|url=https://books.google.com/books?id=N6McYsvK5rgC&dq=Joachimites+protestant&pg=PA65|title=The Culture of Interpretation: Christian Faith and the Postmodern World|date=1993|publisher=Wm. B. Eerdmans Publishing|isbn=978-0-8028-0636-9|language=en|quote=Joachimite interpretation itself prefigured later developments in Protestant and romantic hermeneutics.}}</ref> Joachim also possibly influenced [[Dante Alighieri|Dante]].<ref>{{Cite web|title=Joachim Of Fiore {{!}} Italian theologian {{!}} Britannica|url=https://www.britannica.com/biography/Joachim-of-Fiore|access-date=2021-12-11|website=www.britannica.com|language=en}}</ref>
+
+Of importance is the fact that Joachim himself was never condemned as a heretic by the Church; rather, the ideas and movement surrounding him were condemned. Joachim the man was held in high regard during his lifetime.
+
+==Literary references==
+It has been argued that the ''[[Divine Comedy]]'' of [[Dante Alighieri]] is largely inspired by the ideas of the Abbot using the interpretation given by his follower Pietro di Giovanni Olivi, active in Florence at the end of the XIII century.<ref name=":0">{{Cite book |last=Lombardi |first=Giancarlo |title=L'Estetica Dantesca del Dualismo |publisher=Giuliano Ladolfi Editore |year=2022 |isbn=9788866446620 |edition=1st |location=Borgomanero, Novara, Italy |language=It}}</ref>
+
+Joachim may be referred to by the 16th century English cartographer and court magician [[John Dee]], who refers in his influential 1570 work ''[[Preface to Euclid]]'' to "Ioachim the Prophesier" who "by ''Numbers Formall, Naturall, and Rationall,'' forseyng, concludyng, and forshewyng great particular euents, long before their comming."<ref>{{Cite web |last=Dee |first=John |date=1570 |title=Preface to Euclid's Elements of Geometry |url=https://www.gutenberg.org/files/22062/22062-h/22062-h.htm |website=Project Gutenberg}}</ref> (Rendered in contemporary English: "Joachim the Prophet, who by numbers formal, natural, and rational, foreseeing, concluding, and foretelling, great particular events, long before their coming.")
+
+[[Joris-Karl Huysmans|Joris-Karls Huysmans]]' novella ''[[Là-bas (novel)|Là-bas]]'' makes reference to Joachim de Fiore's millenarian eschatology in its concluding scenes, with several characters espousing similar views; presaging the protagonist's conversion to Catholicism.
+
+[[W. B. Yeats]]'s short story "The Tables of the Law" tells about a single surviving copy of a certain book by Joachim of Flora and its powerful effects on its owner.<ref>[http://www.gutenberg.org/ebooks/43611 "Tables of the Law; & The Adoration of the Magi".]  Project Gutenberg.  Retrieved June 11, 2015.</ref><ref>For full discussion see Warwick Gould and Marjorie Reeves, ''[[Joachim of Fiore and the Myth of the Eternal Evangel in the Nineteenth and Twentieth Centuries]]'' (Oxford: Clarendon, 2001), rev & enlarged ed., Ch ix, "W. B. Yeats: a Noble Antinomianism", pp.&nbsp;221–298</ref>
+
+Joachim, referred to as Joachim Abbas, is referenced in [[James Joyce|James Joyce's]] ''[[Ulysses (novel)|Ulysses]]'' and ''[[Giacomo Joyce]]'' and ''[[Stephen Hero]]''.
+
+Joachim is mentioned in [[Umberto Eco]]'s medieval mystery ''[[The Name of the Rose]]''. His influence on the Franciscan Spirituals and the rediscovery of his books foreseeing the advent of a new age are part of the book's background story in which an inquisitorial debate is held in a remote monastery where a number of murders take place.
+
+The sprawling conspiracy satire entitled the [[The Illuminatus! Trilogy|''Illuminatus!'' trilogy]] of novels by [[Robert Anton Wilson]] and [[Robert Shea]] also reference Joachim of Fiore repeatedly. His writings fit well with the [[Eschatology|eschatological]] tone of the story. The authors attempt to confuse matters and give an air of authenticity to the madness of the various plotlines by including references to real people and events.{{citation needed|date=July 2023}}
+
+In 2023, a film inspired by the life of Joachim "[[Joachim and the Apocalypse]]" was produced.<ref>{{cite web|title=SenalNews"Joachim and the Apocalypse" shot in ultra-high 12K resolution is inspired by the life of Joachim of Fiore|url=https://senalnews.com/en/content/delta-star-pictures-announces-film-inspired-of-the-founder-of-the-florensians-order}}<!-- auto-translated by Module:CS1 translator --></ref>
+
+==Works==
+[[Image:Pagina Liber Figurarum, Drago dalle sette teste.jpg|thumb|upright=1.6|Page of Liber Figurarum, XII century - showing a Seven-Headed Dragon at right]]
+
+[[Image:Ioachim - Dialogi de prescientia Dei et predestinatione electorum, 1995 - 4794611.tif|thumb|''Dialogi de prescientia Dei'']]
+
+*''Liber Concordiae Novi ac Veteris Testamenti'' (''Harmony of the Old and New Testaments''/''Book of Concordance''), completed in 1200.<ref>The 1519 Venice edition was reprinted in Frankfurt-am-Main in 1964. Books 1-4 are available in {{cite journal |first=E. R. |last=Daniel |title=Liber De Concordia Novi Ac Veteris Testament |journal=Transactions of the American Philosophical Society |volume=73 |issue=8 |location=Philadelphia |publisher=American Philosophical Society |year=1983 |doi=10.2307/1006385 |jstor=1006385 }}. Book V remains only available in the 1519 (and 1964) edition.</ref>
+*''Expositio in Apocalipsim'' (''Exposition of the Book of Revelation''), finished around 1196–1199. The ''Liber introductoris in Apocalypsim'', sometimes cited as a separate work, forms an introduction to this.<ref>The 1527 Venice edition was reprinted in Frankfurt-am-Main in 1964.</ref>
+*''Psalterium Decem Cordarum'' (''Psaltery of Ten Strings'').<ref>The 1527 Venice edition was reprinted in Frankfurt-am-Main, 1965. A more modern Latin text is in Joachim von Fiore, ''Psalterium decem cordarum'', ed. Kurt-Victor Selge. (Monumenta Germaniae Historica, Quellen zur Geistesgeschichte des Mittelalters, 20; Ioachimi Abbatis Florensis Opera Omnia, 1.) Hannover: Hahnsche Buchhandlung, 2009.</ref>
+*''Tractatus super quatuor Evangelia'' (''Treatise on the four Gospels'').<ref>The Latin text is in ''Tractatus super quatuor Evangelia di Gioacchino da Fiore'', ed. by E. Buonaiuti (Rome, 1930).</ref>
+*De Gloria Paradisi (Visio admirandae historiae)<ref>{{cite book|title=De Gloria Paradisi, Falco edizioni, 2005 322| date=2005 | publisher=Falco | isbn=978-88-89848-06-7 |url=https://books.google.com/books?id=p_CkzwEACAAJ}}<!-- auto-translated by Module:CS1 translator --></ref>
+
+Lesser works include:
+*''Genealogia'' (''Genealogy''), written about 1176.<ref>{{cite journal |first=G. L. |last=Potestà |title=Die genealogia. Ein frühes Werk Joachims von Fiore und die Anfänge seines Geschichtsbildes |journal=Deutsches Archiv für Erforschung des Mittelalters |volume=56 |year=2000 |pages=55–101 |issn=0012-1223 }}</ref>
+*''De prophetia ignota'', dateable to 1184.<ref>Matthias Kaup, ed, ''De prophetia ignota: eine frühe Schrift Joachims von Fiore'', (Hannover: Hahnsche Buchhandlung, 1998).</ref>
+*''Adversus Judeos'' (also known as ''Exhortatorium Iudeorum''), probably written in the early 1180s.<ref>The Latin text is in '' ''Adversus Iudeos'' di Gioacchino da Fiore'', ed. A. Frugoni (Rome, 1957).</ref>
+*''De articulis fidei'', probably written in the early 1180s.<ref>The Latin text is in ''De articulis fidei di Gioacchino da Fiore. Scritti minori'', ed. by E. Buonaiuti (Rome, 1936).</ref>
+*''Professio fidei'', probably written in the early 1180s.<ref>''Professio fidei'', in P de Leo, ed, ''Gioacchino da Fiore. Aspetti inediti della vita e delle opere'', Soneria Mannelli 1988, pp. 173–175.</ref>
+*''Tractatus in expositionem vite et regule beati Benedicti'', sermons belonging to the late 1180s.<ref>The Latin text is in C Baraut, 'Un tratado inédito de Joaquín de Flore: ''De vita sancti Benedicti et de officio divino secundum eius doctrinam'' ', ''Analecta sacra Tarraconensia'', 24 (1951), pp. 33–122.</ref>
+*''Praephatio super Apocalipsim''. Written around 1188–1192.<ref>''Praephatio super Apocalipsim'', in K-V Selge, ed, 'Eine Einführung Joachims von Fiore in die Johannesapokalypse', ''Deutsches Archiv für Erforschung des Mittelalters'', 46 (1990), pp. 85–131.</ref>
+*''Intelligentia super calathis''. Written in 1190–1.<ref>''Intelligentia super calathis ad abbatem Gafridum'', in P de Leo, ed, ''Gioacchino da Fiore. Aspetti inediti della vita e delle opere'', Soveria Mannelli 1988, pp 125–148.</ref>
+*''De ultimis tribulationibus'', which is a short sermon by Joachim.<ref>The Latin text is printed in K-V Selge, ed, 'Ein Traktat Joachims von Fiore über die Drangsale der Endzeit: ''De ultimis tribulationibus'' ', ''Florensia'' 7 (1993), pp 7-35. The English translation is in E. Randolph Daniel, 'Abbot Joachim of Fiore: The De ultimis tribulationibus', in A Williams, ed, ''Prophecy and Millenarianism: Essays in Honour of [[Marjorie Reeves]]'', (Harlow: Longmans, 1980), 167–189.</ref>
+*''Enchiridion super Apocalypsim''. Written in 1194–6, this is an earlier and shorter version of the ''Liber introductorius'' that prefaces Joachim's ''Expositio in Apocalipsim''.<ref>The Latin text is in Edward Kilian Burger, ed, ''Joachim of Fiore, Enchiridion super Apocalypsim'', Studies and Texts, 78, (Toronto: Pontifical Institute of Mediaeval Studies, 1986).</ref>
+*''De septem sigillis''. It is uncertain when this was written.<ref>[[Marjorie Reeves|M Reeves]] and B Hirsch-Reich, eds, 'The Seven Seals in the Writings of Joachim of Fiore', ''Recherches de théologie ancienne et médiévale'' 21 (1954), pp 239-247.</ref>
+*The [[Liber Figurarum]] was drawn together soon after Joachim's death in 1202, and is a collection of 24 'figurae' drawn by Joachim. The name was used in thirteenth-century manuscripts to describe a work attributed to Joachim of Fiore, but it was only in the mid-twentieth century that it was identified in relation to three extant manuscripts.<ref>Marjorie Reeves and Beatrice Hirsch-Reich, ''The Figurae of Joachim of Fiore'', (1972). For examples, see http://www.centrostudigioachimiti.it/Gioacchino/GF_Tavoleeng.asp {{Webarchive|url=https://web.archive.org/web/20100113043847/http://www.centrostudigioachimiti.it/Gioacchino/GF_Tavoleeng.asp |date=2010-01-13 }}.</ref>
+* The late thirteenth-century set of pseudo-prophecies, united with a later series under the title ''[[Vaticinia de Summis Pontificibus]]'' was falsely attributed to Joachim of Fiore without any basis in truth.<ref>{{cite web |url=http://www.research-projects.unizh.ch/p2061.htm |title=Frank Schleich, ''Ascende calve: the later series of the medieval pope prophecies'' |access-date=September 2, 2016}}{{dead link|date=September 2016|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+==See also==
+* [[Book of Revelation]]
+* [[Cult of the Holy Spirit]]
+* [[Ernesto Buonaiuti]] (one of the first researchers in Joachinism)
+* [[List of Christian mystics]]
+* [[Vaticinia de Summis Pontificibus]]
+
+==Notes==
+{{Reflist|30em}}
+
+==Further reading==
+*Thomas Gil, "Zeitkonstruktion als Kampf- und Protestmittel: Reflexionen über Joachim's von Fiore Trinitätstheologische Geschichtskonstruktion und deren Wirkungsgeschichte." In ''Constructions of Time in the Late Middle Ages'', ed. Carol Poster and Richard Utz (Evanston, IL: Northwestern University Press, 1997), pp.&nbsp;35–49.
+*Warwick Gould and Marjorie Reeves,  ''Joachim of Fiore and the Myth of the Eternal Evangel in the Nineteenth and Twentieth Centuries '' (Oxford: Clarendon, 2001), rev & enlarged from 1987 ed.
+*[[Henri de Lubac]], ''La Postérité spirituelle de Joachim de Flore'', Lethielleux, 1979 and 1981 {{in lang|fr}}
+*[[Marjorie Reeves]], ''Joachim of Fiore & the prophetic future : a medieval study in historical thinking'', 	Stroud : Sutton Pub., 1999.
+*Matthias Riedl, [https://www.academia.edu/3858553/Joachim_von_Fiore_-_Denker_der_vollendeten_Menschheit ''Joachim von Fiore. Denker der vollendeten Menschheit''], Koenigshausen & Neumann, 2004. {{in lang|de}}
+*Gian Luca Potestà, ''Il Tempo dell'apocalisse - Vita di Gioacchino da Fiore'', Laterza, Bari, 2004.
+*Valeria de Fraja, ''Oltre Cîteaux. Gioacchino da Fiore e l'ordine florense'', Viella, Roma 2006.
+*E. Randolph Daniel, ''Abbot Joachim of Fiore and Joachimism'', Variorum Collected Studies Series, Ashgate Publishing Ltd., 2011.
+*P. Lopetrone, ''L'effigie dell'abate Gioacchino da Fiore", in Vivarium, Rivista di Scienze Teologiche dell'Istituto Teologico S. Pio X di Catanzaro, Anno XX, n. 3, Edizioni Pubblisfera 2013, pp.&nbsp;361–386.
+*"The Eternal Gospel" by Leoš Janáček, a 1913 composition described as A legend for soprano, tenor, chorus and orchestra.
+
+==External links==
+{{wikiquote}}
+{{Commons category}}
+*[http://www.centrostudigioachimiti.it/Benvenuti/benvenutieng.asp International Center for Joachimist Studies] {{Webarchive|url=https://web.archive.org/web/20200113155933/http://www.centrostudigioachimiti.it/Benvenuti/Benvenutieng.asp |date=2020-01-13 }}
+*[http://www.revistamirabilia.com/sites/default/files/pdfs/2012_01_03.pdf Joachim of Fiore's Constitution of Future Society]
+*[https://web.archive.org/web/20120414231546/http://www.liv.ac.uk/~spmr02/rings/trinity.html Joachim of Fiore's circles diagram and Trinitarian symbolism]
+*[http://www.stereo-denken.de/joachim.htm Neo-Joachimism] {{in lang|de}}
+
+{{History of Catholic theology}}
+{{Authority control}}
+
+{{DEFAULTSORT:Joachim Of Fiore}}
+[[Category:1130s births]]
+[[Category:1202 deaths]]
+[[Category:12th-century apocalypticists]]
+[[Category:12th-century Christian mystics]]
+[[Category:12th-century writers in Latin]]
+[[Category:12th-century Italian Roman Catholic theologians]]
+[[Category:Italian abbots]]
+[[Category:Italian Christian monks]]
+[[Category:People from the Province of Cosenza]]
+[[Category:Roman Catholic mystics]]
+[[Category:Proto-Protestants]]
+[[Category:Monastic theologians]]

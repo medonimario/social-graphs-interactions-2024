@@ -1,0 +1,96 @@
+{{Short description|Italian mathematician (1906–1985)}}
+{{Infobox scientist
+| name        = Bruno De Finetti
+| image       = Bruno_de_Finetti_portrait.jpg
+| image_size  =
+| caption     = 
+| birth_date  = {{Birth date|df=yes|1906|6|13}}
+| death_date  = {{Death date and age|df=yes|1985|7|20|1906|6|13}}
+| birth_place = [[Innsbruck]], [[Austria-Hungary]]
+| death_place = Rome, Italy
+| nationality = Italian
+| field       = 
+| workplaces  = [[Italian National Institute of Statistics]]<br>[[Assicurazioni Generali]]<br>[[University of Trieste]]<br>[[University of Padua]]<br>[[Sapienza University of Rome]]
+| known_for   = [[De Finetti diagram]]<br>[[De Finetti's theorem]]<br>{{no wrap|[[Quasi-arithmetic mean|Kolmogorov–Nagumo–de Finetti mean]]}}<br>[[Dutch book theorems]]<br>[[Infinite divisibility (probability)|Infinite divisibility]]<br>[[Modern portfolio theory|Mean-variance analysis]]<br>[[Statistical_inference#Prediction|Predictive inference]]
+| alma_mater  = [[Politecnico di Milano]]
+| prizes      = [[List of International Congresses of Mathematicians Plenary and Invited Speakers|ICM Speaker]] (1928)
+}}
+'''Bruno de Finetti''' (13 June 1906 – 20 July 1985) was an Italian [[list of probabilists|probabilist]] [[statistician]] and [[actuary]], noted for the "operational subjective" conception of [[probability]]. The classic exposition of his distinctive theory is the 1937 {{lang|fr|"La prévision: ses lois logiques, ses sources subjectives"}},<ref>"La prévision: ses lois logiques, ses sources subjectives", ''Annales de l'Institut Henri Poincaré'', 7, 1–68.</ref> which discussed probability founded on the coherence of betting odds and the consequences of [[exchangeability]].
+
+==Life==
+De Finetti was born in [[Innsbruck]], Austria, and studied mathematics at [[Politecnico di Milano]]. He graduated in 1927, writing his thesis under the supervision of [[Giulio Vivanti]]. After graduation, he worked as an actuary and a statistician at {{lang|it|Istituto Nazionale di Statistica}} ([[National Institute of Statistics (Italy)|National Institute of Statistics]]) in Rome and, from 1931, the [[Trieste]] insurance company [[Assicurazioni Generali]]. In 1936 he won a competition for Chair of Financial Mathematics and Statistics, but was not nominated due to a fascist law barring access to unmarried candidates;<ref name=":0">{{Cite web |url=https://digital.library.pitt.edu/islandora/object/pitt:US-PPiU-asp199201/from_search/-0 |title=Guide to the Bruno De Finetti Papers, 1924–2000 ASP.1992.01 |website=Digital Pitt |access-date=2019-05-01}}</ref> he was appointed as ordinary professor at the [[University of Trieste]] only in 1950.
+
+He published extensively (17 papers in 1930 alone, according to Lindley) and acquired an international reputation in the small world of probability mathematicians. He taught [[mathematical analysis]] in Padua and then won a chair in Financial Mathematics at [[Trieste University]] (1939). In 1954 he moved to the [[Sapienza University of Rome]], first to another chair in Financial Mathematics and then, from 1961 to 1976, one in the Calculus of Probabilities. De Finetti developed his ideas on subjective probability in the 1920s independently of [[Frank P.&nbsp;Ramsey]].<ref>{{cite book |first=Maria Carla |last=Galavotti|author-link= Maria Carla Galavotti |chapter=Subjectivism, Objectivism and Objectivity in Bruno de Finetti's Bayesianism |pages=161–174 |title=Foundations of Bayesianism |editor-first=David |editor-last=Cornfield |editor2-first=Jon |editor2-last=Williamson |location= |publisher=Kluwer |year=2001 |isbn=1-4020-0223-8 }}</ref> Still, according to the preface of his "Theory of Probability", he drew on ideas of [[Harold Jeffreys]], [[I.&nbsp;J.&nbsp;Good]] and [[Bernard Koopman|B.&nbsp;O.&nbsp;Koopman]]. He also reasoned about the connection of economics and probability, and thought that guiding principles to be [[Pareto efficiency|Paretian optimum]] further inspired by "fairness" criteria.<ref>[https://arxiv.org/abs/1205.4807 A Conversation with Eugenio Ragazzini], ''Statistical Science'', 2011.</ref> De Finetti held different social and political beliefs through his life: following [[fascism]] during his youth, then moving to [[Christian socialism]] and finally adhering to the [[Radical Party (Italy)|Radical Party]].<ref name=":0" /><ref>{{Cite journal |last1=Prünster |first1=Igor |last2=Lijoi |first2=Antonio |date=November 2011 |title=A Conversation with Eugenio Regazzini |journal=Statistical Science |volume=26 |issue=4 |pages=647–672 |doi=10.1214/11-STS362 |issn=0883-4237 |arxiv=1205.4807 |s2cid=53383544}}</ref>
+
+De Finetti only became known in the Anglo-American statistical world in the 1950s when [[L.&nbsp;J.&nbsp;Savage]], who had independently adopted [[Bayesian inference|subjectivism]], drew him into it; another great champion was [[Dennis Lindley]]. De Finetti died in Rome in 1985.
+
+==Work and impact==
+De Finetti emphasized a [[predictive inference]] approach to statistics; he proposed a [[thought experiment]] along the following lines (described in greater detail at [[coherence (philosophical gambling strategy)|coherence]]): ''You'' must set the price of a promise to pay $1 if there was life on Mars 1&nbsp;billion years ago, and $0 if there was not, and tomorrow the answer will be revealed. You know that ''your opponent'' will be able to choose either to buy such a promise from you at the price you have set, or require you to buy such a promise from your opponent, still at the same price. In other words: you set the odds, but your opponent decides which side of the bet will be yours. The price you set is the "operational subjective probability" that you assign to the proposition on which you are betting. This price has to obey the probability axioms if you are not to face certain loss, as you would if you set a price above $1 (or a negative price). By considering bets on more than one event, de Finetti could justify additivity. Prices, or equivalently odds, that do not expose you to certain loss through a ''[[Dutch book]]'' are called ''coherent''.
+
+De Finetti is also noted for [[de Finetti's theorem]] on exchangeable sequences of [[random variable]]s. De Finetti was not the first to study exchangeability, but he brought the subject to greater visibility. He started publishing on exchangeability in the late 1920s, but his 1937 article "La Prévision" (see bibliography) is his most famous treatment.
+
+In 1929, de Finetti introduced the concept of [[infinitely divisible probability distribution]]s.
+
+He also introduced [[de Finetti diagram]]s for graphing [[genotype]] frequencies.
+
+The 1974 English translation of his book is credited with reviving interest in predictive inference in the Anglophone world and bringing the idea of exchangeability to its attention.<ref name="geisser">''[https://books.google.com/books?id=wfdlBZ_iwZoC Predictive Inference: An Introduction]'', [[Seymour Geisser]], [[CRC Press]], 1993, {{ISBN|0-412-03471-9}}.</ref>
+
+In 1961 he was elected as a [[Fellow of the American Statistical Association]].<ref>[http://www.amstat.org/awards/fellowslist.cfm View/Search Fellows of the ASA] {{Webarchive|url=https://web.archive.org/web/20160616161612/https://www.amstat.org/awards/fellowslist.cfm |date=2016-06-16 }}, accessed 2016-07-23.</ref>
+The de Finetti Award, presented annually by the [[European Association for Decision Making]], is named after him. The Department of Mathematics, Statistics and Economics of the [[University of Trieste]] is named after him too.
+
+In the 21st century [[De Finetti's theorem#Extensions|quantum extensions]] of de Finetti's representation theorem have been found to be useful in [[quantum information]],<ref>{{Cite journal |last1=Caves |first1=Carlton M. |last2=Fuchs |first2=Christopher A. |last3=Schack |first3=Ruediger |date=2002-08-20 |title=Unknown quantum states: The quantum de Finetti representation |journal=Journal of Mathematical Physics |volume=43 |issue=9 |pages=4537–4559 |arxiv=quant-ph/0104088 |doi=10.1063/1.1494475 |issn=0022-2488 |bibcode=2002JMP....43.4537C |s2cid=17416262}}</ref><ref>{{cite web |url=http://math.ucr.edu/home/baez/week251.html |title=This Week's Finds in Mathematical Physics (Week 251) |year=2007 |author=J. Baez |access-date=29 April 2012|author-link=John C. Baez}}</ref><ref>{{Cite book|last1=Brandao|first1=Fernando G. S. L.|last2=Harrow|first2=Aram W. |title=Proceedings of the forty-fifth annual ACM symposium on Theory of Computing |chapter=Quantum de finetti theorems under local measurements with applications |date=2013-01-01 |series=STOC '13 |location=New York, NY, USA |publisher=ACM |pages=861–870 |arxiv=1210.6367 |doi=10.1145/2488608.2488718 |isbn=9781450320290 |s2cid=1772280}}</ref> in topics like [[quantum key distribution]]<ref>{{cite journal |last=Renner |first=Renato |title=Security of Quantum Key Distribution |journal=International Journal of Quantum Information |volume=6 |number=1 |pages=1–127 |year=2008 |doi=10.1142/S0219749908003256 |arxiv=quant-ph/0512258}}</ref> and [[quantum entanglement|entanglement]] detection.<ref>{{Cite journal |last1=Doherty |first1=Andrew C. |last2=Parrilo |first2=Pablo A. |last3=Spedalieri |first3=Federico M. |date=2005-01-01 |title=Detecting multipartite entanglement |journal=Physical Review A |volume=71 |issue=3 |pages=032333 |arxiv=quant-ph/0407143 |doi=10.1103/PhysRevA.71.032333 |bibcode=2005PhRvA..71c2333D |s2cid=44241800}}</ref>
+
+==Bibliography==
+See Works on 
+*[http://www.brunodefinetti.it/ Bruno de Finetti website]
+
+=== de Finetti in English===
+(The following are translations of works originally published in Italian or French.)
+*"Probabilism: A Critical Essay on the Theory of Probability and on the Value of Science," (translation of 1931 article) in ''Erkenntnis,'' volume 31, issue 2–3, September 1989, pp.&nbsp;169–223. The entire double issue is devoted to de Finetti's philosophy of probability.
+* 1937, "La Prévision: ses lois logiques, ses sources subjectives," Annales de l'Institut Henri Poincaré,
+: - "Foresight: its Logical Laws, Its Subjective Sources," (translation of the [http://www.numdam.org/item?id=AIHP_1937__7_1_1_0  1937 article] in French) in H. E. Kyburg and H. E. Smokler (eds), ''Studies in Subjective Probability,'' New York: Wiley, 1964.
+*''Theory of Probability'', (translation by A Machi and [[AFM Smith]] of 1970 book) 2 volumes, New York: Wiley, 1974–1975.
+
+=== Discussions===
+*[[Dennis Lindley|D. V. Lindley]], "Bruno de Finetti, 1906-1985 (Obituary)" ''[[Journal of the Royal Statistical Society, Series A]]'', '''149''', p.&nbsp;252 (1986).
+The following books have a chapter on de Finetti and references to further literature.
+*Jan von Plato, ''Creating Modern Probability: Its Mathematics, Physics, and Philosophy in Historical Perspective'', Cambridge: Cambridge University Press, 1994
+*Donald Gillies, ''Philosophical Theories of Probability'', London: Routledge, 2000.
+
+== See also ==
+* [[Exchangeability]]
+* [[Quasiconvex function]]
+
+== References ==
+{{reflist}}
+
+==External links==
+*''[http://amshistorica.unibo.it/diglib.php?inv=35 Probabilità e induzione]'', Bologna, 1993. {{in lang|it}} 
+*[http://www.brunodefinetti.it/ Bruno de Finetti website]
+*[https://web.archive.org/web/20110719101857/https://finetti.meb.uni-bonn.de/ Generate finetti diagrams online]
+*[http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/De_Finetti.html MacTutor: Bruno de Finetti]
+*Bruno de Finetti's Papers [http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?c=ascead&cc=ascead&rgn=main&view=text&didno=US-PPiU-asp199201](Bruno de Finetti Papers, 1924–2000, ASP.1992.01, Archives of Scientific Philosophy, Special Collections Department, University of Pittsburgh)
+*[http://www.york.ac.uk/depts/maths/histstat/people/de_finetti.gif De Finetti] on the [http://www.york.ac.uk/depts/maths/histstat/people/welcome.htm Portraits of Statisticians] page.
+*[http://plato.stanford.edu/archives/sum2003/entries/probability-interpret/ Interpretations of Probability] from the Stanford Encyclopedia of Philosophy. De Finetti's views are discussed in Section 3.5 of this article.
+*[https://web.archive.org/web/20110722063623/http://www.dse.ec.unipi.it/seminari/lunch/Paper_pdf/Adriani.pdf ''Bruno de Finetti e la geometria del benessere''] by Rosaria Adriani {{in lang|it}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Finetti, Bruno De}}
+[[Category:1906 births]]
+[[Category:1985 deaths]]
+[[Category:Italian actuaries]]
+[[Category:20th-century Italian mathematicians]]
+[[Category:Italian statisticians]]
+[[Category:Probability theorists]]
+[[Category:Philosophers of probability]]
+[[Category:Bayesian statisticians]]
+[[Category:Bayesian econometricians]]
+[[Category:20th-century Italian economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Scientists from Innsbruck]]
+[[Category:Austrian emigrants to Italy]]
+[[Category:Academic staff of the University of Trieste]]
+[[Category:Academic staff of the Sapienza University of Rome]]
+[[Category:Mathematical statisticians]]

@@ -1,0 +1,137 @@
+{{Short description|Korean-American philosopher (1934–2019)}}
+{{Eastern name order|Kim Jaegwon}}
+{{family name hatnote|[[Kim (Korean surname)|Kim]]|lang=Korean}}
+{{Infobox philosopher
+|region            = [[Western philosophy]]
+|era               = [[20th-century philosophy]], [[21st-century philosophy]]
+|image             = 
+|name              = Jaegwon Kim
+|birth_date        = {{birth date|1934|09|12}}
+|birth_place       = [[Daegu]], [[Korea under Japanese rule|Korea, Empire of Japan]]
+|death_date        = {{Death date and age|2019|11|27|1934|09|12}}
+|death_place       = 
+|alma_mater        = [[Dartmouth College]]<br />[[Princeton University]]
+|institutions      = [[Brown University]]
+|school_tradition  = [[Analytic philosophy|Analytic]]
+|main_interests    = {{ubl|[[Action theory (philosophy)|Action theory]]|[[Epistemology]]|[[Metaphysics]]|[[Philosophy of mind]]|[[Philosophy of science]]}}
+|notable_ideas     = [[Reductive physicalism]]<br />Weak [[supervenience]]<ref>Kim, Jaegwon. (1984). "Concepts of supervenience," ''Philosophy and Phenomenological Research'', '''45'''(2): 153–176.</ref>
+|influences        = [[Carl Hempel]]{{·}} [[Roderick Chisholm]]
+|influenced        = [[Dean Zimmerman (philosopher)|Dean Zimmerman]]
+|doctoral_advisors = [[Carl Gustav Hempel]]
+|doctoral_students = [[Alyssa Ney]]
+|module=
+{{Infobox Korean name|child=yes
+|hangul = 김재권
+|hanja  = {{linktext|金|在|權}}
+|rr     = Gim Jae-gwon
+|mr     = Kim Chaegwŏn
+}}}}
+
+'''Jaegwon Kim''' (September 12, 1934 – November 27, 2019)<ref>{{Cite web |language=English |title=Jaegwon Kim (1934-2019) |url=https://dailynous.com/2019/11/29/jaegwon-kim-1934-2019/ |website=Daily Nous |last=Weinberg |first=Justin |date=November 29, 2019 |access-date=2021-01-02}}</ref> was a [[Korean-American]] [[philosopher]]. At the time of his death, Kim was an [[emeritus professor]] of [[philosophy]] at [[Brown University]]. He also taught at several other leading American universities during his lifetime, including the [[University of Michigan, Ann Arbor|University of Michigan]], [[Cornell University]], the [[University of Notre Dame]], [[Johns Hopkins University]], and [[Swarthmore College]]. He is best known for his work on [[Problem of mental causation|mental causation]], the [[Mind-body dichotomy|mind-body problem]] and the metaphysics of [[supervenience]] and [[Event (philosophy)|events]].  Key themes in his work include: a rejection of [[René Descartes|Cartesian]] [[metaphysics]], the limitations of strict [[Mind-body dichotomy|psychophysical identity]], [[supervenience]], and the [[individuation]] of [[Event (philosophy)|events]]. Kim's work on these and other contemporary [[Metaphysics|metaphysical]] and [[Epistemology|epistemological]] issues is well represented by the papers collected in ''Supervenience and Mind: Selected Philosophical Essays'' (1993).
+
+==Biography==
+Kim took two years of college in [[Seoul]], [[South Korea]] as a [[French literature]] major, before transferring to [[Dartmouth College]] in 1955. Soon after, at Dartmouth, he changed to a combined major in [[French language|French]], [[mathematics]], and [[philosophy]], and received a [[Bachelor of Arts|B.A.]] degree. After Dartmouth, he went to [[Princeton University]], where he earned his [[Ph.D.]] in philosophy.<ref name="ephilosopher.com"/>
+
+Kim was the Emeritus William Herbert Perry Faunce Professor of Philosophy at [[Brown University]] (since 1987). He also taught at [[Swarthmore College]], [[Cornell University]], the [[University of Notre Dame]], [[Johns Hopkins University]], and, for many years, at the [[University of Michigan, Ann Arbor]]. From 1988 to 1989, he was president of the [[American Philosophical Association]], Central Division. Since 1991, he has been a fellow of the [[American Academy of Arts and Sciences]].<ref>{{cite web|url=http://research.brown.edu/myresearch/Jaegwon_Kim |title=Kim, Jaegwon |publisher=Research.brown.edu |access-date=2015-05-08}}</ref> Along with [[Ernest Sosa]], he was a joint editor of the quarterly philosophical journal ''[[Noûs]]''.<ref>{{cite web|author=Brown University |url=https://www.brown.edu/Departments/Philosophy/faculty/kim.html |title=Home &#124; Philosophy |publisher=Brown.edu |access-date=2015-05-08}}</ref>
+
+According to Kim, two of his major philosophical influences are [[Carl Hempel]] and [[Roderick Chisholm]]. Hempel, who sent him a letter encouraging him to go to Princeton, was a "formative influence".<ref name="ephilosopher.com">[http://www.ephilosopher.com/page.php?15]  {{webarchive |url=https://web.archive.org/web/20071017192900/http://www.ephilosopher.com/page.php?15 |date=October 17, 2007 }}</ref> More specifically, Kim claims that he hopes he learned "a certain style of philosophy, one that emphasizes clarity, responsible argument, and aversion to studied obscurities and feigned profundities."<ref name="ephilosopher.com"/> From Chisholm he learned "not to fear [[metaphysics]]." This allowed him to go beyond the [[logical positivist]] approaches, that he had learned from Hempel, in his investigations in metaphysics and the [[philosophy of mind]].<ref name="ephilosopher.com"/>  Although not a logical positivist, Kim's work always respected the limitations on philosophical speculation imposed by the sciences.
+
+==Work==
+Kim's philosophical work focuses on the areas of [[philosophy of mind]], [[metaphysics]], [[Action theory (philosophy)|action theory]], [[epistemology]], and [[philosophy of science]].
+
+===Philosophy of mind===
+Kim has defended various [[Mind–body problem|mind-body theories]] during his career. He began defending a version of the [[identity theory of mind|identity theory]] in the early 1970s, and then moved to a [[Physicalism#Realisation physicalism|non-reductive]] version of [[physicalism]], which relied heavily on the [[supervenience]] relation.<ref>Kim, 1984.</ref>
+
+Kim eventually rejected strict physicalism on the grounds that it provided an insufficient basis for resolving the [[mind-body problem]]. In particular, he concluded that the [[hard problem of consciousness]]—according to which a detailed and comprehensive [[Neurophysics|neurophysical]] description of the brain would still not account for the fact of [[consciousness]]—is insurmountable in the context of a thoroughgoing physicalism. His arguments against physicalism can be found in his two latest monographs: ''Mind in a Physical World'' (1998) and ''Physicalism, or Something Near Enough'' (2005). Kim claims "that physicalism will not be able to survive intact and in its entirety."<ref>Kim, 2005, p. 31.</ref> This, according to Kim, is because [[qualia]] (the phenomenal or qualitative aspect of mental states) cannot be reduced to physical states or processes. Kim claims that "phenomenal mental properties are not functionally definable and hence functionally irreducible"<ref name="Kim, 2005, p. 29">Kim, 2005, p. 29.</ref> and "if functional reduction doesn't work for qualia, nothing will."<ref name="Kim, 2005, p. 29"/> Thus, there is an aspect of the [[mind]] that physicalism cannot capture.
+
+In his later years, Kim defended the thesis that [[intentional]] [[mental states]] (e.g., [[beliefs]] and [[desires]]) can be functionally reduced to their neurological realizers, but that the qualitative or [[phenomenal]] mental states (e.g., sensations) are irreducibly non-physical and [[epiphenomenalism|epiphenomenal]]. He, thus defended a version of [[property dualism]], although Kim argued his position was "something near enough" physicalism.<ref name="Vintiadis 2019">{{Cite web|author=Vintiadis, Elly|date=2019|title=Property Dualism|url=https://press.rebus.community/intro-to-phil-of-mind/chapter/property-dualism/#footnote-67-1|website=Rebus Community|language=en-GB|archive-date=September 25, 2024|archive-url=https://web.archive.org/web/20240925184911/https://press.rebus.community/intro-to-phil-of-mind/chapter/property-dualism/|url-status=live}}</ref> As of March, 2008, Kim still saw physicalism to be the most comprehensive worldview that is irreplaceable with any other world view.<ref name="Kim, Kihyeon 2008">Kim, Kihyeon, [http://article.joins.com/article/article.asp?total_id=3061770 "세계적 철학자 7명 릴레이 인터뷰 ⑧·끝 김재권 미 브라운대 석좌교수 (Relay Interview with 7 World Renown Philosophers ⑧ End: Jaegwon Kim, William Herbert Perry Faunce Professor of Philosophy at Brown University)"], ''[[Joongang Ilbo]] Newspaper article'', March 8, 2008.</ref>
+
+In a 2008 interview with Korean daily newspaper [[Joongang Ilbo]], Kim stated  that we must seek a [[Naturalism (philosophy)|naturalistic]] explanation for mind because mind is a natural phenomenon, and [[supernatural]] explanation only provides "one riddle over another".<ref name="Kim, Kihyeon 2008"/> He believed that any correct explanation for the nature of mind would come from [[natural science]] rather than philosophy or [[psychology]].<ref name="Kim, Kihyeon 2008"/>
+
+=== Argument against non-reductive physicalism===
+[[Image:Figure1.gif|thumb|right|Figure demonstration how M1 and M2 are not reduced to P1 and P2.<ref>10. Murphy, Nancey. 1999. "Supervenience and the Efficacy of the Mental", in Russell, Robert John (ed), ''Neuroscience and the Person,'' Vatican City State, Vatican Observatory Press, pp. 147-164, 154. ISBN 0-268-01490-6</ref>]]
+
+Kim has raised an objection based on [[causal closure]] and [[overdetermination]] to [[non-reductive physicalism]].<ref>(2003) "Blocking Causal Drainage and Other Maintenance Chores with Mental Causation", ''Philosophy and Phenomenological Research'' 67.1: 151-76.</ref>
+
+The non-reductive physicalist is committed to following three principles: the [[irreducibility]] of the mental to the physical, some version of mental-physical [[supervenience]], and the causal [[Efficacy|efficaciousness]] of mental states. The problem, according to Kim, is that when these three commitments are combined with a few other well-accepted principles, an inconsistency is generated that entails the causal impotence of mental properties. The first principle, which most [[ontological]] physicalists would accept, is the causal closure of the physical domain, according to which, every physical effect has a sufficient physical cause. The second principle Kim notes is that of causal exclusion, which holds that no normal event can have more than one sufficient cause. The problem is that a behavior cannot have as its cause, both a physical event and a (supervening) mental event, without resulting in a case of overdetermination (thus violating the principle of causal exclusion). The result is that physical causes exclude mental states from causally contributing to the behavior.
+
+In detail: he proposes (using the chart on the right) that ''M1'' causes ''M2'' (these are mental events) and ''P1'' causes ''P2'' (these are physical events). ''M1'' has ''P1'' as its supervenience base, and ''M2'' has ''P2'' as its supervenience base. The only way for ''M1'' to cause ''M2'', is by causing its supervenience base ''P2'' (a case of mental-to-physical causation). If ''P1'' causes ''P2'', and ''M1'' causes ''P2'', then we have a case of causal overdetermination. Applying the principle of causal-exclusion, either ''P1'' or ''M1'' must be eliminated as a cause of ''P2''. Given the principle of the causal closure of the physical domain, ''M1'' is excluded.
+
+The non-reductive physicalist is forced to choose between two unappealing options: one could reject the causal-exclusion principle and claim that in this scenario we are dealing with a genuine case of overdetermination, or one could embrace [[epiphenomenalism]]. Kim argues that mental causation can only be preserved by rejecting the premise of irreducibility in favor of [[Reductionism|reduction]]; in order for mental properties to be considered causally efficacious, they must be reducible to physical properties.
+
+===Metaphysics===
+Kim's work in [[metaphysics]] focuses primarily on events and properties.
+
+Kim developed an [[Event (philosophy)|event]] identity theory, but has not defended it recently.  This theory holds that events are identical if and only if they occur in the same time and place and instantiate the same property.  Thus if one waves ten fingers, several events occur, including the waving of an even number of fingers, the event of waving fingers that are evenly divisible by five, and evenly divisible by ten.  Some have criticized his theory as producing too many events.
+
+Kim also theorized that events are structured. He is known for a property-exemplification account of events. They are composed of three things: Object(s), a property and time or a [[Units of time#General units of time|temporal interval]]. Events are defined using the operation [x, P, t].{{Citation needed|date=February 2007}}
+
+A unique event is defined by two principles: the existence condition and the identity condition. The existence condition states "[x, P, t] exists if and only if object x exemplifies the n-adic P at time t". This means a unique event exists if the above is met. The identity condition states "[x, P, t] is [y, Q, t`] if and only if x=y, P=Q and t=t`".{{Citation needed|date=February 2007}}
+
+===Epistemology===
+Kim is a critic of the [[naturalized epistemology]] popularized by [[Willard Van Orman Quine]] in the latter half of the twentieth century.  Kim's influential article "What is 'Naturalized Epistemology'?" (1988) argues that "naturalized" epistemologies like Quine's are not proper epistemologies as they are merely descriptive in [[Scope (logic)|scope]], while one generally expects an "epistemology" to make [[normative]] claims about [[knowledge]]. Kim argues that mere description of belief-forming practices cannot account for justified belief.  (He also argues that to even individuate beliefs, the naturalized epistemologist must presuppose normative criteria of [[Justification (epistemology)|justification]].)  Naturalized epistemology cannot address the issue of justification, and therefore it does not share the same aspiration as the traditional approach to epistemology.
+
+==Awards==
+*2014: [[Kyung-Ahm Prize]], Kyung-Ahm Education & Cultural Foundation
+
+==Selected publications==
+The following is a ''partial'' list of publications by Jaegwon Kim.
+* (1984) "Epiphenomenal and Supervenient Causation", ''Midwest Studies in Philosophy'', Vol. IX, Peter A. French, Theodore E. Uehling, Jr., and Howard K. Wettstein, eds. Minneapolis: University of Minnesota Press, 1984, pp.&nbsp;257–70.
+* (1988) "What is 'Naturalized Epistemology'?", ''Philosophical Perspectives'', Vol. 2 (1988): 381–405.
+* (1993) ''Supervenience and Mind'', Cambridge University Press.
+* (1998) ''Mind in a Physical World'', MIT Press.
+* (1999) "Making sense of Emergence", ''Philosophical Studies'' 95, pp.&nbsp;3–36.
+* (2005) ''Physicalism, or Something Near Enough'', Princeton University Press ([https://web.archive.org/web/20060905054538/http://www.pupress.princeton.edu/chapters/s7971.pdf Chapter 1]).
+* (2006) ''Philosophy of Mind'', 2nd ed., Westview Press.
+* (2010) ''Essays in the Metaphysics of Mind'', Oxford University Press
+
+==See also==
+{{cols}}
+*[[American philosophy]]
+*[[Epiphenomenalism]]
+*[[Free will]]
+*[[List of American philosophers]]
+*[[List of Korean philosophers]]
+*[[Ron McClamrock|McClamrock, Ron]]
+*[[Neuroscience of free will]]
+{{colend}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://research.brown.edu/myresearch/Jaegwon_Kim Jaegwon Kim's homepage] - at Brown University.
+* [http://blog.naver.com/PostView.nhn?blogId=sellars&logNo=100036740078&redirect=Dlog&widgetTypeCall=true Interview with Jaegwon Kim], Fall 2000 (originally at Ephilosopher.com, now only available at blog.naver.com).
+* [http://research.brown.edu/pdf/10327.pdf?nocache=1922734945 Jaegwon Kim's CV] {{Webarchive|url=https://web.archive.org/web/20131204063808/https://research.brown.edu/pdf/10327.pdf?nocache=1922734945 |date=2013-12-04 }}
+* [http://www.iep.utm.edu/mental-c/ Mental Causation], ''[[Internet Encyclopedia of Philosophy]]''
+* [http://www.iep.utm.edu/causal-e/ Mind and the Causal Exclusion Problem], ''[[Internet Encyclopedia of Philosophy]]''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kim, Jaegwon}}
+[[Category:1934 births]]
+[[Category:2019 deaths]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American philosophers]]
+[[Category:Action theorists]]
+[[Category:American academics of Korean descent]]
+[[Category:American logicians]]
+[[Category:American male non-fiction writers]]
+[[Category:American philosophy academics]]
+[[Category:American writers of Korean descent]]
+[[Category:Analytic philosophers]]
+[[Category:Brown University faculty]]
+[[Category:Consciousness researchers and theorists]]
+[[Category:Cornell University faculty]]
+[[Category:Dartmouth College alumni]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Johns Hopkins University faculty]]
+[[Category:People from Daegu]]
+[[Category:Philosophers of mind]]
+[[Category:Princeton University alumni]]
+[[Category:South Korean emigrants to the United States]]
+[[Category:Swarthmore College faculty]]
+[[Category:University of Michigan faculty]]
+[[Category:University of Notre Dame faculty]]

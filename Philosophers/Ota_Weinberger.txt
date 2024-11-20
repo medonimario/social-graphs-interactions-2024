@@ -1,0 +1,91 @@
+{{short description|Czech jurist and philosopher}}
+{{Infobox officeholder
+|honorific-prefix  = [[PhD|PhDr.]]
+|name              = Ota Weinberger
+|honorific-suffix  =
+|image             = 
+|imagesize         = 
+|caption           = 
+|office            = 
+|term_start        = 
+|term_end          = 
+|monarch           =
+|predecessor       =
+|successor         =
+|office2           = 
+|term_start2       = 
+|term_end2         = 
+|birth_date        = {{birth date|1919|04|20|df=y}}
+|birth_place       = [[Brno]], [[Czechoslovakia]]
+|death_date        = {{death date and age|2009|01|30|1919|04|20|df=y}}
+|death_place       = [[Graz]], [[Austria]]
+|restingplace      =
+|birthname         = 
+|nationality       = [[Czechs|Czech]]
+|spouse            = 
+|residence         =
+|alma_mater        = [[Masaryk University]], [[Charles University|Charles University in Prague]]
+|occupation        = [[Philosopher]] and [[Lawyer]]
+|profession        = 
+|religion          = 
+|signature         =
+|website           =
+|footnotes         =
+}}
+'''Ota Weinberger''' (20 April 1919 – 30 January 2009) was a Czech-Austrian [[jurist]], [[legal philosopher]], and [[logician]]. He was the [[Professor]] of Legal Science at the [[Faculty of Law of the University of Graz|University of Graz]] and the [[Charles University|University of Prague]].<ref name="who1">{{cite web|title=Ota Weinberger|url=https://www.ae-info.org/ae/Member/Weinberger_Ota|publisher=[[Academia Europaea]]|access-date=2023-03-28}}</ref>
+
+== Biography ==
+Weinberger was born in [[Brno]], [[Czechoslovakia]] on 20 April 1919 into an assimilated Jewish family of intellectuals. He was respected in the professional world as a logician and legal theorist who became known to a broad public beyond the academic framework as a political admonisher. For a long time, he suffered greatly from the political conditions in his homeland. As a [[Jew]], he was first persecuted by the [[Third Reich]]. He was initially unable to complete his [[Legal education|law studies]] at [[Masaryk University]] in his hometown and spent four years in [[concentration camp]]s. After the war, he completed his studies and entered the court service.<ref name=Bio1>{{cite web|title=''Ota Weinberger ist tot''|url= http://www.kleinezeitung.at/steiermark/graz/graz/1757683/index.do |archive-url=https://web.archive.org/web/20140923150838/http://www.kleinezeitung.at/steiermark/graz/graz/1757683/index.do|archive-date=2014-09-23 |publisher=Kleine Zeitung|access-date=2023-03-28|date=2009-02-02|language=de}}</ref><ref name="who3">{{cite journal|title=Ota Weinberger's conception of democracy: reconstructing an unexplored political theory|url=https://link.springer.com/article/10.1007/s11212-022-09528-4|first=Marián|last= Sekerák|journal=Studies in East European Thought|publisher=[[Springer Publishing Company|Springer]]|date=2022|doi=10.1007/s11212-022-09528-4 |s2cid=254619077 |access-date=2023-03-28|doi-access=free}}</ref><ref name="who5">{{cite journal|title=Ota Weinberger: In Memoriam|url=https://heinonline.org/HOL/LandingPage?handle=hein.journals/raju22&div=37&id=&page=|first=Peter|last= Koller|journal=Ratio Juris|date=2009| volume=22 | issue=3 | pages=416–420 | doi=10.1111/j.1467-9337.2009.00432.x |access-date=2023-03-28}}</ref>
+
+As a [[Liberal democracy|democrat and liberal thinker]], he refused to join the [[Czechoslovak Communist Party]] and was subsequently repressed by those in power. In the years 1953–1956, he had to work as a [[locksmith]] for political reasons.<ref name=Bio1/> Despite the most adverse circumstances, he managed to embark on an academic career as a Professor at the [[Charles University in Prague]], where he taught [[logic]] between 1956 and 1968.<ref name="who1"/><ref name="who3"/><ref name="who5"/>
+
+In meantime, he defended his [[PhD dissertation]] at the [[Charles University|Charles University in Prague]] named ''Studie k logice normativních vět: Proč nemá smyslu mluvit o pravdivosti normativních vět. Dvě oblasti logiky normativních vět. Theorie důslekových vztahů a podmíněná normativní věta. Několik poznámek k normativni interpretaci systémů K1 a K2 J. Kalinowského''. In 1963, Weinberger became ''Docent'' (associate professor) at the same university.<ref name="who3"/><ref name="who5"/>
+
+During the [[Prague Spring]] in 1968, Weinberger was in Vienna at the [[World Congress of Philosophy]] and never returned to his homeland. Only after the collapse of communism was he rehabilitated in the [[Czech Republic]]. Weinberger died on 30 January 2009, after a long and serious illness.<ref name=Bio1/><ref name="who5"/>
+
+== Thoughts ==
+In his PhD dissertation, Weinberger defends the applicability of logic to norms or normative propositions respectively. He created a pioneer work of the then-new discipline of [[deontic logic]] he preferred the term ''logic of norms''.<ref name="who5"/>
+
+== Honours and awards ==
+* 1989–1990: [[Humboldt Prize]] (''Humboldt-Forschungspreis'').<ref name="who1"/><ref name="pr">{{cite web|title=Personalia|url=https://unipub.uni-graz.at/download/pdf/518549|work=Unizeit|date=1990|access-date=2023-03-28|language=de}}</ref> 
+* 1989–1990: Gold Medal of Honor of the State of Salzburg (''Land Salzburg das Goldene Ehrenzeichen'').<ref name="pr"/>
+* 1993: The [[University of Salzburg]] awarded him an [[honorary doctorate]].
+* 1994: Member of [[Academia Europaea]].<ref name="who1"/>
+* 2004: ''Čestný doktorát'' or ''Doctor Honoris Causa'' ([[Honorary degree|Dr.h.c.]]) in [[Jurisprudence|juridical science]] at [[Masaryk University]] in Brno.<ref name="who1"/><ref>{{cite web|title=Ota Weinberger|url=https://www.muni.cz/en/about-us/awards/144|publisher=[[Masaryk University]]|date=2004|access-date=2023-03-28}}</ref>
+
+== Bibliography ==
+* ''Kurs logiky pro právníky'' (1957) – in Czech
+* ''Die Sollsatzproblematik in der modernen Logik'' (1958) – in German
+* ''Kurz logiky pre právníkov (1959) – in Slovak
+* ''Logika. Učebnice pro právníky'' (1959) – in Czech
+* ''Logika – vysokoškolský kurs pro právníky'' (1959) – in Czech
+* ''Rechtslogik'' (1970) – in German
+* ''Studien zur Normenlogik und Rechtsinformatik'' (1974) – in German
+* ''Logische Analyse in der Jurisprudenz'' (1979) – in German
+* ''Normentheorie als Grundlage der Jurisprudenz und Ethik'' (1981) – in German
+* ''An Institutional Theory of Law: New Approaches to Legal Positivism'', with [[Neil MacCormick]], (1986)
+* ''Logik, Semantik, Hermeneutik'' (1987) – in German
+* ''Recht, Institution und Rechtspolitik. Grundlagen der Rechtstheorie und Sozialphilosophie'' (1987) – in German
+* ''Norm und Institution. Eine Einführung in die Theorie des Rechts'' (1988) – in German
+* ''Law, Institution and Legal Politics: Fundamental Problems of Legal Theory and Social Philosophy'' (1991)
+* ''Moral und Vernunft. Beiträge zu Ethik, Gerechtigkeitstheorie und Normenlogik'' (1992) – in German
+* ''Filozofie právo, morálka. Problémy praktické filozifie'' (1993) – in Czech
+* ''Základy právní logiky'' (1995) – in Czech
+* ''Norma a instituce'' (1995) – in Czech
+* ''Inštitucionalizmus. Nová teória konania, práva a demokracie'' (1995) – in Slovak
+* ''Alternative Handlungstheorie. Gleichzeitig eine Auseinandersetzung mit Georg Henrik von Wrights praktischer Philosophie'' (1996) – in German
+* ''Alternativní teoríe jedmání. Zároveň kritický rozbor praktické filozofie Georga Henrika von Wrighta'' (1997) – in Czech
+* ''Alternative Action Theory: Simultaneously a Critique of Georg Henrik Von Wright's Practical Philosophy'' (1998)
+* ''Wahrer Glaube, Agnostizismus und theologische Argumentation'' (2004) – in German
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Weinberger, Ota}}
+[[Category:1919 births]]
+[[Category:2009 deaths]]
+[[Category:Scientists from Brno]]
+[[Category:20th-century Czech philosophers]]
+[[Category:Masaryk University alumni]]

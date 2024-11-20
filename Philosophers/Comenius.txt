@@ -1,0 +1,5 @@
+#REDIRECT [[John Amos Comenius]]
+
+{{Redirect category shell|
+{{R from surname}}
+}}

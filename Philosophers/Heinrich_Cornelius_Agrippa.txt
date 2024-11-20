@@ -1,0 +1,167 @@
+{{Short description|German occult writer (1486–1535)}}
+{{Infobox person
+| name        = Heinrich Cornelius Agrippa
+| image       = File:Portrait of Agrippa Wellcome L0000100.jpg
+| image_size  = frameless
+| caption     = Engraving by Theodor de Bry, 1598
+| birth_name  = 
+| birth_date  = 14 September 1486
+| birth_place = [[Nettersheim]], [[Electorate of Cologne]], [[Holy Roman Empire]]
+| death_date  = {{death date and age|df=yes|1535|02|18|1486|9|15}}
+| death_place = [[Grenoble]], [[Kingdom of France]]
+| alma_mater  = [[University of Cologne]]
+| resting_place = 
+| nationality = 
+| other_names = 
+| known_for   = 
+| education   = 
+| occupation  = [[Occult]] writer, [[theology|theologian]], [[physician]], legal expert, and [[soldier]]
+}}
+'''Heinrich Cornelius Agrippa von Nettesheim''' ({{IPAc-en|ə|ˈ|g|r|ɪ|p|ə}}; {{IPA|de|aˈgʀɪpa|lang}}; 14 September 1486 – 18 February 1535) was a German [[Renaissance]] [[wikt: polymath|polymath]], physician, legal scholar, soldier, knight, theologian, and [[occult]] writer.  Agrippa's ''[[Three Books of Occult Philosophy]]'' published in 1533 drew heavily upon [[Kabbalah]], [[Hermeticism]], and [[Neoplatonism]]. His book was widely influential among esotericists of the early modern period, and was condemned as [[heretical]] by the inquisitor of Cologne.{{sfnp|Bailey|Durrant|2012|p={{page needed|date=January 2023}}}}
+
+==Early life and education==
+Agrippa was born in Nettesheim, near [[Cologne]] on 14 September 1486 to a family of middle nobility.<ref name="valente">{{harvp|Valente|2006}}.</ref> Many members of his family had been in the service of the [[House of Habsburg]].<ref name="eb1911">{{EB1911|inline=1|wstitle=Agrippa Von Nettesheim, Henry Cornelius|volume=1|page=426}}</ref> Agrippa studied at the [[University of Cologne]] from 1499 to 1502, (age 13–16) when he received the degree of ''[[magister artium]]''.<ref name="valente"/>  The University of Cologne was one of the centers of [[Thomism]], and the faculty of arts was split between the dominant Thomists and the [[Albertism|Albertists]]. It is likely that Agrippa's interest in the occult came from this Albertist influence.<ref name="twet55">{{harvp|Goodrick-Clarke|2008|p=55}}.</ref> Agrippa himself named [[Albertus Magnus|Albert]]’s ''[[Speculum Astronomiae|Speculum]]'' as one of his first occult study texts.<ref name="twet55"/> He later studied in [[University of Paris|Paris]], where he apparently took part in a secret society involved in the occult.<ref name="valente"/>
+
+==Military career==
+In 1508 Agrippa traveled to Spain to work as a [[mercenary]].<ref name="valente"/>  He continued his travels by way of [[Valencia]], the [[Baleares (province)|Baleares]], [[Sardinia]], [[Naples]], [[Avignon]], and [[Lyon]].<ref name="valente"/> He served as a captain in the army of [[Maximilian I (Holy Roman Empire)|Maximilian I]], Holy Roman Emperor, who awarded him the title of ''[[Ritter]]'' (knight).<ref name="valente"/>
+
+==Academic career==
+{{Hermeticism|expand=Historical figures}}
+Agrippa's academic career began in 1509, receiving the patronage of [[Margaret of Austria (1480-1530)|Margaret of Austria]], governor of [[Franche-Comté]], and Antoine de Vergy, archbishop of [[Besançon]] and chancellor of the [[University of Dole]].<ref name="twet55"/> He was given the opportunity to lecture a course at the University on Hebrew scholar [[Johann Reuchlin]]'s ''De verbo mirifico''.<ref name="twet55"/> At Dôle, Agrippa wrote ''De nobilitate et praecellentia foeminae sexus'' (On the Nobility and Excellence of the Feminine Sex), a work that aimed at proving the superiority of women using [[Cabbala|cabalistic]] ideas.<ref name="valente"/><ref name="twet55"/>  The book was probably intended to impress Margaret.<ref name="twet55"/> Agrippa’s lectures received attention, and he was given a [[doctorate]] in theology because of them.<ref name="valente"/> He was, however, denounced by the [[Franciscan]] prior Jean Catilinet as a "[[Judaism|Judaizing]] heretic", and was forced to leave Dôle in 1510.<ref name="valente"/>
+
+In the winter of 1509–1510 Agrippa returned to Germany and studied with Humanist [[Johannes Trithemius]] at [[Würzburg]].<ref name="valente"/> On 8 April 1510 he dedicated the then unpublished first draft of ''De occulta philosophia'' ("On the Occult Philosophy") to Trithemius, who recommended that Agrippa keep his occult studies secret.<ref name="valente"/> Proceeding to the Netherlands he took service again with Maximilian. In 1510 the king sent Agrippa on a diplomatic mission to England, where he was the guest of the Humanist and Platonist [[John Colet]], dean of [[St Paul's Cathedral]], and where he replied to the accusations brought against him by Catilinet (''Expostulatio super Expositione sua in librum De verbo mirifico'').<ref name="eb1911"/><ref name="valente"/> In the reply he argued that his Christian faith was not incompatible with his appreciation for Jewish thought, writing "I am a Christian, but I do not dislike Jewish Rabbis".<ref name="valente"/> Agrippa then returned to Cologne and gave [[disputations]] at the university's faculty of theology.<ref name="valente"/>
+
+Agrippa followed Maximilian to Italy in 1511, and as a theologian attended the schismatic [[Conciliabulum of Pisa|council of Pisa]] (1512), which was called by some cardinals in opposition to a council called by Pope [[Julius II]]. He remained in Italy for seven years, partly in the service of [[William IX, Marquess of Montferrat]], and partly in that of [[Charles III, Duke of Savoy]], probably occupied in teaching theology and practicing medicine.<ref name="eb1911"/> During his time in northern Italy Agrippa came into contact with Agostino Ricci and perhaps [[Paolo Ricci]], and studied the works of philosophers [[Marsilio Ficino]] and [[Giovanni Pico della Mirandola]], and the [[kabbalah]].<ref name="valente"/> In 1515 he lectured at the [[University of Pavia]] on the [[Pimander]] of [[Hermes Trismegistus]], but these lectures were abruptly terminated owing to the victories of [[Francis I, King of France]].<ref name="eb1911"/>
+
+[[File:Etching of Heinrich Cornelius Agrippa von Nettesheim.jpg|left|thumb|Etching of Heinrich Cornelius Agrippa von Nettesheim]]
+
+In 1518 the efforts of one or other of his patrons secured for Agrippa the position of town advocate and orator, or [[syndic]], at [[Metz]]. Here, as at Dôle, his opinions soon brought him into collision with the monks, and his defense of a woman accused of witchcraft involved him in a dispute with the inquisitor, Nicholas Savin. The consequence of this was that in 1520 he resigned his office and returned to Cologne, where he stayed about two years. He then practiced for a short time as a physician at [[Geneva]] and [[Freiburg]], but in 1524 went to Lyons on being appointed physician to [[Louise of Savoy]], mother of Francis I. In 1528 he gave up this position, and about this time was invited to take part in the dispute over the legality of the divorce of [[Catherine of Aragon]] by [[Henry VIII]]; but he preferred an offer made by Margaret, duchess of Savoy and regent of the Netherlands, and became archivist and historiographer to the emperor [[Charles V, Holy Roman Emperor|Charles V]].<ref name="eb1911"/>
+
+Margaret's death in 1530 weakened his position, and the publication of some of his writings about the same time aroused anew the hatred of his enemies; but after suffering a short imprisonment for debt at [[Brussels]] he lived at [[Cologne]] and [[Bonn]], under the protection of [[Hermann of Wied]], archbishop of Cologne. By publishing his works he brought himself into antagonism with the [[Inquisition]], which sought to stop the printing of ''De occulta philosophia''. He then went to France, where he was arrested by order of Francis I for some disparaging words about the queen-mother; but he was soon released, and on 18 February 1535 died at [[Grenoble]]. He was married three times and had a large family.<ref name="eb1911"/>
+
+During his wandering life in Germany, France, and Italy, Agrippa worked as a theologian, physician, legal expert, and soldier.{{citation needed|date=January 2023}} Agrippa was for some time in the service of [[Maximilian I, Holy Roman Emperor|Maximilian I]], probably as a soldier in Italy, but devoted his time mainly to the study of the occult sciences and to problematic theological legal questions, which exposed him to various persecutions through life, usually in the mode described above: He would be privately denounced for one sort of heresy or another. He would only reply with venom considerably later (Nauert demonstrates this pattern effectively).
+
+No evidence exists that Agrippa was seriously accused, much less persecuted, for his interest in or practice of magical or occult arts during his lifetime, although it was known he argued against the persecution of witches.{{sfnp|Drabble|2000|p=12}} It is impossible, of course, to cite negatively, but Nauert, the best bio-bibliographical study to date, shows no indication of such persecution, and Van der Poel's careful examination of the various attacks suggest that they were founded on quite other theological grounds.
+
+Recent scholarship (see Further Reading below, in Lehrich, Nauert, and Van der Poel) generally agrees that this rejection or repudiation of magic is not what it seems: Agrippa never rejected magic in its totality, but he did retract his early manuscript of the ''[[De occulta philosophia libri tres|Occult Philosophy]]'' – to be replaced by the later form.{{efn|{{harvp|Perrone Compagni|2000|p=171}}: "As a Christian magician, Agrippa thinks that the threat of the fire of hell does not menace himself, but rather the quacks, ignorant, and the ‘demoniacal’ magicians, in short, those who are not regenerated and who practice science by replacing the support of faith by the concede of rebellious reason. Therefore Agrippa’s palinode of his earlier curiositas towards magic is by no means a global retraction, but an admission of the limits of his first project, which did not properly take into account the religious roots of the reform of magic."}}
+
+In the ''Third Book of Occult Philosophy'', Agrippa concludes with:
+
+{{blockquote|But of magic I wrote whilst I was very young three large books, which I called Of Occult Philosophy, in which what was then through the curiosity of my youth erroneous, I now being more advised, am willing to have retracted, by this recantation; I formerly spent much time and costs in these vanities. At last I grew so wise as to be able to dissuade others from this destruction. For whosoever do not in the truth, nor in the power of God, but in the deceits of devils, according to the operation of wicked spirits presume to divine and prophesy, and practising through magical vanities, exorcisms, incantations and other demoniacal works and deceits of idolatry, boasting of delusions, and phantasms, presently ceasing, brag that they can do miracles, I say all these shall with [[Jannes and Jambres|Jannes, and Jambres]], and [[Simon Magus]], be destinated to the torments of eternal fire.{{sfnp|Agrippa von Nettesheim|1993|p=706}} }}
+
+According to his student [[Johann Weyer]], in the 1563 book ''[[De praestigiis daemonum]]'', Agrippa died in [[Grenoble]], in 1535.{{sfnp|Weyer|1998|p={{page needed|date=January 2023}}}}
+
+==Works==
+[[File:Heinrich Cornelius Agrippa von Nettesheim.png|thumb|Woodcut print portrait of Agrippa]]
+Agrippa is perhaps best known for his books.
+
+''De incertitudine et vanitate scientiarum atque artium declamatio invectiva'' (''Declamation Attacking the Uncertainty and Vanity of the Sciences and the Arts'', 1526; printed in Cologne 1527), a skeptical satire of the sad state of science. This book, a significant production of the revival of [[Pyrrhonism|Pyrrhonic skepticism]] in its [[Fideism|fideist]] mode, was to have a significant influence on such thinkers and writers as [[Michel de Montaigne|Montaigne]], [[René Descartes|Descartes]] and [[Johann Wolfgang von Goethe|Goethe]].{{Citation needed|date=April 2010}}
+
+''Declamatio de nobilitate et praecellentia foeminei sexus'' (''Declamation on the Nobility and Preeminence of the Female Sex'', 1529<ref>{{cite web|url=http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-71692 |title=Gallica - Agrippa, Henri Corneille (1486-1535). Henrici Cornelii Agrippae De nobilitate et praecellentia foeminei sexus 1529 |language=la|publisher=Visualiseur.bnf.fr |access-date=2013-06-29}}</ref>), a book pronouncing the theological and moral superiority of women. Edition with English translation, London 1652{{sfnp|Agrippa von Nettesheim|1652}}
+
+''[[Three Books of Occult Philosophy|De occulta philosophia libri tres]]'' (''Three Books Concerning Occult Philosophy'', Book 1 printed Paris 1531; Books 2–3 in Cologne 1533). This summa of occult and  magical thought, Agrippa's most important work in a number of respects, sought a solution to the [[skepticism]] proposed in ''De vanitate''. In short, Agrippa argued for a synthetic vision of magic whereby the natural world combined with the celestial and the divine through [[Neoplatonism|Neoplatonic]] participation, such that ordinarily licit [[natural magic]] was in fact validated by a kind of [[goetia|demonic magic]] sourced ultimately from God. By this means Agrippa proposed a magic that could resolve all [[epistemological]] problems raised by skepticism in a total validation of Christian faith.{{citation needed|date=February 2023}}
+
+One example of the text, not especially indicative of its broader contents, is Agrippa's analysis of herbal treatments for [[malaria]] in numeric terms:
+
+<blockquote>Rabanus also, a famous Doctor, composed an excellent book of the vertues of numbers: But now how great vertues numbers have in nature, is manifest in the hearb which is called [[Potentilla|Cinquefoil]], i.e. five leaved Grass; for this resists poysons by vertue of the number of five; also drives away divells, conduceth to expiation; and one leafe of it taken twice in a day in wine, cures the Feaver of one day: three the tertian Feaver: foure the quartane. In like manner four grains of the seed of [[Turnsole|Turnisole]] being drunk, cures the quartane, but three the tertian. In like manner [[Verbena officinalis|Vervin]] is said to cure Feavers, being drunk in wine, if in tertians it be cut from the third joynt, in quartans from the fourth.{{Citation needed|date=November 2015}}</blockquote>
+
+The book was a major influence on such later magical thinkers as [[Giordano Bruno]] and [[John Dee]]. The book (whose early draft, quite different from the final form, circulated in manuscript long before it was published) is often cited in discussions of [[Albrecht Dürer]]'s famous engraving [[Melencolia I]] (1514).
+
+A spurious ''Fourth book of occult philosophy'', sometimes called ''Of Magical Ceremonies'', has also been attributed to him; this book first appeared in Marburg in 1559 and is not believed to have been written by Agrippa.{{sfnp|Waite|1913|loc=[http://www.sacred-texts.com/grim/bcm/bcm17.htm ch. III, section 5]}}
+
+===Modern editions===
+'''''De occulta philosophia libri tres''
+*{{cite book |title=De occulta philosophia libri tres |editor-first=Vittoria Perrone |editor-last=Compagni |place=Leiden and Boston |publisher=Brill |year=1992 |isbn=90-04-09421-0 |language=la |ref=none}}
+*{{cite book |title=The Philosophy of Natural Magic |translator=James Freake |editor-first=L. W. |editor-last=De Laurence |editor-link=L. W. de Laurence |year=1913 |publisher=The de Laurence Company |place=Chicago, Ill. |ref=none}}  ''Book one only''.
+*{{cite book |title=The Philosophy of Natural Magic |translator=James Freake |editor-first=Leslie |editor-last=Shepherd |year=1974 |publisher=University Books |isbn=0-82160-218-7 |ref=none}} ''Book one only''.
+*{{cite book |title=Three Books of Occult Philosophy |translator=James Freake |editor-first=Donald |editor-last=Tyson |year=2005 |publisher=Llewelyn Worldwide |isbn=0-87542-832-0 |ref=none}}
+
+'''Other works'''
+*{{cite book |title=Of the Vanitie and Vncertaintie of Artes and Sciences |editor-first=Catherine M. |editor-last=Dunn |translator=James Sanford |place=Northridge, CA |publisher=California State University Foundation |year=1974 |asin=B0006CM0SW |ref=none}}
+*{{cite book |title=De Arte Chimica |trans-title=On Alchemy |translator=Sylvain Matton |editor-first=Sylvain |editor-last=Matton |place=Paris |publisher=SÉHA |year=2014 |isbn=978-88-7252-337-7 |ref=none}}
+*{{cite book |title=Declamation on the Nobility and Preeminence of the Female Sex |translator=Albert Rabil Jr. |editor-first=Albert Jr. |editor-last=Rabil |place=Chicago |publisher=University of Chicago Press |year=1996 |isbn=0-226-01059-7 |ref=none}}
+*{{cite book |title=Female Preeminence: An Ingenius Discourse |translator=H. C. |editor-first=Tarl |editor-last=Warwick |year=2016 |publisher=CreateSpace Independent Publishing Platform |isbn=978-1-53532-532-5 |ref=none}}
+
+==See also==
+*{{annotated link|Celestial Alphabet}}
+*{{annotated link|Renaissance magic}}
+
+==References==
+===Notes===
+{{notelist}}
+
+===Citations===
+{{Reflist|2}}
+
+===Works cited===
+{{refbegin|2|indent=yes}}
+* {{cite book |last=Agrippa von Nettesheim |first=Heinrich Cornelius |orig-year=1529 |title=The Glory of Women [Declamatio de nobilitate et praecellentia foeminei sexus] |translator=Edward Fleetwood |place=London |publisher=printed for Robert Ibbitson |year=1652 |url=http://name.umdl.umich.edu/A75977.0001.001 |access-date=2023-01-07}}
+* {{cite book |last=Agrippa von Nettesheim |first=Heinrich Cornelius |editor-last=Tyson |editor-first=Donald |translator=James Freake |year=1993 |title=Three Books of Occult Philosophy |publisher=Llewellyn Publications |isbn=978-0875428321}}
+* {{cite book |last1=Bailey |first1=Michael D. |last2=Durrant |first2=Jonathan |year=2012 |title=Historical Dictionary of Witchcraft |publisher=Scarecrow Press |isbn=978-0810872455}}
+* {{cite book |editor-first=Margaret |editor-last=Drabble |year=2000 |title=The Oxford Companion to English Literature |edition=6th |publisher=Oxford University Press |isbn=0-19-866244-0}}
+* {{cite book |last=Goodrick-Clarke |first=Nicholas |author-link=Nicholas Goodrick-Clarke |year=2008 |title=The Western Esoteric Traditions |publisher=Oxford University Press, USA |isbn=978-0195320992}}
+* {{cite journal |last=Perrone Compagni |first=Vittoria |year=2000 |title='Dispersa Intentio.' Alchemy, Magic and Skepticism in Agrippa |journal=Early Science and Medicine |volume=5 |number=2 |pages=160–77 |doi=10.1163/157338200X00164 |jstor=4130474}}
+* {{cite book |last=Valente |first=Michaela |chapter=Agrippa, Heinrich Cornelius |editor-last=Hanegraaff |editor-first=Wouter J. |year=2006 |title=Dictionary of Gnosis & Western Esotericism. |place=Leiden/Boston |publisher=Brill |isbn=978-9004152311}}
+* {{cite book |last=Waite |first= A. E. |author-link=A. E. Waite |title=[[The Book of Ceremonial Magic]] |place=London |year=1913}}
+* {{cite book |last=Weyer |first=Johann |orig-year=1563 |editor-last=Kohl |editor-first=Benjamin G. |year=1998 |title=On Witchcraft: An Abridged Translation of Johann Weyer's ''De praestigiis daemonum'' |publisher=Pegasus Press |isbn=978-1889818023}}
+{{refend}}
+
+==Further reading==
+{{more footnotes|date=April 2024}}
+{{refbegin|2|indent=yes}}
+* {{cite journal |last=Gurashi |first=Dario |year=2020 |title=The stargazing physician: how to read Agrippa's astrological calendar |journal=Bruniana & Campanelliana |volume=26 |number=2 |pages=571–585 |url=https://www.academia.edu/45619809 |via=Academia.edu |ref=none}}
+* {{cite book |last=Gurashi |first=Dario |year=2021 |title=In deifico speculo: Agrippa's humanism |place=Paderborn |publisher=Brill-Fink |ref=none |isbn=9783846766514}}
+* {{cite journal |last=Hanegraaff |first=Wouter J. |year=2009 |title=Better than Magic. Cornelius Agrippa and Lazzarellian Hermetism |journal=Magic, Ritual, and Witchcraft |volume=4 |number=1 |pages=1–25 |doi=10.1353/mrw.0.0128 |s2cid=83272600 |ref=none}} 
+* {{cite book |last=Hanegraaff |first=Wouter J. |year=2010 |chapter=The Platonic Frenzies in Marsilio Ficino |title=Myths, Martyrs and Modernity: Studies in the History of Religions in Honour of Jan N. Bremmer |editor1-first=Jitse |editor1-last=Dijkstra |editor2-first=Justin |editor2-last=Kroesen |editor3-first=Yme |editor3-last=Kuiper |pages=553–556 |place=Leiden/Boston |publisher=Brill |isbn=9789004193659 |chapter-url=https://www.academia.edu/1170518 |via=Academic.edu |ref=none}}
+* {{cite journal |last=Keefer |first=Michael E. |year=1991 |title=Agrippa's Dilemma: Hermetic 'Rebirth' and the Ambivalences of 'De vanitate' and 'De occulta philosophia |journal=Renaissance Quarterly |volume=41 |number=4 |pages=614–53 |doi=10.2307/2861884 |jstor=2861884 |s2cid=170433774 |ref=none}}
+* {{cite book |last=Lehrich |first=Christopher I. |year=2003 |title=The Language of Demons and Angels |place=Leiden and Boston |publisher=Brill |isbn=90-04-13574-X |ref=none}} The only in-depth scholarly study of Agrippa's occult thought.
+* {{cite book |last=McDonald |first=Grantley |year=2008 |chapter=Cornelius Agrippa’s School of Love: Teaching Plato’s ''Symposium'' in the Renaissance |title=Practices of Gender in Late-Medieval and Early Modern Europe |editor1-first=Peter |editor1-last=Sherlock |editor1-link=Peter Sherlock |editor2-first=Megan |editor2-last=Cassidy-Welch |place=Turnhout |publisher=Brepols |isbn=9782503523361 |pages=151–75 |chapter-url=https://www.academia.edu/12247866 |via=Academia.edu |access-date=2023-01-07 |ref=none}} An examination of one of Agrippa's university orations, on the subject of love, from a Neoplatonic and Cabalistic perspective.
+* {{cite book |last=Morley |first=Henry |year=1856 |title=Cornelius Agrippa: The Life of Henry Cornelius Agrippa von Nettesheim |volume=I |place=London |publisher=Chapman & Hall |url=https://archive.org/details/corneliusagripp03morlgoog |url-access=registration |ref=none}}
+* {{cite book |last=Nauert |first=Charles G. |title=Agrippa and the Crisis of Renaissance Thought |place=Urbana |publisher=University of Illinois Press |year=1965 |isbn=978-0252723018 |ref=none}} The first serious bio-bibliographical study.
+* {{cite SEP |url-id=agrippa-nettesheim |title=Heinrich Cornelius Agrippa von Nettesheim |last=Perrone Compagni |first=Vittoria}}
+* {{cite book |last=Putnik |first=Noel |year=2010 |title=The Pious Impiety of Agrippa's Magic: Two Conflicting Notions of Ascension in the Works of Cornelius Agrippa |place=Saarbrücken |publisher=VDM Verlag Dr. Müller |isbn=9783639240467 |ref=none}}
+* {{cite book |last=Putnik |first=Noel |year=2017 |chapter=Agrippa’s Cosmic Ladder: Building a World with Words in the De Occulta Philosophia |title=Lux in Tenebris |place=Leiden, The Netherlands |publisher=Brill |series=Aries Book Series |volume=23 |pages=81–102 |doi=10.1163/9789004334953_006 |isbn=978-9004334953 |ref=none}}
+*{{cite book |last=Putnik |first=Noel |year=2020 |chapter=Operari per fidem |editor-first=Fabrizio |editor-last=Conti |title=The Role of Faith Civilizations of the Supernatural: Witchcraft, Ritual, and Religious Experience in Late Antique, Medieval, and Renaissance Traditions |place=Hungary |publisher=Trivent Publishing |isbn=978-6158168915 |ref=none}}
+* {{cite book |last=Szőnyi |first=György E. |year=2004 |title=John Dee's Occultism: Magical Exaltation Through Powerful Signs |place=Albany, NY |publisher=State University of New York Press |isbn=9780791484425 |ref=none}}
+* {{cite book |last=van der Poel |first=Marc |year=1997 |title=Cornelius Agrippa, the Humanist Theologian and His Declamations |place=Leiden and Boston |publisher=Brill |isbn=90-04-10756-8 |ref=none}} Detailed examination of Agrippa's minor orations and the ''De vanitate'' by a Neo-Latin philologist.
+* {{cite book |last=Walker |first=D. P. |year=1958 |title=Spiritual and Demonic Magic from Ficino to Campanella |place=London |publisher=The Warburg institute |isbn=9780811513944 |ref=none}}
+* {{cite book |author-link1=Frances Yates |last=Yates |first=Frances A. |year=1964 |title=[[Giordano Bruno and the Hermetic Tradition]] |publisher=[[University of Chicago Press]] |isbn=0-226-95007-7 |ref=none}} Provides a scholarly summary of Agrippa's occult thoughts in the context of Hermeticism.
+{{refend}}
+
+==External links==
+{{Commons}}
+{{Wikisource author}}
+*{{Internet Archive author |sname=Heinrich Cornelius Agrippa}}
+* {{Librivox author |id=12160}}
+*[https://web.archive.org/web/20091027043443/http://geocities.com/Athens/Agora/7850/   Website devoted to Agrippa's Life]
+*[http://www.esotericarchives.com/agrippa/ Writings of Agrippa]
+*[http://www.newadvent.org/cathen/01231c.htm Article in the ''Catholic Encyclopedia'']
+*[http://hos.ou.edu/galleries//16thCentury/Agrippa/ Online Galleries, History of Science Collections, University of Oklahoma Libraries] {{Webarchive|url=https://web.archive.org/web/20210214001245/http://hos.ou.edu/galleries//16thCentury/Agrippa/ |date=2021-02-14 }} High resolution images of works by and/or portraits of Agrippa in .jpg and .tiff format.
+*[http://hdl.loc.gov/loc.rbc/houdini.70112.1 Magische Werke] – From the [https://www.loc.gov/rr/rarebook/coll/122.html Harry Houdini Collection] at the [[Library of Congress]]
+*[http://hdl.loc.gov/loc.rbc/general.12345.1 ''De occulta philosophia''] – From the Collections at the [[Library of Congress]]
+*[http://hdl.loc.gov/loc.rbc/general.31418.1 ''De occulta philosophia''. Book 4] – From the Collections at the [[Library of Congress]]
+* [http://querelle.ca/?page_id=369 Querelle | Heinrich Cornelius Agrippa von Nettesheim] Querelle.ca is a website devoted to the works of authors contributing to the pro-woman side of the ''querelle des femmes''.
+
+{{Alchemy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Agrippa, Heinrich Cornelius}}
+[[Category:1486 births]]
+[[Category:1535 deaths]]
+[[Category:16th-century alchemists]]
+[[Category:16th-century astrologers]]
+[[Category:16th-century German Catholic theologians]]
+[[Category:16th-century German jurists]]
+[[Category:16th-century German male writers]]
+[[Category:16th-century German physicians]]
+[[Category:16th-century writers in Latin]]
+[[Category:16th-century occultists]]
+[[Category:Christian occultists]]
+[[Category:Creators of writing systems]]
+[[Category:German alchemists]]
+[[Category:German astrologers]]
+[[Category:German male non-fiction writers]]
+[[Category:German occultists]]
+[[Category:German occult writers]]
+[[Category:German Renaissance humanists]]
+[[Category:Physicians from Cologne]]

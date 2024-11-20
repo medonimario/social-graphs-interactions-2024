@@ -1,0 +1,110 @@
+{{Short description|Swiss historian (1818–1897)}}
+{{distinguish|Carl Jacob Burckhardt|Johann Jakob Burckhardt}}
+{{use dmy dates|date=June 2024}}
+{{Infobox philosopher
+|name          = Jacob Burckhardt
+|image         = Jacburc2.gif
+|image_size    = 200px
+|caption       = Burkhardt in 1892
+|birth_date    = {{Birth date|1818|5|25|df=y}}
+|birth_place   = [[Basel]], Switzerland
+|death_date    = {{death date and age|1897|8|8|1818|5|25|df=y}}
+|death_place   = Basel, Switzerland
+|alma_mater      = [[University of Bonn]]
+|institutions = [[University of Basel]]<br>[[Federal Polytechnic School]]
+|notable_works        = ''[[The Civilization of the Renaissance in Italy]]'' (''Die Cultur<!--[sic]--> der Renaissance in Italien''; 1860)
+|main_interests=[[History of art]]<br>[[Cultural history]]|region=[[Western philosophy]]|era=[[19th-century philosophy]]}}{{Conservatism in Switzerland|Intellectuals}}
+'''Carl Jacob Christoph Burckhardt''' (25 May 1818 &ndash; 8 August 1897) was a Swiss historian of art and culture and an influential figure in the [[historiography]] of both fields. His best known work is ''[[The Civilization of the Renaissance in Italy]]'' (1860). He is known as one of the major progenitors of [[cultural history]].<ref>[http://www.age-of-the-sage.org/history/historian/Jacob_Burckhardt.html Jakob Burckhardt Renaissance Cultural History <!-- Bot generated title -->]</ref> [[Sigfried Giedion]] described Burckhardt's achievement in the following terms: "The great discoverer of the age of the [[Renaissance]], he first showed how a period should be treated in its entirety, with regard not only for its painting, sculpture and architecture, but for the social institutions of its daily life as well."<ref>In ''Space, Time and Architecture'' (6th ed.), p 3.</ref>
+
+== Life ==
+The son of a [[Protestant]] clergyman, Burckhardt was born in [[Basel]], where he studied theology in the hope of taking [[holy orders]]; however, under the influence of [[Wilhelm Martin Leberecht de Wette]], he chose not to become a clergyman. He was a member of the patrician [[Burckhardt]] family.
+
+Burckhardt finished his degree in 1839 and went to the [[University of Berlin]] to study history,<ref>The Letters of Jacob Burckhardt, Translated by Alexander Dru, London: Routledge and Kegan Paul, 1955; [[Liberty Fund Inc.]], 2001, xxviii-xxxii.</ref> especially art history, then a new field. At Berlin, he attended lectures by [[Leopold von Ranke]], the founder of history as a respectable academic discipline based on sources and records rather than personal opinions. He spent part of 1841 at the [[University of Bonn]], studying under the art historian [[Franz Theodor Kugler]], to whom he dedicated his first book, ''Die Kunstwerke der belgischen Städte'' (1842).
+
+Burckhardt taught at the [[University of Basel]] from 1843 to 1855, then at the [[Federal Polytechnic School]]. In 1858, he returned to Basel to assume the professorship he held until his retirement in 1893. He started to teach only art history in 1886. He twice declined offers of professorial chairs at German universities, at the [[University of Tübingen]] in 1867 and Ranke's chair at the University of Berlin in 1872.
+
+==Work==
+Burckhardt's historical writings did much to establish the importance of art in the study of history; indeed, he was one of the "founding fathers of art history" but also one of the original creators of cultural history. Contra [[John Lukacs]], who has argued that Burckhardt represents one of the first historians to rise above the narrow 19th-century notion that "history is past politics and politics current history,"<ref>John Lukacs, Remembered Past: John Lukacs on History, Historians, and Historical Knowledge, ed. Mark G Malvasi and Jeffrey O. Nelson, Wilmington, DE: ISI Books, 2004, 215.</ref> [[Lionel Gossman]] claims that in stressing the importance of art, literature, and architecture as a primary source for the study of history, Burckhardt (in common with later Dutch cultural historian [[Johan Huizinga]]) saw himself as working in the tradition of the French romantic historian [[Jules Michelet]].<ref name=":0" /> Burckhardt's unsystematic approach to history was strongly opposed to the interpretations of [[Hegelianism]], which was popular at the time;{{Citation needed|date=May 2020}} [[economism]] as an interpretation of history;{{Citation needed|date=May 2020}} and [[positivism]], which had come to dominate scientific discourses (including the discourse of the social sciences).{{Citation needed|date=May 2020}}
+
+In 1838, Burckhardt made his first journey to Italy and published his first important article, "Bemerkungen über schweizerische Kathedralen" ("Remarks about Swiss Cathedrals"). Burckhardt delivered a series of lectures at the University of Basel, which were published in 1943 by Pantheon Books Inc., under the title ''Force and Freedom:  An Interpretation of History by Jacob Burckhardt''. In 1847, he brought out new editions of Kugler's two great works, ''Geschichte der Malerei'' and ''Kunstgeschichte'', and in 1853, he published his own work, ''Die Zeit Constantins des Grossen'' ("The Age of [[Constantine the Great]]"). He spent the greater part of the years 1853 and 1854 in Italy, collecting material for his 1855 ''Der Cicerone: Eine Anleitung zum Genuss der Kunstwerke Italiens'' (7th German edition, 1899) ("The Cicerone: or, Art-guide to painting in Italy. For the use of travellers"  Translated into English by A. H. Clough in 1873), also dedicated to Kugler. The work, "the finest travel guide that has ever been written"<ref>Giedion, p. 4.</ref> which covered [[sculpture]] and [[architecture]], and painting, became an indispensable guide to the art traveller in Italy.
+
+About half of the original edition was devoted to the art of the [[Renaissance]]. This was followed by the two books for which Burckhardt is best known today, his 1860 ''Die Cultur<!--[sic]--> der Renaissance in Italien'' ("The Civilization of the Renaissance in Italy") (English translation, by S. G. C. Middlemore, in 2 vols., London, 1878), and his 1867 ''Geschichte der Renaissance in Italien'' ("The History of the Renaissance in Italy"). ''The Civilization of the Renaissance in Italy'' was the most influential interpretation of the Italian Renaissance in the 19th century and is still widely read.
+
+In connection with this work Burckhardt may have been the first historian to use the term "[[modernity]]" in a clearly defined, academic context.<ref name="Myth of Disenchantment">{{Cite book | last = Josephson-Storm | first = Jason | title = The Myth of Disenchantment: Magic, Modernity, and the Birth of the Human Sciences | location = Chicago | publisher = University of Chicago Press | date = 2017 |page = 91 | url = https://books.google.com/books?id=xZ5yDgAAQBAJ | isbn = 978-0-226-40336-6 }}</ref> Burckhardt understood Renaissance as drawing together art, philosophy and politics, and made the case that it created "modern man".<ref name="Myth of Disenchantment" /> Burckhardt developed an ambivalent interpretation of modernity and the effects of the Renaissance, praising the movement as introducing new forms of cultural and [[religious freedom]] but also worrying about the potential feelings of [[Social alienation|alienation]] and [[disenchantment]] modern men might feel.<ref name="Myth of Disenchantment" />{{Additional citation needed|date=February 2020|reason=This seems more Josephson-Storm conclusion than what Burckhardt  actually said. More citations may help give a more rapresentative chacterization of Burckhardt observations.}} These claims proved quite controversial, but the scholarly judgements of Burckhardt's ''History of the Renaissance'' are sometimes considered to be justified by subsequent research, according to historians including [[Desmond Seward]] and art historians such as [[Kenneth Clark]]. Burckhardt and the German historian [[Georg Voigt]] founded the historical study of the Renaissance. In contrast to Voigt, who confined his studies to early [[Italian humanism]], Burckhardt dealt with all aspects of Renaissance society.
+
+Burckhardt considered the study of ancient history an intellectual necessity and was a highly respected scholar of Greek civilization. "The Greeks and Greek Civilization" sums up the relevant lectures, "Griechische Kulturgeschichte", which Burckhardt first gave in 1872 and which he repeated until 1885. At the time of his death, he was working on a four-volume survey of Greek civilization, which was published posthumously with additional work by others.<ref>{{cite web |title=Jacob Burckhardt - Greek cultural history |url=http://www.zeno.org/Geschichte/M/Burckhardt,+Jacob/Griechische+Kulturgeschichte |website=Zeno.org |access-date=11 October 2020 |quote=published by Max Oeri only after the author's death. ... Staehelin ... was able to correct some of Oeri's reading errors}}</ref><ref>{{cite book |title=Jacob Burckhardt-Gesamtausgabe |url=https://www.worldcat.org/oclc/21347586 |via=WorldCat |oclc=21347586 |access-date=11 October 2020 |quote=1929-34 ... 8. Bd. Griechische Kulturgeschichte, 1. Bd. / herausgegeben von Felix Stähelin -- 9. Bd. ditto, 2. Bd. / hrsg. von Felix Stähelin -- 10. Bd. ditto, 3. Bd. / hrsg. von Felix Stähelin und Samuel Merian -- 11. Bd. ditto, 4. Bd. / hrsg. von Felix Stähelin und Samuel Merian}}</ref>
+
+"Judgments on History and Historians" is based on Burckhardt's lectures on history at the University of Basel between 1865 and 1885.  It provides his insights and interpretation of the events of the entire sweep of Western Civilization from Antiquity to the Age of Revolution, including the Middle Ages, History from 1450 to 1598, the History of the Seventeenth and the Eighteenth Centuries.<ref>Burckhardt: Judgments on history and historians</ref>
+
+==Politics==
+There is a tension in Burckhardt's persona between the wise and worldly student of the [[Italian Renaissance]] and the cautious product of Swiss [[Calvinism]], which he had studied extensively for the ministry. The Swiss polity in which he spent nearly all of his life was a good deal more democratic and stable than was the norm in 19th-century Europe. As a Swiss, Burckhardt was also cool to German nationalism and to German claims of cultural and intellectual superiority. He was also amply aware of the rapid political and economic changes taking place in the Europe of his day and commented in his lectures and writings on the [[Industrial Revolution]], the European political upheavals of his day, and the growing European nationalism and militarism. Events amply fulfilled his prediction of a cataclysmic 20th century, in which violent demagogues (whom he called "terrible simplifiers") would play central roles. In later years, Burckhardt found himself unimpressed by democracy, individualism, socialism, and a great many other ideas fashionable during his lifetime. He also observed over a century ago that "the state incurs debts for politics, war, and other higher causes and 'progress'.... The assumption is that the future will honor this relationship in perpetuity. The state has learned from the merchants and industrialists how to exploit credit; it defies the nation ever to let it go into bankruptcy. Alongside all swindlers the state now stands there as swindler-in-chief."<ref>Judgments on History and Historians (tr. Boston: 1958), p. 171 – cited in "Super Imperialism" by M. Hudson</ref>
+
+==Legacy==
+
+[[File:Plakette Jakob Burckhardt 1898.jpg|thumb|Medal Jakob Burckhardt 1898]]
+
+After his death, a medal was commissioned in his honour in 1898, which was made by the Swiss engraver Hans Frei (1868-1947).<ref>http://hdl.handle.net/10900/100742 S. Krmnicek und M. Gaidys, Gelehrtenbilder. Altertumswissenschaftler auf Medaillen des 19. Jahrhunderts. Begleitband zur [http://online-Ausstellung%20im%20Digitalen%20Münzkabinett%20des%20Instituts%20für%20Klassische%20Archäologie%20der%20Universität%20Tübingen online-Ausstellung im Digitalen Münzkabinett des Instituts für Klassische Archäologie der Universität Tübingen], in: S. Krmnicek (Hrsg.), Von Krösus bis zu König Wilhelm. Neue Serie Bd. 3 (Tübingen 2020), 30f.</ref>
+
+[[Friedrich Nietzsche]], appointed professor of classical philology at Basel in 1869 at the age of 24, admired Burckhardt and attended some of his lectures. Both men were admirers of the late [[Arthur Schopenhauer]]. Nietzsche believed Burckhardt agreed with the thesis of his ''[[The Birth of Tragedy]]'', that Greek culture was defined by opposing "Apollonian" and "Dionysian" tendencies. Nietzsche and Burckhardt enjoyed each other's intellectual company, even as Burckhardt kept his distance from Nietzsche's evolving philosophy. Their extensive correspondence over a number of years has been published.{{Additional citation needed|date=October 2020}}
+
+Burckhardt's student [[Heinrich Wölfflin]] succeeded him at the University of Basel at the age of only 28. In turn, Wölfflin's successor, [[Werner Kaegi]], devoted his life's work to completing a six-volume intellectual biography of Burckhardt, in addition to translating the work of pioneering Dutch cultural historian [[Johan Huizinga]] into German. Gossman has argued that, "The extensive correspondence between Kaegi and Huizinga is evidence of the close intellectual and personal relation between Huizinga and the man who felt he had inherited the mantle of Burckhardt."<ref name=":0">{{Cite news|date=1996-09-08|title=Before Huizinga|language=en-US|work=The New York Times|url=https://www.nytimes.com/1996/09/08/books/l-before-huizinga-180440.html|access-date=2020-05-01|issn=0362-4331}}</ref>
+
+In 2018, the British Academy hosted an international conference on the occasion of Burckhardt's bicentenary. This conference tasked an interdisciplinary team of scholars of Renaissance studies as well as of Burckhardt himself to interrogate both the Swiss historian’s own agenda as well as the contemporary validity and helpfulness of the label ‘Italian Renaissance’.<ref>{{Cite web|title=Burckhardt at 200: The Civilization of the Italian Renaissance reconsidered|url=https://www.thebritishacademy.ac.uk/events/burckhardt-200-civilization-italian-renaissance-reconsidered/|access-date=2020-07-10|website=The British Academy|language=en}}</ref>
+
+Burckhardt was featured on the Swiss [[Banknotes of the Swiss franc#Eighth series|thousand franc banknote]].
+
+==Works==
+'''English translations'''
+*1873. ''[https://archive.org/details/ciceroneorartgui00burc The Cicerone: or, Art-guide to Painting in Italy. For the Use of Travellers]'' Translation by A. H. Clough.
+*1878. ''[https://web.archive.org/web/20080921145058/http://www.boisestate.edu/courses/hy309/docs/burckhardt/burckhardt.html The Civilization of the Renaissance in Italy]''. The Middlemore translation of the 1860 German original (''Die Cultur<!--[sic]--> der Renaissance in Italien'', 1860); 1990 [https://books.google.com/books?id=zIP001EQpj8C&q=Jacob+Burckhardt new edition]''. Penguin Classics. {{ISBN|0-14-044534-X}}
+*1999. ''The Greeks and Greek Civilization'', Oswyn Murray, ed. New York: St Martin's Griffin. {{ISBN|0-312-24447-9}} (translation of ''Griechische Kulturgeschichte'', 1898–1902)
+*1929. ''Judgements on History and Historians'' 
+*''The Letters of Jacob Burckhardt''. {{ISBN|0-86597-122-6}}.
+*1943. ''Reflections on History''. (translation of ''Weltgeschichtliche Betrachtungen''; originally published as ''Force and freedom: Reflections on History'', shortened title from 1979). {{ISBN|0-913966-37-1}}.
+
+==References==
+'''Notes'''
+{{Reflist}}
+
+'''Further reading'''
+*[[Stefan Bauer|Bauer, Stefan]] (2001): ''Polisbild und Demokratieverständnis in Jacob Burckhardts "Griechischer Kulturgeschichte".'' Basel: Schwabe. {{ISBN|978-3-7965-1674-0}}
+* {{Cite EB1911|wstitle= Burckhardt, Jakob | volume= 4 |last= Coolidge |first= William Augustus Brevoort |author-link= W. A. B. Coolidge|  page = 809 }}
+*{{cite book | last = Gilbert | first = Felix | title = History: Politics or Culture? Reflections on Ranke and Burckhardt | publisher = Princeton University Press | year = 1990 | location = Princeton, N.J. | pages = 109 | isbn = 0-691-03163-0}}
+*[[Lionel Gossman|Gossman, Lionel]], 2000. ''Basel in the Age of Burckhardt: A Study in Unseasonable Ideas''. The University of Chicago Press. {{ISBN|0-226-30500-7}}
+*Grosse, Jurgen, 1999, "Reading History: On Jacob Burckhardt as Source-Reader," ''Journal of the History of Ideas 60'': 525-47.
+*Gossman, Lionel. "Jacob Burckhardt: Cold War Liberal?" ''Journal of Modern History'' (2002) 74#3 pp.&nbsp;538–572 [https://www.jstor.org/stable/10.1086/345111 in JSTOR]
+*Hinde, John R., 2000. ''Jacob Burckhardt and the Crisis of Modernity''. McGill-Queen's Studies in the History of Ideas. McGill-Queen's University Press. {{ISBN|0-7735-1027-3}}
+*Howard, Thomas Albert, 1999. ''Religion and the Rise of Historicism: [[De Wette|W.M.L. De Wette]], Jacob Burckhardt, and the Theological Origins of Nineteenth-Century Historical Consciousness'', Cambridge University Press. {{ISBN|0-521-65022-4}}
+* Kahan, Alan S., 1992. ''Aristocratic Liberalism: The Social and Political Thought of Jacob Burckhardt, John Stuart Mill, and Alexis de Tocqueville''. Oxford University Press. {{ISBN|0195070194}}
+* Mommsen, Wolfgang. "Jacob Burckhardt- Defender of Culture and Prophet of Doom," ''Government and Opposition'' (1983) 18#4 pp.&nbsp;458–475.
+* Rüsen, Jörn. "Jacob Burckhardt: Political Standpoint and Historical Insight on the Border of Postmodernism," ''History and Theory'' (1985) 24#3 pp.&nbsp;235–246
+*Sigurdson, Richard, 2004. ''Jacob Burckhardt's Social and Political Thought''. Univ. of Toronto Press. {{ISBN|0802047807}}
+*Trog, Hans, 1898. "Life" in ''Basler Jahrbuch 1898'' pp.&nbsp;1–172.
+
+== External links ==
+{{Sister project links|s=Author:Jacob Burckhardt|wikt=no|v=no|n=no}}
+{{Library resources box|by=yes|onlinebooks=yes|about=yes|wikititle=Jacob Burckhardt}}
+* {{Internet Archive author |sname=Jacob Burckhardt}}
+* {{Gutenberg author |id=813| name=Jacob Burckhardt}}
+* {{PGDA|burckhar|Jacob Burckhardt}}
+* {{Librivox author |id=5246}}
+* [http://www.zeno.org/Geschichte/M/Burckhardt,+Jacob Jacob Burckhardt] at [[Zeno.org]] {{In lang|de}}
+* [https://www.arthistoricum.net/themen/portale/gkg/quellen/burckhardt Jacob Burckhardt] at Arthistoricum.net {{In lang|de}}
+* {{PM20|FID=pe/002761}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Burckhardt, Jakob}}
+[[Category:1818 births]]
+[[Category:1897 deaths]]
+[[Category:Academic staff of ETH Zurich]]
+[[Category:Burckhardt family|Jakob]]
+[[Category:People from Basel-Stadt]]
+[[Category:19th-century Swiss historians]]
+[[Category:Swiss art historians]]
+[[Category:Cultural historians]]
+[[Category:University of Bonn alumni]]
+[[Category:Historians of the Renaissance]]
+[[Category:19th-century Swiss male writers]]
+[[Category:Members of the Göttingen Academy of Sciences and Humanities]]
+[[Category:People associated with the University of Basel]]

@@ -1,0 +1,232 @@
+{{Short description|Russian existentialist philosopher and theologian (1874–1948)}}
+{{Use dmy dates|date=March 2024}}
+{{Infobox philosopher
+|name = Nikolai Berdyaev
+|image =NBerdyaev.jpg
+|birth_name=Nikolai Alexandrovich Berdyaev
+|birth_date = 18 March 1874
+|birth_place = [[Obukhiv|Obukhov]], [[Kiev Governorate]], [[Russian Empire]]
+|death_date = {{death date and age|df=y|1948|3|24|1874|3|18}}
+|death_place = [[Clamart]], [[Fourth French Republic|France]]
+|region = [[Russian philosophy]]
+|era = [[20th-century philosophy]]
+|school_tradition = [[Christian existentialism]], [[personalism]]
+|main_interests = [[Creativity]], [[eschatology]], [[Freedom (philosophy)|freedom]]
+|notable_ideas = Emphasizing the [[existentialism|existential]] spiritual significance of [[Personalism|human freedom]] and the human person
+|caption=
+}}
+'''Nikolai Alexandrovich Berdyaev''' ({{IPAc-en|b|ər|ˈ|d|j|ɑː|j|ɛ|f|,_|-|j|ɛ|v}};<ref>[http://dictionary.reference.com/browse/berdyaev "Berdyaev"] {{Webarchive|url=https://web.archive.org/web/20141220022447/http://dictionary.reference.com/browse/berdyaev |date=20 December 2014 }}. ''[[Random House Webster's Unabridged Dictionary]]''.</ref> {{langx|ru|Никола́й Алекса́ндрович Бердя́ев}}; {{OldStyleDate|18 March|1874|6 March}}&nbsp;– 24 March 1948) was a [[Russian Empire|Russian]] [[philosopher]], [[theologian]], and [[Christian existentialism|Christian existentialist]] who emphasized the [[existentialism|existential]] spiritual significance of [[Personalism|human freedom]] and the human person. Alternative historical spellings of his surname in English include "Berdiaev" and "Berdiaeff", and of his given name "Nicolas" and "Nicholas".
+
+==Biography==
+
+Nikolai Berdyaev was born near [[Kiev]] in 1874 to an [[aristocratic]] [[military]] family.<ref>{{cite book |last=Nicolaus |first=Georg |title=C.G. Jung and Nikolai Berdyaev: Individuation and the Person: A Critical Comparison |publisher=[[Routledge]] |year=2011 |isbn=9780415493154 |chapter=Chapter 2 "Berdyaev’s life" |archive-url=https://web.archive.org/web/20160306193608/http://tandfbis.s3.amazonaws.com/rt-media/pp/common/sample-chapters/9780415493161.pdf |access-date=16 October 2016 |archive-date=6 March 2016 |chapter-url=http://tandfbis.s3.amazonaws.com/rt-media/pp/common/sample-chapters/9780415493161.pdf }}</ref> His father, Alexander Mikhailovich Berdyaev, came from a long line of [[Russian nobility]]. Almost all of Alexander Mikhailovich's ancestors served as high-ranking military officers, but he resigned from the army quite early and became active in the social life of the aristocracy. Nikolai's mother, Alina Sergeevna Berdyaeva, was half-French and came from the top levels of both French and Russian nobility. He also had [[Polish people|Polish]] and [[Tatar people|Tatar]] origins.<ref>Young, George M. (2012) ''The Russian Cosmists: The Esoteric Futurism of Nikolai Fedorov and His Followers'', Oxford University Press, p. 134. {{ISBN|978-0199892945}}</ref><ref>Berger, Stefan 
+ and Miller, Alexei (2015) ''Nationalizing Empires'', Central European University Press, p. 312. {{ISBN|978-9633860168}}</ref>
+
+[[File:Nikolay Berdyaev.jpg|thumb|left|upright|Nikolai Berdyaev in 1910]]
+
+[[File:Николай Бердяев.jpg|thumb|Nikolai Berdyaev in 1912]]
+
+Berdyaev decided on an intellectual career and entered the [[Kiev University]] in 1894. It was a time of revolutionary fervor among the students and the [[intelligentsia]]. He became a [[Marxism|Marxist]] for a period and was arrested in a student demonstration and expelled from the university. His involvement in illegal activities led in 1897 to three years of internal [[exile]] to [[Vologda]] in northern Russia.<ref name = "Markovic"/>{{rp|28}}
+
+A fiery 1913 article, entitled "Quenchers of the Spirit", criticising the rough purging of [[Imiaslavie]] Russian monks on [[Mount Athos]] by the [[Holy Synod]] of the [[Russian Orthodox Church]] using tsarist troops, caused him to be charged with the crime of [[blasphemy]], the punishment for which was exile to [[Siberia]] for life. The [[World War I|World War]] and the [[Bolshevik Revolution]] prevented the matter coming to trial.<ref name="ReferenceA">''Self-Knowledge: An Essay in Autobiography'', by Nicolas Berdyaev (Author), Katharine Lampert (Translator), Boris Jakim (Foreword) {{ISBN|1597312584}}.</ref>
+
+Berdyaev's disaffection culminated, in 1919, with the foundation of his own private academy, the ''"Free Academy of Spiritual Culture"''. It was primarily a forum for him to lecture on the hot topics of the day and to present them from a Christian point of view. He also presented his opinions in public lectures, and every Tuesday, the academy hosted a meeting at his home because [[Persecution of Christians in the Soviet Union|official Soviet anti-religious activity was intense]] at the time and the official policy of the Bolshevik government, with its [[Soviet anti-religious legislation]], strongly promoted [[state atheism]].<ref name = "Markovic"/>
+
+In 1920, Berdiaev became professor of philosophy at the [[University of Moscow]]. In the same year, he was accused of participating in a conspiracy against the government; he was arrested and jailed. The feared head of the [[Cheka]], [[Felix Dzerzhinsky]], came in person to interrogate him,<ref name="Gulag1">{{cite book | last = Solzhenitsyn | first = Aleksandr | author-link = Aleksandr Solzhenitsyn | title = The Gulag Archipelago, 1918–1956: An Experiment in Literary Investigation, I–II | year = 1973 | publisher = [[Harper & Row]] | chapter = Chapter 3 The Interrogation | isbn = 978-0060803322 | chapter-url-access = registration | chapter-url = https://archive.org/details/gulagarchipelago00solz_0 }}</ref>{{rp|130}} and he gave his interrogator a solid dressing down on the problems with Bolshevism.<ref name = "Markovic"/>{{rp|32}} Novelist [[Aleksandr Solzhenitsyn]] in his book ''[[The Gulag Archipelago]]'' recounts the incident as follows:
+<blockquote>
+[Berdyaev] was arrested twice; he was taken in 1922 for a midnight interrogation with [[Felix Dzerzhinsky|Dzerjinsky]]; [[Lev Kamenev|Kamenev]] was also there.... But Berdyaev did not humiliate himself, he did not beg, he firmly professed the moral and religious principles by virtue of which he did not adhere to the party in power; and not only did they judge that there was no point in putting him on trial, but he was freed. Now there is a man who had a "point of view"!<ref>Cited by Markovic, op. cit., p.33, footnote 36.</ref>
+</blockquote>
+
+After being expelled from Russia, Berdyaev and other émigrés went to [[Berlin]], where he founded an academy of philosophy and religion, but economic and political conditions in the [[Weimar Republic]] caused him and his wife to move to [[Paris]] in 1923. He transferred his academy there, and taught, lectured and wrote, working for an exchange of ideas with the [[France|French]] and European intellectual community, and participated in a number of international conferences.<ref>{{Cite web |title=A Conference in Austria |url=http://www.berdyaev.com/berdiaev/berd_lib/1927_323.html |access-date=21 July 2022 |website=www.berdyaev.com}}</ref>
+
+[[File:Tombe Berdiaev2.JPG|thumb|Berdyaev's grave, Clamart (France).]]
+<!-- this isn't part of his biography...
+Primary source biographical works in English are Berdyaev's intellectual autobiography, published originally under the title ''Dream and Reality'', and Donald A. Lowrie's 1960 book, ''Rebellious Prophet: A Life of Nikolai Berdyaev'', written in close collaboration with Berdyaev's sister-in-law, Evgenia Rapp, and others of their close acquaintance under the auspices of the Berdiaev Société.<ref>Vide Lowrie, "Rebellious Prophet", Preface, p. ix–x</ref>
+-->
+
+==Philosophical work==
+According to Marko Markovic, Berdyaev "was an ardent man, rebellious to all authority, an independent and "negative" spirit. He could assert himself only in negation and could not hear any assertion without immediately negating it, to such an extent that he would even be able to contradict himself and to attack people who shared his own prior opinions".<ref name = "Markovic">Marko Marković, ''La Philosophie de l'inégalité et les idées politiques de Nicolas Berdiaev'' (Paris: Nouvelles Editions Latines, 1978).</ref> According to Marina Makienko, Anna Panamaryova, and Andrey Gurban, Berdyaev's works are "emotional, controversial, bombastic, affective and dogmatic".<ref name="Makienko">{{cite journal |author1=Makienko, Marina|author2= Panamaryova, Anna|author3= Gurban, Andrey |title=Special Understanding of Gender Issues in Russian Philosophy |journal=Procedia – Social and Behavioral Sciences |date=7 January 2015 |volume=166 |pages=18–23 |doi=10.1016/j.sbspro.2014.12.476 |publisher=[[Elsevier]] |language=en|doi-access=free }}</ref>{{rp|20}} They summarise that, according to Berdyaev, "man unites two worlds – the world of the divine and the natural world. ... Through the freedom and creativity the two natures must unite... To overcome the dualism of existence is possible only through creativity.<ref name="Makienko" />{{rp|20}}
+
+David Bonner Richardson described Berdyaev's philosophy as [[Christian existentialism]] and [[personalism]].<ref>{{cite book | chapter-url=https://link.springer.com/chapter/10.1007/978-94-011-8870-8_3 | doi=10.1007/978-94-011-8870-8_3 | chapter=Existentialism: A Personalist Philosophy of History | title=Berdyaev's Philosophy of History | date=1968 | last1=Richardson | first1=David Bonner | pages=90–137 | isbn=978-94-011-8210-2 }}</ref> Other authors, such as political theologian Tsoncho Tsonchev, interpret Berdyaev as "[[Communitarianism|communitarian]] personalist" and [[Slavophilia|Slavophile]]. According to Tsonchev, Berdyaev's philosophical thought rests on four "pillars": freedom, creativity, person, and communion.<ref>{{cite book |last1=Tsonchev |first1=Tsoncho |title=Person and communion: the political theology of Nikolai Berdyaev |date=2021 |publisher=McGill University |location=McGill University’s institutional digital repository |url=https://escholarship.mcgill.ca/concern/theses/cf95jh19g |access-date=19 March 2022}}</ref>
+
+One of the central themes of Berdyaev's work was [[philosophy of love]].<ref name="Shestakov">{{cite book |last1=Shestakov |first1=Vyacheslav |author-link1=Vyacheslav Shestakov |editor1-last=Шестаков |editor1-first=В.П. |title=Русский Эрос, или Философия любви в России |trans-title=Russian Eros, Or Philosophy of Love in Russia |url=https://predanie.ru/shestakov-vyacheslav-pavlovich/russkiy-eros-ili-filosofiya-lyubvi-v-rossii/chitat/ |date=1991 |publisher=[[Progress Publishers]]|pages=5–18 |access-date=14 March 2021 |language=ru |chapter=Вступительная статья |archive-date=24 September 2021 |archive-url=https://web.archive.org/web/20210924133203/https://predanie.ru/shestakov-vyacheslav-pavlovich/russkiy-eros-ili-filosofiya-lyubvi-v-rossii/chitat/ |url-status=live }}</ref>{{rp|11}} At first he systematically developed his theory of love in a special article published in the journal ''Pereval'' ({{langx|ru|Перевал}}) in 1907.<ref name="Shestakov" /> Then he gave [[gender]] issues a notable place in his book ''The Meaning of the Creative Act'' (1916).<ref name="Shestakov" /> According to him, 1) erotic energy is an eternal source of creativity, 2) [[eroticism]] is linked to beauty, and [[eros]] means search for the beautiful.<ref name="Shestakov" />{{rp|11}}
+
+He also published works about Russian history and the Russian national character. In particular, he wrote about [[Russian nationalism]]:<ref>Quoted from book by [[Benedikt Sarnov]], ''Our Soviet Newspeak: A Short Encyclopedia of Real Socialism.'', pp. 446–447. Moscow: 2002, {{ISBN|5-85646-059-6}} (Наш советский новояз. Маленькая энциклопедия реального социализма).</ref>
+{{Blockquote|The Russian people did not achieve their ancient dream of [[Moscow, the Third Rome]]. [[Raskol|The ecclesiastical schism of the seventeenth century]] revealed that the muscovite tsardom is not the third Rome. The messianic idea of the Russian people assumed either an apocalyptic form or a revolutionary; and then there occurred an amazing event in the destiny of the Russian people. Instead of the Third Rome in Russia, the [[Third International]] was achieved, and many of the features of the Third Rome pass over to the Third International. The Third International is also a [[Holy Roman Empire|Holy Empire]], and it also is founded on an Orthodox faith. The Third International is not international, but a Russian national idea.}}
+
+Though sometimes quoted as a [[Christian anarchist]] for his emphasis on theology and critique of statist and Marxist socialism, Berdyaev did not self-identify as such and differentiated himself from Tolstoy.<ref>{{Cite book |last=Christoyannopoulos |first=Alexandre |url=https://books.google.com/books?id=rK-7BAAAQBAJ&pg=PT49 |title=Christian Anarchism: A Political Commentary on the Gospel |date=17 February 2022 |edition=Abridged |publisher=Andrews UK Limited |isbn=978-1-84540-663-9 }}</ref>
+
+==Theology and relations with Russian Orthodox Church==
+Berdyaev was a member of the [[Russian Orthodox Church]],<ref name=witte/><ref>{{cite magazine |title=Berdyaev, Orthodox religious philosopher, dies in Paris |magazine=The Living Church | publisher=Morehouse-Gorham Company | volume=116 | year=1948 | url=https://books.google.com/books?id=zErkAAAAMAAJ&pg=RA6-PA8 | ref={{sfnref|The Living Church|1948}}|page=8|quote=a devout member of Russian Orthodox Church}}</ref> and believed Orthodoxy was the religious tradition closest to [[early Christianity]].{{sfn|Berdyaev|1952}}{{rp|at unk.|quote="Orthodoxy is that form of Christianity which suffered the least distortion in its substance as a result of human history.... Out of all forms of Christianity, it is the Orthodox Church which remained more closely tied to early Christianity."}}
+
+Nicholas Berdyaev was an Orthodox Christian, however, it must be said that he was an independent and somewhat a "liberal" kind. Berdyaev also criticized the [[Russian Orthodox Church]] and described his views as [[anticlerical]].<ref name="ReferenceA"/> Yet he considered himself closer to Orthodoxy than either Catholicism or Protestantism. According to him, "I can not call myself a typical Orthodox of any kind; but Orthodoxy was near to me (and I hope I am nearer to Orthodoxy) than either Catholicism or Protestantism. I never severed my link with the Orthodox Church, although confessional self-satisfaction and exclusiveness are alien to me."<ref name=witte>{{cite book |last1=Witte |first1=John |last2=Alexander |first2=Frank S. |title=The Teachings of Modern Orthodox Christianity on Law, Politics, and Human Nature |publisher=Columbia University Press |year=2007 |isbn=978-0-231-14265-6 |url=https://books.google.com/books?id=THpyJ0jBeH0C&pg=PA111|pages=111–112 }}</ref>
+
+Berdyaev is frequently presented as one of the important Russian Orthodox thinkers of the 20th century.<ref>{{cite journal |last=Noble |first=Ivana |title=Three Orthodox visions of ecumenism: Berdyaev, Bulgakov, Lossky |journal=Communio Viatorum |volume=57 |number=2 |year=2015 |pages=113–140 |url=http://search.ebscohost.com/login.aspx?direct=true&db=rfh&AN=ATLAn3853337 |issn=0010-3713 }}
+</ref><ref name=v2>{{cite book |last=Valliere |first=Paul |chapter=Introduction to the Modern Orthodox Tradition |editor-last1=Witte |editor-first1=John Jr. |editor-first2=Frank S. |editor-last2=Alexander |title=The Teachings of Modern Christianity on Law, Politics, and Human Nature |location=New York |publisher=Columbia University Press |year=2006 |volume=1 |chapter-url=http://digitalcommons.butler.edu/facsch_papers/112/ |pages=2–4 }}</ref><ref>{{cite book |last=Clarke |first=Oliver Fielding |title=Introduction to Berdyaev |publisher=Bles |year=1950 |url=https://books.google.com/books?id=YoMIAQAAIAAJ }}</ref> However, [[Patristics|neopatristic]] scholars such as [[Georges Florovsky|Florovsky]] have questioned whether his philosophy is essentially Orthodox in character, and emphasize his western influences.<ref>{{cite journal |last=Florovsky |first=George |title=Book review: Introduction to Berdyaev By Clarke. Nicolas Berdyaev: Captive of freedom by Spinka |journal=Church History |volume=19 |pages=305–306 |number=4 |year=1950 |jstor=3161171 |doi=10.2307/3161171 |s2cid=162966900 }}</ref> But Florovsky was savaged in a 1937 Journal Put' article by Berdyaev.<ref>{{Cite web |title=Ortodoksia and Humanness |url=http://www.berdyaev.com/berdiaev/berd_lib/1937_424.html |access-date=21 July 2022 |website=www.berdyaev.com}}</ref> Paul Valliere has pointed out the sociological factors and global trends which have shaped the Neopatristic movement, and questions their claim that Berdyaev and [[Vladimir Solovyov (philosopher)|Vladimir Solovyov]] are somehow less authentically Orthodox.<ref name=v2/>
+
+Berdyaev affirmed [[universal reconciliation|universal salvation]], as did several other important Orthodox theologians of the 20th century.<ref>{{cite book |last1=Cunningham |first1=M.B. |last2=Theokritoff |first2=E. |title=The Cambridge Companion to Orthodox Christian Theology |publisher=Cambridge University Press |series=Cambridge Companions to Religion |year=2008 |isbn=978-0521864848 |url=https://books.google.com/books?id=jP2vivMSezMC&pg=PA118 |page=118}}</ref> Along with [[Sergei Bulgakov]], he was instrumental in bringing renewed attention to the Orthodox doctrine of [[apokatastasis]], which had largely been neglected since it was expounded by [[Maximus the Confessor]] in the seventh century,<ref>{{cite encyclopedia |last=Blowers |first=Paul M. |chapter=Apokatastasis |editor-last=Benedetto |editor-first=R. |editor-last2=Duke |editor-first2=J.O. |title=The New Westminster Dictionary of Church History: The early, medieval, and Reformation eras |publisher=Westminster John Knox Press |series=New Westminster Dictionary Series |year=2008 |isbn=978-0-664-22416-5 |chapter-url=https://books.google.com/books?id=g46euaF7HAsC&pg=PA37 |page=37 }}</ref> although he rejected [[Origen]]'s articulation of this doctrine.<ref>{{cite thesis |last=Deak |first=Esteban |year=1977 |title=Apokatastasis: The Problem Of Universal Salvation In Twentieth Century Theology |location=Toronto, Canada |publisher=University of St. Michael's College |isbn=9780315454330 |url=https://www.proquest.com/docview/302854733/ |pages=20–60}}</ref><ref>{{cite book |last1=Kirwan |first1=Michael |last2=Hidden |first2=Sheelah Treflé |title=Mimesis and Atonement: RenÃ© Girard and the Doctrine of Salvation |publisher=Bloomsbury Publishing |series=Violence, Desire, and the Sacred |year=2016 |isbn=978-1-5013-2544-1 |url=https://books.google.com/books?id=eUg-DQAAQBAJ&pg=PA41 |pages=41–42}}</ref>
+
+The aftermath of the Russian Revolution and Civil War, along with Soviet efforts towards the [[Decree on Separation of Church and State|separation of church and state]], caused the Russian Orthodox émigré diaspora to splinter into three Russian Church jurisdictions: the [[Russian Orthodox Church Outside Russia]] (separated from Moscow Patriarchate until 2007), the parishes under Metropolitan [[Eulogius (Georgiyevsky)]] that went under the [[Ecumenical Patriarchate of Constantinople]], and parishes that remained under the [[Moscow Patriarchate]]. Berdyaev was among those that chose to remain under the omophorion of the [[Moscow Patriarchate]]. He is mentioned by name on the Korsun/Chersonese Diocesan history as among those noted figures who supported the Moscow Patriarchate West-European Eparchy (in France now Korsun eparchy).<ref>{{cite web |title=ИСТОРИЯ ЕПАРХИИ |url=https://www.cerkov-ru.eu/istoriya-eparhii/ |access-date=17 May 2018 |website=Cerkov-ru.eu |archive-date=28 April 2018 |archive-url=https://web.archive.org/web/20180428182200/https://www.cerkov-ru.eu/istoriya-eparhii/ |url-status=live }}</ref>
+
+Currently, the house in Clamart in which Berdyaev lived, now comprises a small "Berdiaev-museum" and attached Chapel in name of the Holy Spirit,<ref>{{cite web|url=https://www.cerkov-ru.eu/item/chasovnya-v-chest-svyatogo-duha-v-klamare|title=Часовня в честь Святого Духа в Кламаре|website=Cerkov-ru.eu|access-date=17 May 2018|archive-date=28 April 2018|archive-url=https://web.archive.org/web/20180428182340/https://www.cerkov-ru.eu/item/chasovnya-v-chest-svyatogo-duha-v-klamare|url-status=live}}</ref> under the omophorion of the Moscow Patriarchate. On 24 March 2018, the 70th anniversary of Berdyaev's death, the priest of the Chapel served panikhida-memorial prayer at the Diocesan cathedral for eternal memory of Berdyaev,<ref>{{cite web|url=https://www.egliserusse.eu/Il-y-a-70-ans-Nicolas-Berdiaev-1874-1948--celebre-philosophe-russe-etait-rappele-a-Dieu_a1661.html|title=Il y a 70 ans, Nicolas Berdiaev (1874–1948), célèbre philosophe russe, était rappelé à Dieu|first=Prêtre Georges|last=Sheshko|website=Egliserusse.eu|access-date=17 May 2018|archive-date=4 August 2020|archive-url=https://web.archive.org/web/20200804130838/https://www.egliserusse.eu/Il-y-a-70-ans-Nicolas-Berdiaev-1874-1948--celebre-philosophe-russe-etait-rappele-a-Dieu_a1661.html|url-status=live}}</ref> and later that day the Diocesan bishop Nestor (Sirotenko) presided over prayer at the grave of Berdyaev.<ref>{{cite web|url=https://www.cerkov-ru.eu/novosti/ispolnilos-70-let-so-dnya-konchiny-izvestnogo-russkogo-filosofa-nikolaya-berdyaeva/|title=Исполнилось 70 лет со дня кончины известного русского философа Николая Бердяева|website=Cerkov-ru.eu|access-date=17 May 2018|archive-date=28 April 2018|archive-url=https://web.archive.org/web/20180428182343/https://www.cerkov-ru.eu/novosti/ispolnilos-70-let-so-dnya-konchiny-izvestnogo-russkogo-filosofa-nikolaya-berdyaeva/|url-status=live}}</ref>
+
+==Works==
+[[File:Nikolai Berdyaev 2024 stamp of Russia.jpg|thumb|Berdyaev on a 2024 stamp of Russia]]
+In 1901 Berdyaev opened his literary career so to speak by work on ''Subjectivism and Individualism in Social Philosophy''. In it, he analyzed a movement then beginning in [[Imperial Russia]] that "at the beginning of the twentieth-century Russian Marxism split up; the more cultured Russian Marxists went through a spiritual crisis and became founders of an idealist and religious movement, while the majority began to prepare the advent of Communism". He wrote "over twenty books and dozens of articles."<ref>Steeves, P.D. (2001) "Berdyaev, Nikolai Aleksandrovich (1874–1948)" in [[Walter A. Elwell]], ''Evangelical Dictionary of Theology'', Baker Academic, p. 149. {{ISBN| 978-0801020759}}</ref>
+
+The first date is of the Russian edition, the second date is of the first English edition.
+* ''Subjectivism and Individualism in Societal Philosophy'' (1901)
+* ''The New Religious Consciousness and Society'' (1907) ({{langx|ru|Новое религиозное сознание и общественность|Novoe religioznoe coznanie i obschestvennost}}, includes chapter VI "[https://cafepulsar.ru/en/filosofiya-pola-i-lyubvi-berdyaev-nikolai-berdyaev-metafizika-pola-i-lyubvi/ The Metaphysics of Sex and Love]")<ref>The book is not available in English. For secondary literature in English, see:
+* {{cite book
+ |last         = Crone
+ |first        = Anna Lisa
+ |author1-link = Anna Crone
+ |title        = Eros and Creativity in Russian Religious Renewal: The Philosophers and the Freudians
+ |url          = https://books.google.com/books?id=xSbsHKNq6o8C
+ |series       = Russian History and Culture
+ |volume       = 3
+ |year         = 2010
+ |publisher    = [[Brill Publishers]]
+ |location     = [[Netherlands]]
+ |isbn         = 978-9004180055
+ |access-date  = 16 October 2016
+ |archive-date = 6 August 2020
+ |archive-url  = https://web.archive.org/web/20200806201127/https://books.google.com/books?id=xSbsHKNq6o8C
+ |url-status   = live
+}}
+* {{cite book |first= Eric |last= Naiman |year= 1997 |title= Sex in Public: The Incarnation of Early Soviet Ideology |url= https://books.google.com/books?id=dcITpLnONz8C |publisher= [[Princeton University Press]] |isbn= 9780691026268 |access-date= 16 October 2016 |archive-date= 6 August 2020 |archive-url= https://web.archive.org/web/20200806230805/https://books.google.com/books?id=dcITpLnONz8C |url-status= live }}</ref>
+*''Sub specie aeternitatis: Articles Philosophic, Social and Literary (1900–1906)'' (1907; 2019) {{ISBN|9780999197929}} {{ISBN|9780999197936}}
+*''Vekhi – Landmarks'' (1909; 1994) {{ISBN|9781563243912}}
+*''The Spiritual Crisis of the Intelligentsia'' (1910; 2014) {{ISBN|978-0-9963992-1-0}}
+*''The Philosophy of Freedom'' (1911; 2020) {{ISBN|9780999197943}} {{ISBN|9780999197950}}
+*''Aleksei Stepanovich Khomyakov'' (1912; 2017) {{ISBN|9780996399258}} {{ISBN|9780999197912}} 
+* [http://www.chebucto.ns.ca/Philosophy/Sui-Generis/Berdyaev/essays/gasiteli.htm "Quenchers of the Spirit"] (1913; 1999)
+*''The Meaning of the Creative Act'' (1916; 1955) {{ISBN|978-15973126-2-2}}
+*''The Crisis of Art'' (1918; 2018) {{ISBN|9780996399296}} {{ISBN|9780999197905}}
+*''The Fate of Russia'' (1918; 2016) {{ISBN|9780996399241}}
+*''Dostoevsky: An Interpretation'' (1921; 1934) {{ISBN|978-15973126-1-5}}
+*''Oswald Spengler and the Decline of Europe'' (1922)
+*''The Meaning of History'' (1923; 1936) {{ISBN|978-14128049-7-4}}
+*''The Philosophy of Inequality'' (1923; 2015) {{ISBN|978-0-9963992-0-3}}
+*''The End of Our Time'' [a.k.a. ''The New Middle Ages''] (1924; 1933) {{ISBN|978-15973126-5-3}}
+*''Leontiev'' (1926; 1940)
+*''Freedom and the Spirit'' (1927–8; 1935) {{ISBN|978-15973126-0-8}}
+*''The Russian Revolution'' (1931; anthology)
+*''The Destiny of Man'' (1931; translated by [[Natalie Duddington]] 1937) {{ISBN|978-15973125-6-1}}
+*[http://www.berdyaev.com/berdiaev/berd_lib/1936_419.html ''Lev Shestov and Kierkegaard''] N. A. Beryaev 1936
+*''Christianity and Class War'' (1931; 1933)
+*''The Fate of Man in the Modern World'' (1934; 1935)
+*''Solitude and Society'' (1934; 1938) {{ISBN|978-15973125-5-4}}
+*''The Bourgeois Mind'' (1934; anthology)
+*''The Origin of Russian Communism'' (1937; 1955)
+*[https://archive.org/details/christianityanda027552mbp ''Christianity and Anti-semitism''] (1938; 1952)
+*''Slavery and Freedom'' (1939) {{ISBN|978-15973126-6-0}}
+*[https://archive.org/details/russianidea017842mbp ''The Russian Idea''] (1946; 1947)
+*''Spirit and Reality'' (1946; 1957) {{ISBN|978-15973125-4-7}}
+*''The Beginning and the End'' (1947; 1952) {{ISBN|978-15973126-4-6}}
+*''Towards a New Epoch" (1949; anthology)
+*''Dream and Reality: An Essay in Autobiography'' (1949; 1950) alternate title: ''Self-Knowledge: An Essay in Autobiography'' {{ISBN|978-15973125-8-5}}
+*''The Realm of Spirit and the Realm of Caesar'' (1949; 1952)
+*[https://archive.org/details/divinehuman00berd ''Divine and the Human''] (1949; 1952) {{ISBN|978-15973125-9-2}}
+* {{citation |last=Berdyaev |first=Nikolai A. |author-mask=0 |year=1952 |chapter=The Truth of Orthodoxy |title=Vestnik of the Russian West European Patriarchal Exarchate |location=Paris |translator=A.S. III |chapter-url=http://www.chebucto.ns.ca/Philosophy/Sui-Generis/Berdyaev/essays/orthodox.htm |access-date=27 September 2017 }}
+*''Truth and Revelation'' (n.p.; 1953)
+*''Astride the Abyss of War and Revolutions: Articles 1914–1922'' (n.p.; 2017) {{ISBN|9780996399272}} {{ISBN|9780996399289}}
+
+; Sources
+* '"Bibliographie des Oeuvres de Nicolas Berdiaev" établie par Tamara Klépinine' published by the Institut d'études Slaves, Paris 1978
+* [http://www.chebucto.ns.ca/Philosophy/Sui-Generis/Berdyaev/biblio.htm ''Berdyaev Bibliography'' on www.cherbucto.net]
+* [http://www.berdyaev.com/berdiaev/indices/berd_iz.html ''By-Berdyaev Online Articles Index'']
+
+==See also==
+{{columnslist|colwidth=30em|
+*[[Christian philosophy]]
+*[[Vladimir Solovyov (philosopher)|Vladimir Soloviev]]
+*[[Sergei Bulgakov]]
+*[[Semyon Frank]]
+*[[Pavel Florensky]]
+*[[Fyodor Dostoevsky]]
+*[[Søren Kierkegaard]]
+*[[List of Russian philosophers]]
+*[[Nikolai Lossky]]
+*[[Eastern Orthodox Christian theology|Orthodox Christian theology]]
+*[[Russian Religious Renaissance]]
+*[[Vekhi]]
+*[[Hans Ehrenberg]]
+*[[Eugen Rosenstock-Huessy]]
+*[[Franz Rosenzweig]]
+}}
+
+==References==
+
+{{Reflist|30em}}
+
+==Sources==
+*Donald A. Lowrie. ''Rebellious Prophet: A Life of Nicolai Berdyaev''. Harper & Brothers, New York, 1960.
+*M. A. Vallon. ''An apostle of freedom: Life and teachings of Nicolas Berdyaev''. Philosophical Library, New York, 1960.
+*Lesley Chamberlain. ''Lenin's Private War: The Voyage of the Philosophy Steamer and the Exile of the Intelligentsia''. St. Martin's Press, New York, 2007.
+*Marko Marković, ''[https://books.google.com/books?id=xQjdea3N9nMC La Philosophie de l'inégalité et les idées politiques de Nicolas Berdiaev]'' (Paris: Nouvelles Editions Latines, 1978).
+
+==Further reading==
+*{{cite book |first=N.O. |last=Lossky | author-link = Nikolay Lossky |year=1951 |trans-title=History of Russian Philosophy |title=История российской Философии |location=New York |publisher=[[International Universities Press]] Inc |isbn=978-0-8236-8074-0| chapter = Н.А. Бердяев |trans-chapter=N. Berdyaev | chapter-url = http://www.chebucto.ns.ca/Philosophy/Sui-Generis/Berdyaev/essays/lossky.htm }}
+*{{cite book |last=Nucho |first=Fuad |author-link=Fuad Nucho |title=Berdyaev's Philosophy: The existential paradox of freedom and necessity |year=1967 |edition=1st |location=London |publisher=[[Victor Gollancz Ltd]]}}
+*{{cite journal
+| last        = Atterbury
+| first       = Lyn
+|date=October 1978
+| title        = Nicholas Berdyaev, Orthodox nonconformist
+| journal      = Third Way
+| series       = Toward a Biblical World View
+| pages        = 13–15
+| access-date   = 30 January 2013
+| url          = https://books.google.com/books?id=AnlaRksW1sQC&q=nicholas+berdyaev+orthodox+nonconformist&pg=PA13 
+}}
+*{{cite book|last=Griffith|first=Jeremy | author-link = Jeremy Griffith |title=Freedom Book 1|volume= Part 4:7: Nikolai Berdyaev’s admission of the involvement of our moral instincts and corrupting intellect in producing the upset state of the human condition and attempt to explain how those elements produced that upset psychosis| year=2013|publisher=WTM Publishing & Communications|isbn=978-1-74129-011-0|url=http://www.worldtransformation.com/freedom-book1-those-who-tried-to-explain-the-human-condition/| access-date   = 28 March 2013}}
+*{{cite book|last =Men'|first =Fr. Aleksandr | author-link =Alexander Men | title =Russian Religious Philosophy: 1989–1990 Lectures |trans-title=Русская религиозная философия: Лекции | year =2015 | publisher =frsj Publications | isbn =9780996399227}}
+* {{cite journal |last=Sergeev |first=Mikhail |year=1994 |title=Post-Modern Themes in the Philosophy of Nicholas Berdyaev |journal=Occasional Papers on Religion in Eastern Europe |volume=14 |issue=5 |url=http://digitalcommons.georgefox.edu/ree/vol14/iss5/4 |access-date=27 September 2017}}
+
+==External links==
+{{Wikiquote}}
+* {{Internet Archive author |sname=Nikolai Alexandrovich Berdyaev |sopt=t}}
+* {{Librivox author |id=15167}}
+* [https://web.archive.org/web/20210224230433/https://www.berdyaev.com// Berdyaev Online Library and Index]
+* [http://www.chebucto.ns.ca/Philosophy/Sui-Generis/Berdyaev/ Dirk H. Kelder's collection of Berdyaev essays and quotes]
+* [http://vis-www.cs.umass.edu/~dima/mytexts/suff.html Philosopher of Freedom] {{Webarchive|url=https://web.archive.org/web/20200220205421/http://vis-www.cs.umass.edu/~dima/mytexts/suff.html |date=20 February 2020 }}
+* [http://www.isfp.co.uk/russian_thinkers/nikolay_berdyaev.html ISFP Gallery of Russian Thinkers: Nikolay Berdyaev]
+* [http://anamnesisjournal.com/2014/04/nikolai-berdiaev-spiritual-freedom/ Nikolai Berdiaev and Spiritual Freedom]
+* [http://www.berdyaev.com/berdiaev/FrMen'/berdyaev.html Fr. Aleksandr Men' Lecture on N. A. Berdyaev]
+* [http://www.odinblago.ru/?action=search&type=doc_by_author&author=28 Odinblago.ru: Бердяев Николай Александрович] (Russian)
+* [https://www.cerkov-ru.eu/ Korsun/Chersonese Eparchy] (Russian and French language)
+{{Soviet dissidents}}
+{{Authority control}}
+
+{{DEFAULTSORT:Berdyaev, Nikolai}}
+[[Category:1874 births]]
+[[Category:1948 deaths]]
+[[Category:19th-century Christian mystics]]
+[[Category:19th-century Christian universalists]]
+[[Category:20th-century Christian mystics]]
+[[Category:20th-century Christian universalists]]
+[[Category:20th-century Russian philosophers]]
+[[Category:Christian existentialists]]
+[[Category:Christian universalist theologians]]
+[[Category:Eastern Orthodox mystics]]
+[[Category:Eastern Orthodox philosophers]]
+[[Category:Emigrants from the Russian Empire to France]]
+[[Category:Existentialist theologians]]
+[[Category:Liberals from the Russian Empire]]
+[[Category:Academic staff of Moscow State University]]
+[[Category:People from Kievsky Uyezd]]
+[[Category:People from Obukhiv]]
+[[Category:Russian Christian mystics]]
+[[Category:Russian memoirists]]
+[[Category:Nobility from the Russian Empire]]
+[[Category:Russian Orthodox Christians from Russia]]
+[[Category:Russian people of French descent]]
+[[Category:Russian people of Polish descent]]
+[[Category:Russian people of Tatar descent]]
+[[Category:Russian people of Ukrainian descent]]
+[[Category:Russian political writers]]
+[[Category:Soviet dissidents]]
+[[Category:Soviet expellees]]
+[[Category:Vekhovtsy]]
+[[Category:Philosophers of religion]]

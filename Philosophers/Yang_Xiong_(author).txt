@@ -1,0 +1,66 @@
+{{Short description|Chinese scholar and poet (53 BCE – 18 CE)}}
+{{infobox Chinese
+|pic=至聖先賢半身像 冊-098-楊雄.jpg
+|piccap=Medieval representation of Yang Xiong
+|t=揚雄
+|s=扬雄
+|p=Yáng Xióng
+|w=Yang<sup>2</sup> Hsiung<sup>2</sup>
+|mi={{IPAc-cmn|yang|2|-|x|iong|2}}
+|j=Joeng<sup>4</sup> Hung<sup>4</sup>
+|y=Yèuhng Hùhng
+|ci={{IPAc-yue|j|oeng|4|-|h|ung|4}}
+|tl=Iông Hiông
+|mc=Yang Ɣiong
+|oc-bs=*lang ɢʷəng
+}}
+{{family name hatnote|Yang|lang=Chinese}}
+
+'''Yang Xiong''' ({{zh|t=揚雄}}; 53 BCE{{snd}}18 CE) was a Chinese philosopher, poet, and politician of the [[Western Han dynasty]] known for his philosophical writings and [[fu (poetry)|''fu'' poetry]] compositions.
+
+== Life and career ==
+[[File:歷代聖賢半身像 冊 揚雄 (Yang Xiong).png|thumb|left|Portrait of Yang Xiong ([[National Palace Museum]])]]
+Like a number of the other well-known writers of the Han dynasty, Yang was from [[Shu (state)|Shu]] (modern [[Sichuan]] province), specifically the area of Pi (modern [[Pi County]], Sichuan). Yang claimed that his family had moved south from the [[Jin (Chinese state)|state of Jin]] during its civil infighting in the 6th century BCE.{{sfnp|Knechtges|2014|p=1837}}  As a youth Yang was an admirer and imitator of his elder Shu compatriot [[Sima Xiangru]] and the "grand ''fu''" style of the early Han period.  His ability and success in ''fu'' composition earned him a summons to the imperial capital at [[Chang'an]] to serve as an "Expectant Official", responsible for composing poems and ''fu'' for the emperor.<ref name="ho912">Ho (1986): 912.</ref>
+
+Yang's position required him to praise the virtue and glory of [[Emperor Cheng of Han]] and the grandeur of imperial outings, but he was disturbed by the wasteful extravagance of the imperial court.<ref name="ho912" /> Yang attempted to return the ''fu'' genre to a focus of "suasive admonition" ({{zhi|c=諷|p=fèng}}), which he believed was the original purpose of the earliest ''fu''-type writings of [[Qu Yuan]], but his couched admonitions against extravagance went unnoticed and unheeded by Emperor Cheng.
+
+Yang's most famous work is the ''[[Fayan (book)|Fayan]]'', a philosophical work modeled on the ''[[Analects]]'', in which Yang criticizes ''fu'' writers for focusing on ornate, esoteric language while ignoring more important issues of morality. Yang's other works include the ''[[Taixuanjing]]'', a divination text based on the ''[[I Ching]]'', "Justification Against Ridicule" ({{zhi|c=解嘲|p=Jiě cháo}}), one of the best known examples of the "''fu'' of frustration" subgenre, and the ''[[Fangyan (book)|Fangyan]]'', a dictionary documenting regional vocabulary from throughout China at the time.
+
+Together with [[Sima Xiangru]], Yang was one of the most famous and illustrious figures of the entire Han dynasty. The ''[[Book of Han]]'' devotes a full two-part chapter to both Yang and Sima, an honor surpassing that of even the most famous generals and ministers.<ref>Knechtges (1982): 1.</ref>
+
+== Philosophy ==
+Yang did not believe human nature was inherently good as [[Mencius]] ({{fl.|4th century BCE}}) had written, nor inherently bad as [[Xunzi (philosopher)|Xunzi]] ({{circa|300&ndash;230 BCE}}) had written, but came into existence as a mixture of both.  He was a close associate of the official and philosopher [[Huan Tan]] (d. 28 CE), an [[Old Texts]] realist who may have heavily influenced the works of [[Wang Chong]] (27&ndash;c. 100 CE). Yang is also known for his protest against the verbosity of the ''[[Fu (poetry)|fu]]''. He was hailed by Huan Tan as the "Confucius from the western parts".
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Works cited ===
+* Chen, Keming and Zhang, Shancheng, [http://203.72.198.245/web/Content.asp?ID=57904&Query=1 "Yang Xiong"]. ''[[Encyclopedia of China]]'' (Philosophy Edition), 1st ed.
+* {{cite book | first = Kenneth Pui-Hung | last = Ho | chapter = Yang Hsiung 揚雄 | year = 1986 | editor-first = William | editor-last = Nienhauser | title = The Indiana Companion to Traditional Chinese Literature, Volume 1 | location = Bloomfield | publisher = Indiana University Press | pages = 912–913 }} 
+* {{cite book | first = David R. | last = Knechtges | authorlink= David R. Knechtges | title = The Han Shu Biography of Yang Xiong (54 BC &ndash; AD 18) | location = Tempe | publisher = Center for Asian Studies, Arizona State University | year = 1982 | isbn = 978-0939252107 }}
+* {{cite book | first = David R. | last = Knechtges | author-mask = 3 | chapter = Yang Xiong 揚雄 | editor-first = David R. | editor-last = Knechtges | editor-first2 = Taiping | editor-last2 = Chang | title=Ancient and Early Medieval Chinese Literature, A Reference Guide: Part Three | location = Leiden | publisher = Brill | year = 2014 | pages = 1837–46 | isbn = 978-90-04-27216-3 }}
+* Zhu, Binjie, [http://203.72.198.245/web/Content.asp?ID=65242&Query=1 "Yang Xiong"]. ''[[Encyclopedia of China]]'' (Chinese Literature Edition), 1st ed.
+
+== External links ==
+* [http://www.iep.utm.edu/y/yangxion.htm Yang Xiong], Internet Encyclopedia of Philosophy biography
+* {{Gutenberg author | id=32604}}
+* [https://books.google.com/books?id=kIUsAAAAYAAJ 方言: 13卷 (1873 edition)]
+* [http://ctext.org/yangzi-fayan Full text of Yang Xiong's Fa Yan] (English and Chinese) - [[Chinese Text Project]]
+* [http://www.silkqin.com/09hist/qinshibu/yangxiong.htm Yang Xiong], ''Qin Shi Bu'' (琴史補; "Appended History of the [[Guqin]]") article
+
+{{Authority control}}
+
+{{DEFAULTSORT:Yang, Xiong}}
+[[Category:53 BC births]]
+[[Category:18 deaths]]
+[[Category:1st-century BC Chinese philosophers]]
+[[Category:1st-century BC Chinese poets]]
+[[Category:1st-century Chinese philosophers]]
+[[Category:1st-century Chinese poets]]
+[[Category:Han dynasty government officials]]
+[[Category:Poets from Sichuan]]
+[[Category:Politicians from Chengdu]]
+[[Category:Writers from Chengdu]]
+[[Category:Chinese philologists]]
+[[Category:Ancient linguists]]

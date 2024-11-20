@@ -1,0 +1,176 @@
+{{Short description|American philosopher (1926–2018)}}
+{{Infobox philosopher
+| image            = StanleyCavellBrooklineMonmouth2016.jpg
+| caption          = Cavell in 2016
+| name             = Stanley Cavell
+| birth_name       = Stanley Louis Goldstein
+| birth_date       = {{Birth date|1926|9|1}}
+| birth_place      = [[Atlanta]], Georgia, U.S.
+| death_date       = {{Death date and age|2018|6|19|1926|9|1}}
+| death_place      = [[Boston]], Massachusetts, U.S.
+| education        = [[University of California, Berkeley]] ([[B. A.|BA]])<br>[[University of California, Los Angeles]]<br>[[Harvard University]] ([[PhD]])
+| institutions     = [[Harvard University]] 
+| school_tradition = [[Postanalytic philosophy]]<ref>[[Michael Adrian Peters]], ''Education, Philosophy and Politics: The Selected Works of Michael A. Peters'', Routledge, 2012, p. 210.</ref>
+| main_interests   = [[Skepticism]], [[tragedy]], [[aesthetics]], [[ethics]], [[ordinary language philosophy]], [[American transcendentalism]], [[film theory]], [[William Shakespeare]], [[opera]], [[religion]]
+| influences       = [[Søren Kierkegaard|Kierkegaard]], [[Ralph Waldo Emerson|Emerson]], [[Henry David Thoreau|Thoreau]], [[Ludwig Wittgenstein|Wittgenstein]], [[J. L. Austin|Austin]], [[Martin Heidegger|Heidegger]], [[Friedrich Nietzsche|Nietzsche]], [[William Shakespeare|Shakespeare]], [[Sigmund Freud|Freud]], [[Cora Diamond]], [[Robert Warshow]], [[Roger Sessions]], [[Jean Renoir]], [[André Bazin]], [[Thomas Kuhn]], [[Northrop Frye]], [[Rogers Albritton]], [[Claude Esteban]], [[John Wisdom]]
+| influenced       = [[Charles Bernstein (poet)|Charles Bernstein]],<ref>{{Cite web | url=http://jacket2.org/commentary/stanley-cavell-close-listening | title=Stanley Cavell on Close Listening |website=Jacket2 |last=Bernstein |first=Charles |date=2 February 2013 |author-link=Charles Bernstein (poet)}}</ref> [[Nikolas Kompridis]],<ref>{{Cite book| title=Philosophical Romanticism |chapter=The Idea of a New Beginning |author-first=Nikolas |author-last=Kompridis |author-link=Nikolas Kompridis| editor-last1=Kompridis| editor-first1=Nikolas |publisher=Routledge |location=London |date=2006 |pages=32–59 |isbn=978-0-41525-643-8}}</ref> [[James F. Conant]],<ref>{{Cite book | chapter-url=https://philpapers.org/rec/CONAIW | title=The Senses of Stanley Cavell| pages=59| chapter=An Interview with Stanley Cavell| publisher=Bucknell| year=1989}}</ref> [[Cora Diamond]],<ref>{{Cite book | url=https://philpapers.org/rec/CAVPAA | title=Philosophy and Animal Life| publisher=Columbia University Press| year=2008}}</ref> [[Toril Moi]],<ref>{{Cite book | url=http://press.uchicago.edu/ucp/books/book/chicago/R/bo26102346.html | title=Revolution of the Ordinary| publisher=University of Chicago Press}}</ref> [[Shoshana Felman]],<ref>{{ Cite book |first=Shoshana |last=Felman |author-link=Shoshana Felman |title=The Scandal of the Speaking Body: Don Juan with J. L. Austin, or Seduction in Two Languages |publisher=Stanford University Press
+|year=2003 |isbn=9780804766890 |location=Stanford, CA |url=http://www.sup.org/books/title/?id=3603}}</ref> [[Jay Cantor]],<ref>{{Cite journal | url=https://raritanquarterly.rutgers.edu/issue-index/all-volumes-issues/volume-01/volume-01-number-1 |journal=Raritan |title=On Stanley Cavell |last=Cantor |first=Jay |author-link=Jay Cantor |volume=1 |issue=1 |date=Summer 1981}}</ref> [[Michael Fried]], [[Paul Guyer]], [[Alice Crary]],<ref>{{Cite book | url=https://philpapers.org/rec/CRARC | title=Reading Cavell| publisher=Routledge| year=2006 |editor1-last=Crary |editor1-first=Alice |editor2-last=Sanford |editor2-first=Shieh |isbn=978-1-13428-004-9}}</ref> [[Sandra Laugier]],<ref>{{Cite book | chapter-url=https://books.openedition.org/editionscnrs/7225?lang=fr | isbn=9782271091550| title=La reconnaissance aujourd'hui| pages=273–301| chapter=Stanley Cavell: Scepticisme et reconnaissance| publisher=CNRS Éditions| date=July 2016| series=Sociologie}}</ref> [[Arnold Davidson]],<ref>{{Cite book | url=http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195370935.001.0001/oxfordhb-9780195370935-e-26 | doi=10.1093/oxfordhb/9780195370935.001.0001| year=2013| isbn=978-0-19537-093-5| chapter=Spiritual Exercises, Improvisation, and Moral Perfectionism| title=The Oxford Handbook of Critical Improvisation Studies |volume=1| last1=Davidson| first1=Arnold| editor2-first=Benjamin| editor2-last=Piekut| editor1-first=George E| editor1-last=Lewis}}</ref> [[Stephen Mulhall]], [[Thomas Kuhn]],<ref>{{Cite journal|doi = 10.1162/POSC_a_00011|title = Novelty and Revolution in Art and Science: The Connection between Kuhn and Cavell|journal = Perspectives on Science|volume = 18|issue = 3|pages = 284–310|year = 2010|last1 = Kindi|first1 = Vasso|s2cid = 57559025}}</ref> [[Hilary Putnam]],<ref>{{Cite book |date=2012 |editor-last=Saito |editor-first=Naoko |editor2-last=Standish |editor2-first=Paul |title=Stanley Cavell and the Education of Grownups |jstor=j.ctt14bs007 |publisher=Fordham University |isbn=9780823234738}}</ref> [[Terrence Malick]],<ref>{{Cite web | url=https://thepointmag.com/2010/criticism/the-perspective-of-terrence-malick | title=The Perspective of Terrence Malick| date=4 April 2010 |last=Baskin |first=Jon |website=The Point}}</ref> [[Bernard Williams]],<ref>{{Cite news | url=https://www.nytimes.com/1985/07/14/books/why-we-can-t-be-good.html | title=Why We Can't be Good| newspaper=The New York Times| date=1985-07-14| last1=Sousa| first1=Ronald de}}</ref> [[Claude Esteban]],<ref>{{Cite book|url=https://books.google.com/books?id=DfsCYxeYU5oC&q=%22stanley+cavell%22+claude+esteban&pg=PP6|title=This New Yet Unapproachable America: Lectures after Emerson after Wittgenstein|isbn=9780226037417|last1=Cavell|first1=Stanley|date=2013-07-15|publisher=University of Chicago Press }}</ref> [[Paul W. Franks]],<ref>[[Paul W. Franks]]</ref>{{Circular reference|date=August 2018}} [[Ross McElwee]],<ref>{{Cite web | url=https://www.pbs.org/wgbh/pages/frontline/shows/news/ross/harvard.html | title=An Interview with Ross McElwee |last=Lahav |first=Gil |date=1994| website=[[PBS]]}}</ref> [[Hent de Vries]],<ref>{{Cite journal | url=https://philpapers.org/rec/DEVAGM | title="A Greatest Miracle": Stanley Cavell, Moral Perfectionism, and the Ascent into the Ordinary| journal=Modern Theology| volume=27| issue=3| pages=462–477| year=2011| last1=Vries| first1=Hent de| doi=10.1111/j.1468-0025.2011.01688.x}}</ref> [[Vicki Hearne]],<ref>{{Cite web | url=https://www.poetryfoundation.org/poems/55010/the-claim-of-speech-56d2360e27a08 | title=The Claim of Speech |first=Vicki |last=Hearne |author-link=Vicki Hearne |date=2019-03-06 |website=Poetry Foundation}}</ref> [[Marc Shell]],<ref>{{Cite book|url=https://books.google.com/books?id=yk40sRCHF7IC&q=%22stanley+cavell%22+marc+shell&pg=PA298|title=Polio and its Aftermath: The Paralysis of Culture|isbn=978-0-67401-315-5|last1=Shell|first1=Marc|year=2005 |publisher=Harvard University Press |location=Cambridge, MA}}</ref> [[Arnaud Desplechin]],<ref>{{Cite web | url=https://www.nonfiction.fr/article-1433-entre_stanley_cavell_et_arnaud_desplechin.htm | title=Entre Stanley Cavell et Arnaud Desplechin |last=Bannes |first=Simon |date=25 August 2008 |website=Nonfiction}}</ref> [[Cornel West]],<ref>{{Cite journal | url=http://www.logosjournal.com/west_interview.htm |url-status=dead |archive-url=https://web.archive.org/web/20041018052754/https://logosjournal.com/west_interview.htm |archive-date=18 October 2004 |title=Empire, Pragmatism, and War: A Conversation with Cornel West |last=Mendieta |first=Eduardo |journal=Logos |date=Fall 2004 |volume=3 |issue=4}}</ref> [[Robert H. Gardner|Robert Gardner]],<ref>{{Cite web | url=http://www.robertgardner.net/screening-room/ | title=Screening Room 1972-1981| date=May 2013}}</ref> [[Nancy Bauer (philosopher)|Nancy Bauer]],<ref>{{Cite web | url=https://www.eurozine.com/what-is-feminist-philosophy/ | title=What is feminist philosophy?| date=8 March 2013 |website=Eurozine |last=Sjöstedt |first=Johanna}}</ref> [[David Macarthur]],<ref>{{Cite journal|issn=1527-2095 |title=Living Our Skepticism of Others Through Film: Remarks in Light of Cavell|journal=SubStance|volume=45|issue=3|pages=120–136|year = 2016|doi=10.1353/sub.2016.0032 |last1=MacArthur |first1=David }}</ref> [[Rae Langton]], [[Barbara Herman]]
+| notable_ideas    = [[Linguistic film theory]],<ref name=Dualist>''The Dualist'' [https://books.google.com/books?id=N1u6AAAAIAAJ Vols. 1–6], Department of Philosophy, Stanford University, 1994, p. 56.</ref> [[Moral perfectionism]]
+|doctoral_students={{hlist|[[Paul Guyer]], [[Paul W. Franks]], [[Arnold Davidson]], [[Nancy Bauer (philosopher)|Nancy Bauer]], [[Barbara Herman]], [[David Macarthur]]}}
+}}
+'''Stanley Louis<!--see VIAF data--> Cavell''' ({{IPAc-en|k|ə|ˈ|v|ɛ|l}}; September 1, 1926 – June 19, 2018) was an [[American philosopher]]. He was the [[Cabot family|Walter M. Cabot]] Professor of Aesthetics and the General Theory of Value at [[Harvard University]].  He worked in the fields of [[ethics]], [[aesthetics]], and [[ordinary language philosophy]].  As an interpreter, he produced influential works on [[Wittgenstein]], [[J.L. Austin|Austin]], [[Ralph Waldo Emerson|Emerson]], [[Thoreau]], and [[Heidegger]].  His work is characterized by its conversational tone and frequent literary references.
+
+==Life==
+Cavell was born as '''Stanley Louis Goldstein''' to a [[Jewish]] family in [[Atlanta, Georgia]].<ref name=":1" /> His mother, Fannie (Segal), the daughter of immigrants from Romania,<ref name=":2" /> was a locally renowned pianist for radio, [[vaudeville]], and silent films.<ref>{{Cite book |last=Brino-Dean |first=Terry |url= |title=Dictionary of Modern American Philosophers |publisher=A&C Black |year=2005 |isbn=978-1-84371-037-0 |editor-last=Shook |editor-first=John R. |pages=459 |language=en |chapter=Cavell, Stanley Louis |chapter-url=https://books.google.com/books?id=Ijpj1tB3Qr0C&pg=PA459}}</ref> She trained him in music from his earliest days.<ref>Cavell, Stanley, Little Did I Know, 21 (Stanford, California: Stanford University Press, 2010).</ref> During the [[Great Depression in the United States|Great Depression]], Cavell's parents moved several times between Atlanta and [[Sacramento, California]].<ref>Little Did I Know, 24 (Stanford, California: Stanford University Press, 2010).</ref> As an adolescent, Cavell played lead [[alto saxophone]] as the youngest member of a black jazz band in Sacramento.<ref>Little Did I Know, 169 (Stanford, California: Stanford University Press, 2010).</ref> Around this time he changed his name, anglicizing his father's original Polish name, Kavelieruskii (sometimes spelled "Kavelieriskii").<ref name=":2">{{Cite news |last=Smith |first=Harrison |date=2018-06-26 |title=Stanley Cavell, philosopher who drew insights from Shakespeare and cinema, dies at 91 |url=https://www.washingtonpost.com/local/obituaries/stanley-cavell-philosopher-who-drew-insights-from-shakespeare-and-cinema-dies-at-91/2018/06/21/b6c835ac-755d-11e8-9780-b1dd6a09b549_story.html |access-date=2024-10-08 |newspaper=Washington Post |language=en-US |issn=0190-8286}}</ref> He entered the [[University of California, Berkeley]], where, along with his lifelong friend [[Bob Thompson (musician)|Bob Thompson]], he majored in music, studying with, among others, [[Roger Sessions]] and [[Ernest Bloch]].<ref>Little Did I Know, 85, 157-62, 166, 183  (Stanford, California: Stanford University Press, 2010).</ref> After graduation, he studied composition at the [[Juilliard School]] of Music in [[New York City]], only to discover that music was not his calling.<ref>Little Did I Know, 220-225 (Stanford, California: Stanford University Press, 2010).</ref>
+
+He entered graduate school in philosophy at [[UCLA]], and then transferred to [[Harvard University]].<ref>Little Did I Know, 247 (Stanford, California: Stanford University Press, 2010).</ref>  As a student there he came under the influence of [[J. L. Austin]], whose teaching and methods "knocked him off ... [his] horse."<ref>{{Cite book |last=Cavell |first=Stanley |url=https://archive.org/details/claimofreasonwit0000cave_v5t1 |title=The claim of reason : Wittgenstein, skepticism, morality, and tragedy |date=1999 |publisher=New York : Oxford University Press |isbn=978-0-19-513107-9 |pages=xv |orig-date=1979 |url-access=registration |via=Internet Archive}}</ref> In 1954 he was awarded a Junior Fellowship at the [[Harvard Society of Fellows]]. Before completing his Ph.D., he became an Assistant Professor of Philosophy at the University of California, Berkeley, in 1956.<ref>Little Did I Know, 326 (Stanford, California: Stanford University Press, 2010).</ref> Cavell's daughter by his first wife (Marcia Cavell), Rachel Lee Cavell, was born in 1957.<ref name=":3">{{Cite book |last=Wheatley |first=Catherine |url=https://books.google.com/books?id=jQFbEAAAQBAJ&pg=PA7 |title=Stanley Cavell and Film: Scepticism and Self-Reliance at the Cinema |date=2021-02-25 |publisher=Bloomsbury Academic |isbn=978-1-350-19135-8 |page=7 |language=en}}</ref> In 1962–63 Cavell was a Fellow at the [[Institute for Advanced Study]] in [[Princeton, New Jersey]], where he befriended the British philosopher [[Bernard Williams]].<ref>Little Did I Know, 149 (Stanford, California: Stanford University Press, 2010).</ref> Cavell’s marriage to Marcia ended in divorce in 1961.<ref name=":3" /> In 1963 he returned to the Harvard Philosophy Department, where he became the Walter M. Cabot Professor of Aesthetics and the General Theory of Value.<ref>Little Did I Know, 435 (Stanford, California: Stanford University Press, 2010).</ref>
+
+In the summer of 1964, Cavell joined a group of graduate students, who taught at [[Tougaloo College]], a [[historically black]] Protestant college in Mississippi, as part of what became known as the [[Freedom Summer]].<ref>Little Did I Know, 373 (Stanford, California: Stanford University Press, 2010).</ref> He and Cathleen (Cohen) Cavell were married in 1967. In April 1969, during the student protests (chiefly arising from the [[Vietnam War]]), Cavell, helped by his colleague [[John Rawls]], worked with a group of African-American students to draft language for a faculty vote to establish Harvard's Department of African and African-American Studies.<ref>Little Did I Know, 508–512 (Stanford, California: Stanford University Press, 2010).</ref>
+
+In 1976, Cavell's first son, Benjamin, was born.<ref name=":3" /> In 1979, along with the documentary filmmaker [[Robert H. Gardner]], Cavell helped found the [[Harvard Film Archive]], to preserve and present the history of film.<ref>{{Cite web | url=http://hcl.harvard.edu/hfa/films/2007novedec/cavell.html | archive-url=https://web.archive.org/web/20110610050128/http://hcl.harvard.edu/hfa/films/2007novedec/cavell.html | url-status=dead | archive-date=2011-06-10 | title=An Evening with Stanley Cavell - Harvard Film Archive}}</ref> Cavell received a [[MacArthur Fellowship]] in 1992.<ref name=":5">{{Cite web |title=Stanley Cavell |url=https://www.macfound.org/fellows/class-of-1992/stanley-cavell |access-date=2024-10-29 |website=www.macfound.org |language=en}}</ref> In 1996-97 Cavell was president of the [[American Philosophical Association]] (Eastern Division).<ref name=":4">{{Cite web |last=Parsons |first=Lian |date=2020-12-02 |title=Stanley Louis Cavell, 91 |url=https://news.harvard.edu/gazette/story/2020/12/stanley-louis-cavell-91/ |access-date=2024-10-10 |website=Harvard Gazette |language=en-US}}</ref> In 1984, his second son, David, was born.<ref name=":3" /> Cavell remained on the Harvard faculty until retiring in 1997.<ref name=":4" /> Thereafter, he taught courses at [[Yale University]] and the [[University of Chicago]]. He also held the Spinoza Chair of Philosophy at the [[University of Amsterdam]] in 1998.<ref>{{Cite web |last=Amsterdam |first=Universiteit van |date=2024-10-02 |title=Spinozaleerstoel afdeling Filosofie |url=https://www.uva.nl/discipline/filosofie/spinozaleerstoel/spinozaleerstoel.html |access-date=2024-10-08 |website=Universiteit van Amsterdam |language=nl}}</ref>
+
+Cavell died in [[Boston, Massachusetts]] of [[heart failure]] on June 19, 2018, at the age of 91.<ref name=":1">{{cite news |last=Genzlinger |first=Neil |date=June 20, 2018 |title=Stanley Cavell, Prominent Harvard Philosopher, Dies at 91 |url=https://www.nytimes.com/2018/06/20/obituaries/stanley-cavell-prominent-harvard-philosopher-dies-at-91.html |archive-url=https://web.archive.org/web/20180621093419/https://www.nytimes.com/2018/06/20/obituaries/stanley-cavell-prominent-harvard-philosopher-dies-at-91.html |archive-date=June 21, 2018 |access-date=June 21, 2018 |newspaper=[[The New York Times]]}}</ref> He was buried at [[Mount Auburn Cemetery]].<ref>{{Cite web |title=STANLEY CAVELL Obituary (2018) - Brookline, MA - Boston Globe |url=https://www.legacy.com/us/obituaries/bostonglobe/name/stanley-cavell-obituary?id=1720271&referrer=0&preview=false |access-date=2024-10-08 |website=Legacy.com}}</ref>
+
+==Philosophy==
+Although trained in the Anglo-American [[analytical philosophy|analytic tradition]], Cavell frequently interacted with the [[continental philosophy|continental tradition]].<ref name=":0">{{Cite book|last=Wheatley|first=Catherine|title=Stanley Cavell and Film: Scepticism and Self-Reliance at the Cinema|publisher=Bloomsbury Publishing|year=2019|isbn=978-1-7883-1025-3|location=London|pages=19|language=en}}</ref> He includes [[film]] and [[literary criticism|literary]] study in philosophical inquiry.<ref name=":0" /> Cavell wrote extensively on [[Ludwig Wittgenstein]], [[J. L. Austin]], and [[Martin Heidegger]], as well as the [[Transcendentalism|American transcendentalists]] [[Henry Thoreau]]<ref>{{Cite book|last=Hunt|first=Lester H.|title=The Philosophy of Henry Thoreau: Ethics, Politics, and Nature|publisher=Bloomsbury Publishing|year=2019|isbn=978-1-350-07902-1|location=London|pages=x|language=en}}</ref> and [[Ralph Waldo Emerson]].<ref>{{Cite book|last1=Standish|first1=Paul|title=Stanley Cavell and Philosophy as Translation: The Truth is Translated|last2=Saito|first2=Naoko|publisher=Rowman & Littlefield|year=2017|isbn=978-1-78660-289-3|location=London|pages=45}}</ref> His work was for a time frequently compared to that of [[Jacques Derrida]], whom he met in 1970. Although their exchange was congenial, Cavell denied the full extent to which [[Deconstruction (philosophical theory)|deconstruction]] could undermine the possibility of meaning, instead taking an explicitly [[Ordinary language philosophy|ordinary language]] approach to language and skepticism.<ref>Gordon C. F. Bearn. “Sounding Serious: Cavell and Derrida.” Representations, no. 63, University of California Press, 1998, pp. 65–92, https://doi.org/10.2307/2902918.</ref> He writes about Wittgenstein in a fashion known as the [[New Wittgenstein]], which according to [[Alice Crary]] interprets Wittgenstein as putting forward a positive view of philosophy as a therapeutic form.<ref>{{Cite book|last=Peters|first=Michael A.|title=Wittgenstein, Anti-foundationalism, Technoscience and Philosophy of Education: An Educational Philosophy and Theory Reader Volume VIII|publisher=Routledge|year=2020|isbn=978-1-000-02800-3|location=Oxon|language=en}}</ref> Cavell's work incorporates autobiographical elements concerning how his movement between and within these thinkers' ideas influenced his views in the arts and humanities, beyond the technical study of philosophy.
+
+Cavell established his distinct philosophical identity with ''Must We Mean What We Say?'' (1969), a collection of essays that addresses topics such as language use, metaphor, skepticism, tragedy, and literary interpretation from the point of view of [[ordinary language philosophy]], of which he is a practitioner and ardent defender. One of the essays discusses [[Søren Kierkegaard]]'s work on revelation and authority, ''[[The Book on Adler]]'', in an effort to help reintroduce the book to modern philosophical readers.<ref>{{cite journal |journal=The Journal of Religion |date=July 1977 |title=Some Remarks on Authority and Revelation in Kierkegaard |last=Jones |first=Joe R. |volume=57 |issue=3 |page=237 |doi=10.1086/486547 |jstor=1201641 |url=https://www.jstor.org/stable/1201641}}</ref> In ''The World Viewed'' (1971) Cavell looks at photography, film, modernism in art and the nature of media, mentioning the influence of art critic [[Michael Fried]] on his work.
+
+Cavell is well-known for ''The Claim of Reason: Wittgenstein, Skepticism, Morality, and Tragedy'' (1979), which forms the centerpiece of his work and has its origins in his doctoral dissertation. In ''Pursuits of Happiness'' (1981), Cavell describes his experience of seven prominent Hollywood comedies: ''[[The Lady Eve]]'', ''[[It Happened One Night]]'', ''[[Bringing Up Baby]]'', ''[[The Philadelphia Story (film)|The Philadelphia Story]]'', ''[[His Girl Friday]]'', ''[[Adam’s Rib]]'', and ''[[The Awful Truth]]''. Cavell argues that these films, from 1934–1949, form part of what he calls the genre of "[[remarriage|The Comedy of Remarriage]]," and finds in them great philosophical, moral, and political significance. Specifically, Cavell argues that these comedies show that "the achievement of happiness requires not the [...] satisfaction of our needs [...] but the examination and transformation of those needs."<ref>Cavell, ''Pursuits of Happiness'', 1981, pp. 4–5.</ref>  According to Cavell, the emphasis these movies place on remarriage draws attention to the fact that, within a relationship, happiness requires "growing up" together with one's partner.<ref>Cavell, ''Pursuits of Happiness'', 1981, p. 136.</ref>
+
+In ''Cities of Words'' (2004) Cavell traces the history of [[moral perfectionism]], a mode of moral thinking spanning the history of Western philosophy and literature. Having used Emerson to outline the concept, the book suggests ways we might want to understand philosophy, literature, and film as preoccupied with features of perfectionism. In ''Philosophy the Day After Tomorrow'' (2005), a collection of essays, Cavell makes the case that J. L. Austin's concept of [[performative utterance]] requires the supplementary concept of ''passionate utterance'': "A performative utterance is an offer of participation in the order of law. And perhaps we can say: A passionate utterance is an invitation to improvisation in the disorders of desire."<ref>Cavell, ''Philosophy the Day after Tomorrow'' (Cambridge, Massachusetts, & London: Harvard University Press, 2005), p. 19.</ref> The book also contains extended discussions of [[Friedrich Nietzsche]], [[Jane Austen]], [[George Eliot]], [[Henry James]], and [[Fred Astaire]], as well as familiar Cavellian subjects such as [[William Shakespeare|Shakespeare]], Emerson, Thoreau, Wittgenstein, and Heidegger. Cavell's final book, ''Little Did I Know: Excerpts from Memory'' (2010), is an autobiography written in the form of a diary. In a series of consecutive, dated entries, he inquires about the origins of his philosophy by telling the story of his life.
+
+A scholarly journal, ''Conversations: The Journal of Cavellian Studies'', engages with his philosophical work. It is edited by [[Sérgio Dias Branco]] and Amir Khan and published by the [[University of Ottawa]].<ref>{{Cite web |title=About the Journal {{!}} Conversations: The Journal of Cavellian Studies |url=https://uottawa.scholarsportal.info/ottawa/index.php/conversations/about |access-date=2024-10-10 |website=uottawa.scholarsportal.info}}</ref>
+
+== Honorary degrees ==
+*Doctor of Humane Letters, [[Kalamazoo College]], 1980
+*Doctor of Letters, [[Iona College (New York)|Iona College]], 1985
+*Doctor of Humane Letters, [[University of Chicago]], 1987
+*Docteur, Honoris Causa, [[Université de Strasbourg]], 1996
+*Doctor Philosophiae Honoris Causa, [[Hebrew University]], 1997
+*Doctor of Letters, Honoris Causa, [[University of East Anglia]], 2009
+*Docteur, Honoris Causa, [[École normale supérieure de Lyon|Ecole Normale Superieure, Lyon]], 2010
+*Doctor of Letters, [[Wesleyan University]], 2010
+*Doctor of Theology, [[Protestant Faculty of Theology in Paris|Institut Protestant de Théologie de Paris]], 2010
+
+==Selected honors==
+*Junior Fellow, [[Society of Fellows]], [[Harvard University]], 1953–56
+*Fellow, [[Institute for Advanced Study]], [[Princeton, New Jersey]], 1962–1963
+*Distinguished Teaching Award, [[University of California, Berkeley]], 1961
+*Fellow, [[Wesleyan University]] Center for the Humanities, 1970–1971
+*Fellow, [[American Academy of Arts and Sciences]], 1978–
+*Fellow, [[MacArthur Fellows Program|MacArthur Foundation]]<ref name=":5" />
+*President, [[American Philosophical Association]] (Eastern Division), 1996–97
+*2000 Centennial Medalist, [[Harvard University]] Graduate School of Arts and Sciences
+*Romanell [[Phi Beta Kappa]] Professorship, 2004–05
+*Member, [[American Philosophical Society]], 2005-
+
+==Selected special lectureships==
+*Patricia Wise Lecture, [[American Film Institute]], 1982
+*Mrs. William Beckman Lectures, [[University of California, Berkeley]], 1983
+*Tanner Lecture, [[Stanford University]], April 1986
+*Carus Lectures, [[American Philosophical Association]], 1988
+*Plenary Address, Shakespeare World Congress, [[Los Angeles]], 1996
+*Presidential Address, [[American Philosophical Association]], [[Atlanta]], 1996
+*Howison Lectures, [[University of California, Berkeley]], February, 2002
+
+== Bibliography ==
+* ''Must We Mean What We Say?'' (1969)
+* ''The Senses of [[Walden]]'' (1972) Expanded edition San Francisco: North Point Press, 1981.
+* ''[http://www.hup.harvard.edu/catalog.php?isbn=9780674961968 The World Viewed: Reflections on the Ontology of Film]'' (1971); 2nd enlarged edition (1979)
+* ''The Claim of Reason: Wittgenstein, Skepticism, Morality, and Tragedy'' (1979) New York: Oxford University Press.
+* ''[http://www.hup.harvard.edu/catalog.php?isbn=9780674739062 Pursuits of Happiness: The Hollywood Comedy of Remarriage]'' (1981) {{ISBN|978-0-674-73906-2}}
+* ''Themes Out of School: Effects and Causes'' (1984)
+* ''Disowning Knowledge: In Six Plays of Shakespeare'' (1987); 2nd edition: ''Disowning Knowledge: In Seven Plays of Shakespeare'' (2003)
+* ''In Quest of the Ordinary: Lines of Scepticism and Romanticism'' (1988) Chicago: Chicago University Press.<ref>{{Cite magazine |last=Rorty |first=Richard |author-link=Richard Rorty |date=June 19, 1989 |title=The Philosophy of the Oddball |url=https://newrepublic.com/article/149224/philosophy-oddball |archive-url=https://web.archive.org/web/20180621040346/https://newrepublic.com/article/149224/philosophy-oddball |archive-date=June 21, 2018 |access-date=2024-10-10 |magazine=[[The New Republic]] |issn=0028-6583}}</ref>
+* ''This New Yet Unapproachable America: Lectures after Emerson after Wittgenstein'' (1988)
+* ''Conditions Handsome and Unhandsome: The Constitution of Emersonian Perfectionism'' (1990)
+* ''[http://www.hup.harvard.edu/catalog.php?isbn=9780674669819 A Pitch of Philosophy: Autobiographical Exercises]'' (1994)
+* ''Philosophical Passages: Wittgenstein, Emerson, Austin, Derrida'' (1995)
+* ''Contesting Tears: The Melodrama of the Unknown Woman'' (1996)
+* ''Emerson's Transcendental Etudes'' (2003)
+* ''Cavell on Film'' (2005)
+* ''[http://www.hup.harvard.edu/catalog.php?isbn=9780674018181 Cities of Words: Pedagogical Letters on a Register of the Moral Life]'' (2004)
+* ''[http://www.hup.harvard.edu/catalog.php?isbn=9780674022324 Philosophy the Day after Tomorrow]'' (2005)
+* ''Little Did I Know: Excerpts from Memory'' (2010)<ref>{{Cite web |last=Cohen |first=Marshall |date=2019-04-27 |title=Must We Mean What We Say?: On the Life and Thought of Stanley Cavell |url=https://lareviewofbooks.org/article/must-we-mean-what-we-say-on-the-life-and-thought-of-stanley-cavell/ |access-date=2024-10-08 |website=[[Los Angeles Review of Books]]}}</ref><ref>{{Cite journal |last=Johnson |first=Christopher D. |date=2010 |title=Review of Little Did I Know: Excerpts from Memory |url=https://www.jstor.org/stable/23012523 |journal=[[Modern Language Notes|MLN]] |volume=125 |issue=5 |pages=1147–1151 |doi=10.1353/mln.2010.0031 |jstor=23012523 |issn=0026-7910 |url-access=registration}}</ref>
+* ''Here and There: Sites of Philosophy'' (2022)
+
+==See also==
+* [[List of American philosophers]]
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+'''Books'''
+*Michael Fischer, ''Stanley Cavell and Literary Criticism'', Chicago U.P., 1989
+*Richard Fleming and Michael Payne (eds), ''The Senses of Stanley Cavell'', Bucknell U.P., 1989
+*Ted Cohen, Paul Guyer, and Hilary Putnam, eds., ''Pursuits of Reason: Essays in Honor of Stanley Cavell'', Texas Tech U.P., 1993
+*[[Stephen Mulhall]], ''Stanley Cavell: Philosophy’s Recounting of the Ordinary'', Clarendon Press, 1994
+*Timothy Gould, ''Hearing Things: Voice and Method in the Writing of Stanley Cavell'', Chicago U.P., 1998
+*[[William Rothman]] and Marian Keane, ''Reading Cavell's The World Viewed,'' 2000.
+*Espen Hammer, ''Stanley Cavell: Skepticism, Subjectivity, and the Ordinary'', Polity Press/Blackwell’s, 2002
+*Richard Eldridge (ed.), ''Stanley Cavell'', Cambridge U.P., 2003
+*Sandra Laugier, ''Une autre pensée politique américaine: La démocratie radicale d’Emerson á Stanley Cavell'', Michel Houdiard Ēditeur, 2004
+*Russell Goodman (ed.), ''Contending with Stanley Cavell'', Oxford U.P., 2005.
+*Alice Crary and Sanford Shieh (eds.), ''Reading Cavell'', Routledge, 2006.
+*Catherine Wheatley, ''Stanley Cavell and Film: Scepticism and Self-Reliance at the Cinema,'' 2019.
+*David LaRocca (ed.), ''The Thought of Stanley Cavell and Cinema,'' 2019.
+*David LaRocca (ed.), ''Inheriting Stanley Cavell,'' 2020.
+*David LaRocca (ed.), ''Movies with Stanley Cavell in Mind,'' 2021.
+*David LaRocca and Sandra Laugier (eds.), ''Television with Stanley Cavell in Mind,'' 2023.
+*David LaRocca (ed.), ''Music with Stanley Cavell in Mind,'' 2024.
+'''Articles'''
+* The Stanley Cavell Special Issue: Writings and Ideas on Film Studies, An Appreciation in Six Essays, ''Film International'', Issue 22, Vol. 4, No. 4 (2006), Jeffrey Crouse, guest editor. The essays include those by Diane Stevenson, Charles Warren, Anke Brouwers and Tom Paulus, William Rothman, Morgan Bird, and George Toles.
+* "Why Not Realize Your World?" Philosopher/Film Scholar William Rothman Interviewed by Jeffrey Crouse" in ''Film International'', Issue 54, Vol. 9, No. 6 (2011): 59–73.
+* Special Section on Stanley Cavell. ''[https://www.euppublishing.com/toc/film/18/1 Film-Philosophy]'', Vol. 18 (2014): 1-171. Articles by William Rothman, Robert Sinnerbrink, David Macarthur, Richard Rushton, and Lisa Trahair. 
+* "In Focus: Cavell in Words," ''Philosophy and Literature'', Vol. 40, No. 2 (2016): 446-94.  Three essays by, respectively, Áine Mahon and Fergal McHugh, Peter Dula, and Erika Kidd.
+*David LaRocca (ed.), "Acknowledging Stanley Cavell," ''Conversations: The Journal of Cavellian Studies'', no. 7 (2019): 1-276.
+* David Macarthur, "Skepticism as Nihilism: Sartre's ''Nausea'' Reads Cavell." In ''Sartre and Analytic Philosophy'', ed. Talia Morag. London: Routledge, 2023.
+
+== External links ==
+{{wikiquote}}
+*[http://www.fas.harvard.edu/~phildept/cavell.html Harvard Philosophy Department website]{{Dead link|date=October 2024}} [https://web.archive.org/web/20050309030220/http://philosophy.fas.harvard.edu/facultymember.php?key=1 2005 version] (archived)
+*[https://uottawa.scholarsportal.info/ojs/index.php/conversations Conversations: The Journal of Cavellian Studies]
+*[http://globetrotter.berkeley.edu/people2/Cavell/cavell-con0.html A Philosopher Goes to the Movies: Conversation with Stanley Cavell] {{Webarchive|url=https://web.archive.org/web/20170120014215/http://globetrotter.berkeley.edu/people2/Cavell/cavell-con0.html |date=2017-01-20 }}
+*[[Daniel Ross (philosopher)|Daniel Ross]], [http://tlweb.latrobe.edu.au/humanities/screeningthepast/19/philosophy-day-after-tomorrow.html Review of Cavell, ''Philosophy the Day after Tomorrow'']
+*[http://study.stanley-cavell.org A study (in French) on Cavell's idea of perfectionism] {{Webarchive|url=https://web.archive.org/web/20110728053606/http://study.stanley-cavell.org/ |date=2011-07-28 }}
+*[http://www.stanley-cavell.net/ Stanley Cavell] {{Webarchive|url=https://web.archive.org/web/20130720234629/http://stanley-cavell.net/ |date=2013-07-20 }}
+*[http://writing.upenn.edu/pennsound/x/Cavell.php PennSound page with audio and video links]
+*[https://media.sas.upenn.edu/pennsound/authors/Cavell/Cavell-Stanley_Close-Listening_12-10-12.mp3 Radio interview by Charles Bernstein]
+*Cohen, Marshall (2019). [https://lareviewofbooks.org/article/must-we-mean-what-we-say-on-the-life-and-thought-of-stanley-cavell/ "Must We Mean What We Say?: On the Life and Thought of Stanley Cavell"]. ''[[Los Angeles Review of Books]]''. Retrieved 2024-10-08.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cavell, Stanley}}
+[[Category:1926 births]]
+[[Category:2018 deaths]]
+[[Category:Writers from Atlanta]]
+[[Category:Writers from Sacramento, California]]
+[[Category:Academics from Brookline, Massachusetts]]
+[[Category:20th-century American Jews]]
+[[Category:MacArthur Fellows]]
+[[Category:Harvard University alumni]]
+[[Category:Juilliard School alumni]]
+[[Category:UC Berkeley College of Letters and Science alumni]]
+[[Category:Harvard Fellows]]
+[[Category:20th-century American philosophers]]
+[[Category:Wittgensteinian philosophers]]
+[[Category:Analytic philosophers]]
+[[Category:Philosophers from Georgia (U.S. state)]]
+[[Category:American philosophers of language]]
+[[Category:Jewish philosophers]]
+[[Category:Film theorists]]
+[[Category:Film theory]]
+[[Category:Harvard University Department of Philosophy faculty]]
+[[Category:Wesleyan University faculty]]
+[[Category:Tougaloo College faculty]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:Yale University faculty]]
+[[Category:University of Chicago faculty]]
+[[Category:Ordinary language philosophy]]
+[[Category:American autobiographers]]
+[[Category:Burials at Mount Auburn Cemetery]]
+[[Category:Presidents of the American Philosophical Association]]
+[[Category:Members of the American Philosophical Society]]
+[[Category:21st-century American Jews]]

@@ -1,0 +1,82 @@
+{{Short description|Italian Friar Minor and philosopher}}
+{{no footnotes|date=July 2013}}
+{{Infobox philosopher
+| region     = [[Western philosophy]]
+| era        = [[Medieval philosophy]]
+| image      = File:Matteo d'Acquasparta 1 (cropped).jpg
+| caption    = Portrait of Matthew of Aquasparta. Particular from the Gualdo Tadino Polyptych by [[Niccolò Alunno]]
+| name       = Matteo Bentivenghi
+| birth_date  = {{circa|1240}}
+| birth_place = [[Acquasparta]], [[Papal States]]
+| death_date  = {{death date and age|df=yes|1302|10|29|1240}}
+| death_place = [[Rome]], [[Papal States]]
+| education   = [[University of Paris]]
+| nationality = Italian
+| school_tradition = {{plainlist|
+*[[Scholasticism]]
+*[[Augustinianism]]}}
+| main_interests = [[Metaphysics]], [[logic]], [[ontology]], [[political philosophy]]
+| influences  = [[Aristotle]], [[Augustine of Hippo|Augustine]], [[Pseudo-Dionysius the Areopagite|Dionysius the Areopagite]], [[Alexander of Hales]], [[Averroes]], [[Albertus Magnus]], [[Bonaventure]], [[Thomas Aquinas]], [[John Peckham]]
+| influenced = [[Pope Boniface VIII|Benedetto Caetani]]
+| notable_ideas = 
+| resting_place = [[Santa Maria in Ara Coeli]]
+}}
+'''Matthew of Aquasparta''' ({{langx|it|Matteo di Aquasparta}}; 1240 – 29 October 1302) was an [[Italian people|Italian]] [[Franciscans|Friar Minor]] and [[scholastic philosopher]]. He was elected [[Minister General]] of the Order.
+
+==Life==
+Born in [[Acquasparta]], [[Umbria]], he was a member of the [[Bentivenghi]] family, to which belonged his fellow Franciscan, Cardinal [[Bentivenga de' Bentivenghi]], bishop of Albano (died 1290). Matthew entered the Franciscan Order at [[Todi]], took the degree of Master of Theology at Paris, and taught also for a time at Bologna.
+
+Friar [[John Peckham]] having become [[Archbishop of Canterbury]] in 1279, Matteo was in 1280 made Peckham's successor as ''Lector sacri Palatii apostolici'', i.e. he was appointed reader (teacher) of theology to the [[papal Curia]]. In 1287 the [[General Chapter]] of the Order held at [[Montpellier]] elected him Minister General in succession to [[Arlotto of Prato]].
+
+When [[Girolamo Masci]] of Ascoli, who had previously been Minister General of the Franciscan Order, became pope as Nicholas IV, 15 February 1288, he created Matthew cardinal with the ''[[Titular church|titulus]]'' of [[San Lorenzo in Damaso]] that May. After this Matteo was made [[Cardinal Bishop of Porto]], and ''[[penitentiarius major]]'' (Grand Penitentiary). He still, however, retained the direction of the Order until the chapter of 1289. Matthew had summoned this chapter to meet at [[Assisi]], but Nicholas IV caused it to be held in his presence at [[Rieti]]; here [[Raymond Gaufredi]], a native of Provence, was elected Minister General.
+
+As Minister General of the Order, Matthew maintained a moderate, middle course; among other things he reorganized the studies pursued in the order. In the quarrel between [[Pope Boniface VIII]] and the [[Colonna]] family, from 1297 onwards, he strongly supported the pope, both in official memorials and in public sermons. Pope Boniface  appointed him, both in 1297 and 1300, to important embassies to Lombardy, the Romagna, and to [[Guelphs and Ghibellines|Guelph]] Florence, where the  Neri and Bianchi Guelph factions were violently at issue with each other.
+
+In 1301 Matthew returned to Florence, following [[Charles of Valois]], but neither peace nor reconciliation was brought about. The Blacks finally obtained the upper hand, and the chief Whites were obliged to go into exile; among these was the poet [[Dante]]. In a famous passage of the ''Divina Commedia'' (Paradiso, XII, 124-26), Dante certainly speaks as a partisan of the Bianchi against Matthew of Aquasparta, calling Cardinal Matthew a [[Sodomy|sodomite]]. Matthew, however, had died before this, on 28 October, 1302. He was buried in Rome, in the Franciscan church of [[Santa Maria in Aracoeli]], where his monument is still to be seen.<ref>Lorenzo Cardella, ''Memorie de' Cardinali della Santa Romana Chiesa'' (Rome 1793), p. 30.</ref>
+
+==Works==
+
+Matteo was a learned philosopher and theologian and a personal pupil of St. [[Bonaventure]], whose teaching, in general, he followed, or rather developed. In this respect he was one of what is known as the older Franciscan school, who preferred [[Augustinianism]] to the more pronounced [[Aristoteleanism]] of [[Thomas Aquinas]].
+
+His principal work is the acute ''Quæstiones disputatæ'', which treats of various subjects. Of this one book appeared at [[Quaracchi]] in 1903, namely: "Quæstiones disputatæ selectæ", in "Bibliotheca Franciscana scholastica medii ævi", I; the "Quæstiones" are preceded by a "Tractatus de excellentia S. Scripturæ" (pp.&nbsp;1–22), also by a "Sermo de studio S. Scripturæ" (pp.&nbsp;22–36); it is followed by "De processione Spiritus Sancti" (pp.&nbsp;429–53). Five "Quæstiones de Cognitione" had already been edited in the collection called "De humanæ cognitionis ratione anecdota quædam" (Quaracchi, 1883), 87-182.
+
+The rest of his works, still unedited, are to be found at Assisi and Todi. Among them are: "Commentarius in 4 libros Sententiarum" ([[autograph (manuscript)|autograph]]); "Concordantiæ super 4 ll. Sententiarum"; "Postilla super librum Job"; "Postilla super Psalterium" (autograph); "In 12 Prophetas Minores"; "In Danielem"; "In Ev. Matthæi"; "In Apocalypsim" (autograph); "In Epist. ad Romanos"; "Sermones dominicales et feriales" (autograph).
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*The editions referred to the {{lang|la|Quæstiones disputatæ}} (1903), pp. v-xvi, and De Hum. Cognit., pp. xiv-xv
+*Chronica XXIV Ministr. General O. Min. in Analecta Franciscana, III ([[Quaracchi]], 1897), 406-19, 699, 703
+*[[Luke Wadding]], Scriptores Ord. Min. (Rome, 1650), 252, (1806), 172, (1906), 269-70
+*[[Sbaralea]], Suppl. ad Script. O. M. (Rome, 1806), 525
+*[[Henry Denifle]] and Chatelain, Chartular. Univ. Paris., II (Paris, 1891), 59
+*[[Franz Ehrle|Ehrle]] in {{lang|de|[[Zeitschrift für katholische Theologie]]}}, VII (Innsbruck, 1883), 46
+*[[Martin Grabmann]], Die philosophische und theologische Erkenntnislehre des Kardinals Matthäus von Aquasparta (Vienna, 1906)
+*Theologische Studien der Leo Gesellschaft, Pt. XIV.
+*{{Catholic|wstitle=Matteo of Aquasparta}}
+
+==External links==
+* {{DBI |title= MATTEO d’Acquasparta |url=https://www.treccani.it/enciclopedia/matteo-d-acquasparta_(Dizionario-Biografico)|last= Barone|first= Barone|volume= 72}}
+
+{{s-start}}
+{{s-rel|ca}}
+{{succession box |before= [[Arlotto da Prato]]|title = [[Minister General of the Order of Friars Minor]]|years=1287–1289|after=[[Raymond de Gaufredi]]}}
+{{s-end}}
+
+{{Authority control}}
+{{DEFAULTSORT:Matthew Of Aquasparta}}
+[[Category:1302 deaths]]
+[[Category:People from the Province of Terni]]
+[[Category:Italian Friars Minor]]
+[[Category:Ministers General of the Order of Friars Minor]]
+[[Category:Franciscan bishops]]
+[[Category:Franciscan cardinals]]
+[[Category:Franciscan theologians]]
+[[Category:13th-century Italian cardinals]]
+[[Category:Cardinal-bishops of Porto]]
+[[Category:Scholastic philosophers]]
+[[Category:13th-century Italian Roman Catholic theologians]]
+[[Category:1240 births]]
+[[Category:14th-century Italian cardinals]]
+[[Category:13th-century Italian philosophers]]

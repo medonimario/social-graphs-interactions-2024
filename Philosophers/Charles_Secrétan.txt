@@ -1,0 +1,45 @@
+{{Short description|Swiss philosopher}}
+{{Infobox person
+| name          = Charles Secrétan
+| image         = Charles_Secr%C3%A9tan_en_1837.jpg
+| birth_date    = {{Birth date|1815|01|19|df=y}}
+| birth_place   = [[Lausanne]], [[Switzerland]]
+| death_date    = {{Death date and age|1895|01|21|1815|01|19|df=y}}
+| death_place   = [[Lausanne]], [[Switzerland]]
+| nationality   = [[Switzerland|Swiss]]
+| occupation    = Professor of philosophy at Lausanne and [[Neuchâtel]]
+| known_for     = Founding/editing ''Revue Suisse''
+}}
+'''Charles Secretan''' (January 19, 1815 – January 21, 1895) was a [[Switzerland|Swiss]] philosopher. He was born on 19 January 1815 in [[Lausanne]], Switzerland, where he also died on 21 January 1895.
+
+Educated in his native town and later under [[Friedrich Schelling]] in [[Munich]], he became a professor of philosophy at Lausanne (1838 to 1846), and later at [[Neuchâtel]].  In 1866 he returned to his old position at Lausanne.{{sfn|Chisholm|1911}}
+
+In 1837 he founded, and for a time edited the ''Revue Suisse''. The object of his writing was to build up a rational, philosophical religion to reconcile the ultimate bases of Christianity with the principles of [[Metaphysics|metaphysical philosophy]].{{sfn|Chisholm|1911}}
+
+== Works ==
+*''La Philosophie de la liberté'' (1848)
+*''La Raison et le Christianisme'' (1863)
+*''La Civilisation et les croyances'' (1887)
+*''Les Droits de l'Humanité'' (1890)
+*''Mon Utopie'' (1892)
+*Preface to ''Le problème de l'immortalité'' by [[Emmanuel Pétavel-Olliff]] (1892)
+
+==References==
+{{reflist}}
+'''Attribution:'''
+*{{EB1911|wstitle=Secrétan, Charles|volume=24|page=571}} This work in turn cites:
+**[[François Pillon|François T. Pillon]], ''La Philosophie de Charles Secrétan'' (Paris 1898; reprinted 2006)
+
+==External links==
+* {{Gutenberg author | id=34989| name=Charles Secrétan}}
+* {{Internet Archive author |sname=Charles Secrétan |sopt=w}}
+
+{{Authority control}}
+
+{{EB1911 article with no significant updates}}
+
+{{DEFAULTSORT:Secretan, Charles}}
+[[Category:1815 births]]
+[[Category:1895 deaths]]
+[[Category:19th-century Swiss philosophers]]
+[[Category:Swiss Protestants]]

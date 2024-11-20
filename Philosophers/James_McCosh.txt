@@ -1,0 +1,148 @@
+{{Short description|British philosopher (1811–1894)}}
+{{for|the Scottish photographer also sometimes known as James McCosh|John McCosh}}
+{{Use mdy dates|date=April 2021}}
+{{Infobox officeholder
+| name                = James McCosh
+| image               = James McCosh from Disruption Worthies.png
+| term_start          = 1868
+| term_end            = 1888
+| predecessor         = [[John Maclean, Jr.]]
+| successor           = [[Francis Landey Patton]]
+| birth_date          = {{birth date|1811|4|1}}
+| birth_place         = [[Ayrshire]], Scotland
+| death_date          = {{Death date and age|1894|11|16|1811|4|1}}
+| death_place         = [[Princeton, New Jersey]]
+| children            = [[A. J. McCosh]]
+| signature           = Signature of James McCosh (1811–1894).png
+| office              = President of Princeton University
+| order               = 11th
+}}
+[[File:Rev-dr-james-mccosh-1811-1891-of-brechin-free-chur.jpg|thumb|James McCosh by [[Hill & Adamson]]]]
+[[File:James McCosh seated.png|thumb|James McCosh seated]]
+[[File:James McCosh from a photograph taken in 1892.png|thumb|James McCosh from a photograph taken in 1892]]
+[[File:McCosh 50 (front).jpg|thumb|A lecture room in McCosh Hall at Princeton University]]
+[[File:James McCosh sculptured plaque.png|thumb|James McCosh sculptured plaque]]
+'''James McCosh''' (April 1, 1811 &ndash; November 16, 1894) was a philosopher of the [[Scottish School of Common Sense]]. He was president of [[Princeton University]] 1868&ndash;88.
+
+==Biography==
+
+McCosh was born into a [[Covenanter|Covenanting]] family in [[Ayrshire]], and studied at the Universities of [[University of Glasgow|Glasgow]] and [[University of Edinburgh|Edinburgh]], obtaining his M.A. at the latter, at the suggestion of Sir [[Sir William Hamilton, 9th Baronet|William Hamilton]], for an essay on [[stoicism]]. He became a minister of the [[Church of Scotland]] in 1834, serving as minister first at Abbey Church in [[Arbroath]] and then at [[Brechin]].<ref>{{Cite EB1911|wstitle=McCosh, James|volume=17|page=206}}</ref>  He sided with the [[Free Church of Scotland (1843-1900)|Free Church of Scotland]] in the [[Disruption of 1843]], becoming minister at Brechin's new East Free Church. In 1850 or 1851 he was appointed Professor of [[Logic]] and [[Metaphysics]] at [[Queen's University Belfast|Queen's College, Belfast]] (now [[Queen's University Belfast]]).<ref name = "Hooeveler1981">Hoeveler, ''James McCosh and the Scottish Intellectual Tradition: From Glasgow to Princeton'', Princeton University Press (1981)</ref>
+
+In 1868 he travelled to the United States to become president of the College of New Jersey (now [[Princeton University]]). He resigned the presidency in 1888, but continued to teach philosophy until his death. McCosh Hall (home of the English department) and a cross-campus walkway are named in his honor. The campus infirmary is named after his wife, Isabella McCosh. A school on the South Side of Chicago was named after him, but has since been renamed the [[Emmett Louis Till]] Math & Science Academy.<ref>{{cite web |url=http://www.cps.k12.il.us/AboutCPS/Board/Board_Actions/FY05/11/05-1116-MS1.pdf |title=Archived copy |access-date=2008-04-05 |url-status=dead |archive-url=https://web.archive.org/web/20080530034937/http://www.cps.k12.il.us/AboutCPS/Board/Board_Actions/FY05/11/05-1116-MS1.pdf |archive-date=2008-05-30 }}</ref>
+
+He was immortalised  by  [[William Makepeace Thackeray]]  in  the ballad  of  "The  Last  Irish  Grievance".{{sfn|Scott|1925}}
+
+==Philosophical work==
+McCosh's position was mainly in the tradition of [[Thomas Reid]] and other Scottish common-sense philosophers.  He denied that our beliefs about the nature of the external world rest on causal or other inferences from perceptual ideas, but held that they are the direct accompaniments of sensation, and thus not open to question.  He also argued for the ''a priori'' nature of fundamental principles such as those of [[causality]] and [[morality]].   Our judgements and other cognitions are regulated by such principles, though that is not to say that everyone is aware of them; they can be reached through reflection on our experience, when they are recognised as self-evidently necessary. In his moral theory, especially, McCosh differed from many of his contemporaries in being relatively uninfluenced by Kant.<ref name = "Hooeveler1981"/>
+
+==Evolution==
+McCosh's most original work concerned the attempt to reconcile [[evolution]] and Christianity. In 1874, [[Charles Hodge]], the theologian and intellectual leader at the Presbyterian Seminary in Princeton,  published ''What is Darwinism?'', claiming that [[Darwinism]], was, in essence, atheism. To Hodge, Darwinism was contrary to the notion of design and was therefore clearly atheistic. Hodge's views determined the position of the Seminary until his death in 1878. Hodge simply refused to accept that natural laws alone could create complex organisms that fit into their niches so perfectly and that evolution could explain origins. While he did not consider all evolutionary ideas to be in conflict with his religion, he was concerned with its teaching in colleges. Meanwhile at the college across town (a totally separate institution) President John Maclean also rejected Darwin's theory of evolution. However in 1868, McCosh became president at the college. McCosh realized that much of Darwinism could and would be proved sound, and so he strove to prepare Christians for this event. Instead of conflict between science and religion, McCosh sought reconciliation. Insisting on the principle of design in nature, McCosh interpreted the Darwinian discoveries as more evidence of the prearrangement, skill, and purpose in the universe. He thus demonstrated that Darwinism was not atheistic nor in irreconcilable hostility to the Bible. McCosh thus argued that evolution, far from being inconsistent with belief in [[Teleological argument|divine design]], glorifies the divine designer (see for example his ''Christianity and Positivism''), believing nature was entirely interconnected by natural laws God was [[Immanence|immanent]] with.<ref>David N. Livingstone, ''Darwin's Forgotten Defenders: The Encounter between Evangelical Theology and Evolutionary Thought'' (Michigan: William B. Eerdmans Publishing Company, 1987), 107–9.</ref> This aspect of his work found popularity among most Presbyterian clergy, who found his arguments useful in their attempts to cope with scientific philosophy.<ref name = "Hooeveler1981"/>  The Presbyterians in America thus could choose between two schools of thought on evolution, both based in Princeton. The Seminary held to Hodge's position until his supporters were ousted in 1929, and the college ([[Princeton University]]) became a world class center of the new science of evolutionary biology.<ref>Joseph E. Illick, "The Reception of Darwinism at the Theological Seminary and the College at Princeton, New Jersey. Part I: The Theological Seminary," ''Journal of the Presbyterian Historical Society,'' (1960), Vol. 38 Issue 3, pp 152-165; Part 2, (1960), Vol. 38 Issue 4, pp 234-243</ref>
+
+The debate between McCosh as president of the college and [[Charles Hodge]], head of Princeton Seminary, during the late 1860s and 1870s exemplified the classic conflict between science and religion over the question of Darwin's evolution theory. McCosh offered the first public endorsement of evolution by an American religious leader. However, the two men showed greater similarities regarding matters of science and religion than popularly appreciated. Both supported the increasing role of scientific inquiry in natural history and resisted its intrusion into philosophy and religion. The debate vitalized the college.<ref>Bradley J. Gundlach, "McCosh and Hodge on Evolution: A Combined Legacy," ''Journal of Presbyterian History'' 1997 75(2): 85-102,</ref>
+
+He was elected as a member to the [[American Philosophical Society]] in 1871.<ref>{{Cite web|title=APS Member History|url=https://search.amphilsoc.org/memhist/search?creator=&title=&subject=&subdiv=&mem=&year=1871&year-max=1871&dead=&keyword=&smode=advanced|access-date=2021-04-28|website=search.amphilsoc.org}}</ref>
+
+==Works==
+*The  Wheat and  the  Chaff  gathered  into  Bundles:  a Statistical  Contribution  towards  the  History of  the  Recent  Disruption  of  the Scottish Ecclesiastical  Establishment  (Perth,  1843)
+*Does  the  Established  Church  acknowledge Christ  as  its  Head  ?  (Brechin,  1846)
+*A Tribute  to  the  Memory  of  Dr  Chalmers, by  a  Former  Pupil  (Brechin,  1847)
+*The Method  of  the  Divine  Government,  Physical and  Moral  (Edinburgh,  1850,  last  ed., New  York,  1874)
+*The  Ulster  Revival and  its  Physiological  Accidents  (Belfast) [1859]
+*The  Intuitions  of  the  Mind  Inductively Investigated  (London,  1860,  1865 ; New  York,  1872)
+*The  Supernatural  in relation  to  the  Natural  (Cambridge,  Belfast, and    New    York,    1862)
+*Supplement    to Dugald  Stewart's  "Outlines  of  Moral  Philosophy" (1865)
+*An  Examination  of  Mr  J. S.  Mill's  Philosophy,  being  a  Defence  of Fundamental  Truth  (London,  1866  and 1886;  New  York,  1875  and 1880)
+*Philosophical Papers — I.,  Examination  of  Sir William  Hamilton's  Logic ;  II.,  Reply  to Mr  Mill's  Third  Edition ;  III.,  Present State  of  Moral  Philosophy  in  Britain (London,  1868;  New  York,  1869)
+*The Laws  of  Discursive  Thought  (London  and New  York,  1870–90)
+*Christianity  and Positivism :  a  Series  of  Lectures  on  Natural Theology  and  Apologetics  (London  and  New York,  1871-5)
+*The  Scottish  Philosophy: Biographical,  Expository,  Critical,  from Hutcheson  to  Hamilton  (London,  1874 ; New  York,  1880)
+*Ideas  in  Nature  overlooked by  Dr  Tyndall  (New  York,  1875)
+*The  Development  Hypothesis :  is  it  sufficient? (New  York,  1876)
+*The  Emotions  (London and  New  York,  1880)
+*The  Conflicts  of the  Age  (New  York,  1881)
+*Psychology: the  Motive  Powers — Emotions,  Conscience, Will  (London  and  New  York,  1887)
+*Realistic  Philosophy  Defended  in  a  Philosophic Series  (London  and  New  York, 1887)
+*The  Religious  Aspect  of  Evolution, the  Bedell  Lectures  for  1887  (New  York, 1888–90)
+*First  and  Fundamental  Truths (London  and  New  York,  1889)
+*Psychology  : the  Cognitive  Powers  (London  and  New York,  1889–91)
+*The  Tests  of  Various  Kinds of  Truths  (Merrick  Lectures)  (New  York  and Cincinnati,  1889–91)
+*The  Prevailing  Types of  Philosophy  :  can  they  reach  Reality  logically? (New  York,  1890)
+*Our  Moral  Nature (New  York,  1892)
+*[jointly  with  Dr  George Dickie]  Typical  Forms  and  Special  Ends  in Creation  (Edinburgh,  1855  ;  London,  1862  ; New  York,  1880)
+*and  a  very  large  number of  contributions  to  periodical  literature.{{sfn|Scott|1925}}
+*For a complete list of his writings see [[Joseph Heatly Dulles]], [https://catalog.hathitrust.org/Record/001180441 ''McCosh Bibliography''] (Princeton, 1895).
+
+===Main works===
+*[https://archive.org/details/divinegomethodof00mccorich ''The Method of Divine Government, Physical and Moral''] (Edinburgh, 1850, 5th ed., 1856, and frequently republished in New York)
+*[https://archive.org/details/typicalformsspe00mcco ''The Typical Forms and Special Ends in Creation''] (Edinburgh, 1855; [http://resource.nlm.nih.gov/05430200R New York, 1856])
+*[https://archive.org/details/intuitionsofmind00mcco ''Intuitions of the Mind Inductively Investigated''] (London and New York, 1860; 3rd rev. ed., 1872)
+*''An Examination of [[John Stuart Mill|Mr J. S. Mill]]'s Philosophy'' (London and New York, 1866; [https://catalog.hathitrust.org/Record/008977301 enlarged 1871], several editions)
+*[https://archive.org/details/lawsofdiscursivetho00mcco ''Dr. McCosh's Logic: Laws of Discursive Thought, Being a Text-Book of Formal Logic''] (Robert Carter & Brothers, 1885)
+*Philosophical Papers containing (1)"Examination of Sir W. Hamilton's Logic", (2)"Reply to Mr Mill's third edition", and (3) "Present State of Moral Philosophy in Britain".
+*[https://archive.org/details/firstfundamental00mcco ''First and Fundamental Truths: Being a Treatise on Metaphysics''] (New York, Charles Scribner's Sons, 1889)
+*[https://archive.org/details/religiousaspecto1890mcco ''The Religious Aspect of Evolution''] (New York, 1888, 2nd ed., 1890).
+
+==Family==
+He  married  29  September  1845,  Isabella (died  12  November  1909),  daughter  of  Alexander  Guthrie,  surgeon,  Brechin,  and  had  issue  —
+*Mary  Jane,  born  5  July  1846
+*Andrew,  born  15  April  1848,  died  15  October  1849
+*Alexander  Guthrie,  born  16  January  1850
+*Margaret  Sarah,  born  21  June  1852
+*Andrew  James,  born  15  March  1858.{{sfn|Scott|1925}}
+
+==References==
+===Citations===
+{{reflist}}
+
+===Sources===
+*{{cite book |last1=Allibone |first1=S. Austin |title=A critical dictionary of English literature and British and American authors, living and deceased, from the earliest accounts to the latter half of the nineteenth century. Containing over forty-six thousand articles (authors), with forty indexes of subjects |date=1870 |location=Philadelphia |publisher=J. B. Lippincott |page=[https://archive.org/details/criticaldictiona02alli/page/1163/mode/1up 1163] |url=https://archive.org/details/criticaldictiona02alli|volume=2 |author-link=Samuel Austin Allibone}}
+* Douglas Arner, "James McCosh", in ''The Encyclopedia of Philosophy", ed. [[Paul Edwards (philosopher)|Paul Edwards]] (Collier Macmillan, 1967)
+*{{cite book |last1=Guthrie |first1=Thomas |author1-link=Thomas Guthrie |title=Autobiography of Thomas Guthrie, D.D., and memoir by his sons |date=1874a |publisher=R. Carter and brothers|volume=1 |location=New York |url=https://archive.org/details/autobiographyoft00guth}}
+*{{cite book |last1=Guthrie |first1=Thomas |author1-link=Thomas Guthrie |title=Autobiography of Thomas Guthrie, D.D., and memoir by his sons |date=1874b |publisher=R. Carter and brothers|volume=2 |location=New York |url=https://archive.org/details/autobiographyoft02guth}}
+* [[Paul Helm]], "M'Cosh, James", in ''Dictionary of Scottish Church History and Theology'', ed. Nigel M de S Cameron (Edinburgh, T & T Clark, 1993)
+* Hoeveler, J. David, Jr. ''James McCosh and the Scottish Intellectual Tradition: From Glasgow to Princeton.'' (1981). 374 pp.
+*{{cite ANB|title=McCosh, James|first=J. David|last=Hoeveler|id=0900486|date=2000}}
+*{{cite ODNB|id=17402|title=McCosh, James|first=J. David|last=Hoeveler|date=2007}}
+*{{cite book |last1=M'Bain |first1=James M |title=Eminent Arbroathians: being sketches historical, genealogical, and biographical, 1178-1894 |date=1897 |publisher=Brodie & Salmond |location=Arbroath |pages=[https://archive.org/details/eminentarbroathi00mbaiiala/page/n347/mode/2up 317]-332 |url=https://archive.org/details/eminentarbroathi00mbaiiala}}
+*{{cite book |last1=McCosh |first1=James |author1-link=James McCosh |editor1-last=Sloane |editor1-first=William Milligan |editor1-link=William Milligan Sloane |title=The life of James McCosh; a record chiefly autobiographical |date=1896 |publisher=C. Scribner's sons |location=New York |url=https://archive.org/details/lifeofjamesmccos00mccoiala/page/n9/mode/2up}}
+*{{cite book |last1=Moon |first1=G. Washington |title=Men and women of the time. A dictionary of contemporaries |date=1891 |publisher=G. Routledge |location=London |pages=[https://babel.hathitrust.org/cgi/pt?id=hvd.32044025690462&view=1up&seq=599&skin=2021&size=125 583]-584 |url=https://catalog.hathitrust.org/Record/008637345}}
+*{{cite DNBSupp|last=Rigg|first=James McMullen|author-link=James McMullen Rigg|wstitle=McCosh, James|noicon=1|volume=3}}{{PD-notice}}
+* {{cite book |last1=Scott |first1=Hew |title=Fasti ecclesiae scoticanae; the succession of ministers in the Church of Scotland from the reformation |date=1925|pages=[https://archive.org/details/fastiecclesiaesc05scot/page/376/mode/2up 377]-378, 426 |publisher=Edinburgh: Oliver and Boyd |volume=5 |url=https://archive.org/details/fastiecclesiaesc05scot |author-link=Hew Scott}}{{PD-notice}}
+*{{cite book |editor-last=Wylie |editor-first=James Aitken |editor-link=James Aitken Wylie|title=Disruption worthies : a memorial of 1843, with an historical sketch of the free church of Scotland from 1843 down to the present time |date=1881 |publisher=T. C. Jack |location=Edinburgh |pages=[https://archive.org/details/disruptionworthi00wyli/page/343/mode/2up 343]–348 |url=https://archive.org/stream/disruptionworthi00wyli}}{{PD-notice}}
+
+==Further reading==
+{{Wikiquote|James McCosh}}
+{{Wikisource|Author:James McCosh}}
+* Hoeveler, J. David (1981), ''James McCosh and the Scottish Intellectual Tradition'', Princeton University Press, {{isbn|9780691046709}}
+
+==External links==
+* {{Librivox author|id=18183}}
+
+{{s-start}}
+{{s-aca}}
+{{succession box
+| before = [[John Maclean, Jr.]]
+| title  = [[President of Princeton University|President of the College of New Jersey]]
+| years  = 1868–1888
+| after  = [[Francis Landey Patton]]
+}}   
+{{s-end}}
+
+{{Princeton presidents}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:McCosh, James}}
+[[Category:1811 births]]
+[[Category:1894 deaths]]
+[[Category:Scottish philosophers]]
+[[Category:Presidents of Princeton University]]
+[[Category:Academics of Queen's University Belfast]]
+[[Category:19th-century British philosophers]]
+[[Category:People from Ayrshire]]
+[[Category:Alumni of the University of Glasgow]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Theistic evolutionists]]
+[[Category:Scottish emigrants to the United States]]
+[[Category:19th-century ministers of the Free Church of Scotland]]
+[[Category:19th-century Scottish Presbyterian ministers]]

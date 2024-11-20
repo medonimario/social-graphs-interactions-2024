@@ -1,0 +1,170 @@
+{{Short description|French philosopher}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[20th-century philosophy|20th-]]/[[21st-century philosophy]]
+| image            = Ranciere.jpg
+| name             = Jacques Rancière
+| birth_date       = {{Birth date and age|df=yes|1940|06|10}}
+| birth_place      = [[Algiers]], [[French Algeria]]<br/>(present-day Algiers, [[Algeria]])
+| school_tradition = [[Continental philosophy]]<br>[[Structural Marxism]]<br>[[Maoism]]
+| alma_mater       = [[École normale supérieure]]
+| main_interests   = [[Political philosophy]], [[aesthetics]], [[philosophy of history]], [[philosophy of education]], [[Film industry|cinema]]
+| institutions     = [[University of Paris VIII]]
+| influences       = [[Plato]], [[Aristotle]],  [[Karl Marx|Marx]], [[Louis Althusser|Althusser]], [[Michel Foucault|Foucault]], [[Jacques Lacan|Lacan]], [[Jean-François Lyotard|Lyotard]], [[Alain Badiou|Badiou]], [[Hannah Arendt|Arendt]], [[Claude Lefort|Lefort]], [[Mao Zedong|Mao]]
+| influenced       = [[Ernesto Laclau|Laclau]], [[Slavoj Žižek|Žižek]], [[Simon Critchley|Critchley]], [[Bernard Aspe]], [[Kristin Ross]], [[Todd May]], [[Levi Bryant]], [[Jodi Dean]], [[Gabriel Rockhill]]
+| notable_ideas    = Theories of democracy, disagreement, the Visual,<ref>Jacques Rancière. ''The Future of the Image''. Ed. and trans. Gregory Elliot. London and New York: Verso, 2019 [2007], p. 2.</ref> "part with no part"<ref>K. Cho, ''Psychopedagogy: Freud, Lacan, and the Psychoanalytic Theory of Education'', Springer, 2009, p. 161.</ref><ref>J. Rancière, "Disagreement", translated by Julie Rose, University of Minnesota press, 1995, p. 9.</ref>
+|nationality=[[French people|French]]}}
+'''Jacques Rancière''' ({{IPA|fr|ʒak ʁɑ̃sjɛʁ|lang}}; born 10 June 1940) is a French [[philosopher]], Professor of Philosophy at [[European Graduate School]] in [[Saas-Fee]] and [[Emeritus Professor]] of Philosophy at the [[University of Paris VIII: Vincennes—Saint-Denis]]. After co-authoring ''[[Reading Capital]]'' (1965) with the [[Structural Marxism|structuralist Marxist]] philosopher [[Louis Althusser]] and others, and after witnessing the 1968 political uprisings his work turned against Althusserian Marxism, he later came to develop an original body of work focused on aesthetics.<ref>See: [http://www.egs.edu/faculty/jacques-ranciere/biography/ Jacques Rancière Faculty Profile] {{webarchive|url=https://web.archive.org/web/20100417061517/http://www.egs.edu/faculty/jacques-ranciere/biography/ |date=2010-04-17 }} at [[European Graduate School]]</ref>
+
+==Life and work==
+Rancière contributed to the influential volume ''[[Reading Capital]]'' before publicly breaking with Althusser over his attitude toward the May 1968 [[French May|student uprising in Paris]]; Rancière felt Althusser's theoretical stance did not leave enough room for spontaneous popular uprising.<ref name="rancieredavis">Ben Davis. [http://www.artnet.com/magazineus/books/davis/davis8-17-06.asp Rancière, For Dummies.] The Politics of Aesthetics. Book Review.</ref>
+
+Since then, Rancière has departed from the path set by his teacher and published a series of works probing the concepts that make up the understanding of political discourse, such as [[ideology]] and [[proletariat]]. He sought to address whether the working class in fact exists, and how the masses of workers that thinkers like Althusser referred to continuously enter into a relationship with [[knowledge]], particularly the limits of philosophers' knowledge with respect to the proletariat. An example of this line of thinking is Rancière's book entitled ''Le philosophe et ses pauvres'' (''The Philosopher and His Poor'', 1983), a book about the role of the poor in the intellectual lives of philosophers.
+
+From 1975 to 1981, Rancière was a figurehead for the Journal ''Les Révoltes Logiques''. Forming partly out of a philosophy seminar on Workers’ history that Rancière gave at Vincennes, it drew together philosophers and historians for a radical political intervention into French thought after the [[May 1968 events in France|May 1968 uprisings.]]<ref>{{Cite book|title=May 1968 and its Afterlives|last=Ross|first=Kristin|publisher=University of Chicago Press|year=2002|isbn=0-226-72797-1|location=Chicago|pages=125}}</ref> Its title acting as both a reference to [[Arthur Rimbaud]]’s poem, ''Democratie (''‘Nous Massacrerons les revoltes logiques’ – ‘We'll smash all logic revolts.’) and the Maoist [[Cultural Revolution]]ary slogan adopted by the ''Gauche Prolétarienne'' group, of which some of ''Les Rèvoltes Logiques''' members were active within,<ref>{{Cite book|title=May 1968 and its Afterlives|last=Ross|first=Kristin|publisher=University of Chicago Press|year=2002|isbn=0-226-72797-1|location=Chicago|pages=125}}</ref> ‘On a raison de se revolter’ – ‘It is right to revolt.’,<ref>{{Cite book|title=Jacques Ranciere: Key Contemporary Thinkers|last=Davis|first=Oliver|publisher=Polity|year=2010|isbn=978-0-7456-4654-1|location=Cambridge|pages=37}}</ref> the Journal attempted to interrogate and contest the historiographic and political norms around the representation of workers’ and social history. Writing, along with figures like feminist historian [[Geneviève Fraisse|Genevieve Fraisse]], Rancière and others attempted to reveal the complexity, contradictions and diversity of ‘thought and history from below’. In its fifteen ordinary issues, the collective wished to overcome the historiographic norms in which the working class were given historical treatment but rendered voiceless, homogeneous and pre-theoretical; instead, they allowed workers to speak for themselves, and interrogated their words seriously.<ref>{{Cite book|title=Jacques Rancière: Key Concepts|last=Deranty|first=Jean-Phillipe|publisher=Acumen|year=2010|isbn=978-1-84465-233-4|location=Durham|pages=18}}</ref>
+
+More recently Rancière has written on the topic of human rights and specifically the role of international human rights organizations in asserting the authority to determine which groups of people, again the problem of masses, justify [[human rights]] interventions and even war.
+
+Rancière's book, ''[[The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation]]'' (original title ''Le Maître ignorant: Cinq leçons sur l'émancipation intellectuelle'', published in 1987) was written for educators and educators-to-be.  Through the story of [[Joseph Jacotot]], Rancière challenges his readers to consider equality as a starting point rather than a destination.  In doing so, he asks educators to abandon the themes and rhetoric of cultural deficiency and salvation. Rather than requiring informed schoolmasters to guide students towards prescribed and alienating ends, Rancière argues that educators can channel the equal intelligence in all to facilitate their intellectual growth in virtually unlimited directions. The schoolmaster need not know anything (and may be ignorant). Rancière begins with the premises that all are of equal intelligence and that any collective educational exercise founded on this principle can provide the insights from which knowledge is constructed. He claims that the poor and disenfranchised should feel perfectly able to teach ''themselves'' whatever it is they want to know. Furthermore, anyone can lead, and the oppressed should not feel bound to experts or reliant on others for their intellectual emancipation.
+
+Jacotot advocated the 'equality of intelligence' and claimed that an ignorant person could teach another ignorant person. Rancière developed this idea in ''The Ignorant Schoolmaster'', saying that “there is stultification whenever one intelligence is subordinated to another ... whoever teaches without emancipating stultifies”.<ref>{{cite book|title=[[The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation]]|author=Jacques Ranciere |pages=13, 18|year=1981}}</ref><ref>{{cite book|title=Epistemologies of Ignorance in Education |author=Molly Quinn |chapter=Committing (to) Ignorance |pages=31–52}}</ref>
+
+== Political philosophy ==
+
+=== Basic concepts ===
+Rancière's philosophy began as markedly radical, anti-elitist, and aggressively anti-authoritarian, with a focus on comparing and contrasting aesthetics and politics that developed later in his career.<ref>{{Cite book|last=Harman|first=Graham|title=Art + Objects|publisher=Polity|year=2020|isbn=978-1-5095-1268-3|location=Cambridge, UK|pages=130|lccn=2019008491}}</ref> [[Gabriel Rockhill]] published an English glossary of Rancière's technical terms in 2004 as ''Appendix I'' to the English translation of Rancière's ''The Politics of Aesthetics'' with cross references to their explication in Rancière's major works. This glossary includes key terms in Rancière's philosophy that either he invented or uses in a radically different manner than their common usages elsewhere such as aesthetic regime, aesthetic unconscious, archi-politics, Community of Equals, ''demos'', ''dissensus'', distribution of the sensible, emancipation, the ethical regime of images, literarity, [[meta-politics]], ''ochlos'', para-politics, partition of the sensible, police order, the poetics of knowledge, post-democracy, regimes of art, silent speech, and ''le tort.''<ref name=":0">{{Cite book|last=Rancière|first=Jacques|title=The Politics of Aesthetics|publisher=Bloomsbury Academic|year=2004|isbn=978-1-7809-3535-5|editor-last=Rockhill|editor-first=Gabriel|location=London|language=English|translator-last=Rockhill|translator-first=Gabrel|orig-date=2000 in French}}</ref>
+
+Rancière's [[political philosophy]] is characterized by a number of key concepts: politics, disagreement, police, equality, post-democracy:
+
+* Politics — an activity the subject of which is equality.<ref name="Ed">The Edinburgh Dictionary of Continental Philosophy / John Protevi (ed.) – Edinburgh: Edinburgh University Press, 2005. {{isbn|0-7486-1715-9}}; {{isbn| 0-7486-1716-7}}</ref>
+* Disagreement — an insurmountable conflict between people, which is inherent in human nature and manifests itself in a speech situation when one of the interlocutors understands and does not understand the other at the same time.
+* Police — a symbolic ordering of the social, aimed at determining the share of participation or lack of participation in each part. The concept goes back to the work of [[Michel Foucault]] in the 1970s.<ref name="May">May, Todd. ''The Political Thought of Jacques Rancière: Creating Equality''. PA, Edinburgh: The Pennsylvania State University Press, 2008. {{isbn|978-0-271-03449-2}}; {{isbn|978-0-271-03450-8}}</ref>
+* Equality — a set of practices aimed at certifying the equality of anyone with anyone.
+* [[Post-democracy]] — consensus system of [[modernity]] based on the identity (full compliance) of society and the individual and the consideration of society as the sum of its parts.
+
+== Influence ==
+In 2006, it was reported that Rancière's [[aesthetic]] theory had become a point of reference in the [[visual arts]], and Rancière has lectured at such art world events as the Frieze Art Fair.<ref name="rancieredavis"/> Former French presidential candidate [[Ségolène Royal]] described Rancière as her favourite philosopher.<ref>{{cite web|title=Translation: Jacques Rancière, the philosopher who inspires Ségolène Royal|url=http://www.ufppc.org/us-a-world-news-mainmenu-35/5508-translation-sl-royals-favorite-philosopher.html|work=United for Peace of Pierce County, WA|publisher=[[Paris Match]]|access-date=9 December 2013|author=Patrice Bollon|author2=Mark K. Jensen|page=34|date=December 2006|quote=Scoop: we've found out where the Socialist candidate got her ideas! From this intellectual sensitive to political alienation. Jacques Rancière.}}</ref> 
+
+Among those intellectuals influenced by his work, [[Gabriel Rockhill]], the editor and translator into English of Rancière's ''The Politics of Aesthetics'',<ref name=":0"/> has developed a new paradigm for thinking about the historical relation between aesthetics and politics in close dialogue with Rancière's writings. 
+
+Rancière's writings have also influenced developments in film theory, including historical and comparative approaches to representation, politics and spectatorship.<ref>Kitchen, Will (2023). ''Film, Negation and Freedom: Capitalism and Romantic Critique''. London and New York: Bloomsbury Academic</ref>
+
+The literary critic [[Rita Felski]] has named Rancière as an important precursor to the project of [[postcritique]] within literary studies.<ref>{{Cite book|title=The Limits of Critique|last=Felski|first=Rita|publisher=University of Chicago Press|year=2015|location=Chicago|pages=150}}</ref>
+
+==Selected bibliography==
+
+;Rancière's work in English translation
+
+*''[http://www.marx2mao.com/Other/RC68NB.html Reading Capital]'' (1968) (with [[Louis Althusser]], [[Roger Establet]], [[Pierre Macherey]] and [[Étienne Balibar]] in the French original edition)
+* “Reply to Levy”. ''Telos'' 33 (Fall 1977). New York: Telos Press.
+* ''[[Nights of Labor|The Nights of Labor: The Workers' Dream in Nineteenth-Century France]]'' (1989) {{ISBN|0-87722-833-7}}.
+* ''[[The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation]]'' (1987, tr. 1991) - {{ISBN|0-8047-1969-1}}.
+* ''The Names of History: On the Poetics of Knowledge'' (1994) - <small>This is a brief book, arguing for an [[epistemology|epistemological]] critique of the methods and goals of the traditional study of [[history]].  It has been influential in the [[philosophy of history]]</small>
+* ''On the Shores of Politics'' (1995): {{ISBN|0-86091-637-5}}
+* ''Disagreement: Politics and Philosophy'' (1998) {{ISBN|0-8166-2844-0}}.
+* ''Short Voyages to the Land of the People'' (2003): {{ISBN|0-8047-3682-0}}
+* ''The Politics of Aesthetics: The Distribution of the Sensible'', ed. and transl. by [[Gabriel Rockhill]] (2004): {{ISBN|978-0-8264-8954-8}}
+* ''The Philosopher and His Poor'', ed. Andrew Parker, co-trans. John Drury, Corinne Oster, and Andrew Parker (2004): {{ISBN|978-0-8223-3274-9}}
+*''The Future of the Image'' (2007): {{ISBN|1-84467-107-0}}
+*''Hatred of Democracy'' (2007): {{ISBN|978-1-84467-098-7}}
+*''The Aesthetic Unconscious'' (2009), transl., Debra Keates & James Swenson: {{ISBN|978-0-7456-4644-2}} 
+*''Aesthetics and its Discontents'' (2009), tr. by Steve Corcoran: {{ISBN|978-0-7456-4630-5}} 
+*''The Emancipated Spectator'' (2010): {{ISBN|978-1-84467-343-8}}
+*''Dissensus: On Politics and Aesthetics'' (2010): {{ISBN|978-1-84706-445-5}}
+*''Chronicles of Consensual Times'' (2010), tr. by Steven Corcoran: {{ISBN|978-0-8264-4288-8}}
+*''The Politics of Literature'' (2011), tr. by Julie Rose: {{ISBN|978-0-7456-4531-5}} 
+*''Staging the People: The Proletarian and His Double'' (2011), tr. by David Fernbach: {{ISBN|978-1-84467-697-2}} 
+*''Althusser's Lesson'' (2011) - <small>The first English translation of Rancière's first book, in which he explores and begins to move beyond the thought of his mentor, Louis Althusser</small> (tr. by Emiliano Battista) {{ISBN|978-1-4411-0805-0}}
+*''Mute Speech: Literature, Critical Theory, and Politics'' (2011), tr. by James Swenson: {{ISBN|978-0-231-15103-0}}
+*''Mallarmé: The Politics of the Siren'' (2011), tr. by Steven Corcoran: {{ISBN|978-0-8264-3840-9}} 
+*''Aisthesis: Scenes from the Aesthetic Regime of Art'' (2013), tr. by Zakir Paul: {{ISBN|978-1-78168-089-6}}
+*''[[Bela Tarr, the Time After]]'' (2013), tr. by Erik Beranek: {{ISBN|978-1937561154}}
+*''Figures of History'' (2014), tr. by Julie Rose: {{ISBN|978-0-7456-7956-3}}
+*''The Method of Equality'' (2016), tr. by Julie Rose: {{ISBN|978-0-7456-8062-0}}
+* ''Modern Times'' (2017) : {{ISBN|978-953-7372-31-6}} - 4 essays on temporality in art and politics, originally written in English
+* "[http://www.babylonia.gr/2018/01/18/coffee-jacques-ranciere-beneath-acropolis-download/ A coffee with Jacques Rancière Beneath the Acropolis]" (2018), ''Babylonia''
+*''The Edges of Fiction'' (2019), tr. by Steve Corcoran: {{ISBN|978-1-5095-3044-1}}
+*''Politics and Aesthetics'', with Peter Engelmann (2019), tr. by Wieland Hoban: {{ISBN|978-1-5095-3502-6}}
+*''What Times Are We Living In?'' (2020), tr. by Steve Corcoran: {{ISBN|978-1-5095-3698-6}}
+*''The Time of the Landscape'' (2022), tr. by Emiliano Battista: {{ISBN|978-1-5095-4814-9}}
+*''Uncertain Times'' (2024), tr. by Andrew Brown: {{ISBN|978-1-5095-5867-4}}
+*''Rethinking Emancipation'' (2024), tr. by Andrew Brown: {{ISBN|978-1-5095-5922-0}}
+
+;Selected articles in English:
+* [http://muse.jhu.edu/journals/theory_and_event/v005/5.3ranciere.html "Ten Theses on Politics] ''Theory & Event'' 2001
+*"Who Is the Subject of the Rights of Man?" ''The South Atlantic Quarterly,'' Volume 103, Number 2/3, Spring/Summer 2004, pp.&nbsp;297–310
+*"Is there a Deleuzian Aesthetics?" Tr. Radmila Djordjevic, ''Qui Parle?,'' Volume 14, Number 2, 2004, pp.&nbsp;1–14
+*"The Thread of the Novel" ''Novel: A Forum on Fiction,'' Volume 47, Number 2, 2014, pp.&nbsp;196–209
+
+== Films ==
+* ''[[Marx Reloaded]]'', [[Arte]], April 2011.
+
+== Video lectures ==
+* Jacques Rancière. {{YouTube|c-ULbgFkNZs|"What Makes Images Unacceptable?"}}. [[Pacific Northwest College of Art]]. Portland, Oregon, February 29, 2008.
+* Jacques Rancière. {{YouTube|pwW_LiwCKlg|"Nights of Labour,"}}. [[The Sarai Programme at CSDS|Sarai Centre]] for the [[Centre for the Study of Developing Societies]] (CSDS). Video Lecture. February 6, 2009.
+* Jacques Rancière. [https://web.archive.org/web/20110120124805/http://www.egs.edu/faculty/jacques-ranciere/videos/negation-and-cinematic-vertigo "Negation and Cinematic Vertigo."] [[European Graduate School]]. Video Lecture. August 2009.
+* Jacques Rancière. {{YouTube|EyXbyqQHX-o|"The Edge of Fiction,"}}. [[Ohio State University]]<!--Wikipedians do not use "The" as part of Ohio State's name; it is considered a marketing gimmick, and routinely deleted.-->. Video Lecture. September 21, 2017.
+
+== Interviews ==
+* [https://muse.jhu.edu/article/801944/pdf "An Interview with Jacques Rancière: Playing Freely, from the Other, to the Letter"] interviewed by Joseph R. Shafer, in ''SubStance,'' 2021.
+* [http://www.versobooks.com/blogs/3142-representation-against-democracy-jacques-ranciere-on-the-french-presidential-elections "Representation Against Democracy"] Jacques Rancière on the French Presidential Elections, 2017
+* [http://theconversant.org/?p=5472 "We Are Always Ignorant of our own Effects"] {{Webarchive|url=https://web.archive.org/web/20160304190941/http://theconversant.org/?p=5472 |date=2016-03-04 }}, Jacques Rancière interviewed by Pablo Bustinduy, in ''The Conversant'', 2013
+* [https://web.archive.org/web/20051217013749/http://www.radicalphilosophy.com/default.asp?channel_id=2190&editorial_id=10429 "Democracy Means Equality"], interview in ''Radical Philosophy''
+* [http://abahlali.org/files/ranciere.hallward2.pdf Politics and Aesthetics, Jacques Ranciere interviewed by Peter Hallward] {{Webarchive|url=https://web.archive.org/web/20100620082132/http://abahlali.org/files/ranciere.hallward2.pdf |date=2010-06-20 }}, 2003
+* [http://www.eurozine.com/articles/2006-08-11-lieranciere-en.html Eurozine interview with Ranciere, 2006] {{Webarchive|url=https://web.archive.org/web/20160406223659/http://www.eurozine.com/articles/2006-08-11-lieranciere-en.html |date=2016-04-06 }}
+* [https://web.archive.org/web/20091222034927/http://www.krisis.eu/content/2008-1/2008-1-09-dasgupta.pdf "Art Is Going Elsewhere. And Politics Has to Catch It"], Jacques Rancière interviewed by Sudeep Dasgupta, 2008
+* [http://nakedpunch.com/articles/48 'The Politics of Aesthetics': Jacques Rancière Interviewed by Nicolas Vieillescazes] {{Webarchive|url=https://web.archive.org/web/20190623220800/http://www.nakedpunch.com/articles/48 |date=2019-06-23 }} this interview piece was first posted: 12-01-09 at the website of [[Naked Punch Review|Naked Punch]]
+* [http://www.thewhitereview.org/interviews/interview-with-jacques-ranciere Jacques Rancière interviewed by Rye Dag Holmboe for The White Review]
+* [http://www.journals.uchicago.edu/doi/abs/10.1086/595633 "Aesthetics against Incarnation:  An Interview by Anne Marie Oliver,"] Critical Inquiry, 2008
+*{{in lang|fr}} [http://simpleappareil.free.fr/lobservatoire/index.php?2007/11/25/43-ranciere-cinemaction "Jean-Luc Godard, La religion de l'art. Entretien avec Jacques Rancière" paru dans ''CinémAction'', « Où en est le God-Art ? »], n° 109, 2003, pp.&nbsp;106–112, reproduit sur le site d'analyse L'oBservatoire (simple appareil).
+
+== References ==
+{{reflist}}
+
+==Further reading==
+*''The Lessons of Rancière''. Samuel A. Chambers. (New York: Oxford University Press, 2013).
+*''Jacques Rancière: An Introduction'', by [[Joseph Tanke]]. (New York & London: Continuum, 2011).
+*''Jacques Rancière: Politics, History, Aesthetics''. Eds. Phil Watts and [[Gabriel Rockhill]]. (Durham & London: Duke University Press, 2009). Also includes an afterword by Rancière: "The Method of Equality: An Answer to Some Questions".
+*''Politica delle immagini. Su Jacques Rancière'', ed. by Roberto De Gaetano (Cosenza: Pellegrini, 2011). Includes essays by Rancière.
+*''The Political Thought of Jacques Rancière''. Todd May (Edinburgh: Edinburgh University Press, 2008). 
+*''Rancière's Sentiments''. Davide Panagia (Durham: Duke University Press, 2018). 
+*'' Jacques Rancière: Key Concepts''. Ed. Jean-Phillipe Deranty (Durham: Acumen, 2010).
+*''Jacques Rancière: Education, Truth, Emancipation''. Charles Bingham and Gert Biesta (London & New York: Continuum, 2010). Also includes an essay by Rancière: "On Ignorant Schoolmasters".
+
+== External links ==
+{{commons category}}
+* [http://www.babylonia.gr/2017/06/11/jacques-ranciere-democracy-equality-emancipation-changing-world/ Jacques Rancière: Democracy, Equality, Emancipation in a Changing World] at B-FEST (International Antiauthoritarian Festival of Babylonia Journal) 27/05/17, Athens
+* [http://egs.edu/faculty/jacques-rancière/ Jacques Rancière Faculty Page] at [[European Graduate School]]
+* [http://www.artandresearch.org.uk/v2n1/v2n1editorial.html With and Around Jacques Rancière]. Art and Research. Volume 2. No. 1. Summer 2008
+* Thomas Campbell. [https://chtodelat.org/b8-newspapers/12-60/rancieres-lessons Rancière's Lessons.]
+* Ben Davis. [http://www.artnet.com/magazineus/books/davis/davis8-17-06.asp Jacques Rancière, The Politics of Aesthetics.] [[artnet]]. Book Review. August 17, 2006.
+* [http://46000.podomatic.com Audio Recordings] of guest lectures given at U.C. Berkeley. February/March 2008
+* Luka Arsenjuk. [http://www.eurozine.com/articles/2007-03-01-arsenjuk-en.html On Jacques Rancière] {{Webarchive|url=https://web.archive.org/web/20161224162315/http://www.eurozine.com/articles/2007-03-01-arsenjuk-en.html |date=2016-12-24 }}. Eurozine, 1 March 2007
+* Eli Bornowsky. [http://fillip.ca/content/notes-on-the-politics-of-aesthetics Notes on the Politics of Aesthetics]. ''[[Fillip]]''. Book Review. 2006
+* [[Juha Suoranta]] (2010). [http://www.ffst.hr/ENCYCLOPAEDIA/doku.php?id=jacques_ranciere_on_radical_equality_and_adult_education Jacques Rancière on Radical Equality and Adult Education] {{Webarchive|url=https://web.archive.org/web/20110721100002/http://www.ffst.hr/ENCYCLOPAEDIA/doku.php?id=jacques_ranciere_on_radical_equality_and_adult_education |date=2011-07-21 }}. ''The Encyclopaedia of Philosophy of Education''
+* {{in lang|fr}} [http://www.revuelabyrinthe.org/sommaire85.html "Jacques Rancière, l'indiscipliné"] {{Webarchive|url=https://web.archive.org/web/20090215172700/http://revuelabyrinthe.org/sommaire85.html |date=2009-02-15 }}. A special issue of the journal ''Labyrinthe'', 2004 (in French)
+* Rancières view on Marx: [http://katapult-magazin.de/en/artikel/article-katapult/fulltext/the-big-bird-promotes-inequality/ The big bird promotes inequality] {{Webarchive|url=https://web.archive.org/web/20160803141920/http://katapult-magazin.de/en/artikel/article-katapult/fulltext/the-big-bird-promotes-inequality/ |date=2016-08-03 }}. Katapult-Magazine. 11.05.2015
+* Peter Graton. [https://societyandspace.org/2014/08/15/aisthesis-scenes-from-the-aesthetic-regime-of-art-by-jacques-ranciere-reviewed-by-peter-gratton/ Critical review of Rancière's ''Aisthesis''] Book review. 2014.
+
+{{Aesthetics}}
+{{Continental philosophy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ranciere, Jacques}}
+[[Category:1940 births]]
+[[Category:Living people]]
+[[Category:People from Algiers]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:Academic staff of European Graduate School]]
+[[Category:Academic staff of the University of Paris]]
+[[Category:Academic staff of Paris 8 University Vincennes-Saint-Denis]]
+[[Category:French literary critics]]
+[[Category:French communists]]
+[[Category:French philosophers of art]]
+[[Category:Poststructuralists]]
+[[Category:Marxist theorists]]
+[[Category:20th-century French philosophers]]
+[[Category:21st-century French philosophers]]
+[[Category:21st-century French writers]]
+[[Category:French male writers]]
+[[Category:Commandeurs of the Ordre des Arts et des Lettres]]

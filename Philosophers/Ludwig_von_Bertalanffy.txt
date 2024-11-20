@@ -1,0 +1,158 @@
+{{Short description|Austrian biologist and systems theorist (1901–1972)}}
+{{Infobox scientist
+| image        = Portrait of Ludwig von Bertalanffy in 1926.jpg
+| caption      = Ludwig von Bertalanffy in 1926
+| name         = Ludwig von Bertalanffy
+| birth_date   = {{birth date|1901|09|19|df=yes}}
+| birth_place  = [[Atzgersdorf]] near [[Vienna]], [[Austria-Hungary]]
+| death_date   = {{death date and age|1972|06|12|1901|09|19|df=yes}}
+| death_place  = [[Buffalo, New York]], US
+| alma_mater   = [[University of Vienna]]
+| fields       = [[Biology]] and [[systems theory]]
+| known_for    = [[General systems theory]]<br>[[Von Bertalanffy function]]
+| thesis_title = Fechner und das Problem der Integration höherer Ordnung (Fechner and the Problem of Higher-Order Integration)
+| thesis_url   =
+| thesis_year  = 1926 
+}}
+'''Karl Ludwig von Bertalanffy''' (19 September 1901 – 12 June 1972) was an [[Austria-Hungary|Austrian]] [[biologist]] known as one of the founders of [[systems theory|general systems theory]] (GST). This is an interdisciplinary practice that describes systems with interacting components, applicable to [[biology]], [[cybernetics]] and other fields. Bertalanffy proposed that the classical [[laws of thermodynamics]] might be applied to closed systems, but not necessarily to "open systems" such as living things. His [[Von Bertalanffy function|mathematical model]] of an organism's growth over time, published in 1934,<ref name=ber1934/> is still in use today.
+
+Bertalanffy grew up in Austria and subsequently worked in Vienna, London, Canada, and the United States.
+
+== Biography ==
+Ludwig von Bertalanffy was born and grew up in the little village of Atzgersdorf (now [[Liesing]]) near [[Vienna]]. Ludwig's mother Caroline Agnes<ref>(de) [http://data.matricula-online.eu/de/oesterreich/wien/23-atzgersdorf/01-15/?pg=339 Taufbuch Wien-Atzgersdorf, Vol. 15, p. 333]</ref> Vogel was seventeen when she married the thirty-four-year-old Gustav. Ludwig von Bertalanffy grew up as an only child educated at home by private tutors until he was ten and his parents divorced, both remarried outside the Catholic Church in civil ceremonies.<ref>Mark Davidson (1983). ''Uncommon Sense: The Life and Thought of Ludwig Von Bertalanffy''. Los Angeles: J. P. Tarcher. p.49</ref> When he arrived at his [[Gymnasium (Germany)|Gymnasium]] (a form of grammar school) he was already well habituated in learning by reading, and he continued to study on his own. His neighbour, the famous biologist [[Paul Kammerer]], became a mentor and an example to the young Ludwig.<ref name="bertalanffy.org">[http://www.bertalanffy.org/c_71.html Bertalanffy Center for the Study of Systems Science, page: His Life - Bertalanffy's Origins and his First Education]. Retrieved 2009-04-27 {{webarchive |url=https://web.archive.org/web/20110725070225/http://www.bertalanffy.org/c_71.html |date=July 25, 2011 }}</ref>
+
+The Bertalanffy family had roots in the 16th century nobility of Hungary which included several scholars and court officials.<ref name="TEW89">T.E. Weckowicz (1989). ''[http://www.richardjung.cz/bert1.pdf Ludwig von Bertalanffy (1901-1972): A Pioneer of General Systems Theory]''. Working paper Feb 1989. p.2</ref> His grandfather Charles Joseph von Bertalanffy (1833–1912) had settled in Austria and was a state theatre director in [[Klagenfurt]], [[Graz]] and Vienna, which were important sites in imperial Austria. Ludwig's father Gustav von Bertalanffy (1861–1919) was a prominent railway [[Business administration|administrator]]. On his mother's side Ludwig's grandfather Joseph Vogel was an imperial counsellor and a wealthy Vienna publisher. 
+
+In 1918, Bertalanffy started his studies at the university level in philosophy and art history, first at the [[University of Innsbruck]] and then at the University of Vienna. Ultimately, Bertalanffy had to make a choice between studying [[philosophy of science]] and [[biology]]; he chose the latter because, according to him, one could always become a philosopher later, but not a biologist. In 1926 he finished his PhD thesis (''Fechner und das Problem der Integration höherer Ordnung'', translated title: ''Fechner and the Problem of Higher-Order Integration'') on the psychologist and philosopher [[Gustav Theodor Fechner]].<ref name="bertalanffy.org"/> For the next six years he concentrated on a project of "theoretical biology" which focused on the philosophy of biology. He received his [[habilitation]] in 1934 in "theoretical biology".<ref name="DAP">{{cite journal|last1=Drack|first1=Manfred|last2=Apfalter|first2=Wilfried|last3=Pouvreau|first3=David|title=On the Making of a System Theory of Life: Paul A Weiss and Ludwig von Bertalanffy's Conceptual Connection|journal=The Quarterly Review of Biology|volume=82|issue=4|pmc=2874664|pages=349–373|date=11 March 2017|pmid=18217527|doi=10.1086/522810}}</ref>
+
+Bertalanffy was appointed [[Privatdozent]] at the [[University of Vienna]] in 1934. The post yielded little income, and Bertalanffy faced continuing financial difficulties. He applied for promotion to the status of associate professor, but funding from the [[Rockefeller Foundation]] enabled him to make a trip to [[Chicago]] in 1937 to work with [[Nicolas Rashevsky]]. He was also able to visit the [[Marine Biological Laboratory]] in [[Massachusetts]].<ref name="DAP"/>
+
+Bertalanffy was still in the US when he heard of the [[Anschluss]] in March 1938. However, his attempts to remain in the US failed, and he returned to Vienna in October of that year.<ref name="DAP"/> Within a month of his return, he joined the [[Nazi Party]], which facilitated his promotion to professor at the University of Vienna in 1940.<ref name="DAP"/> During the Second World War, he linked his "organismic" philosophy of biology to the dominant Nazi ideology, principally that of the [[Führerprinzip]].<ref name="DAP"/>
+
+Following the defeat of Nazism, Bertalanffy found [[denazification]] problematic and left Vienna in 1948. He moved to the [[University of London]] (1948–49); the [[Université de Montréal]] (1949); the [[University of Ottawa]] (1950–54); the [[University of Southern California]] (1955–58); the [[Menninger Foundation]] (1958–60); the [[University of Alberta]] (1961–68); and the [[University at Buffalo, The State University of New York|State University of New York at Buffalo]] (SUNY) (1969–72).
+
+In 1972, he died from a heart attack.
+
+===Family life===
+Bertalanffy met his wife, Maria, in April 1924 in the Austrian Alps. They were hardly ever apart for the next forty-eight years.<ref>Davidson, p. 51</ref> She wanted to finish studying but never did, instead devoting her life to Bertalanffy's career. Later, in Canada, she would work both for him and with him in his career, and after his death she compiled two of Bertalanffy's last works. They had one child, a son who followed in his father's footsteps by making his profession in the field of cancer research.
+
+== Work ==
+Today, Bertalanffy is considered to be a founder and one of the principal authors of the interdisciplinary school of thought known as [[general systems theory]], which was pioneered by [[Alexander Bogdanov]].<ref name=":0">{{Cite journal |last=Gare |first=Arran |date=2000-11-01 |title=Aleksandr Bogdanov and Systems Theory |url=https://doi.org/10.1080/10855660020020230 |journal=Democracy & Nature |volume=6 |issue=3 |pages=341–359 |doi=10.1080/10855660020020230 |issn=1085-5661}}</ref> According to [[Thaddus E. Weckowicz|Weckowicz]] (1989), he "occupies an important position in the intellectual history of the twentieth century. His contributions went beyond [[biology]], and extended into [[cybernetics]], [[education]], [[history]], [[philosophy]], [[psychiatry]], [[psychology]] and [[sociology]]. Some of his admirers even believe that this theory will one day provide a conceptual framework for all these disciplines".<ref name="TEW89"/>
+
+=== Individual growth model ===
+The [[cell growth|individual growth]] [[model (abstract)|model]] published by Ludwig von Bertalanffy in 1934 is widely used in biological models and exists in a number of permutations.
+
+In its simplest version the so-called Bertalanffy growth equation is expressed as a [[differential equation]] of length (''L'') over time (''t''):
+
+<math>L'(t) = r_B \left( L_\infty - L(t) \right)</math>
+
+when <math>r_B</math> is the Bertalanffy growth rate and <math>L_\infty</math> the ultimate length of the individual. This model was proposed earlier by August Friedrich Robert Pūtter (1879-1929), writing in 1920.<ref>August Friedrich Robert Pūtter (6 April 1879 - 11 March 1929) wrote a textbook on comparative physiology entitled ''Vergleichende Physiologie'' (Jena: G. Fischer, 1911) and many other notable works. For a translation of his "Studien ūber physiologische Ähnlichkeit. VI. Wachstumsähnlichkeiten" ("Studies on Physiological Similarity. VI. Analogies of Growth") in ''Pflūgers Archiv fūr die gesamte Physiologie des Menschen und der Tiere'', '''180''': 298-340, see http://www.dfo-mpo.gc.ca/Library/147555.pdf</ref>
+
+The [[dynamic energy budget theory]] provides a mechanistic explanation of this model in the case of [[isomorph]]s that experience a constant food availability. The inverse of the Bertalanffy growth rate appears to depend linearly on the ultimate length, when different food levels are compared. The intercept relates to the maintenance costs, the slope to the rate at which reserve is mobilized for use by metabolism. The ultimate length equals the maximum length at high food availabilities.<ref name=ber1934>Bertalanffy, L. von, (1934). ''Untersuchungen über die Gesetzlichkeit des Wachstums''. I. Allgemeine Grundlagen der Theorie; mathematische und physiologische Gesetzlichkeiten des Wachstums bei Wassertieren. Arch. Entwicklungsmech., 131:613-652.</ref>
+
+[[Image:PassiveAnalog.jpg|thumb|right|Passive electrical schematic of the Bertalanffy module together with equivalent expression in the [[Energy Systems Language]]]]
+
+=== Bertalanffy equation ===
+The Bertalanffy equation is the equation that describes the growth of a biological organism. The equation was offered by Ludwig von Bertalanffy in 1969.<ref>Bertalanffy, L. von, (1969). ''General System Theory''. New York: George Braziller, pp. 136</ref>
+
+<math>
+ \frac{dW}{dt}= \eta S- k V
+</math>
+
+Here W is organism weight, t is the time, S is the area of organism surface, and V is a physical volume of the organism.
+
+The coefficients <math>\eta</math> and <math> k </math> are (by Bertalanffy's definition) the "coefficient of anabolism" and "coefficient of catabolism" respectively.
+
+The solution of the Bertalanffy equation is the function:
+
+<math>
+W(t)=\Big(\eta\,c_1 -c_2\,e^{-\tfrac{k}{3}t}\Big)^3\,, 
+</math>
+
+where <math>c_1</math> and <math>c_2</math> are the certain constants.
+
+Bertalanffy couldn't explain the meaning of the parameters <math>\eta </math> (the coefficient of anabolism) and <math> k </math> (coefficient of catabolism) in his works, and that caused a fair criticism from biologists.  But the Bertalanffy equation is a special case of the Tetearing equation,<ref name=Tetearing2012>{{cite book 
+|author1=Alexandr N. Tetearing
+ |title=Theory of populations |year=2012 |page=607 |isbn=978-1-365-56080-4 |publisher=SSO Foundation |location=Moscow}}</ref> that is a more general equation of the growth of a biological organism. The Tetearing equation determines the physical meaning of the coefficients <math>\eta </math> and <math> k </math>.
+
+===Bertalanffy module===
+To honour Bertalanffy, ecological systems engineer and scientist [[Howard T. Odum]] named the storage symbol of his [[Energy Systems Language|General Systems Language]] as the Bertalanffy module (see image right).<ref>Nicholas D. Rizzo William Gray (Editor), Nicholas D. Rizzo (Editor), (1973) ''Unity Through Diversity. A Festschrift for Ludwig von Bertalanffy''. Gordon & Breach Science Pub</ref>
+
+=== General system theory ===
+In the late 1920s, the Soviet philosopher [[Alexander Bogdanov]] pioneered "''Tektology''", whom [[Johann Plenge]] referred to as the theory of "general systems".<ref name=":0" /><ref>{{Cite journal |last=Plenge |first=Johann |date=1927 |title=Um die Allgemeine Organisationslehre |url=https://ia802808.us.archive.org/1/items/PlengeReviewOfTektology/Plenge%20Review%20of%20Tektology.pdf |journal=Weltwirtschaftliches Archiv Review of World Economics |volume=25 |pages=18–29 |via=[[Internet Archive]]}}</ref> However, in the West, Bertalanffy is widely recognized for the development of a theory known as [[Systems theory|general system theory]] (GST). The theory attempted to provide alternatives to conventional models of [[organization]]. GST defined new foundations and developments as a generalized theory of systems with applications to numerous areas of study, emphasizing [[holism]] over reductionism, [[organism]] over mechanism.
+
+Foundational to GST are the inter-relationships between elements which all together form the whole.
+
+== Publications ==
+* 1928, ''Kritische Theorie der Formbildung'', Borntraeger. In English: ''Modern Theories of Development: An Introduction to Theoretical Biology'', Oxford University Press, New York: Harper, 1933
+* 1928, ''Nikolaus von Kues'', G. Müller, München 1928.
+* 1930, ''Lebenswissenschaft und Bildung'', Stenger, Erfurt 1930
+* 1937, ''Das Gefüge des Lebens'', Leipzig: Teubner.
+* 1940, ''Vom Molekül zur Organismenwelt'', Potsdam: [[Akademische Verlagsgesellschaft Athenaion]].
+* 1949, ''Das biologische Weltbild'', Bern: Europäische Rundschau. In English: ''Problems of Life: An Evaluation of Modern Biological and Scientific Thought'', New York: Harper, 1952.
+* 1953, ''Biophysik des Fliessgleichgewichts'', Braunschweig: Vieweg. 2nd rev. ed. by W. Beier and R. Laue, East Berlin: Akademischer Verlag, 1977
+* 1953, "Die Evolution der Organismen", in ''Schöpfungsglaube und Evolutionstheorie'', Stuttgart: Alfred Kröner Verlag, pp 53–66
+* 1955, "An Essay on the Relativity of Categories." ''Philosophy of Science'', Vol. 22, No. 4, pp.&nbsp;243–263.
+* 1959, ''Stammesgeschichte, Umwelt und Menschenbild'', Schriften zur wissenschaftlichen Weltorientierung Vol 5. Berlin: Lüttke
+* 1962, ''Modern Theories of Development'', New York: Harper
+* 1967, ''Robots, Men and Minds: Psychology in the Modern World'', New York: George Braziller, 1969 hardcover: {{ISBN|0-8076-0428-3}}, paperback: {{ISBN|0-8076-0530-1}}
+* 1968, ''General System Theory: Foundations, Development, Applications'', New York: George Braziller, revised edition 1976: {{ISBN|0-8076-0453-4}}
+* 1968, ''The Organismic Psychology and Systems Theory'', Heinz Werner lectures, Worcester: Clark University Press.
+* 1975, ''Perspectives on General Systems Theory. Scientific-Philosophical Studies'', E. Taschdjian (eds.), New York: George Braziller, {{ISBN|0-8076-0797-5}}
+* 1981, ''A Systems View of Man: Collected Essays'', editor Paul A. LaViolette, Boulder: Westview Press, {{ISBN|0-86531-094-7}}
+
+The first ''articles'' from Bertalanffy on [[general systems theory]]:
+* 1945, "Zu einer allgemeinen Systemlehre", ''Blätter für deutsche Philosophie'', 3/4. (Extract in: Biologia Generalis, 19 (1949), 139-164).
+* 1950, "An Outline of General System Theory", ''British Journal for the Philosophy of Science'' 1, p.&nbsp;114-129.
+* 1951, "General system theory – A new approach to unity of science" (Symposium), ''Human Biology'', Dec. 1951, Vol. 23, p.&nbsp;303-361.
+
+== See also ==
+{{Portal|Systems science}}
+* [[Bowman–Heidenhain hypothesis]]
+* [[Integrative level]]
+* [[Population dynamics]]
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+* Sabine Brauckmann (1999). [http://www.isss.org/lumLVB.htm ''Ludwig von Bertalanffy (1901--1972)''], ISSS Luminaries of the Systemics Movement, January 1999.
+* [[Peter Corning]] (2001). [https://web.archive.org/web/20070821222038/http://www.complexsystems.org/abstracts/vonbert.html ''Fulfilling von Bertalanffy's Vision'': The Synergism Hypothesis as a General Theory of Biological and Social Systems], ISCS 2001.
+* Mark Davidson (1983). ''Uncommon Sense: The Life and Thought of Ludwig Von Bertalanffy'', Los Angeles: J. P. Tarcher.
+* [[Debora Hammond]] (2005). [http://www.triple-c.at/index.php/tripleC/article/viewFile/20/19 ''Philosophical and Ethical Foundations of Systems Thinking''], tripleC 3(2): pp.&nbsp;20–27.
+* [[Ervin László]] eds. (1972). ''The Relevance of General Systems Theory: Papers Presented to Ludwig Von Bertalanffy on His Seventieth Birthday'', New York: George Braziller, 1972.
+* David Pouvreau (2013). "Une histoire de la 'systémologie générale' de Ludwig von Bertalanffy - Généalogie, genèse, actualisation et postérité d'un projet herméneutique", Doctoral Thesis (1138 pages), Ecole des Hautes Etudes en Sciences Sociales (EHESS), Paris : http://tel.archives-ouvertes.fr/tel-00804157
+* [[Thaddus E. Weckowicz]] (1989). [http://www.richardjung.cz/bert1.pdf Ludwig von Bertalanffy (1901-1972): A Pioneer of General Systems Theory], Center for Systems Research Working Paper No. 89-2. Edmonton AB: University of Alberta, February 1989.
+
+==External links==
+{{wikiquote}}
+* [http://www.isss.org/lumLVB.htm International Society for the Systems Sciences'] biography of Ludwig von Bertalanffy.
+*  http://isss.org/projects/primer International Society for the Systems Sciences' THE PRIMER PROJECT: INTEGRATIVE SYSTEMICS (organismics)
+* [https://web.archive.org/web/20140121231639/http://www.bertalanffy.org/ Bertalanffy Center for the Study of Systems Science] BCSSS in Vienna.
+* [http://www.richardjung.cz/bert1.pdf Ludwig von Bertalanffy (1901-1972): A Pioneer of General Systems Theory] working paper by T.E. Weckowicz, University of Alberta Center for Systems Research.
+* [http://www.panarchy.org/vonbertalanffy/systems.1968.html Ludwig von Bertalanffy, General System Theory - Passages] (1968)
+
+{{Systems}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bertalanffy, Ludwig Von}}
+[[Category:1901 births]]
+[[Category:1972 deaths]]
+[[Category:20th-century Austrian biologists]]
+[[Category:Systems biologists]]
+[[Category:Theoretical biologists]]
+[[Category:Austrian emigrants to the United States]]
+[[Category:Academic staff of the University of Alberta]]
+[[Category:Academic staff of the Université de Montréal]]
+[[Category:Academic staff of the University of Ottawa]]
+[[Category:Austrian people of Hungarian descent]]
+[[Category:Austrian untitled nobility]]
+[[Category:Scientists from Vienna]]
+[[Category:People from Liesing]]
+[[Category:Hungarian nobility]]
+[[Category:Nobility in the Nazi Party]]
+[[Category:20th-century Austrian nobility]]
+[[Category:Center for Advanced Study in the Behavioral Sciences fellows]]
+[[Category:Scientists from Ontario]]
+[[Category:20th-century Canadian biologists]]

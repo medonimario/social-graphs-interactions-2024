@@ -1,0 +1,74 @@
+{{short description|Polish philosopher and logician (1890-1963)}}
+{{no footnotes|date=September 2019}}
+{{expand Polish|topic=bio|date=December 2023}}
+
+{{Infobox scientist
+|name              = Kazimierz Ajdukiewicz
+|image             = Prof. Kazimierz Ajdukiewicz.jpg
+|birth_date        = {{birth date|1890|12|12|df=y}}
+|birth_place       =  [[Ternopil|Tarnopol]], [[Kingdom of Galicia and Lodomeria|Austrian Galicia]], [[Austria-Hungary]]<br/>{{small|(now [[Ternopil]], [[Ukraine]])}}
+|death_date        =  {{death date and age|1963|4|12|1890|12|12|df=y}}
+|death_place       =  [[Warsaw]], [[People's Republic of Poland|Poland]]
+|residence  = 
+|citizenship =
+|nationality       = [[Poland|Polish]]
+|field             = [[Logician]]
+|work_institutions =
+|alma_mater        = [[University of Lwów]]
+|doctoral_advisor  =
+|doctoral_students =
+|notable_students  = [[Mojżesz Presburger]]
+|known_for         =
+|influences        =
+|influenced        =
+|prizes            =
+|signature         =Kazimierz Ajdukiewicz signature.svg
+}}
+'''Kazimierz Ajdukiewicz''' (12 December 1890 – 12 April 1963) was a Polish [[philosopher]] and [[logician]], a prominent figure in the [[Lwów–Warsaw school of logic]]. He originated many novel ideas in [[semantics]]. Among these was [[categorial grammar]], a highly flexible framework for the analysis of natural language syntax and (indirectly) semantics that remains a major influence on work in [[formal linguistics]]. Ajdukiewicz's fields of research were [[model theory]] and the [[philosophy of science]].
+
+==Biography==
+Ajdukiewicz was born in 1890 in Tarnopol in [[Galicia (Eastern Europe)|Galicia]], which at that time, due to [[Partitions of Poland]], was annexed by [[Austria-Hungary]] ([[Austrian Partition|The Austrian Partition]]). His father was a senior civil servant. Ajdukiewicz studied at the [[University of Lwów]], and lectured there, as well as in Warsaw and in Poznań. He received his PhD degree with the thesis on [[Kant]]'s philosophy of space. He was Rector of the University of Poznań from 1948 to 1952. He was one of the founders of the journal ''[[Studia Logica]]'' in its current incarnation, editing it from 1953 to his death.
+
+==Work==
+In his early epistemological system, which he called Radical Conventionalism, Ajdukiewicz analyzed any [[language]] as a set of expressions or sentences, with inferential ''rules of meaning'' that specify the relation of one expression to another, or to external data. There are three kinds of rules: Axiomatic, Deductive, and Empirical. Following the rules, one can map all knowable sentences of a language. However, some languages' vocabularies can produce ''disconnected'' sentences, which are only partly mapped by the ''meaning rules''. Therefore, when one uses a language, even scientific one, a ''conceptual apparatus'', an untranslatable set of meanings, is needed too, and with it a choice of the problems to be settled. For this reason the theory is a form of [[conventionalism]], and it is radical because even simple experiential reports are exposed to these language-wide considerations. Ajdukiewicz discarded this theory as the 1930s progressed.
+
+==Bibliography==
+*1921 "Z metodologii nauk dedukcyjnych"
+*1923 "Główne kierunki filozofii"
+*1928 "Główne zasady metodologii nauk i logiki formalnej"
+*1931 "O znaczeniu wyrażeń"
+*1934 "Logiczne podstawy nauczania"
+*1938 "Propedeutyka filozofii"
+*1948 "Epistemologia i semantyka"
+*1949 "Zagadnienia i kierunki filozofii"
+*1952 "Zarys logiki"
+*1964 "Zagadnienia empiryzmu a koncepcja znaczenia"
+*1965 "Logika pragmatyczna"
+*1960–1965 "Język i poznanie. Wybór pism"
+*1966- Selected articles in "Logiczna Teoria Nauki" ( Logical Theory of Science) Ed. T.Pawłowski, Printed PWN, Warszawa.
+*Kazimierz Ajdukiewicz: ''Pragmatic Logic'', [[Dordrecht]], Reidel, 1974
+*Kazimierz Ajdukiewicz: ''Problems and Theories of Philosophy'', Cambridge, [[Cambridge University Press]], 1975
+*Kazimierz Ajdukiewicz: ''The Scientific World-Perspective and Other essays 1931–1963'', [[Dordrecht]], Reidel, 1977
+
+==See also==
+* [[History of philosophy in Poland]]
+* [[Logology (science of science)]]
+
+==External links==
+{{wikiquote}}
+*[https://web.archive.org/web/20110709172116/http://segr-did2.fmag.unict.it/~polphil/PolPhil//Ajduk/Ajduk.html Polish Philosophy Page: Kazimierz Ajdukiewicz]
+*[http://plato.stanford.edu/entries/lvov-warsaw/ Lwów–Warsaw school of logic], at the [[Stanford Encyclopedia of Philosophy]]. Sections on Categorial Grammar and Radical Conventionalism.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ajdukiewicz, Kazimierz}}
+[[Category:1890 births]]
+[[Category:1963 deaths]]
+[[Category:Writers from Ternopil]]
+[[Category:20th-century Polish philosophers]]
+[[Category:Philosophers of science]]
+[[Category:Polish logicians]]
+[[Category:Members of the Polish Academy of Sciences]]
+[[Category:University of Lviv alumni]]
+[[Category:Academic staff of the University of Lviv]]
+[[Category:Academic staff of the University of Warsaw]]

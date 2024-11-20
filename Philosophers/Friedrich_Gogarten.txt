@@ -1,0 +1,107 @@
+{{short description|German theologian}}
+{{Infobox academic
+| name               = Friedrich Gogarten
+| image              = 
+| alt                = 
+| caption            = 
+| birth_name         = <!-- use only if different from full/othernames -->
+| birth_date         = {{birth date|1887|01|13}}
+| birth_place        = [[Dortmund]], Germany
+| death_date         = {{death date and age|1967|10|16|1887|01|13}}
+| death_place        = [[Göttingen]], [[West Germany]]
+| residence          = 
+| home_town          = 
+| spouse             = 
+| partner            = 
+| alma_mater         = <!--will often consist of the linked name of the last-attended higher education institution-->
+| thesis_title       = 
+| thesis_year        = 
+| school_tradition   = {{hlist | [[Dialectical theology]] | [[Lutheranism]]}}
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = {{hlist | [[Karl Barth]] | [[Adolf von Harnack]] | [[Søren Kierkegaard]] | [[Martin Luther]] | [[Ernst Troeltsch]]}}
+| era                = 
+| discipline         = [[Theology]]
+| sub_discipline     = [[Systematic theology]]
+| workplaces         = {{ubl | [[University of Jena]] | [[University of Göttingen]]}}
+| doctoral_students  = <!--only those with WP articles-->
+| notable_students   = <!--only those with WP articles-->
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = <!--must be referenced from a third-party source-->
+| signature          = 
+| signature_alt      = 
+}}{{Conservatism in Germany|Intellectuals}}
+'''Friedrich Gogarten''' (January 13, 1887 &ndash; October 16, 1967) was a [[Lutheran]] [[theologian]], co-founder of [[dialectical theology]] in [[Germany]] in the early 20th century.{{sfn|Bautz|1990}}
+
+==Career==
+Under the leadership of [[Karl Barth]], Gogarten split from the prevailing liberal theology as represented by [[Albrecht Ritschl]] and others. He stood against the [[historicism]] and [[anthropocentrism]] of the [[Protestant]] theology of the 19th century by emphasizing the absolute [[antithesis]] of God and man. This new [[neo-orthodoxy|dialectical theology]] was named after a phrase in Gogarten's magazine ''Between the Ages''.{{sfn|Kroeger|1997}}
+
+Barth was excited by Gogarten, and in 1920 wrote to [[Eduard Thurneysen]], "This is a dreadnought for us and against our adversaries. Who knows, someday he will teach us, he has quite the allure and the stuff one man which ... to be". Nonetheless a few years later a distance between Barth and Gogarten developed. Later ''Between the Ages'' ceased publication and Gogarten broke away from Barth. He also had differences with [[Rudolf Bultmann]], who however resumed the relationship in 1940.{{sfn|Kroeger|1997}}
+
+After the [[Berlin Sportpalast|Sports Palace]] demonstration on November 13, 1933, in Berlin he wrote articles in several magazines explaining the "Faith Movement of German Christians". While Gogarten actively supported the German Christian movement for three months in 1933, which aligned itself with Hitler and the Nazi Party, he never joined the [[Nazi Party]].{{sfn|Kroeger|1997}} In 1936 he signed a statement denouncing the German Christian position.{{sfn|Shiner|1966|p=208}}
+
+In 1927, Gogarten began teaching in [[Jena]]. His inaugural lecture was "Theological Tradition and Theological Work: Intellectual History or Theology?" This led to his appointment in 1931 as the successor of [[Erich Schaeder]] to the chair of [[systematic theology]] in [[Wroclaw]], Poland. In the summer of 1935 he took over the reading circle of Karl Barth in [[Bonn]]. In the winter of the same year he moved to [[Göttingen]] where he succeeded [[Carl Stange]] as Professor of Systematic Theology and was appointed as university preacher. On February 25, 1955, he retired in Göttingen, where he died.{{sfn|Bautz|1990}}
+
+Gogarten's general theme is "Man between God and the world", "The Church in the world" and the [[secularization]] as a result of the Christian [[revelation]].{{sfn|Bautz|1990}}
+
+==Honors==
+* Honorary doctorate from the Theological Faculty of the University of Giessen (1924)
+* Großes Verdienstkreuz der Bundesrepublik Deutschland ([[Federal Cross of Merit|Great Cross of Merit of the Federal Republic of Germany]]) (1957)
+* Großes Verdienstkreuz mit Stern der Bundesrepublik Deutschland (Great Cross of Merit with Star of the Federal Republic of Germany) (1967)
+
+==References==
+===Footnotes===
+{{reflist}}
+
+===Bibliography===
+{{refbegin}}
+* {{cite encyclopedia
+|last=Bautz
+|first=Friedrich Wilhelm
+|year=1990
+|title=Friedrich Gogarten
+|url=http://www.bbkl.de/g/gogarten_f.shtml
+|editor-last=Bautz
+|editor-first=Friedrich Wilhelm
+|encyclopedia=[[Biographisch-Bibliographisches Kirchenlexikon]]
+|volume=2
+|location=Hamm, Germany
+|publisher=Bautz
+|at=cols.&nbsp;263–264
+|isbn=978-3-88309-032-0
+}}
+* {{cite book |last=Goering |first= Timothy| title=Friedrich Gogarten (1887-1967). Religionsrebell im Jahrhundert der Weltkriege (Studien zur Ideengeschichte der Neuzeit, Bd. 51) |year=2017 |url=https://www.degruyter.com/document/doi/10.1515/9783110519600/html |location=Berlin/Boston |publisher= de Gruyter|doi= 10.1515/9783110519600|isbn= 9783110519600}}
+* {{cite book
+|last=Kroeger
+|first=Matthias
+|year=1997
+|title=Friedrich Gogarten. Leben und Wirken in zeitgeschichtlicher Perspektive - mit zahlreichen Dokumenten und Materialien
+|language=German
+|volume=1
+|location=Stuttgart
+|publisher=[[Kohlhammer Verlag]]
+|isbn=978-3-17-014979-3
+}}
+*{{cite book |last=Shiner |first= L. E.| title=The Secularization of History: An Introduction to the Theology of Friedrich Gogarten |year=1966 |url=https://archive.org/details/secularizationof0000shin_s2j6 |location=Nashville |publisher= Abingdon Press}}
+
+
+{{refend}}
+
+{{Authority control}}
+
+{{Use British English Oxford spelling|date=November 2019}}
+
+{{DEFAULTSORT:Gogarten, Friedrich}}
+[[Category:1887 births]]
+[[Category:1967 deaths]]
+[[Category:20th-century German Protestant theologians]]
+[[Category:20th-century German Lutheran clergy]]
+[[Category:German Lutheran theologians]]
+[[Category:Knights Commander of the Order of Merit of the Federal Republic of Germany]]
+[[Category:Writers from Dortmund]]
+[[Category:Systematic theologians]]
+[[Category:Academic staff of the University of Göttingen]]
+[[Category:Academic staff of the University of Jena]]
+[[Category:Clergy from North Rhine-Westphalia]]

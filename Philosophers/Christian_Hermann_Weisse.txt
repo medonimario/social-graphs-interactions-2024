@@ -1,0 +1,66 @@
+{{short description|German Protestant religious philosopher (1801–1866)}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[19th-century philosophy]]
+|image       = 
+|caption     =
+|name             = Christian Hermann Weisse
+|birth_date       = 10 August 1801
+|birth_place      = [[Leipzig]], [[Electorate of Saxony]]
+|death_date       = 19 September 1866
+|death_place      = Leipzig, [[Kingdom of Saxony]]
+|alma_mater       = [[University of Leipzig]]
+|institutions     = [[University of Leipzig]]<br>(1828–37; 1841–66)
+|school_tradition = [[German idealism]]<br>[[Speculative theism]]<ref>Kelly Parker, Krzysztof Skowronski (eds.), ''Josiah Royce for the Twenty-first Century: Historical, Ethical, and Religious Interpretations'', Lexington Books, 2012, p. 202.</ref>
+|main_interests   = [[Christian philosophy]], [[philosophy of religion]]
+|influences       = [[Georg Wilhelm Friedrich Hegel]], [[Friedrich Wilhelm Joseph Schelling]], [[Immanuel Hermann Fichte]]
+|influenced       = [[Hermann Lotze]]<ref name=Woodward>William R. Woodward, ''Hermann Lotze: An Intellectual Biography'', Cambridge University Press, 2015, pp. 74–5.</ref>
+|notable_ideas    = [[Speculative theism]]<ref>[[Frederick Charles Copleston]], ''18th and 19th Century German Philosophy'', Continuum, 2003, p. 259.</ref><br>[[Two-source hypothesis]]
+|academic_advisors = [[Immanuel Hermann Fichte|I. H. Fichte]] (epistolary correspondent)
+|notable_students  = [[Hermann Lotze]]<ref name=Woodward/>
+}}
+'''Christian Hermann Weisse''' ({{IPAc-en|ˈ|v|aɪ|s|ə}}; {{IPA|de|ˈvaɪsə|lang}}; '''Weiße''' in [[modern German]]; 10 August 1801 – 19 September 1866) was a German [[Protestantism|Protestant]] [[religious philosopher]] and professor of philosophy at the [[University of Leipzig]]. He was the son of theologian {{ill|Christian Ernst Weisse|de|Christian Ernst Weiße}} (1766–1832).
+
+== Biography ==
+Weisse was born in [[Leipzig]], and studied at the [[University of Leipzig|university there]], at first adhering to the [[Georg Wilhelm Friedrich Hegel|Hegelian]] school of philosophy. In the course of time, his ideas changed, and became close to those of [[Friedrich Wilhelm Joseph Schelling|Schelling]] in his later years.<ref>[[Michelle Kosch]], ''[[Freedom and Reason in Kant, Schelling, and Kierkegaard]]'', Oxford University Press, 2006, p. 134.</ref> He developed (along with [[Immanuel Hermann Fichte|I. H. Fichte]] with whom he regularly corresponded after 1829)<ref>Anatol Schneider, ''Personalität und Wirklichkeit: nachidealistische Schellingrezeption bei Immanuel Hermann Fichte und Christian Hermann Weisse'', Königshausen & Neumann, 2001, pp. 73–4.</ref> a new speculative [[theism]], and became an opponent of Hegel's [[idealism]]. In his addresses on the future of the Protestant Church (''Reden über die Zukunft der evangelischen Kirche'', 1849), he finds the essence of Christianity in Jesus' conceptions of the heavenly Father, the Son of Man and the kingdom of Heaven. In his work on philosophical [[dogma]]tics (''Philosophische Dogmatik oder Philosophie des Christentums'', 3 vols., 1855–1862) he seeks, by idealizing all the Christian dogmas, to reduce them to natural postulates of reason or conscience.{{sfn|Chisholm|1911}}
+
+Weisse was the first theologian to propose the [[two-source hypothesis]] (1838), which is still held by a majority of biblical scholars today. In the two-source hypothesis, the [[Gospel of Mark]] was the first gospel to be written and was one of two sources to the [[Gospel of Matthew]] and the [[Gospel of Luke]], the other source being the [[Q document]], a lost collection of Jesus's sayings.{{Citation needed|date=February 2022}}
+
+Weisse was a contributor to I. H. Fichte's [[academic journal]] ''[[Zeitschrift für Philosophie und spekulative Theologie]]''.
+
+He died in his native city of [[Leipzig]], aged 65.
+
+==Works==
+* ''System der Ästhetik'' (2 vols., 1830)
+* ''Die Idee der Gottheit'' (1833)
+* ''Die philosophische Geheimlehre von der Unsterblichkeit des menschlichen Individuums'' (1834)
+* ''Grundzüge der Metaphysik'' (1835)
+* ''Büchlein von der Auferstehung'' (1836)
+* ''Die evangelische Geschichte, kritisch und philosophisch bearbeitet'' (2 vols., 1838)
+* ''Reden über die Zukunft der evangelischen Kirche'' (1849)
+* ''Philosophische Dogmatik oder Philosophie des Christentums'' (3 vols., 1855–1862)
+* ''Die Evangelienfrage in ihrem gegenwärtigen Stadium'' (1856)
+* ''Psychologie und Unsterblichkeitslehre'' (edited by R. Seydel, 1869){{sfn|Chisholm|1911}}
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{EB1911|wstitle=Weisse, Christian Hermann|volume=28|p=499}} This work in turn cites:
+** [[Otto Pfleiderer]], ''Development of Theology'' (1890)
+** [[Rudolf Seydel]], ''Christian Hermann Weisse'' (1866)
+** Rudolf Seydel, ''Religion und Wissenschaft'' (1887)
+
+==External links==
+* {{BBKL|w/weisse_c_h|band=13|autor= Klaus-Gunther Wesseling |artikel= Weisse, Christian Hermann|spalten=684-690}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Weisse, Christian Hermann}}
+[[Category:1801 births]]
+[[Category:1866 deaths]]
+[[Category:Writers from Leipzig]]
+[[Category:19th-century German philosophers]]
+[[Category:19th-century German Protestant theologians]]
+[[Category:19th-century German male writers]]
+[[Category:German male non-fiction writers]]

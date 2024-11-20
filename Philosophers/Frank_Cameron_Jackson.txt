@@ -1,0 +1,145 @@
+{{Short description|Australian philosopher}}
+{{Use Australian English|date=January 2017}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox philosopher
+| region = [[Western philosophy]]
+| era    = [[Contemporary philosophy]]
+| name        = Frank Jackson
+| birth_name  = Frank Cameron Jackson
+| image       = FrankJackson.jpg
+| caption     =
+| birth_date  = {{birth date and age|1943|08|31|df=y}}
+| birth_place =[[Melbourne]], [[Victoria (Australia)|Victoria]], Australia
+| education        = [[Trinity College, Melbourne|University of Melbourne]] ([[Bachelor of Arts|BA]])<br>[[La Trobe University]] ([[PhD]])
+| school_tradition = [[Analytic philosophy|Analytic]]
+| main_interests = [[Philosophy of mind]], [[epistemology]], [[metaphysics]], and [[meta-ethics]]
+| influences = {{hlist|[[D. M. Armstrong]]}}
+| influenced = 
+| notable_ideas = [[Mary's room]]
+| doctoral_advisor = [[Brian David Ellis|Brian Ellis]]<ref>{{Cite web |title=Tree – David Chalmers |url=http://consc.net/tree/ |access-date=2022-04-19 |language=en-US}}</ref>
+}}
+
+'''Frank Cameron Jackson''' {{post-nominals|country=AUS|AO|FASSA|FAHA}} {{small|[[Fellow of the British Academy|FBA]]}} (born 31 August 1943) is an Australian [[analytic philosopher]] and [[Emeritus|Emeritus Professor]] in the School of Philosophy (Research School of Social Sciences) at [[Australian National University]] (ANU) where he had spent most of the latter part of his career. His primary research interests include  [[epistemology]], [[metaphysics]], [[meta-ethics]] and the [[philosophy of mind]]. In the latter field he is best known for the "Mary's room" [[knowledge argument]], a [[thought experiment]] that is one of the most discussed challenges to [[physicalism]].
+
+==Biography==
+Frank Cameron Jackson was born on 31 August 1943 in Melbourne, Australia.<ref>{{Cite book |url=https://archive.org/details/internationalwho9798unse/page/730/mode/1up |title=The International Who's Who, 1997-98 |publisher=[[Europa Publications]] |year=1997 |isbn=978-1-85743-022-6 |series=[[The International Who's Who]] |location=London |pages=730 |language=en |quote=JACKSON, Frank Cameron, PH.D., F.A.H.A .; Australian professor of philosophy; b. 31 Aug. 1943, Melbourne; s. of Allan C. Jackson and Ann E. Jackson; m. Morag E. Fraser 1966 |url-access=registration |via=[[Internet Archive]]}}</ref> His parents were both philosophers.<ref name=":1">{{Cite book |last=Oppy |first=Graham |url=https://books.google.com/books?id=oXxXxBXewzgC&q=jackson&pg=PA46 |title=The Antipodean Philosopher: Public Lectures on Philosophy in Australia and New Zealand |date=2011-02-22 |publisher=Lexington Books |isbn=978-0-7391-6793-9 |pages=43, 46, 70, 254 |language=en}}</ref>  His mother Ann E. Jackson, who rose to the rank of senior tutor, taught philosophy at the [[University of Melbourne]] from 1961 to 1984.<ref name=":1" /> His atheistic father Allan Cameron Jackson (1911–1990)<ref>{{Cite book |last=Smith |first=Warren Allen |url=http://archive.org/details/whoswhoinhellhan00smit |title=Who's who in hell : a handbook and international directory for humanists, freethinkers, naturalists, rationalists, and non-theists |publisher=New York : Barricade Books |year=2000 |isbn=978-1-56980-158-1 |pages=581 |author-link=Warren Allen Smith |url-access=registration |via=[[Internet Archive]]}}</ref> had been a student of [[Ludwig Wittgenstein]]<ref name=":0">{{Cite book |last1=Borst |first1=Clive |chapter-url=https://archive.org/details/biographicaldict0000unse_b8m6/page/370/mode/1up |title=Biographical Dictionary of Twentieth-Century Philosophers |publisher=[[Routledge]] |others=(eds.) Brown, Stuart; Collinson, Diane; Wilkinson, Robert |year=1996 |isbn=978-1-134-92796-8 |location=London; New York |pages=370–371 |language=en |chapter=Jackson, Frank Cameron}}</ref> (having gone to [[University of Cambridge|Cambridge]] in 1946 for [[Ph.D.]] studies).<ref name=":1" /> F. C. Jackson, in interview with [[Graham Oppy]], reports of his parents that; they were both "philosophers in the Old School, by which I mean the Wittgensteinian School. Philosophy was part of your life."<ref name=":3">{{Cite book |last1=Oppy |first1=Graham |url=https://books.google.com/books?id=p0CXdQIdUMMC&pg=PA69 |title=The Antipodean Philosopher: Interviews with Australian and New Zealand philosophers |last2=Trakakis |first2=Nick |last3=Burns |first3=Lynda |date=2011 |publisher=Lexington Books |isbn=978-0-7391-6655-0 |pages=69 |language=en}}</ref>
+
+Despite his self-reported enjoyment of the philosophical conversation of his household it was with view to becoming a mathematician that Jackson went to the [[University of Melbourne]] to study maths and science.<ref name=":3" /><ref name=":4">{{Cite web |last=Jackson |first=Frank |others=Interviewed by Richard Marshall |title=Mary's Room and stuff |url=https://www.3-16am.co.uk/articles/mary-s-room-and-stuff |access-date=2022-04-22 |website=3:16 |language=en}}</ref> And it was only in his final year of those studies that he chose to also take some philosophy which he found he better enjoyed and proved significantly more able.<ref name=":3" /><ref name=":4" /> He passed his [[B.Sc.]] but went on to achieve Honours in a [[Bachelor of Arts|B.A.]] whose main subject was philosophy.<ref>{{Cite web |title=Professor 1961-2000 |url=https://www.monash.edu/records-archives/archives/officers-and-awards/former-officers-of-monash-university/professor-1961-2000 |access-date=2022-04-21 |website=Monash University Records Archives |language=en |quote=1978-1986, 1991, Frank Cameron JACKSON BA BSc ''Melb'' PhD ''LaT''}}</ref><ref name=":3" /><ref name=":4" /> During his time at Melbourne he was a resident at [[Trinity College, Melbourne|Trinity College]], a Clarke Scholar, and a member of the 2nd XVIII football team.<ref>"Minor Scholars", ''[http://www.trinity.unimelb.edu.au/Media/docs/fleur-de-lys-1963-8ded19b5-a1a3-4457-bc8f-84a2905cdb29-0.pdf The Fleur-de-Lys]'', Nov. 1963, p. 43. See also pp. 21–22, 40.</ref>
+
+Upon graduation from his second degree, Jackson taught at the [[University of Adelaide]] for a year in 1967 and then went to [[La Trobe University]] for a lectureship appointment.<ref name=":2">{{Cite book |last=O'Dea |first=John |url=https://library.oapen.org/bitstream/handle/20.500.12657/31527/627410.pdf?sequence=1 |title=A companion to philosophy in Australia & New Zealand |date=2014 |others=(eds.) [[Graham Oppy]], [[Nick Trakakis]] |isbn=978-1-925495-26-3 |edition=2nd |location=Clayton, Victoria |pages=243 |chapter=Jackson, Frank Cameron |oclc=904689134}}</ref> Whilst there, Jackson published his first book (which was also his doctoral thesis) "Perception: A Representative Theory" (1977). The following year he succeeded his father to the chair of Philosophy at [[Monash University]].<ref name=":2" />
+
+In 1986, he joined [[Australian National University|ANU]] as Professor of Philosophy and Head of the Philosophy Program, within the Research School of Social Sciences. At ANU, he served as Director of the Institute of Advanced Studies (1998–2001), Deputy Vice-Chancellor – Research (2001), and Director of the Research School of Social Sciences (2004–7). Jackson was appointed as Distinguished Professor at ANU in 2003; he became an Emeritus Professor upon his retirement in 2014.<ref>{{Cite web|last=Director&nbsp;(Research&nbsp;Services&nbsp;Division)|title=Professor Frank Jackson|url=https://researchers.anu.edu.au/researchers/jackson-fc#biography|access-date=2020-06-23|website=researchers.anu.edu.au|language=en-US}}</ref>  Latterly (2007–14) he had also been a regular visiting professor of philosophy at [[Princeton University]].<ref>Biographical information from Jackson's academic profile at ANU: http://philrsss.anu.edu.au/profile/frank-jackson {{Webarchive|url=https://web.archive.org/web/20150302210522/http://philrsss.anu.edu.au/profile/frank-jackson|date=2 March 2015}}</ref>
+
+Jackson was awarded the [[Order of Australia]] in 2006 for service to philosophy and [[social sciences]] as an [[Academy#Academic personnel|academic]], [[Academic administration|administrator]], and [[researcher]]. Jackson delivered the [[John Locke Lectures]] at the [[University of Oxford]] in 1995. Notably, his father had also delivered the 1957–8 lectures, making them the first father–son pair to have done so.<ref>''Supervenience, Metaphysics, and Analysis'' ([[John Locke Lectures]]), Oxford University, 1994–95</ref><ref name=":1" />
+
+==Philosophical work==
+Jackson's philosophical research is broad, but focuses primarily on the areas of [[philosophy of mind]], [[epistemology]], [[metaphysics]], and [[meta-ethics]].
+
+In philosophy of mind, Jackson is known especially for the ''knowledge argument'' against [[physicalism]]—the view that the universe is entirely physical (i.e., the kinds of entities postulated in physics). Jackson motivates the knowledge argument by a famous [[thought experiment]] known as [[Mary's room]]. In a much cited passage<ref>{{Citation |last1=Nida-Rümelin |first1=Martine |title=Qualia: The Knowledge Argument |date=2021 |editor-last=Zalta |editor-first=Edward N. |url=https://plato.stanford.edu/archives/sum2021/entries/qualia-knowledge/ |access-date=2022-04-19 |edition=Summer 2021 |publisher=Metaphysics Research Lab, Stanford University |last2=O Conaill |first2=Donnchadh |encyclopedia=The Stanford Encyclopedia of Philosophy}}.</ref> he phrases the thought experiment as follows:{{cquote|Mary is a brilliant scientist who is, for whatever reason, forced to investigate the world from a black and white room via a black and white television monitor. She specializes in the neurophysiology of vision and acquires, let us suppose, all the physical information there is to obtain about what goes on when we see ripe tomatoes, or the sky, and use terms like 'red', 'blue', and so on. She discovers, for example, just which wavelength combinations from the sky stimulate the retina, and exactly how this produces via the central nervous system the contraction of the vocal cords and expulsion of air from the lungs that results in the uttering of the sentence 'The sky is blue'. (…) What will happen when Mary is released from her black and white room or is given a color television monitor? Will she learn anything or not? It seems just obvious that she will learn something about the world and our visual experience of it. But then is it inescapable that her previous knowledge was incomplete. But she had all the physical information. Ergo there is more to have than that, and Physicalism is false.
+| author = Jackson, Frank
+| source = “Epiphenomenal Qualia.” (1982)<ref>{{Cite journal |last=Jackson |first=Frank |date=1982 |title=Epiphenomenal Qualia |url=https://www.sfu.ca/~jillmc/JacksonfromJStore.pdf|journal=[[The Philosophical Quarterly]] |volume=32 |issue=127 |pages=130 |doi=10.2307/2960077 |jstor=2960077 |issn=0031-8094}}</ref>
+
+}}Jackson's thought experiment features in the 1996 [[Channel 4]] documentary "Brainspotting"<ref>{{Cite web |last=Alter |first=Torin |title=Knowledge Argument Against Physicalism |url=https://iep.utm.edu/know-arg/ |access-date=2022-04-19 |website=[[Internet Encyclopedia of Philosophy]] |language=en-US}}</ref> and [[David Lodge (author)|David Lodge]]'s novel ''Thinks...'' (2001'').<ref>{{Cite journal |last=Byrne |first=Alex |title=There's Something About Mary |url=https://ndpr.nd.edu/reviews/there-s-something-about-mary/ |access-date=2022-04-19 |website=Notre Dame Philosophical Reviews |date=20 January 2006 |language=en}}</ref>
+
+Jackson used the knowledge argument, as well as other arguments, to establish a sort of [[dualism (philosophy of mind)|dualism]], according to which certain [[mental states]], especially [[observation|qualitative]] ones, are non-physical. The view that Jackson urged was a modest version of [[epiphenomenalism]]—the view that certain mental states are non-physical and, although caused to come into existence by physical events, do not then cause any changes in the physical world.
+
+However, Jackson later rejected the knowledge argument,<ref>{{cite web|url=http://www.apa.udel.edu/apa/publications/proceedings/v76n3/public/abstracts.asp |archive-url=https://web.archive.org/web/20080516091824/http://www.apa.udel.edu/apa/publications/proceedings/v76n3/public/abstracts.asp|archive-date=2008-05-16|url-status=dead|title=Jackson's Retraction|author=Torin Alter |publisher=APA }}</ref> as well as other arguments against [[physicalism]]:
+
+{{cquote|Most contemporary philosophers given a choice between going with science and going with intuitions, go with science. Although I once dissented from the majority, I have capitulated and now see the interesting issue as being where the arguments from the intuitions against physicalism—the arguments that seem so compelling—go wrong.
+| author = Jackson, Frank
+| source = "Mind and Illusion" (2003)<ref>In: A. O'Hear (Ed.), ''Minds and Persons'' (Royal Institute of Philosophy Supplements, pp. 251-272). Cambridge: Cambridge University Press (2003) {{doi|10.1017/CBO9780511550294.014}}.</ref>
+}}
+
+Jackson argues that the intuition-driven arguments against physicalism (such as [[Mary's room|the knowledge argument]] and the [[Philosophical zombie|zombie argument]]) are ultimately misleading.
+
+Jackson is also known for his defence of the centrality of conceptual analysis to philosophy; his approach, set out in his Locke Lectures and published as his 1998 book, is often referred to as the [[Canberra Plan]].
+
+==Honours==
+Jackson was elected Fellow of the [[Australian Academy of the Humanities]] (FAHA) in 1981<ref>{{Cite web |last= |first= |date= |title=Frank Jackson |url=https://humanities.org.au/fellows/fellow-profile/?fellow_id=172 |access-date=2018-12-01 |website=Australian Academy of the Humanities |language=en-AU}}</ref> and of the [[Academy of the Social Sciences in Australia]] (FASSA) in 1998.<ref>{{Cite web |last= |first= |date= |title=Emeritus Professor Frank Jackson AO |url=https://socialsciences.org.au/academy-fellow/?sId=0032v000033l9Q7AAI |access-date=2018-12-01 |website=Academy of the Social Sciences in Australia |language=en-US}}</ref>
+
+He was awarded the [[Centenary Medal]] in 2001<ref>[https://honours.pmc.gov.au/honours/awards/1126743 It's an Honour: Centenary Medal]. Retrieved 22 November 2014</ref> and appointed an Officer of the [[Order of Australia]] (AO) in 2006.<ref>[https://honours.pmc.gov.au/honours/awards/1131312 It's an Honour: AO]. Retrieved 22 November 2014</ref>
+
+In 2003 he was appointed as Distinguished Professor at the Australian National University and Emeritus Professor in 2014. In November 2018 Jackson received the Peter Baume Award, which recognises substantial and significant achievement and merit.<ref>{{Cite news|url=http://www.anu.edu.au/news/all-news/peter-baume-award-emeritus-professor-frank-jackson-ao|title=Peter Baume Award: Emeritus Professor Frank Jackson AO|date=2018-11-15|work=ANU|access-date=2018-12-01|language=en}}</ref>
+
+==Publications==
+
+=== Books ===
+
+* ''Perception: A Representative Theory'' (1977, [[Cambridge University Press|CUP]])
+* ''[[iarchive:conditionals0000jack|Conditionals]]'' (1987, [[Basil Blackwell]])
+* (with [[David Braddon-Mitchell]]) ''[[iarchive:philosophyofmind0000brad/mode/2up|Philosophy of Mind and Cognition: An Introduction]]'' (1996, Basil Blackwell)
+* ''[[iarchive:frommetaphysicst0000jack a5v6|From Metaphysics to Ethics: A Defence of Conceptual Analysis]]'' (1998, [[Oxford University Press|OUP]]) {{doi|10.1093/0198250614.001.0001}}
+* ''Mind, Method and Conditionals: Selected Essays'' (1998, [[Routledge]])<ref>{{Cite journal |last=Lowe |first=E. J. |author-link=E. J. Lowe (philosopher) |date=2001 |title=Review of Mind, Method and Conditionals: Selected Essays |url=https://www.jstor.org/stable/2659847 |journal=Mind |volume=110 |issue=437 |pages=211–215 |jstor=2659847 |issn=0026-4423}}</ref>
+* (with [[Philip Pettit]] & [[Michael A. Smith (philosopher)|Michael Smith]]) ''Mind, Morality, and Explanations: Selected Collaborations'' (2004, OUP)<ref>{{Cite journal |last=Schroeder |first=Timothy |date=2004-11-05 |title=Review of Mind, Morality, and Explanation: Selected Collaborations |url=https://ndpr.nd.edu/reviews/mind-morality-and-explanation-selected-collaborations/ |journal=Notre Dame Philosophical Reviews |language=en |issn=1538-1617}}</ref>
+* (with David Braddon-Mitchell) ''Philosophy of Mind and Cognition: An Introduction'' (2nd edition) (2007, Basil Blackwell)
+* ''[[doi:10.1002/9781444325362|Language, Names and Information]]'' (2010, [[Wiley-Blackwell]])
+
+=== Edited books ===
+
+* ''Conditionals'' (1991, OUP)
+* (with Michael Smith) ''[[doi:10.1093/oxfordhb/9780199234769.001.0001|The Oxford Handbook of Contemporary Philosophy]]'' (2005, OUP)
+
+=== Selected articles ===
+* (1975) '[https://www.jstor.org/stable/2024749 Grue]' ''Journal of Philosophy'', vol. 72, no. 5, pp.&nbsp;113–131.
+* (1979) '[https://www.jstor.org/stable/2184845 On Assertion and Indicative Conditionals]' ''The Philosophical Review'', vol. 88, no. 4, pp.&nbsp;565–589.
+* (1980) '[https://www.jstor.org/stable/3750813 Ontological Commitment and Paraphrase]' ''Philosophy'', vol. 55, no. 213, pp.&nbsp;303–315.
+* (1981) '[https://www.jstor.org/stable/4544969 Conditionals and Possibilia]' ''Proceedings of the Aristotelian Society'', vol. 81, pp.&nbsp;125–137.
+* (1982) '[https://www.jstor.org/stable/2960077 Epiphenomenal Qualia]' ''The Philosophical Quarterly'', vol. 32, no. 27, pp.&nbsp;127–136.
+* (1982) '[https://www.jstor.org/stable/4319553 Functionalism and Type-Type Identity Theories]' ''Philosophical Studies'', vol. 42, no. 2, pp.&nbsp;209–225. (with Robert Pargetter & Elizabeth W. Prior)
+* (1984) '[https://www.jstor.org/stable/2254202 Weakness of Will]' ''Mind'', vol. 93, no. 369, pp.&nbsp;1–18.
+* (1984) [[doi:10.1111/j.1468-0114.1984.tb00211.x|'Petitio and the Purpose of Arguing]]' ''Pacific Philosophical Quarterly'', vol. 65, no. 1, pp.&nbsp;26–36.<ref>*a significantly revised version of this paper appears (under the same title) as [[iarchive:conditionals0000jack/page/100/mode/1up|Chapter 6]] of ''Conditionals'' (1987)</ref>
+* (1985) '[https://www.jstor.org/stable/2254744 On the Semantics and Logic of Obligation]' ''Mind'', vol. 94, no. 374, pp.&nbsp;177–196.
+* (1986) '[https://www.jstor.org/stable/2185591 Oughts, Options, and Actualism]' ''The Philosophical Review'', vol. 95, no. 2, 233–255. (with Robert Pargetter)
+* (1986) '[https://www.jstor.org/stable/2026143 What Mary Didn't Know]' ''The Journal of Philosophy'', vol. 83, no. 5, pp.&nbsp;291–295.
+* (1988) '[https://www.jstor.org/stable/2255081 Functionalism and Broad Content]' ''Mind'', vol. 97, no. 387, pp.&nbsp;381–400. (with [[Philip Pettit]])
+* (1990) '[https://www.jstor.org/stable/3328856 Classifying Conditionals]' ''Analysis'', vol. 50, no. 2, pp.&nbsp;134–147.
+* (1990) '[https://www.jstor.org/stable/4320115 In Defence of Folk Psychology]' ''Philosophical Studies'', vol. 59, no. 1, pp.&nbsp;31–54. (with Philip Pettit)
+* (1991) '[https://www.jstor.org/stable/2381464 Decision-Theoretic Consequentialism and the Nearest and Dearest Objection]' ''Ethics'', vol. 101, no. 3, pp.&nbsp;461–482.
+* (1994) '[https://www.jstor.org/stable/2253741 Minimalism and Truth Aptness]' ''Mind'', vol. 103, no. 411, pp.&nbsp;287–302. (with [[Graham Oppy]] & [[Michael A. Smith (philosopher)|Michael Smith]])
+* (1996) '[https://www.jstor.org/stable/2216244 The Primary Quality View of Color]' ''Philosophical Perspectives'', vol. 10, pp.&nbsp;199–219.
+* (1996) '[https://www.jstor.org/stable/2254828 Mental Causation]' ''Mind'', vol. 105, no. 419, pp.&nbsp;377–413.
+* (1998) '[https://www.jstor.org/stable/3328524 A Problem for Expressivism]' ''Analysis'', vol. 58, no. 4, pp.&nbsp;239–251. (with Philip Pettit)
+* (1999) '[https://www.jstor.org/stable/43154278 The Divide and Conquer Path to Analytical Functionalism]' ''Philosophical Topics'', vol. 26, no. 1/2, pp.&nbsp;71–88. (with [[David Braddon-Mitchell]])
+* (2001) '[[doi:10.1215/00318108-110-3-315|Conceptual Analysis and Reductive Explanation]]' ''The Philosophical Review'', vol. 110, no. 3, pp.&nbsp;315–360. (with [[David Chalmers|David J. Chalmers]])
+* (2002) '[https://www.jstor.org/stable/3050544 Response-Dependence without Tears]' ''Philosophical Issues'', vol. 12, pp.&nbsp;97–117. (with Philip Pettit)
+* (2003a) '[https://www.jstor.org/stable/10.1086/345936 Cognitivism, A Priori Deduction, and Moore]' ''Ethics'', vol. 113, no. 3, pp.&nbsp;557–575.
+* (2003b) '[[doi:10.1017/CBO9780511550294.014|Mind and Illusion]]' in ''Minds and Persons'', ed. Anthony O'Hear, Cambridge University Press, pp.&nbsp;251–272.
+* (2005) '[https://www.jstor.org/stable/27749833 What Are Cognitivists Doing When They Do Normative Ethics?]' ''Philosophical Issues'', vol. 15, pp.&nbsp;94–106.
+* (2006) '[https://www.jstor.org/stable/20619943 Absolutist Moral Theories and Uncertainty]' ''The Journal of Philosophy'', vol. 103, no. 6, pp.&nbsp;267–283. (with Michael Smith)
+* (2007) '[https://www.jstor.org/stable/4623793 Freedom from Fear]' ''Philosophy & Public Affairs'', vol. 35, no. 3, pp.&nbsp;249–265. (with [[Robert E. Goodin]])
+* (2010) '[https://www.jstor.org/stable/41413550 The Autonomy of Mind]' ''Philosophical Issues'', vol. 20, pp.&nbsp;170–184.
+* (2012) '[https://www.jstor.org/stable/23362628 Leibniz's Law and the Philosophy of Mind]' ''Proceedings of the Aristotelian Society'', vol. 112, pp.&nbsp;269–283.
+
+==References==
+{{Reflist}}
+
+==General references and further reading==
+* Franklin, J. 2003. ''Corrupting the Youth: A History of Philosophy in Australia'', [[Macleay Press]], Ch. 9. ([https://web.maths.unsw.edu.au/~jim/corruptingtheyouthch9.pdf Chapter] as shared by author)
+* Ludlow, P., Y. Nagasawa, and D. Stoljar (eds.). 2004. ''There's Something About Mary'', MIT Press. ([https://web.archive.org/web/20060919003539/http://mitpress.mit.edu/books/chapters/0262621894intro1.pdf Introduction] as shared by publisher and archived by [[Wayback Machine]])
+
+==External links==
+* [https://web.archive.org/web/20150302210522/http://philrsss.anu.edu.au/profile/frank-jackson Frank Jackson] – homepage at ANU's Research School of Social Sciences
+* [https://researchers.anu.edu.au/researchers/jackson-fc Professor Frank Jackson – Researchers – ANUV]
+* [https://www.3-16am.co.uk/articles/mary-s-room-and-stuff?c=end-times-archive "MARY'S ROOM AND STUFF"] Frank Jackson interviewed by Richard Marshall.
+* [https://web.archive.org/web/20170709225536/http://www.philosophersmag.com/interviews/22-frank-jackson-latter-day-physicalist "Frank Jackson, Latter Day Physicalist"] 2011 interview with [[James Garvey (philosopher)|James Garvey]] for ''[[The Philosophers' Magazine]].'' (Archived by [[Wayback Machine]].)
+* O'Dea, John [https://web.archive.org/web/20200717161948/http://books.publishing.monash.edu/apps/bookworm/view/A+Companion+to+Philosophy+in+Australia+and+New+Zealand/56/xhtml/chapter10.html "Jackson, Frank Cameron"] In: ''[https://library.oapen.org/bitstream/handle/20.500.12657/31527/627410.pdf?sequence=1 A Companion to Philosophy in Australia and New Zealand]''  (eds.) Oppy, Graham et al (2010, 2nd ed. 2014)
+
+----{{Authority control}}
+
+{{DEFAULTSORT:Jackson, Frank Cameron}}
+[[Category:20th-century Australian philosophers]]
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:21st-century Australian philosophers]]
+[[Category:Philosophers of mind]]
+[[Category:People educated at Trinity College (University of Melbourne)]]
+[[Category:Academic staff of the Australian National University]]
+[[Category:Academic staff of Monash University]]
+[[Category:Princeton University faculty]]
+[[Category:Analytic philosophers]]
+[[Category:Epistemologists]]
+[[Category:Metaphysicians]]
+[[Category:Ethicists]]
+[[Category:Officers of the Order of Australia]]
+[[Category:Fellows of the Australian Academy of the Humanities]]
+[[Category:Fellows of the Academy of the Social Sciences in Australia]]

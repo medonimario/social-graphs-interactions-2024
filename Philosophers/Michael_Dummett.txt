@@ -1,0 +1,216 @@
+{{Short description|British philosopher (1925–2011)}}
+{{Use dmy dates|date=October 2018}}
+{{Use British English|date=October 2018}}
+{{Infobox philosopher
+|region = [[Western philosophy]]
+|era = [[Contemporary philosophy]]
+|image = Michael Dummett September 2004.jpg
+|caption = Dummett in 2004
+|honorific_prefix = [[Sir]]
+|name = Michael Dummett
+|honorific_suffix = {{post-nominals|country=GBR|FBA|size=100%}}
+|birth_name = Michael Anthony Eardley Dummett
+|birth_date = {{Birth date|df=y|1925|6|27}}
+|birth_place = [[London]], England
+|spouse = {{marriage|[[Ann Dummett]]|1951}}
+|children = 7
+|death_date = {{Death date and age|2011|12|27|1925|6|27|df=yes}}
+|death_place = [[Oxford]], England
+|burial_place = [[Wolvercote Cemetery]], Oxford
+|education = [[Christ Church, Oxford]]<br/>(1947–50;<ref>{{cite book| editor-first=Stuart | editor-last=Brown | title=Dictionary of Twentieth-Century British Philosophers | volume=1 | publisher=[[Bloomsbury Publishing]] | date=2005 | page=237 }}</ref> [[Bachelor of Arts|B.A.]], 1950)
+|institutions = {{ubl | [[All Souls College, Oxford]] | [[New College, Oxford]]}}
+|school_tradition = [[Analytic philosophy]]
+|main_interests = {{flatlist|
+*[[Philosophy of mathematics]]
+*[[Philosophy of logic]]
+*[[Mathematical logic]]
+*[[Philosophy of language]]
+*[[Metaphysics]]
+*[[History of analytic philosophy]]
+*[[Voting theory]]
+*[[Theology]]
+}}
+|notable_ideas = {{flatlist|
+*Metaphysical debates are properly understood as debates about logical laws.<ref name=IEP>[http://www.iep.utm.edu/dummett/ Dummett, Michael – Internet Encyclopedia of Philosophy].</ref>
+*[[Semantic anti-realism (epistemology)|semantic anti-realist]] defence of [[mathematical intuitionism]]
+*[[Gödel–Dummett logic]]
+*Criticism of [[truth-value link realism]] and [[evidence-transcendent]] truth conditions<ref name=IEP/>
+*[[Logical harmony]]
+*[[Quota Borda system]]
+*[[Proportionality for solid coalitions]]
+*[[Gibbard–Satterthwaite theorem|Dummett-Farquharson conjecture]]
+}}
+|doctoral_students = [[Peter Carruthers (philosopher)|Peter Carruthers]]<br>[[Eva Picardi]]<br>[[Timothy Williamson]]<br>[[Crispin Wright]]
+|awards = {{Plainlist| 
+* [[Lakatos Award]] (1994)
+* [[Rolf Schock Prizes|Rolf Schock Prize]] (1995)
+}}
+}}
+'''Sir Michael Anthony Eardley Dummett''' {{post-nominals|country=GBR|FBA}} ({{IPAc-en|ˈ|d|ʌ|m|ɪ|t}}; 27 June 1925 – 27 December 2011) was an [[English people|English]] [[academic]] described as "among the most significant British philosophers of the last century and a leading campaigner for racial tolerance and [[racial equality|equality]]."<ref>{{Cite news |url=https://www.telegraph.co.uk/news/obituaries/culture-obituaries/8981654/Professor-Sir-Michael-Dummett.html |title=Obituary for Professor Sir Michael Dummett |newspaper=Telegraph |access-date=29 December 2011 |location=London |date=28 December 2011}}</ref> He was, until 1992, [[Wykeham Professor]] of Logic at the [[University of Oxford]]. He wrote on the history of [[analytic philosophy]], notably as an interpreter of [[Gottlob Frege|Frege]], and made original contributions particularly in [[philosophy of mathematics|the philosophies of mathematics]], [[philosophy of logic|logic]], [[philosophy of language|language]] and [[metaphysics]]. 
+
+He was known for his work on truth and meaning and their implications to debates between [[philosophical realism|realism]] and [[anti-realism]], a term he helped to popularize. In [[mathematical logic]], he developed an [[intermediate logic]], a logical system intermediate between [[classical logic]] and [[intuitionistic logic]] that had already been studied by [[Kurt Gödel]]: the [[Gödel–Dummett logic]]. In [[voting theory]], he devised the [[Quota Borda system]] of proportional voting, based on the [[Borda count]], and conjectured the [[Gibbard–Satterthwaite theorem]] together with [[Robin Farquharson]]; he also devised the condition of [[Proportionality for Solid Coalitions|proportionality for solid coalitions]]. Besides his main work in [[analytic philosophy]], he also wrote extensively on the history of [[card game]]s, particularly on [[tarot card games]].
+
+He was married to the political activist [[Ann Dummett]] from 1951 until his death in 2011.
+
+==Education and army service==
+Born 27 June 1925 at his parents' house, 56, [[York Terrace]], [[Marylebone]], London, Dummett was the son of George Herbert Dummett (1880 – 12 November 1969), later of Shepherd's Cottage, [[Curridge]], Berkshire, a silk merchant and [[rayon]] dealer, and Mabel Iris (1893–1980), daughter of the civil servant and [[Conservation movement|conservationist]] Sir [[Sainthill Eardley-Wilmot]] (himself grandson of the politician [[Sir John Eardley-Wilmot, 1st Baronet]]).<ref>{{cite ODNB | url=https://www.oxforddnb.com/display/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-104464 | doi=10.1093/ref:odnb/104464 | title=Dummett, Sir Michael Anthony Eardley (1925–2011) | year=2004 | isbn=978-0-19-861411-1 | first=Daniel | last=Isaacson }}</ref><ref>Burke's Peerage, Baronetage and Knightage, 107th edition, vol. 1, ed. Charles Mosley, Burke's Peerage Ltd, 2003, pp. 1260-1</ref><ref name="ba18" /> He studied at [[Sandroyd School]] in [[Wiltshire]], at [[Winchester College]] as a scholar, and at [[Christ Church, Oxford]], which awarded him a major scholarship in 1943. He was called up for military service that year and served until 1947, first as a private in the [[Royal Artillery]], then in the [[Intelligence Corps (United Kingdom)|Intelligence Corps]] in India and Malaya. In 1950 he graduated with a first in [[Politics, Philosophy and Economics]] from Oxford and was elected a Prize Fellow of [[All Souls College, Oxford]].<ref>Isaacson, Daniel [https://www.andyross.net/dummett.htm "In Memoriam: Michael Dummett (1925–2011)"]. *Originally published at [https://www.philosophy.ox.ac.uk/news__events/older_news/in_memoriam_michael_dummett_1925–2011 Faculty of Philosophy, University of Oxford News]''<sup> {{Webarchive|url=https://web.archive.org/web/20210118034308/http://www.andyross.net/dummett.htm |date=18 January 2021 }}</sup>''</ref><ref>{{Cite ODNB|last=Isaacson|first=Daniel|title=Dummett, Sir Michael Anthony Eardley (1925–2011), philosopher and campaigner against racial injustice|url=https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-104464|access-date=2021-03-24|year=2004|language=en|doi=10.1093/ref:odnb/104464|isbn=9780198614111}}</ref>
+
+==Academic career==
+In 1979, Dummett became [[Wykeham Professor]] of Logic at Oxford, a post he held until retiring in 1992. During his term as Wykeham Professor, he held a Fellowship at [[New College, Oxford]]. He has also held teaching posts at [[Birmingham University]], [[UC Berkeley]], [[Stanford University]], [[Princeton University]], and [[Harvard University]]. He won the [[Schock Prize|Rolf Schock]] prize in 1995,<ref>{{Cite web|title=Rolf Schock Prize - Department of Philosophy|url=https://www.philosophy.su.se/english/research/2.26526|access-date=2021-04-30|website=www.philosophy.su.se}}</ref> and was [[knight]]ed in 1999. He was the 2010 winner of the Lauener Prize for an Outstanding Œuvre in Analytical Philosophy.<ref>[http://lauener-foundation.ch/award.php Lauener Prize for an Outstanding Oeuvre in Analytical Philosophy].</ref>
+
+During his career at Oxford, Dummett supervised many philosophers who went on to distinguished careers, including [[Peter Carruthers (philosopher)|Peter Carruthers]], [[A. W. Moore (philosopher)|Adrian Moore]], [[Ian Rumfitt]], and [[Crispin Wright]].
+
+==Philosophical work<!--''Semantic realism (epistemology)'', ''Semantic anti-realism (epistemology)'' and ''Semantic antirealism (epistemology)'' redirect here-->==
+Dummett's work on the German philosopher [[Gottlob Frege|Frege]] has been acclaimed. His first book ''[[Frege: Philosophy of Language]]'' (1973), written over many years, is seen as a classic. It was instrumental in the rediscovery of Frege's work, and influenced a generation of British philosophers.
+
+In his 1963 paper "Realism", he popularised a controversial approach to understanding the historical dispute between [[philosophical realism|realist]] and other non-realist philosophy such as [[idealism]], [[nominalism]], [[Irrealism (philosophy)|irrealism]].<ref>Originally a lecture to the Philosophical Society at Oxford in 1963, first published in 1978 in his book ''Truth and Other Enigmas''. See ''[[iarchive:truthotherenigma00dumm 0|Truth and Other Enigmas]]'', p. ix.</ref> He classed all the latter as [[anti-realism|anti-realist]] and argued that the fundamental disagreement between realist and anti-realist was over the nature of truth.
+
+For Dummett, realism is best understood as '''semantic realism'''<!--boldface per WP:R#PLA-->, i.e. the view that every declarative sentence in one's language is [[bivalence|bivalent]] (determinately true or false) and [[evidence-transcendent]] (independent of our means of coming to know which),<ref>{{Citation|last=Tennant|first=Neil|title=Logicism and Neologicism|date=2017|url=https://plato.stanford.edu/archives/win2017/entries/logicism/|encyclopedia=The Stanford Encyclopedia of Philosophy|editor-last=Zalta|editor-first=Edward N.|edition=Winter 2017|publisher=Metaphysics Research Lab, Stanford University|access-date=2021-04-30}}</ref><ref name=IEP/> while anti-realism rejects this view in favour of a concept of knowable (or assertible) truth.<ref>{{Citation|last=Glanzberg|first=Michael|title=Truth|date=2021|url=https://plato.stanford.edu/archives/sum2021/entries/truth/|encyclopedia=The Stanford Encyclopedia of Philosophy|editor-last=Zalta|editor-first=Edward N.|edition=Summer 2021|publisher=Metaphysics Research Lab, Stanford University|access-date=2021-04-30}}</ref> Historically, these debates had been understood as disagreements about whether a certain type of entity objectively exists or not. Thus we may speak of realism or anti-realism with respect to other minds, the past, the future, universals, mathematical entities (such as [[natural numbers]]), moral categories, the material world, or even thought. The novelty of Dummett's approach consisted in seeing these disputes as at base analogous to the dispute between [[Intuitionism (philosophy of mathematics)|intuitionism]] and [[Platonism]] in the [[philosophy of mathematics]].
+
+Dummett espoused '''semantic anti-realism'''<!--boldface per WP:R#PLA-->, a position suggesting that truth cannot serve as the central notion in the theory of meaning and must be replaced by [[Verificationism|verifiability]].<ref>Panu Raatikainen, [http://newprairiepress.org/biyclc/vol5/iss1/10/ "The Semantic Realism/Anti-Realism Dispute and Knowledge of Meanings"], ''The Baltic International Yearbook of Cognition, Logic and Communication'' '''5'''(1): 1–13. 2010.</ref> Semantic anti-realism is sometimes related to [[semantic inferentialism]].<ref>R. Ramanujam and Sundar Sarukkai, eds, ''Logic and Its Applications'', Springer, 2009, p. 260.</ref>
+
+==Activism==
+Dummett was politically active, through his work as a campaigner against racism. He let his philosophical career stall in order to influence [[civil rights]] for minorities during what he saw as a crucial period of reform in the late 1960s. He also worked on the [[Social choice theory|theory of voting]], which led to his introduction of the [[Quota Borda system]].
+
+Dummett drew heavily on his work in this area in writing his book ''On Immigration and Refugees'', an account of what justice demands of states in relationship to [[immigration|movement between states]]. Dummett, in that book, argues that the vast majority of [[opposition to immigration]] has been founded on racism, and says that this has especially been so in the UK. In the book, Dummett argued in favour of open borders and mass migration, except when states were "under special threat" and could therefore refuse entry.
+
+He has written of his shock on finding [[anti-Semitic]] and "extreme right-wing" opinions in the diaries of [[Frege]], to whose work he had devoted such a high proportion of his professional career.<ref>Michael Dummett, "Preface to the first edition", in ''Frege: Philosophy of Language,'' First Edition ([[Harper & Row]], 1973)/Second Edition ([[Harvard University Press]], 1981), [[iarchive:fregephilosophyo0000dumm/page/n15/mode/1up|p. xii.]]</ref>
+
+In 1955–1956, while in [[Berkeley, California]], Dummett and his wife joined the [[NAACP]]. In June 1956 he met [[Martin Luther King Jr.]] while visiting San Francisco, and heard from him of [[Alistair Cooke]] providing the British public with what King defined as "biased and hostile reports" of the [[Civil Rights Movement]] and specifically of the [[Montgomery bus boycott]]. Dummett travelled to Montgomery and wrote his own account. However, ''[[The Guardian]]'' refused to publish Dummett's article and his refutation of Cooke's version of the Montgomery events, even in a shortened account as a Letter to the Editor; the ''[[BBC]]'', too, also refused to publish it.<ref>Michael Dummett, [https://www.jstor.org/stable/10.5325/critphilrace.3.1.0001 "Montgomery (and A. Cooke)"]. With an Introduction by [[Robert Bernasconi]]. ''Critical Philosophy of Race'', Volume 3, Issue 1, 2015, pp. 1–19.</ref>
+
+==Elections and voting==
+{{see also|Gibbard–Satterthwaite theorem|Robin Farquharson}}
+Dummett and [[Robin Farquharson]] published influential articles on the theory of voting, in particular conjecturing that deterministic voting rules with more than three issues faced endemic [[strategic voting]].<ref>{{Cite journal |doi=10.1007/s00355-005-0014-x |title=The work and life of [[Robin Farquharson]] <!-- |author-link=Michael Dummett --> 
+|first=Michael |last=Dummett |journal=Social Choice and Welfare |year=2005 |volume=25 |issue=2 |pages=475–483|s2cid=27639067 
+}}</ref> The Dummett–Farquharson conjecture was proved by [[Allan Gibbard]],<ref>{{Cite journal |first=Allan |last=Gibbard |title=Manipulation of Voting Schemes: A General Result |journal=[[Econometrica]] |volume=41 |issue=4 |year=1973 |pages=587–601 |jstor=1914083 |doi=10.2307/1914083 |s2cid=17069971 }}</ref> a philosopher and former student of [[Kenneth J. Arrow]] and [[John Rawls]], and by the economist Mark A. Satterthwaite.<ref>{{Cite journal |first=Mark A. |last=Satterthwaite |title=Strategy-proofness and Arrow's Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions |journal=[[Journal of Economic Theory]] |volume=10 |year=1975 |issue=2 |pages=187–217 |doi=10.1016/0022-0531(75)90050-2 |citeseerx=10.1.1.471.9842}}</ref>
+
+After the establishment of the Farquharson–Dummett conjecture by Gibbard and Satterthwaite, Dummett contributed three proofs of the [[Gibbard–Satterthwaite theorem]] in a monograph on voting. He also wrote a shorter overview of the theory of voting, for the educated public.{{citation needed|date=January 2023}}
+
+==Card games and tarot==
+Dummett was a scholar in the field of [[card games|card-game]] history, with numerous books and articles to his credit. He was a founding member of the [[International Playing-Card Society]], in whose journal ''[[The Playing-Card]]'' he regularly published opinions, research and reviews of current literature on the subject; he was also a founder of the [[Accademia del Tarocchino Bolognese]] in [[Bologna]]. His historical work on the use of the tarot pack in [[card games]], ''The Game of Tarot: From Ferrara to Salt Lake City'', attempted to establish that the invention of Tarot could be set in 15th-century [[Italy]]. He laid the foundation for most subsequent research on the game of [[Tarot card games|tarot]], including exhaustive accounts of the rules of all hitherto known forms of the game. Sylvia Mann goes as far as to say that ''The Game of Tarot'' "is the most important book on cards ever written."<ref>{{Cite book |last=Mann |first=Sylvia |url=https://archive.org/details/michaeldummettco0000unse |title=Michael Dummett: Contributions to Philosophy |date=2012 |publisher=Springer Science & Business Media |isbn=978-94-009-3541-9 |editor-last=Taylor |editor-first=B. M. |pages=195 |language=en |chapter=Playing Cards |url-access=registration}}</ref>
+
+Dummett's analysis of the historical evidence suggested that [[fortune-telling]] and [[occult]] interpretations were unknown before the 18th century. During most of their recorded history, he wrote, Tarot cards were used to play a popular trick-taking game which is still enjoyed in much of Europe. Dummett showed that the middle of the 18th century saw a great development in the game of Tarot, including a modernized deck with French suit-signs, and without the medieval allegories that interest occultists. This coincided with a growth in Tarot's popularity. "The hundred years between about 1730 and 1830 were the heyday of the game of Tarot; it was played not only in [[northern Italy]], eastern [[France]], [[Switzerland]], [[Germany]] and [[Austro-Hungary]], but also in [[Belgium]], the [[Netherlands]], [[Denmark]], [[Sweden]] and even [[Russia]]. Not only was it, in these areas, a famous game with many devotees: it was also, during that period, more truly an international game than it had ever been before or than it has ever been since...."<ref>{{Cite book |first=Michael |last=Dummett |year=2004 |title=A History of Games Played With the Tarot Pack: The Game of Triumphs, Vol. 1}}</ref>
+
+In 1987, Dummett collaborated with Giordano Berti and Andrea Vitali on the project of a great Tarot exhibition at [[Castello Estense]] in [[Ferrara]]. On that occasion he wrote some texts for the catalogue of the exhibition.<ref>{{Cite book |first=Michael |last=Dummett |year=1987 |title="Sulle origini dei Tarocchi popolari" and "Tarocchi popolari e Tarocchi fantastici", in Le carte di Corte. I Tarocchi. Gioco e magia alla Corte degli Estensi, ''Nuova Alfa editoriale, Bologna 1987, pp. 78–88''}}</ref>
+
+==Roman Catholicism==
+In 1944, Dummett was received into the [[Roman Catholic Church]] and remained a practising Catholic. Throughout his career, Dummett published articles on various issues then facing the Catholic Church, mainly in the English [[Dominican Order|Dominican]] journal ''[[New Blackfriars]]''. Dummett published an essay in the bulletin of the Adoremus Society on the subject of liturgy,<ref>{{Cite web|last=Dummett|first=Michael|date=March 1997|title=The Revision of the Roman Liturgy: A Review|url=https://adoremus.org/2007/12/the-revision-of-the-roman-liturgy-a-review/|access-date=2021-04-29|website=Adoremus|language=en-US}}</ref> and a philosophical essay defending the intelligibility of the Catholic Church's teaching on the [[Eucharist]].<ref>Dummett M. (1987) "The Intelligibility of Eucharistic Doctrine", In: [[William J. Abraham]] and Steven W. Holzer, eds., ''The Rationality of Religious Belief: Essays in Honour of Basil Mitchell'', Clarendon Press, 1987.</ref>
+
+In October 1987, one of his contributions to ''New Blackfriars'' sparked controversy by seemingly attacking currents of Catholic theology that appeared to him to diverge from orthodox Catholicism and "imply that, from the very earliest times, the Catholic Church, claiming to have a mission from God to safeguard divinely revealed truth, has taught and insisted on the acceptance of falsehoods."<ref name=":0">{{Cite journal|last=Dummett|first=Michael|date=1987|title=A Remarkable Consensus|url=https://www.jstor.org/stable/43248116|journal=New Blackfriars|volume=68|issue=809|pages=430, 431|doi=10.1111/j.1741-2005.1987.tb01277.x|jstor=43248116|issn=0028-4289}}</ref> Dummett argued that "the divergence which now obtains between what the Catholic Church purports to believe and what large or important sections of it in fact believe ought, in my view, to be tolerated no longer: not if there is to be a rationale for belonging to that Church; not if there is to be any hope of reunion with the other half of Christendom; not if the Catholic Church is not to be a laughing-stock in the eyes of the world."<ref name=":0" /> A debate on these remarks continued for months, with the theologian [[Nicholas Lash]]<ref>{{Cite journal|last=Lash|first=Nicholas|date=1987|title=A Leaky Sort of Thing? The divisiveness of Michael Dummett|url=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1741-2005.1987.tb01294.x|journal=New Blackfriars|language=en|volume=68|issue=811|pages=552–557|doi=10.1111/j.1741-2005.1987.tb01294.x|issn=1741-2005|jstor=43248143}}</ref> and the historian [[Eamon Duffy]] among the contributors.<ref>{{Cite journal |last=Kerr |first=Fergus |author-link=Fergus Kerr |date=2012 |title=Comment: Michael Dummett in memoriam |url=https://www.jstor.org/stable/43251621 |journal=New Blackfriars |volume=93 |issue=1045 |pages=261–262 |doi=10.1111/j.1741-2005.2012.01487.x |issn=0028-4289 |jstor=43251621}}</ref>
+
+==Later years and family==
+Dummett retired in 1992 and was knighted in 1999 for "services to philosophy and to racial justice". He received the [[Lakatos Award]] in the [[philosophy of science]] in 1994 and the [[Rolf Schock Prize]] for logic and philosophy in 1995. He was elected Fellow of the [[British Academy]] in 1968, resigned in 1984, and was re-elected in 1995.<ref name="ba18">{{cite journal| url=https://www.thebritishacademy.ac.uk/documents/964/Memoirs_17-12_Dummett.pdf | title=Michael Anthony Eardley Dummett: 27 June 1925 – 27 December 2011 | first1=Daniel | last1=Isaacson | first2=Ian | last2=Rumfitt | journal=[[Biographical Memoirs of Fellows of the British Academy]] | volume=XVII | pages=191–228 | date=21 November 2018 | publisher=[[British Academy]] | location=UK }}</ref>
+
+Dummett died on 27 December 2011 aged 86, leaving his wife [[Ann Dummett|Ann]] (married in 1951, died in 2012) and three sons and two daughters. A son and a daughter predeceased them.<ref>[http://www.scotsman.com/news/obituaries/obituary_professor_sir_michael_dummett_innovative_philosopher_and_academic_who_campaigned_for_racial_equality_1_2029888 Sir Michael Dummett obituary in ''The Scotsman Online''.]</ref> He is buried at [[Wolvercote Cemetery]], Oxford.<ref name="ba18" />
+
+==Works==
+*On analytical philosophy and logic:
+**''[[iarchive:fregephilosophyo0000dumm|Frege: Philosophy of Language]]'' ([[Harvard University Press]], 1973/1981)
+**''[[iarchive:interpretationof0000dumm|The Interpretation of Frege's Philosophy]]'', [[Gerald Duckworth and Company|Duckworth]], 1981; [[Harvard University Press]]<ref>{{Cite journal |author=Burge, Tyler |author-link=Tyler Burge |title=Review: ''The Interpretation of Frege's Philosophy'' by Michael Dummett |journal=[[The Philosophical Review]] |date=July 1984 |volume=93 |issue=3 |pages=454–458 |doi=10.2307/2184550 |jstor=2184550}}</ref>
+**''[[iarchive:elementsofintuit0000dumm|Elements of Intuitionism]]'' (Oxford, 1977, 2000)<ref>{{Cite journal |author=Eggenberger, Peter |title=Review: ''Elements of Intuitionism'' by Michael Dummett |journal=[[The British Journal for the Philosophy of Science]] |date=September 1980 |volume=31 |issue=3 |pages=299–301 |doi=10.1093/bjps/31.3.299 |jstor=686924}}</ref> 
+**''[[iarchive:trent 0116301453878|Truth and Other Enigmas]]'' ([[Harvard University Press]], 1978)<ref>{{Cite journal |author=Schirn, Matthias |title=Review: ''Truth and Other Enigmas'' by Michael Dummett |journal=The British Journal for the Philosophy of Science |date=December 1981 |volume=32 |issue=4 |pages=419–425 |jstor=687314 |doi=10.1093/bjps/32.4.419}}</ref>
+**''[[Frege: Philosophy of Mathematics]]'' ([[Harvard University Press]], 1991)
+**''[[iarchive:logicalbasisofme0000dumm|The Logical Basis of Metaphysics]]'' ([[Harvard University Press]], 1991)
+**[http://www.hup.harvard.edu/catalog.php?isbn=9780674644731 ''Origins of Analytical Philosophy''] ([[Harvard University Press]], 1993)
+**''[[iarchive:seasoflanguage0000dumm|The Seas of Language]]'' (Oxford, 1993)
+**''[[iarchive:fregeotherphilos0000dumm|Frege and Other Philosophers]]'' (Oxford, 1991)
+**[https://books.google.com/books/about/Truth_and_the_Past.html?id=klJIZ9OJZX4C ''Truth and the Past''] (Oxford, 2005)<ref>{{Cite journal |author=Shieh, Sanford |title=Review: ''Truth and the Past'' by Michael Dummett |journal=[[History and Theory]] |date=May 2008 |volume=47 |issue=2 |pages=270–278 |doi=10.1111/j.1468-2303.2008.00451.x |jstor=25478749|doi-access=free }}</ref>
+**''Thought and Reality'' (Oxford, 2006)
+**''[[iarchive:naturefutureofph0000dumm|The Nature and Future of Philosophy]]'' (Columbia, 2010)
+*On voting theory and election systems:
+**''[[iarchive:votingprocedures0000dumm|Voting Procedures]]'' (Oxford, 1984)
+**''[[iarchive:principlesofelec0000dumm|Principles of Electoral Reform]]'' (New York, 1997) {{ISBN|0-19-829246-5}}
+**{{Cite journal|doi=10.2307/1907685|title=Stability in Voting|url=https://www.jstor.org/stable/1907685|author=<!-- [[Robin Farquharson]] --> [[Robin Farquharson]] and Michael Dummett|journal=Econometrica|volume=29|issue=1|date=January 1961|pages=33–43|jstor=1907685}}
+**{{Cite journal|doi=10.1007/s00355-005-0014-x|title=The work and life of Robin Farquharson|url=https://www.jstor.org/stable/41106711|first=Michael|last=Dummett|journal=Social Choice and Welfare|year=2005|volume=25|issue=2|pages=475–83|jstor=41106711|s2cid=27639067}}
+**{{Cite journal |author=Rudolf Farra and Maurice Salles |title=An Interview with Michael Dummett: From analytical philosophy to voting analysis and beyond |journal=Social Choice and Welfare |volume=27 |issue=2 |date=October 2006 |doi=10.1007/s00355-006-0128-9 |pages=347–364 |s2cid=46164353 |url=http://eprints.lse.ac.uk/552/1/VPP05_01.pdf}}
+*On politics:
+**''On Immigration and Refugees'' (London, 2001)
+*Tarot works:
+**''The Game of Tarot: from Ferrara to Salt Lake City'' (Duckworth, 1980)
+**''Twelve Tarot Games'' (Duckworth, 1980)
+**''The Visconti-Sforza Tarot Cards'' (G. Braziller, 1986)
+**''Il mondo e l'angelo: i tarocchi e la loro storia'' (Bibliopolis, 1993)
+**''I tarocchi siciliani'' (La Zisa, 1995)
+**''A Wicked Pack of Cards: The Origins of the Occult Tarot'' (with Ronald Decker and Thierry Depaulis, St. Martin's Press, 1996)
+**''A History of the Occult Tarot, 1870-1970'' (with Ronald Decker, Duckworth, 2002)
+**''A History of Games Played with the Tarot Pack'' (with [[John McLeod (card game researcher)|John McLeod]], E. Mellen Press, 2004)
+
+Notable articles and exhibition catalogues include "Tarot Triumphant: Tracing the Tarot" in ''FMR'', (''Franco Maria Ricci International''), January/February 1985; Pattern Sheets published by the [[International Playing Card Society]]; with Giordano Berti and Andrea Vitali, the catalogue ''Tarocchi: Gioco e magia alla Corte degli Estensi'' (Bologna, Nuova Alfa Editorale, 1987).
+
+*On the written word:
+**''Grammar and Style'' (Duckworth, 1993)
+For more complete publication details see the "Bibliography of the Writings of Michael Dummett" in [[Randall Auxier|R. E. Auxier]] and L. E. Hahn (eds.) ''[[iarchive:philosophyofmich0000unse|The Philosophy of Michael Dummett]]'' (2007).
+
+==See also==
+*[[Anti-realism]], a coin termed by Dummett and position he defended throughout his career
+*"[[Is Logic Empirical?]]", which discusses an article by Dummett on an argument of [[Hilary Putnam]] for the correctness of [[quantum logic]]
+*[[Truth-value link realism]], which Dummett criticized in early works
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+*Johannes L Brandl and Peter Sullivan (eds.) ''New Essays on the Philosophy of Michael Dummett''. Rodopi, 1999. {{ISBN|90-420-0466-5}}
+*[[Richard Kirkham]]. ''Theories of Truth''. MIT Press, 1992. Chapter 8 is a discussion of Dummett's views on meaning.
+*[[Karen Green (philosopher)|Karen Green]]. ''Dummett: Philosophy of Language''. ''Polity'', 2001. {{ISBN|0-7456-2295-X}}
+*Richard G. Heck (ed.) ''Language, Thought, and Logic: Essays in Honour of Michael Dummett''. Oxford University Press, 1998. {{ISBN|0-19-823920-3}}
+*Bernhard Weiss. [[iarchive:michaeldummett0000weis|''Michael Dummett'']]. Princeton University Press, 2002. {{ISBN|0-691-11330-0}}
+*Anat Matar. ''From Dummett's Philosophical Perspective'', Walter de Gruyter, 1997. {{ISBN|3110149869}}
+*[[Randall Auxier|R. E. Auxier]] and L. E. Hahn (eds.) ''[[iarchive:philosophyofmich0000unse|The Philosophy of Michael Dummett]], [[The Library of Living Philosophers]], vol XXXI'' Open Court, Chicago, 2007.
+
+==External links==
+*{{wikiquote-inline}}
+*[http://www.iep.utm.edu/d/dummett.htm Michael Dummett] at the [[Internet Encyclopedia of Philosophy]]
+*[http://autorbis.net/tarot/biography/tarot-history-researchers/michael-dummett.html Biographical notes] at Trionfi
+*[http://philosophybites.com/2010/10/michael-dummett-on-frege.html Philosophy Bites interview with Dummett on Frege]
+*[http://opinionator.blogs.nytimes.com/2012/01/04/remembering-michael-dummett/ "Remembering Michael Dummett", at The Stone], ''New York Times'' blogs, 4 January 2012
+*[https://www.theguardian.com/world/2011/dec/28/sir-michael-dummett "Sir Michael Dummett obituary"] by A. W. Moore, ''The Guardian'', 28 December 2011
+*Dummett, Michael (1 January 1975), Rose, H. E.; Shepherdson, J. C. (eds.), [https://web.archive.org/web/20210819053256/http://www.filosofia.unimi.it/~zucchi/NuoviFile/Dummett73.pdf "The Philosophical Basis of Intuitionistic Logic"], ''Studies in Logic and the Foundations of Mathematics'', Logic Colloquium '73, Elsevier, vol.80, pp.5–40, {{doi|10.1016/S0049-237X(08)71941-4}}
+*{{cite web| url=https://www.findagrave.com/memorial/216167560/michael-anthony_eardley-dummett | title=Michael Anthony Eardley Dummett | website=[[Find a Grave]] }}
+
+{{Analytic philosophy}}
+{{Metaphysics}}
+{{Philosophy of language}}
+{{Schock Prize laureates}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dummett, Michael}}
+[[Category:1925 births]]
+[[Category:2011 deaths]]
+[[Category:Analytic philosophers]]
+[[Category:English philosophers]]
+[[Category:British logicians]]
+[[Category:British metaphysicians]]
+[[Category:British philosophers of language]]
+[[Category:Philosophers of mathematics]]
+[[Category:British philosophers of science]]
+[[Category:20th-century British philosophers]]
+[[Category:21st-century philosophers]]
+[[Category:Rolf Schock Prize laureates]]
+[[Category:Tarot card games]]
+[[Category:Card game historians]]
+[[Category:British Roman Catholics]]
+[[Category:Catholic philosophers]]
+[[Category:Converts to Roman Catholicism]]
+[[Category:Fellows of All Souls College, Oxford]]
+[[Category:Fellows of New College, Oxford]]
+[[Category:Alumni of Christ Church, Oxford]]
+[[Category:People educated at Sandroyd School]]
+[[Category:People educated at Winchester College]]
+[[Category:British Army personnel of World War II]]
+[[Category:Royal Artillery soldiers]]
+[[Category:Wykeham Professors of Logic]]
+[[Category:Intuitionism]]
+[[Category:Knights Bachelor]]
+[[Category:Wittgensteinian philosophers]]
+[[Category:Writers from the City of Westminster]]
+[[Category:Academics of the University of Birmingham]]
+[[Category:Fellows of the British Academy]]
+[[Category:Card game book writers]]
+[[Category:Tarock card games]]
+[[Category:Lakatos Award winners]]
+[[Category:English historians of philosophy]]
+[[Category:Scholars of contemporary philosophy]]
+[[Category:Burials at Wolvercote Cemetery]]
+[[Category:People from Marylebone]]

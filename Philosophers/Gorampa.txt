@@ -1,0 +1,139 @@
+{{Short description|Philosopher}}
+[[File:Gorampa_Sonam_Sengge.jpg|thumb|[[Thangka]] of Gorampa]]
+'''Gorampa Sonam Senge''' ({{bo|w=go rams pa bsod nams seng ge}}, 1429–1489<ref name="Dreyfus301">Dreyfus (2003) p.301</ref>) was an important philosopher in the [[Sakya (Tibetan Buddhist school)|Sakya]] school of [[Tibetan Buddhism]]. He was the author of a vast collection of commentaries on sutra and tantra whose work was influential throughout Tibetan Buddhism. Gorampa is particularly known for his writings on [[madhyamaka]] philosophy, especially his critique of the madhyamaka views of [[Je Tsongkhapa|Tsongkhapa]] and [[Dolpopa Sherab Gyaltsen|Dolpopa]]. Gorampa defended the mainly [[Anti-realism|anti-realist]] interpretation of madhyamaka held by the Sakya school (which sees [[Two truths doctrine|conventional truth]] as a false [[illusion]]).<ref name="Dreyfus, Georges B. J 1997, page 2">Dreyfus, Georges B. J. (1997) ''Recognizing Reality: Dharmakirti's Philosophy and Its Tibetan Interpretations'' (Suny Series in Buddhist Studies), p. 2.</ref>
+
+Gorampa was the student of [[Rongtön]] (Rongtön Shéja Künrig, {{bo|w=rong ston shes bya kun rig}}), Byams chen rab ’byams pa Sangs rgyas ’phel (1411–85), Ngor chen Kun dga’ bzang po (1382–1456), Gung ru Shes rab bzang po (1411–75).<ref name="Dreyfus301" /><ref>Cabezón & Dargyay (2007), pp. 34–36.</ref> He founded the Thuptén Namgyél Monastery in Tanag ({{bo|w=rta nag thub bstan rnam rgyal gling}}), which is just north of [[Shigatse]].
+
+Gorampa's works were very influential in Sakya and also outside of the Sakya school. He was a major rival which [[Gelug]] scholastics responded to centuries after his death. His work was also a major source for the madhyamaka views of [[Jamgön Ju Mipham Gyatso|Mipham]] (1846–1912).<ref name="Cabezón 2007 pp. 55">Cabezón & Dargyay (2007), pp. 55–56</ref> His works were suppressed by Gelug state institutions for his polemical treatment of Tsongkhapa's views. In the 20th century, they were re-published by Jamgyal Rinpoche with permission from the [[13th Dalai Lama]]. His work is widely studied today in Sakya, [[Kagyu]] and [[Nyingma]] [[scholasticism]].<ref name=":5">Kassor, Constance, [https://plato.stanford.edu/archives/win2017/entries/gorampa/ <nowiki>"Gorampa [go rams pa]"</nowiki>], ''The Stanford Encyclopedia of Philosophy (Winter 2017 Edition)'', Edward N. Zalta (ed.).</ref>
+
+==Philosophy==
+During Gorampa's time, the Sakya school had to contend with the rise of new Tibetan Buddhist traditions which were growing rapidly, mainly the [[Gelug|Gelug school]] of [[Je Tsongkhapa|Tsongkhapa]] (1357–1419) and the [[Jonang]] school of [[Dolpopa Sherab Gyaltsen|Dolpopa]] (1292–1361). Both of these schools presented unique presentations of the [[Madhyamaka|madhymaka]] philosophy, which differed significantly from the classic Sakya interpretation of madhyamaka.<ref>Cabezón & Dargyay (2007), pp. 42–43.</ref> The Sakyas had also lost political hegemony in Tibet at the time. As the [[Tibetology|tibetologist]] José Cabezón writes, "the time was therefore ripe for a committed Sa skya pa intellectual to step up and offer a defense of the classical Sa skya tradition as a whole."<ref>Cabezón & Dargyay (2007), p. 43.</ref>
+
+One of Gorampa's most important and popular works is ''Distinguishing the Views'' ({{bo|t=|w=lta ba'i shan 'byed}}), in which he argues for the classic Sakya view of [[madhyamaka]], which he termed “the Middle Way qua freedom from extremes” (''mtha’ bral dbu ma'').<ref>Cabezón & Dargyay (2007), p. 46.</ref> Like all madhyamikas, Gorampa and other Sakya teachers classified themselves as presenting a madhyamaka view which was "Free from Proliferation" ({{bo|w=spros bral|t=}}) and he used this name as a moniker for his interpretation of madhyamaka.<ref name="Dreyfus302">Dreyfus (2003) p.302</ref> According to Cabezón, Gorampa's [[polemic]]s attempt to argue that his interpretation of madhyamaka "is the true middle way between two extremist views prevalent in his day: the eternalistic view of the [[Jonang|Jo nang pas]], and the nihilistic view of the [[Gelug|Dga’ ldan pas]]."<ref>Cabezón & Dargyay (2007), p. 48.</ref> Gorampa considers this view to be the orthodox Sakya school view and traces it back to [[Ngok Loden Sherab]] and [[Patsab Nyima Drakpa|Patsab Nyima Drak]].<ref>Cabezón & Dargyay (2007), p. 49.</ref>
+
+=== Gorampa's madhyamaka ===
+
+According to Gorampa, all phenomena are empty of inherent existence (''[[svabhava]]'') but this is not the only feature of the ultimate truth (i.e. [[Śūnyatā|emptiness]]). The ultimate truth is also the absence of the four extremes (existence, nonexistence, both and neither), without any qualification.<ref name=":0">Cabezón & Dargyay (2007), p. 50.</ref> Thus, for Gorampa, conventional truths are also an object of negation because "they are not found at all when subjected to ultimate rational analysis".<ref>Cowherds (2010) p. 84</ref> Hence, Gorampa's madhyamaka negates ''existence'' ''itself'' without qualifications. This is different than the view of Tsongkhapa, where the object of negation is just ''[[svabhava]]''.<ref name=":0" />
+
+Cabezón writes that Gorampa's philosophy is "committed to a more literal reading of the Indian sources than either Dol po pa’s or Tsong kha pa’s, which is to say that it tends to take the Indian texts at face value."<ref name=":1">Cabezón & Dargyay (2007), pp. 49–50.</ref> As such, according to Cabezón, Gorampa holds that "the fourfold negation found in the tetralemma or [[Catuṣkoṭi|catuskoti]]—not x, not non-x, not both, and not neither—is to be taken literally as a repudiation of, for example, existence, nonexistence, both, and neither without the need for qualification. Hence, contra Tsong kha pa, existence itself is an object of negation for him, there being no need to add the qualifier “ultimate” (as in “ultimate existence”) to make this negation palatable."<ref name=":1" />
+
+According to Gorampa, ultimate truth has two aspects:<ref name=":5" />
+
+* "The emptiness that is the endpoint of rational analysis" (including the emptiness of persons and of dharmas) or "the ultimate that is taught" (''bstan pa'i don dam''). This is not truly ultimate but only an analogue (''rjes mthun'') of the true ultimate. As Cabezón notes, this conceptual understanding of emptiness must eventually be negated "in order to achieve an understanding of the highest form of emptiness that is the object of yogic gnosis."<ref name=":1" />
+* The emptiness that is the object of yogic insight or [[gnosis]] or "the ultimate that is realized" (''rtogs pa'i don dam''). This is the real ultimate truth. It is ineffable, cannot be expressed linguistically, and is beyond all concepts and proliferations. However, Cabezón also notes that "understanding emptiness rationally is a necessary prerequisite to understanding it in its true, nonanalytical form."<ref name=":1" />
+
+==== Conventional reality is unreal ====
+
+In his ''Elimination of Erroneous Views'', Gorampa argues that madhyamaka reasoning ultimately must negate "all false appearances", that is anything that appears to our mind (all conventional phenomena). For Gorampa, all appearances are conceptually produced illusions, and when conceptual reification is brought to an end by yogic insight, all false appearances cease. This is the "ultimate freedom from conceptual fabrication" (''don dam spros bral'') which requires the negation of "the reality of appearances."<ref name="Cowherds 2010, p. 82">Cowherds 2010, p. 82</ref> As [[Jay L. Garfield]] and Sonam Thakchoe write:<blockquote>By “false appearance,” Gorampa means anything that appears to our mind. Therefore, all conventional phenomena are false appearances. Appearances, he claims, are conceptually produced. So, when conceptual reification ceases, appearance also ceases. Insight into reality puts an end to conceptual reification and so to appearance.<ref name="Cowherds 2010, p. 82"/></blockquote>Thus, for Gorampa, conventional reality is a deceptive fabrication and since awakening requires transcending all fabrication (''spros bral''), conventional reality must be negated.<ref name="Cowherds 2010, p. 86">Cowherds 2010, p. 86</ref> As Gorampa states, the first priority of madhyamikas should be “the negation of the reality of appearances; thus the unreality of appearances is the principal thing to be established.”<ref>Cowherds 2010, pp. 82-83.</ref>
+
+Furthermore, the object of negation consists of an objective aspect (''yul''), comprising all conventional truths and a subjective aspect (''yul can''), comprising all cognitions (with the exception of [[Arya (Buddhism)|ārya's]] meditative equipoise). For Gorampa, all conventional knowledge is dualistic, being based on a false distinction between subject and object.<ref>Cowherds 2010, p. 83</ref> Therefore, for Gorampa, madhyamaka analyzes all supposedly real phenomena and concludes through that analysis "that those things do not exist and so that so-called conventional reality is entirely nonexistent."<ref name=":2">Cowherds 2010, p. 84</ref>
+
+Gorampa writes:<blockquote>Suppose someone replied: If that were the case, even conventional truths would have to be the object of negation from the perspective of the ultimate rational analysis. Precisely, absolutely. This is because they are not found at all when subjected to ultimate rational analysis.<ref name=":2" /></blockquote>Gorampa also argues that from the perspective of a Buddha's enlightened gnosis, conventional truth is not found:<blockquote>Conventional realities presented in the contexts [of Nāgārjuna’s MMK XXIV.8–10 and Candrakīrti’s Mav VI.23–24] are nonexistent [at the level of buddhahood] because where there is no erroneous apprehending subject, its corresponding object [i.e., conventional reality] cannot exist.<ref name="Cowherds 2010, p. 86"/></blockquote>Furthermore, Gorampa argues that accepting the conventional ''reality'' of conventional truth undermines [[soteriology]]:<blockquote>If there is grasping to the reality of phenomena, i.e., the [five] aggregates, then similarly grasping to the reality of person (''gang zag kyi bden ‘dzin'') will surely arise, which is itself primal confusion, the first of the twelve links. And all of the subsequent links arise from this one. Thus the root of suffering is grasping to the reality of phenomena (''chos kyi bden ‘dzin'').<ref name="Cowherds 2010, p. 85">Cowherds 2010, p. 85</ref></blockquote>And,<blockquote>Those who seek to achieve awakening must negate reality...seekers of the awakening of the Mahāyāna must negate the fabrication (''spros pa'') of all four extremes.<ref name="Cowherds 2010, p. 85"/></blockquote>According to Garfield and Thakchoe, Gorampa's philosophy holds that the object of negation is conventional phenomena themselves (and thus, emptiness completely negates conventional reality). Consequently, for Gorampa, persons, tables, chairs and so on simply do not exist from the ultimate point of view. They are "no more actual than [[Santa Claus]], the protestations of ordinary people and small children to the contrary notwithstanding".<ref>Cowherds 2010 pp. 75–76</ref> Thus, in Gorampa's system "there simply is no truth in conventional truth; to be conventionally real is to be completely unreal. To see things as they are is to see nothing at all."<ref>Cowherds 2010 p. 86</ref>
+
+=== Critique of Dolpopa and shentong ===
+Gorampa criticized the [[Rangtong-Shentong|shentong]] view of [[Dolpopa Sherab Gyaltsen|Dölpopa Shérap Gyeltsen]] (1292–1361), following Rongton and Rendawa, and argued that it is incompatible with any of the sutra traditions or Buddhist philosophical schools and thus "it cannot but fall outside of the [bounds of the] Buddhist tradition."<ref name=":3">Cabezón & Dargyay (2007), p. 51.</ref> Thus, for Gorampa, the [[Jonang]] philosophy is “a system that, while having strong affinities to the Cittamatra, never manages to reach the Middle Way."<ref name=":3" /> For Gorampa, Dolpopa's inability to understand that ultimate reality itself must be subjected to the same negative madhyamaka dialectic as conventional reality means that his view is not consistent with Nagarjuna's madhyamaka.<ref name=":3" />
+
+Gorampa also criticized the contemporary [[Sakya Chokden|Sakya Chogden]] for espousing a shentong view. Gorampa says:<ref name=":3" />  <blockquote>Certain persons of coarse mental faculty, holding the eternalistic view [of the Jo nang pas] secretly in their hearts, take sides with the philosophical views of others for the sake of diplomacy, and claim that the Sa skya and Jo nang pa schools are not incompatible as regards their philosophical views.  </blockquote>
+
+=== Critique of Tsongkhapa and Gelug madhyamaka ===
+Gorampa's works contain an extensive and detailed refutations of the madhyamaka view of [[Je Tsongkhapa|Tsongkhapa Losang Drakpa]] (c. 1357–1419), the founder of the Gelug school.<ref name=":4">Cabezón & Dargyay (2007), p. 52.</ref> Gorampa accuses Tsongkhapa of holding an interpretation of madhyamaka which amounts to [[nihilism]].<ref name=":4"/> According to Gorampa, it is Tsongkhapa's refusal to fully negate the conceptual understanding of emptiness that leads him to grasp at emptiness and thus to nihilism, since “those who grasp at emptiness have not gone beyond falling into the extreme of nihilism.”<ref name=":4" />
+
+Gorampa thinks that this follows from Tsongkhapa's view that the object of the rational-analytical understanding of emptiness is the ultimate truth (Gorampa thinks that this is just a conventional analogue of emptiness).  According to Cabezón, for Gorampa, only yogic insight (which is non-conceptual) can perceive the ultimate. For Gorampa, the conceptual view of emptiness cannot be the real ultimate truth because "the dichotomizing tendency of the mind that culminates in extremist proliferations (existence/nonexistence, and so forth) is built into the very structure of conceptual thought and, as such, any object of conceptual thought, even emptiness, is of necessity contaminated with the type of dualistic proliferation that is the Madhyamaka’s object of negation."<ref>Cabezón & Dargyay (2007), pp. 52–53.</ref> This is why for Gorampa, everything (including conceptual emptiness) is to be negated by madhyamaka dialectic.<ref>Cabezón & Dargyay (2007), p. 53.</ref>
+
+As Cabezón explains:<blockquote>For Tsong kha pa, the problem of ignorance lies in the fact that the mind improperly reifies objects, imputing real or inherent existence to things that lack it. For Go rams pa, the chief problem lies in the fact that the mind operates through a dichotomizing filter that continuously splits the world into dualities (existent/nonexistent, permanent/impermanent, and so forth). Put another way, for Tsong kha pa the problem lies with the false quality that the mind attributes to objects, whereas for Go rams pa it lies with the very proliferative character of the conceptual mind itself, an aspect of mental functioning that cannot be entirely eliminated through the selective negation of a specific quality (true existence), requiring instead the use of a method (the complete negation of all extremes) that brings dualistic thinking to a halt.<ref>Cabezón & Dargyay (2007), pp. 53–54.</ref></blockquote>
+Gorampa also criticizes Tsongkhapa's view of conventional truth on numerous points (including those related to Tsongkhapa's "Eight Difficult Points") such as:<ref>Cabezón & Dargyay (2007), p. 55</ref>
+
+* for accepting the destruction of things to be a real entity (''zhig pa dngos po ba'') 
+* for his theory of perception across the different realms of existence, which explains how different types of beings (humans, hungry ghosts, gods, etc.) perceive the same object differently by arguing that "a vessel full of liquid must be said to contain actual water, actual pus and blood, actual nectar and so forth." 
+* Gorampa claims that Tsongkhapa reifies the “mere I,” into a real entity that is left over when the self is analyzed 
+* Gorampa disagrees with Tsongkhapa that sravakas and pratyekabuddhas understand the ultimate truth as the freedom from proliferations 
+* Gorampa critiques Tsongkhapa's rejection of the [[Eight Consciousnesses|foundation consciousness]] (''kun gzhi'') and of [[Svasaṃvedana|self-reflexive cognition (''rang rig'')]]
+
+Gorampa also does not agree with Tsonghkapa that the [[Svatantrika–Prasaṅgika distinction|prasangika]] and svatantrika methods produce different results nor that the prasangika is a "higher" view. Gorampa also critiques the svatantrika approach as having too much reliance on logic, because in his view the component parts of syllogistic logic are not applicable in the realm of the ultimate. But this critique is constrained to the methodology, and he believed both approaches reach the same ultimate realization.<ref name="Dreyfus302-306">Dreyfus (2003) pp.302–306</ref>
+
+In his polemical passages against Tsongkhapa, Gorampa states that Tsongkhapa's supposed conversations with [[Manjusri]] bodhisattva were actually encounters with a [[demon]]:{{refn|group=note|José Cabezón: "Even as serious a scholar as Go rams pa cannot resist suggesting, for example, that Tsong kha pa's supposed conversations with Manjusri may have been a dialogue with a demon instead."<ref>Cabezón, José. ''Freedom from Extremes''. Wisdom Publications 2007, page 17.</ref>}}
+{{blockquote|"Gorampa, in the ''Lta ba ngan sel (Eliminating the Erroneous View)'', accuses Tsongkhapa of being "seized by demons" (''bdud kyis zin pa'') and in ''the Lta ba'i shan 'byed (Distinguishing Views)'' decries him as a "nihilistic Madhyamika" (''dbu ma chad lta ba'') who is spreading "demonic words" (''bdud kyi tshig'')."<ref>Thakchoe, Sonam. ''The Two Truths Debate:''. Wisdom Publications 2007, page 125.</ref>}}Gorampa's critiques of Tsongkhapa were very influential and it was seen as a major critique of the Gelug tradition by Gelug scholars. Gorampa's critiques were addressed by some of the Gelug school's most important thinkers such as [[Jetsün Chökyi Gyaltsen]] (Rje btsun Chos kyi rgyal mtshan c. 1469– 1544/46) and [[Jamyang Zhepa|Jamyang Shepe Dorje Ngawang Tsondrü]] (’Jam dbyangs bzhad pa Ngag dbang brtson ’grus c. 1648–1722).<ref name="Cabezón 2007 pp. 55"/>
+
+== Works ==
+Gorampa was a prolific author, his major exoteric works are:<ref>Cabezón & Dargyay (2007), pp. 37–39.</ref>
+
+=== Middle-Way (Madhyamaka; Dbu ma) works ===
+
+* Dbu ma rtsa ba’i shes rab kyi rnam par bshad pa yang dag lta ba’i’ ’od zer (incomplete), a commentary on Nagarjuna’s ''[[Mūlamadhyamakakārikā|Mulamadhyamakakarika]]''
+* Rgyal ba thams cad kyi dgongs pa zab mo dbu ma’i de kho na nyid spyi’i ngag gis ston pa nges don rab gsal,188 also known as the Dbu ma’i spyi don, a general exposition of Madhyamaka
+* Lta ba’i shan ’byed theg mchog gnad kyi zla zer, his polemic against Dol po pa and Tsong kha pa, written in 1469
+* Dbu ma la ’jug pa’i dkyus kyi sa bcad pa dang gzhung so so’i dka’ ba’i gnas la dpyad pa lta ba ngan sel, a quasi-polemical commentary that focuses on the difficult points of [[Chandrakirti|Candrakirti's]] ''[[Madhyamakāvatāra|Madhyamakavatara]]'', taking issue with many of Tsong kha pa's interpretations
+
+=== Perfection of Wisdom (Prajñaparamita; Phar phyin) works ===
+
+* Shes rab kyi pha rol tu phyin pa’i man ngag gi bstan bcos mngon par rtogs pa’i rgyan ’grel pa dang bcas pa’i dka’ ba’i gnas rnam par bshad pa yum don rab gsal, a commentary on the ''[[Abhisamayalankara]]'', written in 1464 at Skyed tshal 
+* Shes rab kyi pha rol tu phyin pa man ngag gi bstan bcos mngon par rtogs pa’i rgyan gyi gzhung snga phyi’i ’grel dang dka’ gnas la dpyad pa sbas don zab mo’i gter gyi kha ’byed, another commentary on the ''[[Abhisamayalankara]]'', written in 1470 at Rta nag
+* Grel pa don gsal gyi ngag don, a commentary on Haribhadra’s ''Sphuthartha'', written in 1481 at Ngor E vam chos ldan
+* Shes rab kyi pha rol tu phyin pa’i man ngag gi bstan bcos mngon par rtogs pa’i rgyan gyi mtshon byed kyi chos rnams kyi yan lag khyad par bshad pa sbas don rab gsal, a commentary on the ''[[Abhisamayalankara]]'', written in 1472 at Rta nag 
+* Zhugs gnas kyi rnam gzhag skyes bu mchog gi gsal byed, a treatise on those who “enter and abide” in the different fruits of the path (stream-enterer, etc.), written in 1470 at Rta nag
+* Mthar gyi gnas pa’i snyom par ’jug pa’i rnam bshad snyoms ’jug rab gsal, a treatise on the advanced meditative states, written in 1470 at Rta nag
+* Rten ’brel gyi rnam par bzhag pa ’khor ’das rab gsal, a treatise on [[Pratītyasamutpāda|dependent arising]], written in 1470 at Rta nag
+
+=== Epistemo-Logical (Pramana; Tshad ma) works ===
+
+* Rgyas pa’i bstan bcos tshad ma rnam ’grel gyi rnam par bshad pa kun tu bzang po’i ’od zer, an extensive commentary on [[Dharmakirti|Dharmakirti’s]] ''[[Pramanavarttika]]'', composed in 1474
+* Rgyas pa’i bstan bcos tshad ma rnam ’grel gyi ngag don kun tu bzang po’i nyi ma, a shorter commentary on the ''[[Pramanavarttika]]'', written at Rta nag
+* Sde bdun mdo dang bcas pa’i dgongs pa phyin ci ma log par ’grel pa tshad ma rig[s] pa’i gter gyi don gsal bar byed pa, a commentary on the seven treatises of logic and [[Sakya Pandita|Sapan’s]] ''Tshad ma rigs gter''
+* Tshad ma rigs pa’i gter gyi dka’ gnas rnam par bshad pa sde bdun rab gsal, a commentary on [[Sakya Pandita|Sapan's]] ''Tshad ma rigs gter'' composed in 1471 at Dga’ ba tshal Monastery
+
+=== Vinaya (’Dul ba) works ===
+
+* Dul ba mdo rtsa’i rgyas ’grel (no longer extant), a commentary on the ''[[Vinaya Sutra]]'' of Gunaprabha
+* Rab tu byung ba rnams kyi bslab bya nyams su blang ba’i chos ’dul ba rgya mtsho’i snying po, advice to monks, written in 1481 at Rta nag
+
+=== Abhidharma (Mdzod) works ===
+
+* Chos mngon pa mdzod kyi bshad thabs kyi man ngag ngo mtshar gsum ldan (incomplete), a commentary to the ''[[Abhidharmakośa-bhāsya|Abhidharmakosha]]''
+* Phung khams skye mched kyi rnam gzhag ji snyed shes bya’i sgo ’byed, a treatise on the aggregates, elements, and spheres, written in 1472 at Rta nag
+
+=== Works on the three vows (Sdom gsum skor) ===
+
+* Sdom pa gsum gyi rab tu dbye ba’i rnam bshad rgyal ba’i gsung rab kyi dgongs pa gsal ba, a commentary on Sapan’s ''Sdom gsum rab dbye'', written in 1463 at Skyed tshal
+* Sdom gsum rab dbye’i spyi don yid bzhin nor bu, a general treatise on the ''Sdom gsum rab dbye,'' written in 1461 at Skyed tshal
+* Sdom pa sgum gyi bstan bcos la dris shing rtsod pa’i lan sdom gsum ’khrul spong, a polemical work defending the ''Sdom gsum rab dbye'', written in 1476 at Rta nag
+* Sdom pa gsum gyi rab tu dbye ba’i kha skong legs bshad ’od kyi snang ba, a polemical supplement to the ''Sdom gsum rab dbye'', written in 1478 at Rta nag
+* Sdom gsum kha skong gi bsdus don, an abbreviated version of the supplement to the ''Sdom gsum rab dbye'', written at Rta nag
+
+=== Miscellaneous texts ===
+
+* Blo sbyong zhen pa bzhi bral byi khrid yig zab don gnad kyi lde’u mig, a commentary on the famous short text, ''Abandoning the Four Attachments''
+* Rgyud bla’i ’grel pa rtsom ’phro, an incomplete commentary on the [[Ratnagotravibhāga|''Uttaratantra'']]
+
+== See also ==
+* [[Sakya (Tibetan Buddhist school)]]
+* [[Sakya Pandita]]
+* [[Two truths doctrine]]
+* [[Rangtong-Shentong]]
+* [https://www.rigpawiki.org/index.php?title=Rongt%C3%B6n_Sheja_Kunrig Rongtön Sheja Kunrig]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==Sources==
+{{refbegin}}
+* Cabezon, Jose Ignacio & Geshe Lobsang Dargyay. (2007) ''Freedom from Extremes: Gorampa's "Distinguishing the Views" and the Polemics of Emptiness (Studies in Indian and Tibetan Buddhism)''  Wisdom. {{ISBN|0-86171-523-3}}
+* Dreyfus, Georges B. J. and McClintock, Sara (2003) ''The Svatantrika-Prasangika Distinction'' {{ISBN|0-86171-324-9}}
+* Kassor, Constance (2011) 'Gorampa [go rams pa]' in ''Stanford Encyclopedia of Philosophy''
+* Thakchoe, Sonam (2007) ''The Two Truths Debate: Tsongkhapa and Gorampa on the Middle Way'' Wisdom {{ISBN|0-86171-501-2}}
+{{refend}}
+
+* ''Cowherds (2010). Moonshadows: Conventional Truth in Buddhist Philosophy. Oxford University Press. <nowiki>ISBN 9780199826506</nowiki>.''
+{{TibetanBuddhism}}
+{{Authority control}}
+
+{{DEFAULTSORT:Gorampa}}
+[[Category:1429 births]]
+[[Category:1489 deaths]]
+[[Category:15th-century Buddhists]]
+[[Category:Scholars of Buddhism from Tibet]]
+[[Category:Madhyamaka scholars]]
+[[Category:Sakya lamas]]
+[[Category:Tibetan philosophers]]

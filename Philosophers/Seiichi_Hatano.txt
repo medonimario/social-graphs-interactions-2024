@@ -1,0 +1,59 @@
+{{Short description|Japanese philosopher}}
+{{Use dmy dates|date=November 2019}}
+{{Infobox person
+| name       = Seiichi Hatano
+| image      = Dr. Seiichi Hatano (circa 1935).jpg
+| image_size = 
+| caption    = Seiichi Hatano
+| birth_date = {{birth date|1877|7|21}}
+| birth_place = [[Matsumoto, Nagano]], Japan
+| death_date = {{death date and age|1950|1|17|1877|7|21}}
+| death_place = [[Tokyo]], Japan
+| restingplace =
+| othername = 
+| occupation = Philosopher
+| yearsactive = 
+| spouse = 
+| children =
+}}
+{{nihongo|'''Seiichi Hatano'''|波多野 精一|Hatano Seiichi|21 July 1877 &ndash; 17 January 1950}} was a Japanese [[Philosophy|philosopher]], best known for his work in the 
+[[philosophy of religion]] dealing mostly with western religion and also western philosophical thoughts in theological aspects of Christianity.
+
+==Biography==
+Hatano was born in [[Matsumoto, Nagano|Matsumoto]] in [[Nagano Prefecture]], and educated at [[Tokyo Imperial University]], from which he graduated in 1899.  He was very influential in stimulating the study in Japan of Western philosophy and religion, both through his teaching (he was the first to teach the history of Western philosophy at Tokyo Semmon Gakko, now [[Waseda University]]), and through his early writings.  These included ''An Outline of the History of Western Philosophy'' (1897), ''The Origins of Christianity'' (1909), and ''A Study of Spinoza'' (1904–1905). The last of these was originally written in [[German language|German]] and only translated into [[Japanese language|Japanese]] in 1910). It was reprinted after WW2.
+
+He opposed a [[Positivism|positivist]] approach to religion, arguing that though [[rationality]] underpinned religious beliefs, it depended upon an autonomous form of [[experience]] to discover at least partial truth.
+
+He died in [[Tokyo]] at the age of seventy-three.
+
+==Bibliography==
+*1897: ''An Outline of the History of Western Philosophy''
+*1909: ''The Origins of Christianity''
+*1904: ''A Study of Spinoza''
+*1920: ''The Essence of the Philosophy of Religion and its Fundamental Problems''
+*1935: ''Philosophy of Religion''
+*1940: ''Introduction to the Philosophy of Religion''
+*1943: ''Time and Eternity''
+
+==References==
+*[[St Elmo Hauman Jr]]. ''Dictionary of Asian Philosophies'' (London: Routledge, 1979) {{ISBN|0-415-03971-1}}
+*[[John Maraldo]]. "Contemporary Japanese Philosophy" (in [[Brian Carr]] & [[Indira Mahalingam]] [edd]. ''Companion Encyclopedia of Asian Philosophy'' (London: Routledge, 1997) {{ISBN|0-415-24038-7}}
+*[http://www.britannica.com/EBchecked/topic/256796/Hatano-Seiichi Britannica bio]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hatano, Seiichi}}
+[[Category:1877 births]]
+[[Category:1950 deaths]]
+[[Category:19th-century Japanese philosophers]]
+[[Category:20th-century Japanese philosophers]]
+[[Category:Philosophers of religion]]
+[[Category:University of Tokyo alumni]]
+[[Category:Academic staff of Kyoto University]]
+[[Category:Academic staff of the University of Tokyo]]
+[[Category:Kyoto School]]
+[[Category:People from Matsumoto, Nagano]]
+
+
+{{japan-philosopher-stub}}
+{{reli-philo-bio-stub}}

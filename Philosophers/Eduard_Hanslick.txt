@@ -1,0 +1,107 @@
+{{short description|Austrian music critic (1825–1904)}}
+{{Infobox person
+| name        = Eduard Hanslick
+| image       = Hanslick.jpg
+| caption     = Portrait of Hanslick, published in 1894
+| birth_date  = {{Birth date|1825|9|11|df=y}}
+| birth_place = [[Prague]], [[Austrian Empire]]
+| death_date  = {{Death date and age|1904|8|6|1825|9|11|df=y}}
+| death_place = [[Baden, Austria]]
+| occupation  = {{hlist|[[Music critic]]|[[Aesthetics|aesthetician]]|historian}}
+}}
+'''Eduard Hanslick''' (11 September 1825{{spaced ndash}}6 August 1904) was an Austrian [[music critic]], [[Aesthetics|aesthetician]] and historian.{{sfn|Grey|2001}} Among the leading critics of his time, he was the [[List of chief music critics|chief music critic]] of the ''[[Neue Freie Presse]]'' from 1864 until the end of his life. His best known work, the 1854 treatise ''Vom Musikalisch-Schönen'' (''On the Musically Beautiful''), was a landmark in the [[aesthetics of music]] and outlines much of his artistic and philosophical beliefs on music.{{sfn|Grimes|2015|loc="Introduction"}}
+
+Hanslick was a conservative critic and championed [[absolute music]] over [[programmatic music]] for much of his career.{{sfn|Grimes|2015|loc="Absolute Music"}} As such, he sided with and promoted the faction of [[Robert Schumann]] and [[Johannes Brahms]] in the so-called "[[War of the Romantics]]", often deriding the works of composers such as [[Franz Liszt]] and [[Richard Wagner]]. 
+
+==Life and career==
+Eduard Hanslick was born in [[Prague]] (then in the [[Austrian Empire]]), the son of Joseph Adolph Hanslik, a bibliographer and music teacher from a German-speaking family, and one of Hanslik's piano pupils, the daughter of a [[Jew]]ish merchant from [[Vienna]]. At the age of eighteen Hanslick went to study music with [[Václav Tomášek]], one of Prague's renowned musicians. He also studied law at [[Prague University]] and obtained a degree in that field, but his amateur study of music eventually led to writing music reviews for small town newspapers, then the ''Wiener Musik-Zeitung'' and eventually the ''[[Neue Freie Presse]]'', where he was music critic until retirement. Whilst still a student, in 1845, he met with [[Richard Wagner]] in [[Marienbad]]; the composer, noting the young man's enthusiasm, invited him to [[Dresden]] to hear his opera ''[[Tannhäuser (opera)|Tannhäuser]]''; here Hanslick also met with [[Robert Schumann]].{{sfn|Hanslick|1963|p=11}}
+
+[[File:Grave of Dr. Eduard Hanslick.jpg|thumb|Grave of Dr. Eduard Hanslick, Zentralfriedhof, Vienna]]
+In 1854 he published his influential book ''On the Beautiful in Music''. By this time his interest in Wagner had begun to cool; he had written a disparaging review of the first Vienna production of ''[[Lohengrin (opera)|Lohengrin]]''. From this point on, Hanslick found his sympathies moving away from the so-called 'music of the Future' associated with Wagner and [[Franz Liszt]], and more towards music he conceived as directly descending from the traditions of [[Wolfgang Amadeus Mozart|Mozart]], [[Ludwig van Beethoven|Beethoven]] and Schumann{{sfn|Hanslick|1963|p=13}} &mdash; in particular the music of [[Johannes Brahms]] (who dedicated to him his [[Sixteen Waltzes, Op. 39 (Brahms)|set of waltzes]] [[opus number|opus]] 39 for [[piano duet]]). In 1869, in a revised edition of his essay ''[[Das Judenthum in der Musik|Jewishness in Music]]'', Wagner attacked Hanslick as 'of gracefully concealed Jewish origin', and asserted that his supposedly Jewish style of criticism was anti-German.{{Refn|Hanslick replied to this attack that "my father and all his ancestors were of Catholic peasant stock and came, moreover, from a region where Jews were known only as peddlers."{{sfn|Hanslick|1963|p=12}}|group=n}} It is sometimes claimed that Wagner caricatured Hanslick in his opera ''[[Die Meistersinger von Nürnberg]]'' as the carping critic Beckmesser (whose name was originally to be Veit Hanslich).<ref>[[Ernest Newman|Newman, Ernest]]. ''The Life of Richard Wagner, volume 3''. Cambridge University Press, Cambridge 1976, {{ISBN|0-521-29096-1}}, p.199</ref>
+
+Hanslick's unpaid lectureship at the [[University of Vienna]] led in 1870 to a full professorship in history and aesthetic of music and later to a doctorate ''honoris causa''.{{sfn|Grey|2001}} Hanslick often served on juries for musical competitions and held a post at the Austrian Ministry of Culture and fulfilled other administrative roles. He retired after writing his memoirs, but still wrote articles on the most important premieres of the day, up to his death in 1904 in [[Baden, Austria|Baden]].{{citation needed|date=May 2017}}
+
+==Views on music==
+[[File:Eduard Hanslick offering incense to Brahms; cartoon rom the Viennese journal 'Figaro', 1890.jpg|thumb|left|Eduard Hanslick offering incense to [[Brahms]]; cartoon from the Viennese satirical magazine, [[Figaro (Vienna)|Figaro]], 1890]]
+Hanslick's tastes were conservative; in his memoirs he said that for him musical history really began with Mozart and culminated in Beethoven, Schumann and Brahms. He is best remembered today for his critical advocacy of Brahms as against the school of Wagner, an episode in 19th century music history sometimes called the [[War of the Romantics]]. The critic [[Richard Pohl]], of the ''[[Neue Zeitschrift für Musik]]'', represented the progressive composers of the "[[Music of the Future]]".
+
+Being a close friend of Brahms from 1862, Hanslick possibly had some influence on Brahms's composing, often getting to hear new music before it was published.{{sfn|Frisch|1990|p=145}} Hanslick saw Wagner's reliance on dramatics and [[word painting]] as inimical to the nature of music, which he thought to be expressive solely by virtue of its form, and not through any extra-musical associations. On the other hand, he referred to extra-musicality when he asked, "When you play Chopin's mazurkas, do you not feel the mournful and oppressive air of the [[Battle of Ostroleka (1831)|Battle of Ostroleka]]?" (Hanslick 1848, p.&nbsp;157). The theoretical framework of Hanslick's criticism is expounded in his book of 1854, ''Vom Musikalisch-Schönen'' (''On the Beautiful in Music''), which started as an attack on the Wagnerian aesthetic and established itself as an influential text, subsequently going through many editions and translations in several languages. Other targets for Hanslick's heavy criticism were [[Anton Bruckner]] and [[Hugo Wolf]]. Of [[Pyotr Ilyich Tchaikovsky|Tchaikovsky]]'s [[Violin Concerto (Tchaikovsky)|Violin Concerto]], he accused both Tchaikovsky and the soloist, [[Adolph Brodsky]], of putting the audience "through hell" with music "which stinks to the ear"; he was also lukewarm towards the same composer's [[Symphony No. 6 (Tchaikovsky)|Sixth Symphony]].{{sfn|Hanslick|1963|pp=302–303}}
+
+Hanslick is noted as one of the first widely influential music critics. While his aesthetics and his criticism are typically considered separately, they are importantly connected. Hanslick was an outspoken opponent of the music of Liszt and Wagner, which broke down traditional musical forms as a means of communicating something extra-musical. His opposition to "the music of the future" is congruent with his aesthetics of music: the meaning of music is the form of music. It is along these lines that Hanslick became one of Brahms's champions and often pitted him against Wagner.
+
+== Works (German editions) ==
+* Eduard Hanslick, "Vom Musikalisch-Schönen". Leipzig 1854 ([http://www.koelnklavier.de/quellen/hanslick/_index.html online version])
+* Eduard Hanslick, "Geschichte des Konzertwesens in Wien", 2 vol. Vienna 1869–70
+* Eduard Hanslick, "Die moderne Oper", 9 vol. Berlin 1875–1900
+* Eduard Hanslick, "Aus meinem Leben", 2 vol. Berlin 1894
+* Eduard Hanslick, "Suite. Aufsätze über Musik und Musiker". Vienna 1884
+
+==References==
+===Notes===
+{{Reflist|group=n}}
+
+===Citations===
+{{Reflist}}
+
+===Sources===
+* {{cite book |last=Frisch |first=Walter |year=1990 |title=Brahms and His World |publisher=[[Princeton University Press]] |location=Princeton |isbn= }}
+* {{cite encyclopedia |last=Grey |first=Thomas S. |year=2001 |encyclopedia=[[Grove Music Online]] |title=Hanslick, Eduard |publisher=[[Oxford University Press]] |location=Oxford |doi=10.1093/gmo/9781561592630.article.12341 |isbn=978-1-56159-263-0 |url-access=subscription |url=https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000012341 }} {{Grove Music subscription}}
+* {{cite encyclopedia |last=Grimes |first=Nicole |year=2015 |encyclopedia=[[Oxford Bibliographies Online|Oxford Bibliographies]]: Music |title=Eduard Hanslick |publisher=[[Oxford University Press]] |location=Oxford |doi=10.1093/OBO/9780199757824-0014 |url=https://www.oxfordbibliographies.com/view/document/obo-9780199757824/obo-9780199757824-0014.xml |url-access=subscription}} {{subscription required}}
+* {{cite book |last=Hanslick |first=Eduard |editor-last=Pleasants |editor-first=Henry |editor-link=Henry Pleasants (music critic) |others=Introduction by [[Henry Pleasants (music critic)|Henry Pleasants]] |year=1963 |title=Music Criticism 1846-99 |publisher=[[Penguin Books]] |location=London |isbn= }}
+
+==Further reading==
+See {{harvnb|Grimes|2015}} for an extensive bibliography
+* Ambros Wilhelmer, "Der junge Hanslick. Sein 'Intermezzo' in Klagenfurt 1850-1852". Klagenfurt 1959
+* Ludvová, Jitka. Dokonalý antiwagnerián Eduard Hanslick. Paměti/Fejetony/Kritiky (Praha 1992).
+* {{cite book |last=Grey |first=Thomas |year=1995 |title=Wagner's Musical Prose: Texts and Contexts |publisher=[[Cambridge University Press]] |location=Cambridge |isbn= }}
+* Eduard Hanslick, "Censur und Kunst-Kritik," Wiener Zeitung, 24 March 1848, republished in his Sämtliche Schriften, vol 1, part 1, p.&nbsp;157, Ed. Dietmar Strauß
+* Christian Jung: ''[[Wagner]] und [[Hanslick]]. Kurze Geschichte einer Feindschaft''. In: ''Österreichische Musikzeitschrift'' 67 (2012), p.. 14–21.
+* Nicole Grimes et al., ed., Rethinking Hanslick: Music, Formalism, and Expression, University of Rochester Press, 2013
+
+==External links==
+{{Archival records|title=Geoffrey Payzant and Eduard Hanslick collection|location=|inventory_number=CA OTUFM 32|description_URL=https://discoverarchives.library.utoronto.ca/index.php/otufm32-geoffrey-payzant-eduard-hanslick|dates=1981-2001|access_conditions=}}
+* {{Gutenberg author | id=32356| name=Eduard Hanslick}}
+* {{Internet Archive author |sname=Eduard Hanslick}}
+* [https://discoverarchives.library.utoronto.ca/index.php/otufm32-geoffrey-payzant-eduard-hanslick Geoffrey Payzant and Eduard Hanslick collection] at [http://music.library.utoronto.ca/ University of Toronto Music Library]
+* [http://www.iep.utm.edu/hanslick/ Eduard Hanslick], ''Internet Encyclopedia of Philosophy''
+
+{{Chief classical music critics}}
+{{aesthetics}}
+{{Subject bar
+| portal1  = Austria
+| portal2  = Biography
+| portal3  = Classical music
+| portal4  = Music
+| portal5  = Opera
+| commons  = y
+| q        = y
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hanslick, Eduard}}
+[[Category:Scholars from the Austrian Empire]]
+[[Category:Music critics from Austria-Hungary]]
+[[Category:Musicologists from Austria-Hungary]]
+[[Category:Journalists from Austria-Hungary]]
+[[Category:Austrian music critics]]
+[[Category:Austrian musicologists]]
+[[Category:Austrian music journalists]]
+[[Category:Charles University alumni]]
+[[Category:German Bohemian people]]
+[[Category:Austrian people of German Bohemian descent]]
+[[Category:Czech Jews]]
+[[Category:Classical music critics]]
+[[Category:Writers from Prague]]
+[[Category:1825 births]]
+[[Category:1904 deaths]]
+[[Category:Burials at the Vienna Central Cemetery]]
+[[Category:Academic staff of the University of Vienna]]
+[[Category:19th-century Austrian musicologists]]
+[[Category:Beethoven scholars]]
+[[Category:Brahms scholars]]
+[[Category:Bruckner scholars]]
+[[Category:Krommer scholars]]
+[[Category:Liszt scholars]]
+[[Category:Mozart scholars]]
+[[Category:Schubert scholars]]
+[[Category:Wagner scholars]]

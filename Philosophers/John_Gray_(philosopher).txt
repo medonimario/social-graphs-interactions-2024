@@ -1,0 +1,253 @@
+{{Short description|English political philosopher (born 1948)}}
+{{Use dmy dates|date=November 2020}}
+{{EngvarB|date=April 2024}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[Contemporary philosophy]]
+|name             = John Gray
+|caption          = John Gray in 2015
+|image            = Brainwash Festival 2015 - John Gray (3).jpg
+|birth_name       = John Nicholas Gray
+|birth_date       = {{birth date and age|1948|04|17|df=y}}
+|birth_place      = [[South Shields]], County Durham, England
+|school_tradition = [[Analytic philosophy|Analytic]]
+|main_interests   = [[Political philosophy]], [[history of ideas]], [[philosophical pessimism]]
+|notable_ideas    = [[Agonistic liberalism]], [[criticism of humanism]]
+|influences       = [[John Stuart Mill]], [[Isaiah Berlin]], [[Michael Oakeshott]], [[Arthur Schopenhauer]], [[Karl Polanyi]], [[Emil Cioran]], [[James Lovelock]]
+|influenced       =
+|education=[[Exeter College, Oxford]] ([[B. A.|BA]], [[MPhil]], [[DPhil]])}}
+
+'''John Nicholas Gray''' (born 17 April 1948) is an English [[political philosopher]] and author with interests in [[analytic philosophy]], the [[history of ideas]],<ref>{{cite web|url=http://www.abc.net.au/radionational/programs/philosopherszone/john-gray-at-the-writers-festival---part-1/3274788 |title=John Gray at the Writers' Festival – Part 1 – The Philosopher's Zone – ABC Radio National (Australian Broadcasting Corporation) |publisher=Australian Broadcasting Corporation|date=28 June 2008 |access-date=9 August 2013}}</ref> and [[philosophical pessimism]].<ref>{{Cite news |last=De Botton |first=Alain |date=2013-03-04 |title=Alain de Botton on five great philosophical pessimists |url=https://www.telegraph.co.uk/culture/books/authorinterviews/9902122/Alain-de-Botton-on-five-great-philosophical-pessimists.html |access-date=2022-12-01 |work=[[The Daily Telegraph|The Telegraph]]}}</ref> He retired in 2008 as School Professor of European Thought at the [[London School of Economics and Political Science]]. Gray contributes regularly to ''[[The Guardian]]'', ''[[The Times Literary Supplement]]'' and the ''[[New Statesman]]'', where he is the lead book reviewer. He is an [[atheist]].<ref name="Atheism">{{cite news |last1=Preston |first1=John |date=28 February 2013 |title=John Gray interview: how an English academic become the world's pre-eminent prophet of doom |url=https://www.telegraph.co.uk/culture/books/booknews/9888780/John-Gray-interview-how-an-English-academic-become-the-worlds-pre-eminent-prophet-of-doom.html |work=[[The Daily Telegraph]]}}</ref>
+
+Gray has written several influential books, including ''[[False Dawn: The Delusions of Global Capitalism]]'' (1998), which argues that free market globalisation is an unstable [[Age of Enlightenment|Enlightenment]] project currently in the process of disintegration; ''[[Straw Dogs (book)|Straw Dogs: Thoughts on Humans and Other Animals]]'' (2002), which attacks philosophical [[humanism]], a worldview which Gray sees as originating in religions; and ''[[Black Mass: Apocalyptic Religion and the Death of Utopia]]'' (2007), a critique of [[utopian]] thinking in the modern world.
+
+Gray sees [[volition (psychology)|volition]], and hence [[morality]], as an illusion, and portrays humanity as a ravenous species engaged in wiping out other forms of life. Gray has written that "humans ... cannot destroy the Earth, but they can easily wreck the environment that sustains them."<ref>John Gray, ''Straw Dogs: Thoughts on Humans and Other Animals'', (Granta Books 2002), p. 12. {{ISBN|1-86207-512-3}}</ref>
+
+==Academic career==
+Gray was born into a working-class family, with a docker-turned-carpenter father,<ref name="Atheism" /> in [[South Shields]], County Durham. He attended [[Harton Academy|South Shields Grammar-Technical School for Boys]] from 1959 until 1967,<ref>{{cite web|url=http://www.newstatesman.com/philosophy/2009/04/john-gray-enlightenment-world |title=The NS Profile: John Gray |date=16 April 2009 |publisher=Newstatesman.com |access-date=9 August 2013}}</ref> then studied at [[Exeter College, Oxford]], reading [[philosophy, politics and economics]] (PPE), completing his B.A., M.Phil. and D.Phil.
+
+He formerly held posts as lecturer in political theory at the [[University of Essex]], fellow and tutor in politics at [[Jesus College, Oxford]], and lecturer and then professor of politics at the [[University of Oxford]]. He has served as a visiting professor at [[Harvard University]] (1985–86) and Stranahan Fellow at the Social Philosophy and Policy Center, [[Bowling Green State University]] (1990–1994), and has also held visiting professorships at [[Tulane University]]'s Murphy Institute (1991) and [[Yale University]] (1994). He was Professor of European Thought at the [[London School of Economics|London School of Economics and Political Science]] until his retirement from academic life in early 2008.
+
+==Political and philosophical thought==
+{{Conservatism UK|Intellectuals}}
+Among philosophers, he is known for a thoroughgoing rejection of [[John Rawls|Rawlsianism]]{{explain|date=September 2019}} and for exploration of the uneasy relationship between [[value pluralism]] and liberalism in the work of [[Isaiah Berlin]].<ref>{{Cite book
+| last1 = Cherniss | first1 = Joshua
+| last2 = Hardy | first2 = Henry
+| editor-last = Zalta | editor-first = Edward N.
+| contribution = Isaiah Berlin
+| title = The Stanford Encyclopedia of Philosophy
+| contribution-url = http://plato.stanford.edu/archives/sum2007/entries/berlin/#4
+| access-date = 4 July 2007
+| title-link = Stanford Encyclopedia of Philosophy
+| edition = Summer 2007
+}} §4. Ethical Thought and Value Pluralism.</ref>
+
+Gray's political thought is noted for its mobility across the political spectrum over the years. As a student, Gray was on the left and continued to vote [[Labour Party (UK)|Labour]] into the mid-1970s. By 1976 he had shifted towards a right-liberal [[New Right]] position, on the basis that the world was changing irrevocably through technological inventions, realigned financial markets and new economic power blocs and that the left failed to comprehend the magnitude and nature of this change.<ref>{{cite journal |last1=Colls |first1=Robert |date=10 January 2003 |title=Ethics Man: John Gray's New Moral World |journal=[[The Political Quarterly]] |volume=69 |pages=59–71 |doi=10.1111/1467-923X.00137}}</ref> In the 1990s Gray became an advocate for [[environmentalism]] and [[New Labour]]. Gray considers the conventional (left-wing/right-wing) political spectrum of conservatism and [[social democracy]] as no longer viable.<ref>''False Dawn: The Delusions of Global Capitalism''</ref>
+
+On [[liberalism]], Gray identified the common strands in liberal thought as being ''individualist'', ''egalitarian'', ''[[Meliorism|meliorist]]'', and ''universalist''. The individualist element avers the ethical primacy of the human being against the pressures of social [[Collectivism and individualism|collectivism]], the egalitarian element assigns the same moral worth and status to all individuals, the meliorist element asserts that successive generations can improve their sociopolitical arrangements, and the universalist element affirms the moral unity of the human species and marginalises local cultural differences.<ref name="Gray, p. xii">Gray, John. ''Liberalism''. Minneapolis: University of Minnesota Press, 1995. {{ISBN|0-8166-2801-7}}, p. xii.</ref>
+
+More recently, he has criticised [[neoliberalism]], the global [[free market]] and some of the central currents in [[Western philosophy|Western thinking]], such as [[humanism]], while moving towards aspects of [[environmentalism|green thought]], drawing on the [[Gaia hypothesis|Gaia theory]] of [[James Lovelock]]. It is perhaps for this critique of humanism that Gray is best known.<ref name="ReferenceA">''Straw Dogs: Thoughts on Humans and Other Animals''</ref>
+
+Central to the doctrine of humanism, in Gray's view, is the inherently [[utopian]] belief in [[meliorism]]; that is, that humans are not limited by their biological natures and that advances in ethics and politics are cumulative and that they can alter or improve the [[human condition]], in the same way that advances in science and technology have altered or improved [[living standards]].<ref name="ReferenceA"/>
+
+Gray contends, in opposition to this view, that history is not progressive, but cyclical. [[Human nature]], he argues, is an inherent obstacle to cumulative ethical or political progress.<ref name="ReferenceA"/> Seeming improvements, if there are any, can very easily be reversed: one example he has cited has been the use of [[torture]] by the United States against terrorist suspects.<ref>{{cite web|url=http://newhumanist.org.uk/939/going-nowhere-laurie-taylor-interviews-john-gray |title=Going nowhere: Laurie Taylor interviews John Gray |publisher=Newhumanist.org.uk |date=31 May 2007 |access-date=9 August 2013}}</ref> "What's interesting", Gray said in an interview in ''[[032c]]'' magazine, "is that torture not only came back, but was embraced by liberals, and defended by liberals. Now there are a lot of people, both liberal and conservative, who say, 'Well, it's a very complicated issue.' But it wasn't complicated until recently. They didn't say that five or ten years ago."<ref>{{cite web |last=Obrist |first=Hans Ulrich |date=2008 |title=John Gray: Post-American Age |url=http://032c.com/2008/post-american-age/ |url-status=dead |archive-url=https://web.archive.org/web/20100629012506/http://www.032c.com/2008/post-american-age/ |archive-date=29 June 2010 |access-date=11 February 2013 |website=[[032c]] |publisher=}}</ref>
+
+Furthermore, he argues that this belief in progress, commonly imagined to be secular and liberal, is in fact derived from an erroneous Christian notion of humans as morally autonomous beings categorically different from other animals. This belief, and the corresponding idea that history makes sense, or is progressing towards something, is in Gray's view merely a Christian prejudice.<ref name="ReferenceA"/>
+
+In ''[[Straw Dogs (book)|Straw Dogs]]'' he argues that the idea that humans are [[self-determination|self-determining]] agents does not pass the acid test of experience. Those [[Darwinist]] thinkers who believe humans can take charge of their own destiny to prevent environmental degradation are, in this view, not [[naturalists]], but apostles of humanism.<ref name="ReferenceA"/>
+
+He identifies the [[Age of Enlightenment|Enlightenment]] as the point at which the [[salvation|Christian doctrine of salvation]] was taken over by secular idealism and became a political religion with universal emancipation as its aim.<ref name="ReferenceA"/> Communism, fascism and "global democratic capitalism" are characterised by Gray as Enlightenment "projects" which have led to needless suffering, in Gray's view, as a result of their ideological allegiance to this religion.<ref>The darkness within. John Gray on why the left is in flight from "human nature". John Gray. Published in New Statesman 16 September 2002</ref>
+
+===Agonistic liberalism<!--'Agonistic liberalism' redirects here-->===
+The term '''[[Agonism|agonistic]] liberalism'''<!--boldface per WP:R#PLA--> appears in Gray's 1995 book ''Isaiah Berlin''. Gray uses this phrase to describe what he believes is Berlin's theory of politics, namely his support for both value pluralism and liberalism.
+
+More generally, agonistic liberalism could be used to describe any kind of liberalism that claims its own value commitments do not form a complete vision of politics and society, and that one instead needs to look for what Berlin calls an "uneasy equilibrium" between competing values. In Gray's view, many contemporary liberal theorists would fall into this category, for instance [[John Rawls]] and [[Karl Popper]].{{citation needed|date=November 2016}}
+
+== Reception ==
+
+=== Acclaim ===
+Gray's work has been praised by, amongst others, the novelists [[J. G. Ballard]], [[Will Self]] and [[John Banville]], the theologian [[Don Cupitt]], the journalist [[Bryan Appleyard]], the political scientist [[David Runciman]], historian and cultural critic [[Morris Berman]], investor and philanthropist [[George Soros]], the environmental scientist [[James Lovelock]] and the author [[Nassim Nicholas Taleb]].<ref name="ReferenceA"/><ref name="independent">{{cite news| url= https://www.independent.co.uk/news/people/profiles/john-gray-forget-everything-you-know-175755.html |archive-url= https://web.archive.org/web/20150309153822/https://www.independent.co.uk/news/people/profiles/john-gray-forget-everything-you-know-175755.html |archive-date= 9 March 2015 |work=The Independent |title=John Gray: forget everything you know |first=Will| last=Self |date=3 September 2002 |location=London |author-link=Will Self}}</ref><ref>{{cite news| url= https://www.theguardian.com/education/2002/sep/15/highereducation.shopping |work=The Observer |first=Jason |last=Cowley |title= Review: Straw Dogs by John Gray |date=19 September 2002 |location=London}}</ref><ref>{{cite news |url= http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article1961492.ece |work=The Sunday Times |location= London  |first= Bryan |last=Appleyard |author-link=Bryan Appleyard |date=24 June 2007 |title=John Gray's apocalypse |archive-url= https://web.archive.org/web/20080704204934/http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article1961492.ece |archive-date=4 July 2008 |url-status=dead}}</ref><ref>{{Cite web|url=https://www.counterpunch.org/2013/01/11/the-hula-hoop-theory-of-history/|title=The Hula Hoop Theory of History|first=Morris|last=Berman|date=11 January 2013|website=CounterPunch.org}}</ref><ref>{{Cite web|url=http://morrisberman.blogspot.com/2023/08/our-common-humanity.html|title=DARK AGES AMERICA: Our Common Humanity|first=Morris|last=Berman|date=10 August 2023|quote=“ Not sure I'm in his (Gray’s) league, but thanks for the compliment. I have admired his work for a long time. Very sober analyst.”}}</ref><ref name="ReferenceB">False Dawn: The Delusions of Global Capitalism</ref><ref>Black Mass: Apocalyptic Religion and the Death of Utopia</ref>
+
+[[Friedrich Hayek]] described Gray's 1984 book ''Hayek on Liberty'' as "The first survey of my work which not only fully understands but is able to carry on my ideas beyond the point at which I left off."<ref name="Robin2011">{{cite book |author=Robin |first=Corey |url= |title=[[The Reactionary Mind]] |publisher=Oxford University Press |year=2011 |isbn=978-0-19-991188-2 |page=[https://archive.org/details/isbn_9780199793747/page/91 91] |doi=10.1093/acprof:osobl/9780199793747.001.0001}}</ref>
+
+Gray has discussed James Lovelock's new ideas on evolution's next step: a species beyond humanity that will be better able to co-exist with other species on this planet in the distant future.{{citation needed|date=February 2018}}
+
+His 1998 book ''[[False Dawn: The Delusions of Global Capitalism|False Dawn]]'' was praised by George Soros as "a powerful analysis of the deepening instability of global capitalism" which "should be read by all who are concerned about the future of the global economy".<ref name="ReferenceB"/> John Banville praised ''[[Black Mass: Apocalyptic Religion and the Death of Utopia|Black Mass]]'', saying that "Gray's assault on Enlightenment ideas of progress is timelier than ever".<ref>Gray's Anatomy: Selected Writings</ref>
+
+His 2002 book [[Straw Dogs (book)|''Straw Dogs: Thoughts on Humans and Other Animals'']] has received particular praise. J. G. Ballard wrote that the book "challenges most of our assumptions about what it means to be human, and convincingly shows that most of them are delusions" and described it "a powerful and brilliant book", "an essential guide to the new millennium" and "the most exhilarating book I have read since [[Richard Dawkins]]'s ''[[The Selfish Gene]]''."<ref name="strawdogs">{{cite book|title=Straw Dogs: Thoughts on Humans and Other Animals |isbn=978-1-86207-596-2 |last1=Gray |first1=John |date=29 April 2024 |publisher=Granta Books }}</ref> Will Self called the book "a contemporary work of philosophy devoid of jargon, wholly accessible, and profoundly relevant to the rapidly evolving world we live in" and wrote "I read it once, I read it twice and took notes. I arranged to meet its author so I could publicise the book – I thought it that good."<ref name="independent" /><ref name="strawdogs" />
+
+In 2002 ''Straw Dogs'' was named a book of the year by J. G. Ballard in ''[[The Daily Telegraph]]''; by [[George Walden]] in ''[[The Sunday Telegraph]]''; by Will Self, [[Joan Bakewell]], [[Jason Cowley (journalist)|Jason Cowley]] and [[David Marquand]] in the ''[[New Statesman]]''; by [[Andrew Marr]] in ''[[The Observer]]''; by [[Jim Crace]] in ''[[The Times]]''; by Hugh Lawson Tancred in ''[[The Spectator]]''; by [[Richard Holloway]] in the ''[[Glasgow Herald]]''; and by [[Sue Cook]] in ''[[The Sunday Express]]''.{{citation needed|date=February 2018}}
+
+[[Nassim Nicholas Taleb]] has written that John Gray is the modern thinker for whom he has the most respect, calling him "prophetic".<ref>{{cite web|url=http://grantabooks.com/page/3012/False+Dawn/1302 |title=Granta Books |publisher=Granta Books |access-date=9 August 2013}}</ref>
+
+=== Criticism ===
+Gray's ''[[Straw Dogs (book)|Straw Dogs]]'' has been criticised by [[Terry Eagleton]], who has written: "mixing [[nihilism]] and [[New Age]]ism in equal measure, Gray scoffs at the notion of [[progress (history)|progress]] for 150 pages before conceding that there is something to be said for [[anaesthetics]]. The enemy in his sights is not so much a straw dog as a [[straw man]]: the kind of starry-eyed [[rationalist]] who passed away with [[John Stuart Mill]], but who he has to pretend still rules the world".<ref>{{cite news |first=Terry |last=Eagleton |url= https://www.theguardian.com/books/2002/sep/07/highereducation.news2 |title=Review: Straw Dogs by John Gray |work=The Guardian |date=7 September 2002 |access-date=9 August 2013 |location=London}}</ref>
+
+The academic and author Danny Postel of the [[University of Denver]] also took issue with ''Straw Dogs''. Postel stated that Gray's claim that environmental destruction was the result of humanity's flawed nature would be "welcome news to the captains of industry and the architects of the global economy; the ecological devastation they leave in their wake, according to Gray, has nothing to do with their exploits."<ref name="dp">{{cite journal |first=Danny |last=Postel |url= http://www.thenation.com/article/grays-anatomy?page=0,0 |title=Gray's Anatomy |journal=The Nation |location=New York |date=22 December 2003 |access-date= 25 April 2013}}</ref> Postel also claimed that too much of ''Straw Dogs'' rested on "blanket assertion", and criticised Gray's use of the term "plague of people" as an outdated "[[neo-Malthusian]] persiflage about [[Human overpopulation|overpopulation]]".<ref name="dp" /> Postel strongly condemned Gray for outlining "complete political passivity. There is no point whatsoever in our attempting to make the world a less cruel or more livable place."<ref name="dp" />
+
+In his 2004 book, ''How Mumbo-Jumbo Conquered the World'', the British journalist, writer and broadcaster, [[Francis Wheen]], wrote:{{blockquote|"Conservatives, Marxists, post-modernists and pre-modernists have queued up to take a kick at the bruised ideas of the eighteenth century. The most vicious of these boot-boys is John Gray, professor of European thought at the London School of Economics, who has published dozens of increasingly apocalyptic books and articles on the need to end the Enlightenment project forthwith. Whereas [[Alasdair MacIntyre|MacIntyre]] seeks sanctuary in twelfth-century monasteries, for Gray our only hope of salvation is to embrace Eastern mysticism ... Taoism seems to be his favoured creed but it is hard to interpret Gray's prescriptions with any certainty, partly because of his scattergun style but mostly because he changes his mind so often. A line on the dust-jacket of ''Enlightenment's Wake'' (1995), which says that the book 'stakes out the elements of John Gray's new position' could just as well be appended to everything he writes."<ref>{{Cite book |last=Wheen |first=Francis |title=How Mumbo-Jumbo Conquered the World |publisher=HarperCollinsFourth Estate |year=2004 |isbn=0-00-714097-5 |location=London |pages=187}}</ref> }}
+
+==BBC Radio==
+
+John Gray has made several broadcasts for [[BBC Radio 4]]'s programme ''A Point of View''.
+
+In August and September 2011, he made six broadcasts:
+* ''Greece and the Meaning of Folly'':<ref>{{cite web|url=http://www.bbc.co.uk/programmes/b01391jt |title=BBC Radio 4 – A Point of View, Greece and the Meaning of Folly |publisher=Bbc.co.uk |date=21 August 2011 |access-date=9 August 2013}}</ref> Taking the myth of the [[Trojan Horse]] as his starting point, he explores what he sees as the modern-day folly unfolding in Europe.
+* ''Kim Philby'':<ref>{{cite web|url=http://www.bbc.co.uk/programmes/b013gfnp |title=BBC Radio 4 – A Point of View, Kim Philby |publisher=Bbc.co.uk |date=28 August 2011 |access-date=9 August 2013}}</ref> Why [[Kim Philby]] and so many others failed to predict the future.
+* ''The Revolution of Capitalism'':<ref>{{cite web|url=http://www.bbc.co.uk/programmes/b013r2ld |title=BBC Radio 4 – A Point of View, John Gray: The revolution of capitalism |publisher=Bbc.co.uk |date=4 September 2011 |access-date=9 August 2013}}</ref> Why an increasing number of people believe that [[Karl Marx]] was right.
+* ''Cats, Birds and Humans'':<ref>{{cite web|url=http://www.bbc.co.uk/programmes/b01464ch |title=BBC Radio 4 – A Point of View, Cats, birds and humans |publisher=Bbc.co.uk |date=11 September 2011 |access-date=9 August 2013}}</ref> Why the human animal needs contact with something other than itself.
+* ''Believing in Belief'':<ref>{{cite web|url=http://www.bbc.co.uk/programmes/b014gk72 |title=BBC Radio 4 – A Point of View, Believing in Belief |publisher=Bbc.co.uk |date=18 September 2011 |access-date=9 August 2013}}</ref> Argues that the scientific and rationalist attack on religion is misguided.
+* ''Churchill, Chance and the Black Dog'':<ref>{{cite web|url=http://www.bbc.co.uk/programmes/b014qxc7 |title=BBC Radio 4 – A Point of View, Churchill, chance and the black dog |publisher=Bbc.co.uk |date=25 September 2011 |access-date=9 August 2013}}</ref> The chance encounters that made [[Winston Churchill]] Britain's wartime Prime Minister.
+
+He presented a second sequence from November 2014, sharing his ''Point of View'' on:<ref>{{cite web|title=BBC Radio 4 – A Point of View – Episodes by date, November 2014|url=http://www.bbc.co.uk/programmes/b006qng8/broadcasts/2014/11|website=bbc.co.uk|publisher=BBC|access-date=28 November 2014}}</ref>
+* ''Capitalism and the Myth of Social Evolution''
+* ''Soylent and the Charm of the Fast Lane''
+* ''Dostoevsky and Dangerous Ideas''
+* ''Thinking the Unthinkable''
+
+In March 2023 he made another broadcast:<ref>{{Cite web |title=A Point of View – Proportional Representation and a New Politics – BBC Sounds |url=https://www.bbc.co.uk/sounds/play/m001k856 |access-date=2023-05-08 |website=www.bbc.co.uk |language=en-GB}}</ref>
+
+* ''Proportional Representation and a New Politics''
+
+Other programmes include:
+* "The Dangers of a Higher Education" (23 February 2018)
+* "Teffi: Silver Shoes and the Dream of Revolution" (2 March 2018)
+* "Brexit and Illiberal Europe" (July 2018)<ref>{{Cite web | url=https://www.bbc.co.uk/programmes/b0b9zvtf | title=BBC Radio 4 – A Point of View, Brexit and Illiberal Europe}}</ref>
+
+== Honours ==
+Asteroid [[91199 Johngray]], discovered by astronomer [[Eric Walter Elst]] at ESO's [[La Silla Observatory]] in 1998, was named in his honour.<ref name="MPC-object" /> The official {{MoMP|91199|naming citation}} was published by the [[Minor Planet Center]] on 18 June 2008 ({{small|[[Minor Planet Circulars|M.P.C.]] 63174}}).<ref name="MPC-Circulars-Archive" /> Gray is a member of [[World.minds|World Minds]].
+
+== Books ==
+* {{Cite book |last=Gray |first=John |title=The New Leviathans: Thoughts After Liberalism |publisher=[[Allen Lane]] |year=2023 |isbn=978-0-241-55495-1 |location=London}}
+* {{Cite book |last=Gray |first=John |title=[[Feline Philosophy|Feline Philosophy: Cats and the Meaning of Life]] |publisher=[[Penguin Books]] |year=2021 |isbn=978-0-14-198842-9 |location=London}}
+* {{Cite book |last=Gray |first=John |title=Seven Types of Atheism |publisher=[[Allen Lane]] |year=2018 |isbn=978-0-241-19941-1 |location=London}}
+* {{Cite book |last=Gray |first=John |title=The Soul of the Marionette: A Short Inquiry into Human Freedom |publisher=[[Penguin Books]] |year=2016 |isbn=978-0-241-95390-7 |location=London}}
+* {{Cite book |last=Gray |first=John |title=The Silence of Animals: On Progress and Other Modern Myths |publisher=[[Farrar, Straus and Giroux]] |year=2013 |isbn=978-0-374-22917-7 |location=New York}}
+* {{Cite book |last=Gray |first=John |title=The Immortalization Commission: Science and the Strange Quest to Cheat Death |publisher=[[Farrar, Straus and Giroux]] |year=2011 |isbn=978-0-374-17506-1 |location=New York}}
+* {{Cite book |last=Gray |first=John |title=Gray's Anatomy: Selected Writings |publisher=[[Allen Lane]] |year=2009 |isbn=978-1-84614-191-1 |location=London}}
+** {{Cite book |last=Gray |first=John |title=Gray's Anatomy: Selected Writings |publisher=[[Penguin Books]] |year=2016 |isbn=978-0-14-198111-6 |edition=Rev. |location=London}}
+* {{Cite book |last=Gray |first=John |title=Black Mass: Apocalyptic Religion and the Death of Utopia |publisher=[[Allen Lane]] |year=2007 |isbn=978-0-7139-9915-0 |location=London}}
+* {{Cite book |last=Gray |first=John |title=Heresies: Against Progress and Other Illusions |publisher=[[Granta Books]] |year=2004 |isbn=978-1-86207-718-8 |location=London}}
+* {{Cite book |last=Gray |first=John |title=Al Qaeda and What It Means to Be Modern |publisher=[[The New Press]] |year=2003 |isbn=978-1-56584-805-4 |location=New York}}
+* {{Cite book |last=Gray |first=John |title=[[Straw Dogs (book)|Straw Dogs: Thoughts on Humans & Other Animals]] |publisher=[[Granta Books]] |year=2002 |isbn=978-1-86207-512-2 |location=London}}
+* {{Cite book |last=Gray |first=John |title=Two Faces of Liberalism |publisher=[[Polity Press]] |year=2000 |isbn=978-0-7456-2259-0 |location=Cambridge}}
+* {{Cite book |last=Gray |first=John |title=Voltaire |publisher=[[Routledge]] |year=1999 |isbn=978-0-415-92394-1 |location=London & New York}}
+* {{Cite book |last=Gray |first=John |title=[[False Dawn: The Delusions of Global Capitalism]] |publisher=[[Granta Books]] |year=1998 |isbn=978-1-86207-023-3 |location=London}}
+** {{Cite book |last=Gray |first=John |title=False Dawn: The Delusions of Global Capitalism |publisher=[[Granta Books]] |year=2009 |isbn=978-1-84708-132-2 |edition=Rev.|location=London|url=https://archive.org/details/falsedawndelusio0000gray_v2t9}}
+* {{Cite book |last=Gray |first=John |title=Endgames: Questions in Late Modern Political Thought |publisher=[[Polity Press]] |year=1997 |isbn=978-0-415-17315-5 |location=Cambridge}}
+* {{Cite book |last=Gray |first=John |title=After Social Democracy: Politics, Capitalism and the Common Life |publisher=[[Demos (UK think tank)|Demos]] |year=1996 |isbn=978-1-898309-52-9 |location=London}}
+* {{Cite book |last=Gray |first=John |title=Enlightenment's Wake: Politics and Culture at the Close of the Modern Age |publisher=[[Routledge]] |year=1995 |isbn=978-0-415-12475-1 |location=London & New York}}
+* {{Cite book |last=Gray |first=John |title=Isaiah Berlin |publisher=[[HarperCollins]] |year=1995 |isbn=978-0-00-255582-1 |location=London & New York}}
+* {{Cite book |last=Gray |first=John |title=Post-Liberalism: Studies in Political Thought |publisher=[[Routledge]] |year=1993 |isbn=978-0-415-08873-2 |location=London & New York}}
+* {{Cite book |last=Gray |first=John |title=Beyond the New Right: Markets, Government and the Common Environment |publisher=[[Routledge]] |year=1993 |isbn=978-0-415-09297-5 |location=London & New York}}
+* {{Cite book |last=Gray |first=John |title=Liberalisms: Essays in Political Philosophy |publisher=[[Routledge]] |year=1989 |isbn=978-0-415-00744-3 |location=London & New York}}
+* {{Cite book |last=Gray |first=John |title=Liberalism |publisher=[[University of Minnesota Press]] |year=1986 |isbn=978-0-8166-1521-6 |location=Minneapolis}}
+** {{Cite book |last=Gray |first=John |title=Liberalism |publisher=[[Open University Press]] |year=1998 |isbn=978-0-8166-2801-8 |edition=2nd|location=Milton Keynes}}
+* {{Cite book |last=Gray |first=John |title=Hayek on Liberty |publisher=[[Wiley-Blackwell]] |year=1984 |isbn=978-0-85520-710-6 |location=Hoboken, New Jersey |url= https://archive.org/details/hayekonliberty0000gray_s4a8/page/n5/mode/2up?view=theater |url-access= registration |via = [[Internet Archive]]}}
+** {{Cite book |last=Gray |first=John |title=Hayek on Liberty |publisher=[[Routledge]] |year=1998 |isbn=978-0-415-17315-5 |edition=Rev.|location=London & New York}}
+* {{Cite book |last=Gray |first=John |title=J.S. Mill's On Liberty in Focus |publisher=[[Routledge]] |year=1991 |isbn=978-0-415-01001-6 |location=London & New York}}
+** {{Cite book |last=Gray |first=John |title=Mill on Liberty: A Defence |publisher=[[Routledge]] |year=1996 |isbn=978-0-415-12474-4 |edition=2nd|location=London & New York}}
+* {{Cite book |title=Conceptions of Liberty |publisher=[[Athlone Press]] |year=1984 |isbn=978-0-485-11236-8 |editor-last=Gray |editor-first=John |location=London |editor-last2=Pelczynski |editor-first2=Zbigniew}}
+
+===Film appearances===
+* ''[[Marx Reloaded]]'', [[Arte]], April 2011.
+
+== References ==
+{{Reflist|refs=
+
+<ref name="MPC-object">{{cite web
+  |title      = (91199) Johngray
+  |work       = Minor Planet Center
+  |url        = https://minorplanetcenter.net/db_search/show_object?object_id=91199
+  |access-date = 23 January 2020}}</ref>
+
+<ref name="MPC-Circulars-Archive">{{cite web
+  |title      = MPC/MPO/MPS Archive
+  |work       = Minor Planet Center
+  |url        = https://www.minorplanetcenter.net/iau/ECS/MPCArchive/MPCArchive_TBL.html
+  |access-date = 23 January 2020}}</ref>
+
+}} <!-- end of reflist -->
+
+==Further reading==
+* {{Cite journal |author=Tony Burns |year=1999 |title=John Gray and the Death of Conservatism |volume=5 |issue=1 |journal=Contemporary Politics |pages=7–24 |doi=10.1080/13569779908449987}}
+* {{Cite journal |author=George Crowder |year=2006 |title=Gray and the Politics of Pluralism |journal=Critical Review of International Social and Political Philosophy |volume=9 |issue=2: The Political Theory of John Gray |pages=171–188 |doi=10.1080/13698230600655008 |s2cid=144224371}}
+* Horton, John and [[Glen Newey]], eds. (2007). ''The Political Theory of John Gray''. London: Routledge. {{ISBN|0-415-36647-X}}.
+
+==External links==
+{{Wikiquote}}
+
+===Interviews===
+[https://www.youtube.com/watch?v=6rsGkfngA5M * Interview on Novara Media (2023)]
+* Two-part interview conducted by Henk de Berg (2019).
+** [https://www.youtube.com/watch?v=bFzWtlGJXsY part I: Atheism]
+** [https://www.youtube.com/watch?v=7hC5nXXJrV8 part II: Political populism]
+* [http://thequietus.com/articles/12496-john-gray-silence-of-animals-interview.html Myth Congeniality: John Gray discusses ''The Silence Of Animals''], ''[[The Quietus]]'' 10 June 2013
+* [http://www.abc.net.au/rn/philosopherszone/stories/2008/2284016.htm John Gray radio interview on the 'Philosopher's Zone'], 28 June 2008
+* [https://web.archive.org/web/20120305112447/http://www.psa.ac.uk/psanews/0406/Gray.htm 'Gray on Gray'] ([[American Political Science Association]])
+* [http://www.bbc.co.uk/worldservice/specials/1246_the_forum/page37.shtml Audio: John N. Gray in conversation on the BBC World Service discussion programme] [[The Forum (BBC World Service)|''The Forum'']]
+
+===Reviews of his work===
+* [http://newhumanist.org.uk/1423 AC Grayling reviews ''Black Mass''], ''[[New Humanist]]'' July/August 2007
+* [http://newhumanist.org.uk/536 Ian Hargearves, Professor of Journalism at Cardiff University] reviews ''Straw Dogs''.
+* [[Terry Eagleton]] [http://books.guardian.co.uk/review/story/0,12084,786573,00.html reviews ''Straw Dogs''], ''[[The Guardian]]'' September 2002
+* [http://lareviewofbooks.org/review/john-grays-godless-mysticism-on-the-silence-of-animals Simon Critchley on ''The Silence of Animals'']
+* [https://mises.org/library/grays-progress-liberalisms-enlightenments-wake Jeremy Shearmur ''Gray's Progress: From Liberalisms to Enlightenment's Wake''] The Journal of Libertarian Studies 2007
+
+{{Philosophical pessimism|state=uncollapsed}}
+{{authority control}}
+
+{{DEFAULTSORT:Gray, John}}
+[[Category:1948 births]]
+[[Category:20th-century atheists]]
+[[Category:20th-century British economists]]
+[[Category:20th-century English male writers]]
+[[Category:20th-century English philosophers]]
+[[Category:20th-century English essayists]]
+[[Category:20th-century English historians]]
+[[Category:21st-century atheists]]
+[[Category:21st-century British economists]]
+[[Category:21st-century English male writers]]
+[[Category:21st-century English philosophers]]
+[[Category:21st-century British essayists]]
+[[Category:21st-century English historians]]
+[[Category:Academics of the London School of Economics]]
+[[Category:Academics of the University of Essex]]
+[[Category:Alumni of Exeter College, Oxford]]
+[[Category:Analytic philosophers]]
+[[Category:Anti-globalization activists]]
+[[Category:Anti-globalization writers]]
+[[Category:British atheism activists]]
+[[Category:Atheist philosophers]]
+[[Category:British anti-capitalists]]
+[[Category:British critics of religions]]
+[[Category:Criticism of transhumanism]]
+[[Category:English environmentalists]]
+[[Category:English essayists]]
+[[Category:English male non-fiction writers]]
+[[Category:Environmental writers]]
+[[Category:British epistemologists]]
+[[Category:Fellows of Jesus College, Oxford]]
+[[Category:Harvard University staff]]
+[[Category:Isaiah Berlin scholars]]
+[[Category:Living people]]
+[[Category:New Statesman people]]
+[[Category:Ontologists]]
+[[Category:People from South Shields]]
+[[Category:British philosophers of culture]]
+[[Category:Philosophers of economics]]
+[[Category:British philosophers of education]]
+[[Category:British philosophers of mind]]
+[[Category:Philosophers of pessimism]]
+[[Category:British philosophers of science]]
+[[Category:Philosophers of social science]]
+[[Category:Philosophers of technology]]
+[[Category:Philosophers of war]]
+[[Category:Philosophy writers]]
+[[Category:English political philosophers]]
+[[Category:Theorists on Western civilization]]
+[[Category:Writers about activism and social change]]
+[[Category:Writers about globalization]]
+[[Category:Writers about religion and science]]
+[[Category:Member of the Mont Pelerin Society]]
+[[Category:Utopian studies scholars]]

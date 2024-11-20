@@ -1,0 +1,85 @@
+{{short description|American philosopher|bot=PearBOT 5}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[Contemporary philosophy]]
+| image            = 
+| caption          = 
+| name             = Scott Soames
+| birth_date       = 1945
+| education        = [[Stanford University]] <small>([[Bachelor of Arts|BA]])</small><br>[[Massachusetts Institute of Technology]] <small>([[PhD]], 1976)</small>
+| school_tradition = [[Analytic philosophy|Analytic]]
+| main_interests   = [[Philosophy of language]]
+| notable_ideas    = The basic [[Representationalism|representational]] phenomenon (having a [[belief]]) is explicit [[Predicate (mathematical logic)|predication]] (explicitly accepting a certain predication)<ref>Mark Richard, ''Truth and Truth Bearers: Meaning in Context, Volume 2'', Oxford University Press, 2015, p. 152.</ref><br>Criticism of [[two dimensionalism]]
+| institutions     = [[University of Southern California]]
+| thesis_title      = A Critical Examination of Frege's Theory of Presupposition and Contemporary Alternatives
+| thesis_url        = https://dspace.mit.edu/handle/1721.1/38231
+| thesis_year       = 1976
+| doctoral_advisor  = Sylvain Bromberger
+}}
+
+'''Scott Soames''' ({{IPAc-en|s|oʊ|m|z}}; born 1945) is an American philosopher. He is a professor of [[philosophy]] at the [[University of Southern California]] (since 2004), and before that at [[Princeton University]]. He specializes in the [[philosophy of language]] and the history of [[analytic philosophy]]. He is well known for defending and expanding on the program in the philosophy of language started by [[Saul Kripke]] as well as being a major critic of [[Two dimensionalism|two-dimensionalist]] theories of meaning.
+
+==Life and career==
+Scott Soames was born in 1945. He did his undergraduate work in philosophy at [[Stanford University]] and his graduate work at the [[Massachusetts Institute of Technology]] (MIT) in [[linguistics]] and philosophy. He received his Ph.D. in philosophy from MIT in 1976.<ref name="usc">From Soames's [https://web.archive.org/web/20051228135502/http://www-rcf.usc.edu/~soames/ web page at USC].</ref>
+
+Soames taught briefly at [[Yale University]] (from 1976 to 1980) and, then, from 1980 to 2004 at [[Princeton University]].<ref name="usc"/> His departure from Princeton in 2004 was seen as a major loss at the philosophy department there. [[Gilbert Harman]], one of Soames's colleagues, was quoted at the time saying that "He's one of the most distinguished people we've got."<ref>The ''Daily Princeton'', [http://www.dailyprincetonian.com/archives/2004/03/08/news/9870.shtml "Soames leaves for USC, weakening philosophy dept."] {{webarchive|url=https://web.archive.org/web/20061020030203/http://www.dailyprincetonian.com/archives/2004/03/08/news/9870.shtml |date=2006-10-20 }}, March 8, 2004.</ref> Since 2004, he has been a professor at the [[University of Southern California]], Department of Philosophy. He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 2010.<ref>[https://dornsife.usc.edu/news/stories/716/braudy-soames-elected-to-american-academy-of-arts-and-sciences/ dornsife.usc.edu]</ref>
+
+Soames is a public advocate and supporter of [[Donald Trump]].<ref>{{cite web |last1=Buskirk |first1=Chris |title=Scholars & Writers for Trump |url=https://amgreatness.com/2016/09/28/writes-scholars-for-trump/ |website=American Greatness |access-date=16 September 2019}}</ref>
+
+==Philosophical work==
+Soames specializes in the [[philosophy of language]] and the history of [[analytic philosophy]]. He has published books and articles primarily on issues concerning [[truth]], [[reference]], and meaning. Fairly early in his career, he and [[Nathan Salmon]] edited a book entitled ''Propositions and Attitudes'' (1989), a collection of readings that investigates philosophical issues surrounding the nature of propositions. Later in his career, Soames has been known for expanding on the anti-descriptivist philosophy of language developed by [[Saul Kripke]] in ''Naming and Necessity'' (1972/1980)—see Soames's ''Beyond Rigidity: The Unfinished Semantic Agenda of 'Naming and Necessity''' (2002). He is also a major critic of [[Two dimensionalism|two-dimensionalist]] theories of [[semantics]]—see his ''Reference and Description: The Case against Two-Dimensionalism'' (2005).
+
+''Philosophical Analysis in the Twentieth Century'' (2003), his two-volume history of analytic philosophy developed from a lecture course regularly given at Princeton, has been the subject of significant controversy among historians of analytic philosophy, with exchanges, often heated, on the ''Notre Dame Philosophical Review'', [[Brian Weatherson]]'s [[blog]], the journal ''The Philosophical Quarterly'', and Soames's own web page.<ref>See, e.g., Soames's [https://web.archive.org/web/20060903220904/http://www-rcf.usc.edu/~soames/replies/Rep_APA.pdf "Reply to Critics of ''Philosophical Analysis in the Twentieth Century'': Christopher Pincock, Thomas Hurka, Michael Kremer, and Paul Horwich"]; https://dornsife.usc.edu/assets/sites/678/docs/Replies/Rep__Philosophical_Ayalysis.pdf</ref>
+
+==Selected publications==
+The following are ''partial'' lists of publications by Scott Soames:
+
+===Books===
+* (1989) ''Propositions and Attitudes'', edited with [[Nathan Salmon]] (Oxford University Press).
+* (1999) ''Understanding Truth'' (Oxford University Press). ([https://books.google.com/books/about/Understanding_Truth.html?id=LQ0nSJtm4KYC Online].)
+* (2002) ''Beyond Rigidity: The Unfinished Semantic Agenda of 'Naming and Necessity''' (Oxford University Press).
+* (2003) ''Philosophical Analysis in the Twentieth Century, Volumes 1: The Dawn of Analysis'' and ''Volume 2: The Age of Meaning'' ([[Princeton University Press]]). (Online version: [https://books.google.com/books/about/Philosophical_Analysis_in_the_Twentieth.html?id=V_rtVssSus4C Vol. 1] and [https://books.google.com/books/about/Philosophical_Analysis_in_the_Twentieth.html?id=xg8EEZsQnU8C Vol. 2].)
+* (2005) ''Reference and Description: The Case against Two-Dimensionalism'' (Princeton University Press).
+* (2010) ''Philosophy of Language'' (Princeton University Press)
+* (2010) ''What is Meaning?'' (Princeton University Press)
+* (2015) ''Rethinking Language, Mind and Meaning'' (Princeton University Press)
+* (2019) ''The World Philosophy Made: From Plato to the Digital Age'' (Princeton University Press)
+
+===Articles===
+* (1973) "Tacit Knowledge", ''The Journal of Philosophy'', Vol. 70, No. 11., pp.&nbsp;318–330 (with Christina Graves, Jerrold J. Katz, Yuji Nishiyama, Robert Stecker, and Peter Tovey).
+* (1983) "Generality, Truth Functions, and Expressive Capacity in the Tractatus", ''The Philosophical Review'', Vol. 92, No. 4., pp.&nbsp;573–589.
+* (1984) "What is a Theory of Truth?", ''The Journal of Philosophy'', Vol. 81, No. 8., pp.&nbsp;411–429.
+* (1989) "Semantics and Semantic Competence", ''Philosophical Perspectives'', Vol. 3, pp.&nbsp;575–596.
+* (1994) "Attitudes and Anaphora", ''Philosophical Perspectives'', Vol. 8, pp.&nbsp;251–272.
+* (1997) "The Truth about Deflationism", ''Philosophical Issues'', Vol. 8, pp.&nbsp;1–44.
+* (1998) "The Modal Argument: Wide Scope and Rigidified Descriptions", ''Noûs'', Vol. 32, No. 1., pp.&nbsp;1–22.
+* (1998) "Facts, Truth Conditions, and the Skeptical Solution to the Rule-Following Paradox", ''Noûs'', Vol. 32, pp.&nbsp;313–348.
+* (1999) "The Indeterminacy of Translation and the Inscrutability of Reference", ''Canadian Journal of Philosophy'', Vol. 29, No. 3, pp.&nbsp;321–370.
+
+==See also==
+*[[American philosophy]]
+*[[List of American philosophers]]
+
+==Notes and references==
+{{reflist}}
+
+==External links==
+* [http://dornsife.usc.edu/scottsoames Scott Soames, USC] - his web site at USC.
+* [https://web.archive.org/web/20061020030203/http://www.dailyprincetonian.com/archives/2004/03/08/news/9870.shtml "Soames leaves for USC, weakening philosophy dept."] - the ''Daily Princeton'' of March 8, 2004.
+* [http://hardproblem.ru/interview/interviewwithscottsoames/lang-pref/en/ ''The Moscow Center for Consciousness Studies'' video interview with Scott Soames] May 27, 2010.
+* [http://www.3ammagazine.com/3am/on-the-analytic-philosophers-language-and-kripkes-unfinished-business/ Interview with 3:AM Magazine]
+* [http://www.whatisitliketobeaphilosopher.com/scott-soames/ Interview with ''What Is it Like to be a Philosopher''?]
+* [http://www.ideasroadshow.com/issues/scott-soames-2015-01-14 "The Passions of Logic: Appreciating Analytic Philosophy – A conversation with Scott Soames"], ''Ideas Roadshow'', 2016
+
+{{Philosophy of language}}
+{{Authority control}}
+
+{{DEFAULTSORT:Soames, Scott}}
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:21st-century American philosophers]]
+[[Category:20th-century American philosophers]]
+[[Category:Analytic philosophers]]
+[[Category:American philosophers of language]]
+[[Category:American historians of philosophy]]
+[[Category:University of Southern California faculty]]

@@ -1,0 +1,39 @@
+{{short description|Scottish philosopher (1672–1729)}}
+{{Use dmy dates|date=March 2017}}
+{{Use British English|date=March 2017}}
+{{Infobox philosopher|alma_mater=[[university of Edinburgh|Edinburgh University]]|school_tradition=[[Scottish school of philosophy]]|notable_works={{hlist|''Breviuscula Introductio ad Logicam''|''Synopsis Theologiae Naturalis''}}}}
+'''Gershom Carmichael''' (1672&ndash;1729) was a Scottish philosopher.
+
+Gershom Carmichael was a Scottish subject born in [[London]], the son of Alexander Charmichael, a [[Church of Scotland minister]] who had been [[Exile|banished]] by the [[Scottish privy council]] for his religious opinions. As a child, he suffered from crooked limbs (probably [[rickets]]) and was treated by "body menders" who made him wear limb braces. Through his friendship with the [[Duke of Hamilton]],{{who|date=October 2023}} Carmichael visited [[Bath, Somerset|Bath]] to take the waters and he was eventually able to dispense with the braces.<ref>Peirce, R.  "Memoirs of the Bath". Bath.  1713</ref>
+
+Carmichael graduated at [[university of Edinburgh|Edinburgh University]] in 1691, and became a [[Governance of the University of St Andrews|regent]] at [[St Andrews]]. In 1694 he was elected a master in the [[university of Glasgow]] – an office that was converted into the [[Professor of Moral Philosophy, Glasgow|professorship of moral philosophy]] in 1727, when the system of masters was abolished at Glasgow.  He died in [[Glasgow]].{{sfn|Chisholm|1911}}
+
+[[Sir William Hamilton, 9th Baronet|Sir William Hamilton]] regarded him as "the real founder of the [[Scottish school of philosophy]]".{{sfn|Chisholm|1911}} He wrote ''Breviuscula Introductio ad Logicam'', a treatise on [[logic]] and the [[psychology]] of the intellectual powers, combining [[Antoine Arnauld|Arnauld]] and [[Pierre Nicole|Nicole]] with [[John Locke|Locke]];<ref name=CHECP>
+{{Citation
+ | last=Haakonssen
+ | first=Knud
+ | year=2006
+ | contribution=Carmichael, Gershom
+ | editor-last=Haakonssen
+ | editor-first=Knud
+ | title=The Cambridge History of Eighteenth-Century Philosophy
+ | publisher=Cambridge University Press
+ | volume=2
+ | pages=1158–9
+}}</ref> ''Synopsis Theologiae Naturalis''; and an edition of [[Samuel Pufendorf|Pufendorf]], ''De Officio Hominis et Civis'', with notes and supplements of high value. His son Frederick was the author of ''Sermons on Several Important Subjects'' and ''Sermons on Christian Zeal'', both published in 1753.{{sfn|Chisholm|1911}}
+
+==References==
+{{reflist}}
+*{{EB1911|wstitle=Carmichael, Gershom|volume=5|page=359}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Carmichael, Gershom}}
+[[Category:1672 births]]
+[[Category:1729 deaths]]
+[[Category:Scottish philosophers]]
+[[Category:Anglo-Scots]]
+[[Category:Writers from London]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Academics of the University of St Andrews]]
+[[Category:Academics of the University of Glasgow]]

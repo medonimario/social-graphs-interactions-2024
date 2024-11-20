@@ -1,0 +1,43 @@
+{{short description|Dutch philosopher}}
+[[File:Regius, Henricus – Philosophia naturalis, 1661 – BEIC 3881650.jpg|thumb|Henricus Regius portrayed in his ''Philosophia naturalis'', 1661]]
+'''Henricus Regius''' ({{IPAc-en|ˈ|r|iː|dʒ|i|ə|s}}; July 29, 1598 – February 19, 1679) was a Dutch philosopher, physician, and professor of medicine at the [[University of Utrecht]] from 1638.<ref>{{cite book |title=The Biographical Encyclopedia of Astronomers |last=Hockey |first=Thomas |year=2009 |publisher=[[Springer Publishing]] |isbn=978-0-387-31022-0 |access-date=August 22, 2012 |url=http://www.springerreference.com/docs/html/chapterdbid/59159.html}}</ref>
+
+==Biography==
+Regius was born in [[Utrecht (city)|Utrecht]], and was also known by his birth name, '''''Hendrik de Roy''''', or by its French rendering, ''Henri Le Roy''.  He studied [[liberal arts]] at the [[University of Franeker]] and medicine at [[Groningen University]], [[Leiden University]], and subsequently at the Universities of [[University of Montpellier|Montpellier]] and [[University of Padua|Padua]].
+
+He was a vocal proponent of [[Cartesianism]], and corresponded frequently with [[René Descartes]].<ref>{{Cite book
+  | last = Copleston
+  | first = Frederick Charles
+  | author-link = Frederick Copleston
+  | title = A history of philosophy, Volume 4
+  | publisher = Continuum International
+  | year = 2003
+  | location = 
+  | page = 174
+  | url = https://books.google.com/books?id=ZtDGtgARkzMC&pg=PA174
+  | doi = 
+  | id = 
+  | isbn = 978-0-8264-6898-7}}</ref> He was the author of a textbook of natural philosophy, ''Fundamenta Physices''.
+
+He died in Utrecht.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://dspace.library.uu.nl/handle/1874/88 The Correspondence between Descartes and Henricus Regius] (in French, with commentary in English)
+*{{cite SEP |url-id=henricus-regius |title=Henricus Regius |last=Clarke |first=Desmond |author-link=Desmond Clarke}}
+*[http://www.genealogy.math.ndsu.nodak.edu/id.php?id=115030 The Mathematics Genealogy Project - Henricus Regius]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Regius, Henricus}}
+[[Category:1598 births]]
+[[Category:1679 deaths]]
+[[Category:17th-century Dutch physicians]]
+[[Category:17th-century Dutch philosophers]]
+[[Category:Physicians from Utrecht (city)]]
+[[Category:Academic staff of Utrecht University]]
+
+
+{{philosopher-stub}}

@@ -1,0 +1,87 @@
+{{Short description|Austrian-born American philosopher (1906-1987)}}
+{{For|the German Unteroffizier in the Wehrmacht|Gustav Bergmann (soldier)}}
+{{Infobox philosopher
+|region = [[Western philosophy]]
+|era   = [[20th-century philosophy]]
+|image = GustavBergmann berg1.jpg
+|caption = 
+|birth_date  = {{birth date|1906|5|4|df=y}}
+|birth_place = [[Vienna]], [[Austria-Hungary]]
+|death_date  = {{death date and age|1987|4|21|1906|5|4|df=y}}
+|death_place = [[Iowa City]], U.S.
+|alma_mater  = [[University of Vienna]]
+|institutions     = [[University of Iowa]]
+|school_tradition = [[Analytic philosophy]]<br>[[Vienna Circle]]<br>[[Logical positivism]] (1950s)<br>[[Metaphysical realism]] (1960s)<ref>[https://www.ontology.co/biblio/bergmanng.htm "The Ontological Realism of Gustav Bergmann" (Ontology: Theory and History)]</ref>
+|main_interests   = [[Philosophy of science]]
+|notable_ideas    = Coining the term "[[linguistic turn]]"<ref>Neil Gross, ''Richard Rorty: The Making of an American Philosopher'', University Of Chicago Press, 2008, p. xxix.</ref>
+|influences = [[Walther Mayer]], [[Moritz Schlick]], [[Friedrich Waismann]], [[Rudolf Carnap]]
+|influenced = [[Berlin Circle]], [[Vienna Circle]], [[John O'Neill (philosopher)|John O'Neill]]
+}}
+'''Gustav Bergmann''' (May 4, 1906&nbsp;– April 21, 1987) was an Austrian-born American philosopher. He studied at the [[University of Vienna]] and was a member of the [[Vienna Circle]]. Bergmann was influenced by the philosophers [[Moritz Schlick]], [[Friedrich Waismann]], and [[Rudolf Carnap]], who were members of the Circle.<ref>[https://clas.uiowa.edu/philosophy/resources/gustav-bergmann "Gustav Bergmann" (clas.uiowa.edu)]</ref> In the [[United States]], he was a professor of [[philosophy]] and [[psychology]] at the [[University of Iowa]].
+
+== Biography ==
+Bergmann was born in [[Vienna]], [[Austria-Hungary]]. He earned his Ph.D. in mathematics at the [[University of Vienna]] in 1928. His dissertation, directed by [[Walther Mayer]], was titled ''Zwei Beiträge zur mehrdimensionalen Differentialgeometrie''. While studying for his [[doctorate]], he was invited to join the [[Vienna Circle]], a group of philosophers, mathematicians, scientists, and others committed to a scientific worldview under the name of [[logical positivism]]. In 1930–31, he worked with [[Albert Einstein]] in Berlin. Unable as a Jew to find academic employment, Bergmann obtained a [[Juris Doctor|J.D.]] degree from the University of Vienna in 1935, and practiced [[corporate law]] until he and his family fled to the United States in 1938. Settling at the [[University of Iowa]] in [[Iowa City]] in 1939, Bergmann eventually became professor of both philosophy and psychology.
+
+He died in Iowa City.
+
+== Bibliography ==
+* ''The Metaphysics of Logical Positivism''. New York: Longmans, Green & Co. 1954. (Second edition: Madison, [[University of Wisconsin Press]], 1967.)
+* ''Philosophy of Science''. Madison: University of Wisconsin Press 1957.
+* ''Meaning and Existence''. Madison: University of Wisconsin Press 1959.
+* ''Logic and Reality''. Madison: University of Wisconsin Press 1964.
+* ''Realism: A Critique of Brentano and Meinong''. Madison: University of Wisconsin Press 1967.
+* ''New Foundations of Ontology''. Madison: University of Wisconsin Press 1992. Edited by William Heald.
+* ''Collected Works. Vol I. II''. Frankfurt am Main: Ontos Verlag 2003.
+
+== See also ==
+* [[American philosophy]]
+* [[List of American philosophers]]
+
+== References ==
+{{reflist}}
+
+== References ==
+*  ''Ontology and Analysis: Essays and Recollections about Gustav Bergmann'', edited by Laird Addis, Greg Jesson, and Erwin Tegtmeier, Frankfurt: Ontos Verlag, 2007.
+*  ''Fostering the Ontological Turn: Gustav Bergmann (1906–1987), ''edited by Rosaria Egidi and Guido Bonino, Frankfurt: Ontos Verlag, 2008.
+*  ''Gustav Bergmann: Phenomenological Realism and Dialectical Ontology, ''edited by Bruno Langlet and Jean-Maurice Monnoyer, Frankfurt: Ontos Verlag, 2009.
+* ''The Ontological Turn: Studies in the Philosophy of Gustav Bergmann,'' edited by Moltke Gram and Elmer Klemke, Iowa City: University of Iowa Press, 1974.
+*  ''The Positivist and the Ontologist: Bergmann, Carnap, and Logical Realism, ''by Herbert Hochberg, Amsterdam: Rodopi, 2001.
+
+== External links ==
+* [http://collguides.lib.uiowa.edu/?RG99.0134 Bergmann archives]
+* [http://clas.uiowa.edu/philosophy/about/gustav-bergmann Bergmann pictures, biography, bibliography]
+* [http://digital.lib.uiowa.edu/bai/heald.htm Heald on Bergmann]
+* [http://www.hist-analytic.com/Bergmannintro.htm Hochberg on Bergmann]
+* [http://www.ontology.co/bergmanng.htm Theory and History of Ontology on Bergmann]
+* [http://www.philosophypages.com/ph/berg.htm Philosophy Pages on Bergmann]
+
+{{philosophy of language}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bergmann, Gustav}}
+
+[[Category:1906 births]]
+[[Category:1987 deaths]]
+[[Category:20th-century American lawyers]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century Austrian lawyers]]
+
+[[Category:American male non-fiction writers]]
+[[Category:Jewish emigrants from Austria after the Anschluss to the United States]]
+[[Category:Analytic philosophers]]
+[[Category:Austrian Jews]]
+[[Category:Austrian male writers]]
+[[Category:Austrian philosophers]]
+[[Category:Jewish American academics]]
+[[Category:Jewish philosophers]]
+[[Category:Linguistic turn]]
+[[Category:Ontologists]]
+[[Category:Philosophers from Iowa]]
+[[Category:Philosophers of science]]
+[[Category:University of Iowa faculty]]
+[[Category:University of Vienna alumni]]
+[[Category:Vienna Circle]]
+[[Category:Writers from Vienna]]

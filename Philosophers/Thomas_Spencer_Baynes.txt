@@ -1,0 +1,46 @@
+{{Short description|English philosopher}}
+{{Use British English|date=October 2017}}
+{{Infobox person 
+|name = Thomas Spencer Baynes 
+|image = Thomas Spencer Baynes.jpg
+|caption = Portrait of Thomas Spencer Baynes, painted in 1888 
+|birth_date = {{birth date|1823|3|24|df=yes}} 
+|birth_place = [[Wellington, Somerset]], [[England]] 
+|death_date = {{death date and age|1887|5|31|1823|3|24|df=yes}} 
+|death_place = [[London, England]]
+|nationality = [[England|English]]
+|occupation = philosopher, literary critic}}
+
+'''Thomas Spencer Baynes''' (24 March 1823 – 31 May 1887) was an English [[philosopher]].
+
+==Life==
+Baynes was born in [[Wellington, Somerset]] to a [[Baptist]] minister.<ref>{{Cite web|title=Thomas Spencer Baynes {{!}} British scholar and editor {{!}} Britannica|url=https://www.britannica.com/biography/Thomas-Spencer-Baynes|access-date=2021-12-11|website=www.britannica.com|language=en}}</ref> He intended to study for Baptist ministry, and was at a theological seminary at [[Bath, Somerset|Bath]] with that view but, being strongly attracted to philosophical studies, left it and went to [[University of Edinburgh|Edinburgh]], where he became the favourite pupil of [[Sir William Hamilton, 9th Baronet|Sir William Hamilton]], of whose philosophical system he continued an adherent.{{sfn|Cousin|1910}}
+
+After working as editor of a newspaper in Edinburgh, and after an interval of rest rendered necessary by a breakdown in health, Baynes resumed journalistic work in 1858 as assistant editor of the ''[[Daily News (London)|Daily News]]''. In 1864 he was appointed Professor of [[Logic]] and [[English Literature]] at [[St Andrews University]], in which capacity his mind was drawn to the study of [[Shakespeare]], and he contributed to the ''[[Edinburgh Review]]'' and ''[[Fraser's Magazine]]'' valuable papers (chiefly relating to his vocabulary and the extent of his learning) afterwards collected as ''[[Shakespeare Studies]]''.{{sfn|Cousin|1910}}
+
+In 1873, he was appointed to superintend the ninth edition of the ''[[Encyclopædia Britannica]]'', a task with which, after 1880, he was assisted by [[William Robertson Smith]].{{sfn|Cousin|1910}} Baynes was the first English-born editor of the ''Britannica''; all earlier editors were Scottish.
+
+==Notes==
+{{reflist}}
+
+== References ==
+*{{Cite SBDEL|wstitle=Baynes, Thomas Spencer}}
+*{{cite EB1911|wstitle=Baynes, Thomas Spencer}}
+*{{cite DNBSupp|wstitle=Baynes, Thomas Spencer |first=Richard|last= Garnett}}
+*{{cite ODNB|first=Robert|last= Crawford|title=Baynes, Thomas Spencer (1823–1887)|id=1783}}
+
+== External links ==
+* {{Wikisource author-inline}}
+* [http://www.1902encyclopedia.com 1902 Encyclopedia] - Articles and illustrations from ''Encyclopædia Britannica'', 9th Edition, of which Baynes was joint editor
+
+{{Authority control}}
+
+{{Use dmy dates|date=April 2017}}
+
+{{DEFAULTSORT:Baynes, Thomas Spencer}}
+[[Category:Encyclopædia Britannica]]
+[[Category:1823 births]]
+[[Category:1887 deaths]]
+[[Category:People from Wellington, Somerset]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Academics of the University of St Andrews]]

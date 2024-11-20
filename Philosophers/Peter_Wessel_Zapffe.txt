@@ -1,0 +1,158 @@
+{{Short description|Norwegian philosopher (1899–1990)}}
+{{Use dmy dates|date=September 2022}}
+
+{{Infobox philosopher
+| name              = Peter Wessel Zapffe
+| image             = Portrait of Peter Wessel Zapffe.jpg
+| alt               = 
+| caption           = Zapffe in 1949
+| birth_date        = {{birth date|1899|12|18|df=y}}
+| birth_place       = [[Tromsø]], Norway
+| death_date        = {{death date and age|1990|10|12|1899|12|18|df=y}}
+| death_place       = [[Asker]], Norway
+| spouse            = {{Plainlist|
+* {{marriage|Bergliot Espolin Johnson|1935|1941|end=div.}}
+* {{marriage|Berit Riis Christensen|1952}}
+}}
+| alma_mater        = [[University of Oslo]]
+| notable_works     = {{Plainlist|
+* "[[The Last Messiah]]"
+* ''Om det tragiske''
+}}
+| awards            = [[Fritt Ord Honorary Award]] (1987)<ref name="bio" />
+| signature         = 
+| signature_size    = 
+| signature_alt     = 
+| era               = [[20th-century philosophy]]
+| school_tradition  = {{Plainlist|
+* [[Continental philosophy]]
+* [[Biosophy]]
+* [[Philosophical pessimism]]
+}}
+| institutions      = 
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| language          = Norwegian
+| main_interests    = [[Metaphysics]], [[nihilism]], philosophical pessimism
+| notable_ideas     = {{Plainlist|
+* [[Antinatalism]]
+* [[Biosophy]]
+* "The Last Messiah"
+* [[The Last Messiah#Remedies against panic|Remedies against panic]]
+*
+}}
+| influences        = {{Hlist|[[Henrik Ibsen]]|[[Henri-Frédéric Amiel]]|[[Friedrich Nietzsche]]|[[Arthur Schopenhauer]]|[[Sigmund Freud]]|[[Jakob Johann von Uexküll]]<ref name="bio" />}}
+| influenced        = {{Hlist|[[Herman Tønnessen]]|[[Thomas Ligotti]]}}
+|occupation=Philosopher, author, artist, lawyer, mountaineer}}
+
+'''Peter Wessel Zapffe''' (18 December 1899&nbsp;– 12 October 1990) was a [[Norwegian people|Norwegian]] philosopher, author, artist, lawyer and [[mountaineer]]. He is often noted for his [[Philosophical pessimism|philosophically pessimistic]] and [[fatalism|fatalistic]] view of human [[existence]].<ref name=":0">{{Cite web|url=https://philosophynow.org/issues/45/The_View_from_Mount_Zapffe|title=The View from Mount Zapffe|last=Tangenes|first=Gisle R.|date=March–April 2004|website=Philosophy Now|access-date=2020-04-12}}</ref> His system of philosophy was inspired by the German philosopher [[Arthur Schopenhauer]], as well as his firm advocacy of [[antinatalism]].<ref>Zapffe remarked that children are brought into the world without consent or forethought: "In accordance with my conception of life, I have chosen not to bring children into the world. A coin is examined, and only after careful deliberation, given to a beggar, whereas a child is flung out into the cosmic brutality without hesitation." [https://www.youtube.com/watch?v=u4m6vvaY-Wo&t=1938s The Humorous Pessimist] (1990 documentary, subtitled in English) by [[NRK]], 32:18-32:44. [https://tv.nrk.no/program/FTRO70003090 Original source] (in Norwegian).</ref> His thoughts regarding the error of human life are presented in the essay "[[The Last Messiah]]" ("Den sidste Messias", 1933).<ref>{{cite web |last1=Zapffe |first1=P.W. |title=The Last Messiah |date=25 November 2016 |url=http://www.aft3r.us/the-last-messiah |publisher=After us}}</ref> This essay is a shorter version of his best-known work, the philosophical treatise ''On the Tragic'' (''Om det tragiske'', 1941).<ref name=":0" />
+
+== Philosophical work ==
+Zapffe's view is that humans are born with an overdeveloped consciousness (self-reflection, self-knowledge) which does not fit into [[nature]]'s design. The human craving for justification on matters such as life, death and meaning cannot be satisfied, hence [[Human|humanity]] has a need that life cannot fully satisfy. The tragedy, following this theory, is that humans spend their time trying to dull their consciousness, to escape the burdens of existential reflection. The human being is thus a [[paradox]], given that self-reflection is one of the prime attributes associated with human consciousness. Death anxiety is a major part of this reflection, according to Zapffe, and the human being is unique among living beings in the ability to reflect on their own forthcoming death.
+
+In "The Last Messiah", Zapffe described four principal defense mechanisms that humankind uses to avoid facing this paradox:
+
+*[[Emotional isolation|Isolation]] is "a fully arbitrary dismissal from consciousness of all disturbing and destructive thought and feeling".<ref name=":1">{{Cite web|url=https://philosophynow.org/issues/45/The_Last_Messiah|title=The Last Messiah|last=Zapffe|first=Peter Wessel|date=March–April 2004|website=Philosophy Now|access-date=2020-04-12}}</ref>
+*[[Anchoring effect|Anchoring]] is the "fixation of points within, or construction of walls around, the liquid fray of consciousness".<ref name=":1" /> The anchoring mechanism provides individuals with a value or an ideal to consistently focus their attention on. Zapffe also applied the anchoring principle to society and stated that "God, the Church, the State, [[morality]], fate, the laws of life, the people, the future"<ref name=":1" /> are all examples of collective primary anchoring firmaments.
+*[[Distraction]] is when "one limits attention to the critical bounds by constantly enthralling it with impressions".<ref name=":1" /> Distraction focuses all of one's energy on a task or idea to prevent the mind from turning in on itself.
+*[[Sublimation (psychology)|Sublimation]] is the refocusing of energy away from negative outlets, toward positive ones. The individuals distance themselves and look at their existence from an aesthetic point of view (e.g., writers, poets, painters). Zapffe himself pointed out that his produced works were the product of sublimation.
+On the occasion of the 65th birthday of the Norwegian–Canadian philosopher [[Herman Tønnessen]], the book ''I Choose the Truth. A Dialogue Between Peter Wessel Zapffe and Herman Tønnessen'' (1983) was published. The two had known each other already for many years. Tønnessen had studied at the [[University of Oslo]] together with [[Arne Næss]].<ref name=":2">{{Cite book |last=Haave |first=Jørgen |url=https://www.worldcat.org/oclc/44854528 |title=Naken under kosmos: Peter Wessel Zapffe, en biografi |publisher=Pax |year=1999 |isbn=82-530-2117-8 |location=Oslo |oclc=44854528}}</ref>
+
+== Other interests and works ==
+Zapffe was a prolific [[Mountaineering|mountaineer]] and took a very early interest in [[environmentalism]]; this form of [[nature conservation]]ism sprung from the intent, not of [[protection of nature|protecting nature]], but to avoid human [[enculturation|culturalization]] of nature.<ref>{{Cite web|url=https://openairphilosophy.org/wp-content/uploads/2019/06/OAP_Zapffe_Gausta.pdf|title=Parting with Gausta|last=Zapffe|first=Peter Wessel|date=1969|website=Open Air Philosophy}}</ref>
+
+Zapffe was the author of many humorous short stories about climbing and other adventures in nature.<ref>{{Cite web|url=https://openairphilosophy.org/wp-content/uploads/2019/06/OAP_Zapffe_Stetind.pdf|title=Stetind|last=Zapffe|first=Peter Wessel|date=1937|website=Open Air Philosophy}}</ref>
+
+== Personal life ==
+Son of the apothecary Fritz Gottlieb Zapffe and Gudrun Wessel, Zapffe was related on his maternal side to the Danish-Norwegian admiral [[Peter Tordenskjold]].<ref name=":2" />
+[[File:Arne Næss - ny rute går i hele venstre profil (mot luften). 1937. Tysfjord, Stetind.jpg|alt=Ascent to the Stetind with Arne Næss, 1937. Photographic work|thumb|220x220px|Ascent to the [[Stetind]] with [[Arne Næss]], 1937]]
+In [[Oslo|Kristiania]], in 1921, Zapffe learned for the first time about mountaineering, beginning with climbing challenges in Bærum, in Kolsås, the first mountain he climbed. In 1924 he was the first person to climb the top of Tommeltott in Ullsfjorden; in 1925, the Småting (south side) in Kvaløya; and the Bentsjordtind between Malangen and Balsfjorden. And in the same year: Okshorn, Snekollen and Mykkjetind were climbed. In 1926 it was a summit in Senja and also the Hollenderan summit in Kvaløya, first trodden by him: in 1987 the highest peak of the Hollenderan in Kvaløya was named after him. Today the summit is called "Zapffes tind" ('the top of Zapffe'). In 1928, Zapffe climbed the first summit of Skamtinden and was also the first to climb the front side of Svolværgeita.<ref name=":2" />
+
+In 1940 Zapffe applied to the [[Norsk Tindeklub]]b but was rejected. However, in 1965 he was accepted into a mountaineering society but as an honorary member, and again in 1987 in a mountaineering club from Tromsø.<ref name=":2" />
+
+In 1928, due to a storm, [[Umberto Nobile]]'s zeppelin, the ''Italia'', [[Italia (airship)#Crash|crashed]] on the way back to Italy. [[Roald Amundsen]] (a friend of the Zapffe family) and Zapffe assisted in the rescue of the zeppelin crew. There, Zappfe served as interpreter for the expedition. Later on the [[icebreaker]] DS «Isbjørn», Zapffe served as German interpreter, his father was also on board: the expedition was then to search for the missing Amundsen, but was unsuccessful.{{Citation needed|date=July 2022}}
+
+Zapffe left Tromsø on June 5, 1929. He found a room on Erling Skjalgssøns street in Kristiania, living quite frugally and in a mentally catastrophic state: "The idea of death as the greatest consolation and escape, and which is always at hand, penetrates me with even greater force".<ref name=":2" />
+
+Similar to [[Emil Cioran]], he lived from 1978 on a state pension. In 1987 he received the Honor Award from the Fritt Ord Foundation for "the original and versatile character of his literary work".<ref name=":2" />
+
+In his last years of life, when he was frequently visited by journalists, he had an interview with ''Asker og Bærum Budstikke'', in which he described himself as a nihilist: "I am not a pessimist. I am a nihilist. Namely, not a pessimist in the sense that I have upsetting apprehensions, but a nihilist in a sense that is not moral".<ref name=":2" />
+[[File:Stereoscop, 1949 by Peter Wessel Zapffe.jpg|alt=Zapffe with camera, 1949.|left|thumb|220x220px|Zapffe with camera, 1949]]
+Zapffe's hobbies were varied, showing an early enthusiasm for painting. However, photography occupied him since the age of 12 through his father (himself a photographer), who lent his photographic equipment to his son. This also meant a kind of compensation for his myopia. The impact of his work as a photographer can be seen reflected in his work ''Rough Joys'' (1969), where it seems that he reconstructs [[Ekphrasis|ekphrase]] from his photographic documentation during his trips to the mountains. Much of his photographic production is currently cultural heritage.<ref name=":2" />
+
+Zapffe married Bergljot Espolin Johnsen in 1935; they divorced in 1941. He married Berit Riis Christensen in 1952, they remained together until his death in 1990; Berit died in May 2008.<ref>{{Cite web|title=Peter Wessel Zapffe|url=http://www.hemneslekt.net/getperson.php?personID=I119009&tree=Hemne|access-date=2020-08-07|website=Hemneslekt|archive-date=8 October 2021|archive-url=https://web.archive.org/web/20211008160246/http://www.hemneslekt.net/getperson.php?personID=I119009&tree=Hemne|url-status=dead}}</ref> Zapffe remained [[Voluntary childlessness|childless by choice]].<ref>{{Cite book|url=https://books.google.com/books?id=9780816621507|title=Wisdom in the Open Air: The Norwegian Roots of Deep Ecology|publisher=[[University of Minnesota Press]]|year=1993|isbn=978-0-8166-2150-7|editor-last=Reed|editor-first=Peter|location=Minneapolis, Minnesota|pages=56|language=en|chapter=Peter Wessel Zapffe|editor-last2=Rothenberg|editor-first2=David}}{{Dead link|date=February 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> He was lifelong friends with the Norwegian philosopher and fellow mountaineer, [[Arne Næss]].<ref name="bio">{{Cite web|title=Biography of Peter Wessel Zapffe|url=https://openairphilosophy.org/peter-wessel-zapffe/|access-date=2020-08-07|website=Open Air Philosophy|language=en-US}}</ref>
+
+== Selected works ==
+* ''Om det tragiske'', [[Oslo]], 1941 and 1983. ''On the Tragic'', translated by Ryan L. Showler (2024).
+* ''Den fortapte sønn. En dramatisk gjenfortælling'' (En: ''The Prodigal Son: A Dramatic Renarration''), Oslo, 1951.
+* ''Indføring i litterær dramaturgi'' (En: ''Introduction to Literary Dramaturgy''), Oslo, 1961.
+* ''Den logiske sandkasse. Elementær logikk for universitet og selvstudium'' (En: ''The Logical Sandpit: Elementary Logic for University and Individual Study''), Oslo, 1965.
+* ''Lyksalig pinsefest. Fire samtaler med Jørgen'' (En: ''Blissful Pentecost: Four Dialogues with Jørgen''), Oslo, 1972.
+* ''Hos doktor Wangel. En alvorlig spøk i fem akter'' (En: ''With Doctor Wangel: An Earnest Jest in Five Acts''), by Ib Henriksen (pseudonym.), Oslo, 1974. Play.
+* ''Rikets hemmelighet. En kortfattet Jesus-biografi'' (En: ''The Secret of the Kingdom: A Short Biography of Jesus''), Oslo, 1985.
+
+=== Collections of his shorter writings ===
+
+* ''Essays og epistler'' (En: ''Essays and epistles''), Oslo, 1967.
+* ''Barske glæder og andre temaer fra et liv under åpen himmel'' (En: ''Rough Joys, and other themes from a life lived under the open sky''), [[Oslo]] 1969.
+* ''Spøk og alvor. Epistler og leilighetsvers'' (En: ''Jest and Earnest: epistles and [[occasional verse]]''), Oslo, 1977.
+* ''Hvordan jeg blev så flink og andre tekster'' (En: ''How I Became So Clever, and other texts''), Oslo, 1986.
+*''Vett og uvett. Stubber fra Troms og Nordland'' (En: ''Sense and Nonsense: Short Stories from Troms and Nordland'') by Einar K. Aas and P. W. Zapffe, [[Trondheim]] 1942. Illustrated by [[Kaare Espolin Johnson]].
+
+== Gallery ==
+<gallery mode="packed" heights="150">
+File:Jægervatnet by Peter Wessel Zapffe.jpg|alt=Jægervatnet c. 1945|Jægervatnet {{Circa|1945}}
+File:Jægervatnet ca. 1945 by Peter Wessel Zapffe.jpg|alt=Jægervatnet c. 1945|Jægervatnet {{Circa|1945}}
+File:(Silhuetter av personer) by Peter Wessel Zapffe.jpg|alt=Silhouettes of people c. 1950|Silhouettes of people {{Circa|1950}}
+</gallery>
+
+== See also ==
+* [[Biosophy]]
+* [[Emil Cioran]]
+* [[Existential crisis]]
+* [[Herman Tønnessen]]
+* [[Nihilism]]
+
+== Notes ==
+{{Reflist|1}}
+
+== External links ==
+{{Commons}}
+{{Wikiquote}}
+*[https://blog.apaonline.org/2022/11/22/norwegian-anti-natalism/ Norwegian Pessimistic Anti-Natalism] by Ole Martin Moen, 2022
+*[http://folk.uio.no/geirthe/Zapffe.html Philosopher of tragedy] by Thomas Hylland Eriksen
+*[http://www.philosophynow.org/issue45/45tangenes.htm The View from Mount Zapffe] by Gisle Tangenes
+*[https://www.youtube.com/watch?v=u4m6vvaY-Wo The Humorous Pessimist] (1990 documentary, subtitled in English) by [[NRK]]. [https://tv.nrk.no/program/FTRO70003090 Original source] (in Norwegian).
+*[https://web.archive.org/web/20090216121003/http://www.nb.no/nbvev/eksternvev/html/zapffe.html Peter Wessel Zapffes fotografier til Nasjonalbiblioteket]
+*[http://www.uio.no/for_ansatte/aktuelt/nyhetsbrev/english/news/zapffe.html University of Oslo]{{dead link|date=September 2022}}
+*[https://web.archive.org/web/20110726111307/http://www.uarctic.org/singleNewsArticle.aspx?m=611&amid=6286 University of the Arctic]
+*[http://vestraat.net/TNG/getperson.php?personID=I15371&tree=IEA Family genealogy]
+*[https://openairphilosophy.org/peter-wessel-zapffe/ OpenAirPhilosophy]
+
+{{Philosophical pessimism}}
+{{Authority control}}
+
+{{DEFAULTSORT:Zapffe, Peter Wessel}}
+[[Category:1899 births]]
+[[Category:1990 deaths]]
+[[Category:20th-century Norwegian artists]]
+[[Category:20th-century Norwegian lawyers]]
+[[Category:20th-century Norwegian male writers]]
+[[Category:20th-century Norwegian philosophers]]
+[[Category:Anti-natalists]]
+[[Category:Existentialists]]
+[[Category:Metaphysicians]]
+[[Category:Norwegian photographers]]
+[[Category:Norwegian mountain climbers]]
+[[Category:People from Tromsø]]
+[[Category:Philosophers of nihilism]]
+[[Category:Philosophers of pessimism]]
+[[Category:University of Oslo alumni]]
+[[Category:20th-century Norwegian photographers]]
+
+[[no:DS «Isbjørn»]]

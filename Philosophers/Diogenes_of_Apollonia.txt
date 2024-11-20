@@ -1,0 +1,126 @@
+{{Short description|5th-century BC Greek philosopher}}
+{{Distinguish|Diogenes of Sinope|Diogenes Laertius}}
+{{Other people|Diogenes}}
+{{Infobox philosopher 
+| region           = [[Western philosophy]]
+| era              = [[Pre-Socratic philosophy]]
+| birth_date       = 5th century BCE
+| birth_place      = [[Apollonia, Thrace|Apollonia Pontica]]
+| death_date       = 5th century BCE
+| main_interests   = [[Phusis|Nature]], [[Ancient Greek medicine|Medicine]]
+| notable_ideas    = Air is the ''[[arche]]''
+}}
+'''Diogenes of Apollonia''' ({{IPAc-en|d|aɪ|ˈ|ɒ|dʒ|ɪ|n|iː|z}} {{respell|dy|OJ|in|eez}}; {{langx|grc|Διογένης ὁ Ἀπολλωνιάτης|Diogénēs ho Apollōniátēs}}; {{fl.}} 5th century BC) was an [[Greek philosophy|ancient Greek philosopher]], and was a native of the [[Milesians (Greek)|Milesian]] colony [[Apollonia, Thrace|Apollonia]] in [[Thrace]]. He lived for some time in [[Athens]].  He believed [[air (classical element)|air]] to be the one source of all being from which all other substances were derived, and, as a primal force, to be both divine and intelligent. He also wrote a description of the organization of blood vessels in the human body. His ideas were parodied by the dramatist [[Aristophanes]], and may have influenced the [[Orphic]] philosophical commentary preserved in the [[Derveni papyrus]]. His philosophical work has not survived in a complete form, and his doctrines are known chiefly from lengthy quotations of his work by [[Simplicius of Cilicia|Simplicius]], as well as a few summaries in the works of [[Aristotle]], [[Theophrastus]], and [[Aetius (philosopher)|Aetius]].
+
+{{toclimit}}
+
+==Life==
+Diogenes was a native of the [[Milesians (Greek)|Milesian]] colony [[Apollonia, Thrace|Apollonia Pontica]] in [[Thrace]], present-day [[Sozopol]] on the [[Black Sea]].{{sfn|Kirk|Raven|Schofield|1983|p=434}}{{NoteTag|The alternative view{{efn|{{harv|DK 64A3}}}}, not accepted by many modern scholars, is that the [[Apollonia (South coast of Crete)|Apollonia]] in question was the [[Crete|Cretan]] city that originally was [[Eleutherna]]}} His father's name was Apollothemis. Nothing is known of the events in his life, except that he lived some time in Athens. [[Diogenes Laërtius]] states that "great jealousy nearly put his life in danger in Athens," but there may be confusion with [[Anaxagoras]] who is mentioned in the same passage.{{efn|Diogenes Laërtius, ix. 57 {{harv|DK 64A1}}}} Like all the ''[[physiologoi]]'' (natural philosophers), he wrote in the [[Ionic Greek|Ionic]] dialect.
+
+==Philosophy==
+Diogenes is characterized by [[Theophrastus]] as the last of the "physiologoi" or natural philosophers.{{sfn|Curd|2011|p=138}} As a [[Material monism|material monist]], he synthesized the work of earlier monists such as [[Anaximenes of Miletus|Anaximenes]] and [[Heraclitus]] with the pluralism of [[Anaxagoras]] and [[Empedocles]] and argued that air was a divine cosmic ordering principle that he also equated with intelligence.{{sfn|Dockstader|loc=Introduction}} He does not appear to have been influenced by the [[Atomism#Greek_atomism|Atomists]].{{sfn|Curd|2011|p=138}} 
+
+===Air===
+Diogenes, like [[Anaximenes of Miletus|Anaximenes]], believed [[air (classical element)|air]] to be the one source of all being, and all other substances to be derived from it by condensation and rarefaction. This he modified by the theories of his contemporary [[Anaxagoras]], and asserted that air, the primal force, was intelligent:
+<blockquote>
+And it seems to me that that which possessed thought is what people call air, and that by this everyone both is governed and has power over everything. For it is this which seems to me to be god and to have reached everything and to arrange everything and to be in everything. And there is not a single thing which does not share in it.{{efn|Simplicius, ''Commentary on the Physics'', 152 {{harv|DK 64B5}}}}
+</blockquote>
+The nature of the [[universe]] is air, limitless and eternal, from which, as it condenses and rarefies and changes its properties, the other forms come into being.{{efn|Simplicius, ''Commentary on the Physics'', 25.1-9 {{harv|DK 64A5}}}} Among his other doctrines, he is said to have believed that there was an infinite number of worlds, and infinite void; that air, densified and rarefied, produced the different worlds; that nothing was produced from nothing, or was reduced to nothing; that the Earth was round, supported in the middle, and had received its shape from the whirling round of the warm vapours, and its concretion and hardening from cold.{{efn|Diogenes Laërtius, ix. 57 {{harv|DK 64A1}}}}
+
+===Physiology===
+The longest surviving fragment of Diogenes is that which is inserted by [[Aristotle]] in the third book of his ''[[History of Animals]]''.{{efn|Aristotle ''History of Animals'', 511-12 {{harv|DK 64B6}}}} It contains a description of the distribution of the [[blood vessels]] in the human body. It is notable chiefly because "here we can read at first hand what in the case of the other [[Presocratics]] we learn only indirectly: an attempt to describe in scientific detail the structure and organization of the physical world."{{sfn|Barnes|2002|p=48}}
+
+==Works==
+None of Diogenes' work has survived in a complete form. The majority of the surviving fragments of Diogenes work come from [[Simplicius of Cilicia|Simplicius]], a [[Late antiquity|late antique]] philosopher from the [[Platonic_Academy#Neoplatonic_Academy |Neoplatonic Academy]] who wrote a commentary on Aristotle's ''[[Physics (Aristotle)|Physics]]'' where he quotes several long excerpts from Diogenes' work.{{sfn|Diels|Kranz|1957}} Based on the account given by Simplicius, it is unclear to modern scholars whether Diogenes wrote four separate works, "On Nature", "On the Nature of Man" "Meteorology", and "Against the Sophist", or only one work ''On Nature'' which included portions that touched on each of the other three topics.{{sfn|Dockstader}}
+
+==Legacy==
+Modern scholars generally agree that some views of Diogenes are transferred to [[Aristophanes]]' depiction of [[Socrates]] in ''[[The Clouds]].''{{efn|Aristophanes. ''The Clouds'', 264 {{harv|DK 64C2}}}}{{sfn|Diels|Kranz|1957}} as well as in a fragment of [[Philemon (poet)|Philemon]].
+
+[[Diogenite|Diogenite meteorites]] are named for Diogenes of Apollonia, who was the first to suggest an outer space origin for meteorites:
+<blockquote>With the visible stars revolve stones which are invisible, and for that reason nameless. They often fall on the ground and are extinguished, like the stone star that came down on fire at [[Aegospotami]].{{efn|[[Aetius (philosopher)|Aetius]], ii. 13. 9}}</blockquote>
+
+===Modern Reception===
+Based on an initial evaluation by [[Hermann Diels]], Diogenes was not studied frequently in modern scholarship up until the past few decades.{{sfn|Laks|2008b|p=353}} However, with the discovery of the [[Derveni papyrus]], an [[Orphic]] philosophical poem which has many parallels to the philosophy of both Diogenes and [[Anaxagoras]], many scholars have analyzed Diogenes' work to better understand the links between [[Ancient Greek religion]] and philosophy.{{sfn|Betegh|2004|p=308}}
+
+==Notes==
+===Footnotes===
+{{NoteFoot}}
+{{notelist|30em}}
+===Citations===
+{{reflist}}
+
+==References==
+===Ancient Testimony===
+{{Wikisource|Fragments of Diogenes of Apollonia}}
+In the [[Diels-Kranz numbering]] for testimony and fragments of [[Pre-Socratic philosophy]], Diogenes of Apollonia is catalogued as number '''64'''. The most recent edition of this catalogue is 
+{{refbegin}}
+*{{cite book |last1=Diels |first1=Hermann |last2=Kranz |first2=Walther |editor-last1=Plamböck |editor-first1=Gert |title=Die Fragmente der Vorsokratiker |date=1957 |publisher=Rowohlt |url=https://books.google.com/books?id=KEYWQwAACAAJ |isbn=5875607416 |language= grc,de}}. 
+{{refend}}
+====Biography====
+{{refbegin}}
+*'''A1.''' {{cite LotEP | chapter=Diogenes of Apollonia|ref={{sfnref|DK 64A1}}}}
+*'''A2.''' {{cite LotEP | chapter=Diogenes |ref={{sfnref|DK 64A2}}}}
+*'''A3.''' {{cite book | author = [[Stephanus of Byzantium]]| title = Ethnica |chapter= Apollonia |ref={{sfnref|DK 64A3}}}}
+{{refend}}
+====Writings====
+{{refbegin}}
+*'''A4.''' {{cite book |author = [[Simplicius of Cilicia]] | title = Commentary on [[Physics (Aristotle)|Aristotle's Physics]] |at=151.20 | language=en |ref={{sfnref|DK 64A4}}}}
+{{refend}}
+====Doctrines====
+{{refbegin}}
+*'''A5.''' {{cite book |author = [[Simplicius of Cilicia]] | title = Commentary on [[Physics (Aristotle)|Aristotle's Physics]] |at=25.1 | language=en |ref={{sfnref|DK 64A5}}}}
+<!--- Actually goes to A33, remainder need to be added --->
+{{refend}}
+====Fragments====
+{{refbegin|30em}}
+*'''B1.''' {{cite LotEP | chapter=Diogenes of Apollonia|ref={{sfnref|DK 64B1}}}}
+*'''B2.''' {{cite book |author = [[Simplicius of Cilicia]] | title = Commentary on [[Physics (Aristotle)|Aristotle's Physics]] |at=151.28 | language=en |ref={{sfnref|DK 64B2}}}}
+*'''B3.''' {{cite book |author = [[Simplicius of Cilicia]] | title = Commentary on [[Physics (Aristotle)|Aristotle's Physics]] |at=152.10 | language=en |ref={{sfnref|DK 64B3}}}}
+*'''B4.''' {{cite book |author = [[Simplicius of Cilicia]] | title = Commentary on [[Physics (Aristotle)|Aristotle's Physics]] |at=151.15 | language=en |ref={{sfnref|DK 64B4}}}}
+*'''B5.''' {{cite book |author = [[Simplicius of Cilicia]] | title = Commentary on [[Physics (Aristotle)|Aristotle's Physics]] |at=151.21 | language=en |ref={{sfnref|DK 64B5}}}}
+*'''B6.''' {{cite wikisource |wslink=History_of_Animals_(Thompson)/Book_III#Part_2 |author = [[Aristotle]] | title = On the History of Animals |at=510b | language=en|ref={{sfnref|DK 64B6}}}}
+*'''B7.''' {{cite book |author = [[Simplicius of Cilicia]] | title = Commentary on [[Physics (Aristotle)|Aristotle's Physics]] |at=153.19 | language=en |ref={{sfnref|DK 64B7}}}}
+*'''B8.''' {{cite book |author = [[Simplicius of Cilicia]] | title = Commentary on [[Physics (Aristotle)|Aristotle's Physics]] |at=153.20 | language=en |ref={{sfnref|DK 64B8}}}}
+*'''B9.''' {{cite book |author = [[Galen]] | title = Commentary on Book VI of Hippocrates' Epidemics |ref={{sfnref|DK 64B9}}}}
+*'''B10.''' {{cite book |author = [[Aelius Herodianus]] | title = On peculiar style | at= I.7-8 |ref={{sfnref|DK 64B10}}}}
+{{refend}}
+
+====Influence====
+{{refbegin|50em}}
+*'''C1.''' {{cite book |author= [[Aristophanes]] |title = [[The Clouds]]|at=[https://www.perseus.tufts.edu/hopper/text?doc=Aristoph.+Cl.+225&fromdoc=Perseus%3Atext%3A1999.01.0241 225-236] |language=en |ref={{sfnref|DK 64C1}}}}
+*'''C2.''' {{cite book|author= [[Hippocrates]] |title = On Airs, Waters, and Places| language=en |ref={{sfnref|DK 64C2}}}} ...{{cite book |author= [[Aristophanes]] |title = [[The Clouds]]|at=[https://www.perseus.tufts.edu/hopper/text?doc=Aristoph.+Cl.+264&fromdoc=Perseus%3Atext%3A1999.01.0241 264] |language=en}}
+*'''C3.''' {{cite book|author= Pseudo-[[Hippocrates]] |title = On Fleshes| language=en |ref={{sfnref|DK 64C3}}}}
+*'''C3a.''' {{cite book|author= [[Hippocrates]] |title = [[On the Sacred Disease]]| language=en |ref={{sfnref|DK 64C3a}}}}
+*'''C3b.''' {{cite book|author= [[Hippocrates]] |title = [[On the Sacred Disease]]| language=en |ref={{sfnref|DK 64C3b}}}}
+*'''C4.''' {{cite book|author= [[Philemon (poet)|Philemon]] |title = Fragment 91| language=en |ref={{sfnref|DK 64C4}}}}
+{{refend}}
+===Translations of the Fragments===
+<!--- Chronological --->
+*{{cite book|editor-first=André |editor-last=Laks |title= Diogène d'Apollonie: edition, traduction et commentaire des fragments et témoignages|series= International Pre-platonic Studies|volume= 6|location= Sankt Augustin|publisher=  Academia Verlag|year=2008a}}
+*{{cite book |last1=Curd |first1=Patricia |title=A Presocratics Reader: Selected Fragments and Testimonia |date=15 March 2011 |publisher=Hackett Publishing |isbn=978-1-60384-598-4 |pages=138–143 |url=https://books.google.com/books?id=nMlgDwAAQBAJ |language=en}}
+
+===Modern Scholarship===
+<!--- Alphabetical --->
+*{{cite book |last1=Barnes |first1=Jonathan |title=Early Greek Philosophy |chapter=Diogenes of Apollonia |chapter-url=https://books.google.com/books?id=ooq9SnHIdxIC&pg=PA99 |date=2002 |publisher=Penguin |isbn=978-0-14-044815-3 |url=https://books.google.com/books?id=ooq9SnHIdxIC |language=en}}
+*{{cite book |last1=Betegh |first1=Gábor |title=The Derveni papyrus : cosmology, theology, and interpretation |chapter=Diogenes of Apollonia and Archelaus of Athens |date=2004 |pages=306–324 |doi=10.1017/CBO9780511584435.010 |publisher=Cambridge University Press |location=Cambridge |isbn=9780511584435}}
+*{{cite IEP |url-id=diogen-a |title=Diogenes of Apollonia |last=Dockstader |first=Jason}}
+*{{cite book |last1=Kirk |first1=G. S. |last2=Raven |first2=J. E. |last3=Schofield |first3=M. |title=The Presocratic Philosophers: A Critical History with a Selection of Texts |date=1983 |publisher=Cambridge University Press |isbn=978-0-521-27455-5 |url=https://books.google.com/books?id=kFpd86J8PLsC |language=en}}
+*{{cite encyclopedia |author= Laks |first=André|title=Speculating about Diogenes of Apollonia |editor-last1=Curd |editor-first1=Patricia |editor-last2=Graham |editor-first2=Daniel W. |encyclopedia=The Oxford Handbook of Presocratic Philosophy |date=2008b |publisher=Oxford University Press, USA |isbn=978-0-19-514687-5 |pages=353–363 |url=https://books.google.com/books?id=14muxtEiBG0C |language=en}}
+
+===Further reading===
+{{Wikisource author}}
+*{{cite book |last1=Curd |first1=Patricia |title=Legacy of Parmenides |date=2004 |publisher=Parmenides Publishing |isbn=978-1-930972-42-1 |url=https://books.google.com/books?id=hW1hDwAAQBAJ |language=en}}
+*{{cite encyclopedia |author=André Laks |title=Soul, sensation, and thought |editor-last1=Long |editor-first1=A. A. |encyclopedia =The Cambridge Companion to Early Greek Philosophy |date=1999 |publisher=Cambridge University Press |isbn=978-0-521-44667-9 |pages=250–270 |url=https://books.google.com/books?id=l4m2GP9eJmIC |language=en}}
+*André Laks. ''Diogène d'Apollonie. La dernière cosmologie présocratique''. Lille: Presses Universitaires de Lille 1983. Edition, translation and commentary.
+*{{cite book |last1=Warren |first1=James |title=Presocratics |chapter=Epilogue |date=2014 |publisher=Routledge |isbn=978-1-317-49337-2 |pages=177–179 |chapter-url=https://books.google.com/books?id=bLLCBQAAQBAJ&pg=PA177 |language=en}}
+
+{{Greek schools of philosophy}}
+{{Authority control}}
+
+[[Category:5th-century BC Greek philosophers]]
+[[Category:Ancient Greek metaphysicians]]
+[[Category:Ancient Thracian Greeks]]
+[[Category:Ionic Greek writers]]
+[[Category:Metic philosophers in Classical Athens]]
+[[Category:Presocratic philosophers]]
+[[Category:People from Sozopol]]

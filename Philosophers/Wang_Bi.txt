@@ -1,0 +1,71 @@
+{{Short description|Chinese philosopher and author (226–249)}}
+{{family name hatnote|[[Wang (surname)|Wang]]|lang=Chinese}}
+{{Infobox person
+| name               = Wang Bi<br>{{langn|zh|王弼}}
+| image              = 至聖先賢半身像 冊-107-王弼.jpg
+| birth_date         = 226
+| birth_place        = [[Shandong Province]]
+| death_date         = 249 (aged 23)
+| father             = [[Wang Ye (Three Kingdoms)|Wang Ye]]
+| occupation         = Philosopher, politician
+| other_names        = Fusi ({{lang|zh|輔嗣}})
+}}
+{{Infobox Chinese
+| c = 王弼
+| p = Wáng Bì
+| w = {{tonesup|Wang2 Pi4}}
+| mi = {{IPAc-cmn|wang|2|-|b|i|4}}
+| j = Wong4 Bat6
+| y = Wòhng Baht
+| ci = {{IPAc-yue|w|ong|4|-|b|at|6}}
+}}
+{{Taoism|expand=People}}
+
+'''Wang Bi''' ({{lang-zh|王弼}}; 226–249), [[courtesy name]] '''Fusi''' ({{lang-zh|輔嗣}}), was a Chinese philosopher and politician. During his brief career he produced commentaries on the [[Tao Te Ching]] and [[I Ching]] which were highly influential in [[Chinese philosophy]].<ref>{{Cite encyclopedia |title=Wang Bi|url=https://iep.utm.edu/wangbi/ |encyclopedia=Internet Encyclopedia of Philosophy|access-date=2023-07-20}}</ref><ref>{{Cite encyclopedia |title=Wang Bi |url=https://www.britannica.com/biography/Wang-Bi |access-date=2023-07-21 |encyclopedia=Encyclopædia Britannica}}</ref>
+
+==Life==
+Wang Bi served as a minor bureaucrat in the state of [[Cao Wei]] during the [[Three Kingdoms]] period. He died from an [[epidemic]] at the age of 23.<ref>{{Cite web |last=Theobald |first=Ulrich |title=Wang Bi 王弼 (www.chinaknowledge.de) |url=http://www.chinaknowledge.de/History/Division/personswangbi.html |access-date=2023-07-21 |website=www.chinaknowledge.de |language=en}}</ref><ref>{{Cite book |last=Wagner |first=Rudolf G. |url=https://books.google.com/books?id=3DvtkuXRfBsC |title=The Craft of a Chinese Commentator: Wang Bi on the Laozi |date=2000-01-06 |publisher=SUNY Press |isbn=978-0-7914-4395-8 |pages=20 |language=en}}</ref>
+
+Wang Bi's most important works are commentaries on [[Laozi]]'s ''[[Tao Te Ching]]'' and the ''[[I Ching]]''. The text of the ''Tao Te Ching'' that appeared with his commentary was widely considered the best copy of this work until the discovery of the Han-era [[Mawangdui]] texts in 1973. He was a scholar of [[Xuanxue]].
+
+== Writings ==
+At least three works by Wang Bi are known: a commentary on [[Confucius]]' ''[[Analects]]'', which survives only in quotations; commentaries on the ''[[I Ching]]'' and the ''[[Tao Te Ching]]'', which not only have survived but have greatly influenced subsequent Chinese thought on those two classics.
+
+His commentary on the ''I Ching'' has been translated into English by Richard John Lynn, ''The Classic of Changes'' (New York: Columbia University, 1994) {{ISBN|0-231-08295-9}}
+
+Several translations into English have been made of his commentary of the ''Tao Te Ching'':
+* Ariane Rump, translator ''Commentary on the Lao Tzu by Wang Pi'', ''Monographs of the Society for Asian and Comparative Philosophy'', No. 6 (Honolulu: University of Hawaii, 1979) {{ISBN|0-8248-0677-8}}
+* Richard John Lynn, translator ''The Classic of the Way and Virtue; A New Translation of the Tao-te Ching of Laozi as Interpreted by Wang Bi'' (New York: Columbia University, 1999) {{ISBN|0-2311-0581-9}}
+* Rudolf Wagner, translator.'' A Chinese Reading of the Daodejing: Wang Bi's Commentary on the Laozi with Critical Text and Translation'' (Albany: State University of New York Press, 2003) {{ISBN|0-791-45182-8}}
+
+==See also==
+* [[Lists of people of the Three Kingdoms]]
+
+==References==
+{{reflist}}
+
+=== Works cited ===
+{{Refbegin}}
+* [[Chen Shou|Chen, Shou]] (3rd century). ''[[Records of the Three Kingdoms]]'' (''Sanguozhi'').
+* [[Pei Songzhi|Pei, Songzhi]] (5th century). ''[[Annotations to Records of the Three Kingdoms]]'' (''Sanguozhi zhu'').
+{{Refend}}
+
+{{People of Cao Wei}}
+
+{{Authority control}}
+{{DEFAULTSORT:Wang, Bi}}
+[[Category:226 births]]
+[[Category:249 deaths]]
+[[Category:3rd-century Chinese philosophers]]
+[[Category:Cao Wei government officials]]
+[[Category:3rd-century Taoists]]
+[[Category:Three Kingdoms Taoists]]
+[[Category:Cao Wei writers]]
+[[Category:Philosophers from Shandong]]
+[[Category:Politicians from Shandong]]
+[[Category:Three Kingdoms philosophers]]
+[[Category:Xuanxue]]
+[[Category:Writers from Shandong]]
+[[Category:Chinese classicists]]
+
+{{China-philosopher-stub}}

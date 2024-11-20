@@ -1,0 +1,83 @@
+{{Short description|American feminist philosopher (born 1929)}}
+{{Use mdy dates|date=January 2015}}
+{{Infobox philosopher
+| region           = 
+| era              = 
+| image            = Virginia Held at 2013 Mellon Sawyer Seminar.jpg
+| image_size       =
+| caption          = Held at CUNY in 2013
+| name             = Virginia Held
+| birth_name       = Virginia Potter Held
+| birth_date       = {{birth-date and age|October 28, 1929}}
+| birth_place      = [[Mendham Borough, New Jersey|Mendham, New Jersey]]<ref name=Bio>{{Citation | last = Karen | first = Kovach | contribution = Held, Virginia Potter (1929–)  | editor-last = Shook | editor-first = John R. | title = The dictionary of modern American philosophers (4 volume set) | pages = 1083–1084 | publisher = Thoemmes Continuum | location = Bristol | year = 2005 | isbn = 9781843710370 }}</ref>
+| death_date       =
+| school_tradition = 
+| main_interests   = [[Ethics of care]], [[feminist ethics]], [[Morality of violence|morality of political violence]]
+| notable_ideas    = 
+| institutions     = [[Columbia University]], [[Hunter College]], [[CUNY Graduate Center]]
+| influences       = 
+| influenced       =
+| signature        =
+}}
+
+'''Virginia Potter Held''' (born October 28, 1929) is an American moral, social/political and [[feminist philosopher]] whose work on the [[ethics of care]] sparked significant research into the ethical dimensions of providing care for others and critiques of the [[Gender roles|traditional roles of women in society]].<ref name=iep>{{cite book|last=Saunder-Sault|first=Maureen|title=Care Ethics|year=2011|publisher=Internet Encyclopedia of Philosophy|url=http://www.iep.utm.edu/care-eth/}}</ref><ref name=sep1>{{cite book|last=Tong, Williams|first=Rosemarie, Nancy|title=Feminist Ethics|year=2009|publisher=Stanford Encyclopedia of Philosophy|url=http://plato.stanford.edu/entries/feminism-ethics/}}</ref><ref>{{cite news|url=http://www.highbeam.com/doc/1G1-54896400.html|archive-url=https://web.archive.org/web/20140610193615/http://www.highbeam.com/doc/1G1-54896400.html|url-status=dead|archive-date=2014-06-10|title=Norms and Values: Essays on the Works of Virginia Held.(Review)|last=Smiley|first=Marion|date=June 1999|work=American Political Science Review |via=[[HighBeam Research]]|access-date=December 30, 2013}}</ref>
+
+==Beliefs==
+Held defends care ethics as a moral framework distinct from [[Kantian ethics|Kantian]], [[Utilitarianism|utilitarian]] and [[virtue ethics]].<ref name=iep/> She holds that care is fundamental to human institutes and practices, indeed to our survival. Tong and Williams<ref name="sep1" /> quote: "There can be no ju[s]tice without care…for without care no child would survive and there would be no persons to respect."<ref>Virginia Held, The Ethics of Care 2006, p. 17</ref>
+
+Held's work on the morality of political violence viewed through the window of ethics of care has also been significantly influential.<ref name=the>{{cite news|title=How Terrorism Is Wrong: Morality and Political Violence|url=http://www.timeshighereducation.co.uk/402933.article|access-date=June 25, 2013|newspaper=Times Higher Education}}</ref>
+
+==Career==
+Held was named Distinguished Professor at the [[City University of New York]] – Graduate Center and [[Hunter College]] in 1996.
+
+She received her Ph.D. in philosophy from [[Columbia University]] in 1968 and worked at Hunter College as lecturer (1965–69), assistant professor (1969–72), associate professor (1973–77) and full professor from 1977 to her retirement in 2001. Held was affiliated with the [[CUNY Graduate Center]] in 1973, and served as deputy executive officer of the Philosophy program at the CUNY Graduate Center from 1980 to 1984. She also served as president of the Eastern Division of the [[American Philosophical Association]] in 2001–2002.<ref name=cv>{{cite web|last=Held|first=Virginia|title=Virginia Held Curriculum Vitae|url=http://web.gc.cuny.edu/philosophy/faculty/CVs/held_cv.pdf|access-date=June 25, 2013}}</ref>
+
+==Selected works==
+
+===Books===
+* {{cite book | last = Held | first = Virginia | title = The Public Interest and Individual Interests | url = https://archive.org/details/publicinterestin0000held | url-access = registration | publisher = Basic Books | location = New York | year = 1970 | isbn = 9780465067732}}
+* {{cite book | last1 = Held | first1 = Virginia | last2 = Morgenbesser | first2 = Sidney | last3 = Nagel | first3 = Thomas | author-link2 = Sidney Morgenbesser | author-link3 = Thomas Nagel | title = Philosophy, Morality, and International Affairs: Essays Edited for the Society for Philosophy and Public Affairs | publisher = Oxford University Press | location = New York | year = 1974 | isbn = 9780195017595 | url-access = registration | url = https://archive.org/details/philosophymorali0000unse }}
+* {{cite book | last = Held | first = Virginia | title = Rights and Goods: Justifying Social Action | publisher = University of Chicago Press | location = Chicago | year = 1989 | isbn = 9780226325880 | url-access = registration | url = https://archive.org/details/rightsgoodsjusti00held }}
+* {{cite book | last = Held | first = Virginia | title = Feminist Morality : Transforming Culture, Society, and Politics | publisher = University of Chicago Press | location = Chicago | year = 1993 | isbn = 9780226325934}}
+* {{cite book | last = Hunter College Women's Studies Collective | first = Virginia Held| title = Women's Realities, Women's Choices: An Introduction to Women's Studies | publisher = Oxford University Press | location = New York | year = 2005 | edition = third | isbn = 9780195150353|display-authors=etal}}
+* {{cite book | last = Held | first = Virginia | title = The Ethics of Care: Personal, Political, and Global | url = https://archive.org/details/ethicsofcarepers00held | url-access = registration | publisher = Oxford University Press | location = Oxford New York | year = 2006 | edition = second | isbn = 9780195325904}}
+* {{cite book | last = Held | first = Virginia | title = How Terrorism is Wrong: Morality and Political Violence | publisher = Oxford University Press | location = Oxford New York | year = 2008 | isbn = 9780195329599}}
+
+=== Chapters in books ===
+* {{citation | last = Held | first = Virginia | contribution = Gender identity and the ethics of care in globalized society  | editor-last1 = DesAutels | editor-first1 = Peggy | editor-last2 = Whisnant | editor-first2 = Rebecca | editor-link1 = Peggy DesAutels | title = Global feminist ethics: feminist ethics and social theory | pages = 43–58 | publisher = Rowman & Littlefield | location = Lanham, Maryland | year = 2008 | series = Feminist Constructions | isbn = 9780742559103 | postscript = .}}
+
+=== Journal articles ===
+* {{Cite journal | last = Held | first = Virginia | title = Birth and death | journal = [[Ethics (journal)|Ethics]] | volume = 99 | issue = 2 | pages = 362–388 | publisher = [[University of Chicago Press]] | date = January 1989 | doi = 10.1086/293070 | jstor = 2381439 | s2cid = 144938730 }}
+
+===Encyclopedia articles===
+
+* ''Feminism and Political Theory'' in <small>''The Blackwell Guide to Social and Political Philosophy''</small><ref>Held, Virginia. "Feminism and Political Theory", in ''The Blackwell Guide to Social and Political Philosophy'', ed.
+ Oxford, UK: Blackwell Publishers, 2002.</ref>
+
+* ''Rights: Moral and Legal'' from <small>''A Companion to Feminist Philosophy''</small><ref>Held, Virginia. "Rights: Moral and Legal", in ''A Companion to Feminist Philosophy'', Oxford, UK: Basil Blackwell, 1998.</ref>
+* ''Feminist Social and Political Philosophy'' in <small>''Encyclopedia of Philosophy Supplement'' (1997).</small><ref>Held, Virginia. "Feminist Social and Political Philosophy", in ''Encyclopedia of Philosophy Supplement'', New York: Macmillan, 1997.</ref>
+* "Power" in <small>''Blackwell Dictionary of Business Ethics</small><ref>Held, Virginia. "Power." Def. P. Blackwell Encyclopedic Dictionary of Business Ethics. 1 ed. New York: Macmillan, 1998. Print.</ref>
+* ''Mass Media'', ''Moral Pluralism'' in <small>''Encyclopedia of Ethics''</small><ref>Held, Virginia. "Mass Media" and "Moral Pluralism", in ''Encyclopedia of Ethics'', New York: Garland Publishing Inc., 1992.</ref>
+
+For further works see C.V.<ref name = "cv"/>
+
+==References==
+{{Reflist}}
+
+== External links==
+{{Commonscat}}
+* [https://library.brown.edu/collatoz/info.php?id=547/ Virginia Held Papers] - Pembroke Center Archives, Brown University
+
+{{Authority control}}
+
+{{DEFAULTSORT:Held, Virginia}}
+[[Category:1929 births]]
+[[Category:20th-century American philosophers]]
+[[Category:American feminists]]
+[[Category:American women philosophers]]
+[[Category:Scholars of feminist philosophy]]
+[[Category:American academics of women's studies]]
+[[Category:Presidents of the American Philosophical Association]]
+[[Category:Living people]]
+[[Category:20th-century American women]]
+[[Category:21st-century American women]]

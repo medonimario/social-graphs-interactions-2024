@@ -1,0 +1,46 @@
+{{Short description|French theologian and philosopher}}
+{{Infobox philosopher|birth_date={{circa|1070}}|native_name=Guillaume de Champeaux|name=William of Champeaux|birth_place=[[Champeaux, Seine-et-Marne]], [[Kingdom of France]]|region=[[Western philosophy]]|era=[[Medieval philosophy]]|school_tradition=[[Scholasticism]]|death_date=18 January 1121|death_place=[[Châlons-en-Champagne]], [[Kingdom of France]]}}
+
+'''Guillaume de Champeaux''' ({{circa|1070}}{{snd}}18 January 1121 in [[Châlons-en-Champagne]]),<ref>''Des Châlonnais célébres illustres et mémorables'' by Jean-Paul Barbier 2000</ref>  known in English as '''William of Champeaux''' and [[List of Latinised names|Latinised]] to  '''Gulielmus de Campellis''', was a French [[philosopher]] and [[theology|theologian]].
+
+==Biography==
+William was born at [[Champeaux, Seine-et-Marne|Champeaux]] near [[Melun]]. After studying under [[Anselm of Laon]] and [[Roscellinus]], he taught in the school of the cathedral of [[Notre-Dame de Paris|Notre-Dame]], of which he was made canon in 1103.<ref name="EB1911">{{EB1911|inline=y|wstitle=Champeaux, William of|volume=5|page=829}}</ref> Among his pupils was [[Pierre Abélard|Peter Abelard]], whom he had a disagreement with because Abelard challenged some of his ideas, and because William thought Abelard was too arrogant.<ref name="Sellner2008">{{cite book|author=Edward Cletus Sellner|title=Finding the Monk Within: Great Monastic Values for Today|url=https://books.google.com/books?id=xR7cxJ6mnboC&pg=PA238|year=2008|publisher=Paulist Press|isbn=978-1-58768-048-9|pages=238–}}</ref>  Abelard calls him the "supreme master" of dialectic after he replaced his master as the new teacher.<ref name="Jaeger2011">{{cite book|author=C. Stephen Jaeger|title=The Envy of Angels: Cathedral Schools and Social Ideals in Medieval Europe, 950-1200|url=https://books.google.com/books?id=7w_umTX1oDAC&pg=PA244|date=1 January 2011|publisher=University of Pennsylvania Press|isbn=978-0-8122-0030-0|pages=244–}}</ref> In 1108 he resigned his positions as archdeacon of Paris and master of Notre Dame, and retreated to the shrine of St Victor, outside the city walls of Paris, where, under his influence, there formed what would become the [[St. Victor's Abbey, Paris|abbey of St Victor]].<ref name="University2000">{{cite book|author=G. R. Evans University Lecturer in History Cambridge University|title=Bernard of Clairvaux|url=https://books.google.com/books?id=vrxeieCqeLwC&pg=PA11|date=7 January 2000|publisher=Oxford University Press|isbn=978-0-19-802899-4|pages=11–}}</ref>
+
+He was a friend of [[Bernard of Clairvaux]], having helped Bernard recuperate from ill-health; later he motivated Bernard to write some of his important works including the ''Apologia'', which was dedicated to William.<ref name="Sellner2008"/>
+
+William left St Victor in 1113 when he became [[bishop of Châlons-en-Champagne]], at which time he took part in the dispute concerning [[Investiture Controversy|investitures]] as a supporter of [[Pope Callixtus II]], whom he represented at the [[conference of Mousson]].<ref name="EB1911"/> In 1114, he issued the ''[[Grande charte champenoise]]'' (Great Champagne Chart) which defined the agricultural and viticultural possessions of the Abbey of [[Saint-Pierre-aux-Monts]], thus giving rise to the modern-day [[Champagne (wine region)|Champagne wine region]].  After relinquishing his Benedictine Abbacy, he moved to a [[Cistercian]] monastery in [[Rheims]], where he also composed a number of spiritual books, such as his ''Vita Prima'', which were widely read in monastic circles.<ref name="Sellner2008"/>
+
+His surviving works are a fragment on the [[Eucharist]], inserted by [[Jean Mabillon]] in his edition of the works of [[Bernard of Clairvaux|St Bernard]], and the ''Moralia A brevi ala'' and ''De Origine Animae''.<ref>in E. Martnes Thesaurus novus Anecdotorum, 1717, vol. 5</ref> In the last of these he maintains that children who die unbaptized must be lost, the pure soul being defiled by the grossness of the body, and declares that God's will is not to be questioned. He upholds the theory of [[Creationism (soul)|Creationism]] (i.e., that a soul is specially created for each human being). Ravaisson-Mollien has discovered a number of fragments by him, among which the most important is the ''De Essentia Dei et de Substantia Dei''; a ''Liber Sententiarum'', consisting of discussions on ethics and scriptural interpretation, is also ascribed to Champeaux.<ref name="EB1911"/>
+
+He is considered the founder of an early version of moderate realism, a philosophy which held that [[Universal (metaphysics)|universals]] exist in particular things as common substances individuated by accidents and in the mind as concepts.{{Citation needed|date=July 2020}}
+
+==Notes==
+{{reflist}}
+
+==Bibliography==
+* [[Margaret Cameron (philosopher)|Cameron, Margaret]]. ''What's in a Name? Students of William of Champeaux on the Vox Significativa'',  Bochumer Philosophisches Jahrbuch fur Antike und Mittelalter 9, 2004, pp.&nbsp;93–114.
+* Iwakuma, Yuko. ''William of Champeaux, On Aristotle's Categories'', in Joël Biard, Irène Rosier-Catach (eds.), ''La tradition médiévale des Catégories (XII - XV siècle)'', Louvain-Paris: Peeters, 2003, pp.&nbsp;313–328.
+* Mews, Constant. ''Logica in the Service of Philosophy: William of Champeaux and his Influence'', Rener Berndt (ed.), ''Schrift, Schreiber, Schenker. Studien zur Abtei Sankt Viktor in Paris und de Viktorinen'', Berlin, Aksademie Verlag, 2005, pp.&nbsp;77–117.
+
+== External links ==
+*{{cite SEP |url-id=william-champeaux |title=William of Champeaux |last=Guilfoy |first=Kevin}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:William Of Champeaux}}
+[[Category:1070s births]]
+[[Category:1121 deaths]]
+[[Category:People from Seine-et-Marne]]
+[[Category:12th-century French philosophers]]
+[[Category:12th-century French Roman Catholic bishops]]
+[[Category:Bishops of Châlons-sur-Marne]]
+[[Category:University of Paris people]]
+[[Category:12th-century French Catholic theologians]]
+[[Category:Augustinian canons]]
+[[Category:Scholastic philosophers]]
+[[Category:12th-century French writers]]
+[[Category:11th-century French Catholic theologians]]
+[[Category:French Roman Catholic theologians]]
+[[Category:French male writers]]
+[[Category:Canonical Augustinian theologians]]
+[[Category:12th-century writers in Latin]]

@@ -1,0 +1,63 @@
+{{Short description|Lithuanian American phenomenologist (1901–1973)}}
+<!--
+| school_tradition = [[Phenomenology (philosophy)|phenomenologist], [[gestalt psychology]]
+| main_interests   = [[Consciousness]], [[intersubjectivitty]]
+| notable_ideas    =
+| influences       = [[Edmund Husserl]], [[Kurt Goldstein]], [[Alfred Schutz]], [[William James]]
+| influenced       =
+-->
+'''Aron Gurwitsch''' ({{langx|ru|Аро́н Гу́рвич}}; 17 January 1901 – 25 June 1973) was a [[Lithuanian Jews|Lithuanian]] Jewish ([[Lithuanian Jews|Litvak]]) American [[Phenomenology (philosophy)|phenomenologist]].
+
+== Life ==
+Gurwitsch was born in [[Vilnius|Vilna]] on 17 January 1901. His family moved to [[Danzig]] in 1905 or 1906 to escape [[pogroms]]. He enrolled in the [[University of Berlin]] in 1918, where he studied under [[Carl Stumpf]]. He subsequently worked with [[Edmund Husserl]] in [[Göttingen]], and with {{ill|Adhémar Gelb|de}} and [[Kurt Goldstein]] in [[Frankfurt]].<ref>{{cite book |last1=Gurwitsch |first1=Aron |title=The Collected Works of Aron Gurwitsch (1901-1973): Volume III: The Field of Consciousness: Theme, Thematic Field, and Margin |date=17 August 2010 |publisher=Springer Science & Business Media |isbn=978-90-481-3346-8 |pages=xv-xvii |language=en}}</ref>
+
+He died on 25 June 1973 in [[Zürich]].
+
+==Work==
+{{unreferenced|section|date=February 2024}}
+Gurwitsch wrote on the relations between phenomenology and [[Gestalt psychology]], and in the problems of the organization of consciousness. In particular, he distinguished between the theme, the thematic context and the margin. This is the core of his theory of the Field of Consciousness. He also has his own theory of the noema, the horizon and the transcendental ego. Gurwitsch was an important influence for [[Merleau-Ponty]].
+He taught at Brandeis University in the mid-1950s. He taught at [[The New School|The New School For Social Research's]] Graduate Faculty of Social and Political Science from 1959 to 1973.
+
+==Academic genealogy==
+{{unreferenced|section|date=February 2024}}
+He was a student of [[Moritz Geiger]], among others. Notable students of Gurwitsch include [[Lester Embree]] and [[Henry E. Allison]].
+
+== Bibliography ==
+{{unreferenced|section|date=February 2024}}
+* ''Théorie du champ de la conscience'' (1957). Translated: ''Field of Consciousness'', Pittsburgh, Pa.: Dusquesne University Press (1964).
+* ''Studies in phenomenology and psychology''. Evanston, Ill.: Northwestern University Press (1966).
+* ''Leibniz'', New York: de Gruyter (1974).
+* ''Phenomenology and the Theory of Science''. Edited by Lester Embree. Evanston, Ill.: Northwestern University Press (1974).
+* ''Kants Theories des Verstandes'', edited by Thomas Seebohm. Dordrecht: Kluwer Academic Publishers (1990).
+* ''The Collected Works of Aron Gurwitsch (1901–1973)'' published by Springer.
+** Vol. I: ''Constitutive Phenomenology in Historical Perspective''
+** Volume II: ''Studies in Phenomenology and Psychology''
+** Volume III: ''The Field of Consciousness: Theme, Thematic Field, and Margin
+
+==See also==
+* [[Transcendental phenomenology]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20060315000907/http://www.gurwitsch.net/ www.gurwitsch.net]
+** [https://web.archive.org/web/20120204102358/http://www.gurwitsch.net/bio.htm biography] (by Lester Embree)
+** [https://web.archive.org/web/20120204102210/http://www.gurwitsch.net/chronology.htm chronology] with photos
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gurwitsch Aron}}
+[[Category:1901 births]]
+[[Category:1973 deaths]]
+[[Category:People from Vilnius]]
+[[Category:Lithuanian Jews]]
+[[Category:American people of Lithuanian-Jewish descent]]
+[[Category:Jewish philosophers]]
+[[Category:20th-century Lithuanian philosophers]]
+[[Category:Phenomenologists]]
+[[Category:Emigrants from the Russian Empire to the United States]]
+
+
+{{Lithuania-writer-stub}}
+{{Europe-philosopher-stub}}

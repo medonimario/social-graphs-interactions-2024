@@ -1,0 +1,58 @@
+{{distinguish|Simeon ben Zemah Duran}}
+{{Infobox person/Wikidata | fetchwikidata=ALL}}
+'''Profiat Duran''' (c. 1350 – c. 1415) ({{langx|he|פרופייט דוראן}}), full Hebrew name '''Isaac ben Moses haLevi''') was a Jewish apologist/polemicist, philosopher, physician, grammarian, and controversialist in the 14th century. He was later sometimes referred to by the [[sobriquet]] '''Efodi''' ({{lang|he|האפודי}}) through association with his two grammars entitled ''Ephod''. After being [[forced conversion|forcibly converted]] to Christianity in 1391, he also appears in official records under his [[Converso]] name '''Honoratus de Bonafide'''. After escaping Spain, he returned to practicing Judaism openly and wrote several works including polemics against Christianity and grammar.
+
+==Personal life==
+
+It is not known whether he was born at [[Perpignan]], where he lived for some years, or in another [[Catalonia|Catalan]] town. In his youth he attended a [[Talmudic]] school in [[Germany]] for a short time, but instead of confining his studies to the Talmud, he took up philosophy and other sciences also, in spite of the interdiction of his teachers. Duran became a tutor in the [[Crescas]] family, and during the bloody riots of 1391 was forcibly baptized, becoming a [[marrano]].
+
+After escaping Spain, he returned to practicing Judaism openly, and wrote a number of works including polemics against Christianity and grammar. He appears to have also attempted to reach Palestine, however it is unclear whether he made it. He died in 1414/1415 in Iberia, France, or the East.<ref>{{cite book |last1=Grossman |first1=Maxine |title=The Oxford Dictionary of the Jewish Religion |date=2011 |publisher=Oxford University Press |isbn=978-0-19-973004-9 |page=223 |url=https://books.google.com/books?id=hKAaJXvUaUoC&pg=PA223 |language=en}}</ref><ref>{{cite web |title=Profiat Duran |url=https://www.britannica.com/biography/Profiat-Duran |website=Encyclopedia Britannica |publisher=Encyclopædia Britannica, inc. |language=en}}</ref><ref>{{cite web |last1=Zwiep |first1=Irene |title=Duran, Profiat |url=https://referenceworks.brillonline.com/entries/encyclopedia-of-the-medieval-chronicle/duran-profiat-SIM_00907 |website=Encyclopedia of the Medieval Chronicle |language=en |date=13 September 2016}}</ref><ref>{{cite web |title=Duran, Profiat (Ephodi) {{!}} Encyclopedia.com |url=https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/duran-profiat-ephodi |website=www.encyclopedia.com |publisher=New Catholic Encyclopedia}}</ref>
+
+==Works==
+
+===''Al Tehi Ka-Aboteka'' ("Be Not Like Thy Fathers")===
+Duran is the author of a famous satiric epistle called, after the repeatedly recurring phrase, ''Al Tehi Ka-Aboteka'' (''Be Not Like Your Fathers''). It was written about 1396, and was circulated by Don Meïr Alguades, to whom it had been sent. It is so ingeniously ambiguous that the Christians, who called it ''Alteca Boteca'', interpreted it in their favor; but, as soon as they recognized its satirical import they burned it publicly. This epistle, with a commentary by [[Joseph ibn Shem-Tov]] and an introduction by [[Isaac Akrish]], was first printed at [[Constantinople]] in 1554, and was republished in A. Geiger's ''Melo Chofnajim'', 1840, in the collection ''Ḳobeẓ Wikkuḥim,'' 1844, and in P. Heilpern's ''Eben Boḥan'', part 2, 1846. Geiger also translated most of it into German (''Wissenschaftliche Zeitschrift,'' iv. 451).
+
+According to an account written at the top of one of the manuscripts of the epistle, Duran and his friend [[David Bonet Bonjourno]] made up a plan to emigrate to [[Palestine (region)|Palestine]] in order to return to [[Judaism]]. The two friends set out on their journey, getting as far as Avignon, where they met up with another converso, [[Paul of Burgos]] (who had become a believing Christian priest, and had achieved the rank of Bishop).  Paul disrupted their plan{{Citation needed|date=September 2020}} by persuading Bonjourno to become a true Christian, and Duran was forced to return to Catalonia.  In response to these events, Duran wrote ''Be Not Like Your Fathers''.
+
+Some scholars ([[Frank Talmage]], among others{{Citation needed|date=February 2012}}) have dismissed this fanciful account as implausible.  However, there is a certain amount of corroborating evidence.  The notarial ledgers of Perpignan show several transactions in 1393 and 1394 in which Duran (known officially by his Christian name Honoratus de Bonafe) moved assets across the border to France.  Also, Paul of Burgos is documented to have been in [[Avignon]] in 1394 for the conclave in which the [[Antipope Clement VII]] was elected.
+
+===''Kelimmat ha-Goyim'' ("Shame of the Gentiles")===
+Connected with this epistle is the polemic ''Kelimmat ha-Goyim'' ("Shame of the Gentiles"), a criticism of Christian dogmas, written in 1397 at the request of Don [[Hasdai Crescas]], to whom it was dedicated.<ref>Berger D. in ''Essays in honour..'' 1998 p34, footnote 41 on p39</ref>  In it, Duran states the principle that the most convincing polemical technique is to argue within one's opponents own assumptions.  Using the knowledge of Latin he gained from his medical studies and the indoctrination he received as a converso, he identifies what he sees as internal contradictions within the [[New Testament]], and discrepancies between its literal text and church dogma.  The work can be seen as a precursor of modern [[textual criticism]]. In about 1397 Duran wrote an [[Criticism of Christianity|anti-Christian]] polemic, ''Kelimat ha-Goyim'' (“Shame of the Gentiles”) which some have seen as having discredited the [[Gospels]] and other [[early Christian]] writings. Although he did not accept the defence used by [[Nachmanides]] at the [[Disputation of Barcelona]] (1263) of [[Jesus in the Talmud|"two Jesuses" in the Talmud]].<ref>David Berger in ''Jewish history and Jewish memory: essays in honor of Yosef Hayim'' p 39 Yosef Hayim Yerushalmi, Elisheva Carlebach, John M. Efron - 1998 p34 then footnote 41 Kelimat ha goyim 63 "This discussion makes it perfectly clear that Duran gave no credence to a theory of two Jesuses."</ref> He argued that the old Spanish word for pigs, ''Marrano'' [see too: [[Marranos]]], was derived from the Hebrew word for conversion, ''hamarah''.
+
+===''Hesheb ha-Efod'' ("The ephod's girdle") ===
+In 1395 Duran compiled an almanac in twenty-nine sections entitled ''Ḥesheb ha-Efod'' ("The ephod's girdle"), and dedicated to [[Moses Zarzal]], writer and physician to [[Henry III of Castile]] (1379–1406). That Duran was familiar with the philosophy of [[Aristotelianism#Islamic world|Aristotle as interpreted by Muslim philosophers]], is apparent from his synoptic commentary on [[Maimonides]]' ''[[The Guide for the Perplexed]]'', which was published at [[Sabbionetta]] in 1553, at [[Jeßnitz]] in 1742, and at [[Zhovkva]] in 1860.
+
+===''Ma'aseh Efod'' ("The making of the ephod")===
+Duran's chief work, praised by both Christians and Jews, is his philosophical and critical [[Hebrew]] grammar, ''Ma'aseh Efod'' ("The making of the ephod"), containing an introduction and thirty-three chapters, and finished in 1403. He wrote it not only to instruct his contemporaries, who either knew nothing about grammar or had erroneous notions concerning it, but especially to refute mistakes promulgated by the later grammarians. He frequently cites the otherwise unknown [[Samuel Benveniste]] as an eminent grammarian. See the edition of J. Friedländer and J. Kohn (Vienna, 1865). In 1393 Duran wrote a dirge on [[Abraham ben Isaac of Narbonne|Abraham ben Isaac]] ha-Levi of Gerona, probably a relative; three letters containing responsa, to his pupil Meïr Crescas; and two exegetical treatises on several chapters of II [[Books of Samuel|Samuel]], all of which have been edited as an appendix to the ''Ma'aseh Efod.''
+
+In the introduction, he discusses music, contrasting two varieties, [[Hebrew cantillation|cantillation]] (''ta'amei ha-miqra'') and post-Biblical hymns (''piyyutim''). He states that while the latter appeals to the senses, the former appeals to the mind. He prefers cantillation, following his belief that the [[Torah]] is perfect, and uses it for both liturgical reading and study.<ref>{{Cite Grove |last=Harrán |first=Don |title=Profiat Duran}}</ref>
+
+===Other works, lost works===
+At the request of some members of the [[Benveniste]] family, Duran wrote an explanation of a religious festival poem by [[Abraham ibn Ezra]] (printed in the collection ''Ta'am Zeḳenim'' of [[Eliezer Ashkenazi]]), as well as the solution of Ibn Ezra's well-known riddle on the quiescent letters of the Hebrew alphabet (quoted by [[Immanuel Benvenuto]] in his grammar ''Liwyat Ḥen,'' Mantua, 1557, without mentioning Duran), and several explanations relating to Ibn Ezra's commentary on the [[Pentateuch]].
+
+Duran was also a historian. In a lost work entitled ''Zikron ha-Shemadot'' he gave the history of Jewish martyrs since the destruction of the Temple. [[Heinrich Graetz]] has shown that this work was used by Solomon Usque and [[Judah ibn Verga]].
+
+==References==
+{{Reflist}}
+{{JewishEncyclopedia|url=http://www.jewishencyclopedia.com/view.jsp?letter=D&artid=526|article=Duran}} Its bibliography:
+*''Monatsschrift,'' iii.320 et seq.;
+*J. Friedländer and J. Kohn, ''Ma'aseh Efod,'' Introduction, pp.&nbsp;2–12;
+*S. Gronemann, ''De Profiatii Durani Vita ac Studiis,'' Breslau, 1869;
+*[[Moritz Steinschneider]], ''Cat. Bodl.'' cols. 2112 et seq.;
+*[[Giovanni Bernardo De Rossi]]-[[C. H. Hamberger]], ''Historisches Wörterbuch,'' pp.&nbsp;261 et seq.;
+*[[Henri Gross]], ''Gallia Judaica,'' pp.&nbsp;358 et seq., 472;
+*[[Heinrich Grätz]], ''Gesch.'' viii.94, 403.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Duran, Profiat}}
+[[Category:1350 births]]
+[[Category:1415 deaths]]
+[[Category:Philosophers of Judaism]]
+[[Category:Medieval Jewish philosophers]]
+[[Category:Medieval Hebraists]]
+[[Category:14th-century philosophers]]
+[[Category:Philosophers from Catalonia]]
+[[Category:Conversos]]
+[[Category:Jewish apologists]]

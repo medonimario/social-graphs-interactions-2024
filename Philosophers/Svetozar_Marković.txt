@@ -1,0 +1,155 @@
+{{Short description|Serbian political activist and philosopher and literary critic}}
+{{confused|Svetozar Marković (footballer)}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox philosopher
+|region           = {{c|Serbian philosophy}}
+|era              = [[19th-century philosophy]]
+|image       = Svetozar Markovic.jpg
+|image_size       = 200px
+|caption    = Portrait of Svetozar Marković
+|name             = Svetozar Marković
+|native_name = {{lang|sr|Светозар Марковић}}
+|birth_date       = {{Birth date|1846|9|21|df=yes}}
+|birth_place      = [[Zaječar]], [[Principality of Serbia]]
+|death_date       = {{Death date and age|1875|2|26|1846|9|21|df=yes}}
+|death_place      = [[Trieste]], [[Austria-Hungary]]
+|school_tradition = [[Socialism]]
+|main_interests   = 
+|notable_works    = ''[[Serbia in the East]]''
+|influences       = {{flatlist|
+* [[Nikolai Chernyshevsky]]
+* [[Karl Marx]]
+}}
+|influenced       = {{flatlist|
+* [[Nikola Pašić]]
+* [[Ljubodrag Simonović]]
+}}
+|signature        = 
+}}
+
+'''Svetozar Marković''' ({{lang-sr-Cyrl|Светозар Марковић}}, {{IPA|sh|sʋêtozaːr mǎːrkoʋit͡ɕ|pron}}; 9 September 1846 &ndash; 26 February 1875) was a [[Serbs|Serbian]] [[political activist]], [[literary critic]] and socialist [[philosopher]]. He developed an activistic [[anthropological]] [[philosophy]] with a definite program of social change. He was called the Serbian [[Nikolay Dobrolyubov]].
+
+==Early life==
+Marković was born in the town of [[Zaječar]] on 9 September 1846, the son of a police clerk.<ref>{{cite book |last1=Partington |first1=Paul G. |title=Who's who on the Postage Stamps of Eastern Europe |date=1979 |publisher=Scarecrow Press |isbn=978-0-81081-266-6 |page=261}}</ref> He claimed to partially be of [[Albanians|Albanian]] origin.<ref name="AMH">{{cite book | last=Hoare | first=M.A. | title=Serbia: A Modern History | publisher=Hurst Publishers | year=2024 | page=218}}</ref>{{dubious|date=November 2024}} Marković's childhood was spent in the village of [[Rekovac]] and then the town of [[Jagodina]].{{sfn|McClellan|2015|p=30}} The family moved to [[Kragujevac]] in 1856.{{sfn|McClellan|2015|p=31}} He reached adolescence at about the time [[Mihailo Obrenović]] became the Prince of Serbia. In 1860 he began to study at the [[gymnasium (school)|gymnasium]] in [[Belgrade]] and in 1863 at the [[Grandes écoles|''Velika škola'' of Belgrade]], the highest educational body in Serbia at that time, founded in 1808.{{sfn|McClellan|2015|p=32}}
+
+While at the ''[[Grandes écoles|Velika škola]]'' he became interested in literature and politics, falling under the influences of [[Vuk Karadžić]] and [[Vladimir Jovanović (politician)|Vladimir Jovanović]], a leading Serbian Liberal.<ref name="Lane">{{cite book |last1=Lane |first1=A. T. |title=Biographical Dictionary of European Labor Leaders, Volume 2 |date=1995 |publisher=Greenwood Publishing Group |isbn=978-0-31329-900-1 |pages=617–618 |url=https://books.google.com/books?id=H3vjdU-v4isC&pg=PA617}}</ref> Because of his outstanding record as a student at the Belgrade college, his professors unanimously nominated him for a post-graduate scholarship to study abroad.{{sfn|McClellan|2015|p=43}} He chose to study in [[Russia]], in St. Petersburg in particular,<ref name="Daskalov & Mishkova">{{cite book |last1=Daskalov |first1=Roumen |last2=Mishkova |first2=Diana |title=Entangled Histories of the Balkans - Volume Two: Transfers of Political Ideologies and Institutions |date=2013 |publisher=BRILL |isbn=978-9-00426-191-4 |page=206 |url=https://books.google.com/books?id=l0RWAgAAQBAJ&pg=PA206}}</ref> at the Alexander I Institute of Communication Engineers.<ref>Svetozar Marković in Russia, Gale Stokes, Slavic Review, Vol. 31, No. 3 (Sep., 1972), pp. 611-612</ref>
+
+==Study abroad==
+For the next three years, he lived in Russia and came under the influence of Russian radicals of the 1860s.<ref>{{cite book |last1=Jelavich |first1=Charles |last2=Jelavich |first2=Barbara |title=The Balkans in Transition |date=1963 |publisher=University of California Press |page=155 |url=https://books.google.com/books?id=A0mWfovlJ9cC&pg=PA155}}</ref> These were followers of the agrarian socialist [[Nikolai Chernyshevsky]], who wrote and edited [[Nikolay Nekrasov]]'s ''The Contemporary'' magazine. There he also met [[Dmitry Pisarev]] and [[Lyuben Karavelov]], who in the autumn of 1876 took part as a volunteer in the [[Serbian–Ottoman War (1876–78)|Serbian–Ottoman War]], and subsequently joined the [[Opalchentsi|Bulgarian irregular contingent]] with the Russian army in the [[Russo-Turkish War (1877–78)|war of 1877–78]]. Together with a few other men of birth and education, [[Mikhail Katkov]], [[Konstantin Pobedonostsev]], and [[Aleksey Suvorin]], Marković began secretly to sow the sentiments of democracy among the peasants. His sympathetic nature was influenced by indignation against the brutal methods adopted towards activists, especially political prisoners, and by the stern measures which the authorities felt compelled to adopt in order to repress the revolutionary movement. His indignation carried him into accord for a time with those who advocated the acceptance of constitutional methods. In consequence, he exposed himself to danger by remaining in Russia for fear of being arrested by the Russian authorities for his socialist sympathies with the revolutionaries. He then left for Zurich, Switzerland to pursue political activity.<ref name="Daskalov & Mishkova" />
+
+He settled for a time in Switzerland, then known as the haven of revolutionary leaders, such as [[Johann Philipp Becker]] and others. At the ''[[ETH Zurich]]'', a STEM university in the City of Zurich, Marković resumed his interrupted studies and in his spare time continued to write articles on social and political issues.<ref name="Lane" /> There too, politics got in the way of his studies. His scholarship was rescinded after the publication of his article entitled "Our Delusions" (''naše obmane'') in the newspaper ''Zastava'' in 1869, which criticized the Serbian constitution and political regime.<ref name="Daskalov & Mishkova" /> When his scholarship was suspended, he returned to Belgrade with new ideas. He met journalist [[Pera Todorović]], one of the future founders of the '[[People's Radical Party]] and his wife journalist Milica Ninković, and other young intellectuals who wanted to make a change. Marković immediately began attracting attention and from 1868 until his early death, became one of the leading figures in Serbia's quest to reclaim its lost ancestral territories and enter into the [[comity]] of nations.
+
+==Back to the Balkans==
+Shortly after he arrived, he gathered a small group of students, which included the future Radical leader [[Nikola Pašić]]. At the time, Serbia was ruled by a regency on behalf of [[Milan I of Serbia|Prince Milan]], in place since 1868. In the spring of 1869, the Serbian Liberal Party signed an accord with the Regency and a constitution with a toothless assembly was set up. Marković denounced this deal as a sellout and formed a minuscule radical party.
+
+Marković now sought to wrest control of the youth wing ''Omladina'' from the Liberal Party. The Congress of Omladina met in late August 1870 in the Serbian city of [[Novi Sad]], which in those days was in the hands of Austria-Hungary yet close to the then Serbian border. Marković and his fellow radicals proposed a resolution calling for decentralization and a number of social measures which began with: "The solution of the nationality problem in [[Austria-Hungary]], and the [[Eastern Question]], on the principle of 'free humanity'."
+
+Vladimir Jovanović's liberal supporters countered with a call for an aggressive foreign policy saying that domestic policies had to take second place to unification of the South Slavs.  A compromise was reached calling for decentralization and an expansionist foreign policy.
+
+On 1 June 1871, Marković launched Serbia's first socialist newspaper with [[Đura Ljočić]] as editor. The paper, ''Radenik'' ("The Worker") struck a careful balance between outspokenness while avoiding printing anything that would get it banned. The paper proved very successful. It was soon being denounced by the establishment as the first socialist paper in the Balkans. A group of deputies of the Serbian National Assembly accused ''Radenik'' of propagating communism "thus striking at the very foundations of the state; faith morals and property."
+
+In March 1872, the government decided to arrest Marković however, warned in advance, he escaped across the [[Sava]] into Hungarian territory.  Finally ''Radenik'' overstepped the mark once too often when it published an article in which Christ was described as a communist and a revolutionary.  Using that as a pretext, the government banned the paper in May 1872 for blasphemy and treason.
+
+==''Serbia in the East''==
+He opened his literary career in June 1872 by a work on ''Srbija na istoku'' ("Serbia in the East"), published in Novi Sad, wherein he analyses the history of Serbia, interpreting the Serbian society before the [[First Serbian Uprising]] of 1804 as a society divided not so much on religious lines as by class. Marković argued that the [[Serbian Revolution|Serbian revolt against the Ottomans]] had a social character rather than a religious one. He saw the social organization of the Serbian peasants who played the leading role in eventual successful overthrow of Ottoman rule as insufficient to prevent the new state becoming a despotism which soon brought to life a parasitic bureaucracy.
+
+Marković argued that growth of Serbia while this bureaucracy was in control would not lead to greater freedom, but merely strengthen the power of that bureaucracy. As an alternative to this Marković advocated democratic federalism. Marković idealized the old Balkan family structure, the [[zadruga]], and believed that the state should merely serve to coordinate the activities of ''opštine'', or small communities organized on the ''zadruga'' principle. In fact, he preferred a federal and revolutionary Serbia:
+
+{{cquote|The idea of Serb unity is the most revolutionary idea that exists on the Balkan peninsula, from Istanbul to Vienna. The idea already contains within it the need of destroying Turkey and Austria, the end of Serbia and Montenegro as independent principalities and the revolution in the whole political make-up of the Serb people. A new Serbian state will rise from portions of these two empires and two Serbian principalities -- that is the meaning of Serb unification.}}
+
+At the time Marković was making an intensive study of socialism. And, from this framework for an analyses of Serbia came the basis for the growth of a movement of which Marković became the spiritual father and which years later, according to some, would become the Serbian Democratic Party under the leadership of [[Dimitrije Tucović]].
+
+==Return to Serbia==
+
+As an exile, Marković had carried on his former line of thought and activity. Owing to his political activities in [[Novi Sad]], Marković was expelled by the Hungarian authorities, but was promptly arrested upon his arrival in Serbia. He was already known in Eastern Europe by his book, ''Serbia in the East'', which had been published recently (1872). The new Prime Minister, [[Jovan Ristić]], immediately released him.  Ristić owed his position to the whim of Prince Milan, and as a result, was opposed by both the liberals and the conservatives. Ristić hoped that releasing Marković would keep the socialists off his back.
+
+On 8 November 1873, a new newspaper, ''Javnost'' ("The Public") began publication in [[Kragujevac]] with Marković as editor. Marković was initially quite gentle on the new conservative government that had come to power only a few weeks before ''Javnost'' began publication.
+
+''Javnost'''s criticism quickly became more strident.  The government lost patience and on 8 January 1874, Marković was arrested, even though he had handed over editorship by then. In the meanwhile, his supporters were running another newspaper, ''Glas Javnosti'', which was started in anticipation of ''Javnost'' being banned.
+
+==Trial==
+Marković had been in ill health for some time and being kept in a damp, poorly heated cell in a [[Požarevac]] [[gaol]] made matters worse.  His trial for "press crimes" began on 19 February 1874.
+
+Defending himself against the charges that he had "insulted" the National Assembly by dismissing it as a mere debating society, Marković answered that he had written the truth.  He then launched into a defense of the [[freedom of the press]].  On the charge that he had defended the right of the people "to overthrow a prince who does them evil and replace him with a good one", he denied that this was a call for revolution.  He had been talking in the abstract.
+
+16 years before the Marković trial, the Serbian people and the National Assembly exercised this right and in 1858 deposed [[Alexander Karađorđević, Prince of Serbia|Prince Alexander Karađorđević]] and recalled [[Milan I of Serbia|the reigning prince]]'s father, [[Miloš Obrenović]] to the throne.
+
+The trial attracted a large audience, including many of the local peasants.  As a result of the trial Marković became a symbol of the growing discontent against the government. Marković's conviction was a foregone conclusion but the sentence, 18 months in prison, was relatively light.  However, by now his general health problems had developed into full blown [[tuberculosis]].  The sentence was further reduced to nine months; it was far from certain that he would survive his term in prison. He was released on 16 November 1874, and went to [[Jagodina]] to convalesce.
+
+==Socialist success==
+During Marković's imprisonment and building on the publicity created by Marković's trial, for the first time socialists succeed in getting elected to the National Assembly and small but vocal group, advocating Marković's ideas, formed round the Serbian politician, Adam Bogosavljević.  Ignoring warnings that he needed to recover his health first, Marković was unable to stay in the background. On 1 January 1875 ''Oslobođenje'' (''Liberation'') came out, with Marković at the helm. He was as outspoken as ever at a time when harassment of socialists was in full swing.
+
+When, however, the police told him he had the choice either to submit to arrest or leave Serbia, he chose the latter.  This time he had no illusions that prison would be anything other than a death sentence.
+
+==Death==
+Marković caught a [[Danube]] steamer for [[Vienna]]. Here the doctors told him that there was little hope for him, and they recommended he go to [[Dalmatia]] where the climate was warmer. He reached [[Trieste]] but collapsed in his hotel. He did not recover and died on 26 February 1875, at the age of 28. He is buried in [[Jagodina]] where he spent most of his youth.
+
+==Literature and politics==
+
+A major literary critic of this time was Svetozar Marković, who was also the first to introduce the doctrine of social reform among the Serbs. In contrast to previous trends, he believed that literature should actively serve the needs of the majority of the people and deal with the basic problems of everyday life. The acknowledged catalyst of the new trend, Svetozar Marković's influence was an indirect one; he was primarily a social and political thinker and publicist. In the 1870s Marković in Serbia and [[Vaso Pelagić]] in Bosnia and Herzegovina, Montenegro and Serbia were what their teachers Chernishevsky, Dobrolyubov, and Pisarev were in Russia in the 1860s.
+
+Immediately after the war and [[Paris Commune|revolution of 1870–71]], the nonviolent antistatism of [[Pierre-Joseph Proudhon]] reasserted its appeal to a new and chastened generation of social revolutionaries, this movement gained a new following in agrarian southern and eastern Europe. Seminal protagonists of populism like Russia's [[Nikolay Mikhaylovsky]] and Serbia's Svetozar Marković translated the works of Proudhon. Marković in particular exerted tremendous influence on his contemporaries recommending them to be positivists in science, republicans in politics, and realists or rather utiliterians in literature. He proudly subscribed to the realistic novels of [[Jakov Ignjatović]]. Practically all the new writers — [[Milovan Glišić]], [[Laza Lazarević]], [[Janko Veselinović (writer)|Janko Veselinović]], and [[Simo Matavulj]], to name only the best, were in one way or another under the influence of realism, including [[Jaša Tomić]] and poet [[Vladimir M. Jovanović]] (1859–1898). Under Marković's influence, Glišić undertook to translate [[Gogol]]'s ''[[Dead Souls]]'' and [[Tolstoy]]'s ''[[War and Peace]]''.
+
+In the elections of 1875 the socialist-radicals made significant gains and were for a time a significant force in Serbian politics. It was not however able to stay united in the long term. In 1881 [[Nikola Pašić]] and other followers of Marković founded a new radical party.
+
+Socialist ideas of Svetozar Marković lived after him. For example, [[Jovan Skerlić]] began to work for various socialist and opposition newspapers, such as ''Socijaldemokrat'' ("Social Democrat"), ''Radničke novine'' ("Worker's Herald"), and ''Delo'' ("Work").
+
+Altogether, Marković ought to be seen as a thinker of depth and originality, independence and earnestness, whose short and difficult life did much towards the knowledge and appreciation of Serbian thought. Many Serbian traditionalists regard him as the heretic and a dangerous modernist. There is no doubt that when he treats more purely theological questions he sometimes lays himself open to a charge of that kind. Marković is at his best and surest in the philosophy of history and in ethics. He is the chief representative of an important philosophical school of which many members whose thought is largely occupied with the nature and destiny of man and society—a school which is not without a certain influence on Christians.
+
+==Legacy==
+The Socialism of the new radical party did not survive the failure of the 1883–1884 Timok uprising, after which the radicals repackaged themselves as a [[nationalist]] party. For the Yugoslav communists, Marković was merely a [[Utopian]]. Nevertheless, his writings (extensive considering how young he died) remained influential even though no political party claimed to follow in his footsteps. Anarchist [[Krsta Cicvarić]], speaking in 1920, said "all of us in Serbia who are democrats or socialists learned the political ABC's from Marković."
+
+A Yugoslav film on his life, ''Svetozar Marković'', directed by Eduard Galić, was first shown in 1980. The [[Belgrade University Library]] is named after Svetozar Marković, along with numerous institutions in Serbia. He is included in [[The 100 most prominent Serbs]].
+
+==Selected works==
+*Pevanja i mišljenja (1869.)
+*Realnost u poeziji (1870.)
+*Srbija na Istoku (1872.)
+*Načela narodne ekonomije (1874.)
+
+== See also ==
+* [[Jovan Došenović]]
+* [[Vladimir Jovanović (politician)|Vladimir Jovanović]]
+* [[Božidar Knežević]]
+* [[Dimitrije Matić]]
+* [[Konstantin Cukić]]
+
+==References==
+{{reflist}}
+
+==Sources==
+*{{cite book|last1=McClellan|first1=Woodford|title=Svetozar Markovic and the Origins of Balkan Socialism|url=https://books.google.com/books?id=eBjWCgAAQBAJ&pg=PA290|year=2015|orig-year=1964|publisher=Princeton University Press|isbn=978-1-4008-7585-6|page=290}}
+*{{cite book|author=Veselin Masleša|title=Svetozar Marković: studija|url=https://books.google.com/books?id=1GYqAQAAIAAJ|year=1946|publisher=Izd. Kulture}}
+*{{cite book|author=Svetislav Prvanović|title=Svetozar Marković: poreklo i mesto rođenja|url=https://books.google.com/books?id=l4M6AQAAIAAJ|year=1966|publisher=Timok}}
+*{{cite book|author=Predrag Protić|title=Svetozar Marković i realni pravac u književnosti|url=https://books.google.com/books?id=58IcAAAAMAAJ|year=1987|publisher=Matica Srpska}}
+*{{cite book|author=Ilija Kecmanović|title=Vuk, Njegoš, Svetozar Marković|url=https://books.google.com/books?id=Nuo-AQAAIAAJ|year=1949|publisher=Svjetlost}}
+*{{cite book|author=Avdo Humo|title=Svetozar Marković: filozof i revolucionar|url=https://books.google.com/books?id=iutBAAAAYAAJ|year=1975|publisher=Institut za politic̆ke studije Fakulteta politic̆kih nauka}}
+*{{cite book|author=Uroš Milojević|title=Svetozar Marković, socijalno-ekonomski mislilac|url=https://books.google.com/books?id=vwseAAAAIAAJ|year=1978|publisher=Narodna knjiga}}
+*{{cite book|author=Vitomir Vuletić|title=Svetozar Marković i ruski revolucionarni demokrati|url=https://books.google.com/books?id=ryJXAAAAMAAJ|year=1964|publisher=Matica Srpska}}
+*{{cite book|author=Jovan Skerlić|title=Svetozar Marković, njegov život, rad i ideje|url=https://books.google.com/books?id=zIM6AQAAIAAJ|year=1910|publisher=L.M. Davidović}}
+*{{cite book|author=Predrag Palavestra|title=Svetozar Marković i Srpska književnost|url=https://books.google.com/books?id=cu3hMv8esYQC|year=1975|publisher=Nolit}}
+*{{cite book|author1=Đorđe Mitrović|author2=Savo Andrić|title=Svetozar Marković i njegovo doba: ilustrovana biografija|url=https://books.google.com/books?id=IjQBAAAAMAAJ|year=1978|publisher=Rad}}
+*{{cite book|title=Svetozar Marković i radikalna stranka u Srbiji|url=https://books.google.com/books?id=7NVimgEACAAJ|year=1977|last1 = Janković|first1 = Dragoslav}}
+*{{cite book|author=Predrag Trajković|title=Svetozar Marković i klasno i političko organizovanje radničke klase|url=https://books.google.com/books?id=kLX8OAAACAAJ|year=1988|orig-year=1987|publisher=Marksistički centar "Svetozar Marković"}}
+*{{cite book|title=Svetozar Marković o radništvu i društveno-istorijska uloga radničke klase|url=https://books.google.com/books?id=aZT7HAAACAAJ|year=1980|orig-year=1979|publisher=Klub samoupravljača "Svetozar Marković"}}
+* [[Jovan Skerlić]], ''Istorija Nove Srpske Književnosti'' (Belgrade, 1921), pages 427–430.
+
+==External links==
+{{commons category|Svetozar Marković}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Markovic, Svetozar}}
+[[Category:1846 births]]
+[[Category:1875 deaths]]
+[[Category:Serbian politicians]]
+[[Category:Serbian socialists]]
+[[Category:19th-century Serbian philosophers]]
+[[Category:Serbian political philosophers]]
+[[Category:Serbian literary critics]]
+[[Category:Literary critics of Serbian]]
+[[Category:Academic staff of Belgrade Higher School]]
+[[Category:People from Zaječar]]
+[[Category:People from the Principality of Serbia]]
+[[Category:19th-century Serbian people]]
+[[Category:Socialism in the Principality of Serbia]]

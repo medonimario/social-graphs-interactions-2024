@@ -1,0 +1,164 @@
+{{Short description|Russian religious philosopher, historian-medievalist, and poet}}
+{{Family name hatnote|Platonovich|Karsavin|lang=Eastern Slavic}}
+{{Infobox philosopher
+| native_name      = {{nobold|Лев Карсавин}}
+| native_name_lang = ru
+| image            = Lev Karsavin.jpg
+| birth_date       = {{birth date|df=yes|1882|12|13}}
+| birth_place      = [[Saint Petersburg]], [[Russian Empire]] (now Russia)
+| death_date       = {{death date and age|df=yes|1952|07|20|1882|12|13}}
+| death_place      = [[Abez, Komi Republic|Abez, Komi ASSR]], [[Russian SFSR]], [[Soviet Union]] (now [[Komi Republic]], Russia)
+| alma_mater       = [[Saint Petersburg Imperial University]]
+| era              = [[19th-century philosophy|20th-century philosophy]]
+| region           = [[Russian philosophy]]<br />[[Western philosophy]]
+| school_tradition = [[Continental philosophy]]
+| influences       = [[Origen]], [[Vladimir Solovyov (philosopher)|Vladimir Solovyov]], [[Ivan Grevs]]
+| influenced       = [[Vladimir Lossky]],<ref>{{cite web |last1=Sauvé |first1=Ross J. |title=Georges V. Florovsky And Vladimir N. Lossky: An Exploration, Comparison And Demonstration Of Their Unique Approaches To The Neopatristic Synthesis |url=http://etheses.dur.ac.uk/591/1/RJSThesisPDF.pdf?DDD32+ |website=Durham E-Theses |access-date=21 August 2022}}</ref> [[A. D. Lublinskaya|Alexandra Lublinskaya]]
+}}
+{{Eurasianism}}
+'''Lev''' (Leo) '''Platonovich Karsavin''' ({{langx|ru|link=no|Лев Платонович Карсавин}}; {{langx|lt|link=no|Levas Karsavinas}}; 13 December 1882 – 17 or 20 July 1952<ref>{{Cite web|url=https://regnum.ru/news/innovatio/2587621.html|title=Подлинная дата кончины Льва Карсавина|author=Шаронов Владимир|website=Информационное Агентство "Регнум"|date=2019-03-08|publisher=regnum.ru|accessdate=2019-03-09}}</ref>) was a Russian religious philosopher, historian-[[Medieval studies|medievalist]], and poet.<ref>{{cite web |title=Karsavin Lev |url=https://relstud-hist.spbu.ru/en/articles/en-karsavin-lev-platonovic |website=relstud-hist.spbu.ru |access-date=20 August 2022}}</ref><ref>{{cite web |last1=Davydov |first1=Oleg |title=Lev Karsavin: Theological path of all-unity |url=http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-94222020000100011 |website=HTS Theological Studies}}</ref>
+
+== Biography ==
+
+=== Early years ===
+
+Lev Platonovich Karsavin was born into the family of [[Platon Karsavin|Platon Konstantinovich Karsavin]], a ballet actor at the [[Mariinsky Theatre]], and his wife Anna Iosifovna, née Khomyakova, the daughter of the cousin of [[Aleksey Khomyakov]], a famous [[Slavophile]].<ref>{{cite web |last1=Мелих |first1=Ю.Б. |title=О личности Л.П. Карсавина. К 125-летнему юбилею |url=http://vestnik.mstu.edu.ru/v10_3_n28/articles/11_melikh.pdf |website=Вестник МГТУ |publisher=Вестник МГТУ, том 10, №3, 2007 г. |access-date=29 August 2022}}</ref> He was the brother of the ballerina [[Tamara Karsavina]].
+
+He was a student of [[Ivan Grevs]], graduated from the Faculty of History and Philology of [[Saint Petersburg State University]].<ref name="ssora">{{cite web |last1=Свешников |first1=Антон |title=Как поссорился Лев Платонович с Иваном Михайловичем |url=https://polit.ru/article/2009/09/25/sveshnikov/ |website=polit.ru |access-date=10 September 2022}}</ref> From 1909 he taught at the [[Petrograd Institute of History and Philology]] (professor since 1912, inspector since 1914) and at the [[Bestuzhev Courses]]. He was the [[Privatdozent]] of the [[Saint Petersburg Imperial University]] (from 1912), then professor (from 1916).
+
+His [[Master's degree|Master's]] thesis is a monograph entitled ''Essays on religious life in Italy in the 12th and 13th centuries'' (1912; defended 1913). His [[Doctorate|doctoral]] thesis is ''The foundations of medieval religiosity in the 12th to 13th centuries, mainly in Italy'' (1915; defended 1916).
+
+He was a member of the Petrograd {{ill|Brotherhood of St. Sophia|ru|Братство Святой Софии}} (1918–1922).  He was one of the founding members of the {{ill|Free Philosophical Association|ru|Вольная философская ассоциация}} (1919–1924).<ref name="spb-enc">{{cite web |title=Энциклопедия Санкт-Петербурга |url=http://encspb.ru/object/2805400539?lc=ru |website=encspb.ru |access-date=10 September 2022}}</ref> In 1920, he became one of the founders of the {{ill|Petropolis Publishing House|ru|Петрополис (издательство)}} and one of the founders and professors of the {{ill|Petrograd Theological Institute|ru|Петроградский богословский институт}}. In 1921 he was elected professor of the Social-Pedagogical and Legal Departments of the Faculty of Social Sciences at [[Petrograd University]], and chairman of its Social-Pedagogical Department.
+
+In August 1922 he was arrested and sentenced to exile abroad without the right to return. He was released shortly before the expulsion.
+
+=== Emigration and Eurasianism ===
+[[File:Levas Karsavinas Vosylius Sezemanas.jpg|thumb|Memorial tables of Lev Karsavin and [[Vasily Seseman]] in the Grand Courtyard of [[Vilnius University]]]]
+
+Karsavin was expelled in November 1922, together with a group of forty-five scientific and cultural figures ([[Nikolai Berdyaev]], [[Sergei Bulgakov]], [[Semyon Frank]], [[Ivan Ilyin]] and others) and their family members to Germany (see [[Philosophers' ships]]). In [[Berlin]], he was elected deputy chairman of the Bureau of the Russian Academic Union in Germany, and became one of the organizers and a member of the {{ill|Russian Institute of Science|ru|Русский научный институт (Берлин)}}. He was a co-founder (together with [[Nestor Kotlyarevsky]]) of the Obelisk publishing house. From 1926 he lived in [[Clamart]] near Paris. Karsavin joined the [[Eurasianism|Eurasian movement]]: he headed the Eurasian Seminar in [[Paris]] and was a member of the editorial board of the newspaper ''Eurasia'' (1928-1929) and its leading author, he also participated in Eurasian compilations.
+
+=== Lithuania ===
+At the end of 1927, Karsavin was invited to take up the chair of general history at the [[Vytautas Magnus University]] in [[Kaunas]]. He lived in Kaunas from 1928. From 1928 to 1940, he was professor of general history at the university (from 1929 he taught in [[Lithuanian language|Lithuanian]]). After [[Soviet occupation of Lithuania (1940)|Lithuania became part of the USSR]], he stayed. With the transfer of the university's Faculty of Humanities to [[Vilnius]] in 1940, he became a professor at [[Vilnius University]]. From 1941, he simultaneously taught at the [[Vilnius Academy of Arts]]. For a short time, he worked at the [[Lithuanian National Museum of Art|National Museum of Art]].
+
+While living in Lithuania, he edited academic publications and published his own books in Russian, ''On Personality'' (1929) and ''A Poem on Death'' (1931). He also published works in [[Lithuanian language|Lithuanian]]. These included ''Theory of History'' (1929), a fundamental five-volume study ''The History of European Culture'' (1931–1937), and several dozen articles on medieval philosophy and theology in the encyclopedia ''[[Lietuviškoji enciklopedija]]'' and magazines.
+
+=== Arrest and death ===
+In 1944, the Soviet authorities suspended him from teaching at the Vilnius University and fired him from the museum. In 1949, he was fired from the Academy of Arts as well. Karsavin was arrested and accused of "participating in the anti-Soviet [[Eurasianism|Eurasianist movement]] and preparing to overthrow the Soviet state". In March 1950, he was sentenced to ten years of [[Correctional labour camp|labour camps]] by the [[Ministry of State Security (Soviet Union)|Ministry of State Security]]. He died of [[tuberculosis]] in the [[Abez camp]], a special camp for the disabled in the settlement of [[Abez, Komi Republic]].<ref>{{Cite web |title=Карсавин Лев Платонович (1882) |url=https://ru.openlist.wiki/%D0%9A%D0%B0%D1%80%D1%81%D0%B0%D0%B2%D0%B8%D0%BD_%D0%9B%D0%B5%D0%B2_%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_(1882) |access-date=2022-08-21 |website=Открытый список |language=ru}}</ref>
+
+== Commemoration ==
+[[File:Atminimo lenta 2008-06-01.jpg|thumb|Memorial plaque in Kaunas]]
+
+In 1989, the burial place of Lev Karsavin was found in an abandoned camp cemetery near the village of [[Abez, Komi Republic|Abez]]. This happened thanks to the personal archive of the widow of {{ill|Anatoly Vaneev (poet)|ru|Ванеев, Анатолий Анатольевич|lt=Anatoly Vaneev}}, a disciple of Karsavin, which preserved a photograph at the grave marked П-11, as well as the testimony of former prisoners of the Abez camp. In 1990, the leaders of [[Sąjūdis]] in Lithuania had the idea of transferring Karsavin's remains to the capital, but Karsavin's daughters Susanna and Marianna spoke out against the idea. In 1990, Abez resident Viktor Lozhkin installed a cross on the grave, and Lithuanian NGOs erected a monument to the repressed in the form of a torn metal sheet on a pedestal with a tear in the shape of a cross.
+
+In December 1992, on the occasion of his 110th birthday anniversary, on the house at Krėvos Street 7 in [[Kaunas]], where Karsavin lived in 1935–1940, a memorial plaque was installed.<ref name="atm">{{cite web |title=Atminimo įamžinimas|url=http://atminimas.kvb.lt/asmenvardis6a4e.html?asm=KARSAVINAS%20LEVAS |website=atminimas.kvb.lt |access-date=10 September 2022}}</ref> The current Žaliakalnis Progymnasium school in [[Kaunas]] was named after Karsavin from 1994 to 2008 and a school in [[Vilnius]] was named after him in 1996.<ref>{{cite web |title=Levo Karsavino mokykla |url=http://www.karsavino.vilnius.lm.lt |website=Levo Karsavino mokykla |access-date=10 September 2022 |language=lt-LT}}</ref>
+
+In October 2005, a bilingual marble memorial plaque by sculptor {{ill|Romualdas Kvintas|lt|Romualdas Kvintas|ru|Квинтас, Ромуалдас}} was installed on the façade of the house on [[Didžioji Street]] in Vilnius, where Karsavin lived from 1940 to 1949.<ref>{{cite web |title=Vilnius - Levas Karsavinas |url=https://statues.vanderkrogt.net/object.php?webpage=ST&record=lt029 |website=statues.vanderkrogt.net |access-date=10 September 2022}}</ref> In February 2006, a memorial plaque was placed on the so-called "professor's house" (Žemuogių Street 6) in Kaunas in memory of the [[Vytautas Magnus University]] professors who lived in the building, mentioning Karsavin who lived there in 1928–1929.<ref name="atm"/>
+
+''The History of European Culture'' and other his works have been republished in [[Lithuanian language|Lithuanian]]. Selected treatises and poetry were included in a Lithuanian edition compiled by poet and translator {{ill|Alfonsas Bukontas|ru|Буконтас, Альфонсас|lt|Alfonsas Bukontas}}.<ref>{{cite book| author = Karsavinas Levas. | chapter = | chapter-url = | format = | url =  | title = Toje akimirkoje – amžinybė: studijos, traktatai, poezija | orig-year = | agency =  | edition =   |location= Vilnius |date = 2000 |publisher= Lietuvos rašytojų sąjungos leidykla |at=  |volume=  | pages = | page =  | series =  | isbn = 9986-39-136-9}}</ref> A book of Karsavin's [[sonnets]] and [[tercets]] was also published in a translation by Bukontas, with a parallel text in Russian.<ref>{{cite book| author = Karsavinas Levas. | chapter = | chapter-url = | format = | url =  | title = Tai tu mane kvieti. Sonetai ir tercinos | orig-year = | agency =  | edition =   |location= Vilnius |date = 2002 |publisher= Daigai |at=  |volume=  | pages = | page =  | series =  | isbn = 9986-767-09-1}}</ref>
+
+== Scientific activities ==
+His based on extensive material works of the early period are devoted to the history of medieval religious movements and the spiritual culture of the [[Middle Ages]].
+
+=== Philosophy ===
+
+Karsavin developed a special version of the [[Russian philosophy#Philosophy of all–unity of Vladimir Solovyov|philosophy of all–unity]] as applied to the problem of [[personality]], [[Historical method|methodology of history]], [[history of culture]], [[gnoseology]], [[ethics]], and [[sociology]]. He strove to create an integral system of the [[Christian worldview]]. He drew on early Christian teachings ([[Patristics]], [[Origen]]) and Russian religious philosophy, especially the tradition of [[Vladimir Solovyov (philosopher)|Vladimir Solovyov]]. For Karsavin, the idea of ''all-unity'' was understood as a dynamic principle of the formation of [[being]] and as a fundamental category of the historical process lying at the heart of [[historiosophy]].
+
+One of the main places in his writings is occupied by the concept of human [[personality]]. Karsavin believed that the development of human personality is closely linked to the process of its [[deification]]. Therefore, one of the issues that interested the philosopher was the question of whether a child is a person. According to Karsavin, a person with a developed personality, who has put it together from the fragmented state that characterizes the modern age, becomes spiritual and approaches [[God]], but has no way of reaching Him.
+
+Karsavin's concept of personality is connected with the concept of [[being]]. It is understood as a supreme existence in God, whereas real, earthly life is called ''бывание'' (presence; attendance), which emphasizes its finitude, its imperfection. Hence, a man, born into this world, is not yet a person in the sense that Karsavin understood it. They are just a kind of "blanks" or "substrates" that could potentially approach the state of an individual. However, they can become part of the Divine [[Hypostasis (philosophy and religion)|Hypostasis]] by dedicating their lives to the process of [[deification]], that is, to an existence analogous to the life of [[Christ]]. Also, in becoming a person, one should not aspire to do something unique. Personality develops in a person through the process of [[Internalization (sociology)|internalization]] of common divine values. Here the idea of ''all-unity'' is noticeable, as individuals, on the one hand possessing a certain natural individuality, internalize the same higher values, and, in addition, aim their lives toward the universal goal.<ref>{{cite journal |last1=Цепелева |first1=Н. В. |title=Философия личности Л. П. Карсавина и христианство |journal=Logos et Praxis |date=2014 |institution=[[Volgograd State University]]}}</ref>
+
+The philosopher understands the totality of personalities aspiring to God as the "symphonic", or [[Sobornost|sobor]], personality. Here Karsavin was drawing on a tradition of reflection of the "Man of the first creation" going back to [[Gregory of Nyssa]].<ref>{{cite journal |last1=Гутова |first1=С. Г. |title=Личность и мир в философии всеединства Л. П. Карсавина |journal=Вестник Челябинского государственного университета |date=2015 |institution=[[Chelyabinsk State University]]}}</ref>
+
+== Works ==
+* ''From the History of the Spiritual Culture of the [[Fall of the Roman Empire|Falling Roman Empire]]. The Political Views of [[Sidonius Apollinaris]]'' — file (in Russian): [[:File:Карсавин Л.П. Из истории духовной культуры падающей римской империи. Политические взгляды Сидония Аполлинария. (1908).djvu|Из истории духовной культуры падающей римской империи. Политические взгляды Сидония Аполлинария.]] Petersburg. 1908.
+* '' Essays on Religious Life in Italy in the 12th and 13th centuries''. [[:File:Карсавин Л.П. Очерки религиозной жизни в Италии XII-XIII веков. (1912).djvu|Очерки религиозной жизни в Италии XII—XIII вв. СПБ. 1912.]]
+* ''Monasticism in the Middle Ages.'' [https://web.archive.org/web/20071113191519/http://annals.xlegio.ru/evrope/small/msv.htm Монашество в Средние века.] — СПб.: Брокгауз и Ефрон, 1912. — [2], 109, [1] p. [[:File:Карсавин Л.П. Монашество в Средние века. (1912).pdf|PDF]]
+* ''The Foundations of Medieval Religiosity in the 12th to 13th centuries, mainly in Italy'' — [[:File:Карсавин Л.П. Основы средневековой религиозности в XII-XIII веках преимущественно в Италии. (1915).pdf|Основы средневековой религиозности в XII—XIII веках преимущественно в Италии.]] — Petersburg. Nauchnoe delo publishing house. 1915. — XVI, 360 p.
+* ''Culture of the Middle Ages'' — Культура средних веков. Petersburg. 1914.
+* ''Introduction to History'' — Введение в историю. Petersburg. 1920.
+* ''East, West, and the [[Russian Idea]]''  —  [http://elib.shpl.ru/ru/nodes/22433-karsavin-l-p-vostok-zapad-i-russkaya-ideya-pb-1922#page/1/mode/grid/zoom/1 Восток, Запад и русская идея], Petersburg. 1922. — 80 p.
+* ''G. Bruno''. Дж. Бруно. Berlin. 1923.
+* ''Philosophy of History'' — Философия истории. Berlin. 1923.
+* ''On the Beginnings'' — О началах. Berlin. 1925.
+* ''Response to [[Nikolai Berdyaev|Berdyaev]]'s Article on the [[Eurasianism|Eurasians]]'' — [http://www.odinblago.ru/path/2/10/ Ответ на статью Бердяева об евразийцах.] // The magazine Put' ("Path"). — 1926. — #2. — p.&nbsp;124—127
+* ''An Apologetic Study'' — [http://www.odinblago.ru/path/3/3/ Апологетический этюд.] // The magazine Put'. — 1926. — #3. — p.&nbsp;29-45
+* ''On the Perils and Overcoming of Abstract Christianity'' — [http://www.odinblago.ru/path/6/3/ Об опасностях и преодолении отвлеченного христианства.] // The magazine Put'. — 1927. — #6. — p.&nbsp;32-49
+* ''Prolegomena to the Doctrine of Personality'' — [http://www.odinblago.ru/path/12/2/ Пролегомены к учению о личности.] // The magazine Put'. — 1928. — #12. — p.&nbsp;32-46
+* Perí archon. Ideen zur christlichen Metaphysik. Memel, 1928.
+* ''On Personality'' — О личности. [[Kaunas]], 1929.
+* ''A Poem on Death'' — Поэма о смерти. 1931.
+* ''The History of European Culture'' — Europos kultūros istorija. [[Kaunas]], 1931–1937.
+* ''The Path of Orthodoxy'' — [http://www.odinblago.ru/put_pravoslavia Путь православия.] Berlin, 1923.
+* ''[[St. Augustine]] and Our Age'' — [http://www.odinblago.ru/avgustin_i_nasha_epoha Святой Августин и наша эпоха.] // Symbol. — 1992. — #28. — p.&nbsp;233—241
+
+== See also ==
+
+*[[Platon Karsavin]]
+*[[Tamara Karsavina]]
+*[[Ivan Grevs]]
+*[[Vasily Seseman]]
+*[[Vladimir Solovyov (philosopher)|Vladimir Solovyov]]
+
+== References ==
+{{reflist|2}}
+
+== Literature ==
+{{refbegin}}
+* Архив Л. П. Карсавина. Вып. I: Семейная корреспонденция. Неопубликованные труды / Сост., предисловие, комментарий П. И. Ивинского. — Вильнюс: Vilniaus universiteto leidykla, 2002. ISBN 9986-19-517-9
+* Архив Л. П. Карсавина. Вып. II: Неопубликованные труды. Рукописи / Сост., вступит. статья, комментарий П. И. Ивинского. — Вильнюс: Vilniaus universiteto leidykla, 2003. ISBN 9986-19-591-8
+* Библиография трудов Льва Карсавина / Изд. Александра Клементьева. Предисл. [[Nikita Struve|Никиты Струве]]. — Париж: Ин-т славянских исследований, 1994. — 63 с.
+* ''Бойцов М. А.'' [https://web.archive.org/web/20071113191552/http://annals.xlegio.ru/person/karsavin.htm Не до конца забытый медиевист из эпохи русского модерна...]
+* ''Ванеев А. А.'' Два года в Абези. В память о Л. П. Карсавине. — Брюссель: Жизнь с Богом, 1990. — 386 с.
+* ''Вебер Д. И.'' Исследование религиозной культуры в трудах Л. П. Карсавина // Религиоведение. — Благовещенск, 2017 — Т. 1.—С. 109–116.
+* Контексты Л. Карсавина. Вильнюс, 2004 (рец. ''Andrius Konickis''. Levo Karsavino kontekstai // Naujoji Romuva. — 2004. — No. 1 (546). — P. 3–11);
+* ''Ласинскас П.'' Лев Карсавин. Универсальная личность в контекстах европейской культуры. — М.: Изд-во Ипполитова, 2011. — 206 с., 100 экз. ISBN 978-5-93856-184-7
+* Лев Платонович Карсавин. — М. : [[ROSSPEN|РОССПЭН]], 2012.
+* ''Мелих Ю. Б.'' Философия Всеединства Карсавина и концепция единого у Плотина // Историко-философский ежегодник, 1997. — М., 1999. — С. 169−182.
+* ''Мелих Ю. Б.'' Персонализм Л. П. Карсавина и европейская философия. М., 2003.
+* ''Оболевич Т.'' Семён Франк, Лев Карсавин и евразийцы. М.: Модест Колеров, 2020. (Исследования по истории русской мысли. Т. 24). 304 с.
+* ''Резниченко А. И., Казарян А. Т.'' [http://www.pravenc.ru/text/1681165.html Карсавин] // [[Православная энциклопедия]]. — <abbr title="Москва">М.</abbr>, 2013. — Т. XXXI : «Каракалла — Катехизация». — С. 341–357. — 752 с. — <span class="nowrap">33 000 экз.</span> — ISBN 978-5-89572-031-8.
+* Русские философы в Литве: Карсавин, [[Vasily Seseman|Сеземан]], Шилкарский: [сб. науч. публ. / сост., подгот. к публ. вступ. ст. В. И. Повилайтис]. — Калининград: Изд-во Рос. гос. ун-та, 2005. — 93 с.
+* ''Свешников А. В.'' Анализ философии гностиков в трудах Л. П. Карсавина (методы и формы научного исследования). // Античный вестник, выпуск 3, Омск, ОмГУ, 1995.
+* ''Свешников А. В.'' Лев Карсавин : миф свободы в тексте жизни // Мифологема свободы в культуре XX века. Омск, ОмГУ, 1998.
+* ''Свешников А. В.'' [http://polit.ru/article/2009/09/25/sveshnikov/ Как поссорился Лев Платонович с Иваном Михайловичем (история одного профессорского конфликта)] // Новое литературное обозрение. — 2009. — No. 96.
+* ''Свешников А. В., Степанов Б. Е.'' История одного классика: Лев Платонович Карсавин в постсоветской историографии // Классика и классики в социальном и гуманитарном знании. — М. : НЛО, 2009. — С. 332–360.
+* ''Свешников А. В., Степанов Б. Е.'' Как Карсавин не «вышел в классики». К вопросу о характере и контекстах механизма классикализации в постсоветской историографии // Мир историка: историографический сборник / под ред. В. П. Корзун, С. П. Бычкова. — Вып. 7. — Омск. : Изд-во Ом. гос. ун-та, 2011. — С. 193–204.
+* ''Степанов Б. Е.'' Проблема достоверности в методологии истории культуры Л. П. Карсавина // Достоверность и доказательность в исследованиях по теории и истории культуры. Кн. 1. — М., 2002. — С.183-215.
+* ''[[Sergey Khoruzhiy|Хоружий С. С.]]'' Жизнь и учение Льва Карсавина // ''С. С. Хоружий'' После перерыва. Пути русской философии. — СПб.: Алетейя, 1994. — С.131-187.
+* ''Хоружий С. С.'' [https://iphlib.ru/greenstone3/library/collection/newphilenc/document/HASH012ba7dae986357d0de1772b Карсавин] // Новая философская энциклопедия : <span class="nowrap">в 4 т.</span> / пред. науч.-ред. совета В. С. Стёпин. — 2-е изд., испр. и доп. — <abbr title="Москва">М.</abbr> : Мысль, 2010. — 2816 с.
+* ''Шаронов В.'' [https://web.archive.org/web/20140903112453/http://www.ergojournal.ru/?p=1941 «Он всегда был русским». История установления места захоронения Льва Платоновича Карсавина.]
+* ''Шаронов В.'' [https://web.archive.org/web/20160330203022/http://www.ergojournal.ru/?p=2963 «Джиордано Бруно» как творческая исповедь и пророчество Льва Карсавина]
+* ''Ястребицкая А. Л.'' Историк-медиевист Лев Платонович Карсавин (1882—1952). — М., 1991.
+{{refend}}
+
+== External links ==
+* [https://web.archive.org/web/20130806174420/http://ru-news.ru/art_desc.php?aid=8744 Лев Платонович Карсавин — русский философ, историк-медиевист, поэт. Интервью с руководителем музея Л. П. Карсавина]
+* [https://web.archive.org/web/20080321184742/http://www.vpn.int.ru/index.php?name=Biography Карсавин, Лев Платонович: Биография. Библиография. Высказывания]
+* [http://www.russianresources.lt/archive/Karsavin/Kars_0.html Лев Карсавин (1882—1952): биография и тексты] {{webarchive|url=https://web.archive.org/web/20110617123810/http://www.russianresources.lt/archive/Karsavin/Kars_0.html}}
+* [https://web.archive.org/web/20070423142045/http://www.tvkultura.ru/news.html?id=191426 Лев Карсавин. Метафизика любви] — Documentary film (Russia, 2007). The director is Oleg Baraev.
+* [http://bioslovhist.history.spbu.ru/component/fabrik/details/1/747.html Карсавин Лев Платонович // Биографика СПбГУ]
+* [https://www.youtube.com/watch?v=51iIKLZG4sQ «Душа любить осуждена...» к 130 летию Льва Карсавина — Документальный фильм (Россия. 2012) автор: Владимир Шаронов]. (1882 г.-1922 г. Л. П. Карсавин и Е. Ч. Скржинская).
+* [https://www.youtube.com/watch?v=He7aYUEpfLM «Уроки обреченной веры» к 130 летию Льва Карсавина — Документальный фильм (Россия. 2012) автор: Владимир Шаронов] (1922—1927. Берлин, Париж, критика католицизма, евразийство и евразийцы) .
+* [https://www.youtube.com/watch?v=3Xgy8RfdR2o «Пока не требует поэта...» к 130 летию Льва Карсавина — Документальный фильм (Россия. 2013) автор: Владимир Шаронов] (1928—1949. Каунас, Вильнюс, вклад в литовскую культуру, отношения с католиками и католичеством, переписка с Г. А. Веттером, «Поэма о смерти»)
+* [https://www.youtube.com/watch?v=5vyn8ymXLkA Эпитафия. Телефильм Натальи Петренко с участием Константина Иванова и Ярослава Слининна]
+* [https://www.youtube.com/watch?v=C7r3_wyPLoE Могилы Льва Карсавина и Николая Пунина на мемориальном кладбище заключенных на станции Абезь в Республике Коми.]
+* [https://www.youtube.com/watch?v=qYKe5CbtGSc «Иная лучшая потребна мне свобода....» Четвертый фильм документального проекта «Симфоническая личность» (Россия. 2015) автор: Владимир Шаронов (1949—1952 г.г.).]
+* ''Степанов Б., Свешников А.'' [https://www.academia.edu/18199587/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0_%D0%9B%D0%B5%D0%B2_%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%9A%D0%B0%D1%80%D1%81%D0%B0%D0%B2%D0%B8%D0%BD_%D0%B2_%D0%BF%D0%BE%D1%81%D1%82%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_The_Story_of_a_Classic_The_Lev_P_Karsavin_in_post_Soviet_historiography История одного классика: Лев Платонович Карсавин в постсоветской историографии]
+
+{{Authority control}}
+
+[[Category:Academic staff of Vilnius University]]
+[[Category:Academic staff of Vytautas Magnus University]]
+[[Category:1882 births]]
+[[Category:1952 deaths]]
+[[Category:Eurasianists]]
+[[Category:White Russian emigrants to Lithuania]]
+[[Category:20th-century Russian philosophers]]
+[[Category:Philosophers of history]]
+[[Category:Philosophers of religion]]
+[[Category:Russian expatriates in Germany]]
+[[Category:Russian expatriates in Lithuania]]
+[[Category:Russian male writers]]
+[[Category:Tuberculosis deaths in the Soviet Union]]
+[[Category:People who died in the Gulag]]
+[[Category:Writers from Saint Petersburg]]

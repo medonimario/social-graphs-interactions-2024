@@ -1,0 +1,174 @@
+{{Short description|English cleric, mathematician and courtier (c.1300–1349)}}
+{{Use dmy dates|date=September 2020}}
+{{Use British English|date=June 2013}}
+{{Infobox Christian leader
+| name = Thomas Bradwardine
+| archbishop_of = [[Archbishop of Canterbury]]
+| image = Geometria speculativa. Thomas Bradwardine.jpg
+| imagesize =
+| alt = 
+| caption = [[Codex]] in Latin with the work  ''Geometria speculativa'', illustrated by Cola Rapino's workshop (1495)
+| appointed = 4 June 1349
+| enthroned =
+| ended = 26 August 1349
+| predecessor  = [[John de Ufford]]
+| successor = [[Simon Islip]]
+| ordination =
+| consecration = 19 July 1349
+| other_post =
+| birth_date = c. 1300
+| birth_place = [[Chichester]] or [[Hartfield]]
+| death_date = 26 August 1349
+| death_place = Canterbury
+| buried = Canterbury
+| education = [[Merton College, Oxford]]
+| nationality =
+| parents =
+| module = {{Infobox philosopher|embed=yes
+|region           = [[Western philosophy]]
+|era              = [[Medieval philosophy]]
+|name           = Thomas Bradwardine
+|alma_mater     = [[Balliol College, Oxford]]
+|school_tradition = {{plainlist|
+*[[Scholasticism]]
+*[[Oxford Calculators]]}}
+|main_interests   = [[Theology]], [[natural philosophy]]
+|influences       = [[Anselm of Canterbury]],<ref>Brian Davies, Brian Leftow (eds.), ''The Cambridge Companion to Anselm'', Cambridge University Press, 2004, p. 120.</ref> [[Robert Grosseteste]]<ref>Edith Wilks Dolnikowski, ''Thomas Bradwardine: A View of Time and a Vision of Eternity in Fourteenth Century Thought'', BRILL, 1995, p. 101 n. 4.</ref>
+|influenced       = [[Jean Buridan]]
+|notable_ideas    = ''[[Insolubilia]]''
+}}}}
+
+'''Thomas Bradwardine''' (c. 1300&nbsp;– 26 August 1349) was an [[English people|English]] [[cleric]], scholar, [[mathematician]], [[physicist]], courtier and, very briefly, [[Archbishop of Canterbury]]. As a celebrated [[scholastic philosopher]] and [[doctor of theology]], he is often called '''''Doctor Profundus''''' ([[medieval epithet]], meaning "the Profound Doctor").
+
+==Life==
+Sources vary about Bradwardine's early life before receiving his degree in 1321. His exact date of birth is unknown but sources point to a date between 1290 and 1300.<ref>{{Cite book |last=Bradwardine |first=Thomas |title=De Causa Dei |year=1344}}</ref> His place of birth is also unknown but some sources point to it being near [[Chichester]], Sussex, or [[Harfield]]. The first concrete sources of his do not appear until he received his degree in 1321 from [[Balliol College, Oxford]]. Thomas Bradwardine became a [[Fellow]] of [[Merton College, Oxford|Merton College]] in Oxford, and was awarded his B.A. in August 1321. Bradwardine stayed at Merton College until 1333, when he was appointed [[Canon regular|Canon]] of Lincoln, and in 1337 he was appointed the chaplain of [[St Paul's Cathedral]]. His involvement with the ecclesiastical began in September 1333, when he was made the Canon of Lincoln,  it is less corroborated by sources but it is stated that Bradwardine may have been the Bishop of Durham between 1335 and 1337. It is rumoured that this move to Durham helped put him into contact with [[Edward III of England|King Edward III]], which would lead to his eventual appointment of Chaplain of [[Old St Paul's Cathedral]] in London.<ref name=":08">{{Cite book |last=Murdoch |first=John |title=Dictionary of Scientific biography |publisher=Charles Scribner's Sons |year=1970 |isbn=9780684101149 |pages=390–397}}</ref>
+
+He acquired several degrees from Oxford, it is presumed he acquired them on these dates: B.A. by August 1321, an M.A. by 1323, a B.Th. by 1330, and a D.Th. by 1348.<ref name=":08" />
+
+Bradwardine was a precocious student, educated at Balliol College, Oxford, where he was a fellow by 1321; he took the degree of doctor of divinity, and acquired the reputation of a profound scholar, a skilful [[mathematician]] and an able [[theology|theologian]]. He was also a gifted [[logician]] with theories on the ''[[insolubilia|insolubles]]'' and in particular the [[liar paradox]].
+
+Bradwardine subsequently moved to [[Merton College, Oxford]] on a fellowship. He was afterwards raised to the high offices of chancellor of the university and professor of divinity. Bradwardine (like his contemporary [[William of Ockham]]) was a culminating figure of the great intellectual movement at Oxford that had begun in the 1240s. 
+
+Bradwardine was an ordinary secular cleric, which gave him intellectual freedom but deprived him of the security and wherewithal that the Preaching Orders would have afforded; instead he turned to royal patronage. From being chancellor of the [[diocese of London]] as [[Dean of St Paul's]], he became chaplain and confessor to [[Edward III of England|Edward III]], whom he attended during his wars in France at the [[Battle of Crécy]], where he preached at the victory Mass, and at the subsequent [[Siege of Calais (1346)|siege of Calais]]. Edward repeatedly entrusted him with diplomatic missions. On his return to England, he was successively appointed [[prebendary]] of Lincoln and [[Dean of Lincoln|dean]] (1348). In 1349 the canons of the chapter at Canterbury elected him Archbishop following the death of Archbishop John Stratford, but [[Edward III of England|Edward III]] withheld his consent, preferring his chancellor [[John de Ufford]], perhaps loth to lose his trusted confessor. After Ufford died of the [[Black Death]], 2 May, Bradwardine went to receive confirmation from Pope [[Pope Clement VI|Clement VI]] at Avignon, but on his return he died of the plague at [[Rochester, Kent|Rochester]]<ref>[https://books.google.com/books?id=Qaojnr_ii-0C&dq=bradwardine+-wikipedia+rochester&pg=PA107 Norman F. Cantor, ''In the Wake of the Plague: The Black Death and the World It Made'']</ref> on 26 August 1349,<ref name=Handbook233>Fryde, et al. ''Handbook of British Chronology'' p. 233</ref> forty days after his consecration. He was buried at Canterbury.
+
+[[Chaucer]] in [[The Nun's Priest's Tale]] (line 476) ranks Bradwardine with [[Augustine of Hippo|Augustine]] and [[Anicius Manlius Severinus Boethius|Boethius]]. His great theological work, to modern eyes, is a treatise against the [[Pelagians]], entitled ''De causa Dei contra Pelagium et de virtute causarum''. Bradwardine's major treatise argued that space was an infinite void in which God could have created other worlds, which he would rule as he ruled this one. The "causes of virtue" include the [[astrology|influences of the planets]], not as predestining a human career, but influencing a subject's essential nature. This astrophysical treatise was not published until it was edited by [[Sir Henry Savile]] and printed in London, 1618; its circulation in manuscript was very limited. The implications of the infinite void were revolutionary; to have pursued them would have threatened the singular relationship of man and this natural world to God (Cantor 2001); in it he treated theology mathematically. He wrote also ''De Geometria speculativa'' (printed at Paris, 1530); ''De Arithmetica practica'' (printed at Paris, 1502); ''De proportionibus velocitatum in motibus (1328)'' (printed at Paris, 1495; Venice, 1505); ''De Quadratura Circuli'' (Paris, 1495); and an ''Ars Memorative'', Sloane manuscripts. No. 3974 in the [[British Museum]] – earning from the Pope the title of the ‘Profound Doctor’. Another text, ''De Continuo'' is more tenuously credited to him and thought to be written sometime between 1328 and 1325.
+
+== Theology ==
+Bradwardine helped revive [[Augustinianism|Augustinian Theology]] during his time in the fourteenth century. He wrote extensively on various subjects, including speculative arithmetic, geometry, and the workings of the human mind. As a theologian and scholar of natural philosophy, Bradwardine rejected [[William of Ockham]]'s belief that God could know future events and [[Contingency (philosophy)|contingencies]] in a limited sense, insisting instead that God's knowledge is absolute.{{sfn|dePrater|2015|p=37}}
+
+Bradwardine was influenced by the [[Augustinian soteriology]],{{sfn|Sammons|2020|p=58}}{{sfn|Gracia|Noone|2003|pp=660–661}}{{sfn|dePrater|2015|p=37}} which centered on a divine [[monergism]]{{sfn|Barrett|2013|p=xxvii|loc={{zwnj}}|ps=. "[D]ivine monergism is the view of Augustine and the Augustinians."}} and implied a [[double predestination]].{{sfn|James|1998|p=103|ps=. "If one asks, whether double predestination is a logical implication or development of Augustine's doctrine, the answer must be in the affirmative."}} He accepted the idea of [[predestination]] and suggested that all evil acts of Human will were due to God.{{sfn|Gracia|Noone|2003|pp=660–661}} He argued that [[Divine providence|providence]] is inseparable from [[predestination]], and rejected the notion that humans could do good of their own volition. Instead, he claimed they act solely according to God's will. Bradwardine would go on to write that free will and predestination through [[predeterminism]] are compatible, a theory known as [[compatibilism]].{{sfn|Gracia|Noone|2003|pp=660–661}}
+
+==Science==
+[[Image:Bradwardine - Geometria speculativa, 1495 - 66918.jpg|thumb|upright=1.1|''Geometria speculativa'', 1495]]
+Merton College sheltered a group of dons devoted to natural science, mainly physics, astronomy and mathematics, rivals of the intellectuals at the [[University of Paris]]. Bradwardine was one of these [[Oxford Calculators]], studying mechanics with [[William Heytesbury]], [[Richard Swineshead]], and [[John Dumbleton]]. The Oxford Calculators distinguished [[kinematics]] from [[dynamics (mechanics)|dynamics]], emphasising kinematics, and investigating instantaneous velocity. They first formulated the [[mean speed theorem]]: a body moving with constant velocity travels the same distance as an accelerated body in the same time if its velocity is half the final speed of the accelerated body. They also demonstrated this theorem&nbsp;— the foundation of "The Law of Falling Bodies"&nbsp;— long before [[Galileo Galilei|Galileo]], who is generally credited with it.
+
+The mathematical physicist and historian of science [[Clifford Truesdell]], wrote:<ref>Clifford Truesdell, ''Essays in The History of Mechanics'', (Springer-Verlag, New York, 1968), p. 30</ref>
+
+{{blockquote|The now published sources prove to us, beyond contention, that the main kinematical properties of uniformly accelerated motions, still attributed to [[Galileo Galilei|Galileo]] by the physics texts, were discovered and proved by scholars of Merton college.... In principle, the qualities of Greek physics were replaced, at least for motions, by the numerical quantities that have ruled Western science ever since. The work was quickly diffused into [[France]], [[Italy]], and other parts of [[Europe]]. Almost immediately, [[Giovanni di Casali|Giovanni di Casale]] and [[Nicole Oresme]] found how to represent the results by geometrical [[Graph of a function|graphs]], introducing the connection between [[geometry]] and the physical world that became a second characteristic habit of Western thought ...}}
+
+In ''Tractatus de proportionibus'' (1328), Bradwardine extended the theory of proportions of [[Eudoxus of Cnidus]] to anticipate the concept of [[exponential growth]], later developed by the [[Jakob Bernoulli|Bernoulli]] and [[Leonhard Euler|Euler]], with [[interest|compound interest]] as a special case. Arguments for the mean speed theorem (above) require the modern mathematical concept of [[Limit (mathematics)|limit]], so Bradwardine had to use arguments of his day. Mathematician and mathematical historian [[Carl Benjamin Boyer]] writes, "Bradwardine developed the [[Musical note|Boethian theory]] of double or triple or, more generally, what we would call 'n-tuple' proportion". Bradwardine attempted to reconcile contradictions in physics, where he largely adopted [[Aristotelian physics|Aristotle's description of the physical universe.]]<ref>{{Cite book |last=Dolnikowski |first=Edith Wilks |url=https://www.worldcat.org/oclc/31969455 |title=Thomas Bradwardine : a view of time and a vision of eternity in fourteenth-century thought |date=1995 |publisher=E.J. Brill |isbn=90-04-10226-4 |location=Leiden |pages=76 |oclc=31969455}}</ref>
+
+Bradwardine rejected four opinions concerning the link between power, resistance, and speed on the basis that were inconsistent with Aristotle's or because they did not align with what could be easily observed regarding motion.<ref name=":05">{{Cite book |url=https://www.worldcat.org/oclc/858681678 |title=The Cambridge History of Science. Volume 2, Medieval Science |others=David C. Lindberg, Michael H. Shank |year=2013 |isbn=978-0-511-97400-7 |location=New York, NY |pages=415–419 |oclc=858681678}}</ref> He does this by examining the nature of ratios.<ref name=":05"/> The first opinion Bradwardine contemplates before rejecting is one he attributes to Avempace that states " that speeds follow the excesses of motive powers over resistances", following the formula (V ∝ [M−R], where V = speed M = motive power, and R = resistance).<ref name=":05"/> he second opinion follows the formula (V ∝ [M−R]/R), which states "that speeds follow the ratio of the excesses of the motive over the resisting powers to the resisting powers".<ref name=":05"/> Bradwardine claims this as the work of [[Averroes]].<ref name=":05"/> The third opinion concerns the traditional interpretation of the Aristotelian rules of motion and states "that the speeds follow the inverse of the resistances when the moving powers are the same (V ∝ 1/R when M is constant) and follow the moving powers when the resistances are the same (V ∝ M when R is constant)".<ref name=":05"/> His last rejection was "that speeds do not follow any ratio because motive and resistive powers are quantities of different species and so cannot form ratios with each other".<ref name=":05"/> "Bradwardine's own rule is that the ratio of speeds follows the ratios of motive to resistive powers."<ref name=":05"/>
+
+Bradwardine did identify one measurement error in Aristotle's law of motion.<ref name=":2">{{Cite book |last=Goldie |first=Matthew B. |url=http://worldcat.org/oclc/1055566888 |title=Scribes of Space: Place in Middle English Literature and Late Medieval Science |publisher=Cornell University Press |year=2019 |isbn=978-1-5017-3404-5 |oclc=1055566888}}</ref> Bradwardine's identification of this error was described by [[Ernest Addison Moody|Ernest Moody]] as a "radical shift from Aristotelian dynamics to modern dynamics, initiated in the early fourteenth century."<ref name=":2"/> Aristotle's calculation of average speed was criticized by Bradwardine for not examining "the whole question of how moment-to-moment velocities are related within the whole time of the movement."<ref name=":2"/> Bradwardine also believed Aristotle contradicted himself with his explanation of resistance in motion.<ref name=":2"/> Aristotle believed "that a force has to be greater than its resistance in order to move, and the "proportion" (Bradwardine's word; we would say ratio) of force to resistance equaling the proportion of distance to time."<ref name=":2"/> Bradwardine did not accept the explanation and instead proposed "that the rate of velocity is the ratio of an exponential increase in force to resistance."<ref name=":2"/> Bradwardine's explanation does not align with the modern rules of the rates of motion, yet his goal to reconcile Aristotle's claim was accomplished and he was the first person to be credited for using exponential functions in an attempt to explain the laws of motion.<ref name=":2"/>
+
+Boyer also writes that "the works of Bradwardine had contained some fundamentals of [[trigonometry]] gleaned from [[Muslims|Muslim]] sources".<ref>{{Cite book |last=Boyer |first=Carl B. |url=https://www.worldcat.org/oclc/23823042 |title=A History of Mathematics |publisher=Wiley |others=Uta C. Merzbach |year=1991 |isbn=0-471-54397-7 |edition=2nd ed. [rev.] |location=New York |pages=274 |oclc=23823042}}</ref> Yet "Bradwardine and his Oxford colleagues did not quite make the breakthrough to modern science" (Cantor 2001, p.&nbsp;122). [[Al-Kindi]] in particular seemed to influence Bradwardine, though it is unclear whether this was directly or indirectly. Nonetheless, Bradwardine's work bears many similarities to the work of Al-Kindi, ''Quia'' ''primos'' (or ''[[De Gradibus]]'').<ref name=":1">{{Cite journal |last=McVaugh |first=Michael |date=1967 |title=Arnald of Villanova and Bradwardine's Law |url=https://www.jstor.org/stable/228386 |journal=Isis |volume=58 |issue=1 |pages=56–64 |doi=10.1086/350183 |jstor=228386 |s2cid=143251330 |issn=0021-1753}}</ref> The most essential missing tool was [[calculus]].<!--not sure this shouldn't be algebra from the Cantor reference. References, not facts, are important-->
+
+[[Al-Kindi]] in particular seemed to influence Bradwardine, though it is unclear whether this was directly or indirectly.<ref name=":1"/> [[Gerard of Cremona|Gerard of Cremona's]] Latin translation of Quia primos (or [[De Gradibus]]) would have been available to Bradwardine, but Roger Bacon seemed to be the only European philosopher to have had a direct connection to the book, but not to the degree of [[Arnaldus de Villa Nova|Arnald of Villanova]].<ref name=":1"/> Nonetheless, Bradwardine's work bears many similarities to the work of Al-Kindi.<ref name=":1"/>
+
+==Art of memory==
+Bradwardine was also a practitioner and exponent of the [[art of memory]], a loosely associated group of mnemonic principles and techniques used to organise memory impressions, improve recall, and assist in the combination and 'invention' of ideas. His ''De Memoria Artificiali'' (''c.'' 1335) discusses memory training current during his time.<ref>Mary Carruthers, ''The Book of Memory'', Cambridge, 1990, p. 130</ref><ref>Edith Wilks Dolnikowski, "De Memoria Artificiali: Time and Memory in the Thought of Thomas Bradwardine." In: ''Constructions of Time in the Late Middle Ages''. Ed. Carol Poster and Richard Utz. Evanston, IL: Northwestern University Press, 1997. Pp. 197–203.</ref>
+
+Bradwardine's ''On Acquiring a Trained Memory'', translated by Mary Carruthers, contains, as Carruthers describes it, was similar to [[Cicero|Cicero's]] work on the art of memory.<ref name=":3">{{Cite book |last=Carruthers |first=Mary J. |url=https://www.worldcat.org/oclc/49627682 |title=The Medieval Craft of Memory: An Anthology of Texts and Pictures |publisher=University of Pennsylvania Press |others=Jan M. Ziolkowski |year=2002 |isbn=0-8122-3676-9 |location=Philadelphia, Pa. |pages=205–214 |oclc=49627682}}</ref> She states, "Bradwardine's art is notable for its detailed description of several techniques for fixing and recalling specific material through the use of graphically detailed, brilliantly colored, and vigorously animated mental images, grouped together in a succession of ''pictures'' or organized scenes, whose internal order recalls not just particular content but the relationship among its parts."<ref name=":3"/> She acknowledges this being similar to active imaging described by Cicero, along with the memory devices for things and words being changed in rhetoric, but are distinct since the imagery Bradwardine uses is decidedly medieval in nature.<ref name=":3"/>
+
+==Legacy==
+Bradwardine's theories on the ''[[insolubilia]]'' including the [[liar paradox]] were a great influence on the work of [[Jean Buridan]].<ref>Medieval work on the liar paradox has been most recently studied by Paul Spade and Stephen Read (for which see Spade's entry, "[http://plato.stanford.edu/entries/insolubles/ Insolubles]," in the Stanford Encyclopedia of Philosophy, which offers a brief exposition).</ref> Bradwardine's work on kinematics was also influential to Buridan.<ref>Marshall Clagett, ''The Science of Mechanics in the Middle Ages''. Madison. 1959. p. 331.</ref> Despite never rejecting the papacy, Thomas Bradwardine is cited as holding [[Reformation]] theology before [[Martin Luther|Luther]] and [[John Calvin|Calvin]].<ref>{{harvnb|dePrater|2015|loc=Ch. ''Forerunners of the Protestant reformation''}}: "Bradwardine in his study of Augustinian theology came to an understanding of the doctrine of predestination as a positive affirmation of Gd's benevolent grace unto us."</ref>
+
+His ''De Causa Dei'' influenced the theology of [[John Wycliffe]] on [[grace (Christianity)|grace]] and [[predestination]].<ref>{{cite book|title=Medieval Science, Technology and Medicine|date=27 January 2014|publisher=Routledge|isbn=978-1135459321|page=100|author=Thomas F. Glick|author2=Steven Livesey |author3=Faith Wallis |access-date=20 March 2014|url=https://books.google.com/books?id=77y2AgAAQBAJ&pg=PA100}}</ref>
+
+== Works ==
+* {{Cite book|title=Preclarissimum mathematicarum opus|volume=|publisher=Jeronimo Amiquet|location=Valencia|year=1503|language=la|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=1323368}}
+
+==Latin works and English translations==
+*''Insolubilia'' (Insolubles), Latin text and English translation by Stephen Read, Leuven, Peeters Editions ([[Dallas Medieval Texts and Translations]], 10), 2010.
+*''De insolubilibus'' (On Insolubles), edited by Marie Louise Roure in 'La problématique des propositions insolubles du XIIIe siècle et du début du XIVe, suivie de l'édition des traités de William Shyreswood, Walter Burleigh et Thomas Bradwardine', Archives d'histoire doctrinale et littéraire du moyen Age 37, 1970: 205–326.
+*''De incipit et desinit'' (On 'It Begins' and 'It Ceases'), ed. Lauge O. Nielsen, ''Cahiers de l'Institut du moyen Age grec et Latin'' 42, 1982: 1–83.
+*''Geometria speculativa'' (Speculative Geometry), Latin text and English translation with an introduction and a commentary by George Molland, Stuttgart: Steiner Verlag, 1989.
+*''Arithmetica speculativa'' (Speculative Arithmetic) Parisiis: G. Marchant, 1495
+*''De proportionibus velocitatum in motibus'' (On the Ratios of Velocities in Motions) Latin text and English translation by H. Lamar Crosby, Jr. in: 'Thomas of Bradwardine: His Tractatus de Proportionibus: Its Significance for the Development of Mathematical Physics', Madison, WI: University of Wisconsin Press, 1955.
+*''De continuo'' (On the Continuum), edited by John Emery Murdoch in 'Geometry and the Continuum in the Fourteenth Century: A Philosophical Analysis of Thomas Bradwardine's Tractatus de continuo', PhD thesis, University of Wisconsin, 1957.
+*''De futuris contingentibus'' (''On Future Contingents''): edited by {{Cite journal| doi = 10.1484/J.RA.5.102303| issn = 0484-0887| volume = 14| pages = 249–336| last = Genest| first = Jean-François| title = Le <span class="nocase">''De futuris contingentibus''</span> de Thomas Bradwardine| journal = Recherches Augustiniennes et Patristiques| date = 1979}}
+* ''De causa Dei contra Pelagium et de virtute causarum ad suos Mertonenses, libri tres'' (In Defense of God Against the Pelagians and on the Power of Causes, in three books), edited by Henry Savile, London: 1618; reprinted at Frankfurt: Minerva, 1964.
+* Commentary on the Sentences of Peter Lombard: some questions found in a manuscript at the Bibliothèque Nationale de Paris are published in: J.-F. Genest and Katherine Tachau, 'La lecture de Thomas Bradwardine sur les Sentences', Archives d'histoire doctrinale et littéraire du Moyen Age 57, 1990: 301–6.
+* ''De memoria artificiali adquirenda'' (On Acquiring a Trained Memory), ed. [[Mary Carruthers]], Journal of Medieval Latin, 2, (1992): 25–43; translated in Carruthers M., ''The Book of Memory: A Study of Memory in Medieval Culture'', New York: Cambridge Univ. Press. 1990, pp.&nbsp;281–8; Carruthers M. and Ziolkowski J., ''The Medieval Craft of Memory'', Philadelphia: Univ. of Pennsylvania Press, 2002, pp.&nbsp;205–14.
+* Gillmeister H. (ed.), "An intriguing fourteenth-century document: Thomas Bradwardine's De arte memorativa". ''Archiv für das Studium der neueren Sprachen und Literaturen'' 220, 1983, pp.&nbsp;111–4.
+* Green-Pedersen N.-J. (ed.), "Bradwardine (?) on Ockham's doctrine of consequences: an edition". ''Cahiers de l'Institute de moyen age grec et latin'', 42, 1982, pp.&nbsp;85–150.
+* Lamar Crosby H. (ed.), ''Thomas of Bradwardine: his Tractatus de Proportionibus: its significance for the development of mathematical physics''. Madison, University of Wisconsin Press, 1955.
+
+==See also==
+* [[Augustinian soteriology]]
+* [[List of Roman Catholic scientist-clerics]]
+
+==References==
+*{{A Short Biographical Dictionary of English Literature}}
+===Citations===
+{{Reflist|40em}}
+===Sources===
+* {{cite book |language=en |last=Barrett |first=Matthew |title=Salvation by Grace: The Case for Effectual Calling and Regeneration |location=Phillipsburg |publisher=P & R Publishing |date=2013}}
+* ''In the Wake of the Plague'', [[Norman F. Cantor]], Simon & Schuster, 2001. "Death comes to the Archbishop": a chapter sets Bradwardine's political and intellectual career in his Oxford milieu, in the context of the [[Black Death]].
+* ''A History of Mathematics'' (pp.&nbsp;288, 302), Carl O. Boyer, Princeton University Press, Princeton, 1984.
+* ''The Science of Mechanics in the Middle Ages'', Marshall Claggett, University of Wisconsin Press, Madison, 1960.
+* ''Tractatus de Proportionibus, Its Significance for the Development of Mathematical Physics'', H. L. Crosby, University of Wisconsin Press, Madison, 1955.
+* {{Cite book |language=en |last=dePrater |first=William A. |title=God Hovered Over the Waters: The Emergence of the Protestant Reformation |location=Eugene, OR |publisher=Wipf and Stock Publishers |date=2015 |isbn=978-1-4982-0454-5}}
+* {{cite book |last1=Fryde |first1=E. B. |last2=Greenway |first2=D. E. |last3=Porter |first3=S. |last4=Roy |first4=I. |title=Handbook of British Chronology|edition=Third revised |publisher=Cambridge University Press |location=Cambridge |year=1996 |isbn=978-0-521-56350-5 }}
+* {{Cite book |language=en |last1=Gracia |first=Jorge J. E. |last2=Noone |first2=Timothy |title=A companion to philosophy in the middle ages |location=Malden, MA |publisher=Blackwell Pub |date=2003 |isbn=1-4051-2309-5 |oclc=53333827}}
+* [[W. F. Hook]], ''Lives of the Archbishops of Canterbury'', vol. iv.
+* {{cite book |language=en |last=James |first=Frank A. |title=Peter Martyr Vermigli and Predestination: The Augustinian Inheritance of an Italian Reformer |publisher=Clarendon |location=Oxford |year=1998}}
+* See [[Jacques Quétif|Quétif]]–[[Jacques Échard|Échard]], ''Script. Praedic.'' (1719), i. 744
+* {{cite book |language=en |last=Sammons |first=Peter |title=Reprobation: from Augustine to the Synod of Dort: The Historical Development of the Reformed Doctrine of Reprobation |location=Gottingen |publisher=Vandenhoeck & Ruprecht |date=2020}}
+* ''Essays in The History of Mechanics'', Clifford Truesdell, Springer-Verlag, New York, 1968, QC122.T7.
+
+==Further reading==
+*[[Heiko Oberman]], ''Archbishop Thomas Bradwardine, a Fourteenth Century [[Augustinians|Augustinian]]: A Study of His Theology in Its Historical Perspective'', Utrecht: Kemink & Zoon, 1957.
+*Gordon Leff, ''Bradwardine and the [[Pelagians]]: A Study of His "De Causa Dei" and Its Opponents'', Cambridge, England: [[Cambridge University Press]], 1957.
+* Read, Stephen,  "Paradox, Closure and Indirect Speech Reports", ''[[Logica Universalis]]'', 2015. {{doi|10.1007/s11787-014-0115-3}}
+
+==External links==
+{{wikisource-author}}
+{{wikiquote}}
+*[http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Bradwardine.html Thomas Bradwardine at The MacTutor History of Mathematics archive]
+* Thomas Bradwardine. [http://roderic.uv.es/uv_ms_0050 ''Geometria speculativa''] at [http://roderic.uv.es/handle/10550/43 Somni]
+
+{{s-start}}
+{{s-rel|ca}}
+{{s-bef | before=[[John de Ufford]] }}
+{{s-ttl| title=[[Archbishop of Canterbury]] | years=1349–1349}}
+{{s-aft| after=[[Simon Islip]]}}
+{{s-end}}
+
+{{Archbishops of Canterbury}}
+{{Deans of Lincoln}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bradwardine, Thomas}}
+[[Category:1300 births]]
+[[Category:1349 deaths]]
+[[Category:14th-century English mathematicians]]
+[[Category:Catholic clergy scientists]]
+[[Category:Catholic philosophers]]
+[[Category:Medieval English theologians]]
+[[Category:14th-century philosophers]]
+[[Category:14th-century English Roman Catholic archbishops]]
+[[Category:14th-century deaths from plague (disease)]]
+[[Category:English physicists]]
+[[Category:Archbishops of Canterbury]]
+[[Category:Deans of Lincoln]]
+[[Category:Alumni of Merton College, Oxford]]
+[[Category:Scholastic philosophers]]
+[[Category:People from Chichester]]
+[[Category:People from Hartfield]]
+[[Category:14th-century writers in Latin]]
+[[Category:Burials at Canterbury Cathedral]]
+[[Category:14th-century English astronomers]]
+[[Category:Medieval physicists]]

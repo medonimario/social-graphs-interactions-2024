@@ -1,0 +1,65 @@
+{{short description|Chinese philosopher (179–104 BC)}}
+{{family name hatnote|[[Dong (Chinese surname)|Dong]]|lang=Chinese}}
+{{infobox Chinese
+|pic=File:歷代聖賢半身像 冊 董仲舒 (Dong Zhongshu).png
+|piccap=Portrait of Dong Zhongshu ([[National Palace Museum]])
+|c=董仲舒
+|p=Dǒng Zhòngshū
+|l=
+|w=Tung<sup>3</sup> Chung<sup>4</sup>-shu<sup>1</sup>
+|mi={{IPAc-cmn|d|ong|3|-|zh|ong|4|.|sh|u|1}}
+|j=Dung<sup>2</sup> Zung<sup>4</sup>-syu<sup>1</sup>
+|y=Dúng Jùhng-syū
+|ci={{IPAc-yue|d|ung|2|-|z|ung|4|.|s|yu|1}}
+|poj=Táng Tiōng-soo
+|mc=Túng ɖjùwng-sho
+|oc-bs= Tˤongʔ N-trung-s l̥a
+}}
+'''Dong Zhongshu''' ({{zh|c=董仲舒|w=Tung Chung-shu}}; 179–104 BC) was a Chinese philosopher, politician, and writer of the [[Han dynasty]]. He is traditionally associated with the promotion of [[Confucianism]] as the official ideology of the Chinese imperial state, favoring [[heaven worship]] over the tradition of cults celebrating the [[Wuxing (Chinese philosophy)|five elements]].<ref name=":0">{{Cite book |last=Loewe |first=Michael |url=https://books.google.com/books?id=ZQjJxvkY-34C&pg=PA269 |title=Dong Zhongshu, a ‘Confucian’ Heritage and the Chunqiu Fanlu |date=2011-04-11 |publisher=BRILL |isbn=978-90-04-19465-6 |language=en}}</ref> Enjoying great influence in the court in the last decades of his life,<ref>{{Cite book |last=Queen |first=Sarah Ann |url=https://books.google.com/books?id=KBiyuzoiF7UC&pg=PA36 |title=From Chronicle to Canon: The Hermeneutics of the Spring and Autumn According to Tung Chung-shu |date=1996-08-28 |publisher=Cambridge University Press |isbn=978-0-521-48226-4 |language=en}}</ref> his adversary 
+[[Gongsun Hong]] ultimately 
+promoted his partial retirement from political life by banishing him to the Chancellery of [[Weifang]], but his teachings were transmitted from there.<ref name=":0" />
+
+==Biography==
+[[File:Dong zhongshu.jpg|thumb|]]
+[[File:董仲舒像 20240120.jpg|thumb|Stone statue of Dong Zhongshu, located at [[Zaoqiang County]]]]
+Dong was born in modern [[Hengshui|Hengshui, Hebei]], in 179 BC. His birthplace is associated with Wencheng Township ({{ill|溫城鄉|zh|温城鄉|vertical-align=sup}}, now located in [[Jing County, Hebei|Jing Country]]), so in the ''[[Luxuriant Dew of the Spring and Autumn Annals]]'' he is once mentioned as Lord Dong of Wencheng ({{lang|zh|溫城董君}}).
+
+He entered the imperial service during the reign of [[Emperor Jing of Han]] and rose to high office under [[Emperor Wu of Han]]. His relationship with the emperor was uneasy though. At one point he was thrown into prison and nearly executed for writings that were considered seditious, and may have cosmologically predicted the overthrow of the [[Han dynasty]] and its replacement by a [[Confucian]] sage, the first appearance of a theme that would later sweep [[Wang Mang]] to the imperial throne.  He appears to have been protected by the emperor's chief counselor, [[Gongsun Hong]].
+
+Dong Zhongshu's thought integrated [[Yin Yang]] cosmology into a Confucian ethical framework. He emphasised the importance of the ''[[Spring and Autumn Annals]]'' as a source for both political and metaphysical ideas, following the tradition of the ''[[Gongyang Zhuan|Gongyang Commentary]]'' in seeking hidden meanings from its text. He is also considered the originator of the doctrine of [[Interactions Between Heaven and Mankind]], which lays down rules for deciding the legitimacy of a monarch as well as providing a set of checks and balances for a reigning monarch.
+
+==Bibliography==
+[[File:Yangzhou - Dongzi Temple - P1070296.JPG|thumb|Temple in honor of Dong Zhongshu in [[Yangzhou]]]]
+There are two works that are attributed to Dong Zhongshu, one of which is the ''Ju Xianliang Duice'' in three chapters, preserved under the ''[[Book of Han]]''. His most significant text is the ''[[Luxuriant Dew of the Spring and Autumn Annals]]'', which is a commentary on the canonical Confucian text ''Spring and Summer Annals''.<ref name=":Laikwan">{{Cite book |last=Laikwan |first=Pang |title=One and All: The Logic of Chinese Sovereignty |date=2024 |publisher=[[Stanford University Press]] |isbn=9781503638815 |location=Stanford, CA |pages=30}}</ref> The ''Luxuriant Dew of the Spring and Autumn Annals'' bears many marks of multiple authorship. Whether the work was written by Dong himself has been called into question by several scholars including [[Zhu Xi]], Cheng Yanzuo, Dai Junren, Keimatsu Mitsuo, and Tanaka Masami. 
+
+Scholars now reject as later additions all the passages that discuss [[Five elements (Chinese philosophy)|five elements]] theory, and much of the rest of the work is questionable as well. It seems safest to regard it as a collection of unrelated or loosely related chapters and shorter works, which could be subdivided into five categories. Most are more or less connected to the ''Gongyang Commentary'' and its school and written by a number of different persons at different times throughout the Han dynasty.
+
+Other important sources for Dong Zhongshu's life and thought include his [[Fu (poetry)|''fu'']] ''The Scholar's Frustration'', his biography included in the ''Book of Han'', his [[Yin Yang]] and stimulus-response theorizing noted at various places in the ''Book of Han'' "Treatise on the Five Elements," and the fragments of his legal discussions.  Dong Zhongshu's theory of 'original qi' (yuanqi or 元氣), the five elements and on the development of history, were later adopted and modified by the late Qing reformer [[Kang Youwei]] in order to justify his theories of progress via political reform.  (See Kang Youwei 1987: Kang Youwei Quanji: Volumes one and Two.  Shanghai Guji Chubanshe). It has been questioned, however, how correctly Kang Youwei understood Dong Zhongshu's thought.  (Kuang Bailin 1980: Kang Youwei de zhexue sixiang.  Beijing: Zhongguo shehui kexue chubanshe).
+
+==References==
+===Citations===
+{{reflist}}
+
+===Works cited===
+* Wm. Theodore de Bary and Irene Bloom (ed.) (1999) ''Sources of Chinese Tradition'' (2nd edition), Columbia University Press, 292–310.
+* {{cite book | first=David R. | last=Knechtges | authorlink=David R. Knechtges | chapter=Dong Zhongshu 董仲舒 | editor-first=David R. | editor-last=Knechtges | editor-first2=Taiping | editor-last2=Chang | title=Ancient and Early Medieval Chinese Literature: A Reference Guide, Part One |chapter-url=https://books.google.com/books?id=mED9Vx10WokC&pg=645 |location=Leiden | publisher=Brill | year=2010 | pages=190–98 | isbn=978-90-04-19127-3}}
+* {{cite book | first=Michael | last=Loewe | chapter=Dong Zhongshu | title=A Biographical Dictionary of the Qin, Former Han and Xin Periods (221 BC – AD 24) | location=Leiden | publisher=Brill | year=2000 | pages=70–73 | isbn=90-04-10364-3}}
+* David W. Pankenier (1990). "The Scholar's Frustration" Reconsidered: Melancholia or Credo?, ''Journal of the American Oriental Society'' 110(3):434-59.
+* Arbuckle, G. (1995). Inevitable treason: Dong Zhongshu's theory of historical cycles and the devalidation of the Han mandate, ''Journal of the American Oriental Society'' 115(4).
+* Sarah A. Queen (1996). ''From Chronicle to Canon: The Hermeneutics of the Spring and Autumn Annals according to Tung Chung-shu'', Cambridge University Press.
+{{Chinese philosophy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Dong Zhongshu}}
+[[Category:179 BC births]]
+[[Category:104 BC deaths]]
+[[Category:2nd-century BC Chinese philosophers]]
+[[Category:Chinese Confucianists]]
+[[Category:Han dynasty government officials]]
+[[Category:Philosophers from Hebei]]
+[[Category:Politicians from Hengshui]]
+[[Category:Taoist immortals]]
+[[Category:Writers from Hebei]]
+[[Category:Chinese reformers]]
+[[Category:Han dynasty classicists]]
+[[Category:2nd-century BC Confucianists]]

@@ -1,0 +1,403 @@
+{{Short description|Russian philosopher (1853–1900)}}
+{{About|the Russian philosopher|others with the same name|Vladimir Solovyov (disambiguation){{!}}Vladimir Solovyov}}
+{{family name hatnote|Sergeyevich|Soloyov|lang=Eastern Slavic}}
+{{Use dmy dates|date=July 2017}}
+{{Infobox philosopher
+|region = [[Russian philosophy]]
+|era = [[19th-century philosophy]]
+|image = VS Solovyov.jpg
+|name = Vladimir Solovyov
+|birth_name = Vladimir Sergeyevich Solovyov
+|birth_date = {{Birth date|1853|1|28|df=y}}
+|birth_place = [[Moscow]], [[Russian Empire]]
+|death_date = {{Death date and age|1900|8|13|1853|1|28|df=y}}
+|death_place = [[Uzkoye]], [[Moscow Governorate]], Russian Empire
+|school_tradition = [[Christian philosophy]], [[sophiology]], [[Christian mysticism]], [[Russian symbolism]],<ref name=EBS>{{cite encyclopedia|title=Symbolism|url=http://www.britannica.com/EBchecked/topic/577796/Symbolist-movement|encyclopedia=Encyclopædia Britannica|access-date=2023-02-21}}</ref> [[Russian Schellingianism]]<ref>''[[Routledge Encyclopedia of Philosophy]]'' (1998): [https://www.rep.routledge.com/articles/thematic/schellingianism-russian/v-1/sections/schellingian-philosophies-of-history "Schellingianism, Russian"].</ref>
+|main_interests = [[Philosophy of religion]]
+|notable_ideas = Reviving and expanded the idea of [[Sophia (wisdom)|Sophia]]
+|influences = [[Plato]], [[Aristotle]], [[Sergey Bulgakov]], [[Friedrich Wilhelm Joseph Schelling]], [[Arthur Schopenhauer]], [[Jakob Böhme]], [[Emanuel Swedenborg]], [[Louis Claude de Saint-Martin]], [[Shimon bar Yochai]], [[Paracelsus]],<ref>Pillar and Ground of Truth</ref> [[Augustine of Hippo]], [[Blavatsky]], [[Plotinus]], [[Dante Alighieri|Dante]], [[Søren Kierkegaard]], [[Immanuel Kant]], [[Fyodor Dostoyevsky]], [[Auguste Comte]]
+|influenced = [[Nicolas Berdyaev]], [[Sergey Bulgakov]], [[Pavel Florensky]], [[Semyon Frank]], [[Andrei Belyi]], [[Alexander Blok]], [[Dostoyevsky]], [[Alexandre Kojève]], [[Lev Karsavin]]
+|alma_mater = [[Imperial Moscow University]]
+|thesis_title=Critique of Abstract Principles (Kritika otvlechennykh nachal) 1880
+|caption=Portrait of Vladimir Solovyov, {{circa|1900}}
+}}
+
+'''Vladimir Sergeyevich Solovyov'''<ref>The philosopher's family name has been spelt in various ways: Soloviev, Solov'ev  Solovëv, Solowjew, Solov'jov, Solovieff, Solovioff and Solovyev. The most widely accepted transliterated form of his last name is Solovyov.</ref> ({{langx|ru|Влади́мир Серге́евич Соловьёв}}; {{OldStyleDate|28 January|1853|16 January}} – {{OldStyleDate|13 August|1900|31 July}}) was a Russian [[philosophy|philosopher]], [[theologian]], [[poet]], [[pamphleteer]], and [[literary critic]], who played a significant role in the development of [[Russian philosophy]] and poetry at the end of the 19th century and in the spiritual renaissance of the early 20th century.
+
+==Life and work==
+[[File:V.S.Solovyov 1890s photo by P.S.Zhukov.jpg|thumb|V. Solovyov in the 1880s]]
+Vladimir Solovyov was born in [[Moscow]];{{sfn|Dahm|1975|p=219}} the second son of the historian [[Sergey Solovyov (historian)|Sergey Mikhaylovich Solovyov]] (1820–1879); his elder brother [[Vsevolod Solovyov|Vsevolod]] (1849-1903), became a historical novelist, and his younger sister, [[Polyxena Solovyova|Polyxena]] (1867-1924), became a poet.<ref>{{cite news |last1= Бондарюк (Bondaryuk) |first1= Елена (Elena) |title= Дочь своего века, или Изменчивая Allegro |url=http://ktelegraf.com.ru/9977-doch-svoego-veka-ili-izmenchivaya-allegro.html |access-date= 4 June 2020 |issue= 471 |date= 16 March 2018 |newspaper= Крымский ТелеграфЪ |archive-url= https://web.archive.org/web/20181004031821/http://ktelegraf.com.ru/9977-doch-svoego-veka-ili-izmenchivaya-allegro.html |archive-date= 4 October 2018 |location= Simferopol, Crimea |language= ru |trans-title= The Daughter of Her Age, or the Volatile Allegro}}</ref>  Vladimir Solovyov's mother Polyxena Vladimirovna (née Romanova, d. 1909) belonged to a family of [[Polish people|Polish]] origin and among her ancestors was the philosopher  [[Gregory Skovoroda]] (1722–1794).{{sfn|Kornblatt|2009|pp=12, 22}}
+
+In his teens, he renounced [[Eastern Orthodox Church|Eastern Orthodoxy]] for [[nihilism]], but later{{When|date=June 2013}} his disapproval of [[positivism]]{{sfn|Lossky|1951}}{{page needed<!-- in the section on Lolovyov -->|date=September 2010}} saw him begin to express some views that were in line with those of the Orthodox Church.{{sfn|Lossky|1951}}{{page needed<!-- in the section on Lolovyov -->|date=September 2010}} From 1869 to 1873 Solovyov studied at the [[Imperial Moscow University]], where his philosophy professor was [[Pamfil Yurkevich]]{{sfn|Valliere|2007|p=35}} (1826-1874).
+
+In his 1874 work ''The Crisis of Western Philosophy: Against the Positivists'' ({{langx |ru| Кризис западной философии (против позитивистов)}}, Solovyov discredited the positivists' rejection of [[Aristotle]]'s [[essentialism]], or [[philosophical realism]]. In ''Against the Positivists'' he took the position of intuitive [[Nous|noetic]] comprehension, or [[insight]]. He saw consciousness as integral (see the Russian term ''[[sobornost]]'') and requiring both [[phenomenon]] (validated by [[dianoia]]) and [[noumenon]] validated [[intuition (knowledge)|intuitively]].{{sfn|Lossky|1951}}{{page needed<!-- in the section on Lolovyov -->|date=September 2010}} Positivism, according to Solovyov, validates only the phenomenon of an object, denying the intuitive reality that people experience as part of their consciousness.{{sfn|Lossky|1951}}{{page needed<!-- in the section on Lolovyov -->|date=September 2010}} As Solovyov's basic philosophy rests on the idea that the essence of an object (see [[essentialism]]) can be validated only by intuition and that consciousness as a single organic whole is done in part by reason or logic but in completeness by (non-dualist) intuition. Solovyov was partially attempting to reconcile the dualism (subject-object) found in [[German idealism]].
+[[File:Soloviev Trubtskoy Grot Lopatin.jpg|right|thumb|303x303px|V. Soloviev, S. Trubetskoy, N. Grot, L. Lopatin, 1893]] 
+In 1877, Solovyov moved to [[Saint Petersburg]], where he became a friend and confidant of the writer [[Fyodor Dostoyevsky]] (1821–1881). In opposition to his friend, Solovyov was sympathetic to the [[Roman Catholic Church]]. He favoured the healing of the [[East–West Schism|schism]] ([[ecumenism]], ''[[sobornost]]'') between the [[Eastern Orthodox Church|Orthodox]] and Roman Catholic Churches. It is clear from Solovyov's work that he accepted [[papal primacy]] over the [[Christian Church|Universal Church]],<ref>Vladimir Sergeyevich Solovyov, ''Russia and the Universal Church'', trans. William G. von Peters (Chattanooga, TN: Catholic Resources, 2013).</ref><ref>Vladimir Sergeyevich Solovyov, ''The Russian Church and the Papacy: An Abridgment of Russia and the Universal Church'', ed. Ray Ryland (San Diego: Catholic Answers, 2001).</ref><ref>{{cite magazine |last=Ryland |first=Ray |year=2003 |title=Soloviev's Amen: A Russian Orthodox Argument for the Papacy |url=http://www.crisismagazine.com/2003/solovievs-amen-a-russian-orthodox-argument-for-the-papacy-2 |magazine= Crisis |volume= 21 |issue= 10 |pages= 35–38 |access-date= 10 July 2017}}</ref> but there is not enough evidence, {{as of | 2022 | lc = on}}, to support the claim that he ever officially embraced Roman Catholicism.
+As an active member of [[Society for the Promotion of Culture Among the Jews of Russia]], he spoke [[Hebrew language|Hebrew]] and struggled to reconcile [[Judaism]] and Christianity. Politically, he became renowned as the leading defender of Jewish civil rights in [[Russian Empire|tsarist Russia]] in the 1880s. Solovyov also advocated for his cause internationally and published a letter in [[The Times|''The London Times'']] pleading for international support for his struggle.<ref>{{cite book |last= Solovyov |first= Vladimir |translator= Gregory Yuri Glazov |title= The Burning Bush: Writings on Jews and Judaism |year= 2016 |publisher= [[University of Notre Dame Press]] |isbn= 978-0-268-02989-0}}</ref> The ''Jewish Encyclopedia'' describes him as "a friend of the Jews" and states that "Even on his death-bed he is said to have prayed for the Jewish people".<ref>{{Cite web|url=http://www.jewishencyclopedia.com/articles/13907-solovyev-vladimir-sergeyevich|title=SOLOVYEV, VLADIMIR SERGEYEVICH|website= [[The Jewish Encyclopedia]]|access-date=15 October 2019}}</ref>
+[[File:Vladimir-Solovyov.jpg|thumb|left|180px|Portrait of Vladimir Solovyov by [[Ivan Kramskoy]], 1885]]
+Solovyov's attempts to chart a course of civilization's progress toward an East-West Christian [[ecumenism]] developed an increasing bias against Asian cultures—which he had initially studied with great interest. He dismissed the [[Buddhist]] concept of [[Nirvana (Buddhism)|Nirvana]] as a pessimistic nihilistic "nothingness", antithetical to salvation and no better than [[Gnostic]] [[Dualistic cosmology|dualism]].{{sfn|Kornblatt|2009|pp=68,174}} Solovyov spent his final years obsessed with fear of the "[[Yellow Peril]]", warning that soon the Asian peoples, especially the [[Chinese people|Chinese]], would invade and destroy Russia.{{sfn|Eskridge-Kosmach|2014|p=662}}
+
+Solovyov further elaborated this theme in his apocalyptic short-story "Tale of the Antichrist" (published in the ''Nedelya'' newspaper on 27 February 1900), in which China and Japan join forces to conquer Russia.{{sfn|Eskridge-Kosmach|2014|p=662}} His 1894 poem ''Pan-Mongolism'', whose opening lines serve as epigraph to the story, was widely seen as predicting the coming [[Russo-Japanese War]] of 1904-1905.{{sfn|Kornblatt|2009|pp=24}}
+
+Solovyov never married or had children, but he pursued idealized relationships as immortalized in his spiritual love-poetry, including with two women named Sophia.{{sfn|Solovyov|2008}} He rebuffed the advances of the [[Christian mystic]] [[Anna Schmidt|Anna Nikolayevna Schmidt]], who claimed to be his divine partner.{{sfn|Cioran|1977|p= 71}} In his later years, Solovyov became a [[Vegetarianism|vegetarian]], but ate fish occasionally. He often lived alone for months without a servant and would work into the night.<ref>Masaryk, Tomáš Garrigue. (1919): [https://en.wikisource.org/wiki/Page:The_Spirit_of_Russia_by_T_G_Masaryk,_volume_2.pdf/254 ''The Spirit of Russia: Studies in History, Literature and Philosophy, Volume 2'']. Allen & Unwin. p. 228</ref>
+
+==Influence==
+It is widely held that Solovyov was one of the sources for Dostoevsky's characters [[Alyosha Karamazov]] and [[Ivan Karamazov]] in ''[[The Brothers Karamazov]]''.<ref>Zouboff, Peter, Solovyov on Godmanhood: Solovyov's Lectures on Godmanhood Harmon Printing House: Poughkeepsie, New York, 1944; see {{harvnb|Milosz|1990}}.</ref> In [[Janko Lavrin]]'s opinion, Solovyov has not left a single work which can be considered an epoch-making contribution to philosophy as such.<ref name="Lavrin">{{cite book |last1=Lavrin |first1=Janko|author-link1= Janko Lavrin|title=Transformations of Eros: An Odyssey from Platonic to Christian Eros|chapter=Introduction to the Work of Vladimir Solovyov |date=2004 |publisher=[[Grailstone Press]] |isbn=1-59650-001-8}}</ref>{{rp|7}} And yet his writings have proved one of the most stimulating influences to the religious-philosophic thought of his country.<ref name="Lavrin" />{{rp|7}} Solovyov's influence can also be seen in the writings of the [[Russian Symbolism|Symbolist]] and [[Idealism|Neo-Idealist]] writers of the later Russian Soviet era. His book ''The {{Interlanguage link|Meaning of Love (book)|ru|Смысл любви|vertical-align=sup}}'' can be seen as one of the philosophical sources of [[Leo Tolstoy]]'s ''[[The Kreutzer Sonata]]'' (1889). It was also the work in which he introduced the concept of 'syzygy', to denote 'close union'.{{sfn|Jacobs|2001|p=44}}
+
+==Sophiology==
+{{Main|Sophiology}}
+
+Solovyov synthesized a philosophy based on [[Hellenistic philosophy]] (see [[Plato]], [[Aristotle]] and [[Plotinus]]) and early Christian tradition with [[Buddhism|Buddhist]] and Hebrew [[Kabbalah|Kabbalistic]] elements ([[Philo of Alexandria]]). He also studied [[Gnosticism]] and the works of the Gnostic [[Valentinus (Gnostic)|Valentinus]].{{sfn|Carlson|1996}} His religious philosophy was [[syncretic]] and fused philosophical elements of various religious traditions with Orthodox Christianity and his own experience of [[Sophia (wisdom)|Sophia]].{{citation needed|date=November 2019}}
+
+Solovyov described his encounters with the entity Sophia in his works, such as ''Three Encounters'' and ''Lectures on Godmanhood''. His fusion was driven by the desire to reconcile and/or unite with Orthodox Christianity the various traditions by the Russian [[Slavophiles]]' concept of [[sobornost]]. His Russian religious philosophy had a very strong impact on the [[Russian Symbolism|Russian Symbolist]] art and poetry movements of the [[Silver Age of Russian Poetry|Silver Age]]{{sfn|Carlson|1996}} and his written arguments in favor of the reunion of the Russian Orthodox Church with the [[Holy See]] played an instrumental role in the formation of the [[Russian Greek Catholic Church]].<ref>Fr. Paul Mailleux, S.J. (2017), ''Blessed Leonid Feodorov: First Exarch of the Russian Catholic Church; Bridgebuilder between Rome and Moscow'', [[Loreto Publications]]. Pages 11-13.</ref> His teachings on Sophia, conceived as the merciful unifying feminine wisdom of God comparable to the Hebrew [[Shekinah]] or various goddess traditions,{{sfn|Powell|2007|p=70}} have been deemed a [[heresy]] by [[Russian Orthodox Church Outside Russia]] and as unsound and unorthodox by the [[Patriarchate of Moscow]].<ref>{{Cite web|url=http://ecumenizm.tripod.com/ECUMENIZM/id17.html|title=SOPHIAN HERESY|website=ecumenizm.tripod.com|access-date=15 October 2019}}</ref> This condemnation, however, was not agreed upon by other jurisdictions of the Orthodox church and was directed specifically against [[Sergius Bulgakov]] who continued to be defended by his own hierarch [[Eulogius Georgiyevsky|Metropolitan Evlogy]] until his death.<ref>{{cite book |last1=Ladouceur |first1=Paul |editor-last1=Chryssavgis |editor-first1=John |editor-last2=Gallaher |editor-first2=Brandon |chapter=Georges Florovsky and Sergius Bulgakov: 'In Peace Let Us Love One Another' |title=The Living Christ: The Theological Legacy of Georges Florovsky |date=23 September 2021 |isbn=9780567700469 |publication-place=London, UK |publisher=T&T Clark |publication-date=23 September 2021 |pages=91–111}}</ref>
+
+In his 2005 forward to Solovyov’s ''Justification of the Good'', the Orthodox Christian theologian [[David Bentley Hart]] wrote a defense of Sophiology including a specific defense of Solovyov's later thought:
+
+{{Blockquote|It is important to note that, in Solovyov’s developed reflections upon this figure (and in those of his successor Sophiologists,’ Pavel Florensky and Sergei Bulgakov), she was most definitely not an occult, or pagan, or Gnostic goddess, nor was she a fugitive from some Chaldean mystery cult, nor was she a speculative perversion of the Christian doctrine of God. She was not a fourth hypostasis in the Godhead, nor a fallen fragment of God, nor a literal world-soul, nor an eternal hypostasis who became incarnate as the Mother of God, nor most certainly the ‘feminine aspect of deity.’ Solovyov possessed too refined a mind to fall prey to the lure of cultic mythologies or childish anthropomorphisms, despite his interest in Gnosticism (or at least in its special pathos); and all such characterizations of the figure of Sophia are the result of misreadings (though, one must grant, misreadings partly occasioned by the young Solovyov’s penchant for poetic hyperbole). In truth, the divine Sophia is first and foremost a biblical figure, and ‘Sophiology’ was born of an honest attempt to interpret intelligibly the role ascribed to her in the Wisdom literature of the Old Testament, in such a way as to complement the Logos Christology of the Fourth Gospel, while still not neglecting the ‘autonomy’ of creation within its very dependency upon the Logos.<ref>{{cite book |last1=Solovyov |first1=Vladimir |last2=Hart |first2=David Bentley |translator-last1=Jakim |translator-first1=Boris |translator-last2=Duddington |translator-first2=Nathalie A. |chapter=Forward |title=The Justification of the Good: An Essay on Moral Philosophy |date=31 August 2005 |isbn=9780802828637 |publication-place=Cambridge, UK |publisher=Wm. B. Eerdmans |publication-date=31 August 2005 |pages=xxxvii-li}}</ref>}}
+
+==Sobornost==
+{{Main|Sobornost}}
+[[File:Vladimir Solovyov 1892 by Nikolay Yarochenko.jpg|thumb|upright|Vladimir Solovyov by [[Nikolai Yaroshenko]], 1892]]
+Solovyov sought to create a philosophy that could through his system of logic or reason reconcile all bodies of knowledge or disciplines of thought, and fuse all conflicting concepts into a single system. The central component of this complete philosophic reconciliation was the [[Russian philosophy|Russian]] [[Slavophile]] concept of ''sobornost'' (organic or [[spontaneous order]] through integration, which is related to the Russian word for 'catholic'). Solovyov sought to find and validate common ground, or where conflicts found common ground, and, by focusing on this common ground, to establish absolute unity and/or integral{{sfn|Kostalevsky|1997}} fusion of opposing ideas and/or peoples.{{sfn|Lossky|1951|pp=81–134}}
+
+==Death==
+Intense mental work shattered Solovyov's health.<ref name="Zouboff 1944">Zouboff, Peter P. (1944). ''Vladimir Solovyev's Lectures on Godmanhood''. International University Press. p. 14. "The passionate intensity of his mental work shattered his health. On the thirty-first of July, in "Uzkoye", the country residence of Prince P. N. Troubetskoy, near Moscow, he passed away in the arms of his close friend, Prince S. N. Troubetskoy."</ref> He died at the Moscow estate of [[Nikolai Petrovitch Troubetzkoy]], where a relative of the latter, [[Sergei Nikolaevich Trubetskoy]], was living.<ref name="Zouboff 1944"/><ref>Oberländer, Erwin; Katkov, George. (1971). ''Russia Enters the Twentieth Century, 1894-1917''. Schocken Books. p. 248;  {{ISBN|978-0805234046}} "Vladimir Solovyev died in the arms of his friend Sergey Nikolayevich Trubetskoy (1862–1905), on the estate of Uzkoye."</ref>
+
+By 1900, Solovyov was apparently a [[homeless]] pauper. He left his brother, Mikhail Sergeevich, and several colleagues to defend and promote his intellectual legacy. He is buried at [[Novodevichy Convent]].{{citation needed|date=November 2019}}
+
+==Quotes==
+{{Blockquote|text=But if the faith communicated by the Church to Christian humanity is a living faith, and if the grace of the sacraments is an effectual grace, the resultant union of the divine and the human cannot be limited to the special domain of religion, but must extend to all Man's common relationships and must regenerate and transform his social and political life.<ref>{{cite book |last=Solovyov |first=Vladimir |translator=Herbert Rees |title=Russia and the Universal Church |publisher=Geoffrey Bles Ltd. |date=1948 |page=10}}</ref>}}
+
+==Selected works==
+'''English translations'''
+* ''The Heart of Reality: Essays on Beauty, Love, and Ethics''. University of Notre Dame Press, 2020. {{ISBN|978-0268108939}}
+* ''The Burning Bush: Writings on Jews and Judaism'', Compiled 2016 by Lindisfarne Books, {{ISBN|0-940262-73-8}} {{ISBN|978-0-940262-73-7}}
+* [https://books.google.com/books?id=Lju9uwoiqBoC ''The Crisis of Western Philosophy: Against the Positivists''], 1874. Reprinted 1996 by Lindisfarne Books, {{ISBN|0-940262-73-8}} {{ISBN|978-0-940262-73-7}}
+* ''The Philosophical Principles of Integral Knowledge'' (1877)
+* ''The Critique of Abstract Principles'' (1877–80)
+* ''Lectures on Divine Humanity'' (1877–91)
+* ''The Russian Idea'', 1888. Translation published in 2015 by CreateSpace Independent Publishing Platform, {{ISBN|1508510075}} {{ISBN|978-1508510079}}
+* ''[https://www.goodcatholicbooks.org/antichrist.html A Story of Anti-Christ]'' (novel), 1900. Reprinted 2012 by Kassock Bros. Publishing Co., {{ISBN|1475136838}} {{ISBN|978-1475136838}}
+* [https://archive.org/details/thejustification00solouoft/page/n4 ''The Justification of the Good''], 1918. Reprinted 2010 by Cosimo Classics, {{ISBN|1-61640-281-4}} {{ISBN|978-1-61640-281-5}}
+* [https://books.google.com/books?id=6gl_AAAAMAAJ ''The Meaning of Love''. Reprinted 1985 by Lindisfarne Books], {{ISBN|0-89281-068-8}} {{ISBN|978-0-89281-068-0}}
+* [https://archive.org/details/warchristianityf00solorich/page/n6 ''War, Progress, and the End of History: Three Conversations, Including a Short Story of the Anti-Christ''], 1915. Reprinted 1990 by Lindisfarne Books, {{ISBN|0-940262-35-5}} {{ISBN|978-0-940262-35-5}}
+* [http://www.strobertbellarmine.net/books/Solovyev--Russia_Universal_Church.pdf ''Russia and the Universal Church''],.<ref>{{Cite web|url=https://books.google.com/books?id=QcVrAAAAIAAJ|title = Russia and the Universal Church|last1 = Solovyov|first1 = Vladimir Sergeyevich|year = 1948}}</ref> Reprinted 1948 by G. Bles.  (Abridged version: ''The Russian Church and the Papacy'', 2002, [[Catholic Answers]], {{ISBN|1-888992-29-8}} {{ISBN|978-1-888992-29-8}})
+* {{cite book |author1=Vladimir Solovyev; translated from the Russian by [[Richard Gill (translator)|Richard Gill]] with an introduction by [[Janko Lavrin]] and a concluding chapter by [[Judith Kornblatt]] |title=Transformations of Eros: An Odyssey from Platonic to Christian Eros (Жизненная драма Платона) |date=2004 |publisher=[[Grailstone Press]] |isbn=1-59650-001-8}} 103 pages
+
+== Bibliography ==
+
+* [http://www.odinblago.ru/soloviev_1/1 Мифологический процесс в древнем язычестве] (1873)
+* [http://www.odinblago.ru/soloviev_1/2 Кризис западной философии (против позитивистов)] (1874)
+* [https://dlib.rsl.ru/viewer/01003121874 Кризис западной философии. По поводу «Философии бессознательного» Гартмана. (Статья первая)] — Moscow: Ed. Orthodox Review, 1874. 
+* [http://www.odinblago.ru/soloviev_1/3 Теория Огюста Конта о трёх фазисах в умственном развитии человечества]
+* [http://www.odinblago.ru/soloviev_1/4 О философских трудах П. Д. Юркевича] (1874)
+* [http://www.odinblago.ru/soloviev_1/5 Метафизика и положительная наука] (1875)
+* [http://www.odinblago.ru/soloviev_1/6 Странное недоразумение (ответ г. Лесевичу)] (1874)
+* [http://www.odinblago.ru/soloviev_1/7 О действительности внешнего мира и основании метафизического познания (ответ Кавелину)]
+* [http://www.odinblago.ru/soloviev_1/8 Три силы] (1877)
+* [http://www.odinblago.ru/soloviev_1/9 Опыт синтетической философии]
+* Философские начала цельного знания (1877)
+* Чтения о богочеловечестве (1878)
+* [https://dlib.rsl.ru/viewer/01003611284 Критика отвлечённых начал] (1880)
+* [http://www.odinblago.ru/soloviev_2/50 Историческия дела философии] (1880)
+* [http://www.odinblago.ru/soloviev_3/2 Три речи в память Достоевского] (1881—1883)
+* [http://www.odinblago.ru/soloviev_3/3 Заметка в защиту Достоевского от обвинения в «новом» христианстве]
+* [http://www.odinblago.ru/soloviev_3/4 О духовной власти в России] (1881)
+* [http://www.odinblago.ru/soloviev_3/5 О расколе в русском народе и обществе] (1882-188З)
+* [http://www.odinblago.ru/soloviev_3/6 На пути к истинной философии] (1883)
+* [http://www.odinblago.ru/soloviev_9/21 Некролог. Кн. К. М. Шаховская] (1883)
+* [http://www.odinblago.ru/soloviev_3/7 Духовные основы жизни] (1882—1884)
+* [http://www.odinblago.ru/soloviev_3/8 Содержание речи, произнесённой на высших женских курсах в Петербурге 13 марта 1881 года]
+* [http://www.odinblago.ru/soloviev_4/1 Великий спор и христианская политика.] (1883)
+* [http://www.odinblago.ru/soloviev_4/2 Соглашение с Римом и московские газеты.] (1883)
+* [http://www.odinblago.ru/soloviev_4/3 О церковном вопросе по поводу старокатоликов.] (1883)
+* [http://www.odinblago.ru/soloviev_4/4 Еврейство и христианский вопрос.] (1884)
+* [http://www.odinblago.ru/soloviev_4/5 Взгляд первого славянофила на церковный раздор.] (1884)
+* [http://www.odinblago.ru/soloviev_5/1_3 Любовь к народу и русский народный идеал (открытое письмо к И. С. Аксакову)] 1884
+* [http://www.odinblago.ru/soloviev_4/6 Ответ Н. Я. Данилевскому.] (1885)
+* [http://www.odinblago.ru/soloviev_4/7 Как пробудить наши церковные силы?·(открытое письмо к С. А. Рачинскому).] (1885)
+* [http://www.odinblago.ru/soloviev_4/8 Новозаветный Израиль] (1885)
+* [http://www.odinblago.ru/soloviev_5/3 Государственная философия по программе Министерства Народного Просвещения.] 1885
+* [http://www.odinblago.ru/soloviev_4/9 Учение XII апостолов. (Введение к русскому изданию Διδαχή τῶν δώδεκα ἀποστόλων.)] (1886)
+* [http://www.odinblago.ru/soloviev_4/10 История и будущностъ теократии (исследование всемирно-исторического пути к истинной жизни).] (1885—1887)
+* [http://www.odinblago.ru/soloviev_4/11 Ответ анонимному критику по вопросу о догматическом развитии в церкви.] (1886)
+* [https://viewer.rusneb.ru/ru/rsl01003369948?page=1 Русская идея] [translated from Fr. G. A. Rachinsky]. — Moscow, 1911. 
+* [http://krotov.info/library/18_s/solovyov/11_143.html Россия и Вселенская церковь] (1889)
+* Красота в природе (1889)
+* Общий смысл искусства (1890)
+* [http://www.odinblago.ru/soloviev_6/13 Г. Ярош и истина] (1890)
+* [http://www.odinblago.ru/soloviev_6/4 Китай и Европа] (1890)
+* [http://www.odinblago.ru/soloviev_6/10 Иллюзия поэтического творчества] (1890)
+* [http://www.odinblago.ru/soloviev_5/2_5 Мнимая борьба с западом] 1890
+* Об упадке средневекового миросозерцания (1891)
+* [http://www.odinblago.ru/soloviev_5/2_9 Идолы и идеалы] (1891)
+* [http://www.odinblago.ru/soloviev_6/17 Из философии истории] (1891)
+* [http://www.odinblago.ru/soloviev_6/15 Запоздалая вылазка из одного литературного лагеря. (Письмо в редакцию.)] (1891)
+* [http://www.odinblago.ru/soloviev_5/5 Народная беда и общественная помощь.] (1891)
+* [http://www.odinblago.ru/soloviev_5/6 Наши грехи и наша обязанность.] (1891)
+* [http://www.odinblago.ru/soloviev_5/8 Враг с Востока] (1892)
+* [http://www.odinblago.ru/soloviev_6/21 Заметка о Е. П. Блавацкой] (1892)
+* [http://www.odinblago.ru/soloviev_5/7 Кто прозрел? (Письмо в редакцию «Русской мысли»).] (1892)
+* [http://www.odinblago.ru/soloviev_5/9 Мнимые и действительные меры к подъёму народного благосостояния.] (1892)
+* [http://www.odinblago.ru/soloviev_5/10 Вопрос о самочинном умствовании Л. Тихомирова, Духовенство и общество в современном религиозном движении] (1893)
+* [http://www.odinblago.ru/soloviev_6/22 Из вопросов культуры (1893): I. Ю. Ф. Самарин в письме к баронессе Э. Ф. Раден]
+* [http://www.odinblago.ru/soloviev_6/23 Из вопросов культуры (1893): II. Исторический сфинкс.]
+* Смысл любви (1894)
+* [http://www.odinblago.ru/soloviev_9/24 Некролог. А. М. Иванцов-Платонов] (1894)
+* [http://www.odinblago.ru/soloviev_9/23 Некролог. Ф. М. Дмитриев] (1894)
+* [http://www.odinblago.ru/soloviev_9/22 Некролог. Франциск Рачкий] (1894)
+* [http://www.odinblago.ru/filosofiya/solovev/solovyev_vizantizm_/ Византизм и Россия] (1896)
+* [http://www.odinblago.ru/soloviev_7/12 Магомет, его жизнь и религиозное учение]. — tip. of the "Public Benefit" company, 1896. - 80 с. - (Life of Remarkable People. Biographical Library of Florentiy Pavlenkov)
+* [http://www.odinblago.ru/soloviev_7/11 Когда жили еврейские пророки?] (1896)
+* [http://www.odinblago.ru/soloviev_7/17 Мир Востока и Запада] (1896)
+* [https://azbyka.ru/otechnik/Vladimir_Solovev/duhovnye-osnovy-zhizni/ Духовные основы жизни.] — СПб., 1897.
+* [http://www.odinblago.ru/soloviev_8/4 Замечание на статью проф. Г. Ф. Шершеневича] (1897)
+* [http://www.odinblago.ru/soloviev_7/18 Из Московской губернии. Письмо в редакцию «Вестника Европы»] (1897)
+* [http://www.odinblago.ru/soloviev_9/5 Импрессионизм мысли] (1897)
+* [http://www.odinblago.ru/soloviev_8/5 Мнимая критика (ответ В. Н. Чичерину)] (1897)
+* [http://www.odinblago.ru/soloviev_9/10 Жизненная драма Платона] (1898)
+* [http://www.odinblago.ru/soloviev_9/34 Мицкевич] (1898)
+* Оправдание добра (1897, 1899)
+* Тайна прогресса (1898)
+* [http://www.odinblago.ru/soloviev_9/9 Идея человечества у Августа Конта] (1898)
+* [http://www.odinblago.ru/soloviev_9/25 Некролог. Я. П. Полонский] (1898)
+* [http://www.odinblago.ru/soloviev_9/15 Значение поэзии в стихотворениях Пушкина] (1899)
+* [http://www.odinblago.ru/soloviev_9/12 Идея сверхчеловека] (1899)
+* [http://www.odinblago.ru/soloviev_9/16 Лермонтов] (1899)
+* [http://www.odinblago.ru/soloviev_9/29 Некролог. В. Г. Васильевский] (1899)
+* [http://www.odinblago.ru/soloviev_9/28 Некролог. И. Д. Рабинович] (1899)
+* [http://www.odinblago.ru/soloviev_9/27 Некролог. Л. И. Поливанов] (1899)
+* [http://www.odinblago.ru/soloviev_9/26 Некролог. М. С. Корелин] (1899)
+* [http://www.odinblago.ru/soloviev_9/30 Некролог. Н. Я. Грот (1899)]
+* Три разговора о войне, прогрессе и конце всемирной истории (1900)
+* [http://www.odinblago.ru/soloviev_9/32 Некролог. В. В. Болотов] (1900)
+* [http://www.odinblago.ru/soloviev_9/31 Некролог. В. П. Преображенский] (1900)
+* [https://viewer.rusneb.ru/ru/rsl01003595861?page=1 Последняя лекция Владимира Сергеевича Соловьёва в С.-Петербургском университете в 1882 г. : (Лекция 25 февр.).] — St. Petersburg: Printing house of M. Alisov and A. Grigoriev, [1882].
+
+==See also==
+{{Portal|Biography|Christianity|Philosophy}}
+* [[Apophatic theology]]
+* [[Mikhail Epstein]]
+* [[Leo Mikhailovich Lopatin]]
+* [[Vladimir Lossky]]
+* ''[[Phronesis]]''
+
+==References==
+===Footnotes===
+{{Reflist|22em}}
+
+===Works cited===
+{{refbegin|35em|indent=yes}}
+* {{cite book
+|last=Carlson
+|first=Maria
+|year=1996
+|chapter=Gnostic Elements in the Cosmogony of Vladimir Soloviev
+|editor1-last=Kornblatt
+|editor1-first=Judith Deutsch
+|editor2-last=Gustafson
+|editor2-first=Richard F.
+|title=Russian Religious Thought
+|location=Madison, Wisconsin
+|publisher=[[University of Wisconsin Press]]
+|pages=49–67
+|isbn=978-0-299-15134-8
+}}
+* {{cite book
+|last=Cioran
+|first=Samuel
+|year=1977
+|title=Vladimir Solov'ev and the Knighthood of the Divine Sophia
+|location=Waterloo, Ontario
+|publisher=[[Wilfrid Laurier University Press]]
+}}
+* {{cite book
+|last=Dahm
+|first=Helmut
+|author-link=:de:Helmut Dahm (Slawist)
+|year=1975
+|title=Vladimir Solovyev and Max Scheler: Attempt at a Comparative Interpretation
+|translator-last=Wright
+|translator-first=Kathleen
+|series=Sovietica
+|volume=34
+|location=Dordrecht, Netherlands
+|publisher=[[Springer Publishing|Springer]]
+|isbn=978-90-277-0507-5
+}}
+* {{cite journal
+|last=Eskridge-Kosmach
+|first=Alena
+|author-link=:be:Алена Мікалаеўна Космач
+|year=2014
+|title=Russian Press and the Ideas of Russia's 'Special Mission in the East' and 'Yellow Peril'
+|journal=[[Journal of Slavic Military Studies]]
+|volume=27
+|issue=4
+|pages=661–675
+|issn=1556-3006
+|doi=10.1080/13518046.2014.963440
+|s2cid=144102416
+}}
+* {{cite book
+|last=Jacobs
+|first=Alan
+|author-link=Alan Jacobs (academic)
+|year=2001
+|chapter=Bakhtin and the Hermeneutics of Love
+|editor1-last=Felch
+|editor1-first=Susan M.
+|editor2-last=Contino
+|editor2-first=Paul J.
+|title=Bakhtin and Religion
+|series=Rethinking Theory
+|location=Evanston, Illinois
+|publisher=[[Northwestern University Press]]
+|pages=25–46
+|isbn=978-0-8101-1825-6
+}}
+* {{cite book
+|last=Kornblatt
+|first=Judith Deutsch
+|year=2009
+|title=Divine Sophia: The Wisdom Writings of Vladimir Solovyov
+|location=Ithaca, New York
+|publisher=[[Cornell University Press]]
+|isbn=978-0-8014-7479-8
+|url-access=registration
+|url=https://archive.org/details/divinesophiawisd00solo
+}}
+* {{cite book
+|last=Kostalevsky
+|first=Marina
+|year=1997
+|title=Dostoevsky and Soloviev: The Art of Integral Vision
+|location=New Haven, Connecticut
+|publisher=[[Yale University Press]]
+|isbn=978-0-300-06096-6
+}}
+* {{cite book
+|last=Lossky
+|first=N. O.
+|author-link=Nikolay Lossky
+|year=1951
+|title=History of Russian Philosophy
+|location=New York
+|publisher=[[International Universities Press]]
+|publication-date=1970
+|isbn=978-0-8236-8074-0
+}}
+* {{cite book
+|contributor-last=Milosz
+|contributor-first=Czeslaw
+|contributor-link=Czesław Miłosz
+|contribution=Introduction
+|year=1990
+|title=War, Progress and the End of History: Three Conversations, Including a Short Story of the Anti-Christ
+|last=Solovyov
+|first=Vladimir
+|location=Hudson, New York
+|publisher=[[Lindisfarne Press]]
+|isbn=978-1-58420-212-7
+}}
+* {{cite book
+|last=Powell
+|first=Robert
+|year=2007
+|orig-year=2001
+|title=The Sophia Teachings: The Emergence of the Divine Feminine in Our Time
+|location=Great Barrington, Massachusetts
+|publisher=Lindisfarne Books
+|isbn=978-1-58420-048-2
+}}
+* {{cite book
+|last=Solovyov
+|first=Vladimir
+|editor-last=Jakim
+|editor-first=Boris
+|year=2008
+|title=The Religious Poetry of Vladimir Solovyov
+|translator1-last=Jakim
+|translator1-first=Boris
+|translator2-last=Magnus
+|translator2-first=Laury
+|location=San Rafael, California
+|publisher=[[Semantron Press]]
+|isbn=978-1-59731-279-0
+}}
+* {{cite book
+|last=Valliere
+|first=Paul
+|year=2007
+|chapter=Vladimir Soloviev (1853–1900)
+|editor1-last=Witte
+|editor1-first=John Jr.
+|editor1-link=John Witte Jr.
+|editor2-last=Alexander
+|editor2-first=Frank S.
+|title=The Teachings of Modern Orthodox Christianity on Law, Politics, and Human Nature
+|location=New York
+|publisher=[[Columbia University Press]]
+|isbn=978-0-231-14264-9
+}} <https://core.ac.uk/download/pdf/62435007.pdf> 
+{{refend}}
+
+==Further reading==
+{{refbegin|35em|indent=yes}}
+* [[Paul du Quenoy|du Quenoy, Paul]]. "Vladimir Solov’ev in Egypt: The Origins of the ‘Divine Sophia’ in Russian Religious Philosophy," ''Revolutionary Russia'', 23: 2, December 2010.
+* Finlan, Stephen. "The Comedy of Divinization in Soloviev," ''Theosis: Deification in Christian Theology'' (Eugene, Or.: Wipf & Stock, 2006), pp.&nbsp;168–183.
+* Gerrard, Thomas J. [https://archive.org/stream/catholicworld105pauluoft#page/320/mode/2up ''"Vladimir Soloviev – The Russian Newman,"''] [[The Catholic World]], Vol. CV, April/September, 1917.
+* Groberg, Kristi. "Vladimir Sergeevich Solov'ev: a Bibliography," ''Modern Greek Studies Yearbook'', vol.14–15, 1998.
+* Kornblatt, Judith Deutsch. ''"Vladimir Sergeevich Solov’ev,"'' Dictionary of Literary Bibliography, v295 (2004), pp.&nbsp;377–386.
+* Mrówczyński-Van Allen, Artur. ''Between the Icon and the idol. The Human Person and the Modern State in Russian Literature and Thought - Chaadayev, Soloviev, Grossman'' (Cascade Books, /Theopolitical Visions/, Eugene, Or., 2013).
+* Nemeth, Thomas. ''The Early Solov'ëv and His Quest for Metaphysics.'' Springer, 2014. {{ISBN|978-3-319-01347-3}} [Print]; {{ISBN|978-3-319-01348-0}} [eBook]
+* [[:ru:Стремоухов, Дмитрий Николаевич|Stremooukhoff, Dimitrii N.]] ''Vladimir Soloviev and his Messianic Work'' (Paris, 1935; English translation: Belmont, MA: Nordland, 1980).
+* Sutton, Jonathan. ''The Religious Philosophy of Vladimir Solovyov: Towards a Reassessment'' (Basingstoke, UK: [[Macmillan Publishers|Macmillan]], 1988).
+* [[Nicholas Zernov|Zernov, Nicholas]]. ''Three Russian prophets'' (London: [[SCM Press]], 1944).
+{{refend}}
+
+==External links==
+* {{Internet Archive author |sname=Vladimir Sergeyevich Solovyov |birth=1853 |death=1900}}
+* {{Librivox author |id=10776}}
+* [http://www.utm.edu/research/iep/s/solovyov.htm Vladimir Solovyov (1853–1900)] – entry on Solovyov at ''[[Internet Encyclopedia of Philosophy]]''
+* http://www.orthodoxphotos.com/readings/end/antichrist.shtml
+* [http://people.emich.edu/wmoss/publications/ ALEXANDER II AND HIS TIMES: A Narrative History of Russia in the Age of Alexander II, Tolstoy, and Dostoevsky] Several chapters on Solovyov
+* http://www.utm.edu/research/iep/s/solovyov.htm
+* http://www.christendom-awake.org/pages/soloviev/soloviev.html
+* http://www.christendom-awake.org/pages/soloviev/biffi.html (address by Cardinal Giacomo Biffi)
+* [http://www.britannica.com/eb/article-9068629/Vladimir-Sergeyevich-Solovyov Vladimir-Sergeyevich-Solovyov] // [[Britannica]]
+* http://www.valley.net/~transnat/solsoc.html
+* {{webarchive |url=https://web.archive.org/web/20060112121614/http://www.praiseofglory.com/taleantichrist.htm |date=January 12, 2006 |title=Tale of the Anti-Christ }} – excerpt from ''Three Conversations'' by Solovyov
+* [http://www.ru.nl/filosofie/crhs/solovev.html Civil Society and National Religion: Problems of Church, State, and Society in the Philosophy of Vladimir Solov'ëv (1853–1900)]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }} – research project at Centre for Russian Humanities Studies, Radboud Universiteit Nijmegen
+* http://rumkatkilise.org/necplus.htm
+* [http://www.albany.edu/offcourse/issue41/cigale_translations1.html#solovyov English translations of 5 poems, including 8 of 18 acrostics from the cycle "Sappho"]
+* [https://archive.org/details/bub_gb_R2kMAAAAIAAJ English translations of 2 poems by Babette Deutsch and Avrahm Yarmolinsky, 1921]
+* [http://via.library.depaul.edu/cgi/viewcontent.cgi?article=1010&context=jrbe "The Positive Unity: How Solovyov's Ethics Can Contribute to Constructing a Working Model for Business Ethics in Modern Russia"] by Andrey V. Shirin
+
+{{Authority control}}
+
+{{DEFAULTSORT:Solovyov, Vladimir}}
+[[Category:1853 births]]
+[[Category:1900 deaths]]
+[[Category:Russian people of Polish descent]]
+[[Category:Russian people of Ukrainian descent]]
+[[Category:19th-century Christian mystics]]
+[[Category:19th-century Christian theologians]]
+[[Category:Burials at Novodevichy Cemetery]]
+[[Category:Christian philosophers]]
+[[Category:Critics of atheism]]
+[[Category:Honorary members of the Saint Petersburg Academy of Sciences]]
+[[Category:Imperial Moscow University alumni]]
+[[Category:Pamphleteers]]
+[[Category:People from Moscow Governorate]]
+[[Category:Philosophers of literature]]
+[[Category:Philosophers of mind]]
+[[Category:Philosophers of love]]
+[[Category:Philosophers of religion]]
+[[Category:Platonists]]
+[[Category:Russian male poets]]
+[[Category:Russian Orthodox Christians from Russia]]
+[[Category:Sophiology]]
+[[Category:Writers from Moscow]]
+[[Category:Catholicism and Eastern Orthodoxy]]
+[[Category:19th-century philosophers from the Russian Empire]]

@@ -1,0 +1,278 @@
+{{Short description|American Christian philosopher}}
+{{Infobox philosopher
+| name              = Alvin Plantinga
+| birth_name        = Alvin Carl Plantinga
+| birth_date        = {{birth date and age|1932|11|15|mf=yes}}
+| birth_place       = [[Ann Arbor, Michigan]], U.S.
+| image               = Alvin Plantinga.jpg
+| alt                 = 
+| caption             = Plantinga in 2004
+| spouse            = {{marriage|Kathleen De Boer|1955}}
+| era               = [[20th-century philosophy]]
+| region            = [[Western philosophy]]
+| institutions      = {{Unbulleted list | [[Wayne State University]] | [[Calvin University]] | [[University of Notre Dame]]}}
+| school_tradition  = [[Analytic philosophy|Analytic]]
+| notable_works     = {{ublist |''[[God and Other Minds]]'' (1967) |''[[Warranted Christian Belief]]'' (2000)}}
+| main_interests    = {{hlist |[[Epistemology]] | [[metaphysics]] | [[philosophy of religion]] | [[logic]] | [[modal logic]] | [[philosophy of science]] | [[natural theology]]}}
+| notable_ideas     = {{ublist |[[Reformed epistemology]] | [[Alvin Plantinga's free-will defense|Free-will defense]] | [[Ontological argument#Alvin Plantinga|Modal ontological argument]] | [[Reliabilism|Proper functionalism]] | [[Evolutionary argument against naturalism]] | [[Warrant (philosophy)|Warrant]] | [[Modal metaphysics]] | [[Attributes of God in Christianity|Divine attributes]] | [[Internalism and externalism]]}}
+| awards            = {{ublist | [[Nicholas Rescher Prize for Systematic Philosophy|Rescher Prize]] (2012) | [[Templeton Prize]] (2017)}}
+| doctoral_advisor  = [[Paul Weiss (philosopher)|Paul Weiss]]
+|education={{Unbulleted list | [[Harvard University]] | [[Calvin University]] ([[B. A.|BA]])| [[University of Michigan]] ([[M. A.|MA]])| [[Yale University]] ([[PhD]])}}}}
+
+'''Alvin Carl Plantinga'''{{efn|Pronounced {{IPAc-en|ˈ|p|l|æ|n|t|ɪ|ŋ|ɡ|ə}}<ref>{{YouTube|id=f2yLIbe9jyc#t=0m44s|title=Christian, Evolutionist, or Both?}}<!--at 0:44--></ref>}} (born November 15, 1932) is an American [[analytic philosophy|analytic philosopher]] who works primarily in the fields of [[philosophy of religion]], [[epistemology]] (particularly on issues involving [[theory of justification|epistemic justification]]), and [[logic]].
+
+From 1963 to 1982, Plantinga taught at [[Calvin University]] before accepting an appointment as the John A. O'Brien Professor of Philosophy at the [[University of Notre Dame]].<ref>{{Cite web |url=http://www.veritas-ucsb.org/library/plantinga/home.html |title=Alvin Plantinga |website=veritas-ucsb.org}}</ref> He later returned to Calvin University to become the inaugural holder of the Jellema Chair in Philosophy.<ref>{{Cite web |url=https://calvin.edu/news/archive/plantinga-wins-prestigious-rescher-prize |title=Plantinga Wins Prestigious Rescher Prize |website=calvin.edu}}</ref>
+
+A prominent Christian philosopher, Plantinga served as president of the [[Society of Christian Philosophers]] from 1983 to 1986. He has delivered the [[Gifford Lectures]] twice and was described by ''[[Time (magazine)|Time]]'' magazine as "America's leading orthodox Protestant philosopher of God".<ref>{{Cite web |url=http://philosophy.nd.edu/people/alvin-plantinga/ |title=Emeritae and Emeriti // Department of Philosophy // University of Notre Dame |url-status=dead |archive-url=https://web.archive.org/web/20130831050623/http://philosophy.nd.edu/people/alvin-plantinga/ |archive-date=2013-08-31}}</ref> In 2014, Plantinga was the 30th most-cited contemporary author in the [[Stanford Encyclopedia of Philosophy]].<ref>{{Cite web |title=The 267 Most-Cited Contemporary Authors in the Stanford Encyclopedia of Philosophy |url=http://schwitzsplintersunderblog.blogspot.com/2014/08/the-266-most-cited-contemporary-authors.html |access-date=2020-06-27 |language=en}}</ref> A fellow of the American Academy of Arts and Sciences, he was awarded the [[Templeton Prize]] in 2017.
+
+Some of Plantinga's most influential works include ''[[God and Other Minds]]'' (1967), ''The Nature of Necessity'' (1974), and a trilogy of books on epistemology, culminating in ''[[Warranted Christian Belief]]'' (2000) that was simplified in ''Knowledge and Christian Belief'' (2015).<ref>{{Cite web |url=https://iep.utm.edu/ref-epis/#SH3b |title=Reformed Epistemology |website=The Internet Encyclopedia of Philosophy}}</ref>
+
+== Biography ==
+=== Family ===
+Plantinga was born on November 15, 1932, in [[Ann Arbor, Michigan]], to Cornelius A. Plantinga (1908–1994) and Lettie G. Bossenbroek (1908–2007), immigrants from the province of [[Friesland]] in the Netherlands.<ref>"Self-profile", p. 3.</ref> After Cornelius earned a PhD in philosophy from [[Duke University]], he secured a teaching job in Michigan in 1941.<ref>{{Cite web |date=2014-08-18 |title=Alvin Plantinga |url=https://www.giffordlectures.org/lecturers/alvin-plantinga |url-status=dead |archive-url=https://web.archive.org/web/20190506120542/https://www.giffordlectures.org/lecturers/alvin-plantinga |archive-date=2019-05-06 |access-date=2017-08-04 |website=The Gifford Lectures}}</ref> Cornelius also had a master's degree in psychology. He taught several academic subjects at different institutions throughout his career.<ref name="Self6">"Self-profile", p. 6.</ref>
+
+Plantinga married Kathleen De Boer in 1955.<ref>"Self-profile", p. 14.</ref> They had four children.<ref>"Introduction: Alvin Plantinga, God's Philosopher" in ''Alvin Plantinga; Deane-Peter Baker ed., (New York: Cambridge University Press), 2007, p. 5.</ref><ref>[http://www.nnp.org/nni/Publications/Dutch-American/plantinga.html "Alvin Plantinga"] {{Webarchive|url=https://web.archive.org/web/20080704080424/http://www.nnp.org/nni/Publications/Dutch-American/plantinga.html |date=2008-07-04 }}, ''Well-Known Dutch-Americans'' at The New Netherland Institute website. Retrieved November 6, 2007.</ref> One of Plantinga's brothers, [[Cornelius Plantinga|Cornelius "Neal" Plantinga Jr.]], is a theologian and the former president of [[Calvin Theological Seminary]] and another, [[Leon Plantinga|Leon]], is an emeritus professor of [[musicology]] at [[Yale University]].<ref name="Self6" /><ref>{{Cite web |url=http://www.yale.edu/yalemus/people/emeritus.html |title=Welcome |access-date=April 7, 2016}}</ref>
+
+=== Education ===
+As an adolescent, Alvin Plantinga's family moved from Michigan to North Dakota for his father's job at  [[Jamestown College]]. At his father's advice, Alvin skipped his last year of high school to enroll at Jamestown College in 1949 at 16.<ref>"Self-profile", pp. 7–8.</ref><ref name="Baker2007profile">{{Cite book |url=https://books.google.com/books?id=34FKFPB0TtkC |title=Alvin Plantinga |last=Deane-Peter Baker |publisher=Cambridge University Press |year=2007 |isbn=978-0-521-85531-0 |pages=2–8 |access-date=16 December 2010}}</ref> That year, his father accepted a teaching job at [[Calvin University]] which began in January 1950. Alvin Plantinga moved to Grand Rapids with his family and attended Calvin University for a semester. He applied to [[Harvard University|Harvard]] and was awarded a scholarship.<ref>"Self-profile", p. 8.</ref>
+
+In the fall of 1950, Plantinga transferred to Harvard, where he spent two semesters. In 1951, during Harvard's spring recess, Plantinga attended a few philosophy classes at Calvin University and was so impressed with Calvin philosophy professor [[William Harry Jellema]] that he returned in 1951 to study philosophy under him.<ref>"Self-profile", pp. 9–16.</ref> In 1954, Plantinga began his graduate studies at the [[University of Michigan]] where he studied under [[William Alston]], [[William Frankena]], and Richard Cartwright, among others.<ref>"Self-profile", p. 16.</ref> A year later, in 1955, he transferred to [[Yale University]] where he received his PhD in 1958.<ref>"Self-profile", pp. 21–22.</ref>
+
+=== Teaching career ===
+Plantinga began his career as an instructor in the philosophy department at Yale in 1957, and then in 1958, he became a professor of philosophy at [[Wayne State University]] during its heyday as a major center for analytic philosophy. In 1963, he accepted a teaching job at Calvin University, where he replaced the retiring Jellema.<ref>"Self-profile", p. 30.</ref> He then spent the next 19 years at Calvin before moving to the [[University of Notre Dame]] in 1982. He retired from the University of Notre Dame in 2010 and returned to Calvin University, where he holds the first William Harry Jellema Chair in Philosophy. He has trained [[metaphysics]] and [[epistemology]]-focused philosophers including [[Michael Bergmann (philosopher)|Michael Bergmann]], [[Michael Rea]], and [[Trenton Merricks]].
+
+=== Awards and honors ===
+[[File:AlvinPlantinga.JPG|thumb|left|Plantinga in 2009]]
+Plantinga served as president of the [[American Philosophical Association]], Western Division, from 1981 to 1982.<ref>{{Cite web |url=http://americanphilosophy.net/dmap/apa_presidents.htm |title=APA Presidents |url-status=dead |archive-url=https://web.archive.org/web/20120426082515/http://americanphilosophy.net/dmap/apa_presidents.htm |archive-date=April 26, 2012}}</ref> and as president of the [[Society of Christian Philosophers]] from 1983 to 1986.<ref name="Baker2007profile" /><ref name="nnp">{{Cite web |url=http://www.nnp.org/nni/Publications/Dutch-American/plantinga.html |title=NNP, The Casino News Network |website=nnp.org |url-status=dead |archive-url=https://web.archive.org/web/20080704080424/http://www.nnp.org/nni/Publications/Dutch-American/plantinga.html |archive-date=July 4, 2008 |df=mdy-all}}</ref>
+
+He has honorary degrees from [[Glasgow University]] (1982), [[Calvin University]] (1986), [[North Park College]] (1994), the [[Free University of Amsterdam]] (1995), [[Brigham Young University]] (1996), and [[Valparaiso University]] (1999).<ref name="nnp" /> He was a [[Guggenheim Fellow]], 1971–72, and elected a Fellow in the [[American Academy of Arts and Sciences]] in 1975.<ref name="nnp" />
+
+In 2006, the [[University of Notre Dame]]'s Center for Philosophy of Religion renamed its Distinguished Scholar Fellowship as the Alvin Plantinga Fellowship.<ref>{{Cite web |url=http://www.nd.edu/~cprelig/events/index.shtml |title=Events |last=AgencyND : University of Notre Dame |access-date=April 7, 2016}}</ref> The fellowship includes an annual lecture by the current Plantinga Fellow.<ref>{{Cite web |url=http://www.nd.edu/~cprelig/plantinga/index.shtml |title=Center for Philosophy of Religion |last=Agency ND : University of Notre Dame |access-date=April 7, 2016}}</ref>
+
+In 2012, the University of Pittsburgh's Philosophy Department, History and Philosophy of Science Department, and the Center for the History and Philosophy of Science co-awarded Plantinga the [[Nicholas Rescher Prize for Systematic Philosophy]],<ref>{{Cite web |url=http://www.philosophy.pitt.edu/news-story/nicholas-rescher-prize-systematic-philosophy-0 |title=Nicholas Rescher Prize for Systematic Philosophy |last=University of Pittsburgh University Marketing Communications Webteam |access-date=April 7, 2016}}</ref> which he received with a talk titled, "Religion and Science: Where the Conflict Really Lies".
+
+In 2017, Baylor University's Center for Christian Philosophy inaugurated the Alvin Plantinga Award for Excellence in Christian Philosophy.  Awardees deliver a lecture at Baylor University and their name is put on a plaque with Plantinga's image in the Institute for Studies in Religion. He was named the first fellow of the center as well.<ref>{{Cite web |url=http://www.baylorisr.org/2017/08/15/philosophy-department-baylor-isr-and-major-granting-organization-cooperate-in-opening-baylor-center-for-christian-philosophy |title=Philosophy department, Baylor ISR and major granting organization cooperate in opening Baylor Center for Christian Philosophy {{!}} Baylor Institute for Studies of Religion |website=www.baylorisr.org |access-date=2017-10-16}}</ref>
+
+He was awarded the 2017 [[Templeton Prize]].<ref name="templetonprize.org">{{Cite web |title=Templeton Prize – Current Winner |url=http://www.templetonprize.org/currentwinner.html |url-status=dead |archive-url=https://web.archive.org/web/20090319075251/http://www.templetonprize.org/currentwinner.html |archive-date=2009-03-19 |access-date=2017-07-27 |website=templetonprize.org}}</ref>
+
+== Philosophical views ==
+Plantinga has argued that some people can know that [[God]] exists as a [[basic belief]], requiring no argument. He developed this argument in two different ways: firstly, in ''God and Other Minds'' (1967), by drawing an equivalence between the [[teleological argument]] and the common sense view that people have of [[Problem of other minds|other minds]] existing by analogy with their own minds.<ref>{{Cite journal |last=Felder |first=D. W. |year=1971 |title=Disanalogies in Plantinga's Argument regarding the Rationality of Theism |journal=Journal for the Scientific Study of Religion |volume=10 |issue=3 |pages=200–207 |doi=10.2307/1384479 |jstor=1384479}}</ref><ref>{{Cite journal |last=Friquegnon |first=M. L. |year=1979 |title=God and Other Programs |journal=Religious Studies |volume=15 |issue=1 |pages=83–89 |doi=10.1017/S0034412500011100|s2cid=170439088 }}</ref> Plantinga has also developed a more comprehensive epistemological account of the nature of warrant which allows for the existence of God as a basic belief.<ref>{{Cite journal |last=Copan |first=P. |year=2001 |title=Warranted Christian Belief |journal=The Review of Metaphysics |volume=54 |issue=4 |pages=939–941 |jstor=20131647}}</ref>
+
+Plantinga has also argued that there is no logical inconsistency between the [[problem of evil|existence of evil]] and the existence of an all-powerful, all-knowing, wholly good God.<ref>Quinn, Philip L. "Plantinga, Alvin" in Honderich, Ted (ed.). ''The Oxford Companion to Philosophy''. Oxford University Press, 1995.</ref>
+
+=== Problem of evil ===
+{{Main|Alvin Plantinga's free-will defense}}
+{{Theodicy}}
+
+Plantinga proposed a "free-will defense" in a volume edited by [[Max Black]] in 1965,<ref>"Free Will Defense", in [[Max Black]] (ed), ''Philosophy in America''. Ithaca: Cornell UP / London: Allen & Unwin, 1965</ref> which attempts to refute the [[logical problem of evil]], the argument that the existence of evil is logically incompatible with the existence of an omnipotent, omniscient, wholly good God.<ref name="BeebeIEP">{{harvnb|Beebe|2005}}</ref> Plantinga's argument (in a truncated form) states that "It is possible that God, even being omnipotent, could not create a world with free creatures who never choose evil. Furthermore, it is possible that God, even being omnibenevolent, would desire to create a world which contains evil if moral goodness requires free moral creatures."<ref>{{harvnb|Meister|2009|p=133}}</ref>
+
+However, the argument's handling of [[natural evil]] has been disputed. According to the ''[[Internet Encyclopedia of Philosophy]]'', the argument also "conflicts with important theistic doctrines" such as the notion of a [[heaven]] where free saved souls reside without doing evil, and the idea that God has free will yet is wholly good. Critics thus maintain that, if we take such doctrines to be (as Christians usually have), God could have created free creatures that always do right, contra Plantinga's claim.<ref>{{Cite web |url=http://www.iep.utm.edu/evil-log/#H10 |title=Logical Problem of Evil |access-date=July 16, 2012}}</ref> [[J.&nbsp;L. Mackie]] saw Plantinga's free-will defense as incoherent.<ref>[[J.&nbsp;L. Mackie]] wrote: "[H]ow could there be logically contingent states of affairs, ''prior to the creation and existence of any created beings with free will'', which an omnipotent god would have to accept and put up with? This suggestion is simply incoherent. Indeed, by bringing in the notion of individual essences which determine—presumably non-causally—how Curly Smith, Satan, and the rest of us would choose freely or would act in each hypothetical situation, Plantinga has not rescued the free will defence but made its weaknesses all too clear". Mackie 1982, p. 174.</ref>
+
+Plantinga's well-received book ''God, Freedom and Evil'', written in 1974, gave his response to what he saw as the incomplete and uncritical view of theism's criticism of [[theodicy]]. Plantinga's contribution stated that when the issue of a comprehensive doctrine of freedom is added to the discussion of the goodness of God and the omnipotence of God then it is not possible to exclude the presence of evil in the world after introducing freedom into the discussion. Plantinga's own summary occurs in his discussion titled "Could God Have Created a World Containing Moral Good but No Moral Evil", where he states his conclusion that, "...&nbsp;the price for creating a world in which they produce moral good is creating one in which they also produce moral evil."<ref>Plantinga, Alvin (1974). ''God, Freedom and Evil'', p. 49.</ref>
+
+=== Reformed epistemology ===
+{{Main|Reformed epistemology}}
+What Plantinga calls "Reformed epistemology" holds that belief in God can be rational and justified even without arguments or evidence for the existence of God. More specifically, he argues belief in God is [[properly basic]], and due to a religious [[Internalism and externalism|externalist]] epistemology, he claims that it could be justified independently of evidence.  His externalist epistemology, called "proper functionalism", is a form of [[epistemological]] [[reliabilism]].
+
+Plantinga discusses his view of Reformed epistemology and proper functionalism in a three-volume series. In the first book of the trilogy, ''[[Warrant: The Current Debate]]'', Plantinga introduces, analyzes, and criticizes 20th-century developments in analytic epistemology, particularly the works of [[Roderick Chisholm|Chisholm]], [[Laurence BonJour|BonJour]], [[William Alston|Alston]], [[Alvin Goldman|Goldman]], and others.<ref>Alvin Plantinga, ''Warrant: The Current Debate'', New York: Oxford University Press, 1993.</ref> In the book, Plantinga argues specifically that the theories of what he calls "warrant"—what many others have called [[Theory of justification|justification]] (Plantinga draws out a difference: justification is a property of a person holding a belief while warrant is a property of a belief)—put forth by these epistemologists have systematically failed to capture in full what is required for knowledge.<ref>Plantinga, ''Warrant: The Current Debate'', 1993. 3.</ref>
+
+In the second book, ''[[Warrant and Proper Function]]'', he introduces the notion of warrant as an alternative to justification and discusses topics like self-knowledge, memories, perception, and probability.<ref>Alvin Plantinga, ''Warrant and Proper Function'', New York: Oxford University Press, 1993.</ref> Plantinga's "proper function" account argues that as a necessary condition of having warrant, one's "belief-forming and belief-maintaining apparatus of powers" are functioning properly—"working the way it ought to work".<ref>WPF, p. 4</ref> Plantinga explains his argument for proper function with reference to a "design plan", as well as an environment in which one's cognitive equipment is optimal for use. Plantinga asserts that the design plan does not require a designer: "it is perhaps possible that evolution (undirected by God or anyone else) has somehow furnished us with our design plans",<ref>WPF, p. 21</ref> but the paradigm case of a design plan is like a technological product designed by a human being (like a radio or a wheel). Ultimately, Plantinga argues that epistemological [[Naturalism (philosophy)|naturalism]]- i.e. [[epistemology]] that holds that warrant is dependent on natural faculties—is best supported by supernaturalist metaphysics—in this case, the belief in a [[creator God]] or designer who has laid out a design plan that includes cognitive faculties conducive to attaining knowledge.<ref>WPF, 237.</ref>
+
+According to Plantinga, a belief, B, is warranted if:
+
+<blockquote>(1) the cognitive faculties involved in the production of B are functioning properly…; (2) your cognitive environment is sufficiently similar to the one for which your cognitive faculties are designed; (3) … the design plan governing the production of the belief in question involves, as purpose or function, the production of true beliefs…; and (4) the design plan is a good one: that is, there is a high statistical or objective probability that a belief produced in accordance with the relevant segment of the design plan in that sort of environment is true.<ref>Plantinga, ''Warrant and Proper Function'', 1993. 194.</ref></blockquote>
+
+Plantinga seeks to defend this view of proper function against alternative views of proper function proposed by other philosophers which he groups together as "naturalistic", including the "functional generalization" view of [[John L. Pollock|John Pollock]], the evolutionary/etiological account provided by [[Ruth Millikan]], and a dispositional view held by [[John Bigelow]] and Robert Pargetter.<ref>WPF, p. 199-211.</ref> Plantinga also discusses his [[#Evolutionary argument against naturalism|evolutionary argument against naturalism]] in the later chapters of ''Warrant and Proper Function''.<ref>{{Cite journal |last=Fales |first=E. |year=1996 |title=Plantinga's Case against Naturalistic Epistemology |journal=Philosophy of Science |volume=63 |issue=3 |pages=432–451 |doi=10.1086/289920|s2cid=170510977 }}</ref>
+
+In 2000, the third book of the trilogy, ''Warranted Christian Belief'', was published. In this volume, Plantinga's warrant theory is the basis for his theological end: providing a philosophical basis for Christian belief, an argument for why Christian theistic belief can enjoy warrant. In the book, he develops two models for such beliefs, the "A/C" ([[Thomas Aquinas|Aquinas]]/[[John Calvin|Calvin]]) model, and the "Extended A/C" model. The former attempts to show that a belief in God can be justified, warranted and rational, while the Extended model tries to show that specifically Christian theological beliefs including the [[Trinity]], the [[Incarnation]], the resurrection of [[Jesus Christ|Christ]], the [[Atonement in Christianity|atonement]], salvation etc. Under this model, Christians are justified in their beliefs because of the work of the [[Holy Spirit]] in bringing those beliefs about in the believer.
+
+James Beilby has argued that the purpose of Plantinga's ''Warrant'' trilogy, and specifically of his ''Warranted Christian Belief'', is firstly to make a form of argument against religion impossible—namely, the argument that whether or not Christianity is true, it is irrational—so "the skeptic would have to shoulder the formidable task of demonstrating the falsity of Christian belief"<ref>{{Cite book |title=Alvin Plantinga |last=Beilby |first=James |date=2007 |publisher=Cambridge University Press |isbn=978-0-521-67143-9 |editor-last=Baker |editor-first=Deane-Peter |location=Cambridge |pages=125–165 |chapter=Plantinga's Model of Warranted Christian Belief}}</ref> rather than simply dismiss it as irrational. In addition, Plantinga is attempting to provide a philosophical explanation of how Christians should think about their own Christian belief.
+
+=== Modal ontological argument ===
+
+Plantinga has expressed a [[Ontological argument#Alvin Plantinga|modal logic version of the ontological argument]] in which he uses [[modal logic]] to develop, in a more rigorous and formal way, [[Norman Malcolm]]'s and [[Charles Hartshorne]]'s modal [[Anselm's argument|ontological arguments]].
+
+Plantinga criticized Malcolm's and Hartshorne's arguments, and offered an alternative.<ref>{{cite news |url=http://chronicle.com/article/Evolution-Shibboleths-and/64990/ |title=Evolution, Shibboleths, and Philosophers |newspaper=[[The Chronicle of Higher Education]] |date=April 11, 2010 |access-date=2010-04-28 |quote=Like any Christian (and indeed any theist), I believe that the world has been created by God, and hence "intelligently designed"}}</ref> He argued that, if Malcolm does prove the necessary existence of the greatest possible being, it follows that there is a being which exists in all worlds whose greatness in ''some'' worlds is not surpassed. It does not, he argued, demonstrate that such a being has unsurpassed greatness in this world.<ref name="Plantinga, Sennett 1998">{{Cite book |title=The Analytic Theist: An Alvin Plantinga Reader |last=Plantinga |first=Alvin |publisher=Wm. B. Eerdmans Publishing |year=1998 |isbn=978-0-8028-4229-9 |editor-last=Sennett |editor-first=James F. |pages=65–71 |author-link=Alvin Plantinga}}</ref>
+
+In an attempt to resolve this problem, Plantinga differentiated between "greatness" and "excellence". A being's excellence in a particular world depends only on its properties in that world; a being's greatness depends on its properties in all worlds. Therefore, the greatest possible being must have maximal excellence in every possible world. Plantinga then restated Malcolm's argument, using the concept of "maximal greatness". He argued that it is possible for a being with maximal greatness to exist, so a being with maximal greatness exists in a possible world. If this is the case, then a being with maximal greatness exists in every world, and therefore in this world.<ref name="Plantinga, Sennett 1998" />
+
+The conclusion relies on a form of [[axiom S5|modal axiom S5]], which states that if something is possibly true, then its possibility is necessary (it is possibly true in all worlds). Plantinga's version of S5 suggests that "To say that p is possibly necessarily true is to say that, with regard to one world, it is true at all worlds; but in that case it is true at all worlds, and so it is simply necessary."<ref>{{Cite book |url=https://books.google.com/books?id=veGCAgAAQBAJ&q=%22possibly+necessarily+true%22+then+it+is+necessarily+true+plantinga&pg=PA128 |title=Medieval Philosophy: An Historical and Philosophical Introduction |last=Marenbon |first=John |date=October 2, 2006 |publisher=Routledge |via=Google Books |isbn=978-1-134-46183-7}}</ref> A version of his argument is as follows:<ref name="oppy">{{Cite encyclopedia |url=http://plato.stanford.edu/entries/ontological-arguments |title=Ontological Arguments |last=Oppy, Graham |date=8 February 1996 |encyclopedia=substantive revision 15 July 2011 |publisher=Stanford Encyclopedia of Philosophy}}</ref>
+
+# A being has ''maximal excellence'' in a given possible world ''W'' if and only if it is omnipotent, omniscient and wholly good in ''W''; and
+# A being has ''maximal greatness'' if it has maximal excellence in every possible world.
+# It is possible that there is a being that has maximal greatness. (Premise)
+# Therefore, possibly, it is necessarily true that an omniscient, omnipotent, and perfectly good being exists.
+# Therefore, (by axiom S5) it is necessarily true that an omniscient, omnipotent and perfectly good being exists.
+# Therefore, an omniscient, omnipotent and perfectly good being exists.
+
+Plantinga argued that, although the first premise is not rationally established, it is not contrary to reason. [[Michael Martin (philosopher)|Michael Martin]] argued that, if certain components of perfection are contradictory, such as omnipotence and omniscience, then the first premise is contrary to reason. Martin also proposed parodies of the argument, suggesting that the existence of anything can be demonstrated with Plantinga's argument, provided it is defined as perfect or special in every possible world.<ref>{{Cite book |title=Philosophy of religion: an anthology |last=Martin, Michael |publisher=Wiley-Blackwell |year=2003 |isbn=978-0-631-21471-7 |pages=282–293}}</ref>
+
+Another Christian philosopher, [[William Lane Craig]], characterizes Plantinga's argument in a slightly different way:
+# It is possible that a maximally great being exists.
+# If it is possible that a maximally great being exists, then a maximally great being exists in some possible world.
+# If a maximally great being exists in some possible world, then it exists in every possible world.
+# If a maximally great being exists in every possible world, then it exists in the actual world.
+# If a maximally great being exists in the actual world, then a maximally great being exists.
+# Therefore, a maximally great being exists.
+According to Craig, premises (2)–(5) are relatively uncontroversial among philosophers, but "the epistemic entertainability of premise (1) (or its denial) does not guarantee its metaphysical possibility."<ref>{{Cite book |title=Reasonable faith |last=Craig, William Lane |publisher=Crossway |year=2008 |isbn=978-1-4335-0115-9 |page=185 |quote=Premises (2)–(5) of this argument are relatively uncontroversial. Most philosophers would agree that if God's existence is even possible, then he must exist. ... the epistemic entertainability of premise (1) (or its denial) does not guarantee its metaphysical possibility.}}</ref> Furthermore, [[Richard M. Gale]] argued that premise three, the "possibility premise", [[begs the question]]. He stated that one only has the epistemic right to accept the premise if one understands the nested [[modal operator]]s, and that if one understands them within the system S5—without which the argument fails—then one understands that "possibly necessarily" is in essence the same as "necessarily".<ref>{{Cite book |title=On the Nature and Existence of God |last=Gale |first=Richard |publisher=Cambridge University Press |year=1993 |isbn=0-521-45723-8 |page=227}}</ref> Thus the premise begs the question because the conclusion is embedded within it.
+On S5 systems in general, James Garson writes that "the words 'necessarily' and 'possibly', have many different uses. So the acceptability of axioms for modal logic depends on which of these uses we have in mind."<ref>{{Cite book |last=Garson |first=James |date=February 29, 2000 |title=Modal Logic |publisher=Metaphysics Research Lab, Stanford University |url=https://plato.stanford.edu/archives/sum2014/entries/logic-modal/ |via=plato.stanford.edu}}</ref>
+
+=== Evolutionary argument against naturalism ===
+{{Main|Evolutionary argument against naturalism}}
+In Plantinga's [[evolutionary argument against naturalism]], he argues that if evolution is true, it undermines [[Metaphysical naturalism|naturalism]]. His basic argument is that if evolution and naturalism are both true, human cognitive faculties evolved to produce beliefs that have survival value (maximizing one's success at the four Fs: "feeding, fleeing, fighting, and reproducing"), not necessarily to produce beliefs that are true. Thus, since human cognitive faculties are tuned to survival rather than truth in the naturalism-evolution model, there is reason to doubt the veracity of the products of those same faculties, including naturalism and evolution themselves. On the other hand, if God created man "[[image of God|in his image]]" by way of an evolutionary process (or any other means), then Plantinga argues our faculties would probably be reliable.
+
+The argument does not assume any necessary correlation (or uncorrelation) between true beliefs and survival. Making the contrary assumption—that there is, in fact, a relatively strong correlation between truth and survival—if human belief-forming apparatus evolved giving a survival advantage, then it ought to yield truth since true beliefs confer a survival advantage. Plantinga counters that, while there may be overlap between true beliefs and beliefs that contribute to survival, the two kinds of beliefs are not the same, and he gives the following example with a man named Paul:
+
+{{blockquote|Perhaps Paul very much ''likes'' the idea of being eaten, but when he sees a tiger, always runs off looking for a better prospect, because he thinks it unlikely the tiger he sees will eat him. This will get his body parts in the right place so far as survival is concerned, without involving much by way of true belief... Or perhaps he thinks the tiger is a large, friendly, cuddly pussycat and wants to pet it; but he also believes that the best way to pet it is to run away from it... Clearly there are any number of belief-desire systems that equally fit a given bit of behaviour.<ref>Plantinga, Alvin ''Warrant and Proper Function'', (New York: Oxford University Press), 1993. pp. 225–226 ({{ISBN|978-0-19-507864-0}}).</ref>}}
+
+The argument has received favorable notice from [[Thomas Nagel]]<ref>{{Cite journal |last=Nagel |first=Thomas |date=27 September 2012 |title=A Philosopher Defends Religion |url=http://www.nybooks.com/articles/2012/09/27/philosopher-defends-religion/ |journal=The New York Review of Books |volume=59 |issue=14 }}</ref> and [[William Lane Craig]],<ref>{{Cite web |url=http://www.reasonablefaith.org/plantingas-evolutionary-argument-against-naturalism |title=Plantinga's Evolutionary Argument against Naturalism &#124; Reasonable Faith |url-status=dead |archive-url=https://web.archive.org/web/20170804113752/http://www.reasonablefaith.org/plantingas-evolutionary-argument-against-naturalism |archive-date=2017-08-04}}</ref> but has also [[Evolutionary argument against naturalism#Fitelson and Sober's response|been criticized]] as seriously flawed, for example, by [[Elliott Sober]].<ref>{{Cite book |url=https://books.google.com/books?id=N2h_BAAAQBAJ&q=Although+the+argument+has+been+criticized+by+some+philosophers%2C+like+Elliott+Sober&pg=PT305 |title=Twentieth-Century Philosophy of Religion: The History of Western Philosophy of Religion |last1=Oppy |first1=Graham |last2=Trakakis |first2=N. N. |date=2014-09-11 |publisher=Routledge |isbn=978-1-317-54638-2 |language=en}}</ref><ref>{{Cite journal |last1=Fitelson |first1=Branden |last2=Sober |first2=Elliott |year=1998 |title=Plantinga's Probability Arguments Against Evolutionary Naturalism |url=https://philpapers.org/rec/FITPPA |journal=Pacific Philosophical Quarterly |volume=79 |issue=2 |pages=115–129 |doi=10.1111/1468-0114.00053}}</ref>
+
+=== View on naturalism and evolution ===
+Even though Plantinga believes that God could have used Darwinian processes to create the world, he stands firm against philosophical [[naturalism (philosophy)|naturalism]]. He said in an interview on the [[relationship between science and religion]] that:
+
+<blockquote>Religion and science share more common ground than you might think, though science can't prove, it presupposes that there has been a past for example, science does not cover the whole of the knowledge enterprise.<ref>{{Cite web |url=https://www.npr.org/2012/01/29/145108456/exploring-the-real-conflict-science-vs-naturalism |title=Exploring The Real 'Conflict': Science Vs. Naturalism|website=[[NPR]] }}</ref></blockquote>
+
+Plantinga participated in groups that support the [[Intelligent Design Movement]], and was a member of the "Ad Hoc Origins Committee"<ref>"Notre Dame philosopher Alvin Plantinga has also signed this letter" – [http://www.arn.org/docs/pearcey/np_ctoday052200.htm We're Not in Kansas Anymore], [[Nancy Pearcey]], [[Christianity Today]], May 22, 2000, cited in {{harvnb|Forrest|Gross|2004|p=18}} "Alvin Plantinga was also a signatory to this letter, early evidence of his continuing support of the intelligent design movement"&nbsp;– ''Intelligent design creationism and its critics'', [[Robert T. Pennock]] (ed), 2001, p44</ref> that supported [[Philip E. Johnson]]'s 1991 book ''[[Darwin on Trial]]'', he also provided a back-cover endorsement of Johnson's book: "Shows how Darwinian evolution has become an idol."<ref>Darwin on Trial back cover</ref>
+
+He was a Fellow of the (now defunct) pro-intelligent design [[International Society for Complexity, Information, and Design]],<ref>[http://www.iscid.org/fellows.php ICSD list of Fellows] {{webarchive|url=https://web.archive.org/web/20130116054926/http://www.iscid.org/fellows.php |date=2013-01-16 }} but note that this site appears not to have been updated since 2005</ref> and has presented at a number of intelligent design conferences.<ref>{{harvnb|Forrest|Gross|2004|pp=156, 191, 212, 269}}</ref> In a March 2010 article in ''[[The Chronicle of Higher Education]]'', philosopher of science [[Michael Ruse]] labeled Plantinga as an "open enthusiast of intelligent design".<ref>{{cite news |url=http://chronicle.com/article/What-Darwins-Doubters-Get-/64457/ |title=Philosophers Rip Darwin |newspaper=[[The Chronicle of Higher Education]] |date=March 7, 2010 |access-date=2010-04-28}}</ref> In a letter to the editor, Plantinga made the following response:
+
+<blockquote>
+Like any Christian (and indeed any theist), I believe that the world has been created by God, and hence "intelligently designed". The hallmark of intelligent design, however, is the claim that this can be shown scientifically; I'm dubious about that.
+
+...As far as I can see, God certainly could have used Darwinian processes to create the living world and direct it as he wanted to go; hence evolution as such does not imply that there is no direction in the history of life. What does have that implication is not evolutionary theory itself, but ''unguided'' evolution, the idea that neither God nor any other person has taken a hand in guiding, directing or orchestrating the course of evolution. But the scientific theory of evolution, sensibly enough, says nothing one way or the other about divine guidance. It doesn't say that evolution is divinely guided; it also doesn't say that it isn't. Like almost any theist, I reject unguided evolution; but the contemporary scientific theory of evolution just as such—apart from philosophical or theological add-ons—doesn't say that evolution is unguided. Like science in general, it makes no pronouncements on the existence or activity of God.<ref>{{cite news |url=http://chronicle.com/article/Evolution-Shibboleths-and/64990/ |title=Evolution, Shibboleths, and Philosophers |newspaper=[[The Chronicle of Higher Education]] |date=April 11, 2010 |access-date=2010-04-28}}</ref>
+</blockquote>
+
+The attitude that he proposes and elaborates upon in ''Where the Conflict Really Lies: Science, Religion and Naturalism'' is that there is no tension between religion and science, that the two go hand in hand, and that the actual conflict lies between naturalism and science.<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211211/WGCopwmExI4 Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20200228224332/https://www.youtube.com/watch?v=WGCopwmExI4&app=desktop Wayback Machine]{{cbignore}}: {{Cite web |url=https://www.youtube.com/watch?v=WGCopwmExI4 |title=Where the Conflict Really Lies |via=YouTube}}{{cbignore}}</ref>
+
+== Selected works by Plantinga ==
+* ''[[God and Other Minds]]''. Ithaca: [[Cornell University Press]]. 1967. rev. ed., 1990. {{ISBN|0-8014-9735-3}}
+* ''The Nature of Necessity''. Oxford: [[Clarendon Press]]. 1974. {{ISBN|0-19-824404-5}}
+* ''God, Freedom, and Evil''. Grand Rapids: [[Eerdmans]]. 1974. {{ISBN|0-04-100040-4}}
+* ''Does God Have A Nature?'' Wisconsin: [[Marquette University Press]]. 1980. {{ISBN|0-87462-145-3}}
+* ''Faith and Rationality: Reason and Belief in God'' (ed. with [[Nicholas Wolterstorff]]). Notre Dame: [[University of Notre Dame Press]]. 1983. {{ISBN|0-268-00964-3}}
+* ''[[Warrant: The Current Debate]]''. New York: [[Oxford University Press]]. 1993. {{ISBN|0-19-507861-6}}
+* ''[[Warrant and Proper Function]]''. Oxford: Oxford University Press. 1993. {{ISBN|0-19-507863-2}}
+* ''[[Warranted Christian Belief]]''. New York: Oxford University Press. 2000. {{ISBN|0-19-513192-4}} [http://www.ccel.org/ccel/plantinga/warrant3.html online]
+* ''Essays in the Metaphysics of Modality''. Matthew Davidson (ed.). New York: Oxford University Press. 2003. {{ISBN|0-19-510376-9}}
+* ''Knowledge of God'' (with Michael Tooley). Oxford: [[Blackwell UK|Blackwell]]. 2008. {{ISBN|0-631-19364-2}}
+* ''Science and Religion'' (with [[Daniel Dennett]]). Oxford: Oxford University Press. 2010 {{ISBN|0-19-973842-4}}
+* ''Where the Conflict Really Lies: Science, Religion, and Naturalism''. Oxford: Oxford University Press. 2011. {{ISBN|0-19-981209-8}}
+* ''Knowledge and Christian Belief''. Grand Rapids: [[Eerdmans]]. 2015. {{ISBN|0802872042}}
+
+== See also ==
+{{Portal|Philosophy}}
+* [[American philosophy]]
+* [[List of American philosophers]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+=== Footnotes ===
+{{Reflist|30em}}
+
+=== Bibliography ===
+{{refbegin}}
+* "Self-profile" in ''Alvin Plantinga,'' James Tomberlin and [[Peter van Inwagen]] ed., (Dordrecht: D. Riedle Pub. Co.), 1985
+* {{Cite web |url=http://www.iep.utm.edu/evil-log/#H1 |title=Logical Problem of Evil |last=Beebe |first=James R. |date=July 12, 2005 |website=[[Internet Encyclopedia of Philosophy]] |access-date=September 21, 2009 }}
+* {{Cite book |title=Creationism's Trojan Horse |title-link=Creationism's Trojan Horse |last1=Forrest |first1=Barbara |last2=Gross |first2=Paul R. |date=8 January 2004 |publisher=[[Oxford University Press]] |isbn=0-19-515742-7 |author-link=Barbara Forrest |author-link2=Paul R. Gross}}
+* {{cite book |last=Mackie |first=J.L |author-link=J. L. Mackie |title=The Miracle of Theism: Arguments for and Against the Existence of God |publisher=Oxford University Press |year=1982 |isbn=0-19-824682-X}}
+* {{Cite book |title=Introducing Philosophy of Religion |last=Meister |first=Chad |publisher=Routledge |year=2009 |isbn=978-0-415-40327-6 }}
+* {{Cite book |url=https://archive.org/details/reasonreligiousb0000unse |title=Reason and Religious Belief |last1=Peterson |first1=Michael |last2=Hasker |first2=William |last3=Reichenbach |first3=Bruce |last4=Basinger |first4=David |publisher=Oxford University Press |year=1991 |isbn=0-19-506155-1 }}
+{{refend}}
+
+== Further reading ==
+{{refbegin}}
+* Schönecker, Dieter (ed.), Essays on "Warranted Christian Belief". With Replies by Alvin Plantinga. Walter de Gruyter, Berlin 2015.
+* Baker, Deane-Peter (ed), ''Alvin Plantinga'' (Contemporary Philosophy in Focus Series). New York: Cambridge University Press. 2007.
+* Mascrod, Keith, ''Alvin Plantinga and Christian Apologetics''. Wipf & Stock. 2007.
+* Crisp, Thomas, Matthew Davidson, David Vander Laan (eds), ''Knowledge and Reality: Essays in Honor of Alvin Plantinga''. Dordrecht: Springer. 2006.
+* Beilby, James, ''Epistemology as Theology: An Evaluation of Alvin Plantinga's Religious Epistemology''. Aldershot: Ashgate. 2005
+* Beilby, James (ed), ''Naturalism Defeated? Essays on Plantinga's Evolutionary Argument Against Naturalism''. Ithaca: Cornell University Press. 2002.
+* Sennet, James (ed), ''The Analytic Theist: An Alvin Plantinga Reader''. Grand Rapids: Eeardman. 1998. {{ISBN|0-8028-4229-1}}
+* Kvanvig, Jonathan (ed), ''Warrant in Contemporary Epistemology: Essays in Honor of Plantinga's Theory of Knowledge''. Savage, Maryland: Rowman & Littlefield. 1996.
+* McLeod, Mark S. ''Rationality and Theistic Belief: An Essay on Reformed Epistemology'' (Cornell Studies in the Philosophy of Religion). Ithaca: Cornell University Press. 1993.
+* Zagzebski, Linda (ed), ''Rational Faith''. Notre Dame: University of Notre Dame Press. 1993.
+* Sennett, James, ''Modality, Probability, and Rationality: A Critical Examination of Alvin Plantinga's Philosophy''. New York: P. Lang. 1992.
+* Hoitenga, Dewey, ''From Plato to Plantinga: An Introduction to Reformed Epistemology''. Albany: State University of New York Press. 1991.
+* Parsons, Keith, ''God and the Burden of Proof: Plantinga, Swinburne, and the Analytic Defense of Theism''. Buffalo, New York: Prometheus Books. 1989.
+* Tomberlin, James and Peter van Inwagen (eds), ''Alvin Plantinga'' (Profiles V.5). Dordrecht: D. Reidel. 1985.
+{{refend}}
+
+== External links ==
+{{Commons category}}
+{{Wikiquote}}
+* [https://web.archive.org/web/20130831050623/http://philosophy.nd.edu/people/alvin-plantinga/ Alvin Plantinga's faculty page] at the University of Notre Dame
+* [http://www.veritas-ucsb.org/library/plantinga/cv.html Plantinga's Curriculum Vitae]
+* [https://web.archive.org/web/20060322204229/http://www.calvin.edu/academic/philosophy/virtual_library/plantinga_alvin.htm Virtual Library of Christian Philosophy] a collection of some of Plantinga's papers
+* [http://www.andrewmbailey.com/ap/ Papers by Plantinga] Extensive collection of online papers.
+* [https://www.closertotruth.com/contributor/alvin-plantinga/profile Interviews] from the PBS program [[Closer to Truth]]
+* [http://www.booksandculture.com/articles/2007/marapr/1.21.html "The Dawkins Confusion"], Plantinga's review of [[Richard Dawkins]]'s ''[[The God Delusion]]'' from ''Books and Culture'' magazine
+* [http://www.calvin.edu/125th/wolterst/p_bio.pdf Alvin Plantinga's spiritual autobiography] from ''Philosophers Who Believe''. [[Kelly James Clark|Clark, Kelly James]] (InterVarsity Press,1993)
+* [http://www.giffordlectures.org/lectures/warrant-current-debate ''Warrant: The Current Debate''] {{Webarchive|url=https://web.archive.org/web/20190506120722/https://www.giffordlectures.org/lectures/warrant-current-debate |date=2019-05-06 }} Plantinga's [[Gifford Lecture]], and volume 1 of his ''Warrant'' trilogy.
+* [http://www.giffordlectures.org/lectures/warrant-and-proper-function ''Warrant and Proper Function''] {{Webarchive|url=https://web.archive.org/web/20190506120621/https://www.giffordlectures.org/lectures/warrant-and-proper-function |date=2019-05-06 }} Plantinga's Gifford Lecture, and volume 2 of his ''Warrant'' trilogy.
+* [http://www.ccel.org/ccel/plantinga/warrant3.i.html ''Warranted Christian Belief''], full electronic text of volume 3 of his ''Warrant'' trilogy.
+* Daniel C. Dennett and Alvin Plantinga, [http://www.themontrealreview.com/2009/Does-Science-Contradict-Religion.php ''Science and Religion: Are They Compatible?'' (Oxford University Press, 2011)]
+* {{IEP|prop-fun|Proper Functionalism}}
+
+{{s-start}}
+{{s-npo|pro}}
+{{s-bef|before=[[Alan Donagan]]}}
+{{s-ttl|title=President of the [[American Philosophical Association|American<br />Philosophical Association]], Western Division|years=1981–1982}}
+{{s-aft|after=[[Manley H. Thompson Jr.]]}}
+{{s-bef|before=[[Robert Merrihew Adams]]}}
+{{s-ttl|title=President of the<br />[[Society of Christian Philosophers]] | years=1983–1986}}
+{{s-aft|after=[[Marilyn McCord Adams]]}}
+{{s-ach|awards}}
+{{s-bef|before=[[Ernest Sosa]]}}
+{{s-ttl|title=[[Nicholas Rescher Prize for Systematic Philosophy|Nicholas Rescher Prize<br />for Systematic Philosophy]] | years=2012|with=[[Jürgen Mittelstraß]]}}
+{{s-aft|after=[[Hilary Putnam]]}}
+{{s-bef|before=[[Jonathan Sacks]]}}
+{{s-ttl|title=[[Templeton Prize]] | years=2017}}
+{{s-aft|after=[[Abdullah II of Jordan]]}}
+{{s-end}}
+
+{{Analytic philosophy}}
+{{Metaphysics}}
+{{Epistemology}}
+{{Philosophy of religion}}
+{{Templeton Prize Laureates}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Plantinga, Alvin}}
+[[Category:1932 births]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century American theologians]]
+[[Category:21st-century American philosophers]]
+[[Category:21st-century American theologians]]
+[[Category:American Calvinist and Reformed Christians]]
+[[Category:American members of the Christian Reformed Church in North America]]
+[[Category:American people of Dutch descent]]
+[[Category:American people of Frisian descent]]
+[[Category:Analytic philosophers]]
+[[Category:Analytic theologians]]
+[[Category:Calvin University alumni]]
+[[Category:Calvin University faculty]]
+[[Category:Calvinist and Reformed philosophers]]
+[[Category:Christian apologists]]
+[[Category:American critics of atheism]]
+[[Category:Critics of New Atheism]]
+[[Category:American epistemologists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the International Society for Complexity, Information, and Design]]
+[[Category:Harvard University alumni]]
+[[Category:Intelligent design advocates]]
+[[Category:Living people]]
+[[Category:American metaphysicians]]
+[[Category:People from Ann Arbor, Michigan]]
+[[Category:Philosophers from Michigan]]
+[[Category:American philosophers of mind]]
+[[Category:American philosophers of religion]]
+[[Category:Presidents of the American Philosophical Association]]
+[[Category:Presidents of the Society of Christian Philosophers]]
+[[Category:Templeton Prize laureates]]
+[[Category:University of Michigan alumni]]
+[[Category:University of Notre Dame faculty]]
+[[Category:Wayne State University faculty]]
+[[Category:Theistic evolutionists]]

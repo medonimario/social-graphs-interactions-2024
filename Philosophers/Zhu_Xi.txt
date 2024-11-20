@@ -1,0 +1,261 @@
+{{Short description|Chinese historian, philosopher, poet and politician (1130–1200)}}
+{{family name hatnote|[[Zhu (surname)|Zhu]]|lang=Chinese}}
+{{Infobox philosopher
+| region          = [[Chinese philosophy]]
+| era             = [[Medieval philosophy]]
+| image           = Zhu xi.jpg
+| birth_date      = October 18, 1130
+| birth_place     = [[Youxi County|Youxi]], [[Fujian Circuit]], Southern Song dynasty
+| death_date      = {{death date and age|1200|4|23|1130|10|18}}
+| occupation      = Calligrapher, historian, philosopher, poet, politician
+| school_tradition = [[Neo-Confucianism]]
+| module = {{Infobox Chinese|child=yes
+| c = 朱熹
+| p = Zhū Xī
+| tp = Jhu Si
+| w = {{tonesup|Chu1 Hsi1}}
+| mi = {{IPAc-cmn|zh|u|1|-|x|i|1}}
+| bpmf = {{bpmfsp|ㄓㄨ|ㄒㄧ}}
+| j = Zyu1 hei1
+| y = Jyū Hēi
+| ci = {{IPAc-yue|z|yu|1|-|h|ei|1}}
+| tl = Tsu Hi
+| mc = {{IPA|tʃju hji}}
+| c2 = 朱子
+| p2 = Zhūzǐ
+| tp2 = Jhu-zǐh
+| w2 = {{tonesup|Chu1-tzu3}}
+| mi2 = {{IPAc-cmn|zh|u|1|.|zi|3}}
+| bpmf2 = {{bpmfsp|ㄓㄨ|ㄗˇ}}
+| l2 = "Master Zhu"
+| j2 = Zyu1 zi2
+| y2 = Jyū-jí
+| ci2 = {{IPAc-yue|z|yu|1|-|z|i|2}}
+| tl2 = Tsu-tzú
+}}
+}}
+[[File:延宾馆.JPG|thumb|right|upright=1|Statue of Zhu Xi at the [[White Deer Grotto Academy]] at the foot of [[Mount Lu]]]]
+
+'''Zhu Xi''' ({{IPAc-cmn|zh|u|1|-|x|i|1}}; October 18, 1130{{snd}}April 23, 1200), formerly romanized '''Chu Hsi''', was a Chinese calligrapher, historian, philosopher, poet, and politician of the [[Southern Song dynasty]]. Zhu was influential in the development of [[Neo-Confucianism]]. He contributed greatly to [[Chinese philosophy]] and fundamentally reshaped the Chinese worldview. His works include his editing of and commentaries to the [[Four Books]] (which later formed the curriculum of the [[imperial examinations]] in China between 1313 and 1905), his writings on the process of the 'investigation of things' ({{zhi|c=格物|p=géwù}}), and his development of meditation as a method for self-cultivation.
+
+Zhu was a scholar with a wide learning in the classics, commentaries, histories and other writings of his predecessors. In his lifetime, he was able to serve multiple times as a government official,<ref name=":1" /> although he avoided public office for most of his adult life.<ref name=":0">{{cite book|last=Slingerland|first=Edward|url=https://books.google.com/books?id=UW0IfG9sMjMC&pg=PA148|title=The Essential Analects: Selected Passages with Traditional Commentary|publisher=Hackett|year=2006|isbn=1-603-84346-9|pages=148–149}}</ref> He also wrote, compiled and edited almost a hundred books and corresponded with dozens of other scholars. He acted as a teacher to groups of students, many of whom chose to study under him for years. He built upon the teachings of the [[Cheng brothers]] and others, further developing their metaphysical theories in regards to principle (''[[Li (neo-Confucianism)|li]]'') and vital force ([[qi]]). His followers recorded thousands of his conversations in writing.<ref name=":1">{{Cite book|title=Chinese civilization: a sourcebook|last=Ebrey|first=Patricia Buckley|publisher=The Free Press|year=1993|isbn=0-029-08752-X|edition=2nd|location=New York|pages=[https://archive.org/details/chinesecivilizat00patr/page/172 172]|oclc=27226697|url-access=registration|url=https://archive.org/details/chinesecivilizat00patr/page/172}}</ref>
+
+==Life==
+Zhu Xi, whose family originated in [[Wuyuan County, Jiangxi|Wuyuan County]], [[Huizhou (region)|Huizhou]] (in modern [[Jiangxi]] province), was born in [[Fujian]], where his father worked as the subprefectural sheriff. After his father was forced from office due to his opposition to the government appeasement policy towards the [[Jin dynasty (1115–1234)|Jurchen]] in 1140, Zhu Xi received instruction from his father at home. Many anecdotes attest that he was a highly precocious child. It was recorded that at age five he ventured to ask what lay beyond Heaven, and by eight he understood the significance of the Classic of Filiality (''Xiaojing''). As a youth, he was inspired by Mencius' proposition that anyone could become a sage.<ref>{{Cite book|url=https://plato.stanford.edu/archives/sum2017/entries/zhu-xi/|title=The Stanford Encyclopedia of Philosophy|last=Thompson|first=Kirill|chapter=Zhu Xi |date=2017|publisher=Metaphysics Research Lab, Stanford University|editor-last=Zalta|editor-first=Edward N.|edition=Summer 2017}}</ref> Upon his father's death in 1143, he studied with his father's friends Hu Xian, Liu Zihui, and Liu Mianzhi. In 1148, at the age of 19, Zhu Xi passed the [[Imperial Examination]] and became a presented scholar (''[[jinshi]]''). Zhu Xi's first official dispatch position was as Subprefectural Registrar of Tong'an ({{lang|zh|同安縣主簿}}), which he served from 1153 - 1156. From 1153 he began to study under Li Tong, who followed the Neo-Confucian tradition of [[Cheng Hao]] and [[Cheng Yi (philosopher)|Cheng Yi]], and formally became his student in 1160.
+
+In 1179, after not serving in an official capacity since 1156, Zhu Xi was appointed Prefect of Nankang Military District ({{lang|zh|南康軍}}), where he revived [[White Deer Grotto Academy]].<ref>Gardner, pp. 3 - 6</ref> and got demoted three years later for attacking the incompetency and corruption of some influential officials. There were several instances of receiving an appointment and subsequently being demoted. Upon dismissal from his last appointment, he was accused of numerous crimes and a petition was made for his execution. Much of this opposition was headed by [[Han Tuozhou]], the Prime Minister, who was a political rival of Zhu's.<ref name="xu">{{cite web|last1=Xu|first1=Haoran|title=The Relationship Between Zhen Dexiu and Neo-Confucianism:under the Background of an Imperial Edict Drafter|url=http://en.cnki.com.cn/Article_en/CJFDTotal-BDZK201605016.htm|website=CNKI|publisher=Journal of Peking University (philosophy of Social Sciences)|access-date=11 January 2017}}</ref><ref name="TaylorChoy2005">{{cite book|author1=Rodney Leon Taylor|author2=Howard Yuen Fung Choy|title=The Illustrated Encyclopedia of Confucianism: A-M|url=https://books.google.com/books?id=1oCgJ5VR7_kC&pg=PA53|date=January 2005|publisher=The Rosen Publishing Group|isbn=978-0-8239-4080-6|page=53}}</ref> Even though his teachings had been severely attacked by establishment figures, almost a thousand brave people attended his funeral.<ref>Chan 1963: 588.</ref> After the death of Han Tuozhou, Zhu's successor [[Zhen Dexiu]], together with [[Wei Liaoweng]], made Zhu's branch of Neo-Confucianism the dominant philosophy at the Song Court.<ref name="Birge2002">{{cite book|author=Bettine Birge|title=Women, Property, and Confucian Reaction in Sung and Yüan China (960–1368)|url=https://books.google.com/books?id=Pg8EGvilcLsC&pg=PA183|date=7 January 2002|publisher=Cambridge University Press|isbn=978-1-139-43107-1|page=183}}</ref><ref name="WDL">{{cite web|title=Writings of the Orthodox School|url=https://www.wdl.org/en/item/4682/|website=World Digital Library|publisher=Library of Congress|access-date=11 January 2017}}</ref>
+
+In 1208, eight years after his death, [[Emperor Ningzong of Song]] rehabilitated Zhu Xi and honored him with the [[posthumous name]] of Wen Gong ({{lang|zh|文公}}), meaning "Venerable gentleman of culture".<ref>Chan 1989: 34.</ref> Around 1228, [[Emperor Lizong of Song]] honored him with the posthumous [[noble title]] [[Duke]] of (State) Hui ({{lang|zh|徽國公}}).<ref>Chan 1989: 34.  Hui refers to Hui-chou his ancestral place in Anhui, now Jiangxi.</ref>  In 1241, a memorial tablet to Zhu Xi was placed in the [[Confucian Temple]] at [[Qufu]],<ref>Gardner 1989: 9.</ref> thereby elevating him to [[Confucian sainthood]]. Today, Zhu Xi is venerated as one of the "[[Twelve Philosophers]]" of [[Confucianism]].<ref>{{cite web|url=http://www.chinese-architecture.info/PEKING/PE-032.htm |title=World Architecture Images- Beijing- Confucius Temple |publisher=Chinese-architecture.info |access-date=2013-04-22}}</ref>  Modern [[Sinologists]] and Chinese often refer to him as Zhu Wen Gong ({{lang|zh|朱文公}}) in lieu of his name.
+
+==Teachings==
+{{Asian philosophy sidebar}}
+[[File:Portraits of Famous Men - Zhu Xi.jpg|thumb|As depicted in the album '' Portraits of Famous Men'' {{circa}} 1900, housed in the [[Philadelphia Museum of Art]].]]
+
+===The Four Books===
+During the Song dynasty, Zhu Xi's teachings were considered to be [[orthodoxy|unorthodox]]. Rather than focusing on the ''[[I Ching]]'' like other Neo-Confucians, he chose to emphasize the [[Four Books and Five Classics|Four Books]]: the ''[[Great Learning]]'', the ''[[Doctrine of the Mean]]'', the ''[[Analects of Confucius]]'', and the ''[[Mencius (book)|Mencius]]'' as the core curriculum for aspiring scholar officials. For all these classics he wrote extensive commentaries that were not widely recognized in his time; however, they later became accepted as the standard commentaries. The Four Books served as the basis of civil service examinations up until 1905,<ref name="Chan 1963: 589">Chan 1963: 589.</ref> and education in the classics often began with Zhu Xi's commentaries as the cornerstone for understanding them.<ref name="RedPine"/>
+
+The sources of Zhu Xi's new approach to the Confucian curriculum have been found in several works of the Cheng brothers. Zhu Xi "codified the Cheng brothers' teachings and reworked them into his own philosophical program," moving "from philology to philosophy."<ref>Lianbin Dai, "From Philology to Philosophy: Zhu Xi (1130–1200) as a Reader-Annotator." In ''Canonical Texts and Scholarly Practices: A Global Comparative Approach'', edited by Anthony Grafton and Glenn W. Most, Cambridge: Cambridge University Press, 2016, 136–163 (136).</ref>
+
+===Vital force, principle, and the Supreme Ultimate===
+Zhu Xi maintained that all things are brought into being by the union of two universal aspects of reality: ''[[qi]]'' ({{lang|zh|氣}}, sometimes translated as vital – or physical, material – force); and ''[[Li (Neo-Confucianism)|li]]'' ({{lang|zh|理}}, sometimes translated as rational principle or law). The source and sum of ''li'' is the ''[[Taiji (philosophy)|taiji]]'', meaning the Supreme Ultimate. The source of ''qi''  is not so clearly stated by Zhu Xi, leading some authorities to maintain that he was a [[monism|metaphysical monist]] and others to maintain that he was a [[dualistic cosmology|metaphysical dualist]].
+
+According to Zhu Xi's theory, every physical object and every person has its ''li'' and therefore has contact in its metaphysical core with the ''taiji''. What is referred to as the human soul, mind, or spirit is understood as the ''taiji'', or the supreme creative principle, as it works its way out in a person.
+
+''Qi'' and ''li'' operate together in mutual dependence. They are mutually aspective in all creatures in the universe. These two aspects are manifested in the creation of substantial entities. When their activity is waxing (rapid or expansive), that is the ''[[yin and yang|yang]]'' energy mode. When their activity is waning (slow or contractive), that is the ''[[Yin and yang|yin]]'' energy mode. The yang and yin phases constantly interact, each gaining and losing dominance over the other. In the process of the waxing and waning, the alternation of these fundamental vibrations, the so-called [[Wuxing (Chinese philosophy)|five elements]] evolve (fire, water, wood, metal, and earth). Zhu Xi argues that ''li'' existed even before Heaven and Earth.<ref>Zhu Xi 1986, Zhuzi yulei, Beijing; Zhonghua Shuju, p.1</ref>
+
+In terms of ''li'' and ''qi'', Zhu Xi's system strongly resembles [[Buddhist]] ideas of ''li'' (principle) and ''shi'' (affairs, matters), though Zhu Xi and his followers strongly argued that they were not copying Buddhist ideas. Instead, they held, they were using concepts already present long before in the ''I Ching.''
+
+Zhu Xi discussed how he saw the Supreme Ultimate concept to be compatible with principle of Taoism, but his concept of ''taiji'' was different from the understanding of ''Tao'' in Daoism. Where ''taiji'' is a differentiating principle that results in the emergence of something new, ''Dao'' is still and silent, operating to reduce all things to equality and indistinguishability. He argued that there is a central harmony that is not static or empty but was dynamic, and that the Supreme Ultimate is itself in constant creative activity.
+
+===Human nature===
+Zhu Xi considered the earlier Confucian [[Xunzi (philosopher)|Xunzi]] to be a heretic for departing from [[Mencius|Mengzi]]'s idea of innate human goodness. Even if people displayed immoral behaviour, the supreme regulative principle was good. The cause of immoral actions is ''qi''. Zhu Xi's metaphysics is that everything contains ''li'' and ''qi''. ''Li'' is the principle that is in everything and governs the universe. Each person has a perfect ''li''. As such, individuals should act in perfect accordance with morality. However, while ''li'' is the underlying structure, ''qi'' is also part of everything. ''Qi'' obscures our perfect moral nature. The task of moral cultivation is to clear our ''qi.'' If our ''qi'' is clear and balanced, then we will act in a perfectly moral way.
+
+===Heart/mind===
+"Heart" and "mind" are both expressed in Chinese with the same word ''xin'' ({{lang|zh|心}}); clarity of mind and purity of heart are ideal in Confucian philosophy. In the following poem, "Reflections While Reading - 1" Zhu Xi illustrates this concept by comparing the mind to a mirror, left covered until needed that simply reflects the world around it, staying clear by the flowing waters symbolizing the ''Tao''. In Chinese, the mind was sometimes called "the square inch", which is the literal translation of the term alluded to in the beginning of the poem.<ref name="RedPine">Red Pine, Poems of the Masters, Copper Canyon Press, 2003, p. 164.</ref>
+{{Verse translation|lang=zh|italicsoff=y|
+半畝方塘一鑑開，
+天光雲影共徘徊。
+問渠那得清如許，
+為有源頭活水來。
+|A small square pond an uncovered mirror
+Where sunlight and clouds linger and leave
+I asked how it stays so clear
+it said spring water keeps flowing in.
+|attr2=translation by [[Red Pine (author)|Red Pine]]
+}}
+
+===Knowledge and action===
+According to Zhu Xi's epistemology, knowledge and action were indivisible components of truly intelligent activity. Although he did distinguish between the priority of knowing, since intelligent action requires forethought, and the importance of action, as it produces a discernible effect, Zhu Xi said "Knowledge and action always require each other. It is like a person who cannot walk without legs although he has eyes, and who cannot see without eyes although he has legs. With respect to order, knowledge comes first, and with respect to importance, action is more important."<ref>''The Complete Works of Chu Hsi'', section 20 in Chan 1963: 609.</ref>
+
+===The investigation of things and the extension of knowledge===
+Zhu Xi advocated the investigation of things ({{zh|labels=no|p=gewu zhizhi|c=格物致知}}). How to investigate and what these things are is the source of much debate. To Zhu Xi, the things are moral principles and the investigation involves paying attention to everything in both books and affairs<ref>''The Complete Works of Chu Hsi'', section 26 in Chan 1963: 609.</ref> because "moral principles are quite inexhaustible".<ref>''The Complete Works of Chu Hsi'', section 27 in Chan 1963: 610.</ref>
+
+=== Religion ===
+Zhu Xi did believe in the existence of spirits, ghosts, divination, and blessings.<ref>{{cite web |url=https://www2.kenyon.edu/Depts/Religion/Fac/Adler/Writings/Spirituality.htm |title=Varieties of Spiritual Experience: Shen in Neo-Confucian Discourse}}</ref>
+
+===Meditation===
+Zhu Xi practiced a form of daily [[meditation]] called ''[[jingzuo]]'' similar to, but not the same as, Buddhist ''[[Dhyāna in Buddhism|dhyana]]'' or ''chan ding'' ({{lang|zh|禪定}}; Wade–Giles ''ch{{wg-apos}}an-ting''). His meditation did not require the cessation of all thinking as in some forms of Buddhism; rather, it was characterised by quiet introspection that helped to balance various aspects of one's personality and allowed for focused thought and concentration.{{Citation needed|date=October 2012}}
+
+His form of meditation was by nature Confucian in the sense that it was concerned with morality. His meditation attempted to reason and feel in harmony with the universe. He believed that this type of meditation brought humanity closer together and more into harmony.<ref>{{cite book | last1 = Pavlac | first1 = Brian A. | title = [[The Middle Ages]] | location = Passadena, CA | publisher = [[Salem Press Inc]] | pages = 491–492 | date = 2005 | isbn = 1-58765-168-8 }}</ref>
+
+===On teaching, learning, and the creation of an academy===
+[[File:Letter on Government Affairs - Zhu Xi.jpg|thumb|Zhu Xi's letter (1194) instructing a subordinate official on local government matters after he stepped down as Administrator of [[Tanzhou (in modern Hunan)|Tanzhou]] for reappointment to teach at the imperial court]]
+Zhu Xi heavily focused his energy on teaching, claiming that learning is the only way to sage-hood. He wished to make the pursuit of sage-hood attainable to all men.{{Citation needed|date=January 2010}}
+
+He lamented more modern printing techniques and the proliferation of books that ensued. This, he believed, made students less appreciative and focused on books, simply because there were more books to read than before. Therefore, he attempted to redefine how students should learn and read. In fact, disappointed by local schools in China, he established his own academy, White Deer Grotto Academy, to instruct students properly and in the proper fashion.
+
+==Taoist and Buddhist influence on Zhu Xi==
+Zhu Xi wrote what was to become the orthodox Confucian interpretation of a number of concepts in [[Taoism]] and [[Buddhism]]. While he appeared to have adopted some ideas from these competing systems of thought, unlike previous Neo-Confucians he strictly abided by the Confucian doctrine of active moral cultivation. He found Buddhist principles to be darkening and deluding the original mind<ref>''The Complete Works of Chu Hsi'', section 147 in Chan 1963: 653.</ref> as well as destroying human relations.<ref>''The Complete Works of Chu Hsi'', section 138 in Chan 1963: 647.</ref>
+
+==Legacy==
+[[File:Chu Hsi's ancestral temple in Wuxi Huishan ancient town.JPG|Zhu Xi's Memorial Temple at Huishan ancient town, Wuxi|220px|thumb]]From 1313 to 1905, Zhu Xi's commentaries on the Four Books formed the basis of civil service examinations in China.<ref name="Chan 1963: 589"/> His teachings were to dominate Neo-Confucians such as [[Wang Fuzhi]], though dissenters would later emerge such as [[Wang Yangming]] and the School of Mind two and a half centuries later.
+
+His philosophy survived the Intellectual Revolution of 1917, and later [[Feng Youlan]] would interpret his conception of ''li'', ''qi'', and ''taiji'' into a new metaphysical theory.
+
+He was also influential in [[Japan]] known as ''Shushigaku'' (朱子学, School of Master Zhu), and in Korea known as ''Jujahak'' (주자학), where it became an orthodoxy. He also influenced Confucianism in Vietnam.
+
+''[[Life magazine|Life]]'' magazine ranked Zhu Xi as the forty-fifth most important person in the last [[millennium]].
+
+Zhu Xi's descendants, like those of Confucius and other notable Confucians, held the hereditary title of Wujing Boshi (五经博士; [[w:zh:五經博士|五經博士]]; Wǔjīng Bóshì),<ref name="BrunnertHagelstrom2013">{{cite book|author1=H.S. Brunnert|author2=V.V. Hagelstrom|title=Present Day Political Organization of China|url=https://books.google.com/books?id=s0wrdzMXPZ8C&pg=PA494|date=15 April 2013|publisher=Routledge|isbn=978-1-135-79795-9|pages=494}}</ref><ref name="Ong2008">{{cite book|author=Chang Woei Ong|title=Men of Letters Within the Passes: Guanzhong Literati in Chinese History, 907-1911|url=https://books.google.com/books?id=w5_ZAAAAMAAJ&q=wujing+boshi+descendant|year=2008|publisher=Harvard University Asia Center|isbn=978-0-674-03170-8|page=132}}</ref> which translated means Erudite or [[Doctor (title)|Doctor]] of the [[Five Classics]] and enjoyed the rank of 8a in the [[Mandarin (bureaucrat)]] system.<ref name="Hucker2008">{{cite book|author=Charles O. Hucker|title=A Dictionary of Official Titles in Imperial China|date=1 April 2008|publisher=Peking University Press|isbn=978-7-301-13487-0|pages=569}}</ref>
+
+==Calligraphy==
+Zhu Xi had, from an early age, followed his father and a number of great calligraphers at the time in practicing calligraphy.  At first he learned the style of [[Cao Cao]], but later specialized in the regular script of Zhong Yao and the running cursive script of [[Yan Zhenqing]]. Though his manuscripts left to the world are piecemeal and incomplete, and most of his works are lost. Moreover, his fame in the realm of philosophy was so great that even his brilliance in calligraphy was overshadowed. He was skillful in both running and cursive scripts, especially in large characters, but extant artworks consist mainly of short written notes in running script and rarely of large characters. His authentic manuscripts are collected by Nanjing Museum, Beijing Palace Museum, Liaoning Province Museum, Taipei Palace Museum and the National Museum of Tokyo, Japan. Some pieces are in private collections in China and overseas. The ''Thatched Hut Hand Scroll'', one of Zhu Xi's masterpieces in running-cursive script, is in an overseas private collection.{{citation needed|date=November 2014}}
+
+[[Image:Zhu Xi-Thatched Hut Hand Scroll-06.jpg|thumb|500px|''Thatched Hut Hand Scroll'']]
+''Thatched Hut Hand Scroll'' contains three separate parts:
+
+# Title
+# 102 characters by Zhu Xi in running cursive scripts
+# The postscripts by [[Wen Tianxiang]] (1236～1283) of [[Song dynasty]], [[Fang Xiaoru]] (1375～1402), [[Zhu Yunming]] (1460–1526), [[Tang Yin]] (1470～1523) and [[Hai Rui]] (1514～1587) of the [[Ming dynasty]].
+
+===Calligraphy style===
+{{Unreferenced section|date=February 2024}}
+The calligraphy of Zhu Xi had been acclaimed as acquiring the style of the Han and Wei dynasties. He was skillful in the central tip, and his brush strokes are smooth and round, steady yet flowing in the movements without any trace of frivolity and abruptness. Indeed, his calligraphy possesses stability and elegance in construction with a continuous flow of energy. Without trying to be pretentious or intentional, his written characters are well-balanced, natural and unconventional. As he was a patriarch of Confucianism philosophy, it is understandable that his learning permeated in all his writings with due respect for traditional standards. He maintained that while rules had to be observed for each word, there should be room for tolerance, multiplicity and naturalness. In other words, calligraphy had to observe rules and at the same time not be bound by them so as to express the quality of naturalness. It is small wonder that his calligraphy had been highly esteemed throughout the centuries, by great personages as follows:
+
+Tao Chung Yi (around 1329～1412) of the [[Ming dynasty]]:
+
+<blockquote>
+Whilst Master Zhu inherited the orthodox teaching and propagated it to the realm of sages and yet he was also proficient in running and cursive scripts, especially in large characters. His execution of brush was well-poised and elegant. However piecemeal or isolated his manuscripts, they were eagerly sought after and treasured.
+</blockquote>
+
+Wang Sai Ching (1526–1590) of the [[Ming dynasty]]:
+
+<blockquote>
+The brush strokes in his calligraphy were swift without attempting at formality, yet none of his strokes and dots were not in conformity with the rules of calligraphy.
+</blockquote>
+
+[[Wen Tianxiang]] of the [[Song dynasty]] in his postscript for the ''Thatched Hut Hand Scroll'' by Zhu Xi:
+
+<blockquote>
+People in the olden days said that there was embedded the bones of loyal subject in the calligraphy of Yan Zhenqing. Observing the execution of brush strokes by Zhu Xi, I am indeed convinced of the truth of this opinion.
+</blockquote>
+
+[[Zhu Yunming]] of the [[Ming dynasty]] in his postscript for the ''Thatched Hut Hand Scroll'' by Zhu Xi:
+
+<blockquote>
+Master Zhu was loyal, learned and a great scholar throughout ages . He was superb in calligraphy although he did not write much in his lifetime and hence they were rarely seen in later ages. This roll had been collected by Wong Sze Ma for a long time and of late, it appeared in the world. I chanced to see it once and whilst I regretted that I did not try to study it extensively until now, in the study room of my friend, I was so lucky to see it again. This showed that I am destined to see the manuscripts of master Zhu. I therefore wrote this preface for my intention.
+</blockquote>
+
+[[Hai Rui]] of the [[Ming dynasty]] in his postscript for the ''Thatched Hut Hand Scroll'' by Zhu Xi:
+
+<blockquote>
+The writings are enticing, delicate, elegant and outstanding. Truly such calligraphy piece is the wonder of nature.
+</blockquote>
+
+==See also==
+{{columns-list|colwidth=30em|
+*[[Confucianism]]
+*[[Neo-Confucianism]]
+*[[Zhou Dunyi]]
+*[[Lu Jiuyuan]]
+*[[Wang Yangming]]
+*[[Wang Fuzhi]]
+*[[Feng Youlan]]
+*[[Yuelu Academy]]
+*[[White Deer Grotto Academy]]
+*[[Classical Chinese writers]]
+*[[Yi Hwang]] or Toegye, A Korean Confucian scholar of the [[Joseon dynasty]]
+*[[Yi I]] or Yulgok, A Korean Confucian scholar of the [[Joseon dynasty]]
+*[[Fujiwara Seika]], Japanese follower of the philosophy of Zhu Xi
+*[[Hayashi Razan]], Seika's student & [[Tokugawa clan|Tokugawa]] political theorist
+*[[Hayashi Gahō]], [[Tokugawa shogunate]] academician/scholar/bureaucrat
+*[[Kaibara Ekken]], [[Edo period]] writer/botanist/philosopher
+}}
+
+==Footnotes and references==
+{{Reflist}}
+
+==Further reading==
+*J. Percy Bruce.  ''Chu Hsi and His Masters'', Probsthain & Co., London, 1922.
+*Daniel K. Gardner. ''Learning To Be a Sage'',  University of California Press, Berkeley, 1990.  {{ISBN|0-520-06525-5}}.
+*Bruce E. Carpenter. 'Chu Hsi and the Art of Reading' in ''Tezukayama University Review'' (Tezukayama daigaku ronshū),  Nara, Japan, no. 15, 1977, pp.&nbsp;13–18. {{ISSN|0385-7743}}
+*Wing-tsit Chan, ''Chu Hsi: Life and Thought'' (1987).  {{ISBN|0-312-13470-3}}.
+*Wing-tsit Chan, ''Chu Hsi: New Studies''. University of Hawaii Press: 1989.  {{ISBN|978-0-8248-1201-0}}
+*Gedalecia, D (1974). "Excursion Into Substance and Function." ''Philosophy East and West''. vol. 4, 443–451.
+*Hoyt Cleveland Tillman, ''Utilitarian Confucianism: Ch‘en Liang's Challenge to Chu Hsi'' (1982)
+*Wm. Theodore de Bary, ''Neo-Confucian Orthodoxy and the Learning of the Mind-and-Heart'' (1981), on the development of Zhu Xi's thought after his death
+*Wing-tsit Chan (ed.), ''Chu Hsi and Neo-Confucianism'' (1986), a set of conference papers
+*Donald J. Munro, ''Images of Human Nature: A Sung Portrait'' (1988), an analysis of the concept of human nature in Zhu Xi's thought
+*Joseph A. Adler, ''Reconstructing the Confucian Dao: Zhu Xi's Appropriation of Zhou Dunyi'' (2014), a study of how and why Zhu Xi chose Zhou Dunyi to be the first true Confucian Sage since Mencius
+* Lianbin Dai, "From Philology to Philosophy: Zhu Xi (1130–1200) as a Reader-Annotator" (2016). In ''Canonical Texts and Scholarly Practices: A Global Comparative Approach'', edited by Anthony Grafton and Glenn W. Most, Cambridge: Cambridge University Press, 2016, 136–163, on Zhu Xi within the context and development of neo-Confucianism
+
+===Translations===
+All translations are of excerpts except where otherwise noted.
+* {{cite book|last=McClatchie|first=Thomas|title=Confucian Cosmogony: A Translation of Section Forty-nine of the Complete Works of the Philosopher Choo-Foo-Tze|date=1874|publisher=American Presbyterian Mission|location=Shanghai|url=https://archive.org/details/confuciancosmog00mcclgoog}}
+* {{cite book|last=Bruce|first=J. Percy|title=The philosophy of human nature|date=1922|publisher=Probsthain|location=London|url=https://archive.org/details/thephilosophyofh00chuhuoft}}
+*Wing-tsit Chan (1963), ''A Source Book in Chinese Philosophy''. Princeton, NJ: Princeton University Press.
+* Gardner, Daniel (1986). ''Chu Hsi and Ta-hsueh: Neo-Confucian Reflection on the Confucian Canon''. Cambridge: Harvard UP.
+* {{cite book|last=Chan|first=Wing-tsit|title=Reflections On Things at Hand|date=1967|publisher=Columbia University Press|location=New York}}
+** A full translation of 近思錄.
+* {{cite book|last=Gardner|first=Daniel K.|title=Learning to be a sage: selections from the Conversations of Master Chu, arranged topically|url=https://archive.org/details/learningtobesage00zhux|url-access=registration|date=1990|publisher=U. California Press|location=Berkeley|isbn=0520909046}}
+* {{cite book|last=Wittenborn|first=Allen|title=Further reflections on things at hand|date=1991|publisher=University Press of America|location=Lanham|isbn=0819183725}}
+** A full translation of 續近思錄.
+* {{cite book|last=Ebrey|first=Patricia|title=Chu Hsi's family rituals|date=1991|publisher=Princeton University Press|location=Princeton, N.J.|isbn=0691031495}}
+** A full translation of 家禮.
+* {{cite book|last=Adler|first=Joseph A.|title=Introduction to the study of the classic of change (I-hsüeh ch'i-meng)|date=2002|publisher=Global Scholarly Publications|location=Provo, Utah}}
+** A full translation of 易學啟蒙.
+* {{cite book|last=Adler|first=Joseph A.|title=Reconstructing the Confucian Dao: Zhu Xi's Appropriation of Zhou Dunyi)|date=2014|publisher=SUNY Press|location=Albany}}
+** Full translation of Zhu Xi's commentaries on Zhou Dunyi's ''Taijitu shuo'' (太極圖說) and ''Tongshu'' (通書).
+* {{cite book|last=Adler|first=Joseph A.|title=The Original Meaning of the Yijing: Commentary on the Scripture of Change|date=2020|publisher=Columbia University Press|location=New York}}
+** Full translation of Zhu Xi's Zhouyi benyi 周易本義, with Introduction and annotations.
+
+==External links==
+{{Commons category|Zhu Xi}}
+{{Wikiquote}}
+* {{cite SEP |url-id=zhu-xi |title=Zhu Xi}}
+* {{cite IEP |url-id=zhu-xi |title=Zhu Xi (Chu Hsi, 1130—1200)}}
+*[http://www.chinaonlinemuseum.com/calligraphy-zhu-xi.php Zhu Xi and his Calligraphy Gallery] at China Online Museum
+*[http://www2.kenyon.edu/Depts/Religion/Fac/Adler/Reln270/Zhu-callig.htm Zhu Xi's large-character calligraphy from the Yijing]
+*[http://www2.kenyon.edu/Depts/Religion/Fac/Adler/Writings/Divination.htm Chu Hsi and Divination] - Joseph A. Adler
+*{{Gutenberg author |id=2448}}
+*[http://www.wfu.edu/~moran/zzyl_TOC.html First part of the ''Classified Conversations of Master Zhu'']
+
+{{Chinese philosophy}}
+{{Song dynasty topics}}
+{{Portal bar|China|History|Biography|Philosophy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Zhu, Xi}}
+[[Category:Zhu Xi| ]]
+[[Category:1130 births]]
+[[Category:1200 deaths]]
+[[Category:12th-century Chinese calligraphers]]
+[[Category:12th-century Chinese historians]]
+[[Category:12th-century Chinese philosophers]]
+[[Category:12th-century Chinese poets]]
+[[Category:Chinese Confucianists]]
+[[Category:Critics of Buddhism]]
+[[Category:Historians from Fujian]]
+[[Category:Neo-Confucian scholars]]
+[[Category:Philosophers from Fujian]]
+[[Category:Poets from Fujian]]
+[[Category:Politicians from Sanming]]
+[[Category:Song dynasty calligraphers]]
+[[Category:Song dynasty essayists]]
+[[Category:Song dynasty historians]]
+[[Category:Song dynasty philosophers]]
+[[Category:Song dynasty poets]]
+[[Category:Song dynasty government officials]]
+[[Category:Song dynasty classicists]]
+[[Category:12th-century Confucianists]]
+[[Category:Writers from Fujian]]

@@ -1,0 +1,174 @@
+{{short description|American philosopher (1941–2001)}}
+{{Multiple issues|
+{{more citations needed|date=December 2010}}
+{{tone|date=May 2023}}
+}}
+
+{{Infobox philosopher
+|region = [[Western philosophy]]
+|era    = [[20th-century philosophy]]
+|name    = David Lewis
+|image  = David Lewis (1962) (cropped).webp
+|caption = Lewis in 1962, while at [[Swarthmore College]]
+|birth_name   = David Kellogg Lewis
+|other_names = Bruce Le Catt<ref>{{Cite news |url=https://www.science.org/content/article/philosophy-journal-corrects-35-year-old-article-written-cat |title=Philosophy journal corrects 35-year-old article 'written' by a cat |last=Guglielmi |first=Giorgia |date=1 August 2017 |work=[[Science (journal)|Science]]}}</ref>
+|birth_date  = September 28, 1941
+|birth_place = [[Oberlin, Ohio|Oberlin]], [[Ohio]], U.S.
+|death_date  = October 14, 2001 (aged 60)
+|death_place = [[Princeton, New Jersey|Princeton]], [[New Jersey]], U.S.
+|education   = [[Swarthmore College]] ([[Bachelor of Arts|BA]])<br/>[[Oxford University]]<br/>[[Harvard University]] ([[PhD]])
+|institutions = [[Princeton University]]
+|school_tradition = [[Analytic philosophy|Analytic]]<br>[[Nominalism]]<ref>[https://ndpr.nd.edu/news/resemblance-nominalism-a-solution-to-the-problem-of-universals/ "Review of Gonzalo Rodriguez-Pereyra, ''Resemblance Nominalism: A Solution to the Problem of Universals''" – ndpr.nd.edu]</ref><br>[[Perdurantism]]<ref>Lewis, D. K. 1986. ''[[On the Plurality of Worlds]]'' Oxford: Blackwell.</ref>
+|main_interests   = [[Logic]]{{·}}[[Language]]{{·}}[[Metaphysics]]<br/>[[Epistemology]]{{·}}[[Ethics]]
+|notable_ideas    = [[Possible world]]s{{·}}[[Modal realism]]{{·}}[[Counterfactuals]]{{·}}[[Counterpart theory]]{{·}}[[Principal principle]]{{·}}[[Humean supervenience]]{{·}}[[Lewis signaling game]]{{·}}The [[endurantism]]–[[perdurantism]] distinction<br>[[Descriptive-causal theory of reference]]<ref>Stefano Gattei, ''Thomas Kuhn's 'Linguistic Turn' and the Legacy of Logical Empiricism: Incommensurability, Rationality and the Search for Truth'', Ashgate Publishing, 2012, p. 122 n. 232.</ref>{{·}}''[[De se]]''<br>Qualitative vs quantitative parsimony<ref>"On Quantitative and Qualitative Parsimony" by Maciej Sendłak, ''Metaphilosophy'' '''49'''(1–2):153–166 (2018).</ref><br>[[Ramsey–Lewis method]]<br>Gunk<ref>[https://plato.stanford.edu/entries/lewis-metaphysics/ "David Lewis's Metaphysics"]</ref><br>Ontological innocence<ref>{{cite journal | url=https://link.springer.com/article/10.1007%2Fs10670-015-9762-x | doi=10.1007/s10670-015-9762-x | title=An Argument for the Ontological Innocence of Mereology | date=2016 | last1=French | first1=Rohan | journal=Erkenntnis | volume=81 | issue=4 | pages=683–704 | doi-access=free }}</ref><br>[[Centered world]]|doctoral_advisor = [[Willard Van Orman Quine]]
+|academic_advisors = [[Donald Cary Williams]]<ref>{{Cite journal|title=A Life in Philosophy|first=Nicholas|last=Wolterstorff|journal=Proceedings and Addresses of the American Philosophical Association|volume=81|pages=93–106|number=2| date=November 2007 |jstor=27653995}}</ref><br/>
+[[Iris Murdoch]]<ref>{{Cite book|chapter-url=https://plato.stanford.edu/entries/david-lewis/|title = The Stanford Encyclopedia of Philosophy|chapter = David Lewis|year = 2021|publisher = Metaphysics Research Lab, Stanford University}}</ref>
+|doctoral_students = [[Robert Brandom]]<br>[[Peter Railton]]<br>[[J. David Velleman]]
+|spouse=Stephanie Lewis (m. 1965–2001)
+}}
+
+'''David Kellogg Lewis''' (September 28, 1941&nbsp;– October 14, 2001) was an American philosopher. Lewis taught briefly at [[UCLA]] and then at [[Princeton University]] from 1970 until his death. He is closely associated with [[Australia]], whose [[Australian philosophy|philosophical community]] he visited almost annually for more than 30 years.
+
+Lewis made significant contributions in [[philosophy of mind]], [[philosophy of probability]], [[epistemology]], [[philosophical logic]], [[aesthetics]], [[philosophy of mathematics]], [[philosophy of time]] and [[philosophy of science]]. In most of these fields he is considered among the most important figures of recent decades. Lewis is most famous for his work in [[metaphysics]], [[philosophy of language]] and [[semantics]], in which his books ''On the Plurality of Worlds'' (1986) and ''Counterfactuals'' (1973) are considered classics. His works on the [[logic]] and semantics of [[counterfactual conditional]]s are broadly used by philosophers and linguists along with a competing account from [[Robert Stalnaker]]; together the Stalnaker–Lewis theory of counterfactuals has become perhaps the most pervasive and influential account of its type in the philosophical and linguistic literature. His [[metaphysics]] incorporated seminal contributions to quantified [[modal logic]], the development of [[counterpart theory]], counterfactual [[Causality|causation]], and the position called "Humean [[supervenience]]". Most comprehensively in ''On the Plurality of Worlds'', Lewis defended [[modal realism]]: the view that [[possible world]]s exist as [[Abstract and concrete|concrete]] entities in logical space, and that our world is one among many equally real possible ones.
+
+== Early life and education ==
+Lewis was born in [[Oberlin, Ohio]], to John D. Lewis, a professor of government at [[Oberlin College]], and Ruth Ewart Kellogg Lewis, a [[Middle Ages|medieval]] [[historian]]. He was the grandson of the [[Presbyterian]] minister Edwin Henry Kellogg and the great-grandson of the Presbyterian missionary and Hindi expert [[Samuel H. Kellogg]].<ref>[https://books.google.com/books?id=3xhbAAAAYAAJ&dq=%22edwin%20henry%20kellogg%22%20obituary&pg=RA1-PR85 ''Princeton Alumni Weekly'', Volume 42, Princeton University Press, 1941.]</ref>
+
+Lewis attended [[Oberlin High School (Ohio)|Oberlin High School]], where he attended college lectures in [[chemistry]]. He went on to [[Swarthmore College]] and spent a year at [[Oxford University]] (1959–60), where he was tutored by [[Iris Murdoch]] and attended lectures by [[Gilbert Ryle]], [[H. P. Grice]], [[P. F. Strawson]], and [[J. L. Austin]]. His year at Oxford played an important role in his decision to study philosophy. Lewis received his Ph.D. from [[Harvard University]] in 1967, where he studied under [[W. V. O. Quine]], whose views he would later dispute. It was there he took a seminar with the Australian philosopher [[J. J. C. Smart]]. Smart recalled, "I taught David Lewis, or rather, he taught me."<ref>{{Cite news |last=O'Grady |first=Jane |date=2001-10-23 |title=David Lewis |language=en-GB |work=The Guardian |url=https://www.theguardian.com/news/2001/oct/23/guardianobituaries.books |access-date=2023-03-22 |issn=0261-3077}}</ref>
+
+Lewis joined the philosophy department at the [[University of California, Los Angeles]], in 1966. In 1970, he moved to [[Princeton University]], where he spent the remainder of his career.
+
+== Early work on convention ==
+Lewis's first monograph was <cite>''Convention: A Philosophical Study''</cite> (1969), which is based on his doctoral dissertation and uses concepts of [[game theory]] to analyze the nature of social conventions; it won the [[American Philosophical Association]]'s first Franklin Matchette Prize for the best book published in philosophy by a philosopher under 40. Lewis claimed that social conventions, such as the convention in most states that one drives on the right (not on the left), the convention that the original caller will re-call if a phone conversation is interrupted, etc., are solutions to so-called "'co-ordination problems'". Co-ordination problems were at the time of Lewis's book an under-discussed kind of game-theoretical problem; most game-theoretical discussion had centered on problems where the participants are in conflict, such as the [[prisoner's dilemma]].
+
+Co-ordination problems are problematic, for, though the participants have common interests, there are several solutions. Sometimes one of the solutions is "salient", a concept invented by the game-theorist and economist [[Thomas Schelling]] (by whom Lewis was much inspired). For example, a co-ordination problem that has the form of a meeting may have a salient solution if there is only one possible spot to meet in town. But in most cases, we must rely on what Lewis calls "precedent" for a salient solution. If both participants know that a particular co-ordination problem, say "which side should we drive on?", has been solved in the same way numerous times before, both know that both know this, both know that both know that both know this, etc. (this particular state Lewis calls [[common knowledge (logic)|common knowledge]], and it has since been a frequent topic of discussion among philosophers and game theorists), then they will easily solve the problem. That they have solved the problem successfully will be seen by even more people, and thus the convention will spread in the society. A convention is thus a behavioral regularity that sustains itself because it serves the interests of everyone involved. Another important feature of a convention is that a convention could be entirely different: one could just as well drive on the left; it is more or less arbitrary that one drives on the right in the US, for example.
+
+Lewis's main goal in the book, however, was not simply to provide an account of convention but rather to investigate the "platitude that language is ruled by convention" (<cite>Convention</cite>, p.&nbsp;1.) The book's last two chapters (<cite>Signalling Systems</cite> and <cite>Conventions of Language</cite>; cf. also "Languages and Language", 1975) make the case that a population's use of a language consists of conventions of truthfulness and trust among its members. Lewis recasts in this framework notions such as truth and analyticity, claiming that they are better understood as relations between sentences and a language rather than as properties of sentences.
+
+== Counterfactuals and modal realism ==
+<!-- Missing image removed: [[Image:DavidLewis.jpg|thumb|David Lewis]] because is politician -->
+
+Lewis went on to publish <cite>''Counterfactuals''</cite> (1973), which gives a modal analysis of the truth conditions of [[counterfactual conditionals]] in possible world semantics and the governing logic for such statements. According to Lewis, the counterfactual "If kangaroos had no tails they would topple over" is true if in all worlds most similar to the actual world where the [[Antecedent (logic)|antecedent]] "if kangaroos had no tails" is true, the [[consequent]] that kangaroos in fact topple over is also true. Lewis introduced the now standard "would" conditional operator ◻→ to capture these conditionals' logic. A sentence of the form A ◻→ C is true on Lewis's account for the same reasons given above. If there is a world maximally similar to ours where kangaroos lack tails but do not topple over, the counterfactual is false. The notion of similarity plays a crucial role in the analysis of the conditional. Intuitively, given the importance in our world of tails to kangaroos remaining upright, in the most similar worlds to ours where they have no tails they presumably topple over more frequently and so the counterfactual comes out true. This treatment of counterfactuals is closely related to an independently discovered account of conditionals by [[Robert Stalnaker]], and so this kind of analysis is called [[Counterfactual conditional#Possible worlds accounts|Stalnaker-Lewis theory]]. The crucial areas of dispute between Stalnaker's account and Lewis's are whether these conditionals quantify over constant or variable domains (strict analysis vs. variable-domain analysis) and whether the Limit assumption should be included in the accompanying logic. Linguist [[Angelika Kratzer]] has developed a competing theory for counterfactual or [[Subjunctive mood|subjunctive]] conditionals, "premise semantics", which aims to give a better heuristic for determining the truth of such statements in light of their often [[Vagueness|vague]] and [[Context-sensitive language|context-sensitive]] meanings. Kratzer's premise semantics does not diverge from Lewis's for counterfactuals but aims to spread the analysis between context and similarity to give more accurate and concrete predictions for counterfactual truth conditions.<ref>{{Cite book|last=Kratzer|first=Angelika|title=Modals and Conditionals: New and Revised Perspectives|publisher=Oxford University press|year=2012|isbn=9780199234691|pages=chapter 3}}</ref>
+
+===Realism about possible worlds===
+What made Lewis's views about counterfactuals controversial is that whereas Stalnaker treated possible worlds as imaginary entities, "made up" for the sake of theoretical convenience, Lewis adopted a position his formal account of counterfactuals did not commit him to, namely [[modal realism]]. On Lewis's formulation, when we speak of a world where I made the shot that in this world I missed, we are speaking of a world just as real as this one, and although we say that in that world I made the shot, more precisely it is not I but a ''[[counterpart theory|counterpart]]'' of mine who was successful.
+
+Lewis had already proposed this view in some of his earlier papers: "Counterpart Theory and Quantified Modal Logic" (1968), "Anselm and Actuality" (1970), and "Counterparts of Persons and their Bodies" (1971). The theory was widely considered implausible, but Lewis urged that it be taken seriously. Most often the idea that there exist infinitely many causally isolated universes, each as real as our own but different from it in some way, and that alluding to objects in this universe as necessary to explain what makes certain counterfactual statements true but not others, meets with what Lewis calls the "incredulous stare" (Lewis, ''On the Plurality of Worlds'', 2005, pp.&nbsp;135–137). He defends and elaborates his theory of extreme modal realism, while insisting that there is nothing extreme about it, in ''[[On the Plurality of Worlds]]'' (1986). Lewis acknowledges that his theory is contrary to common sense, but believes its advantages far outweigh this disadvantage, and that therefore we should not be hesitant to pay this price.
+
+According to Lewis, "actual" is merely an indexical label we give a world when we are in it. Things are [[logical truth|necessarily true]] when they are true in all possible worlds. (Lewis is not the first to speak of possible worlds in this context. [[Gottfried Wilhelm Leibniz]] and [[C.I. Lewis]], for example, both speak of possible worlds as a way of thinking about possibility and necessity, and some of [[David Kaplan (philosopher)|David Kaplan]]'s early work is on the counterpart theory. Lewis's original suggestion was that all possible worlds are equally concrete, and the world in which we find ourselves is no realer than any other possible world.)
+
+=== Criticisms ===
+This theory has faced a number of criticisms. In particular, it is not clear how we could know what goes on in other worlds. After all, they are causally disconnected from ours; we can't look into them to see what is going on there.<ref>[[Robert Stalnaker]], ''Inquiry'', MIT Press, 1984, p. 49: "But if other possible worlds are causally disconnected from us, how do we know anything about them?"</ref> A related objection is that, while people are concerned with what they could have done, they are not concerned with what people in other worlds, no matter how similar to them, do. As [[Saul Kripke]] once put it, a presidential candidate could not care less whether someone else, in another world, wins an election, but does care whether he himself could have won it (Kripke 1980, p.&nbsp;45).{{citation needed|date=May 2021}}
+
+Another criticism of the realist approach to possible worlds is that it has an inflated [[ontology]]—by extending the property of concreteness to more than the singular actual world it multiplies theoretical entities beyond what should be necessary to its explanatory aims, thereby violating the principle of parsimony, [[Occam's razor]]. But the opposite position could be taken on the view that the modal realist reduces the categories of possible worlds by eliminating the special case of the actual world as the exception to possible worlds as simple abstractions.
+
+Possible worlds are employed in the work of Kripke<ref>"[[Naming and Necessity]]". In ''Semantics of Natural Language'', edited by D. Davidson and G. Harman. Reidel, 1980 (1972), pp. 253–355.</ref> and many others, but not in the concrete sense Lewis propounded. While none of these alternative approaches has found anything near universal acceptance, very few philosophers accept Lewis's brand of modal realism.
+
+=== Influence ===
+At Princeton, Lewis was a mentor of young philosophers and trained dozens of successful figures in the field, including several current Princeton faculty members, as well as people now teaching at a number of the leading philosophy departments in the U.S. Among his prominent students were [[Robert Brandom]], [[L. A. Paul]], [[J. David Velleman]], [[Peter Railton]], [[Phillip Bricker]], [[Cian Dorr]], and [[Joshua Greene (psychologist)|Joshua Greene]]. His direct and indirect influence is evident in the work of many prominent philosophers of the current generation.
+
+== Later life and death ==
+
+Lewis suffered from severe [[diabetes]] for much of his life, which eventually grew worse and led to [[kidney]] failure. In July 2000 he received a [[kidney transplant]] from his wife Stephanie. The transplant allowed him to work and travel for another year, before he died suddenly and unexpectedly from further complications of his diabetes, on October 14, 2001.<ref>{{cite news |date=October 20, 2001 |title=David Kellogg Lewis |url=https://www.nytimes.com/2001/10/20/arts/no-headline-768146.html |work=[[The New York Times]]}}</ref>
+
+Since his death a number of posthumous papers have been published, on topics ranging from truth and causation to philosophy of physics. <cite>''Lewisian Themes''</cite>, a collection of papers on his philosophy, was published in 2004.<ref>{{Cite journal |last=Weatherson |first=Brian |author-link=Brian Weatherson |date=2005-08-02 |title=Review of Lewisian Themes: The Philosophy of David K. Lewis |url=https://ndpr.nd.edu/reviews/lewisian-themes-the-philosophy-of-david-k-lewis/ |journal=Notre Dame Philosophical Reviews |language=en |issn=1538-1617}}</ref> A two-volume collection of his correspondence, <cite>''Philosophical Letters of David K. Lewis''</cite>, was published in 2020. A 2015 poll of philosophers conducted by [[Brian Leiter]] ranked Lewis the fourth most important Anglophone philosopher active between 1945 and 2000, behind only [[W. V. O. Quine|Quine]], [[Saul Kripke|Kripke]], and [[John Rawls|Rawls]].<ref name="Leiter Philosopher Rankings">{{cite web |last1=Leiter |first1=Brian |title=Most Important Anglophone philosophers, 1945-2000: the top 20 |url=https://leiterreports.typepad.com/blog/2015/01/most-important-anglophone-philosophers-1945-2000-the-top-20.html |website=Leiter Reports: A Philosophy Blog |access-date=6 September 2020}}</ref>
+
+== Works ==
+=== Books ===
+*''[[iarchive:conventionphilos0000lewi|Convention: A Philosophical Study]]'', Harvard University Press 1969.
+*''[[iarchive:counterfactuals00lewi|Counterfactuals]]'', Harvard University Press 1973; revised printing Blackwell 1986.
+*''[[iarchive:onpluralityofwor0000lewi|On the Plurality of Worlds]]'', Blackwell 1986.
+*''[[iarchive:partsofclasses0000lewi|Parts of Classes]]'', Blackwell 1991.
+
+Lewis published five volumes containing 99 papers—almost all the papers he published in his lifetime. They discuss his counterfactual theory of [[causality|causation]], the concept of [[semantic score]], a contextualist analysis of knowledge, and a dispositional [[value theory]], among many other topics.
+*<cite>''Philosophical Papers, Vol. I''</cite> (1983) includes his early work on [[counterpart theory]] and the [[philosophy of language]] and of [[philosophy of mind|mind]].
+*<cite>''[[iarchive:philosophicalpap0002lewi|Philosophical Papers, Vol. II]]''</cite> (1986) includes his work on [[counterfactuals]], causation, and [[decision theory]], where he promotes his [[principal principle]] about rational belief.<ref>Originally in {{cite book |first=David |last=Lewis |year=1980 |chapter=A Subjectivist's Guide to Objective Chance |editor-first=R. |editor-last=Jeffrey |editor-link=Richard Jeffrey |title=Studies in Inductive Logic and Probability |volume=2 |pages=263–293 |location=Berkeley |publisher=University of California Press |isbn=0-520-03826-6 }}</ref> Its preface discusses [[Humean supervenience]], the name Lewis gave to his overarching philosophical project.
+*<cite>''[[iarchive:papersinphilosop0000lewi|Papers in Philosophical Logic]]''</cite> (1998).
+*<cite>''Papers in Metaphysics and Epistemology''</cite> (1999) contains "Elusive Knowledge" and "Naming the Colours", honored by being reprinted in the ''Philosopher's Annual'' for the year they were first published.
+*<cite>''[[iarchive:papersinethicsso0000lewi|Papers in Ethics and Social Philosoph]]y''</cite> (2000).
+
+Lewis's monograph <cite>''Parts of Classes''</cite> (1991), on the [[foundations of mathematics]], sketched a reduction of [[set theory]] and [[Peano arithmetic]] to [[mereology]] and [[plural quantification]]. Very soon after its publication, Lewis became dissatisfied with some aspects of its argument; it is currently out of print (his paper "Mathematics is megethology", in ''Papers in Philosophical Logic'', is partly a summary and partly a revision of "Parts of Classes")
+
+'''''[[Nachlass]]'''''
+
+* {{cite book | last=Lewis | first=David | editor-first1=Frederique | editor-first2=Fraser | editor-last1=Janssen-Lauret | editor-last2=MacBride  | title=Philosophical Manuscripts | publisher=Oxford University Press | publication-place=Oxford | date=2023-09-28 | isbn=978-0-19-284739-3 | doi=10.1093/oso/9780192847393.001.0001}}
+
+=== Selected papers ===
+* "Counterpart Theory and Quantified Modal Logic", ''Journal of Philosophy'' 65 (1968): pp.&nbsp;113–126.
+* "General semantics", ''Synthese'', 22(1) (1970): pp.&nbsp;18–67.
+* "Causation", ''Journal of Philosophy'' 70 (1973): pp.&nbsp;556–67. Reprinted with postscripts in ''Philosophical Papers: Volume II'' (1986).
+* "Semantic Analyses for Dyadic Deontic Logic" in ''Logical Theory and Semantic Analysis: Essays Dedicated to Stig Kanger on His Fiftieth Birthday'', Reidel 1974.
+* "The Paradoxes of Time Travel", [[American Philosophical Quarterly]], April (1976): pp. &nbsp;145–152.
+* "Truth in Fiction", ''American Philosophical Quarterly'' 15 (1978): pp.&nbsp;37–46.
+* "How to Define Theoretical Terms", ''Journal of Philosophy'' 67 (1979): pp.&nbsp;427–46.
+* "Scorekeeping in a Language Game", ''Journal of Philosophical Logic'' 8 (1979): pp.&nbsp;339–59.
+* "[[Mad pain and Martian pain]]", ''Readings in the Philosophy of Psychology'' Vol. I. N. Block, ed. [[Harvard University Press]] (1980): pp.&nbsp;216–222.
+* "A Subjectivist's Guide to Objective Chance", in R. Jeffrey, ed., ''Studies in Inductive Logic and Probability: Volume II''. Reprinted with postscripts in ''Philosophical Papers: Volume II'' (1986).
+* "Are We Free to Break the Laws?" ''[[Theoria (philosophy journal)|Theoria]]'' 47 (1981): pp.&nbsp;113–21.
+* "New Work for a Theory of Universals", ''Australasian Journal of Philosophy'' 61 (1983): pp.&nbsp;343–77.
+* "What Experience Teaches", in ''Mind and Cognition'' by [[William G. Lycan]], (1990 Ed.) pp.&nbsp;499–519. Article omitted from subsequent editions.
+* "Elusive Knowledge", ''Australasian Journal of Philosophy'', 74/4 (1996): pp.&nbsp;549–567.
+
+== See also ==
+{{Div col|colwidth=25em}}
+* [[American philosophy]]
+* [[Bayesian epistemology]]
+* [[List of American philosophers]]
+* [[Canberra Plan]]
+* [[Causal model]]
+* [[Conversational scoreboard]]
+* [[Counterfactuals]]
+* [[Extended modal realism]]
+* [[Formal semantics (natural language)]]
+* {{section link|Humeanism|Causality and necessity}}
+* [[Lewis's triviality result]]
+* [[Modal realism]]
+* [[Possible world#From modal logic to philosophical tool|Possible world]]
+{{Div col end}}
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+*{{cite SEP |url-id=david-lewis |title=David Lewis |last=Weatherson |first=Brian}}
+*{{cite SEP |url-id=lewis-metaphysics |title=David Lewis's Metaphysics |last=Hall |first=Ned}}
+*{{cite IEP |url-id=http://www.iep.utm.edu/d-lewis/|title=David Lewis|Internet Encyclopedia of Philosophy|last=Dixon|first=Scott}}
+*Nolan, Daniel Patrick (2005). ''[[iarchive:davidlewis0000nola/page/n5/mode/1up|David Lewis]]''. Chesham [U.K.]: Acumen.
+*[[Barry Loewer|Loewer, Barry]]; [[Schaffer, Jonathan]], eds. (2015). ''A Companion to David Lewis''. Oxford, UK: John Wiley & Sons, Ltd. {{doi|10.1002/9781118398593}}
+
+== External links ==
+*{{webarchive |url=https://web.archive.org/web/20031003162629/http://web.princeton.edu/sites/philosph/service_of_remembrance.htm |date=October 3, 2003 |title=Service of Remembrance Friday, February 8, 2002 – Princeton University Chapel }}
+*[http://consc.net/pics/lewis.html Photos from the weekend of the memorial service for David Lewis in Princeton, February 2002]
+
+{{analytic philosophy}}
+
+{{Metaphysics}}
+{{Epistemology}}
+{{Philosophy of language}}
+{{Philosophy of mind}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lewis, David Kellogg}}
+[[Category:1941 births]]
+[[Category:2001 deaths]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:21st-century American philosophers]]
+[[Category:American male non-fiction writers]]
+[[Category:American metaphysics writers]]
+[[Category:Analytic philosophers]]
+[[Category:Burials at Princeton Cemetery]]
+[[Category:American epistemologists]]
+[[Category:Harvard University alumni]]
+[[Category:Kidney transplant recipients]]
+[[Category:American metaphysicians]]
+[[Category:American philosophers of language]]
+[[Category:American philosophers of logic]]
+[[Category:American philosophers of mind]]
+[[Category:Philosophers of probability]]
+[[Category:Princeton University faculty]]
+[[Category:Swarthmore College alumni]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]

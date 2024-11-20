@@ -1,0 +1,175 @@
+{{Short description|French moral philosopher (1632-1703)}}
+{{Infobox person
+| name               = Gabrielle Suchon
+| image              = Gabrielle Suchon Portrait.jpg
+| birth_date         = {{Birth date|1632|12|24}}
+| birth_place        = [[Semur-en-Auxois]], [[France]]
+| death_date         = {{Death date and age|1703|03|05|1632|12|24}}
+| death_place        = [[Dijon, France|Dijon]], [[France]]
+| known_for          = Proto-feminist philosophy
+| notable_works      = {{Plainlist|
+* ''Traité de la morale et de la politique'' (Treatise on Morality and Politics)
+* ''Du célibat volontaire'' (On the Celibate Life Freely Chosen)
+}}
+}}
+'''Gabrielle Suchon''' (December 24, 1632, in [[Semur-en-Auxois]] – March 5, 1703, in [[Dijon]]) was a French [[Ethics|moral]] [[philosopher]] who participated in debates about the social, political and religious condition of women in the [[Early Modern era|early modern era]].<ref name=":02">{{Cite web|url=https://www.rep.routledge.com/articles/biographical/suchon-gabrielle-1631-1703/v-1#|title=Suchon, Gabrielle (1631–1703) - Routledge Encyclopedia of Philosophy|website=www.rep.routledge.com|language=en|access-date=2018-05-10}}</ref><ref name=":1" /> Her most prominent works are the ''Traité de la morale et de la politique'' (Treatise on Morality and Politics) and ''Du célibat volontaire'' (On the Celibate Life Freely Chosen).
+
+Suchon is considered the first philosopher to produce a significant body of work dedicated solely to the topic of women.<ref name=":1">{{Cite book|title=A woman who defends all the persons of her sex : selected philosophical and moral writings|last=Suchon|first=Gabrielle|date=2010|publisher=University of Chicago Press|others=Stanton, Domna C., Wilkin, Rebecca May.|isbn=9780226779232|location=Chicago|pages=1–72|oclc=642206246}}</ref> Suchon's writing is unique because she specifically addresses women, as opposed to most moral philosophy of the time, whose primary audience was men.<ref name=":12" /> She is considered the only female philosopher of her time without a male intellectual advisor or husband.<ref name=":1" />
+
+In her works, Suchon argues that women are deserving of the [[Natural Rights|natural rights]] of liberty, learning and authority.<ref name=":0">{{Cite book|jstor=j.ctt7s6sv.6|title=Philosophy in a Feminist Voice|last=O’NEILL|first=EILEEN|chapter=History of Philosophy|date=1998|publisher=Princeton University Press|isbn=9780691019369|series=Critiques and Reconstructions|pages=17–62}}</ref> She asserts that a woman can live a fulfilling life while unmarried<ref name=":02" /> and promotes the power of voluntary [[celibacy]] on secular terms.<ref name=":12">{{Cite journal|last=Desnain|first=V.|date=2012-11-15|title=Gabrielle Suchon: Militant Philosophy in Seventeenth-Century France|journal=Forum for Modern Language Studies|volume=49|issue=3|pages=257–271|doi=10.1093/fmls/cqs030|issn=0015-8518|url=https://www.pure.ed.ac.uk/ws/files/8559584/Gabrielle_Suchon_Militant_philosophy_in_seventeenth_century_France.pdf}}</ref><ref name=":4">{{Cite web|url=http://querelle.ca/gabrielle-suchon/|title=Gabrielle Suchon {{!}} Querelle|website=querelle.ca|language=en-US|access-date=2018-05-17}}</ref>
+
+== Early life ==
+Gabrielle Suchon was born in Semur-en-Auxios ([[Burgundy]]), France, on December 24, 1632, to Claude Mongin and Claude Suchon. Gabrielle's mother, Claude Mongin, came from a relatively well-off land-owning family. Many of the men in the Mongin family had served as jurists in France. Gabrielle's father came from a line of minor nobles who had historically been public officials. Claude Suchon served as the King's prosecutor until his death in 1645.<ref name=":1" />
+
+Gabrielle Suchon may have had a younger brother, also named Claude Suchon.<ref name=":1" />
+
+== Education ==
+Suchon was self-educated because women were barred from studying at public institutions during her lifetime.<ref name=":2">{{Cite book|title=Women and Gender in Early Modern Europe|last=Wiesner-Hanks|first=Merry|publisher=Cambridge University Press|year=2008|isbn=978-0-521-69544-2|location=University Printing House, Cambridge, United Kingdom|url-access=registration|url=https://archive.org/details/womengenderinear0000wies_z9r9}}</ref> Her writings make clear that she was well versed in the holy scriptures and the works of both classic and contemporary philosophers and writers.<ref name=":0" />
+
+Suchon studied the works of [[Socrates]], [[Plato]], [[Aristotle]], [[Cicero]], [[Seneca the Younger|Seneca]], [[Plutarch]] and other ancient philosophers. She utilized their praise of female qualities or figures to craft her argument for women's equality.<ref name=":1" />
+
+Suchon refers to the work of [[Scholasticism|Scholastics]] such as St. Thomas and [[John of the Cross|St. John of the Cross]].<ref name=":0" /> She also responds to assertions from the notable feminist treatise ''Of the Equality of the Two Sexes'' (1673) by [[François Poullain de la Barre|François Poulain de la Barre]].<ref name=":0" />
+
+Suchon cites evidence from various chapters of the [[Bible]] in her ''Traité de la morale et de la politique''.<ref name=":1" /> She spent her early years in a convent, where she most likely received the religious education of a nun.<ref name=":1" /> Nuns were forbidden from reading directly from the scripture without the interpretation of a male bishop, which implies that Suchon continued her biblical education outside of the convent.<ref name=":1" /> Suchon was self-educated; she gained her expertise of the Bible, the classics and contemporary philosophy after escaping the convent.<ref name=":1" />
+
+== Adult life ==
+
+=== Convent in Semur ===
+Suchon's adult life is primarily pieced together through official church documents. Her whereabouts during many of her adult years remain a mystery.<ref name=":1" /> Most sources say that Suchon was sent to a [[Dominican Order|Dominican]] convent in Semur after her father's death in 1645 and resided there until 1666.<ref name=":1" />
+
+Recent historical research has disputed when and why Suchon was sent to the convent in Semur.<ref name=":1" /> Some speculate that Suchon was sent to the convent shortly after her father's death to alleviate her family's financial burdens. Others say that she may have been sent to the convent some years later after failing to secure a desirable marriage.<ref name=":1" />
+
+=== Contestation of vows ===
+Church documents have revealed that on October 15, 1666, Suchon was legally transferred from the convent in Semur to the [[Jacobin]] monastery at [[Langres]].<ref name=":1" /> It is unclear whether Suchon ever took residence at the Langres convent. Some speculate that Suchon may have used the guise of this transfer to escape entirely and travel to [[Rome]].<ref name=":1" /> Suchon did file a petition to the pope to contest her vows and restore herself to lay person. Suchon's petition was read by the [[Congregation of the Council]] in Rome on September 10, 1672.<ref name=":1" /> Documents show that in 1673 Suchon was no longer on the roster of nuns at Langres.<ref name=":1" /> Suchon's desire to denounce her vows was the cause of the strained relationship with her family for most of her life.<ref name=":1" />
+
+=== Life as a lay woman ===
+Very little is known about Suchon's life outside of the convent. Suchon most likely began her life as a [[Laity|lay]] woman in 1673.<ref name=":1" /> Evidence suggests that Suchon spent around twenty years in Dijon teaching and writing before she released her ''Traité de la morale et de la politique'' in 1693.<ref name=":1" />
+
+Suchon remained unmarried her whole life.<ref name=":4" /> She died on March 5, 1703, in Dijon, France, after spending her last years teaching children and writing.<ref name=":1" />
+
+== Works ==
+
+=== Background ===
+Suchon wrote while an intellectual debate called the [[The woman question|''querelle des femmes'']] was taking place in Europe (14th-17th century). ''Querelle des femmes'' translates to 'the woman question'. Writers in the movement responded to attacks upon women by debating the moral and social nature of womanhood.<ref name=":2" /> Participants in the ''querelle des femmes'' were an unequal mix of male and female intellectuals. Men dominated the movement, even in a genre that centered around the condition of women.<ref name=":2" /> Due to the content of her work and the time in which she wrote, most historians consider Suchon to have contributed to this popular intellectual movement.<ref name=":12" />
+
+The established structure of arguments belonging to the ''querelle des femmes'' movement consisted of two approaches: listing women throughout history whose actions exemplified their worthiness and analyzing the social and economic reasons behind women being seen as unequal.<ref name=":2" /> Suchon's ''Traité de la morale et de la politique'' differs and expands upon the model put forth by prominent writers in the ''querelle des femmes''.<ref name=":1" /> Suchon is the only female participant in the ''querelle des femmes'' to write a treatise, a comprehensive and authoritative form of writing.<ref name=":1" /> In her treatise, she establishes that her style and approach is original and emphasizes her individuality as a writer.<ref name=":1" /> Her writing suggests that she believed her methods to be superior to the standard argumentative styles of the ''querelle des femmes.''<ref name=":1" />
+
+Suchon is the first philosopher to completely condemn marriage and to discuss female celibacy in a secular sense. Furthermore, she is one of the first philosophers to state that her audience is women, not men.<ref name=":1" /> This is significant because women were restricted from reading and partaking in intellectual work and essentially all established academics were men during her lifetime.<ref name=":2" /> Her perspective would have been considered radical by both intellectuals and the common person, male or female.<ref name=":2" />
+
+===''Traité de la morale et de la politique'' (Treatise on Morality and Politics)===
+Suchon originally published ''Traité de la morale et de la politique'' under the pseudonym 'G. S. Aristophile' in 1693.<ref name=":0" /> The pseudonym 'Aristophile' consists of the Greek roots aristo- meaning "excellence", and -phile, meaning "lover".<ref name=":1" /> Suchon's pseudonym is a play on words meaning 'lover of excellence'.<ref name=":1" /> Although Suchon uses a pseudonym, she is unafraid to reveal that she is a woman in the Preface of ''Traité de la morale et de la politique'' .<ref name=":1" />
+
+The ''Traité de la morale et de la politique'' contains an analysis of female oppression and suggests a solution to this ancient, pervasive affliction''.''<ref name=":1" /> Suchon aims to motivate women to cast off the shackles of dependence and ignorance.<ref name=":1" /> Suchon's treatise is broken up into three sections: liberty, learning and authority. Suchon begins her treatise by stating that many women believe their inferior condition to be natural to their sex.<ref name=":1" /> Suchon condemns this idea and states that women have a capacity for learning and self-governance equal to that of men. She argues that the confinement of women to the private sphere is a mechanism of oppression.<ref name=":1" /> She urges women to resist societal expectations and to acquire education as a way to reverse their unjust subjugation to men.<ref name=":12" />
+
+Suchon asserts that religion and scripture is being used as a tool to reinforce the subjugation of women and male supremacy.<ref name=":12" /> Her idea of female autonomy directly challenges the authority of husbands and church fathers.<ref name=":12" />
+
+Suchon utilizes classical and religious texts to craft her argument for female empowerment. Her use of religious texts is a point of debate for modern historians.<ref name=":12" /> Post-enlightenment thinkers would classify Suchon's work as lacking in philosophical merit because it fails to exclude religious texts.<ref name=":1" />
+
+==== Liberty ====
+In her section on liberty, Suchon depicts the complicated and extensive nature of women's deprivation of freedom throughout history.<ref name=":1" />
+
+Suchon gives examples of admirable women in literature and throughout history in order to prove that women have the capacity to be independent of and equal to men.<ref name=":1" /> She asserts that both physical freedom and freedom to discover knowledge are natural rights.<ref name=":1" />
+
+Suchon states that men oppress and degrade women, and women are forced to respect their oppressors.<ref name=":1" /> She argues that God created rational beings to be free and asserts that when women are given the right to true freedom, they can negate the age-old idea that women are inherently inferior to men.<ref name=":1" /><ref name=":2" />
+
+==== Learning ====
+Suchon describes women as essentially equal to men in intellect.<ref name=":1" /> She argues that "women's deprivation of knowledge originates not in divine or natural law" and attributes female oppression to man-made social constructions.<ref name=":1" /> She argues that "ignorance is a form of slavery", and advocates for education as the tool with which women can combat their subjugation to men.<ref name=":3">{{Cite journal|last=Desnain|first=Véronique|date=2004|title=Gabrielle Suchon: De l'éducation des femmes|journal=Seventeenth-Century French Studies|volume=26|issue=1|pages=259–269|doi=10.1179/c17.2004.26.1.259|s2cid=191560858|issn=0265-1068}}</ref>
+
+From a religious standpoint, Suchon argues that a good Christian strives to better themselves. Women are deprived of the tools needed to better themselves spiritually and socially, specifically through education.<ref name=":3" /> Suchon asserts that by denying women the right to knowledge they are denied agency in the public sphere.<ref name=":1" />
+
+==== Authority ====
+In the third section, Suchon discusses power relationships between men and women. She asserts that when women are denied authority, they are prevented from acting upon the innate tendency to do what is right.<ref name=":1" /> Suchon argues that God gave power over nature to both men and women and therefore, men's supposed superiority to women is a distortion of God's will.<ref name=":1" />
+
+Suchon emphasizes the negative effect on society and the world at large by female oppression. Suchon argues that by barring women from intellectual debate, society as a whole is being deprived of great thinkers.<ref name=":12" />
+
+Suchon's treatise ends by raising the question of whether women can truly exercise their rights within a society that is created by and for men.<ref name=":1" />[[File:Du Celibat Volontaire.jpg|thumb|''Du Celibat Volontaire,'' Gabrielle Suchon (1700)]]
+
+===''Du célibat volontaire'' (On the Celibate Life Freely Chosen)===
+In ''Du célibat volontaire'', Suchon presents another possible solution for women to escape subjugation. Suchon She envisions female freedom as autonomy to exist actively, or to live an educated and informed life.<ref name=":1" /> She asserts that a life unfettered by societal constraints in which one is free to pursue intellectualism, is preferable to both marriage and religious vows.<ref name=":1" />
+
+Suchon discusses celibacy through the lens of [[Neutrality (philosophy)|Neutrality]].<ref name=":1" /> Suchon coins the term "Neutralist" and describes women who live the celibate life as such.<ref name=":1" /> The "Neutralist" is devoted to God, helping others and cultivation of the self.<ref name=":1" />
+
+Suchon details the twelve benefits of female celibacy.<ref name=":1" /> A notable benefit of forgoing marriage is the ability to care for the poor instead of producing children.<ref name=":1" /> She points out that a celibate life is accessible to wealthier women, widows and poor women who work to sustain themselves.<ref name=":1" /> Suchon suggests friendship as a remedy to the melancholy that comes with having no familial attachments and commitments.<ref name=":1" />
+
+Suchon views celibacy not as a religious virtue, but as a practical path to gaining individual autonomy and freedom for women.<ref name=":1" /> Suchon does not dismiss the fact that some women may have the desire and inclination to take religious vows and encourages those that do to follow the religious path. However, Suchon strongly condemns parents that force the religious life upon their young, naive daughters for self-serving reasons.<ref name=":1" />
+
+Suchon rejects the widely accepted idea that women needed to be cloistered (segregated from men) to draw away the temptations of the flesh. In fact, she attests that nuns are equally as susceptible to sins of the flesh as secular women.<ref name=":1" /> She argues that while it was widely accepted that nuns held religious authority, Catholic clergymen reserved true divine knowledge for members of their own sex.<ref name=":1" />
+
+=== Reception ===
+Suchon's work did receive some attention in France when she first released her writings. Both Suchon's ''Traité de la morale et de la politique'' (1693) and ''Du Célibat volontaire (1700)'' were reviewed in ''Le Journal des Savants'', one of the premier intellectual journals in France, the year they were published. ''Du Célibat volontaire'' was also featured in another notable French journal, ''[[Nouvelles de la république des lettres|Nouvelles de la République des Lettres]]'' after its release.<ref name=":02" /> Recognition by these premier French journals shows that some intellectuals saw the quality of Suchon's work and took her perspective seriously.
+
+== Legacy ==
+Suchon remained relatively undiscovered until the second revival of the Feminist Movement in the 1980s.<ref name=":3" /><ref name=":12" /> Historians argue that Suchon's work did not gain significant popularity because male intellectuals discredited 'feminized' writing throughout the early modern era.<ref name=":0" /> In the 1980s, Suchon's life and work was studied by [[Feminism|feminist]] historians and moral philosophers for the first time.<ref name=":1" /> It was not until the late 20th century that Suchon was established as an influential moral philosopher and feminist writer in the academic community.<ref name=":0" /><ref name=":1" />
+
+Suchon's work serves as a valuable historical document. Up until the 17th century, European women were offered two life paths: find a husband or become a nun. Marriage was greatly stifling to a woman's freedom and sometimes the nunnery was the only venue that women could gain independence from the confines of gender discrimination.<ref name=":2" /> Suchon's writing sheds light upon the difficulty women faced in getting an education, the realities of marriage and life in convents in the early modern era.<ref name=":3" /> The significance of Suchon's perspective is only properly illustrated when against the backdrop of cultural norms of the early modern era.
+
+Suchon is considered to be the most prominent pro-woman writer during the reign of [[Louis XIV of France|Louis XIV]], a time where both intellectual endeavors and economic freedom for women were greatly stifled in France.<ref name=":1" /> [[Marie de Gournay]], a prominent pro-woman writer, is Suchon's most similar contemporary.<ref name=":1" />
+
+On the occasion of the 300th anniversary of her death in 2003, a road was named after Gabrielle Suchon in her hometown of [[Semur-en-Auxois]].<ref name=":1" />
+
+=== Distribution of works ===
+A copy of ''Du célibat volontaire'' was found at the cloister of ''Billettes'' until the French Revolution, suggesting that Suchon's work was read in at least one convent''.''<ref name=":1" /><ref name=":12" /> Historians have found physical copies of Suchon's ''Traité de la morale et de la politique'' in [[Paris]], [[Grenoble]], [[Dijon]], [[Besançon]] and [[Aix-en-Provence]].<ref name=":12" /> ''Du Célibat volontaire'' has been discovered in [[Besançon]], [[Paris]], as well as in the [[Bavarian State Library|Bayerische Staatsbibliothek]] (Bavarian State Library), [[Göttingen]], [[Florence]] and [[Rome]].<ref name=":12" /> The wider dispersal of Suchon's second work could be a result of French readers travelling abroad or printers bringing the text to trade shows.<ref name=":12" />
+
+=== Position in Feminist history ===
+Suchon wrote in a time in which 'feminist' was neither term nor a genre of writing and study. Suchon is best described as a proto-feminist because her writings largely reflect the direction of the future feminist movement. In recent years, scholars have called Suchon a precursor to one of the most notable feminists, [[Simone de Beauvoir]].<ref name=":12" />
+
+Suchon essentially proposes a new social and legal status for women.<ref name=":12" /> Her works serve as a call for women to break from gender expectations and to embrace a new freedom. In modern terms, Suchon could be considered one of the first female activists.<ref name=":12" /> Suchon is one of the first philosophers to specifically discuss the topic of human rights''.''<ref name=":1" />
+
+== Quotes ==
+
+* "To uncover the source, origin, and causes of ignorance, constraint and dependence in which the person's of the sex spend their lives, I prove through pertinent and forceful arguments that the conduct imposed on them is based on custom rather than on a natural inability to study, govern, or act freely; and thus that their capacity to accomplish great and beautiful deeds cannot be contested." (Gabrielle Suchon, ''Traité de la morale et de la politique,'' Preface to the Treatise)<ref>{{Cite book|title=A woman who defends all the persons of her sex : selected philosophical and moral writings|last=Suchon|first=Gabrielle|date=2010|publisher=University of Chicago Press|others=Stanton, Domna C., Wilkin, Rebecca May.|isbn=9780226779232|location=Chicago|pages=73|oclc=642206246}}</ref>
+* "Privation is a field so fertile and abundant in miseries that its products are infinite. To speak of all the bitter fruit it forces persons of the sex to taste would be a never-ending task." (Gabrielle Suchon, ''Traité de la morale et de la politique,'' Preface to the Treatise)<ref>{{Cite book|title=A woman who defends all the persons of her sex : selected philosophical and moral writings|last=Suchon|first=Gabrielle|date=2010|publisher=University of Chicago Press|others=Stanton, Domna C., Wilkin, Rebecca May.|isbn=9780226779232|location=Chicago|pages=74|oclc=642206246}}</ref>
+* "Since freedom is an extremely delicate matter, knowledge is elevated and sublime, and authority is illustrious and striking, and since persons of the sex are denied these three prerogatives to the greatest extent possible, I must defend my case with powerful supports." (Gabrielle Suchon, ''Traité de la morale et de la politique,'' Preface to the Treatise)<ref>{{Cite book|title=A woman who defends all the persons of her sex : selected philosophical and moral writings|last=Suchon|first=Gabrielle|date=2010|publisher=University of Chicago Press|others=Stanton, Domna C., Wilkin, Rebecca May.|isbn=9780226779232|location=Chicago|pages=76|oclc=642206246}}</ref>
+* "The worth or beauty of language seems to resemble the value of clothing and fashion, which change continuously." (Gabrielle Suchon, ''Traité de la morale et de la politique,'' Preface to the Treatise)<ref>{{Cite book|title=A woman who defends all the persons of her sex : selected philosophical and moral writings|last=Suchon|first=Gabrielle|date=2010|publisher=University of Chicago Press|others=Stanton, Domna C., Wilkin, Rebecca May.|isbn=9780226779232|location=Chicago|pages=80|oclc=642206246}}</ref>
+*"But since this book is new by its title and unprecedented by its content and subject matter, I sought to make the work incontestable by powerful reasoning rather than by polished discourse, which captivates the mind immediately but does not nourish it fully, which dazzles it momentarily before leaving it forever empty." (Gabrielle Suchon, ''Traité de la morale et de la politique,'' Preface to the Treatise)<ref name=":5">{{Cite book|title=A woman who defends all the persons of her sex : selected philosophical and moral writings|last=Suchon|first=Gabrielle|date=2010|publisher=University of Chicago Press|others=Stanton, Domna C., Wilkin, Rebecca May.|isbn=9780226779232|location=Chicago|pages=83|oclc=642206246}}</ref>
+*"My sole intention in this entire treatise has been to inspire generosity and magnanimity in persons of the sex so that they can protect themselves against servile constraint, stupid ignorance, and base and degrading dependence." (Gabrielle Suchon, ''Traité de la morale et de la politique,'' Preface to the Treatise)<ref>{{Cite book|title=A woman who defends all the persons of her sex : selected philosophical and moral writings|last=Suchon|first=Gabrielle|date=2010|publisher=University of Chicago Press|others=Stanton, Domna C., Wilkin, Rebecca May.|isbn=9780226779232|location=Chicago|pages=84|oclc=642206246}}</ref>
+*"The inequality among people is very great: some are not destined to repair the ruins of the human race, while others are not strong enough to lead a life of pentinece and prayer." (Gabrielle Suchon, ''Du célibat volontaire,'' Foreword)<ref name=":6">{{Cite book|title=A woman who defends all the persons of her sex : selected philosophical and moral writings|last=Suchon|first=Gabrielle|date=2010|publisher=University of Chicago Press|others=Stanton, Domna C., Wilkin, Rebecca May.|isbn=9780226779232|location=Chicago|pages=241|oclc=642206246}}</ref>
+*"If cloistered persons cherish books that speak of religious life, it is likewise fitting that this treatise on voluntary celibacy belongs specifically to Neutralists. It is to those generous souls-who devote themselves wholly to serving God, helping their neighbor, and improving themselves ever more- that I present this work." (Gabrielle Suchon, ''Du célibat volontaire,'' Foreword)<ref name=":6" />
+*"[Those who embrace celibacy] are content with the power of choice they have without ever exercising it; they esteem all other conditions but nonetheless prefer their own, which they know is uniquely suited and altogether necessary to them." (Gabrielle Suchon, ''Du célibat volontaire,'' Foreword)<ref>{{Cite book|title=A woman who defends all the persons of her sex : selected philosophical and moral writings|last=Suchon|first=Gabrielle|date=2010|publisher=University of Chicago Press|others=Stanton, Domna C., Wilkin, Rebecca May.|isbn=9780226779232|location=Chicago|pages=240|oclc=642206246}}</ref>
+*"And since women, through the bonds of marriage, are subject to their husbands, attached to their children, and preoccupied by their servants and the pursuit of temporal possessions -prickly thorns indeed that cause inconceivable toil and difficulties- I will describe the happiness of free persons, exempt from such troubles." (Gabrielle Suchon, ''Du célibat volontaire,'' Foreword)<ref>{{Cite book|title=A woman who defends all the persons of her sex : selected philosophical and moral writings|last=Suchon|first=Gabrielle|date=2010|publisher=University of Chicago Press|others=Stanton, Domna C., Wilkin, Rebecca May.|isbn=9780226779232|location=Chicago|pages=239|oclc=642206246}}</ref>
+
+== Further reading ==
+
+=== Primary source translation ===
+
+*''A Woman Who Defends All the Persons of Her Sex: Selected Philosophical and Moral Writings'', Gabrielle Suchon, translated by Domna C. Stanton and Rebecca M. Wilkin, University of Chicago Press (2010) {{ISBN|0-226-77921-1}} (includes English translations of ''Traité de la morale et de la politique'' and ''Du célibat volontaire)''
+
+=== Secondary articles ===
+
+*'Gabrielle Suchon: ''De l’éducation des femmes’'' in Seventeenth Century French Studies' (Desnain, 2004)
+* 'Gabrielle Suchon: Militant Philosophy in Seventeenth-Century France' (Desnain, 2012)
+*'Gabrielle Suchon’s Neutralistes, in Relations and Relationships' (Desnain, 2006)
+*'Gabrielle Suchon: ''une Ecrivaine engagée pour une vie sans engagement''' (A Writer Committed To a Life Without Commitment), Sonia Bertolini (1997)
+
+== References ==
+
+=== Footnotes ===
+<references />
+
+=== Bibliography ===
+
+* Conroy, Derval. 'Society and Sociability in Gabrielle Suchon: Towards a Politics of Friendship', ''Early Modern French Studies'', 43:1, 54-69, DOI: 10.1080/20563035.2021.1924008
+* Desnain, Véronique. 'Gabrielle Suchon: De l'éducation des femmes, Seventeenth-Century French Studies'. 26:1, 2013, pp.&nbsp;259–269. DOI: 10.1179/c17.2004.26.1.259
+* Desnain, Véronique. 'Gabrielle Suchon: Militant philosophy in seventeenth-century France'. pp.&nbsp;257–271, ''Forum for Modern Language Studies'', 49 3 November 15, 2012. DOI: 10.1093/fmls/cqs030
+* Le Dœuff, Michèle, and Penelope Deutscher. "Feminism Is Back in France: Or Is It?" ''Hypatia'', vol. 15, no. 4, 2000, pp.&nbsp;243–255. ''JSTOR'', JSTOR, www.jstor.org/stable/3810690.
+* O’Neill, Eileen. "Disappearing Ink: Early Modern Women Philosophers and Their Fate in History." ''Philosophy in a Feminist Voice: Critiques and Reconstructions'', edited by Janet A. Kourany. Princeton University Press, Princeton, New Jersey, 1998, pp.&nbsp;17–62. ''JSTOR'', www.jstor.org/stable/j.ctt7s6sv.6.
+* Stanton, Domna C. and Wilkin, Rebecca M. "A woman who defends all the persons of her sex, selected philosophical and moral writings". Suchon, Gabrielle, Chicago: University of Chicago Press, 2010. {{ISBN|9780226779232}}.
+*Wiesner-Hanks, Merry. "Women and Gender in Early Modern Europe". University Printing House, Cambridge, United Kingdom: Cambridge University Press, 2008. {{ISBN|978-0-521-69544-2}}.
+
+== External links ==
+* [https://web.archive.org/web/20041228131549/http://www.selc.ed.ac.uk/arachnofiles/pages/two_desnain.htm "Gabrielle Suchon's 'La Contrainte'" by Véronique Desnain]
+* [http://querelle.ca/?page_id=374 Querelle | Gabrielle Suchon] Querelle.ca is a website devoted to the works of authors contributing to the pro-woman side of the ''querelle des femmes''.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Suchon, Gabrielle}}
+[[Category:1632 births]]
+[[Category:1703 deaths]]
+[[Category:People from Semur-en-Auxois]]
+[[Category:French Roman Catholics]]
+[[Category:17th-century French philosophers]]
+[[Category:French feminists]]
+[[Category:French women philosophers]]
+[[Category:Catholic philosophers]]
+[[Category:Scholars of feminist philosophy]]
+[[Category:Catholic feminists]]

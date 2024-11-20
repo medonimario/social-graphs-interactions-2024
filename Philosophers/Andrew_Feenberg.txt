@@ -1,0 +1,76 @@
+{{short description|American philosopher (born 1943)}}
+{{no footnotes|BLP=yes|date=November 2013}}
+{{Infobox person
+| name        = Andrew Feenberg
+| image       = Andrew_Feenberg_by_Beatrice_Murch.jpg
+| caption     = Feenberg in Vancouver, Canada, 2010
+| birth_date  = {{Birth year and age|1943}}
+| birth_place = 
+| occupation  = [[Philosopher]]
+| spouse      = Anne-Marie Feenberg
+}}
+'''Andrew Feenberg''' (born 1943) is an American philosopher. He holds the [[Canada Research Chairs|Canada Research Chair]] in the Philosophy of Technology in the School of Communication at [[Simon Fraser University]] in Vancouver.  His main interests are [[philosophy of technology]], [[continental philosophy]], [[critique of technology]] and [[science and technology studies]].
+
+==Education==
+Feenberg studied philosophy under [[Herbert Marcuse]] at the [[University of California, San Diego]] and was awarded his PhD in 1972.  During this time Feenberg was active in the [[New Left]], founding a journal entitled ''Alternatives'' and participating in the [[May 1968 in France|May '68]] events in Paris.
+
+==Feenberg's philosophy of technology==
+Compared to his predecessors in philosophy of technology, such as [[Martin Heidegger]] and [[Jacques Ellul]] who have a dystopian view of technology, Feenberg's view is positive even though critical. For [[Martin Heidegger|Heidegger]] and [[Jacques Ellul|Ellul]] technology affects people's life but is for the most part beyond their control. For Feenberg technology and society influence each other. He separates himself from the instrumentalists who view technology merely as instruments which are within humans' full control. 
+
+Feenberg's primary contribution to the philosophy of technology is his argument for the democratic transformation of technology.  From his book ''Transforming Technology,''  
+:"What human beings are and will become is decided in the shape of our tools no less than in the action of statesmen and political movements.  The design of technology is thus an ontological decision fraught with political consequences.  The exclusion of the vast majority from participation in this decision is profoundly undemocratic" (p.3).
+Feenberg provides the theoretical foundation for this idea through the Critical Theory of Technology which he develops over three books: ''The Critical Theory of Technology'' (1991) (re-published as ''Transforming Technology: A Critical Theory Revisited''  [2002]), ''Alternative Modernity: The Technical Turn in Philosophy and Social Theory'' (1995), and ''Questioning Technology'' (1999). The basis of Feenberg's critical theory of technology is a concept of dialectical technological rationality he terms instrumentalization theory.  Instrumentalization theory combines the social critique of technology familiar from the philosophy of technology ([[Karl Marx]], [[Herbert Marcuse]], [[Martin Heidegger]], [[Jacques Ellul]]) with insights taken from the empirical case studies of [[science and technology studies]].  Applications of his theory include studies of online education, [[Minitel|the Minitel]], the Internet, and digital games.
+
+Feenberg has also published books and articles on the philosophy of [[Herbert Marcuse]], [[Martin Heidegger]], [[Jürgen Habermas]], [[Marxist theory|Karl Marx]], [[György Lukács|Georg Lukacs]], and [[Kitaro Nishida|Kitarō Nishida]].
+
+==Selected works==
+
+===Books===
+'''Author'''
+* ''Lukacs, Marx and the Sources of Critical Theory'' (Rowman and Littlefield, 1981; Oxford University Press, 1986)
+* ''Critical Theory of Technology'' (Oxford University Press, 1991), later republished as Transforming Technology (Oxford University Press, 2002), see below.
+* ''Alternative Modernity'' (University of California Press, 1995)
+* ''Questioning Technology'' (Routledge, 1999).
+* ''Transforming Technology: A Critical Theory Revisited'' (Oxford University Press, 2002).
+* ''Heidegger and Marcuse: The Catastrophe and Redemption of History'' (Routledge 2005).
+* ''Between Reason and Experience: Essays in Technology and Modernity'' (MIT Press, 2010).
+* ''The Philosophy of Praxis: Marx, Lukács and the Frankfurt School'' (Verso Press, 2014).
+* ''Technosystem: The Social Life of Reason'' (Harvard University Press, 2017).
+* ''The Ruthless Critique of Everything Existing: Nature and Revolution in Marcuse's Philosophy of Praxis'' (Verso Press, 2023).
+
+'''Editor'''
+* w/ [[Robert B. Pippin|R. Pippen]] & C.Webel, ''Marcuse: Critical Theory and the Promise of Utopia'' (Bergin and Garvey Press, 1988)
+* w/ [[Alastair Hannay|A. Hannay]], ''Technology and the Politics of Knowledge'' (Indiana University Press, 1995)
+* w/ T. Misa & P. Brey, ''Modernity and Technology'' (MIT Press, 2003)
+* w/ D. Barney, ''Community in the Digital Age'' (Rowman and Littlefield, 2004).
+* w/ [[William Leiss|W. Leiss]], ''The Essential Marcuse: Selected Writings of Philosopher and Social Critic Herbert Marcuse'' (Beacon Press, 2007).
+<!--
+== Notes ==
+{{Reflist}}-->
+
+== References ==
+*Zachry, Mark (2007). "An Interview with Andrew Feenberg", ''Technical Communication Quarterly'', 16(4).
+
+==Further reading==
+* Tyler Veak (ed). "''Democratizing Technology: Andrew Feenberg's Critical Theory of Technology''. SUNY Press (State University of New York Press), 2006.
+* Ricardo Neder (ed).  "A teoría crítica de Andrew Neder: racionalizacao democrática, poder e tecnología". Brasília: Observatório do Movimento pela Tecnologia Social na América Latina / CDS / UnB / Capes, 2010 .
+* Darrell P. Arnold y Andreas Michel (eds). "Critical Theory and the Thought of Andrew Feenberg". Palgrave MacMillan, 2017.
+
+==External links==
+*[https://www.sfu.ca/~andrewf/ Andrew Feenberg's homepage]
+*[https://web.archive.org/web/20061205020238/http://www-rohan.sdsu.edu/faculty/feenberg/talk4.html From Essentialism to Constructivism: Philosophy of Technology at the Crossroads] online article by Andrew Feenberg discussing [[Martin Heidegger|Heidegger]], [[Jürgen Habermas|Habermas]] and [[Albert Borgmann|Borgmann]].
+*[http://scholar.lib.vt.edu/ejournals/SPT/v9n3/ Techné: Research in Philosophy and Technology Vol 9 No 3] Special Review Section Devoted to Andrew Feenberg's book ''Heidegger and Marcuse: The Catastrophe and Redemption of History''.
+*[http://ubiquity.acm.org/article.cfm?id=1029382 Review of ''Community in the Digital Age''] by Arun Kumar Tripathi (ACM Ubiquity, Volume 5, Issue 28, Sept. 8 - Sept. 14, 2004).
+* [https://www.sfu.ca/~andrewf/VID.htm From Information to Communication: The French Experience with Videotex] online article by Andrew Feenberg discussing [[Minitel]].
+*{{YouTube|-HzJ_Jkqa2Q|Dr. Andrew Feenberg: Ten Paradoxes of Technology - (Video)}} at [[Simon Fraser University]]
+*[https://www.sfu.ca/~andrewf/Feenberg_Jandric.pdf The bursting boiler of digital education: critical pedagogy and philosophy of technology] interview with Petar Jandrić (Knowledge Cultures, 3(5), 132-148, 2015).
+* [http://figureground.org/interview-with-andrew-feenberg-2/ Andrew Feenberg in conversation with Laureano Ralón. Figure/Ground. August 18th, 2010]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Feenberg, Andrew}}
+[[Category:American philosophers of technology]]
+[[Category:Canada Research Chairs]]
+[[Category:Living people]]
+[[Category:Academic staff of Simon Fraser University]]
+[[Category:1943 births]]

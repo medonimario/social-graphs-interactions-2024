@@ -1,0 +1,224 @@
+{{Short description|American political philosopher (1938–2002)}}
+{{Use mdy dates|date=June 2023}}
+{{Infobox philosopher
+| name  = Robert Nozick
+| image = Robert Nozick 1977 Libertarian Review cover.jpg
+| caption =Nozick in 1977
+| birth_date  = {{birth date|1938|11|16}}
+| birth_place = New York City, U.S.
+| death_date  = {{Death date and age|2002|01|23|1938|11|16}}
+| death_place = [[Cambridge, Massachusetts]], U.S.
+| education   = [[Columbia University]] ([[Bachelor of Arts|BA]])<br>[[Princeton University]] ([[Doctor of Philosophy|PhD]])<br>[[Oxford University]]
+| era    = [[20th-century philosophy]]
+| region = [[Western philosophy]]
+| school_tradition = [[Analytic philosophy|Analytic]]<br>[[Libertarianism]]
+| main_interests   = [[Political philosophy]], ethics, [[epistemology]]
+| notable_ideas    = [[Utility monster]], [[experience machine]], [[entitlement theory]] of [[justice]], Nozick's [[Lockean proviso]],<ref>{{cite book|url=https://plato.stanford.edu/archives/sum2018/entries/nozick-political/|title=The Stanford Encyclopedia of Philosophy|first=Eric|last=Mack|chapter=Robert Nozick's Political Philosophy|editor-first=Edward N.|editor-last=Zalta|date=May 30, 2019|publisher=Metaphysics Research Lab, Stanford University|via=Stanford Encyclopedia of Philosophy|access-date=May 30, 2019|archive-date=April 25, 2023|archive-url=https://web.archive.org/web/20230425013249/https://plato.stanford.edu/archives/sum2018/entries/nozick-political/|url-status=live}}</ref> [[Wilt Chamberlain argument]], paradox of [[deontology]],<ref>"How can a concern for the non-violation of ''C'' [i.e. some deontological constraint] lead to refusal to violate ''C'' even when this would prevent other more extensive violations of ''C''?": Robert Nozick, ''Anarchy, State and Utopia'', Basic Books (1974), p. 30 as quoted by Ulrike Heuer, "Paradox of Deontology, Revisited", in: Mark Timmons (ed.), ''Oxford Studies in Normative Ethics''. Oxford University Press (2011).</ref> [[deductive closure]], [[#Epistemology|Nozick's four conditions on knowledge]], rejection of the principle of [[epistemic closure]]
+| doctoral_advisors = [[Carl Gustav Hempel]]
+}}
+{{Libertarianism US|intellectuals}}
+'''Robert Nozick''' ({{IPAc-en|ˈ|n|oʊ|z|ɪ|k}}; November 16, 1938&nbsp;– January 23, 2002) was an American philosopher. He held the Joseph Pellegrino [[Harvard University Professor|University Professorship]] at [[Harvard University]],<ref name=princeton>[https://www.princeton.edu/~tkelly/Nozick.pdf "Robert Nozick, 1938–2002".] {{Webarchive|url=https://web.archive.org/web/20190412103824/https://www.princeton.edu/~tkelly/Nozick.pdf |date=April 12, 2019 }} ''Proceedings and Addresses of the American Philosophical Association'', November 2002: '''76'''(2).</ref> and was president of the [[American Philosophical Association]]. He is best known for his book ''[[Anarchy, State, and Utopia]]'' (1974), a [[libertarianism|libertarian]] answer to [[John Rawls]]' ''[[A Theory of Justice]]'' (1971), in which Nozick proposes his [[minimal state#Philosophy|minimal state]] as the only justifiable form of government. His later work ''[[Philosophical Explanations]]'' (1981) advanced notable epistemological claims, namely his counterfactual theory of knowledge. It won the [[Phi Beta Kappa Society]]'s [[Ralph Waldo Emerson award|Ralph Waldo Emerson Award]] the following year.
+
+Nozick's other work involved ethics, [[decision theory]], [[philosophy of mind]], [[metaphysics]] and [[epistemology]]. His final work before his death, ''[[Invariances]]'' (2001), introduced his theory of evolutionary [[cosmology]], by which he argues invariances, and hence objectivity itself, emerged through evolution across [[possible worlds]].<ref>''Dictionary of Modern American Philosophers'', Volume 1, edited by John R. Shook, Thoemmes Press, 2005, p.1838</ref>
+
+==Personal life==
+Nozick was born in [[Brooklyn]] to a family of [[Jewish]] descent. His mother was born Sophie Cohen, and his father was a Jew from a Russian [[shtetl]] who had been born with the name Cohen and who ran a small business.<ref>{{Cite news|url=https://www.telegraph.co.uk/news/obituaries/1382871/Professor-Robert-Nozick.html|title=Professor Robert Nozick|journal=Daily Telegraph|date=2002|access-date=August 1, 2018|language=en-GB|issn=0307-1235|archive-date=August 2, 2018|archive-url=https://web.archive.org/web/20180802011542/https://www.telegraph.co.uk/news/obituaries/1382871/Professor-Robert-Nozick.html|url-status=live}}</ref>
+
+Nozick attended the public schools in Brooklyn. He was then educated at [[Columbia University]] ([[Bachelor of Arts|A.B.]] 1959, ''[[summa cum laude]]''), where he studied with [[Sidney Morgenbesser]]; [[Princeton University]] (PhD 1963) under [[Carl Hempel]]; and at [[Oxford University]] as a [[Fulbright Scholar]] (1963–1964).
+
+At one point, Nozick joined the [[Young People's Socialist League (1907)|Young People's Socialist League]], and at [[Columbia University]] he founded the local chapter of the [[Student League for Industrial Democracy (1946-1959)|Student League for Industrial Democracy]]. He began to move away from socialist ideals when exposed to [[Friedrich Hayek]]'s ''[[The Constitution of Liberty]]'', claiming he "was pulled into libertarianism reluctantly" when he found himself unable to form satisfactory responses to libertarian arguments.<ref>{{cite web|url=https://www.libertarianism.org/publications/essays/interview-robert-nozick|title=An Interview with Robert Nozick|author=Albert Zlabinger|date=December 1, 1977|website=www.libertarianism.org|publisher=CATO Institute|access-date=December 12, 2023|quote=|archive-date=July 24, 2024|archive-url=https://web.archive.org/web/20240724171509/https://www.libertarianism.org/publications/essays/interview-robert-nozick|url-status=live}}</ref>
+
+After receiving his undergraduate degree in 1959, he married Barbara Fierer. They had two children, Emily and David. The Nozicks eventually divorced; Nozick later married the poet [[Gjertrud Schnackenberg]].
+
+Nozick died in 2002 after a prolonged struggle with [[stomach cancer]].<ref>For biographies, memorials, and obituaries see:
+* {{cite encyclopedia |url=http://www.iep.utm.edu/nozick/ |title=Robert Nozick (1938–2002) |encyclopedia=[[Internet Encyclopedia of Philosophy]] |first=Edward |last=Feser |date=May 4, 2005 |access-date=January 2, 2012 |archive-date=December 10, 2015 |archive-url=https://web.archive.org/web/20151210041935/http://www.iep.utm.edu/nozick/ |url-status=live }}
+* {{cite news |title=Obituary:Professor Robert Nozick |newspaper=[[Daily Telegraph]] |date=January 28, 2002 |url=https://www.telegraph.co.uk/news/obituaries/1382871/Professor-Robert-Nozick.html |access-date=April 17, 2017 |archive-date=August 2, 2018 |archive-url=https://web.archive.org/web/20180802011542/https://www.telegraph.co.uk/news/obituaries/1382871/Professor-Robert-Nozick.html |url-status=live }}
+* {{cite news |title=Obituary: Professor Robert Nozick |url=https://www.independent.co.uk/news/obituaries/professor-robert-nozick-9255897.html |access-date=April 17, 2017 |newspaper=[[The Independent]] |last=Ryan |first=Alan |date=April 12, 2014 |archive-date=October 20, 2017 |archive-url=https://web.archive.org/web/20171020022113/http://www.independent.co.uk/news/obituaries/professor-robert-nozick-9255897.html |url-status=live }}
+* {{cite web |last1=Schaefer |first1=David Lewis |title=Robert Nozick and the Coast of Utopia |url=http://www.nysun.com/arts/robert-nozick-and-the-coast-of-utopia/75572/ |website=The New York Sun |access-date=April 17, 2017 |archive-date=December 22, 2019 |archive-url=https://web.archive.org/web/20191222205626/https://www.nysun.com/arts/robert-nozick-and-the-coast-of-utopia/75572/ |url-status=live }}
+* {{cite news |last1=O'Grady |first1=Jane |title=Robert Nozick: Leftwing political philosopher whose rightward shift set the tone for the Reagan-Thatcher era |url=https://www.theguardian.com/news/2002/jan/26/guardianobituaries.socialsciences |access-date=April 17, 2017 |work=The Guardian |date=February 1, 2007 |quote=correction from original of 26 January 2002 |archive-date=March 31, 2019 |archive-url=https://web.archive.org/web/20190331122337/https://www.theguardian.com/news/2002/jan/26/guardianobituaries.socialsciences |url-status=live }}
+* [https://news.harvard.edu/gazette/story/2002/01/philosopher-robert-nozick-dies-at-63/ Philosopher Nozick dies at 63] From the Harvard Gazette {{webarchive|url=https://web.archive.org/web/20120918001743/http://www.news.harvard.edu/gazette/2002/01.17/99-nozick.html |date=September 18, 2012 }}
+* [http://www.news.harvard.edu/gazette/story/2004/05/robert-nozick/ Robert Nozick Memorial minute] {{webarchive|url=https://web.archive.org/web/20060104225433/http://www.news.harvard.edu/gazette/2004/05.06/18-mm.html |date=January 4, 2006 }}</ref> He was interred at [[Mount Auburn Cemetery]] in [[Cambridge, Massachusetts]].
+
+==Career and works==
+===Political philosophy===
+Nozick's first book, ''[[Anarchy, State, and Utopia]]'' (1974), argues that only a [[Minarchism|minimal]] state limited to the functions of protection against "force, fraud, theft, and administering courts of law" can be justified, as any more extensive state would violate people's individual rights.<ref>{{Cite web|url=https://www.iep.utm.edu/nozick/|title=Robert Nozick (1938—2002)|last=Feser|first=Edward|website=Internet Encyclopedia of Philosophy|access-date=March 13, 2017|archive-date=February 26, 2017|archive-url=https://web.archive.org/web/20170226230306/http://www.iep.utm.edu/nozick/|url-status=live}}</ref>
+
+Nozick believed that a distribution of goods is just when brought about by [[Free market|free exchange]] among consenting adults, trading from a baseline position where the principles of [[entitlement theory]] are upheld. In one example, Nozick uses the example of basketball player [[Wilt Chamberlain#Star status|Wilt Chamberlain]] to show that even when large [[Economic inequality|inequalities]] subsequently emerge from the processes of free transfer (i.e. paying extra money just to watch Wilt Chamberlain play), the resulting distributions are just so long as all consenting parties have freely consented to such exchanges.
+
+''Anarchy, State, and Utopia'' is often contrasted to [[John Rawls]]'s ''[[A Theory of Justice]]'' in popular academic discourse, as it challenged the partial conclusion of Rawls's [[difference principle]], that "social and economic inequalities are to be arranged so that they are to be of greatest benefit to the least-advantaged members of society".
+
+Nozick's philosophy also claims a heritage from [[John Locke]]'s ''[[Two Treatises of Government#Second Treatise|Second Treatise on Government]]'' and seeks to ground itself upon a [[natural law]] doctrine, but breaks distinctly with Locke on issues of self-ownership by attempting to [[secularize]] its claims. Nozick also appealed to the second formulation of [[Immanuel Kant]]'s [[categorical imperative]]: that people should be treated as an end in themselves, not merely as a means to an end. Nozick terms this the 'separateness of persons', saying that "there is no social entity...there are only individual people", and that we ought to "respect and take account of the fact that [each individual] is a separate person".<ref>{{Cite book|last1=Nozick|first1=Robert|title=Anarchy, State, and Utopia|pages=32–33|year=1974|publisher=Basic Books}}</ref>
+
+Most controversially, Nozick argued that consistent application of libertarian self-ownership would allow for consensual, non-coercive [[enslavement]] contracts between adults. He rejected the notion of [[inalienable rights]] advanced by Locke and most contemporary capitalist-oriented libertarian academics, writing in ''Anarchy, State, and Utopia'' that the typical notion of a "free system" would allow individuals to voluntarily enter into non-coercive [[voluntary slavery|slave contracts]].<ref>{{cite journal|last1=Ellerman|first1=David|title=''Translatio'' versus ''Concessio'': Retrieving the Debate about Contracts of Alienation with an Application to Today's Employment Contract|journal=Politics & Society|date=September 2005|volume=35|issue=3|pages=449–80|doi=10.1177/0032329205278463|url=http://ellerman.org/Davids-Stuff/Econ%26Pol-Econ/translatio-v-concessio-P-and-S-final.pdf|access-date=April 17, 2017|publisher=Sage Publications|s2cid=158624143|archive-date=April 7, 2020|archive-url=https://web.archive.org/web/20200407033223/http://ellerman.org/Davids-Stuff/Econ%26Pol-Econ/translatio-v-concessio-P-and-S-final.pdf|url-status=live}}</ref><ref>[http://www.missouri.edu/~philrnj/nozick.html A summary of the political philosophy of Robert Nozick] by R. N. Johnson {{webarchive|url=https://web.archive.org/web/20020204113921/http://www.missouri.edu/~philrnj/nozick.html |date=February 4, 2002 }}</ref><ref>Jonathan Wolff (October 25, 2007). [http://world.std.com/~mhuben/wolff_2.html "Robert Nozick, Libertarianism, And Utopia"] {{Webarchive|url=https://web.archive.org/web/20191006100631/http://world.std.com/~mhuben/wolff_2.html |date=October 6, 2019 }}</ref><ref>[https://web.archive.org/web/20060202010501/http://www.warwick.ac.uk/staff/S.L.Hurley/papers/antnpdd.pdf Nozick on Newcomb's Problem and Prisoners' Dilemma] by S. L. Hurley {{webarchive|url=https://web.archive.org/web/20050301231331/http://warwick.ac.uk/staff/S.L.Hurley/papers/antnpdd.pdf |date=March 1, 2005 }}</ref>
+
+''Anarchy, State, and Utopia'' received a [[National Book Award]] in the [[List of winners of the National Book Award#Science, Philosophy and Religion|category of Philosophy and Religion]] in the year following its original publication.<ref name=nba1975>
+[http://www.nationalbook.org/nba1975.html "National Book Awards – 1975 {{webarchive|url=https://web.archive.org/web/20110909065656/http://www.nationalbook.org/nba1975.html |date=September 9, 2011 }}. [[National Book Foundation]]. Retrieved March 8, 2012.</ref>
+
+===Thought experiments regarding utilitarianism===
+
+Early sections of ''Anarchy, State, and Utopia'', akin to the introduction of ''A Theory of Justice'', see Nozick implicitly join Rawls's attempts to discredit [[utilitarianism]]. Nozick's case differs somewhat in that it mainly targets [[hedonism]] and relies on a variety of thought experiments, although both works draw from Kantian principles.
+
+Most famously, Nozick introduced the [[experience machine]] in an attempt to show that [[ethical hedonism]] is not truly what individuals desire, nor what we ought to desire:
+
+{{Blockquote
+|text=There are also substantial puzzles when we ask what matters other than how people's experiences feel "from the inside." Suppose there were an experience machine that would give you any experience you desired. Superduper neuropsychologists could stimulate your brain so that you would think and feel you were writing a great novel, or making a friend, or reading an interesting book. All the time you would be floating in a tank, with electrodes attached to your brain. Should you plug into this machine for life, preprogramming your life's experiences?<ref>{{Cite book|last1=Nozick|first1=Robert|title=Anarchy, State, and Utopia|pages=42–43|year=1974|publisher=Basic Books}}</ref>
+}}
+
+Nozick claims that life in an experience machine would have no value, and provides several explanations as to why this might be, including (but not limited to): the want to do certain things, and not just have the experience of doing them; the want to actually become a certain sort of person; and that plugging into an experience machine limits us to a man-made reality.
+
+Another thought experiment Nozick proposes is the [[utility monster]], designed to show that [[average utilitarianism]] could lead to a situation where the needs of the vast majority were sacrificed for one individual. In his exploration of deontological ethics and animal rights, Nozick coins the phrase "utilitarianism for animals, Kantianism for people", wherein the separateness of individual humans is acknowledged but the only moral metric assigned to animals is that of maximising pleasure:
+
+{{Blockquote
+|text=[Utilitarianism for animals, Kantianism for people] says: (1) maximize the total happiness of all living beings; (2) place stringent side constraints on what one may do to human beings.<ref>{{Cite book|last1=Nozick|first1=Robert|title=Anarchy, State, and Utopia|page=39|year=1974|publisher=Basic Books}}</ref>
+}}
+
+Before introducing the utility monster, Nozick raises a hypothetical scenario where someone might, "by some strange causal connection", kill 10,000 unowned cows to die painlessly by snapping their fingers, asking whether it would be morally wrong to do so.<ref>{{Cite book|last1=Nozick|first1=Robert|title=Anarchy, State, and Utopia|page=36|year=1974|publisher=Basic Books}}</ref> On the calculus of pleasure that "utilitarianism for animals, Kantianism for people" uses, assuming the death of these cows could be used to provide pleasure for humans in some way, then the (painless) deaths of the cows would be morally permissible as it has no negative impact upon the utilitarian equation. 
+ 
+Nozick later explicitly raises the example of utility monsters to "embarrass [utilitarian theory]": since humans benefit from the mass sacrifice and consumption of animals, and also possess the ability to kill them painlessly (i.e., without any negative effect on the utilitarian calculation of net pleasure), it is permissible humans to maximise their consumption of meat so long as they derive pleasure from it. Nozick takes issue with this as it makes animals "too subordinate" to humans, counter to his view that animals ought to "count for something"<ref>{{Cite book|last1=Nozick|first1=Robert|title=Anarchy, State, and Utopia|pages=35–42|year=1974|publisher=Basic Books}}</ref>{{ref|vegetarian|a}}.
+
+===Epistemology===
+In ''[[Philosophical Explanations]]'' (1981), Nozick provided novel accounts of [[knowledge]], [[free will]], [[personal identity]], the nature of [[Value (personal and cultural)|value]], and the meaning of life. He also put forward an epistemological system which attempted to deal with both the [[Gettier problem]] and those posed by [[skepticism]]. This highly influential argument eschewed [[Theory of justification|justification]] as a necessary requirement for knowledge.<ref name=Schmidtz>{{cite book |author=Schmidtz, David |title=Robert Nozick |publisher=Cambridge University Press |location=Cambridge, UK |year=2002 |isbn=0-521-00671-6 }}</ref>{{rp|ch. 7}}
+
+Nozick gives four conditions for S's knowing that P (S=Subject / P=Proposition):
+
+# P is true
+# S believes that P
+# If it were the case that (not-P), S would not believe that P
+# If it were the case that P, S would believe that P
+
+Nozick's third and fourth conditions are [[counterfactuals]]. He called this the "tracking theory" of knowledge. Nozick believed the counterfactual conditionals bring out an important aspect of our intuitive grasp of knowledge: For any given fact, the believer's method (M) must reliably track the truth despite varying relevant conditions. In this way, Nozick's theory is similar to [[reliabilism]]. Due to certain counterexamples that could otherwise be raised against these counterfactual conditions, Nozick specified that:
+
+<ol start="3">
+<li>If P weren't the case and S were to use M to arrive at a belief whether or not P, then S wouldn't believe, via M, that P.</li>
+<li>If P were the case and S were to use M to arrive at a belief whether or not P, then S would believe, via M, that P.</li><ref>Keith Derose, Solving the Skeptical Problem</ref>
+</ol>
+
+A major feature of Nozick's theory of knowledge is his rejection of the  [[Deductive closure|principle of deductive closure]].  This principle states that if S knows X and S knows that X implies Y, then S knows Y.  Nozick's truth tracking conditions do not allow for the principle of deductive closure.
+
+===Later works===
+
+''[[The Examined Life]]'' (1989), aimed towards a more general audience, explores themes of love, the impact of death, questions of faith, the nature of reality, and the meaning of life. The book takes its name from the quote by [[Socrates]], that "the unexamined life is not worth living". In it, Nozick attempts to find meaning in everyday experiences, and considers how we might come to feel "more real".<ref>Nozick, Robert (1989). ''The Examined Life: Philosophical Meditations'', p.7-8, p.15. Simon & Schuster. {{ISBN|978-0-671-72501-3}}</ref> In this pursuit, Nozick discusses the death of his father, reappraises the experience machine, and proposes "the matrix of reality" as a means of understanding how individuals might better connect with reality in their own lives.<ref>Nozick, Robert (1989). ''The Examined Life: Philosophical Meditations'', p.182-183. Simon & Schuster. {{ISBN|978-0-671-72501-3}}</ref>
+
+''[[The Nature of Rationality]]'' (1993) presents a theory of practical reason that attempts to embellish classical decision theory. In this work, Nozick grapples with [[Newcomb's problem]] and the [[Prisoner's Dilemma]], and introduces the concept of symbolic utility to explain how actions might symbolize certain ideas, rather than being carried out to maximize expected utility in the future.
+
+''[[Socratic Puzzles]]'' (1997) is a collection of Nozick's previous papers alongside some new essays. While the discussions are quite disparate, the essays generally draw from Nozick's previous interests in both politics and philosophy. Notably, this includes Nozick's 1983 review of ''[[The Case for Animal Rights]]'' by [[Tom Regan]], where says animal rights activists are often considered "cranks" and appears to go back on the vegetarian position he previously maintained in ''Anarchy, State and Utopia''.<ref>Nozick, Robert (1989). ''Socratic Puzzles'', p.280-285. Harvard University Press.</ref><ref>{{cite news|author=<!--not stated-->|date=18 December 1983|title=Animal Rights|url=https://www.nytimes.com/1983/12/18/books/l-animal-rights-098012.html|work=The New York Times|location=|access-date=|archive-date=December 14, 2023|archive-url=https://web.archive.org/web/20231214132226/https://www.nytimes.com/1983/12/18/books/l-animal-rights-098012.html|url-status=live}}</ref>
+
+Nozick's final work, ''[[Invariances]]'' (2001), applies insights from physics and biology to questions of [[Objectivity (philosophy)|objectivity]] in such areas as the nature of necessity and [[Goodness and value theory|moral value]]. Nozick introduces his theory of truth, in which he leans towards a [[deflationary theory of truth]], but argues that [[Objectivity (philosophy)|objectivity]] arises through being invariant under various transformations. For example, space-time is a significant objective fact because an interval involving both temporal and spatial separation is invariant, whereas no simpler interval involving only temporal or only spatial separation is invariant under [[Lorentz transformations]]. Nozick argues that invariances, and hence objectivity itself, emerged through a theory of evolutionary cosmology across [[possible worlds]].<ref>Dictionary of Modern American Philosophers, Volume 1, edited by John R. Shook, A&C Black, 2005, p.1838</ref>
+
+===Later reflections on libertarianism===
+
+Nozick pronounced some misgivings about libertarianism – specifically his own work ''Anarchy, State and Utopia'' – in his later publications. Some later editions of ''The Examined Life'' advertise this fact explicitly in the blurb, saying Nozick "refutes his earlier claims of libertarianism" in one of the book's essays, "The Zigzag of Politics". In the introduction of ''The Examined Life'', Nozick says his earlier works on political philosophy "now [seem] seriously inadequate", and later repeats this claim in the first chapter of ''The Nature of Rationality''.<ref>Nozick, Robert (1989). ''The Examined Life: Philosophical Meditations'', p.17. Simon & Schuster. {{ISBN|978-0-671-72501-3}}</ref><ref>Nozick, Robert (1989). ''The Nature of Rationality'', p.32. Princeton University Press. {{ISBN|0-691-02096-5}}</ref>
+
+In these works, Nozick also praised political ideals which ran contrary to the arguments canvassed in ''Anarchy, State and Utopia''. In ''The Examined Life'', Nozick proposes wealth redistribution via an [[inheritance tax]] and upholds the value of [[liberal democracy]].<ref>Nozick, Robert (1989). ''The Examined Life: Philosophical Meditations'', p.28-32. Simon & Schuster. {{ISBN|978-0-671-72501-3}}</ref> In ''The Nature of Rationality'', Nozick calls [[truth]] a [[primary goods|primary good]], explicitly appropriating Rawls' ''A Theory of Justice''.<ref>Nozick, Robert (1989). ''The Nature of Rationality'', p.68. Princeton University Press. {{ISBN|0-691-02096-5}}</ref> In the same work, however, Nozick implies that [[minimum wage]] laws are unjust{{ref|min wage|b}}, and later denigrates [[Marxism]] before vindicating capitalism, making reference to [[Adam Smith]]'s ''[[The Wealth of Nations]]''.<ref>Nozick, Robert (1989). ''The Nature of Rationality'', p.27, p.130-131. Princeton University Press. {{ISBN|0-691-02096-5}}</ref>
+
+Nozick also broke away from libertarian principles in his own personal life, invoking rent control laws against [[Erich Segal]] – who was at one point Nozick's landlord – and winning over $30,000 in a settlement. Nozick later claimed to regret doing this, saying he was moved by "intense irritation" with Segal and his legal representatives at the time, and was quoted in an interview saying "sometimes you have to do what you have to do".<ref>{{cite web|url=https://www.juliansanchez.com/2003/04/08/nozicks-apartment/|title=Nozick's Apartment|last=Sanchez|first=Julian|date=April 8, 2003|access-date=December 14, 2023|archive-date=December 14, 2023|archive-url=https://web.archive.org/web/20231214134549/https://www.juliansanchez.com/2003/04/08/nozicks-apartment/|url-status=live}}</ref>
+
+Some of Nozick's later works seem to endorse libertarian principles. In ''Invariances'', Nozick advances the "four layers of ethics", which at its core maintains an explicitly libertarian underpinning.<ref>Nozick, Robert (2001). ''Invariances'', p.280-282. Harvard University Press</ref> In ''Socratic Puzzles'', Nozick republished some of his old essays with a libertarian grounding, such as "Coercion" and "On The Randian Argument", alongside new essays such as "On Austrian Methodology" and "Why Do Intellectuals Oppose Capitalism?". However, Nozick does allude to some continued reservations about libertarianism in its introduction, saying that "it is disconcerting to be known primarily for an early work".<ref>Nozick, Robert (1989). ''Socratic Puzzles'', p.17. Harvard University Press.</ref>
+
+Scholars and journalists have since debated what Nozick's true political position was before the end of his life.<ref>{{Cite book|title = Leaving Libertarianism: Social Ties in Robert Nozick's New Philosophy|last = Herbjørnsrud|first = Dag|publisher = University of Oslo|year = 2002|location = Oslo, Norway|url = https://www.duo.uio.no/handle/10852/25070|access-date = October 12, 2015|archive-date = April 25, 2023|archive-url = https://web.archive.org/web/20230425013250/https://www.duo.uio.no/handle/10852/25070|url-status = live}}</ref> Writing for [[Slate magazine|Slate]], [[Stephen Metcalf (writer)|Stephen Metcalf]] notes one of Nozick's core claims in ''The Examined Life'', that actions done through government serve as markers of "our human solidarity". Metcalf then postulates that Nozick felt this was threatened by [[neoliberal]] politics.<ref name=Metcalf>{{cite web|last1=Metcalf|first1=Stephen|title=The Liberty Scam: Why even Robert Nozick, the philosophical father of libertarianism, gave up on the movement he inspired|url=http://www.slate.com/articles/arts/the_dilettante/2011/06/the_liberty_scam.html|website=slate.com|access-date=April 17, 2017|date=June 24, 2011|archive-date=October 9, 2018|archive-url=https://web.archive.org/web/20181009153316/http://www.slate.com/articles/arts/the_dilettante/2011/06/the_liberty_scam.html|url-status=live}}</ref> Libertarian journalist [[Julian Sanchez (writer)|Julian Sanchez]], who interviewed Nozick shortly before his death, claims that Nozick "always thought of himself as a libertarian in a broad sense, right up to his final days, even as his views became somewhat less 'hardcore'".<ref>[[Julian Sanchez (writer)|Julian Sanchez]], [http://www.juliansanchez.com/2011/06/21/nozick-libertarianism-and-thought-experiments/ "Nozick, Libertarianism, and Thought Experiments"] {{Webarchive|url=https://web.archive.org/web/20190617085427/http://www.juliansanchez.com/2011/06/21/nozick-libertarianism-and-thought-experiments/ |date=June 17, 2019 }}.</ref>
+
+===Philosophical method===
+Nozick was sometimes admired for the exploratory style of his philosophizing, often content to raise tantalizing philosophical possibilities and then leave judgment to the reader. In his review of ''The Nature of Rationality'', [[Anthony Gottlieb]] praised this style, noting its place in Nozick's approach to writing philosophy:
+
+{{Blockquote
+|text="From Mr. Nozick you always expect fireworks, even if some of them go off in their box...Start pondering a sentence and you will find yourself led away prematurely by a parenthetical question; think about the question and you will be dragged into a discursive footnote...Yet it is worth the effort – certainly for regular readers of philosophy, and often for others."<ref>{{Cite news|url=https://www.nytimes.com/1993/08/22/books/why-do-you-do-the-things-you-do.html|title=Why Do You Do the Things You Do?|last=Gottlieb|first=Anthony |work=The New York Review of Books|date=August 22, 1993 |access-date=March 8, 2024|language=en-US}}</ref>}}
+
+[[Jason Brennan]] has related this point to Nozick's "surprising amount of humility, at least in his writings". Brennan makes a point of showing how this enabled Nozick to reach surprising conclusions while also drawing attention to one of Nozick's more famous quotes which also made the headline of his [[obituary]] in ''[[The Economist]]'', that "there is room for words on subjects other than last words".<ref>{{Cite web|url=https://bleedingheartlibertarians.com/2011/06/nozick-on-philosophical-explorations-there-is-room-for-words-other-than-last-words/|title=Nozick on Philosophical Explorations: There is Room for Words other than Last Words|last=Brennan|first=Jason|work=Bleeding Heart Libertarians|date=June 29, 2011|access-date=March 8, 2024|language=en-US|archive-date=July 24, 2024|archive-url=https://web.archive.org/web/20240724171511/https://bleedingheartlibertarians.com/2011/06/nozick-on-philosophical-explorations-there-is-room-for-words-other-than-last-words/|url-status=live}}</ref><ref>{{Cite news|url=https://www.economist.com/books-and-arts/2002/01/31/not-all-words-need-be-last-words|title=Not all words need be last words|newspaper=The Economist|access-date=March 8, 2024|language=en-US|archive-date=March 8, 2024|archive-url=https://web.archive.org/web/20240308182017/https://www.economist.com/books-and-arts/2002/01/31/not-all-words-need-be-last-words|url-status=live}}</ref>
+
+Nozick was also notable for drawing from literature outside of philosophy, namely [[economics]], [[physics]], [[evolutionary biology]], [[decision theory]], [[anthropology]], and [[computer science]], amongst other disciplines.<ref>Ibid.</ref><ref>{{Cite news|url=https://www.nybooks.com/articles/1982/02/18/cosmic-philosopher/|title=Cosmic Philosopher|last=Williams|first=Bernard|work=The New York Review of Books|access-date=August 1, 2018|language=en-US|archive-date=August 2, 2018|archive-url=https://web.archive.org/web/20180802011421/https://www.nybooks.com/articles/1982/02/18/cosmic-philosopher/|url-status=live}}</ref>
+
+== In popular culture ==
+In the [[Bust Out|23rd episode]] of HBO's show ''[[The Sopranos]]'', an eyewitness to one of Tony Soprano's crimes is seen at home reading ''[[Anarchy, State, and Utopia]]'', by Robert Nozick. [[Dani Rodrik]] uses [[Bo Rothstein]]'s view to point out that the TV show runners take a position in the debate by how they showed the eyewitness reacting to finding out the man they pointed out as the culprit of the crime he saw was actually the local mafia boss, immediately after the book appears on screen.<ref>{{Cite web |last=Rodrik |first=Dani |date=2009-09-05 |title=Tony Soprano and Robert Nozick |url=https://rodrik.typepad.com/dani_rodriks_weblog/2009/05/tony-soprano-and-robert-nozick-3.html |access-date= |website=Dani Rodrik's weblog |archive-date=December 7, 2023 |archive-url=https://web.archive.org/web/20231207182407/https://rodrik.typepad.com/dani_rodriks_weblog/2009/05/tony-soprano-and-robert-nozick-3.html |url-status=live }}</ref>
+
+==Bibliography==
+* ''[[Anarchy, State, and Utopia]]'' (1974) {{ISBN|0-631-19780-X}}
+* ''[[Philosophical Explanations]]'' (1981) {{ISBN|0-19-824672-2}}
+* ''[[The Examined Life]]'' (1989) {{ISBN|0-671-72501-7}}
+* ''[[The Nature of Rationality]]'' (1993/1995) {{ISBN|0-691-02096-5}}
+* ''[[Socratic Puzzles]]'' (1997) {{ISBN|0-674-81653-6}}
+* ''[[Invariances|Invariances: The Structure of the Objective World]]'' (2001/2003) {{ISBN|0-674-01245-3}}
+
+==See also==
+{{Portal|Conservatism|Libertarianism|Philosophy}}
+* [[American philosophy]]
+* [[Classical liberalism]]
+* [[List of American philosophers]]
+* [[List of liberal theorists]]
+* ''[[A Theory of Justice: The Musical!]]'' – in which a fictional Nozick is one of the characters
+
+==Notes==
+{{Ibid|date=October 2024}}
+:a.{{note|vegetarian}}Nozick's discussion of animal rights pre-dates [[Peter Singer]]'s more comprehensive [[Animal Liberation (book)|Animal Liberation]]. Singer's utilitarian position on animal rights was known to Nozick at the time, however, and he expresses misgivings about this in Chapter 3 (footnote 11) of ''Anarchy, State and Utopia''.
+:b.{{note|min wage|}}From p.27 of ''The Nature of Rationality'': "On these grounds, one might claim that certain antidrug enforcement measures ''symbolize'' reducing the amount of drug use and that minimum wage laws ''symbolize'' helping the poor"
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+{{refbegin|40em}}
+* {{cite book|last=Cohen|first=G. A.|title=Self-Ownership, Freedom, and Equality|year=1995|publisher=Cambridge University Press|location=Cambridge|isbn=978-0521471749|pages=19–37|author-link=Gerald Cohen|chapter= Robert Nozick and Wilt Chamberlain: How Patterns Preserve Liberty |oclc=612482692}}
+* Frankel Paul, Ellen; Fred D. Miller, Jr. and Jeffrey Paul (eds.), (2004) ''Natural Rights Liberalism from Locke to Nozick'', [[Cambridge University Press]], {{ISBN|0521615143}}
+* {{cite encyclopedia |last=Frankel Paul |first=Ellen |editor-first=Ronald |editor-last=Hamowy |editor-link=Ronald Hamowy |encyclopedia=The Encyclopedia of Libertarianism |url=https://books.google.com/books?id=yxNgXs3TkJYC |year=2008 |publisher=[[SAGE Publications]], [[Cato Institute]] |location=Thousand Oaks, CA |doi=10.4135/9781412965811.n220 |isbn=978-1412965804 |oclc=750831024 |lccn=2008009151 |pages=360–62 |title=Nozick, Robert (1938–2002) |access-date=January 7, 2016 |archive-date=January 9, 2023 |archive-url=https://web.archive.org/web/20230109234738/https://books.google.com/books?id=yxNgXs3TkJYC |url-status=live }}
+* [[Mack, Eric]] (2014) [http://plato.stanford.edu/entries/nozick-political/ Robert Nozick's Political Philosophy] {{Webarchive|url=https://web.archive.org/web/20150712193208/http://plato.stanford.edu/entries/nozick-political/ |date=July 12, 2015 }}, [[Stanford Encyclopedia of Philosophy]], June 22, 2014.
+* Robinson, Dave & Groves, Judy (2003). ''Introducing Political Philosophy''. Icon Books. {{ISBN|184046450X}}.
+* Schaefer, David Lewis (2008) [http://www.nysun.com/sports/reconsiderations-robert-nozick-and-coast-utopia Robert Nozick and the Coast of Utopia] {{Webarchive|url=https://web.archive.org/web/20140821170556/http://www.nysun.com/sports/reconsiderations-robert-nozick-and-coast-utopia |date=August 21, 2014 }}, [[The New York Sun]], April 30, 2008.
+* Wolff, Jonathan (1991), ''Robert Nozick: Property, Justice, and the Minimal State.'' Polity Press. {{ISBN|978-0745680453}}
+{{refend}}
+
+==External links==
+{{wikiquote}}
+* {{Find a Grave|42435235}}
+* [http://www.iep.utm.edu/noz-poli/ Robert Nozick: Political Philosophy] – overview of Nozick in the ''[[Internet Encyclopedia of Philosophy]]''
+
+{{epistemology}}
+{{Libertarianism}}
+{{Political philosophy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nozick, Robert}}
+[[Category:1938 births]]
+[[Category:2002 deaths]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:21st-century American philosophers]]
+[[Category:American anti-communists]]
+[[Category:American ethicists]]
+[[Category:American libertarians]]
+[[Category:American logicians]]
+[[Category:American male non-fiction writers]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:American political philosophers]]
+[[Category:American political writers]]
+[[Category:Analytic philosophers]]
+[[Category:Burials at Mount Auburn Cemetery]]
+[[Category:Center for Advanced Study in the Behavioral Sciences fellows]]
+[[Category:Columbia College (New York) alumni]]
+[[Category:Corresponding fellows of the British Academy]]
+[[Category:Critical theorists]]
+[[Category:Critics of Marxism]]
+[[Category:Deaths from cancer in Massachusetts]]
+[[Category:Deaths from stomach cancer in the United States]]
+[[Category:American epistemologists]]
+[[Category:Harvard University Department of Philosophy faculty]]
+[[Category:Jewish American non-fiction writers]]
+[[Category:Jewish philosophers]]
+[[Category:Kantian philosophers]]
+[[Category:Libertarian theorists]]
+[[Category:Mathematicians from New York (state)]]
+[[Category:American metaphysicians]]
+[[Category:National Book Award winners]]
+[[Category:People from Belmont, Massachusetts]]
+[[Category:Philosophers of economics]]
+[[Category:American philosophers of law]]
+[[Category:American philosophers of mind]]
+[[Category:Philosophy of Robert Nozick| ]]
+[[Category:Presidents of the American Philosophical Association]]
+[[Category:Princeton University alumni]]
+[[Category:Right-libertarianism]]
+[[Category:American social philosophers]]
+[[Category:Writers from Brooklyn]]
+[[Category:Natural law ethicists]]

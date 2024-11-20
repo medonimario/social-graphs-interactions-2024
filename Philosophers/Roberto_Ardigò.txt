@@ -1,0 +1,86 @@
+{{Short description|Italian philosopher (1828-1920)}}
+{{More citations needed|date=June 2008}}
+[[File:Roberto Ardigò.jpg|thumb|200px|Roberto Ardigò]]
+'''Roberto Felice Ardigò''' (28 January 1828 – 15 September 1920) was an [[Italian people|Italian]] philosopher. He was an influential leader of Italian [[positivism]] and a former [[Roman Catholic]] [[priest]].
+
+== Biography ==
+Ardigò was born in [[Casteldidone]], in what is now the [[province of Cremona]], in [[Lombardy]], and trained for the priesthood. He resigned from the Church in 1871 after abandoning theology and faith in 1869. He was appointed as a professor of theology at the [[University of Padua]] in 1881, at a time when a reaction to idealism had taken place in philosophical circles.
+
+Ardigò's "positive philosophy" was a synthesis of various philosophical and scientific theories, including positivism, evolutionism, and spiritualism. He also held controversial beliefs that women are subordinate to men and that homosexuality is a mental disorder. 
+
+Inspired by [[Auguste Comte]], Ardigò differed from Comte in that he considered thought more important than matter and insisted on psychological disquisition. He believed thought was dominant in every action and the result of every action, and that it disappears only in a state of general corruption.
+
+He died by suicide at [[Mantua]] in 1920, at the age of 92.
+
+==Works==
+[[File:Roberto Ardigò – Discorso sulla difesa dalla inondazione, 1874 - BEIC 6280257.tif|thumb|''Discorso sulla difesa dalla inondazione'' (1874)]]
+
+* {{cite book
+	| date = 1870
+	| title = La psicologia come scienza positiva
+	| trans-title = Psychology as a Positive Science
+	| location = Mantua
+	| publisher = Viviano Guastalla
+	| url = https://books.google.com/books?id=k3VcaNmf6mYC
+}}
+* {{cite book
+	| date = 1879
+	| title = La morale dei positivisti
+	| trans-title = The Moral of the Positivists
+	| location = Milan
+	| publisher = Natale Battezzati
+	| url = https://books.google.com/books?id=0PSCWCJw6ioC
+}}
+* {{Cite book|publisher= Stabilimento tipografico Mondovì|title= Discorso sulla difesa dalla inondazione|place=Mantova|year= 1874|url= https://gutenberg.beic.it/webclient/DeliveryManager?pid=6280257}}
+
+==Further reading==
+* {{DBI|first=Alessandro|last=Bortone|title=ARDIGÒ, Roberto|volume=4|url=https://www.treccani.it/enciclopedia/roberto-ardigo_(Dizionario-Biografico)}}
+* {{cite encyclopedia
+ |title= Ardigò, Roberto (1828–1920)
+ |encyclopedia= [[Encyclopedia of Philosophy]]
+ |volume= I
+ |translator= Nino F. Langiulli
+ |year= 1967
+ |last= Abbagnano
+ |first= Nicola
+ |publisher= Collier-Macmillan
+ |location= New York-London
+ |pp= 146-147
+ |url= https://www.encyclopedia.com/history/historians-and-chronicles/historians-miscellaneous-biographies/roberto-ardigo
+ |access-date= 31 July 2024
+}}
+* {{Cite book|last1=Rosselli|first1=Carlo|last2=Urbinati|first2=Nadia|year=2017|title=Liberal Socialism|publisher=[[Princeton University Press]]|p=51|ISBN=978-1400887309}}
+
+== References ==
+<references />
+
+==External links== 
+{{Wikisource author}}
+* {{cite encyclopedia
+ |title= Ardigò, Roberto
+ |encyclopedia= Il Contributo italiano alla storia del Pensiero: Filosofia
+ |year= 2012
+ |last= Savorelli
+ |first= Alessandro
+ |publisher= [[Istituto dell'Enciclopedia Italiana]]
+ |location= Rome
+ |id= 
+ |url= https://www.treccani.it/enciclopedia/roberto-ardigo_(Il-Contributo-italiano-alla-storia-del-Pensiero:-Filosofia)
+ |access-date= 31 July 2024
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ardigo}}
+[[Category:19th-century Italian philosophers]]
+[[Category:1828 births]]
+[[Category:1920 suicides]]
+[[Category:Clergy from the Province of Cremona]]
+[[Category:Italian republicans]]
+[[Category:19th-century Italian Roman Catholic priests]]
+[[Category:Academic staff of the University of Padua]]
+[[Category:Writers from the Province of Cremona]]
+[[Category:1920 deaths]]
+
+
+{{italy-philosopher-stub}}

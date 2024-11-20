@@ -1,0 +1,30 @@
+{{short description|Italian philosopher (1881-1964)}}
+{{Expand Italian|topic=bio|Antonio Aliotta|date=February 2011}}
+'''Antonio Aliotta''' (18 January 1881 – 1 February 1964) was an Italian philosopher.
+
+He was born in [[Palermo]] and studied philosophy at the [[University of Florence]], graduating in 1903. His initial work was in experimental psychology. In 1912 he won the Paladin prize for his work, ''La reazione idealistica contro la scienza''.<ref name=poli1997/> He became professor of theoretical philosophy at the [[University of Padua]] from 1913 to 1919, then served as a professor at the [[University of Naples]] until 1951.<ref name=brown_collinson1996/>
+
+Aliotta died in [[Naples]].
+
+==References==
+{{reflist|refs=
+
+<ref name=brown_collinson1996>{{cite book |author1=Brown, Stuart C. |author2=Collinson, Diané | page=18 | title=Biographical dictionary of twentieth-century philosophers | series=World Reference Series |editor=Robert Wilkinson | publisher=Taylor & Francis | year=1996 | isbn=0-415-06043-5 }}</ref>
+
+<ref name=poli1997>{{cite book | first=Roberto | last=Poli | title=In itinere: European cities and the birth of modern scientific philosophy | page=197 | volume=54 | series=Poznań studies in the philosophy of the sciences and the humanities | publisher=Rodopi | year=1997 | isbn=90-420-0201-8 }}</ref>
+
+}}
+
+==External links==
+* {{Internet Archive author |sname=Antonio Aliotta}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Aliotta, Antonio}}
+[[Category:1881 births]]
+[[Category:1964 deaths]]
+[[Category:People from Salerno]]
+[[Category:20th-century Italian philosophers]]
+[[Category:University of Florence alumni]]
+[[Category:Academic staff of the University of Padua]]
+[[Category:Academic staff of the University of Naples Federico II]]

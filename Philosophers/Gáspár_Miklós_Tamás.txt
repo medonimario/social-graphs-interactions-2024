@@ -1,0 +1,107 @@
+{{Short description|Hungarian philosopher (1948–2023)}}
+{{Expand Hungarian|topic=bio|Tamás Gáspár Miklós|date=February 2016}}
+{{Use dmy dates|date=June 2023}}
+{{Infobox philosopher
+ |region           = [[Western philosophy]]
+ |era              = [[21st-century philosophy]]
+ |name             = Gáspár Miklós Tamás
+ |image            = Tamás Gáspár Miklós (cropped).jpg
+ |birth_date       = {{birth date|1948|11|28|df=y}}
+ |birth_place      = [[Cluj]], [[Socialist Republic of Romania|Romania]]
+ |education        = [[Babeș-Bolyai University]]
+ |death_date       = {{death date and age|2023|01|15|1948|11|28|df=y}}
+ |death_place      = [[Budapest]], [[Hungary]]
+ |nationality      = Romanian<br>Hungarian
+ |school_tradition = [[Continental philosophy]]
+ |main_interests   = [[Political theory]]
+ |notable_ideas    = Post-fascism
+ |signature        = [[File:TGM név.png|250px]]
+|}}
+
+'''Gáspár Miklós Tamás''' (''G. M. Tamás''; {{langx|hu|Tamás Gáspár Miklós}}; 28 November 1948 – 15 January 2023), often referred to as '''TGM''',<ref>{{Cite journal |last1=Dale |first1=Gareth |title=In memoriam: Gáspár Miklós Tamás |journal=Journal of Contemporary Central and Eastern Europe |volume=31 |issue=1 |pages=1–13 |date=2023 |language=en |doi=10.1080/25739638.2023.2188385 |doi-access=free |issn=2573-9638 }}</ref> was a Romanian-born Hungarian political philosopher and public intellectual, influenced by [[Marxism]] and [[libertarian socialism]]. He was a contributor to online newspaper ''Mérce'' and to ''[[OpenDemocracy]]'', where he wrote primarily about political and aesthetic questions. He was the father of British poet and writer [[Rebecca Tamás]].
+
+==Biography==
+Gáspár Miklós Tamás was born in today's [[Cluj]], Romania, but emigrated to [[Budapest]], Hungary, in 1978, where he lived for much of his life. His mother was Jewish and escaped being deported to Auschwitz because she was imprisoned for being a communist.<ref>{{Cite web|url = http://www.criticatac.ro/lefteast/words-from-budapest-2/|title = Words from Budapest. An interview of Gaspar Miklos Tamas with New Left Review|date = 19 April 2013|access-date = 15 April 2019|archive-date = 15 April 2019|archive-url = https://web.archive.org/web/20190415221821/http://www.criticatac.ro/lefteast/words-from-budapest-2/|url-status = live}}</ref> As a dissident at the end of the [[State socialism|state socialist]] period, he was initially a [[Libertarian socialism|libertarian socialist]]. While in contact with libertarian authors, his perspective was distinct from the [[Budapest School (Lukács)|Budapest School]], a major [[school of thought]] in Hungarian [[Neo-Marxism]]. He was also a member of the informal group called the "[[Democratic opposition (Hungary)|democratic opposition]]". From 1986 to 1988, he taught in the U.S., Britain, and France, and also continued his studies at [[Oxford University]]. At the beginning of the [[Post-communism|post-socialist]] era in 1989, he became committed to a liberal program, and was a leader of the [[Alliance of Free Democrats]] (SZDSZ).<ref>{{cite news |title=UPHEAVAL IN THE EAST; A Democratically Evolving Hungary Heads Into Unknown at Polls Today |url=https://www.nytimes.com/1990/03/25/world/upheaval-east-democratically-evolving-hungary-heads-into-unknown-polls-today.html?pagewanted=all |work=The New York Times |accessdate=September 15, 2008 |first=Celestine |last=Bohlen |date=March 25, 1990 |archive-date=3 September 2019 |archive-url=https://web.archive.org/web/20190903174306/https://www.nytimes.com/1990/03/25/world/upheaval-east-democratically-evolving-hungary-heads-into-unknown-polls-today.html?pagewanted=all |url-status=live }}</ref> As a representative of the party, he was a member of the [[Hungarian Parliament]] from 1989 to 1994,<ref>{{Cite web |last1=Jäger |first1=Anton |title=The prophet of post-fascism |work=[[New Statesman]] |date=2023-01-17 |url=https://www.newstatesman.com/ideas/2023/01/gaspar-miklos-tamas-prophet-post-fascism |language=en-US |access-date=2024-05-06 |archive-date=7 June 2023 |archive-url=https://web.archive.org/web/20230607170127/https://www.newstatesman.com/ideas/2023/01/gaspar-miklos-tamas-prophet-post-fascism |url-status=live }}</ref> and served the party's president through 1994, departing the party in 2000. He was a prominent democratic opponent of the Hungarian government under [[János Kádár]]<ref>{{Cite web |last1=Pálma |first1=Fazekas |title=Gyertyagyújtással emlékeztek Tamás Gáspár Miklósra |work=Szabad Európa |date=2023-01-16 |url=https://www.szabadeuropa.hu/a/gyertyagyujtassal-emlekeztek-tamas-gaspar-miklosra-/32225093.html |language=hu |access-date=2024-05-06 |archive-date=28 November 2023 |archive-url=https://web.archive.org/web/20231128190058/https://www.szabadeuropa.hu/a/gyertyagyujtassal-emlekeztek-tamas-gaspar-miklosra-/32225093.html |url-status=live }}</ref> and [[Viktor Orbán]].<ref name=Arbetet>{{Cite web |last1=de la Reguera |first1=Erik |title=Gáspar Miklós Tamás: This is post-fascism |work=Arbetet |date=2015-09-26 |url=https://arbetet.se/2015/09/26/gaspar-miklos-tamas-this-is-post-fascism/ |language=sv-SE |access-date=2024-05-06 |archive-date=2 August 2023 |archive-url=https://web.archive.org/web/20230802164739/https://arbetet.se/2015/09/26/gaspar-miklos-tamas-this-is-post-fascism/ |url-status=live }}</ref> He became the [[Green Left (Hungary)|Green Left]]'s president in 2010.<ref>{{cite book|author-last=Vida|author-first=István|title=Magyarországi politikai pártok lexikona (1846–2010) ''[Encyclopedia of the Political Parties in Hungary (1846–2010)]''|publisher=Gondolat Kiadó|year=2011|page=468|chapter=Zöld Baloldal (ZB)|isbn=978-963-693-276-3|language=hu}}</ref>
+
+Tamás was known for developing the concept of [[post-fascism]]{{r|Arbetet}} and the term [[ethnicism]]. In his words, {{cquote|Post-fascism finds its niche easily in the new world of global capitalism without upsetting the dominant political forms of electoral democracy and representative government. It does what I consider to be central to all varieties of fascism, including the post-totalitarian version. Sans Führer, sans one-party rule, sans SA or SS, post-fascism reverses the Enlightenment tendency to assimilate citizenship to the human condition.}}
+
+Tamás died on 15 January 2023, at the age of 74.<ref>{{cite news |title=Meghalt Tamás Gáspár Miklós |url=https://index.hu/belfold/2023/01/15/tamas-gaspar-miklos-tgm-meghalt-gyasz-nekrolog/ |access-date=15 January 2023 |publisher=Index.hu |date=15 January 2023 |archive-date=15 January 2023 |archive-url=https://web.archive.org/web/20230115145725/https://index.hu/belfold/2023/01/15/tamas-gaspar-miklos-tgm-meghalt-gyasz-nekrolog/ |url-status=live }}</ref>
+
+== Personal life ==
+
+He described himself as a "conservative [[anarchist]]"<ref>{{cite book | url=https://books.google.com/books?id=zqX0ah6uETYC&pg=PR34 | title=Liberty and Socialism: Writings of Libertarian Socialists in Hungary, 1884-1919 | isbn=978-0-8476-7680-4 | last1=Bak | first1=János M. | last2=Bozóki | first2=András | last3=Sükösd | first3=Miklós | date=13 February 1991 | publisher=Rowman & Littlefield | access-date=23 January 2024 | archive-date=23 January 2024 | archive-url=https://web.archive.org/web/20240123020530/https://books.google.com/books?id=zqX0ah6uETYC&pg=PR34 | url-status=live }}</ref> and a [[Marxist]].{{r|Arbetet}}
+
+==Bibliography==
+===Books in English===
+*{{cite book |last=Tamás |first=Gáspar Miklós |date=2011 |title=Innocent Power |url=https://www.hatjecantz.de/gm-tams-2752-1.html |location=[[Stuttgart, Germany]] |publisher=[[Hatje Cantz Verlag]] |page= |isbn=9783775728621}}
+===Books in French===
+*{{cite book |last=Tamás |first=Gáspar Miklós |date=1985 |title=L'Oeil et la main: Introduction à la politique |trans-title=The Eye and the Hand: Introduction to Politics |url= |language=fr |location=[[Geneva, Switzerland]] |publisher=Éditions Noir |oclc= 33315996}}
+===Books in German===
+*{{cite book |last=Tamás |first=Gáspar Miklós |date=2015 |title=Kommunismus nach 1989: Beiträge zu Klassentheorie, Realsozialismus, Osteuropa |trans-title=Communism after 1989: Contributions to Class Theory, Real Socialism, Eastern Europe |url= |language=de |location=[[Vienna, Austria]] |publisher=Mandelbaum Verlag |isbn= 9783854766414}}
+===Books in Hungarian===
+*{{cite book |last=Tamás |first=Gáspar Miklós |date=1975 |title=A teória esélyei: Esszék, bírálatok |trans-title=The Prospects for Theory: Essays and Reviews |url= |language=hu |location=[[Bucharest, Romania]] |publisher=Kriterion |oclc=909543438}}
+*{{cite book |last=Tamás |first=Gáspar Miklós |date=1994 |title=Másvilág: Politikai esszék |trans-title=Another World: Political Essays |url= |language=hu |location=[[Budapest, Hungary]] |publisher=Új Mandátum |isbn=9789637476204}}
+*{{cite book |last=Tamás |first=Gáspar Miklós |date=1999 |title=Törzsi fogalmak |volume=I-II |trans-title=Tribal Concepts |url= |language=hu |location=[[Budapest, Hungary]] |publisher=Atlantisz  |isbn= 9789639165267}}
+*Tamás, Gáspár Miklós (2021) Antitézis [Antithesis] (in Hungarian). Budapest, Hungary: Pesti Kalligram. ISBN 9789634682035
+
+== Further reading ==
+
+{{refbegin}}
+
+* {{Cite book |last1=Bozóki |first1=András |last2=Sükösd |first2=Miklós |title=Anarchism in Hungary: Theory, History, Legacies |date=2006 |language=en |isbn=978-0-88033-568-3 |publisher=Social Science Monographs |df=mdy-all }}
+
+{{refend}}
+
+==External links==
+* Some of his lectures: [https://www.youtube.com/watch?v=gM7y1MTS-14 1], [https://www.youtube.com/watch?v=PcSzqJmaJRM 2], [https://www.youtube.com/watch?v=zh-IAPbTGkc 3], [https://www.youtube.com/watch?v=vNz5anFq8pc 4],[https://www.youtube.com/watch?v=qznEh8XfXO4 5], [https://www.youtube.com/watch?v=hA9ZMOpv47c 6], [https://www.youtube.com/watch?v=o5EC5MqZV5A&t=3031s 7]
+* Some of his speeches: [https://www.youtube.com/watch?v=d-xr_2Hrens 1], [https://www.youtube.com/watch?v=awV5C1SPuQE&t=64s 2]
+* [https://web.archive.org/web/20160520190237/https://people.ceu.edu/gaspar-miklos_tamas Central European University: Academic Profile of Gáspár Miklós Tamás]
+* "Hatred and Betrayal." ''The Guardian'', 9 May 2007.[https://www.theguardian.com/commentisfree/2007/may/09/comment.comment]
+* "Hungary: Where We Went Wrong." Interview with [[Chris Harman]]. ''International Socialism'', 24 June 2009. [http://sanhati.com/articles/1700/]
+* "The Left and Marxism in Eastern Europe: An Interview with Gáspár Miklós Tamás." Interview with [[Imre Szeman]]. ''Mediations: Journal of the Marxist Literary Group'', volume 24, number 2, Spring 2009. [http://www.mediationsjournal.org/articles/the-left-and-marxism-in-eastern-europe]
+* "On Post-Fascism." ''Boston Review'', Summer 2000. [https://web.archive.org/web/20140826160716/http://new.bostonreview.net/BR25.3/tamas.html]
+*"Socialism and Freedom." ''Jacobin'', 5.12.2015. [https://www.jacobinmag.com/2015/05/tamas-fascism-socialism-east-europe-hungary/]
+* "Telling the Truth about Class." ''Socialist Register'' vol. 42, 2006. [https://socialistregister.com/index.php/srv/article/view/5852]
+* "Words from Budapest." ''New Left Review'' 80, March–April 2013. [http://newleftreview.org/II/80/g-m-tamas-words-from-budapest]
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+
+{{refbegin}}
+* {{Cite web |last1=Bayer |first1=Lili |title=A philosopher’s death and the two realities of Orbán’s Hungary |work=Politico |date=2023-02-07 |url=https://www.politico.eu/article/viktor-orban-hungary-philosopher-gaspar-miklos-tamas-death-exposes-hungary-two-realities/ |language=en-GB |access-date=2024-05-06 |archive-date=26 September 2023 |archive-url=https://web.archive.org/web/20230926032613/https://www.politico.eu/article/viktor-orban-hungary-philosopher-gaspar-miklos-tamas-death-exposes-hungary-two-realities/ |url-status=live }}
+* {{Cite book |last1=Kopeček |first1=Michal |last2=Wcislik |first2=Piotr |title=Thinking Through Transition: Liberal Democracy, Authoritarian Pasts, and Intellectual History in East Central Europe After 1989 |date=2015 |language=en |isbn=978-963-386-085-4 |publisher=Central European University Press }}
+* {{Cite web |last1=Zsurzsan |first1=Anita |title=G. M. Tamás Wasn’t 'Hungary’s Last Marxist' |work=[[Jacobin (magazine)|Jacobin]] |date=2023-02-26 |url=https://jacobin.com/2023/02/g-m-tamas-marxism-philosophy-hungary-socialism-obituary/ |language=en-US |access-date=2024-05-06 |df=mdy-all |archive-date=1 December 2023 |archive-url=https://web.archive.org/web/20231201003643/https://jacobin.com/2023/02/g-m-tamas-marxism-philosophy-hungary-socialism-obituary |url-status=live }}
+{{refend}}
+
+{{Continental philosophy}}
+{{Social and political philosophy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tamas, G.M.}}
+[[Category:1948 births]]
+[[Category:2023 deaths]]
+[[Category:21st-century Hungarian philosophers]]
+[[Category:20th-century Romanian philosophers]]
+[[Category:21st-century Romanian philosophers]]
+[[Category:Autonomism]]
+[[Category:Critical theorists]]
+[[Category:Dissidents]]
+[[Category:Writers from Cluj-Napoca]]
+[[Category:Babeș-Bolyai University alumni]]
+[[Category:Marxist theorists]]
+[[Category:Romanian Marxists]]
+[[Category:Hungarian Marxist writers]]
+[[Category:Romanian people of Jewish descent]]
+[[Category:Romanian expatriates in Hungary]]
+[[Category:Hungarian philosophers]]
+[[Category:Academic staff of Central European University]]
+[[Category:Members of the National Assembly of Hungary (1985–1990)]]
+[[Category:Members of the National Assembly of Hungary (1990–1994)]]
+[[Category:Alliance of Free Democrats politicians]]
+[[Category:Commander's Crosses with Star of the Order of Merit of the Republic of Hungary (military)]]
+[[Category:Hungarian people of Jewish descent]]
+[[Category:Romanian anarchists]]
+[[Category:Hungarian anarchists]]

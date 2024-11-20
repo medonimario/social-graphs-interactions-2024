@@ -1,0 +1,6 @@
+#REDIRECT [[Ibn Tufayl]]
+
+{{Redirect category shell|
+{{R from move}}
+{{R from alternative name}}
+}}

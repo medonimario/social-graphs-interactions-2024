@@ -1,0 +1,105 @@
+{{Short description|American philosopher (1937–2024)}}
+{{Infobox philosopher
+| name              = Robert Merrihew Adams
+| image             = RobertMerrihewAdams20060625.jpg
+| alt               = 
+| birth_date        = {{birth date|mf=yes|1937|9|8}}
+| birth_place       = [[Philadelphia|Philadelphia, Pennsylvania]], U.S.
+| death_date        = {{death date and age|mf=yes|2024|4|16|1937|9|8}}
+| death_place       = [[Montgomery Township, New Jersey|Montgomery, New Jersey]], U.S.
+| nationality       = 
+| spouse            = {{marriage|[[Marilyn McCord Adams]] | 1966|2017|end=d}}
+| era               = [[20th-century philosophy]]
+| region            = [[Western philosophy]]
+| religion Christian = 
+| school_tradition  = [[Analytic philosophy|Analytic]]
+| main_interests    = {{hlist | [[Metaphysics]] | [[philosophy of religion]] | [[ethics]]}}
+| notable_works     = 
+| alma_mater        = {{unbulleted list | [[Princeton University]] | [[Mansfield College, Oxford]] | [[Princeton Theological Seminary]] | [[Cornell University]]}}
+| institutions      = 
+| notable_ideas     = [[Divine command theory]]
+| doctoral_students = [[Derk Pereboom]]
+| awards            = 
+| signature         = 
+| signature_alt     = 
+| website           = 
+}}
+
+'''Robert Merrihew Adams''' {{post-nominals|country=GBR|FBA}} (September 8, 1937 – April 16, 2024) was an American [[Analytic philosophy|analytic philosopher]], who specialized in [[metaphysics]], [[philosophy of religion]], [[ethics]], and the [[history of philosophy|history]] of [[early modern philosophy]].
+
+== Life and career ==
+Adams was born on September 8, 1937, in Philadelphia, Pennsylvania. He taught for many years at the [[University of California, Los Angeles]], before moving to [[Yale University]] in the early 1990s as the Clark Professor of Moral Philosophy and Metaphysics. As chairman, he helped revive the philosophy department<ref>{{cite web |url=http://yaledailynews.com/blog/2006/03/02/philosophy-takes-steps-to-rebuild/ |title=Philosophy takes steps to rebuild|date=2 March 2006 }}</ref> after its near-collapse due to personal and scholarly conflicts between [[analytic philosophy|analytical]] and [[continental philosophy|Continental]] philosophers.<ref>{{cite web |url=http://linguafranca.mirror.theinfo.org/9803/asbad.html |title=Lingua Franca – As Bad As It Gets |website=linguafranca.mirror.theinfo.org}}</ref> Adams retired from Yale in 2004 and taught part-time at the [[University of Oxford]] in [[England]], where he was a senior research fellow of [[Mansfield College, Oxford|Mansfield College]]. In 2009 he became a Distinguished Research Professor of Philosophy at the [[University of North Carolina at Chapel Hill]].
+
+Adams's late wife, [[Marilyn McCord Adams]], was also a [[philosopher]], working on [[medieval philosophy]] and the [[philosophy of religion]] and was the [[Regius Professor of Divinity]] at [[Christ Church, Oxford]]. In 2013 both became visiting research professors at [[Rutgers University]], in conjunction with the founding of the Rutgers Center for the Philosophy of Religion.<ref>{{cite web |url=http://rcpr.rutgers.edu/ |title=Home |website=rcpr.rutgers.edu}}</ref>
+
+Adams was a past president of the [[Society of Christian Philosophers]]. In 1999, he delivered the [[Gifford Lectures]] on "God and Being". He was elected a Fellow of the [[British Academy]] in 2006<ref>{{cite web |url=http://www.britac.ac.uk/fellowship/elections/2006/adams_r.cfm |title=Professor Robert Adams - British Academy |access-date=2015-07-07 |url-status=dead |archive-url=https://web.archive.org/web/20150708042355/http://www.britac.ac.uk/fellowship/elections/2006/adams_r.cfm |archive-date=2015-07-08}}</ref> and was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1991.<ref name="AAAS">{{cite web |title=Book of Members, 1780–2010: Chapter A |url=http://www.amacad.org/publications/BookofMembers/ChapterA.pdf |publisher=American Academy of Arts and Sciences |access-date=6 April 2011}}</ref>
+
+Adams died in [[Montgomery Township, New Jersey|Montgomery, New Jersey]], on April 16, 2024, at the age of 86.<ref>{{Cite web |last=Leiter |first=Brian |title=In Memoriam: Robert M. Adams (1937–2024) |url=https://leiterreports.typepad.com/blog/2024/04/in-memoriam-robert-m-adams-1937-2024.html |website=Leiter Reports}}</ref><ref>{{Cite web |last=Weinberg |first=Justin |date=2024-04-17 |title=Robert M. Adams (1937–2024) - Daily Nous |url=https://dailynous.com/2024/04/17/robert-m-adams-1937-2024/ |access-date=2024-04-18 |language=en-US}}</ref>
+
+== Philosophical work ==
+As a historical scholar, Adams had published on the work of the philosophers [[Søren Kierkegaard]] and [[Gottfried Wilhelm Leibniz|G.W. Leibniz]]. His work in the philosophy of religion includes influential essays on the [[problem of evil]] and the relation between [[theism]] and [[ethics]]. In [[metaphysics]], Adams defended [[actualism]] in [[Modal logic|metaphysics of modality]] and [[Platonism]] about the nature of so-called [[possible worlds]].
+
+== Selected works ==
+* {{cite journal |doi=10.2307/2184329 |jstor=2184329 |title=Must God Create the Best? |journal=The Philosophical Review |volume=81 |issue=3 |pages=317–332 |year=1972 |last1=Adams |first1=Robert Merrihew}}. Reprinted in ''The Virtue of Faith and Other Essay in Philosophical Theology'' below.
+* "A Modified Divine Command Theory of Ethical Wrongness" in ''Religion and Morality: A Collection of Essays''. eds. Gene Outka and John P. Reeder. New York: Doubleday. Reprinted in  ''The Virtue of Faith''.
+* {{cite journal |doi=10.2307/2214751 |jstor=2214751 |title=Theories of Actuality |journal=Noûs |volume=8 |issue=3 |pages=211–231 |year=1974 |last1=Adams |first1=Robert Merrihew}}
+* {{cite journal |doi=10.2307/2025783 |jstor=2025783 |title=Motive Utilitarianism |journal=Journal of Philosophy |volume=73 |issue=14 |pages=467–481 |year=1976 |last1=Adams |first1=Robert Merrihew}}
+* {{cite journal |doi=10.2307/2025812 |jstor=2025812 |title=Primitive Thisness and Primitive Identity |journal=The Journal of Philosophy |volume=76 |issue=1 |pages=5–26 |year=1979 |last1=Adams |first1=Robert Merrihew |s2cid=42069022 }}
+* "Actualism and Thisness", ''Synthèse'', XLIX 3–41. 1981.
+* {{cite journal |doi=10.1111/j.1475-4975.1986.tb00501.x |title=Time and Thisness |journal=Midwest Studies in Philosophy |volume=11 |pages=315–329 |year=1986 |last1=Adams |first1=Robert Merrihew}}
+* ''The Virtue of Faith and Other Essays in Philosophical Theology''. New York: Oxford University Press. 1987.
+* {{cite journal |doi=10.2307/2184713 |jstor=2184713 |title=Involuntary Sins |journal=The Philosophical Review |volume=94 |issue=1 |pages=3–31 |year=1985 |last1=Adams |first1=Robert Merrihew}}
+* "Divine Commands and the Social Nature of Obligation" ''Faith and Philosophy'', 1987.
+* "The Knight of Faith", ''Faith and Philosophy'', 1990.
+* "Moral Faith", ''Journal of Philosophy'', 1995.
+* ''Leibniz: Determinist, Theist, Idealist''. New York: Oxford. 1994.
+* "Things in Themselves", ''Philosophy and Phenomenological Research'', 1997.
+* ''Finite and Infinite Goods''. New York: Oxford University Press. 1999.
+* ''A Theory of Virtue: Excellence in Being for the Good''. Oxford: Clarendon Press. 2006.
+* ''What Is, and What Is In Itself: A Systematic Ontology''. Oxford: Oxford University Press, 2021.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20100411043955/http://www.giffordlectures.org/Author.asp?AuthorID=259 Gifford Lecture Series]
+* [https://web.archive.org/web/20110407042839/http://www.yaledailynews.com/news/2006/mar/02/philosophy-takes-steps-to-rebuild/ "Philosophy Takes Steps to Rebuild"], ''Yale Daily News''
+
+{{Ethics}}
+{{philosophy of religion}}
+{{Authority control}}
+
+{{DEFAULTSORT:Adams, Robert Merrihew}}
+[[Category:1937 births]]
+[[Category:2024 deaths]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century American essayists]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:21st-century American philosophers]]
+[[Category:21st-century American essayists]]
+[[Category:American ethicists]]
+[[Category:American male essayists]]
+[[Category:American male non-fiction writers]]
+[[Category:American metaphysics writers]]
+[[Category:American philosophy academics]]
+[[Category:Presbyterians from Pennsylvania]]
+[[Category:Analytic philosophers]]
+[[Category:Christian philosophers]]
+[[Category:Consequentialists]]
+[[Category:American epistemologists]]
+[[Category:Fellows of Mansfield College, Oxford]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the British Academy]]
+[[Category:American historians of philosophy]]
+[[Category:Ontologists]]
+[[Category:Philosophers from North Carolina]]
+[[Category:Philosophers from Pennsylvania]]
+[[Category:Philosophers of history]]
+[[Category:American philosophers of logic]]
+[[Category:American philosophers of religion]]
+[[Category:Presidents of the Society of Christian Philosophers]]
+[[Category:University of North Carolina at Chapel Hill faculty]]
+[[Category:Writers from Philadelphia]]
+[[Category:Yale University faculty]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]

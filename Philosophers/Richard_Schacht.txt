@@ -1,0 +1,92 @@
+{{Short description|American philosopher}}
+'''Richard Schacht''' (born 1941)<ref>Cataloging-in-Publication Data for R. Schacht (ed.), ''Nietzsche, Genealogy, Morality'' (1994).</ref> is an [[Americans|American]] [[philosopher]] and [[professor emeritus]] at the [[University of Illinois Urbana-Champaign]]<ref>{{Citation |last=Priest |first=Stephen |title=Schacht, Richard |date=2005-01-01 |url=https://www.oxfordreference.com/view/10.1093/acref/9780199264797.001.0001/acref-9780199264797-e-2264 |work=The Oxford Companion to Philosophy |publisher=Oxford University Press |language=en |doi=10.1093/acref/9780199264797.001.0001 |isbn=978-0-19-926479-7 |access-date=2022-06-24 |author-link=Stephen Priest}}
+</ref> now residing in Santa Fe, New Mexico.
+
+He is an expert on the [[philosophy of Friedrich Nietzsche]], was the editor of ''International Nietzsche Studies'',<ref name="INS">{{cite web |title=Series – International Nietzsche Studies
+|url=https://www.press.uillinois.edu/books/find_books.php?type=series&search=INS |access-date=2023-03-09
+|publisher=[[University of Illinois Press]]
+|archive-url=https://web.archive.org/web/20121115115210/https://www.press.uillinois.edu/books/find_books.php?type=series&search=INS |archive-date=2012-11-15 |url-status=live}}
+</ref> and is former executive director of the [[North American Nietzsche Society]].<ref name="NAmerNietzSoc">{{cite web |title=North American Nietzsche Society
+|url=https://philosophy.stanford.edu/researchreading-groups-and-workshops/north-american-nietzsche-society |access-date=2023-03-09	
+|publisher=[[Stanford University]]}}
+</ref><ref name="NANS-history">{{cite web |title=Our History
+|url=http://www.northamericannietzschesociety.com/history.html |access-date=2023-03-11	
+|publisher=[[North American Nietzsche Society]]}}
+</ref> His philosophical interests include European philosophy after Kant, particularly Friedrich Nietzsche and [[Georg Wilhelm Friedrich Hegel]], and concepts such as [[human nature]], [[Social alienation|alienation]], and [[value theory]].
+
+==Publications==
+
+===Authored===
+
+* {{cite book |date=1970 |title=Alienation
+|url=https://archive.org/details/alienation00scha/page/n3/mode/2up |access-date=2023-03-16
+|location=[[Garden City, New York|Garden City, NY]] |publisher=[[Doubleday (publisher)|Doubleday]]
+}}
+** Doubleday Anchor (paperback). 1971.
+** [https://archive.org/details/alienation0000scha_c0g0/page/n1/mode/2up British edition (hard cover and paperback]): 1971 (London: George Allen & Unwin) Reprinted 1984: [[University Press of America]]; [https://books.google.com/books?id=t4TwCQAAQBAJ Reprinted 2015]: [[Taylor & Francis#Acquired companies and discontinued imprints|Psychology Press]]
+*''Hegel and After: Studies in Continental Philosophy Between Kant and Sartre'' (Pittsburgh: University of Pittsburgh Press, 1975), Pitt Paperback edition: 1975
+*''[[iarchive:nietzsche0000scha|Nietzsche]]'' (London: Routledge & Kegan Paul, 1983), Routledge Paperback ed.: 1985. Reissued 1994.
+*''[[iarchive:classicalmodernp0000scha|Classical Modern Philosophers: Descartes to Kant]]'' (London: Routledge & Kegan Paul, 1984). Reissued 1994.
+*''The Future of Alienation'' (Urbana: University of Illinois Press, 1994)
+*''Making Sense of Nietzsche'' (Urbana: University of Illinois Press, 1995)
+*''Finding an Ending: Reflections on Wagner's Ring'', with [[Philip Kitcher]] (Oxford University Press, 2004)
+* {{cite book |date=2023 |title=Nietzsche's Kind of Philosophy: Finding his Way
+|url=https://press.uchicago.edu/ucp/books/book/chicago/N/bo182882402.html |access-date=2023-04-06
+|publisher=[[University of Chicago Press]] |oclc=1304353648 <!-- does this work, as of 2023-03-06? Because it(WorldCat) shows a 2022 publication date, (and, it shows "2 libraries near Champaign, Illinois": Library of Congress & LIBRIS (Humlegårdsgatan 26, Box 5039, Stockholm, S-102 41, Sweden) (latter will become relevant upon publications, presumably) --> |isbn=9780226822853
+}}
+
+===Edited===
+*''Nietzsche: Selections'' (New York: Macmillan, 1993)
+*''Nietzsche, Genealogy, Morality'' (Los Angeles: University of California Press, 1994)
+*''Human, All Too Human'', by Friedrich Nietzsche, trans. R.J. Hollingdale (NY: Cambridge U P, 1996)
+* {{cite book |date=2000 |title=Nietzsche's Postmoralism: Essays on Nietzsche's Prelude to Philosophy's Future
+|location=New York |publisher=[[Cambridge University Press]]
+|isbn=9780511570636 |oclc=715157136 |doi=10.1017/CBO9780511570636 <!-- |doi to be removed?; redundant with url? -->
+|url=https://www.cambridge.org/core/books/nietzsches-postmoralism/78D8E68CBD1E93F93762AFB4B78FD632 |access-date=2023-03-14
+|editor-last1=Schacht
+|editor-first1=Richard
+}}
+* {{cite book | date=2017 |title=The Norton Anthology of Western Philosophy: After Kant – 1: The Interpretive Tradition
+|url=https://wwnorton.com/books/9780393974683 |access-date=2023-03-14
+|publisher=[[W. W. Norton & Company]] |isbn=978-0-393-97468-3}}
+
+==See also==
+* ''[[Nietzsche: Philosopher, Psychologist, Antichrist]]''
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.philosophy.illinois.edu/people/rschacht Homepage] at the Philosophy department of the University of Illinois, Urbana-Champaign.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Schacht, Richard}}
+[[Category:1941 births]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century American essayists]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:21st-century American philosophers]]
+[[Category:21st-century American essayists]]
+[[Category:American ethicists]]
+[[Category:American male essayists]]
+[[Category:American male non-fiction writers]]
+[[Category:American anthologists]]
+[[Category:Continental philosophers]]
+[[Category:American epistemologists]]
+[[Category:American historians of philosophy]]
+[[Category:Living people]]
+[[Category:American metaphysicians]]
+[[Category:Ontologists]]
+[[Category:Nietzsche scholars]]
+[[Category:American philosophers of culture]]
+[[Category:Philosophers of history]]
+[[Category:American philosophy academics]]
+[[Category:Philosophy writers]]
+[[Category:Princeton University alumni]]
+[[Category:University of Illinois Urbana-Champaign faculty]]
+
+
+{{US-philosopher-stub}}

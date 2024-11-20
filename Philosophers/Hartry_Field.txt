@@ -1,0 +1,66 @@
+{{short description|American philosopher}}
+
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[Contemporary philosophy]]
+|image            =
+|name             = Hartry Field
+|birth_date       = 30 November 1946
+|birth_place      = 
+|alma_mater       = [[University of Wisconsin]]<br>[[Harvard University]]
+|institutions     =
+|school_tradition = [[Analytic philosophy|Analytic]]<br>[[Mathematical fictionalism]]
+|main_interests   = [[Philosophy of science]], [[philosophy of mathematics]], [[epistemology]], [[philosophy of mind]]
+|notable_ideas    = [[Mathematical fictionalism]], epistemic rejectionism<ref>The rejectionist position rejects implicit definitions that involve existential commitments—see [[Bob Hale (philosopher)|Bob Hale]] and [[Crispin Wright]], ''The Reason's Proper Study'', Oxford University Press, 2001, p. 355.</ref>
+|influences       = [[Alfred Tarski]], [[Willard Van Orman Quine]], [[Hilary Putnam]]
+|influenced       = 
+|doctoral_advisor = [[Hilary Putnam]]
+}}
+'''Hartry H. Field''' (born November 30, 1946) is an American philosopher. He is Silver Professor of Philosophy at [[New York University]]; he is a notable contributor to [[philosophy of science]], [[philosophy of mathematics]], [[epistemology]], and [[philosophy of mind]].
+
+==Early life and education==
+Hartry Hamlin Field was born on November 30, 1946, in [[Boston|Boston, Massachusetts]], to Adelaide ({{Nee|Anderson}}) and Donald Field.<ref name=":0">{{Cite book |title=Contemporary Authors, New Revision Series |year=2007 |chapter=Field, Hartry Hamlin |id={{Gale|H1000031563}} |chapter-url=https://www.encyclopedia.com/arts/educational-magazines/field-hartry-hamlin-1946 |via=[[Encyclopedia.com]]}}</ref> Field earned a B.A. in mathematics from the [[University of Wisconsin–Madison]] in 1967 and an M.A. in philosophy from [[Harvard University]] in 1968.<ref name=":2">{{Cite web |date=2012 |title=Hartry Field |url=https://www.phil.arts.cuhk.edu.hk/web/tcivp/hartry-field/ |access-date=2023-10-09 |website= |publisher=[[Chinese University of Hong Kong]]}}</ref> He earned his Ph.D. in philosophy from Harvard in 1972 under the direction of [[Hilary Putnam]] and [[Richard Boyd]].<ref name=":1">{{Cite book |last=Leeds |first=Stephen |title=[[The Encyclopedia of Philosophy]] |publisher=[[Macmillan Publishers]] |year=2006 |editor-last=Borchert |editor-first=David |edition=2nd |pages=633–634 |chapter=Field, Hartry |chapter-url=https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/field-hartry-1956 |via=[[Encyclopedia.com]]}}</ref>
+
+== Academic career ==
+He taught first at [[Princeton University]], and then at the [[University of Southern California]] and [[City University of New York Graduate Center]] before joining the [[NYU]] faculty in 1997,<ref name=":0" /><ref name=":1" /> where he is currently Silver Professor of Philosophy.<ref>{{Cite web |title=Hartry Field |url=https://as.nyu.edu/faculty/hartry-field.html |access-date=2023-10-09 |website= |publisher=[[New York University]]}}</ref>
+
+Field was elected Fellow of the [[American Academy of Arts and Sciences]] in 2003 and is also a past winner of the [[Lakatos Prize]] in 1986.<ref name=":0" /><ref>{{Cite web |date=1987-09-15 |title=1986 Lakatos Award |url=https://www.lse.ac.uk/philosophy/blog/1987/09/15/1986-lakatos-award-bas-van-fraassen-and-hartry-field/ |access-date=2023-10-09 |website= |publisher=[[London School of Economics]] |language=en-GB}}</ref> He delivered the 2008 [[John Locke Lectures]] at the [[University of Oxford]].<ref name=":2" /><ref>{{Cite web |title=The John Locke Lectures |url=https://www.philosophy.ox.ac.uk/john-locke-lectures#collapse386416 |access-date=2023-10-09 |publisher=[[University of Oxford]] |language=en}}</ref> In 2012, he was appointed Distinguished Research Professor at the [[University of Birmingham]] in the UK.<ref>{{Cite web |date=December 21, 2012 |title=Seven new Distinguished Research Professors in Philosophy |url=https://www.birmingham.ac.uk/schools/ptr/departments/philosophy/news/2012/researchprofessors.aspx |access-date=2023-10-09 |publisher=[[University of Birmingham]] |language=en}}</ref>
+
+==Philosophical work==
+Field's first work was a commentary on [[Alfred Tarski]]'s theory of [[truth]], which he has worked on since 1972.  His current view on this matter is in favor of a [[deflationary theory of truth]]. His most influential work produced in this period is probably "Theory Change and the Indeterminacy of Reference" (''[[Journal of Philosophy]]'', '''70'''(14): 462–481), in which he introduced the concept of partial [[denotation]].
+
+In the 1980s, Field started a project in the [[philosophy of mathematics]] in support of [[mathematical fictionalism]], the doctrine that all mathematical statements are merely useful fictions, and should not be taken to be literally true. More precisely, Field aimed to produce reconstructions of science that would remove all reference to mathematical entities, hence showing that mathematics is dispensable to science in opposition to the [[Quine–Putnam indispensability argument]].<ref>[[Stephen Yablo|Yablo, Stephen]]. [http://www.nyu.edu/gsas/dept/philo/courses/factual/papers/YabloMistake.pdf "Does Ontology Rest on a Mistake?"], ''Aristotelian Society Supplementary Volume'' '''72'''.1 (1998), p. 231.</ref>
+
+Much of his current work is in semantic [[paradox]]es. In 2008, he gave the John Locke Lectures, entitled "Logic, Normativity, and Rational Revisability".<ref>[http://www.philosophy.ox.ac.uk/lectures/john_locke_lectures John Locke Lectures]. {{webarchive|url=https://web.archive.org/web/20081021081503/http://www.philosophy.ox.ac.uk/lectures/john_locke_lectures |date=2008-10-21 }} - Faculty of Philosophy, University of Oxford</ref>
+
+==Books==
+*''Science Without Numbers'', Blackwell, 1980
+*''Realism, Mathematics and Modality'', Blackwell, 1989
+*''Truth and the Absence of Fact'', Oxford University Press 2001
+*''Saving Truth from Paradox'', Oxford University Press, 2008
+
+==See also==
+*[[American philosophy]]
+*[[List of American philosophers]]
+*[[New York University Department of Philosophy]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://as.nyu.edu/content/nyu-as/as/faculty/hartry-field.html Field, Hartry] – New York University
+
+{{Authority control}}
+
+{{DEFAULTSORT:Field, Hartry}}
+[[Category:1946 births]]
+[[Category:Living people]]
+[[Category:Harvard Graduate School of Arts and Sciences alumni]]
+[[Category:21st-century American philosophers]]
+[[Category:American philosophers of mathematics]]
+[[Category:New York University faculty]]
+[[Category:Analytic philosophers]]
+[[Category:American philosophers of language]]
+[[Category:American philosophers of mind]]
+[[Category:Lakatos Award winners]]
+[[Category:Silver professors]]

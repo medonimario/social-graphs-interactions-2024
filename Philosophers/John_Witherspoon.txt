@@ -1,0 +1,219 @@
+{{Short description|American Founding Father and minister (1723–1794)}}
+{{other uses|John Witherspoon (disambiguation)}}
+{{use mdy dates|date=April 2020}}
+{{Infobox officeholder
+| honorific_prefix    = [[The Reverend]]
+| name                = John Witherspoon
+| office              = President of Princeton University
+| termstart           = 1768
+| termend             = 1794
+| image               = Peale, Charles Willson, John Witherspoon (1723-1794), President (1768-94).jpg
+| caption             = Portrait by [[Charles Willson Peale]], c. 1790
+| signature           = John Witherspoon signature.png
+| birth_date          = {{Birth date|1723|2|5|mf=y}}
+| birth_place         =  Yester, [[Gifford, East Lothian]], Scotland
+| death_date          = {{death date and age|1794|11|15|1723|2|5|mf=y}}
+| death_place         = [[Tusculum (Princeton, New Jersey)|Tusculum]], [[Princeton, New Jersey]], U.S.
+| relatives           = [[John C. Breckinridge]] (great-grandson)
+| resting_place       = [[Princeton Cemetery]]
+| nationality         = American/Scottish
+| occupation          = [[Clergyman]] and [[theologian]]
+| successor           = [[Samuel Stanhope Smith]]
+| predecessor         = [[John Blair (pastor)|John Blair]] ''(acting)''
+| order               = 6th
+| education           = [[University of Edinburgh]] ([[Master of Arts (Scotland)|MA]])
+}}
+'''John Witherspoon''' (February 5, 1723 – November 15, 1794) was a [[Scottish Americans|Scottish-American]] [[Presbyterian]] minister, educator, farmer, slaveholder, and a [[Founding Fathers of the United States|Founding Father of the United States]].<ref>{{Cite book|last= Longfield |first= Bradley J. | title = Presbyterians and American Culture: A History | pages=40–41 | url = https://books.google.com/books?id=wDdybyrOc-IC |year= 2013 | publisher= Westminster John Knox Press | location = Louisville, Kentucky | access-date = November 6, 2015|isbn= 9780664231569 }}.</ref> Witherspoon embraced the concepts of [[Scottish common sense realism]], and while president of the College of New Jersey (1768–1794; now [[History of Princeton University|Princeton University]]) became an influential figure in the development of the United States' national character. Politically active, Witherspoon was a delegate from [[New Jersey]] to the [[Second Continental Congress]] and a signatory to the July 4, 1776, [[United States Declaration of Independence|Declaration of Independence]]. He was the only active clergyman and the only college president to sign the Declaration.<ref>{{cite web |publisher = Princeton University |title = Princeton Presidents |url = http://www.princeton.edu/pr/facts/presidents/09.htm |access-date = 2010-07-16 }}</ref> Later, he signed the [[Articles of Confederation]] and supported [[ratification#Ratification in the United States Constitution|ratification]] of the [[Constitution of the United States]].
+
+In 1789 he was convening [[Chairman|moderator]] of the First [[Presbyterian polity#General assembly|General Assembly]] of the [[Presbyterian Church in the United States of America]].
+
+== Early life and ministry in Scotland ==
+
+[[File:The grave of Rev James Alexander Witherspoon, Gifford.jpg|thumb|300px|The grave of John Witherspoon's father, Rev. James Alexander Witherspoon]]
+John Witherspoon<ref>{{cite book |last=Pyne |first=F. W. |title=Descendants of the Signers of the Declaration of Independence |location=Rockport, Maine |publisher=Picton press |volume=3 Pt. 1 |page=93 |edition=2nd }}</ref> was born in [[Gifford, East Lothian|Yester]], Scotland, documented in the Old Parish Register as the eldest child of the Reverend James Alexander Witherspoon and Anne Walker,<ref name="nrscotland.gov.uk">{{cite web|url=https://www.nrscotland.gov.uk/research/learning/hall-of-fame/hall-of-fame-a-z/witherspoon-john|title= John Witherspoon (1723-1794) Signatory of the American Declaration of Independence|website=National Records of Scotland|date= May 31, 2013|accessdate=30 April 2023}}</ref><ref>Witherspoon's mother's name has alternatively been spelled as "Anna Walker".</ref> a descendant of [[John Welsh of Ayr]] and [[John Knox]].<ref name="Fasti"/><ref>{{cite book | last=Maclean | first=John Jr. | title=History of the College of New Jersey: From Its Origin in 1746 to the Commencement of 1854 | url=https://archive.org/details/historycollegen04maclgoog | publisher= [[J. B. Lippincott & Co.]] | location=Philadelphia | year = 1877 | page=[https://archive.org/details/historycollegen04maclgoog/page/n390/mode/2up p384]|volume=1 | no-pp=true }}</ref>  This latter claim of Knox descent though ancient in origin is long disputed and without primary documentation.<ref>{{cite book | last=Waters |title =Witherspoon, Knox | url =https://books.google.com/books?id=INfJxmPj2_wC&pg=PA80 | access-date = 2010-10-16 | publisher=The New England historical and genealogical register, Volume 64 | year=1910 }}</ref>  He attended the [[Haddington, East Lothian|Haddington]] [[Knox Academy|Grammar School]] and obtained a [[Master of Arts (Scotland)|Master of Arts]] from the [[University of Edinburgh]] in 1739. He remained at the university to study divinity.<ref>{{cite web|title=John Witherspoon |url=http://www.ushistory.org/declaration/signers/witherspoon.htm |website=ushistory.org |publisher=Independence Hall Association |access-date=17 June 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150607151155/http://www.ushistory.org/Declaration/signers/witherspoon.htm |archive-date= 7 June 2015 }}</ref> In 1764, he was awarded an honorary doctoral degree in divinity by the [[University of St Andrews]].<ref>{{cite book|last1=Tait|first1=L. Gordon|title=The Piety of John Witherspoon: Pew, Pulpit, and Public Forum|year=2001|publisher=Westminster John Knox Press|isbn=978-0664501334|page=13}}</ref>
+
+Witherspoon was a staunch Protestant, nationalist, and supporter of [[republicanism]]. Consequently, he was opposed to the [[Catholic Church|Roman Catholic]] [[Jacobitism|Legitimist Jacobite]] [[Jacobite rising of 1745|rising of 1745–46]].  Following the Jacobite victory at the [[Battle of Falkirk Muir|Battle of Falkirk]], he was briefly imprisoned at [[Doune Castle]],<ref>{{cite web |publisher = The History of the Presbyterian Church |title = John Witherspoon |url = http://presbyterianhistory.com/b_witherspoon.htm |access-date = 2007-12-30 |archive-url = https://web.archive.org/web/20080220154431/http://presbyterianhistory.com/b_witherspoon.htm |archive-date = February 20, 2008}}</ref> which had a long-term effect on his health.
+
+He became a [[Church of Scotland]] ([[Presbyterianism|Presbyterian]]) minister at [[Beith]], [[Ayrshire]] (1745–1758), where he married Elizabeth Montgomery of Craighouse. They had ten children, with five surviving to adulthood.
+
+From 1758 to 1768, he was minister of the [[Laigh Kirk, Paisley]] (Low Kirk).<ref name="Fasti">{{cite book |last=Scott |first=Hew |title=Fasti ecclesiae scoticanae; the succession of ministers in the Church of Scotland from the reformation |volume=3|pages=[https://archive.org/details/fastiecclesiaesc03scot/page/174/mode/2up 174]-176|date=1920 |publisher=Edinburgh: Oliver and Boyd |url=https://archive.org/details/fastiecclesiaesc03scot |author-link=Hew Scott}}{{PD-notice}}</ref> Witherspoon became prominent within the Church as an Evangelical opponent of the [[Moderate Party (Scotland)|Moderate Party]].<ref>{{cite book |last = Herman |first=Arthur |title=The Scottish Enlightenment |publisher=Fourth Estate |year =2003 |isbn = 978-1-84115-276-9 |page=186}}</ref> During his two pastorates he wrote three well-known works on theology, notably the satire "Ecclesiastical Characteristics" (1753),<ref>{{Cite book | title=The selected writings of John Witherspoon | last=Witherspoon | first=John | publisher=Southern Illinois University Press | series=Landmarks in Rhetoric and Public Address | editor-last=Miller | editor-first=Thomas P. | isbn=978-0-8093-9054-0 | publication-place=Carbondale | pages=57–102 | oclc=926709851 | date=2015-10-07}}</ref> which opposed the philosophical influence of [[Francis Hutcheson (philosopher)|Francis Hutcheson]].<ref>{{cite book |last = Macintyre |first = Alasdair |title=Whose Justice? Which Rationality? |publisher=Duckworth |year =1988 |isbn = 978-0-7156-2199-8 |page=244}}</ref>
+
+== Princeton ==
+[[File:Maclean house.jpg|thumb|right|250px|The [[President's House (Princeton University)|President's House]] in Princeton, New Jersey. Completed in 1756, Witherspoon lived here from 1768 to 1779; it is a U.S. [[National Historic Landmark]].]]
+At the urging of [[Benjamin Rush]] and [[Richard Stockton (Continental Congressman)|Richard Stockton]], whom he met in [[Paisley, Renfrewshire|Paisley]],<ref>Rampant Scotland [http://www.rampantscotland.com/famous/blfamwitherspoon.htm "Rampant Scotland, John Witherspoon"]</ref> Witherspoon finally accepted their renewed invitation (having turned one down in 1766) to become president and head professor of the small Presbyterian College of New Jersey in Princeton.<ref>Rush and Stockton's recruiting letters can be found in Butterfield, L. H., "John Witherspoon Comes to America", Princeton University Library, Princeton, New Jersey. 1953</ref>  Thus, Witherspoon and his family emigrated to [[New Jersey]] in 1768.
+
+At the age of 45, he became the sixth president of the college, later known as [[Princeton University]]. Upon his arrival, Witherspoon found the school in debt, with weak instruction, and a library collection which clearly failed to meet student needs. He immediately began fund-raising—locally and back home in Scotland—added three hundred of his own books to the library, and began purchasing scientific equipment including the [[Rittenhouse orrery]], many maps, and a terrestrial [[globe]]. Witherspoon instituted numerous reforms, including modeling the [[syllabus]] and university structure after that used at the University of Edinburgh and other Scottish universities. He also firmed up entrance requirements, which helped the school compete with [[Harvard University|Harvard]] and [[Yale University|Yale]] for scholars.
+
+Witherspoon personally taught courses in eloquence or belles lettres, chronology (history), and divinity.  However, none was more important than moral philosophy (a required course). An advocate of [[natural law]] within a Christian and republican cosmology, Witherspoon considered moral philosophy vital for ministers, lawyers, and those holding positions in government ([[magistrate]]s). Firm but good-humored in his leadership, Witherspoon was very popular among both faculty and students.
+
+Witherspoon had been a prominent evangelical Presbyterian minister in Scotland before accepting the Princeton position. As the college's primary occupation at the time was training ministers, Witherspoon became a major leader of the early Presbyterian Church in America. He helped organize [[Nassau Presbyterian Church]] in Princeton, New Jersey.
+
+Nonetheless, Witherspoon transformed a college designed predominantly to train clergymen into a school that would equip the leaders of a new country. Students who later played prominent roles in the new nation's development included [[James Madison]], [[Aaron Burr]], [[Philip Freneau]], [[William Bradford (Attorney General)|William Bradford]], and [[Hugh Henry Brackenridge]].<ref>Jeffry H. Morrison, ''John Witherspoon and the Founding of the American Republic'' (2005)</ref> From among his students came 37 judges (three of whom became justices of the [[Supreme Court of the United States|U.S. Supreme Court]]); 10 [[Cabinet of the United States|Cabinet]] officers; 12 members of the [[Continental Congress]], 28 [[United States Senate|U.S. Senators]], and 49 [[United States House of Representatives|U.S. Congressmen]].
+
+Although Witherspoon can be heavily credited in the expansion and progression of the university, his ownership ties to the enslavement of Black people in America have caused for an internal Princeton petition to the CPUC Committee on Naming at Princeton University and President Eisgruber for the removal of his statue that currently stands in Firestone Plaza on campus. The statue was originally installed in 2001.<ref>{{Cite web |date=2001-11-05 |title=Larger than life twin statues honor Witherspoon's towering contributions; unveiling Nov. 10 |url=https://www.princeton.edu/news/2001/11/05/larger-life-twin-statues-honor-witherspoons-towering-contributions-unveiling-nov-10 |access-date=2024-09-23 |website=Princeton University |language=en}}</ref><ref>{{Cite web |title=Princeton Alumni Weekly: Raising Kate... Web Exclusives |url=https://www.princeton.edu/~paw/columns/kates_column/kate_120501.html |access-date=2024-09-23 |website=Princeton University}}</ref> As of Fall 2022, the petition has garnered over 250 signatures in support of removing the statue on the basis that it is a distraction to the university's mission and makes community members uncomfortable because of Witherspoon's racist history. The petitions suggests replacing the statue with "an informational plaque which details both the positive and negative aspects of Witherspoon's legacy."<ref>{{Cite web |title=Petition regarding the statue of John Witherspoon on Firestone Plaza |url=https://docs.google.com/forms/d/e/1FAIpQLScOFsk6bIFvhAuWptVMZDWtd8-3pvjlBhA5pU-gk8ToFrbE9A/viewform?usp=embed_facebook |access-date=2022-12-14 |website=Google Docs |language=en}}</ref><ref>{{Cite web |last=Katz |first=Joshua T. |date=2024-03-05 |title=A Tale of Two Statues – Joshua T. Katz |url=https://lawliberty.org/a-tale-of-two-statues/ |access-date=2024-09-23 |website=Law & Liberty |language=en-US}}</ref>
+
+== Revolutionary War ==
+[[File:Declaration of Independence (1819), by John Trumbull.jpg|thumb|left|300px|In ''[[Declaration of Independence (painting)|Declaration of Independence]]'' by [[John Trumbull]] (1818), Witherspoon is the second seated figure from the (viewer's) right among those shown in the background facing the large table.<ref>[http://www.americanrevolution.org/deckey.html americanrevolution.org] Key to Trumbull's picture</ref>]]
+Long wary of the power of the [[The Crown|British Crown]], Witherspoon saw the growing centralization of government, progressive ideology of colonial authorities, and establishment of [[Episcopal polity|episcopacy]] authority as a threat to the liberties of the colonies.  Of particular interest to Witherspoon was the Crown's growing interference in the local and colonial affairs which previously had been the prerogatives and rights of the American authorities. When the Crown began to give additional authority to its appointed episcopacy over church affairs, British authorities hit a nerve in the Presbyterian Scot, who saw such events in the same lens as his Scottish [[Covenanters]].  Soon, Witherspoon came to support the [[American Revolution]], joining the New Jersey [[Committees of correspondence|Committee of Correspondence]] and [[Committee of safety (American Revolution)|Safety]] in early 1774. His 1776 sermon "The Dominion of Providence over the Passions of Men" was published in many editions, and he was elected to the Continental Congress as part of the New Jersey delegation.<ref>{{cite book| last =Herman| first=Arthur|title=The Scottish Enlightenment | publisher=Fourth Estate| year =2003|isbn=978-1-84115-276-9|page=237}}</ref> In Congress, he was appointed congressional chaplain, and in July 1776, he voted to adopt the [[Lee Resolution|Virginia Resolution for Independence]]. In answer to an objection that the country was not yet ready for independence, according to tradition he replied that it "was not only ripe for the measure, but in danger of rotting for the want of it."<ref>[https://books.google.com/books?id=l57g55sRMjYC&pg=PA43 Proceedings and Collections], Wyoming Historical Society</ref><ref>[https://books.google.com/books?id=AzWyLklnT24C&pg=PA211 The Piety of John Witherspoon]</ref>
+
+Witherspoon served in Congress from June 1777 until November 1784 and became one of its most influential members and a workhorse of prodigious energy. He served on over 100 committees, most notably the sitting committees, the board of peace and the committee on public correspondence or common affairs. He spoke often in concurrence; helped draft the [[Articles of Confederation]]; helped organize the executive departments; played a major role in shaping public policy; and drew up the instructions for the peace commissioners. He fought against the flood of paper money and opposed the issuance of bonds without provision for their amortization. "No business can be done, some say, because money is scarce", he wrote.  He also served twice in the [[New Jersey Legislature]] and strongly supported the adoption of the [[Constitution of the United States|United States Constitution]] during the New Jersey ratification debates.
+
+In November 1777, as British forces neared, Witherspoon closed and evacuated the College of New Jersey. The main building, [[Nassau Hall]], was badly damaged, and his papers and personal notes were lost. Witherspoon was responsible for its reconstruction after the war, which caused him great personal and financial difficulty. In 1780 he was elected to a one-year term in the [[New Jersey Legislative Council]] representing [[Somerset County, New Jersey|Somerset County]]. At age 68, he married a 24-year-old widow, with whom he had two more children.<ref>{{cite web|url=https://etcweb.princeton.edu/CampusWWW/Companion/witherspoon_john.html|title=Witherspoon, John|website=etcweb.princeton.edu|access-date=October 7, 2018|archive-date=January 21, 2020|archive-url=https://web.archive.org/web/20200121015017/http://etcweb.princeton.edu/CampusWWW/Companion/witherspoon_john.html|url-status=dead}}</ref>
+
+== Death and burial ==
+[[File:Witherspoon grave at Princeton Cemetery.jpg|thumb|Witherspoon grave at Princeton Cemetery]]
+Witherspoon suffered eye injuries and was blind by 1792. He died in 1794 on his farm [[Tusculum (Princeton, New Jersey)|Tusculum]], just outside Princeton, and is buried along Presidents Row in [[Princeton Cemetery]].<ref>[https://books.google.com/books?id=c4wMAAAAYAAJ&dq=%22Presidents+Row%22+witherspoon&pg=PA93 ''History of Princeton and its Institutions'']</ref> An inventory of Witherspoon's possessions taken at his death included "two slaves ... valued at a hundred dollars each".<ref>{{Cite web|url=http://libguides.princeton.edu/c.php?g=84056&p=544524|title=LibGuides: African American Studies: Slavery at Princeton|last=Knowlton|first=Steven|website=libguides.princeton.edu|language=en|access-date=2017-09-15}}</ref>
+
+== Family ==
+Witherspoon married Elizabeth Montgomery on 14 August 1748 documented in the old parish register in [[Beith]], [[North Ayrshire]]. They were both from the parish.<ref name="nrscotland.gov.uk"/> They had a total of 10 children, only five of whom survived to accompany their parents to America. James, the eldest, graduated from Princeton in 1770 and joined the [[Continental Army]] as an aide to General [[Francis Nash]], with the rank of major and was killed at the [[Battle of Germantown]] on October 4, 1777.<ref>[https://books.google.com/books?id=7Kg-AAAAYAAJ&pg=PA55 The Battle of Germantown]</ref> The next oldest son, John, graduated from Princeton in 1779, practiced medicine in South Carolina, and was lost at sea in 1795. David, the youngest son, graduated the same year as his brother John, married the widow of [[Abner Nash]], and practiced law in [[New Bern, North Carolina]]. Anna, the eldest daughter, married the Reverend [[Samuel Stanhope Smith|Samuel Smith]] on June 28, 1775. The Reverend Samuel Smith succeeded Dr. Witherspoon as president of Princeton in 1795. Frances, the youngest daughter, married Dr. [[David Ramsay (historian)|David Ramsay]], a delegate from South Carolina to the Continental Congress, on March 18, 1763.
+
+== Philosophy ==
+[[File:Witherspoon-paisley.jpg|thumb|250px|right|John Witherspoon Statue, Paisley, Scotland by [[Alexander Stoddart]]]]
+According to Herbert Hovenkamp, Witherspoon's most lasting contribution was the initiation of the [[Scottish common sense realism]], which he had learned by reading [[Thomas Reid]] and two of his expounders [[Dugald Stewart]] and [[James Beattie (poet)|James Beattie]].<ref name=hovenkamp>[https://archive.org/details/sciencereligioni00hove <!-- quote=Science and Religion in America. --> Science and Religion in America, 1800–1860], Herbert Hovenkamp, University of Pennsylvania Press, 1978 {{ISBN|0-8122-7748-1}} pp. 5, 9</ref> <!-- also quoted on page 5 Of HovenKamp -->
+
+At the College of New Jersey, Witherspoon revised the moral philosophy curriculum, strengthened the college's commitment to natural philosophy, and positioned Princeton in the larger transatlantic world of the republic of letters. Witherspoon was a proponent of Christian values, his common sense approach to the [[public morality]] of civil magistrates was influenced by the ethics of Scottish philosophers [[Francis Hutcheson (philosopher)|Francis Hutcheson]] and Reid rather than [[Jonathan Edwards (theologian)|Jonathan Edwards]]. In regard to civil magistrates, Witherspoon thus believed moral judgment should be pursued as a science. He held to old concepts from the [[Roman Republic]] of virtuous leadership by civil magistrates, but he also regularly recommended that his students read such modern philosophers as [[Niccolò Machiavelli|Machiavelli]], [[Montesquieu]], and [[David Hume]], even though he disapproved of Hume's "infidel" stance on religion.
+
+Virtue, he argued, could be deduced through the development of the moral sense, an ethical compass instilled by God in all human beings and developed through religious education (Reid) or civil sociability (Hutcheson).  Witherspoon saw morality as having two distinct components: [[spirituality|spiritual]] and [[wikt:temporal#Adjective|temporal]]. Civil government owed more to the latter than the former in Witherspoon's Presbyterian doctrine. Thus, public morality owed more to the natural moral laws of the [[Age of Enlightenment|Enlightenment]] than to revealed Christianity.
+
+In his lectures on moral philosophy at Princeton, required of all juniors and seniors, Witherspoon argued for the revolutionary [[right to resist|right of resistance]] and recommended [[Separation of powers|checks and balances]] within government. He made a profound impression on his student James Madison, whose suggestions for the United States Constitution followed both Witherspoon's and Hume's ideas. The historian [[Douglass Adair]] writes, "The syllabus of Witherspoon's lectures . . . explains the conversion of the young Virginian to the philosophy of the Enlightenment."<ref>Adair, "James Madison", Fame and the Founding Fathers, ed. Trevor Colbourn (Indianapolis: Liberty Fund, 1974) 181.</ref>
+
+Witherspoon accepted the impossibility of maintaining public morality or virtue in the citizenry without an effective religion. In this sense, the temporal principles of morality required a religious component which derived its authority from the spiritual. Therefore, public religion was a vital necessity in maintaining the public morals. However, in this framework, non-Christian societies could have virtue, which, by his definition, could be found in natural law.  Witherspoon, in accordance with the Scottish moral sense philosophy, taught that all human beings, Christian or otherwise, could be virtuous, but he was nonetheless committed to Christianity as the only route to personal salvation.
+
+Witherspoon owned slaves and lectured against the abolition of slavery.<ref>{{Cite web|last=Redmond|first=Lesa|title=John Witherspoon|url=https://slavery.princeton.edu/stories/john-witherspoon|access-date=2020-06-20|website=slavery.princeton.edu|language=en}}</ref>
+
+However, in his "Lectures on Moral Philosophy", Dr. Witherspoon advocated for the humane treatment of laborers and servants (including slaves), stating:
+{{blockquote|This relation is first generated by the difference which God hath permitted to take place between man and man. Some are superior to others in mental powers and intellectual improvement—some by the great increase of their property through their own, or their predecessors industry, and some make it their choice, finding they cannot live otherwise better, to let out their labor to others for hire.{{pb}}Let us shortly consider (1.) How far this subjection extends. (2.) The duties on each side. As to the first it seems to be only that the master has a right to the labors and ingenuity of the servant for a limited time, or at most for life.  He can have no right either to take away life, or to make it insupportable by excessive labor.  The servant therefore retains all his other natural rights. The practice of ancient nations, of making their prisoners of war slaves, was altogether unjust and barbarous; for though we could suppose that those who were the causes of an unjust war deserved to be made slaves; yet this could not be the case of all who fought on their side; besides the doing so in one instance would authorize the doing it in any other; and those who fought in defense of their country, when unjustly invaded, might be taken as well as others.  The practice was also impolitic, as slaves never are so good or faithful servants, as those who become so for a limited time by consent. | source={{cite book | first=John | last=Witherspoon | title=Lectures on Moral Philosophy |publication-place=Princeton, N.J. | publisher=Princeton University Press | date=1912 | pages=85–86}}}}
+
+The settled opinion among the American founding fathers, including Dr. Witherspoon, was that slavery would eventually disappear naturally within a generation. For this reason, Rev. Witherspoon advocated for "gradual emancipation" of slaves. 
+{{blockquote|In this connection it may be noted that in 1790 President Witherspoon, while a member of the New Jersey Legislature, was chairman of a committee on the abolition of slavery in the state, and brought in a report advising no action, on the ground that the law already forbade the importation of slaves and encouraged voluntary manumission.  He suggested, however, that the state might enact a law that all slaves born after its passage should be free at a certain age—e.g., 28 years, as in Pennsylvania, although in his optimistic opinion the state of society in America and the progress of the idea of universal liberty gave little reason to believe that there would be any slaves at all in America in 28 years' time, and precipitation therefore might do more harm than good. | source={{cite book | first=John | last=Witherspoon | title=Lectures on Moral Philosophy | publication-place=Princeton, N.J. | publisher=Princeton University Press | date=1912 | page=74}}{{verify source|date=March 2024|reason=This is discussion about Witherspoon, not discussion by Witherspoon. Author should be specified.}}}}
+
+== Legacy ==
+Witherspoon was firmly grounded in the Reformed tradition of High to Late Orthodoxy, embedded in the transatlantic Evangelical Awakening of the eighteenth century, and frustrated by the state of religion in the Scottish Kirk. Like [[Benedict Pictet]] (1655–1724), Witherspoon held firmly to the tenets of confessional [[Calvinism]]. And like Pictet, Witherspoon was eager to show that the truths of supernatural revelation could be squared with reason. His aim as a minister was to defend and articulate traditional Scottish Presbyterian theology, without altering or disguising it.<ref>{{Cite web|url=https://www.michaeljkruger.com/congratulations-to-dr-kevin-deyoung/#comment-6577|title=Congratulations to Dr. Kevin DeYoung|last=Kruger|first=Michael J.|date=January 28, 2019|website=Canon Fodder|access-date=January 28, 2019}}</ref>
+
+===Statues===
+* [[Princeton University]], [[Princeton, New Jersey]]<ref>Princeton University [https://www.princeton.edu/pr/pwb/01/1105/1a.shtml "Statue Unveiling"]</ref> 
+* [[Presbyterian Historical Society]], [[Philadelphia]]
+* [[University of the West of Scotland]], [[Paisley, Renfrewshire|Paisley]], Scotland, United Kingdom
+* ''[[Doctor John Witherspoon]]'', [[Connecticut Avenue]] and N Street, N.W., near [[Dupont Circle]], Washington, D.C.<ref>{{cite web|url=http://www.kittytours.org/thatman2/search.asp?subject%3D57 |title=Statue / Monument of John Witherspoon in Washington DC by Sculptor William Couper |access-date=2008-01-04 |url-status=dead |archive-url=https://web.archive.org/web/20080219003042/http://www.kittytours.org/thatman2/search.asp?subject=57 |archive-date=2008-02-19 }} Who Is That Man, Anyway?</ref>
+
+===Buildings===
+* [[Witherspoon Hall]], [[Princeton University]], [[Princeton, New Jersey]]<ref>{{cite web|url=https://etcweb.princeton.edu/Campus/text_Witherspoon.html|title=Witherspoon Hall|website=etcweb.princeton.edu}}</ref>
+* [[Witherspoon Building]], in the [[Market Street, Philadelphia, Pennsylvania|Market East]] neighborhood of Philadelphia<ref name="arch">{{cite web| url = https://www.dot7.state.pa.us/ce/SelectWelcome.asp| title = National Historic Landmarks & National Register of Historic Places in Pennsylvania| publisher = CRGIS: Cultural Resources Geographic Information System| format = Searchable database| access-date = June 17, 2012| archive-date = July 21, 2007| archive-url = https://web.archive.org/web/20070721014609/https://www.dot7.state.pa.us/ce/SelectWelcome.asp| url-status = dead}} ''Note:'' This includes {{cite web |url = https://www.dot7.state.pa.us/ce_imagery/phmc_scans/H001502_01H.pdf |title = National Register of Historic Places Inventory Nomination Form: Witherspoon Building |access-date = 2012-06-16 |author = Richard J. Webster |date = July 1977 }}</ref> 
+* The former [[Witherspoon Street School for Colored Children]], Princeton, New Jersey
+* The former John Witherspoon Middle School, Princeton, New Jersey. In August 2021, the Princeton School Board voted to remove John Witherspoon's name from the local public middle school due to Witherspoon's history as a slave owner who opposed abolition. The Board had previously voted not to make the change, but reversed itself after local residents submitted a petition with more than 1,500 signatures and input gathered at two public forums, temporarily changing the name to the Princeton Unified Middle School until a permanent new name is identified.<ref>{{cite web|url=https://communitynews.org/2020/08/14/princeton-school-board-changes-name-of-john-witherspoon-middle-school/|title=Princeton School Board changes name of John Witherspoon Middle School|author =Sara Hastings |date= August 14, 2020|website=communitynews.org}}</ref>
+
+=== Memberships ===
+
+Witherspoon was elected to the [[American Philosophical Society]] in 1789<ref>{{Cite web|title=John Witherspoon|url=https://search.amphilsoc.org/memhist/search?creator=John+Witherspoon|access-date=15 December 2020|website=American Philosophical Society Member History|publisher=[[American Philosophical Society]]}}</ref>
+
+===Other===
+* [[John Witherspoon College]], a [[Nondenominational Christianity|non-denominational Christian]] liberal arts<ref>"{{usurped|1=[https://web.archive.org/web/20150409102828/http://www.johnwitherspooncollege.org/page/liberalarts.aspx Liberal Arts? Are You Kidding?]}}" ''John Witherspoon College''</ref> college in [[Rapid City, South Dakota]]
+* [[Witherspoon Institute]], a research center in Princeton, New Jersey<ref>[http://www.winst.org/index.php The Witherspoon Institute] {{webarchive|url=https://web.archive.org/web/20100410182134/http://www.winst.org/index.php |date=2010-04-10 }}</ref>
+* Witherspoon Society, an organization of laypeople within the [[Presbyterian Church (USA)]]<ref>{{cite web|url=http://www.witherspoonsociety.org/|title=Welcome witherspoonsociety.org - BlueHost.com|website=www.witherspoonsociety.org}}</ref> merged with Voices of Sophia in 2008 to form Presbyterian Voices for Justice, which subsequently closed in 2020.<ref>{{cite web|url=https://www.presbyterianmission.org/story/presbyterian-voices-for-justice-celebrates-its-history-as-it-donates-to-three-social-justice-causes/|title=Presbyterian Voices for Justice celebrates its history as it donates to three social justice causes |website=www.presbyterianmission.org|date=November 4, 2020 }}</ref>
+* Witherspoon Street, in: Princeton, New Jersey; [[Louisville, Kentucky]]; and Paisley, Scotland
+* SS ''John Witherspoon'', a [[Liberty ship]] [[ship class|class]] [[United States Merchant Marine]] ship during World War II; participated in an [[Allies of World War II|Allied]] [[convoy]], code named [[Convoy PQ 17|PQ 17]], and was sunk in the [[Barents Sea]] by the [[German submarine U-255]] on [[List of shipwrecks in July 1942#6 July|July 6, 1942]]
+* Portrayed in the musical ''1776'', about the debates over and eventual adoption of the Declaration of Independence, by [[Edmund Lyndeck]] in the [[1776 (musical)|1969 stage play]] and by [[James Noble (actor)|James Noble]] in the [[1776 (film)|1972 film]]
+* Witherspoon Wing; a prominent section of the set of House MD.
+
+==See also==
+* [[Memorial to the 56 Signers of the Declaration of Independence]]
+
+== References ==
+
+=== Citations ===
+{{reflist}}
+
+=== Sources ===
+* {{cite journal |last=Burns |first=David G. C. |date=December 2005 |title = The Princeton Connection |journal=The Scottish Genealogist |volume=52 |issue=4 |issn = 0300-337X}}
+*{{cite DNB|wstitle=Witherspoon, John|first=Edward Irving|last=Carlyle|author-link=Edward Irving Carlyle|no-icon=1|volume=62}}{{PD-notice}}
+* Collins, Varnum L.  ''President Witherspoon:  A Biography'', 2 vols. (1925, repr. 1969)
+* [[Ashbel Green]], ed.  ''The Works of the Rev. John Witherspoon'', 4 vols. (1802, repr. with a new introduction by L. Gordon Tait, 2003)
+* Morrison, Jeffry H. ''John Witherspoon and the Founding of the American Republic'' (2005)
+* Pomfret, John E.. '"Witherspoon, John" in ''Dictionary of American Biography'' (1934)
+* Tait, L. Gordon. ''The Piety of John Witherspoon: Pew, Pulpit, and Public Forum'' (2001)
+* Moses Coit Tyler "President Witherspoon in the American Revolution" The American Historical Review Volume 1, Issue 1, July 1896. pp.&nbsp;671–79. [https://books.google.com/books?id=4QY5AAAAMAAJ&dq=president+witherspoon+in+the+american+revolution&pg=PA671]
+* Woods, David W.. ''John Witherspoon'' (1906)
+* ''An Animated Son of Liberty – A life of John Witherspoon'' J. Walter McGinty (2012)
+
+===Further reading===
+* {{cite book |last=Tyler |first=Moses Coit |editor=Jameson, J. Franklin |title=John Witherspoon |location=New York |publisher=Kraus Reprints / The American historical review |year=1963 |orig-year=1895-1896 |pages=671–679 |url=https://archive.org/details/americanhistoric18951896jame/page/n7/mode/2up/search/mcclary |ref=tyler}}
+
+== External links ==
+{{Sister project links|wikt=no |b=no |n=no |s=Author:John Knox Witherspoon |v=no}}
+
+* [https://www.princeton.edu/pub/presidents/witherspoon/ Biography on Princeton University's website]
+* {{CongBio|W000660}}
+* {{prdl|90}}
+* [http://www.richardsibbes.com/Princeton.Cemetery.Presidents.htm Photographic tour of John Witherspoon's grave at Princeton Cemetery.]
+* [http://www.colonialhall.com/witherspoon/witherspoon.php Biography by Rev. Charles A. Goodrich, 1856]
+
+{{s-start}}
+{{s-aca}}
+{{s-bef|before=[[Samuel Finley]]}}
+{{s-ttl|title=[[President of Princeton University|President of the College of New Jersey]]|years=1768–1794}}
+{{s-aft|after=[[Samuel Stanhope Smith]]}}
+{{s-rel}}
+{{s-new|office}}
+{{s-ttl|title=[[List of Moderators of the General Assembly of the Presbyterian Church in the United States of America|Convening Moderator of the General Assembly of the Presbyterian Church in the United States of America]]|years=1789}}
+{{s-aft|after=John Rodgers}}
+{{s-end}}
+
+{{USDecOfIndSig}}
+{{USArticlesOfConfederationSig}}
+{{Princeton presidents}}
+{{PCUSA General Assembly moderators}}
+
+{{Subject bar
+|portal1        = Scotland
+|portal2        = Biography
+|portal3        = Christianity
+|portal4        = New Jersey
+|commons        = yes
+|commons-search = John Witherspoon
+|s              = yes
+|s-search       = John Witherspoon
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Witherspoon, John}}
+[[Category:1723 births]]
+[[Category:1794 deaths]]
+[[Category:18th-century American farmers]]
+[[Category:18th-century American male writers]]
+[[Category:18th-century American politicians]]
+[[Category:18th-century American theologians]]
+[[Category:18th-century Calvinist and Reformed theologians]]
+[[Category:18th-century ministers of the Church of Scotland]]
+[[Category:18th-century Presbyterian ministers]]
+[[Category:18th-century Scottish Presbyterian ministers]]
+[[Category:18th-century Scottish Christian theologians]]
+[[Category:18th-century Scottish writers]]
+[[Category:Alumni of New College, Edinburgh]]
+[[Category:American activists with disabilities]]
+[[Category:American blind people]]
+[[Category:American Calvinist and Reformed theologians]]
+[[Category:American evangelicals]]
+[[Category:American politicians with disabilities]]
+[[Category:American proslavery activists]]
+[[Category:American slave owners]]
+[[Category:Blind activists]]
+[[Category:Blind clergy]]
+[[Category:Blind politicians]]
+[[Category:Burials at Princeton Cemetery]]
+[[Category:Clergy in the American Revolution]]
+[[Category:Continental Congressmen from New Jersey]]
+[[Category:Founding Fathers of the United States]]
+[[Category:Members of the New Jersey Legislative Council]]
+[[Category:People from Beith]]
+[[Category:People from colonial New Jersey]]
+[[Category:People from East Lothian]]
+[[Category:People from Paisley, Renfrewshire]]
+[[Category:Presbyterian Church in the United States of America ministers]]
+[[Category:Presidents of Princeton University]]
+[[Category:Scottish blind people]]
+[[Category:Scottish Calvinist and Reformed theologians]]
+[[Category:Scottish emigrants to the Thirteen Colonies]]
+[[Category:Scottish evangelicals]]
+[[Category:Signers of the Articles of Confederation]]
+[[Category:Signers of the United States Declaration of Independence]]
+[[Category:Witherspoon Institute]]

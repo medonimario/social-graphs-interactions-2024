@@ -1,0 +1,209 @@
+{{Short description|American historian, philosopher and writer (1885–1981)}}
+{{Other uses|William Durant (disambiguation){{!}}William Durant}}
+{{Use mdy dates|date=October 2022}}
+{{Infobox writer
+| name             = William Durant
+| image            = Will Durant 1.jpg
+| imagesize        = 
+| caption          = Durant in 1967
+| birth_name       = William James Durant
+| birth_date       = {{Birth date |1885|11|5}}
+| birth_place      = {{nowrap|[[North Adams, Massachusetts]],}} U.S.
+| death_date       = {{Death date and age |1981|11|7|1885|11|5}}
+| death_place      = Los Angeles, California
+| occupation       = {{flatlist|
+* Historian
+* writer
+* philosopher
+* teacher
+}}
+| genre            = Non-fiction
+| subject          = History, philosophy, religion
+| spouse           = {{marriage|[[Ariel Durant|Ariel Kaufman]]|1913|}}
+| education        = [[Saint Peter's University|Saint Peter's College]] ([[Bachelor of Arts|BA]], 1907)<br/>[[Columbia University]] ([[PhD]], 1917)
+}}
+
+'''William James Durant''' ({{IPAc-en|d|ə|ˈ|r|æ|n|t}}; November 5, 1885 – November 7, 1981) was an American historian and philosopher, best known for his 11-volume work, ''[[The Story of Civilization]]'', which contains and details the history of Eastern and Western civilizations. It was written in collaboration with his wife, [[Ariel Durant]], and published between 1935 and 1975. He was earlier noted for ''[[The Story of Philosophy]]'' (1926), described as "a groundbreaking work that helped to popularize philosophy".<ref name = Rogers>{{cite book | last = Rogers |first= Will|title= The Papers of Will Rogers|year= 1966|publisher= University of Oklahoma Press|page = 393|editor-first = Steven K. | editor-last = Gragert}}{{dubious | date = December 2013}} ''The details of this book appear to be wrong – see talk page''</ref>
+
+Durant conceived of philosophy as total [[Point of view (philosophy)|perspective]] or seeing things ''sub specie totius'' (i.e., "from the perspective of the whole")—a phrase inspired by [[Spinoza]]'s ''[[sub specie aeternitatis]]'', roughly meaning "from the perspective of [[eternity|the eternal]]".<ref>{{cite web|last= Durant |first= Will |title= What is Philosophy? |url= http://www.willdurant.com/philosophy.htm |url-status= dead |archive-url= https://web.archive.org/web/20101228120611/http://www.willdurant.com/philosophy.htm |archive-date= December 28, 2010 }}</ref> He sought to unify and humanize the great body of [[Epistemology|historical knowledge]], which had grown voluminous and become fragmented into [[esoteric]] specialties, and to [[Relevance|vitalize]] it for [[Contemporary philosophy|contemporary application]].<ref>
+{{cite book
+| last=  Durant | first = Will 
+| title= Our Oriental Heritage
+| year= 1935
+| publisher= Simon & Schuster
+| page = vii}}
+</ref> As a result of their success, he and his wife were jointly awarded the [[Pulitzer Prize for General Nonfiction]] in 1968 and the [[Presidential Medal of Freedom]] in 1977.
+
+==Early life==
+William James Durant was born in [[North Adams, Massachusetts|North Adams]], Massachusetts, to [[French-Canadian]] [[Catholic]] parents, Joseph Durant and Mary Allard, who had been part of the [[Quebec emigration]] to the United States.<ref name="FFRF">{{cite web|url=https://ffrf.org/news/day/dayitems/item/14888-will-durant|title=Will Durant|date=November 5, 1980 |publisher=Freedom From Religion Foundation|access-date=May 29, 2020}}</ref><ref name="Who's Who">{{cite book |last1=Brennan |first1=Elizabeth A. |url=https://books.google.com/books?id=63nvmt4HqTEC&q=%22will+durant%22+%22Ariel+kaufman%22&pg=PA257 |title=Who's Who of Pulitzer Prize Winners |last2=Clarage |first2=Elizabeth C. |publisher=Oryx Press |year=1999 |isbn=1-57356-111-8 |place=Phoenix |page=257 |oclc=750569323 |via=Google Books}}</ref>
+
+After graduating from [[St. Peter's Preparatory School]] in [[Jersey City, New Jersey]], in 1903, Durant enrolled at [[Saint Peter's University|Saint Peter's College]] (now Saint Peter's University), also in Jersey City, where he graduated in 1907.<ref name="will to capture">{{cite web|url=https://archive.hudsonreporter.com/2010/11/04/the-will-to-capture-history/|title=The will to capture history|work=Hudson Reporter|date=November 4, 2010|access-date=May 29, 2020}}</ref> Historian Joan Rubin writes of that period, "Despite some adolescent flirtations, he began preparing for the vocation that promised to realize his mother's fondest hopes for him: the priesthood. In that way, one might argue, he embarked on a course that, while distant from [[Yale]]'s or [[Columbia University|Columbia]]'s apprenticeships in gentility, offered equivalent cultural authority within his own milieu."<ref name= Rubin>Rubin, Joan Shelley. ''The Making of Middlebrow Culture'', University of North Carolina Press (1992).</ref>
+
+In 1905, he began experimenting with [[socialist]] philosophy, but, after [[World War I]], he began recognizing that a "[[Abusive power and control|lust for power]]" underlay all forms of political behavior.<ref name= Rubin /> However, even before the war, "other aspects of his sensibility had competed with his radical leanings," notes Rubin. She adds that "the most concrete of those was a persistent penchant for philosophy. With his energy invested in [[Baruch Spinoza]], he made little room for the Russian anarchist [[Mikhail Bakunin]]. From then on, writes Rubin, "his retention of a model of selfhood predicated on discipline made him unsympathetic to anarchist injunctions to 'be yourself.'... To be one's 'deliberate self,' he explained, meant to 'rise above' the impulse to 'become the slaves of our passions' and instead to act with 'courageous devotion' to a moral cause."<ref name=Rubin />
+
+==Teaching career==
+[[Image:The Modern School in New York City, circa 1911-12.jpg|thumb|The Modern School in New York City, circa 1911–12. Will Durant stands with his pupils. This image was used on the cover of the first ''Modern School'' magazine.]]
+From 1907 to 1911, Durant taught [[Latin]] and French at [[Seton Hall University]] in [[South Orange, New Jersey]].<ref name="Who's Who"/>
+
+After leaving Seton Hall, Durant was a teacher at [[Ferrer Modern School]] from 1911 to 1913.<ref name="Who's Who"/> Ferrer was "an experiment in libertarian education," according to the ''Who's Who of Pulitzer Prize Winners''.<ref name="Who's Who"/> Alden Freeman, a supporter of the Ferrer Modern School, sponsored him for a tour of Europe.<ref>{{cite book|last1=Durant|first1=Will|title=Our Oriental Heritage|date=1935|publisher=Simon & Schuster|page=1051}}</ref> 
+
+In 1913, he resigned his post as teacher and married the 15-year-old Ariel Kaufman; they had one daughter, Ethel, and a "foster" son, Louis, whose mother was Flora—Ariel's sister.<ref name="Who's Who" /> To support themselves, he began lecturing in a Presbyterian church for $5 and $10; the material for the lectures became the starting point for ''The Story of Civilization''.
+
+By 1914, he began to reject "intimations of human evil," notes Rubin, and to "retreat from [[radical social change]]." She summarizes the changes in his overall philosophy:
+{{blockquote|Instead of tying [[human progress]] to the rise of the [[proletariat]], he made it the inevitable outcome of the laughter of young children or the endurance of his parents' marriage. As Ariel later summarized it, he had concocted, by his mid-30s, "that sentimental, idealizing blend of love, philosophy, Christianity, and socialism which dominated his spiritual chemistry" the rest of his life.
+
+The attributes ultimately propelled him away from radicalism as a substitute faith and from teaching young anarchists as an alternative vocation. Instead, late in 1913 he embarked on a different pursuit: the dissemination of culture.<ref name=Rubin/>}}
+
+Durant was director and lecturer at the Labor Temple School in New York City from 1914 to 1927 while pursuing a PhD at [[Columbia University]] that he completed in 1917, the year he also served as an instructor in philosophy.<ref name="Who's Who"/>
+
+==Writing career==
+In 1908, Durant worked as a reporter for [[Arthur Brisbane]]'s ''[[New York Journal|New York Evening Journal]]''.<ref name="Who's Who"/> At the ''Evening Journal'', he wrote several articles on [[sexual crime|sexual criminals]].
+
+In 1917, while working on a doctorate in philosophy at [[Columbia University]], he wrote his first book, ''Philosophy and the Social Problem''. He discussed the idea that philosophy had not grown because it had refused to confront the actual problems of society. He received his doctorate from Columbia that same year.<ref>{{Citation | url = http://www.theobjectivestandard.com/issues/2011-spring/a-symphony-of-history-will-durants-the-story-of-civilization/ | title = A Symphony of History: Will Durant's The Story of Civilization | journal = The Objective Standard |first = Dan |last = Norton |date=Spring 2011 | volume = 6 | number = 1 | at = 3rd paragraph | access-date = May 29, 2012}}.</ref> He was also an instructor at the university.
+
+===''The Story of Philosophy''===
+''[[The Story of Philosophy]]'' originated as a series of [[Little Blue Books]] (educational pamphlets aimed at workers) and because it was so popular, it was republished as a hardcover book by [[Simon & Schuster]] in 1926<ref>{{Citation | url = http://ktwu.wuacc.edu/journeys/scripts/412b.html | title = WUACC | url-status = dead | archive-url = https://web.archive.org/web/20070310234115/http://ktwu.wuacc.edu/journeys/scripts/412b.html | archive-date = March 10, 2007 | df = mdy-all }}.</ref> and became a bestseller, giving the Durants the financial independence that allowed them to travel the world several times and spend four decades writing ''[[The Story of Civilization]]''. Will left teaching and began work on the 11-volume ''Story of Civilization''.
+
+=== ''The Story of Civilization''===
+{{refimprove section|date = August 2024}}
+{{main|The Story of Civilization}}
+[[Image:The collection of 11 volumes of the Story of Civilization by Will and Ariel Durant.jpg|thumb|right|400px|The 11 volumes of ''The Story of Civilization'']]
+
+Throughout their writing of ''The Story of Civilization'', the Durants strove to create what they called "integral history."{{cite quote|date = August 2024}} They opposed the "specialization" of history, an anticipatory rejection of what some have called{{weasel words inline|date = August 2024}} the "cult of the expert."{{cite quote|date = August 2024}} Their goal was to write a biography of a [[civilization]], in this case, the history of the West; not only would it describe the usual history of the Western world's wars, the history of politics and biographies of people of greatness and villainy, but also the history of the Western world's [[Western culture|culture]], art, [[Western philosophy|philosophy]], religion, and the rise of [[mass communication]].{{fact|date = August 2024}} Much of ''The Story'' considers the living conditions of everyday people throughout the 2500-year period that their "story" of the West covers, and bring an unabashedly moral framework to their accounts,{{fact|date = August 2024}} constantly stressing the "dominance of the strong over the weak, the dominance of the clever over the simple."{{cite quote|date = August 2024}} As of this date,{{when|date = August 2024}}<!--THIS IS THE DATE OF THE SOURCE FROM WHICH THE CONTENTION THAT THE WORK IS "MOST SUCCESSFUL"... IN HISTORY IS TAKEN.-->''The Story of Civilization'' is the most successful [[historiography|historiographical]] series ever written.{{says who|date = August 2024}} In the 1990s, an unabridged audiobook production of all 11 volumes was produced by [[Books on Tape (company)|Books On Tape]], read by [[Grover Gardner]] (under the alias Alexander Adams).{{fact|date = August 2024}}
+
+The Durants were awarded the [[Pulitzer Prize]] for literature for ''Rousseau and Revolution'' (1967), the 10th volume of ''The Story of Civilization''.{{fact|date = August 2024}} In 1977, it was followed by one of the highest awards was ever granted to civilians by the [[Federal government of the United States|United States government]], the [[Presidential Medal of Freedom]] (awarded by President [[Gerald Ford]]).{{fact|date = August 2024}} As well, the Durants received the Golden Plate Award of the [[Academy of Achievement|American Academy of Achievement]] in 1976.<ref>{{cite web|title= Golden Plate Awardees of the American Academy of Achievement |website=www.achievement.org|publisher=[[American Academy of Achievement]]|url= https://achievement.org/our-history/golden-plate-awards/}}</ref>
+<!--
+The first volume of ''The Story of Civilization'' series, titled ''Our Oriental Heritage'' (1935), is divided into an introduction and three books; the introduction takes the reader through the different aspects of civilization (economical, political, moral and mental).{{fact|date = August 2024}} Book One is dedicated to the civilizations of the [[Near East]] (''[[Sumer]]ia'', ''[[Ancient Egypt|Egypt]]'', ''[[Babylonia]]'', ''[[Assyria]]'', ''[[Judea]]'' and ''[[History of Iran|Persia]]'').{{fact|date = August 2024}} Book Two is entitled "''India'' and Her Neighbors", and Book Three moves further into the east, where to ''[[History of China|Chinese Civilization]]'' and to the  ''[[History of Japan]]''.{{fact|date = August 2024}}
+-->
+
+===Other works===
+[[File:DeclarationofInterdependence.jpg|thumb|right|150px|A copy of the Durant Declaration of INTERdependence]]
+On April 8, 1944, Durant was approached by two leaders of the Jewish and Christian faiths, Meyer David and Christian Richard, about starting "a movement, to raise moral standards." He suggested instead that they start a movement against racial intolerance and outlined his ideas for a "[[Declaration of Interdependence]]". The movement for the declaration, Declaration of INTERdependence, Inc., was launched at a gala dinner at the [[Hollywood Roosevelt Hotel]] on March 22, 1945, attended by over 400 people including [[Thomas Mann]] and [[Bette Davis]].<ref name="Interdependence">{{Citation |title=Interdependence |url = http://www.willdurant.com/interdependence.htm |publisher=Will Durant Foundation |archive-url= https://web.archive.org/web/20120310225853/http://www.willdurant.com/interdependence.htm |archive-date = March 10, 2012}}.</ref> The Declaration was read into the ''[[Congressional Record]]'' on October 1, 1945, by [[Ellis E. Patterson]].<ref>{{Citation | title = Declaration |url=http://www.willdurant.com/decenglish.pdf |archive-date= December 18, 2011 |archive-url= https://web.archive.org/web/20111218080336/http://www.willdurant.com/decenglish.pdf |publisher = Will Durant foundation}}.</ref>{{Efn | Other sources say it was in 1949.<ref name = "Interdependence" />}}
+
+Throughout his career, Durant made several speeches, including "Persia in the History of Civilization", which was presented as an address before the [[Iran-America Society]] in [[Tehran]], [[Iran]], on April 21, 1948, and it had been intended for inclusion in the ''Bulletin of the Asia Institute'' (formerly, the ''Bulletin of the American Institute for Persian'', then ''Iranian, Art and Archaeology''), Vol. VII, no. 2, which never saw publication.<ref>{{cite web|last=Durant|first=Will|title=Persia in the History of Civilization|url=http://www.mazdapublisher.com/Documents/Persian%20Civilization.pdf|work=Addressing Iran-America Society|publisher=Mazda Publishers|url-status=dead|archive-url=https://web.archive.org/web/20110723072146/http://www.mazdapublisher.com/Documents/Persian%20Civilization.pdf|archive-date=July 23, 2011}}</ref>
+
+''Rousseau and Revolution'' was followed by a slender volume of observations which was titled ''[[The Lessons of History]]'', which was both a synopsis of the series as well as an analysis of [[human history]].
+
+Though Ariel and Will had intended to carry the work on ''The Story of Civilization'' into the 20th century, at their now very advanced age, they expected the 10th volume to be their last. However, they went on to publish a final volume, their 11th, ''The Age of Napoleon'' in 1975. They also left notes behind for a 12th volume, ''The Age of Darwin'', as well as an outline of a 13th volume, ''The Age of Einstein'', which would have taken ''The Story of Civilization'' to 1945.
+
+Three posthumous works by Durant have been published in recent years, ''The Greatest Minds and Ideas of All Time'' (2002), ''Heroes of History: A Brief History of Civilization from Ancient Times to the Dawn of the Modern Age'' (2001) and ''Fallen Leaves'' (2014).
+
+====Final years====
+The Durants shared an intense love for one another as they explained in their ''Dual Autobiography''.  After Will entered the hospital, Ariel stopped eating, and she died on October 25, 1981. Though their daughter, Ethel, and their grandchildren strove to conceal the news of Ariel's death from the ailing Will, he found out that she had died while he was watching the evening news, and he died two weeks later, two days after his 96th birthday, on November 7, 1981. Will was buried beside Ariel in the [[Westwood Village Memorial Park Cemetery]], in Los Angeles.
+
+===Writing about Russia===
+In 1933, he published ''Tragedy of Russia: Impressions from a Brief Visit'' and soon afterward, he published ''The Lesson of Russia''.  A few years after the books were published, the social commentator [[Will Rogers]] read them and he described a symposium which he had attended which included Durant as one of the contributors to it. He later wrote of Durant, "He is just about our best writer on Russia. He is the most fearless writer that has been there. He tells you just what it's like. He makes a mighty fine talk. One of the most interesting lecturers we have, and a fine fellow."<ref name="Rogers" />
+
+===Writing about India===
+
+In 1930, Durant visited [[British Raj|British India]] to collect information for ''The Story of Civilization''. While in India, Durant was shocked by the [[Poverty in India|poverty]] and instances of [[starvation]] he witnessed, to the point where he took a period of time off from his intended goal to write a short book titled ''The Case for India'' about the "conscious and deliberate bleeding of India" by Britain.<ref>[[Shashi Tharoor|Tharoor, Shashi]], (2019). [[Inglorious Empire|Inglorious Empire: What the British Did to India]]. [[Minneapolis]], Minnesota, [[Scribe Publications]], pg. 1</ref> He also stated that "I began to feel that I had come upon the greatest crime in all history." when learning of the plight of India.<ref>{{Cite web |date=2019-03-07 |title=When a U.S. Historian Called British Rule In Bharat 'The Greatest Crime In All History' |url=https://hindupost.in/history/when-a-u-s-historian-called-british-rule-in-bharat-the-greatest-crime-in-all-history/ |access-date=2024-05-28 |website=hindupost.in |language=en-US}}</ref><ref>{{Cite web |last=Balakrishna |first=Sandeep |date=2019-03-15 |title=A Case for India: A Glimpse into how the British Plundered India and Destroyed a Great Civilisation |url=https://www.dharmadispatch.in/history/a-case-for-india-a-glimpse-into-how-the-british-plundered-india-and-destroyed-a-great-civilisation |access-date=2024-05-28 |website=The Dharma Dispatch |language=en}}</ref> In ''The Case for India'', Durant wrote that "The British conquest of India was the invasion and destruction of a high civilization by a [[East India Company|trading company]] utterly without scruple or principle, careless of art and greedy of gain, over-running with fire and sword a country temporarily disordered and helpless, bribing and murdering, annexing and stealing, and beginning their career of illegal and 'legal' plunder which has now gone on ruthlessly for one hundred and seventy-three years."<ref>Durant, Will, (1930). ''The Case for India'', New York City, [[Simon & Schuster]], p. 7</ref>
+
+== Personal views ==
+On his personal religious beliefs, Durant wrote that “I am prepared to have you put me down as an [[atheist]], since I have reluctantly abandoned belief in a personal and loving God. But I am loath to leave the word God out of my life and creed.”, adding that he was “a Christian in the literal and difficult sense of sincerely admiring the personality of Christ and making a persistent effort to behave like a Christian.”<ref>{{Cite web |date=2015-05-06 |title=An Examined Life |url=https://www.americamagazine.org/issue/culture/examined-life |access-date=2024-03-13 |website=America Magazine |language=en}}</ref>
+
+==Reception==
+[[File:Ariel and Will Durant.jpg|thumb|Ariel and Will Durant in the library of their home in Los Angeles, 1967]]While Durant's work was well received by popular audiences, its academic reception was more critical. Classics scholar [[Moses Finley]] criticised Durant's ''The Life of Greece'' on a number of grounds, including the book's [[Racial essentialism|racial essentialism]] and support for the [[great man theory]] of history.<ref>{{Cite web |date=2019-07-13 |title=The Reviews Are In {{!}} Society for US Intellectual History |url=https://s-usih.org/2019/07/the-reviews-are-in/ |access-date=2024-03-13 |language=en-US}}</ref>
+
+==Selected bibliography==
+Will Durant's full bibliography can be found online.<ref>{{cite web|url=http://www.willdurant.com/bibliography.htm|title=Bibliography|archive-url=https://web.archive.org/web/20130210152050/http://www.willdurant.com/bibliography.htm|archive-date=February 10, 2013}}</ref>
+* 1917. ''[[iarchive:philosophyandso01duragoog|Philosophy and the Social Problem]]''. New York: [[Macmillan Publishers|Macmillan]].
+* 1926. ''[[The Story of Philosophy]].'' New York: [[Simon & Schuster]].
+* 1927. ''Transition''. New York: Simon & Schuster.
+* 1929. ''The Mansions of Philosophy''. New York: Simon & Schuster.
+* 1930. ''The Case for India''. New York: Simon & Schuster.
+* 1931. ''A Program for America''. New York: Simon & Schuster.
+* 1931. ''Adventures in Genius''. New York: Simon & Schuster.
+* 1932. ''On the Meaning of Life.'' New York: Ray Long and Richard R. Smith.
+* 1933. ''[https://archive.org/details/durant-will-the-tragedy-of-russia_202012 The Tragedy of Russia: Impressions From a Brief Visit]''. New York: Simon & Schuster.
+* 1936. ''The Foundations of Civilisation''. New York: Simon & Schuster.
+* 1953. ''The Pleasures of Philosophy''. New York: Simon & Schuster.
+* 1968. (with Ariel Durant) ''[[The Lessons of History]]''. New York: Simon & Schuster.
+* 1970. (with Ariel Durant) ''Interpretations of Life''. New York: Simon & Schuster.
+* 1977. (with Ariel Durant) ''A Dual Autobiography''. New York: Simon & Schuster.
+* 2001. ''[[Heroes of History|Heroes of History: A Brief History of Civilization from Ancient Times to the Dawn of the Modern Age]]''. New York: Simon & Schuster.
+* 2002. ''The Greatest Minds and Ideas of All Time''. New York: Simon & Schuster.
+* 2003. ''An Invitation to Philosophy: Essays and Talks on the Love of Wisdom''. Promethean Press.
+* 2008. ''Adventures in Philosophy''. Promethean Press.
+* 2014. ''Fallen Leaves''. New York: Simon & Schuster.
+
+===Little Blue Books contributions===
+* 1922. ''A Guide to Plato''. Girard, Kansas: [[Haldeman-Julius Company]].
+* 1922. ''The Story of Aristotle's Philosophy''. Girard, Kansas: Haldeman-Julius Company.
+* 1923. ''A Guide to Francis Bacon''. Girard, Kansas: Haldeman-Julius Company.
+* 1924: ''A Guide to Schopenhauer''. Girard, Kansas: Haldeman-Julius Company.
+* 1924. ''A Guide to Spinoza''. Girard, Kansas: Haldeman-Julius Company.
+* 1924. ''The Philosophy of Immanuel Kant''. Girard, Kansas: Haldeman-Julius Company.
+* 1924. ''The Story of Friedrich Nietzsche's Philosophy''. Girard, Kansas: Haldeman-Julius Company.
+* 1924. ''Voltaire and the French Enlightenment''. Girard, Kansas: Haldeman-Julius Company.
+* 1925. ''Anatole France: The Man and His Work''. Girard, Kansas: Haldeman-Julius Company.
+* 1925. ''Contemporary American Philosophers: Santayana, James and Dewey''. Girard, Kansas: Haldeman-Julius Company.
+* 1925. ''Contemporary European Philosophers: Bergson, Croce and Bertrand Russell''. Girard, Kansas: Haldeman-Julius Company.
+* 1925. ''The Philosophy of Herbert Spencer''. Girard, Kansas: Haldeman-Julius Company.
+* 1928. (with Clarence Darrow) ''Are We Machines?'' Girard, Kansas: Haldeman-Julius Company.
+
+===''[[The Story of Civilization]]''===
+* 1935. ''Our Oriental Heritage''. New York: Simon & Schuster.
+* 1939. ''The Life of Greece''. New York: Simon & Schuster.
+* 1944. ''Caesar and Christ''. New York: Simon & Schuster.
+* 1950. ''The Age of Faith''. New York: Simon & Schuster.
+* 1953. ''The Renaissance''. New York: Simon & Schuster.
+* 1957. ''The Reformation''. New York: Simon & Schuster.
+* 1961. (with Ariel Durant) ''The Age of Reason Begins''. New York: Simon & Schuster.
+* 1963. (with Ariel Durant) ''The Age of Louis XIV''. New York: Simon & Schuster.
+* 1965. (with Ariel Durant) ''The Age of Voltaire''. New York: Simon & Schuster.
+* 1967. (with Ariel Durant) ''Rousseau and Revolution''. New York: Simon & Schuster.
+* 1975. (with Ariel Durant) ''The Age of Napoleon''. New York: Simon & Schuster.
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist|32em}}
+
+== External links ==
+{{Commons category|Will Durant}}
+{{wikiquote}}
+* [http://www.willdurant.net/ The Will Durant Timeline Project]
+* [http://www.pulitzer.org/awards/1968 The Pulitzer Prizes: 1968]
+* [https://www.britannica.com/biography/Will-Durant-and-Ariel-Durant "Durant, Will and Durant, Ariel."] Encyclopædia Britannica Premium Service (Accessed May 14, 2005)
+* {{Gutenberg author | id=Durant,+Will }}
+* {{Internet Archive author |sname=Will Durant}}
+* {{Librivox author |id=14441}}
+* {{Citation | title = Articles | url = http://www.willdurant.com/articles.htm | archive-date = May 17, 2011 | archive-url = https://web.archive.org/web/20110517124520/http://www.willdurant.com/articles.htm | publisher = Will Durant Foundation}}, preserved at the [[Internet Archive]]
+* [https://web.archive.org/web/20070914093643/http://www.cloudcraft.com/knowledge/ Will Durant's list of One Hundred Best Books for an Education]
+* [https://www.studium.com/books/durant.html Links to Each of Will Durant's 100 Best Books for an Education] {{Webarchive|url=https://web.archive.org/web/20230401160741/http://www.studium.com/books/durant.html |date=April 1, 2023 }}
+* {{IMDb name|243887}}
+* {{Find a Grave|grid=2356}}
+
+{{Clear}}
+{{PulitzerPrize GeneralNon-Fiction 1962–1975}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Durant, Will}}
+[[Category:1885 births]]
+[[Category:1981 deaths]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century American philosophers]]
+[[Category:American educators]]
+[[Category:American historians of philosophy]]
+[[Category:American male essayists]]
+[[Category:American male non-fiction writers]]
+[[Category:American people of French-Canadian descent]]
+[[Category:Burials at Westwood Village Memorial Park Cemetery]]
+[[Category:Columbia University alumni]]
+[[Category:Ferrer Center and Colony]]
+[[Category:Historians from Massachusetts]]
+[[Category:People from North Adams, Massachusetts]]
+[[Category:Philosophers of history]]
+[[Category:American philosophy academics]]
+[[Category:Philosophy writers]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:Pulitzer Prize for General Non-Fiction winners]]
+[[Category:Saint Peter's University alumni]]
+[[Category:St. Peter's Preparatory School alumni]]
+[[Category:Theorists on Western civilization]]
+[[Category:Works by Will Durant| ]]
+[[Category:World historians]]
+[[Category:Members of the American Academy of Arts and Letters]]

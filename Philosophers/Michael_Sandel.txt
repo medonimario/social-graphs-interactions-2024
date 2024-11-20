@@ -1,0 +1,156 @@
+{{short description|American political philosopher (born 1953)}}
+{{for|the British artist|Michael Sandle}}
+{{use mdy dates|date=August 2023}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[Contemporary philosophy]]
+|image            = Michael Sandel Me Judice.png
+|birth_name       = Michael Joseph Sandel
+|birth_date       = {{birth date and age|1953|03|05}}
+|birth_place      = [[Minneapolis]], [[Minnesota]], U.S.
+|alma_mater       = {{unbulleted list|[[Brandeis University]] ([[Bachelor of Arts|BA]])|[[Balliol College, Oxford]] ([[DPhil]])}}
+|notable_works    = {{unbulleted list|''[[Liberalism and the Limits of Justice]]'' (1982)|''[[Justice: What's the Right Thing to Do?]]'' (2009)}}
+|school_tradition = {{hlist | [[Analytic philosophy|Analytic]] | [[communitarianism]]}}
+[[Republicanism]]
+|institutions     = [[Harvard Law School|Harvard University]]
+|thesis_title     = Liberalism and the Problem of the Moral Subject
+|thesis_year      = 1980
+|doctoral_advisor = [[Charles Taylor (philosopher)|Charles Taylor]]<ref>{{cite web|url=https://www.prospectmagazine.co.uk/magazine/michael-sandel-ac-grayling-transcript-video|title=Michael Sandel and AC Grayling in conversation|first=Michael|last=Sandel}}</ref>
+|doctoral_students= [[Yascha Mounk]]<ref>{{cite news |last1=Newman |first1=Lainey A. |last2=Zheng |first2=Ruth |date=7 May 2018 |title='Intellectual Powerhouse': Yascha Mounk Examines the Future of Democracy |url=https://www.thecrimson.com/article/2018/5/7/yascha-mounk/ |work=The Harvard Crimson |location=Cambridge, Massachusetts |access-date=10 August 2022}}</ref>
+|main_interests   = {{hlist | [[Political philosophy]] | [[jurisprudence]] | [[ethics]]}}
+|notable_ideas    = Communitarian critique of liberalism 
+|influences       = {{hlist | [[Aristotle]] | [[Immanuel Kant]] | [[John Locke]] | [[John Stuart Mill]] | [[John Rawls]] | [[Charles Taylor (philosopher)|Charles Taylor]] | [[Michael Walzer]]}}
+|influenced       = {{hlist | [[Ed Miliband]] | [[Richard David Precht]] | [[James E. Fleming]] | [[Ketanji Brown Jackson]]}}
+|module           = {{listen|pos=center|embed=yes|filename=Michael Sandel BBC Radio4 The Reith Lecture 30 June 2009 b00lb6bt.flac|title=Michael Sandel's voice|type=speech|description=[[:File:Michael Sandel BBC Radio4 The Reith Lecture 30 June 2009 b00lb6bt.flac|Recorded June 2009]] from the BBC Radio 4 programme the [[Reith Lectures]]}}
+|caption=Sandel in 2012|awards=[[American Academy of Arts and Sciences]] (2002)|notable_students=[[Ketanji Brown Jackson]]}}
+{{Republicanism sidebar}}
+{{Communitarianism sidebar}}
+
+'''Michael Joseph Sandel'''<ref>{{cite web|url=http://www.asanfoundation.or.kr/af/foundation/mjfocus/mjfocusDetail.do?idx=79|title=Korea's New Security Paradigm|publisher=Asan Foundation|date=April 4, 2011|access-date=September 21, 2020}}</ref> ({{IPAc-en|s|æ|n|ˈ|d|ɛ|l}}; born March 5, 1953) is an American [[political philosophy|political philosopher]] and the Anne T. and Robert M. Bass Professor of Government at [[Harvard University]], where his course ''Justice'' was the university's first course to be made freely available online and on television. It has been viewed by tens of millions of people around the world, including in China, where Sandel was named the 2011's "most influential foreign figure of the year" (''China Newsweek'').<ref>{{Cite web|url=https://scholar.harvard.edu/sandel/home|title=Michael J. Sandel|website=scholar.harvard.edu|accessdate=November 25, 2023}}</ref><ref>{{Cite web|url=https://harvardpress.typepad.com/hup_publicity/2018/01/michael-sandel-and-chinese-philosophy.html|title = Michael Sandel and Chinese Philosophy}}</ref> He is also known for his critique of [[John Rawls]]' ''[[A Theory of Justice]]'' in his first book, ''[[Liberalism and the Limits of Justice]]'' (1982). He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 2002.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=American Academy of Arts and Sciences|access-date=June 3, 2011}}</ref>
+
+==Early life and education==
+Sandel was born in 1953<ref name="Casper2013">{{cite book|last=Casper|first=Scott E.|title=The Oxford Encyclopedia of American Cultural and Intellectual History|url=https://books.google.com/books?id=_-lMAgAAQBAJ&pg=RA1-PA126|year=2013|publisher=Oxford University Press|isbn=978-0-19-976435-8|page=126}}</ref> into a Jewish family, which moved to Los Angeles when he was thirteen.<ref>{{cite web|title=Michael Sandel: This much I know|url=https://www.theguardian.com/lifeandstyle/2013/apr/27/michael-sandel-this-much-i-know|work=The Guardian|date= April 27, 2013|access-date=January 9, 2017}}</ref> He was president of his senior class at [[Palisades Charter High School|Palisades High School]] and graduated [[Phi Beta Kappa]] from [[Brandeis University]] with a bachelor's degree in politics in 1975. He received his doctorate from [[Balliol College, Oxford]], in 1985, as a [[Rhodes Scholar]], where he studied under philosopher [[Charles Taylor (philosopher)|Charles Taylor]].<ref>{{Cite web |date=2012-04-07 |title=Michael Sandel: master of life's big questions {{!}} Observer profile |url=http://www.theguardian.com/theobserver/2012/apr/08/observer-profile-michael-sandel |access-date=2022-04-05 |website=the Guardian |language=en}}</ref>
+
+==Philosophical views==
+Sandel subscribes to a certain version of [[communitarianism]] (although he is uncomfortable with the label), and in this vein he is perhaps best known for his [[Liberalism and the Limits of Justice|critique]] of [[John Rawls]]'s ''[[A Theory of Justice]]''. Rawls's argument depends on the assumption of the [[veil of ignorance]], which Sandel argues commits Rawls to a view of people as "unencumbered selves". Sandel's view is that we are by nature encumbered to an extent that makes it impossible even hypothetically to have such a veil. Some examples of such ties are those with our families, which we do not make by conscious choice but are born with, already attached. Because they are not consciously acquired, it is impossible to separate oneself from such ties.  Sandel believes that only a less-restrictive, looser version of the veil of ignorance should be postulated. Criticism such as Sandel's inspired Rawls to subsequently argue that his theory of justice was not a "metaphysical" theory but a "political" one, a basis on which an overriding consensus could be formed among individuals and groups with many different moral and political views.<ref>[http://philosophyfaculty.ucsd.edu/faculty/rarneson/Courses/RawlsJustice.pdf "Justice as Fairness: Political not Metaphysical"] {{Webarchive|url=https://web.archive.org/web/20180712163951/http://philosophyfaculty.ucsd.edu/faculty/rarneson/Courses/RawlsJustice.pdf |date=2018-07-12 }}, by John Rawls</ref>
+
+==Teaching==
+
+===Justice===
+Sandel joined the Faculty of Arts and Sciences at Harvard University in 1981.<ref>{{Cite news|url=https://news.harvard.edu/gazette/story/2018/06/michael-sandel-wins-asturias-award-in-social-sciences/|title=Michael Sandel wins Asturias Award in Social Sciences|date=June 11, 2018|work=Harvard Gazette|access-date=July 10, 2018|language=en-US}}</ref> He has taught the Justice course at Harvard University for two decades. More than 15,000 students have taken the course,<ref>{{cite news|first1=Thomas L.|last1=Friedman|access-date=July 10, 2018|title=Opinion|url=https://www.nytimes.com/2011/06/15/opinion/15friedman.html|newspaper=The New York Times|date=June 15, 2011 }}</ref> making it one of the most highly attended in Harvard's history. The fall 2007 class was the largest ever at Harvard, with a total of 1,115 students.<ref>Makarchev, Nikita. "[http://www.thecrimson.com/article.aspx?ref=519668 Sandel Wins Enrollment Battle]." The Harvard Crimson. September 26, 2007.</ref><ref name="guardian-anthony">{{cite web|first1=Andrew|last1=Anthony|access-date=July 10, 2018|title=Michael Sandel: master of life's big questions|url=https://www.theguardian.com/theobserver/2012/apr/08/observer-profile-michael-sandel|date= April 7, 2012|website=The Observer}}</ref> The fall 2005 course was recorded, and is offered online for students through the [[Harvard Extension School]].{{citation needed|date=January 2024}}
+
+An abridged form of this recording is now a 12-episode TV series, ''Justice: What's the Right Thing to Do?'', in a co-production of [[WGBH-TV|WGBH]] and Harvard University. Episodes are available on the Justice with Michael Sandel website.<ref>[http://harvardmagazine.com/breaking-news/sandel-justice-television-series-book-website "Justice"—On Air, in Books, Online], by Craig Lambert, September 22, 2009.</ref> There is also an accompanying book, ''[[Justice: What's the Right Thing to Do?]]'' and the sourcebook of readings ''Justice: A Reader''.
+
+The popularity of the show is attributed to the discussion-oriented format (the [[Socratic method]])—rather than recitation and memorization of facts—and to Sandel's engaging style, incorporating context into discussion; for example, he starts one lecture with a discussion of the ethics of [[ticket scalping]].<ref>{{cite news
+ | last = Tomoko
+ | first = Otake
+ | newspaper = Japan Times
+ | title= Thinking aloud
+ | date = September 19, 2010
+ | url = https://www.japantimes.co.jp/life/2010/09/19/general/thinking-aloud/
+ }}</ref>
+
+The [[BBC]] broadcast eight 30-minute segments from the series on [[BBC Four]] starting on 25 January 2011.<ref>{{cite web|url=https://www.bbc.co.uk/programmes/b00y4y46|title=BBC Four - Justice|website=BBC}}</ref>
+
+In April 2012, [[BBC Radio 4]] broadcast a three-part series and later podcast presented by Sandel titled ''The Public Philosopher''.<ref name="guardian-anthony"/><ref>{{cite web|url=https://www.bbc.co.uk/programmes/b01fbj97|title=Series 1, The Public Philosopher - BBC Radio 4|website=BBC}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/programmes/b01nmlh2/episodes/downloads|title=The Public Philosopher - Downloads - BBC Radio 4|website=BBC}}</ref> These followed a format similar to the Justice lectures, this time recorded in front of an audience at the [[London School of Economics]]. Across three programs, Sandel debates with the audience whether universities should give preference to students from poorer backgrounds, whether a nurse should be paid more than a banker, and whether it is right to bribe people to be healthy.
+
+=== edX ===
+Sandel is currently teaching his Justice course on [[edX]].<ref name=edx>{{cite web|url=https://www.edx.org/course/justice|title=Justice|date= May 23, 2018|website=edX}}</ref>
+On April 29, 2013, the philosophy department faculty of San Jose State University addressed an open letter to Sandel protesting the use of MOOCs (massively open online courses) such as his Justice course.<ref>{{cite web|url=https://www.chronicle.com/article/The-Document-an-Open-Letter/138937|title='An Open Letter to Professor Michael Sandel From the Philosophy Department at San Jose State U.'|date= May 2, 2013|work=The Chronicle of Higher Education}}</ref> Sandel publicly responded: "The worry that the widespread use of online courses will damage departments in public universities facing budgetary pressures is a legitimate concern that deserves serious debate, at edX and throughout higher education. The last thing I want is for my online lectures to be used to undermine faculty colleagues at other institutions."<ref>{{cite web|url=https://www.chronicle.com/article/Michael-Sandel-Responds/139021|title=Michael Sandel Responds|date= May 2, 2013|work=The Chronicle of Higher Education}}</ref>
+
+=== Other teaching ===
+Sandel also co-teaches, with [[Douglas Melton]], the seminar "Ethics and Biotechnology", which considers the ethical implications of a variety of [[Biotechnology|biotechnological]] procedures and possibilities.
+
+==Politics==
+
+Sandel's politics are "squarely on the left" according to the UK left-leaning newspaper [[The Guardian]] in 2020. According to an interviewer: "In 2012, he added intellectual lustre to [[Ed Miliband]]’s renewal project for the [[Labour Party (UK)]], speaking to that year’s party conference on the moral limits of markets... helped inspire Miliband’s critique of “predatory capitalism”".<ref>{{Cite news |last=Coman |first=Julian |date=2020-09-06 |title=Michael Sandel: 'The populist backlash has been a revolt against the tyranny of merit' |language=en-GB |work=The Observer |url=https://www.theguardian.com/books/2020/sep/06/michael-sandel-the-populist-backlash-has-been-a-revolt-against-the-tyranny-of-merit |access-date=2023-12-23 |issn=0029-7712}}</ref>
+
+==Authorship==
+Sandel is the author of several publications, including ''Democracy's Discontent'' and ''Public Philosophy''. ''Public Philosophy'' is a collection of his own previously published essays examining the role of morality and justice in American political life. He offers a commentary on the roles of moral values and civic community in the American electoral process&mdash;a much-debated aspect of the 2004 US election cycle and of current political discussion.
+
+Sandel gave the 2009 [[List of Reith Lectures|Reith Lectures]] on "A New Citizenship" on BBC Radio, addressing the "prospect for a new politics of the common good".<ref>[http://www.bbc.co.uk/programmes/b00kj2dw BBC Radio 4 Programme details for Start the Week, 25 May 2009].</ref> The lectures were delivered in London on May 18, Oxford on May 21, Newcastle upon Tyne on May 26, and Washington, DC, in early June, 2009.<ref>{{cite news|url=https://www.theguardian.com/media/2009/feb/05/michael-sandel-reith-lectures-radio-4 |newspaper=The Guardian|date= 5 February 2009|title=Michael Sandel to deliver Radio 4's Reith Lectures|first=John|last= Plunkett}}</ref>
+
+He is also the author of the book ''What Money Can't Buy: The Moral Limits of Markets'' (2012), which argues some desirable things—such as body organs and the right to kill endangered species—should not be traded for cash.<ref>A summary and critical review of Sandel's book is available in the September/October 2013 issue of ''[[Philosophy Now]]'' magazine, accessible [http://philosophynow.org/issues/98/What_Money_Cant_Buy_The_Moral_Limits_of_Markets_by_Michael_Sandel here.]</ref>  In the book, Sandel argues that stimulating a market-oriented approach in people may lead to relaxation or even corruption of their moral values.<ref>Elías, Julio J., Nicola Lacetera, and Mario Macis. 2015. [https://ideas.repec.org/a/aea/aecrev/v105y2015i5p361-65.html "Sacred Values? The Effect of Information on Attitudes toward Payments for Human Organs"], ''American Economic Review'', vol. 105(5), pages 361-365, May.</ref>
+
+In his 2020 book ''The Tyranny of Merit'' Sandel makes a case for overhauling western neo-liberalism, citing [[Michael Young, Baron Young of Dartington|Michael Young]]'s work as a precedent (Young popularized the term "[[meritocracy]]"), and developing a line of thought shared with [[Daniel Markovits]]'s ''The Meritocracy Trap''.<ref>{{Cite web|date= December 18, 2020|title=The Meritocracy Trap by Daniel Markovits|url=https://theobjectivestandard.com/2020/12/the-meritocracy-trap-by-daniel-markovits/|access-date= July 24, 2021|website=The Objective Standard|language=en-US}}</ref>  Elite institutions including the Ivy League and Wall Street have corrupted our virtue, according to Sandel, and our sense of who deserves power.<ref>{{Cite web |title=Michael Sandel: Why the elites don't deserve their status |url=https://unherd.com/thepost/michael-sandel/ |access-date=2022-05-24 |website=UnHerd |language=en-GB}}</ref>    Ongoing stalled social mobility and increasing inequality are laying bare the crass delusion of the [[American Dream]], and the promise "you can make it if you want and try". The latter, according to Sandel, is the main culprit of the anger and frustration which brought some Western countries towards [[populism]].<ref>{{cite book |title=The Tyranny of Merit: What's Become of the Common Good? |year=2020 |publisher=Farrar, Straus and Giroux |isbn=9780374289980 }}</ref><ref>{{Cite news|url=https://www.theguardian.com/books/2020/sep/06/michael-sandel-the-populist-backlash-has-been-a-revolt-against-the-tyranny-of-merit|title=Michael Sandel: 'The populist backlash has been a revolt against the tyranny of merit'|last=Coman|first=Julian|journal=The Guardian|date= September 6, 2020}}</ref>
+
+In various reviews of the 2020 book: the [[Evening Standard]] headline was: "''Diagnosis but no cure for the ills of an unfair society''",<ref>{{Cite web |last=Glover |first=Julian |date=2020-09-10 |title=Michael Sandel's The Tyranny of Merit: More diagnosis than cure |url=https://www.standard.co.uk/culture/books/the-tyranny-of-merito-michael-sandel-review-a4544551.html |access-date=2023-12-23 |website=Evening Standard |language=en}}</ref> in [[Kirkus Reviews]] "''Sandel’s proposals for change are less convincing than his deeply considered analysis.''"; in the British Education Studies Association: "''We must abandon the elitism of the university degree. .. Of course, higher education is a good thing, even ‘a common good’. But the university should return to its role of defining and creating knowledge, not credits''.<ref>{{Cite web |title=The Tyranny of Merit: What's become of the common good? by Michael J. Sandel – The British Education Studies Association |url=https://educationstudies.org.uk/journal/ef/volume-12-1-2021/review-the-tyranny-of-merit-whats-become-of-the-common-good-by-michael-j-sandel/ |access-date=2023-12-23 |website=educationstudies.org.uk}}</ref> " In the [[Harvard Magazine]] review: "''But even if equality of opportunity were attainable, which Sandel doubts, he thinks meritocracy would be neither desirable nor sustainable: even a perfect meritocracy has multiple flaws that make it unjust''.";<ref>{{Cite web |last=Lenfield |first=Spencer Lee |date=October 2020 |title=No One Deserves a Spot at Harvard: Michael Sandel makes the case against meritocracy. |url=https://www.harvardmagazine.com/2020/08/montage-michael-sandel-against-meritocracy |access-date=2023-12-23 |website=Harvard Magazine}}</ref>  [[The Wall Street Journal]] headlines: "''Review: The Cream Also Rises: The meritocratic ideal makes elites arrogant and threatens communal solidarity. Identity-based policies make the problem worse.''"<ref>{{Cite news |last=Swaim |first=Barton |date=2021-01-05 |title='The Tyranny of Merit' Review: The Cream Also Rises |language=en-US |work=Wall Street Journal |url=https://www.wsj.com/articles/the-tyranny-of-merit-review-the-cream-also-rises-11609887858 |access-date=2023-12-23 |issn=0099-9660}}</ref>
+
+==Personal life==
+
+Sandel is married to fellow Harvard professor Kiku Adatto.
+
+==Public service==
+Sandel served on the [[George W. Bush]] administration's [[President's Council on Bioethics]].
+
+==Awards and honors==
+{{incomplete list|date=September 2012}}
+*1985: Harvard-Radcliffe Phi Beta Kappa Teaching Prize<ref>{{cite web|url=https://hsci.harvard.edu/people/michael-j-sandel-dphil|title=Michael J. Sandel, DPhil|website=hsci.harvard.edu}}</ref>
+*2012: [[Financial Times and Goldman Sachs Business Book of the Year Award]], shortlist, ''What Money Can't Buy: The Moral Limits of Markets''<ref>{{cite web |url=http://www.ft.com/intl/cms/s/2/63c168bc-fd98-11e1-8fc3-00144feabdc0.html |archive-url=https://ghostarchive.org/archive/20221210/http://www.ft.com/intl/cms/s/2/63c168bc-fd98-11e1-8fc3-00144feabdc0.html |archive-date=2022-12-10 |url-access=subscription |url-status=live |title=Biographies and economics dominate |work=Financial Times |first=Andrew |last=Hill |date=September 13, 2012 |access-date=September 15, 2012}}</ref>
+*2012: ''[[Foreign Policy (magazine)|Foreign Policy]]'' magazine Top Global Thinker<ref>{{cite web |url=https://foreignpolicy.com/articles/2012/11/26/the_fp_100_global_thinkers?page=0,38 |title=The FP Top 100 Global Thinkers |date= November 26, 2012 |work=Foreign Policy |access-date= November 28, 2012 |archive-date= November 30, 2012 |archive-url=https://web.archive.org/web/20121130221322/http://www.foreignpolicy.com/articles/2012/11/26/the_fp_100_global_thinkers?page=0,33 |url-status=live }}</ref>
+*2014: Honorary doctorate, [[Utrecht University]]<ref>{{cite web |url=http://pers.uu.nl/utrechtse-eredoctoraten-voor-filosoof-michael-sandel-en-psychobioloog-bj-casey/ |title=Utrechtse eredoctoraten voor filosoof Michael Sandel en psychobioloog BJ Casey |work=Utrecht University |access-date=February 7, 2014}}</ref>
+*2018: [[Premio Princesa de Asturias]] de las Ciencias Sociales<ref>{{cite web|url=http://www.fpa.es/en/princess-of-asturias-awards/laureates/2018-michael-j-sandel.html|title=Michael J. Sandel - Laureates - Princess of Asturias Awards|first=Developed with webControl CMS by Intermark|last=Tecnologías|website=The Princess of Asturias Foundation}}</ref>
+*2023: Honorary doctorate, [[Radboud University Nijmegen|Radboud University]]<ref>{{cite web |url=https://www.ru.nl/en/about-us/news/rock-star-philosopher-michael-sandel-receives-honorary-doctorate-from-radboud-university|title='Rock star philosopher' Michael Sandel receives honorary doctorate from Radboud University |work=Radboud University|date=May 11, 2023 |access-date=May 11, 2023}}</ref>
+
+==Works==
+{{external media| float = right| video1 = [https://www.c-span.org/video/?71257-1/democracys-discontent ''Booknotes'' interview with Sandel on ''Democracy's Discontent'', May 19, 1996], [[C-SPAN]]| video2 = [https://www.c-span.org/video/?79201-1/democracys-discontent Presentation by Sandel on ''Democracy’s Discontent'', February 26, 1997], [[C-SPAN]]| video3 = [https://www.c-span.org/video/?191633-1/public-philosophy-essays-morality-politics Presentation by Sandel on ''Public Philosophy'', February 23, 2006], [[C-SPAN]]| video4 = [https://www.c-span.org/video/?290538-1/justice-thing-do Presentation by Sandel on ''Justice: What's the Right Thing to Do?'', November 9, 2009], [[C-SPAN]]| video5 = [https://www.c-span.org/video/?304720-1/after-words-michael-sandel ''After Words'' interview with Sandel on ''What Money Can't Buy'', April 13, 2012], [[C-SPAN]]| video6 = [https://www.c-span.org/video/?309425-5/what-money-buy-moral-limits-markets Presentation by Sandel on ''What Money Can't Buy'', November 17, 2012], [[C-SPAN]]}}
+* {{cite book <!-- | last = Sandel | first = Michael -->|title=Democracy's Discontent: America in Search of a Public Philosophy|publisher=Belknap Press of Harvard University Press|location=Cambridge, Massachusetts|year=1998|isbn=9780674197459}}
+* {{cite book <!-- | last = Sandel | first = Michael -->|  title = [[Liberalism and the Limits of Justice]] | publisher = Cambridge University Press | location = Cambridge, UK New York | year = 1998 | isbn = 9780521567411 }}
+** French translation: {{cite book <!-- | last = Sandel | first = Michael -->|  title = Le libéralisme et les limites de la justice | publisher = Editions du Seuil | location = Paris | year = 1999 | isbn = 9782020326308 }}
+** Spanish translation: {{cite book <!-- | last = Sandel | first = Michael -->|  title = El liberalismo y los límites de la justicia | publisher = Gedisa | location = Barcelona | year = 2000 | isbn = 9788474327069 }}
+* {{cite book <!-- | last = Sandel | first = Michael -->|  title = Public Philosophy: Essays on Morality in Politics | publisher = Harvard University Press | location = Cambridge, Massachusetts | year = 2005 | isbn = 9780674023659 }}
+* {{cite book | title = The Case Against Perfection: Ethics in the Age of Genetic Engineering | publisher = Belknap Press of Harvard University Press | location = Cambridge, Massachusetts | year = 2007 | isbn = 9780674019270 | url-access = registration | url = https://archive.org/details/caseagainstperfe0000sand }}
+** German translation: {{cite book <!-- | last = Sandel | first = Michael -->|  title = Plädoyer gegen die Perfektion : Ethik im Zeitalter der genetischen Technik | publisher = Berlin Univ. Press | location = Berlin | year = 2008 | isbn = 9783940432148 }}
+**Spanish translation: {{cite book <!-- | last = Sandel | first = Michael -->|  title = Contra la perfección | publisher = Marbot| location = Barcelona | year = 2013 | isbn = 9788493574444 }}
+* {{cite book <!-- | last = Sandel | first = Michael -->|  title = Justice: A Reader | publisher = Oxford University Press | location = Oxford New York | year = 2007 | isbn = 9780195335125 }}
+* {{cite book <!-- | last = Sandel | first = Michael -->|  title = [[Justice: What's the Right Thing to Do?]] | publisher = Farrar, Straus and Giroux | location = New York | year = 2010 | isbn = 9780374532505 }}
+** Translated into Chinese, German, Spanish, French, Greek, Japanese, Korean, Portuguese, Russian, and Vietnamese editions; see the article on the book for the full citations.
+* {{cite book <!-- | last = Sandel | first = Michael -->|  title = What Money Can't Buy: The Moral Limits of Markets | publisher = Farrar, Straus and Giroux | location = New York | year = 2012 | isbn = 9780374203030 }}<ref>{{cite news|url=https://www.economist.com/books-and-arts/2012/07/21/insatiable-longing|title=Insatiable longing|date= July 21, 2012|newspaper=The Economist}}</ref>
+** German translation: {{cite book <!-- | last = Sandel | first = Michael -->|  title = Was man für Geld nicht kaufen kann: die moralischen Grenzen des Marktes | publisher = Ullstein | location = Berlin | year = 2012 | isbn = 9783550080265 }}
+** French translation: {{cite book | title = Ce que l'argent ne saurait acheter: les limites morales du marché | publisher = Editions du Seuil | location = Paris | year = 2014 | isbn = 9782021173239 | url-access = registration | url = https://archive.org/details/cequelargentnesa0000sand }} 
+** Also translated into Spanish and other languages.
+* {{cite book |title=The Tyranny of Merit: What's Become of the Common Good? |year=2020 |publisher=Farrar, Straus and Giroux |isbn=9780374289980 }}
+
+==See also==
+{{Portal|Biography|Philosophy}}
+*[[American philosophy]]
+*[[List of American philosophers]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{wikiquote}}
+{{Commons category}}
+* [http://www.gov.harvard.edu/people/faculty/michael-sandel Harvard University Bio]
+* [https://www.youtube.com/watch?v=JUxGnHu1R7E Michael Sandel: On the Good Life] on [[Berggruen Institute]]'s YouTube channel
+* [http://nigelwarburton.typepad.com/philosophy_bites/2009/05/michael-sandel-on-what-shouldnt-be-sold.html Podcast interview with Nigel Warburton on ''Philosophy Bites'' on What Shouldn't Be Sold]
+* [http://embryo.asu.edu/handle/10776/2095 "The Case Against Perfection: Ethics in the Age of Genetic Engineering, by Michael J. Sandel (2007)" by N. Antonios at the Embryo Project Encyclopedia]
+* [http://nigelwarburton.typepad.com/philosophy_bites/2008/05/michael-sandel.html Podcast interview with Nigel Warburton on ''Ethics Bites'' on the topic of Genetic Enhancement in Sports]
+* [https://web.archive.org/web/20070629132054/http://bioethics.gov/about/sandel.html The President's Council on Bioethics]
+* [http://nigelwarburton.typepad.com/michael_sandel_links/ A page of links relating to the 2009 Reith Lectures]
+* [http://justiceharvard.org/ What's The Right Thing To Do?] on Harvard University's [[YouTube]] channel
+* [http://www.bbc.co.uk/programmes/b00xyzg7 Fairness and the Big Society Debate] on BBC
+* [http://www.bbc.co.uk/programmes/b00y4y46 Justice: a series of lectures by Michael Sandel] on BBC
+* {{C-SPAN|43124}}
+* {{TED speaker}}
+* [http://www.americanacademy.de/videoaudio/michael-sandel-trump-populism-future-democracy/ Talk and Q&A on "Populism, Trump and the Future of Democracy" held at The American Academy in Berlin, April 2018]
+* [https://www.bbc.co.uk/programmes/m0010wl5 "Michael Sandel, philosopher"], ''[[Desert Island Discs]]'', [[BBC Radio 4]], October 2021.
+
+{{Princess of Asturias Award for Social Sciences}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sandel, Michael}}
+[[Category:21st-century American philosophers]]
+[[Category:Jewish philosophers]]
+[[Category:American political philosophers]]
+[[Category:American Rhodes Scholars]]
+[[Category:Harvard University Department of Philosophy faculty]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Brandeis University alumni]]
+[[Category:Alumni of Balliol College, Oxford]]
+[[Category:20th-century American Jews]]
+[[Category:1953 births]]
+[[Category:Living people]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American Jews]]

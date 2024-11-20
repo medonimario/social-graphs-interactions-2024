@@ -1,0 +1,78 @@
+{{Short description|Austrian logician (1923–2015)}}
+{{Infobox scientist
+|image =  <!-- only free-content images are allowed for depicting living people - see [[WP:NONFREE]] -->
+|image_size = 150px |
+|name = Georg Kreisel
+|birth_date = {{Birth date|1923|9|15}}
+|birth_place = [[Graz, Austria]]
+|death_date = {{death date and age|2015|3|1|1923|9|15}} 
+|death_place = [[Salzburg, Austria]]
+|residence = 
+|citizenship = 
+|nationality = Austrian, British
+|ethnicity = 
+|field = [[Computer Science]]<br>[[Mathematics]]<br>[[Philosophy]]
+|work_institutions = [[University of Reading]] <br>[[Institute for Advanced Study]] <br>[[Stanford University]]
+|alma_mater = [[Trinity College, Cambridge]]
+|doctoral_advisor = 
+|doctoral_students = [[Henk Barendregt]]<br>[[Richard Statman]] 
+|known_for = [[unwinding (proof theory)|Unwinding Program]]<br>[[Kreisel–Putnam logic]]
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|prizes = 
+|religion = 
+|signature         =
+|footnotes = 
+}}
+
+'''Georg Kreisel''' [[Royal Society|FRS]] (September 15, 1923 &ndash; March 1, 2015)<ref>[https://royalsociety.org/about-us/fellowship/notices-2015/ Notices 2015], [[Royal Society]], retrieved 2015-06-09.</ref> was an [[Austria]]n-born [[mathematical logic]]ian who studied and worked in the [[United Kingdom]] and [[United States|America]].
+
+==Biography==
+Kreisel was born in [[Graz]] and came from a [[Jew]]ish background; his family sent him to the [[United Kingdom]] before the [[Anschluss]] in 1938. He studied mathematics at [[Trinity College, Cambridge]], and then, during [[World War II]], worked on [[military]] subjects.  Kreisel never took a Ph.D., though much later, in 1962, he was awarded the Cambridge degree of [[Doctor of Science#United Kingdom, Ireland, India, Pakistan and the Commonwealth|Sc.D.]], a `higher doctorate' given on the basis of published research.<ref>{{Cite web |url=https://sites.google.com/site/logicfoundationsofmathematics/ |title=In Memoriam: Georg Kreisel |access-date=2016-08-24 |archive-date=2016-10-15 |archive-url=https://web.archive.org/web/20161015043054/https://sites.google.com/site/logicfoundationsofmathematics/ |url-status=dead }}</ref>  
+
+He taught at the [[University of Reading]] from 1949 until 1954 and then worked at the [[Institute for Advanced Study]] from 1955 to 1957. He returned to Reading in 1957, but then taught at [[Stanford University]] from 1958–1959. Then back at Reading for the year 1959–1960,  and then the [[University of Paris]] 1960–1962.  Kreisel was appointed a professor at [[Stanford University]] in 1962 and remained on the faculty there until he retired in 1985.<ref>pp. 265&ndash;266, ''Beyond Art: A Third Culture'', Peter Weibel,  Ludwig Múzeum (Budapest, Hungary), Neue Galerie am Landesmuseum Joanneum, Museum van Hedendaagse Kunst Antwerpen.  New York: Springer-Verlag, 2005.  {{ISBN|3-211-24562-6}}.</ref><ref name="mt">{{MacTutor Biography|id=Kreisel}}</ref>
+
+Kreisel worked in various areas of logic,<ref>[http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.rml/1081173779 Review of Piergiorgio Odifreddi, editor, ''Kreiseliana: About and Around Georg Kreisel''], by Luis Carlos Pereira, ''Review of Modern Logic'' '''8''', #3&ndash;4 (2000), pp. 127&ndash;131.</ref> and especially in [[proof theory]], where he is known for his so-called "[[unwinding (proof theory)|unwinding]]" program, whose aim was to extract [[constructivism (mathematics)|constructive]] content from superficially non-constructive [[mathematical proof|proof]]s.<ref>[http://math.stanford.edu/~feferman/papers/unwind.pdf Kreisel's "unwinding" program], Solomon Feferman, pp. 247&ndash;273, in ''Kreiseliana: About and Around Georg Kreisel'',  Piergiorgio Odifreddi, ed., Wellesley, Massachusetts: A. K. Peters, 1996.  {{ISBN|1-56881-061-X}}.</ref>
+
+Kreisel was elected to the [[Royal Society]] in 1966;<ref name="mt" /> Kreisel remained a close friend of [[Francis Crick]]<ref>Some of their correspondence is collected within {{cite web
+| url = http://profiles.nlm.nih.gov/SC/Views/AlphaChron/series/017623/018121/017681/
+| title = The Francis Crick Papers
+| access-date = February 12, 2011
+}}</ref><ref>{{cite book|last=Crick|first=Francis|title=What Mad Pursuit: A Personal View of Scientific Discovery|year=1988|location=New York|publisher=[[Basic Books]]|isbn=0-465-09137-7|pages=xi–xii|url=https://books.google.com/books?id=azHIbT79PE8C&pg=PR11}}</ref> whom he had met in the Royal Navy during WWII.<ref>{{cite book|last=Crick|first=Francis|title=What Mad Pursuit: A Personal View of Scientific Discovery|year=1988|location=New York|publisher=Basic Books|isbn=0-465-09137-7|page=16|url=https://books.google.com/books?id=azHIbT79PE8C&pg=PA16}}</ref>
+
+While a student at Cambridge, Kreisel was the student most respected by [[Ludwig Wittgenstein]]. [[Ray Monk]] writes, "In 1944—when Kreisel was still only twenty-one—Wittgenstein shocked [[Rush Rhees]] by declaring Kreisel to be the most able philosopher he had ever met who was also a mathematician."<ref>{{cite book | last=Monk | first=Ray | author-link=Ray Monk | title=Ludwig Wittgenstein | publisher=Penguin Books | publication-place=New York, NY | date=1991 | isbn=978-0-14-015995-0 | p=498}}</ref>
+
+Kreisel was also a close friend of the Anglo-Irish philosopher and novelist [[Iris Murdoch]].  They met at Cambridge in 1947 during Murdoch's year of study there.  [[Peter J. Conradi|Peter Conradi]] reports that Murdoch transcribed Kreisel's letters into her journals over the next fifty years.  According to Conradi, "For half a century she nonetheless records variously Kreisel's brilliance, wit and sheer 'dotty' solipsistic strangeness, his amoralism, cruelty, ambiguous vanity and obscenity."  Murdoch dedicated her 1971 novel ''[[An Accidental Man]]'' to Kreisel and he became a (partial) model for several characters in other novels, including Marcus Vallar in ''[[The Message to the Planet]]'' and Guy Openshaw in ''[[Nuns and Soldiers]]''.<ref>{{cite book | last=Conradi | first=Peter J. | title=Iris Murdoch | publisher=HarperCollins UK | publication-place=London | date=2002 | isbn=978-0-00-653175-3 | p=264-65}}.</ref>
+
+After retirement Kreisel lived in [[Salzburg]], Austria. He wrote several biographies of mathematicians including [[Kurt Gödel]],<ref>{{Cite journal | last1 = Kreisel | first1 = G. | author-link = Georg Kreisel| doi = 10.1098/rsbm.1980.0005 | title = Kurt Godel. 28 April 1906–14 January 1978 | journal = [[Biographical Memoirs of Fellows of the Royal Society]] | volume = 26 | pages = 148–224| year = 1980 | doi-access =  }}</ref> [[Bertrand Russell]]<ref>{{Cite journal | last1 = Kreisel | first1 = G. | author-link = Georg Kreisel| doi = 10.1098/rsbm.1973.0021 | title = Bertrand Arthur William Russell, Earl Russell. 1872–1970 | journal = [[Biographical Memoirs of Fellows of the Royal Society]] | volume = 19 | pages = 583–620| year = 1973 | jstor = 769574| doi-access =  }}</ref> and [[Luitzen Egbertus Jan Brouwer]].<ref>{{Cite journal | last1 = Kreisel | first1 = G. | author-link1= Georg Kreisel| last2 = Newman | first2 = M. H. A. | author-link2 = Max Newman| doi = 10.1098/rsbm.1969.0002 | title = Luitzen Egbertus Jan Brouwer 1881–1966 | journal = [[Biographical Memoirs of Fellows of the Royal Society]] | volume = 15 | pages = 39–68 | year = 1969 | doi-access = free | hdl = 10077/30385 | hdl-access = free }}</ref>  He died in Salzburg, aged 91.
+
+==Anecdotes==
+When Kreisel was teaching at the [[University of Reading]] he would frequently take the train into London. There was a particularly fast train that was timed just right for the shows in London, and he would go to the station at that time. He checked the timetable one day, and that train was canceled. But out of habit one day he showed up at the station at the usual time and the train was there. It seems that it was going from [[Bristol]] to London, stopping at Reading only to get water. He got on the train anyway, and from then on took that train regularly. One day he was accosted by the conductor after he got on. "The train doesn't stop here sir!" "In that case I didn't get on here."<ref>''Kreiseliana: About and Around Georg Kreisel'', ed. by Piergiorgio Odifreddi, Wellesley, MA, 1996, (Festschrift)</ref>
+
+==See also==
+* [[Kreisel–Putnam logic]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*  Piergiorgio Odifreddi (ed.), ''Kreiseliana: About and Around George Kreisel'', Wellesley, Massachusetts: A. K. Peters, 1996.  {{ISBN|1-56881-061-X}}.
+* [ftp://ftp.cs.ru.nl/pub/CompMath.Found/kr.ps Kreisel, lambda calculus, a windmill and a castle] Contains personal recollections about Kreisel by his student [[Henk Barendregt]].
+* {{MathGenealogy|id=20180}}
+
+{{FRS 1966}}
+{{Authority control}}
+
+{{DEFAULTSORT:Kreisel, Georg}}
+[[Category:1923 births]]
+[[Category:Austrian mathematicians]]
+[[Category:20th-century British mathematicians]]
+[[Category:21st-century British mathematicians]]
+[[Category:Cambridge University Moral Sciences Club]]
+[[Category:Austrian logicians]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:Fellows of the Royal Society]]
+[[Category:2015 deaths]]
+[[Category:Austrian emigrants to the United Kingdom]]
+[[Category:British emigrants to the United States]]

@@ -1,0 +1,36 @@
+{{Short description|Venezuelan philosopher}}
+'''Luis José Silva Michelena''', best known as '''Ludovico Silva''' (1937–1988) was a Venezuelan poet and philosopher. A [[Marxist philosophy|Marxist philosopher]], he developed an account of [[ideology]] as symbolic [[surplus value|surplus]].<ref name="NuccetelliSchutte2013">{{cite book|editor1=Susana Nuccetelli|editor2=Ofelia Schutte|editor3=Otávio Bueno|title=A Companion to Latin American Philosophy|url=https://books.google.com/books?id=OyRw3gH6cTkC&pg=PT222|year=2013|publisher=John Wiley & Sons|isbn=978-1-118-61056-5|pages=222–}}</ref>
+
+==Life==
+Luis José Silva Michelena was born in [[Caracas]] on February 16, 1937, the son of Hector Silva Urbano and Josefina Michelena. He was educated at a private school, the [[Colegio San Ignacio, Caracas]], before travelling to study philosophy, literature and philology in [[Spain]], [[France]] and [[Germany]]. From 1970 to 1986 he was a professor of philosophy at the [[Central University of Venezuela]]. From 1964 to 1968 he was head of the [[Caracas Athenaeum]]. With [[Miguel Otero Silva]] he founded the literary magazine ''Lamigal''.<ref name=Javnost>Jorge Alberto Calles-Santillana, [https://www.dlib.si/stream/URN:NBN:SI:DOC-NFHYYW6D/5c850016-b86a-4c5e-a9bd-78cce2f30777/PDF Ludovico Silva and the move to critical studies in Latin American communication studies], ''Javnost'', Vol. 13, No. 3 (2006), pp.69-80</ref>
+
+Heavy drinking caused his brain to be affected by excess [[ammonium]], and in 1986 he was committed to a mental institution for 33 days. He died in Caracas on December 8, 1988.<ref name=Javnost/>
+
+==Works==
+* ''Tenebra'', 1964
+* ''La Plusvalía Ideológica'' [Ideological surplus], 1970
+* ''El estilo literario de Marx'' [Marx's literary style], 1970
+* ''Teoría y práctica de la ideología'' [Theory and practice of ideology], 1971
+* ''Anti-manual para uso de marxistas, marxólogos y marxianos'' [Anti-manual for the use of Marxists, Marxologists and Marxians], 1975
+* ''El estilo literario de Marx'' [Marx's literary style], 1975
+** ''Marx’s Literary Style'', Verso 2023, ISBN 9781839765537.
+* ''Ensayos temporales: Poesía y teoría social'' [Temporary essays: poetry and social theory], 1983
+* ''La alienación como sistema: la teoría de la alienación en la obra de Marx'' [Alienation as a system: the theory of alienation in Marx's work], 1983
+* ''La interpretación femenina de la historia y otros ensayos'' [The female interpretation of history and other essays], 1987
+* ''Opera poética, 1958-1982'' [Poetical works, 1958-1982], 1988
+* ''La torre de los ángeles'' [The tower of the angels], 1991
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Silva, Ludovico}}
+[[Category:1937 births]]
+[[Category:1988 deaths]]
+[[Category:Venezuelan poets]]
+[[Category:Venezuelan philosophers]]
+[[Category:20th-century philosophers]]
+
+
+{{Venezuela-philosopher-stub}}

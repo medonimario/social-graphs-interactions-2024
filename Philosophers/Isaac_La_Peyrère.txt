@@ -1,0 +1,136 @@
+{{Short description|French theologian}}
+'''Isaac La Peyrère''' ({{IPA|fr|izak la peʁɛʁ}}; 1596–1676), also known as '''Isaac de La Peyrère''' or '''Pererius''', was a French-born theologian, writer, and lawyer. La Peyrère is best known as a 17th-century predecessor of the [[scientific racism|scientific racialist]] theory of [[polygenism]] in the form of his [[Pre-Adamite]] hypothesis, which offered a challenge to traditional [[Abrahamic]] understandings of the descent of the human races as derived from the ''[[Book of Genesis]]''. In addition to this, La Peyrère anticipated [[Zionism]], advocating a Jewish return to [[Palestine (region)|Palestine]], within the context of [[Premillennialism|premillennialist]] Messianic theology. He moved in prominent circles and was known for his connections to the [[Louis II de Bourbon, Prince de Condé|Prince of Condé]] and the abdicated Queen [[Christina of Sweden]]. Born to a [[Huguenot]] family, possibly of [[Portuguese Jewish]] ''[[converso]]'' or [[Marrano]] heritage,{{r|Popkin|p=22-23}} La Peyrère was pressured to renounce his views and publicly converted to the [[Catholic Church]] towards the end of his life, though the sincerity of this conversion has been questioned.
+
+==Biography==
+===Background===
+La Peyrère's name is sometimes given in Latin as "Pererius", which is a version of [[Pereira (surname)|Pereira]].
+
+He was born in [[Bordeaux]], [[France]], in a socially prominent family to parents Bernard La Peyrère and Marthre Malet, with eight siblings, among whom his brother, Abraham La Peyrère, was most notable. His father was the private secretary to Jacques II de Goyon de Matignon, [[Maréchal de France]], while on his mother's side, his grandfather, was General Treasurer to the [[Albret|Royal House of Navarre]].<ref name="Popkin">{{cite book
+|last=Popkin
+|first=Richard Henry
+|author-link=Richard Henry Popkin
+|title=Isaac La Peyrère (1596-1676): His Life, Work, and Influence
+|publisher=[[Brill Publishers]]
+|location=Leiden, The Netherlands
+|date=1987
+|isbn=90-04-08157-7
+|url=https://books.google.com/books?id=lkFaju2praAC
+|access-date=April 23, 2021
+}}</ref>{{rp|5}}
+
+Both sides of La Peyrère's family were [[Calvinism|Calvinists]], and many Bordeaux Protestants were suspected of being [[Marrano]], or "secret Jews."{{r|Popkin|p=5}} While questions exist regarding a Jewish heritage, [[Richard Popkin]] presents evidence to the argument, that La Peyrère was of Marrano ancestry on his mother's side.{{r|Popkin|p=22-25}}
+
+La Peyrère was trained to be a lawyer.{{r|Popkin|p=5}}
+
+===Condé and Christina of Sweden===
+La Peyrère served as secretary to the [[Louis II de Bourbon, Prince de Condé|Prince of Condé]], on whose orders he lived for one month in 1654, in a house in the [[Southern Netherlands]] adjoining that of the recently abdicated Queen [[Christina of Sweden]]. Christina is said to have financed the anonymous publication of ''Prae-Adamitae''.<ref>{{Cite book |title=Encyclopedia Judaica |publisher=[[Gale (publisher) | Thomson Gale]] |year=2007 |isbn=9780028660974 |editor-last=Skolnik |editor-first=Fred |edition=2nd |volume=12 |pages=488 |editor-last2=Berenbaum |editor-first2=Michael}}</ref> During this time both Christina and La Peyrère met with [[Menasseh Ben Israel]], who was later invited by [[Oliver Cromwell]]'s government to England to negotiate the readmission of Jews to that country. Menasseh became a convert to La Peyrère's belief that the coming of the Jewish [[Messiah]] was imminent. La Peyrère also argued that the Messiah would join with the king of France (that is, the Prince of Condé, not [[Louis XIV of France]]) to liberate the [[Holy Land]], rebuild the [[Temple in Jerusalem|Temple]] and set up a world government of the Messiah with the king of France acting as regent. It has since emerged that, in fact: "Condé, Cromwell and Christina were negotiating to create a theological-political world state, involving overthrowing the Catholic king of France, among other things."<ref>{{cite book
+|last=Popkin
+|first=Richard
+|author-link=Richard Popkin
+|editor1-last=Garber
+|editor1-first=Daniel
+|editor1-link=Daniel Garber (philosopher)
+|editor2-last=Ayers
+|editor2-first=Michael
+|editor2-link=Michael R. Ayers
+|title=The Cambridge History of Seventeenth-century Philosophy Volume 1
+|chapter=Chapter 14: The Religious Background of Seventeenth Century Philosophy 
+|publisher=[[Cambridge University Press]]
+|date=1998
+|isbn=0-521-30763-5
+|url=https://books.google.com/books?id=BPlkkgIhUXIC
+|access-date=April 24, 2021
+}}</ref>{{rp|407}}
+
+===Pre-Adamite hypothesis===
+{{Main|Pre-Adamite}}
+[[File:Du Rappel Des Juifs, Issac de Peyrere.jpg|right|thumb|250px|''Du Rappel des Juifs'' (On the Calling of the Jews), by Isaac de La Peyrère, published in 1643, without the name of the publisher and place of publication]]
+In his ''Prae-Adamitae'', published in Latin in 1655, and in English as ''Men Before Adam'' in 1656, La Peyrère argued that Paul's words in Chapter 5, verses 12-14 of his [[Epistle to the Romans]] should be interpreted such that, "if [[Adam and Eve|Adam]] sinned in a morally meaningful sense there must have been an Adamic law according to which he sinned. If law began with Adam, there must have been a lawless world before Adam, containing people."<ref name="Almond">{{cite book
+|last=Almond
+|first=Philip C.
+|title=Adam and Eve in Seventeenth-Century Thought
+|date=2008
+|publisher=[[Cambridge University Press]]
+|location=Cambridge
+|isbn=978-0-521-09084-1
+|url=https://books.google.com/books?id=Rx1el1IsopEC
+|access-date=April 23, 2021
+}}</ref>{{rp|52–53}} Thus, according to La Peyrère there must have been two creations: first the creation of the Gentiles and then that of Adam, who was father of the Jews. The existence of pre-Adamites, La Peyrère argued, explained [[Cain]]'s life after [[Abel]]'s murder which, in the [[Book of Genesis|Genesis]] account, involved the taking of a wife and the building of a city. This account of human origins became the basis for 19th century theories of [[polygenism]] and were espoused by those trying to justify [[racism]] in the New World.<ref>{{cite book
+|last=Popkin
+|first=Richard H.
+|author-link=Richard Popkin
+|title=The History of Scepticism From Savonarola to Bayle
+|date=2003
+|publisher=[[Oxford University Press]]
+|isbn=0-19-510767-5
+|url=https://books.google.com/books?id=7j8PdlgFRDAC
+|access-date=April 24, 2021
+}}</ref>{{rp|228}} 
+This polygenesis of the Gentiles was his method of explaining the existence of the Negroes, Chinese, Eskimos, American Indians, Malays and other people groups being discovered.<ref>{{cite web
+ |url=https://creation.com/pre-adamic-man-were-there-human-beings-on-earth-before-adam
+ |title=Pre-Adamic man: were there human beings on Earth before Adam?
+ |last=Grigg
+ |first=Russell
+ |website=Creation Ministries International
+ |access-date=April 23, 2021
+|quote=}}</ref>
+
+In 19th-century Europe, polygenism and Pre-Adamism were attractive to those intent on demonstrating the inferiority of non-Western peoples, while in the [[United States]] those attuned to racial theories who found it unattractive to contemplate a common history with non-Whites, such as [[Charles Caldwell (physician)|Charles Caldwell]], [[Josiah C. Nott]] and [[Samuel George Morton|Samuel G. Morton]], also rejected the view that non-whites were the descendants of Adam. Morton combined pre-Adamism with [[craniometry|cranial measurements]] to construct a theory of racial difference that justified slavery. As Michael Barkun explains,
+
+{{quote|In such an intellectual atmosphere, Pre-Adamism appeared in two different but not wholly incompatible forms. Religious writers continued to be attracted to the theory both because it appeared to solve certain [[Exegesis|exegetical]] problems (where did Cain's wife come from?) and exalted the spiritual status of Adam's descendants. Those of a scientific bent found it equally attractive but for different reasons, connected with a desire to formulate theories of racial difference that retained a place for Adam while accepting evidence that many cultures were far older than the few thousand years humanity had existed, according to biblical chronology. The two varieties differed primarily in the evidence they used, the one relying principally on scriptural texts and the latter what passed at the time for [[physical anthropology]].<ref name="Barkun">{{cite book
+|last=Barkun
+|first=Michael
+|author-link=Michael Barkun
+|title=Religion and the Racist Right: The Origins of the Christian Identity Movement
+|publisher=[[University of North Carolina Press]]
+|year=2014
+|isbn=978-1-4696-1111-2
+|url=https://books.google.com/books?id=qb0EAwAAQBAJ
+|access-date=January 26, 2021
+}}</ref>{{rp|153}}
+}}
+
+===Later life===
+La Peyrère's pre-Adamite contentions were fiercely criticized by Protestant, Jewish and Catholic authorities. In 1656, after a storm of indignation the ''Prae-Adamitae'' was publicly burned in [[Paris]]. In particular, La Peyrère fell foul of the [[Catholic Church]], while in the [[Spanish Netherlands]] which was then under the [[Habsburgs]]. Here, he was arrested and held in prison for six months and only released after renouncing his views and converting to the Catholic faith. He subsequently went to Rome and begged [[Pope Alexander VII]] for forgiveness, retracting his earlier views formally. Following this La Peyrère became a lay member of the [[Oratory of Jesus]] in Paris and lived out the rest of his life, from 1659 until 1676. The sincerity of his conversion was later questioned. [[Pierre Bayle]], for example, published a letter in which his religious superior wrote that he "was always writing books that ... would be burned as soon as the good man died."<ref name="ency">{{cite web 
+|title=La Peyrère, Isaac (1596–1676)
+|url=https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/la-peyrere-isaac-1596-1676
+|website=[[Encyclopedia.com]]
+|access-date=April 24, 2021
+}}</ref>
+
+La Peyrère was influenced by [[Thomas Hobbes]] and was an influence on [[Baruch Spinoza]].  In his later life, La Peyrère was an influence on fellow Oratory of Jesus member, [[Richard Simon (priest)|Richard Simon]], who has been called  "father of the [[higher criticism]]."{{r|Popkin|p=87}}Simon had a Jewish friend who was a follower of [[Sabbatai Zevi]], and tried to have La Peyrere talk to him, but he showed no interest in the messianic claims.<ref>{{Cite book |last=Popkin |first=Richard Henry |url=https://books.google.com/books?id=lkFaju2praAC&q=zevi&pg=PA87 |title=Isaac La Peyrère (1596-1676): His Life, Work, and Influence |date=1987 |publisher=BRILL |isbn=978-90-04-08157-4 |pages=20, 105 |language=en}}</ref>
+
+==See also==
+* [[Sabbatai Zevi]]
+* [[Ibn Wahshiyya]]
+* [[William Hamilton Reid]]
+* [[Jean Astruc]]
+'''Critics:'''
+* [[Thomas Burnet (theologian)|Thomas Burnet]]
+* [[Edward Stillingfleet]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Gutenberg author |id=25034}}
+* {{Gutenberg|no=22011|name=Relation de l'Islande}}
+* {{Internet Archive author |sname=Isaac La Peyrère |sopt=w}}
+
+{{Historical definitions of race}}
+{{Authority control}}
+
+{{DEFAULTSORT:La Peyrere, Isaac}}
+[[Category:1596 births]]
+[[Category:1676 deaths]]
+[[Category:17th-century French theologians]]
+[[Category:French librarians]]
+[[Category:French Zionists]]
+[[Category:French Calvinist and Reformed theologians]]
+[[Category:Huguenots]]
+[[Category:Conversos]]
+[[Category:French people of Portuguese-Jewish descent]]
+[[Category:Converts to Roman Catholicism from Calvinism]]
+[[Category:Forerunners of Zionism]]
+[[Category:17th-century French lawyers]]
+[[Category:Premillennialism]]

@@ -1,0 +1,22 @@
+'''Richard Kilvington''' (c. 1302-1361) was an [[England|English]] [[Scholasticism|scholastic]] [[theology|theologian]] and [[Philosophy|philosopher]] at the [[University of Oxford]]. His surviving works are lecture notes from the 1320s and 1330s. He was a Fellow of [[Oriel College, Oxford]].<ref>Jan A. Aertsen, Andreas Speer (editors), ''Raum und Raumvorstellungen im Mittelalter'' (1998), p. 179. {{in lang|de}}</ref> He was involved in a controversy over the nature of the [[Infinity (philosophy)|infinite]], with [[Richard FitzRalph]], of [[Balliol College]].<ref>John David North, ''Stars, Minds, and Fate: Essays in Ancient and Medieval Cosmology'' (1989), p. 242.</ref>
+
+In the 1340s he worked for [[Richard of Bury]], [[bishop of Durham]].<ref>Jorge J. E. Gracia, Timothy B. Noone, ''A Companion to Philosophy in the Middle Ages'' (2003), p. 571.</ref>
+
+==References==
+* Barbara Ensign Kretzmann, [[Norman Kretzmann]] (eds), ''The Sophismata of Richard Kilvington'', critical edition of the Latin text, New York: Oxford University Press, 1990.
+* Barbara Ensign Kretzmann, [[Norman Kretzmann]] (eds), ''The Sophismata of Richard Kilvington'', introduction, translation, and commentary, Cambridge: Cambridge University Press, 1990.
+
+==Notes==
+{{reflist}}
+
+==External links==
+*{{cite SEP |url-id=kilvington |title=Richard Kilvington |last=Jung |first=Elzbieta}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kilvington, Richard}}
+[[Category:1361 deaths]]
+[[Category:Scholastic philosophers]]
+[[Category:14th-century writers in Latin]]
+[[Category:Fellows of Oriel College, Oxford]]
+[[Category:Year of birth uncertain]]

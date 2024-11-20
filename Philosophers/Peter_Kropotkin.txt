@@ -1,0 +1,436 @@
+{{Short description|Russian anarchist (1842–1921)}}
+{{Redirect|Kropotkin}}
+{{Family name hatnote|Alexeyevich|Kropotkin|lang=Eastern Slavic}}
+{{Use American English|date=April 2023}}
+{{Use dmy dates|date=February 2024}}
+{{Infobox philosopher
+| name = Peter Kropotkin
+| native_name = {{nobold|Пётр Кропоткин}} 
+| birth_name = Pyotr Alexeyevich Kropotkin
+| image = Peter Kropotkin circa 1900.jpg
+| alt =
+| caption = Kropotkin {{circa|1900}}
+| birth_date = {{birth date|1842|12|9|df=y}}
+| birth_place = [[Moscow]], [[Russian Empire]]
+| death_date = {{death date and age|1921|2|8|1842|12|9|df=y}}
+| death_place = [[Dmitrov]], [[Russian Soviet Federative Socialist Republic|Russian SFSR]]
+| spouse = [[Sophie Kropotkin|Sofia Ananyeva-Rabinovich]]
+| children = [[Alexandra Kropotkin|Alexandra]]
+| family = [[Kropotkin family|Kropotkin]]
+| education = {{Indented plainlist|
+* [[Page Corps|Corps of Pages]] (1857–1862)
+* [[Saint Petersburg Imperial University]] (1867; did not graduate)<ref>Slatter, John. [http://www.encyclopedia.com/doc/1G2-3404100697.html "Kropotkin, Pyotr Alexeyevich."] {{Webarchive|url=https://web.archive.org/web/20160916200053/http://www.encyclopedia.com/doc/1G2-3404100697.html |date=16 September 2016 }} ''Encyclopedia of Russian History''. 2004. Retrieved 1 March 2016 from Encyclopedia.com.</ref>
+}}
+| era = {{plainlist|
+* [[19th-century philosophy]]
+* [[20th-century philosophy]]
+}}
+| region = {{plainlist|
+* [[Russian philosophy]]
+* [[Western philosophy]]
+}}
+| school_tradition = {{plainlist|
+* [[Anarchism]]
+* [[Communism]]
+* [[Socialism]]
+}}
+| main_interests = {{plainlist|
+* [[Political philosophy]]
+* [[Political history]]
+* Economics
+* Ethics
+* [[Darwinian theory]]
+* [[Geography]]
+}}
+| notable_ideas = {{Indented plainlist|
+* Political, ethical and economic theory of [[anarcho-communism]]
+* [[Mutual aid (organization theory)|Mutual aid]]
+* Criticism of [[wage labor]]
+* Five-hour workday
+* Communal kitchens
+* Voluntary communes
+}}
+| notable_works = {{Indented plainlist|
+* ''[[The Conquest of Bread]]'' (1892)
+* ''[[Fields, Factories, and Workshops]]'' (1899)
+* ''[[Memoirs of a Revolutionist]]'' (1899)
+* ''[[Mutual Aid: A Factor of Evolution]]'' (1902)
+}}
+| module = {{Infobox military person|embed=yes
+| allegiance = {{flag|Russian Empire}}
+| unit = [[Page Corps|Corps of Pages]]
+| commands = {{Indented plainlist|
+* [[Aide-de-camp]] to the [[Transbaikal|Governor of Transbaikal]]
+*  [[Attaché]] for [[Cossacks|Cossack]] affairs to the [[Siberia|Governor-General of East Siberia]]}}
+}}
+| signature = Peter Kropotkin signature.svg|resting_place=[[Novodevichy Cemetery]], Moscow}}
+
+'''Pyotr Alexeyevich Kropotkin'''{{efn|{{IPAc-en|k|r|oʊ|ˈ|p|ɒ|t|k|ɪ|n}};<ref>[http://dictionary.reference.com/browse/kropotkin "Kropotkin"] {{Webarchive|url=https://web.archive.org/web/20141225005853/http://dictionary.reference.com/browse/Kropotkin |date=25 December 2014 }}. ''[[Random House Webster's Unabridged Dictionary]]''.</ref> {{langx|ru|link=no|Пётр Алексе́евич Кропо́ткин}} {{IPA|ru|ˈpʲɵtr ɐlʲɪkˈsʲejɪvʲɪt͡ɕ krɐˈpotkʲɪn}}}} (9 December 1842{{efn|According to the new style calendar (modern Gregorian), Kropotkin was born on 9 December 1842. According to the old style (Old Julian) calendar used in the Russian Empire at the time, it was 27 November 1842. Russia converted from the old to the new style calendar in 1918.}} – 8 February 1921) was a Russian [[anarchist]] and [[geographer]] known as a proponent of [[anarchist communism]].
+
+Born into an [[aristocratic]] land-owning family, Kropotkin attended [[Page Corps]] and later served as an officer in [[Siberia]], where he participated in several geological expeditions. He was imprisoned for his activism in 1874 and managed to escape two years later. He spent the next 41 years in exile in [[Switzerland]], France (where he was imprisoned for almost four years) and England. While in exile, he gave lectures and published widely on anarchism and geography.<ref>{{Cite book |last=Caves |first=R. W. |title=Encyclopedia of the City |publisher=Routledge |year=2004 |isbn=978-0-415-25225-6 |page=414}}</ref> Kropotkin returned to Russia after the [[Russian Revolution]] in 1917, but he was disappointed by the [[Bolshevik]] state.
+
+Kropotkin was a proponent of a [[Libertarian socialist decentralization|decentralized]] [[communist society]] free from central government and based on voluntary associations of self-governing communities and worker-run enterprises. He wrote many books, pamphlets and articles, the most prominent being ''[[The Conquest of Bread]]'' (1892) and ''[[Fields, Factories, and Workshops]]'' (1899), with ''[[Mutual Aid: A Factor of Evolution]]'' (1902) being his principal scientific offering. He contributed the article on anarchism to the ''[[Encyclopædia Britannica Eleventh Edition]]''<ref>[[iarchive:PeterKropotkinEntryOnanarchismFromTheEncyclopdiaBritannica|Peter Kropotkin entry on 'anarchism' from the Encyclopædia Britannica (eleventh ed.)]], Internet Archive. Public Domain text.</ref> and left an unfinished work on anarchist ethical philosophy.
+
+== Life ==
+
+=== Early life ===
+
+Kropotkin was born in Moscow on 9 December 1842, in the [[:ru:Большая Конюшенная слобода|Konyushennaya]] ("[[Equerries]]") district.{{sfn|Osofsky|1979|p=13}}<!-- only Kropotkin appears to use the translation "Old Equerries' Quarter" -->{{efn|His birth date was 27 November in the [[Old Style and New Style dates#Russia|Russian Old Style]] calendar.{{sfn|Kropotkin|Walter|1971|p=504}}}} His father, Alexander, was a typical royal officer who owned serfs in three provinces and [[Kropotkin family|whose family]] descended from the [[Prince of Smolensk|Grand Princes of Smolensk]].{{sfn|Osofsky|1979|pp=22–23}} His mother, Ekatarina Sulima, was the daughter of General [[Nikolai Sulima]] and a descendant of a [[Zaporozhian Cossacks]] leader. Peter, the youngest of her four children, was three years old when she died of [[tuberculosis]].{{sfn|Osofsky|1979|p=23}} Kropotkin's father remarried two years later. This stepmother was indifferent towards the Kropotkin children and had a streak of jealous vindictiveness, going through great lengths to remove the memory of Kropotkin's mother.{{sfn|Osofsky|1979|p=24}}
+
+With his father mostly absent, Kropotkin and his older brother, Alexander, were raised by their German nurse. Kropotkin developed an enduring compassion for the estate's servants and serfs who cared for him and relayed stories of his mother's kindness.{{sfn|Osofsky|1979|p=23}} He was raised in the family's Moscow mansion and an estate in [[:ru:Никольское#Калужская область|Nikolskoye, Kaluga Oblast]], outside Moscow.{{sfn|Osofsky|1979|p=24}}
+
+At the age of eight, Kropotkin attended Tsar [[Nicholas I of Russia|Nicholas I]]'s Royal Ball. Commending the child's costume, the tsar chose Kropotkin for his [[Page Corps]], an elite school in [[St. Petersburg]] that combined military and court education and produced the tsar's imperial attendants.{{sfn|Osofsky|1979|p=13, 24–25}} Kropotkin joined the Page Corps as a teenager and began a 14-year epistolary relationship with his brother that charts his intellectual and emotional development.{{sfn|Osofsky|1979|pp=13, 18, 25}} By the time of his arrival, Kropotkin had already shown a populist position towards [[Emancipation reform of 1861|the emancipation of serfs]] and a nature of revolt against his father and the school's hazing.{{sfn|Osofsky|1979|p=25}} Kropotkin began his first underground revolutionary writings at the school, where he advocated for a Russian constitution.{{sfn|Osofsky|1979|p=13, 26}} He developed an interest in science, reading, and opera. As a top student, Kropotkin became a sergeant-major in 1861{{sfn|Osofsky|1979|p=25}} and was thrust into court life, serving as the emperor's personal Page de Chambre.{{sfn|Osofsky|1979|pp=13, 28}} His views of the tsar and court life soured as imperial policy changed over the next year.{{sfn|Osofsky|1979|p=28}} Privately he was preoccupied with the need to live a societally useful life.{{sfn|Osofsky|1979|p=27}}
+
+=== Siberia ===
+
+For his tour of service, in 1862 he chose the [[Amur Cossacks]] in east [[Siberia]], an undesirable post that would let him study the technical mathematics of artillery, travel, live in nature, and achieve financial independence from his father.{{sfn|Osofsky|1979|pp=28–29}} He developed a firm worldview of compassion for the poor and contrasted the pride and dignity of the yeoman peasant farmers against the indignities of serfdom.{{sfn|Osofsky|1979|p=29}} He wrote approvingly of the cultivated [[Transbaikalia]] governor-general [[Boleslav Kukel]], to whom Kropotkin reported.{{sfn|Osofsky|1979|pp=29–30}} Kukel engaged Kropotkin in prison reform and city self-governance projects that the central government ultimately denied. The exiled poet and political prisoner [[Mikhail Larionovitch Mikhailov]] introduced Kropotkin to anarchism by recommending he read an essay by [[Pierre-Joseph Proudhon]].{{sfn|Osofsky|1979|p=30}} Kropotkin's brother came to live with him in [[Irkutsk]].{{sfn|Osofsky|1979|pp=13, 32}}<!-- Osofsky gives conflicting years so don't use --> 
+
+After Kukel's ouster in early 1863, Kropotkin found solace in geographical work.{{sfn|Osofsky|1979|pp=30–31}} He led a disguised reconnaissance expedition to find a direct route through [[Manchuria]] from [[Chita, Zabaykalsky Krai|Chita]] to [[Vladivostok]] the next year. He explored the [[East Siberian Mountains]] in the north the year after. The mountain measurements from his 1866 [[Olekminsk]]-[[Vitimsky|Vitimsk]] expedition confirmed his Manchurian hypothesis that the Siberian area from the [[Ural Mountains]] to the [[Pacific Ocean]] was a [[plateau]] and not a [[plain]]. This discovery of the [[Patom Plateau|Patom]] and [[Vitim Plateau]]s won him a gold medal from the [[Russian Geographical Society]] and led to the commercialization of the [[Lena gold fields]]. A [[Kropotkin Range|range of mountains in this region]] was later named for him.{{sfn|Osofsky|1979|p=31}}
+
+Kropotkin covered Siberia for St. Petersburg newspapers since his arrival, including the condition of the Polish political exiles who participated in the unsuccessful 1866 [[Baikal Insurrection]].{{sfn|Osofsky|1979|pp=31–32}} Kropotkin secured a promise from the governor-general to suspend the prisoners' death sentences, which was reneged. Disillusioned, Kropotkin and his brother resolved to leave the military. His time in Siberia taught him to appreciate peasant social organization and convinced him that administrative reform was an ineffectual means to improve social conditions.{{sfn|Osofsky|1979|pp=13, 32}}<!-- "prepared to become an anarchist"-->
+
+{{Location map+|Russia
+|caption    = Russian locales of Kropotkin's early career
+|width      = 360
+|float      = left
+|relief     =
+|places     =
+{{Location map~|Russia
+|label      = Vitim
+|label_size =
+|position   = top
+|background =
+|mark       =
+|marksize   =
+|link       =
+|lat_deg    = 59.433333
+|lon_deg    = 112.566667
+|places     =
+}}
+{{Location map~|Russia
+|label      = Chita
+|label_size =
+|position   = left
+|background =
+|mark       =
+|marksize   =
+|link       =
+|lat_deg    = 52.05
+|lon_deg    = 113.466667
+}}
+{{Location map~|Russia
+|label      = Vladivostok
+|position   = bottom
+|lat_deg    = 43.133333
+|lon_deg    = 131.9
+}}
+{{Location map~|Russia
+|label      = St.&nbsp;Petersburg
+|position   = right
+|lat_deg    = 59.9375
+|lon_deg    = 30.308611
+}}
+{{Location map~|Russia
+|label      = Moscow
+|position   = right
+|lat_deg    = 55.755833
+|lon_deg    = 37.617222
+}}
+}}
+
+After five years in Siberia, Kropotkin and his brother moved to St. Petersburg, where they continued their schooling and academic work. Kropotkin took a position with the Russian [[interior ministry]] with no duties. He studied physics, math, and geography at the university.{{sfn|Osofsky|1979|pp=13, 32–33}} After presenting his Vitim expedition findings, Kropotkin accepted the Russian Geographical Society's part-time offer of its Physical Geography section Secretaryship. Kropotkin translated [[Herbert Spencer]] for additional income. He continued to develop a theory, which he considered his best scientific contribution, that the East Siberian mountains were part of a large plateau and not independent ridges. Kropotkin participated in an 1870 polar expedition plan that postulated the existence of what was later discovered as the [[Franz Josef Land]] Arctic archipelago.{{sfn|Osofsky|1979|p=33}}
+
+In early 1871, he was commissioned to study the [[Pleistocene|Ice Age]] in Scandinavian geography, in which Kropotkin developed theories of the glaciation of Europe and the [[glacial lakes]] of its northeast.{{sfn|Osofsky|1979|pp=33–34}} His father died later that year and Kropotkin inherited a wealthy estate in [[Tambov]]. Kropotkin turned down the Geographical Society's offer of its general secretary position, instead choosing work on his Ice Age data and interest in bettering the lives of peasants.{{sfn|Osofsky|1979|p=34}}
+
+=== Anarchism ===
+
+[[File:Кропоткин, Петр Александрович (1842-1921; примерно 1876).jpg|thumb|Kropotkin in 1876]]
+
+While Kropotkin became increasingly revolutionary in his writings, he was not known for activism.{{sfn|Osofsky|1979|p=18}} He was spurred by the 1871 [[Paris Commune]] and trial of [[Sergey Nechayev]]. He and his brother attended meetings on the [[Franco-Prussian War]] and revolutionism.{{sfn|Osofsky|1979|p=33}} Likely at the encouragement of a Swiss extended family member and his own desire to see the socialist worker's movement, Kropotkin set out to see Switzerland and Western Europe in February 1872. Over three months, he met [[Mikhail Sazhin (revolutionary)|Mikhail Sazhin]] in Zurich, worked and fell out with [[Nikolai Utin]]'s Marxist group in Geneva, and was introduced to the [[Jura Federation]]'s [[James Guillaume]] and [[Adhémar Schwitzguébel]]. The Jura were the main internal opposition to the Marxist-controlled [[First International]], as followers of [[Mikhail Bakunin]].{{sfn|Osofsky|1979|p=34}} Kropotkin was quickly impressed and was instantly converted to anarchism by the group's egalitarianism and independence of expression,{{sfn|Osofsky|1979|pp=14, 34}} but narrowly missed meeting the leading anarchist, Bakunin, while there.<ref>{{Cite book |last=Shatz |first=Marshall S. |title=The Conquest of Bread and Other Anarchist Writings |date=1995 |publisher=Cambridge University Press |isbn=978-0-521-45990-7 |page=xi |language=en |chapter=Introduction |oclc=832639138 }}</ref>{{efn|Kropotkin previously had some passing familiarity with Bakunin.{{sfn|Osofsky|1979|p=33}} Historians wrote that Bakunin likely did not wish to meet Kropotkin based on the latter's familial connection to the socialist [[Peter Lavrov]].{{sfn|Osofsky|1979|p=35}} }} Kropotkin visited Belgium's movement before returning to Russia in May with contraband literature.{{sfn|Osofsky|1979|p=35}}
+
+Back in St. Petersburg, Kropotkin joined the [[Chaikovsky Circle]], a group of revolutionaries that Kropotkin considered more educational than revolutionary in their activities.{{sfn|Osofsky|1979|p=35}} Kropotkin believed in the inevitability of social revolution and the need for stateless social organization. His populist revolutionary program for the group focused on urban workers and peasants whereas the group's moderates focused on students. Partially for this reason, he declined to contribute his personal wealth to the group. He viewed professionals as unlikely to forgo their privileges and judged them to not live societally useful lives. His program emphasized federated agrarian communes and a revolutionary party. While he could speak powerfully, Kropotkin was not a successful organizer.{{sfn|Osofsky|1979|p=36}}
+
+Kropotkin's first political memo in November 1873 covered his basic plan for stateless social reconstruction including common property, worker control of factories, shared physical labor towards societal need, and labor vouchers in lieu of money. He emphasized living among commoners and using propaganda to focus mass dissatisfaction. He rejected the Nechayev conspiracy model.{{sfn|Osofsky|1979|pp=36–37}} Members of the circle began to be arrested in late 1873 and the [[Third Section]] secret police came for Kropotkin in March 1874.{{sfn|Osofsky|1979|p=37}}
+
+His arrest for agitation, as a former ''page de chambre'' and officer, was scandalous.{{sfn|Osofsky|1979|pp=14, 37}} Kropotkin had just filed his Ice Age report and had been recently elected president of the Geographical Society's Physical and Mathematical Department. At the society's request the tsar granted Kropotkin books to finish his glaciation report. Kropotkin was held in the [[Peter and Paul Fortress]].{{sfn|Osofsky|1979|p=37}} His brother, who had also radicalized as a follower of Lavrov,{{sfn|Osofsky|1979|p=35}} was also arrested and [[katorga|exiled in Siberia]], where he committed suicide about a decade later.{{sfn|Osofsky|1979|p=38}}
+
+Kropotkin was moved to the House of Detention prison military hospital in St. Petersburg for poor health, with the help of his sister. With assistance from friends, he escaped from the minimal-security prison in June 1876. By way of Scandinavia and England, Kropotkin arrived in Switzerland by the end of the year, where he met Italian anarchists [[Carlo Cafiero]] and [[Errico Malatesta]]. He visited Belgium and Zurich, where he met French geographer [[Élisée Reclus]], who became a close friend.{{sfn|Osofsky|1979|p=38}}
+
+=== Exile ===
+
+Kropotkin associated with the Jura Federation and began editing its publication.{{sfn|Osofsky|1979|pp=38–39}} There he met  Ukrainian Jewish student [[Sophie Kropotkin]], and the two were married in 1878.{{sfn|Osofsky|1979|p=39}} In 1879, he started ''[[Le Révolté]]'', a revolutionary fortnightly, in Geneva that published his personal articulation of [[anarchist communism]], the idea of distributing work product communally based on need rather than by work.{{sfn|Osofsky|1979|pp=14, 39}} He became the philosophy's most prominent proponent,  despite not creating it. The philosophy became part of the Jura program in 1880 at Kropotkin's advocacy. ''Le Révolté'' also published Kropotkin's best known pamphlet, "An Appeal to the Young," in 1880.{{sfn|Osofsky|1979|p=39}} 
+
+Switzerland expelled Kropotkin at Russia's behest after the [[assassination of Alexander II]] in early 1881. He moved to [[Thonon-les-Bains]], [[French Third Republic|France]], near Geneva, so that his wife could finish her Swiss education. Upon learning that the Holy League, a tsarist group, intended to kill him for his alleged association with the assassination, he moved to London, but could only bear to live there for a year.{{sfn|Osofsky|1979|p=39}} Upon his return in late 1882, the French arrested him for agitation, partly to appease Russia. He was sentenced to five years in [[Lyons]]. In early 1883, he was transferred to the [[Clairvaux Prison]], where he continued his academic work. A public campaign of intellectuals and French legislators called for his release. Reclus published ''Words of a Rebel'', a compilation of Kropotkin's ''Révolté'' writings while he was in prison, which became a main source of Kropotkin's thoughts on revolution. As Kropotkin's health worsened from [[scurvy]] and [[malaria]], France released him in early 1886.{{sfn|Osofsky|1979|p=40}} He would stay in England through 1917, settling in [[Harrow, London]], apart from brief trips to other European countries.{{sfn|Osofsky|1979|pp=40–41}}
+
+In London in late 1886, he co-founded ''[[Freedom (British newspaper)|Freedom]]'', an anarchist monthly and the first English anarchist periodical, which he continued to support for almost three decades.{{sfn|Osofsky|1979|pp=14, 41}} His first and only child, [[Alexandra Kropotkin]], was born the next year. He published multiple books over the next coming years including ''In Russian and French Prisons'' and ''The Conquest of Bread''.{{sfn|Osofsky|1979|p=14}} His intellectual circle in London included [[William Morris]] and [[W. B. Yeats]] as well as old Russian friends [[Sergey Stepnyak-Kravchinsky]] and [[Nikolai Tchaikovsky]]. Kropotkin contributed to the ''Geographical Journal'' and ''Nature''.{{sfn|Osofsky|1979|p=41}}
+
+After 1890, according to biographers [[George Woodcock]] and [[Ivan Avakumović]], Kropotkin became more of a scholarly recluse and less of a propagandist. His works' revolutionary zeal subsided as he turned to social, ethical, and scientific questions. He joined the [[British Association for the Advancement of Science]]. He continued to contribute to ''Freedom'' but was no longer an editor.{{sfn|Osofsky|1979|p=44}}
+
+Several of Kropotkin's books began as journal articles. His writings on anarchist communist social life were printed in the French successor to ''Le Révolté'' and later revised into ''The Conquest of Bread'' in 1892. Kropotkin's writings on decentralizing production and industry against the countervailing trend of centralized industrialization were compiled into his ''[[Fields, Factories, and Workshops]]'' in 1899.{{sfn|Osofsky|1979|p=42}} His research throughout the 1890s on the animal instinct for cooperation as a counterpoint to [[Darwinism]] became a series of articles in ''Nineteenth Century'' and, later, the book ''Mutual Aid: A Factor of Evolution'', which was widely translated.{{sfn|Osofsky|1979|pp=42–43}}
+
+Following a scientific congress in [[Toronto]] in 1897, Kropotkin toured Canada. His experience there led him to advise the Russian [[Doukhobors]] who sought to immigrate there. He helped facilitate their emigration in 1899.{{sfn|Osofsky|1979|p=44}} Kropotkin entered the United States and met [[John Most]], [[Emma Goldman]], and [[Benjamin Tucker]]. American publishers published his ''Memoirs of a Revolutionist'' and ''Fields, Factories, and Workshops'' by the end of the decade.{{sfn|Osofsky|1979|p=14}} He visited the United States again in 1901 at the invitation of the [[Lowell Institute]] to give lectures on Russian literature that were later published.{{sfn|Osofsky|1979|p=15}}<!-- encourages dropping anticonscription stance; supports strengthening France's military against German military in 1905--> He published ''The Great French Revolution'' (1909), ''The Terror in Russia'' (1909), and ''Modern Science and Anarchism'' (1913). His 70th birthday in 1912 had celebratory gatherings in London and Paris.{{sfn|Osofsky|1979|p=15}}
+
+Kropotkin's support for Western entry into World War I, siding with Britain and France, divided the anarchist movement, which had been anti-war, and damaged his esteem as a luminary of socialism.<!--called "chauvinist" by Lenin for "defensist" stance--> He exacerbated this by insisting, with returning to Russia, that Russians support the war as well.{{sfn|Osofsky|1979|pp=15, 18}}
+
+=== Return to Russia ===
+
+[[File:Emma Goldman gives eulogy at Peter Kropotkin's funeral.jpg|thumb|[[Emma Goldman]] delivering a eulogy at Kropotkin's funeral]]
+
+With the outbreak of the Russian Revolution, Kropotkin returned to Russia in June 1917. He refused the Petrograd Provisional Government's offer of a cabinet seat. In August, he advocated for defending Russia and the revolution at the National State Conference. Kropotkin applied for a residence in Moscow in 1918, which was personally approved by Vladimir Lenin, head of the Soviet government. Months later, finding life in Moscow difficult in his old age, Kropotkin moved with his family to a friend's home in the nearby town of Dmitrov.<ref>{{Cite web |title=A meeting between V.I. Lenin and P. A. Kropotkin |url=https://www.marxists.org/reference/archive/kropotkin-peter/1917/a-meeting.html |url-status=live |archive-url=https://web.archive.org/web/20230525151920/https://www.marxists.org/reference/archive/kropotkin-peter/1917/a-meeting.html |archive-date=25 May 2023 |access-date=17 May 2023 |website=www.marxists.org}}</ref> In 1919, Emma Goldman visited his family there. Kropotkin met with Lenin in Moscow and corresponded by mail to discuss political questions of the day. He advocated for [[Worker cooperative|workers' cooperatives]] and argued against the Bolsheviks' hostage policy and centralization of authority while simultaneously encouraging Western comrades to stop their governments' military interventions in Russia.{{sfn|Osofsky|1979|p=15}} Kropotkin ultimately had little impact on the Russian revolution, but his advocacy work for political and anarchist prisoners in Russia and for the Russian revolution,<!--anti-interventionist--> during the last four years of his life replenished some of the goodwill he had lost from his support for Western powers in World War I.{{sfn|Osofsky|1979|p=18}}
+
+Kropotkin died of pneumonia on 8 February 1921.{{sfn|Osofsky|1979|p=15}} His family refused an offer of a [[state funeral]].{{sfn|Kropotkin|Walter|1971|p=xvii}} With his Moscow funeral, the Bolsheviks permitted the diminished Russian anarchist movement an official, restrained occasion to memorialize their figurehead.{{sfn|Osofsky|1979|p=18}} It was the last major anarchist demonstration of the period in Russia, as the movement and Kropotkin's writings would be fully suppressed later that year.{{sfn|Kropotkin|Walter|1971|p=xvii}}
+
+== Philosophy ==
+{{anarcho-communism sidebar}}
+
+=== Critique of capitalism ===
+Kropotkin critiqued what he considered to be the fallacies of the [[Economics#Criticism|economic systems]] of [[feudalism]] and [[Criticism of capitalism|capitalism]]. He believed they create poverty and [[artificial scarcity]] and promote [[social privilege|privilege]]. Alternatively, he proposed a more decentralized economic system based on [[mutual aid]] and [[cooperation|voluntary cooperation]]. He argued that the tendencies for this kind of organization already exist, both in evolution and in human society.<ref>{{Cite book |last=Kropotkin |first=Peter |url=https://archive.org/details/mutualaidafacto00knigoog |title=Mutual Aid: A Factor of Evolution |publisher=McClure, Philips & Company |year=1902 |pages=[https://archive.org/details/mutualaidafacto00knigoog/page/n247 223]}}</ref>
+
+Kropotkin disagreed in part with the Marxist critique of capitalism, including the [[labor theory of value]], believing there was no necessary link between work performed and the values of commodities. His attack on the institution of wage labor was based more on the power employers exerted over employees, and not only on the extraction of [[surplus value]] from their labor. Kropotkin claimed this power was made possible by the state's protection of private ownership of productive resources.<ref>{{Cite book |last=Bekken |first=John |title=Radical Economics and Labour |publisher=Routledge |year=2009 |isbn=978-0-415-77723-0 |location=London & New York |page=223 |chapter=Peter Kropotkin's anarchist economics for a new society |chapter-url=https://books.google.com/books?id=3PoqAJrrYtAC&pg=PT18}}</ref><ref name=":0">{{Cite book |last=Kropotkin |first=Peter |title=The Conquest of Bread |publisher=Dover Publications, Inc. |year=2011 |pages=50, 101–102}}</ref> However, Kropotkin believed the possibility of surplus value was itself the problem, holding that a society would still be unjust if the workers of a particular industry kept their surplus to themselves, rather than redistributing it for the common good.<ref name=":0" />
+
+=== Critique of state socialism ===
+
+Kropotkin believed that a [[Communism|communist]] society could be established only by a [[social revolution]], which he described as, "... the taking possession by the people of all social wealth. It is the abolition of all the forces which have so long hampered the development of Humanity".<ref name=":1">{{Cite web |title=Revolutionary Government |url=https://theanarchistlibrary.org/library/petr-kropotkin-revolutionary-government |url-status=live |archive-url=https://web.archive.org/web/20170309063440/https://theanarchistlibrary.org/library/petr-kropotkin-revolutionary-government |archive-date=9 March 2017 |access-date=13 December 2022 |website=The Anarchist Library |language=en}}</ref> However, he criticized forms of revolutionary methods (like those proposed by [[Marxism]] and [[Blanquism]]) that retained the use of state power, arguing that any central authority was incompatible with the dramatic changes needed by a social revolution. Kropotkin believed that the mechanisms of the state were deeply rooted in maintaining the power of one class over another, and thus could not be used to [[Emancipation|emancipate]] the [[working class]].<ref>{{Cite book |url=https://theanarchistlibrary.org/library/petr-kropotkin-the-modern-state |title=The Modern State |language=en |access-date=13 December 2022 |archive-url=https://web.archive.org/web/20221213065703/https://theanarchistlibrary.org/library/petr-kropotkin-the-modern-state |archive-date=13 December 2022 |url-status=live}}</ref> Instead, Kropotkin insisted that both [[private property]] and the [[State (polity)|state]] needed to be abolished together. <blockquote>The economic change which will result from the Social Revolution will be so immense and so profound, it must so change all the relations based today on property and exchange, that it is impossible for one or any individual to elaborate the different social forms, which must spring up in the society of the future. [...] Any authority external to it will only be an obstacle, only a trammel on the organic labor which must be accomplished, and beside that a source of discord and hatred.<ref name=":1" /></blockquote>Kropotkin believed that any post-revolutionary [[government]] would lack the local knowledge to organize a diverse population. Their vision of society would be limited by their own vindictive, self-serving, or narrow ideals.<ref name=":2">{{Cite web |title=Revolutionary Studies |url=https://theanarchistlibrary.org/library/petr-kropotkin-revolutionary-studies |url-status=live |archive-url=https://web.archive.org/web/20221213065733/https://theanarchistlibrary.org/library/petr-kropotkin-revolutionary-studies |archive-date=13 December 2022 |access-date=13 December 2022 |website=The Anarchist Library |language=en}}</ref> To ensure order, preserve [[authority]], and organize [[Production (economics)|production]] the state would need to use [[violence]] and [[coercion]] to suppress further revolution, and control workers. The workers would be reliant on the state [[bureaucracy]] to organize them, so they would never develop the initiative to self-organize as they needed.<ref name=":1" /> This would lead to the re-creation of [[Social class|classes]], an oppressed workforce, and eventually another revolution.<ref>{{Cite book |url=https://theanarchistlibrary.org/library/petr-kropotkin-the-modern-state |title=The Modern State |language=en |chapter=XI. CAN THE STATE BE USED FOR THE EMANCIPATION OF THE WORKERS? |access-date=13 December 2022 |archive-url=https://web.archive.org/web/20221213065703/https://theanarchistlibrary.org/library/petr-kropotkin-the-modern-state |archive-date=13 December 2022 |url-status=live}}</ref> Thus, Kropotkin wrote that maintaining the state would paralyze any true social revolution, making the idea of a "revolutionary government" a contradiction in terms:<blockquote>We know that Revolution and Government are incompatible; one must destroy the other, no matter what name is given to government, whether dictator, royalty, or parliament. We know that what makes the strength and the truth of our party is contained in this fundamental formula — "Nothing good or durable can be done except by the free initiative of the people, and every government tends to destroy it;" and so the very best among us, if their ideas had not to pass through the crucible of the popular mind, before being put into execution, and if they should become masters of that formidable machine — the government — and could thus act as they chose, would become in a week fit only for the gallows. We know whither every dictator leads, even the best intentioned, — namely to the death of all revolutionary movement.<ref name=":1" /></blockquote>Rather than a centralized approach, Kropotkin stressed the need for decentralized organization. He believed that dissolving the state would cripple counter-revolution without reverting to authoritarian methods of control, writing, "In order to conquer, something more than guillotines are required. It is the revolutionary idea, the truly wide revolutionary conception, which reduces its enemies to impotence by paralyzing all the instruments by which they have governed hitherto."<ref name=":2" /> He believed this was possible only through a widespread "Boldness of thought, a distinct and wide conception of all that is desired, constructive force arising from the people in proportion as the negation of authority dawns; and finally -- the initiative of all in the work of reconstruction -- this will give to the revolution the Power required to conquer."<ref name=":2" />
+
+Kropotkin applied this criticism to the [[Bolsheviks]]' rule following the [[October Revolution]]. Kropotkin summarized his thoughts in a 1919 letter to the workers of Western Europe, promoting the possibility of revolution, but also warning against the centralized control in Russia, which he believed had condemned them to failure.<ref>{{Cite web |title=The Russian Revolution and the Soviet Government: Letter to the Workers of Western Europe |url=https://theanarchistlibrary.org/library/petr-kropotkin-the-russian-revolution-and-the-soviet-government-letter-to-the-workers-of-wester |url-status=live |archive-url=https://web.archive.org/web/20221213065732/https://theanarchistlibrary.org/library/petr-kropotkin-the-russian-revolution-and-the-soviet-government-letter-to-the-workers-of-wester |archive-date=13 December 2022 |access-date=13 December 2022 |website=The Anarchist Library |language=en}}</ref> Kropotkin wrote to [[Vladimir Lenin|Lenin]] in 1920, describing the desperate conditions that he believed to be the result of bureaucratic organization, and urging Lenin to allow for local and decentralized institutions.<ref>{{Cite web |title=Letter to Lenin (4 March 1920) |url=https://theanarchistlibrary.org/library/petr-kropotkin-letter-to-lenin-4-march-1920 |url-status=live |archive-url=https://web.archive.org/web/20221213065733/https://theanarchistlibrary.org/library/petr-kropotkin-letter-to-lenin-4-march-1920 |archive-date=13 December 2022 |access-date=13 December 2022 |website=The Anarchist Library |language=en}}</ref> Following an announcement of executions later that year, Kropotkin sent Lenin another furious letter, admonishing the terror which Kropotkin saw as needlessly destructive.<ref>{{Cite web |title=Letter To Lenin (21 December 1920) |url=https://theanarchistlibrary.org/library/petr-kropotkin-letter-to-lenin |url-status=live |archive-url=https://web.archive.org/web/20221213065705/https://theanarchistlibrary.org/library/petr-kropotkin-letter-to-lenin |archive-date=13 December 2022 |access-date=13 December 2022 |website=The Anarchist Library |language=en}}</ref>
+
+=== Cooperation and competition ===
+In 1902, Kropotkin published his book ''[[Mutual Aid: A Factor of Evolution]]'', which gave an alternative view of animal and human survival. At the time, some proponents of "[[Social Darwinism]]" such as [[Francis Galton]] proffered a theory of interpersonal competition and natural hierarchy. Instead, Kropotkin argued that "it was an evolutionary emphasis on cooperation instead of competition in the Darwinian sense that made for the success of species, including the human".<ref name="Sale">[[Kirkpatrick Sale|Sale, Kirkpatrick]] (1 July 2010) [http://www.amconmag.com/article/2010/jul/01/00045/ Are Anarchists Revolting?] {{Webarchive|url=https://web.archive.org/web/20101212113034/http://amconmag.com/article/2010/jul/01/00045/ |date=12 December 2010 }}, ''[[The American Conservative]]''</ref> In the last chapter, he wrote:
+{{blockquote|In the animal world we have seen that the vast majority of species live in societies, and that they find in association the best arms for the struggle for life: understood, of course, in its wide Darwinian sense – not as a struggle for the sheer means of existence, but as a struggle against all natural conditions unfavourable to the species. The animal species [...] in which individual struggle has been reduced to its narrowest limits [...] and the practice of mutual aid has attained the greatest development [...] are invariably the most numerous, the most prosperous, and the most open to further progress. The mutual protection which is obtained in this case, the possibility of attaining old age and of accumulating experience, the higher intellectual development, and the further growth of sociable habits, secure the maintenance of the species, its extension, and its further progressive evolution. The unsociable species, on the contrary, are doomed to decay.<ref>{{Cite book |last=Kropotkin, Peter |url=http://en.wikiquote.org/wiki/Kropotkin#Mutual_Aid:_A_Factor_of_Evolution_.281902.29 |title=quotation from ''Mutual Aid: A Factor of Evolution'' |year=1902 |access-date=May 31, 2012 |archive-url=https://web.archive.org/web/20190316091205/https://en.wikiquote.org/wiki/Kropotkin#Mutual_Aid:_A_Factor_of_Evolution_.281902.29 |archive-date=March 16, 2019 |url-status=live}}</ref>}}
+
+Kropotkin did not deny the presence of competitive urges in humans, but did not consider them the driving force of [[human history]].<ref name="Gallaher">{{Cite book |last1=Gallaher |first1=Carolyn |title=Key Concepts in Political Geography |last2=Dahlman |first2=Carl T. |last3=Gilmartin |first3=Mary |last4=Mountz |first4=Alison |last5=Shirlow |first5=Peter |date=2009 |publisher=SAGE |isbn=9781412946728 |location=London |page=392 |author-link=Carolyn Gallaher}}</ref> He believed that seeking out conflict proved to be socially beneficial only in attempts to destroy [[injustice]], as well as [[authoritarian]] institutions such as the [[state (polity)|state]] or the [[Russian Orthodox Church]], which he saw as stifling human creativity and impeding human instinctual drive towards [[cooperation]].<ref>{{Cite book |last=Vucinich |first=Alexander |title=Darwin in Russian Thought |publisher=University of California Press |year=1988 |isbn=9780520062832 |page=349}}</ref>
+
+Kropotkin claimed that the benefits arising from [[mutual organization]] incentivizes humans more than mutual strife. His hope was that in the long run, mutual organization would drive individuals to [[Production (economics)|produce]]. [[Anarcho-primitivists]] and [[anarcho-communists]] believe that a [[gift economy]] can break the cycle of [[poverty]]. They rely on Kropotkin, who believed that the [[hunter-gatherer]]s he had visited implemented mutual aid.  
+<ref>{{Cite book |last=Roy |first=Debarati |title=The Power of Money |publisher=Vij Books India Private Limited |year=2012 |isbn=9789382573173 |page=201}}</ref>
+
+=== Mutual aid ===
+
+In his 1892 book ''[[The Conquest of Bread]]'', Kropotkin proposed a system of economics based on mutual exchanges made in a system of voluntary cooperation. He believed that in a society that is socially, culturally, and industrially developed enough to produce all the goods and services it needs, there would be no obstacle, such as preferential distribution, pricing or monetary exchange, to prevent everyone to take what they need from the social product. He supported the eventual abolition of money or tokens of exchange for goods and services.<ref>{{Cite book |last=Kropotkin |first=Peter |url=https://archive.org/details/conquestbread00kropgoog |title=The Conquest of Bread |publisher=Putnam |year=1892 |pages=[https://archive.org/details/conquestbread00kropgoog/page/n219 201]}}</ref>
+
+Kropotkin believed that [[Mikhail Bakunin]]'s [[Collectivist anarchism|collectivist]] economic model was just a wage system by a different name<ref>Kropotkin wrote: "After the Collectivist Revolution instead of saying 'twopence' worth of soap, we shall say 'five minutes' worth of soap." (quoted in {{Cite book |last=Brauer, Fae |title=The Art of Evolution: Darwin, Darwinisms, and Visual Culture |publisher=UPNE |year=2009 |isbn=9781584657750 |editor-last=Larsen, Barbara Jean |page=211 |chapter=Wild Beasts and Tame Primates: 'Le Douanier' Rosseau's Dream of Darwin's Evolution |chapter-url=https://books.google.com/books?id=kZisTVt0GJQC&pg=PA211}})</ref> and that such a system would breed the same type of centralization and inequality as a capitalist wage system. He stated that it is impossible to determine the value of an individual's contributions to the products of labor and thought that anyone who was placed in a position of trying to make such determinations would wield authority over those whose wages they determined.<ref>{{Cite book |last=Avrich, Paul |title=The Russian Anarchists |title-link=The Russian Anarchists |publisher=AK Press |year=2005 |isbn=9781904859482 |pages=28–29}}</ref>
+
+According to [[Kirkpatrick Sale]], "[w]ith ''Mutual Aid'' especially, and later with ''[[Fields, Factories, and Workshops]]'', Kropotkin was able to move away from the absurdist limitations of [[individual anarchism]] and no-laws anarchism that had flourished during this period and provide instead a vision of [[communal anarchism]], following the models of independent cooperative communities he discovered while developing his theory of mutual aid. It was an anarchism that opposed centralized government and state-level laws as traditional anarchism did, but understood that at a certain small scale, communities and communes and co-ops could flourish and provide humans with a rich material life and wide areas of liberty without centralized control."<ref name=Sale/>
+
+=== Self-sufficiency ===
+Kropotkin's focus on local production led to his view that a country should strive for [[autarky|self-sufficiency]] by manufacturing its own goods and growing its own food, thus lessening the need to rely on imports. To these ends, he advocated [[irrigation]] and [[greenhouse]]s to boost local food production.<ref>{{Cite book |last=Adams |first=Matthew S. |url=https://books.google.com/books?id=bFFOCgAAQBAJ&pg=PA114 |title=Kropotkin, Read, and the Intellectual History of British Anarchism: Between Reason and Romanticism |date=4 June 2015 |publisher=Springer |isbn=9781137392626 |language=en}}</ref>
+
+== Personal life ==
+
+{{Quote box|quote=There was no cleavage between the man and his world. He spoke and acted in all things as he felt and believed and wrote. Kropotkin was a whole man. |source=[[Rudolf Rocker]]{{sfn|Osofsky|1979|pp=20–21}} |width=30em |quoted=1}}
+
+Kropotkin married [[Sophie Kropotkin|Sofia]], a Ukrainian Jewish student, in Switzerland in October 1878. She was over a decade younger than Kropotkin.{{sfn|Osofsky|1979|p=39}} Kropotkin references her as a primary source of criticism and feedback. Her published story, "The Wife of Number 4,237", was based on her own experience with her husband at Clairvaux prison. She created an archive in Moscow dedicated to his works before her death in 1941.<ref>{{Cite web |last=Eds |date=18 September 2021 |title=Sophia Kropotkin (and a trip to Hartlepool) |url=https://freedomnews.org.uk/2021/09/18/sophia-kropotkin-and-a-trip-to-hartlepool/ |access-date=24 January 2024 |website=Freedom News |language=en-GB}}</ref> Their only child, [[Alexandra Kropotkin|Alexandra]], was born in London in 1887.{{sfn|Osofsky|1979|pp=14, 39}} Kropotkin was reserved about his private life.{{sfn|Osofsky|1979|p=22}}
+
+<!-- moral leadership-->As an individual, Kropotkin was known for having exceptional integrity and moral character that matched his beliefs. [[Henry Hyndman]], an ideological adversary, recalled Kropotkin's charm and sincerity. These traits, wrote Stepnyak-Kravchinsky, contributed to Kropotkin's power as a public speaker. As a thinker, Kropotkin focused more acutely on issues of morality than of economics or politics and carried himself by his own principles without imposition on others. In practice, this made him more of a "revolutionary humanitarian" than a revolutionist by deed.{{sfn|Osofsky|1979|p=20}} He was also known for being exceptionally kind{{sfn|Osofsky|1979|p=21}} and for forgoing material comforts to live a revolutionary, principled life by example.{{sfn|Osofsky|1979|p=22}} Gerald Runkle wrote that "Kropotkin with his scholarly and saintly ways ... almost brought respectability to the movement."{{sfn|Osofsky|1979|p=19}}
+
+== Legacy ==
+
+[[File:Metro MSK Line1 Kropotkinskaya.jpg|thumb|The [[Kropotkinskaya]] metro station]]
+
+<!-- figurehead -->As the anarchists' leading theorist in his lifetime,{{r|leading}} Kropotkin wrote their most systematic doctrine <!--Bertrand Russell--> in an accessible way;<!--Hobsbawn & Robert Nisbet--><ref name="Drinnon 1982 p. 38">{{cite book |last=Drinnon |first=Richard |chapter=The Dream |chapter-url=https://archive.org/details/rebelinparadiseb0000drin/page/30/mode/2up |chapter-url-access=registration |series=Paul Avrich Collection (Library of Congress) |title=Rebel in Paradise: A Biography of Emma Goldman |url=https://archive.org/details/rebelinparadiseb0000drin |url-access=registration |via=Internet Archive |publisher=University of Chicago Press |publication-place=Chicago |year=1982 |orig-year=1961 |isbn=978-0-226-16364-2 |oclc=1319580316 |page=[https://archive.org/details/rebelinparadiseb0000drin/page/38/mode/2up 38]}}</ref> and led the development of anarchist-communist social doctrine. His works, inventive and pragmatic, were the most read anarchist books and pamphlets, with translations into major European and Eastern languages that influenced revolutionaries (e.g., [[Nestor Makhno]] and [[Emiliano Zapata]]) and non-anarchist reformers alike (e.g., [[Patrick Geddes]], [[Ebenezer Howard]]), as well as a wide range of intellectuals (including the writers [[Ba Jin]] and [[James Joyce]]).{{sfn|Osofsky|1979|p=19}} Much of Kropotkin's impact was in his intellectual writings prior to 1914. He had little influence on the Russian revolution, despite returning for it.{{sfn|Osofsky|1979|p=18}}
+
+<!-- influence-->Emma Goldman regarded Kropotkin as her "great teacher" and as among the greatest minds and personalities of the 19th century.{{sfn|Osofsky|1979|pp=21–22}} 
+
+<!-- museum -->After Kropotkin's 1921 death, the Bolsheviks permitted Kropotkin's Moscow house to become a Kropotkin Museum. This closed in 1938{{sfn|Osofsky|1979|p=15}} with his wife's death.{{sfn|Kropotkin|Walter|1971|p=xvii}}
+
+Kropotkin is the namesake for multiple regional entities.{{sfn|Kropotkin|Walter|1971|p=xvii}} The Konyushennaya district in Moscow, where Kropotkin was born, is now known by his name, as the Kropotkinsky district, including the [[Kropotkinskaya]] metro station.<ref>{{Cite book |last=Jabado |first=Salwa |url=https://books.google.com/books?id=a4QDSqAkhy0C&pg=PA63 |title=Fodor's Moscow and St. Petersburg |year=2008 |publisher=Fodor's |isbn=9781400007172}}</ref> He is the namesake for [[Kropotkin, Krasnodar Krai|a large town]] in the [[North Caucasus]] (southwest Russia){{sfn|Kropotkin|Walter|1971|p=xvii}}<ref>{{Cite book |last=Everett-Heath |first=John |url=https://books.google.com/books?id=qgJCDwAAQBAJ&pg=PT913 |title=The Concise Dictionary of World Place Names |date=7 December 2017 |publisher=Oxford University Press |isbn=978-0-19-255646-2}}</ref> and [[Kropotkin, Irkutsk Oblast|a small town]] in Siberia.{{sfn|Kropotkin|Walter|1971|p=xvii}} The [[Kropotkin Range]] he was first to cross in the Siberian [[Patom Highlands]] was named for him,{{sfn|Osofsky|1979|p=31}} as was [[Mount Kropotkin|a peak]] in [[East Antarctica]].<ref>{{Cite web |last=Alberts |first=Fred G. |year=1995 |title=Geographic Names of the Antarctic |url=https://books.google.com/books?id=D-ADezHGpa4C&pg=PA406}}</ref>
+
+== Works ==
+=== Books ===
+* [https://archive.org/details/inrussianfrenchp00kroprich/page/n5 ''In Russian and French Prisons''], London: Ward and Downey; 1887. 
+* ''[[The Conquest of Bread]]'' (Paris, 1892) Project Gutenberg e-text, [http://librivox.org/the-conquest-of-bread-by-peter-kropotkin/ Project LibriVox audiobook]
+* ''The Great French Revolution, 1789–1793'' (French original: Paris, 1893; English translation: London, 1909). e-text (in French), [https://theanarchistlibrary.org/library/petr-kropotkin-the-great-french-revolution-1789-1793 Anarchist Library e-text (in English)]
+* ''The Terror in Russia,'' 1909, [http://www.revoltlib.com/anarchism/terror-in-russia-court-martial-secret-dr-kropotkin-peter-1909/ RevoltLib e-text]
+* [https://theanarchistlibrary.org/library/petr-kropotkin-words-of-a-rebel-1 ''Words of a Rebel''], 1885, 
+* ''[[Fields, Factories, and Workshops]]'' (London and New York, 1898).
+* ''[[Memoirs of a Revolutionist]]'', London: Smith, Elder; 1899. Anarchist Library e-text, [http://dwardmac.pitzer.edu/Anarchist_Archives/kropotkin/literature/russianlittoc.html Anarchy Archives e-text]
+* ''[[Mutual Aid: A Factor of Evolution]]'' (London, 1902) Project Gutenberg e-text, [https://librivox.org/mutual-aid-a-factor-of-evolution-by-peter-kropotkin/ Project LibriVox audiobook]
+* [https://theanarchistlibrary.org/library/petr-kropotkin-modern-science-and-anarchism ''Modern Science and Anarchism''], 1903, *
+* ''Russian Literature: Ideals and Realities'' (New York: A. A. Knopf, 1905). [http://dwardmac.pitzer.edu/Anarchist_Archives/kropotkin/literature/russianlittoc.html Anarchy Archives e-text]
+* [https://theanarchistlibrary.org/library/petr-kropotkin-the-state-its-historic-role ''The State: Its Historic Role,''] published 1946, 
+* [http://www.revoltlib.com/anarchism/ethics-origin-and-development/view.php ''Ethics: Origin and Development''] (unfinished). Included as first part of [http://arquivo.pt/wayback/20090630104916/http:/bivir.uacj.mx/LibrosElectronicosLibres/Autores/PedroKropotkin/Pedro%20Kropotkin%20-%20Origen%20y%20evoluci%f3n%20de%20la%20moral.pdf ''Origen y evolución de la moral'' (Spanish e-text)]
+
+=== Pamphlets ===
+{{refbegin|2}}
+* [[An Appeal to the Young]] (1880)
+* [http://www.revoltlib.com/anarchism/communism-and-anarchy/view.php Communism and Anarchy] {{Webarchive|url=https://web.archive.org/web/20180128074729/http://www.revoltlib.com/anarchism/communism-and-anarchy/view.php |date=28 January 2018 }} (1901)
+* [http://www.fourmilab.ch/etexts/www/kropotkin/ancom/ Anarchist Communism: Its Basis and Principles] {{Webarchive|url=https://web.archive.org/web/20070311084559/http://www.fourmilab.ch/etexts/www/kropotkin/ancom/ |date=11 March 2007 }} (1887)
+* [http://www.revoltlib.com/anarchism/the-industrial-village-of-the-future/view.php The Industrial Village of the Future] {{Webarchive|url=https://web.archive.org/web/20180128074715/http://www.revoltlib.com/anarchism/the-industrial-village-of-the-future/view.php |date=28 January 2018 }} (1884)
+* [https://theanarchistlibrary.org/library/petr-kropotkin-law-and-authority Law and Authority] {{Webarchive|url=https://web.archive.org/web/20170309064459/https://theanarchistlibrary.org/library/petr-kropotkin-law-and-authority |date=9 March 2017 }} (1886)
+* [http://www.revoltlib.com/anarchism/the-coming-anarchy/view.php The Coming Anarchy] {{Webarchive|url=https://web.archive.org/web/20180208123520/http://www.revoltlib.com/anarchism/the-coming-anarchy/view.php |date=8 February 2018 }} (1887)
+* [https://www.gutenberg.org/ebooks/31104 The Place of Anarchy in Socialist Evolution] {{Webarchive|url=https://web.archive.org/web/20161110005742/http://www.gutenberg.org/ebooks/31104 |date=10 November 2016 }} (1886)
+* [http://www.revoltlib.com/anarchism/the-wage-system/view.php The Wage System] {{Webarchive|url=https://web.archive.org/web/20180208123453/http://www.revoltlib.com/anarchism/the-wage-system/view.php |date=8 February 2018 }} (1920)
+* [http://www.revoltlib.com/anarchism/the-commune-of-paris/view.php The Commune of Paris] {{Webarchive|url=https://web.archive.org/web/20180208064217/http://www.revoltlib.com/anarchism/the-commune-of-paris/view.php |date=8 February 2018 }} (1880)
+* [http://www.revoltlib.com/anarchism/anarchist-morality/view.php Anarchist Morality] {{Webarchive|url=https://web.archive.org/web/20180208123524/http://www.revoltlib.com/anarchism/anarchist-morality/view.php |date=8 February 2018 }} (1898)
+* [http://www.revoltlib.com/anarchism/expropriation-kropotkin/view.php Expropriation] {{Webarchive|url=https://web.archive.org/web/20180208123430/http://www.revoltlib.com/anarchism/expropriation-kropotkin/view.php |date=8 February 2018 }}
+* [http://www.revoltlib.com/anarchism/the-great-french-revolution-and-its-lesson/view.php The Great French Revolution and Its Lesson] {{Webarchive|url=https://web.archive.org/web/20180205184620/http://www.revoltlib.com/anarchism/the-great-french-revolution-and-its-lesson/view.php |date=5 February 2018 }} (1909)
+* [http://www.revoltlib.com/anarchism/process-under-socialism/view.php Process Under Socialism] {{Webarchive|url=https://web.archive.org/web/20180208123517/http://www.revoltlib.com/anarchism/process-under-socialism/view.php |date=8 February 2018 }} (1887)
+* [http://www.panarchy.org/kropotkin/prisons.html Are Prisons Necessary?] {{Webarchive|url=https://web.archive.org/web/20070915013623/http://www.panarchy.org/kropotkin/prisons.html |date=15 September 2007 }} Chapter X from "In Russian and French Prisons" (1887)
+* [http://www.revoltlib.com/anarchism/the-coming-war/view.php The Coming War] {{Webarchive|url=https://web.archive.org/web/20180208123547/http://www.revoltlib.com/anarchism/the-coming-war/view.php |date=8 February 2018 }} (1913)
+* [http://www.revoltlib.com/anarchism/wars-and-capitalism/view.php Wars and Capitalism] {{Webarchive|url=https://web.archive.org/web/20180208123527/http://www.revoltlib.com/anarchism/wars-and-capitalism/view.php |date=8 February 2018 }} (1914)
+* [https://theanarchistlibrary.org/library/petr-kropotkin-revolutionary-government Revolutionary Government] {{Webarchive|url=https://web.archive.org/web/20170309063440/https://theanarchistlibrary.org/library/petr-kropotkin-revolutionary-government |date=9 March 2017 }} (1892)
+* [http://www.revoltlib.com/anarchism/the-scientific-basis-of-anarchy/view.php The Scientific Basis of Anarchy] {{Webarchive|url=https://web.archive.org/web/20180208123424/http://www.revoltlib.com/anarchism/the-scientific-basis-of-anarchy/view.php |date=8 February 2018 }} (1887)
+* [http://www.revoltlib.com/anarchism/the-fortress-prison-of-st-petersburg/view.php The Fortress Prison of St. Petersburg] {{Webarchive|url=https://web.archive.org/web/20180208123427/http://www.revoltlib.com/anarchism/the-fortress-prison-of-st-petersburg/view.php |date=8 February 2018 }} (1883)
+* [https://www.revoltlib.com/anarchism/advice-to-those-about-to-emigrate/view.php Advice to Those About to Emigrate] {{Webarchive|url=https://web.archive.org/web/20180103011557/https://www.revoltlib.com/anarchism/advice-to-those-about-to-emigrate/view.php |date=3 January 2018 }} (1893)
+* [http://www.revoltlib.com/anarchism/some-of-the-resources-of-canada/view.php Some of the Resources of Canada] {{Webarchive|url=https://web.archive.org/web/20180208123422/http://www.revoltlib.com/anarchism/some-of-the-resources-of-canada/view.php |date=8 February 2018 }} (1898)
+* [http://www.panarchy.org/kropotkin/1896.eng.html Anarchism: Its Philosophy and Ideal] {{Webarchive|url=https://web.archive.org/web/20070808001947/http://www.panarchy.org/kropotkin/1896.eng.html |date=8 August 2007 }} (1896)
+* [http://www.revoltlib.com/anarchism/revolutionary-studies/view.php Revolutionary Studies] {{Webarchive|url=https://web.archive.org/web/20180208064221/http://www.revoltlib.com/anarchism/revolutionary-studies/view.php |date=8 February 2018 }} (1892)
+* [http://www.revoltlib.com/anarchism/the-direct-action-of-environment-and-evolution/view.php Direct Action of Environment and Evolution] {{Webarchive|url=https://web.archive.org/web/20180208123450/http://www.revoltlib.com/anarchism/the-direct-action-of-environment-and-evolution/view.php |date=8 February 2018 }} (1920)
+* [http://www.revoltlib.com/anarchism/the-present-crisis-in-russia/view.php The Present Crisis in Russia] {{Webarchive|url=https://web.archive.org/web/20180208123353/http://www.revoltlib.com/anarchism/the-present-crisis-in-russia/view.php |date=8 February 2018 }} (1901)
+* [http://www.revoltlib.com/anarchism/the-spirit-of-revolt/view.php The Spirit of Revolt] {{Webarchive|url=https://web.archive.org/web/20180129004248/http://www.revoltlib.com/anarchism/the-spirit-of-revolt/view.php |date=29 January 2018 }} (1880)
+* [http://www.panarchy.org/kropotkin/1897.state.html The State: Its Historic Role] {{Webarchive|url=https://web.archive.org/web/20070707094649/http://www.panarchy.org/kropotkin/1897.state.html |date=7 July 2007 }} (1897)
+* [http://www.panarchy.org/kropotkin/economics.html On Economics] {{Webarchive|url=https://web.archive.org/web/20070716064259/http://www.panarchy.org/kropotkin/economics.html |date=16 July 2007 }} Selected Passages from his Writings (1898–1913)
+* [http://www.revoltlib.com/anarchism/on-the-teaching-of-physiography/view.php On the Teaching of Physiography] {{Webarchive|url=https://web.archive.org/web/20180208123456/http://www.revoltlib.com/anarchism/on-the-teaching-of-physiography/view.php |date=8 February 2018 }} (1893)
+* [https://theanarchistlibrary.org/library/petr-kropotkin-war War!] {{Webarchive|url=https://web.archive.org/web/20170309064851/https://theanarchistlibrary.org/library/petr-kropotkin-war |date=9 March 2017 }} (1914)
+{{refend}}
+
+=== Articles ===
+{{refbegin|2}}
+* [http://www.revoltlib.com/anarchism/the-constitutional-agitation-in-russia/view.php "The Constitutional Agitation in Russia,"] {{Webarchive|url=https://web.archive.org/web/20180204124119/http://www.revoltlib.com/anarchism/the-constitutional-agitation-in-russia/view.php |date=4 February 2018 }} 1905.
+* [http://www.revoltlib.com/anarchism/brain-work-and-manual-work/view.php "Brain Work and Manual Work,"] {{Webarchive|url=https://web.archive.org/web/20180204182245/http://www.revoltlib.com/anarchism/brain-work-and-manual-work/view.php |date=4 February 2018 }} 1890.
+* [http://www.revoltlib.com/anarchism/the-manifesto-of-the-sixteen/view.php "Manifesto of the Sixteen,"] {{Webarchive|url=https://web.archive.org/web/20180204124114/http://www.revoltlib.com/anarchism/the-manifesto-of-the-sixteen/view.php |date=4 February 2018 }} 1916.
+* [http://www.revoltlib.com/anarchism/organised-vengeance-called-justice/view.php "Organized Vengeance Called 'Justice.'"] {{Webarchive|url=https://web.archive.org/web/20180204124136/http://www.revoltlib.com/anarchism/organised-vengeance-called-justice/view.php |date=4 February 2018 }}
+* [http://www.revoltlib.com/anarchism/proposed-communist-settlement-a-new-colony-for-tyneside-or-wearside/view.php "A Proposed Communist Settlement: A New Colony for Tyneside or Wearside."] {{Webarchive|url=https://web.archive.org/web/20180204124125/http://www.revoltlib.com/anarchism/proposed-communist-settlement-a-new-colony-for-tyneside-or-wearside/view.php |date=4 February 2018 }} 
+* [http://www.revoltlib.com/anarchism/what-geography-ought-to-be/view.php "What Geography Ought to Be,"] {{Webarchive|url=https://web.archive.org/web/20180204124122/http://www.revoltlib.com/anarchism/what-geography-ought-to-be/view.php |date=4 February 2018 }} 1885.
+* [http://www.revoltlib.com/anarchism/on-order/view.php "On Order"] {{Webarchive|url=https://web.archive.org/web/20180205184625/http://www.revoltlib.com/anarchism/on-order/view.php |date=5 February 2018 }}
+* [http://www.revoltlib.com/anarchism/maxim-gork/view.php "Maxím Górky,"] {{Webarchive|url=https://web.archive.org/web/20180205184622/http://www.revoltlib.com/anarchism/maxim-gork/view.php |date=5 February 2018 }} 1904
+* "Research on the [[Ice age]]", ''Notices of the Imperial Russian Geographical Society'', 1876.
+* "Baron Toll", The Geographical Journal, Vol. 23, No. 6. (Jun. 1904), pp.&nbsp;770–772, [https://www.jstor.org/stable/1776495 JSTOR]
+* "The population of Russia", The Geographical Journal, Vol. 10, No. 2. (Aug. 1897), pp.&nbsp;196–202, [https://www.jstor.org/stable/1774603 JSTOR] {{Webarchive|url=https://web.archive.org/web/20160308001836/http://www.jstor.org/stable/1774603 |date=8 March 2016 }}
+* "The old beds of the Amu-Daria", The Geographical Journal, Vol. 12, No. 3. (Sep. 1898), pp.&nbsp;306–310, [https://www.jstor.org/stable/1774317 JSTOR]
+* [http://www.revoltlib.com/anarchism/russian-schools-and-the-holy-synod/view.php "Russian Schools and the Holy Synod,"] {{Webarchive|url=https://web.archive.org/web/20180204124131/http://www.revoltlib.com/anarchism/russian-schools-and-the-holy-synod/view.php |date=4 February 2018 }} 1902
+* Mr. Mackinder; Mr. Ravenstein; Dr. Herbertson; Prince Kropotkin; Mr. Andrews; Cobden Sanderson; Elisée Reclus, "On Spherical Maps and Reliefs: Discussion", The Geographical Journal, Vol. 22, No. 3. (Sep. 1903), pp.&nbsp;294–299, [https://www.jstor.org/stable/1775190 JSTOR]
+* "The [[desiccation]] of Eur-Asia", ''[[Geographical Journal]]'', 23 (1904), 722–41.
+* "Finland" in Encyclopædia Britannica (11th ed.), 1911 (in part; with [[Joseph R. Fisher (author)|Joseph R. Fisher]] and [[John Scott Keltie]])
+* [http://www.revoltlib.com/anarchism/finland-a-rising-nationality/view.php "Finland: A Rising Nationality,"] {{Webarchive|url=https://web.archive.org/web/20180204124117/http://www.revoltlib.com/anarchism/finland-a-rising-nationality/view.php |date=4 February 2018 }} Nineteenth Century, 1885
+* [http://dwardmac.pitzer.edu/anarchist_archives/kropotkin/britanniaanarchy.html "Anarchism"] {{Webarchive|url=https://web.archive.org/web/20200425154533/http://dwardmac.pitzer.edu/Anarchist_Archives/kropotkin/britanniaanarchy.html |date=25 April 2020 }} in Encyclopædia Britannica (11th ed.), 1911
+* [http://contentdm.warwick.ac.uk/cdm/ref/collection/tav/id/3889 "Anti-militarism. Was it properly understood?"] {{Webarchive|url=https://web.archive.org/web/20161129210437/http://contentdm.warwick.ac.uk/cdm/ref/collection/tav/id/3889 |date=29 November 2016 }}, Freedom, vol.XXVIII, no. 307 (November 1914), pp.&nbsp;82–83. 
+* [http://contentdm.warwick.ac.uk/cdm/ref/collection/russian/id/7979 "An open letter of Peter Kropotkin to the Western workingmen"] {{Webarchive|url=https://web.archive.org/web/20161129210504/http://contentdm.warwick.ac.uk/cdm/ref/collection/russian/id/7979 |date=29 November 2016 }}, The Railway Review (29 June 1917), p.&nbsp;4.
+{{refend}}
+
+== See also ==
+* [[Maria Leshern von Herzfeld]]
+* [[Golets Kropotkin]]
+
+== Notes ==
+
+{{notelist}}
+
+== References ==
+
+{{reflist|refs=
+
+<ref name="leading">* {{harvnb|Osofsky|1979|p=19}}: "Paul Avrich sees Kropotkin as the foremost libertarian theorist and most venerated figure of the anarchist movement" ... "Alexander Gray ... 'probably the most representative, as he is certainly the most attractive and engaging, of the modern anarchist'"</ref>
+
+}}
+
+== Bibliography ==
+
+{{refbegin}}
+
+* {{Cite book |last=Avrich |first=Paul |title=[[Anarchist Portraits]] |date=1988 |publisher=Princeton University Press |isbn=0-691-04753-7 |location=Princeton, New Jersey |pages=53–106 |oclc=17727270 }}
+* {{Cite book |last=Crowder |first=George |title=Russian Literature in the Age of Realism |date=2003 |publisher=Gale |editor-last=Dinega |editor-first=Alyssa W. |volume=277 |location=Detroit, MI |pages=191–198 |language=English |chapter=Petr Alekseevich Kropotkin |id={{Gale|OOSVCP062651800}} }}
+* {{Cite journal |last=Green |first=Lara |date=2022 |title=The Transnational Life and Death of Peter Kropotkin, 1881-1921: Terrorism, the Anarchist Body, and the Russian Revolution |journal=[[Anarchist Studies]] |language=English |volume=30 |issue=1 |pages=83– |issn=0967-3393 |id={{Gale|A708386012}} }}
+* {{Cite book |last=Marshall |first=Peter |title=[[Demanding the Impossible: A History of Anarchism]] |date=1992 |publisher=HarperCollins |isbn=978-0-00-217855-6 |location=London |pages=309–338 |chapter=Peter Kropotkin: The Revolutionary Evolutionist |author-link=Peter Marshall (author) }}
+* {{Cite book |last=Osofsky |first=Stephen |title=Peter Kropotkin |date=1979 |publisher=Twayne Publishers |isbn=978-0-8057-7724-6 |location=Boston |language=English |oclc=4497420 }}
+* {{Cite book |last1=Kropotkin |first1=Peter |title=Memoirs of a Revolutionist |last2=Walter |first2=Nicolas |date=1971 |publisher=Dover |isbn=978-0-486-22485-5 |location=New York |language=en |url=http://archive.org/details/isbn_B007GN3XIK }}
+* {{Cite book |last=Woodcock |first=George |title=[[Anarchism: A History of Libertarian Ideas and Movements]] |date=1986 |publisher=Penguin Books |isbn=978-0-14-022697-3 |edition=2nd |location=Harmondsworth |pages=153–182 |language=English |chapter=The Explorer |oclc=489971695 |author-link=George Woodcock }}
+
+{{refend}}
+
+== Further reading ==
+=== Books on Kropotkin ===
+<!-- To add a new book, use the following: * {{Cite book}} -->
+* {{Cite book |last=Butterworth |first=Alex |url=https://books.google.com/books?id=hU8lHfT4F5wC |title=The World That Never Was: A True Story of Dreamers, Schemers, Anarchists, and Secret Agents |date=9 August 2011 |publisher=Knopf Doubleday Publishing Group |isbn=978-0-307-38675-5 |language=en |oclc=676726867}}
+* {{Cite book |last=Cahm, Caroline |title=Kropotkin and the Rise of Revolutionary Anarchism 1872–1886 |publisher=Cambridge University Press |year=1989 |isbn=0-521-36445-0 |oclc=19553164}}
+* {{Cite book |last=Davis |first=Mike |title=Old Gods, New Enigmas: Marx's Lost Theory |date=2018 |publisher=Verso Books |isbn=978-1-78873-217-8 |location=London |language=en |chapter=The Coming Desert: Kropotkin, Mars and the Pulse of Asia |oclc=1014051592 |chapter-url=https://books.google.com/books?id=lov-DwAAQBAJ&pg=PA179}}
+* {{Cite book |last=Engelbert |first=Arthur |title=Help! Gegenseitig behindern oder helfen. Eine politische Skizze zur Wahrnehmung heute |publisher=Königshausen & Neumann |year=2012 |isbn=978-3-8260-5017-6 |location=Würzburg |oclc=822991908}}
+* {{Cite book |last=Joll, James |title=The Anarchists |publisher=Harvard University Press |year=1980 |isbn=978-0-674-03641-3 |location=Cambridge, Massachusetts |oclc=6016024}}
+* {{Cite book |last=Mac Laughlin, Jim |date=4 November 2023 |title=Kropotkin and the Anarchist Intellectual Tradition |publisher=Pluto Press |isbn=9780745335131 |location=London |doi=10.2307/j.ctt19qgdvc |jstor=j.ctt19qgdvc |oclc=937451696}}
+* {{Cite book |url=https://fal2.cnt.es/tienda/node/805 |title=Kropotkin. Cien años después |publisher=Fundación de Estudios Libertarios Anselmo Lorenzo |year=2021 |isbn=978-84-123507-1-5 |editor-last=Maíz |editor-first=Jordi |location=Madrid |oclc=1264877365}}
+* {{Cite book |last=Miller |first=Martin A. |title=Kropotkin |date=1976 |publisher=University of Chicago Press |isbn=978-0-226-52594-5 |language=en |oclc=1035901653}}
+* {{Cite book |last=Morris, Brian |title=Kropotkin: The Politics of Community |publisher=PM Press |year=2004 |isbn=9781629635057 |location=Oakland, California |oclc=1030892242}}
+* {{Cite ODNB|id=42326|title=Kropotkin, Peter|year=2004|last=Walter|first=Nicolas}}
+* {{Cite book |last1=Woodcock |first1=George |title=The Anarchist Prince: A Biographical Study of Peter Kropotkin |title-link=The Anarchist Prince |last2=Avakumović |first2=Ivan |date=1950 |publisher=Kraus Reprint |isbn=9780805203059 |language=en |oclc=242229}}
+
+=== Periodical articles ===
+* {{Cite magazine |last=Afinogenov |first=Greg |date=4 May 2023 |title=What should the action be? |url=https://www.lrb.co.uk/the-paper/v45/n09/greg-afinogenov/what-should-the-action-be |magazine=London Review of Books |language=en |volume=45 |issue=9 |issn=0260-9592}}
+* {{Cite journal |last=Alan, Barnard |date=March 2004 |title=Mutual Aid and the Foraging Mode of Thought: Re-reading Kropotkin on the Khoisan |journal=Social Evolution & History |volume=3 |issue=1 |pages=3–21 |citeseerx=10.1.1.515.4372}}
+* {{Cite EB1911|wstitle= Kropotkin, Peter Alexeivich |volume= 15 | page = 928 }}
+* {{Cite EB1922 |wstitle= Kropotkin, Peter Alexeivich, Prince |volume = 31 |page= 688}}
+* {{Cite journal |last1=Efremenko |first1=Dmitry |last2=Evseeva |first2=Yaroslava |date=2012 |title=Studies of Social Solidarity in Russia: Tradition and Modern Trends |journal=The American Sociologist |volume=43 |issue=4 |pages=349–365 |doi=10.1007/s12108-012-9165-2 |issn=0003-1232 |jstor=23319618 |s2cid=255519594}}
+* {{Cite journal |last=Gould, S. J. |date=June 1997 |title=Kropotkin Was No Crackpot |url=http://www.marxists.org/subject/science/essays/kropotkin.htm |journal=Natural History |volume=106 |pages=12–21}}
+* {{Cite journal |date=February 1921 |title=Prince P. A. Kropotkin |journal=Nature |language=en |volume=106 |issue=2675 |pages=735–736 |bibcode=1921Natur.106..735. |doi=10.1038/106735a0 |issn=1476-4687 |s2cid=4292571|doi-access=free }}
+
+== External links ==
+{{Sister project links|s=Author:Peter Alexeivitch Kropotkin|wikt=no|v=no|n=no}}
+{{Library resources box|by=yes|onlinebooks=yes|about=yes|wikititle=Peter Kropotkin}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/peter-kropotkin}}
+* {{Internet Archive author |sname=Kropotkin}}
+* {{Librivox author |id=2278}}
+<!-- Import to wikisource * {{anarchives|kropotkin/Kropotkinarchive.html}} with complete collected works
+* [http://contentdm.warwick.ac.uk/cdm/ref/collection/russian/id/528 Album of the funeral of P. A. Kropotkin in Moscow (1922)] -->
+* [http://www.kropotkin.ru Kropotkin Museum]
+* [https://www.peterkropotkin.org peterkropotkin.org]
+
+{{Peter Kropotkin|state=expanded}}
+{{navboxes
+|list=
+{{Anarcho-communism}}
+{{Communism}}
+{{Evolutionary psychologists}}
+{{Freedom Press}}
+{{Revolutionary socialism}}
+{{Socialism}}
+{{Social and political philosophy}}
+{{Political philosophy}}
+}}
+{{Authority control}}
+{{Portal bar|Anarchism|Biography|Communism|Libertarianism|Politics|Russia|Science|Socialism}}
+
+{{DEFAULTSORT:Kropotkin, Peter}}
+[[Category:Peter Kropotkin| ]]
+[[Category:1842 births]]
+[[Category:1921 deaths]]
+[[Category:19th-century atheists]]
+[[Category:19th-century essayists]]
+[[Category:19th-century non-fiction writers from the Russian Empire]]
+[[Category:19th-century philosophers from the Russian Empire]]
+[[Category:19th-century zoologists from the Russian Empire]]
+[[Category:20th-century atheists]]
+[[Category:20th-century essayists]]
+[[Category:20th-century Russian non-fiction writers]]
+[[Category:20th-century Russian philosophers]]
+[[Category:Anarchist theorists]]
+[[Category:Anarchist writers]]
+[[Category:Anarcho-communists]]
+[[Category:Anti-consumerists]]
+[[Category:Burials at Novodevichy Cemetery]]
+[[Category:Emigrants from the Russian Empire to France]]
+[[Category:Emigrants from the Russian Empire to Switzerland]]
+[[Category:Emigrants from the Russian Empire to the United Kingdom]]
+[[Category:Historians of the French Revolution]]
+[[Category:Historians of the Renaissance]]
+[[Category:Human geographers]]
+[[Category:Members of the International Workingmen's Association]]
+[[Category:Narodniks]]
+[[Category:People from Moskovsky Uyezd]]
+[[Category:Philosophy academics]]
+[[Category:Philosophy writers]]
+[[Category:Prisoners of the Peter and Paul Fortress]]
+[[Category:Russian anarchists]]
+[[Category:Russian anti-fascists]]
+[[Category:Russian atheists]]
+[[Category:Russian communists]]
+[[Category:Russian exiles]]
+[[Category:Russian explorers]]
+[[Category:Russian geographers]]
+[[Category:Russian memoirists]]
+[[Category:Russian newspaper editors]]
+[[Category:Russian non-fiction writers]]
+[[Category:Russian political writers]]
+[[Category:Russian revolutionaries]]
+[[Category:Russian science writers]]
+[[Category:Russian socialists]]
+[[Category:Russian untitled nobility]]
+[[Category:Social philosophers]]
+[[Category:Writers from Moscow]]

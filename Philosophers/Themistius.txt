@@ -1,0 +1,95 @@
+{{Short description|Roman statesman, rhetorician and philosopher (317–c.388)}}
+{{for|Themistius Calonymus, 6th-century deacon of Alexandria and heretic|Agnoetae}}
+{{Infobox person
+| name          = Themistius
+| native_name   = Θεμίστιος
+| native_name_lang = grc
+| pronunciation = 
+| birth_date    = 317
+| birth_place   = [[Paphlagonia]]<br />(modern-day [[Turkey]])
+| death_date    = c. 388
+| death_place   = [[Constantinople]]<br />(modern-day [[Istanbul]], [[Turkey]])
+| resting_place = 
+| nationality   = 
+| other_names   = 
+| education     = 
+| alma_mater    = 
+| occupation    = 
+| notable_works = 
+| office        = [[List of urban prefects of Constantinople|Prefect of Constantinople]]
+| children      = 
+| relatives     = 
+}}
+'''Themistius''' ({{lang-grc-gre|Θεμίστιος}} {{transl|grc|Themistios}}; 317 – c. 388 AD), nicknamed '''Euphrades''' ({{lang|grc|Εὐφραδής}}, "''eloquent''"),<ref>[[Simplicius of Cilicia|Simplicius]], ''in Cael.'', ''C.A.G.'' vol. 7, p. 72, ''in Cat.'' v. 8 p. 1, ''in Phys.'' v. 9, p. 42 and v. 10, p. 968; [[Sophonias (commentator)|Sophonias]], ''Paraphr. in...de Anima'', ''C.A.G.'' v. 23, p. 1.</ref> was a [[diplomat|statesman]], [[rhetoric]]ian and [[philosopher]]. He flourished in the reigns of [[Constantius II]], [[Julian (emperor)|Julian]], [[Jovian (emperor)|Jovian]], [[Valens]], [[Gratian]] and [[Theodosius I]], and he enjoyed the favour of all those emperors, notwithstanding their many differences and the fact that he himself was not a [[Christians|Christian]]. He was admitted to the senate by Constantius in 355, and he was prefect of [[Constantinople]] in 384 on the nomination of Theodosius.{{sfn|Chisholm|1911}} Of his many works, thirty-three orations of his have come down to us, as well as various commentaries and epitomes of the works of [[Aristotle]].
+
+==Early life==
+Themistius was born in [[Paphlagonia]] and taught at the [[Colchian Academy]] in [[Phasis (town)|Phasis]].<ref>John Vanderspoel, ''Themistius and the imperial court'', p. 37</ref> Several of his orations mention his father [[Eugenius (philosopher)|Eugenius]], a distinguished philosopher from whom he received supplemental training. Themistius devoted himself chiefly to [[Aristotle]], though he also studied [[Pythagoreanism]] and [[Platonism]]. His early [[commentaries on Aristotle]] were published without his consent and won him a high reputation. After passing his youth in [[Asia Minor]] and [[Syria (Roman province)|Syria]], Themistius met [[Constantius II]] during the emperor's visit to [[Ancyra]] in [[Galatia]] in 347. On this occasion Themistius delivered his first extant oration, ''Peri Philanthropias''.
+
+== Career ==
+It was not long after that he moved to [[Constantinople]], where, apart from a short sojourn in [[Rome]], he resided for the rest of his life.{{sfn|Chisholm|1911}} Themistius taught philosophy in the eastern capital for twenty years. In 355 he was inducted into the [[Byzantine Senate|Senate of Constantinople]], on the basis of a letter of recommendation from Constantius. The letter is still extant, and contains high praise both of Themistius and of his father Eugenius. Also preserved is Themistius' response, an oration of thanks delivered in the senate early in 356.<ref>Themistius, ''Orat.'' ii.</ref> In 357 he gave two further speeches honouring Constantius, although a state visit to Rome made the emperor unavailable to hear them in person.<ref>Themistius, ''Orat.'' iii. iv.</ref> The orator was nonetheless rewarded with a bronze portrait statue. In 361 he was appointed to [[praetorian prefect|praetorian]] rank by a decree still extant.<ref>''Cod. Theodos.'' vi. tit. 4. s. 12; comp. ''Orat.'' xxxi.</ref> Themistius may have served as [[proconsul]] of Constantinople in 358; if so, he was the last to hold that office, before the position was elevated to the status of [[urban prefect]].<ref>''[[Prosopography of the Later Roman Empire]]'', Vol. 1, p. 890</ref>
+
+Constantius died in 361; but Themistius, as a philosopher and pagan, naturally retained the favour of [[Julian the Apostate|Julian]], who spoke of him as the worthy senator of the whole world, and as the first philosopher of his age.<ref>Themist. ''Orat.'' xxxi.</ref> The [[Suda]] states that Julian made Themistius prefect of Constantinople; but this is disproved by the speech delivered by Themistius, when he was really appointed to that office under Theodosius. Shortly before the death of Julian in 363, Themistius delivered an oration in honour of him, which is no longer extant, but which is referred to at some length by [[Libanius]], in a letter to Themistius.<ref>Libanius, ''Ep.'' 1061</ref> In 364 he went, as one of the deputies from the senate, to meet [[Jovian (Emperor)|Jovian]] at [[Dadastana]], on the border of [[Galatia]] and [[Bithynia]], and to confer the consulate upon him; and on this occasion he delivered an oration, which he afterwards repeated at Constantinople, in which he claims full liberty of conscience to practice any religion.<ref>Themistius, ''Orat.'' v.; Socrat. ''Hist. Ev.'' iii. 26.</ref> In the same year he delivered an oration at Constantinople, in honour of the accession of [[Valentinian I]] and [[Valens]], in the presence of the latter. His next oration is addressed to Valens, congratulating him on his victory over [[Procopius (usurper)|Procopius]] in June 366, and interceding for some of the rebels; it was delivered in 367.<ref>Themistius, ''Orat.'' vii.</ref> In the next year he accompanied Valens to the [[Danube]] in the second campaign of the Gothic war, and delivered before the emperor, at [[Marcianopolis]], a congratulatory oration upon his ''[[Quinquennalia]]'', 368.<ref>Themistius, ''Orat.'' viii.</ref> His next orations are to the young Valentinian II upon his consulship, 369,<ref>Themistius, ''Orat.'' ix.</ref> and to the senate of Constantinople, in the presence of Valens, in honour of the peace granted to the [[Goths]], 370.<ref>Themistius, ''Orat.'' x.</ref> On March 28, 373, he addressed to Valens, who was then in Syria, a congratulatory address upon the emperor's entrance on the tenth year of his reign.<ref>Themistius, ''Orat.'' xi.</ref> It was also while Valens was in Syria, that Themistius addressed to him an oration by which he persuaded him to cease from his persecution of the Catholic party.<ref>Socrat. ''Hist. Ev.'' iv. 32; Sozom. ''Hist. Ev.'' vi. 36</ref> In addition to these orations, which prove that the orator was in high favour with the emperor, we have the testimony of Themistius himself to his influence with Valens.<ref>Themistius, ''Orat.'' xxxi.</ref>
+
+In 377 he was in Rome, apparently on an embassy to [[Gratian]], to whom he delivered an oration entitled ''Erotikos''.<ref>Themistius, ''Orat.'' xiii.</ref> On the association of [[Theodosius I]] in the empire by Gratian, at [[Sirmium]], in 379, Themistius delivered an elegant oration, congratulating the new emperor on his elevation.<ref name="Themistius, Orat. xiv">Themistius, ''Orat.'' xiv.</ref> Of his remaining orations some are public and some private; but few of them demand special notice as connected with the events of his life. In 384, (about the first of September), he was made prefect of Constantinople,<ref>Themistius, ''Orat.'' xvii,</ref> an office which had been offered to him, but declined, several times before.<ref>Themistius, ''Orat.'' xxxiv. 13</ref> He only held the prefecture a few months, as we learn from an oration delivered after he had laid down the office,<ref>Themistius, ''Orat.'' xxxiv.</ref> in which he mentions, as he had done even six years earlier,<ref name="Themistius, Orat. xiv"/> and more than once in the interval,<ref>Themistius, ''Orat.'' xv. xvi.</ref> his old age and ill-health. From the thirty-fourth oration we also learn that he had previously held the offices of ''princeps senatus'' and ''praefectus annonae'', besides his embassy to Rome; in another oration he mentions ten embassies on which he had been sent before his prefecture;<ref>Themistius, ''Orat.'' xvii.</ref> and in another, composed probably about 387, he says that he has been engaged for nearly forty years in public business and in embassies.<ref>Themistius, ''Orat.'' xxi.</ref> So great was the confidence placed in him by Theodosius, that, though Themistius was not a Christian, the emperor, when departing for the West to oppose [[Magnus Maximus]], entrusted his son [[Arcadius]] to the tutorship of the philosopher, 387–388.<ref>Socrat. ''Hist. Ev.'' iv. 32; Sozom. ''Hist. Ev.'' vi. 36; Niceph. ''Hist. Ev.'' xi. 46.</ref> Nothing is known about Themistius after this time; and he may have died around 388. Besides the emperors, he numbered among his friends the chief orators and philosophers of the age, Christian and pagan. Not only Libanius, but [[Gregory of Nazianzus]] also was his friend and correspondent, and the latter, in an epistle still extant, calls him the "king of arguments."<ref>Greg. Naz. ''Epist.'' 140</ref>
+
+==Work<!--'Pseudo-Themistius' redirects here-->==
+{{main|Byzantine Aristotelianism}}
+The orations of Themistius, extant in the time of [[Photios I of Constantinople|Photius]] (9th century), were thirty-six in number.<ref name="photius">Photius, ''Bibl.'' Cod. 74</ref> Of these, thirty-three have come down to us in [[Greek language|Greek]].<ref name="penella5">Robert J. Penella, 2000, ''The private orations of Themistius'', page 5. University of California Press</ref> Two of them, however, (Orations 23 and 33, and perhaps Oration 28) are not fully preserved, and one (Oration 25) is a brief statement, not a full oration.<ref name="penella5"/> Modern editions of the Orations have thirty-four pieces, because a [[Latin]] address to [[Valens]] has been included as Oration 12.<ref name="penella5"/> It is now believed though that this Latin address is a 16th-century creation.<ref name="penella5"/> The final oration (Oration 34) was discovered as recently as 1816 by [[Angelo Mai]] in the [[Ambrosian Library]] at [[Milan]]. There are, in addition, a few other fragments which may come from lost Orations, as well as an additional work which survives in [[Syriac language|Syriac]] and another preserved in [[Arabic language|Arabic]].<ref name="penella5"/>
+
+The philosophical works of Themistius must have been very voluminous; for Photius tells us that he wrote commentaries on all the books of Aristotle, besides useful abstracts of the ''Posterior Analytics'', the books ''On the Soul'', and the ''Physics'', and that there were works of his on Plato; "and, in a word, he is a lover and eager student of philosophy."<ref name="photius"/> The [[Suda]] mentions his epitome of the ''Physics'' of Aristotle, in eight books; of the ''Prior Analytics'', in two books; of the ''Posterior Analytics'', in two books; of the treatise ''On the Soul'', in seven books; and of the ''Categories'' in one book.
+
+The epitomes which survive are:<ref name="catalogus">{{cite journal|last1=Todd|first1=Robert B.|title=Themistius|journal=[[Catalogus Translationum et Commentariorum]]|date=2003|volume=8|page=59|url=http://catalogustranslationum.org/PDFs/volume08/v08_themistius.pdf|access-date=25 August 2015}}</ref>
+*On the ''[[Posterior Analytics]]''
+*On the ''[[Physics (Aristotle)|Physics]]''
+*On Aristotle's ''[[De Anima|On the Soul]]''
+*On Aristotle's ''[[On the Heavens]]'', in a Hebrew translation only
+*On the ''[[Metaphysics (Aristotle)|Metaphysics]]'' 12, in a Hebrew translation only
+
+In addition to these works, two surviving anonymous paraphrases were mistakenly attributed to him in the Byzantine era, and are now assigned to a '''Pseudo-Themistius'''<!--boldface per WP:R#PLA-->:<ref name="catalogus"/>
+*On the ''[[Prior Analytics]]''
+*On the ''[[Parva Naturalia]]''
+
+His paraphrases of Aristotle's ''Posterior Analytics'', ''Physics'' and ''On the Soul'' are valuable; but the orations in which he panegyrizes successive emperors, comparing them to Plato's true philosopher, and even to the [[Theory of forms|Idea]] itself, are intended to flatter. [[Anicius Manlius Severinus Boethius|Boëthius]] describes him as, {{lang|la|disertissimus}} (or {{lang|la|diligentissimus}}<ref>Boethius, {{lang|la|De differentiis topicis}}, [[Patrologia Latina]] edition [http://individual.utoronto.ca/pking/resources/boethius/De_differentiis_topicis.txt]</ref>) {{lang|la|scriptor ac lucidus, et omnia ad facilitatem intelligentiae revocans}}.{{sfn|Chisholm|1911}}
+
+In philosophy Themistius was an eclectic. He held that [[Plato]] and [[Aristotle]] were in substantial agreement, that [[God]] has made men free to adopt the mode of worship they prefer, and that [[Christianity]] and [[Hellenistic religion|Hellenism]] were merely two forms of the one universal religion.{{sfn|Chisholm|1911}}
+
+==Editions==
+* [[W. Dindorf]] edition of the orations (Leipzig, 1832): [https://books.google.com/books?id=VWINAAAAYAAJ ''Themistii Orationes, ex codice Mediolanensi emendatae, a Guilielmo Dindorfio'', Lipsiae: C. Cnobloch 1832].
+* {{cite book |editor1-last=Schamp |editor1-first=Jacques |title=Thémistios. Tome 2: Discours V-XIII: les empereurs illyrien et pannonien / Thémistios; textes établis, traduits et commentés par Jacques Schamp |date=2023 |publisher=Les Belles Lettres |location=Paris |isbn=9782251006550}}
+* ''Themistii paraphrases Aristotelis librorum quae supersunt'', ed. [[Leonhard von Spengel]] (Leipzig, 1866), [[Teubner]] series (reprinted 1998)
+
+===Translations===
+*''Commentaire sur le traité de l'Âme d'Aristote, traduction de [[William of Moerbeke|Guillaume de Moerbeke]]'' (Latin). Louvain, 1957
+*''Themistius on Aristotle On the Soul'', trans. Robert B. Todd. London and Ithaca, 1996 (Ancient Commentators on Aristotle)
+*''Themistius on Aristotle Physics 1-3'', trans. Robert B. Todd. London and Ithaca, 2011 (Ancient Commentators on Aristotle)
+*''Themistius on Aristotle's Physics 4'', trans. Robert B. Todd. London and Ithaca, 2003 (Ancient Commentators on Aristotle)
+*''Themistius on Aristotle Physics 5-8'', trans. Robert B. Todd. London, 2008 (Ancient Commentators on Aristotle)
+*''The Private Orations of Themistius'', trans. R. Penella. Berkeley, 2000
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{EB1911|wstitle=Themistius|volume=26|page=758}}
+*{{SmithDGRBM}}
+
+==Further reading==
+* {{cite journal|last1=Todd|first1=Robert B.|title=Themistius|journal=[[Catalogus Translationum et Commentariorum]]|date=2003|volume=8|page=59|url=http://catalogustranslationum.org/PDFs/volume08/v08_themistius.pdf|access-date=25 August 2015}}
+* Heather, Peter & Moncur, David, trans. (2001) ''Politics, Philosophy, and Empire in the Fourth Century: selected orations of Themistius'', with an introduction. Liverpool U. P. {{ISBN|0-85323-106-0}}
+* Swain, Simon. (2014) ''Themistius, Julian, and Greek Political Theory under Rome: Texts, Translations, and Studies of Four Key Works'', Cambridge University Press {{ISBN|9781107026575}}
+* {{cite book |last1=Mehr |first1=Simone |title=Ganz Rhetor, Ganz Philosoph - Themistios als Lobredner auf Valens: Ethik als Göttliche Herrschaftslegitimation |date=2023 |publisher=De Gruyter |location=Boston |isbn=9783111012957}}
+{{Peripatetics}}
+{{Authority control}}
+
+[[Category:317 births]]
+[[Category:380s deaths]]
+[[Category:4th-century Byzantine writers]]
+[[Category:4th-century Greek philosophers]]
+[[Category:4th-century Romans]]
+[[Category:Deist philosophers]]
+[[Category:Commentators on Aristotle]]
+[[Category:Correspondents of Libanius]]
+[[Category:Late-Roman-era pagans]]
+[[Category:Roman-era Peripatetic philosophers]]
+[[Category:Ancient Roman philosophers]]
+[[Category:Urban prefects of Constantinople]]

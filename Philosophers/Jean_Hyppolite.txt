@@ -1,0 +1,69 @@
+{{Short description|French philosopher (1907–1968)}}
+{{Infobox philosopher
+| region = [[Western philosophy]]
+| era = [[20th-century philosophy]]
+| image = Jeanhyppolitejonzac (cropped).jpg
+| caption = Bust of Jean Hyppolite by Jean-Marie Meslin
+| name = Jean Hyppolite
+| birth_date = {{birth-date|8 January 1907}}
+| birth_place = [[Jonzac]], [[Poitou-Charentes]], France
+| death_date = {{death-date and age|26 October 1968|8 January 1907}}
+| death_place = Paris, France
+| alma_mater = [[École Normale Supérieure]]
+| school_tradition = [[Continental philosophy]]
+| main_interests = [[History of philosophy]]
+| influences = [[Jean Cavaillès]],<ref name="Schrift p. 138">Alan D. Schrift (2006), ''Twentieth-Century French Philosophy: Key Themes And Thinkers'', Blackwell Publishing, p. 138.</ref> [[Karl Marx]], [[Georg Wilhelm Friedrich Hegel]] 
+| influenced = [[Alain Badiou]], [[Étienne Balibar]], [[Gilles Deleuze]], [[Jacques Derrida]], [[Michel Foucault]], [[Gérard Granel]] 
+| notable_ideas = 
+}}
+'''Jean Hyppolite''' ({{IPA|fr|ʒɑ̃ ipɔlit}}; 8 January 1907 &ndash; 26 October 1968) was a French [[philosopher]] known for championing the work of [[Georg Wilhelm Friedrich Hegel|G.W.F. Hegel]], and other German philosophers, and educating some of France's most prominent post-war thinkers. His major works include ''Genèse et structure de la Phénoménologie de l'esprit de Hegel'' (1946) and ''Études sur Marx et Hegel'' (1955) and the first translation of Hegel's ''[[The Phenomenology of Spirit]]'' into French in 1939.<ref>{{Cite book |last=Hegel |first=G. W. F. |title=La Phénoménologie de l'esprit, traduction de Jean Hyppolite |publisher=Aubier |year=1939 |location=Paris}}</ref>
+
+==Life and career==
+Hyppolite was born in [[Jonzac]]. He was a graduate of the [[École Normale Supérieure]] (ENS) at roughly the same time as [[Jean-Paul Sartre]]. After graduation he embarked on a serious study of [[Hegel]], teaching himself German in order to read ''[[The Phenomenology of Spirit]]'' in the original. In 1939 he came out with his own translation and his commentary would later form the basis of the book ''Genesis and Structure of the Phenomenology of Spirit'' (published in 1947). After the Second World War, Hyppolite became a professor at the [[University of Strasbourg]], before moving to the [[University of Paris|Sorbonne]] in 1949.<ref name="Heckman74">Heckman, John. 2000 (1974). Introduction. In: Hyppolite, Jean. ''Genesis and Structure of Hegel's Phenomenology of Spirit.'' Northwestern University Press: Evanston. pp. xv–xli.</ref>
+
+In 1952, Hyppolite published ''Logique et existence'', a work that may have had a seminal effect on what was to become known as [[post-structuralism]]. This book tries to correlate Hegel's ''Phenomenology'' to his ''Logics'' (longer and shorter). In doing so, it raises the questions of language, being, and difference that were to become the hallmarks of new French philosophy at the end of the 20th century. The book was reviewed by the philosopher [[Gilles Deleuze]]. The translators of the English language edition of the text (SUNY Press, 1997) included Deleuze's review at the end of the volume. 
+
+In 1953 he founded the philosophical ''[[Épiméthée]]'' collection within the [[Presses Universitaires de France|PUF]] publishing house. 
+
+In 1954, he became the director of the ENS and in 1955 produced a study of [[Karl Marx]]'s earlier, more Hegelian period, at a time when the French interest in Hegel was at its apogee.<ref name="Heckman74" /> In 1963, he was elected to the [[Collège de France]] and given a chair in ''The History of Philosophical Thought''.
+
+While philosophers such as [[Jean-Paul Sartre]] were known for producing new works influenced by German philosophy, Hyppolite is remembered as an expositor, teacher, and translator. He influenced a number of thinkers, including [[Gilles Deleuze]], who studied Hegel under him at the [[Lycée Henri-IV]], and [[Michel Foucault]], as well as [[Jacques Derrida]], [[Gérard Granel]] and [[Étienne Balibar]] (at the ENS).<ref name="Heckman74" />
+
+Hyppolite died in Paris.
+
+==Works==
+* ''Genesis and Structure of Hegel's Phenomenology of Spirit'' (1946)
+* ''Logic and Existence'' (1952)
+* ''Studies on Marx and Hegel'' (1955)
+* ''Figures de la pensée philosophique: écrits de Jean Hyppolite 1931-1968'' (1971)
+* ''Charles Péguy: Quatre Conférences'' (2024)
+
+==See also==
+*[[Alexandre Kojève]]
+*[[Jean Wahl]]
+
+==References==
+{{reflist|colwidth=45em}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hyppolite, Jean}}
+[[Category:1907 births]]
+[[Category:1968 deaths]]
+[[Category:People from Charente-Maritime]]
+[[Category:Lycée Henri-IV alumni]]
+[[Category:School for Advanced Studies in the Social Sciences alumni]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:French historians of philosophy]]
+[[Category:German–French translators]]
+[[Category:20th-century French philosophers]]
+[[Category:Academic staff of the University of Strasbourg]]
+[[Category:Academic staff of the University of Paris]]
+[[Category:Academic staff of the Collège de France]]
+[[Category:Academic staff of the École Normale Supérieure]]
+[[Category:20th-century French translators]]
+[[Category:Lycée Henri-IV teachers]]
+[[Category:20th-century French male writers]]
+[[Category:French male non-fiction writers]]
+[[Category:Hegel scholars]]
+[[Category:Continental philosophers]]

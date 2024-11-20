@@ -1,0 +1,187 @@
+{{short description|American philosopher}}
+{{Use mdy dates|date=August 2024}}
+{{Infobox academic
+| name               = Nicholas Wolterstorff
+| image              = Nicholas Wolterstorff.jpg
+| alt                = 
+| caption            = 
+| birth_name         = Nicholas Paul Wolterstorff
+| birth_date         = {{birth date and age|1932|1|21|mf=yes}}
+| birth_place        = [[Bigelow, Minnesota|Bigelow]], [[Minnesota]], US
+| death_date         = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place        = 
+| spouse             = {{marriage|Claire Wolterstorff|1955}}
+| website            = 
+| alma_mater         = {{ubl | [[Calvin College]] | [[Harvard University]]}}
+| thesis_title       = Whitehead's Theory of Individuals
+| thesis_year        = 1956
+| school_tradition   = {{hlist | [[Analytic philosophy]] | [[analytic theology]] | [[Calvinism]]}}
+| doctoral_advisor   = 
+| academic_advisors  = [[Donald Cary Williams]]<ref>{{Cite journal |title=A Life in Philosophy |first=Nicholas |last=Wolterstorff |journal=Proceedings and Addresses of the American Philosophical Association |volume=81 |number=2 |date=November 2007 |pages=93–106 |jstor=27653995}}</ref>
+| influences         = {{flatlist|
+* [[Augustine of Hippo]]
+* [[John Calvin]]
+* [[William Harry Jellema]]
+* [[Abraham Kuyper]]
+* [[Alvin Plantinga]]
+* [[Thomas Reid]]
+}}
+| era                = 
+| discipline         = {{hlist | [[Philosophy]] | [[theology]]}}
+| sub_discipline     = {{hlist | [[Aesthetics]] | [[epistemology]] | [[liturgics]] | [[metaphysics]] | [[philosophical theology]] | [[philosophy of education]] | [[philosophy of religion]] | [[political philosophy]]}}
+| workplaces         = {{ubl | [[Calvin College]] | [[Yale University]]}}
+| doctoral_students  = [[Phillip Cary]]
+| notable_students   = <!--only those with WP articles-->
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = [[Reformed epistemology]]
+| influenced         = {{flatlist|
+* [[Gary Chartier]]
+* [[David Claerbaut]]
+* [[Kendall Walton]]
+}}
+| signature          = 
+| signature_alt      = 
+}}
+
+'''Nicholas Paul Wolterstorff''' (born January 21, 1932) is an [[American philosophy|American philosopher]] and [[theologian]]. He is currently Noah Porter Professor Emeritus of Philosophical Theology at [[Yale University]].<ref name=":0">{{Cite web |url=https://religiousstudies.yale.edu/people/nicholas-wolterstorff |title=Nicholas Wolterstorff |website=religiousstudies.yale.edu |access-date=December 3, 2018}}</ref> A prolific writer with wide-ranging philosophical and theological interests, he has written books on [[aesthetics]], [[epistemology]], [[political philosophy]], [[philosophy of religion]], [[metaphysics]], and [[philosophy of education]]. In ''Faith and Rationality,'' Wolterstorff, [[Alvin Plantinga]], and [[William Alston]] developed and expanded upon a view of [[religious epistemology]] that has come to be known as [[Reformed epistemology]].<ref>{{Cite book |url=https://plato.stanford.edu/archives/sum2017/entries/religion-epistemology/ |title=The Stanford Encyclopedia of Philosophy |last=Forrest |first=Peter |chapter=The Epistemology of Religion |date=2017 |publisher=Metaphysics Research Lab, Stanford University |editor-last=Zalta |editor-first=Edward N. |edition=Summer 2017}}</ref> He also helped to establish the journal ''[[Faith and Philosophy]]'' and the [[Society of Christian Philosophers]].
+
+== Biography ==
+Wolterstorff was born on January 21, 1932,<ref>{{cite web |url=https://s3.amazonaws.com/iasc-prod/uploads/pdf/3e078b1b0ccea214aa60.pdf |title=CV:Nicholas Paul Wolterstorff |website=s3.amazonaws.com}}</ref> to Dutch emigrants in a small farming community in southwest [[Minnesota]].<ref name=":1">{{Cite web |url=https://www.giffordlectures.org/lecturers/nicholas-wolterstorff |title=Nicholas Wolterstorff |website=The Gifford Lectures |date=August 18, 2014 |language=en |access-date=December 3, 2018}}</ref><ref name=":2">{{Cite web |url=http://eerdword.com/2019/01/18/6-questions-with-nicholas-wolterstorff/ |title=6 Questions with Nicholas Wolterstorff |website=EerdWord (publisher blog) |date=January 18, 2019 |language=en |access-date=May 9, 2019}}</ref> After earning his [[Bachelor of Arts|BA]] in philosophy at [[Calvin College]], [[Grand Rapids]], [[Michigan]], in 1953, he entered [[Harvard University]], where he earned his [[Master of Arts|MA]] and [[PhD]] in philosophy, completing his studies in 1956. He then spent a year at the [[University of Cambridge]], where he met [[C.&nbsp;D. Broad]]. From 1957 to 1959, he was an instructor in philosophy at [[Yale University]]. Then he took the post of Professor of Philosophy at [[Calvin College]] and taught for 30 years.<ref name=":1" /> He is now teaching at Yale as Noah Porter Professor Emeritus Philosophical Theology.
+
+In 1987 Wolterstorff published ''Lament for a Son'' after the untimely death of his 25-year-old son Eric in a mountain climbing accident. In a series of short essays, Wolterstorff recounts how he drew on his Christian faith to cope with his grief. Wolterstorff explained that he published the book "in the hope that it will be of help to some of those who find themselves with us in the company of mourners."<ref name=":6">{{Cite web |url=https://www.eerdmans.com/Products/0294/lament-for-a-son.aspx |title=Lament for a Son |website=Eerdmans |language=en |access-date=May 15, 2019}}</ref>
+
+He has been a visiting professor at [[Harvard University]], [[Princeton University]], Yale University, the [[University of Oxford]], the [[University of Notre Dame]], the [[University of Texas]], the [[University of Michigan]], [[Temple University]], the Free University of Amsterdam ([[Vrije Universiteit]]), and the [[University of Virginia]]. In 2007, he received an honorary Doctorate in Philosophy from [[Vrije Universiteit Amsterdam]].<ref name="test">{{Citation |title=Honorary doctorates |work=Top researchers |place=NL |publisher=VU |url=http://vu.nl/en/research/topresearchers-at-vu/honorary-doctorates/index.asp}}.</ref> He has been retired since June 2002.
+
+Wolterstorff published his [[memoir]] with [[William B. Eerdmans Publishing Co.]] in 2019, illustrating the close relationship between his personal life and his distinguished academic career.<ref name=":7">{{Cite web |url=https://www.eerdmans.com/Products/7679/in-this-world-of-wonders.aspx |title=In This World of Wonders |website=Eerdmans |language=en |access-date=May 15, 2019}}</ref>
+
+== Professional distinctions ==
+* Woodrow Wilson Fellowship, 1953
+* Harvard Foundation Fellowship, 1954
+* Josiah Royce Memorial Fellowship, Harvard University, 1954
+* Fulbright Scholarship, 1957
+* President of the American Philosophical Association (Central Division)
+* President of the Society of Christian Philosophers<ref name=":0" />
+* Senior Fellow, Institute for Advanced Study in Culture, [[University of Virginia]], 2005
+
+== Endowed lectureships ==
+[[File:WolterstoffLecture(AMJ).jpg|thumb|Wolterstorff speaking at a conference in South Korea in 2014]]
+* Kuyper Lectures, Free University of Amsterdam, 1981
+* Wilde Lectures, [[University of Oxford]], 1993
+* [[Gifford Lectures]]: "[[Thomas Reid]] and the Story of Epistemology", [[St Andrews University]], 1995
+* Tate-Willson Lectures, [[Southern Methodist University]], 1991
+* Stone Lectures, [[Princeton Theological Seminary]], 1998
+* [http://digital.library.sbts.edu/handle/10392/535 Lectures at Southern Seminary], [http://digital.library.sbts.edu/handle/10392/536 Lecture #2], [http://digital.library.sbts.edu/handle/10392/537 Lecture #3], [[Southern Baptist Theological Seminary|The Southern Baptist Theological Seminary]], 2000
+* Taylor Lectures, Yale University, 2001
+* Laing Lectures, [[Regent College]], 2007
+
+== Personal life ==
+{{BLP unsourced section|date=August 2024}}
+Nicholas Wolterstorff lives in Grand Rapids, Michigan, with his wife Claire. He has four grown children. His oldest son died in a mountain climbing accident at age 25. He has seven grandchildren.
+
+== Thought ==
+{{BLP sources section|date=August 2024}}
+While an undergraduate at Calvin College, Wolterstorff was greatly influenced by professors [[William Harry Jellema]], Henry Stob, and Henry Zylstra, who introduced him to schools of thought that have dominated his mature thinking: Reformed theology and [[Scottish Common Sense Realism|common sense]] philosophy. (These have also influenced the thinking of his friend and colleague [[Alvin Plantinga]], another alumnus of Calvin College).
+
+Wolterstorff builds upon the ideas of the Scottish common-sense philosopher [[Thomas Reid]], who approached knowledge "from the bottom-up". Instead of reasoning about [[transcendence (philosophy)|transcendental]] conditions of knowledge, Wolterstorff suggests that knowledge and our knowing faculties are not the subject of our research but have to be seen as its starting point. He rejects classical [[foundationalism]] and instead sees knowledge as based upon insights in reality which are direct and indubitable.<ref name=":1" /> In ''Justice in Love,'' he rejects fundamentist notions of Christianity that hold to the necessity of the penal substitutionary atonement and justification by faith alone.
+
+== Bibliography ==
+
+=== Selected writings ===
+* ''On Universals: An Essay in Ontology''. Chicago: University of Chicago Press. 1970.
+* ''Reason within the Bounds of Religion''. [[William B. Eerdmans Publishing Co.]] 1976. 2nd ed. 1984
+* ''Works and Worlds of Art''. Oxford: Clarendon Press. 1980.
+* ''Art in Action: Toward a Christian Aesthetic''. Grand Rapids: [[William B. Eerdmans Publishing Co.]] 1980. 2nd ed. 1995
+* ''Educating for Responsible Action''.  Grand Rapids: [[William B. Eerdmans Publishing Co.]] 1980.
+* ''Until Justice and Peace Embrace''. Grand Rapids: Eerdmans. 1983. 2nd ed. 1994.
+* ''Faith and Rationality: Reason and Belief in God'' (ed. with [[Alvin Plantinga]]). Notre Dame: University of Notre Dame Press. 1984.
+* ''Lament for a Son''. Grand Rapids: [[William B. Eerdmans Publishing Co.]] 1987.
+* "Suffering Love" in ''Philosophy and the Christian Faith'' (ed.Thomas V. Morris). Notre Dame: University of Notre Dame Press. 1988.
+* ''Divine Discourse: Philosophical Reflections on the Claim That God Speaks''. Cambridge: Cambridge University Press. 1995.
+* ''John Locke and the Ethics of Belief''. Cambridge: Cambridge University Press. 1996.
+* ''Religion in the Public Square'' (with [[Robert Audi]]). Lanham, MD: Rowman and Littlefield. 1997.
+* ''Thomas Reid and the Story of Epistemology''.  Cambridge: Cambridge University Press. 2001.
+* ''Educating for Life: Reflections on Christian Teaching and Learning''. Grand Rapids: Baker Academic. 2002.
+* "An Engagement with Rorty" in ''The Journal of Religious Ethics'', Vol. 31, No. 1 (Spring, 2003), pp.&nbsp;129–139.
+* ''Educating for Shalom: Essays on Christian Higher Education''. Grand Rapids: [[William B. Eerdmans Publishing Co.]] 2004.
+* ''Justice: Rights and Wrongs''. Princeton: Princeton University Press. 2008.
+* ''Inquiring about God: Selected Essays, Volume I'' (ed. Terence Cuneo). Cambridge: Cambridge University Press. 2009.
+* ''Practices of Belief: Selected Essays, Volume II'' (ed. Terence Cuneo). Cambridge: Cambridge University Press. 2009.
+* ''Hearing the Call: Liturgy, Justice, Church, and World ''. [[William B. Eerdmans Publishing Co.]] 2011.
+* ''The Mighty and the Almighty: An Essay in Political Theology''. Cambridge: Cambridge University Press. 2012.
+* ''Journey toward Justice: Personal Encounters in the Global South.'' Grand Rapids: Baker Academic. 2013.
+* ''Understanding Liberal Democracy: Essays in Political Philosophy'' (ed. Terence Cuneo). Oxford: Oxford University Press. 2012.
+* ''Art Rethought: The Social Practices of Art''. Oxford: Oxford University Press. 2015.
+* ''Justice in Love''. Grand Rapids: [[Wm. B. Eerdmans Publishing Co.]] 2015.
+* ''The God We Worship: An Exploration of Liturgical Theology. Grand Rapids: '' [[William B. Eerdmans Publishing Co.]] 2015.
+* ''Acting Liturgically: Philosophical Reflections on Religious Practice.'' Oxford: Oxford University Press. 2018. {{ISBN|9780198805380}}
+* ''In This World of Wonders: Memoir of a Life in Learning''. Grand Rapids: [[William B. Eerdmans Publishing Co.]] 2019.
+* ''United in Love: Essays on Justice, Art, and Liturgy''. (ed. Joshua Cockayne and Jonathan Rutledge). Eugene, OR: [[Cascade, Wipf & Stock]]. 2021 {{ISBN|9781666715590}}
+=== Secondary ===
+* Sloane, Andrew, ''On Being A Christian in the Academy: Nicholas Wolterstorff and the Practice of Christian Scholarship'', Paternoster, Carlisle UK, 2003.
+
+== See also ==
+{{Portal|Biography|Christianity|Philosophy}}
+* [[Christian philosophy]]
+* [[Christian Reformed Church in North America]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.yale.edu/philos/people/wolterstorff_nicholas.html Faculty page] at Yale
+* [https://web.archive.org/web/20100620194409/http://religion-online.org/showarticle.asp?title=3533 Interview] from ''[[The Christian Century]]''.
+* [http://iasc-culture.org/THR/archives/HumanDignity/9.3GWolterstorff.pdf "The Irony of It All"]{{dead link|date=April 2020 |bot=InternetArchiveBot |fix-attempted=yes }} in ''[[The Hedgehog Review]]'' vol. 9, no. 3 (Fall 2007). Article discussing human dignity and justice.
+* [http://www.calvin.edu/125th/wolter.htm Lecture] at Calvin College on "How Calvin Fathered a Renaissance in Christian Philosophy".
+* [http://www.calvin.edu/125th/wolterst/w_bio.pdf Wolterstorff's Spiritual Autobiography] from [[Kelly James Clark|Clark, Kelly James]], ''Philosophers Who Believe'' (Intervarsity Press, 1993).
+* [https://web.archive.org/web/20100819013459/http://andrewgoddard.squarespace.com/nicholas-wolterstorff/ Theology and Ethics] Contains many PDF files of Wolterstorff's work not available elsewhere.
+* [https://web.archive.org/web/20101214034545/http://www.thekindlings.com/2009/07/02/dr-nicholas-wolterstorff-art-in-action-new-thoughts-podcast-live-at-iam-2009-segment-1-of-1/ Art in Action: New Thoughts] Lecture at the 2009 International Arts Movement.
+* [http://www.cslewisinstitute.org/audio/by/artist/nicholas_wolterstorff Lectures] by Wolterstorff from the C.S. Lewis Institute.
+* [http://www.faithandphilosophy.com/ ''Faith and Philosophy'']
+* [https://web.archive.org/web/20040930142113/http://www.siu.edu/~scp/ Society of Christian Philosophers]
+
+{{s-start}}
+{{s-aca}}
+{{s-bef|before=[[Arthur Peacocke]]}}
+{{s-ttl|title=[[Gifford Lectures|Gifford Lecturer]] at the [[University of St Andrews]] | years=1995}}
+{{s-aft|after=[[Michael Dummett]]}}
+{{s-npo|pro}}
+{{s-bef|before=[[George I. Mavrodes]]}}
+{{s-ttl|title=President of the [[Society of Christian Philosophers]] | years=1992–1995}}
+{{s-aft|after=[[Eleonore Stump]]}}
+{{s-end}}
+
+{{Philosophy of religion}}
+{{Analytic philosophy}}
+{{Metaphysics}}
+{{Epistemology}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wolterstorff, Nicholas}}
+
+[[Category:1932 births]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century American theologians]]
+[[Category:20th-century Calvinist and Reformed theologians]]
+[[Category:21st-century American philosophers]]
+[[Category:21st-century American theologians]]
+[[Category:21st-century Calvinist and Reformed theologians]]
+[[Category:American Calvinist and Reformed theologians]]
+[[Category:American members of the Christian Reformed Church in North America]]
+[[Category:Analytic theologians]]
+[[Category:Calvin University alumni]]
+[[Category:Calvin University faculty]]
+[[Category:Calvinist and Reformed philosophers]]
+[[Category:American critics of atheism]]
+[[Category:American epistemologists]]
+[[Category:Epistemology of religion]]
+[[Category:Harvard Graduate School of Arts and Sciences alumni]]
+[[Category:Living people]]
+[[Category:American metaphysicians]]
+[[Category:American philosophers of art]]
+[[Category:American philosophers of education]]
+[[Category:American philosophers of religion]]
+[[Category:American political philosophers]]
+[[Category:Presidents of the Society of Christian Philosophers]]
+[[Category:Yale University faculty]]

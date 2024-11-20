@@ -1,0 +1,116 @@
+{{short description|British philosopher}}
+{{Use dmy dates|date=July 2015}}
+{{Use British English|date=July 2015}}
+{{Infobox philosopher
+|region          = [[Western philosophy]]
+|era             = [[20th-century philosophy]]<br/>[[21st-century philosophy]]
+|image           =
+|name             = Crispin Wright
+|birth_date       = {{birth date and age|1942|12|21|df=y}}
+|birth_place      = [[Surrey]], [[England]], [[U.K.]]
+|alma_mater       = [[Trinity College, Cambridge]]
+|institutions     = [[All Souls College, Oxford]]
+|school_tradition = [[Analytic philosophy|Analytic]]<br/>[[Neo-logicism]] ([[Scottish School (philosophy of mathematics)|Scottish School]])<ref>[http://www.st-andrews.ac.uk/~mr30/papers/EbertRossbergPurpose.pdf st-andrews.ac.uk] {{webarchive|url=https://web.archive.org/web/20061224165534/http://www.st-andrews.ac.uk/~mr30/papers/EbertRossbergPurpose.pdf |date=2006-12-24 }}</ref>
+|main_interests   = [[Philosophy of mind]]<br/>[[Philosophy of language]]<br/>[[Philosophy of mathematics]]<br/>[[Gottlob Frege|Frege]]{{·}} [[Ludwig Wittgenstein|Wittgenstein]]<br/>[[Epistemology]]
+|notable_ideas    = [[Rule-following]] considerations<ref>C. Wright (1989), "Wittgenstein's Rule-following Considerations and the Central Project of Theoretical Linguistics", in ''Reflections on Chomsky'', ed. A. George, Oxford and New York: Basil Blackwell; reprinted in C. Wright (2001), ''Rails to Infinity'', Cambridge, Mass., Harvard.</ref><br/>[[Neo-logicism]]<br/>Truth pluralism<ref>[https://plato.stanford.edu/entries/truth-pluralist/ Pluralist Theories of Truth (Stanford Encyclopedia of Philosophy)]</ref><br/>Epistemic entitlement<ref name=iep>>[http://www.iep.utm.edu/ep-en/ Epistemic Entitlement – Internet Encyclopedia of Philosophy]</ref><br/>[[Superassertibility]]<br/>[[Semantic anti-realism (epistemology)|Anti-realist semantics]] for [[empirical language]]<ref>[http://www.iep.utm.edu/d/dummett.htm Dummett, Michael – Internet Encyclopedia of Philosophy]</ref><br/>[[Warrant (philosophy)|Warrant]] transmission failure<ref>[https://plato.stanford.edu/entries/transmission-justification-warrant/ Transmission of Justification and Warrant - Stanford Encyclopedia of Philosophy]</ref><br/>Cornerstone proposition<ref name=iep/>
+|influences       = [[Ludwig Wittgenstein]], [[Gottlob Frege]], [[Michael Dummett]], [[Noam Chomsky]], [[George Boolos]]
+|influenced       = [[Paul Boghossian]], [[Carrie Ichikawa Jenkins]], [[Michael Lynch (philosopher)|Michael Lynch]], [[Duncan Pritchard]], [[Annalisa Coliva]], Luca Moretti, [[Jose Zalabardo]]
+}}
+'''Crispin James Garth Wright''' ({{IPAc-en|r|aɪ|t}}; born 21 December 1942) is a [[British people|British]] [[philosopher]], who has written on [[Neo-logicism|neo-Fregean]] (neo-logicist) [[philosophy of mathematics]], [[Wittgenstein]]'s later [[philosophy]], and on issues related to [[truth]], [[Philosophical realism|realism]], [[Cognitivism (ethics)|cognitivism]], [[skepticism]], [[knowledge]], and [[Objectivity (philosophy)|objectivity]].  He is Professor of Philosophical Research at the [[University of Stirling]], and taught previously at the [[University of St Andrews]], [[University of Aberdeen]], [[New York University]], [[Princeton University]] and [[University of Michigan]].<ref>{{Cite web |url=https://crispinjwright.com/career/ |title=Career |date=27 September 2017 |access-date=19 February 2020 |archive-url=https://web.archive.org/web/20200219011129/https://crispinjwright.com/career/ |archive-date=19 February 2020 }}{{unreliable source?|date=June 2022}}</ref>
+
+==Life and career==
+
+Wright was born in Surrey and was educated at [[Birkenhead School]] (1950–61) and at [[Trinity College, Cambridge]], graduating in Moral Sciences in 1964 and taking a [[PhD]] in 1968. He took an Oxford [[Bachelor of Philosophy|BPhil]] in 1969 and was elected Prize Fellow and then Research Fellow at [[All Souls College, Oxford]], where he worked until 1978. He then moved to the [[University of St. Andrews]], where he was appointed Professor of Logic and Metaphysics and then the first Bishop Wardlaw University Professorship in 1997.<ref>C. Wright (2009). "Foreword: on becoming a philosopher," Synthese, 171: 359–364.</ref> From fall 2008 to spring 2023, he was professor in the [[New York University Department of Philosophy|Department of Philosophy]] at [[New York University]] (NYU). He has also taught at the [[University of Michigan]], [[Oxford University]], [[Columbia University]], and [[Princeton University]]. Crispin Wright was founder and director of Arché at the University of St. Andrews,<ref>C. Wright (2009). "Foreword: on becoming a philosopher," Synthese, 171: 359–364.</ref> which he left in September 2009 to take up leadership of the Northern Institute of Philosophy (NIP) at the [[University of Aberdeen]]. Once NIP ceased operations in 2015,<ref>{{Cite web |url=https://crispinjwright.com/career/ |title=crispinjwright.com |date=27 September 2017 |access-date=19 February 2020 |archive-url=https://web.archive.org/web/20200219011129/https://crispinjwright.com/career/ |archive-date=19 February 2020 }}</ref> Wright moved to the [[University of Stirling]].
+
+==Philosophical work<!--'Superassertibility' redirects here-->==
+
+In the philosophy of mathematics, he is best known for his book ''Frege's Conception of Numbers as Objects'' (1983), where he argues that Frege's [[logicism|logicist]] project could be revived by removing the [[axiom schema of unrestricted comprehension]] (sometimes referred to as [[Basic Law V]]) from the [[formal system]]. [[Arithmetic]] is then derivable in [[second-order logic]] from [[Hume's principle]].  He gives informal [[argument]]s that (i) [[David Hume|Hume]]'s [[principle]] plus second-order logic is [[consistency|consistent]], and (ii) from it one can produce the [[Peano axioms|Dedekind–Peano axioms]].<ref>G. Currie (1985). "Crispin Wright [1983]: Frege's Conception of Number as Objects. Scots Philosophical Monographs, no. 2, Aberdeen University Press. xxi+193 pp. Hardback £12.50. Paperback £8.50". ''The British Journal for the Philosophy of Science'' 36:4, 475-479.</ref> Both results were [[proof (mathematics)|proven]] informally by Gottlob Frege ([[Frege's Theorem]]), and would later be more rigorously proven by [[George Boolos]] and Richard Heck. Wright is one of the major proponents of [[neo-logicism]], alongside his frequent collaborator [[Bob Hale (philosopher)|Bob Hale]]. He has also written ''Wittgenstein and the Foundations of Mathematics'' (1980).
+
+In general metaphysics, his most important work is ''Truth and Objectivity'' (Harvard University Press, 1992). He argues in this book that there need be no single, discourse-invariant thing in which [[truth]] consists, making an analogy with [[identity (social science)|identity]]. There need only be some [[principle]]s regarding how the truth [[Predicate (grammar)|predicate]] can be applied to a [[Sentence (linguistics)|sentence]], some 'platitudes' about true sentences. Wright also argues that in some contexts, probably including [[morality|moral]] contexts, '''superassertibility'''<!--boldface per WP:R#PLA--> will effectively function as a truth predicate. He [[stipulative definition|defines]] a predicate as superassertible if and only if it is "assertible" in some state of information and then remains so no matter how that state of information is enlarged upon or improved. Assertiveness is [[Warrant (philosophy)|warrant]] by whatever standards inform the [[discourse]] in question.<ref>M. R. Sainsbury (1996). "Crispin Wright: Truth and Objectivity". ''Philosophy and Phenomenological Research'' Vol. 56, No. 4, pp. 899-904 .</ref> Many of his most important papers in philosophy of language, epistemology, philosophical logic, meta-ethics, and the interpretation of Wittgenstein have been collected in the two volumes published by [[Harvard University Press]] in 2001 and 2003.
+
+In epistemology, Wright has argued that [[G. E. Moore]]'s proof of an [[external world]] ("[[Here is one hand]]") is logically valid but cannot transmit warrant from its premise to the conclusion, as it instantiates a form of epistemic circularity called by him "warrant transmission failure".<ref>C. Wright (2002). "(Anti-)Sceptics Simple and Subtle: G. E. Moore and John McDowell," ''Philosophy and Phenomenological Research'', 65: 330–348.</ref> Wright has also developed a variant of [[Ludwig Wittgenstein]]'s hinge epistemology, introduced in Wittgenstein's [[On Certainty]] as a response to radical skepticism. According to hinge epistemology, there are assumptions or presuppositions of any enquiry – called "hinge propositions" – that cannot themselves be rationally doubted, challenged, established or defended. Examples of hinges are the propositions that there are universal regularities in nature, that our sense organs are normally reliable, and that we do not live in a skeptical scenario (such as that in which we are globally hallucinated by a Cartesian [[evil demon]] or the more recent [[simulation hypothesis]]). Wright instead contends that certain hinge propositions can actually be rationally held because there exists a type of non-evidential, ''a priori'' warrant – which Wright calls "epistemic entitlement" – for accepting them as true.<ref>C. Wright (2004). "Warrant for Nothing (and Foundations for Free?)," ''Proceedings of the Aristotelian Society'', Supplementary Volume, 78: 167–212.</ref> In collaboration with epistemologist Luca Moretti, Wright has further developed this theory to the effect that we are entitled to ''ignore'' the possibility that we live in a skeptical scenario.<ref>Moretti, Luca and Crispin Wright (2023). "Epistemic Entitlement, Epistemic Risk and Leaching," Philosophy and Phenomenological Research, 106(3): 566-580.</ref>
+
+== Awards ==
+* Fellow of the [[American Academy of Arts and Sciences]], 2012<ref>{{Cite web |url=https://www.amacad.org/news/alphalist2012.pdf |title=amacad.org |access-date=24 July 2016 |archive-url=https://web.archive.org/web/20161209021029/http://www.amacad.org/news/alphalist2012.pdf |archive-date=9 December 2016 }}</ref>
+* [[Leverhulme Trust]] Personal Research Professor, 1998–2003
+* FRSE: [[Fellow of the Royal Society of Edinburgh]], 1996
+* FBA: [[Fellow of the British Academy]], 1992<ref>[http://www.britac.ac.uk/users/professor-crispin-wright britac.ac.uk]</ref>
+* [[British Academy]] Research Reader, 1990–2
+* [[Fulbright scholar]]  at [[Princeton University]], 1985-6
+* Prize Fellow, [[All Souls College]], [[Oxford]], 1969–71
+
+==Books==
+*''Wittgenstein on the Foundations of Mathematics'' (Harvard University Press, 1980)
+*''Frege's Conception of Numbers as Objects'' (Humanities Press 1983) 
+*''Truth and Objectivity'' (Harvard University Press, 1992)
+*''Realism, Meaning, and Truth,'' 2nd edition (Blackwell 1993)
+*''The Reason's Proper Study'' (co-authored with [[Bob Hale (philosopher)|Bob Hale]]) (Oxford University Press, 2001)
+*''Rails to Infinity'' (Harvard University Press, 2001)
+*''Saving the Differences'' (Harvard University Press, 2003)
+*''Expression and Self-Knowledge'' (co-authored with [[Dorit Bar-On]]) (Wiley-Blackwell, 2023)
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite web |url=http://as.nyu.edu/object/crispinwright.html |title=NYU Arts & Science: Crispin Wright |archive-url=https://web.archive.org/web/20160128133346/http://as.nyu.edu/object/crispinwright.html |archive-date=28 January 2016 |df=dmy-all }}
+* {{cite web|url=http://www.abdn.ac.uk/nip/members/member?id=wright|title=Northern Institute of Philosophy: Crispin Wright|publisher=University of Aberdeen|archive-url=https://web.archive.org/web/20131202233058/http://www.abdn.ac.uk/nip/members/member?id=wright|archive-date=2 December 2013|df=dmy-all}}
+* {{cite web |url=http://thephilosopherseye.com/2012/12/04/philosophers-on-film-crispin-wright/ |title=Philosophers on Film: Crispin Wright|publisher=The Philosopher's Eye|date=4 December 2012}}
+* {{cite web |url=http://ndpr.nd.edu/news/41036-mind-meaning-and-knowledge-themes-from-the-philosophy-of-crispin-wright/ |title=Mind, Meaning, and Knowledge: Themes from the Philosophy of Crispin Wright |first=Annalisa |last=Coliva |date=8 July 2013 |publisher=University of Notre Dame}}
+* {{cite web |url=http://philpapers.org/s/Crispin%20Wright|title=Works by Crispin Wright|publisher=PhilPapers}}
+* {{cite web|url=http://www.st-andrews.ac.uk/arche/old/pages/papers/Wright%20Liars%20and%20Heaps.pdf|first=Crispin|last=Wright|title=VAGUENESS: A FIFTH COLUMN APPROACH|access-date=11 July 2013|archive-url=https://web.archive.org/web/20160603130324/http://www.st-andrews.ac.uk/arche/old/pages/papers/Wright%20Liars%20and%20Heaps.pdf|archive-date=3 June 2016}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wright, Crispin}}
+[[Category:1942 births]]
+[[Category:20th-century British educators]]
+[[Category:20th-century British historians]]
+[[Category:20th-century British male writers]]
+[[Category:20th-century British mathematicians]]
+[[Category:20th-century British philosophers]]
+[[Category:20th-century educational theorists]]
+[[Category:20th-century British essayists]]
+[[Category:21st-century British educators]]
+[[Category:21st-century British historians]]
+[[Category:21st-century British male writers]]
+[[Category:21st-century British mathematicians]]
+[[Category:21st-century British philosophers]]
+[[Category:21st-century educational theorists]]
+[[Category:21st-century British essayists]]
+[[Category:Academics of the University of Aberdeen]]
+[[Category:Academics of the University of St Andrews]]
+[[Category:Alumni of All Souls College, Oxford]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Analytic philosophers]]
+[[Category:British educational theorists]]
+[[Category:British educators]]
+[[Category:British ethicists]]
+[[Category:British male essayists]]
+[[Category:British male non-fiction writers]]
+[[Category:British epistemologists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:British historians of mathematics]]
+[[Category:British historians of philosophy]]
+[[Category:Living people]]
+[[Category:Metaphilosophers]]
+[[Category:British metaphysicians]]
+[[Category:Metaphysics writers]]
+[[Category:New York University faculty]]
+[[Category:Ontologists]]
+[[Category:People associated with the University of Aberdeen]]
+[[Category:People educated at Birkenhead School]]
+[[Category:British philosophers of education]]
+[[Category:Philosophers of identity]]
+[[Category:British philosophers of language]]
+[[Category:Philosophers of linguistics]]
+[[Category:British philosophers of logic]]
+[[Category:Philosophers of mathematics]]
+[[Category:British philosophers of mind]]
+[[Category:Princeton University faculty]]
+[[Category:Semanticists]]
+[[Category:University of Michigan faculty]]
+[[Category:Academics of the University of Stirling]]
+[[Category:Wittgensteinian philosophers]]

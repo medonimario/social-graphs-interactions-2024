@@ -1,0 +1,230 @@
+{{Short description|Chinese political thinker and reformer (1858–1927)}}
+{{Infobox person
+|image= Kangnanhai.jpg 
+|caption=
+|birth_date={{birth date|1858|3|19|df=y}}
+|birth_place=[[Nanhai District|Nanhai]], [[Guangdong]], [[Qing dynasty|Qing Empire]]
+|death_date={{death date and age|1927|3|31|1858|3|19|df=y}}
+|death_place=[[Qingdao]], [[Shandong]], [[Republic of China (1912–1949)|Republic of China]]
+|spouse={{plainlist|
+* Zhang Yunzhu
+* Liang Xujiao
+* He Zhanli
+* Liao Dingzhen
+* Zhang Guang
+}}
+|children=15 children, including [[Kang Tongbi]]
+|relations=[[:zh:康有溥|Kang Youpu]] (brother)
+|notable_works=''Reformation of [[Meiji Emperor]]'' (日本明治變政考), and ''Reformation of [[Peter I of Russia|Peter the Great]]'' (俄大彼得變政記)
+|known_for=Leader in the [[Gongche Shangshu movement]]<br/>Leader in the [[Hundred Days' Reform]]
+| education = ''[[Jinshi]]'' degree in the [[Imperial Examination]]
+}}
+{{family name hatnote|[[Kang (Chinese name)|Kang]]|lang=Chinese}}
+{{Infobox Chinese
+|t=康有為
+|s=康有为
+|p=Kāng Yǒuwéi
+|w=K'ang<sup>1</sup> Yu<sup>3</sup>-wei<sup>2</sup>
+|mi={{IPAc-cmn|k|ang|1|-|you|3|.|wei|2}}
+|j=Hong<sup>1</sup> Jau<sup>5</sup>-wai<sup>4</sup>
+|y=Hōng Yáuh-wàih
+|ci={{IPAc-yue|h|ong|1|-|j|au|5|.|w|ai|4}}
+}}
+{{Infobox Chinese/Header
+| title = Other names
+}}
+{{Infobox Chinese/Chinese
+| chinese_header = [[Courtesy name]] ''(zi)''
+| hide = no
+| p = Guǎngshà¹
+| y = Gwóng-hah
+| t = 廣廈
+}}
+{{Infobox Chinese/Chinese
+| chinese_header = [[Courtesy names]] ''(hao)''
+| hide = no
+| p = Chángsù
+| y = Chèuhng-sou
+| t = 長素
+}}
+{{Infobox Chinese/Chinese
+| hide = no
+| p = Míngyí
+| y = Mìhng-yìh
+| t = 明夷
+}}
+{{Infobox Chinese/Chinese
+| hide = no
+| p = Gēngshēng
+| y = Gāng-sāng
+| t = 更生 or 更甡
+}}
+{{Infobox Chinese/Chinese
+| hide = no
+| p = Xīqiáo Shānrén
+| y = Sāi-chīu Sāan-yàhn
+| t = 西樵山人
+}}
+{{Infobox Chinese/Chinese
+| hide = no
+| p = Yóucúnsǒu
+| y = Yàuh-chyùhn-sáu
+| t = 游存叟
+}}
+{{Infobox Chinese/Chinese
+| hide = no
+| p = Tiānyóu Huàrén
+| y = Tīn-yàuh Fa-yàhn
+| t = 天游化人
+}}
+{{Infobox Chinese/Footer
+| footnote = ¹ ''K'ang Yu-wei: A Biography and a Symposium'' gives Guǎngxià 廣夏
+}}
+
+'''Kang Youwei''' ({{zh|t=康有為}}; [[Cantonese]]: ''Hōng Yáuh-wàih''; 19{{nbsp}}March 1858{{snd}}31{{nbsp}}March 1927) was a political thinker and [[Reform movement|reformer]] in China of the late [[Qing dynasty]]. His increasing closeness to and influence over the young [[Guangxu Emperor]] sparked conflict between the emperor and his adoptive mother, the regent [[Empress Dowager Cixi]].  His ideas were influential in the abortive [[Hundred Days' Reform]]. Following the coup by Cixi that ended the reform, Kang was forced to flee. He continued to advocate for a Chinese [[constitutional monarchy]] after the founding of the [[Republic of China (1912–1949)|Republic of China]].
+
+==Early life==
+{{unreferencedsect|date=September 2024}}
+Kang was born on 19{{nbsp}}March 1858 in Su Village, Danzao Town, [[Nanhai District|Nanhai County]], [[Guangdong]] province (now the Nanhai District of [[Foshan]] City). According to his autobiography, his intellectual gifts were recognized in his childhood by his uncle. As a result, from an early age, he was sent by his family to study the Confucian classics to pass the [[Imperial examinations|Chinese civil service exams]]. However, as a teenager, he was dissatisfied with the scholastic system of his time, especially its emphasis on preparing for the [[eight-legged essay|eight-legged]] essays, which were artificial literary exercises required as part of the examinations.
+
+Studying for exams was an extraordinarily rigorous activity so he engaged in [[Buddhist meditation]] as a form of relaxation, an unusual leisurely activity for a Chinese scholar of his time. It was during one of these meditations that he had a mystical vision that became the theme for his intellectual pursuits throughout his life. Believing that it was possible to read every book and "become a sage", he embarked on a quasi-messianic pursuit to save humanity.
+
+==Biography==
+
+Kang called for an end to property and the family in the interest of an idealized future cosmopolitan utopia and cited [[Confucius]] as an example of a reformer and not as a [[reactionary]], as many of his contemporaries did. In his work ''[[A Study of Confucius as a Reformer of Institutions]],<ref name=":322">{{Cite book |last=Hammond |first=Ken |title=China's Revolution and the Quest for a Socialist Future |publisher=1804 Books |year=2023 |isbn=9781736850084 |location=New York, NY |pages=}}</ref>''{{Rp|page=129}} he discussed the latter point in great detail. He argued, to bolster his claims, that the [[Old Texts|rediscovered versions]] of the [[Chinese classic texts|Confucian classics]] were [[forgery|forged]], as he treated in detail in ''[[A Study of the Forged Classics of the Xin Period]]''.
+
+In 1879, Kang traveled to [[Hong Kong]] and was shocked by the prosperity there, which started his interest in Western culture and thoughts. In 1882, Kang went to Beijing to take the [[imperial examination]]. When he was returning home, he stopped over in [[Shanghai]] and bought many Western books there, and started developing his ideology based on these writings. He was influenced by Protestant Christianity in his quest for reform.<ref>{{cite book | url=https://books.google.com/books?id=-5VAAAAAMAAJ&q=%22Kang+Youwei+and+his+fellow+travelers+drew+much+from+Protestantism%22 | isbn=9787532095049 | title=Confucianism in Cross-cultural Dialogue | year=2004 | publisher=Shanghai Education Publishing House }}</ref><ref>{{cite book | url=https://books.google.com/books?id=5ame4Rl1RXMC&dq=%22kang+youwei%22+%22influenced%22+%22protestant%22&pg=PA54 | title=Taoism and the Arts of China | isbn=9780520227859 | last1=Little | first1=Stephen | last2=Eichman | first2=Shawn | last3=Shipper | first3=Kristofer | last4=Ebrey | first4=Patricia Buckley | date=January 2000 | publisher=University of California Press }}</ref><ref>{{cite book | url=https://books.google.com/books?id=OMfXBQAAQBAJ&dq=kang+youwei+baptist&pg=PT21 | title=Journey to the West: The Monkey King's Amazing Adventures | isbn=9781462902187 | last1=Cheng'En | first1=Wu | date=15 September 2008 | publisher=Tuttle }}</ref><ref>{{cite book | url=https://books.google.com/books?id=ZtY6DQAAQBAJ&dq=kang+youwei+luther&pg=PA223 | title=Religious Dynamics under the Impact of Imperialism and Colonialism: A Sourcebook | isbn=9789004329003 | last1=Bentlage | first1=Björn | last2=Eggert | first2=Marion | last3=Krämer | first3=Hans-Martin | last4=Reichmuth | first4=Stefan | author4-link=Stefan Reichmuth (academic) | date=11 October 2016 | publisher=BRILL }}</ref>
+
+In 1883, Kang founded the [[Foot Emancipation Society|Anti-Footbinding Society]] near Canton.
+
+Kang Youwei launched the Society for the Study of National Strengthening (Qiangxue hui) in Beijing. It is the first political group established by reformists in China. Through it, Kang became acquainted with Governor-General [[Zhang Zhidong]] and received his financial support to inaugurate the Paper of the Society for the Study of the National Strengthening (Qiangxue bao) in January 1896. In the same month, the society was dissolved and the paper had to cease publication.<ref>{{Cite journal|last=Wong|first=Young-Tsu|title=Revisionism Reconsidered: Kang Youwei and the Reform Movement of 1898|url=https://www.cambridge.org/core/product/identifier/S002191180004167X/type/journal_article|journal=The Journal of Asian Studies|year=1992|language=en|volume=51|issue=3|pages=513–544|doi=10.2307/2057948|jstor=2057948|s2cid=154815023 |issn=0021-9118}}</ref>
+
+Kang was a strong believer in [[constitutional monarchy]]<ref name=":322" />{{Rp|page=129}} and wanted to remodel the country after [[Meiji period|Meiji Japan]]. These ideas angered his colleagues in the scholarly class who regarded him as a [[heresy|heretic]].
+
+In 1895, China was defeated by Japan in the [[First Sino-Japanese War]]. In protest against the [[Treaty of Shimonoseki]], Kang Youwei, Liang Qichao and over 600 civil examination candidates signed a petition to the [[Guangxu Emperor]], known to history as [[Gongche Shangshu movement]]. This movement is taken as the sign of the appearance of reformists and the start of Chinese mass political movements.<ref>{{Citation|title=Chapter Two. The Language Question At The Turn Of The 20th Century|date=2008-01-01|url=http://dx.doi.org/10.1163/ej.9789004163676.i-537.11|work=The Politics of Language in Chinese Education, 1895–1919|pages=77–159|publisher=BRILL|doi=10.1163/ej.9789004163676.i-537.11|isbn=978-90-474-2333-1|access-date=2020-12-17 |last1=Kaske |first1=E. }}</ref>
+
+Kang and his noted student, [[Liang Qichao]], were important participants in a campaign to modernize China now known as the [[Hundred Days' Reform]]. The reforms introduced radical change into the Chinese government. [[Empress Dowager Cixi]] staged a coup that put an end to the reforms, put the Guangxu Emperor under house arrest, and ordered Kang's arrest and [[Capital punishment|execution]] on the basis that he had tried to have her assassinated. Kang fled the country, but also organized the [[Protect the Emperor Society]] which promoted the cause of the Guangxu Emperor, mainly in [[Overseas Chinese|Chinese diaspora]] communities, and advocated the removal of Cixi. Kang relied on his principal American military advisor, General [[Homer Lea]], to head the military branch of the Protect the Emperor Society. Kang traveled throughout the world to promote his ideas. He competed with the revolutionary leader [[Sun Yat-sen]]'s [[Revive China Society]] and [[Revolutionary Alliance]] for funds and followers among overseas Chinese.
+[[File:Qing-era Chinese political reformer and thinker Kang Youwei photographed with his Sikh guards in Singapore, ca.1897–1901.jpg|thumb|Kang Youwei photographed with his [[Sikhism in Singapore|Sikh guards]] in Singapore]]
+Kang visited India twice, first in 1901–1903 and then again in October 1909, in part to study India, which he regarded as comparable to China. Although his information about Indian history was derived from English authors, he observed that India's plight as a colonised country was due to the disunity among the different regions of India.<ref>[http://journals.sagepub.com/doi/pdf/10.1177/000944551104800209   Kang Youwei’s Journey to India: Chinese Discourse on India During the Late Qing and Republican Periods, Liu Xi, CHINA REPORT 48 : 1&2 (2012): 171–185]</ref>
+
+The [[Xinhai Revolution]] led to the abdication of the Qing dynasty and the establishment of a [[Republic of China (1912–49)|republic]] under [[Sun Yat-sen]] in 1912. Kang opposed the creation of a republic.<ref name=":3222">{{Cite book |last=Hammond |first=Ken |title=China's Revolution and the Quest for a Socialist Future |publisher=1804 Books |year=2023 |isbn=9781736850084 |location=New York, NY |pages=}}</ref>{{Rp|page=129}}
+
+Some advocated that a Han be installed as Emperor: either the descendant of Confucius, who was the [[Duke Yansheng]],<ref name="Woodhouse2004">{{cite book|author=Eiko Woodhouse|title=The Chinese Hsinhai Revolution: G. E. Morrison and Anglo-Japanese Relations, 1897-1920|url=https://books.google.com/books?id=4TfPJpJRV_0C&pg=PA113 |date=2 August 2004|publisher=Routledge|isbn=978-1-134-35242-5|pages=113–}}</ref><ref name="Spence1982">{{cite book|author=Jonathan D. Spence|title=The Gate of Heavenly Peace: The Chinese and Their Revolution|url=https://books.google.com/books?id=DwgvjqO5ivUC&pg=PP84 |date=28 October 1982|publisher=Penguin Publishing Group|isbn=978-1-101-17372-5|pages=84–}}</ref><ref name="HuLiu1983">{{cite book|author1=Shêng Hu|author2=Danian Liu|title=The 1911 Revolution: A Retrospective After 70 Years|url=https://books.google.com/books?id=MmwKAQAAIAAJ&q=If+we+want+to+bring+order+and+peace+to+China,+we+should+follow+the+model+of+the+British+titular+monarchy;+nothing+seemed+more+reasonable+and+logical+than+to+make+the+present+monarch+the+titular+head+of+a+constitutional+monarchy.+This+was+the+reason+...+The+lineal+descendant+of+Confucius,+the+Yan+Sheng+Duke,+is+unparalleled+among+the+descendants+of+the+best+families+in+the+nation.+If+we+have+no+other+alternative,+let+us+promote+the+Yan+Sheng+Duke+two+ranks+and+make+him+emperor.|year=1983|publisher=New World Press|page=55}}</ref><ref>{{cite book|title=The National Review, China|url=https://books.google.com/books?id=vyM-AQAAMAAJ&q=The+dificulty+lay+in+the+choice+of+a+suitable+monarch+upon+whom+to+exercise+the+curbing+influences+of+constitutional+limitation.+A+very+strong+element+proposed+that+Duke+Kung,+the+seventy-fifth+lineal+descendant+of+Confucius,+should+be+made+King+of+China;+and+the|year=1913|page=200}}</ref> – which Kang briefly endorsed before dropping the idea and returning to the idea of a Qing monarch<ref>{{cite book|title=Monumenta Serica|url=https://books.google.com/books?id=xzRDAQAAIAAJ&q=That+being+the+case,+the+abdicated+Ch'ing+emperor+or+even+%22+the+Holy+Duke+%22+(Yen-sheng+kung+ft|year=1967|publisher=H. Vetch|page=67}}</ref> – or the Ming dynasty Imperial family descendant, the [[Marquis of Extended Grace]].<ref name="Kent1912">{{cite book|author=Percy Horace Braund Kent|title=The Passing of the Manchus|url=https://archive.org/details/in.ernet.dli.2015.95941|year=1912|publisher=E. Arnold|pages=[https://archive.org/details/in.ernet.dli.2015.95941/page/n438 382]–}}</ref><ref name="Aldrich2008">{{cite book|author=M.A. Aldrich|title=The Search for a Vanishing Beijing: A Guide to China's Capital Through the Ages|url=https://books.google.com/books?id=TMMvxX67FpIC&q=Marquis+of+Extended+Grace&pg=PA176|date=1 March 2008|publisher=Hong Kong University Press|isbn=978-962-209-777-3|pages=176–}}</ref>
+
+Kang remained an advocate of constitutional monarchy and launched a failed [[coup d'état]] in 1917. General [[Zhang Xun (Qing loyalist)|Zhang Xun]] and his [[queue (hairstyle)|queue]]-wearing soldiers occupied Beijing, [[Manchu Restoration|declaring a restoration]] of Emperor [[Puyi]] on July{{nbsp}}1.
+
+The incident was a major miscalculation. The nation was highly [[Anti-monarchism|anti-monarchist]]. Kang became suspicious of Zhang's insincere constitutionalism and feared he was merely using the restoration to become the power behind the throne. He abandoned his mission and fled to the American legation. On July 12, [[Duan Qirui]] easily occupied the city.
+
+Kang's reputation serves as an important barometer for the political attitudes of his time. In the span of less than twenty years, he went from being regarded as an iconoclastic radical to an anachronistic pariah.
+
+Chinese-British biographer [[Jung Chang]] gave Kang Youwei unfavorable criticism due to his role in spreading numerous vilifying stories about the Empress Dowager. Among those stories including accusation Cixi of murdering [[Empress Dowager Ci'an]], driving her own [[Tongzhi Emperor|son]] to death, and massively appropriating naval funds. Chang asserted that Kang Youwei was a "master propagandist" who also harbored an intention to become an emperor by claiming as the reincarnation of [[Confucius]], although he later abandoned that plan.<ref name="Jung Chang 2013">{{cite book |last1=Chang |first1=Jung |title=Empress Dowager Cixi: the concubine who launched modern China |date=2013 |location=New York |isbn=9780307456700 |edition=First American}}</ref>
+
+==''Datong Shu''==
+{{See also|Great Unity}}
+
+Kang's best-known and probably most controversial work is ''Datong Shu'' (大同書). The title of the book derives from the name of a utopian society imagined by Confucius, but it literally means "The Book of Great Unity". The ideas of this book appeared in his lecture notes from 1884. Encouraged by his students, he worked on this book for the next two decades, but it was not until his exile in [[India]] that he finished the first draft. The first two chapters of the book were published in Japan in the 1900s, but the book was not published in its entirety until 1935, about seven years after his death.<ref> Dmitry E. Martynov,"Edward Bellamy and Kang Youwei's utopian society: Comparative analyses." ''Journal of Sustainable Development'' 8.4 (2015): 233.</ref>
+
+Kang proposed a utopian future world free of political boundaries and democratically ruled by one central government. In his scheme, the world would be split into rectangular administrative districts, which would be self-governing under a direct democracy but loyal to a central world government. There would also be the dissolution of racial boundaries. Kang outlines an immensely ambitious, and equally inhumane, [[eugenics]] program that would eliminate the "brown and black" racial phenotype after a millennium and lead to the emergence of a fair-skinned homogeneous human race whose members would "be the same color, the same appearance, the same size, and the same intelligence".<ref>{{cite book|author=Ban Wang|title=Chinese Visions of World Order: Tianxia, Culture, and World Politics|url=https://books.google.com/books?id=noI5DwAAQBAJ&pg=PT60|year=2017|publisher=Duke UP|pages=60–|isbn=9780822372448}}</ref>
+Some of the methods envisioned for achieving this end included forced relocation to colder regions inhabited by whites coupled with sterilization of  those suffering from diseases or whose mental and/or physical attributes were deemed exceptionally grotesque. One of the more humane tactics involved giving distinctive honors to white and yellow people who were willing to “improve humanity" by procreating with their brown and black counterparts. It is worth noting that although Kang felt that the white and yellow phenotype could coexist in his ideal scheme, he ultimately felt that white was nonetheless superior to yellow, and that the latter under ideal circumstances could be eliminated within the span of a century (prior to the advent of the "Great Unity").   
+
+[[Image:IMG 0255 Kang2 .JPG|left|thumb| Tang Poem: Returning Home As An Unrecognized Old Man, Nantoyōsō Collection, Japan]]
+
+[[File:Kang Youwei circa 1905.jpg|thumb|left|Kang Youwei, circa 1920]]
+
+His desire to end the traditional Chinese family structure defines him as an early advocate of women's independence in China.<ref>{{Cite web | url=http://www.iiav.nl/ezines/web/JournalofInternationalWomensStudies/2003/Vol5Nr1/bridgew/Jinghao.pdf | title=Atria &#124; Kennisinstituut voor Emancipatie en Vrouwengeschiedenis}}</ref>  
+He reasoned that the institution of the family practiced by society since the beginning of time was a great cause of strife. Kang hoped it would be effectively abolished.
+
+The family would be replaced by state-run institutions, such as womb-teaching institutions, nurseries and schools. Marriage would be replaced by one-year contracts between a woman and a man.<ref>Kang Youwei 2010, Datong Shu, Beijing: Renmin chubanshe, p.310.</ref> Kang considered the contemporary form of marriage, in which a woman was trapped for a lifetime, to be too oppressive. Kang believed in equality between men and women and that there should be no social barrier barring women from doing whatever men can do. {{Citation needed|date=November 2015}}
+
+Kang saw [[capitalism]] as an inherently evil system. He believed that government should establish [[socialist]] institutions to overlook the welfare of each individual. At one point, he even advocated that government should adopt the methods of "[[communism]]" although it is debated what Kang meant by this term.
+
+In this spirit, in addition to establishing government nurseries and schools to replace the institution of the family, he also envisioned government-run retirement homes for the elderly. It is debated whether Kang's socialist ideas were inspired more by Western thought or by traditional Confucian ideals.
+
+Laurence G. Thompsom believes that his socialism was based on traditional Chinese ideals. His work is permeated with the Confucian ideal of ''ren'' (仁), or ''humanity''. However, Thompson also noted a reference by Kang to [[Charles Fourier|Fourier]]. Thus, some Chinese scholars believe that Kang's socialist ideals were influenced by Western intellectuals after his exile in 1898.
+
+Notable in Kang's ''Datong Shu'' were his enthusiasm for and his belief in bettering humanity through technology, unusual for a Confucian scholar during his time. He believed that Western technological progress had a central role in saving humanity. While many scholars of his time continued to maintain the belief that Western technology should be adopted only to defend China against the West, he seemed to whole-heartedly embrace the modern idea that technology is integral for advancing mankind. Before anything of modern scale had been built, he foresaw a global telegraphic and telephone network. He also believed that as a result of technological advances, each individual would only need to work three or four hours per day, a prediction that would be repeated by the most optimistic futurists later in the 20th century.
+
+When the book was first published, it was received with mixed reactions. Kang's support for the [[Guangxu Emperor]] was seen as reactionary by many Chinese intellectuals, who believed that Kang's book was an elaborate joke and that he was merely acting as an apologist for the emperor as to how a utopian paradise could have developed if the Qing dynasty had been maintained. Others believe that Kang was a bold and daring protocommunist, who advocated modern Western socialism and communism. Amongst the latter was [[Mao Zedong]], who admired Kang Youwei and his socialist ideals in the ''Datong Shu''.
+
+Modern Chinese scholars now often take the view that Kang was an important advocate of Chinese socialism. Despite the controversy, ''Datong Shu'' still remains popular. A Beijing publisher included it on the list of 100 most influential books in Chinese history.
+
+==Philosophical views==
+
+Kang enumerated sources of human suffering in a way similar to that of [[Buddhism]].<ref>Dmitry E. Martynov, "Edward Bellamy and Kang Youwei's utopian society: Comparative analyses." ''Journal of Sustainable Development'' 8.4 (2015): 233.</ref>
+
+The sufferings associated with man's physical life are: being implanted in the womb, premature death, loss of a limb, being a [[barbarian]], living outside China, being a [[Slavery|slave]], and being a woman. The sufferings associated with [[natural disaster]]s are: [[famine]] resulting from [[flood]] or [[drought]], [[epidemic]], [[conflagration]], flood, volcanic eruptions, collapse of buildings, [[shipwreck]], and [[locust]] plagues. The sufferings associated with the human relationship are: being a [[widow]], being [[orphan]]ed or [[Childlessness|childless]], being ill with no one to provide medical care, suffering [[poverty]], and having a low and mean station in life.  The sufferings associated with society are: [[corporal punishment]] and [[imprisonment]], [[taxation]], [[Conscription|military conscription]], [[social stratification]], oppressive political institutions, the existence of the state, and the existence of the family. The human feelings which cause suffering are: [[stupidity]], [[hatred]], [[Fatigue (medical)|fatigue]], [[lust]], attachment to things, and [[desire]]. The things that cause suffering because of the esteem in which they are held are: [[wealth]], eminent position, [[longevity]], being a ruler, and being a spiritual leader. He also visualised a hierarchy of various religions, in which Christianity and Islam were considered the lowest, above them being [[Three Teachings|Confucianism, Taoism and Buddhism]]. He predicted that the lower religions would eventually disappear in the future.<ref>[http://www.theos-world.com/archives/show.php?NAME=tw200809&PATH=txt&DESC=September%202008%20Issue "The One-World Philosophy of K'ang Yu-Wei"] by Shri O. K. Ghosh</ref>
+
+== Calligraphy ==
+[[File:HK 灣仔北 Wan Chai North 香港會展 HKCEC 佳士得 拍賣 Christie's Auction 預展 preview May 2019 SSG 186.jpg|thumb|Kang Youwei's calligraphy work.]]
+Kang Youwei was an accomplished [[Chinese calligraphy|calligrapher]], responsible for the creation of Kang Typeface (Bad Model, Chinese: 破体). He commended tablet calligraphy and depreciated model calligraphy. In his early years, he learned from [[Ouyang Xun]] by imitation. In his work ''Guang'' ''yizhoushuangji'' (广艺舟双楫), he did comprehensive and systematic research and introduction about tablet calligraphy. In Kang’s later years, selling calligraphy became his most reliable source of income.<ref>{{Cite journal|last=Claypool|first=Lisa|date=2014|title=The Other Kang Youwei: Calligrapher, Art Activist, and Aesthetic Reformer in Modern China by Aida Yuen Wong|url=http://dx.doi.org/10.1353/cri.2014.0019|journal=China Review International|volume=21|issue=2|pages=192–195|doi=10.1353/cri.2014.0019|s2cid=151538027 |issn=1527-9367}}</ref><ref>{{Cite journal|last=이영철|title=The Study of Calligraphy of Kang Youwei|journal=The Study of Culture & Art|year=2018|volume=12|pages=213–250|doi=10.35413/culart.2018.12..009|s2cid=199225261 |issn=2288-4963|doi-access=}}</ref><ref>{{Cite journal|last=PFISTER|first=LAUREN F.|title=A Study in Comparative Utopias - K'ang Yu-Wei and Plato|date=2003|url=http://dx.doi.org/10.1111/j.1540-6253.1989.tb00731.x|journal=Journal of Chinese Philosophy|volume=16|issue=1|pages=59–117|doi=10.1111/j.1540-6253.1989.tb00731.x|issn=0301-8121}}</ref>
+
+== Kang Youwei Island ==
+[[File:Saltsjöbaden 2019.jpeg|thumb|left|Korsholmen, also named Kang Youwei Island in Chinese.]]
+After the failure of the Hundred Days’ Reform, Kang Youwei fled China. In 1898, he arrived in Japan via Hong Kong. Kang reached [[Sweden]] in 1904 and was deeply attracted to the landscape. He bought an islet off [[Saltsjöbaden]] and built a Chinese style garden and building named "Beihai Caotang" (Chinese: 北海草堂). This island is still known as Kang Youwei Island by many Chinese.<ref>{{Cite journal|last=Williams|first=Tony|date=2013-04-01|title=Two or three things about Mao, Godard and Kang Youwei|url=http://dx.doi.org/10.1386/ac.24.1.87_7|journal=Asian Cinema|volume=24|issue=1|pages=87–104|doi=10.1386/ac.24.1.87_7|issn=1059-440X}}</ref><ref>{{Cite book|last=Bylander|first=Eric|url=http://dx.doi.org/10.4335/978-961-6842-60-0|title=Evidence in Civil Law - Sweden|date=2015|publisher=Institute for Local Self-Government and Public Procurement Maribor|doi=10.4335/978-961-6842-60-0|isbn=978-961-6842-60-0}}</ref>
+
+==Death==
+Kang died at his home in the city of [[Qingdao]], [[Shandong]] in 1927. He was 69.
+
+==References==
+
+{{Reflist}}
+
+==Further reading==
+*M. E. Cameron, ''The Reform Movement in China, 1898–1912'' (1931, repr. 1963); biography ed. and tr. by Lo Jung-pang (1967).
+*[[Chang Hao (historian)|Chang Hao]], ''Chinese Intellectuals in Crisis. Search for Order and Meaning (1890–1911)'', Berkeley 1987.
+*Chang Hao: "Intellectual change and the reform movement, 1890-1898", in: Twitchett, Denis and Fairbanks, John (ed.): ''The Cambridge History of China:  Vol. 11, Late Ch’ing, 1800–1911, Part 2'' (1980). Cambridge: Cambridge University Press, pp.&nbsp;274–338, esp. 283-300, 318-338.
+* Howard, Richard C., "K’ang Yu-wei (1858-1927): His Intellectual Background and Early Thought", in A.F. Wright and Denis Twitchett (eds.): ''Confucian Personalities''. Stanford: Stanford University Press, 1962, pp.&nbsp;294–316 and 382-386 (notes).
+* Hsiao, Kung-Chuan: ''A Modern China and a New World – K`ang Yu-wei, Reformer and Utopian, 1858-1927'' (1975). Seattle and London: University of Washington Press.
+* Jung-Pan, Lo. ed.  ''K'ang Yu-wei; a biography and a symposium'' (1967) [https://archive.org/details/kangyuweibiograp0000unse/page/n5/mode/2up online]
+* Karl, Rebecca And Zarrow, Peter (ed.): ''Rethinking the 1898 Reform Period – Political and Cultural Change in Late Qing China'' (2002). Cambridge/Mass.: Harvard University Press, esp. pp.&nbsp;24–33.
+* K'ang Yu-wei. ''A Biography and a Symposium'', ed. Lo Jung-pang, Tucson 1967 (The Association for Asian Studies: Monographs and Papers, Bd. 23).
+* Spence, Jonathan D. T''he gate of heavenly peace: the Chinese and their revolution.'' (Penguin, 1982). pp 1-106 [https://archive.org/details/gateofheavenlype00spen online]
+* Palmer, Norman D. "Makers Of Modern China: I. The Reformer: Kang Yu-wei" ''Current History'' 15#84 (Aug 1, 1948): 88+. [https://search.proquest.com/openview/9a947831cc3bed8ad1cdf0a632591688/1?pq-origsite=gscholar&cbl=41558 online]
+* Teng, Ssu-Yü, and Fairbank, John K.: ''China's response to the West – a documentary survey 1839-1923'' (1954, 1979). Cambridge: Harvard University Press, pp.&nbsp;147–163 ([https://archive.org/details/chinasresponseto00teng online]
+* Thompson, Laurence G.: ''Ta t´ung shu: the one-world philosophy of K`ang Yu-wei'' (1958). London: George Allen and Unwin, esp. pp.&nbsp;37–57.
+* Wong, Young-Tsu. "Revisionism reconsidered: Kang Youwei and the reform movement of 1898." ''Journal of Asian Studies'' 51.3 (1992): 513-544. [https://www.jstor.org/stable/2057948 online]. 
+* Zarrow, Peter. ''China in war and revolution, 1895-1949'' (New York: Routledge), 2005, 12-29. [https://archive.org/details/ZarrowChinaInWarAndRevolution18951949/page/n9/mode/2up online]
+
+==In other languages==
+*Chi Wen-shun, K'ang Yu-wei (1858–1927) (in ''Die Söhne des Drachen. Chinas Weg vom Konfuzianismus zum Kommunismus'', ed. P. J. Opitz, Mchn. 1974, S. 83–109). 
+* Franke, W. Die staatspolitischen Reformversuche K'ang Yu-weis u. seiner Schule. Ein Beitrag zur geistigen Auseinandersetzung Chinas mit dem Abendlande (in ''Mitt. des Seminars für Orientalische Sprachen'', Bln. 38, 1935, Nr. 1, S. 1–83).
+*Kuang Bailin, ''Kang Youwei di zhexue sixiang'', Peking 1980.
+*G. Sattler-v. Sivers, Die Reformbewegung von 1898 (in ''Chinas große Wandlung. Revolutionäre Bewegungen im 19. u. 20. Jh.'', ed. P. J. Opitz, Mchn. 1972, S. 55–81).
+*Tang Zhijun, Kang Youwei yu wuxu bianfa, Peking 1984. – Ders., Wuxu bianfa shi, Peking 1984.
+*Wuxu weixin yundong shi lunji, ed. Hu Shengwu, Changsha 1983.
+
+==External links==
+{{Commons category}}
+*[http://www.infoplease.com/ce6/people/A0827007.html Infoplease.com Profile]
+*[http://www.encyclopedia.com/topic/Kang_Yu-wei.aspx K'ang Yu-wei on Encyclopedia.com]
+* [http://a-bas-le-ciel.blogspot.sg/2014/12/Kang-Youwei-Saneatsu-Mushanokoji-Mao-Zedong.html On the Ostensible Sources of Mao Zedong's Utopia: Kang Youwei & Saneatsu Mushanokoji]
+
+==See also==
+
+*[[Gongche Shangshu movement]]
+* Lawrence M. Kaplan. Homer Lea: American Soldier of Fortune. University Press of Kentucky, 2010. {{ISBN|978-0813126166}}.
+
+{{Hundred Days' Reform}}
+{{Chinese philosophy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Kang, Youwei}}
+
+[[Category:1858 births]]
+[[Category:1927 deaths]]
+[[Category:Chinese anti-capitalists]]
+[[Category:Chinese Confucianists]]
+[[Category:Chinese eugenicists]]
+[[Category:Chinese monarchists]]
+[[Category:Chinese scholars]]
+[[Category:Chinese socialists]]
+[[Category:Qing dynasty calligraphers]]
+[[Category:Qing dynasty government officials]]
+[[Category:People from Nanhai District]]
+[[Category:Philosophers from Guangdong]]
+[[Category:Politicians from Foshan]]
+[[Category:Writers from Foshan]]
+[[Category:Chinese reformers]]
+[[Category:Chinese feminists]]
+[[Category:19th-century Chinese calligraphers]]
+{{Religious Confucianism}}

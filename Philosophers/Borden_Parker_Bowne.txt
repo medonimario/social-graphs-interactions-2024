@@ -1,0 +1,559 @@
+{{Short description|American philosopher, Methodist clergyman and theologian}}
+{{Infobox person
+| honorific_prefix   = [[The Reverend]]
+| name               = Borden Parker Bowne
+| image              = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| landscape          = <!-- yes, if wide image, otherwise leave blank -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| birth_date         = {{birth date|1847|01|14}}
+| birth_place        = [[Monmouth County, New Jersey|Monmouth County]], [[New Jersey]], US
+| death_date         = {{death date and age|1910|04|01|1847|01|14}}
+| death_place        = [[Boston]], [[Massachusetts]], US
+| spouse             = Kate Morrison{{sfn|Burrow|1997a|p=48}}
+| awards             = 
+| module             = {{Infobox clergy |child=yes
+| religion           = Christianity ([[Methodist]])
+| church             = [[Methodist Episcopal Church]]{{sfn|Burrow|1997a|p=47}}
+| ordained           = 1882 ([[elder (Methodist)|elder]]){{sfn|Burrow|1997a|p=47}}
+| congregations      = 
+| offices_held       = 
+}}
+| module2            = {{Infobox academic |child=yes
+| alma_mater         = [[New York University]]
+| thesis_title       = 
+| thesis_year        = 
+| school_tradition   = [[Boston personalism]]
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = {{flatlist|
+* [[George Berkeley]]{{sfnm |1a1=Bertocci |1y=1979 |1p=206 |2a1=Burrow |2y=1997b |2p=245}}
+* [[René Descartes]]{{sfn|Burrow|1997b|p=245}}
+* [[Immanuel Kant]]{{sfnm |1a1=Bertocci |1y=1979 |1p=206 |2a1=Burrow |2y=1997a |2pp=48–49 |3a1=Burrow |3y=1997b |3p=245}}
+* [[Gottfried Wilhelm Leibniz]]{{sfn|Bertocci|1979|p=206}}
+* [[Hermann Lotze]]
+}}
+| era                = 
+| discipline         = Philosophy
+| sub_discipline     = {{flatlist|
+* [[Metaphysics]]{{sfn|Burrow|1997a|p=47}}
+* [[philosophy of religion]]<ref>{{cite book |last1=Wieman |first1=Henry Nelson |author1-link=Henry Nelson Wieman |last2=Meland |first2=Bernard Eugene |year=1936 |title=American Philosophies of Religion |location=Chicago |publisher=University of Chicago Press |page=134}} Quoted in {{harvnb|Steinkraus|2002|p=19}}.</ref>
+}}
+| workplaces         = [[Boston University]]
+| doctoral_students  = {{flatlist|
+* [[Edgar S. Brightman]]{{sfn|Bertocci|1983|p=32}}
+* [[Ralph Tyler Flewelling]]{{sfnm |1a1=Dorrien |1y=2003 |1p=219 |2a1=Dorrien |2y=2006 |2p=10}}
+* [[Albert C. Knudson]]{{sfnm |1a1=Dorrien |1y=2003 |1p=219 |2a1=Dorrien |2y=2006 |2p=10}}
+* [[Francis John McConnell]]{{sfnm |1a1=Dorrien |1y=2003 |1p=219 |2a1=Dorrien |2y=2006 |2p=10}}
+}}
+| notable_students   = [[George Albert Coe]]<ref>{{cite web |last=Archibald, Helen Allan |title=George Albert Coe |url=https://www.biola.edu/talbot/ce20/database/george-albert-coe |work=Christian Educators of the 20th Century |location=La Mirada, California |publisher=Biola University |access-date=September 28, 2019}}</ref>
+| main_interests     = 
+| notable_works      = ''Metaphysics'' (1882)
+| notable_ideas      = 
+| influenced         = {{flatlist|
+* [[Randall Auxier]]
+* [[John W.&nbsp;E. Bowen Sr.]]{{sfn|Burrow|1999|p=78}}
+* [[T.&nbsp;C. Chao]]{{sfn|Chen|2017|p=62}}
+* [[Walter George Muelder]]{{sfn|Dorrien|2011|p=308}}
+}}
+}}
+| signature          = 
+| signature_alt      = 
+}}
+'''Borden Parker Bowne'''{{efn|Pronounced {{IPAc-en|ˈ|b|oʊ|n}}.{{sfn|"Borden Parker Bowne"|2019}}}} (January 14, 1847&nbsp;– April 1, 1910) was an American Christian philosopher, [[Methodist]] minister and theologian.{{sfn|DeWerff|1997|p=128}} He was nominated for the [[Nobel Prize in Literature]] nine times.
+
+==Life==
+Bowne was born on January 14, 1847, near [[Leonardville, New Jersey|Leonardville]] in [[Monmouth County, New Jersey|Monmouth County]], [[New Jersey]].{{sfnm |1a1=Auxier |1y=2005 |1p=306 |2a1="Borden Parker Bowne" |2y=2019}} In 1876 he became a professor of philosophy at [[Boston University]],{{sfn|Burrow|1997a|p=46}} where he taught for more than thirty years.{{citation needed|date=September 2019}} He later served as the first dean of the graduate school.{{sfnm |1a1=Bertocci |1y=1983 |1p=32 |2a1=DeWerff |2y=1997 |2p=128}} Bowne was an acute critic of [[Mechanical philosophy|mechanistic]] [[determinism]],{{sfn|DeWerff|1997|p=128}} [[positivism]], and [[Naturalism (philosophy)|naturalism]]. He categorized his views as [[Immanuel Kant|Kant]]ianized [[George Berkeley|Berkeley]]anism, transcendental empiricism, and, finally, [[personalism]], emphasizing freedom and the importance of the self,<ref>"Bowne, Parker Borden," in "The Columbia-Viking Desk Encyclopedia" (1953), New York:  Viking.</ref> a philosophical branch of [[Liberal Christianity|liberal theology]]:  of this branch Bowne is the dominant figure; this personalism is sometimes called ''Boston personalism'', in contrast with the California personalism of [[George Holmes Howison]].{{citation needed|date=September 2019}} Bowne's ''[[magnum opus]]'', ''Metaphysics'', was published in 1882.{{sfn|"Borden Parker Bowne"|2019}} Bowne was {{citation needed span |date=September 2019 |text=chiefly}} influenced by [[Hermann Lotze]].{{sfn|Burrow|1997a|p=50}} He died on April 1, 1910, in [[Boston]], [[Massachusetts]].{{sfn|Wright Buckham|1924|p=88}}
+
+==Legacy==
+
+Bowne has influenced philosophy in various ways.  For instance, there has been a direct line of personalists from Bowne through his student, [[Edgar Sheffield Brightman]] (1884–1954), through Brightman's student, [[Peter Anthony Bertocci]] (1910–1989), to Bertocci's student, [[Thomas Buford|Thomas O. Buford]] (born 1932).
+
+There has also been a more general influence, as with [[Martin Luther King Jr.]], who studied at Boston University, and spoke in his ''[[Stride Toward Freedom]]'' of having gained "a metaphysical basis for the dignity and worth of all human personality."{{sfn|King|1958}}
+
+Bowne received nine nominations for the Nobel Prize in Literature between 1906 and 1909—one from his own sister.<ref>{{cite web |title=Borden Parker Bowne |url=https://www.nobelprize.org/nomination/archive/show_people.php?id=1258 |work=Nomination Database |publisher=Nobel Media |access-date=September 27, 2019}}</ref>
+
+Boston University named a professorship in Bowne's honor. The named professors are:
+* [[Edgar S. Brightman]] (1925 - 1953)
+* [[Peter Anthony Bertocci]]
+* [[Stanley Rosen]]
+* [[Charles L. Griswold]]<ref>{{cite web |title=Charles Griswold Appointed Borden Parker Bowne Professor {{!}} Philosophy |url=https://www.bu.edu/philo/2010/11/10/charles-griswold-appointed-borden-parker-bowne-professor/ |website=www.bu.edu}}</ref>
+* [[Juliet Floyd]] (2023-)<ref>{{cite web |title=Professor Juliet Floyd Appointed Borden Parker Bowne Professor of Philosophy {{!}} Philosophy |url=https://www.bu.edu/philo/2023/07/17/professor-juliet-floyd-appointed-borden-parker-bowne-professor-of-philosophy/ |website=Boston University}}</ref>
+
+==Published works==
+* ''The Philosophy of Herbert Spencer'' (New York, 1874).
+* ''Studies in Theism'' (New York, 1882).
+* ''Metaphysics: A Study in First Principles'' (New York, 1882; revised ed., 1898).
+* ''Introduction to Psychological Theory'' (New York, 1886).
+* ''Philosophy of Theism'' (New York, 1887; revised ed. 1902).
+* ''The Principles of Ethics'' (New York, 1892).
+* ''Theory of Thought and Knowledge'' (New York, 1899).
+* ''The Christian Revelation'' (Cincinnati, 1898).
+* ''The Christian Life'' (Cincinnati, 1899).
+* ''The Atonement'' (Cincinnati, 1900).
+* ''The Immanence of God'' (Boston, 1905).
+* ''Personalism'' (Boston, 1908).
+* ''Studies in Christianity'' (1909).
+* ''A Man's View of Woman Suffrage'' (Boston, 1910).
+* ''The Essence of Religion'' (Boston, 1910).
+* ''Kant and Spencer: A Critical Exposition'' (Boston, 1912).
+
+==See also==
+* [[George Holmes Howison]]
+* [[List of American philosophers]]
+* [[Max Scheler]], the primary figure in German personalism
+
+==Notes==
+{{notelist}}
+
+==References==
+
+===Footnotes===
+{{reflist|22em}}
+
+===Bibliography===
+{{refbegin|35em|indent=yes}}
+* {{cite encyclopedia
+|last=Auxier
+|first=Randall E.
+|author-link=Randall Auxier
+|year=2005
+|title=Bowne, Borden Parker (1847–1910)
+|encyclopedia=Dictionary of Modern American Philosophers
+|volume=1
+|location=Bristol, England
+|publisher=Thoemmes Continuum
+|pages=306–312
+|isbn=978-1-84371-037-0
+}}
+* {{cite journal
+|last=Bertocci
+|first=Peter A.
+|year=1979
+|title=Borden Parker Bowne and His Personalistic Theistic Idealism
+|journal=Ultimate Reality and Meaning
+|volume=2
+|issue=3
+|pages=205–227
+|doi=10.3138/uram.2.3.205
+|doi-access=free
+|issn=0709-549X
+}}
+* {{cite journal
+|last=Bertocci
+|first=Peter A.
+|author-mask={{long dash}}
+|year=1983
+|title=The Personalism of Edgar S. Brightman and Ultimate Reality
+|journal=Ultimate Reality and Meaning
+|volume=6
+|issue=1
+|pages=32–50
+|doi=10.3138/uram.6.1.32
+|doi-access=free
+|issn=0709-549X
+}}
+* {{cite encyclopedia
+|last=Bertocci
+|first=Peter A.
+|author-mask={{long dash}}
+|year=2006
+|title=Bowne, Borden Parker (1847–1910)
+|editor-last=Borchert
+|editor-first=Donald M.
+|encyclopedia=[[Encyclopedia of Philosophy]]
+|volume=1
+|edition=2nd
+|location=Farmington Hills, Michigan
+|publisher=Macmillan Reference USA
+|pages=671–672
+|isbn=978-0-02-866072-1
+}}
+* {{cite encyclopedia
+|year=2019
+|title=Borden Parker Bowne
+|encyclopedia=[[Columbia Encyclopedia|Columbia Electronic Encyclopedia]]
+|edition=6th
+|isbn=978-0-7876-5015-5
+|ref={{sfnref|"Borden Parker Bowne"|2019}}
+|url-access=registration
+|url=https://archive.org/details/columbiaencyclop00laga
+|last1=Lagassé
+|first1=Paul
+}}
+* {{cite journal
+|last=Burrow
+|first=Rufus Jr.
+|year=1997a
+|title=Borden Parker Bowne: The First Thoroughgoing Personalist
+|journal=Methodist History
+|volume=36
+|issue=1
+|pages=44–54
+|hdl=10516/6081
+|hdl-access=free
+|issn=0026-1238
+}}
+* {{cite journal
+|last=Burrow
+|first=Rufus Jr.
+|author-mask={{long dash}}
+|year=1997b
+|title=The Personalism of John Wesley Edward Bowen
+|journal=The Journal of Negro History
+|volume=82
+|issue=2
+|pages=244–256
+|doi=10.2307/2717519
+|issn=0022-2992
+|jstor=2717519
+|s2cid=141156695
+}}
+* {{cite book
+|last=Burrow
+|first=Rufus Jr.
+|author-mask={{long dash}}
+|year=1999
+|title=Personalism: A Critical Introduction
+|location=St. Louis, Missouri
+|publisher=Chalice Press
+|isbn=978-0-8272-2955-6
+}}
+* {{cite book
+|last=Chen
+|first=Yongtao
+|year=2017
+|title=The Chinese Christology of T.&nbsp;C. Chao
+|location=Leiden, Netherlands
+|publisher=Brill
+|doi=10.1163/9789004322417
+|isbn=978-90-04-32241-7
+}}
+* {{cite book
+|year=1997
+|editor-last=DeWerff
+|editor-first=Timothy J.
+|title=Concise Dictionary of American Biography
+|url=https://archive.org/details/concisedictionar00char_0
+|url-access=limited
+|volume=1
+|edition=5th
+|location=New York
+|publisher=Charles Scribner's Sons
+|isbn=978-0-684-80549-8
+|access-date=September 27, 2019
+}}
+* {{cite journal
+|last=Dorrien
+|first=Gary
+|author-link=Gary Dorrien
+|year=2003
+|title=Making Liberal Theology Metaphysical: Personalist Idealism as a Theological School
+|journal=American Journal of Theology & Philosophy
+|volume=24
+|issue=3
+|pages=214–244
+|issn=2156-4795
+|jstor=27944292
+}}
+* {{cite book
+|last=Dorrien
+|first=Gary
+|author-link=Gary Dorrien
+|author-mask={{long dash}}
+|year=2006
+|title=The Making of American Liberal Theology: Crisis, Irony, and Postmodernity, 1950–2005
+|location=Louisville, Kentucky
+|publisher=Westminster John Knox Press
+|isbn=978-0-664-22356-4
+}}
+* {{cite book
+|last=Dorrien
+|first=Gary
+|author-link=Gary Dorrien
+|author-mask={{long dash}}
+|year=2011
+|title=Social Ethics in the Making: Interpreting an American Tradition
+|location=Chichester, England
+|publisher=Wiley-Blackwell
+|isbn=978-1-4443-9379-8
+}}
+* {{cite book
+|last=King
+|first=Martin Luther Jr.
+|author-link=Martin Luther King Jr.
+|year=1958
+|title=Stride Toward Freedom
+|location=New York
+|publisher=Harper
+|title-link=Stride Toward Freedom
+}}
+* {{cite book
+|last=Steinkraus
+|first=Warren E.
+|year=2002
+|chapter=A Century of Bowne's Theism
+|editor1-last=Buford
+|editor1-first=Thomas O.
+|editor2-last=Oliver
+|editor2-first=Harold H.
+|title=Personalism Revisited: Its Proponents and Critics
+|location=Amsterdam
+|publisher=Rodopi
+|pages=5–21
+|isbn=978-90-420-1519-7
+}}
+* {{cite journal
+|last=Wright Buckham
+|first=John
+|year=1924
+|title=Borden Parker Bowne: Personalist
+|journal=The Personalist
+|volume=5
+|issue=2
+|pages=88–100
+|issn=1468-0114
+}}
+{{refend}}
+
+==Further reading==
+{{refbegin|35em|indent=yes}}
+* [[Randall Auxier|Auxier, Randall E.]], ed. (1997). "The Relevance of Borden Parker Bowne" (special issue). ''The Personalist Forum''. '''13''' (1). {{ISSN|0889-065X}}. {{JSTOR|i20708736}}.
+* {{cite journal
+|last=Auxier
+|first=Randall E.
+|author-link=Randall Auxier
+|author-mask={{long dash}}
+|year=1998
+|title=Bowne on Time, Evolution and History
+|journal=Journal of Speculative Philosophy
+|volume=12
+|issue=3
+|pages=181–203
+|issn=1527-9383
+|jstor=25670257
+}}
+* {{cite thesis
+|last=Bernhardt
+|first=William Henry
+|year=1928
+|title=The Influence of Borden Parker Bowne upon Theological Thought in the Methodist Episcopal Church
+|degree=PhD
+|location=Chicago
+|publisher=University of Chicago
+|oclc=11041109
+}}
+* {{cite book
+|last=Bowne
+|first=Borden Parker
+|year=1981
+|editor-last=Steinkraus
+|editor-first=Warren E.
+|title=Representative Essays of Borden Parker Bowne
+|location=Utica, New York
+|publisher=Meridian Pub. Co.
+|isbn=978-0-86610-066-3
+}}
+* {{cite journal
+|last=Bowne
+|first=Kate Morrison
+|year=1921
+|title=An Intimate Portrait of Bowne
+|journal=The Personalist
+|volume=2
+|issue=1
+|pages=5–15
+|issn=1468-0114
+}}
+* {{cite book
+|last=Brightman
+|first=Edgar S.
+|author-link=Edgar S. Brightman
+|year=1927
+|chapter=Personalism and the Influence of Browne
+|editor-last=Brightman
+|editor-first=Edgar S.
+|editor-link=Edgar S. Brightman
+|title=Proceedings of the Sixth International Congress of Philosophy
+|location=New York
+|publisher=Longmans, Green and Co.
+}}
+* {{cite journal
+|last=Dearing
+|first=Mary H.
+|year=1957–58
+|title=Reminiscences of Borden Parker Bowne
+|journal=The Philosophical Forum
+|volume=15
+|pages=51–55
+}}
+* {{cite book
+|year=1986
+|editor1-last=Deats
+|editor1-first=Paul
+|editor2-last=Robb
+|editor2-first=Carol
+|title=The Boston Personalist Tradition in Philosophy, Social Ethics and Theology
+|location=Macon, Georgia
+|publisher=Mercer University Press
+|isbn=978-0-86554-177-1
+}}
+* {{cite book
+|last=Dorrien
+|first=Gary
+|author-link=Gary Dorrien
+|year=2001
+|title=The Making of American Liberal Theology: Imagining Progressive Religion, 1805–1900
+|location=Louisville, Kentucky
+|publisher=Westminster John Knox Press
+|pages=[https://archive.org/details/makingofamerican0000dorr/page/371 371–392]
+|isbn=978-0-664-22354-0
+|url=https://archive.org/details/makingofamerican0000dorr/page/371
+}}
+* {{cite book
+|last=Flewelling
+|first=Ralph Tyler
+|author-link=Ralph Tyler Flewelling
+|year=1915
+|title=Personalism and the Problems of Philosophy: An Appreciation of the Work of Borden Parker Bowne
+|url=https://archive.org/details/personalismprobl00fle
+|location=New York
+|publisher=Methodist Book Concern
+|lccn=15018742
+|access-date=September 27, 2019
+}}
+* {{cite book
+|last=Franquiz Ventura
+|first=Jose A.
+|year=1942
+|title=Borden Parker Bowne's Treatment of the Problem of Change and Identity
+|location=Río Piedras, Puerto Rico
+|publisher=University of Puerto Rico
+|oclc=3501733
+}}
+* {{cite book
+|last=Gacka
+|first=Bogumił
+|author-link=Bogumił Gacka
+|year=1994
+|title=Bibliography of American Personalism
+|location=Lublin, Poland
+|publisher=Oficyna Wydawnicza Czas
+|isbn=978-83-85614-08-1
+}}
+* {{cite journal
+|last=Knudson
+|first=Albert C.
+|author-link=Albert C. Knudson
+|year=1920
+|title=Bowne as Teacher and Author
+|journal=The Personalist
+|volume=1
+|issue=2
+|pages=5–14
+|issn=1468-0114
+}}
+* {{cite book
+|last=Knudson
+|first=Albert C.
+|author-link=Albert C. Knudson
+|author-mask={{long dash}}
+|year=1927
+|title=The Philosophy of Personalism: A Study in the Metaphysics of Religion
+|url=https://archive.org/details/in.ernet.dli.2015.72888
+|location=New York
+|publisher=Abingdon Press
+|oclc=2796061
+|access-date=September 27, 2019
+}}
+* {{cite book
+|last=Lazarus
+|first=Frederick
+|year=1962
+|title=The Metaphysics of Ramanuja and Bowne
+|location=Bombay
+}}
+* {{cite magazine
+|last=March
+|first=Daniel L.
+|year=1937
+|title=Borden Parker Bowne
+|magazine=Bostonia
+|volume=10
+|pages=3–13
+}}
+* {{cite book
+|last=McConnell
+|first=Francis J.
+|author-link=Francis John McConnell
+|year=1929
+|title=Borden Parker Bowne: His Life and Philosophy
+|location=New York
+|publisher=Abingdon Press
+|oclc=830682315
+}}
+* {{cite book
+|last=Pyle
+|first=Charles Bertram
+|year=1910
+|title=The Philosophy of Borden Parker Bowne and Its Application to the Religious Problem
+|location=Columbus, Ohio
+|publisher=S.&nbsp;F. Harriman
+|oclc=2506533
+}}
+* {{cite journal
+|editor-last=Robinson
+|editor-first=Daniel S.
+|year=1955
+|title=Borden Parker Bowne's Letters to William T. Harris
+|journal=The Philosophical Forum
+|volume=13
+|pages=89–95
+}}
+* {{cite book
+|last=Smith
+|first=Harmon L.
+|year=1966
+|chapter=Borden Parker Bowne: Heresy at Boston
+|editor-last=Shriver
+|editor-first=George H.
+|title=American Religious Heretics: Formal and Informal Trials
+|chapter-url=https://archive.org/details/americanreligiou0000shri
+|chapter-url-access=limited
+|location=Nashville, Tennessee
+|publisher=Abingdon Press
+|pages=148–187
+|lccn=66021972
+|access-date=September 27, 2019
+}}
+* {{cite book
+|last=Werkmeister
+|first=W.&nbsp;H.
+|year=1949
+|chapter=The Personalism of Bowne
+|title=A History of Philosophical Ideas in America
+|chapter-url=https://archive.org/details/in.ernet.dli.2015.187674
+|location=New York
+|publisher=Ronald Press Company
+|pages=103–121
+|access-date=September 27, 2019
+}}
+{{refend}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bowne, Borden Parker}}
+[[Category:1847 births]]
+[[Category:1910 deaths]]
+[[Category:19th-century American philosophers]]
+[[Category:19th-century Methodist ministers]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century Methodist ministers]]
+[[Category:American Methodist clergy]]
+[[Category:Boston University faculty]]
+[[Category:Members of the Methodist Episcopal Church]]
+[[Category:Methodist philosophers]]
+[[Category:Methodist theologians]]
+[[Category:New York University alumni]]
+[[Category:Philosophers from Massachusetts]]
+[[Category:Philosophers from New Jersey]]

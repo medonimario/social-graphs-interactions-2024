@@ -1,0 +1,40 @@
+{{Short description|French Jansenist}}
+{{infobox person/Wikidata 
+| fetchwikidata=ALL 
+| onlysourced=yes
+|image = Pierre-Nicole-transparent.png
+}}
+'''Pierre Nicole''' ({{IPA|fr|pjɛʁ nikɔl}}; 19 October 1625 – 16 November 1695) was one of the most distinguished of the French [[Jansenist]]s.
+
+== Life ==
+Born in [[Chartres]], he was the son of a provincial barrister, who took in charge his education. Sent to Paris in 1642 to study [[theology]], he soon entered into relations with the [[Jansenism|Jansenist]] community at [[Port-Royal-des-Champs|Port-Royal]] through his aunt, Marie des Anges Suireau, who was for a short time abbess of the convent, and he taught for a while at the [[Petites écoles de Port-Royal]]. Some scruple of conscience forbade him to proceed to the priesthood, and he remained throughout life a "clerk in minor orders," although a profound theological scholar. For some years he was a master in the "little school" for boys established at Port Royal, and had the honour of teaching Greek to young [[Jean Racine]], the future poet. But his chief duty was to act, in collaboration with [[Antoine Arnauld]], as general editor of the controversial literature put forth by the Jansenists.
+
+He had a large share in collecting the materials for [[Blaise Pascal|Pascal]]'s ''[[Lettres provinciales|Provincial Letters]]'' (1656); in 1658 he translated the ''Letters'' into [[Latin]], under the pseudonym of Nicholas Wendrock.<ref>{{CathEncy|wstitle=Pierre Nicole}}</ref> In 1662 he coauthored the very successful ''[[Port-Royal Logic]]'' with [[Antoine Arnauld]], based on a [[René Descartes|Cartesian]] reading of [[Aristotelian logic]].  In 1664 he himself began a series of letters, ''Les Imaginaires'', intended to show that the heretical opinions commonly ascribed to the Jansenists really existed only in the imagination of the Jesuits. His letters being violently attacked by [[Desmarets de Saint-Sorlin]], an erratic minor poet who professed great devotion to the [[Jesuits]], Nicole replied to him in another series of letters, ''Les Visionnaires'' (1666). In the course of these he observed that poets and dramatists were no better than "public poisoners." This remark stung Racine to the quick; he turned not only on his old master, but on all Port Royal, in a scathing reply, which—as [[Nicolas Boileau-Despréaux|Boileau]] told him—did more honour to his head than to his heart.
+
+About the same time Nicole became involved in a controversy about [[transubstantiation]] with the [[Huguenot]] [[Jean Claude|Claude]]; out of this grew a massive work, ''La Perpétuité de la foi de l'Église catholique touchant l'eucharistie'' (1669), the joint effort of Nicole and Antoine Arnauld. But Nicole's most popular production was his ''Essais de morale'', a series of short discussions on practical [[Christianity]]. The first volume was published in 1671, and was followed at irregular intervals by others; altogether the series numbers fourteen volumes. In 1679, on the renewal of the persecution of the Jansenists, Nicole was forced to flee to Belgium in company with Arnauld. But the two soon parted. Nicole was elderly and in poor health; the life of a fugitive was not to his taste, and he complained that he wanted rest. "Rest," answered Arnauld, "when you have eternity to rest in!" In 1683 Nicole made a rather ambiguous peace with the authorities, and was allowed to come back to Paris. There he continued his literary labours up to the last; he was writing a refutation of the new [[heresy]] of the [[Quietism (Christian philosophy)|Quietists]], when death overtook him.
+
+Nicole was one of the most attractive figures of Port Royal. Many stories are told of his quaint absent-mindedness and unreadiness in conversation. His books are distinguished by exactly opposite qualities; they are neat and orderly to excess. Hence they were exceedingly popular with [[Mme de Sevigné]] and readers of her class. No other Jansenist writer, not even Pascal, was so successful in putting the position of Port Royal before the world. And although a modern appetite quails before fourteen volumes on morality, there is much solid sense and practical knowledge of human nature to be found in the ''Essais de morale''. Several abridgments of the work exist, notably a ''Choix des essais de morale de Nicole'', ed. [[Silvestre de Saci]] (Paris, 1857).  Nicole's life is told at length in the 4th volume of [[Charles Augustin Sainte-Beuve|Sainte-Beuve]]'s ''Port-Royal''.
+
+==References==
+{{Reflist}}
+;Attribution
+*{{EB1911|wstitle = Nicole, Pierre|volume=19}}
+
+==External links==
+* {{commons category-inline}}
+* {{wikiquote inline}}
+* {{Gutenberg author |id=33587| name=Pierre Nicole}}
+* {{Internet Archive author |sname=Pierre Nicole}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nicole, Pierre}}
+[[Category:1625 births]]
+[[Category:1695 deaths]]
+[[Category:French religious writers]]
+[[Category:Jansenists]]
+[[Category:French logicians]]
+[[Category:Writers from Chartres]]
+[[Category:17th-century French writers]]
+[[Category:17th-century French male writers]]
+[[Category:French male non-fiction writers]]

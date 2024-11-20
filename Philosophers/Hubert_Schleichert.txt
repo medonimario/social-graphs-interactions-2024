@@ -1,0 +1,46 @@
+{{Short description|Austrian emeritus philosopher}}
+{{Infobox philosopher
+|region           = [[Austria]]
+|era              = [[20th century philosophy|20th century]]
+|image       = 
+|image_size       = 
+|caption    = 
+|name             = Hubert Schleichert
+|birth_date       = {{Birth date|1935|7|30|df=y}}
+|death_date       = {{death date and age|2020|09|13|1935|7|30|df=y}}
+|school_tradition = 
+|main_interests   = [[political philosophy]]<br/>[[Chinese philosophy]]
+|notable_ideas    = 
+|influences       = 
+|influenced       = 
+|signature        = 
+}}
+
+'''Hubert Schleichert''' (30 July 1935 in [[Vienna]] – [https://www.philosophie.uni-konstanz.de/fachbereich/aktuelles/details/zum-tod-von-prof-dr-hubert-schleichert/ 13 September 2020 in Munich] {{Webarchive|url=https://web.archive.org/web/20201009210722/https://www.philosophie.uni-konstanz.de/fachbereich/aktuelles/details/zum-tod-von-prof-dr-hubert-schleichert/ |date=9 October 2020 }}) was an [[Austria]]n [[emeritus]] philosopher (from [[Vienna]]).
+
+His works have emphasized [[political philosophy]], theory of [[Logical argument|argument]] and non-European philosophy, especially [[Chinese philosophy]].
+
+Working with Urs Egli, Schleichert contributed to [[erotetics]] (theory of questions) by assembling an [[annotated bibliography]] of works in philosophy, linguistics, automatic answering, and psychology/pedagogy.<ref>Urs Egli & Hubert Schleichert (1976) "Bibliography of the theory of questions and answers", pages 155 to 200 in ''The Logic of Questions and Answers'' by [[Nuel Belnap]] and Thomas B. Steel, [[Yale University Press]]</ref>
+
+== Bibliography ==
+* ''Die erkenntnislogischen Grundlagen der klassischen Physik'' (1963, with [[Bela Juhos]]) {{ISBN|3-428-00737-9}}
+* ''Elemente der physikalischen Semantik'' (1966)
+* ''Klassische Chinesische Philosophie. Eine Einführung'' (1990) {{ISBN|3-406-51124-4}}
+* ''Der Begriff des Bewußsteins. Eine Bedeutungsanalyse'' (1992) {{ISBN|3-465-02551-2}}
+* ''Wie man mit Fundamentalisten diskutiert, ohne den Verstand zu verlieren'' (1997) {{ISBN|3-465-02259-9}}
+* ''Logik und Denken'' (1998) {{ISBN|3-87940-005-9}}
+* ''Von Platon bis Wittgenstein. Ein philosophisches Lesebuch'' (1998)  {{ISBN|3-406-42145-8}}
+* ''Fritz Mauthner. Das Werk eines kritischen Denkers'' (1999, with [[Elisabeth Leinfellner]]) {{ISBN|3-205-98433-1}}
+==References==
+{{Reflist}}
+* [https://philpapers.org/s/hubert%20schleichert Hubert Schleichert] at [[PhilPapers]]
+
+{{Authority control}}
+{{DEFAULTSORT:Schleichert, Hubert}}
+[[Category:1935 births]]
+[[Category:2020 deaths]]
+[[Category:20th-century Austrian philosophers]]
+[[Category:Academics from Vienna]]
+
+
+{{austria-philosopher-stub}}

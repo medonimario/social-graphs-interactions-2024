@@ -1,0 +1,42 @@
+{{Short description|American philosopher (1873–1953)}}
+{{Use mdy dates|date=April 2023}}
+{{Other people||William Montague (disambiguation){{!}}William Montague}}
+'''William Pepperell Montague''' (11 November 1873 – 1 August 1953) was an [[Americans|American]] [[philosopher]] of the [[New realism (philosophy)|New Realist]] school. Montague stressed the difference between his philosophical peers as adherents of either "objective" and "[[critical realism (philosophy of perception)|critical realism]]".
+
+Montague was born in [[Chelsea, Massachusetts]]. He earned his bachelors, masters, and doctorate from [[Harvard University]].<ref>{{Cite journal|url=https://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&fp=apapa&id=apapa_2013_0143_0146_705|title=Biography: William Pepperell Montague|first=Richard T.|last=Hull|date=1 January 2013|journal=The American Philosophical Association Centennial Series|pages=143–146|accessdate=7 April 2023|via=www.pdcnet.org|doi=10.5840/apapa2013705}}</ref>  He was professor of philosophy at [[UC Berkeley]] between 1899 and 1903, and at [[Columbia University]] from 1903 to 1947. He was president of the [[American Philosophical Association]]'s eastern division in the years 1923–1924.<ref>{{cite web|url=http://www.pragmatism.org/dmap/names_generations.htm |title=Entries in the Dictionary of Modern American Philosophers |accessdate=2008-10-13 |url-status=dead |archiveurl=https://web.archive.org/web/20080820203836/http://www.pragmatism.org/dmap/names_generations.htm |archivedate=August 20, 2008 }}</ref><ref>{{cite web|url=http://www.pragmatism.org/dmap/apa_presidents.htm |title=Chronological list of Presidents of The American Philosophical Association, 1901–2000 |accessdate=2008-10-13 |url-status=dead |archiveurl=https://web.archive.org/web/20080820203719/http://www.pragmatism.org/dmap/apa_presidents.htm |archivedate=August 20, 2008 }}</ref> He died in [[New York City]].
+
+Montague was an advocate of [[panpsychism]] and proposed his own variant known as hylopsychism which developed the connection between energy and mind, contending that the physical manifestation of mind occurs as potential energy.<ref>Skrbina, David. (2017). ''Panpsychism in the West''. MIT Press. pp. 195-196</ref>
+
+==Works==
+*[http://www.ditext.com/montague/montague.html "PROFESSOR ROYCE'S REFUTATION OF REALISM"], ''Philosophical Review'' 11 (1902): 43–55.
+*[[Edwin Holt|Holt, Edwin B]]; [[Walter Taylor Marvin|Marvin, Walter T]]; Montague, William P; [[Ralph Barton Perry|Perry, Ralph B]]; [[Walter B. Pitkin|Pitkin, Walter B]]; [[Edward Gleason Spaulding|Spaulding, Edward G]]. [https://archive.org/details/newrealismcooper00marviala ''The New Realism: Cooperative Studies in Philosophy''], (1912)
+*''The Ways of Knowing or the Methods of Philosophy'' (1925)
+*''Belief Unbound, a Promethean Religion for the Modern World'' (1930)
+*WP Montague and GP Adams, eds. ''Contemporary American Philosophy: Personal Statements'' (1930). Two Volumes. [https://archive.org/details/contemporaryamer032114mbp Vol. II]
+*''The Chances of Surviving Death'' (1934)<ref>Thurman, Howard. (1934) [https://www.journals.uchicago.edu/doi/abs/10.1086/481526 "The Chances of Surviving Death by William Pepperell Montague"]. ''[[The Journal of Religion]]'' 14 (4): 485.</ref> 
+*[https://archive.org/details/waysofthingsphil00mont ''The Ways of Things: A Philosophy of Knowledge, Nature and Value''] (1940)
+*''Great Visions of Philosophy'' (1950)
+
+==See also==
+{{portal|Biography|Philosophy}}
+*[[American philosophy]]
+*[[Kratocracy]]
+*[[List of American philosophers]]
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Montague, William Pepperell}}
+[[Category:20th-century American philosophers]]
+[[Category:Columbia University faculty]]
+[[Category:Writers from Chelsea, Massachusetts]]
+[[Category:1873 births]]
+[[Category:1953 deaths]]
+[[Category:Harvard College alumni]]
+[[Category:Panpsychism]]
+[[Category:University of California, Berkeley faculty]]
+
+
+{{US-philosopher-stub}}

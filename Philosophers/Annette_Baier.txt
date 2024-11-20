@@ -1,0 +1,70 @@
+{{short description|New Zealand philosopher}}
+{{Use dmy dates|date=July 2019}}
+{{Infobox philosopher
+ | image           = Annette Baier 002 (cropped).jpg
+ | caption         = Baier in 2008
+ | region          = [[Western philosophy]]
+ | era             = [[Contemporary philosophy]]
+ | name          = Annette Baier
+|birth_name=Annette Claire Stoop
+| birth_date    = 11 October 1929 
+| birth_place   = [[New Zealand]]
+| death_date    = {{Death date and age|2012|11|2|1929|11|10|df=y}}
+| death_place   = Dunedin, [[New Zealand]]
+| school_tradition = [[Analytic philosophy]]|
+  main_interests   = [[Ethics]], [[feminist philosophy]], [[philosophy of mind]]|
+  notable_ideas = Giving [[Trust (emotion)|trust]] a significant role in ethics|
+|alma_mater=[[University of Otago]]<br>[[Somerville College, Oxford]]
+}}
+'''Annette Claire Baier''' ([[née]] '''Stoop'''; 11 October 1929 – 2 November 2012)<ref>{{Cite web |url=https://www.utimes.pitt.edu/archives/?p=23544 |title=Obituary: Annette C. Baier |date=2012-11-21 |website=University Times |publisher=University of Pittsburgh |language=en |access-date=2019-04-18}}</ref><ref>{{Cite web |url=http://www.humesociety.org/archive/inMemoriam.asp |title=Archives: In Memoriam, 1992 - 2013 |website=Hume Society |access-date=2019-04-18 |archive-url=https://web.archive.org/web/20181010011401/http://www.humesociety.org/archive/inMemoriam.asp |archive-date=10 October 2018 |url-status=dead }}</ref> was a New Zealand [[philosopher]] and [[David Hume|Hume]] scholar, focused in particular on Hume's [[moral psychology]]. She was well known also for her contributions to [[feminist philosophy]] and to the philosophy of mind, where she was strongly influenced by her former colleague, [[Wilfrid Sellars]].
+
+==Biography==
+Baier earned bachelor's and master's degrees at the [[University of Otago]] in her native [[Dunedin]], [[New Zealand]]. In 1952 she went to [[Somerville College, Oxford]], where she earned her PhD and met fellow philosophers [[Philippa Foot]] and [[G.E.M. Anscombe]]. For most of her career she taught in the philosophy department at the [[University of Pittsburgh]], having moved there from [[Carnegie Mellon University]]. She retired to Dunedin.
+
+She was former President of the Eastern Division of the [[American Philosophical Association]], an office reserved for the elite of her profession. Baier received an honorary Doctor of Literature from the University of Otago in 1999.
+
+Her husband was the philosopher [[Kurt Baier]].
+
+==Ethics==
+Baier's approach to ethics is that women and men make their decisions about right and wrong based on different value systems: men take their moral decisions according to an idea of [[justice]], while women are motivated by a sense of [[Trust (emotion)|trust]] or [[ethics of care|caring]]. The history of philosophy having been overwhelmingly compiled by men, she suggests, leads to a body of thought which apparently ignores the role of nurture and trust in human philosophy.<ref>[http://www.open2.net/historyandthearts/philosophy_ethics/baier.html Annette Baier (1929 -)] {{Webarchive|url=https://web.archive.org/web/20110927053828/http://www.open2.net/historyandthearts/philosophy_ethics/baier.html |date=27 September 2011 }} from [http://www.open2.net Open2.net] {{Webarchive|url=https://web.archive.org/web/20110927053828/http://www.open2.net/historyandthearts/philosophy_ethics/baier.html |date=27 September 2011 }}</ref>
+
+==Bibliography==
+=== Books ===
+* {{cite book | last = Baier | first = Annette | title= Postures of the Mind: Essays on Mind and Morals | date = 1985 }} 
+* {{cite book | last = Baier | first = Annette | title= A Progress of Sentiments: Reflections on Hume's Treatise | url = https://archive.org/details/progressofsentim0000baie | url-access = registration | date = 1991 }} 
+* {{cite book | last = Baier | first = Annette | title= Moral Prejudices | url = https://archive.org/details/moralprejudicese00baie | url-access = registration | date = 1995 | publisher = Harvard University Press | isbn = 9780674587151 }}, including especially "What Do Women Want in an Ethical Theory?" and "The Need For More Than Justice".
+* {{cite book | last = Baier | first = Annette | title= The Commons of the Mind | series = [[Paul Carus lectures]] | date = 1997 }} 
+* {{cite book | last = Baier | first = Annette | title= Death and Character: Further Reflections on Hume | publisher = Harvard University Press | date = 2008 }} 
+* {{cite book | last = Baier | first = Annette | title= Reflections on How We Live | publisher = Oxford University Press | date = 2009 }}
+* {{cite book | last = Baier | first = Annette | title= The Pursuits of Philosophy: An Introduction to the Life and Thought of David Hume | publisher = Harvard University Press | date = 2011 }}
+
+=== Chapters in books ===
+* {{citation | last = Baier | first = Annette | contribution = Knowing Our Place in the Animal World | editor-last1 = Miller | editor-first1 = Harlan B. | editor-last2 = Williams | editor-first2 = William H. | title = Ethics and Animals | publisher = Humana Press | pages = 61–77 | location = Clifton, New Jersey | year = 1983 | isbn = 978-0-89603-053-4 | postscript = .}}
+* {{citation | last = Baier | first = Annette | contribution = The Need for More Than Justice | editor-last1 = Cudd | editor-first1 = Ann E. | editor-last2 = Andreasen | editor-first2 = Robin O. | editor-link1 = Ann Cudd | title = Feminist theory: a philosophical anthology | publisher = Blackwell Publishing | pages = 243–250 | location = Oxford, UK Malden, Massachusetts | year = 2005 | isbn = 9781405116619 | postscript = .}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+*''[https://tannerlectures.utah.edu/_documents/a-to-z/b/baier92.pdf Trust] {{Webarchive|url=https://web.archive.org/web/20190801120244/https://tannerlectures.utah.edu/_documents/a-to-z/b/baier92.pdf |date=1 August 2019 }}''  1991 [[Tanner Lectures on Human Values|Tanner Lecture]] by Annette Baier
+*''[https://www.utimes.pitt.edu/archives/?p=23544 Obituary: Annette C. Baier]'' in the ''University Times'' of the [[University of Pittsburgh|University Of Pittsburgh]]
+* ''[https://web.archive.org/web/20181010011401/http://www.humesociety.org/archive/inMemoriam.asp Annette Baier, 1929-2012] In Memoriam'' posted by The Hume Society
+
+{{Authority control}}
+
+{{DEFAULTSORT:Baier, Annette}}
+[[Category:1929 births]]
+[[Category:2012 deaths]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:Writers from Dunedin]]
+[[Category:New Zealand philosophers]]
+[[Category:University of Otago alumni]]
+[[Category:Alumni of Somerville College, Oxford]]
+[[Category:Hume scholars]]
+[[Category:Moral psychologists]]
+[[Category:New Zealand women philosophers]]
+[[Category:Animal welfare scholars]]
+[[Category:Philosophers from Pennsylvania]]
+[[Category:New Zealand women writers]]

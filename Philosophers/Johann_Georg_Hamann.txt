@@ -1,0 +1,132 @@
+{{Short description|German philosopher (1730–1788)}}
+{{more footnotes needed|date=November 2013}}
+{{Infobox philosopher
+| region      = [[Western philosophy]]
+| era         = [[18th-century philosophy]]
+| image       = Johann Georg Hamann (1730 –1788).jpg
+| caption     =
+| name        = Johann Georg Hamann
+| birth_date  = {{Birth date|1730|8|27|df=y}}
+| birth_place = [[Königsberg]], [[Kingdom of Prussia]]
+| death_date  = {{death date and age|1788|6|21|1730|8|27|df=y}}
+| death_place = [[Münster]], [[Prince-Bishopric of Münster]], [[Holy Roman Empire]]
+| alma_mater  = [[University of Königsberg]]<br />(1746–1751/52; no degree)
+| school_tradition = [[German idealism|Post-Kantian]]<br />[[Counter-Enlightenment]]<br />''[[Sturm und Drang]]''
+| main_interests   = {{startplainlist}}
+* [[Aesthetics]]
+* [[Epistemology]]
+* [[Philosophy of language]]
+* [[Philosophy of mind]]
+* [[Philosophy of history]]
+* [[Political philosophy]]
+{{endplainlist}}
+| influences = [[William of Ockham]], [[Martin Luther|Luther]], [[John Calvin|Calvin]], [[David Hume|Hume]], [[Martin Knutzen|Knutzen]]<ref>O'Flaherty 1979, p. 19.</ref>
+| influenced = [[Johann Wolfgang von Goethe|Goethe]], [[Georg Wilhelm Friedrich Hegel|Hegel]], [[Johann Gottfried Herder|Herder]], [[Friedrich Heinrich Jacobi|Jacobi]], [[Søren Kierkegaard|Kierkegaard]], [[John Milbank|Milbank]], [[Friedrich Wilhelm Joseph Schelling|Schelling]], [[Christian Jakob Kraus|Kraus]],<ref>Garrett Green, ''Theology, Hermeneutics, and Imagination: The Crisis of Interpretation at the End of Modernity'', Cambridge University Press, 2000, p. 53.</ref> [[Ludwig Wittgenstein|Wittgenstein]],<ref>{{cite web|url=https://www.nordicwittgensteinreview.com/article/view/3467 |title=Hamann's Influence on Wittgenstein |publisher=Nordic Wittgenstein Review |date=2018-06-26 |accessdate=2022-04-11}}</ref> [[Isaiah Berlin|Berlin]]
+| notable_ideas = "Reason is language" ("Vernunft ist Sprache")<ref name="Brief"/>
+}}
+'''Johann Georg Hamann''' ({{IPAc-en|ˈ|h|ɑː|m|ɑː|n}}; {{IPA|de|ˈhaːman|lang}}; 27 August 1730 – 21 June 1788) was a German [[Lutheranism|Lutheran]] philosopher from [[Königsberg]] known as "the Wizard of the North" who was one of the leading figures of [[German idealism|post-Kantian philosophy]]. His work was used by his student [[Johann Gottfried Herder|J. G. Herder]] as the main support of the ''[[Sturm und Drang]]'' movement, and is associated with the [[Counter-Enlightenment]] and [[Romanticism]].<ref>[[Isaiah Berlin]], ''[[Three Critics of the Enlightenment: Vico, Hamann, Herder]]'', London and Princeton, 2000.</ref><ref>{{Cite book|title=The Magus of the North: J. G. Hamann and the Origins of Modern Irrationalism|last=Berlin|first=Isaiah|publisher=Farrar, Straus and Giroux|year=1993|isbn=978-0-374-19657-8|location=New York|url=https://archive.org/details/magusofnorthjgha00berlrich}}</ref>
+
+He introduced [[Immanuel Kant|Kant]], also from Königsberg, to the works of both [[David Hume|Hume]] – waking him from his "dogmatic slumber" – and [[Jean-Jacques Rousseau|Rousseau]]. Hamann was influenced by Hume, but he used his views to argue for rather than against Christianity.<ref name="Griffith2017">{{Citation|last=Griffith-Dickson|first=Gwen|title=Johann Georg Hamann|date=2017|url=https://plato.stanford.edu/archives/fall2017/entries/hamann/|encyclopedia=The Stanford Encyclopedia of Philosophy|editor-last=Zalta|editor-first=Edward N.|edition=Fall 2017|publisher=Metaphysics Research Lab, Stanford University|access-date=2020-01-22}}</ref>
+
+[[Johann Wolfgang von Goethe|Goethe]] and [[Søren Kierkegaard|Kierkegaard]] were among those who considered him to be the finest mind of his time.<ref>{{Cite journal|last=Betz|first=John|date=January 2009|title=Reading "Sibylline Leaves": J. G. Hamann in the History of Ideas|journal=Journal of the History of Ideas|volume=70|issue=1|pages=94–95|doi=10.1353/jhi.0.0025 |jstor=40208092}}</ref> He was also a key influence on [[G. W. F. Hegel|Hegel]] and [[Friedrich Jacobi|Jacobi]].<ref>{{cite web|url=https://www.britannica.com/biography/Johann-Georg-Hamann|title=Johann Georg Hamann {{!}} German philosopher|website=Encyclopedia Britannica|language=en|access-date=2020-01-22}}</ref> Long before the [[linguistic turn]], Hamann believed [[epistemology]] should be replaced by the [[philosophy of language]].
+
+==Early life==
+[[File:Johann Georg Hamann.jpg|thumb|Johann Georg Hamann (20th century drawing)]]
+Hamann was born on 27 August 1730 in Königsberg (now [[Kaliningrad]], Russia). Initially he studied theology at the [[University of Königsberg]],<ref>W. M. Alexander, ''Johann Georg Hamann Philosophy and Faith'', Springer, 2012 : "Hamann left the University in 1751 or as late as 1752 without taking a degree."</ref> but became a clerk in a mercantile house and afterward held many small public offices, devoting his leisure to reading philosophy.<ref name=AmCyc/> His first publication was a study in political economy about a dispute on nobility and trade.<ref>Christoph Meineke: „Die Vortheile unserer Vereinigung“: Hamanns Dangeuil-Beylage im Lichte der Debatte um den handeltreibenden Adel. [In German] In: ''[http://www.degruyter.com/view/books/9783110290721/9783110290721.46/9783110290721.46.xml Beetz, Manfred / Rudolph, Andre (Ed.). Johann Georg Hamann: Religion und Gesellschaft (2012)]'', pp. 46–64.</ref>  He wrote under the [[pen name]] of "the Magus of the North" ({{langx|de|Magus im Norden}}).<ref name=AmCyc/> Hamann was a believer in the Enlightenment until a mystical experience in [[London]] in 1758. There, he underwent a profound Christian conversion, reorienting his whole life and philosophy around the prophetic illuminating power of the Bible. This shift influenced all his subsequent work, shaping his views of nature, reason, and human identity.<ref>See John R. Betz, [https://journals.sagepub.com/doi/pdf/10.1177/106385120501400205 "Hamann's London Writings: The Hermeneutics of Trinitarian Condescenscion."] ''Pro Ecclesia'', 14, no. 2 (2005): 194-195.</ref>
+
+His translation of [[David Hume]] into German is considered by most scholars to be the one that Hamann's friend Immanuel Kant, also from [[Königsberg]], credited with awakening him from his "dogmatic slumber". Hamann and Kant held each other in mutual respect, although Hamann once declined an invitation by Kant to co-write a [[physics]] textbook for children.<ref>See John R. Betz, ''After Enlightenment: The Post-Secular Vision of J.G. Hamann'' (London: Wiley-Blackwell, 2012), 36-37.</ref> Hamann also introduced Kant to the work of [[Rousseau]].<ref name="IEP Hamann">{{cite web |title=Johann Georg Hamann (1730—1788) |url=https://www.iep.utm.edu/hamann/ |website=Internet Encyclopedia of Philosophy |access-date=13 June 2020}}</ref>
+
+=== Music ===
+Hamann was a [[lutenist]], having studied this instrument with [[Timofiy Bilohradsky]] (a student of [[Sylvius Leopold Weiss]]), a Ukrainian virtuoso then living in Königsberg.
+
+==Philosophical views==
+His distrust of autonomous, disembodied [[reason]] and [[the Enlightenment]] ("I look upon logical proofs the way a well-bred girl looks upon a love letter" was one of his many witticisms) led him to conclude that faith in [[God]] was the only solution to the vexing problems of [[philosophy]].
+
+One of Kant's biographers compared him with Hamann: {{Blockquote|Kant made reason the rule of his life and the source of his philosophy; Hamann found the source of both in his heart. While Kant dreaded enthusiasm in religion, and suspected in it superstition and fanaticism, Hamann reveled in enthusiasm; and he believed in revelation, miracles, and worship, differing also in these points from the philosopher. In some respects they complemented each other; but the repelling elements were too strong to make them fully sympathetic. The difference in their stand-points, however, makes Hamann’s views of Kant all the more interesting.<ref>{{cite book|url=https://archive.org/details/lifeimmanuelkan00stucgoog|last=Stuckenberg|first=J. H. W.|title=The Life of Immanuel Kant|location= London|publisher=Macmillan|date=1882|page=[https://archive.org/details/lifeimmanuelkan00stucgoog/page/n226 202]}}</ref>|sign=|source=}}
+
+In Hamann's own terms Kant was a "[[Platonism|Platonist]]" about reason, believing it disembodied, and Hamann an "[[Aristotelianism|Aristotelian]]" who believed it was embodied.{{citation needed|date=June 2020}} Hamann was greatly influenced by Hume. This is most evident in Hamann's conviction that faith and belief, rather than knowledge, determine human actions.<ref name="IEP Hamann"/> Also, Hamann asserted that the efficacy of a concept arises from the habits it reflects rather than any inherent quality it possesses.
+
+=== Works ===
+Hamann's writings consist of small essays. They display two striking tendencies. The first is their brevity, in comparison with works by his contemporaries.<ref name="Griffith2017"/> The second is their breadth of allusion and delight in extended analogies.<ref name="Griffith2017"/> His work was also significantly reactive; rather than advance a "position" of his own, his principal mode of thinking was to respond to others' work.<ref name="Griffith2017"/> For example, his work ''Golgotha and Scheblimini! By a Preacher in the Wilderness'' (1784) was directed against [[Moses Mendelssohn]]'s ''Jerusalem, or on Religious Might and Judaism'' (1782).<ref name="Rosenstock2010">{{cite book |title=Philosophy and the Jewish Question |author=Bruce Rosenstock |publisher=Fordham University Press |location=New York |year=2010 |page=29}}</ref>
+
+Hamann famously used the image of [[Socrates]], who often proclaimed to know nothing, in his ''Socratic Memorabilia'', an essay in which Hamann critiques the Enlightenment's dependence on reason. In ''Aesthetica in nuce'', Hamann counters the Enlightenment by emphasizing the importance of aesthetic experience and the role of genius in intuiting nature.
+
+====Editions====
+Fragments of his writings were published by Cramer, under the title of ''Sibyllinische Blätter des Magus aus Norden'' (1819), and a complete edition by Roth (7 vols., 1821–25, with a volume of additions and explanations by Wiener, 1843). ''Hamann's des Magus in Norden Leben und Schriften'', edited by Gildemeister, was published in 5 vols., 1857–68, and a new edition of his ''Schriften und Briefen'', edited by Petri, in 4 vols., 1872–74.<ref name=AmCyc>{{AmCyc|wstitle=Hamann, Johann Georg |short=x|inline=1}}</ref>
+
+===God===
+Hamann argued that the [[communicatio idiomatum]], namely, the communication of divine messages through material embodiments, applies not just to Christ, but should be generalised to cover all human action: "This communicatio of divine and human idiomatum is a fundamental law and the master-key of all our knowledge and of the whole visible economy."<ref>{{citation|last1=Hamann|first1=Johann|editor1-last=Haynes|editor1-first=Kenneth|title=Writings on Philosophy and Language|url=https://books.google.com/books?id=VjlOPgAACAAJ|accessdate=2012-12-06|year=2007|publisher=[[Cambridge University Press]]|location=Leiden|isbn=978-0-511-34139-7|page=99}}</ref>
+Hamann believed all of creation were [[Sign (semiotics)|signs]] from God for us to interpret.<ref>{{cite book |last1=Beiser |first1=Frederick C. |title=The Fate of Reason: German Philosophy from Kant to Fichte |date=15 October 1993 |publisher=Harvard University Press |isbn=9780674295032 |page=20}}</ref>
+
+===Reason is language===
+His most notable contributions to philosophy were his thoughts on language, which have often been considered as a forerunner to the linguistic turn in analytic philosophy such as [[Ludwig Wittgenstein|Wittgenstein]]'s. He famously said that "Reason is language" ("Vernunft ist Sprache").<ref name="Brief">Johann Georg Hamann, ''Brief an Herder'', v. 8. August 1784, in: Johann Georg Hamann, ''Briefwechsel'', 7 vols., Arthur Henkel (ed.), Wiesbaden: Insel Verlag, 1955–75, vol. 5, p. 177.</ref> Hamann thought the bridge between Kant's [[Noumenon|noumenal]] and [[Phenomenon|phenomenal]] realms was language, with its noumenal [[Meaning (linguistics)|meaning]] and phenomenal [[Letter (alphabet)|letters]].
+
+==Legacy==
+Hamann was one of the precipitating forces for the [[Counter-Enlightenment]]. He was, moreover, a mentor to [[Johann Gottfried Herder|Herder]] and an admired influence on Goethe, [[Friedrich Heinrich Jacobi|Jacobi]], [[Georg Wilhelm Friedrich Hegel|Hegel]], [[Søren Kierkegaard|Kierkegaard]], [[Gotthold Ephraim Lessing|Lessing]], and [[Moses Mendelssohn|Mendelssohn]]. [[Roman Catholic Church|Roman Catholic]] theologian [[Hans Urs von Balthasar]] devoted a chapter to Hamann in his volume, ''Studies in Theological Styles: Lay Styles'' (Volume III in the English language translation of ''The Glory of the Lord'' series). Most recently, Hamann's influence can be found in the work of the theologians [[Oswald Bayer]] ([[Lutheranism|Lutheran]]), [[John Milbank]] ([[Anglicanism|Anglican]]), and [[David Bentley Hart]] ([[Eastern Orthodox Church|Eastern Orthodox]]). Finally, in [[Charles Taylor (philosopher)|Charles Taylor]]'s important summative work, ''The Language Animal: The Full Shape of the Human Linguistic Capacity'' (Taylor, 2016),<ref>Taylor, Charles (2016) ''The Language Animal: The Full Shape of the Human Linguistic Capacity''. Cambridge, Massachusetts: Harvard University Press.</ref>  Hamann is given credit, along with [[Wilhelm von Humboldt]] and Herder, for inspiring Taylor's "HHH" approach to the philosophy of language, emphasizing the creative power and cultural specificity of language.
+
+However, recent scholarship, such as that by Bayer, contradicts the usual interpretation by people such as historian of ideas [[Isaiah Berlin]], and describes Hamann as a "radical Enlightener" who vigorously opposed dogmatic rationalism in matters of philosophy and faith.<ref>{{Cite book|title=After Enlightenment: The Post-Secular Vision of J. G. Hamann|last=Betz|first=John|publisher=Wiley-Blackwell|year=2012|isbn=978-0-470-67492-5|location=Chicester|page=2}}</ref> Bayer views him as less the proto-Romantic that Herder presented, and more a premodern-postmodern thinker who brought the consequences of Lutheran theology to bear upon the burgeoning Enlightenment and especially in reaction to [[Immanuel Kant|Kant]].<ref>Bayer, Oswald. A Contemporary in Dissent: Johann Georg Hamann as a Radical Enlightener. Roy A. Harrisville & Mark C. Mattes, trans. Grand Rapids: Eerdmans, 2010.</ref>
+
+==See also==
+*{{annotated link|Arche-writing}}
+
+==References==
+{{Reflist|2}}
+
+==Sources==
+{{refbegin}}
+* Isaiah Berlin; [[Henry Hardy]] (ed.) ''The Magus of the North: J. G. Hamann and the Origins of Modern Irrationalism'', London, John Murray, 1993, {{ISBN|0-719-55312-1}} 
+* Isaiah Berlin; Henry Hardy (ed.) ''[[Three Critics of the Enlightenment: Vico, Hamann, Herder]]'', London and Princeton, 2000, {{ISBN|0-691-05726-5}}
+* Dickson, Gwen Griffith, ''Johann Georg Hamann's Relational Metacriticism'' (contains English translations of ''Socratic Memorabilia'', ''Aesthetica in Nuce'', a selection of essays on language, ''Essay of a Sibyl on Marriage'' and ''Metacritique of the Purism of Reason''), [[Walter de Gruyter]], 1995. {{ISBN|3-11-014437-9}}
+* Forster, Michael N., ''After Herder: Philosophy of Language in the German Tradition'', Oxford University Press, 2010, ch. 8–9.
+* [[David Bentley Hart]], [http://www.firstthings.com/article/2005/01/the-laughter-of-the-philosophers "The Laughter of the Philosophers"], ''First Things''. January 2005.
+* Kenneth Haynes (ed.), ''Hamann: Writings on Philosophy and Language'' (Cambridge Texts in the History of Philosophy), Cambridge University Press, 2007, {{ISBN|978-0-521-81741-7}}
+* James C. O'Flaherty, ''Unity and Language: A Study in the Philosophy of Hamann'', University of North Carolina, 1952;
+* James C. O'Flaherty, ''Hamann's Socratic Memorabilia: A Translation and Commentary'', Johns Hopkins Press, 1967; Library of Congress Catalog Card No. 67-12424;
+* James C. O'Flaherty, ''Johann Georg Hamann'', Twayne Publishers, 1979, {{ISBN|0-8057-6371-6}};
+* James C. O'Flaherty, ''The Quarrel of Reason with Itself: Essays on Hamann, Michaelis, Lessing, Nietzsche'', Camden House, 1988, {{ISBN|0-938100-56-4}}
+{{refend}}
+
+==Further reading==
+* Alkire, Brian (2021). ''The Last Mask: Hamann's Theater of the Grotesque''. Zürich: Diaphanes, 2021 {{ISBN|978-3-0358-0370-9}}
+* Anderson, Lisa Marie (ed.). ''Hamann and the Tradition''. Illinois: Northwestern University Press, 2012 {{ISBN|978-0810127982}}
+* Alexander, W. M. (1966). ''Johann Georg Hamann: Philosophy and Faith''. The Hague: Martinus Nijhoff.
+* Bayer, Oswald. (2012). ''A Contemporary in Dissent: Johann Georg Haman as a Radical Enlightener''. Translated by Roy A. Harrisville and Mark C. Mattes. Grand Rapids: Eerdmans. {{ISBN|978-0802866707}}
+* Beiser, Frederick (1987). ''The Fate of  Reason: German Philosophy from Kant to Fichte''. Cambridge Mass.: Harvard University Press {{ISBN|0-674-29502-1}}
+* Betz, John (2009). ''After Enlightenment: The Post-Secular Vision of J.G. Hamann''. Oxford: Wiley Blackwell {{ISBN|978-1-4051-6246-3}}
+* Cattarini, L.S. (2018) ''Beyond Sartre and Sterility'', contains introductory article on Hamann (Magus of the North) {{ISBN|978-0-9739986-1-0}} 
+* Milbank, John. (1999) "The Theological Critique of Philosophy in Hamann and Jacobi." In ''Radical Orthodoxy''. Edited by John Milbank, Catherine Pickstock, and Graham Ward. London: Routledge. 21–37.
+* O'Flaherty, James C. (1979) ''Johann Georg Hamann''. Boston: Twayne. {{ISBN|978-0805763713}}
+* Smith, Ronald Gregor (1960). [https://archive.org/stream/jghamann17301788013654mbp#page/n3/mode/2up ''J.G. Hamann 1730–1788: A Study in Christian Existence'']. New York: Harper & Brothers.
+* Sparling, Robert Alan (2011). ''Johann Georg Hamann and the Enlightenment Project''. Toronto: University of Toronto Press {{ISBN|978-1-4426-4215-7}}
+
+==External links==
+{{EB1911 poster|Hamann, Johann Georg}}
+* {{wikiquote-inline}}
+* {{Internet Archive author |sname=Johann Georg Hamann}}
+* {{Librivox author |id=267}}
+* {{cite SEP |url-id=hamann |title=Johann Georg Hamann}}
+* [https://archive.org/details/memoirseminentt00barngoog ''Memoirs of Eminent Teachers and Educators: With Contributions to the History of Education in Germany''] (1878) Brown & Goss p.&nbsp;533ff Retrieved May 23, 2012
+* [http://jonathangray.org/2009/06/10/the-magus-in-new-york/ Notes on international conference on Hamann in March 2009] Retrieved May 18, 2012
+* [http://www.hamann-briefe.de/ Hamann Briefe] Letters
+* [http://jonathangray.org/2012/07/23/hamann-nietzsche-and-wittgenstein-on-the-language-of-philosophers/ Hamann, Nietzsche, and Wittgenstein on the Language of Philosophers] - open access post-print version of chapter from ''Hamann and the Tradition'' (Illinois: Northwestern University Press, 2012), p.&nbsp;104-121.
+* [https://web.archive.org/web/20160505160045/http://ionas-editions.com/en/2016/04/22/1762-j-g-hamann-aesthetica-in-nuce-trad-h-corbin-2/ Read online, French translation by Henry Corbin (1939) of ''Aesthetica In Nuce'']
+* [https://web.archive.org/web/20160605143600/http://ionas-editions.com/fr/texts-by-and-on-j-g-hamann-international-bibliography/ International Bibliography] of works by and on Hamann, on Éditions Ionas website.
+* {{Cite book|publisher=Verlegt bei Eugen Diederichs|last= Hamann|first=  Johann Georg|title= Sibyllinische Blätter des Magus |place= Jena und Leipzig|year= 1905|url= https://gutenberg.beic.it/webclient/DeliveryManager?pid=3987569}}
+
+{{Confessional Lutheran Revivals}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hamann, Johann Georg}}
+[[Category:1730 births]]
+[[Category:1788 deaths]]
+[[Category:18th-century German Protestant theologians]]
+[[Category:German male non-fiction writers]]
+[[Category:Counter-Enlightenment]]
+[[Category:German lutenists]]
+[[Category:German Lutheran theologians]]
+[[Category:18th-century German philosophers]]
+[[Category:Hermeneutists]]
+[[Category:Writers from Königsberg]]
+[[Category:German philosophers of language]]
+[[Category:Sturm und Drang]]

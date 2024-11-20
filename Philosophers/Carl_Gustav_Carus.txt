@@ -1,0 +1,166 @@
+{{Short description|German painter}}
+{{Use dmy dates|date=December 2023}}
+{{Infobox artist
+| honorific_prefix = 
+| name             =  Carl Gustav Carus
+| honorific_suffix = 
+| image            = Carl Gustav Carus Gemälde von Johann Carl Rössler.jpg
+| image_size       = 
+| alt              = 
+| caption          = Portrait by [[Johann Carl Rößler]]
+| native_name      = 
+| native_name_lang = 
+| birth_name       = <!-- only use if different from name -->
+| birth_date       = {{birth date|1789|01|3|df=y}}
+| birth_place      = 
+| baptised         = <!-- will not display if birth_date is entered -->
+| death_date       = {{death date and age|1869|07|28|1789|01|3|df=y}}
+| death_place      = 
+| resting_place    = 
+| resting_place_coordinates = 
+| nationality      = <!-- use only when necessary per [[WP:INFONAT]] -->
+| education        = 
+| alma_mater       = 
+| known_for        = Painting 
+| notable_works    = 
+| style            = 
+| movement         = 
+| spouse           = 
+| partner          = 
+| children         =
+| parents          = 
+| father           = 
+| mother           = 
+| relatives        = 
+| family           = 
+| awards           = <!-- {{awd|award|year|title|role|name}} (optional) -->
+| elected          = 
+| patrons          = 
+| memorials        = 
+| website          = <!-- {{URL|Example.com}} -->
+| module           = 
+}}
+
+'''Carl Gustav Carus''' (3 January 1789 – 28 July 1869) was a German [[physiologist]] and painter, born in [[Leipzig]], who played various roles during the [[Romanticism|Romantic era]]. A friend of the writer [[Johann Wolfgang Goethe]], he was a many-sided man: a doctor, a naturalist, a scientist, a psychologist, and a landscape painter who studied under [[Caspar David Friedrich]].
+
+==Life and work==
+[[File:Carl Gustav Carus - Ruine Eldena mit Hütte bei Greifswald im Mondschein.jpg|thumbnail|Carl Gustav Carus - ''Ruine Eldena mit Hütte bei Greifswald im Mondschein'']]
+
+In 1811 he graduated as a doctor of medicine and a doctor of philosophy. In 1814 he was appointed professor of obstetrics and director of the maternity clinic at the teaching institution for medicine and surgery in [[Dresden]]. He wrote on art theory. From 1814 to 1817 he taught himself oil painting working under [[Caspar David Friedrich]], a [[Dresden]] landscape painter. Subsequently, he studied under [[Julius Schnorr von Carolsfeld]] at the [[Oeser]] drawing academy.
+
+When the King of Saxony, [[Frederick Augustus II of Saxony|Frederick Augustus II]], made an informal tour of Britain in 1844, Carus accompanied him as his personal physician. It was not a state visit, but the King, with Carus, was the guest of Queen Victoria and Prince Albert at Windsor Castle, and Carus was able to visit many of the sights in London and the university cities of Oxford and Cambridge, and meet others active in the field of scientific discoveries. They toured widely in England, Wales and Scotland, and afterwards Carus published, on the basis of his journal, ''The King of Saxony's Journey through England and Scotland, 1844''.<ref>C.G.Carus, ''The King of Saxony's Journey through England and Scotland, 1844'', english edition, London, Chapman and Hall, 1846</ref>
+[[File:The grave of Carl Gustav Carus, Trinitatis-friedhof, Dresden.jpg|thumb|200px|The grave of Carl Gustav Carus, Trinitatis-friedhof, Dresden]]
+He is best known to scientists for originating the concept of the [[vertebrate]] [[archetype]], a [[wikt:seminal|seminal]] idea in the development of [[Charles Darwin|Darwin's]] theory of [[evolution]]. In 1836, he was elected a foreign member of the [[Royal Swedish Academy of Sciences]].<ref name="Ellenberger">{{cite book |author=Ellenberger, Henri F. |title=The Discovery of the Unconscious: The History and Evolution of Dynamic Psychiatry |publisher=Basic Books |location=New York |year=1970 |pages=[https://archive.org/details/discoveryofuncon00ellerich/page/207 207] |isbn=978-0-465-01672-3 |url-access=registration |url=https://archive.org/details/discoveryofuncon00ellerich/page/207 }}</ref> Carus is also noted for ''Psyche'' (1846).<ref name="Whyte">{{cite book |author=Whyte, Lancelot Law |title=The Unconscious before Freud |publisher=Basic Books |location=New York |year=1960 |page=148 }}</ref>
+
+He developed a theory of landscape painting whose objective was the visualization of the inner workings of geological phenomena, which he called "Erdlebenbildkunst" (pictorial art of the life of the earth).<ref>{{Cite web|url=https://libmma.contentdm.oclc.org/digital/collection/p15324coll10/id/71300|title = B1005027 1}}</ref>
+
+[[Carl Jung]] credited Carus with pointing to the [[Unconscious spirit|unconscious]] as the essential basis of the [[Psyche (psychology)|psyche]].
+
+:Although various philosophers, among them [[Gottfried Wilhelm Leibniz|Leibniz]], [[Immanuel Kant|Kant]], and [[Friedrich Wilhelm Joseph Schelling|Schelling]], had already pointed very clearly to the problem of the dark side of the psyche, it was a physician who felt impelled, from his scientific and medical experience, to point to the ''unconscious'' as the essential basis of the psyche. This was C. G. Carus, the authority whom [[Eduard von Hartmann]] followed. (Jung [1959] 1969, par. 259)
+
+Carus died in Dresden. He is buried in the Trinitatis-Friedhof (Trinitatis Cemetery) east of the city centre. The grave lies in the south-west section, against the southern wall.
+
+==Family==
+
+His daughter Charlotte Carus married the artist [[Ernst Rietschel]].
+
+==Botanical Reference==
+
+{{botanist|Carus}}
+
+==Written works==
+[[File:Carl Gustav Carus Portrait.JPG|thumb|Carl Gustav Carus by [[Julius Hübner]]]]
+[[File:Carl Gustav Carus - Memory of a Wooded Island in the Baltic Sea(Oak trees by the Sea) - Google Art Project.jpg|thumbnail|Memory of a Wooded Island in the Baltic Sea (Oak trees by the Sea)]]
+
+;Zoology, entomology, comparative anatomy, evolution
+*''Lehrbuch der Zootomie'' (1818, 1834).
+*''Erläuterungstafeln zur vergleichenden Anatomie'' (1826–1855).
+*''Von den äusseren Lebensbedingungen der weiss- und kaltblütigen Tiere'' (1824).
+*''Über den Blutkreislauf der Insekten '' (1827).
+*''Grundzüge der vergleichenden Anatomie und Physiologie'' (1828).
+*''Lehrbuch der Physiologie für Naturforscher und Aerzte''  (1838)- also medical
+*''Zwölf Briefe über das Erdleben'' (1841).
+*''Natur und Idee oder das Werdende und sein Gesetz''. 1861.
+
+;Medical
+*''Lehrbuch der Gynekologie '' (1820, 1838).
+*''Grundzüge einer neuen Kranioskopie'' (1841).
+*''System der Physiologie'' (1847–1849).
+*''Erfahrungsresultate aus ärztlichen Studien und ärztlichen Wirken'' (1859).
+*''Neuer Atlas der Kranioskopie'' (1864).
+ 
+;Psychology, metaphysics, race, physiognomy
+*''Vorlesungen über Psychologie'' (1831).
+*''Psyche; zur Entwicklungsgeschichte der Seele'' (1846, 1851).
+*''Über Grund und Bedeutung der verschiedenen Formen der Hand in veschiedenen Personen'' (About the reason and significance of the various forms of hand in different persons)(1846).
+*''Über die ungleiche Befähigung der verschiedenen Menschenstämme für höhere geistige Entwicklung'' (About the unequal aptitude of the different human tribes for higher mental development)''(''1849).
+*''Physis. Zur Geschichte des leiblichen Lebens'' (1851).
+*''Denkschrift zum 100jährigen Geburtstagsfeste Goethes. Über ungleiche Befähigung der verschiedenen Symbolik der menschlichen Gestalt'' (1852, 1858).
+*''Über Lebensmagnetismus und über die magischen Wirkungen überhaupt'' (1857).
+*''Über die typisch gewordenen Abbildungen menschlicher Kopfformen'' (1863).
+*''Goethe dessen seine Bedeutung für unsere und die kommende Zeit'' (1863).
+*''Lebenserinnerungen und Denkwürdigkeiten'' – 4 volumes (1865–1866).
+*''Vergleichende Psychologie oder Geschichte der Seele in der Reihenfolge der Tierwelt'' (1866).
+
+;Art 
+*''Neun Briefe über Landschaftsmalerei. Zuvor ein Brief von Goethe als Einleitung'' (1819–1831).
+*''Die Lebenskunst nach den Inschriften des Tempels zu Delphi'' ( 1863).
+*''Betrachtungen und Gedanken vor auserwählten Bildern der Dresdener Galerie'' (1867).
+
+;Travel
+*[https://gutenberg.beic.it/webclient/DeliveryManager?pid=6202531 ''Sicilien und Neapel''] (1856).
+
+;Translations
+* Carus' translation of Dante Alighieri's ''Divine Comedy'', ''Paradise'', Canto I. at [https://www.academia.edu/44693408/Dante_Alighieri_Die_G%C3%B6ttliche_Kom%C3%B6die_Deutsch_von_Carl_Gustav_Carus_Paradies_1_Gesang academia.edu]
+
+==Art gallery==
+<gallery mode="packed-hover" heights="150px">
+File:Carl Gustav Carus - Das Kolosseum bei Mondschein - ca1830.jpeg|The [[Colosseum]] in Moonlight
+File:Carl Gustav Carus - The Imperial Castle - Google Art Project.jpg|The Imperial Castle
+File:CarusSorrent.JPG|In Memory of [[Sorrento]]
+File:Carl Gustav Carus - Blick auf Dresden bei Sonnenuntergang.jpg|View of Dresden at Sunset
+File:Carl Gustav Carus - Barge Trip on the Elbe near Dresden (Morning on the Elbe) - Google Art Project.jpg|Barge Trip on the Elbe near Dresden
+File:Carl Gustav Carus - Balkon in Neapel - Google Art Project.jpg|Balcony Room with a View of the [[Bay of Naples]], 1829 or 1830.
+File:Carl Gustav Carus - Italienischer Mondschein (Rom, Peterskirche im Mondschein).jpg|Italian Moonshine (Rome, St. Peter's in Moonshine)
+File:Carl Gustav Carus - Tintern Abbey.jpg|Tintern Abbey
+File:Carl Gustav Carus - Italienische Fischer im Hafen von Neapel.jpg|Italian Fishermen in Port
+File:Carl Gustav Carus - Segelschiff (ca.1820).jpg|Sailboat
+File:Carl Gustav Carus - Vollmond bei Pillnitz.jpg|Full Moon near [[Pillnitz]]
+File:Carl Gustav Carus - Woman on the Balcony - Google Art Project.jpg|Woman on the Balcony
+File:Carl Gustav Carus Stone Age Mound.jpg|Stone Age Mound
+File:Carl Gustav Carus - Das Atelierfenster.jpg|The Studio Window
+</gallery>
+
+==See also==
+* ''[[Philosophy of the Unconscious]]'' (von Hartmann)
+* [[List of German painters]]
+
+==References==
+{{reflist}}
+
+==Sources==
+* [[Carl Jung|Jung, C.G.]] ([1959] 1969). ''The Archetypes and the Collective Unconscious'', Collected Works, Volume 9, Part 1, Princeton, N.J.: Princeton University Press. {{ISBN|0-691-01833-2}}.
+*[http://www.all-art.org/history372-3.html "Carl GustavCarus"], ''Art History: Romanticism''
+*{{cite EB1911|wstitle=Carus, Karl Gustav|volume=5}}
+<!-- *{{Nuttall|title=Carus, Karl Gustav}} little of any value in this source -->
+
+==External links==
+* {{commons category-inline|Carl Gustav Carus}}
+* [http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/47142/rec/174 Caspar David Friedrich: Moonwatchers], a full text exhibition catalog from The Metropolitan Museum of Art, which contains material on Carl Gustav Carus (no. 10–11)
+* [http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/71300 German masters of the nineteenth century: paintings and drawings from the Federal Republic of Germany], a full text exhibition catalog from The Metropolitan Museum of Art, which contains material on Carl Gustav Carus (no. 11–12)
+* {{Cite book|publisher=Flammer und Hofmann|last= Carus|first=  Carl Gustav|title= Mnemosyne |place= Pforzheim|year= 1848|url= https://gutenberg.beic.it/webclient/DeliveryManager?pid=6203534}}
+* Carl Gustav Carus' translation of Dante Alighieri's Paradise, canto I, at [https://www.academia.edu/43476235/Dante_Alighieri_Die_G%C3%B6ttliche_Kom%C3%B6die._Deutsch_von_Carl_Gustav_Carus_-_Pardies_1._Gesang academia.edu] {{Webarchive|url=https://web.archive.org/web/20200701174052/https://www.academia.edu/43476235/Dante_Alighieri_Die_G%C3%B6ttliche_Kom%C3%B6die._Deutsch_von_Carl_Gustav_Carus_-_Pardies_1._Gesang |date=1 July 2020 }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Carus, Carl Gustav}}
+[[Category:1789 births]]
+[[Category:1869 deaths]]
+[[Category:Artists from the Kingdom of Saxony]]
+[[Category:German psychologists]]
+[[Category:19th-century German painters]]
+[[Category:German male painters]]
+[[Category:Presidents of the German National Academy of Sciences Leopoldina]]
+[[Category:Members of the Royal Swedish Academy of Sciences]]
+[[Category:19th-century German male artists]]
+[[Category:Scientists from Leipzig]]

@@ -1,0 +1,279 @@
+{{short description|Austrian/Czech physicist, philosopher and university educator (1838–1916)}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox scientist
+| name              = Ernst Mach
+| image             = Ernst Mach 01.jpg
+| caption           = 
+| birth_name        = Ernst Waldfried Josef Wenzel Mach
+| birth_date        = 18 February 1838
+| birth_place       = [[Brno]], [[Habsburg Moravia|Moravia]], [[Austrian Empire]]
+| death_date        = {{Death date and age|df=y|1916|2|19|1838|2|19}}
+| death_place       = [[Vaterstetten]], [[Kingdom of Bavaria|Bavaria]], [[German Empire]]
+| citizenship       = Austrian
+| fields            = [[Physicist]]
+| workplaces        = [[University of Graz]]<br/>[[Charles-Ferdinand University]] (Prague)<br/>[[University of Vienna]]
+| education         = [[University of Vienna]]<br/>(PhD, 1860; Dr. phil. hab, 1861)
+| doctoral_advisor  = [[Andreas von Ettingshausen]]
+| academic_advisors = 
+| doctoral_students = [[Heinrich Gomperz]]<br/>[[Ottokar Tumlirz]]
+| notable_students  = [[Andrija Mohorovičić]]
+| known_for         = [[Mach band]]<br/>[[Shock diamonds|Mach diamonds]]<br/>[[Mach number]]<br/>[[Mach reflection]]<br/>[[Mach wave]]<br/>[[Mach's principle]]<br/>Criticism of [[Isaac Newton|Newton]]'s [[bucket argument]]{{sfn|Mach|1919|p=227}}<br/>[[#Empirio-criticism|Empirio-criticism]]<br/>[[Oblique effect]]<br/>[[Relationalism]]<br/>[[Shock wave]]s<br>[[Stereokinetic stimulus]]
+| thesis_title      = Über elektrische Ladungen und Induktion
+| thesis_url        = 
+| thesis_year       = 1860
+| awards            = 
+| signature         = Ernst Mach Signature.svg
+| footnotes         = He was the godfather of [[Wolfgang Pauli]]. The [[Mach–Zehnder interferometer]] is named after his son [[Ludwig Mach]], who was also a physicist.
+}}
+
+'''Ernst Waldfried Josef Wenzel Mach''' ({{IPAc-en|m|ɑː|x}} {{respell|MAHKH}}; {{IPA|de|ɛʁnst ˈmax|lang}}; 18 February 1838 – 19 February 1916) was a [[physicist]] and philosopher from the [[Austrian Empire]], who contributed to the physics of [[shock wave]]s. The ratio of the speed of a flow or object to [[speed of sound|that of sound]] is named the [[Mach number]] in his honour. As a [[Philosophy of science|philosopher of science]], he was a major influence on [[logical positivism]] and [[American pragmatism]].{{sfn|Blackmore|1972|p= }} Through his criticism of [[Isaac Newton]]'s theories of space and time, he foreshadowed [[Albert Einstein]]'s [[theory of relativity]].{{sfn|Sonnert|2005|p=221}}
+
+==Biography==
+
+=== Early life ===
+Mach was born in Chrlice ({{langx|de|Chirlitz}}), [[Moravia]], [[Austrian Empire]] (part of [[Brno]], in the [[Czech Republic]]). His father, who had graduated from [[Charles-Ferdinand University]] in [[Prague]], acted as tutor to the noble Brethon family in [[Zlín]] in eastern Moravia. His grandfather, Wenzl Lanhaus, an administrator of the Chirlitz estate, was also master builder of the streets there. His activities in that field later influenced Ernst Mach's theoretical work. Some sources give Mach's birthplace as Tuřany ({{langx|de|Turas}}, also part of Brno), the site of the Chirlitz registry office. It was there that Mach was baptised by Peregrin Weiss. Mach later became a [[socialist]] and an [[atheist]],{{sfn|Cohen|Seeger|1975|p=158|ps=: And Mach, in personal conviction, was a socialist and an atheist.}} but his theory and life was sometimes compared to [[Buddhism]]. [[Heinrich Gomperz]] called Mach the "Buddha of Science" because of his [[phenomenalist]] approach to the "Ego" in his ''Analysis of Sensations''.{{sfn| Baatz|1992|pp=183–199}}{{sfn|Blackmore|1972 |loc=Chapter 18 – Mach and Buddhism|p=293|ps= : Mach was logically a Buddhist and illogically a believer in science.}}
+[[File:Ernst_Mach_Inner_perspective.jpg|thumb|Self-Portrait by Ernst Mach (1886) featured in "Analysis of Sensations", also known as "view from the left eye"]]
+Up to the age of 14, Mach was educated at home by his parents. He then entered a [[Gymnasium (school)|gymnasium]] in [[Kroměříž]] ({{langx|de|Kremsier}}), where he studied for three years. In 1855 he became a student at the [[University of Vienna]], where he studied [[physics]] and for one semester medical physiology, receiving his doctorate in physics in 1860 under [[Andreas von Ettingshausen]] with the thesis ''Über elektrische Ladungen und Induktion'', and his [[habilitation]] the following year. His early work focused on the [[Doppler effect]] in [[optics]] and [[acoustics]]. 
+
+=== Professional research ===
+In 1864, he took a job as professor of mathematics at the [[University of Graz]] after he had turned down the position of a chair in surgery at the [[University of Salzburg]] to do so, and in 1866 he was appointed professor of physics. During that period, Mach continued his work in [[psycho-physics]] and in sensory perception. In 1867, he took the chair of experimental physics at the [[Charles University|Charles-Ferdinand University]], where he stayed for 28 years before returning to Vienna.<ref name="Reichenbach" /> In 1871 he was elected a member of the [[Royal Bohemian Society of Sciences]].<ref>{{cite book |editor1-last=Blackmore |editor1-first=John |title=Ernst Mach: A Deeper Look |date=1992 |publisher=Springer |page=34}}</ref>
+
+Mach's main contribution to physics involved his description and photographs of spark shock-waves and then ballistic shock-waves. He described how when a bullet or shell moved faster than the speed of sound, it created a compression of air in front of it. Using [[schlieren photography]], he and his son Ludwig photographed the shadows of the invisible shock waves. During the early 1890s Ludwig invented a modification of the [[Jamin interferometer]] that allowed for much clearer photographs.<ref name="Reichenbach">{{cite journal |last1=Reichenbach |first1=H |title=Contributions of Ernst Mach to Fluid Mechanics |journal=Annual Review of Fluid Mechanics |date=January 1983 |volume=15 |issue=1 |pages=1–29 |doi=10.1146/annurev.fl.15.010183.000245 |bibcode=1983AnRFM..15....1R |url=https://www.annualreviews.org/doi/abs/10.1146/annurev.fl.15.010183.000245 |access-date=23 February 2023|issn=0066-4189}}</ref> But Mach also made many contributions to psychology and physiology, including his anticipation of [[Gestalt psychology|gestalt]] phenomena, his discovery of the [[oblique effect]] and of [[Mach bands]], an inhibition-influenced type of visual illusion, and especially his discovery of a [[Vestibular system|non-acoustic function]] of the inner ear that helps control human balance.
+
+One of the best-known of Mach's ideas is the so-called [[Mach's principle|Mach principle]], the physical origin of inertia. This was never written down by Mach, but was given a graphic verbal form, attributed by [[Philipp Frank]] to Mach: "When the subway jerks, it's the fixed stars that throw you down."
+<!--In this form its incompatibility with Einstein's conviction of the universal retardation of distant action is apparent. As an experimental physicist Mach tended to think that scientific theories were only provisional and had no lasting place in physics. This attitude made it hard for him to accept Einstein's special theory of relativity, especially since the second axiom seemed like an absolute of the kind Mach opposed, which was criticized in the preface to a posthumously published book on light which appeared in 1921.-->
+
+[[File:Photography of bow shock waves around a brass bullet, 1888.jpg|thumb|upright=1.2|Ernst Mach's historic 1887 photograph ([[shadowgraph]]) of a bow shockwave around a supersonic bullet{{sfn|Anderson|1998|loc= Chapter 3|p=65}}]]
+
+In 1900 Mach became the [[Godparent|godfather]] of the physicist [[Wolfgang Ernst Pauli]], who was also named after him.<ref>{{cite book |last1=Gieser |first1=Suzanne |title=The Innermost Kernel Depth Psychology and Quantum Physics - Wolfgang Pauli's Dialogue with C.G. Jung |date=2005 |publisher=Springer |page=12}}</ref>
+
+Mach was also well known for his philosophy, developed in close interplay with his science.{{efn|name=interdependency}} He defended a type of [[phenomenalism]], recognizing only [[sensation and perception psychology|sensations]] as real. That position seemed incompatible with the view of atoms and molecules as external, mind-independent things. After an 1897 lecture by [[Ludwig Boltzmann]] at the [[Austrian Academy of Sciences|Imperial Academy of Science]] in [[Vienna]], Mach said, "I don't believe that atoms exist!"{{sfn|Yourgrau|2005|p=}}
+[[File:Mach, Ernst (1905).jpg|thumb|Ernst Mach in 1905]]
+In 1898, Mach survived a paralytic stroke, and in 1901, he retired from the University of Vienna and was appointed to the upper chamber of the Austrian Parliament. On leaving Vienna in 1913, he moved to his son's home in [[Vaterstetten]], near [[Munich]], where he continued writing and corresponding until his death in 1916, one day after his 78th birthday.<ref name="Reichenbach"/>
+
+===Politics===
+Born to a liberal family, Mach lamented that a "very reactionary-clerical" period followed the [[Revolutions of 1848 in the Austrian Empire|1848 revolutions]], prompting him to plan to emigrate to America.<ref>{{cite book |editor1-last=Blackmore |editor1-first=John |title=Ernst Mach: A Deeper Look |date=1992 |publisher=Springer |page=19}}</ref>
+
+In 1901, Mach accepted an appointment to the Austrian [[House of Lords (Austria)|House of Lords]] but declined a nobility because he thought it inappropriate for a scientist to accept such a thing.<ref>{{cite book |last1=Johnston |first1=William M. |title=The Austrian Mind An Intellectual and Social History, 1848-1938 |date=2023 |publisher=University of California Press |page=70}}</ref> He was on good personal terms with the Social Democrat politician [[Viktor Adler]]{{sfn|Blackmore|1972|p=186}} and left money in his will to the Social Democrat newspaper [[Arbeiter-Zeitung (Vienna)|Arbeiter-Zeitung]].<ref>{{cite book |last1=Blum |first1=Mark E. |title=The Austro-Marxists 1890–1918 A Psychobiographical Study |date=2021 |publisher=University Press of Kentucky}}</ref>
+
+Mach was critical of the European powers' colonial conquests, saying that they "will constitute...the most distasteful chapter of history for coming generations".<ref>{{cite book |last1=Blackmore |first1=John T. |title=Ernst Mach His Life, Work, and Influence |date=2023 |publisher=University of California Press |page=223}}</ref>
+
+==Physics==
+Most of Mach's initial studies in experimental physics concentrated on the [[Interference (wave propagation)|interference]], [[diffraction]], [[Polarization (waves)|polarization]] and [[refraction]] of light in different media under external influences. From there followed explorations in [[supersonic]] fluid mechanics. Mach and physicist-photographer [[Peter Salcher]] presented their paper on this subject{{sfn|Mach|Salcher|1887|pp=764–780}} in 1887; it correctly describes the sound effects observed during the supersonic motion of a [[projectile]]. They deduced and experimentally confirmed the existence of a [[shock wave]] of conical shape, with the projectile at the apex.{{sfn|Scott|2003}} The ratio of the speed of a fluid to the local [[speed of sound]] ''v''<sub>p</sub>/''v''<sub>s</sub> is called the [[Mach number]] after him. It is a critical parameter in the description of high-speed fluid movement in [[aerodynamics]] and [[hydrodynamics]]. Mach also contributed to [[physical cosmology|cosmology]] the hypothesis known as [[Mach's principle]].<ref name="Reichenbach"/>
+
+==Philosophy of science==
+{{redirect|Machism|exaggerated masculinity|Machismo}}
+[[File:Ernst Mach - Rathauspark, Vienna.jpg|thumb|upright|left|Bust of Mach in the [[Rathauspark]] (City Hall Park) in [[Vienna]], Austria]]
+
+===Empirio-criticism<!--'Empirio-criticism' and 'Empiriocriticism' redirect here-->===
+From 1895 to 1901, Mach held a newly created chair for "the history and philosophy of the inductive sciences" at the University of Vienna.{{efn|name=historiography}} In his historico-philosophical studies, Mach developed a phenomenalistic [[philosophy of science]] that became influential in the 19th and 20th centuries. He originally saw scientific laws as summaries of experimental events, constructed for the purpose of making complex data comprehensible, but later emphasized mathematical functions as a more useful way to describe sensory appearances. Thus, scientific laws, while somewhat idealized, have more to do with describing sensations than with reality as it exists beyond sensations.{{efn|name=selections}}
+
+{{cquote
+|The goal which it ([[physics|physical science]]) has set itself is the ''simplest'' and ''most economical'' abstract expression of facts.
+
+When the human mind, with its limited powers, attempts to mirror in itself the rich life of the world, of which it itself is only a small part, and which it can never hope to exhaust, it has every reason for proceeding economically.
+
+In reality, the law always contains less than the fact itself, because it does not reproduce the fact as a whole but only in that aspect of it which is important for us, the rest being intentionally or from necessity omitted.
+}}
+
+{{cquote|In mentally separating a body from the changeable environment in which it moves, what we really do is to extricate a group of sensations on which our thoughts are fastened and which is of relatively greater stability than the others, from the stream of all our sensations.
+
+Suppose we were to attribute to nature the property of producing like effects in like circumstances; just these like circumstances we should not know how to find. Nature exists once only. Our schematic mental imitation alone produces like events.
+}}
+
+Mach's positivism influenced many Russian [[Marxist]]s, such as [[Alexander Bogdanov]].{{sfn|Steila|2013|p=}} In 1908, [[Vladimir Lenin|Lenin]] wrote a philosophical work, ''[[Materialism and Empirio-criticism]]'',{{sfn|Lenin|1909}} in which he criticized Machism and the views of "[[Russian Machism|Russian Machists]]". His main criticisms were that Mach's philosophy led to [[solipsism]] and to the absurd conclusion that nature did not exist before humans:
+
+{{cquote| If bodies are "complexes of sensations," as Mach says, or "combinations of sensations," as Berkeley said, it inevitably follows that the whole world is but my idea. Starting from such a premise it is impossible to arrive at the existence of other people besides oneself: it is the purest solipsism.
+
+...if [Mach] does not admit that the "sensible content" is an objective reality, existing independently of us, there remains only a "naked abstract" I, an I infallibly written with a capital letter and italicised, equal to "the insane piano, which imagined that it was the sole existing thing in this world." If the "sensible content" of our sensations is not the external world then nothing exists save this naked I engaged in empty "philosophical" acrobatics.|source=Chapter 1.1, "Sensations And Complexes Of Sensations"}}
+
+'''Empirio-criticism'''<!--boldface per WP:R#PLA--> is the term for the rigorously [[positivist]] and radically [[empiricist]] philosophy established by the German philosopher [[Richard Avenarius]] and further developed by Mach, [[Joseph Petzoldt]], and others, that claims that all we can know is our sensations and that knowledge should be confined to pure experience.{{sfn|Bunnin|Yu|2008|p=405}}
+
+In accordance with empirio-critical philosophy, Mach opposed Boltzmann and others who proposed an atomic theory of physics. Since one cannot observe things as small as atoms directly, and since no atomic model at the time was consistent, the atomic hypothesis seemed unwarranted to Mach, and perhaps not sufficiently "economical". Mach had a direct influence on the [[Vienna Circle]] philosophers and [[logical positivism]] in general.
+
+Several principles are attributed to Mach that distill his ideal of physical theorization, called "Machian physics":
+# It should be based entirely on directly observable phenomena (in line with his positivistic leanings){{efn|name=machianview}}
+# It should completely eschew [[absolute space and time]] in favour of [[relative motion]]{{sfn|Penrose|2016|p=753|ps=: Mach's principle asserts that physics should be defined entirely in terms of the relation of one body to another, and that the very notion of a background space should be abandoned}}
+# Any phenomena that seem attributable to absolute space and time (e.g., [[inertia]] and [[centrifugal force]]) should instead be seen as emerging from the distribution of matter in the universe.{{sfn|Mach|1919|p=|ps=: [The] investigator must feel the need of ... knowledge of the immediate connections, say, of the masses of the universe. There will hover before him as an ideal insight into the principles of the whole matter, from which accelerated and inertial motions will result in the same way.}}
+
+The last is singled out, particularly by Einstein, as "the" [[Mach's principle]]. Einstein cited it as one of the three principles underlying [[general relativity]]. In 1930, he wrote, "it is justified to consider Mach as the precursor of the general theory of relativity",{{sfn|Pais|2005|p=283}} though Mach, before his death, apparently rejected Einstein's theory.{{efn|name=preface}} Einstein knew that his theories did not fulfill all Mach's principles, and neither has any subsequent theory, despite considerable effort.
+
+===Phenomenological constructivism===
+According to Alexander Riegler, Mach's work was a precursor to the influential perspective known as [[Constructivist epistemology|constructivism]].{{sfn|Riegler|2011|pp=235–255}} Constructivism holds that all knowledge is constructed rather than received by the learner. He took an exceptionally non-dualist, phenomenological position. The founder of radical constructivism, [[Ernst von Glasersfeld]], gave a nod to Mach as an ally.{{citation needed|date=May 2017}}
+
+[[File:Mach's spinning chair.jpg|thumb|right|Spinning chair devised by Mach to investigate the experience of motion]] On the other hand, there is also a reasonable case for viewing Mach simply as an empiricist and a precursor of the logical empiricists and the Vienna Circle. On this view, the purpose of science is to detail functional relationships between observations: "The goal which it (physical science) has set itself is the simplest and most economical abstract expression of facts."{{efn|name=selections}}
+
+===Influence===
+[[Friedrich Hayek]] wrote that, when he attended the [[University of Vienna]] from 1918 to 1921, "as far as philosophical discussion went it essentially revolved around Mach's ideas".<ref>F. A. von Hayek, "Diskussionsbemergungen über Ernst Mach und das sozialwissenschaftliche Denken in Wien," Symposium (Freiburg, 1967), pp. 41 44</ref> Mach's work has also been cited as an influence on the [[Vienna Circle]], being described as a "major precursor of logical positivism".<ref>{{Cite web |url=https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100122675 |title=Ernst Mach |website=Oxford Reference}}</ref>
+
+Mach's work was a "forerunner" of [[Gestalt psychology]].<ref>Pojman, Paul, "Ernst Mach", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.)</ref>
+
+==Physiology==
+In 1873, independently of each other,{{sfn|Hawkins|Schacht|2005}} Mach and the physiologist and physician [[Josef Breuer]] discovered how the [[sense of balance]] (i.e., the perception of the head's imbalance) functions, tracing its management by information the brain receives from the movement of [[Endolymph|a fluid]] in the [[semicircular canal]]s of the [[Vestibular system|inner ear]]. That the sense of balance depends on the three semicircular canals was discovered in 1870 by the physiologist [[Friedrich Goltz]], but Goltz did not discover how the balance-sensing apparatus functions. Mach devised a swivel chair to test his theories, and Floyd Ratliff has suggested that this experiment may have paved the way to Mach's critique of a physical conception of absolute space and motion.{{sfn|Ratliff|1975|pp=}}
+
+==Psychology==
+[[File:Mach bands - animation.gif|thumb|right|Exaggerated contrast between edges of the slightly differing shades of gray, appears as soon as they touch]]
+In the area of sensory perception, psychologists remember Mach for the [[optical illusion]] called [[Mach bands]]. The effect exaggerates the contrast between edges of the slightly differing shades of gray as soon as they touch, by triggering edge-detection in the human visual system.<ref name="Reichenbach"/>{{sfn|Ratliff|1965|p=}}
+
+More clearly than anyone before or since, Mach made the distinction between what he called ''physiological'' (specifically [[Visual space|visual]]) and ''geometrical'' spaces.{{Sfn|Sugden|Mach|1903|p=}}
+
+Mach's views on mediating structures inspired [[B. F. Skinner]]'s strongly [[inductive reasoning|inductive]] position, which paralleled Mach's in the field of psychology.{{sfn|Chiesa|1994|p=}}
+
+==Eponyms==
+In homage his name was given to:
+* [[3949 Mach]], an asteroid
+* [[Mach (crater)|Mach]], a lunar crater
+* [[Mach bands]], an optical illusion
+* [[Shock diamond|Mach diamonds]], seen in supersonic exhausts
+* [[Mach Five]], the car used by [[Speed Racer]]
+* [[Mach number]], the unit for speed relative to the speed of sound
+
+==Bibliography==
+[[File:Mach, Ernst – Mechanik in ihrer Entwicklung historisch-kritisch dargestellt, 1904 – BEIC 6483307.jpg|thumb|''La mécanique'', 1904]]
+* {{Cite book|author=Mach, Ernst|title=Beiträge zur Analyse der Empfindungen|publisher=Gustav Fischer|location=Jena|year=1886|language=de|url=https://archive.org/details/beitrgezuranaly00machgoog}} (Later editions were published under the title ''Analyse der Empfindungen und das Verhältnis des Physischen zum Psychischen'')
+* {{Cite book|author=Mach, Ernst|title=Optisch-akustische Versuche|volume=|publisher=Calve|location=Praha|year=1873|language=de|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=6486421}}
+* {{Cite book|author=Mach, Ernst|title=Principien der Wärmelehre|volume=|publisher=Johann Ambrosius Barth|location=Leipzig|year=1900|language=de|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=6484870}}
+* {{Cite book|author=Mach, Ernst|title=Die Mechanik in ihrer Entwicklung historisch-kritisch dargestellt|volume=|publisher=[[F. A. Brockhaus]]|location=Leipzig|year=1901|language=de|url=https://archive.org/details/diemechanikinih04machgoog}}
+* {{Cite book|author=Mach, Ernst|title=Erkenntnis und Irrtum: Skizzen zur Psychologie der Forschung|volume=|publisher=Johann Ambrosius Barth|location=Leipzig|year=1905|language=de|url=https://archive.org/details/bub_gb_yKSUxlJzSwQC}}
+
+Mach's principal works in English:
+* {{cite book|first=Ernst|last=Mach|title=The Science of Mechanics|date=1919|orig-year=1883|publisher=The Open Court Publishing Co|location=Chicago|url=https://archive.org/details/in.ernet.dli.2015.154174/page/n5|edition=4th|translator-first=Thomas J. |translator-last=McCormack|display-authors=0}}
+* {{cite journal|last1=Mach|first1=Ernst|last2=Salcher|first2=Peter|date=1887|title=Photographische Fixirung der durch Projectile in der Luft eingeleiteten Vorgänge|url=https://archive.org/stream/sitzungsbericht503klasgoog#page/n804/mode/2up|journal=Sitzungsber. Kaiserl. Akad. Wiss., Wien, Math.-Naturwiss. Cl.|volume=95|issue=Abt. II|pages=764–780|doi=10.1002/andp.18872681008|bibcode=1887AnP...268..277M|language=de|display-authors=0}} with [[Peter Slacher]]
+* {{Cite book|chapter=The Analysis of Sensations |last=Mach |first=Ernst |year=1897 |editor-last=Williams |editor-first=C.W. |title=Contributions to the Analysis of Sensation  |edition= 1st  |publisher=Open Court Publishing Company  |location=Chicago  |url=https://archive.org/details/contributionstoa00machrich |display-authors=0}}
+* ''Popular Scientific Lectures'' (1895); [https://archive.org/details/popularscientifi00machiala/page/n5/mode/2up Revised & enlarged 3rd edition (1898)]
+* {{cite journal|last1=Sugden|first1=Sherwood J. B.|last2=Mach|first2=Ernst|title=Space and Geometry from the Point of View of Physical Inquiry|journal=Monist|volume=14|issue=1|year=1903|pages=1–32|issn=0026-9662|doi=10.5840/monist190314139|display-authors=0}} with S.J.B. Sugden
+* [https://archive.org/details/historyandrootp00machgoog/page/n4/mode/2up ''History and Root of the Principle of the Conservation of Energy''] (1911)
+* ''The Principles of Physical Optic''s (1926)
+* ''Knowledge and Error'' (1976)
+* ''Principles of the Theory of Heat'' (1986)
+* ''Fundamentals of the Theory of Movement Perception'' (2001)
+
+==See also==
+{{cols|colwidth=20em}}
+* [[Energeticism]]
+* [[Mach (kernel)]]
+* [[Mach bands]]
+* [[Mach disk]]
+* [[Mach reflection]]
+* [[Mach's principle]]
+* [[Mach–Zehnder interferometer]]
+* [[Stereokinetic stimulus]]
+* [[Visual space]]
+{{colend}}
+
+==References==
+===Notes===
+{{notelist|refs=
+
+{{efn|name=interdependency|On this interdependency of Mach's physics, physiology, history and philosophy of science see {{harvnb|Blackmore|1972|p=}}, Blackmore (ed.) 1992 and {{harvnb|Hentschel| 1985}} against Paul Feyerabend's efforts to decouple these three strands.}}
+
+{{efn|name=selections|Selections are taken from his essay ''The Economical Nature of Physical Inquiry'', excerpted by Kockelmans and slightly corrected by Blackmore. (citation below).}}
+
+{{efn|name=machianview|{{harvnb|Barbour|2001|p=220}} states "In the Machian view, the properties of the system are exhausted by the masses of the particles and their separations, but the separations are mutual properties. Apart from the masses, the particles have no attributes that are exclusively their own. They — in the form of a triangle — are a single thing. In the Newtonian view, the particles exist in absolute space and time. These external elements lend the particles attributes — position, momentum, angular momentum — denied in the Machian view. The particles become three things. Absolute space and time are an essential part of atomism".}}
+
+{{efn|name=historiography|On Mach's historiography, cf., e.g., {{harvnb|Hentschel |1988}} on his impact in Vienna, see Stadler et al. (1988), and Blackmore et al. (2001).}}
+
+{{efn|name=preface|The preface of the posthumously published ''Principles of Physical Optics'' explicitly rejects Einstein's relativistic views but it has been argued that the text is inauthentic.{{harv|Wolters|2012|pp=39–57}} }}
+
+}}
+
+===Citations===
+{{Reflist}}
+
+===Sources===
+{{refbegin|2|indent=yes}}
+*{{citation|last=Anderson|first= J. |author-link=John D. Anderson|title=Research in Supersonic Flight and the Breaking of the Sound Barrier|work= From Engineering Science to Big Science: The NACA and NASA Collier Trophy Research Project Winners|editor-first= Pamela E. |editor-last=Mack|publisher=NASA |date=1998}}
+*{{cite book|last=Barbour|first=Julian |author-link=Julian Barbour|title=The End of Time: The Next Revolution in Physics|url=https://books.google.com/books?id=TpzEqWEGYoMC&pg=PA220|year=2001|publisher=Oxford University Press|location=USA|isbn=978-0-19-514592-2}}
+* {{cite book|last= Baatz|first=Ursula|title=Ernst Mach — A Deeper Look |chapter=Ernst Mach - the Scientist as a Buddhist ? |editor-last=Blackmore|editor-first= J.T. |pages= 183–199|url=https://books.google.com/books?id=WitKuwEACAAJ|year=1992|publisher=Springer |location=Dordrecht|isbn=978-0-7923-1853-8|doi= 10.1007/978-94-011-2771-4_9}}
+* {{cite book|first=John T. |last=Blackmore|title=Ernst Mach. His Life, Work, and Influence| url = https://archive.org/details/ernstmachhiswork0000blac |url-access=registration |location= Berkeley and Los Angeles|publisher= University of California Press|date= 1972|isbn=9780520018495|ol=4466579M|oclc = 534406}}
+*{{cite book|last1=Bunnin|first1=Nicholas |last2=Yu|first2=Jiyuan |title=The Blackwell Dictionary of Western Philosophy|chapter-url=https://books.google.com/books?id=LdbxabeToQYC&pg=PA405|year=2008|publisher=John Wiley & Sons|isbn=978-0-470-99721-5|chapter=Mach, Ernst (1838-1916)}}
+*{{cite book|first=Mecca|last=Chiesa|title=Radical Behaviorism: The Philosophy and the Science|year=1994|publisher=Authors Cooperative|isbn=978-0-9623311-4-5}}
+*{{cite book|last1=Cohen|first1=Robert S. |last2=Seeger|first2=Raymond J. |title=Ernst Mach: Physicist and Philosopher|url=https://books.google.com/books?id=KDx4OKt_uLMC|year=1975|publisher=Springer |location=Dordrecht|isbn=90-277-0016-8}}
+*{{cite journal|last1=Hawkins|first1= J.E. |last2= Schacht|first2= J. |url=http://www.aro.org/announcements/ANO-Otohistory-8.pdf |title=Sketches of Otohistory - Part 8:The Emergence of Vestibular Science|archive-url=https://web.archive.org/web/20110721222024/http://www.aro.org/announcements/ANO-Otohistory-8.pdf |archive-date=21 July 2011 |journal=Audiology and Neurotology|date=12 April 2005|volume= 10 |issue= 4 |doi=10.1159/000085076|pages=185–190|pmid= 15832015 |s2cid= 30875633 }}
+*{{citation|first1=Gerhard |last1=Heinzmann|first2=David |last2=Stump|date=10 October 2017|url=https://plato.stanford.edu/entries/poincare/ |title=Henri Poincaré|encyclopedia= [[Stanford Encyclopedia of Philosophy]]}}
+* {{cite journal|last1=Hentschel|first1=Klaus|title=On Feyerabend's version of 'Mach's theory of research and its relation to Einstein'|journal=Studies in History and Philosophy of Science Part A|volume=16|issue=4|year=1985|pages=387–394|issn=0039-3681|doi=10.1016/0039-3681(85)90019-6|bibcode=1985SHPSA..16..387H|url=http://elib.uni-stuttgart.de/handle/11682/5352}}
+* {{cite journal|last1=Hentschel|first1=Klaus|title=Die Korrespondenz Duhem-Mach: Zur 'Modellbeladenheit' von Wissenschaftsgeschichte|journal=Annals of Science|volume=45|issue=1|year=1988|pages=73–91|issn=0003-3790|doi=10.1080/00033798800200121|url=http://elib.uni-stuttgart.de/handle/11682/7164}}
+*{{citation|first=V.I. |last=Lenin|author-link=Vladimir Lenin|date= 1909|title= Materialism and Empirio-criticism: Critical Comments on a Reactionary Philosophy|url= https://www.marxists.org/archive/lenin/works/1908/mec/}}
+*{{cite book|last1=Mehra|first1=Jagdish |author-link1=Jagdish Mehra|last2=Rechenberg|first2=Helmut |title=The Historical Development of Quantum Theory|url=https://books.google.com/books?id=-pL56OcVubgC|year=2001|publisher=Springer |isbn=978-0-387-95180-5}}
+*{{cite book|last=Pais|first=Abraham |title=[[Subtle is the Lord: The Science and the Life of Albert Einstein]]|page=[https://books.google.com/books?id=0QYTDAAAQBAJ&pg=PA283 283]|year=2005|publisher=OUP |location=Oxford|isbn=978-0-19-280672-7}}
+*{{cite book|last=Penrose|first=Roger |author-link=Roger Penrose|title=The Road to Reality: A Complete Guide to the Laws of the Universe|url=https://books.google.com/books?id=VWTNCwAAQBAJ&pg=PA753|year=2016|publisher=Random House|isbn=978-1-4464-1820-8}}
+*{{Cite encyclopedia |title=Ernst Mach |last=Pojman |first=Paul |encyclopedia=Stanford Encyclopedia of Philosophy |date=21 May 2008 |access-date=19 August 2019 |url= https://plato.stanford.edu/entries/ernst-mach/ }}
+*{{Cite book|url=https://archive.org/details/machbandsquantit0000ratl|url-access=registration|title=Mach bands: quantitative studies on neural networks in the retina|last=Ratliff|first=Floyd|date=1965|publisher=Holden-Day}}
+*{{cite book|last1=Ratliff|first1=Floyd|article=On Mach's Contributions to the Analysis of Sensations|editor1-last=Seeger|editor1-first=Raymond J.|editor2-last=Cohen|editor2-first=Robert S.|title=Ernst Mach, Physicist and Philosopher|date=1975}}
+*{{cite book|last=Riegler|first=Alexander |editor=Luciano L'Abate|title=Paradigms in Theory Construction|pages=235–255|url=https://books.google.com/books?id=cKePBgoqixcC|date= 2011|publisher=Springer |isbn=978-1-4614-0914-4|chapter=Constructivism|doi=10.1007/978-1-4614-0914-4_13}}
+*{{cite web|url=http://www.aerospaceweb.org/question/history/q0149.shtml|title=Ernst Mach and Mach Number|last1=Scott|first1=Jeff|date=9 November 2003|website=Aerospaceweb.org|access-date=24 October 2015}}
+*{{cite book |title=Einstein and Culture |edition=illustrated |first1=Gerhard |last1=Sonnert |publisher=Humanity Books |year=2005 |isbn=978-1-59102-316-6 |url=https://books.google.com/books?id=HRogAQAAIAAJ}}
+*{{cite book|first=Daniela |last=Steila|title= Nauka i revoljucija. Recepciia empiriokriticizma v russkoi kul'ture (1877-1910 gg.)|location= Moscow|publisher= Akademicheskii Proekt|date= 2013|language=hr|trans-title=Science and revolution. Reception of empiriocriticism in Russian culture|hdl=2318/141997}}
+*{{cite book|last=Wolters|first=Gereon|editor1-first=Christoph |editor1-last=Lehner |editor2-first=Jürgen |editor2-last=Renn |editor3-first=Matthias |editor3-last=Schemmel|title=Einstein and the Changing Worldviews of Physics|chapter-url=https://books.google.com/books?id=3H7AoEoSDR4C&pg=39|year=2012|publisher=Springer – Birkhäuser|location=Boston|isbn=978-0-8176-4940-1|chapter=Mach and Einstein, or Clearing Troubled Waters in the History of Science}}
+*{{cite book|last=Yourgrau|first=Palle |title=A World Without Time: The Forgotten Legacy of Gödel and Einstein|url=https://books.google.com/books?id=2TXUOwAACAAJ|year=2005|publisher=Allen Lane|isbn=978-0-7139-9387-5}}
+{{refend}}
+
+===Further reading===
+{{refbegin|2|indent=yes}}
+* Erik C. Banks: ''Ernst Mach's World Elements. A Study in Natural Philosophy''. Dordrecht: Kluwer (now Springer), 2013.
+* John Blackmore and [[Klaus Hentschel]] (eds.): ''Ernst Mach als Außenseiter''. Vienna: Braumüller, 1985 (with select correspondence).
+* {{cite book|editor-last1=Blackmore|editor-first1=J.T. |editor-last2=Itagaki|editor-first2=R. |editor-last3=Tanaka|editor-first3=Satoru |title=Ernst Mach's Vienna 1895–1930: Or Phenomenalism as Philosophy of Science|url=https://books.google.com/books?id=hCfk8tZix6oC|year=2001|publisher=Springer |location=Dordrecht|isbn=978-0-7923-7122-9}}
+* John T. Blackmore, Ryoichi Itagaki and Setsuko Tanaka (eds.): ''Ernst Mach's Science''. Kanagawa: Tokai University Press, 2006.
+* John T. Blackmore, Ryoichi Itagaki and Setsuko Tanaka: ''Ernst Mach's Influence Spreads''. Bethesda: Sentinel Open Press, 2009.
+* John T. Blackmore, Ryoichi Itagaki and Setsuko Tanaka: ''Ernst Mach's Graz (1864–1867), where much science and philosophy were developed''. Bethesda: Sentinel Open Press, 2010.
+* John T. Blackmore: ''Ernst Mach's Prague 1867–1895 as a human adventure'', Bethesda: Sentinel Open Press, 2010.
+* {{cite book|author-link=William Everdell|first=William |last=Everdell|title=The First Moderns. Profiles in the Origins of Twentieth-Century Thought|publisher= University of Chicago Press|date= 1997}}
+* {{cite book|editor1-first=Rudolf |editor1-last=Haller |editor2-first=Friedrich |editor2-last=Stadler |title=Ernst Mach – Werk und Wirkung|language=de|trans-title=|location= Vienna|publisher= Hoelder-Pichler-Tempsky|date= 1988}}
+* {{cite book|last=Hentschel|first=Klaus |author-link=Klaus Hentschel|editor-first=Arne |editor-last=Hessenbruch|title=Reader's Guide to the History of Science|chapter-url=https://books.google.com/books?id=1wJeAgAAQBAJ&pg=PA427|year=2013|publisher=Routledge|location=London|isbn=978-1-134-26301-1|chapter=Ernst Mach|via =Taylor and Francis}}
+* {{cite book|editor1-first=D.|editor1-last= Hoffmann |editor2-first=H. |editor2-last=Laitko |title=Ernst Mach – Studien und Dokumente|language=de|location= Berlin|date= 1991}}
+* {{cite book|first=Joseph J.|last= Kockelmans|title=Philosophy of science. The historical background|location= New York|publisher= The Free Press|date= 1968}}
+<!-- Can't find these book on google or the open library or amazon
+* {{cite book|first=Jiří|last= Procházka|title=Ernst Mach /1838–1916/ Genealogie'', 3 vols. Brno, 2007–2010. {{ISBN|978-80-903476-0-1}}. (deutsch, teilw. English)
+*{{cite book|first=Jiří|last= Procházka|title=Ernst Mach /1838-1916/ Genealogie" Brno 2OO7. {{ISBN|80-903476-3-0}}. (deutsch, teil. English)
+* {{cite book|first=Jiří|last= Procházka|title=Ernst Mach /1838-1916/ Curriculum vitae", Brno-Vienna 2O14. {{ISBN|978-80-903476-7-0}}. (deutsch, teilw. English)
+-->
+* {{citation|editor1-first=V. |editor1-last=Prosser |editor2-first=J.|editor2-last= Folta |title=Ernst Mach and the development of Physics – Conference Papers|location= Prague|publisher= Universitas Carolina Pragensis|date= 1991}}
+* {{citation|first=Joachim |last=Thiele|title=Wissenschaftliche Kommunikation – Die Korrespondenz Ernst Machs|language=de|location=Kastellaun|publisher= Hain|date= 1978}} (with select correspondence).
+{{refend}}
+
+==External links==
+{{Commons}}
+{{Wikiquote}}
+{{EB1911 poster|Mach, Ernst}}
+{{wikiquote|The Science of Mechanics}}
+* [http://homepage.univie.ac.at/peter.mahr/2016.1.html Ernst Mach bibliography of all of his papers and books from 1860 to 1916], compiled by Vienna lecturer Dr. Peter Mahr in 2016
+* [https://web.archive.org/web/20090203192437/http://academic.udayton.edu/gregelvers/hop/?m=3&a=77&key=53 Various Ernst Mach links], compiled by Greg C Elvers
+* [[Klaus Hentschel]]: Mach, Ernst, in: [http://www.deutsche-biographie.de/pnd118575767.html ''Neue Deutsche Biographie'' 15 (1987), pp. 605–609.]
+* {{Gutenberg author | id=40055| name=Ernst Mach}}
+* {{Internet Archive author |sname=Ernst Mach}}
+* {{Librivox author |id=10401}}
+* {{cite SEP |url-id=ernst-mach |title=Ernst Mach |last=Pojman |first=Paul |author-link=Paul Pojman}}
+* [http://vlp.mpiwg-berlin.mpg.de/people/data?id=per313 Short biography and bibliography] in the Virtual Laboratory of the [[Max Planck Institute for the History of Science]]
+* [http://www.marxists.org/reference/subject/philosophy/works/ge/mach.htm Ernst Mach: ''The Analysis of Sensations'' (1897)] [translation of ''Beiträge zur Analyse der Empfindungen'' (1886)]
+* {{MathGenealogy |id=113010 }}
+* [http://www.britannica.com/EBchecked/topic/471865/positivism/68570/The-critical-positivism-of-Mach-and-Avenarius "The critical positivism of Mach and Avenarius"]: entry in the ''[[Britannica Online Encyclopedia]]''
+
+{{Positivism}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mach, Ernst}}
+[[Category:Ernst Mach| ]]
+[[Category:1838 births]]
+[[Category:1916 deaths]]
+[[Category:19th-century Austrian writers]]
+[[Category:19th-century Austrian philosophers]]
+[[Category:19th-century Czech philosophers]]
+[[Category:20th-century Austrian male writers]]
+[[Category:20th-century Austrian philosophers]]
+[[Category:19th-century Austrian physicists]]
+[[Category:Historians of physics]]
+[[Category:Austrian atheists]]
+[[Category:Atheist philosophers]]
+[[Category:Austrian people of Moravian-German descent]]
+[[Category:Austrian socialists]]
+[[Category:Ballistics experts]]
+[[Category:Academic staff of Charles University]]
+[[Category:Empiricists]]
+[[Category:Experimental physicists]]
+[[Category:Fluid dynamicists]]
+[[Category:Historians of science]]
+[[Category:Optical physicists]]
+[[Category:People from the Margraviate of Moravia]]
+[[Category:Philosophers of science]]
+[[Category:Positivists]]
+[[Category:Scientists from Brno]]

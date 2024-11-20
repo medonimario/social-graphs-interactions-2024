@@ -1,0 +1,77 @@
+{{family name hatnote|[[Liu]]|lang=Chinese}}
+{{infobox Chinese
+|t=劉安
+|s=刘安
+|p=Liú Ān
+|mi={{IPAc-cmn|l|iu|2|-|an|1}}
+|j=Lau<sup>4</sup> On<sup>1</sup>
+|y=Làuh Ōn
+|ci={{IPAc-yue|l|au|4|-|on|1}}
+|poj=Lâu An
+|mc=Ljuw 'An
+|oc-bs=&ast;mə-ru ʔˤan (or ʔˤar)
+}}
+{{Infobox royalty
+|birth_date=179 BC
+|death_date=122 BC (aged 57)
+|father=Liu Chang, Prince Li of Huainan
+|mother=Lady Yong
+|reign=164 BC-122 BC
+|occupation  = Cartographer, monarch, philosopher
+|title=[[King of Huainan]]
+|predecessor=Liu He
+|issue=Prince Liu Buhai <br> Prince Liu Qian <br> Princess [[Liu Ling (Han dynasty)|Liu Ling]]
+}}
+'''Liú Ān''' ({{zh|t=劉安}}, c. 179–122 BC) was a Chinese cartographer, monarch, and philosopher. A [[Han dynasty]] Chinese prince, ruling the [[Huainan Kingdom]], and an advisor to his nephew, [[Emperor Wu of Han]] (武帝). He is best known for editing the (139 BC) ''[[Huainanzi]]'' compendium of [[Daoist]], [[Confucianist]], and [[Legalism (Chinese philosophy)|Legalist]] teachings and is credited for inventing [[tofu]]. Early texts represent Liu An in three ways: the "author-editor of a respected philosophical symposium", the "bumbling rebel who took his life to avoid arrest", and the successful Daoist adept who transformed into a ''[[Xian (Taoism)|xian]]'' and "rose into the air to escape prosecution for trumped-up charges of treason and flew to eternal life."<ref>Wallacker, p. 36.</ref>
+
+== Life ==
+He was the grandson of [[Liu Bang]], the founding emperor of the Han dynasty. After his father died, he became the [[Prince of Huainan]], the lands south of the [[Huai River]], at the age of 16.
+
+Liu An had two sons. The younger was Liu Qian (刘迁), who was born by his princess consort and thus became heir to Huainan, while the elder, [[Liu Buhai]] (刘不害), was born to a concubine. Liu An favoured Liu Qian over Liu Buhai and never viewed the latter as his son. Liu Qian never regarded Liu Buhai as his elder brother. According to Tui'en Ling (推恩令, ''Order to Expand Favours''), Liu Buhai could become a marquess if Liu An carved a part of Huainan for him as his fief, but Liu An never did. Liu Jian (刘建), son of Liu Buhai, having realized that both he and his father had little chance to be a marquess, became so resentful that he accused Liu An and Liu Qian of a [[coup]] attempt. Finally, in a fate similar to his father, Liu An committed [[suicide]]  in 122 BC after his plot was revealed.
+
+==Literature==
+Noted for his literary ability, Liu An was reputed to be able to compose an elaborate work of prose between waking and finishing breakfast. In addition to composing literary pieces himself, Liu An also frequently invited other scholars as guests to his estate. Eight of these scholars in particular became known as the [[Eight Immortals of Huainan]] (淮南八仙).
+
+===''Huainanzi''===
+Together with the Eight Immortals of Huainan and/or other members of his literary circle, Liu An published a treatise in 139 BC. known as the ''[[Huainanzi]]'', translated as "Book of the Master of Huainan", or the "Huainan Philosophers". This book is considered one of the cornerstones of Taoist philosophy, along with the works of [[Laozi]] and [[Zhuangzi (book)|Zhuangzi]].  Along with the earlier ''ShuJing'' (''[[Classic of History]]'') of the 5th century BC ([[Warring States]] era), this book provided further concrete information on [[History of geography#China|geography]], including descriptions of the [[topography]] of China. His book was also concerned with mathematics and music, making use of the "[[Pythagorean comma]]" and listing the first known [[Shí-èr-lǜ|Chinese 12 tone musical tuning]].
+
+===''Chu ci''===
+One of the two major ancient Chinese poetry collections was the ''[[Chu ci]]'', also known as ''The Songs of the South'' or ''The Songs of Chu'' (the other being the ''[[Shijing]]''). The seminal poem of the collection is the "[[Li Sao]]", generally agreed to be by [[Qu Yuan]]. Liu An wrote an introduction to the "[[Li Sao]]" as well as the first known commentary. There is also reasonable evidence that Liu An was the first editor and anthologist of the original ''Chu ci'' collection. The poem ''[[Summons for a Recluse|Zhao yin shi]] (Summons for a Recluse)'' is attributed to Liu An. Also, "[[Yuan You]]" ("Far-off Journey") shows many similarities to the work of the literary circle around Liu An.<ref>Hawkes, 243 and 191-193</ref>
+
+== Legend of inventing soy milk ==
+According to the legend, Liu A developed [[soy milk]] for his old, ill mother. She wanted to taste [[soybeans]] but couldn't chew, so Liu An ground the soybeans into milk, apparently upon her suggestion.<ref>{{cite web |url=http://kaleidoscope.cultural-china.com/en/8Kaleidoscope12274.html |title=Soymilk and you tiao, the most popular breakfast in China|accessdate=2016-07-28 |url-status=dead |archiveurl=https://web.archive.org/web/20160825205454/http://kaleidoscope.cultural-china.com/en/8Kaleidoscope12274.html |archivedate=2016-08-25 }}</ref> No historical evidence supports the legend. In the [[Ming dynasty]] reference work ''[[Bencao Gangmu]]'', author [[Li Shizhen]] describes the development of [[tofu|bean curd]] (tofu) but does not mention a particular inventor. The attribution of the invention of tofu to Liu An was also made by another [[Ming dynasty]] writer, Li Yi (李翊).<ref>戒庵老人漫筆「豆腐起於淮南王劉安之術。」</ref> During the [[Song dynasty]] in the 10th century, [[Zhu Xi]] had already written of the method of Huainan in "Song of Bean Curd" ("豆腐詩").<ref>「種豆豆苗稀，力竭心已腐，早知淮南術，安坐獲泉布。」 "Planting soybeans but the harvest was little, the body is tired and the mind is rotted, if the method of Huainan was known earlier (by me), (I) would be able to get a lot with just relaxing and sitting there."</ref> It is also mentioned in a book which called bean curd "Lai Ki" in the Han dynasty, and the word appeared in an early Song dynasty writing.<ref name="deity">《行神研究》引 《綺翁憶梅庵雜記》記豆腐業淮南王劉安云：「 相傳農曆九月十五日，為淮南王劉安誕辰，內地豆腐業者均於本日舉行之公祭，祭畢聚餐。」劉安為西漢人，具辯才，善屬文，好讀書鼓琴，天下方術之士多歸之，在其在發明豆腐時，蜀人名曰「黎祈」，故陸游詩有「洗釜煮黎祈」句，惟何時名為豆腐，則不可考。</ref> Other Chinese sources discredit the Liu An invention theory, however, and state that Liu An lived with a lot of vegetarian monks and the method was taught by them. The Chinese Daoists that he recruited used "alchemical" methods to make both soy milk and bean curd, perhaps as a medicine for eternal life. As the only powerful noble at that time, Liu An could order the (relative) mass-production of such items and spread them around, thus making him famous for soy milk and bean curd.<ref>《中國行業神》, 李喬</ref> Still, many place Liu An as the inventor of both bean curd and soy milk.<ref>《中國民間神像》, 宋兆麟</ref>
+
+A different tradition could be found in 《金華地方風俗志》 and 《中國風俗故事集》, which mention that soy milk and bean curd were made before the Han dynasty. These traditions date soy milk to the [[Warring States period|warring states period]] by the [[Yan (state)|Yan]] general [[Yue Yi]],<ref>樂毅因父母年老嚼不動黃豆，樂毅就把黃豆磨成豆漿，把鹽鹵灑進豆漿，結果成了豆腐。又說醫生開了石膏，樂毅把石膏放進豆漿，結果做出的豆腐比放鹽鹵更好。</ref> These two books are rather recent and the quote in it was only a legend told to bean curd makers orally, without written record.
+
+== See also ==
+* [[List of geographers]]
+* [[List of Chinese people]]
+* [[List of Chinese writers]]
+* [[List of Chu Ci contents]]
+
+== References ==
+
+{{Reflist}}
+* *[[David Hawkes (Sinologist)|Hawkes, David]], translator and introduction (2011 [1985]). Qu Yuan ''et al.'', ''The Songs of the South: An Ancient Chinese Anthology of Poems by Qu Yuan and Other Poets''. London: Penguin Books. {{ISBN|978-0-14-044375-2}}
+* Needham, Joseph (1986). ''Science and Civilization in China: Volume 3''. Taipei: Caves Books, Ltd.
+*Wallacker, Benjamin E. (1972), "Liu an, Second King of Huai-nan (180?-122 B. C.)," ''Journal of the American Oriental Society'' 92.1, pp.&nbsp;36–51.
+
+== External links ==
+* [http://www.goldenelixir.com/taoism/texts_huainan_zi.html The Huainan Zi text of Liu An]
+* ''[http://www.themontrealreview.com/2009/The-Dao-of-the-Military-Liu-An-Art-of-War.php The Dao of the Military: Liu An's Art of War]'', (Columbia University Press, 2012)
+* {{Gutenberg author | id=Liu,+An | name=An Liu}}
+
+{{Authority control}}
+{{Han dynasty topics}}
+
+{{DEFAULTSORT:Liu, An}}
+[[Category:170s BC births]]
+[[Category:122 BC deaths]]
+[[Category:2nd-century BC geographers]]
+[[Category:2nd-century BC Chinese philosophers]]
+[[Category:Ancient geographers]]
+[[Category:Chinese cartographers]]
+[[Category:Han dynasty imperial princes]]
+[[Category:Han dynasty philosophers]]
+[[Category:Patrons of literature]]
+[[Category:Tofu]]

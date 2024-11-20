@@ -1,0 +1,105 @@
+{{Short description| Portuguese poet, philosopher, and writer (1842–1891)}}
+{{family name hatnote|Quental|de Quental|lang=Portuguese}}
+{{Infobox writer <!-- for more  information see [[:Template:Infobox writer/doc]] --> 
+| name          = Antero de Quental
+| image         = Antero de Quental (ca. 1887).jpg
+| imagesize     = 235
+| caption       = Quental c. 1887
+| pseudonym     = 
+| birth_name    = Anthero Tarquínio de Quental
+| birth_date    = {{Birth date|1842|04|18|df=y}}
+| birth_place   = [[Ponta Delgada]], São Miguel, Portugal
+| death_date    = {{death date and age|1891|09|11|1842|04|18|df=y}}
+| death_place   = Ponta Delgada, São Miguel, Portugal
+| resting_place = Ponta Delgada, São Miguel
+| occupation    = Poet
+| language      = Portuguese
+| nationality   = Portuguese
+| education     = 
+| alma_mater    = [[University of Coimbra]]
+| period        = 1861–1892
+| genre         = Odes, Sonnets 
+| subject       = Revolution, Nature
+| movement      = Questão Coimbrã, Romanticism, Socialist Experimentalism
+| notableworks  = ''Sonetos de Antero'' (1861), ''Beatrice e Fiat Lux'' (1863), ''Odes Modernas'' (1865), ''Bom Senso e Bom Gosto'' (1865), ''A Dignidade das Letras e as Literaturas Oficiais'' (1865), ''Defesa da Carta Encíclica de Sua Santidade Pio IX'' (1865), ''Portugal perante a Revolução de Espanha'' (1868), ''Primaveras Românticas'' (1872), ''Considerações sobre a Filosofia da História Literária Portuguesa'' (1872), ''A Poesia na Actualidade'' (1881), ''Sonetos Completos'' (1886), ''A Filosofia da Natureza dos Naturistas'' (1886), ''Tendências Gerais da filosofia na Segunda Metade do Século XIX'' (1890), ''Raios de extinta luz'' (1892), ''Prosas''
+| spouse(s)     = 
+| partner(s)    = 
+| children      = 
+| relative(s)   = 
+| awards        = 
+| signature     = Assinatura Antero de Quental.svg
+| signature_alt = 
+| website       = 
+| portaldisp    = 
+}}
+'''Antero Tarquínio de Quental''' ({{IPA|pt-PT|ɐ̃ˈtɛɾu ðɨ kẽˈtal|lang}}; old spelling ''Anthero''; 18 April 1842{{snd}}11 September 1891) was a Portuguese [[poet]], philosopher, and writer. Quental is regarded as one of the greatest poets of his generation and is recognized as one of the most influential [[Portuguese language]] artists of all time. His name is often mentioned alongside [[Luís Vaz de Camões]], [[Manuel Maria Barbosa du Bocage]], and [[Fernando Pessoa]].<ref name="TAP">{{citation|first=Manuel|last=Simões|contribution=Antero de Quental|pages=146–147|title=UP|publisher=TAP Portugal/Lisgráfica - Impressão e Artes Gráficas, SA|language=Portuguese|location=Lisbon, Portugal}}</ref>
+
+==Biography==
+
+===Early life and childhood===
+Antero de Quental was born in [[Ponta Delgada]] on the island of [[São Miguel Island|São Miguel]] in the [[Azores]]. His family was among the oldest families of the provincial [[captaincy]] system.<ref name=TAP/> His father was Fernando de Quental (10 May 1814{{snd}}7 March 1873), a veteran of the Portuguese [[Liberal Wars]], who took part in the [[Landing of Mindelo]].<ref>Despite being an aristocrat, Fernando de Quental supported the liberal movement, going so far as to chip away the family [[Crest (heraldry)|coast of arms]] from the family's manor house. Fernando himself was the son of André da Ponte de Quental da Câmara e Sousa, a veteran of the [[Napoleonic Wars]] and also a liberal enthusiast who befriended and found himself locked up with the great poet [[Manuel Maria Barbosa de Bocage]] for his political views</ref> Antero's mother was Ana Guilhermina da Maia (16 July 1811{{snd}}28 November 1876), a devout relative of Fr. [[Bartolomeu de Quental]], founder of the [[Congregation of the Oratory]] in Portugal.
+
+Quental began to write poetry at an early age, chiefly, though not entirely, devoting himself to the [[sonnet]].<ref name="EB1911">{{EB1911|inline=y|wstitle=Quental, Anthero de |volume=22 |pages=741-742}}</ref> As a child, he took French lessons under [[António Feliciano de Castilho]], a leading figure of the Portuguese [[romantic poetry|Romantic movement]], who resided in [[Ponta Delgada]]. Despite their relationship, Quental would later criticize Castilho and other Romantic poets, sparking a divisive conflict. Quental was seven when he was enrolled at Liçeu Açoriano, a private school where he received English lessons from Mr. Rendall, a renowned prospector on the island. In August 1852, Quental moved with his mother to [[Lisbon]], where he studied at Colégio do Pórtico, whose headmaster was his old tutor Castilho. When the institution closed, Quental returned to Ponta Delgada in 1853. On writing to his old headmaster, he said:
+
+{{quote|Your excellency once put up with me at your Colégio do Pórtico when I was still ten years old, and I confess that I owe you much for your great patience, for the little French that I have known until this day.<ref>{{cite web|url=http://www.gutenberg.org/files/30070/30070-h/30070-h.htm|first=Antero de|last=Quental|title=Bom Senso e Bom Gosto carta ao ex.mo sr. A.F. de Castilho|year=1865|language=Portuguese|publisher=Universidade de Coimbra|location=Coimbra, Portugal|pages=15}}</ref>}}
+Throughout the latter part of his life, Quental dedicated his studies to poetry, politics, and philosophy. By 1855, at the age of 16, he had returned to Lisbon, then went to [[Coimbra]] where he graduated from the Colégio de São Bento in 1857.
+
+===Coimbra years===
+In the fall of 1856, he enrolled at the [[University of Coimbra]], where he studied law and adopted socialist ideas.<ref name=TAP/>
+
+{{quote|The important fact in my life during those years, and probably the most decisive one, was the sort of intellectual and moral revolution that took place within myself, as I left a poor child, pulled away from an almost patriarchal living of a remote province immersed in its placid historical slumber, towards the middle of the irrespective intellectual agitation of an urban center, where the newly found currents of the modern spirit would come more or less to recuperate. As all my Catholic and traditional upbringing swept away instantly, I fell into a state of doubt and uncertainty, as ever the more pungent as I, a naturally religious spirit, had been born to believe placidly and obey without effort to an unknown rule. I found myself without direction, a terrible state of mind, shared more or less by all those of my generation, the first one in Portugal to ever leave the old road of tradition with decision and awareness. If to this I add a burning imagination, with which Nature had blessed me in excess, the awakening of the loving passions known to early manhood, turbulence and petulance, the enthusiasms and discouragements of a meridional temperament, a lot of good faith and goodwill but a severe lack of patience and method, and the portrait of my qualities and defects with which I, at 18 years old, penetrated in the vast world of thought and poetry, shall be drawn.<ref>{{cite book|first=Antero de|last=Quental|title=Cartas Inéditas de Antero de Quental a Wilhelm Storck|trans-title=Unedited letters of Antero de Quental to Wilhelm Storck|year=1931}}</ref>}}
+
+He soon distinguished himself for his oral and written talents, as well as for his turbulent and eccentric nature. While in Coimbra, he founded the Sociedade do Raio, which aimed at promoting literature to the masses, and made blasphemous challenges to religion.<ref name=TAP/>
+
+In 1861, Quental published his first sonnets. Four years later, he published ''Odes Modernas'', influenced by the [[Socialist realism|Socialist Experimentalism]] of [[Proudhon]], which championed intellectual revolution. During that year, a conflict (which would later be known as ''Questão Coimbrã'') developed between the traditionalist poets and the younger students. The old guard was championed by [[António Feliciano de Castilho]] (at that time the chief living poet of the elder generation). The group of students included Quental, [[Teófilo Braga]], [[Viera de Castro]], [[Ramalho Ortigão]], [[Guerra Junqueiro]], [[Eça de Queiros]], [[Joaquim Pedro de Oliveira Martins|Oliveira Martins]], [[Jaime Batalha Reis]] and [[:pt:Guilherme de Azevedo|Guilherme de Azevedo]], among others.<ref name=TAP/> Castilho accused this student group of poetic exhibitionism, obscurity, and generally a lack of good sense and taste. In response, Quental published ''Bom Senso e Bom Gosto'', ''A Dignidade das Letras'', and ''Literaturas Oficiais'' in which he defended their independence. Quental pointed to the mission of poets in an era of great transformation (the necessity to be messengers of the day's great ideological questions) and also criticized Castilho's style of poetry, labeling it ridiculous and trivial. This gave rise to the 1865 controversy known as the ''Questão Coimbrã'' (''Coimbra Question''). Quental's group became known as the 70s Generation, but the ultra-romantic group of António Feliciano de Castilho did not receive a label.<ref name=TAP/>
+
+[[File:Columbano Retrato de Antero de Quental 1889.jpg|thumb|left|A late portrait of Antero de Quental by [[Columbano Bordalo Pinheiro]]]]
+
+===Unquiet maturity===
+Following this controversy, Quental traveled, engaged in political and socialist agitation, and found his way through a series of disappointments, eventually embracing a mild form of pessimism.<ref name="EB1911"/> Paradoxically, this new attitude animated his poetry and gave him new, albeit darker philosophical material. In 1866, he went to live in Lisbon, where he experimented with proletarianism and worked as a typographer at the National Press, a job that he also continued in Paris (where he went to support the French workers), between January and February 1867.<ref name=TAP/>
+
+He briefly went to the United States but returned to Lisbon in 1868. In Lisbon, along with [[Eça de Queirós]], [[Guerra Junqueiro]], and [[Ramalho Ortigão]], he formed ''Cenáculo'', an intellectual group of anarchists against many of the political, social, and intellectual conventions of the day.
+
+In 1869, Quental founded the newspaper ''A República - Jornal da Democracia Portuguesa'' with Oliveira Martins, and in 1872, along with [[José Fontana (publisher)|José Fontana]], began to edit the magazine ''O Pensamento Social''. In 1871, the year of the [[Paris Commune]], Quental organized the famous "Conferências do Casino" ({{langx|en|[[Censorship in Portugal|Casino Conferences]]}}), which marked the beginning of the spread of Socialist and Anarchist ideas in Portugal; in this Quental distinguished himself as a crusader for republican ideals.<ref name=TAP/> He presented himself on two occasions (1879 and 1881) as a candidate for the Partido Socialista Português (Portuguese Socialist Party).<ref name=facundes>Facundes Duarte, Luiz (in Portuguese). [http://www.culturacores.azores.gov.pt/ficheiros/roteiros/2012130144119.pdf ''Roteiros culturais dos Açores: Personalidades: Antero de Quental'', pp. 2, 3, 8.] Direção Regional da Cultura. Governo dos Açores, 2015. Retrieved 8 March 2021.</ref>
+
+In 1873, Quental inherited a sizable amount of money, which allowed him to live in reasonable comfort. Owing to tuberculosis the following year, he rested but returned to re-edit his ''Odes Modernas''. He moved to Oporto, Portugal in 1879, and in 1886 published arguably his best poetic work<!-- According to whom? -->, ''Sonetos Completos'', which included many passages considered autobiographical and symbolic <!-- by whom? -->.
+
+In 1880, he adopted the two daughters of his friend, Germano Meireles, who had died in 1877. During a trip to Paris, Quental became seriously ill, and in September 1881, under counsel from his doctor, Quental began residing in [[Vila do Conde]], where he remained until May 1891 (with a few intervals in the [[Azores]] and [[Lisbon]]). He regarded his time in Vila do Conde as the best of his life. To Carolina Michaelis de Vasconcelos, a friend, he wrote of his need to end his poetry and begin a philosophical phase in his writing, to develop and synthesize his philosophy.<ref name=TAP/>
+
+In reaction to the [[1890 British Ultimatum|English Ultimatum]], on 11 January 1890, Quental agreed to preside over the minor ''Liga Patriótica do Norte'' ({{langx|en|Northern Patriotic League}}), although his involvement was short-lived. When he eventually returned to Lisbon, he stayed at the home of his sister, Ana de Quental.
+
+Throughout his life, Quental oscillated between pessimism and depression; afflicted with what might have been [[bipolar disorder]], at the time of his last trip to Lisbon, he was in a state of steady depression, compounded by spinal disease. After a month in Lisbon, he returned once again to [[Ponta Delgada]] around June 1891. On September 11 that year, at about 8:00 PM, he committed suicide by [[Multiple gunshot suicide|two gunshots to the stomach]] while seated on a bench in a local garden park. He died approximately an hour later. "Of all things, the worst is having been born," he wrote in a poem.
+
+==Works==
+{{Cquote|text=Properly speaking there has been no Portuguese literature before Antero de Quental; before that there has been either a preparation for a future literature, or foreign literature written in the Portuguese language.|author=Fernando Pessoa, letter to William Bentley, 1915.<ref>Pessoa, Fernando. ''Correspondência 1905-1922'', ed. Manuela Parreira da Silva, Lisboa, Assírio & Alvim, 1999, p. 197. {{ISBN|972-37-0505-2}}.</ref>|source=}}
+
+According to the [[Encyclopædia Britannica Eleventh Edition|''Encyclopædia Britannica'' Eleventh Edition]]:{{quote|Antero [stood] at the head of modern Portuguese poetry after [[João de Deus de Nogueira Ramos|João de Deus]]. His principal defect is monotony: his own self is his solitary theme, and he seldom attempts any other form of composition than the sonnet. On the other hand, few poets who have chiefly devoted themselves to this form have produced so large a proportion of really exquisite work. The comparatively few pieces in which he either forgets his doubts and inward conflicts or succeeds in giving them an objective form, are among the most beautiful in any literature. The purely introspective sonnets are less attractive, but equally finely wrought, interesting as psychological studies, and impressive from their sincerity. His mental attitude is well described by himself as the effect of Germanism on the unprepared mind of a Southerner. He had learned much and half-learned more, which he was unable to assimilate, and his mind became a chaos of conflicting ideas, settling down into a condition of gloomy negation, save for the one conviction of the vanity of existence, which ultimately destroyed him. Healthy participation in public affairs might have saved him, but he seemed incapable of entering upon any course that did not lead to delusion and disappointment.
+
+As a prose writer de Quental displayed high talents, though he wrote little. His most important prose is the ''Considerações sobre a philosophia da historia literaria Portugueza'', but he earned fame by his pamphlets on the Coimbra question, ''Bom senso e bom gosto'', a letter to Castilho, and ''A dignidade das lettras e litteraturas officiaes''.<ref name="EB1911"/>}}
+
+His friend [[Joaquim Pedro de Oliveira Martins|Oliveira Martins]] edited the Sonnets (Oporto, 1886), supplying an introductory essay.  An interesting collection of studies on the poet by the leading Portuguese writers appeared in a volume entitled ''Anthero de Quental. In Memoriam'' (Oporto, 1896). The sonnets have been translated into many languages; into English by [[Edgar Prestage]] (Anthero de Quental, Sixty-four Sonnets, London, 1894), together with a striking autobiographical letter addressed by Quental to his German translator, Dr. Storck.<ref name="EB1911"/>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Gutenberg author | id=34296| name=Antero de Quental}}
+* {{Internet Archive author |sname=Antero de Quental}}
+* {{Librivox author |id=5733}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Quental, Antero De}}
+[[Category:1842 births]]
+[[Category:1891 deaths]]
+[[Category:1890s suicides]]
+[[Category:19th-century Portuguese male writers]]
+[[Category:19th-century Portuguese poets]]
+[[Category:Azorean writers]]
+[[Category:People from Ponta Delgada]]
+[[Category:Portuguese male poets]]
+[[Category:Portuguese socialists]]
+[[Category:Sonneteers]]
+[[Category:Suicides by firearm in Portugal]]
+[[Category:University of Coimbra alumni]]
+[[Category:Portuguese anarchists]]

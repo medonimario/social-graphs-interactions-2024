@@ -1,0 +1,114 @@
+{{Short description|Scottish philosopher}}
+{{Use dmy dates|date=April 2023}}
+
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[19th-century philosophy]]
+|image            = Edward Caird.jpg
+|caption          = Caird while a professor at the [[University of Glasgow]]
+|name             = Edward Caird
+|honorific_suffix = {{post-nominals|country=GBR|FRSE|FBA|size=100%}}
+|birth_date       = 23 March 1835
+|birth_place      = [[Greenock]], Scotland
+|death_date       = 1 November 1908
+|death_place      = Oxford, England
+|alma_mater       = [[University of Glasgow]]
+|institutions     = [[Merton College, Oxford]]
+|school_tradition = [[British idealism]]<ref name=IEP>[http://www.iep.utm.edu/c/caird.htm "Edward Caird"]. ''[[Internet Encyclopedia of Philosophy]]''.</ref>
+|main_interests   = [[Philosophy of religion]]
+|notable_ideas    = The relation of [[evolutionary theory]] to the development of thought and culture<ref name=IEP/>
+|academic_advisors = [[Benjamin Jowett]]
+|influences       = [[Thomas Carlyle]], [[Benjamin Jowett]]
+|influenced       = [[Henry Jones (philosopher)|Henry Jones]], [[John Watson (philosopher)|John Watson]]
+}}
+
+'''Edward Caird''' {{post-nominals|country=GBR|FRSE|FBA}} ({{IPAc-en|k|ɛər|d}}; 23 March 1835 – 1 November 1908) was a Scottish [[philosopher]]. He was a holder of [[LLD]], [[Doctor of Civil Law|DCL]], and [[DLitt]].
+
+==Life==
+[[File:Edward Caird Vanity Fair 4 April 1895.jpg|thumb|{{center|Caird as caricatured by Spy ([[Leslie Ward]]) in [[Vanity Fair (British magazine)|Vanity Fair]], April 1895.}}]]
+
+The younger brother of the theologian [[John Caird (theologian)|John Caird]], he was the son of engineer John Caird, the proprietor of [[Caird & Company]],<ref>{{cite web |url = http://www.rse.org.uk/fellowship/fells_indexp1.pdf |title=Former RSE Fellows 1783–2002 |publisher=[[Royal Society of Edinburgh]] |access-date=19 September 2010 |url-status=dead |archive-url = https://web.archive.org/web/20061004113545/http://www.rse.org.uk/fellowship/fells_indexp1.pdf |archive-date = 4 October 2006 }}</ref> born at [[Greenock]] in [[Renfrewshire (historic)|Renfrewshire]], and educated at [[Greenock Academy]] and the Universities of [[University of Glasgow|Glasgow]] and [[University of Oxford|Oxford]] (B.A. 1863). He was a Fellow and Tutor of [[Merton College, Oxford|Merton College]] from 1864 to 1866.<ref name="MCreg">{{cite book|editor1-last=Levens|editor1-first=R.G.C.|title=Merton College Register 1900–1964|date=1964|publisher=Basil Blackwell|location=Oxford|page=6}}</ref><ref>Boucher, D., [[Raymond Geuss|Geuss, R.]], & [[Quentin Skinner|Skinner, Q.]], eds., ''The British Idealists'' (Cambridge: [[Cambridge University Press]], 1997), [https://books.google.com/books?id=E4_MpkL6ue4C&pg=PR36 p. xxxvi].</ref>{{rp|xxxvi}}
+
+In 1866, he was appointed to the [[Professor of Moral Philosophy, Glasgow|Chair of Moral Philosophy]] at [[University of Glasgow|Glasgow]], which he held until 1893. In that year he became [[Master (college)|Master]] of [[Balliol College, Oxford|Balliol College]], from which he retired in 1907. In 1894 he was made an Honorary Fellow of Merton College.<ref name="MCreg" />
+
+He was elected an Honorary Fellow of the [[Royal Society of Edinburgh]] in 1900.
+
+In May 1902 he was at [[Caernarfon|Carnavon]] to receive the honorary degree [[D.Litt.]] (Doctor of Letters) from the [[University of Wales]] during the ceremony to install the Prince of Wales (later King [[George V]]) as Chancellor of that university.<ref>{{cite newspaper The Times |title=The Royal visit to Wales |date=5 May 1902 |page=10 |issue=36759 }}</ref>
+
+He was a founder member of the [[Glasgow and West of Scotland Association for Women's Suffrage]],<ref>{{cite book |last=King |first=Elspeth |title = The Scottish Women's Suffrage Movement / ... compiled by Elspeth King to accompany the Government sponsored 'Right to Vote' exhibition organised to commemorate the 50th anniversary of the Representation of the People Act, from 9th September- 7th October 1978, Peoples Palace Museum, Glasgow Green |year=1978 |publisher=People's Palace Museum |location=Glasgow }}</ref> alongside his wife, Caroline.
+
+The philosopher [[John Watson (philosopher)|John Watson]] was among his pupils at the University of Glasgow.<ref>{{cite web |url = http://www.giffordlectures.org/Author.asp?AuthorID=176 |title = Gifford Lecture Series – Biography – John Watson |access-date=2011-09-05 |url-status=dead |archive-url = https://web.archive.org/web/20110914052909/http://www.giffordlectures.org/Author.asp?AuthorID=176 |archive-date=14 September 2011 }}</ref>
+
+He died in [[Oxford]] on 1 November 1908 and was buried there in St Sepulchres Cemetery.<ref>{{Cite book |url=https://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp1.pdf |title=Former Fellows of The Royal Society of Edinburgh, 1783–2002: Part 1 (A–J) |author=C D Waterston |author2=A Macmillan Shearer |publisher=[[Royal Society of Edinburgh]] |isbn=090219884X |date=July 2006 |access-date=18 September 2015 |archive-date=24 January 2013 |archive-url=https://web.archive.org/web/20130124115814/http://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp1.pdf |url-status=dead}}</ref>
+
+Caird was a [[Georg Wilhelm Friedrich Hegel|Hegelian]] idealist and was an important contributor to the [[British idealism|British idealist]] movement.<ref>Mander, W. J. (2014). ''The Oxford Handbook of British Philosophy in the Nineteenth Century''. Oxford University Press. p. 560. {{ISBN|978-0-19-959447-4}}</ref><ref>Brown, Stuart; Collinson, Diane; Wilkinson, Robert. (1996). ''Biographical Dictionary of Twentieth-Century Philosophers''. Routledge. [https://books.google.com/books?id=UZQqBgAAQBAJ&pg=PT121 p. 121]. {{ISBN|0-415-06043-5}}</ref>{{rp|121}}
+
+==Family==
+He married Caroline Frances Wylie in 1867. They had no children.<ref>Anon., ''Who was Who: A Companion to "Who's Who"'' (London: [[A & C Black]], 1967), p. 111.</ref>
+
+==Works==
+===Books===
+* ''The Collected Works of Edward Caird'', 12 volumes, ed. Colin Tyler, Bristol: Thoemmes Press, 1999
+* ''A Critical Account of the Philosophy of Kant, with an Historical Introduction'', Glasgow: J. Maclehose, 1877
+* [https://archive.org/details/hegelcaird00cairuoft ''Hegel''], Philadelphia: J. B. Lippincott and Co.; Edinburgh: W. Blackwood and Sons, 1883
+* [https://archive.org/details/socialphilosophy00cairrich ''The Social Philosophy and Religion of Comte''], Glasgow: J. Maclehose and Sons, 1885; New York: Macmillan, 1885
+* ''The Critical Philosophy of Immanuel Kant'', Glasgow: J. Maclehose and Sons, 1889; New York: Macmillan, 1889 (2 volumes) [https://archive.org/details/criticalphilosop01cairuoft ''Volume 1''] [https://archive.org/details/kantcritical02cairuoft ''Volume 2''] second edition 1909
+* ''Essays on Literature and Philosophy'', Glasgow: J. Maclehose and Sons, 1892 (2 volumes) [https://archive.org/details/essaysonliterat05cairgoog ''Volume 1''] [https://archive.org/details/essaysonliteratu00cairuoft ''Volume 2'']
+* ''The Evolution of Religion'', Glasgow: James Maclehose and Sons, 1893; New York: Macmillan, 1893 ([[Gifford Lectures]] 1890–92; [https://web.archive.org/web/20080416172055/http://www.giffordlectures.org/Browse.asp?PubID=TPEVRO&Cover=TRUE I], [https://web.archive.org/web/20080416172100/http://www.giffordlectures.org/Browse.asp?PubID=TPEVRT&Cover=TRUE II]) 
+* ''The Evolution of Theology in the Greek Philosophers'', Glasgow: J. Maclehose and Sons, 1904 ([[Gifford Lectures]], 1900–02; [https://web.archive.org/web/20080416173320/http://www.giffordlectures.org/Browse.asp?PubID=TPETGO&Cover=TRUE I], [https://web.archive.org/web/20080416173326/http://www.giffordlectures.org/Browse.asp?PubID=TPETGT&Cover=TRUE II])
+* [https://archive.org/details/laysermonsaddres00cairuoft ''Lay sermons and addresses, delivered in the Hall of Balliol College, Oxford''] (1907)
+
+===Pamphlets===
+* [https://archive.org/details/problemphilosop00cairgoog ''The Problem of Philosophy at the Present Time: an Introductory Address Delivered to the Philosophical Society of the University of Edinburgh''], Glasgow, James Maclehose & Sons, 1881
+* ''The Moral Aspect of the Economical Problem: Presidential Address to the Ethical Society'', London, [[William Swan Sonnenschein|Swan Sonnenschein, Lowrey & Co.]], 1888
+* ''Address on Plato's Republic as the Earliest Educational Treatise'', Bangor: Jarvis & Foster, 1894
+* [https://archive.org/details/individualisman00cairgoog ''Individualism and Socialism, Being the Inaugural Address to the Civic Society of Glasgow''] (1897)
+* [https://archive.org/details/idealismandtheth00cairuoft ''Idealism and the Theory of Knowledge''], London: [[Oxford University Press#Henry Frowde|Henry Frowde]], 1903
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{refbegin}}
+* [[Henry Jones (philosopher)|Jones, H.]], & [[J. H. Muirhead|Muirhead, J. H.]], ''The Life and Philosophy of Edward Caird'', Glasgow: [[James MacLehose and Sons|MacLehose, Jackson & Co.]], 1921.
+* Tyler, C., ''Edward Caird'', in ''Dictionary of Liberal Thought''; Brack & Randall (eds.), Politico's 2007, pp.&nbsp;54–56.
+{{refend}}
+
+== External links ==
+{{Wikisource author}}
+* {{Internet Archive author |sname=Edward Caird}}
+*[https://archive.org/details/thelifeandphilo00joneuoft The life and philosophy of Edward Caird], by [[Henry Jones (philosopher)|Sir Henry Jones]] and John Henry Muirhead (1921), on the [[Internet Archive]]
+*[https://web.archive.org/web/20130529012917/http://www.giffordlectures.org/Author.asp?AuthorID=34 ''Edward Caird''] biographical notes and Lectures online at the [[Gifford Lectures]] website
+*[http://www.stsepulchres.org.uk/burials/caird_edward.html Edward Caird's grave in St Sepulchre's Cemetery, Oxford, with biography]
+*{{cite EB1911|wstitle=Caird, Edward}}
+*{{cite SBDEL|wstitle=Caird, Edward}}
+
+{{Clear}}
+{{s-start}}
+{{s-aca}}
+{{succession box|title=[[Balliol College, Oxford|Master of Balliol College, Oxford]]|years = 1893–1907|before=[[Benjamin Jowett]]|after=[[James Leigh Strachan-Davidson]]}}
+{{end}}
+
+{{Women's suffrage in Scotland}}
+{{FBA 1902}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Caird, Edward}}
+[[Category:1835 births]]
+[[Category:1908 deaths]]
+[[Category:Alumni of the University of Glasgow]]
+[[Category:Alumni of Balliol College, Oxford]]
+[[Category:Academics of the University of Glasgow]]
+[[Category:Idealists]]
+[[Category:Masters of Balliol College, Oxford]]
+[[Category:Fellows of Merton College, Oxford]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Fellows of the British Academy]]
+[[Category:People from Greenock]]
+[[Category:People educated at Greenock Academy]]
+[[Category:Scottish philosophers]]
+[[Category:Scottish suffragists]]
+[[Category:Presidents of Co-operative Congress]]
+[[Category:Burials at St Sepulchre's Cemetery]]

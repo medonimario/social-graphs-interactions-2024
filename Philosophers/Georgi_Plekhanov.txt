@@ -1,0 +1,188 @@
+{{Short description|Russian philosopher (1856–1918)}}
+{{Use dmy dates|date=March 2024}}
+{{Family name hatnote|Valentinovich|Plekhanov|lang=Eastern Slavic}}
+{{Infobox philosopher
+| region = [[Russian philosophy]]
+| era = [[19th-century philosophy]]
+| school_tradition = [[Marxism]]<br>[[Dialectical materialism]]<ref name=0:/><br>[[Historical materialism]]<ref name=0:/>
+|name = Georgi Plekhanov
+|image = Georgi Plekhanov.jpg
+|birth_name = Georgi Valentinovich Plekhanov
+|birth_date = {{Birth date|df=yes|1856|12|11}}
+|birth_place = [[Gryazinsky District|Gudalovka]], [[Tambov Governorate]], [[Russian Empire]]
+|death_date = {{Death date and age|df=yes|1918|5|30|1856|11|26}}
+|death_place = [[Zelenogorsk, Saint Petersburg|Terijoki]], [[Kingdom of Finland (1918)|Finland]]
+|spouse = Rozaliia Bograd-Plekhanova
+|education = [[Voronezh]] Military Academy<br>[[St. Petersburg]] Metallurgical Institute <small>(withdrew)</small>
+|native_name={{nobold|Георгий Плеханов}}|native_name_lang=ru}}
+{{Marxism}}
+
+'''Georgi Valentinovich Plekhanov''' ({{lang-rus|Гео́ргий Валенти́нович Плеха́нов|p=ɡʲɪˈorɡʲɪj vəlʲɪnʲˈtʲinəvʲɪtɕ plʲɪˈxanəf|a=Ru-Georgi Plekhanov-JermyRei.ogg}}; {{OldStyleDate|11 December|1856|29 November}} – 30 May 1918) was a Russian revolutionary, philosopher and [[Marxist theorist]]. Known as the "father of Russian Marxism",<ref>{{Cite journal |last=Baron |first=Samuel H. |date=1954 |title=Plekhanov and the Origins of Russian Marxism |url=https://www.jstor.org/stable/125906 |journal=The Russian Review |volume=13 |issue=1 |pages=38–51 |doi=10.2307/125906 |issn=0036-0341 |jstor=125906}}</ref> Plekhanov was a highly influential figure among Russian radicals, including [[Vladimir Lenin]].
+
+Born to a [[Tatar]] [[Nobility|noble]] family, Plekhanov joined the [[Narodniks|Narodnik]] movement as a student. He was twice arrested and fled to [[Switzerland]] in 1880, where he continued his political activity and became a [[Marxist]]. In 1883, he helped found the first Russian Marxist group, [[Emancipation of Labour]], and from 1900 co-edited the journal ''[[Iskra]]'' with Lenin. Though he supported Lenin's [[Bolshevik]] faction at the [[2nd Congress of the Russian Social Democratic Labour Party]] in 1903, Plekhanov soon rejected his idea of [[democratic centralism]], and became one of Lenin and [[Leon Trotsky]]'s principal antagonists in the [[Russian Revolution of 1905|1905 Revolution]] and [[Saint Petersburg Soviet]]. 
+
+During [[World War I]], Plekhanov rallied to the cause of the [[Entente powers]] against Germany. He returned to Russia following the [[February Revolution]] of 1917, and was an opponent of the Bolshevik state which came to power in the [[October Revolution]], considering the revolution "unprincipled" and a "violation of all the laws of history". Plekhanov died the next year of [[tuberculosis]] in [[Finland]]. Despite his vigorous and outspoken opposition to Lenin's political party in 1917, Plekhanov was held in high esteem by the [[Communist Party of the Soviet Union]] following his death as a founding father of Russian Marxism and a philosophical thinker.
+
+==Early years==
+[[File:Plechanov.jpg|thumb|left|Plekhanov in the 1870s]]
+Georgi Valentinovich Plekhanov was born 29 November 1856 (old style) in the Russian village of [[Gryazinsky District|Gudalovka]] in the [[Tambov Governorate]], one of twelve siblings. Georgi's father, Valentin Plekhanov, from a [[Volga Tatars|Tatar]] [[Nobility|noble]] family,<ref>''Russian Philosophy: Pre-Revolutionary Philosophy and Theology Philosophers in Exile Marxists and Communists'', Volume III (1965), p. 352</ref><ref>[[Faubion Bowers]], ''Scriabin, a Biography'', Courier Corporation (1996), p. 92</ref> was a member of the [[Russian nobility|hereditary nobility]].<ref name="Father4">Samuel H. Baron, ''Plekhanov: The Father of Russian Marxism.'' Stanford, CA: Stanford University Press, 1963; pg. 4.</ref> Valentin was a member of the lower stratum of the Russian nobility, the possessor of about 270 acres of land and approximately 50 [[Serfdom|serfs]].<ref name="Father4" /> Georgi's mother, Maria Feodorovna, was a distant relative of the famous literary critic [[Vissarion Belinsky]] and was married to Valentin in 1855, following the death of his first wife.<ref name="Father6">Baron, ''Plekhanov: The Father of Russian Marxism,'' pg. 6.</ref> Georgi was the first-born of the couple's five children.<ref name="Father6" />
+
+Georgi's formal education began in 1866, when the 10-year-old was entered into the [[Voronezh]] Military Academy.<ref name="Father6" /> He remained a student at the Military Academy, where he was well taught by his teachers and well liked by his classmates, until 1873.<ref name="Father6" /> His mother later attributed her son's life as a revolutionary to liberal ideas to which he was exposed in the course of his education at the school.<ref>Baron, ''Plekhanov: The Father of Russian Marxism,'' pp. 6–7.</ref>
+
+In 1871, Valentine Plekhanov gave up his effort to maintain his family as a small-scale landlord and accepted a job as an administrative official in a newly formed [[zemstvo]].<ref name="Father4" /> He died two years later but his body has been on display in the center of the commons ever since.
+
+After the death of his father, Plekhanov resigned from the Military Academy and enrolled at the [[Saint Petersburg|St. Petersburg]] Metallurgical Institute.<ref name="Haimson31">Leopold H. Haimson, ''The Russian Marxists and the Origins of Bolshevism.'' Cambridge, MA: Harvard University Press, 1955; pg. 31.</ref> There in 1875 he was introduced to a young revolutionary intellectual named [[Pavel Axelrod]], who later recalled that Plekhanov instantly made a favorable impression upon him:
+
+<blockquote>
+"He spoke well in a business-like fashion, simply and yet in a literary way. One perceived in him a love for knowledge, a habit of reading, thinking, working. He dreamed at the time of going abroad to complete his training in [[chemistry]]. This plan didn't please me... This is a luxury! I said to the young man. If you take so long to complete your studies in chemistry, when will you begin to work for the revolution?"<ref>Pavel Aksel'rod, "Perezhitoe i peredumannoe," ''Letopis' revoliutsii,'' vol. 1, no. 14, Berlin, 1923. Quoted in Baron, ''Plekhanov: The Father of Russian Marxism,'' pg. 31.</ref></blockquote>
+
+Under Axelrod's influence, Plekhanov was drawn into the [[Narodnik|populist]] movement as an activist in the primary revolutionary organization of the day, "[[Land and Liberty (Russia)|Zemlia i Volia]]" (Land and Liberty). Plekhanov never graduated.<ref>Samuel H. Baron, ''Plekhanov in Russian History and Soviet Historiography.'' Pittsburgh: University of Pittsburgh Press, 1995; pg. 4.</ref>
+
+==Political activity==
+[[File:Plekhanov.jpg|thumb|Portrait of Plekhanov by V. Vainshtein]]
+Plekhanov was one of the organizers of the first political demonstrations in [[Russia]]. On 6 December 1876, Plekhanov delivered a fiery speech during a [[Kazan demonstration|demonstration in front of the Kazan Cathedral]] in Saint Petersburg in which he indicted the [[Tsarist autocracy]] and defended the ideas of [[Nikolay Chernyshevsky|Chernyshevsky]]. Thereafter, Plekhanov was forced by the fear of retribution to lead an underground life. He was arrested twice for his political activities, in 1877 and again in 1878, but released both times after only a short time in jail.<ref name="Between4">Samuel H. Baron, "Between Marx and Lenin: G.V. Plekhanov," ''Soviet Survey,'' vol. 32, no. 2 (April–June 1960); reprinted in Baron, ''Plekhanov in Russian History and Soviet Historiography,'' pp. 4–5.</ref>
+
+Although originally a [[Populism|populist]], after emigrating to [[Western Europe]] he established connections with the Social-Democratic movement of Western Europe and began to study the works of [[Karl Marx]] and [[Friedrich Engels]]. When the question of [[terrorism]] became a matter of heated debate in the populist movement in 1879, Plekhanov cast his lot decisively with the opponents of political assassination.<ref name="Haimson37">Haimson, ''The Russian Marxists and the Origins of Bolshevism,'' pg. 37.</ref> In the words of historian [[Leopold Haimson]], Plekhanov "denounced terrorism as a rash and impetuous movement, which would drain the energy of the revolutionists and provoke a government repression so severe as to make any agitation among the masses impossible."<ref name="Haimson37" /> Plekhanov was so certain of the correctness of his views that he determined to leave the revolutionary movement altogether rather than to compromise on the matter.<ref name="Haimson37" />
+
+Plekhanov founded a tiny populist [[splinter group]] called ''Chërnyi Peredel'' ([[Black Repartition]]), which attempted to wage a battle of ideas against the new organization of the growing terrorist movement, ''[[Narodnaya Volya]]'' (the People's Will).<ref name="Between5">Baron, "Between Marx and Lenin: G.V. Plekhanov," pg. 5.</ref> Plekhanov was manifestly unsuccessful in this effort.
+
+In 1879 he married Rozaliia Bograd-Plekhanova, a medical student who had been active in the Populist movement. She accompanied him in 1880 when he left Russia for Switzerland on what was originally intended as a brief stay. It would be 37 years before he was able to return again to his native land.<ref name="Between5" />
+
+During the next three years, Plekhanov read extensively on [[political economy]], gradually coming to question his faith in the revolutionary potential of the traditional [[Obshchina|village commune]].<ref>Haimson, ''The Russian Marxists and the Origins of Bolshevism,'' pg. 42.</ref> During these years from 1882 through 1883, Plekhanov became a convinced Marxist and in the late 1880s he established personal contact with [[Friedrich Engels]].<ref>V. A. Fomina, "Plekhanov's role in the Defence and Substantiation of Marxist Philosophy (Introductory Essay) contained in the ''Selected Philosophical Works: Volume I'' (Moscow: Progress Publishers, 1974) p. 10.</ref>
+
+Plekhanov also became a committed [[centralism|centralist]] in this period, coming to believe in the efficacy of political struggle.<ref name="Haimson43">Haimson, ''The Russian Marxists and the Origins of Bolshevism,'' pg. 43.</ref> He decided that the struggle for a socialist future first required the development of capitalism in agrarian Russia.<ref name="Haimson43"/>
+
+In September 1883 Plekhanov joined with his old friend Pavel Axelrod, [[Leo Deutsch|Lev Deutsch]], Vasily Ignatov, and [[Vera Zasulich]] in establishing the first Russian-language Marxist political organization, the ''Gruppa Osvobozhdenie Truda'' or the "[[Emancipation of Labour|Emancipation of Labor Group]]." Also in the fall of 1883, Plekhanov authored the social program of the Emancipation of Labor Group.<ref>Georgi Plekhanov, "Programme of the Social-Democratic Emancipation of Labor Group" contained in the ''Selected Philosophical Works: Volume 1'' (Moscow: Progress Publishers, 1974) pp. 353–357.</ref> Based in [[Geneva, Switzerland|Geneva]], the Emancipation of Labor Group attempted to popularize the economic and historical ideas of Karl Marx, in which they met with some success, attracting such eminent intellectuals as [[Peter Struve]], [[V.I. Lenin|Vladimir Ulianov (Lenin)]], [[Julius Martov|Iulii Martov]], and [[Alexander Potresov]] to the organization.<ref name="Between6">Baron, "Between Marx and Lenin: G.V. Plekhanov," pg. 6.</ref>
+
+In 1900, Plekhanov, Pavel Axelrod, Zasulich, Lenin, [[Alexander Potresov|Potresov]], and [[Julius Martov|Martov]] joined forces to establish a Marxist newspaper, ''[[Iskra]]'' (The Spark).<ref name="Between6" /> The paper was intended to serve as a vehicle to unite various independent local Marxist groups into a single unified organization.<ref name="Between6" /> From this effort emerged the [[Russian Social-Democratic Labor Party]] (RSDLP), an [[umbrella group]] which soon split into hostile [[Bolshevik Party|Bolshevik]] and [[Menshevik Party|Menshevik]] political organizations.
+
+In 1903, at the [[Second Congress of the RSDLP]], Plekhanov initially sided with Lenin, ironic given his later politics.
+
+Plekhanov came to regret his remarks on the subordination of democracy to a proletarian dictatorship:
+
+{{cquote|The success of the revolution is the highest law. And if the success of the revolution demands a temporary limitation on the working of this or that democratic principle, then it would be criminal to refrain from such a limitation...The revolutionary proletariat might limit the political rights of the higher classes ...If in a burst of revolutionary enthusiasm the people chose a very fine parliament ...then we would make of it a long parliament; and if the elections turned out unsuccessfully then we would have to try to disperse it."<ref>Tony Cliff, Lenin: Building the Party, pp 104–5</ref>}}
+
+During the [[1905 Russian Revolution|Russian Revolution of 1905]], Plekhanov was unrelenting in his criticism of Lenin and the [[Bolsheviks]], charging that they failed to understand the historically determined limits of revolution and to base their tactics upon actual conditions.<ref name="HistoryXIV">Samuel H. Baron, ''Plekhanov in Russian History and Soviet Historiography.'' Pittsburgh: University of Pittsburgh Press, 1995; pg. xiv.</ref> He believed the Bolsheviks were acting contrary to objective laws of history, which called for a stage of capitalist development before the establishment of socialist society would be possible in economically and socially backwards Russia and characterized the expansive goals of his radical opponents' "political hallucinations."<ref name="HistoryXIV" />
+
+Plekhanov believed that Marxists should start concerning themselves with everyday struggles, as opposed to larger revolutionary goals. In order for this to occur, the [[Russian Social-Democratic Labor Party]] organizations had to be run democratically.<ref>{{cite book|title=Stalinism and the Politics of Mobilization|first=David|last=Priestland|author-link=David Priestland|year=2007|publisher=[[Oxford University Press]]|isbn=978-0199245130}}</ref>
+
+==Literary activity==
+In the 1880s, Plekhanov began to write and publish the first of his important political works, including the [[pamphlet]] ''Socialism and Political Struggle'' (1883)<ref>Georgi Plekhanov, "Socialism and Political Struggle" contained in the ''Selected Philosophical Works: Volume I'' (Moscow: Progress Publishers, 1974) pp. 49–106.</ref> and the full-length book ''Our Differences'' (1885).<ref>Georgi Phekhanov, "Our Differences" contained in ''Selected Philosophical Works: Volume I'' pp. 107–352.</ref> These works first expressed the [[Marxism|Marxist]] position for a Russian audience and delineated the points of departure of the Marxists from the Populist movement.<ref>Baron, ''Plekhanov: The Father of Russian Marxism,'' pg. 89.</ref> Lenin called the former, the "first ''profession de foi'' [profession of faith] of Russian socialism." Plekhanov famously noted, "... without revolutionary theory there is no revolutionary movement in the true sense of the word." In the latter book, Plekhanov emphasized that capitalism had begun to establish itself in Russia, primarily in the [[textile industry]]<ref>Georgi Plekhanov, "Our Differences" contained in the ''Selected Philosophical Works: Volume 1'', pp. 216–237.</ref> but also in agriculture,<ref>Georgi Plekhanov, "Our Differences" contained in the ''Selected Philosophical Works: Volume 1'', pp. 238–274.</ref> and that a working class was beginning to emerge in [[peasant]] Russia.<ref>Baron, ''Plekhanov: The Father of Russian Marxism,'' pp. 98–99.</ref> It was this expanding working class that would ultimately and inevitably bring about socialist change in Russia, Plekhanov argued.<ref>Georgi Plekhanov, "Our Differences" contained in the ''Selected Philosophical Works: Volume 1'' pp. 341–342.</ref>
+
+In January 1895, Plekhanov published his most famous work, ''The Development of the Monist View of History''.<ref>Georgi Plekhanov, "The Development of the Monist View of History" contained in the ''Selected Philosophical Works: Volume 1'', pp. 480–697.</ref> The book passed the censors of the Russian government and was legally published in Russia. Plekhanov wrote the book under the pseudonym Beltov and admitted to the use of the "purposely clumsy" name for the book in order to deceive the Russian censors.<ref name="A. Fomina p. 16">V. A. Fomina, "Introductory Essay" contained in the ''Selected Philosophical Works: Volume 1'', p. 16.</ref> Plekhanov's book became a very popular defense of the materialistic conception of history. Indeed, Lenin would later comment that Plekhanov's book "helped educate a whole generation of Russian Marxists."<ref name="A. Fomina p. 16"/> Friedrich Engels commented in a 30 January 1895 letter to Vera Zasulich that Plekhanov's book had been published at a most opportune time.<ref>Engels' letter to Vera Zasulich dated 30 January 1895 contained in the ''Collected Works of Karl Marx and Frederick Engels: Volume 50'' (New York: International Publishers, 2004) p. 436.</ref> Tsar [[Nicholas II]] had just released a statement on 29 January (or 17 January under the old Russian calendar) that announced that it was fruitless for the ''[[Zemstvo]]s'', locally elected district councils, to agitate for any more democratic reforms in the Russian government.<ref>See note 505 contained in the ''Collected works of Karl Marx and Frederick Engels: Volume 50'', p. 601.</ref> [[Nicholas II of Russia|Nicholas II]] had decided to return Russia to the absolute Tsarist autocracy of his father, [[Alexander III of Russia|Alexander III]]. The elected ''Zemstvos'', which formed a local government in the European sectors of the Russian Empire, had been initiated by Nicholas' grandfather, Tsar [[Alexander II of Russia|Alexander II]] in 1864.<ref>See note 504 in the ''Collected Works of Karl Marx and Frederick Engels: Volume 50'' (New York: International Publishers, 2004) p. 601.</ref> Under Nicholas II's re-initiation of absolute autocracy, the ''Zemstvos'' would become superfluous and basically be abolished. Engels expected this announcement would cause an upsurge in popular protest in Russia and thought that the timely publication of Plekhanov's book would augment that popular protest.
+
+Later on 8 February 1895, Engels wrote directly to Plekhanov congratulating him on the "great success" of getting the book "published ''inside the country''".<ref>Engels' letter to Georgi Plekhanov dated 8 February 1895 contained in the ''Collected Works of Karl Marx and Frederick Engels: Volume 50'', p. 439.</ref> A German Edition of the Plekhanov's book was published in Stuttgart in 1896.<ref name="A. Fomina p. 16"/>
+
+Throughout the 1890s, Plekhanov was involved in three tasks in revolutionary literature. First, he sought to reveal the inner link between pre-Marxist [[French materialism]] and the materialism of Marx. His "Essays on the History of Materialism (1892–1893)"<ref>Georgi Plekhanov, "Essays on the History of Materialism" contained in the ''Selected Philosophical Works: Volume II'' (Moscow: Progress Publishers, 1976) pp. 31–182.</ref> dealt with the French materialists—[[Paul Holbach]] and [[Claude Adrien Helvétius]]. Plekhanov defended both Helvètius and Holbach from attacks by [[Friedrich Albert Lange]], Jules–Auguste Soury and the other [[neo-Kantianism|neo-Kantian idealist]] philosophers.<ref>Georgi Plekhanov, "Essays on the History of Materialism" contained in the ''Selected Philosophical Works: Volume II'', pp. 40–41 and 79–80.</ref> In this series of writings, Plekhanov was careful to place special emphasis on the revolutionary nature of the Marxists' philosophy.<ref name=0:>B. A. Chagin, "G. V. Plekhanov's Defence and substantiation of Dialectical and Historical Materialism in the Struggle Against Revisionism" as the "Introduction" contained Georgi Plekhanov's ''Selected Philosophical Works: Volume II'' (Moscow: Progress Publishers, 1976) p. 11.</ref> Plekhanov not only found materialism to be the motor force in history, but went on to outline a particular type of materialism—the "economic determinism model of materialism as the specific element that moved history."<ref>See Georgi Plekhanov "A Few Words in Defence of Economic Materialism" and "On the Economic Factor" contained in the ''Selected Philosophical Works: Volume II'', pp. 183–210 and 251–282.</ref>
+
+Secondly, Plekhanov outlined a history of materialism and its struggle against bourgeois ideologists.<ref name="Chagin11">B. A. Chagin, "Introduction" contained in Georgi Plekhanov's ''Selected Philosophical Works: Volume II'', p. 11.</ref> Bourgeois philosophers of the "[[great man theory]] of history" came under attack from Plekhanov from the economic determinist point of view in his 1898 book entitled "On the Individual's Role in History."<ref>Georgi Plekhanov, ''Selected Philosophical Works: Volume II'', pp. 283–315.</ref> Thirdly, Plekhanov defended revolutionary Marxism against the revisionist critics—[[Eduard Bernstein]], [[Pyotr Struve]], ''etc''.<ref name="Chagin11"/>
+
+Despite their sharp differences, Plekhanov was recognized, even in his own lifetime, as having made a great contribution to Marxist philosophy and literature by V.I. Lenin. "The services he rendered in the past," Lenin wrote of Plekhanov, "were immense. During the twenty years between 1883 and 1903 he wrote a large number of splendid essays, especially those against the [[Opportunism|opportunists]], [[Ernst Mach|Machists]], and [[Narodnik]]s." Even after the [[October Revolution]] Lenin insisted on republishing Plekhanov's philosophical works and including these works as compulsory texts for prospective communists.
+
+It seems that Plekhanov, although a revolutionary figure, had not taken the view that art must serve political ends. He himself criticized Chernyshevsky for his view of art, that art must be propagandist; he, rather, declared that only art which serves history, not transient pleasure, is valuable.
+
+==War years==
+[[File:Plejanov1917.jpg|thumb|left|Plekhanov in 1917]]
+With the outbreak of [[World War I]], Plekhanov became an outspoken supporter of the [[Entente powers]], for which he was derided as a so-called "[[Social patriotism|Social Patriot]]" by Lenin and his associates. Plekhanov was convinced that German [[imperialism]] was at fault for the war and he was convinced that German victory in the conflict would be an unmitigated disaster for the European working class.<ref name="Dict">Samuel H. Baron, "Georgii Valentinovich Plekhanov," in George Jackson with Robert Devlin (eds.), ''Dictionary of the Russian Revolution.'' Westport, CT: Greenwood Press, 1989; pp. 447–449.</ref>
+
+Plekhanov was initially dismayed by the [[February Revolution]] of 1917, considering it as an event which disorganized Russia's war effort.<ref name="Dict" /> He soon came to terms with the event, however, conceiving of it as a long-anticipated [[bourgeoisie|bourgeois]]-democratic revolution which would ultimately bolster flagging popular support for the war effort and he returned home to Russia.<ref name="Dict" />
+
+Plekhanov was extremely hostile to the Bolshevik Party headed by Lenin and was the top leader of the tiny [[Yedinstvo]] group, which published a newspaper by the same name.<ref name="Dict" /> He criticized Lenin's revolutionary [[April Theses]] as "ravings" and called Lenin himself an "alchemist of revolution" for his seeming willingness to leap over the stage of capitalist development in agrarian Russia in advocating socialist revolution.<ref name="Dict" /> Plekhanov lent support to the idea that Lenin was a "German agent" and urged the [[Russian Provisional Government]] of [[Alexander Kerensky]] to take severe repressive measures against the Bolshevik organization to halt its political machinations.<ref name="Dict" />
+
+==Marriage==
+[[File:RosalíaLidiaPlejánovEugeniaDécadaDe1890.png|thumb|right|The Plekhanov family in the 1890s]]
+In 1879, Plekhanov married Rozalia Bograd, who accompanied him into exile in Switzerland in 1880. They had four daughters, two of whom died in childhood. Rozalia was born in 1856 in the Jewish colony of Dobroe in [[Kherson Oblast]] (present day [[Ukraine]] but at that time part of the Russian Empire). She trained as a doctor in Saint Petersburg (medical courses for women were first opened in 1873) and joined the ranks of the Populists or [[Narodniks]], spending the summer of 1877 in the village of Shirokoe in [[Samara Oblast]] where she sought (without very much success) to raise the political consciousness of the local peasantry.<ref>{{Cite book|title=Russia in the Age of Reaction and Reform|last=Saunders|first=David|publisher=Longman|year=1992|isbn=0582489784|pages=317–319}}</ref> She went to the front during the [[Russo-Turkish War (1877–1878)]] where she recorded witnessing medical personnel treated badly, the sick cared for inadequately and military authorities engaged in theft and corruption. Her experiences there served to reinforce her radicalism.<ref>{{Cite book|title=Mothers and Daughters: Women of the Intelligentsia in Nineteenth Century Russia|last=Engel|first=Barbara Alpern|publisher=Northwestern University Press|year=1983|isbn=0810117401|location=Evanston, Illinois|pages=222}}</ref> Rozalia, who had not been permitted to graduate in Russia, retrained in [[Switzerland]] and supported her family during its time in [[Geneva]] by working as a doctor.<ref>{{Cite book|title=Scriabin: A Biography of the Russian Composer 1871–1915|last=Faubion|first=Bowers|publisher=Dover|year=1996|isbn=0486288978|location=New York|pages=21}}</ref> They lived variously in Geneva, [[Paris]] and for a time on the [[Italian Riviera]] on the advice of Plekhanov's doctors. She accompanied her husband back to [[Petrograd]] following the [[February Revolution]] and was with him when he died of [[tuberculosis]] in [[Finland]] in 1918. She returned to [[Paris]] where she died in 1949.<ref>{{Cite web|url=http://www.proza.ru/2016/06/10/583|title=Bograd, Rozaliia Markovna Bograd-Plekhanova|last=Gil'|first=Liubov'|date=2016|access-date=24 March 2018|archive-date=5 March 2018|archive-url=https://web.archive.org/web/20180305142505/http://www.proza.ru/2016/06/10/583|url-status=live}}</ref>
+
+==Death and legacy==
+[[File:Stamp of USSR 1998.jpg|thumb|right|1956 Soviet stamp for Plekhanov's 100th birthday anniversary]]
+Plekhanov left Russia again after the [[October Revolution]] due to his hostility to the [[Bolsheviks]]. He died of tuberculosis in [[Terijoki]], [[Finland]] (now a suburb of St. Petersburg, called [[Zelenogorsk (suburb of Saint Petersburg)|Zelenogorsk]]) on 30 May 1918. He was 61. At his funeral, [[Nicolas Slonimsky]] was requested to play the piano, and chose a funeral march by Beethoven.<ref>Nicolas Slonimsky, ''Perfect Pitch'', p. 47</ref> Plekhanov was buried in the [[Volkovo Cemetery]] in St. Petersburg near the graves of [[Vissarion Belinsky]] and [[Nikolay Dobrolyubov]].
+
+It was evident that Plekhanov and Lenin disagreed in terms of commitment to political action, as well as direct guidance to the working class.{{Citation needed|date=March 2022}} Despite these disagreements Lenin considered Plekhanov an outstanding philosopher and wrote as late as 1921 that "It is impossible to become an intelligent and genuine communist without studying, precisely studying, all that Plekhanov has written on philosophy, for what he has written is the best that can be found in the whole international literature on Marxism."<ref>{{Cite web |title=В.И.Ленин Полное Собрание Сочинений том 42 В. И. ЛЕНИН стр. 290 |url=http://leninvi.com/t42/p290 |access-date=30 August 2023 |website=leninvi.com |archive-date=19 February 2019 |archive-url=https://web.archive.org/web/20190219182606/http://leninvi.com/t42/p290 |url-status=live }}</ref> The Soviet Communists also cherished his memory and gave his name to the [[Plekhanov Russian Academy of Economics|Soviet Academy of Economics]] and the [[Saint Petersburg Mining Institute|G. V. Plekhanov St. Petersburg State Mining Institute]].
+[[File:Volkovskoe cemetery Grave of Belinsky Plekhanov Dobrolyubov.jpg|thumb|Graves of Vissarion Belinsky, Georgi Plekhanov, and Nikolay Dobrolyubov in the Volkovskoe cemetery, St Petersburg.]]
+During his life Plekhanov wrote extensively on [[historical materialism]], on the history of materialist philosophy, on the role of the masses and of the individual in history. Plekhanov always insisted that Marxism was a [[materialism|materialist]] doctrine rather than an [[idealism|idealist]] one, and that Russia would have to pass through a capitalist stage of development before becoming [[Socialism|socialist]]. He also wrote on the relationship between the [[base and superstructure]], on the role of ideologies, and on the role of art in human society. He is remembered as an important and pioneering Marxist thinker on such matters.
+
+==Works==
+
+* ''Socialism and the Political Struggle'' (1883) [https://www.marxists.org/archive/plekhanov/1883/struggle/index.htm Plekhanov: Socialism and Political Struggle (1883)]
+* ''Our differences'' (1885) [https://www.marxists.org/archive/plekhanov/1885/ourdiff/index.html G.V. Plekhanov: Our Differences (1885)]
+* ''G. I. Uspensky'' (1888)
+* [http://www.marxists.org/archive/plekhanov/1889/champ/index.htm ''A New Champion of Autocracy''] (1889)
+* ''S. Karonin'' (1890)
+* [https://archive.org/details/BourgeoisRevolution ''The Bourgeois Revolution''] (1890–1891)
+* [http://www.marxists.org/archive/plekhanov/1897/history/part1.htm ''The Materialist Conception of History''] (1891)
+* ''For The Sixtieth Anniversary of Hegel's Death'' (1891)
+* [https://archive.org/details/anarchismandsoc00avelgoog ''Anarchism & Socialism''] (1895)
+* [http://www.marxists.org/archive/plekhanov/1895/monist/index.htm ''The Development of the Monist View of History''] (1895)
+* ''Essays on the History of Materialism'' (1896)
+* ''N. I. Naumov'' (1897)
+* ''A. L. Volynsky: Russian Critics. Literary Essays'' (1897)
+* ''N. G. Chernyshevsky's Aesthetic Theory'' (1897)
+* [http://www.marxists.org/archive/plekhanov/1897/belinski/index.htm ''Belinski and Rational Reality''] (1897)
+* ''On the Question of the Individual's Role in History'' (1898)
+* [https://archive.org/details/nanekrasov00plekgoog ''N. A. Nekrasov''] (1903) <small>In Russian.</small>
+* ''Scientific Socialism and Religion'' (1904)
+* [https://archive.org/details/NaDvaFronta ''On Two Fronts: Collection of Political Articles''] (1905) <small>In Russian.</small>
+* ''French Drama and French Painting of the Eighteenth Century from the Sociological Viewpoint'' (1905)
+* ''The Proletarian Movement and Bourgeois Art'' (1905)
+* ''Henrik Ibsen'' (1906)
+* [https://archive.org/details/MyIOni ''Us and Them''] (1907) <small>In Russian.</small>
+* ''On the Psychology of the Workers' Movement'' (1907)
+* ''Fundamental Problems of Marxism'' (1908)
+* ''The Ideology of Our Present-Day Philistine'' (1908)
+* '' Tolstoy and Nature'' (1908)
+* ''On the So-Called Religious Seekings in Russia'' (1909)
+* ''N. G. Chernyshevsky'' (1909)
+* ''Karl Marx and Lev Tolstoy'' (1911)
+* ''A. I. Herzen and Serfdom'' (1911)
+* ''Dobrolyubov and Ostrovsky'' (1911)
+* ''Art and Social Life'' (1912–1913)
+* ''Year of the Motherland: Complete Collected Articles and Speeches, 1917–1918, In Two Volumes.'' [https://archive.org/details/godnarodinpolnoe01plek Volume 1]; [https://archive.org/details/godnarodinpolnoe02plek Volume 2] (1921) <small>In Russian.</small>
+
+==Footnotes==
+{{reflist}}
+
+==Further reading==
+
+* Samuel H. Baron, ''Plekhanov: The Father of Russian Marxism.'' Stanford, CA: Stanford University Press, 1963.
+** ''Plekhanov in Russian History and Soviet Historiography.'' Pittsburgh: University of Pittsburgh Press, 1995.
+* ''Georgi Plekhanov: Selected Philosophical Works in Five Volumes.'' Moscow: Progress Publishers, 1974.
+
+==External links==
+[[Progress Publishers]] put out a five-volume ''Selected Philosophical Works'' of Georgi Plekhanov in English between 1974 and 1981:
+* [https://archive.org/details/plekhanovspw1 Volume I]
+* [https://archive.org/details/plekhanovspw2 Volume II]
+* [https://archive.org/details/plekhanovspw3 Volume III]
+* [https://archive.org/details/plekhanovspw4 Volume IV]
+* [https://archive.org/details/plekhanovspw5 Volume V]
+
+{{commons category|Georgi Plekhanov}}
+{{wikiquote}}
+* {{Gutenberg author | id=34650| name=Georgii Valentinovich Plekhanov}}
+* {{Internet Archive author |sname=Georgi Valentinovich Plekhanov}}
+* [http://www.marxists.org/archive/plekhanov/ Georgi Plekhanov Internet Archive], Marxists Internet Archive, marxists.org/
+* [http://www.spartacus-educational.com/RUSplekhanov.htm Georgi Plekhanov Biography], Spartacus UK, spartacus-educational.com/
+* [http://www.plekhanovfound.ru/library/24t.htm Georgii Plexhanov Collected Works in 24 Volumes] {{Webarchive|url=https://web.archive.org/web/20111001235849/http://www.plekhanovfound.ru/library/24t.htm |date=1 October 2011 }}, Plekhanov Fond, plekhanovfound.ru/ <small>In Russian.</small>
+* [http://litmostki.ru/plekhanov/ Tomb of Plekhanov]
+* [http://www.nlr.ru/eng/coll/manuscripts/plekhanov/ The Plekhanov House in The National Library of Russia] {{Webarchive|url=https://web.archive.org/web/20121201195122/http://www.nlr.ru/eng/coll/manuscripts/plekhanov/ |date=1 December 2012 }}
+* Archive of [https://search.socialhistory.org/Record/ARCH01060 Georgij Valentinovič Plechanov Papers] at the [[International Institute of Social History]]
+* {{PM20|FID=pe/022890}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Plekhanov, Georgi}}
+[[Category:1856 births]]
+[[Category:1918 deaths]]
+[[Category:People from Gryazinsky District]]
+[[Category:People from Lipetsky Uyezd]]
+[[Category:People from the Russian Empire of Tatar descent]]
+[[Category:Narodniks]]
+[[Category:Russian Social Democratic Labour Party members]]
+[[Category:Mensheviks]]
+[[Category:Marxist theorists]]
+
+[[Category:Philosophers from the Russian Empire]]
+[[Category:Political writers from the Russian Empire]]
+[[Category:Marxists from the Russian Empire]]
+[[Category:Revolutionaries from the Russian Empire]]
+[[Category:20th-century deaths from tuberculosis]]
+[[Category:Tuberculosis deaths in Finland]]

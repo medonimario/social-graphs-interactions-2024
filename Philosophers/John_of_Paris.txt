@@ -1,0 +1,58 @@
+{{about|the medieval philosopher}}
+{{More citations needed|date=March 2016}}
+
+'''John of Paris''' {{post-nominals|post-noms=[[Dominican Order|OP]]}} (in [[French language|French]] ''Jean de Paris''), also called '''Jean Quidort''' and '''Johannes de Soardis''' (c. 1255 – September 22, 1306), was a French [[Philosophy|philosopher]], [[Theology|theologian]], and [[Dominican Order|Dominican]] friar.
+
+==Life==
+John of Paris was born in Paris at an unknown date. Having obtained the degree of Master of Arts with distinction, he joined the Dominican Order, when about twenty years of age, at the Convent of St. James in his native city. There he taught philosophy and theology, and obtained the degree of Master of Theology. He was endowed with great ability, possessed great literary and linguistic attainments, and was considered one of the best theologians of the university and one of the most subtle dialecticians of the age."<ref name=odaniel>[http://www.newadvent.org/cathen/08475b.htm O'Daniel, Victor. "John of Paris." The Catholic Encyclopedia] Vol. 8. New York: Robert Appleton Company, 1910. 5 March 2016</ref>
+
+"In his work on the temporal and spiritual power, ''De potestate regia et papali'', written during [[unam sanctam|the controversy]] between [[Boniface VIII]] and [[Philip IV of France|Philip the Fair]], he favours the king."<ref name=odaniel/>
+
+After John wrote a treatise contradicting the normal Church doctrine on [[transubstantiation]], the faculty of the university reported his ideas to [[William of Baufet]], Bishop of Paris, who forbade John under penalty of excommunication to defend such a doctrine, and deprived him of the offices of lecturing, preaching, and hearing confessions. John appealed to the [[Holy See]], but died soon after in [[Bordeaux]], and the case was dropped.<ref>Chris Jones, "John of Paris: Through a Glass Darkly?," in ''John of Paris: Beyond Royal and Papal Power'', ed. Jones, Turnhout: Brepols, 2015, pp. 1-31.</ref>
+
+==Works==
+Some ten of his works on theology, physics, and metaphysics still exist in manuscript; two others, ''De Antichristo'' and ''De modo existendi corporis Christi in sacramento altaris'', appeared in print centuries after his death. A treatise, ''Contra corruptorem Sancti Thomae'', published in 1516 under the name of [[Aegidius Romanus]] (Giles of Rome), is commonly attributed to John of Paris; it was certainly not written by Aegidius. All these show vast erudition.<ref name=odaniel/>
+
+More troublesome in the eyes of the Church was John's treatise on the [[Blessed Sacrament]], in which he maintains that the [[Body of Christ]] is, or might be, present by assumption (i.e. by the body of Christ assuming the bread and wine), and that the doctrine of transubstantiation is not of faith. It must be said, however, that he advances these propositions tentatively; in the beginning of the treatise he writes that he believes in the Catholic doctrine of transubstantiation and that if it is shown that transubstantiation is of faith, or should it be so defined, he will willingly retract.
+
+The following works are among those authored by him:
+*''Commentarium in IV sententiarum libros''.<ref>Jean Dunbabin, "The Commentary of John of Paris (Quidort) on the Sentences," in ''Medieval Commentaries on the Sentences of Peter Lombard. Current Research'' (Leiden-Boston-Cologne, 2002), pp. 131-148.</ref>
+*''Abbreviatio librorum naturalis philosophiae Aristotelis''.
+*''(Determinatio) de modo existendi corporis Christi in sacramento altaris''.<ref>Gianluca Briguglia, "Theology, Sacramental Debates and Political Thought in John of Paris: The Case of the Eucharist," in ''John of Paris'', ed. Jones, pp. 401-421.</ref>
+*''De adventu Christi secundum carnem''.
+*''Compendium libri Physicorum''.
+*''De potestate regia et papali''.<ref>Johannes Quidort von Paris, ''Über Königliche und päpstliche Gewalt (De regia potestate et papali''), ed.  Fritz Bleienstein, Stuttgart: Ernst Klett Verlag, 1969. Several articles discuss this tract in ''John of Paris'', ed. Jones.</ref>
+*''De formis''.
+*''Quaestio De principio individuationis''.
+*''Determinatio de confessionibus fratrum''.<ref>John of Paris, ''De confessionibus audiendis (Quaestio disputata Parisius de potestate papae)'', ed. Ludwig Hodl, Munich, 1962.</ref>
+*Various other ''Quaestiones disputatae''.
+*''[[Quodlibeta]]''.
+*''Sermones ''.
+*''Tractatus de Antichristo''<ref>Anna Milne-Tavendale, "John of Paris and the Apocalypse," in ''John of Paris'', ed. Jones, pp. 119-149.</ref>
+
+;Translations
+*''On Royal and Papal Power'', tr. JA Watt, (Toronto, 1971)
+
+==20th century references==
+John's name re-appeared in the early 20th century, when [[Distributist]] writers such as the Catholics [[Hilaire Belloc]] and [[G. K. Chesterton]] attributed to him the earliest statement of the [[capitalism|capitalist]] philosophy in ''[[De potestate regia et papali]]''.
+
+==References==
+{{Reflist}}
+
+*{{Catholic|title=John of Paris}}
+
+==External links==
+*[http://plato.stanford.edu/entries/medieval-political/#JohPar ''Stanford Encyclopedia of Philosophy'' section]
+* {{Internet Archive author |search=("John of Paris" OR "Jean of Paris") }}
+
+{{Authority control}}
+
+[[Category:Catholic philosophers]]
+[[Category:13th-century French philosophers]]
+[[Category:14th-century philosophers]]
+[[Category:French Dominicans]]
+[[Category:13th-century French Catholic theologians]]
+[[Category:13th-century writers in Latin]]
+[[Category:1255 births]]
+[[Category:1306 deaths]]
+[[Category:French male writers]]

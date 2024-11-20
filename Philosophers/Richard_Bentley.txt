@@ -1,0 +1,261 @@
+{{Short description|English classical scholar, critic, and theologian (1662–1742)}}
+{{Other people}}
+{{Use British English|date=August 2014}}
+{{Use dmy dates|date=October 2024}}
+{{Infobox academic
+| honorific_prefix   = [[The Reverend]]
+| name               = Richard Bentley 
+| honorific_suffix   = DD, FRS {{post-nominals|country=GBR|size=100%}}
+| image              = Richard Bentley 3.jpg
+| image_size         = 
+| alt                = 
+| caption            = 
+| birth_name         = <!-- use only if different from full/othernames -->
+| birth_date         = {{birth date|1662|01|27|df=y}}
+| birth_place        = [[Oulton, West Yorkshire|Oulton]], [[Yorkshire]], [[England]]
+| death_date         = {{death date and age|1742|07|14|1662|01|27|df=y}}
+| death_place        = [[Cambridge]], [[Cambridgeshire]], England
+| residence          = 
+| other_names        = 
+| occupation         = {{flatlist|
+* Classical scholar
+* critic
+* theologian 
+}}
+| period             = 
+| known_for          = ''Dissertation on the Letters of Phalaris'' (1699)
+| home_town          = 
+| title              = [[Regius Professor of Divinity]]
+| boards             = <!--board or similar positions extraneous to main occupation-->
+| spouse             = 
+| partner            = 
+| children           = 
+| parents            =
+| relatives          =
+| awards             = <!--notable national level awards only-->
+| website            = 
+| education          = 
+| alma_mater         = [[St John's College, Cambridge]]<!--will often consist of the linked name of the last-attended higher education institution-->
+| thesis_title       = 
+| thesis_url         = 
+| thesis_year        = 
+| school_tradition   = 
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = <!--must be referenced from a third party source-->
+| era                = 
+| discipline         = Classical philologist
+| sub_discipline     = <!--academic discipline specialist area – e.g. Sub-atomic research, 20th Century Danish specialist, Pauline research, Arcadian and Ugaritic specialist-->
+| workplaces         = [[Trinity College, Cambridge]]
+| doctoral_students  = <!--only those with WP articles-->
+| main_interests     = 
+| notable_works      = 
+| notable_students   = {{hlist | [[James Jurin]] | [[Roger Cotes]]}}
+| notable_ideas      = 
+| influenced         = [[Richard Porson]], [[A. E. Housman]]
+| signature          = 
+| signature_alt      = 
+}}
+
+'''Richard Bentley''' [[Fellow of the Royal Society|FRS]] {{post-nominals|country=GBR}} ({{IPAc-en|ˈ|b|ɛ|n|t|l|i}}; 27 January 1662 – 14 July 1742) was an English [[Classics|classical scholar]], critic, and theologian.  Considered the "founder of historical [[philology]]", Bentley is widely credited with establishing the English school of [[Hellenic studies|Hellenism]].  In 1892, [[A. E. Housman]] called Bentley "the greatest scholar that England or perhaps that Europe ever bred".
+
+Bentley's ''Dissertation upon the Epistles of Phalaris'', published in 1699, proved that the letters in question, supposedly written in the 6th century BCE by the Sicilian tyrant [[Phalaris]], were actually a forgery produced by a Greek sophist in the 2nd century CE.  Bentley's investigation of the subject is still regarded as a landmark of [[textual criticism]].  He also showed that the sound represented in transcriptions of some Greek dialects by the letter [[digamma]] appeared also in [[Homer]]ic poetry, even though it was not represented there in writing by any letter.
+
+Bentley became Master of [[Trinity College, Cambridge]] in 1700.  His autocratic manner and contemptuous treatment of the college fellows led to extensive controversy and litigation, but he remained in that post until his death, more than four decades later.  In 1717 Bentley was appointed as the [[Regius Professor of Divinity]] at the [[University of Cambridge]].  As professor at Cambridge, Bentley introduced the first competitive written examinations in a Western university.
+
+A fellow of the [[Royal Society]], Bentley was interested in [[natural theology]] and the new [[physics|physical sciences]], subjects on which he corresponded with [[Isaac Newton]].  Bentley was in charge of the second edition of Newton's ''[[Philosophiæ Naturalis Principia Mathematica|Principia Mathematica]]'', although he delegated most of the scientific work involved to his pupil [[Roger Cotes]].
+
+==Early life and education==
+[[File:Richard Bentley blue plaque Bentley Square Oulton.jpg|thumb|right|Plaque on Bentley Square, Oulton]]
+
+Richard Bentley was born at his maternal grandparents' home at [[Oulton, West Yorkshire|Oulton]] near [[Rothwell, West Yorkshire|Rothwell]], [[Leeds]], West Yorkshire, in northern England.<ref name=":0">{{Cite dictionary|last=De Quehen|first=Hugh|title=Belle - Blackman|dictionary=Oxford Dictionary of National Biography: from the earliest times to the year 2000|publisher=Oxford University Press|year=2004|editor-last=Matthew|editor-first=Henry Colin Gray|editor-link=Colin Matthew|volume=5|location=Oxford|chapter=Bentley, Richard (1662–1742), philologist and classical scholar|editor-last2=Harrison|editor-first2=Brian Howard|editor-link2=Brian Harrison (historian)}}</ref>{{sfn|Chisholm|1911|p=750}} A blue plaque near his birthplace commemorates the fact. His father was Thomas Bentley, a yeoman farmer<ref name=":0" /> of Oulton. His grandfather, Captain James Bentley,<ref name=":0" /> is said to have suffered for the [[Charles I of England|Royalist]] cause following the [[English Civil War]], leaving the family in reduced circumstances. Bentley's mother, the daughter of a [[stonemason]], had some education, and was able to give her son his first lessons in [[Latin language|Latin]].{{sfn|Chisholm|1911|p=750}}
+
+After attending [[grammar school]] in [[Wakefield]], Bentley entered [[St John's College, Cambridge]] in 1676.<ref name=":0" />{{efn|His portrait hangs in the formal dining hall of the College.{{citation needed|date=August 2017}}}} He afterwards obtained a scholarship and received the degrees of [[Bachelor of Arts|BA]] in 1680 and [[Master of Arts (Oxford, Cambridge, and Dublin)|MA]] in 1683.{{sfn|Chisholm|1911|p=750}}{{sfn|ACAD|BNTY676R}}
+
+==Academic work==
+Bentley never became a college [[fellow]], which would have been the more natural course to an academic career.  Instead, he was appointed headmaster of [[Spalding Grammar School]] before he was 21 years old.  [[Edward Stillingfleet]], the dean of [[St Paul's Cathedral]] in London, hired Bentley as tutor to his son.  This allowed Bentley to meet eminent scholars, have access to the best private library in England, and become familiar with Dean Stillingfleet. During his six years as tutor, Bentley also made a comprehensive study of [[Greek language|Greek]] and [[Latin language|Latin]] writers, storing up knowledge which he would use later in his scholarship.{{sfn|Chisholm|1911|p=750}}
+
+In 1689, Stillingfleet became [[bishop of Worcester]] and Bentley's pupil went up to [[Wadham College, Oxford]], accompanied by his tutor. At Oxford, Bentley soon met [[John Mill (theologian)|John Mill]], [[Humphrey Hody]], and [[Edward Bernard]]. He studied the manuscripts of the [[Bodleian Library|Bodleian]], [[Corpus Christi College, Oxford|Corpus Christi]], and other college libraries. He collected material for literary studies. Among these are a corpus of the fragments of the Greek poets and an edition of the Greek [[lexicographer]]s.{{sfn|Chisholm|1911|p=750}}
+
+The Oxford (Sheldonian) press was about to bring out an edition (the ''[[editio princeps]]'') from the unique manuscript of the ''Chronographia'' in the [[Bodleian Library]]. It was a [[Universal history (genre)|universal history]] (down to AD 560) in Greek by [[John Malalas]] or "John the Rhetor" of Antioch (date uncertain, between 600 and 1000). The editor, John Mill, principal of [[St Edmund Hall, Oxford|St Edmund Hall]], asked Bentley to review it and make any pertinent remarks on the text.{{sfn|Chisholm|1911|p=750}}
+
+Bentley wrote the ''Epistola ad Johannem Millium'', which is about a hundred pages long and was included at the end of the ''Oxford Malalas'' (1691). That short treatise placed Bentley ahead of all living English scholars. The ease with which he restored corrupted passages, the certainty of his emendation and command over the relevant material, are in a style totally different from the careful and laborious learning of [[Humphrey Hody|Hody]], Mill or [[Edmund Chilmead]]. To the small circle of classical students (lacking the great critical dictionaries of modern times), it was obvious that he was a critic beyond the ordinary.{{sfn|Chisholm|1911|p=750}}
+
+[[Image:Bust of Richard Bently by Louis-François Roubiliac.jpg|thumb|upright|A bust of Bentley now stands in the library of [[Trinity College, Cambridge]]]]
+
+In 1690, Bentley had taken [[deacon]]'s orders. In 1692 he was nominated first [[Boyle Lectures|Boyle lecturer]], a nomination repeated in 1694. He was offered the appointment a third time in 1695 but declined it, as he was involved in too many other activities. In the first series of lectures ("A Confutation of Atheism"), he endeavours to present [[Isaac Newton|Newtonian]] [[physics]] in a popular form, and to frame them (especially in opposition to [[Thomas Hobbes|Hobbes]]) into a proof of the existence of an intelligent Creator. He had some correspondence with Newton, then living in [[Trinity College, Cambridge]], on the subject. The second series, preached in 1694, has not been published and is believed to be lost.{{sfn|Chisholm|1911|p=750}}
+
+After being [[ordain]]ed, Bentley was promoted to a [[prebendal stall]] in [[Worcester Cathedral]]. In 1693 the curator of the royal library became vacant, and his friends tried to obtain the position for Bentley, but did not have enough influence. The new librarian, a Mr Thynne, resigned in favour of Bentley, on condition that he receive an annuity of £130 for life out of the £200 salary. In 1695 Bentley received a royal [[chaplaincy]] and the [[Benefice|living]] of [[Hartlebury]].{{sfn|Chisholm|1911|p=750}}
+
+That same year, he was elected a fellow of the [[Royal Society]], and in 1696 earned the degree of [[Doctor of Divinity]]. The scholar [[Johann Georg Graevius]] of [[Utrecht]] made a dedication to him, prefixed to a dissertation on the seventeenth-century scholar [[Albert Rubens]], ''De Vita Fl. Mallii Theodori'' (1694).{{sfn|Chisholm|1911|p=750}}
+
+===Dissertation on the ''Epistles'' of Phalaris===
+Bentley had official apartments in [[St. James's Palace]] and his first care was the royal library in [[Ashburnham House]]. He worked to restore the collection from a dilapidated condition. He persuaded the [[John Churchill, 1st Duke of Marlborough|Earl of Marlborough]] to ask for additional rooms in the palace for the books. This was granted, but Marlborough kept them for his personal use. Bentley enforced the law, ensuring that publishers delivered nearly one thousand volumes that had been purchased but not delivered.{{sfn|Chisholm|1911|p=751}}
+
+The [[University of Cambridge]] commissioned Bentley to obtain Greek and Latin fonts for their classical books; he had these made in Holland. He assisted [[John Evelyn]] in his ''Numismata''. Bentley did not settle down to the steady execution of any of the major projects he had started. In 1694, he designed an edition of [[Philostratus]], but abandoned it to Gottfried Olearius (1672–1715), "to the joy," says [[Friedrich August Wolf|F. A. Wolf]], "of Olearius and of no one else." He supplied [[Graevius]] with collations of [[Cicero]], and [[Joshua Barnes]] with a warning as to the spuriousness of the ''Epistles'' of [[Euripides]]. Barnes printed the epistles anyway and declared that no one could doubt their authenticity but a man who was ''perfrictae frontis aut judicii imminuti'' (boldfaced and lacking in judgment).<ref>{{cite journal|author1-last=Hanink |author1-first=Johanna |title=The Life of the Author in the Letters of Euripides |journal=Greek, Roman and Byzantine Studies |date=2010 |volume=50 |issue=4 |page=540}}</ref> For Graevius's ''Callimachus'' (1697), Bentley added a collection of the fragments with notes.{{sfn|Chisholm|1911|p=751}}
+
+He wrote the ''Dissertation on the Epistles of Phalaris'' (1699), his major academic work, almost accidentally. In 1697, [[William Wotton]], about to bring out a second edition of his ''Ancient and Modern Learning'', asked Bentley to write out a paper exposing the spuriousness of the ''Epistles'' of [[Phalaris]], long a subject of academic controversy.{{sfn|Chisholm|1911|p=751}} The [[Christ Church, Oxford|Christ Church]] editor of Phalaris, [[Charles Boyle, 4th Earl of Orrery|Charles Boyle]], resented Bentley's paper. He had already quarrelled with Bentley in trying to get the manuscript in the royal library collated for his edition (1695). Boyle wrote a response which was accepted by the reading public, although it was much later criticised as showing only superficial learning.<ref>{{harvnb|Chisholm|1911|p=751}} cites [[Alexander Dyce]], ''Bentley's Works, 1836–1838''</ref> The demand for Boyle's book required a second printing. When Bentley responded, it was with his dissertation. The truth of its conclusions was not immediately recognised, but it has a high reputation.{{sfn|Chisholm|1911|p=751}}
+
+===Master of Trinity College===
+In 1700, the commissioners of ecclesiastical [[patronage]] recommended Bentley to the Crown for the mastership of [[Trinity College, Cambridge]]. He arrived an outsider and proceeded to reform the college administration.{{sfn|Chisholm|1911|p=751}} He started a programme of renovations to the buildings, and used his position to promote learning. He is also credited by the British mathematician [[Rouse Ball]]{{sfn|Ball|1835|p=193}} with starting the first written examinations in the West in 1702, all those prior to this being oral in nature.{{citation needed|date=August 2017}} At the same time, he antagonised the fellows, and the capital programme caused reductions in their incomes, which they resented.{{sfn|Chisholm|1911|p=751}}
+
+After ten years of stubborn but ineffectual resistance, the fellows appealed to the Visitor, the [[bishop of Ely]] ([[John Moore (Bishop of Ely)|John Moore]]). Their petition was full of general complaints. Bentley's reply (''The Present State of Trinity College'', etc., 1710) is in his most crushing style. The fellows amended their petition and added a charge of Bentley's having committed 54 breaches of the statutes. Bentley appealed directly to the Crown, and backed his application with a dedication of his ''[[Horace]]'' to the lord treasurer (Harley).{{sfn|Chisholm|1911|p=751}}
+
+The Crown lawyers decided against him; the case was heard (1714) and a sentence of expulsion from the mastership was drawn up. Before it was executed, the bishop of Ely died and the process lapsed. The feud continued in various forms at lower levels. In 1718 Cambridge rescinded Bentley's degrees, as punishment for failing to appear in the vice-chancellor's court in a civil suit. It was not until 1724 that he had them restored under the law.{{sfn|Chisholm|1911|p=751}}
+
+In 1733 the fellows of Trinity again brought Bentley to trial before the bishop of Ely (then [[Thomas Green (bishop)|Thomas Greene]]), and he was sentenced to deprivation. The college statutes required the sentence to be executed by the vice-master [[Richard Walker (philosopher)|Richard Walker]], who was a friend of Bentley and refused to act. Although the feud continued until 1738 or 1740 (about thirty years in all), Bentley remained in his post.{{sfn|Chisholm|1911|p=751}}
+
+===Later studies===
+During his mastership, except for the first two years, Bentley continuously pursued his studies, although he did not publish much. In 1709 he contributed a critical appendix to [[John Davies (1679–1732)|John Davies]]'s edition of [[Cicero]]'s ''Tusculan Disputations''. In the following year, he published his emendations on the ''Plutus'' and ''Nubes'' of [[Aristophanes]], and on the fragments of [[Menander]] and [[Philemon (poet)|Philemon]]. He published the last work under the pen name of "Phileleutherus Lipsiensis."  He used it again two years later in his ''Remarks on a late Discourse of Freethinking'', a reply to [[Anthony Collins (philosopher)|Anthony Collins]] the [[deism|deist]]. The university thanked him for this work and its support of the Anglican Church and clergy.{{sfn|Chisholm|1911|p=751}}
+
+Although he had long studied Horace, Bentley wrote his edition quickly in the end, publishing it in 1711 to gain public support at a critical period of the Trinity quarrel. In the preface, he declared his intention of confining his attention to criticism and correction of the text. Some of his 700 or 800 [[:wikt:emendations|emendations]] have been accepted, but the majority were rejected by the early 20th century as unnecessary, although scholars acknowledged they showed his wide learning.{{sfn|Chisholm|1911|p=751}}
+
+In 1716, in a letter to [[William Wake]], [[Archbishop of Canterbury]], Bentley announced his plan to prepare a critical edition of the [[New Testament]]. During the next four years, assisted by [[J. J. Wetstein]], an eminent biblical critic, he collected materials for the work. In 1720 he published ''Proposals for a New Edition of the Greek Testament'', with examples of how he intended to proceed. By comparing the text of the [[Vulgate]] with that of the oldest Greek manuscripts, Bentley proposed to restore the Greek text as received by the church at the time of the [[First Council of Nicaea|Council of Nicaea]].<!--EB1911 p. 752; states Nice not Nicaea-->{{sfn|Dyce|1966|p=487}} Bentley's lead manuscript was ''[[Codex Alexandrinus]]'', which he described as "the oldest and best in the world."{{sfn|Jebb|1882|p=163}} The manuscript was so precious to him that he rescued it from perishing in the Ashburnham House fire of 1731, during which many other [[Cotton library|Cotton Library]] manuscripts were destroyed.   Bentley used also manuscripts: [[Minuscule 51|51]], [[Minuscule 54|54]], [[Minuscule 60|60]], [[Minuscule 113|113]], [[Minuscule 440|440]], [[Minuscule 507|507]], and [[Minuscule 508|508]].{{sfn|Scrivener|1894|p=198}} [[John Walker (scholar)|John Walker]] worked over many manuscripts for the project, particularly in Paris with the help of the [[Congregation of Saint Maur|Maur]]ists.{{sfn|Wordsworth|1901|p=}} Numerous subscribers were obtained to support publication of the work, but he never completed it.{{citation needed|date=August 2017}}
+
+His ''[[Terence]]'' (1726) is more important than his ''Horace''; next to the ''Phalaris'', this most determined his reputation. In 1726 he also published the ''Fables'' of [[Phaedrus (fabulist)|Phaedrus]] and the ''Sententiae'' of [[Publilius Syrus]].{{sfn|Chisholm|1911|p=752}}
+
+His ''[[Paradise Lost]]'' (1732), suggested by [[Caroline of Ansbach|Queen Caroline]], has been criticised as the weakest of his work. He suggested that the poet [[John Milton]] had employed both an [[amanuensis]] and an editor, who were responsible for clerical errors and interpolations, but it is unclear whether Bentley believed his own position.{{sfn|Chisholm|1911|p=752}} [[A. E. Housman]], who called him "the greatest scholar that England or perhaps that Europe ever bred" nevertheless criticised his poetic sensibility severely: "we are not all so easily found out as Bentley, because we have not Bentley's intrepid candour. There is a sort of savage nobility about his firm reliance on his own bad taste".{{sfn|Housman|1989|p=268}}
+
+Bentley never published his planned edition of [[Homer]], but some of his manuscript and marginal notes are held by Trinity College. Their chief importance is in his attempt to restore the metre by the insertion of the lost [[digamma]].{{sfn|Chisholm|1911|p=752}}
+
+==Relationships and personal life==
+According to the anonymous author of his biography in the [[Encyclopaedia Britannica Eleventh Edition|''Encyclopaedia Britannica'' Eleventh Edition]], Bentley was self-assertive and presumptuous, which alienated some people. But, [[James Henry Monk]], Bentley's biographer, charged him (in his first edition, 1830) with an indecorum of which he was not guilty. Bentley seemed to inspire mixed feelings of admiration and repugnance.{{sfn|Chisholm|1911|p=752}}
+
+==Marriage and family==
+In 1701, Bentley married Joanna (died 1740), daughter of [[Sir John Bernard, 2nd Baronet]] of Brampton, [[Huntingdonshire]].{{sfn|Chisholm|1911|p=752}}{{sfn|Collins|1741|p=364}} {{efn|A portrait, by [[William Wissing]] of his wife Joanna, is in the collection of [[Trinity College, Cambridge]] {{harv|ArtUK}}.}} They had three children together: [[Richard Bentley (writer)|Richard]] (1708–1782), an eccentric, playwright and artist,{{sfn|Chisholm|1911|p=752}}{{sfn|''SoPSE''}}{{sfn|Radcliffe|2011}} and two daughters.{{sfn|Chisholm|1911|p=752}} Their daughter Johanna married [[Denison Cumberland]] in 1728, a grandson of [[Richard Cumberland (philosopher)|Richard Cumberland]] the [[bishop of Peterborough]],{{sfn|Chisholm|1911|p=752}} and himself later a bishop of the [[Church of Ireland]].<ref>Fryde, E. B.; Greenway, D. E.; Porter, S.; Roy, I. (1986). ''Handbook of British Chronology''. 3rd ed. Cambridge University Press.{{ISBN|0-521-56350-X}}.</ref> Their son [[Richard Cumberland (dramatist)|Richard Cumberland]] developed as a prolific dramatist{{sfn|Chisholm|1911|p=752}} while earning his living as a civil servant.<ref>''The Memoirs of Richard Cumberland'' (1856).</ref>
+
+==Later life==
+In old age, Bentley continued to read and enjoyed the society of his friends and of several rising scholars, including [[Jeremiah Markland]], [[John Taylor (classical scholar)|John Taylor]], and his nephews Richard and Thomas Bentley, with whom he discussed classical subjects. He died of [[pleurisy]] on 14 July 1742, at the age of 80.{{sfn|Chisholm|1911|p=752}}
+
+==Legacy and honours==
+Bentley left about £5,000 in his estate{{sfn|Chisholm|1911|p=752}} (which would have the buying power of nearly £500,000 in 2010). He bequeathed a few Greek manuscripts, brought from [[Mount Athos]], to the Trinity College library{{sfn|Chisholm|1911|p=752}} and the remainder of his books and papers to his nephew Richard Bentley, a fellow of Trinity. At his own death in 1786, the younger Bentley left the papers to the Trinity College library.{{sfn|Chisholm|1911|p=752}} The [[British Museum]] eventually purchased the books, many of which had valuable manuscript notes, and holds them in its collection.{{sfn|Chisholm|1911|p=752}}
+
+Bentley is honoured to this day at [[Spalding Grammar School]], where he was once headmaster. One of the 6 houses that students are sorted into is named Bentley after him, with the students wearing the colour blue on their ties and on sporting items.<ref>{{Cite web|url=https://www.spaldinggrammar.lincs.sch.uk/page/?title=The+House+System&pid=13|title=Spalding Grammar - The House System}}</ref> Furthermore, the school releases an annual magazine named the Bentlian, also named after him.<ref>{{Cite web|url=https://www.spaldinggrammar.lincs.sch.uk/page/?title=Bentleian+magazine&pid=159|title=Spalding Grammar - Bentleian magazine}}</ref>
+
+According to the anonymous author of his biography in the ''Encyclopaedia Britannica'' Eleventh Edition, Bentley was the first Englishman to be ranked with the great heroes of classical learning. Before him there were only [[John Selden]], and, in a more restricted field, [[Thomas Gataker]] and [[John Pearson (bishop)|John Pearson]].
+{{blockquote|Bentley inaugurated a new era of the art of criticism. He opened a new path. With him criticism attained its majority. Where scholars had hitherto offered suggestions and conjectures, Bentley, with unlimited control over the whole material of learning, gave decisions|Jacob Mähly (1828–1902).<ref>{{harvnb|Chisholm|1911|p=752}} cites {{harv| Mähly|1868}}</ref>}}
+
+The modern German school of [[philology]] recognised his genius. Bunsen wrote that Bentley "was the founder of historical philology." [[Jakob Bernays]] says of his corrections of the ''[[Tristia]]'', "corruptions which had hitherto defied every attempt even of the mightiest, were removed by a touch of the fingers of this British [[Samson]]".{{sfn|Chisholm|1911|p=752}}
+
+Bentley was credited with creating the English school of Hellenists, by which the 18th century was distinguished, including scholars such as [[Richard Dawes (classical scholar)|Richard Dawes]], [[Jeremiah Markland]], [[John Taylor (1704–1766)|John Taylor]], [[Jonathan Toup]], [[Thomas Tyrwhitt]], [[Richard Porson]], [[Peter Paul Dobree]], [[Thomas Kidd (classical scholar)|Thomas Kidd]] and [[James Henry Monk]]. Although the Dutch school of the period had its own tradition, it was also influenced by Bentley. His letters to [[Tiberius Hemsterhuis]] on his edition of [[Julius Pollux]] made the latter one of Bentley's most devoted admirers.{{sfn|Chisholm|1911|p=752}}
+
+Bentley inspired a following generation of scholars. Self-taught, he created his own discipline; but no contemporary English guild of learning could measure his power or check his eccentricities. He defeated his academic adversaries in the Phalaris controversy. The attacks by [[Alexander Pope]] (he was assigned a niche in ''The Dunciad''),<ref>{{harvnb|Chisholm|1911|p=752}} cite Pope ''Dunciad'', b. 4.</ref> [[John Arbuthnot]] and others demonstrated their inability to appreciate his work, as they considered textual criticism as pedantry.{{sfn|Chisholm|1911|p=752}} His classical controversies also called forth [[Jonathan Swift]]'s ''[[Battle of the Books]]''.{{citation needed|date=August 2017}}
+
+In a university where the instruction of youth or the religious controversy of the day was the chief occupation, Bentley was unique. His learning and original views seem to have been developed before 1700. After this period, he acquired little and made only spasmodic efforts to publish.{{sfn|Chisholm|1911|p=752}} However A. E. Housman believed that the edition of [[Marcus Manilius|Manilius]] (1739) was Bentley's greatest work.{{citation needed|date=August 2017}}
+
+==Works==
+===Major===
+* ''Works of Richard Bentley'', collected by [[Alexander Dyce]], 1836.
+** [https://archive.org/details/worksrichardben00newtgoog/page/n8/mode/2up Vol. I: ''Dissertations upon the epistles of Phalaris, Themistocles, Socrates, Euripides, and upon the fables of Aesop and , Epistola ad Joannem Millium'']
+** [https://archive.org/details/worksrichardben02newtgoog/page/n9/mode/2up Vol. II: ''Dissertations upon the epistles of Phalaris, Themistocles, Socrates, Euripides, and upon the fables of Aesop and , Epistola ad Joannem Millium'']
+** [https://archive.org/details/worksrichardben02newtgoog/page/n9/mode/2up Vol. III: ''Sermons preached at Boyle's lecture; remarks upon a discourse of free-thinking; proposals for an edition of the Greek testament'']
+
+===Minor===
+* ''Astronomica'' of [[Marcus Manilius|Manilius]] (1739)
+* a letter on the [[Sigea]]n inscription on a marble slab found in the [[Troad]], now in the [[British Museum]]
+* notes on the ''Theriaca'' of [[Nicander]] and on [[Lucan (poet)|Lucan]], published after his death by his grandson, [[Richard Cumberland (dramatist)|Richard Cumberland]]
+* emendations of [[Plautus]] (in his copies of the editions by [[Pareus]], [[Joachim Camerarius|Camerarius]] and [[Johann Friedrich Gronovius|Gronovius]], edited by Schroder, 1880, and Sonnenschein, 1883)
+* ''Bentleii Critica Sacra'' (1862), edited by A. A. Ellis, contains the [[epistle to the Galatians]] (and excerpts), printed from an interleaved folio copy of the Greek and Latin [[Vulgate]] in Trinity College.
+* a collection of his ''Opuscula Philologica'' published at Leipzig in 1781.
+* ''[https://books.google.com/books?id=XrgUAAAAQAAJ A Letter to the Reverend Master of Trinity College in Cambridge, Editor of a New Greek and Latin Testament]'' (1721)
+* ''[https://books.google.com/books?id=3u5bAAAAQAAJ A confutation of atheism from the origin and frame of the world, a sermon, Volume 20]'' (1692)
+* ''[https://books.google.com/books?id=HixOAAAAYAAJ A Defence of natural and revealed religion: being an abridgment of the lecture founded by the Honble Robert Boyle]'' (1737)
+* ''[https://books.google.com/books?id=sItPAAAAYAAJ Eight Sermons Preach'd at the Honourable Robert Boyle's Lecture]'' (1724)
+* ''Remarks upon a late Discourse of free-thinking: in a letter to N. N.'' (1725)
+* ''[https://archive.org/details/follyandunreaso01bentgoog The Folly and Unreasonableness of Atheism: Demonstrated from the Advantage and Pleasure of a Religious Life, The faculties of Human Souls, The Structure of Animate Bodies, & The Origin and Frame of the World: In Eight Sermons]'' (1693)
+* ''The Present State of Trinity College in Cambridg[e], in a Letter from Dr. Bentley,'' London: A. Baldwin 1710.
+* ''Reflections on the Scandalous Aspersions cast on the Clergy,'' [London:] J. Morphew 1717.
+* [https://archive.org/details/bim_eighteenth-century_a-sermon-upon-popery-pr_bentley-richard_1715 ''A sermon upon popery: preach'd before the University of Cambridge, November Vth. MDCCXV'']. Cambridge, University press, 1715
+
+===Letters===
+* ''Bentlei et doctorum-virorum ad eum Epistolae'' (1807)
+* ''The Correspondence of Richard Bentley'', edited by [[C. Wordsworth]] (1842)
+
+== See also ==
+* [[Bentley's paradox]]
+* [[Trinity College Clock]]
+
+==Notes==
+{{reflist|group=lower-alpha}}
+{{reflist}}
+
+== References ==
+*{{cite web|ref={{sfnRef|ArtUK}} |title=Mrs Joanna Bentley (1665?–1740); Willem Wissing (1656–1687) (attributed to). Trinity College, University of Cambridge |url=https://artuk.org/discover/artworks/mrs-joanna-bentley-16651740-134898/view_as/grid/search/keyword:trinity-college-cambridge-bentley/page/1|publisher=artuk.org}}
+*{{cite book|last=Ball |first=W.W. Rouse |year=1835 |title=The History of Mathematics at Cambridge |location=London |page=193}}
+*{{acad|id=BNTY676R|name=Bentley, Richard}}
+*{{cite book |last=Collins |first=A. |date=1741 |title=The English Baronetage: Containing a Genealogical and Historical Account of All the English Baronets, Now Existing: Their Descents, Marriages, and Issues; Memorable Actions, Both in War, and Peace; Religious and Charitable Donations; Deaths, Places of Burial and Monumental Iiscriptions &#91;sic&#93; |publisher=Tho. Wotton |url=https://books.google.com/books?id=7W4UAAAAYAAJ |page=364}}
+*{{cite book |editor-last=Dyce |editor-first=A. |year=1966 |orig-year=1838 |title=The Works of Richard Bentley |volume=3 |location=New York  |edition=reprint |page=487}}
+*{{cite book|last=Housman |first=A.E. |author-link=A.E. Housman |title=Introductory Lecture as Professor of Latin at University College, London, 1892, in 'Collected Poems and Selected Prose' |publisher=Penguin Books |year=1989 |page=268}}
+*{{cite book |last=Jebb |first=R. C. |author-link=Richard Claverhouse Jebb |year=1882 |title=Richard Bentley |url=https://archive.org/details/bentleyjebb00jebbuoft |series=English Men of Letters|location=New York|page=[https://archive.org/details/bentleyjebb00jebbuoft/page/163 163]|publisher=Harper}}
+*{{cite web |last=Radcliffe |first=David H.  |year=2011 |url=http://spenserians.cath.vt.edu/TextRecord.php?action=GET&textsid=34323 |title=A Long Story: Designs by Mr. R. Bentley, for Six Poems by Mr. T. Gray. |work=Spenser and the Tradition: English Poetry 1579–1830 |publisher=Department of English, Virginia Tech}}.
+*{{cite book |last=Scrivener |first=F.H.A. |year=1894 |title=A Plain Introduction... |location=London |volume=1 |page=198}}
+*{{cite web |ref={{sfnRef|SoPSE}} |url=http://www.sopse.org.uk/asset_arena/text/pdf/sl/sl/sl-sl-rb01_familyhistory-d-00-000.pdf |title=Bentley Ancestry |website=Sense of Place South East (SoPSE)}}{{Better source needed|date=August 2017}}
+*{{cite DNBSupp |last=Wordsworth |first=John  |wstitle=Walker, John (1692?-1741) |volume=3 |pages=502–504}}
+
+'''Attribution:'''
+* {{EB1911|wstitle=Bentley, Richard (scholar) |volume=3 |pages=750–753}} endnotes:
+**{{cite book |last=Mähly |first=J. |year=1868 |title=Richard Bentley, eine Biographie |language=de |location=Leipzig}}
+**{{cite book |last=Jebb |first=R. C. |year=1882 |title=Richard Bentley |series=English Men of Letters |location=New York |publisher=Harper |ref=none}}
+
+== Further reading ==
+* {{cite book |last1=Bartholomew |first1=A. T. |first2= J. W. |last2=Clark |title=Richard Bentley, D.D.: a Bibliography of his Works and all the Literature Called Forth by his Acts or his Writings |url=https://archive.org/details/richardbentleydd00bartuoft |access-date=23 February 2008 |year=1908 |publisher=Bowes and Bowes |location=Cambridge }}
+* Bentley, Richard (1842). ''The Correspondence of Richard Bentley, Ed. Monk''. London:Murray (reissued by [[Cambridge University Press]], 2009; {{ISBN|978-1-108-00054-3}})
+* Brink, C.O. (2009). ''[https://web.archive.org/web/20090105225952/http://www.lutterworth.com/jamesclarke/jc/titles/engclass.htm English Classical Scholarship: Historical Reflections on Bentley, Porson and Housman]'', James Clarke & Co. {{ISBN|978-0-227-17299-5}}.
+* Haugen, Kristine Louise, ''Richard Bentley: Poetry and Enlightenment'' (Cambridge, MA; London: Harvard University Press, 2011).
+* {{cite book |last=Jebb |first=R. C. |author-link=Richard Claverhouse Jebb |title=Bentley |url=https://archive.org/details/bentleyjebb00jebbiala |access-date=23 February 2008 |edition=new |series=[[English Men of Letters]] |year=1889 |publisher=Macmillan and Co. |location=London }}
+* {{cite book |last=Maehly |first=Jakob Achilles |title=Richard Bentley, eine Biographie |year=1868 |publisher=Leipzig }}
+* {{cite book |last=Monk |first=James Henry |author-link=James Henry Monk |title=The Life of Richard Bentley, D.D. |url=https://archive.org/details/liferichardbent01bentgoog |year=1833 |publisher=J. G. & F. Rivington |location=London }} Retrieved on 23 February 2008.
+* {{cite book |last=Sandys |first=John Edwin |author-link=John Edwin Sandys |title=A History of Classical Scholarship Vol. II: From the Revival of Learning to the End of the Eighteenth Century (in Italy, France, England, and the Netherlands) |url=https://archive.org/details/historyofclassic02sanduoft |access-date=23 February 2008 |year=1908 |publisher=Cambridge University Press |location=Cambridge |pages=[https://archive.org/details/historyofclassic02sanduoft/page/401 401]–410 }}
+* {{cite web |author=Trinity College, Cambridge |author-link=Trinity College, Cambridge |title=The Master of Trinity |url=http://www.trin.cam.ac.uk/index.php?pageid=172 |access-date=23 February 2008 |year=2008 }}
+* {{cite book |last=Wolf |first=F. A. |author-link=Friedrich August Wolf |title=Literarische Analekten |year=1816 |pages=vol. i |no-pp=true }}
+
+== External links ==
+{{wikiquote}}
+{{commons category}}
+* [http://www.eighteenthcenturypoetry.org/authors/pers00006.shtml Richard Bentley] at the [http://www.eighteenthcenturypoetry.org/ Eighteenth-Century Poetry Archive (ECPA)]
+
+{{s-start}}
+{{s-aca}}
+{{succession box |
+ before=[[John Montagu (Trinity)|John Montagu]] |
+ title=[[List of masters of Trinity College, Cambridge|Master of Trinity College, Cambridge]] |
+ years=1700–1742 |
+ after=[[Robert Smith (mathematician)|Robert Smith]]
+}}
+{{succession box |
+  before=[[Henry James (Regius Professor)|Henry James]]|
+  title=[[Regius Professor of Divinity at Cambridge]]|
+  years=1717–1742 |
+  after=[[John Whalley (Cambridge)|John Whalley]]
+}}
+
+{{S-end}}
+
+{{Masters of Trinity College, Cambridge}}
+{{Regius Professors of Divinity}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bentley, Richard}}
+[[Category:1662 births]]
+[[Category:1742 deaths]]
+[[Category:18th-century Christian biblical scholars]]
+[[Category:People from Rothwell, West Yorkshire]]
+[[Category:People educated at Queen Elizabeth Grammar School, Wakefield]]
+[[Category:Alumni of St John's College, Cambridge]]
+[[Category:Masters of Trinity College, Cambridge]]
+[[Category:Fellows of the Royal Society]]
+[[Category:English philologists]]
+[[Category:English classical scholars]]
+[[Category:New Testament scholars]]
+[[Category:Textual scholarship]]
+[[Category:18th-century English Christian theologians]]
+[[Category:Vice-chancellors of the University of Cambridge]]
+[[Category:Classical scholars of the University of Cambridge]]
+[[Category:Regius Professors of Divinity (University of Cambridge)]]
+[[Category:Scholars of ancient Greek literature]]
+[[Category:Scholars of Latin literature]]
+[[Category:English librarians]]
+[[Category:Anglican biblical scholars]]
+[[Category:British biblical scholars]]
+[[Category:17th-century Anglican theologians]]
+[[Category:18th-century Anglican theologians]]

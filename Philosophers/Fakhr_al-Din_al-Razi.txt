@@ -1,0 +1,152 @@
+{{Short description|12th-century Sunni Muslim theologian and philosopher}}
+{{About|the 12th-century theologian|the 10th-century physician and alchemist|Abu Bakr al-Razi|other uses|Razi (disambiguation){{!}}Razi}}
+{{Infobox religious biography  
+ <!-- Scroll down to edit this page -->    
+ <!-- Philosopher Category -->
+| occupation         = [[Scholar]] and [[scientist]]
+| era                = [[Islamic Golden Age]]
+
+ <!-- Information -->
+| name               = '''Fakhr al-Dīn al-Rāzī'''
+| title              = [[Shaykh al-Islam]],<br/> al-Fakhr al-Razi,<br/> [[Sultan]] [[Ilm al-Kalam|al-Mutakallimin]] (Sultan of the Theologians),<ref name="Adamson2016">{{cite book|author=Peter Adamson|title=Philosophy in the Islamic World: A History of Philosophy Without Any Gaps|url=https://books.google.com/books?id=KEpRDAAAQBAJ|date=7 July 2016|publisher=Oxford University Press|isbn=978-0-19-957749-1|page=315}}</ref><br/> and Imam or Shaykh al-Mushakkikin (the Imam or Teacher of the Skeptics).<ref name="google">{{cite book|title=Islam and Other Religions: Pathways to Dialogue|author=Omar, Irfan|date=2013|publisher=Taylor & Francis|isbn=9781317998525|url=https://books.google.com/books?id=wTDcAAAAQBAJ&pg=PA113|page=113|access-date=2017-12-02}}</ref>
+| image              = 
+| caption            = 
+| religion           = [[Islam]]
+| birth_date         = 1149 or 1150 (543 or 544 [[Hijri year|AH]])
+| birth_place        = [[Ray, Iran|Ray]], [[Seljuk Empire]]
+| death_date         = 1209 (606 AH, aged 59 or 60)
+| death_place        = [[Herat]], [[Ghurid Empire]]
+| denomination       = [[Sunni Islam|Sunni]]
+| jurisprudence      = [[Shafi'i]]<ref name="YounusMirza">{{Cite journal|title = Was Ibn Kathīr the 'Spokesperson' for Ibn Taymiyya? Jonah as a Prophet of Obedience|url = http://www.euppublishing.com/doi/abs/10.3366/jqs.2014.0130|journal = Journal of Qur'anic Studies|date = 2014-02-01|issn = 1465-3591|page = 1|volume = 16|issue = 1|doi = 10.3366/jqs.2014.0130|last1 = Mirza|first1 = Younus Y.}}</ref>
+| creed              = [[Ash'ari]]<ref name="YounusMirza"/><ref>[[Ovamir Anjum]], Politics, Law, and Community in Islamic Thought: The Taymiyyan Moment, p 143. {{ISBN|1107014069}}</ref>
+| region             = [[Greater Iran|Persia]]
+| notable idea       = 
+| main_interests     = [[Tafsir]], [[Principles of Islamic jurisprudence]], [[Rhetoric]], [[Kalam]], [[Islamic Philosophy]], [[Logic]], [[Astronomy]], [[Cosmology]], [[Ontology]], [[Physiognomy]], [[Chemistry]], [[Physics]], [[Medicine]], [[Anatomy]]
+| influences         = [[Al-Shafi'i]], [[Abu al-Hasan al-Ash'ari]], [[Ibn Furak]], [[Avicenna|Ibn Sina]], [[al-Juwayni]], [[al-Ghazali]], [[Diya' al-Din al-Makki]]
+| influenced         = [[Athir al-Din al-Abhari]], [[Nizam al-Din al-Nisapuri]], [[Burhan al-Din al-Nasafi]],<ref>{{cite web|url=https://iranicaonline.org/articles/borhan-al-din-nasafi-abul-fazael-mohammad-b|title=BORHĀN-AL-DĪN NASAFĪ|publisher=[[Encyclopaedia Iranica]]|website=iranicaonline.org|archive-url=https://web.archive.org/web/20201029001335/https://iranicaonline.org/articles/borhan-al-din-nasafi-abul-fazael-mohammad-b|archive-date=29 Oct 2020|quote=In spite of his adherence to the Hanafite school of law, he clearly inclined to Asḥʿarism in theology and was an admirer of Ḡazālī and Faḵr-al-Dīn Rāzī.}}</ref> [[Shihab al-Din al-Qarafi]], [[Taj al-Din al-Subki]], [[Al-Safadi]], [[Ibn Abi Usaybi'a]], [[Al-Suyuti]], [[Sa'id Foudah]]
+| works              = ''[[Tafsir al-Razi|Al-Tafsir al-Kabir (Mafatih al-Ghayb)]]'', ''[[Asas al-Taqdis]]''
+| native_name_lang   = ar
+| native_name        = فخر الدين الرازي
+}}
+
+'''Fakhr al-Dīn al-Rāzī''' ({{langx|ar|فخر الدين الرازي}}) or '''Fakhruddin Razi''' ({{langx|fa|فخر الدين رازی}}) (1149 or 1150 – 1209), often known by the sobriquet '''Sultan of the Theologians''', was an influential Iranian and Muslim [[polymath]], [[scientist]] and one of the pioneers of [[inductive logic]].<ref>Richard Maxwell Eaton, ''The Rise of Islam and the Bengal Frontier, 1204–1760'', University of California Press,1996, - Page 29</ref><ref>Shaikh M. Ghazanfar, ''Medieval Islamic Economic Thought: Filling the Great Gap in European Economics'', Routledge, 2003 [https://books.google.com/books?id=2PW9ZhrASK4C&dq=fakhr+razi+persian+scholar&pg=RA1-PA90]</ref><ref>{{Cite web|url=https://books.google.com/books?id=NIJspscleLAC&q=Fakhr+al-Din+al-Razi+father+pioneer&pg=PA239|title = Philosophy}}</ref> He wrote various works in the fields of [[medicine]], [[chemistry]], [[physics]], [[astronomy]], [[cosmology]], [[literature]], [[theology]], [[ontology]], [[philosophy]], [[history]] and [[jurisprudence]]. He was one of the earliest proponents and skeptics that came up with the concept of [[multiverse]], and compared it with the astronomical teachings of [[Quran]].<ref name="Cooper">{{citation|title=al-Razi, Fakhr al-Din (1149-1209)|encyclopedia=[[Routledge Encyclopedia of Philosophy]]|author=John Cooper|date=1998|publisher=[[Routledge]]|url=http://www.muslimphilosophy.com/ip/rep/H044.htm|access-date=2010-03-07}}</ref><ref name=Setia>{{citation|title=Fakhr Al-Din Al-Razi on Physics and the Nature of the Physical World: A Preliminary Survey|author=Adi Setia|journal=Islam & Science|volume=2|date=2004|url=https://cis-ca.org/_media/pdf/2004/2/A_faaopatnotpwaps.pdf|access-date=2024-03-26}}</ref> A rejector of the [[geocentric model]] and the [[Aristotelianism|Aristotelian]] notions of a single [[universe]] revolving around a single world, al-Razi argued about the existence of the [[outer space]] beyond the known world.<ref name=Setia/><ref name="universe">{{cite web|last=Williams|first=Matt|title=What Is The Geocentric Model Of The Universe?|url=https://www.universetoday.com/32607/geocentric-model/|quote=This was followed by Fakhr al-Din al-Razi's (1149–1209) publication of his treatise Matalib, which dealt with conceptual physics. In it, he rejected the notion of the Earth's centrality within the universe and instead proposed a cosmology in which there were a "thousand thousand worlds beyond this world..."|website=Universe Today|date=11 January 2016|access-date=3 October 2020}}</ref>
+
+Al-Razi was born in [[Ray, Iran]], and died in [[Herat]], [[Afghanistan]].<ref name="harvnb|Anawati|1960–2007">{{harvnb|Anawati|1960–2007}}.</ref> He left a very rich corpus of philosophical and theological works that reveals influence from the works of [[Avicenna]], [[Abu'l-Barakāt al-Baghdādī]] and [[al-Ghazali]]. 
+Two of his works titled ''Mabāhith al-mashriqiyya fī 'ilm al-ilāhiyyāt wa-'l-tabi'iyyāt'' المباحث المشرقية في علم الإلهيات و الطبيعيات (''Eastern Studies in Metaphysics and Physics'') and ''al-Matālib al-'Aliya'' المطالب العالية  (''The Higher Issues'') are usually regarded as his most important philosophical works.<ref name=Routledge>{{cite book|editor1-last=Taylor|editor1-first=Richard|editor2-last=Lopez-farjeat|editor2-first=Luis Xavier|title=The Routledge Companion to Islamic Philosophy|date=2013|publisher=[[Routledge]]|isbn=9780415881609|page=9|chapter=God and Creation in al-Razi's Commentary on the Qur'an}}</ref>
+
+== Biography ==
+{{Ash'arism}}
+Fakhr al-Din al-Razi, whose full name was ''Abū ʿAbd Allāh Muḥammad ibn ʿUmar ibn al-Ḥusayn'' ({{langx|ar|أبو عبد الله محمد بن عمر بن الحسين}}), was born in 1149 or 1150 CE (543 or 544 [[Hijri year|AH]]) in [[Ray, Iran|Ray]] (close to modern [[Tehran]]), whence his [[Nisba (onomastics)|{{transliteration|ar|nisba}}]] al-Razi.<ref name="harvnb|Anawati|1960–2007"/> According to [[Ibn al-Sha'ar al-Mawsili|Ibn al-Shaʿʿār al-Mawṣilī]] (died 1256), one of al-Razi's earliest biographers, his great-grandfather had been a rich merchant in [[Mecca]].<ref name="ReferenceA">{{harvnb|Shihadeh|2013–2019|pp=viii–ix}}.</ref> Either his great-grandfather or his grandfather migrated from Mecca to [[Tabaristan]] (a mountainous region located on the [[Caspian Sea|Caspian]] coast of northern [[Iran]]) in the 11th century, and some time after that the family settled in Ray.<ref name="ReferenceA"/> Having been born into a family of Meccan origin, al-Razi claimed descent from the first caliph [[Abu Bakr]] ({{circa|573–634}}), and was known by medieval biographers as al-Qurashī (a member of the [[Quraysh]], the tribe of the prophet [[Muhammad]] to which also Abu Bakr belonged).<ref>{{harvnb|Shihadeh|2013–2019|p=ix}}; cf. {{harvnb|Cannon|1998|p=347}}: "The family claimed both a long tribal ancestry (associated with the [[Banu Taym|Taimi]] tribe) and descent from the family of Abu Bakr, the first caliph".</ref> However, it is not clear from which precise lines of descent al-Razi envisioned his purported ties with Abu Bakr to result, and the poet [[Ibn Unayn|Ibn ʿUnayn]] (died 1233) actually praised him as a descendant of the second caliph [[Umar ibn al-Khattab]] (died 644).<ref>{{harvnb|Shihadeh|2013–2019|p=ix}}. On Ibn ʿUnayn, see {{harvnb|Masarwa|2021}}.</ref>
+
+Fakhr al-Din first studied with his father, [[Diya' al-Din al-Makki|Ḍiyāʾ al-Dīn al-Makkī]], himself a scholar of some repute whose ''magnum opus'' in [[kalam]] has recently been rediscovered in part,<ref>Facsimile in {{harvnb|Shihadeh|2013–2019}}.</ref> and later at [[Merv]] and [[Maragheh]], where he was one of the pupils of Majd al-Din al-Jili, who in turn had been a disciple of [[al-Ghazali]]. He was a leading proponent of the [[Ash'ari]] school of theology.
+
+His commentary on the [[Quran]] was the most-varied and many-sided of all extant works of the kind, comprising most of the material of importance that had previously appeared. He devoted himself to a wide range of studies and is said to have expended a large fortune on experiments in [[alchemy]]. He taught at Ray (Central Iran) and [[Ghazni]] (eastern [[Afghanistan]]), and became head of the university founded by Mohammed ibn Tukush at Herat (western Afghanistan).<ref name=nie>{{NIE|wstitle=Fakhr-ad-Din ar-Razi|inline=1}}</ref>
+
+In his later years, he also showed interest in [[Sufism|mysticism]], though this never formed a significant part of his thought.<ref name=Cooper/> He died in [[Herat]] (Afghanistan) in 1209 (606 AH), where his tomb is still venerated today.<ref name="harvnb|Anawati|1960–2007"/> Many believe he was poisoned by the [[Karramiyya|Karrāmīyah]].<ref>{{Cite web |title=Fakhr ad-Dīn ar-Rāzī {{!}} Muslim Theologian, Philosopher, Scientist {{!}} Britannica |url=https://www.britannica.com/biography/Fakhr-ad-Din-ar-Razi |access-date=2023-07-09 |website=www.britannica.com |language=en}}</ref>
+
+==''The Great Commentary''==
+{{Main|Tafsir al-Kabir (al-Razi)}}
+One of Imam Razi's outstanding achievements was his unique interpretive work on the Quran called ''Mafātiḥ al-Ghayb'' (''Keys to the Unseen'') and later nicknamed ''Tafsīr al-Kabīr'' (''The Great Commentary''), one reason being that it was 32 volumes in length. This work contains much of philosophical interest. One of his "major concerns was the [[self-sufficiency]] of the intellect." His "acknowledgment of the primacy of the Qur'an grew with his years." Al-Razi's [[rationalism]] undoubtedly "holds an important place in the debate in the Islamic tradition on the harmonization of reason and revelation."<ref name=Cooper/>
+
+==Development of Kalam==
+Al-Razi's development of [[Kalam]] (Islamic scholastic theology) led to the evolution and flourishing of theology among Muslims. Razi had experienced different periods in his thinking, affected by the [[Ash'ari]] school of thought and later by al-Ghazali. Al-Razi tried to make use of elements of [[Muʿtazila]] and ''[[Islamic philosophy#Falsafa|Falsafah]]'', and although he had some criticisms on ibn Sina, Razi was greatly affected by him. The most important instance showing the synthesis of Razi's thought may be the problem of the eternity of the world and its relation to God. He tried to reorganize the arguments of theologians and philosophers on this subject, collected and critically examined the arguments of both sides. He considered, for the most part, the philosophers' argument for the world's eternity stronger than the theologians' position of putting emphasis on the temporal nature of the world.<ref>{{Cite book|url=https://books.google.com/books?id=-KdN9JLuKTYC&q=Fakhr%2520Razi&pg=PA59|title=Fakhr Al-Dīn Al-Rāzī and Thomas Aquinas on the Question of the Eternity of the World|last=İskenderoğlu|first=Muammer|date=2002-01-01|publisher=BRILL|isbn=9004124802|language=en}}</ref> According to Tony Street, we should not see in Razi's theoretical life a journey from a young [[dialectician]] to a religious condition.<ref>{{Cite book|url=https://books.google.com/books?id=H3nHpsDBm6QC|title=Islam - Essays in Scripture, Thought and Society: A Festschrift in Honour of Anthony H. Johnes|last1=Riddell|first1=Peter G.|last2=Street|first2=Tony|last3=Johns|first3=Anthony Hearle|date=1997-01-01|publisher=BRILL|isbn=9004106928|language=en}}</ref> It seems that he adopted different thoughts of diverse schools, such as those of Mutazilite and Asharite, in his exegesis, ''The Great Commentary''.<ref>{{Cite book|url=https://books.google.com/books?id=8K5J2V1TuE0C|title=Quar'anic Exegeses: Selected Entries from Encyclopaedia of the World of Islam|last1=Adel|first1=Gholamali Haddad|last2=Elmi|first2=Mohammad Jafar|last3=Taromi-Rad|first3=Hassan|date=2012-08-31|publisher=EWI Press|isbn=9781908433053|language=en}}</ref>
+
+== Hypothetical concept of multiple universes ==
+Al-Razi, in dealing with his [[Physics in medieval Islam|conception of physics]] and the physical world in his ''Matalib al-'Aliya'', criticizes the idea of the [[geocentric model]] within the universe and "explores the notion of the existence of a [[multiverse]] in the context of his commentary" on the [[Quran]]ic verse, "All praise belongs to God, Lord of the Worlds." He raises the question of whether the term "[[world]]s" in this verse refers to "multiple worlds within this single [[universe]] or [[cosmos]], or to many other universes or a multiverse beyond this known universe."<ref name=Setia></ref>
+
+Al-Razi states:<ref name="Setia"/>{{blockquote|It is established by evidence that there exists beyond the world a void without a terminal limit (''khala' la nihayata laha''), and it is established as well by evidence that God Most High has power over all contingent beings (''al-mumkinat''). Therefore He the Most High has the power (''qadir'') to create millions of worlds (''alfa alfi 'awalim'') beyond this world such that each one of those worlds be bigger and more massive than this world as well as having the like of what this world has of the throne (''al-arsh''), the chair (''al-kursiyy''), the heavens (''al-samawat'') and the earth (''al-ard''), and the sun (''al-shams'') and the moon (''al-qamar''). The arguments of the philosophers (''dala'il al-falasifah'') for establishing that the world is one are weak, flimsy arguments founded upon feeble premises.}}
+
+Al-Razi rejected the [[Aristotelianism|Aristotelian]] and [[Avicennism|Avicennian]] notions of a single universe revolving around a single world.<ref name=Setia/><ref name="universe"/> He describes their main arguments against the existence of multiple worlds or universes, pointing out their weaknesses and refuting them. This rejection arose from his affirmation of [[atomism]], as advocated by the [[Ash'ari]] school of [[Islamic theology]], which entails the existence of vacant space in which the atoms move, combine and separate {{Citation needed|date=July 2018}}. He discussed more on the issue of the [[Void (astronomy)|void]] – the empty spaces between stars and constellations in the [[universe]], that contain few or no stars – in greater detail in volume 5 of the ''Matalib''.<ref name=Setia/> He argued that there exists an infinite [[outer space]] beyond the known world,<ref name=Iskenderoglu>{{citation|title=Fakhr al-Dīn al-Rāzī and Thomas Aquinas on the question of the eternity of the world|author=Muammer İskenderoğlu|publisher=[[Brill Publishers]]|date=2002|isbn=90-04-12480-2|page=79}}</ref> and that God has the power to fill the [[vacuum]] with an infinite number of universes.<ref name="Cooper"/><ref>{{Cite book|last=Alikuzai|first=Hamid Wahed|url=https://books.google.com/books?id=-WRlAQAAQBAJ&pg=PA139|title=A Concise History of Afghanistan in 25 Volumes|publisher=Trafford|year=2013|pages=139|isbn=9781490714462}}</ref>
+
+==List of works==
+Al-Razi had written over a hundred works on a wide variety of subjects. His major works include:
+* [[Tafsir al-Kabir (al-Razi)|''Tafsir al-Kabir'' (''The Great Commentary'')]] (also known as '''Mafatih al-Ghayb''')
+* ''Asraar at-Tanzeel wa Anwaar at-Ta'weel'' (''The Secrets of Revelation & The Lights of Interpretation''). Tafsir of selected verses from [[The Quran]].
+Note: Not to be confused with the book of Tafsir by Imam Nasir al-Din al-Baydawi [[Qadi Baydawi]] called: Anwaar at-Tanzeel wa Asraar at-Ta'weel (''The Lights of Revelation and The Secrets of Interpretation'') or more commonly [[Tafsir al-Baydawi]]
+* ''[[Asas al-Taqdis]]'' (''The Foundation of Declaring God's Transcendence'') Refutation of [[Ibn Khuzayma]], the [[Karramites]], and the [[Anthropomorphists]]
+* '''Aja'ib al-Qur'an'' (''The Mysteries of the Qur'an'')
+* ''Al-Bayan wa al-Burhan fi al-Radd 'ala Ahl al-Zaygh wa al-Tughyan''
+* ''Al-Mahsul fi 'Ilm al-Usul''
+* ''Al-Muwakif fi 'Ilm al-Kalam''
+* '''Ilm al-Akhlaq'' (''Science of Ethics'')
+* ''Kitab al-Firasa'' (''Book on Firasa'')
+* ''Kitab al-Mantiq al-Kabir'' (''Major Book on Logic'')
+* ''Kitab al-nafs wa'l-ruh wa sharh quwa-huma'' (''Book on the Soul and the Spirit and their Faculties'')
+* ''Mabahith al-mashriqiyya fi 'ilm al-ilahiyyat wa-'l-tabi'iyyat'' (''Eastern Studies in Metaphysics and Physics'')
+* ''Al-Matālib al-'Āliyyah min al- 'ilm al-ilahī'' (''The Higher Issues'') – his last work. Al-Razi wrote al-Matālib during his writing of al-Tafsir and he died before completing both works.
+* {{transliteration|ar|Muḥaṣṣal Afkār al-Mutaqaddimīn wal-Muta'akhkhirīn}} (''The Harvest/Compendium of the Thought of the Ancients and Moderns'')
+* ''Nihayat al 'Uqul fi Dirayat al-Usul''
+* ''Risala al-Huduth''
+* ''[[Sharh al-Isharat]]'' (''Commentary on al-Isharat wa-al-Tanbihat of [[Ibn Sina]]'')
+* ''Sharh Asma' Allah al-Husna'' (''Commentary on Asma' Allah al-Husna'')
+* ''Sharh Kulliyyat al-Qanun fi al-Tibb'' (''Commentary on Canon of Medicine'')
+* ''Sharh Nisf al-Wajiz li'l-Ghazali'' (''Commentary on ''Nisf al-Wajiz'' of Al-Ghazali''&thinsp;)
+* ''Sharh Uyun al-Hikmah'' (''Commentary on Uyun al-Hikmah'')
+* ''Kitāb al-Arba'īn Fī Uṣūl al-Dīn'
+* ''Al-Shajara al-mubaraka''<ref>{{Cite web |last=Library |first=Al-Shajara al-mubarakaAuthorFakhr al-Din al-RaziOriginal titleألشّجَرَةُ المُبارَکة فی أنسابِ الطّالِبیةLanguageArabicSeries1 vol SubjectAbu Talib FamilyGenreGeneologyPublishedSecond edition in 1419/1998-9PublisherAyatollah Mar'ashi Najafi |title=Al-Shajara al-mubaraka (book) - wikishia |url=https://en.wikishia.net/view/Al-Shajara_al-mubaraka_(book) |access-date=2024-05-09 |website=en.wikishia.net |language=en}}</ref>
+
+== See also ==
+* [[List of Ash'aris]]
+* [[List of Muslim theologians]]
+* [[List of Iranian scientists]]
+* [[Astronomy in medieval Islam]]
+* [[Cosmology in medieval Islam]]
+* [[Abdol Hamid Khosro Shahi]]
+* [[Nur al-Din al-Sabuni]]
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+*{{cite encyclopedia|last1=Anawati|first1=Georges C.|date=1960–2007|title=Fakhr al-Dīn al-Rāzī|editor1-last=Bearman|editor1-first=P.|editor1-link=Peri Bearman|editor2-last=Bianquis|editor2-first=Th.|editor2-link=Thierry Bianquis|editor3-last=Bosworth|editor3-first=C.E.|editor3-link=Clifford Edmund Bosworth|editor4-last=van Donzel|editor4-first=E.|editor4-link=Emeri Johannes van Donzel|editor5-last=Heinrichs|editor5-first=W.P.|editor5-link=Wolfhart Heinrichs|encyclopedia=Encyclopaedia of Islam, Second Edition|doi=10.1163/1573-3912_islam_COM_0206|url=https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-2/*-COM_0206}} (on his life and writings)
+*{{cite book|last1=Cannon|first1=Byron D.|date=1998|chapter=Fakhr al-Din al-Razi|editor1-last=Magill|editor1-first=Frank N.|editor2-last=Moose|editor2-first=Christina J.|editor3-last=Aves|editor3-first=Alison|editor4-last=Rehn|editor4-first=Mark|title=Dictionary of World Biography. Volume 2: The Middle Ages|location=London and New York|publisher=Routledge|pages=347–349|isbn=9781579580414|chapter-url=https://books.google.com/books?id=CurSh3Sh_KMC&pg=PA347}}
+*{{cite book|last1=Elkaisy-Friemuth|first1=Maha|date=2016|chapter=God and Creation in al-Rāzī's Commentary on the Qur'ān|editor1-last=Taylor|editor1-first=Richard C.|editor2-last=López-Farjeat|editor2-first=Luis Xavier|title=The Routledge Companion to Islamic Philosophy|location=London|publisher=Routledge|pages=7–19}}
+*{{cite journal|last1=Griffel|first1=Frank|author1-link=Frank Griffel|date=2007|title=On Fakhr al-Dīn al-Rāzī's Life and the Patronage He Received|journal=Journal of Islamic Studies|volume=18|issue=3|pages=313–344|doi=10.1093/jis/etm029 }}
+*{{cite book|last1=Griffel|first1=Frank|author1-link=Frank Griffel|date=2021|title=The Formation of Post-Classical Philosophy in Islam|location=New York|publisher=Oxford University Press}}
+*{{cite book|last1=Jaffer|first1=Tariq|date=2015|title=Rāzī: Master of Qur'ānic Interpretation and Theological Reasoning|publisher=Oxford University Press}}
+*{{cite encyclopedia|last1=Masarwa|first1=Alev|date=2021|title=Ibn ʿUnayn|editor1-last=Fleet|editor1-first=Kate|editor2-last=Krämer|editor2-first=Gudrun|editor2-link=Gudrun Krämer|editor3-last=Matringe|editor3-first=Denis|editor4-last=Nawas|editor4-first=John|editor5-last=Rowson|editor5-first=Everett|editor5-link=Everett K. Rowson|encyclopedia=Encyclopaedia of Islam, Three|doi=10.1163/1573-3912_ei3_COM_32280}}
+*{{cite book|last1=Mourad|first1=Yusef|date=1939|title=La physiognomie arabe et le Kitab al-firasa de Fakhr al-Din al-Razi|location=Paris}} (on his treatise on [[physiognomy]])
+*{{cite book|last1=Shihadeh|first1=Ayman|author1-link=Ayman Shihadeh|date=2006|title=The Teleological Ethics of Fakhr al-Dīn al-Rāzī|location=Leiden|publisher=Brill}}
+*{{cite book|last1=Shihadeh|first1=Ayman|editor-first1=Ayman |editor-last1=Shihadeh |author1-link=Ayman Shihadeh|date=2013–2019|title=Fakhr al-Dīn al-Rāzī's father, Ḍiyāʾ al-Dīn al-Makkī. Nihāyat al-marām fī dirāyat al-kalām. Facsimile of the autograph manuscript of vol. II|location=Tehran and Berlin and Leiden|publisher=Miras-e Maktoob and Freie Universität Berlin and Brill|isbn=978-90-04-40613-1|doi=10.1163/9789004406131}}
+*{{cite book|last1=Shihadeh|first1=Ayman|author1-link=Ayman Shihadeh|date=2017|chapter=Al-Rāzī's (d. 1210) Commentary on Avicenna's Pointers: The Confluence of Exegesis and Aporetics|editor1-last=El-Rouayheb|editor1-first=Khaled|editor2-last=Schmidtke|editor2-first=Sabine|editor2-link=Sabine Schmidtke|title=The Oxford Handbook of Islamic Philosophy|publisher=Oxford University Press|pages=296–325}}
+*{{cite book|last1=Shihadeh|first1=Ayman|author1-link=Ayman Shihadeh|last2=Thiele|first2=Jan|date=2020|title=Philosophical Theology in Islam: Later Ashʿarism East and West|location=Leiden and Boston|publisher=Brill}}
+*{{cite book|last1=Ullmann|first1=Manfred|date=1972|title=Die Natur- und Geheimwissenschaften im Islam|series=Handbuch der Orientalistik, Abteilung I, Ergänzungsband VI, Abschnitt 2|location=Leiden|publisher=E. J. Brill|pages=388–390}} (on his astrological-magical writings)
+
+== External links ==
+{{Wikiquote}}
+{{EB1911 poster|Fakhr ud-Dīn Rāzi}}
+* Muslimphilosophy.com: [http://www.muslimphilosophy.com/ip/rep/H044.htm Fakhr al-Din al-Razi]
+* [http://www.cis-ca.org/voices/r/alRazi-Fakhr%20al-Din.htm His biography] {{Webarchive|url=https://web.archive.org/web/20160225095559/http://www.cis-ca.org/voices/r/alRazi-Fakhr%20al-Din.htm |date=2016-02-25 }}
+* [http://sunnah.org/history/Scholars/al_fakhr_al_razi.htm Another Biography by GF Haddâd] {{Webarchive|url=https://web.archive.org/web/20060919194453/http://sunnah.org/history/Scholars/al_fakhr_al_razi.htm |date=2006-09-19 }}
+
+{{Shafi'i scholars}}
+{{Ash'ari}}
+{{Islamic Theology}}
+{{People of Khorasan}}
+{{Authority control}}
+
+{{DEFAULTSORT:Razi}}
+[[Category:Asharis]]
+[[Category:Shafi'is]]
+[[Category:Shaykh al-Islāms]]
+[[Category:Mujaddid]]
+[[Category:12th-century Muslim theologians]]
+[[Category:Sunni imams]]
+[[Category:Sunni Muslim scholars of Islam]]
+[[Category:Quranic exegesis scholars]]
+[[Category:Islamic philosophers]]
+[[Category:12th-century Iranian scientists]]
+[[Category:13th-century Iranian scientists]]
+[[Category:People from Amol]]
+[[Category:Cosmologists]]
+[[Category:Medieval physicists]]
+[[Category:13th-century Persian-language writers]]
+[[Category:12th-century Persian-language writers]]
+[[Category:1150 births]]
+[[Category:1209 deaths]]
+[[Category:People from Ray, Iran]]
+[[Category:13th-century Muslim theologians]]
+[[Category:13th-century Iranian philosophers]]
+[[Category:Supporters of Ibn Arabi]]
+[[Category:12th-century Iranian philosophers]]
+[[Category:Scholars from the Khwarazmian Empire]]

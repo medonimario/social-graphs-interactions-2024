@@ -1,0 +1,336 @@
+{{Short description|Czech theologian and philosopher (c. 1370–1415)}}
+{{for|the films|Jan Hus (1954 film)|Jan Hus (2015 film)|John Hus (1977 film)}}
+{{Distinguish|J Hus}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[Renaissance philosophy]]
+|image            = Stimmer Jan Hus.jpg
+|caption          = [[Woodcut]] of Jan Hus, {{c.}} 1587
+|name             = Jan Hus
+|other_names      = John Hus, John Huss
+|birth_date       = {{Circa|1372}}
+|birth_place      = [[Husinec (Prachatice District)|Husinec]], [[Kingdom of Bohemia]], [[Holy Roman Empire]]<br/>(now [[Czech Republic]])
+|death_date       = {{death date and age|df=yes|1415|7|6|1372}}
+|death_place      = [[Konstanz]], [[Bishopric of Constance]], Holy Roman Empire<br/>(now [[Germany]])
+|death_cause=[[Death by burning|Execution by burning]]
+|alma_mater       = [[Charles University in Prague|University of Prague]]
+|school_tradition = [[Hussite]]
+|main_interests   = [[Theology]]
+|notable_ideas    =
+|influences       = [[John Wycliffe]]
+|influenced       = [[John Wesley]], [[Jerome of Prague]], [[Savonarola]], [[Martin Luther]], [[Henry VIII]], [[Petr Chelčický]], [[John Calvin]]
+}}
+[[File:German or Austrian 16th Century, John Huss Centenary Medal (reverse), 1515, NGA 45407.jpg|alt=A gold-colored medal, struck in silver, about four and a half centimeters across, showing the image of Jan Hus tied to a band of stakes. Inscriptions in capital letters read: (around the circumference), CENTVM REVOLVTIS ANNIS DEO RESPONDEBITIS ETMIHI / ANNO A CHRIST[o] NATO 1415 IO[annes] HVS; (and across the center), CONDEM / NATVR|thumb|German 16th Century. ''John Huss Centenary Medal'' [reverse] . Silver, 4.33 cm. National Gallery of Art, Washington. Samuel H. Kress Collection]]
+'''Jan Hus''' ({{IPAc-en|h|ʊ|s}}; {{IPA|cs|ˈjan ˈɦus|lang|Cs-Jan_Hus.ogg}}; {{c.}} 1370 – 6 July 1415), sometimes [[anglicized]] as '''John Hus''' or '''John Huss''', and referred to in historical texts as ''Iohannes Hus'' or ''Johannes Huss'', was a [[Czechs|Czech]] [[theologian]] and [[philosopher]] who became a Church reformer and the inspiration of [[Hussites|Hussitism]], a key predecessor to [[Protestantism]], and a seminal figure in the [[Bohemian Reformation]]. Hus is considered to be the first Church reformer, even though some designate the theorist [[John Wycliffe]].{{efn|"John Wycliffe may be thought of as the theorist of ecclesiastical Reformation, but Hus is considered the first church reformer, the antecedent of Luther, Calvin, and Zwingli, as such. His teachings had a strong influence on the states of Western Europe in the formation of a reformist Bohemian religious denomination and, more than a century later, on Martin Luther himself. Hus was burned at the stake for heresy against the teachings of the Roman Catholic Church, including those on ecclesiology, the Eucharist, and other theological dogma."{{sfn|Lamport|Forrest|Whaley|2019|p=227}}}}<ref>{{cite book |last1=Demy |first1=Timothy J. |last2=Larson |first2=Mark J. |last3=Charles |first3=J. Daryl |title=The Reformers on War, Peace, and Justice |date= 2019 |publisher=Wipf and Stock Publishers |isbn=978-1-4982-0698-3 |page=5 |url=https://books.google.com/books?id=50e6DwAAQBAJ&pg=PT5 |access-date=21 January 2022 |language=en}}</ref><ref>{{cite book |last1=Lamport |first1=Mark A. |last2=Forrest |first2=Benjamin K. |last3=Whaley |first3=Vernon M. |title=Hymns and Hymnody: Historical and Theological Introductions, Volume 2: From Catholic Europe to Protestant Europe |date= 2019 |publisher=Wipf and Stock Publishers |isbn=978-1-5326-5125-0 |page=227 |url=https://books.google.com/books?id=HPCaDwAAQBAJ&pg=PA227 |access-date=21 January 2022 |language=en}}</ref><ref>{{cite book |last1=Walker |first1=Williston |title=A History of the Christian Church |date= 2014 |publisher=Ravenio Books |page=56 |url=https://books.google.com/books?id=VW3QCwAAQBAJ&pg=PT56 |access-date=21 January 2022 |language=en}}</ref><ref>{{cite book |last1=Verhoeven |first1=Ludo |last2=Perfetti |first2=Charles |title=Learning to Read across Languages and Writing Systems |date= 2017 |publisher=Cambridge University Press |isbn=978-1-107-09588-5 |page=372 |url=https://books.google.com/books?id=t-w0DwAAQBAJ&pg=PA372 |access-date=21 January 2022 |language=en}}</ref> His teachings had a strong influence, most immediately in the approval of a reformed [[Bohemia|Bohemian]] religious denomination and, over a century later, on [[Martin Luther]]. 
+
+After being ordained as a [[Catholic priest]], Hus began to preach in Prague. He opposed many aspects of the [[Catholic Church]] in Bohemia, such as its views on [[ecclesiology]], [[simony]], the [[Eucharist]], and other theological topics. Hus was a master, dean and rector at the [[Charles University]] in [[Prague]] between 1409 and 1410.
+
+[[Antipope Alexander V|Alexander V]] issued a [[Papal bull]] that excommunicated Hus; however, it was not enforced, and Hus continued to preach. Hus then spoke out against Alexander V's successor, [[Antipope John XXIII]], for his selling of indulgences. Hus' excommunication was then enforced, and he spent the next two years living in exile. 
+
+When the [[Council of Constance]] assembled, Hus was asked to be there and present his views on the dissension within the Church. When he arrived, with a promise of [[safe-conduct]],{{sfn|Gillett|1863|pp=464–466}} he was arrested and put in prison. He was eventually taken in front of the council and asked to recant his views. He refused. On 6 July 1415, he was [[Death by burning#Historical use|burned at the stake]] for [[heresy]] against the teachings of the Catholic Church. 
+
+After Hus was executed, the followers of his religious teachings (known as [[Hussite]]s) refused to elect another Catholic monarch and defeated five consecutive papal [[crusades]] between 1420 and 1431 in what became known as the [[Hussite Wars]]. Both the [[Kingdom of Bohemia|Bohemian]] and the [[Margraviate of Moravia|Moravian]] populations remained majority Hussite until the 1620s, when a Protestant defeat in the [[Battle of the White Mountain]] resulted in the [[Lands of the Bohemian Crown]] coming under [[Habsburg]] dominion for the next 300 years and being subject to immediate and forced conversion in an intense [[Counter-Reformation|campaign]] of return to Catholicism.
+
+==Early life==
+The exact date of Hus's birth is disputed. Some claim he was born around 1369,{{sfn|Kuhns|1907|p=40}} while others claim he was born between 1373 and 1375.{{sfn|Lützow|1909|p=64}} Though older sources state the latter,{{sfn|Gillett|1863|p=43}} more contemporary research states that 1372 is more likely.{{sfn|Kuhns|1907|p=64}} The belief that he was born on 6 July, also his death day, has no factual basis.{{sfn|Lützow|1909|p=64}} Hus was born in [[Husinec, Prachatice District|Husinec]], southern Bohemia, to peasant parents.{{sfn|Lützow|1909|p=65}} It is well known that Hus took his name from the village where he lived (Husinec). The reason behind him taking his name from his village rather than from his father is up to speculation; some believe that it was because Hus did not know of his father, while others say it was simply a custom at that time.{{sfn|Gillett|1863|p=44}} The name "Hus," however, means "goose" in Bohemian (now called Czech), and he was a century later referenced as a "Bohemian goose" in a [[Frederick III, Elector of Saxony#The elector's dream|dream]] given to [[Frederick III, Elector of Saxony|Frederick, the Elector of Saxony]]. Nearly all other information known about Hus's very early life is unsubstantiated.{{sfn|Gillett|1863|pp=43–44}} Similarly, we know little of Hus's family. His father's name was Michael; his mother's name is unknown. It is known that Hus had a brother due to him expressing concerns for his nephew while awaiting execution at Constance. Whether or not Hus had any other family is unknown.{{sfn|Fudge|2010|p=9}}
+
+At the age of roughly 10, Hus was sent away to a monastery. The exact reason is not known; some claim that his father had died,{{sfn|Gilpin|1809|p=141}} others say he went there due to his devotion to God.{{sfn|Gillett|1863|pp=44–45}} He impressed the teachers with his studies, and they recommended him to move to [[Prague]], one of the largest cities in Bohemia at that time. Hus apparently supported himself by securing employment in Prague, which allowed him to fulfill his basic necessities, and access to the Prague Library.{{sfn|Gillett|1863|pp=46–48}}
+
+Three years later, he was admitted to the [[Charles University of Prague|University of Prague]].{{sfn|Gillett|1863|pp=47–50}} Though not an exceptional student, he pursued his studies with ferocity.{{sfn|Lützow|1909|pp=70–71}} In 1393, Hus earned a [[Bachelor of Arts]] degree at the University of Prague, and he earned his master's degree in 1396.{{sfn|Gilpin|1809|p=142}} The strongly anti-papal views that were held by many of the professors there likely influenced Hus's future works.{{sfn|Lützow|1909|pp=73–76}} During his studies, he served as a choir boy, to supplement his earnings.<ref>{{Cite book|last=Spinka|first=Matthew|url=https://www.worldcat.org/oclc/975125037|title=John Hus : a biography.|date=2017|publisher=Princeton University Press|isbn=978-0-691-62219-4|location=[Place of publication not identified]|oclc=975125037}}</ref>
+
+==Career==
+Hus began teaching at the University of Prague in 1398 and in 1399, he first publicly defended propositions of Wycliffe.{{sfn|Kuhns|1907|p=40}} He was ordained as a [[Catholic priest]] in 1400.<ref name="OD Renaissance">{{cite book |last1=Campbell |first1=Gordon |title=The Oxford Dictionary of the Renaissance |date=2003 |publisher=Oxford University Press |location=Oxford |isbn=9780191727795 |chapter=Hus, Jan or Jan Huss (c.1372–1415)}}</ref> In 1401, his students and faculty promoted him to dean of the philosophical department, and a year later, he became a [[Rector (academia)|rector]] of the University of Prague.{{sfn|Kuhns|1907|p=43}} He was appointed a preacher at the [[Bethlehem Chapel]] in 1402.{{sfn|Kuhns|1907|p=47}} Hus was a strong advocate for the Czechs and the [[Philosophical realism|Realists]], and he was influenced by the writings of [[John Wycliffe]].{{sfn|Kuhns|1907|pp=45–46}} Although Church authorities banned many of Wycliffe's works in 1403, Hus translated ''Trialogus'' into [[Czech language|Czech]] and helped to distribute it.{{sfn|Wilhelm|1910}}[[File:Hus na kazatelne.jpg|thumb|left|Jan Hus preaching, illumination from a Czech manuscript, 1490s]]
+
+Hus denounced the moral failings of clergy, bishops, and even the papacy from his pulpit.{{sfn|Gillett|1863|pp=76–78}}{{sfn|Gilpin|1809|p=143}} Archbishop [[Zbyněk Zajíc]] tolerated this, and even appointed Hus a preacher at the clergy's biennial synod. On 24 June 1405, [[Pope Innocent VII]] directed the Archbishop to counter Wycliffe's teachings, especially the idea of [[impanation]] in the [[Eucharist]].{{sfn|Wilhelm|1910}} The archbishop complied by issuing a [[synod]] decree against Wycliffe, as well as forbidding any further attacks on the clergy.{{sfn|Wilhelm|1910}}
+
+In 1406, two Bohemian students brought to Prague a document bearing the seal of the [[University of Oxford]] and praising Wycliffe. Hus proudly read the document from his pulpit.{{sfn|Wilhelm|1910}} Then, in 1408, [[Pope Gregory XII]] warned Archbishop Zajic that the Church in Rome had been informed of Wycliffe's heresies and of the sympathies of King [[Wenceslaus IV of Bohemia]] for nonconformists.{{sfn|Gillett|1863|pp=140–141}} In response, the king and university ordered all of Wycliffe's writings surrendered to the archdiocesan chancery for correction. Hus obeyed, declaring that he condemned the errors in those writings.{{sfn|Hus|1372–1415|p=69}}
+
+===Papal Schism===
+In 1408, the [[Charles University in Prague]] was divided by the [[Western Schism]], in which Gregory XII in Rome and [[Antipope Benedict XIII|Benedict XIII]] in [[Avignon]] both claimed the papacy. Wenceslaus felt Gregory XII might interfere with his plans to be crowned [[Holy Roman Emperor]]. He denounced Gregory, ordered the clergy in Bohemia to observe a strict neutrality in the schism and said that he expected the same of the university. Archbishop Zajíc remained faithful to Gregory. At the University, only the scholars of the Bohemian "nation" (one of the four governing sections), with Hus as their leader, vowed neutrality.{{sfn|Kuhns|Dickie|2017|pp=67–70}}
+
+====Kutná Hora Decree====
+{{see|Decree of Kutná Hora}}
+In January 1409, [[Wenceslaus IV of Bohemia|Wenceslaus]] summoned representatives of the four nations comprising the university to the Czech city of [[Kutná Hora]] to demand statements of allegiance. The Czech nation agreed, but the other three nations declined. The king then decreed that the Czech nation would have three votes in university affairs, while the "German nation" (composed of the former [[Bavaria]]n, [[Saxony|Saxon]], and [[Poland|Polish]] nations) would have one vote in total. Due to the change in voting structure by May 1409 the German dean and rector were deposed and replaced by Czechs. The [[Rupert, King of Germany|Palatine Elector]] called the Germans to his own University of Heidelberg, while the [[William II, Margrave of Meissen|Margrave of Meissen]] started a new [[University of Leipzig|university]] in Leipzig. It is estimated that over one thousand students and masters left Prague. The emigrants also spread accusations of Bohemian heresy.{{sfn|Fudge|2010|pp=97–100}}
+
+====Antipope Alexander V====
+{{More citations needed section|date=July 2020}}
+In 1409, the [[Council of Pisa]] tried to end the schism by electing [[Antipope Alexander V|Alexander V]] as Pope, but Gregory and Benedict did not submit. (Alexander was declared an "[[antipope]]" by the [[Council of Constance]] in 1418.) Hus, his followers, and Wenceslaus IV transferred their allegiance to Alexander V. Under pressure from
+King Wenceslaus IV, Archbishop Zajíc did the same. Zajíc then lodged an accusation of "ecclesiastical disturbances" against Wycliffites in Prague with Alexander V.
+
+On 20 December 1409, Alexander V issued a [[papal bull]] that empowered the Archbishop to proceed against Wycliffism in Prague. All copies of Wycliffe's writings were to be surrendered and his views repudiated, and free preaching discontinued. After the publication of the bull in 1410, Hus appealed to Alexander V, but in vain. The Wycliffe books and valuable manuscripts were burned, and Hus and his adherents were [[Excommunication|excommunicated]] by Alexander V.
+
+====Crusade against Naples====
+Alexander V died in 1410, and was succeeded by [[Antipope John XXIII|John XXIII]] (also later declared an antipope). In 1411, John XXIII proclaimed a [[crusade]] against King [[Ladislaus of Naples]], the protector of rival [[Pope Gregory XII]]. This crusade was preached in Prague as well. John XXIII also authorized [[indulgence]]s to raise money for the war. Priests urged the people on, and they crowded into churches to give their offerings. This traffic in indulgences was a sign of the corruption of the Church needing remediation.<ref>{{Cite web|title=Archaeological and Historical Evidence – Falling Away from the Pure Gospel of Jesus Christ|url=http://www.supportingevidences.net/falling-away-from-the-pure-gos/|access-date=2020-12-11|website=www.supportingevidences.net|language=en}}</ref>
+
+====Condemnation of indulgences and Crusade====
+Archbishop Zajíc died in 1411 and with his death the [[Bohemian Reformation|religious movement in Bohemia]] entered a new phase during which the disputes concerning [[indulgences]] assumed great importance. Hus spoke out against indulgences, but he could not carry with him the men of the university. In 1412, a dispute took place, on which occasion Hus delivered his address ''Quaestio magistri Johannis Hus de indulgentiis''. It was taken literally from the last chapter of Wycliffe's book, ''De ecclesia'', and his treatise, ''De absolutione a pena et culpa''. Hus asserted that no pope or bishop had the right to take up the sword in the name of the Church; he should pray for his enemies and bless those who curse him; man obtains forgiveness of sins by true repentance, not money. The doctors of the theological faculty replied, but without success. A few days afterward some of Hus followers led by Vok Voksa z Valdštejna, burned the [[Papal bull]]s. Hus, they said, should be obeyed rather than the Church, which they considered a fraudulent mob of adulterers and [[Simony|Simonists]].{{sfn|Schaff|1953|pp=415–420}}
+
+In response, three men from the lower classes who openly called the indulgences a fraud were beheaded. They were later considered the first martyrs of the [[Hussite]] Church. In the meantime, the faculty had condemned the forty-five articles of Wycliffe and added several other theses, deemed heretical, which had originated with Hus. The king forbade the teaching of these articles but neither Hus nor the university complied with the ruling. They requested that the articles should be first proven to be un-scriptural. The tumults at Prague had stirred up a sensation. Papal legates and Archbishop Albik tried to persuade Hus to give up his opposition to the papal bulls and the king made an unsuccessful attempt to reconcile the two parties.<ref>{{Cite book|url=https://archive.org/details/newschaffherzog26haucgoog|quote=Archbishop Albik tried to persuade Hus to give up his opposition to the papal bulls and the king made an unsuccessful attempt to reconcile the two parties.|title=The New Schaff-Herzog Encyclopedia of Religious Knowledge: Embracing Biblical, Historical, Doctrinal, and Practical Theology and Biblical, Theological, and Ecclesiastical Biography from the Earliest Times to the Present Day|last1=Herzog|first1=Johann Jakob|last2=Hauck|first2=Albert|last3=Jackson|first3=Samuel Macauley|last4=Sherman|first4=Charles Colebrook|last5=Gilmore|first5=George William|date=1909|publisher=Funk and Wagnalls Company|pages=[https://archive.org/details/newschaffherzog26haucgoog/page/n438 416]|language=en}}</ref>
+
+====Attempts at reconciliation====
+King Wenceslaus IV made efforts to harmonize the opposing parties. In 1412, he convoked the heads of his kingdom for a consultation and, at their suggestion, ordered a [[synod]] to be held at [[Český Brod]] on 2 February 1412. The synod was instead held in the palace of the archbishops at Prague in order to exclude Hus from participation. Propositions were made to restore peace in the Church. Hus declared that Bohemia should have the same freedom in regard to ecclesiastical affairs as other countries <!-- what other countries?? --> and that approbation and condemnation should therefore be announced only with the permission of the state power. This was the view of Wycliffe (''Sermones'', iii. 519, etc.).
+
+There followed treatises from both parties, but no harmony was obtained. "Even if I should stand before the stake which has been prepared for me," Hus wrote at the time, "I would never accept the recommendation of the theological faculty." The synod did not produce any results but the king ordered a commission to continue the work of reconciliation. The doctors of the university demanded Hus and his followers approve the university's conception of the Church. According to this conception, the pope is the head of the Church and the [[Cardinal (Catholicism)|Cardinals]] are the body of the Church. Hus protested vigorously. The Hussite party seems to have made a great effort toward reconciliation. To the article that the Roman Church must be obeyed, they added only "so far as every pious Christian is bound".{{sfn|Kuhns|1907|p=75}} Stanislav ze Znojma and Štěpán Páleč protested against this addition and left the convention; they were exiled by the king, with two others.{{citation needed|date=July 2018}}
+
+==== Hus leaves Prague and appeals to Jesus Christ ====
+By this time, Hus's ideas had become widely accepted in Bohemia and there was broad resentment against the Church hierarchy. The attack on Hus by the pope and archbishop caused riots in parts of Bohemia. King Wenceslaus IV and his government took the side of Hus and the power of his adherents increased from day to day. Hus continued to preach in the [[Bethlehem Chapel]]. The churches of the city were put under the ban, and an [[interdict]] was pronounced against [[Prague]]. To protect the city, Hus left and went into the countryside where he continued to preach and write.{{sfn|Kuhns|1907|pp=77–78}}
+
+Before Hus left Prague, he decided to take a step which gave a new dimension to his endeavors. He wanted to become a preacher and then taught at the university he studied at before. He no longer put his trust in an indecisive king, a hostile pope or an ineffective council. On 18 October 1412, he appealed to Jesus Christ as the supreme judge.<ref>{{cite book |last1=Funda |first1=Otakar A. |title=Když se rákos chvěje nad hladinou|language=cs |date=2009 |publisher=Karolinum Press |isbn=978-8024615929 |page=145 |url=https://books.google.com/books?id=0wZNBAAAQBAJ&pg=PA145}}</ref> By appealing directly to the highest Christian authority, Christ himself, he bypassed the laws and structures of the medieval Church. For the [[Bohemian Reformation]], this step was as significant as the [[Ninety-five Theses]] posted in [[Wittenberg]] by Martin Luther in 1517.
+
+After Hus left Prague for the country, he realized what a gulf there was between university education and theological speculation and the life of uneducated country priests and the laymen entrusted to their care.{{sfn|Nodl|2010|pp=530–531}} Therefore he started to write many texts in Czech, such as basics of the Christian faith or preachings, intended mainly for the priests whose knowledge of Latin was poor.{{sfn|Šmahel|2013|p=143}}
+
+====Writings of Hus and Wycliffe====
+Of the writings occasioned by these controversies, those of Hus on the Church, entitled ''De Ecclesia'', were written in 1413 and have been most frequently quoted and admired or criticized, yet their first ten chapters are an epitome of Wycliffe's work of the same title and the following chapters are an abstract of another of Wycliffe's works (''De potentate papae'') on the power of the pope. Wycliffe had written his book to oppose the common position that the Church consisted primarily of the clergy, and Hus now found himself making the same point. He wrote his work at the castle of one of his protectors in Kozí Hrádek and sent it to Prague where it was publicly read in the Bethlehem Chapel. It was answered by Stanislav ze Znojma and Štěpán z Pálče (also Štěpán Páleč) with treatises of the same title.{{citation needed|date=July 2018}}
+
+After the most vehement opponents of Hus had left Prague, his adherents occupied the whole ground. Hus wrote his treatises and preached in the neighborhood of Kozí Hrádek. Bohemian Wycliffism was carried into Poland, Hungary, [[Croatia]], and Austria. But in January 1413, a general council in Rome condemned the writings of Wycliffe and ordered them to be burned.{{citation needed|date=June 2020}}
+
+===Council of Constance===
+King Wenceslaus's brother [[Sigismund of Hungary]], who was "[[King of the Romans]]" (that is, head of the Holy Roman Empire though not then Emperor) and heir to the Bohemian crown, was anxious to put an end to religious dissension within the Church. To put an end to the papal schism and to take up the long-desired reform of the Church, he arranged for a general council to convene on 1 November 1414, at [[Konstanz]] (Constance).{{sfn|Lützow|1909|pp=224–228}} The [[Council of Constance]] (1414–1418) became the 16th ecumenical council recognized by the Catholic Church. Hus, willing to make an end to all dissensions, agreed to go to Constance, under Sigismund's promise of [[safe-conduct]].{{sfn|Gillett|1863|pp=464–466}}
+
+====Imprisonment and preparations for trial====
+[[File:Hus (Lessing 1842).jpg|thumb|280px|Jan Hus at the [[Council of Constance]]. 19th-century painting by [[Karl Friedrich Lessing]]]]
+
+It is not known whether Hus knew what his fate would be, however, he made his [[last will and testament|will]] before setting out. He started on his journey on 11 October 1414, arriving in Constance on 3 November 1414. The following day, the bulletins on the church doors announced that Michal z Německého Brodu (Michal de Causis) would be opposing Hus. In the beginning, Hus was at liberty under his safe-conduct from Sigismund and lived at the house of a widow. But he continued celebrating mass and preaching to the people, in violation of restrictions decreed by the Church. After a few weeks on 28 November 1414, his opponents succeeded in imprisoning him on the strength of a rumor that he intended to flee. He was first brought into the residence of a canon and then on 6 December 1414 into the prison of the [[Dominican Order|Dominican]] monastery. Sigismund, as the guarantor of Hus's safety, was greatly angered and threatened the prelates with dismissal. The prelates convinced him that he could not be bound by promises to a heretic.{{sfn|Fudge|2010|pp=125–127}}
+
+On 4 December 1414, John XXIII entrusted a committee of three bishops with a preliminary investigation against Hus. As was common practice, witnesses for the prosecution were heard but Hus was not allowed an advocate for his defense. His situation became worse after the downfall of John XXIII, who had left Constance to avoid abdicating. Hus had been the captive of John XXIII and in constant communication with his friends, but now he was delivered to the bishop of Constance and brought to his castle, ''Gottlieben on the Rhine''. Here he remained for 73 days, separated from his friends, chained day and night, poorly fed, and ill.
+
+===Trial===
+
+On 5 June 1415, he was tried for the first time and was transferred to a [[Franciscan]] monastery, where he spent the last weeks of his life. Extracts from his works were read and witnesses were heard. He refused all formulae of submission but declared himself willing to recant if his errors should be proven to him from the Bible. Hus conceded his veneration of Wycliffe and said that he could only wish his soul might some time attain unto that place where Wycliffe's was. On the other hand, he denied having defended Wycliffe's view of [[The Lord's Supper]] or the forty-five articles; he had only opposed their summary condemnation. King Sigismund admonished him to deliver himself up to the mercy of the council, as he did not desire to protect a heretic.{{sfn|Shahan|1908|p=III}}
+
+At the last trial, on 8 June 1415, thirty-nine sentences were read to him. Of these, twenty-six had been excerpted from his book on the Church (''De ecclesia''), seven from his treatise against Páleč (Contra Palecz), and six from that against Stanislav ze Znojma (''Contra Stanislaum''). The danger of some of these views to worldly power was explained to Sigismund to incite him against Hus. Hus again declared himself willing to submit if he could be convinced of errors. This declaration was considered an unconditional surrender, and he was asked to confess:
+1. That he had erred in the theses which he had hitherto maintained;
+2. That he renounced them for the future;
+3. That he recanted them; and
+4. That he declared the opposite of these sentences.
+
+He asked to be exempted from recanting teachings which he had never taught. Other views, which the assembly considered erroneous, he was not willing to revoke and to act differently would be against his conscience. These words found no favorable reception. After the trial on 8 June, several other attempts were purportedly made to induce him to recant, which he resisted.{{sfn|Kuhns|1907|pp=126–127}}
+
+====Condemnation====
+[[File:Hus památník.jpg|thumb|220px|The monument in [[Konstanz]], where reformer Jan Hus was executed (1862)]]
+{{More citations needed section|date=July 2020}}
+The condemnation of Jan Hus took place on 6 July 1415 in the presence of the assembly of the council in the cathedral. After the [[Solemn Mass|High Mass]] and Liturgy, Hus was led into the church. The [[Bishop of Lodi]] (then [[Giacomo Balardi Arrigoni]]) delivered an oration on the duty of eradicating heresy; various theses of Hus and Wycliffe and a report of his trial were then read.
+
+An Italian prelate pronounced the sentence of condemnation upon Hus and his writings. Hus protested, saying that even at this hour he did not wish anything but to be convinced from Scripture.{{citation required|date=September 2023}} He fell upon his knees and asked God with a soft voice to forgive all his enemies.{{citation required|date=September 2023}} Then followed his degradation from the priesthood. He was dressed in priestly vestments and again asked to recant and again he refused. With curses, Hus's ornaments were taken from him, his priestly [[tonsure]] was destroyed. The judgment of the Church was pronounced:
+
+{{Blockquote|text=This holy synod of Constance, seeing that God’s church has nothing more that it can do, relinquishes John Hus to the judgment of the secular authority and decrees that he is to be relinquished to the secular court.|source=Council of Constance, Session 15 – 6 July 1415<ref>{{cite web |last1=Fathers |first1=Council |title=Council of Constance 1414-18 Council Fathers |url=https://www.papalencyclicals.net/Councils/ecum16.htm |website=Papal Encyclicals |language=en |date=5 November 1414}}</ref>}}
+
+A tall paper hat was allegedly put upon his head with the inscription "''[[Heresiarch|Haeresiarcha]]''" (''i.e.'', the leader of a heretical movement).<ref>{{Cite book |last=De Schweinitz |first=Edmund |title=The History of the Church Known as the Unitas Fratrum: Or the Unity of the Brethren, Founded by the Followers of John Hus, the Bohemian Reformer and Martyr |publisher=Moravian Publication Office |year=1885 |location=Bethlehem, PA. |pages=74}}</ref> Hus was led away to the stake under a strong guard of armed men.<ref>{{Cite web |title=Huss, John, Hussites |url=https://www.ccel.org/s/schaff/encyc/encyc05/htm/v.xii.ii.htm |access-date=2024-05-11 |website=www.ccel.org}}</ref>
+
+Before his execution, Hus is said to have declared, "You may kill a weak goose [''Hus'' is Czech for "goose"], but more powerful birds, eagles and falcons, will come after me."{{Citation needed|date=January 2024}} [[Martin Luther|Luther]] modified the statement and reported that Hus had said that they might have roasted a goose, but that in a hundred years a swan would sing to whom they be forced to listen. In 1546, in his [[funeral sermon]] for Luther, [[Johannes Bugenhagen]] gave a further twist to Hus's declaration: "You may burn a goose, but in a hundred years will come a swan you will not be able to burn." Twenty years later, in 1566, [[Johannes Mathesius]], Luther's first biographer, found Hus's prophecy to be evidence of Luther's divine inspiration.<ref>{{Cite journal|last=Scribner|first=R. W.|date=1986|title=Incombustible Luther: The Image of the Reformer in Early Modern Germany|url=https://www.jstor.org/stable/650648|journal=Past & Present|issue=110|pages=38–68|doi=10.1093/past/110.1.38|jstor=650648|issn=0031-2746}}</ref>
+
+===Execution===
+[[File:Jan Hus-Bible Martinicka.jpg|thumb|The oldest-known representation of Jan Hus is from the Martinická Bible 1430.]]
+[[File:Bohemian Protest.jpg|alt=A weathered piece of parchment 20 inches long and 30 1/2 inches wide with faded Latin text in the centre and a 100 signatures around the sides with corresponding wax seals attached.|thumb|The last surviving copy of the famous protest of the Bohemian nobles against the burning of the religious reformer Jan Hus in 1415]]
+[[File:Jan Hus at the Stake.jpg|thumb|180px|right|Jan Hus at the [[Death by burning|stake]], Jena codex (c. 1500)]]
+At the place of execution, he knelt down, spread out his hands and prayed aloud. The executioner undressed Hus and tied his hands behind his back with ropes. His neck was bound with a chain to a stake around which wood and straw had been piled up so that it covered him to the neck. At the last moment, the imperial marshal, von Pappenheim, in the presence of the [[Louis III, Elector Palatine|Count Palatine]], asked Hus to recant and thus save his own life. Hus declined, stating:
+
+{{Blockquote|God is my witness that the things charged against me I never preached. In the same truth of the Gospel which I have written, taught, and preached, drawing upon the sayings and positions of the holy doctors, I am ready to die today.{{sfn|Schaff|1953|pp=415–420}}}}
+
+Anecdotally, it has been said that the executioners had trouble intensifying the fire. An old woman then came to the stake and threw a relatively small amount of [[:wikt:brushwood|brushwood]] on it. Upon seeing her act, a suffering Hus then exclaimed, "O ''Sancta Simplicitas!''" ("O holy simplicity!"). It is said that when he was about to expire, he cried out, "Christ, son of the Living God, have mercy on us!" (a variant of the [[Jesus Prayer]]). Hus's ashes were later thrown into the [[Rhine]] river as a means of preventing the veneration of his remains.
+
+==Aftermath==
+
+=== Bohemian Protest ===
+As news of Hus's death spread outrage was brewing from the local nobles and doctors.<ref name=":0">{{Cite book |last=Cuthbertson |first=David |title=The Protest Against the Burning of John Huss |publisher=Alexander Moring Limited |year=1913 |location=London |page=11 |language=en}}</ref> On  2 September 1415, a document now called the Bohemian Protest was signed with corresponding attached wax seals by 100 notable people from Bohemia and Moravia in protest of Jan Hus's burning. There is evidence that four documents of this kind were made in total, however only this one is known to survive and is currently held at the [[University of Edinburgh]].<ref>{{Cite web |title=Bohemian Protest, Recto |url= https://images.is.ed.ac.uk/luna/servlet/detail/UoEgal~5~5~51570~103970:Bohemian-Protest,-Recto |access-date=2022-11-30 |website = ED}}</ref> The statement inside reads that "Master John Hus was a good, just and catholic man" that "consistently detested all error and heresies" and that anyone that believed that heresy was arising within Bohemia or Moravia to be "the worst of traitors".<ref name=":0"/>
+
+===Hussite Wars===
+{{Main|Hussite Wars}}
+[[File:Jensky kodex Zizka.jpg|thumb|[[Jan Žižka]] leading troops of Hussites]]
+[[File:Vrhání husitů do šachet.gif|thumb|Some two thousand of Hus's followers thrown into the [[Kutná Hora]] mines by pro-Catholic townsmen]]
+Responding with horror to the execution of Hus, the people of Bohemia moved even more rapidly away from Papal teachings. Rome then pronounced a [[crusade]] against them (1 March 1420): [[Pope Martin V]] issued a [[Papal bull]] authorizing the execution of all supporters of Hus and Wycliffe. King Wenceslaus IV died in August 1419, and his brother, [[Sigismund of Hungary]], was unable to establish a real government in Bohemia due to the Hussite revolt.{{sfn|Lützow|1914|pp=177–79}}
+
+The Hussite community included most of the Czech population of the Kingdom of Bohemia. Under the leadership of [[Jan Žižka]] (c. 1360–1424) and later of [[Prokop the Great]] (c. 1380–1434)—both excellent commanders—the Hussites defeated the crusade and the other three crusades that followed (1419–1434). Fighting ended after a compromise between the Utraquist{{what?|date=May 2023}} Hussites and the Catholic [[Council of Basel]] in 1436. It resulted in the [[Basel Compacts]], in which the Catholic Church officially allowed Bohemia to practice its own version of Christianity (Hussitism). A century later as much as ninety percent of the inhabitants of the [[Czech Crown lands]] still followed Hussite teachings.
+
+===Hus's scholarship and teachings===
+{{More citations needed section|date=July 2020}}
+[[File:Luther und Hus-Abendmahl.jpg|thumb|[[Martin Luther|Luther]] and Hus serving [[Communion under both kinds]] together; picture from 16th-century Saxony demonstrating the affinity of Lutherans with Hussites]]
+Hus left reformatory writings. He translated Wycliffe's ''Trialogus'' and was very familiar with his works on the body of [[Jesus]], the Church, and the power of the pope, as well as and especially with his sermons. There are reasons to suppose that Wycliffe's view of the Lord's Supper ([[consubstantiation]] rather than [[transubstantiation]]{{sfn|Lechler|1904|p=381}}) had spread to Prague as early as 1399, with strong evidence that students returning from England had brought the work back with them. It gained an even wider circulation after it had been prohibited in 1403, and Hus preached and taught it. The view was seized eagerly by the [[Taborites]], who made it the central point of their system. According to their book, the Church is not the clerical hierarchy that was generally accepted as 'the Church'; the Church is the entire body of those who from eternity have been predestined for salvation. Christ, not the pope, is its head. It is no article of faith that one must obey the pope to be saved. Neither internal membership in the Church nor churchly offices and dignities are a surety that the persons in question are members of the true Church.
+
+Hus's efforts were designed to rid the Church of its ethical abuses. The seeds of the Reformation are clear in Hus's and Wycliffe's writings. In explaining the plight of the average Christian in Bohemia, Hus wrote, "One pays for confession, for Mass, for the sacrament, for indulgences, for [[Churching of women|churching a woman]], for a blessing, for burials, for funeral services and prayers. The very last penny which an old woman has hidden in her bundle for fear of thieves or robbery will not be saved. The villainous priest will grab it."{{Sfn | Macek | 1958 | p = 16}}  After Hus's death, his followers, known as [[Hussites]], split off into several groups including the [[Utraquists]], [[Taborite]]s and [[Sirotci|Orphans]].
+
+===Apology of the Catholic Church===
+Nearly six centuries later in 1999, [[Pope John Paul II]] expressed "deep regret for the cruel death inflicted" on Hus and added "deep sorrow" for Hus's death and praised his "moral courage".<ref name=JohnLAllenJr/> Cardinal [[Miloslav Vlk]] of the Czech Republic was instrumental in crafting John Paul II's statement.<ref name= "JohnLAllenJr">{{cite news |last=Allen |first=John L. Jr. |date=15 September 2009 |title=The German shepherd bids farewell to a 'wolf in winter' |url= http://ncronline.org/news/german-shepherd-bids-farewell-wolf-winter |website=National Catholic Reporter }}</ref> Members of the Moravian Church  believe that it remains for God to judge those who were involved in the death of Hus.
+
+===Hus and the Czech language===
+The works of Jan Hus incorporate reforms to medieval [[Czech orthography]], including the "hook" ([[háček]]) diacritic which was used to form the [[grapheme]]s {{angle bracket|č}}, {{angle bracket|ě}}, {{angle bracket|š}}, {{angle bracket|ř}} and {{angle bracket|ž}}, which replaced [[digraph (orthography)|digraphs]] like {{angle bracket|cz}}, {{angle bracket|ie}}, {{angle bracket|sch}}, {{angle bracket|rz}} and {{angle bracket|zs}}; the "dot" above letters for strong accent,{{clarify|date=October 2019}} as well as the acute accent to mark long vowels {{angle bracket|á}}, {{angle bracket|é}}, {{angle bracket|í}}, {{angle bracket|ó}}, and {{angle bracket|ú}}, in order to represent each [[phoneme]] by a single [[grapheme|symbol]]. Some sources mention documented use of the special symbols in Bible translations (1462), the Schaffhausen Bible, and handwritten notes in the Bible. The symbol {{angle bracket|ů}} (instead of {{angle bracket|uo}}) came later. The book ''[[Orthographia Bohemica]]'' (1406) was attributed to Hus by [[František Palacký]], but it is possible that it was compiled by another author from Charles University.
+
+==Legacy==
+[[File:Jan Hus Statue and Tyn Church, Old Town Square, Prague - 8190.jpg|thumb|[[Jan Hus Memorial]] at [[Old Town Square (Prague)|Old Town Square]] in [[Prague]] built in 1915]]
+A century after the [[Hussite Wars]] began, as many as 90% of inhabitants of the [[Czech lands]] were Hussites (although in the [[Utraquist]] tradition following a joint Utraquist—Catholic victory in the Hussite Wars).{{sfn|Václavík|2010|p=53}} [[Czech Republic|Bohemia]] was the site of [[Hussites|one of the most significant pre-reformation movements]],<ref name="museeprotestant.org">{{Cite web|url=https://museeprotestant.org/en/notice/protestantism-in-the-republic-of-czechoslovakia/|title=Protestantism in Bohemia and Moravia (Czech Republic)}}</ref> and there are still Protestant adherents remaining in modern times;<ref>{{cite web|language=cs |url=http://www.czso.cz/sldb2011/eng/redakce.nsf/i/tab_7_1_population_by_religious_belief_and_by_municipality_size_groups/$File/PVCR071_ENG.pdf |title=Tab 7.1 Population by religious belief and by municipality size groups |publisher=Czso.cz |access-date=19 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20150221184947/http://www.czso.cz/sldb2011/eng/redakce.nsf/i/tab_7_1_population_by_religious_belief_and_by_municipality_size_groups/%24File/PVCR071_ENG.pdf |archive-date=21 February 2015 }}</ref><ref>{{cite web|language=cs |url=http://www.czso.cz/sldb2011/eng/redakce.nsf/i/tab_7_2_population_by_religious_belief_and_by_regions/$File/PVCR072_ENG.pdf |title=Tab 7.2 Population by religious belief and by regions |publisher=Czso.cz |access-date=19 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131104224923/http://www.czso.cz/sldb2011/eng/redakce.nsf/i/tab_7_2_population_by_religious_belief_and_by_regions/%24File/PVCR072_ENG.pdf |archive-date= 4 November 2013 }}</ref> though they no longer comprise the majority: suggested historical reasons include the persecution of Protestants by the [[Catholic]] [[Habsburgs]],<ref>{{cite book |isbn=978-0-470-29323-2 |first1=Hana |last1=Mastrini |title=Frommer's Prague & the Best of the Czech Republic |year=2008 |edition=7th |publisher=Wiley }}{{page needed|date=July 2018}}</ref> particularly after the [[Battle of White Mountain]] in 1620; restrictions during the [[Czechoslovak Socialist Republic|Communist rule]]; and also the ongoing [[secularization]].<ref name="museeprotestant.org"/>  Modern Czechs exhibit very high distrust of religious and other institutions.<ref>{{cite book |last1=Halík |first1=Tomáš |last2=Hošek |first2=Pavel |title=Czech Perspective on Faith in a Secular Age: Czech Philosophical Studies, V |date=2015 |publisher=Council for Research into Values and Philosophy |location=Washington, DC, USA |isbn=9781565183001 |url=https://www.crvp.org/publications/Series-VIII/10-master-czech.pdf |access-date=24 September 2023}}</ref>{{rp|27}}
+
+Jan Hus was a key contributor to [[Protestantism]], whose teachings had a strong influence on the states of Europe and on [[Martin Luther]].{{sfn|Oberman|Walliser-Schwarzbart|2006|pp=54–55}} The [[Hussite Wars]] resulted in the Basel Compacts, which allowed for a reformed Church in the Kingdom of Bohemia—almost a century before such developments would take place in the Lutheran Reformation. [[Moravian Church|The Unitas Fratrum (or Moravian Church)]] is the modern-day home of Hus's followers.<ref>{{cite web |url=http://www.unitasfratrum.org/index.php/origin-growth-of-the-unitas-fratrum/ |title=The Origin & Growth |website=Unitas Fratrum |access-date=17 September 2011 |archive-date=26 September 2011 |archive-url=https://web.archive.org/web/20110926192935/http://www.unitasfratrum.org/index.php/origin-growth-of-the-unitas-fratrum/ |url-status=dead }}</ref> Hus's extensive writings earned him a prominent place in Czech literary history.
+
+In 1883 the Czech composer [[Antonín Dvořák]] composed his [[Hussite Overture]] based on melodies used by Hussite soldiers. It was often performed by the German conductor [[Hans von Bülow]].
+
+Professor [[Tomáš Garrigue Masaryk]] used Hus's name in his speech at Geneva University on 6 July 1915, for defense against Austria and in July 1917 for the title of the first corps of troops of his legions in Russia.<ref>Preclík, Vratislav. Masaryk a legie (Masaryk and legions), váz. kniha, 219 str., vydalo nakladatelství Paris Karviná, Žižkova 2379 (734 01 Karviná) ve spolupráci s Masarykovým demokratickým hnutím (Masaryk Democratic Movement, Prague, CZ), 2019, {{ISBN|978-80-87173-47-3}}, pp.&nbsp;17–25, 33–45, 70–76, 159–184, 187–199</ref>
+
+Today, the [[Jan Hus Memorial]] is located at the Prague [[Old Town Square]] ({{langx|cs|Staroměstské náměstí|links=no}}), and there are many smaller memorials in other towns throughout the Czech Republic.
+
+In New York City, a church in [[Brooklyn, New York|Brooklyn]] (located at 153 Ocean Avenue) and a church and a theatre in [[Manhattan]] (located at 351 [[East 74th Street]]) are named for Hus, the John Hus Moravian Church and the Jan Hus Playhouse, respectively. Although Manhattan's church and theatre share a single building and management, the playhouse's productions are usually nonreligious or nondenominational.
+
+A statue of Jan Hus was erected at the Union Cemetery in [[Bohemia, New York]] (on [[Long Island]]) by Czech immigrants to the New York area in 1893.
+
+In contrast to the popular perception that Hus was a [[proto-Protestantism|proto-Protestant]], some Eastern Orthodox Christians have argued that his theology was far closer to [[Eastern Orthodox Church|Eastern Orthodox Christianity]]. Jan Hus is considered a martyr saint in some jurisdictions of the Orthodox Church.<ref name="husodox">{{cite web|url=http://journeytoorthodoxy.com/2011/11/19/jan-hus-jerome-of-prague-and-orthodoxy-in-czechia-slovakia/|title=Jan Hus, Jerome of Prague and Orthodoxy in Czechia & Slovakia|access-date=26 January 2019|archive-url=https://web.archive.org/web/20131213205339/http://journeytoorthodoxy.com/2011/11/19/jan-hus-jerome-of-prague-and-orthodoxy-in-czechia-slovakia/|archive-date=13 December 2013|url-status=dead}}</ref> The [[Czechoslovak Hussite Church]] claims to trace its origin to Hus, to be "neo-Hussite", and contains mixed Eastern Orthodox and Protestant elements. Nowadays, he is considered a saint by the orthodox churches of [[Church of Greece|Greece]], [[Church of Cyprus|Cyprus]], [[Orthodox Church of the Czech Lands and Slovakia|Czechoslovakia]], and several others.<ref>{{Cite web|url=https://www.pravoslavie.ru/49048.html|title = More and More People in Czechia and Slovakia Are Giving Preference to the Orthodox Church}}</ref>
+
+Hus was voted the greatest hero of the Czech nation in a 2015 survey by Czech Radio.<ref name="Anketa: KDO JE PRO VÁS HRDiNA.CZ? HRDiNA.CZ">{{cite web|title=Anketa: Kdo Je Pro Vás hrdina.cz?|url=http://www.rozhlas.cz/hrdina/anketa|website=www.rozhlas.cz|access-date=20 June 2017|language=cs}}</ref>
+
+==In popular culture==
+Hus appears in the ''[[Mezi proudy]]'' trilogy by writer [[Alois Jirásek]].
+
+Jan Hus is a major character of the "Hussite Revolutionary Trilogy" directed by [[Otakar Vávra]]. He is played by [[Zdeněk Štěpánek]] in the 1954 film ''[[Jan Hus (film)|Jan Hus]].''
+
+Jan Hus is played by [[Rod Colbin]] in the 1977 American film ''[[John Hus (1977 film)|John Hus]]''.
+
+Jan Hus is a major character in the stage play ''[[České nebe]]''.
+
+The Czech television film ''[[Jan Hus (2015 film)|Jan Hus]]'' was released in 2015. It starred [[Matěj Hádek]].
+
+Jan Hus is mentioned multiple times in the 2018 video game ''[[Kingdom Come: Deliverance|Kingdom Come Deliverance]]''
+
+Hus appears in the 2022 film ''[[Medieval (film)|Medieval]]'' played by [[Viktor Krištof]].
+
+The lives of Hus and [[Petr Chelčický]] are the subject of the 2014 ''Hus a Chelčický'' book for older children, written and illustrated by [[Renáta Fučíková]]. The book won the Association of Czech Graphic Artists HOLLAR award for its illustrations.<ref>{{Cite web |title=Výsledky 2014 |url=https://www.en.pamatniknarodnihopisemnictvi.cz/184-2014/ |access-date=2023-02-22 |website=Památník národního písemnictví}}</ref>
+
+=== Holidays commemorating Hus ===
+* [[Moravian Church]] – 6 July. Members of the Unitas Fratrum and [[Evangelical Church of Czech Brethren|Czech Brethren]] claim Hus as a spiritual forerunner.
+* {{flagicon|CZE}} – Jan Hus Day (''Den upálení mistra Jana Husa'', literally: The day of burning of Master Jan Hus) on 6 July, the anniversary of Hus [[martyrdom]]. It is a [[public holiday in the Czech Republic]].
+* {{flagicon|USA}} He is also commemorated as a martyr on the [[Calendar of saints (Lutheran)|Calendar of Saints]] of the [[Evangelical Lutheran Church in America]].<ref>{{Cite web|url=http://www.czso.cz/sldb/sldb2001.nsf/tabx/CZ0000|archiveurl=https://web.archive.org/web/20141103104641/http://www.czso.cz/sldb/sldb2001.nsf/tabx/CZ0000|url-status=dead|title=Český statistický úřad|archivedate=3 November 2014}}</ref>
+
+==Famous followers of Jan Hus==
+* [[Jerome of Prague]], Hus's friend and devoted follower shared his fate and on 30 May 1416 was also burned at [[Konstanz]]
+* [[Jan Kardinál z Rejnštejna]] (1375–1428) ({{langx|de|Johannes Cardinalis von Bergreichenstein}})<ref>{{cite web|url=http://www.phil.muni.cz/fil/scf/komplet/kardin.html|title=Jan Kardinál z Rejnštejna|publisher=Phil.muni.cz|access-date=5 September 2008}}</ref>
+* [[Jan Žižka|Jan Žižka z Trocnova a Kalicha]] (c. 1360–1424), Czech general and Hussite leader
+* [[Matěj z Knína]] (died 26 March 1410) (in German: Matthäus von [[Knin]])
+* [[Mikuláš of Pelhřimov]] (1385 Pelhřimov – 1460 Poděbrady) (in [[Latin]]: [[Nicolaus Pilgramensis]], in German: [[Nikolaus von Pelgrims]])
+* [[John Amos Comenius]] (1592–1670) ({{langx|cs|Jan Amos Komenský}}) – pastor, teacher, philosopher, educator and writer. The last bishop of [[Unitas Fratrum]] prior to its renewal and a pastor in the [[Moravian Church]]. Early champion of universal education, and education in one's mother language.
+
+==Gallery==
+<gallery class="center" widths="200" heights="150">
+File:Jan Hus 2.jpg|Portrait of Jan Hus, 16th century
+File:Vaclav Brozik - Hus.jpg|Painting of Jan Hus at the [[Council of Constance]] by [[Václav Brožík]] (1883)
+File:Burning of jan hus at the stake at council of constance.jpg|Preparing the execution of Jan Hus
+File:Kazani mistra jana husa v kapli betlemske 81x61m.jpg|[[Alphonse Mucha]]: Master Jan Hus Preaching at the Bethlehem Chapel: Truth prevails, 1916; part of the 20-painting work, ''[[The Slav Epic]]''
+File:Betlemska kaple.jpg|[[Bethlehem Chapel]] (exterior) in Prague
+File:Betlémská kaple interior.JPG|Bethlehem Chapel (interior) in Prague
+File:Portrait of Jan Hus.jpg|Medallion portrait of Jan Hus
+File:Execution of Jan Hus.jpg|Preparing to burn Jan Hus at the stake
+File:Medallion of Jan Hus.jpg|Medallion of Jan Hus, showing his portrait and execution
+File:6664 - Roma - Ettore Ferrari, Monumento a Giordano Bruno (1889) - Foto Giovanni Dall'Orto, 6-Apr-2008.jpg|Profile of Jan Hus on the [[Statue of Giordano Bruno|Giordano Bruno Statue]]
+</gallery>
+
+==Works==
+* ''Iohannes Hus. Postilla adumbrata'', ed. G. Silagi (''Corpus Christianorum. Continuatio Mediaevalis'' 261), Turnhout: Brepols Publishers ({{ISBN|978-2-503-55275-0}})
+* [[s:De Ecclesia. The Church|De Ecclesia. The Church]], Jan Hus; [[David S. Schaff]], translator, New York, Charles Scribner's Sons, 1915.
+* [[s:Letters of John Huss Written During His Exile and Imprisonment|Letters of John Huss Written During His Exile and Imprisonment]], Jan Hus; Campbell Mackenzie, translator, Edinburgh, William Whyte & co., 1846
+* [[s:The letters of John Hus|The letters of John Hus]], Jan Hus; Herbert B. Workman; R. Martin Pope, London, Hodder and Stoughton, 1904.
+* The Letters of John Hus, Jan Hus; Matthew Spinka, translator.
+* [https://oll.libertyfund.org/title/huss-the-letters-of-john-huss#lf1328_head_027 The Letters of John Hus]
+
+==See also==
+{{Portal|Saints|Christianity|Czech Republic}}
+*[[Orthographia bohemica]], a treatise thought to have been written by Jan Hus
+*[[Jan Hus Presbyterian Church]], a New York City parish of the [[Presbyterian Church (USA)]] and named after Jan Hus
+
+==Notes==
+{{Reflist|group=note}}
+{{notelist}}
+
+==References==
+===Citations===
+{{Reflist|colwidth=30em}}
+
+===Sources===
+{{refbegin}}
+* {{cite book |last=Fudge |first=Thomas A. |year=2010 |title=Jan Hus: Religious Reform and Social Revolution in Bohemia |location=Adams County Public Library |publisher=I.B. Tauris }}
+* {{cite book |last=Gillett |first=E.H. |date=1863 |title=The life and times of John Huss; or, The Bohemian reformation of the fifteenth century (pt.1) |url= https://archive.org/details/lifetimesofjohnhuss01gill/ |location= Princeton Theological Seminary Library |publisher=Gould and Lincoln }}
+* {{cite book |last=Gilpin |first=William |date=1809 |title=The Lives of the Reformers |url= https://archive.org/details/livesofreformers01gilp/ |location= Princeton Theological Seminary Library |publisher=T. Cadell and W. Davies |author-link=William Gilpin (priest) }}
+* {{cite book|first1=Heiko Augustinus |last1=Oberman|first22=Eileen |last2=Walliser-Schwarzbart|title=Luther: Man Between God and the Devil|url=https://books.google.com/books?id=vuES0JdltfcC&pg=PA54|year=2006|publisher=Yale University Press|isbn=0-300-10313-1 }}
+* {{cite book |last=Hus |first=Jan |date=1372–1415 |title=The Letters of John Hus |url= https://archive.org/details/lettersofjohnhus00husjuoft/page/xvi |location=Trinity College-University of Toronto |publisher=Hodder and Stoughton }}
+* {{cite book |last=Kuhns |first=Oscar |date=1907 |title=John Huss: The Witness |url= https://archive.org/details/johnhusswitness00kuhn/page/40 | place = Cincinnati; New York | publisher = Jennings & Graham; Eaton & Mains | via =New York Public Library }}
+* {{cite book|last1=Kuhns|first1=Oscar|last2=Dickie|first2=Robert|date=2017 |title=Jan Hus: Reformation in Bohemia| place = Morrisville, NC | publisher = Lulu |url= https://books.google.com/books?id=3r4yDwAAQBAJ&pg=PA67 |isbn= 978-1-87255629-1 }}
+* {{cite book |last=Lützow |first=Francis |author-link=Count Francis Lützow|date=1909 |title=The Life & Times of Master John Hus |url= https://archive.org/details/lifetimesofmaste00lt/page/64 |location= Princeton Theological Seminary Library |publisher=E.P. Dutton }}
+* {{cite book |last=Lützow |first=Francis |date=1914 |title=The Hussite Wars |url= https://archive.org/details/hussitewars00ltgoog|location=Toronto Public Library |publisher=London:Dent, New York:Dutton }}
+* {{cite book|first=Gotthard Victor |last=Lechler |url= https://archive.org/details/johnwycliffehise00lechuoft |page= [https://archive.org/details/johnwycliffehise00lechuoft/page/381 381] |title=John Wycliffe and His English Precursors |publisher= Religious Tract Society |date=1904 }}
+* {{Citation | first = Josef | last = Macek | title = The Hussite Movement in Bohemia | publisher = Orbis | place = Prague | year = 1958}}
+* {{cite book|last1=Nodl|first1=Martin|editor1-last=Horníčková|editor1-first=Kateřina|editor2-last=Šroněk|editor2-first=Michal|title=Umění české reformace (1380–1620)|trans-title=The Art of the Bohemian Reformation (1380–1620)|date=2010|publisher=Academia|location=Praha|isbn=978-80-200-1879-3 }}
+* {{Cite encyclopedia |url=http://www.ccel.org/ccel/schaff/encyc05/Page_415.html |title=Huss, John, Hussites |last=Schaff |first=Philip |date=1953 |encyclopedia=The New Schaff-Herzog Encyclopedia of Religious Knowledge }}
+* {{CathEncy|wstitle= Council of Constance |volume= 4 |last= Shahan |first= Thomas Joseph |author-link= Thomas Joseph Shahan |short=1 }}
+* {{cite book |last1=Šmahel |first1=František |title=Jan Hus : život a dílo |trans-title=Jan Hus: Life and Work |language=cs |date=2013 |publisher=Argo |location=Praha |isbn=978-80-257-0875-0 }}
+* {{Cite book|last=Václavík |first=David |title=Náboženství a moderní česká společnost |trans-title=Religion and Modern Czech Society |language=cs | publisher=Grada Publishing a.s. |year=2010 |page=53 |url=https://books.google.com/books?id=1A5P3H2gT0sC&pg=PA53 |isbn= 9788024724683}}
+* {{cite book|last=Wilhelm |first=Joseph |year=1910 |title=The Catholic Encyclopedia. Vol. 7. |publisher=New York: Robert Appleton Company|url=http://www.newadvent.org/cathen/07584b.htm}}
+{{refend}}
+
+==Further reading==
+* Budgen, Victor. "On Fire For God." Evangelical Press, 2007.
+* Jan Blahoslav Lášek and Angelo Shaun Franklin, ''Jan Hus: Faithful Witness to Truth'' (Rowman and Littlefield: 2022).
+* Richard Friedenthal: ''Jan Hus. Der Ketzer und das Jahrhundert der Revolutionskriege. 2.'' Auflage 1987, {{ISBN|3-492-10331-6}}
+* Fudge, Thomas A. ''Jan Hus: Religious Reform and Social Revolution in Bohemia'', I.B. Tauris, London, 2010
+* Fudge, Thomas A. ''The Memory and Morivation of Jan Hus, Medieval Priest and Martyr'', Turnhout, Brepols, 2013
+* Fudge, Thomas A. ''The Trial of Jan Hus: Medieval Heresy and Criminal Procedure'', Oxford University Press, New York, 2013
+* Fudge, Thomas A. n''Jan Hus Between Time and Eternity: Reconsidering a Medieval Heretic'', Lexington Books, Lanham, MD, 2016
+* Fudge, Thomas A.  ''Living With Jan Hus: A Modern Journey Across a Medieval Landscape'', Center for Christian Studies, Portland, OR, 2015
+* Count Lützow: ''Life & Times of Master John Hus'', E. P. Dutton & Co. London, 1909
+* Pietro Ratto: ''Il gioco dell'oca. I retroscena segreti del processo al riformatore Jan Hus'', Bibliotheka Edizioni [it], Rome, 2020. {{ISBN|978-88-6934-644-6}}
+* Philip Schaff-Herzog: ''Encyclopedia of Religion''
+*{{Cite book|last=Spinka|first=Matthew|title= The Letters of John Hus |publisher=[[Manchester University Press]]
+|year= 1972|place=Totowa, [[New Jersey | NJ]] |oclc=590290}}
+*{{Cite book|last=Spinka|first=Matthew | author-mask = 3 |title= John Hus: A Biography|publisher=[[Princeton University Press]]|
+year= 1968 |place=Princeton, NJ |oclc=441706}}
+*{{Cite book|last=Spinka|first=Matthew | author-mask = 3 |title= John Hus' Concept of the Church|publisher=[[Princeton University Press]] |year=1966|place=Princeton, NJ |oclc =390635}}
+* Matthew Spinka: ''John Hus at the Council of Constance'' [[Columbia University Press]], 1965 (Includes the eye-witness account by Peter of Mladonovice)
+* Wilhelm, J. (1910). [http://www.newadvent.org/cathen/07584b.htm  Jan Hus]. In The Catholic Encyclopedia. New York: Robert Appleton Company. Retrieved 16 May 2011 from New Advent.
+
+==External links==
+{{Sister project links|wikt=no|b=no|s=Author:Jan Hus|v=no|n=no|voy=no}}
+*[https://www.imdb.com/title/tt0124766/ John Hus, a movie produced by Faith for Today (1977)]
+*[https://www.imdb.com/title/tt0047128/ Jan Hus, a Czechoslovak movie directed by Otakar Vávra (1955)]
+*[http://www.czech.cz/en/czech-republic/history/all-about-czech-history/hussitism-and-the-heritage-of-jan-hus/ Hussitism and the heritage of Jan Hus] {{Webarchive|url=https://web.archive.org/web/20081030032221/http://www.czech.cz/en/czech-republic/history/all-about-czech-history/hussitism-and-the-heritage-of-jan-hus/ |date=30 October 2008 }} – Official Website of the Czech Republic
+*[http://www.fordham.edu/halsall/mod/1415janhus.html Final Declaration] written on 1 July 1415 – ''Modern History Sourcebook'', [[Fordham University]]
+*[https://books.google.com/books?id=bU6mxnnH6k0C ''Letters of John Huss Written During His Exile and Imprisonment''], with a preface by [[Martin Luther]], by Jan Hus, François Paul Émile Boisnormand de Bonnechose, tr. Campbell Mackenzie, Edinburgh, William Whyte & Co., 1846
+*{{Librivox author |id=14370}}
+*[https://web.archive.org/web/20081204103805/http://www.third-millennium-library.com/readinghall/GalleryofHistory/Huss/HUSS-DOOR.html The life and times of John Huss "btm" format]
+*[http://www.brrp.org/ ''Bohemian Reformation and Religious Practice''] – online translation of a Czech academic journal
+*[http://www.medievalarchives.com/JanHusBio Jan Hus and the Hussite Wars] on [http://www.medievalarchives.com/PodcastList Medieval Archives Podcast]
+*[http://www.cmjh.cz/en/ Jan Hus Centre] (historical Jan Hus Birth-house in Husinec, Czech Republic)
+
+{{Jan Hus|collapsed}}
+{{Christian History|collapsed}}
+{{Proto-Protestantism}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hus, Jan}}
+[[Category:Jan Hus| ]]
+[[Category:14th-century births]]
+[[Category:1415 deaths]]
+[[Category:Hussite martyrs]]
+[[Category:People executed for heresy]]
+[[Category:Executed Czech people]]
+[[Category:14th-century Christian theologians]]
+[[Category:15th-century Christian theologians]]
+[[Category:Executed philosophers]]
+[[Category:Genocide victims]]
+[[Category:Executed Roman Catholic priests]]
+[[Category:Christian humanists]]
+[[Category:Czech theologians]]
+[[Category:Czech philosophers]]
+[[Category:Czech religious leaders]]
+[[Category:Protestant Reformers]]
+[[Category:People excommunicated by the Catholic Church]]
+[[Category:Pre-Reformation saints of the Lutheran liturgical calendar]]
+[[Category:Charles University alumni]]
+[[Category:People from Husinec]]
+[[Category:People executed by the Papal States by burning]]
+[[Category:Czech evangelicals]]
+[[Category:15th-century executions]]
+[[Category:14th-century writers from Bohemia]]
+[[Category:15th-century Roman Catholic theologians from Bohemia]]
+[[Category:People executed for blasphemy]]
+[[Category:Academic staff of Charles University]]
+[[Category:Proto-Protestants]]
+[[Category:Lutheran saints]]
+[[Category:Founders of new religious movements]]
+[[Category:Eastern Orthodox saints]]
+[[Category:Bohemian nobility]]
+[[Category:Victims of the Inquisition]]

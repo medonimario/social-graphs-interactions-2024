@@ -1,0 +1,425 @@
+{{short description|13/14th-century German theologian, philosopher and mystic}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox philosopher
+| honorific_prefix = [[The Reverend]]
+| name             = Eckhart von Hochheim
+| honorific_suffix = [[Order of Preachers|OP]]
+| region           = [[Western philosophy]]
+| era              = [[Medieval philosophy]]
+| image            = Meister Eckhart base copie.jpg
+| image_size       =
+| alt              =
+| caption          = Postmortem portrait of Meister Eckhart,<br />circa 1366
+| birth_date       = {{birth year|1260}}
+| birth_place      = [[Tambach-Dietharz|Tambach]], [[Landgraviate of Thuringia]], [[Holy Roman Empire]]
+| death_date       = {{death year and age|1328|1260}}
+| death_place      = probably [[Avignon]], [[Kingdom of Burgundy-Arles|Kingdom of Arles]], Holy Roman Empire
+| school_tradition = {{plainlist|
+*[[Neoplatonism]]
+*[[Medieval theological intellectualism|Theological intellectualism]]}}
+| main_interests   = [[Religion]], [[Spirituality]], [[Theology]]
+| notable_ideas    = [[Ground of the Soul]]
+}} 
+
+'''Eckhart von Hochheim''' {{post-nominals|post-noms=[[Order of Preachers|OP]]}} ({{circa|1260}} – {{circa|1328}}),<ref>{{Cite web|last1=Mojsisch|first1=Burkhard|last2=Summerell|first2=Orrin F.|title=Meister Eckhart|url=https://plato.stanford.edu/archives/sum2011/entries/meister-eckhart/|access-date=2020-09-11|website=plato.stanford.edu|language=en}}</ref> commonly known as '''Meister Eckhart''' ({{IPA|de|ˈmaɪstɐ ʔˈɛkaʁt|pron}}), '''Master Eckhart''' or '''Eckehart''', claimed original name '''Johannes Eckhart''',<ref name="britannica">[https://www.britannica.com/biography/Meister-Eckhart Meister Eckhart: German mystic] by [[Reiner Schürmann|Father Reiner Schürmann]], [[Dominican Order|O.P.]] on [[Britannica]]</ref> was a German [[Catholic priest]], [[theology|theologian]], [[philosopher]] and [[German mysticism|mystic]]. He was born near [[Gotha]] in the [[Landgraviate of Thuringia]] (now [[Thuringia]] in central Germany) in the [[Holy Roman Empire]].{{efn|''Meister'' is German for "Master", referring to the academic title ''Magister in theologia'' that he obtained in Paris.}}
+
+Eckhart came into prominence during the [[Avignon Papacy]] at a time of increased tensions between monastic orders, diocesan clergy, the [[Franciscan]] Order, and Eckhart's [[Dominican Order]]. In later life, he was accused of heresy and brought up before the local Franciscan-led [[Inquisition]], and tried as a [[heresy|heretic]] by [[Pope John XXII]] with the bull ''In Agro Dominico'' of March 27, 1329.<ref>{{cite book|author=Meister Eckhart |author2=Edmund Colledge|author3= Bernard McGinn|title=Meister Eckhart, the Essential Sermons, Commentaries, Treatises, and Defense|publisher= Paulist Press|year =1981|page= 77|url=https://books.google.com/books?id=YAYxzu8zqK8C|isbn=978-0-8091-2370-4}}</ref>{{efn|His "Defence" is famous for his reasoned arguments to all challenged articles of his writing, and his refutation of heretical intent.}} In the trial, excerpts of his ''[[Book of Divine Consolation]]'' were used against Eckhart.<ref>{{Cite book |last1=Stirnimann |first1=Heinrich |title=Eckardus theutonicus, homo doctus et sanctus: Nachweise und Berichte zum Prozess gegen Meister Eckhart |last2=Imbach |first2=Ruedi |date=1992 |publisher=Universitätsverl |isbn=978-3-7278-0773-2 |series=Dokimion |location=Freiburg (Schweiz)}}</ref><ref>{{Cite web |title=Meister Eckhart und seine Zeit |url=http://www.eckhart.de/index.htm?tbuch.htm |access-date=2024-07-28 |website=www.eckhart.de}}</ref> He seems to have died before his verdict was received.<ref>{{Cite book|title=Meister Eckhart: The Essential Sermons, Commentaries, Treatises, and Defense|last=Colledge|first=Edmund|date=1981|publisher=Paulist Press|others=Colledge, Edmund., McGinn, Bernard|isbn=0-8091-0322-2|location=New York|pages=12|chapter=Historical Data|oclc=8410552}}</ref>{{efn|There is no record of the date and place of his death, but John XXII records that he was already dead when his propositions were condemned.<ref>John XXII (27 March 1329). "In Argo Dominico". [https://books.google.com/books?id=YAYxzu8zqK8C Meister Eckhart: The Essential Sermons, Commentaries, Treatises, and Defense.] Colledge, Edmund., McGinn, Bernard. New York: Paulist Press, 1981. p. 81. {{ISBN|0-8091-0322-2}}. OCLC 8410552.</ref>|name=|group=}}
+
+He was well known for his work with pious lay groups such as the [[Friends of God]] and was succeeded by his more circumspect disciples [[Johannes Tauler]] and [[Henry Suso]], the latter of whom was later [[Beatification|beatified]].{{Citation needed|date=February 2010}} Since the 19th century, he has received renewed attention. He has acquired a status as a great mystic within contemporary popular [[spirituality]], as well as considerable interest from scholars situating him within the medieval scholastic and philosophical tradition.{{sfn|Hackett|2012}}
+
+==Early life==
+Eckhart was probably born around 1260 in the village of [[Tambach-Dietharz|Tambach]], near [[Gotha]], in the [[Thuringia|Landgraviate of Thuringia]],<ref>[[Bernard McGinn (theologian)|Bernard McGinn]], ''The Mystical Thought of Meister Eckhart'', (New York: Crossroad Publishing Company, 2001), p. 2, points out that previous scholarship which had placed Eckhart's birth in Hochheim is incorrect: Hochheim is used in the sources to indicate Eckhart's family name, not his birthplace.</ref> perhaps between 1250 and 1260.<ref>Walter Senner, 'Meister Eckhart’s Life, Training, Career, and Trial' in Jeremiah Hackett (ed.), A Companion to Meister Eckhart (Leiden: Brill, 2012), 7–84.</ref> It was previously asserted that he was born to a noble family of landowners, but this originated in a misinterpretation of the archives of the period.<ref>''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, p. 5.</ref> In reality, little is known about his family and early life. There is no basis for giving him the Christian name of '''Johannes''', which sometimes appears in biographical sketches:<ref>{{citation |last=Cairns |first=Earl |title=Christianity through the Centuries |year=1996 |publisher=Zondervan }}</ref> his Christian name was '''Eckhart'''; his surname was '''von&nbsp;Hochheim'''.<ref>{{citation |last=Clark |first=James |title=Meister Eckhart |year=1957 |publisher=Thomas Nelson and Sons Ltd. |location=New York |page=11}}</ref>
+
+==Career==
+[[File:Predigerkloster Erfurt.jpg|thumb|left|Predigerkirche]]
+Probably around 1278, Eckhart joined the Dominican convent at [[Erfurt]], when he was about eighteen. It is assumed he studied at [[Cologne]] before 1280.<ref> This supposition is founded on Eckhart’s frequent citation, with respect, of [[Albertus Magnus|Albert the Great]], who had taught at Cologne until his death in 1280, and more particularly, his statement in his 1294 Easter Sermon that "Albert often used to say: 'This I know, as we know things, for we all know very little.{{'"}} ([[Bernard McGinn (theologian)|Bernard McGinn]], ''The Mystical Thought of Meister Eckhart'' (New York: Crossroad Publishing Company, 2001), p. 2.)</ref> He may have also studied at the [[University of Paris]], either before or after his time in Cologne.<ref>The evidence for Eckhart's studies in Cologne is similarly circumstantial as recounted in ''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, p. 7.</ref>
+
+The first solid evidence we have for his life is when on 18&nbsp;April 1294, as a ''baccalaureus'' (lecturer) on the ''[[Sentences]]'' of [[Peter Lombard]], a post to which he had presumably been appointed in 1293 (he had been ordained to the priesthood by that time), he preached the Easter Sermon (the ''Sermo Paschalis'') at the Dominican convent of St.&nbsp;Jacques in Paris. In late 1294, Eckhart was made [[Prior (ecclesiastical)|Prior]] at Erfurt and Dominican [[Provincial superior|Provincial]] of [[Thuringia]] in Germany. His earliest vernacular work, ''Reden der Unterweisung'' (''The Talks of Instructions''/''Counsels on Discernment''), a series of talks delivered to Dominican novices, dates from this time (c.&nbsp;1295–1298).<ref>McGinn, ''Eckhart'', p. 4</ref> In 1302, he was sent to Paris to take up the external Dominican chair of theology. He remained there until 1303. The short ''Parisian Questions'' date from this time.<ref>The ''Parisian Questions'' were first discovered in 1927. They are translated with an introduction in Armand Maurer, ed., ''Master Eckhart: Parisian Questions and Prologues'', (Toronto: Pontifical Institute of Medieval Studies, 1974).</ref>
+
+In late 1303, Eckhart returned to Erfurt and was given the position of [[Provincial superior]] for [[Duchy of Saxony|Saxony]], a province which reached at that time from the Netherlands to [[Livonia]]. Thereby, he  had responsibility for forty-seven convents in the region. Complaints made against the Provincial superior of Teutonia and him at the Dominican general chapter held in Paris in 1306, concerning irregularities among the ternaries, must have been trivial, because the general, [[Aymeric of Piacenza]], appointed him in the following year as his vicar-general for [[Bohemia]] with full power to set the demoralised monasteries there in order. Eckhart was Provincial for Saxony until 1311, during which time he founded three convents for women there.<ref>On the possible dating of the works written in this period, see McGinn, ''Eckhart'', pp. 5–9.</ref>
+
+On 14 May 1311 Eckhart was appointed by the general chapter held at [[Naples]] as teacher at Paris. To be invited back to Paris for a second stint as ''magister'' was a rare privilege, previously granted only to [[Thomas Aquinas]].<ref>McGinn, ''Eckhart'', p. 9</ref> Eckhart stayed in Paris for two academic years, until the summer of 1313, living in the same house as inquistor [[William of Paris (inquisitor)|William of Paris]]. After that follows a long period of which it is known only that Eckhart spent part of the time at [[Strasbourg]].<ref>cf. ''Urkundenbuch der Stadt Strassburg'', iii.&nbsp;236.</ref> It is unclear what specific office he held there: he seems chiefly to have been concerned with spiritual direction and with preaching in convents of Dominicans.<ref name="McGinn-p10">''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, p. 10.</ref>
+
+A passage in a chronicle of the year 1320, extant in manuscript (cf. [[:de:Wilhelm Preger|Wilhelm Preger]], i.&nbsp;352–399), speaks of a prior Eckhart at [[Frankfurt]] who was suspected of heresy, and some historians have linked this to Meister Eckhart.
+
+==Accusation of heresy==
+[[File:Portal Predigerkirche Erfurt.JPG|thumb|left|The Meister Eckhart portal of the [[Erfurt]] Church]]
+[[File:Meister-Ekkehard-Portal der Erfurter Predigerkirche.jpg|thumb|The Meister Eckhart portal of the [[Erfurt]] Church ([[Predigerkirche (Erfurt)|Predigerkirche]]), quoting [[Gospel of John|John]] 1:5]]
+
+
+In late 1323 or early 1324, Eckhart left Strasbourg for the Dominican house at Cologne. It is not clear exactly what he did there, though part of his time may have been spent teaching at the prestigious ''Studium'' in the city. Eckhart also continued to preach, addressing his sermons during a time of disarray among the clergy and monastic orders, rapid growth of numerous pious lay groups, and the [[Inquisition]]'s continuing concerns over heretical movements throughout Europe.
+
+It appears that some of the Dominican authorities already had concerns about Eckhart's teaching. The Dominican General Chapter held in Venice in the spring of 1325 had spoken out against "friars in Teutonia who say things in their sermons that can easily lead simple and uneducated people into error".<ref name="McGinn-p14">McGinn, ''Eckhart'', (2001), p. 14</ref> This concern (or perhaps concerns held by the archbishop of Cologne, [[Heinrich II of Virneburg|Henry of Virneburg]]) may have been why [[Nicholas of Strasburg]], to whom the Pope had given the temporary charge of the Dominican convents in Germany in 1325, conducted an investigation into Eckhart's orthodoxy. Nicholas presented a list of suspect passages from the ''[[Book of Divine Consolation|Book of Consolation]]'' to Eckhart, who responded sometime between August 1325 and January 1326 with the treatise ''Requisitus'', now lost, which convinced his immediate superiors of his orthodoxy.<ref name="McGinn-p14" /> Despite this assurance, however, the archbishop in 1326 ordered an inquisitorial trial.<ref name="McGinn-p10" /><ref name="Preger">cf. the document in Preger, i.&nbsp;471; more accurately in ''ALKG'', ii.&nbsp;627 sqq.</ref> At this point Eckhart issued a ''Vindicatory Document'', providing chapter and verse of what he had been taught.<ref> In the early twentieth century, the suspicion of Eckhart was often attributed to tensions between Dominicans and Franciscans. This narrative, however, has been replaced by one which emphasizes the broader context of fears concerning the Heresy of the Free Spirit. See Bernard McGinn, ''The Harvest of Mysticism'', (2005), p. 103.</ref>
+
+Throughout the difficult months of late 1326, Eckhart had the full support of the local Dominican authorities, as evident in Nicholas of Strasbourg's three official protests against the actions of the inquisitors in January 1327.<ref name="McGinn-p.17">McGinn, ''Eckhart'', (2001), p. 17</ref> On 13&nbsp;February 1327, before the archbishop's inquisitors pronounced their sentence on Eckhart, Eckhart preached a sermon in the Dominican church at Cologne, and then had his secretary read out a public protestation of his innocence. He stated in his protest that he had always detested everything wrong, and should anything of the kind be found in his writings, he now retracts. Eckhart himself translated the text into German, so that his audience, the vernacular public, could understand it. The verdict then seems to have gone against Eckhart. Eckhart denied competence and authority to the inquisitors and the archbishop, and appealed to the Pope against the verdict.<ref name="Preger" /> He then, in the spring of 1327, set off for [[Avignon]].
+
+In Avignon, [[Pope John XXII]] seems to have set up two tribunals to inquire into the case, one of theologians and the other of cardinals.<ref name="McGinn-p.17"/> Evidence of this process is thin. However, it is known that the commissions reduced the 150 suspect articles down to 28; the document known as the ''Votum Avenionense'' gives, in scholastic fashion, the twenty-eight articles, Eckhart's defence of each, and the rebuttal of the commissioners.<ref name="McGinn-p.17" /> On 30&nbsp;April 1328, the pope wrote to Archbishop Henry of Virneburg that the case against Eckhart was moving ahead, but added that Eckhart had already died (modern scholarship suggests he may have died on 28&nbsp;January 1328).<ref>The general assumption in modern scholarship on Eckhart has been that the date of Eckhart's death is lost. McGinn, ''Eckhart'', (2001), p. 17, however, trusts the argument of Walter Senner that a seventeenth-century Dominican source noted that Eckhart was remembered in German convents on 28 January suggesting this day in 1328 was the date of his death. Some early twentieth-century writers suggested Eckhart may have not in fact died, but continued his ministry in anonymity, but there is no single medieval source that supports this suspicion.</ref> The papal commission eventually confirmed (albeit in modified form) the decision of the Cologne commission against Eckhart.<ref name="McGinn-p10" />
+
+[[Pope John XXII]] issued a bull (''In agro dominico''), 27 March 1329, in which a series of statements from Eckhart is characterized as heretical, another as suspected of heresy.<ref>The bull is given complete in ''ALKG'', ii. 636–640).</ref> At the close, it is stated that Eckhart recanted before his death everything which he had falsely taught, by subjecting himself and his writing to the decision of the [[Apostolic see]]. It is possible that the Pope's unusual decision to issue the bull, despite the death of Eckhart (and the fact that Eckhart was not being personally condemned as a heretic), was due to the pope's fear of the growing problem of mystical heresy, and pressure from his ally Henry of Virneburg to bring the case to a definite conclusion.<ref>McGinn, ''Eckhart'', (2001), p. 18.</ref>
+
+==Rehabilitation==
+{{Primary sources|Rehabilitation|date=November 2022}}
+Eckhart's status in the contemporary Catholic Church has been uncertain. The Dominican Order pressed in the last decade of the 20th century for his full rehabilitation and confirmation of his theological orthodoxy. [[Pope John Paul II]] voiced favorable opinion on this initiative, even going as far as quoting from Eckhart's writings, but the outcome was confined to the corridors of the [[Vatican City|Vatican]]. In the spring of 2010, it was revealed that there had been a response from the Vatican in a letter dated 1992. [[Timothy Radcliffe]], then Master of the Dominicans and recipient of the letter, summarized the contents as follows:
+{{blockquote|We tried to have the censure lifted on Eckhart<ref>{{Cite journal |last=Noble |first=Charissa |title=Cage, Satie, and Eckhart: A Hermeneutical Look at John Cage's Appropriation of Eckhart through In A Landscape |url=https://www.academia.edu/26351070}}</ref> ... and were told that there was really no need since he had never been condemned by name, just some propositions which he was supposed to have held, and so we are perfectly free to say that he is a good and orthodox theologian.<ref name="rehab">{{cite web |url=http://www.academici.com/blog/7263/meister_eckhart_rehabilitated_by_the_pope.html |title=Meister Eckhart rehabilitated by the Pope |publisher=Academici.com |access-date=2014-02-21 |archive-url=https://web.archive.org/web/20100912134927/http://www.academici.com/blog/7263/meister_eckhart_rehabilitated_by_the_pope.html |archive-date=12 September 2010 |url-status=dead }}</ref>|title=|source=}}
+
+Professor Winfried Trusen of Würzburg, a correspondent of Radcliffe, wrote in a defence of Eckhart to Cardinal Ratzinger (later [[Pope Benedict XVI]]), stating:
+{{blockquote|Only 28 propositions were censured, but they were taken out of their context and impossible to verify, since there were no manuscripts in Avignon.<ref name="rehab"/>}}
+
+==Influences==
+{{Expand section|date=July 2017}}
+
+Eckhart was schooled in medieval [[scholasticism]] and was well-acquainted with [[Aristotelianism]] and [[Augustinianism]]. The [[Neoplatonism|Neo-Platonism]] of [[Pseudo-Dionysius the Areopagite]] asserted a great influence on him, as reflected in his notions on the Gottheit beyond the God who can be named.
+
+==Teachings==
+
+===Sermons===
+Although he was an accomplished academic theologian, Eckhart's best-remembered works are his highly unusual sermons in the vernacular. Eckhart as a preaching friar attempted to guide his flock, as well as monks and nuns under his jurisdiction, with practical sermons on spiritual/psychological transformation and New Testament metaphorical content related to the creative power inherent in disinterest (dispassion or detachment).{{citation needed|date=April 2013}}
+
+The central theme of Eckhart's German sermons is the presence of God in the individual soul, and the dignity of the soul of the just man. Although he elaborated on this theme, he rarely departed from it. In one sermon, Eckhart gives the following summary of his message:
+{{blockquote|When I preach, I usually speak of detachment and say that a man should be empty of self and all things; and secondly, that he should be reconstructed in the simple good that God is; and thirdly, that he should consider the great aristocracy which God has set up in the soul, such that by means of it man may wonderfully attain to God; and fourthly, of the purity of the divine nature.<ref>Marcus Braybrooke, ''Beacons of Light: 100 People who Have Shaped The History of Humankind'', pp.&nbsp;316–317 (O&nbsp;Books, 2009). {{ISBN|978-1-84694-185-6}}</ref>}}
+
+As Eckhart said in his trial defence, his sermons were meant to inspire in listeners the desire above all to do some good.{{citation needed|date=April 2013}} In this, he frequently used unusual language or seemed to stray from the path of orthodoxy, which made him suspect to the [[Catholic Church|Church]] during the tense years of the Avignon Papacy.{{citation needed|date=April 2013}}
+
+===Theology proper===
+{{related|[[Theology proper]]|[[Deus absconditus]]|[[Deus otiosus]]}}
+{{More citations needed section|date=November 2022}}
+In Eckhart's vision, [[God]] is primarily fecund. Out of overabundance of love the fertile God gives birth to the [[Son]], the [[Logos|Word]] in all of us. Clearly,{{efn|Aside from a rather striking metaphor of "fertility"}} this is rooted in the Neoplatonic notion of "ebullience; boiling over" of the One that cannot hold back its abundance of Being. Eckhart had imagined the creation not as a "compulsory" overflowing (a metaphor based on a common [[hydrodynamics|hydrodynamic]] picture), but as the free act of will of the [[Trinity|triune]] nature of Deity (refer [[Trinitarianism]]).
+
+Another bold assertion is Eckhart's distinction between God and [[Godhead (Christianity)|Godhead]] (''Gottheit'' in German, meaning Godhood or Godhead, state of being God). These notions had been present in [[Pseudo-Dionysius]]'s writings and [[John Scotus Eriugena|John the Scot]]'s ''[[De divisione naturae]]'', but Eckhart, with characteristic vigor and audacity, reshaped the germinal metaphors into profound images of polarity between the Unmanifest and Manifest Absolute.
+
+Eckhart taught that "it is not in God to destroy anything which has being, but he perfects all things"<ref>''Talks of Instruction'', 22.</ref> leading some scholars to conclude that he may have held to some form of [[Christian universalism|universal salvation]].<ref>[[Ilaria Ramelli|Ramelli]], ''A Larger Hope'', 202–206.</ref>
+
+===Contemplative method===
+{{More citations needed section|date=November 2022}}
+John Orme Mills notes that Eckhart did not "leave us a guide to the spiritual life like St Bonaventure’s Itinerarium – the Journey of the Soul," but that his ideas on this have to be condensed from his "couple of very short books on suffering and detachment" and sermons.<ref name="Mills">John Orme Mills, [http://www.eckhartsociety.org/resources/meister-eckhart-and-prayer-setting-scene ''Meister Eckhart and Prayer''], Eckhart Society</ref> According to Mills, Eckhart's comments on prayer are only about [[contemplative prayer]] and "detachment."<ref name="Mills"/>
+
+According to Reiner Schürmann, four stages can be discerned in Eckhart's understanding mystical development: dissimilarity, similarity, identity, breakthrough.<ref name='britannica'> </ref>
+
+==Influence and study==
+
+===13th century===
+Eckhart was one of the most influential 13th-century Christian [[Neoplatonism|Neoplatonist]]s in his day, and remained widely read in the later Middle Ages.<ref>As McGinn, ''Eckhart'', p.1, points out, about three hundred manuscripts containing Eckhart's German sermons, both authentic and pseudonymous, survive.</ref> Some early twentieth-century writers believed that Eckhart's work was forgotten by his fellow Dominicans soon after his death. In 1960, however, a manuscript ("''in agro dominico''") was discovered containing six hundred excerpts from Eckhart, clearly deriving from an original made in the Cologne Dominican convent ''after'' the promulgation of the bull condemning Eckhart's writings, as notations from the bull are inserted into the manuscript.<ref>''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, p.19.</ref> The manuscript came into the possession of the [[Carthusians]] in Basel, demonstrating that some Dominicans and Carthusians had continued to read Eckhart's work.
+
+It is also clear that [[Nicholas of Cusa]], Archbishop of Cologne in the 1430s and 1440s, engaged in extensive study of Eckhart. He assembled, and carefully annotated, a surviving collection of Eckhart's Latin works.<ref>''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, p. 20.</ref> As Eckhart was the only medieval theologian tried before the Inquisition as a heretic, the subsequent (1329) condemnation of excerpts from his works cast a shadow over his reputation for some, but followers of Eckhart in the lay group [[Friends of God]] existed in communities across the region and carried on his ideas under the leadership of such priests as John Tauler and [[Henry Suso]].<ref>''Christianity through the Centuries'', Earle E. Cairns, [[Zondervan]], 1996</ref>
+
+===Johannes Tauler and Rulman Merswin===
+Eckhart is considered by some to have been the inspirational "[[The Friend of God from the Oberland|layman]]" referred to in [[Johannes Tauler]]'s and [[Rulman Merswin]]'s later writings in Strasbourg where he is known to have spent time (although it is doubtful that he authored the simplistic ''[[Book of the Nine Rocks]]'' published by Merswin and attributed to [[The Friend of God from the Oberland]]). On the other hand, most scholars consider The Friend of God from the Oberland to be a pure fiction invented by Merswin to hide his authorship because of the intimidating tactics of the Inquisition at the time.{{citation needed|date=April 2013}}
+
+===''Theologia Germanica'' and the Reformation===
+It has been suspected that his practical communication of the mystical path is behind the influential 14th-century "anonymous" ''[[Theologia Germanica]]'', which was disseminated after his disappearance. According to the medieval introduction of the document, its author was an unnamed member of the [[Teutonic Knights|Teutonic Order]] of Knights living in Frankfurt.{{citation needed|date=April 2013}}
+
+The lack of ''[[imprimatur]]'' from the Church and anonymity of the author of the ''Theologia Germanica'' did not lessen its influence for the next two centuries&nbsp;– including [[Martin Luther]] at the peak of public and clerical resistance to Catholic [[indulgence]]s&nbsp;– and was viewed by some historians of the early 20th century as pivotal in provoking Luther's actions and the subsequent [[Protestant Reformation]].{{citation needed|date=April 2013}}
+
+The following quote from the ''Theologia Germanica'' depicts the conflict between worldly and ecclesiastical affairs:{{citation needed|date=April 2013}}
+{{blockquote|The two eyes of the soul of man cannot both perform their work at once: but if the soul shall see with the right eye into eternity, then the left eye must close itself and refrain from working, and be as though it were dead. For if the left eye be fulfilling its office toward outward things, that is holding converse with time and the creatures; then must the right eye be hindered in its working; that is, in its contemplation. Therefore, whosoever will have the one must let the other go; for "no man can serve two masters".<ref>''[http://www.ccel.org/ccel/anonymous/theologia.html Theologia Germanica]'', public domain</ref>|title=|source=}}
+
+===Obscurity===
+Eckhart was largely forgotten from the sixteenth to the nineteenth centuries, barring occasional interest from thinkers such as [[Angelus Silesius]] (1627–1677).<ref>McGinn, ''Eckhart'', p. 1</ref> For centuries, his writings were known only from a number of [[sermon]]s found in old editions of [[Johann Tauler]]'s sermons, published by Kachelouen (Leipzig, 1498) and by Adam Petri (Basel, 1521 and 1522).
+
+===Rediscovery===
+Interest in Eckhart's works was revived in the early nineteenth century, especially by German Romantics and [[German idealism|Idealist]] philosophers.<ref>McGinn, ''Eckhart'', p. 1.</ref>{{sfn|Hackett|2012|p=xxvii}}{{efn|[[Franz von Baader]] (1765–1841), for instance, studied Eckhart in the early 19th century.{{sfn|Ffytche|2011|p=33}} Von Baader was a German [[Roman Catholic]] philosopher and theologian. He studied under [[Abraham Gottlob Werner]] at [[Freiberg, Saxony|Freiberg]], travelled through several of the mining districts in north Germany, and for four years, 1792–1796, resided in England. There he became acquainted with the ideas of [[David Hume]], [[David Hartley (philosopher)|David Hartley]] and [[William Godwin]], which were all distasteful to him. But he also came into contact with the mystical speculations of Meister Eckhart, [[Louis Claude de Saint-Martin]] (1743–1803), and above all those of [[Jakob Boehme]], which were more to his liking. In 1796 he returned from England, and came into contact with [[Friedrich Schelling]], and the works he published during this period were manifestly influenced by that philosopher.}} [[Franz Pfeiffer (literary scholar)|Franz Pfeiffer]]'s publication in 1857 of Eckhart's German sermons and treatises added greatly to this interest.<ref>This was in the second volume of his ''Deutsche Mystiker'' ([[Stuttgart]]). Pfeiffer's edition included 111 sermons and 18 treatises, as well as a number of sayings and fragments&nbsp;– but many of these are now recognised to be later works falsely attributed to Eckhart. (''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, p. 62)</ref> Another important figure in the later nineteenth century for the recovery of Eckhart's works was [[Henry Denifle]], who was the first to recover Eckhart's Latin works, from 1886 onwards.<ref>Mention could also be made of Franz Jostes, ''Meister Eckhart und seine Junger, ungedruckte Texte zur Geschichte der deutschen Mystik'' (''Collectanea Friburgensia'', iv., [[Freiburg]], 1895).</ref>
+
+During the late nineteenth and early twentieth century, much Catholic interest in Eckhart was concerned with the consistency of his thought in relation to [[Neo-scholasticism|Neoscholastic]] thought&nbsp;– in other words, to see whether Eckhart's thought could be seen to be essentially in conformity with orthodoxy as represented by his fellow Dominican [[Thomas Aquinas]].<ref>McGinn, ''Eckhart'', p. 20.</ref>
+
+===Attribution of works===
+Since the mid-nineteenth century scholars have questioned which of the many pieces attributed to Eckhart should be considered genuine, and whether greater weight should be given to works written in the vernacular, or Latin. Although the vernacular works survive today in over 200 manuscripts, the Latin writings are found only in a handful of manuscripts. Denifle and others have proposed that the Latin treatises, which Eckhart prepared for publication very carefully, were essential to a full understanding of Eckhart.<ref>''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, p. 62.</ref>
+
+In 1923, Eckhart's ''Essential Sermons, Commentaries, Treatises and Defense'' (also known as the ''Rechtsfertigung'', or "vindicatory document") was re-published. The ''Defense'' recorded Eckhart's responses against two of the Inquisitional proceedings brought against him at Cologne, and details of the circumstances of Eckhart's trial. The excerpts in the ''Defense'' from vernacular sermons and treatises described by Eckhart as his own, served to authenticate a number of the vernacular works.<ref>''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, p. 63.</ref> Although questions remain about the authenticity of some vernacular works, there is no dispute about the genuine character of the Latin texts presented in the critical edition.<ref>''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, p. 64.</ref>
+
+===Eckhart as a mystic===
+{{Christian mysticism}}
+
+Since the 1960s scholars have debated whether Eckhart should be called a "mystic".{{sfn|Hackett|2012|p=xxii}} The philosopher [[Karl Albert]] had already argued that Eckhart had to be placed in the tradition of philosophical mysticism of [[Parmenides]] and [[Plato]] and the [[Neoplatonism|neo-Platonist]] thinkers [[Plotinus]], [[Porphyry (philosopher)|Porphyry]] and [[Proclus]].{{sfn|Hackett|2012|p=xxiii}} Heribert Fischer argued in the 1960s that Eckhart was a mediaeval theologian.{{sfn|Hackett|2012|p=xxiii}} Most recently, Clint Johnson agreed with [[D. T. Suzuki]] and argued on the basis of Eckhart's appeals to experience that he is a mystic in the tradition of [[Augustine]] and [[Dionysius]].{{sfn|Suzuki|1957}} {{sfn|Johnson|2023|p=3}} Passages like the following, Johnson contends, point to experience beyond intellectual speculation and philosophizing:
+
+{{blockquote|Those who have never been familiar with inward things do not know what God is. Like a man who has wine in his cellar but has never tasted it, he does not know that it is good. (Sermon 10, DW I 164.5–8){{sfn|Johnson|2023|p=85}}}}
+
+{{blockquote|Whoever does not understand what I say, let him not burden his heart with it. For as long as a man is not like this truth, he will not understand what I say. For this is a truth beyond thought that comes immediately from the heart of God. (Sermon 52, DW II 506.1–3){{sfn|Johnson|2023|p=85}}}}
+
+[[Kurt Flasch]], a member of the so-called Bochum-school of mediaeval philosophy,{{sfn|Hackett|2012|p=xxiii}} strongly reacted against the influence of New Age mysticism and "all kinds of emotional subjective mysticism", arguing for the need to free Eckhart from "the Mystical Flood".{{sfn|Hackett|2012|p=xxiii}} He sees Eckhart strictly as a philosopher. Flasch argues that the opposition between "mystic" and "scholastic" is not relevant because this mysticism (in Eckhart's context) is penetrated by the spirit of the [[Scholasticism|university]], in which it occurred.{{citation needed|date=April 2013}}
+
+According to Hackett, Eckhart is to be understood as an "original hermeneutical thinker in the Latin tradition".{{sfn|Hackett|2012|p=xxiii}} To understand Eckhart, he has to be properly placed within the western philosophical tradition of which he was a part. {{sfn|Hackett|2012|p=xxiv}}
+
+[[Josiah Royce]], an [[Objective idealism|objective idealist]], saw Eckhart as a representative example of 13th and 14th century Catholic mystics "on the verge of pronounced heresy" but without original philosophical opinions. Royce attributes Eckhart's reputation for originality to the fact that he translated scholastic philosophy from Latin into German, and that Eckhart wrote about his speculations in German instead of Latin.<ref name="Royce1898">{{cite book|last=Royce|first=Josiah|author-link=Josiah Royce|chapter=Meister Eckhart|pages=[https://archive.org/details/studiesgoodande02roycgoog/page/n283 261]–297|title=Studies of good and evil : a series of essays upon problems of philosophy and life|year=1898|location=New York|publisher=D. Appleton|oclc=271174795|chapter-url=https://archive.org/details/studiesgoodande02roycgoog}}</ref>{{rp|pages=262, 265–266}} Eckhart generally followed [[Thomas Aquinas]]'s doctrine of the Trinity, but Eckhart exaggerated the scholastic distinction between the divine essence and the divine persons. The very heart of Eckhart's speculative mysticism, according to Royce, is that if, through what is called in Christian terminology the procession of the Son, the divine omniscience gets a complete expression in eternal terms, still there is even at the centre of this omniscience the necessary mystery of the divine essence itself, which neither generates nor is generated, and which is yet the source and fountain of all the divine. The Trinity is, for Eckhart, the revealed God and the mysterious origin of the Trinity is the Godhead, the absolute God.<ref name="Royce1898" />{{rp|pages=279–282}}
+
+==Modern popularisation==
+
+===Theology===
+
+====Matthew Fox====
+[[Matthew Fox (priest)|Matthew Fox]] (born 1940) is an American [[theology|theologian]].<ref name="paper">{{cite web|url=http://www.thepeterboroughexaminer.com/ArticleDisplay.aspx?e=1467657 |title=Peterborough |work=Peterborough Examiner }}</ref> Formerly a priest and a member of the [[Dominican Order]] within the [[Roman Catholic Church]], Fox was an early and influential exponent of a movement that came to be known as [[Matthew Fox (priest)#Creation Spirituality|Creation Spirituality]]. The movement draws inspiration from the wisdom traditions of Christian scriptures and from the philosophies of such medieval Catholic visionaries as [[Hildegard of Bingen]], [[Thomas Aquinas]], [[Francis of Assisi]], [[Julian of Norwich]], [[Dante Alighieri]], Meister Eckhart and [[Nicholas of Cusa]], and others. Fox has written a number of articles on Eckhart{{citation needed|date=February 2014}} and a book titled ''Breakthrough: Meister Eckhart's Creation Spirituality in New Translation''.<ref>{{cite book |last=Eckhart |first=Meister |others=Translated by Matthew Fox |date=1980 |title=Breakthrough, Meister Eckhart's creation spirituality, in new translation |location=Garden City, N.Y. |publisher=Doubleday |isbn=0-385-17045-9  |oclc=6555678 }}</ref>
+
+===Modern philosophy===
+In "Conversation on a Country Path," [[Martin Heidegger]] develops his concept of Gelassenheit, or releasement, from Meister Eckhart.<ref>Heidegger, M. ''Discourse on Thinking''. Trans. John M. Anderson and E. Hans Freund. Harpers and Row, 1966</ref> Ian Moore argues "that Heidegger consulted Eckhart again and again throughout his career to develop or support his own thought.".<ref>Moore, I.A. ''Eckhart, Heidegger, and the Imperative of Releasement''. SUNY Press, 2019, p. xi</ref>
+
+The French philosopher [[Jacques Derrida]] distinguishes Eckhart's [[Apophatic theology|Negative Theology]] from his own concept of ''[[différance]]'' although [[John D. Caputo]] in his influential ''The Tears and Prayers of Jacques Derrida'' emphasises the importance of that tradition for this thought.<ref>Derrida, J: "How to Avoid Speaking: Denials" pp. 3–70, in ''Languages of the Unsayable: The Play of Negativity in Literature and Literary Theory'' Stanley Budick and Wolfgang Iser, eds. 1989</ref>
+
+===Modern spirituality===
+{{see also|Nondualism}}
+
+Meister Eckhart has become one of the timeless heroes of modern [[spirituality]], which, to historian of religion<ref name="Universiteit van Amsterdam">{{cite web
+  | author = Staff
+  | title = dhr. prof. dr. W.J. (Wouter) Hanegraaff
+  | publisher = [[University of Amsterdam]]
+  | date = 2013
+  | url = http://www.uva.nl/profiel/h/a/w.j.hanegraaff/w.j.hanegraaff.html
+  | access-date = 22 December 2017
+  | archive-url = https://web.archive.org/web/20171222095847/http://www.uva.nl/profiel/h/a/w.j.hanegraaff/w.j.hanegraaff.html
+  | archive-date = 22 December 2017
+  | url-status = live
+  }}</ref> [[Wouter Hanegraaff]], thrives on an all-inclusive [[syncretism]].{{sfn|Hanegraaff|1996}} This syncretism started with the colonisation of Asia, and the search of similarities between Eastern and Western religions.{{sfn|King|2002}} Western monotheism was projected onto Eastern religiosity by Western orientalists, trying to accommodate Eastern religiosity to a Western understanding, whereafter Asian intellectuals used these projections as a starting point to propose the superiority of those Eastern religions.{{sfn|King|2002}} Early on, the figure of Meister Eckhart has played a role in these developments and [[Pizza effect|exchanges]].{{sfn|King|2002}}
+
+Renewed academic attention to Eckhart has attracted favorable attention to his work from contemporary non-Christian mystics. Eckhart's most famous single quote, "The Eye with which I see God is the same Eye with which God sees me", is commonly cited by thinkers within [[neopaganism]] and ultimatist [[Buddhism]] as a point of contact between these traditions and Christian mysticism.
+
+====Schopenhauer====
+The first European translation of [[Upanishads]] appeared in two parts in 1801 and 1802.{{sfn|King|2002}} The 19th-century philosopher [[Arthur Schopenhauer]] was influenced by the early translations of the Upanishads, which he called "the consolation of my life".{{sfn|Renard|2010|p=178}}{{efn|And he called his poodle "Atman".{{sfn|Renard|2010|p=178}}}} Schopenhauer compared Eckhart's views to the teachings of Indian, Christian and Islamic [[mysticism|mystic]]s and [[ascetic]]s:
+{{blockquote|If we turn from the forms, produced by external circumstances, and go to the root of things, we shall find that [[Sakyamuni]] and Meister Eckhart teach the same thing; only that the former dared to express his ideas plainly and positively, whereas Eckhart is obliged to clothe them in the garment of the Christian myth, and to adapt his expressions thereto.<ref>[[Schopenhauer]], ''[[The World as Will and Representation]]'', Vol. II, Ch. XLVIII</ref>}}
+
+Schopenhauer also stated:
+{{blockquote|Buddha, Eckhart, and I all teach essentially the same.{{sfn|King|2002|p=125}}}}
+
+====Theosophical Society====
+A major force in the mutual influence of Eastern and Western ideas and religiosity was the [[Theosophical Society]],{{sfn|Renard|2010|pp=185–188}}{{sfn|Sinari|2000}} which also incorporated Eckhart in its notion of [[Theosophy]].{{sfn|Partridge|2006|p=3, note 2}} It searched for ancient wisdom in the East, spreading Eastern religious ideas in the West.{{sfn|Lavoie|2012}} One of its salient features was the belief in "[[Masters of the Ancient Wisdom|Masters of Wisdom]]",{{sfn|Gilchrist|1996|p=32}}{{efn|See also [[Ascended Master Teachings]]}} "beings, human or once human, who have transcended the normal frontiers of knowledge, and who make their wisdom available to others".{{sfn|Gilchrist|1996|p=32}} The Theosophical Society also spread Western ideas in the East, aiding a modernisation of Eastern traditions, and contributing to a growing nationalism in the Asian colonies.{{sfn|McMahan|2008}}
+
+====Neo-Vedanta====
+{{Main|Neo-Vedanta}}
+
+The Theosophical Society had a major influence on [[Hindu reform movements]].{{sfn|Sinari|2000}}{{efn|The [[Theosophical Society]] and the [[Arya Samaj]] were united from 1878 to 1882, as the [[Theosophical Society of the Arya Samaj]].{{sfn|Johnson|1994|p=107}}}} A major proponent of this "neo-Hinduism", also called "neo-Vedanta",{{sfn|King|2002|p=93}} was [[Vivekananda]]{{sfn|Renard|2010|pp=189–193}}{{sfn|Michaelson|2009|pp=79–81}} (1863–1902) who popularised his modernised interpretation{{sfn|Rambachan|1994}} of Advaita Vedanta in the 19th and early 20th century in both India and the West,{{sfn|Michaelson|2009|pp=79–81}} emphasising ''anubhava'' ("personal experience"{{sfn|Rambachan|1994|p=1}}) over scriptural authority.{{sfn|Rambachan|1994|p=1}} Vivekananda's teachings have been compared to Eckhart's teachings.{{sfn|Ganapathy|2003|p=247}}{{sfn|Akhilananda Swami|2012}}
+
+In the 20th century, Eckhart's thoughts were also compared to [[Adi Shankara|Shankara]]'s [[Advaita Vedanta]] by [[Rudolf Otto]] in his ''Mysticism East and West''.{{sfn|King|2002|pp=125–128}} According to Richard King, the aim of this work was to redeem Eckhart's mysticism in Protestant circles,{{sfn|King|2002|p=126}} attempting "to establish the superiority of the German mysticism of Eckhart over the Indian mysticism of Sankara".{{sfn|King|2002|p=125}}
+
+====Buddhist modernism====
+{{Main|Buddhist modernism}}
+
+The Theosophical Society also had a major influence on [[Buddhist modernism]],{{sfn|McMahan|2008}} and the spread of this modernised Buddhism in the West.{{sfn|McMahan|2008}} Along with [[Henry Steel Olcott]] and [[Anagarika Dharmapala]], [[Helena Blavatsky]] was instrumental in the Western transmission and revival of [[Theravada]] Buddhism.{{sfn|McMahan|2008|p=98}}{{sfn|Gombrich|1996|pp=185–188}}{{sfn|Fields|1992|pp=83–118}}
+
+In 1891, [[Karl Eugen Neumann]], who translated large parts of the [[Tripitaka]], found parallels between Eckhart and [[Buddhism]],{{sfn|Moran|2012|p=672}} which he published in ''Zwei buddhistische Suttas und ein Traktat Meister Eckharts'' (''Two Buddhist Suttas and a treatise of Meister Eckhart''). [[D. T. Suzuki]], who joined the [[Theosophical Society Adyar]] and was an active Theosophist,{{sfn|Algeo|2005}}{{sfn|Algeo|2007}}{{sfn|Tweed|2005}} discerned parallels between Eckhart's teachings and [[Zen]] Buddhism in his ''Mysticism: Christian and Buddhist'',{{sfn|Schurmann|2001|p=217}} drawing similarities between Eckhart's "pure nothingness" (''ein bloss nicht'') and ''[[sunyata]]''.{{sfn|King|2002|p=156}} [[Shizuteru Ueda]], a third generation [[Kyoto School]] philosopher and scholar in medieval philosophy showed similarities between Eckhart's [[soteriology]] and [[Zen Buddhism]] in an article.<ref>Shizuteru Ueda (1989), ''Eckhart um zen am problem''</ref>
+
+[[Reiner Schürmann]] {{post-nominals|post-noms=[[Order of Preachers|OP]]}}, a professor of philosophy, while agreeing with Daisetz T. Suzuki that there exist certain similarities between [[Zen]] Buddhism and Meister Eckhart's teaching, also disputed Suzuki's contention that the ideas expounded in Eckhart's sermons closely approach Buddhist thought, "so closely indeed, that one could stamp them almost definitely as coming out of Buddhist speculations".{{sfn|Schurmann|2001|p=217}} Schurmann's several clarifications included:
+# On the question of "Time" and Eckhart's view (claimed as parallel to Buddhism in reducing awakening to instantaneity) that the birth of the Word in the ground of the mind must accomplish itself in an instant, in "the eternal now", that in fact Eckhart in this respect is rooted directly in the catechisis of the Fathers of the Church rather than merely derived from Buddhism;{{sfn|Schurmann|2001|p=217}}
+# On the question of "Isness" and Suzuki's contention that the "Christian experiences are not after all different from those of the Buddhist; terminology is all that divides us", that in Eckhart "the Godhead's ''istigkeit'' [translated as "isness" by Suzuki] is a negation of all quiddities; it says that God, rather than non-being, is at the heart of all things" thereby demonstrating with Eckhart's theocentrism that "the ''istigkeit'' of the Godhead and the isness of a thing then refer to two opposite experiences in Meister Eckhart and Suzuki: in the former, to God, and in the latter, to 'our ordinary state of the mind'" and Buddhism's attempts to think "pure nothingness";{{sfn|Schurmann|2001|p=218}}
+# On the question of "Emptiness" and Eckhart's view (claimed as parallel to Buddhist emphasis "on the emptiness of all 'composite things'") that only a perfectly released person, devoid of all, comprehends, "seizes", God, that the Buddhist "emptiness" seems to concern man's relation to things while Eckhart's concern is with what is "at the end of the road opened by detachment [which is] the mind espouses the very movement of the divine ''dehiscence''; it does what the Godhead does: it lets all things be; not only must God also abandon all of his own – names and attributes if he is to reach into the ground of the mind (this is already a step beyond the recognition of the emptiness of all composite things), but God's essential being – releasement – becomes the being of a released man."{{sfn|Schurmann|2001|p=219}}
+
+==== Roman Curial statement ====
+With [[Joseph Ratzinger as Prefect of the Congregation for the Doctrine of the Faith|Joseph Ratzinger as Prefect]], the [[Congregation for the Doctrine of Faith|Congregation for the Doctrine of the Faith]] in 1989 published a [[Aspects of Christian meditation|''Letter to the Bishops of the Catholic Church on some aspects of Christian meditation'']] which opposed those who<ref>{{Cite web |last=Ratzinger |first=Joseph |author-link=Joseph Ratzinger |author-link2=Alberto Bovone |title=Letter to the Bishops of the Catholic Church on some aspects of Christian Meditation – Orationis formas |url=https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19891015_meditazione-cristiana_en.html |access-date=2023-04-06 |website=www.vatican.va }}</ref>
+{{Blockquote|text=propose abandoning [...] the very idea of the One and Triune God, who is Love, in favor of an immersion "in the indeterminate abyss of the divinity."}}
+with a footnote stating
+{{Blockquote|text=Meister Eckhart speaks of an immersion "in the indeterminate abyss of the divinity" which is a "darkness in which the light of the Trinity never shines." Cf. Sermo "Ave Gratia Plena" in fine (J. Quint, Deutsche Predigten und Traktate, Hanser 1955, 261).}}
+
+===Psychology and psychoanalysis===
+====Erich Fromm====
+The notable humanistic psychoanalyst and philosopher [[Erich Fromm]] was another scholar who brought renewed attention in the West to Eckhart's writings, drawing upon many of the latter's themes in his large corpus of work. Eckhart was a significant influence in developing [[United Nations]] Secretary General [[Dag Hammarskjöld]]'s conception of spiritual growth through selfless service to humanity, as detailed in his book of contemplations called ''[[Vägmärken]]'' ("Markings").{{efn|Dusen: "[t]he counterpoint to this enormously exposed and public life is Eckhart and [[John van Ruysbroeck|Jan van Ruysbroek]]. They really give me balance and – a more necessary sense of humor." Henry P van Dusen. Dag Hammarskjöld. ''A Biographical Interpretation of Markings''. Faber and Faber. London 1967 pp. 49–50.}}
+
+====Carl Jung====
+In ''Aion, Researches into the Phenomenology of Self''<ref>The Collected Works of C. G. Jung, Volume 9, Part II, Princeton University Press (1959)</ref> [[Carl Jung]] cites Eckhart approvingly in his discussion of Christ as a symbol of the [[archetypal]] self. Jung sees Eckhart as a Christian Gnostic:
+
+<blockquote>Meister Eckhart's theology knows a "Godhead" of which no qualities, except unity and being, can be predicated; it "is becoming," it is not yet Lord of itself, and it represents an absolute coincidence of opposites: "But its simple nature is of forms formless; of becoming becomingless; of beings beingless; of things thingless," etc. Union of opposites is equivalent to unconsciousness, so far as human logic goes, for consciousness presupposes a differentiation into subject and object and a relation between them. (p. 193.) </blockquote>
+
+<blockquote>As the Godhead is essentially unconscious, so too is the man who lives in God. In his sermon on "The Poor in Spirit" (Matt. 5 : 3), the Meister says: "The man who has this poverty has everything he was when he lived not in any wise, neither in himself, nor in truth, nor in God. He is so quit and empty of all knowing that no knowledge of God is alive in him; for while he stood in the eternal nature of god, there lived in him not another: what lived there was himself. And so we say this man is as empty of his own knowledge as he was when he was not anything; he lets God work with what he will, and he stands empty as when he came from God." Therefore he should love God in the following way: "Love him as he is; a not-God, a not-spirit, a not-person, a not-image; as a sheer, pure, clear One, which he is, sundered from all secondness; and in this One let us sink eternally, from nothing to nothing. So help us God. Amen." (p. 193.)</blockquote>
+
+Jung summed up his view of Eckhart saying:
+
+<blockquote>The world-embracing spirit of Meister Eckhart knew, without discursive knowledge, the primordial mystical experience of India as well as of the Gnostics, and was itself the finest flower on the tree of the "Free Spirit" that flourished at the beginning of the eleventh century. Well might the writings of this Master be buried for six hundred years, for "his time was not yet come." Only in the nineteenth century did he find a public at all capable of appreciating the grandeur of his mind. (Page 194.)</blockquote>
+===Meister Eckhart Prize===
+{{main|Meister Eckhart Prize}}
+===In popular culture===
+In ''[[Jacob's Ladder (1990 film)|Jacob's Ladder]]'', Louis, the main character's friend, attributes the following quote to Eckhart:
+{{blockquote|You know what he [Eckhart] said? The only thing that burns in Hell is the part of you that won't let go of your life; your memories, your attachments. They burn 'em all away. But they're not punishing you, he said. They're freeing your soul. ...If you're frightened of dying and holding on, you'll see devils tearing your life away. But if you've made your peace then the devils are really angels, freeing you from the Earth.<ref>Rubin 1990, p. 82</ref>{{citation needed|date=January 2011}}|title=|source=}}
+
+In ''[[Z213: Exit]]'', by [[Dimitris Lyacos]] the same quote, attributed to Eckhart, appears in a slightly different wording:
+{{blockquote|Your own are burning and your memories and you don't want to leave them. Everything will burn to the end, you suffer, but nobody is punishing you, they are just setting your soul free. Don't be afraid because while you fear death they will rend your soul like demons. Only calm down and you will see the angels who are setting you free and then you will be free.<ref>Lyacos 2010, p. 88</ref>|title=|source=}}
+
+In the book ''[[The Gargoyle (novel)|The Gargoyle]]'' by [[Andrew Davidson (author)|Andrew Davidson]], Eckhart is mentioned in a story Marianne Engel recounts to the (unnamed) protagonist about her days in the Engelthal Monastery:
+{{blockquote|Meister Eckhart would not even admit that God was good. ...Eckhart's position was that anything that was good can become better, and whatever may become better may become best. God cannot be referred to as "good", "better", or best because He is above all things. If a man says that God is wise, the man is lying because anything that is wise can become wiser. Anything that a man might say about God is incorrect, even calling Him by the name of God. God is "superessential nothingness" and "transcendent Being" ... beyond all words and beyond all understanding. The best a man can do is remain silent, because anytime he prates on about God, he is committing the sin of lying. The true master knows that if he had a God he could understand, he would never hold Him to be God.<ref>Andrew Davidson, ''The Gargoyle'', pp. 140–141</ref>|title=|source=}}
+
+Eckhart is also referenced in [[J. D. Salinger]]'s ''[[Franny and Zooey]]''. In a letter to Zooey, Buddy says,
+{{blockquote|I can't help thinking you'd make a damn site better-adjusted actor if Seymour and I hadn't thrown in the [[Upanishads]] and the [[Diamond Sutra]] and Eckhart and all our other old loves with the rest of your recommended reading when you were small.<ref>{{cite book|last=Salinger|first=J.D|title=Franny and Zooey|year=1955|publisher=Little Brown and Company|location=Boston|isbn=0-316-76949-5|pages=59–60}}</ref>}}
+
+The third movement of [[John Adams (composer)|John Adams's]] [[Harmonielehre]] symphony (1985) is titled "Meister Eckhart and Quackie", which imagines the mystic floating through space with the composer's daughter Emily (nicknamed Quackie) on his back whispering secrets of grace in his ear.<ref>Simon Rattle & City of Birmingham SO (1994) CD booklet</ref>
+
+[[Eckhart Tolle]] quotes Meister Eckhart in ''The Power of Now'' as saying "Time is what keeps the light from reaching us".<ref>{{Cite book|url=http://archive.org/details/ThePowerOfNow_201407|title=The Power of Now|language=en |first1=Eckhart  |last1=Tolle |author-link=Eckhart Tolle |date=1997}}</ref>
+
+==Works==
+[[File:MS Soest 33, fol. 57v, a–b.jpg|thumb|Manuscript Soest, Stadtarchiv und Wissenschaftliche Stadtbibliothek, Codex Nr. 33, folium 57 verso, a–b]]
+The publication of the modern critical edition of Eckhart's German and Latin works began in 1936 and was completed in April 2022.<ref>''Meister Eckhart: Die deutschen und lateinischen Werke. Herausgegeben im Auftrage der Deutschen Forschungsgemeinschaft''. Stuttgart and Berlin: [[Kohlhammer Verlag]], 11 Vols., 1936–2022. The Latin works comprise 6 volumes (widely referred to as LW1–6), while the German works comprise 5 volumes (widely referred to as DW1–5).</ref>
+
+===Latin works===
+One difficulty with Eckhart's Latin writings is that they clearly represent only a small portion of what he planned to write. Eckhart describes his plans to write a vast ''Opus Tripartitum'' (''Three-Part Work''). Unfortunately, all that exists today of the first part, the ''Work of Propositions'', is the Prologue illustrating the first proposition (with Eckhart intending the first part alone to consist of over one thousand propositions).<ref>''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, p. 64. This Prologue exists in two manuscripts discovered by [[Henry Denifle|Denifle]]&nbsp;– one discovered in Erfurt in 1880, and the other in [[Bernkastel-Kues|Kues]] in 1886.</ref> The second part, called the ''Work of Questions'', no longer exists. The third part, the ''Work of Commentaries'', is the major surviving Latin work by Eckhart, consisting of a Prologue, six commentaries, and fifty-six sermons.<ref>''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, p. 65.</ref> It used to be thought that this work was begun while Eckhart was in Paris between 1311 and 1313; however, recent manuscript discoveries mean that much of what survives must be dated to before 1310.<ref>Bernard McGinn, ''The Harvest of Mysticism'', (2005), p. 98.</ref>
+
+The surviving Latin works are, therefore:
+*The early ''Quaestiones Parisiensis'' (''Parisian Questions'').<ref>LW 1:27–83. The English translation is Armand Maurer, ed., ''Master Eckhart: Parisian Questions and Prologues'', Toronto, Canada: Pontifical Institute of Medieval Studies, 1974.</ref>
+*''Prologus generalis in Opus tripartitium'' (''General Prologue to the Three-Part Work'').<ref>LW 1:148–165. An English translation is in Armand Maurer, ed., ''Master Eckhart: Parisian Questions and Prologues'', Toronto, Canada: Pontifical Institute of Medieval Studies, 1974, pp. 77–104.</ref>
+*''Prologus in Opus propositionum'' (''Prologue to the Work of Propositions'').<ref>LW 1:166–182.</ref>
+*''Prologus in Opus expositionum'' (''Prologue to the Work of Commentaries'').<ref>LW 1:183–184.</ref>
+*''Expositio Libri Genesis'' (''Commentary on the Book of Genesis'').<ref>LW 1:185–444. The Prologue and the commentary on Genesis 3 are translated into English in ''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, pp. 82–121.</ref>
+*''Liber Parabolorum Genesis'' (''Book of the Parables of Genesis'').<ref>LW 1:447–702.</ref>
+*''Expositio Libri Exodi'' (''Commentary on the Book of Exodus'').<ref>LW 2:1–227. This is translated into English in its entirety in ''Meister Eckhart: Teacher and Preacher'', trans. and ed. by [[Bernard McGinn (theologian)|Bernard McGinn]] and Frank Tobin, New York and London: Paulist Press/SPCK, 1987, pp. 41–146.</ref>
+*''Expositio Libri Sapientiae'' (''Commentary on the Book of Wisdom'').<ref>LW 2:301–643.</ref>
+*''Sermones et Lectiones super Ecclesiastici c. 24:23–31'' (''Sermons and Lectures on the Twenty-fourth chapter of Ecclesiasticus'').<ref>LW 2:29–300. The commentary on Ecclesiasticus 24.29 is translated into English in ''Meister Eckhart: Teacher and Preacher'', trans. and ed. by [[Bernard McGinn (theologian)|Bernard McGinn]] and Frank Tobin, New York and London: Paulist Press/SPCK, 1987, pp. 174–181.</ref>
+*Fragments of the ''Commentary on the Song of Songs'' survive
+*''Expositio sancti Evangelii secundum Iohannem'' (''Commentary on John'')<ref>LW 3. The commentary on John 1:1–14 is translated into English in ''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, pp. 122–173. The commentary on John 14.8 is translated into English in ''Meister Eckhart: Teacher and Preacher'', trans. and ed. by [[Bernard McGinn (theologian)|Bernard McGinn]] and Frank Tobin, New York and London: Paulist Press/SPCK, 1987, pp. 182–205.</ref>
+*Various sermons,<ref>{{cite web|last=Markus |first=Professor |url=http://markusvinzent.blogspot.co.uk/2011/04/meister-eckhart-in-english-i-books-with.html |title=LW4. An extensive list of English translations of the sermons |publisher=Markusvinzent.blogspot.co.uk |date=2011-04-22 |access-date=2014-02-21}}</ref> including some preserved in the collection ''Paradisus anime intelligentis'' (''Paradise of the Intelligent Soul''/''Paradise of the Intellectual Soul'').<ref>Around half of the 64 sermons in the ''Paradisus'' were by Eckhart, with the majority contributed by Dominicans. On the origin and purpose of the ''Paradisus'' (with dates around 1330–40 generally suggested), see Bernard McGinn, ''The Harvest of Mysticism'', (2005), pp. 321–322 (which reverses some of the arguments of McGinn (2001).</ref>
+*A brief treatise on the Lord's Prayer, largely an anthology culled from earlier authorities.
+*The ''Defense''.<ref>Selections are translated into English in ''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, pp. 71–76.</ref>
+*Although not composed by Eckhart, also relevant are the Vatican archive materials relating to Eckhart's trial, the ''Votum theologicum'' (or ''Opinion'') of the Avignon commission who investigated Eckhart, and the bull ''In agro dominico''.
+
+===Vernacular works===
+Questions concerning the authenticity of the Middle High German texts attributed to Eckhart are much greater than for the Latin texts. The problems involve not only whether a particular sermon or treatise is to be judged authentic or pseudonymous, but also, given the large number of manuscripts and the fragmentary condition of many of them, whether it is even possible to establish the text for some of the pieces accepted as genuine.<ref>''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981, p.&nbsp;66.</ref> Eckhart's sermons are versions written down by others from memory or from notes, meaning that the possibility for error was much greater than for the carefully written Latin treatises.
+
+The critical edition of Eckhart's works traditionally accepted 86 sermons as genuine, based on the research done by its editor Josef Quint (1898–1976)<ref>{{cite web|url=http://www.eckhart.de/index.htm?forscher.htm#Quint |title=Josef Quint |publisher=Eckhart.de |date=2017-07-24 |access-date=2017-07-24}}</ref> during the 20th century. Of these, ''Sermons'' 1–16b are proved authentic by direct citation in the ''Defense''. ''Sermons'' 17–24 have such close textual affinities with Latin sermons recognised as genuine that they are accepted. ''Sermons'' 25–86 are harder to verify, and judgements have been made on the basis of style and content.<ref>{{cite web|last=Markus |first=Professor |url=http://markusvinzent.blogspot.co.uk/2011/04/meister-eckhart-in-english-i-books-with.html |title=An extensive list of English translations of the sermons |publisher=Markusvinzent.blogspot.co.uk |date=2011-04-22 |access-date=2014-02-21}}</ref> Georg Steer took over the editorship in 1983.<ref>{{cite web|url=http://www.eckhart.de/index.htm?forscher.htm |title=Georg Steer |publisher=Eckhart.de |date=2017-07-24 |access-date=2017-07-24}}</ref> Between 2003 and 2016, the critical edition under Georg Steer added another 30 vernacular sermons (Nos. 87 to 117) in volumes 4.1 and 4.2.<ref>{{cite web|url=http://www.eckhart.de/index.htm?wgabe.htm |title=Die deutschen Werke |publisher=Eckhart.de |date=2017-07-24 |access-date=2017-07-24}}</ref> Because six sermons exist in an A and B version (5a-b, 13-13a, 16a-b, 20a-b, 36a-b und 54a-b)<ref>{{cite web|url=http://www.eckhart.de/?aktuell.htm#Pr171 |title=Predigten |publisher=Eckhart.de |date=2017-08-22 |access-date=2018-02-12}}</ref> the final total of vernacular sermons is 123 (numbered consecutively from 1 to 117).
+
+When Franz Pfeiffer published his edition of Eckhart's works in 1857, he included seventeen vernacular treatises he considered to be written by Eckhart. Modern scholarship is much more cautious, however, and the critical edition accepts only four of Eckhart's vernacular treatises as genuine:
+*The longest of these, the ''Reden der Unterweisung'' (''Counsels on Discernment''/''Discourses on Instruction''/''Talks of Instruction''),<ref>LW 5:137–376.</ref> is probably Eckhart's earliest surviving work, a set of spiritual instructions that he gave to young Dominicans in the 1290s. It was clearly a popular work, with fifty-one manuscripts known.<ref>Bernard McGinn, ''The Harvest of Mysticism'', (2005), p. 95.</ref>
+*A second vernacular treatise, the ''Liber Benedictus'' (''Book "Benedictus" ''), in fact consists of two related treatises firstly, ''[[Book of Divine Consolation|Daz buoch der götlîchen trœstunge]]''(''The Book of the Divine Consolation''),<ref>DW 5:1–105.</ref> and secondly, a sermon entitled ''Von dem edeln menschen'' (''Of the Nobleman'').<ref>DW 5:109–119.</ref>
+*The final vernacular treatise accepted as genuine by the critical edition is entitled ''Von Abgescheidenheit'' (''On Detachment'').<ref>DW 5:400–434. All four vernacular treatises are translated into English in ''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense'', trans. and ed. by Bernard McGinn and Edmund Colledge, New York: Paulist Press, 1981.</ref> However, this treatise is generally today not thought to be written by Eckhart.<ref>Bernard McGinn, ''The Harvest of Mysticism'', (2005), p. 632.</ref>
+
+===Modern editions and translations===
+* ''Meister Eckhart: Die deutschen und lateinischen Werke''. Herausgegeben im Auftrage der Deutschen Forschungsgemeinschaft. Stuttgart and Berlin: Verlag W. Kohlhammer, 11 Vols., 1936–2022. (This is the critical edition of Meister Eckhart's works. The Latin works comprise six volumes and were completed in 2022. The Middle High German works comprise five volumes and were completed in 2016).
+* [https://books.google.com/books?id=BeyAtgEACAAJ Eckhart, the German Works: 64 Homilies for the Liturgical Year. I. De Tempore: Introduction, Translation and Notes''], 
+* [https://books.google.com/books?id=YAYxzu8zqK8C ''Meister Eckhart, The Essential Sermons, Commentaries, Treatises and Defense''], trans. and ed. by [[Bernard McGinn (theologian)|Bernard McGinn]] and [[Edmund Colledge]], New York: Paulist Press and London: SPCK, 1981. Re-published in paperback without notes and a foreword by John O’Donohue as ''Meister Eckhart, Selections from His Essential Writings'', (New York, 2005).
+* [https://books.google.com/books?id=ECmFcbE7EFAC ''Meister Eckhart: Teacher and Preacher''], trans. and ed. by [[Bernard McGinn (theologian)|Bernard McGinn]] and Frank Tobin, New York and London: Paulist Press/SPCK, 1987.
+* C. de B. Evans, ''Meister Eckhart by Franz Pfeiffer'', 2 vols., London: Watkins, 1924 and 1931.
+* ''Meister Eckhart: A Modern Translation'', trans. Raymond B. Blakney, New York: Harper and Row, 1941, {{ISBN|0-06-130008-X}} (a translation of many of the works, including treatises, 28 sermons, and ''Defense).''
+* Otto Karrer ''Meister Eckhart Speaks'' The Philosophical Library, Inc. New York, 1957.
+* James M. Clark and John V. Skinner, eds. and trans., ''Treatises and Sermons of Meister Eckhart'', New York: Octagon Books, 1983. (Reprint of Harper and Row ed., 1958/London: Faber & Faber, 1958.)
+* Armand Maurer, ed., ''Master Eckhart: Parisian Questions and Prologues'', Toronto, Canada: Pontifical Institute of Medieval Studies, 1974.
+* ''Meister Eckhart, Sermons and Treatises'', trans. by M. O'C. Walshe, 3 vols., (London: Watkins, 1979–1981; later printed at Longmead, Shaftesbury, Dorset: Element Books, 1979–1990). Now published as ''The Complete Mystical Works of Meister Eckhart'', trans. and ed. by Maurice O'C Walshe, rev. by Bernard McGinn (New York: The Crossroad Publishing Company, 2009).
+*Matthew Fox, ''Breakthrough: Meister Eckhart's Creation Spirituality in New Translation'' (Garden City, New York, 1980).
+* ''Meister Eckhart: Selected Writings'', ed. and trans. by Oliver Davies, London: Penguin, 1994.
+* ''Meister Eckhart's Book of the Heart: Meditations for the Restless Soul'', by [[Jon M. Sweeney]] and Mark S. Burrows, Charlottesville, VA: Hampton Roads, 2017.
+* [https://books.google.com/books?id=JWeezwEACAAJ ''Paradox at Play: Metaphor in Meister Eckhart's Sermons with Previously Unpublished Sermons''], by Clint Johnson, Washington, DC: Catholic University of America Press, 2023. (translations of all previously unpublished sermons Pfeiffer nos. 87–109 in DW IV volumes 1 and 2, and Sermon 54a which is not in Walshe, Flasch's new manuscript for Sermon 52 and several other sermons)
+
+==See also==
+{{Portal|Biography|Christianity|Philosophy}}
+* ''[[Book of the 24 Philosophers]]''
+* [[Brethren of the Free Spirit]]
+* [[Gonsalvus of Spain]]
+* ''[[Sister Catherine Treatise]]''
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Sources==
+{{refbegin|30em}}
+* {{Citation | last =Akhilananda Swami | year =2012 | title =Hindu Psychology: Its Meaning for the West | publisher =Routledge}}
+* {{Citation |  last =Algeo | first =Adele S. | date =July 2005 | title =Beatrice Lane Suzuki and Theosophy in Japan | journal =Theosophical History |volume=XI}}
+* {{Citation | last =Algeo | first =Adele S. | date =January–February 2007 | title =Beatrice Lane Suzuki: An American Theosophist in Japan | journal =Quest | volume =95 | issue =1 | pages =13–17 | url =http://www.theosophical.org/publications/quest-magazine/1254 }}
+* {{Citation | last =Boyd-MacMillan | first =Eolene M | year =2006 | title =Transformation: James Loder, Mystical Spirituality, and James Hillman | publisher =Peter Lang}}
+* Herman Büttner, ed., ''[https://archive.org/details/schriftenundpred01eckhuoft Schriften und Predigten]'', vol. 1. Jena: Eugen Diederichs, 1903.
+* Herman Büttner, ed., ''[https://archive.org/details/schriftenundpred02eckhuoft Schriften und Predigten]'', vol. 2. Jena: Eugen Diederichs, 1909.
+* Augustine Daniels, O.S.B., ed., "Eine lateinische Rechtfertigungsschrift des Meister Eckharts", ''Beiträge zur Geschichte der Philosophie des Mittelalters'', 23, 5 (Münster, 1923): 1–4, 12–13, 34–35, 65–66.
+* {{Citation | last =Fields | first =Rick |year =1992 | title =How the Swans Came to the Lake. A Narrative History of Buddhism in America | place =Boston & London | publisher =Shambhala}}
+* {{Citation | last =Ffytche | first =Matt | year =2011 | title =The Foundation of the Unconscious: Schelling, Freud and the Birth of the Modern Psyche | publisher =Cambridge University Press}}
+* {{Citation | last =Ganapathy | year =2003 | title = The Way of the Siddhas. In: K. R. Sundararajan, Bithika Mukerji (2003), ''Hindu Spirituality'' | publisher =Motilal Banarsidass Publ.}}
+* {{Citation | last =Gilchrist | first =Cherry | year =1996 | title =Theosophy. The Wisdom of the Ages | publisher =HarperSanFrancisco}}
+* {{Citation | last =Gombrich | first =Richard F. | year =1996 | title =Theravāda Buddhism. A Social History from Ancient Benares to Modern Colombo | place =London and New York | publisher =Routledge}}
+* {{Citation |last =Hackett | first =Jeremiah | year =2012 | title =A Companion to Meister Eckhart | publisher =Brill}}
+*{{Citation|last=Hanegraaff | first=Wouter J. |author-link=Wouter Hanegraaff | title=New Age Religion and Western Culture: Esotericism in the Mirror of Secular Thought | year=1996|publisher=[[Brill Publishers|Brill Academic Publishers]]|location=Boston|isbn=978-90-04-10696-3}}
+* {{Citation | last =Johnson | first =K. Paul | year =1994 | title =The masters revealed: Madam Blavatsky and the myth of the Great White Lodge | publisher =SUNY Press | isbn =0-7914-2063-9 | url-access =registration | url =https://archive.org/details/mastersrevealedm0000john }}
+* {{Citation | last =Johnson | first =Clint | year =2023 | title =Paradox at Play: Metaphor in Meister Eckhart's Sermons with Previously Unpublished Sermons | publisher =Catholic University of America Press | isbn =978-0-81-323529-5 | url-access =registration | url =https://books.google.com/books?id=JWeezwEACAAJ }}
+* Franz Jostes, ed., ''[https://archive.org/details/meistereckhartu00eckhgoog Meister Eckhart und seine Jünger: Ungedruckte Texte zur Geschichte der deutschen Mystik]''. Berlin: De Gruyter, 1972 (Series: Deutsche Neudrucke Texte des Mittelalters).
+* Thomas Kaepelli, "Kurze Mitteilungen über mittelalterliche Dominikanerschriftsteller", ''Archivum Fratrum Praedicatorum'' 10, (1940), pp.&nbsp;293–294.
+* Thomas Kaepelli, ''Scriptores ordinis Praedicatorum medii aevi''. Vol. I (A–F). Rome, 1970.
+* {{Citation | last =King | first =Richard | year =2002 | title =Orientalism and Religion: Post-Colonial Theory, India and "The Mystic East" | publisher =Routledge}}
+* [[Gustav Landauer]], ed. and trans. ''[https://archive.org/details/mystischeschrift00eckhuoft Meister Eckharts mystische Schriften]''. Berlin: Karl Schnabel, 1903.
+* M.H. Laurent, "Autour du procés de Maître Eckhart. Les documents des Archives Vaticanes", ''Divus Thomas'' (Piacenza) 39 (1936), pp.&nbsp;331–348, 430–447.
+* {{Citation | last =Lavoie | first =Jeffrey D. | year =2012 | title =The Theosophical Society: The History of a Spiritualist Movement | publisher =Universal-Publishers}}
+* {{Citation | last =McMahan | first =David L. | year =2008 | title =The Making of Buddhist Modernism | publisher =Oxford University Press | isbn =978-0-19-518327-6}}
+* {{Citation | last =Michaelson | first =Jay | year =2009 | title =Everything Is God: The Radical Path of Nondual Judaism | publisher =Shambhala}}
+* {{Citation | last =Moran | first =Dermot | year =2012 | title =Meister Eckhart in 20th Century Philosophy. In: Jeremiah Hacket (2012), ''A Companion to Meister Eckhart'' | publisher =Brill}}
+* {{Citation | last =Partridge | first =Christipher Hugh | year =2006 | title =Understanding the Dark Side: Western Demonology, Satanic Panics and Alien Abduction | publisher =University of Chester}}
+* Franz Pelster, S.J., ed., Articuli contra Fratrem Aychardum Alamannum, Vat. lat. 3899, f. 123r–130v, in "Ein Gutachten aus dem Eckehart-Prozess in Avignon", ''Aus der Geistewelt des Mittelalters, Festgabe Martin Grabmann, Beiträge Supplement'' 3, Munster, 1935, pp.&nbsp;1099–1124.
+* Franz Pfeiffer, ed. ''[https://archive.org/details/deutschemystiker02pfei Deutsche Mystiker des vierzehnten Jahrhunderts]'', vol. II: Meister Eckhart. 2nd ed. Göttingen: Vandenhoeck, 1906.
+* Josef Quint, ed. and trans. ''Meister Eckehart: Deutsche Predigten und Traktate'', Munich: Carl Hanser, 1955.
+* Josef Quint, ed., ''Textbuch zur Mystik des deutschen Mittelalters: Meister Eckhart, Johannes Tauler, Heinrich Seuse'', Halle/Saale: M. Niemeyer, 1952.
+* {{Citation | last =Rambachan | first =Anatanand | year =1994 | title =The Limits of Scripture: Vivekananda's Reinterpretation of the Vedas | publisher =University of Hawaii Press}}
+* {{Citation | last =Renard | first =Philip | year =2010 | title =Non-Dualisme. De directe bevrijdingsweg | place =Cothen | publisher =Uitgeverij Juwelenschip}}
+* Rubin, Bruce Joel, Jacob's Ladder.  Mark Mixson, general editor, The Applause Screenplay Series, Applause Theatre Book Publishers, 1990.  {{ISBN|1-55783-086-X}}.
+* {{Citation | last =Schurmann | first =Reiner | year =2001 | title =Wandering Joy: Meister Eckhart's Mystical Philosophy | publisher =Lindisfarne Books}}
+* {{Citation | last =Sinari | first =Ramakant | year =2000 | title =Advaita and Contemporary Indian Philosophy. In: Chattopadhyana (gen.ed.), 'History of Science, Philosophy and Culture in Indian Civilization. Volume II Part 2: Advaita Vedanta'| place =Delhi | publisher =Centre for Studies in Civilizations}}
+* {{Citation | last =Suzuki | first =Daisetz Teitaro | year =1957 | title =Mysticism: Christian and Buddhist | publisher =Allen & Unwin}}
+* Gabriel Théry, "Édition critique des piéces relatives au procés d'Eckhart continues dans le manuscrit 33b de la Bibliothèque de Soest", ''Archives d'histoire littéraire et doctrinal du moyen âge'', 1 (1926), pp.&nbsp;129–268.
+* {{Citation | last =Tweed | first =Thomas A. | year =2005 | title =American Occultism and Japanese Buddhism. Albert J. Edmunds, D. T. Suzuki, and Translocative History | journal =Japanese Journal of Religious Studies | volume =32 | issue =2 | pages =249–281 | url =http://nirc.nanzan-u.ac.jp/publications/jjrs/pdf/721.pdf | access-date =19 April 2013 | archive-date =22 May 2012 | archive-url =https://web.archive.org/web/20120522005213/http://nirc.nanzan-u.ac.jp/publications/jjrs/pdf/721.pdf | url-status =dead }}
+* James Midgely Clark, ''Meister Eckhart: An Introduction to the Study of His Works with an Anthology of His Sermons'', Edinburgh: Thomas Nelson, 1957.
+* Shizuteru Ueda, ''Die Gottesgeburt in der Seele und der Durchbruch zur Gottheit. Die mystische Anthropologie Meister Eckharts und ihre Konfrontation mit der Mystik des Zen-Buddhismus'', Gütersloh: Mohn, 1965.
+* Reiner Schürmann, ''Meister Eckhart: Mystic and Philosopher'', Bloomington: Indiana University Press, 1978.
+* Matthew Fox, ed., ''Breakthrough: Meister Eckhart's Creation Spirituality in New Translation'', Garden City, New York: Doubleday, 1980.
+* Bernard McGinn ''The Mystical Thought of Meister Eckhart: The Man from whom God Hid Nothing'', (New York: Herder & Herder, 2001)
+{{refend}}
+
+==Further reading==
+* Jeanne Ancelet-Hustache, ''Master Eckhart and the Rhineland Mystics'', New York and London: Harper and Row/ Longmans, 1957.
+* Leonardo Vittorio Arena, ''The Shadows of the Masters'', ebook, 2013.
+* James M. Clark, ''The Great German Mystics'', New York: Russell and Russell, 1970 (reprint of Basil Blackwell edition, Oxford: 1949.)
+* James M. Clark, trans., ''Henry Suso: Little Book of Eternal Wisdom and Little Book of Truth'', London: Faber, 1953.
+* Cesare Catà, ''Il Cardinale e l'Eretico. Nicola Cusano e il problema della eredità "eterodossa" di Meister Eckhart nel suo pensiero'', in "Viator. Medieval and Renaissance Studies", UCLA University, Volume 41, No.2 (2010), pp.&nbsp;269–291.
+* Oliver Davies, ''God Within: The Mystical Tradition of Northern Europe'', London: Darton, Longman and Todd, 1988.
+* Oliver Davies, ''Meister Eckhart: Mystical Theologian'', London: SPCK, 1991.
+* ''Eckardus Theutonicus, homo doctus et sanctus'', Fribourg: [[University of Fribourg]], 1993.
+* Robert K. Forman, ''Meister Eckhart: Mystic as Theologian'', Rockport, Massachusetts/Shaftesbury, Dorset: Element Books, 1991.
+* Gundolf Gieraths, O.P., '"Life in Abundance: Meister Eckhart and the German Dominican Mystics of the 14th Century", ''Spirituality Today Supplement'', Autumn, 1986.
+* Joel F. Harrington, ''Dangerous Mystic: Meister Eckhart’s Path to the God Within'', New York: Penguin Press, 2018.
+* Aldous Huxley, ''The Perennial Philosophy: An Interpretation of the Great Mystics, East and West'', New York: HarperCollins, 1945.
+* Amy Hollywood, ''The Soul as Virgin Wife: Mechthild of Magdeburg, Marguerite Porete, and Meister Eckhart'', Notre Dame and London: University of Notre Dame Press, 1996.
+* Rufus Jones, ''The Flowering of Mysticism in the Fourteenth Century'', New York: Hafner Publishing Co., 1971 (facsimile of 1939 ed.).
+* [[Bernard McGinn (theologian)|Bernard McGinn]], "Eckhart's Condemnation Reconsidered" in ''The Thomist'', vol. 44, 1980.
+* [[Bernard McGinn (theologian)|Bernard McGinn]], ed., ''Meister Eckhart and the Beguine Mystics Hadewijch of Brabant, Mechthild of Magdeburg, and Marguerite Porete'', New York: Continuum, 1994.
+* Ben Morgan. ''On Becoming God: Late Medieval Mysticism and the Modern Western Self.'' New York: Fordham UP, 2013.
+* [[Arthur Schopenhauer]], ''[[The World as Will and Representation]]'', Vol. II, {{ISBN|0-486-21762-0}}
+* Cyprian Smith, ''The Way of Paradox: Spiritual Life as Taught by Meister Eckhart'', New York: Paulist Press, 1988.
+* Frank Tobin, ''Meister Eckhart: Thought and Language'', Philadelphia: University of Pennsylvania Press, 1986.
+* [[Denys Turner]], ''The Darkness of God: Negativity in Christian Mysticism'', Cambridge: Cambridge University Press, 1995.
+* Winfried Trusen, ''Der Prozess gegen Meister Eckhart'', Fribourg: University of Fribourg, 1988.
+* Andrew Weeks, ''German Mysticism from Hildegard of Bingen to Ludwig Wittgenstein: A Literary and Intellectual History'', Albany: State University of New York Press, 1993.
+* Richard Woods, O.P., ''Eckhart's Way'', Wilmington, Delaware: Glazier, 1986 (Collegeville, Minnesota: Liturgical Press, 1991).
+* Richard Woods, O.P., ''Meister Eckhart: The Gospel of Peace and Justice'', Tape Cassette Program, Chicago: Center for Religion & Society, 1993.
+* Richard Woods, O.P., ''Meister Eckhart: Master of Mystics'' (London, Continuum, 2010).
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+{{Wikisource author}}
+{{Catholic Encyclopedia|wstitle=Johann, Meister Eckhart}}
+*[http://www.ccel.org/ccel/eckhart/sermons.html Meister Eckhart's Sermons] translated into English by Claud Field, at [[Christian Classics Ethereal Library]].
+*[http://www.eckhart.de Meister Eckhart und seine Zeit] German language website (most texts in German translation, some in Latin)
+*[https://web.archive.org/web/20110719144249/http://german.berkeley.edu/people/files/nlargier/meb/mebmai05.html Meister Eckhart Bibliography (1800–1997)]
+*[http://www.bibliographie.me Meister Eckhart Bibliography since 1995]
+*{{cite SEP |url-id=meister-eckhart |title=Meister Eckhart |first=Amber L. |last=Griffioen}}
+*[https://web.archive.org/web/20160511063131/http://www.iep.utm.edu/eckhart/ "Meister Eckhart (1260–1328)"] article in the ''[[Internet Encyclopedia of Philosophy]]''
+*[https://www.britannica.com/biography/Meister-Eckhart Meister Eckhart: German mystic] by [[Reiner Schürmann|Father Reiner Schürmann]], [[Dominican Order|O.P.]] on [[Britannica]]
+*Brown, Arthur, "[https://web.archive.org/web/20050624074446/http://www.philosophos.com/philosophy_article_105.html The Man From Whom God Hid Nothing.]"
+*[https://web.archive.org/web/20070220120543/http://www.eckhartsociety.org/meister.htm The Eckhart Society]. Research by catholic scholars
+*[http://www.ellopos.net/theology/eckhart.htm The Meister Eckhart Site], including full text of [http://www.ellopos.net/theology/papal/index.htm the papal bull against Meister Eckhart.]
+* {{Internet Archive author |sname=Meister Eckhart}}
+* {{Librivox author |id=1318}}
+* {{DNB-Portal|118528823}}
+* {{DDB|Person|118528823}}
+* {{Geschichtsquellen Person|118528823}}
+
+{{Death of God philosophers}}
+{{History of Catholic theology}}
+{{Medieval Philosophy}}
+{{Platonists}}
+{{Authority control}}
+
+{{DEFAULTSORT:Eckhart, Meister}}
+[[Category:1260 births]]
+[[Category:1328 deaths]]
+[[Category:13th-century Christian mystics]]
+[[Category:13th-century German Catholic theologians]]
+[[Category:Buddhism and Christianity]]
+[[Category:Dominican mystics]]
+[[Category:German Dominicans]]
+[[Category:German Christian mystics]]
+[[Category:13th-century German philosophers]]
+[[Category:German spiritual writers]]
+[[Category:People from Gotha (district)]]
+[[Category:Rhineland mystics]]
+[[Category:Roman Catholic mystics]]
+[[Category:13th-century writers in Latin]]
+[[Category:14th-century Christian mystics]]
+[[Category:14th-century German Catholic theologians]]
+[[Category:14th-century writers in Latin]]
+[[Category:14th-century German philosophers]]

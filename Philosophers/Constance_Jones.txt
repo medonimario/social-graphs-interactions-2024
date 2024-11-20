@@ -1,0 +1,74 @@
+{{Short description|English philosopher and educator}}
+{{Use dmy dates|date=April 2022}}
+
+'''Emily Elizabeth Constance Jones''' (19 February 1848 – 9 April 1922) known as Constance Jones or E.E. Constance Jones, was an English [[Philosophy|philosopher]] and educator. She worked in [[logic]] and [[ethics]] and served as mistress of [[Girton College, Cambridge]] from 1903 to 1916.
+
+{{Infobox person
+| name               = Constance Jones
+| image              = Emily Elizabeth Constance Jones - John Lavery 1916.jpg
+| caption            = Emily Elizabeth Constance Jones, portrait by [[John Lavery]]
+| birth_date         = {{Birth date|1848|02|19}}
+| birth_place        = [[Llangarron]], [[Herefordshire]], United Kingdom
+| death_date         = {{Death date and age|1922|04|09|1848|02|19}}
+| education          = [[Girton College, Cambridge]]
+| occupation         = philosopher, educator
+}}
+
+==Life and career==
+Emily Elizabeth Constance Jones was born at Langstone Court, [[Llangarron]], [[Herefordshire]], to John Jones and his wife, Emily, daughter of Thomas Oakley JP, of [[Monmouthshire]]. She was the eldest of ten children. Constance was mostly tutored at home. She spent her early teenage years with her family in [[Cape Town]], [[South Africa]], and when they returned to England in 1865 she attended a small school, Miss Robinson's, in [[Cheltenham]], for a year.
+
+She was coached for the entrance examination for [[Girton College, Cambridge]] by Miss [[Alice Gruner|Alice Grüner]], a former student of [[Newnham College, Cambridge|Newnham College]] at her home in [[Sydenham, London|Sydenham]], Kent. She went up to Girton in 1875<ref>Girton College Register, 1869–1946: Cambridge; [[Cambridge University Press|CUP]]; 1948</ref> where, prompted by having read [[Henry Fawcett]]'s ''Political Economy'' (1863) and [[John Stuart Mill|Mill]]'s ''[[A System of Logic]]'' (1843), she chose the Moral Sciences [[Tripos]]. However, she almost immediately had to withdraw in order to look after the aunt with whom she then lived. Her undergraduate career was considerably interrupted because the education of her younger brothers took precedence over her own,<ref>{{cite book|last=Waithe|first=ME|title=A History of Women Philosophers|date=1995|publisher=Springer|isbn=0792328086|page=25}}</ref> but despite this in 1880 she was awarded a first class in the Moral Sciences Tripos.
+
+She returned to Girton in 1884 as a research student and a resident lecturer in Moral Sciences. Having studied with [[Henry Sidgwick]], [[James Ward (psychologist)|James Ward]] and [[J.N. Keynes]], she completed the translation of [[Hermann Lotze|Lotze]]'s ''Mikrokosmus'' initiated by [[Elizabeth Hamilton (writer)|Elizabeth Hamilton]]. She also edited Henry Sidgwick's ''[[Methods of Ethics]]'' (1901) and his ''Ethics of [[Thomas Hill Green|Green]], [[Herbert Spencer|Spencer]], and [[James Martineau|Martineau]]'' (1902); and wrote ''Elements of Logic'' (1890); ''A Primer of Logic'' (1905);<ref>{{cite journal|title=Review of ''A Primer of Logic'' by E. E. Constance Jones|journal=The Athenaeum|issue= 4076|date=9 December 1905|pages=802–803|url=https://books.google.com/books?id=JkXzRWlkrK0C&pg=PA802}}</ref> ''A Primer of Ethics'' (1909); ''A New Law of Thought and its Logical Bearing'' (1911); ''Girton College'' (1913). She was Mistress of [[Girton College, Cambridge]], from 1903 until her retirement in 1916.<ref>{{cite ODNB|last=Warnock|first=Mary| authorlink = Mary Warnock, Baroness Warnock|title='Jones, (Emily Elizabeth) Constance (1848–1922)|url=http://www.oxforddnb.com/view/article/48443|year=2004|doi=10.1093/ref:odnb/48443|accessdate=5 May 2014}}</ref>
+
+Jones was one of the first women to join the [[Aristotelian Society]] in 1892, serving on the Society's executive committee from 1914 to 1916. She was also the first woman recorded as having delivered a paper to the [[Cambridge University Moral Sciences Club]]. She spoke about [[James Ward (psychologist)|James Ward]]'s ''Naturalism and Agnosticism'' on 1 December 1899, with the philosopher Henry Sidgwick chairing the meeting.<ref>Pitt, Jack. [http://digitalcommons.mcmaster.ca/cgi/viewcontent.cgi?article=1617&context=russelljournal "Russell and the Cambridge Moral Sciences Club"], ''Russell: the Journal of Bertrand Russell Studies'': Vol. 1, issue 2, article 3, winter 1981, appendix. p. 116ff.</ref> Her views were regarded as original and influenced her colleagues. She spent her career developing the idea that [[categorical proposition]]s are composed of a [[Predicate (grammar)|predicate]] and a [[Subject (grammar)|subject]] related via identity or non-identity.<ref name="WIWH">{{cite book|title=Women in World History, Vol. 4: Cole-Dzer|year=1999|publisher=Yorkin Publications|location=Waterford, CT|isbn=0-7876-4063-8|pages=72–73|last=Hundleby|first=Catherine|chapter=Constance Jones, E.E.|title-link=Women in World History}}</ref>
+
+==Philosophy==
+[[File:Constance_Jones_(1848-1922)_(38519103286).jpg|thumb|Constance Jones (1848-1922) by John Lavery in Aberystwyth University School of Art Museum and Galleries collection ]]
+Constance Jones' most significant contribution to philosophy was in logic and she was widely regarded to be an authority in this area by her contemporaries.<ref name="WIWH"/> Her major work is ''A New Law of Thought and its Logical Bearings'' (Cambridge, 1911). She was chiefly concerned with the import and interpretation of [[propositions]]. [[G.F. Stout]] says of her: "She did good service in insisting on the distinction between interpretation from the point of view of the speaker and that of the hearer".<ref>{{cite journal|last=Stout|first=G.F.|title=The Late Miss E. E. Constance Jones|journal=[[Mind (journal)|Mind]]|date=1922|volume=31|issue=123|pages=383–384|jstor=2249490|doi=10.1093/mind/xxxi.123.383|url=https://zenodo.org/record/1431817}}</ref>  In her autobiography, Jones wrote of an early fascination with issues related to the nature and structure of content:
+"This unsettled question—what is asserted when you make a statement, and what is the proper form of statement?—had deeply interested me from the time when I was a student and puzzled over Mill's and [[William Stanley Jevons|Jevons]]' accounts of propositions."<ref>{{cite book|last=Jones|first=E.E. Constance|title=As I Remember: An Autobiographical Ramble|url=https://archive.org/details/asirememberautob00joneiala|date=1922|publisher=A. & C. Black|location=London|page=[https://archive.org/details/asirememberautob00joneiala/page/71 71]}}</ref>
+Jones published several textbooks on logic and numerous articles on logic and ethics, particularly on Sidgwick's [[ethical hedonism]]. However, despite her contribution to [[analytic philosophy]] she has become largely forgotten.
+
+==References==
+{{reflist}}
+
+==Notes==
+*{{NIE}}
+
+== External links ==
+* {{cite SEP |url-id=emily-elizabeth-constance-jones |title=Emily Elizabeth Constance Jones |last=Ostertag |first=Gary}}
+* {{cite web |url=https://philpapers.org/s/E.%20E.%20Constance%20Jones|title=Works of E.E. Constance Jones}} PhilPapers
+
+{{s-start}}
+{{s-aca}}
+{{succession box |
+  before=[[Elizabeth Welsh]]|
+  title= [[List of Mistresses of Girton College, Cambridge|Mistress of]] [[Girton College, Cambridge]]|
+  years=1903–1916|
+  after=[[Katharine Jex-Blake]]
+}}
+{{s-end}}
+
+{{Mistresses of Girton College, Cambridge}}
+{{University of Cambridge}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jones, Constance}}
+[[Category:1848 births]]
+[[Category:1922 deaths]]
+[[Category:Alumni of Girton College, Cambridge]]
+[[Category:Cambridge University Moral Sciences Club]]
+[[Category:English philosophers]]
+[[Category:German–English translators]]
+[[Category:Mistresses of Girton College, Cambridge]]
+[[Category:English logicians]]
+[[Category:19th-century English philosophers]]
+[[Category:20th-century English philosophers]]
+[[Category:English women philosophers]]
+[[Category:20th-century English women writers]]
+[[Category:20th-century English writers]]
+[[Category:20th-century English translators]]
+[[Category:19th-century English women writers]]
+[[Category:19th-century English writers]]
+[[Category:19th-century English translators]]

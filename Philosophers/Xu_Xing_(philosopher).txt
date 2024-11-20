@@ -1,0 +1,37 @@
+{{family name hatnote|[[Xǔ (surname)|Xu]]|lang=Chinese}}
+
+{{Infobox philosopher
+| name              = Xu Xing
+| native_name       = 許行
+| birth_date        = 372 BC
+| birth_place       = 
+| death_date        = 289 BC (aged 82–83)
+| death_place       = 
+| death_cause       = 
+| nationality       = Chinese
+| occupation        = [[Philosopher]]
+| notable_works     = 
+| era               = [[Zhou dynasty]]
+| region            = [[Teng (state)|Teng]]
+| main_interests    = [[Agriculturalism]]
+| notable_ideas     = 
+}}
+
+'''Xu Xing''' ({{zh|w=Hsü Hsing|t=許行}}; c. 372 – c. 289 BC) was a [[Chinese philosophy|Chinese philosopher]] and one of the most notable advocates of the egalitarian political philosophy of [[agriculturalism]].{{citation needed|date=April 2022}} With a group of followers he settled in the state of [[Teng (state)|Teng]] in about 315 BC. A disciple of his visited the Confucian philosopher [[Mencius]], and a short report of their conversation discussing Xu Xing's philosophy survives.<ref>{{cite journal |title=The "Nung-chia" 農 家 'School of the Tillers' and the Origins of Peasant Utopianism in China|author=A. C. Graham|journal=Bulletin of the School of Oriental and African Studies|volume=42|number=1|year=1979|pages=66–100|jstor=614828|doi=10.1017/s0041977x00108468|s2cid=154793313 }}</ref>
+
+==References==
+{{reflist}}
+
+{{Chinese philosophy}}
+
+{{DEFAULTSORT:Xu, Xing}}
+[[Category:4th-century BC Chinese philosophers]]
+[[Category:Agriculturalism]]
+[[Category:Chinese political philosophers]]
+[[Category:Philosophers from Shandong]]
+[[Category:Zhou dynasty philosophers]]
+[[Category:372 births]]
+[[Category:372 deaths]]
+
+
+{{china-philosopher-stub}}

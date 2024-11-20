@@ -1,0 +1,158 @@
+{{Short description|German Lutheran theologian (1928–2014)}}
+{{Use dmy dates|date=December 2021}}
+{{Infobox academic
+| name               = Wolfhart Pannenberg
+| image              = Bundesarchiv B 145 Bild-F065001-0017, Bonn, CDU-Friedenskongress, Pannenberg.jpg
+| image_size         = 300px
+| alt                = 
+| caption            = Pannenberg in 1983
+| birth_date         = {{birth date|1928|10|02|df=yes}}
+| birth_place        = [[Stettin]], Germany
+| death_date         = {{death date and age|2014|09|04|1928|10|02|df=yes}}
+| death_place        = [[Munich]], Germany
+| residence          = 
+| home_town          = 
+| spouse             = 
+| partner            = 
+| children           = 
+| parents            =
+| awards             = <!--notable national level awards only-->
+| alma_mater         = {{ubl | [[University of Berlin]] | [[University of Göttingen]] | [[Heidelberg University]] | [[University of Basel]]}}
+| thesis_title       = 
+| thesis_year        = 
+| school_tradition   = [[Lutheranism]]
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = {{flatlist|
+* [[Karl Barth]]
+* [[Hans von Campenhausen]]
+* [[G.&nbsp;W.&nbsp;F. Hegel]]
+* [[Karl Löwith]]
+* [[Gerhard von Rad]]
+* [[Edmund Schlink]]
+}}
+| discipline         = [[Theology]]
+| sub_discipline     = [[Systematic theology]]
+| workplaces         = {{ubl | {{ill|Kirchliche Hochschule Wuppertal|de}} | [[University of Mainz]] | [[University of Munich]]}}
+| doctoral_students  = {{flatlist|
+* [[Philip Clayton (philosopher)|Philip Clayton]]<ref>{{cite web |last=Clayton |first=Philip |author-link=Philip Clayton (philosopher) |date=7 September 2014 |title=Wolfhart Pannenberg&nbsp;– In Memoriam |url=https://www.patheos.com/blogs/tonyjones/2014/09/07/wolfhart-pannenberg-1928-2014/ |work=Theoblogy |publisher=Patheos |access-date=15 June 2019}}</ref>
+* [[William Lane Craig]]
+* [[Stanley Grenz]]
+}}
+| notable_students   = {{ill|Gunther Wenz|de}}
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = {{flatlist|
+* [[Carl Braaten]]<ref>{{cite encyclopedia |last=García |first=Alberto L. |title=Braaten, Carl e. (B. 1929) |year=2012 |editor-last=Kurian |editor-first=George Thomas |encyclopedia=The Encyclopedia of Christian Civilization |location=Malden, Massachusetts |publisher=Blackwell |doi=10.1002/9780470670606.wbecc0184 |isbn=978-0-470-67060-6}}</ref>
+* [[Robert Jenson]]<ref>{{cite journal |last=Schlesinger |first=Eugene R. |year=2016 |title=Trinity, Incarnation and Time: A Restatement of the Doctrine of God in Conversation with Robert Jenson |journal=Scottish Journal of Theology |volume=69 |issue=2 |page=198 |doi=10.1017/S0036930616000053 |issn=1475-3065}}</ref>
+* [[Roger Olson]]
+* [[Ted Peters (theologian)|Ted Peters]]
+* [[Jon Sobrino]]
+}}
+| signature          = 
+| signature_alt      = 
+}}
+{{Lutheranism}}
+
+'''Wolfhart Pannenberg'''  (2 October 1928&nbsp;– 4 September 2014)<ref>Date of Death: http://www.nzz.ch/feuilleton/glaube-geschichte-und-vernunft-1.18380264</ref> was a German [[Lutheran]] [[theology|theologian]]. He made a number of significant contributions to modern theology, including his concept of history as a form of [[revelation]] centered on the [[resurrection of Christ]], which has been widely debated in both Protestant and Catholic theology, as well as by non-Christian thinkers.
+
+==Life and career==
+Pannenberg was born on 2 October 1928 in Stettin, [[Weimar Germany|Germany]], now [[Szczecin]], [[Poland]]. He was baptized as an infant into the Evangelical ([[Lutheran]]) Church, but otherwise had virtually no contact with the church in his early years. At about the age of sixteen, however, he had an intensely religious experience he later called his "light experience". Seeking to understand this experience, he began to search through the works of great philosophers and religious thinkers. A high school literature teacher who had been a part of the [[Confessing Church]] during the [[Second World War]] encouraged him to take a hard look at Christianity, which resulted in Pannenberg's "intellectual conversion", in which he concluded that Christianity was the best available religious option. This propelled him into his vocation as a theologian.{{Citation needed | date = September 2014}}
+
+Pannenberg studied in Berlin, Göttingen, Heidelberg, and Basel. In Basel, Pannenberg studied under [[Karl Barth]]. His doctoral thesis at Heidelberg was on [[Edmund Schlink]]'s views on [[predestination]] in the works of [[Duns Scotus]], which he submitted in 1953 and published a year later. His ''Habilitationsschrift'' in 1955 dealt with the relationship between analogy and revelation, especially the concept of analogy in the teaching of God's knowledge.{{Citation needed | date = September 2014}}
+
+[[File:Bundesarchiv B 145 Bild-F065001-0023, Bonn, CDU-Friedenskongress, Pannenberg.jpg|thumb|Pannenberg speaking at a [[Christian Democratic Union (Germany)|Christian Democratic Union]] conference in [[Bonn]] in 1983]]
+After 1958, Pannenberg consistently served as a professor on the faculties of several universities.  Between the years of 1958 and 1961 he was the Professor of Systematic Theology at the {{ill|Kirchliche Hochschule Wuppertal|de}}. Between 1961 and 1968, he was a professor in [[University of Mainz|Mainz]]. He had several visiting professorships at the [[University of Chicago]] (1963), Harvard (1966), and at the [[Claremont School of Theology]] (1967), and since 1968 had been Professor of Systematic Theology at the [[University of Munich]].<ref>{{Citation | url = http://www.st-foe.evtheol.uni-muenchen.de/personen/pannenberg/vita/ | title = Brief biography | publisher = University of Munich | language = de }}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}.</ref> He retired in 1993, and died at age 85 in 2014.<ref>Roger Olson, The Journey of Modern Theology, 479</ref>
+Throughout his career, Pannenberg remained a prolific writer. As of December 2008, his "publication page" on the [[University of Munich]]'s website lists 645 [[academic publishing|academic publications]] to his name.<ref>{{Citation | url = http://www.st-foe.evtheol.uni-muenchen.de/personen/pannenberg/publikationen/ | title = Publications | last = Pannenberg | publisher = University of Munich }}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}.</ref>
+
+==Theological views==
+Pannenberg's [[epistemology]], explained clearly in his shorter essays, is crucial to his theological project. It is heavily influenced by Schlink, who proposed a distinction between analogical truth, i.e. a descriptive truth or model, and [[doxology|doxological]] truth, or truth as immanent in worship. In this way of thinking, theology tries to express doxological truth.  As such, it is a response to God's self-revelation. Schlink was also instrumental in shaping Pannenberg's approach to theology as an [[ecumenical]] enterprise&nbsp;– an emphasis which remained constant throughout his career.{{Citation needed | date = September 2014}}
+
+Pannenberg's understanding of [[revelation]] is strongly conditioned by his reading of [[Karl Barth]] and [[Georg Wilhelm Friedrich Hegel]], as well as by a sympathetic reading of Christian and Jewish [[apocalyptic literature]]. The Hegelian concept of history as an unfolding process in which Spirit and freedom are revealed combines with a Barthian notion of revelation occurring "vertically from above". While Pannenberg adopts a Hegelian understanding of History itself as God's self-revelation, he strongly asserts the [[resurrection of Christ]] as a [[Flashforward|proleptic]] revelation of what history is unfolding. Despite its obvious Barthian reference, this approach met with a mainly hostile response from both [[neo-orthodox]] and liberal, [[Rudolf Bultmann|Bultmannian]] theologians in the 1960s, a response which Pannenberg claims surprised him and his associates.<ref>{{Citation | first = Wolfhart | last = Pannenberg | title = God's Presence in History | newspaper = The Christian Century | date = 11 March 1981 | pages = 260–63}}.</ref> A more nuanced, mainly implied, critique came from [[Jürgen Moltmann]], whose philosophical roots lay in the [[Left Hegelians]], [[Karl Marx]] and [[Ernst Bloch]], and who proposed and elaborated a Theology of Hope, rather than of prolepsis, as a distinctively Christian response to History.{{Citation needed | date = September 2014}}
+
+As disciple of [[Karl Löwith]], Pannenberg  continued the debate against [[Hans Blumenberg]] in the so-called 'theorem of secularization'.<ref>{{cite book|first= Wolfhart |last=Pannenberg|chapter = Christianity as the Legitimacy of the Modern Age | orig-year = 1968 |chapter-url= https://books.google.com/books?id=dS4mAQAAMAAJ&q=Pannenberg+%22Christianity+as+the+Legitimacy+of+the+Modern+Age%22+%22The+Idea+of+God+and+Human+Freedom%22 | title = The Idea of God and Human Freedom | volume = 3 | url= https://books.google.com/books?id=dS4mAQAAMAAJ |pages=178–91|year = 1973 |publisher=Westminster Press|location = London | isbn = 978-0-664-20971-1}}</ref> "Blumenberg targets Löwith's argument that progress is the secularization of Hebrew and Christian beliefs and argues to the contrary that the modern age, including its belief in progress, grew out of a new secular self-affirmation of culture against the Christian tradition."<ref>{{cite book|first= Cornelius A | last = Buller|title=The Unity of Nature and History in Pannenberg's Theology|url= https://books.google.com/books?id=EBwpiVj5skoC | page = [https://books.google.com/books?id=EBwpiVj5skoC&pg=PA95 95]| year = 1996 | publisher = [[Rowman & Littlefield]] | location =[[Lanham, Maryland]]| isbn = 978-0-8226-3055-5}}</ref>
+
+Pannenberg is perhaps best known for ''Jesus: God and Man'' in which he constructs a [[Christology]] "from below", deriving his dogmatic claims from a critical examination of the life and particularly the [[resurrection]] of Jesus of Nazareth.  This is his programmatic statement of the notion of "History as Revelation". He rejects traditional [[Council of Chalcedon|Chalcedonian]] "two-natures" Christology, preferring to view the person of Christ dynamically in light of the resurrection.  This focus on the resurrection as the key to Christ's identity has led Pannenberg to defend its historicity, stressing the experience of the risen Christ in the history of the early Church rather than the empty tomb.{{Citation needed | date = September 2014}}
+
+Eschatological views of Pannenberg discount the importance of temporal process in the New Creation, time being linked with the sinful present age.<ref>{{cite book |last1=Polkinghorne |first1=John |title=The God of hope and the end of the world |date=2002 |publisher=Yale University Press |location=New Haven |isbn=0-300-09211-3}}</ref> He preferred an eternal present to limited concepts of past, present and future and an end of time in a focused unity in the New Creation. Pannenberg has also defended the theology of American [[mathematical physics|mathematical physicist]] [[Frank J. Tipler]]'s Omega Point Theory.{{Sfn | Tipler | 1989}}{{Sfn | Tipler | 1994}}{{Sfn | Tipler | 2007}}<ref>{{cite journal|last1=Pannenberg|first1=Wolfhart|title=Breaking a Taboo: Frank Tipler's the Physics of Immortality|journal=Zygon|volume=30|issue=2|pages=309–314|date=1995|doi=10.1111/j.1467-9744.1995.tb00072.x}}</ref>
+
+Central to Pannenberg's theological career was his defence of theology as a rigorous academic discipline, one capable of critical interaction with philosophy, history, and most of all, the [[natural science]]s. Pannenberg was an outspoken critic of the approval of homosexual relations by the [[Evangelical Church in Germany]], going so far as to say that a church which approves of homosexual practice is no longer a true church. He returned his [[Order of Merit of the Federal Republic of Germany|Federal Order of Merit]] after the decoration was awarded to a lesbian activist.<ref>{{cite journal |journal= [[First Things]] |title = The Achievement of Wolfhart Pannenberg | last = Root |first=Michael |date= March 2012}}</ref>
+
+==Partial bibliography==
+
+===Books by Pannenberg in English===
+* 1968. ''Revelation As History'' (edited volume). New York: The Macmillan Company.
+* 1968. ''Jesus: God and Man''. Philadelphia: Westminster Press.
+* 1969. ''Basic Questions in Theology''. Westminster Press
+* 1969. ''Theology and the Kingdom of God''. Westminster Press.
+* 1970. ''What Is Man?'' Philadelphia: Fortress Press.
+* 1972. ''The Apostles' Creed in Light of Today's Questions''. Westminster Press.
+* 1976. ''Theology and the Philosophy of Science''. Westminster Press.
+* 1977. ''Faith and Reality''. Westminster Press.
+* 1985. ''Anthropology in Theological Perspective''. T&T Clark
+* 1988–1994. ''Systematic Theology''. T & T Clark
+<!--* 1996. "Theologie und Philosophie. Ihr Verhältnis im Lichte ihrer gemeinsamen Geschichte".  Vandenhoeck & Ruprecht. hiding this for now; it is in German, not English-->
+
+===Online writings===
+* "[http://www.firstthings.com/article/2007/06/002-god-of-the-philosophers God of the Philosophers]," ''First Things'', June/July 2007.
+* "[http://www.firstthings.com/article/2003/03/letter-from-germany Letter from Germany]," ''First Things'', March 2003.
+* "[http://www.firstthings.com/article/2002/08/facing-up-science-and-its-cultural-adversaries Facing Up: Science and Its Cultural Adversaries]," ''First Things'', August/September 2002.
+* "[http://www.firstthings.com/article/2000/05/systematic-theology-volumes-i-amp-ii Review of Robert W. Jenson's Systematic Theology: Volumes I & II]," ''First Things'', May 2000.
+* "[http://www.firstthings.com/article/1998/02/002-when-everything-is-permitted When Everything is Permitted]," ''First Things'', February 1998.
+* "[http://www.firstthings.com/article/1996/12/003-the-pope-in-germany The Pope in Germany]," ''First Things'', December 1996.
+* "[http://www.firstthings.com/article/1996/06/002-how-to-think-about-secularism How to Think About Secularism]," ''First Things'', June/July 1996.
+* "[http://www.firstthings.com/article/1994/12/christianity-and-the-westambiguous-past-uncertain-future Christianity and the West: Ambiguous Past, Uncertain Future]," ''First Things'', December 1994.
+* "[http://www.firstthings.com/article/1991/11/006-the-present-and-future-church The Present and Future Church]," ''First Things'', November 1991.
+* "[https://web.archive.org/web/20081223112124/http://www.religion-online.org/showarticle.asp?title=1710 God's Presence in History]," ''Christian Century'' (11 March 1981): 260–63.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*[[Regent's Park College, Oxford#Fellows|Bradshaw, Timothy]], 1988. ''Trinity and ontology: a comparative study of the theologies of [[Karl Barth]] and Wolfhart Pannenberg''. Edinburgh: Rutherford House Books.
+* {{Citation | last = Case | first = Jonathan P | year = 2004 | url = http://www.luthersem.edu/ctrf/JCTR/Vol09/Case.pdf | title = The Death of Jesus and the Truth of the Triune God in Wolfhart Pannenberg and Eberhard Jüngel | journal = Journal for Christian Theological Research | volume = 9 | pages = 1–13}}.
+* {{Citation | last = Fukai | first = Tomoaki, 1996 | language = de | title = Paradox und Prolepsis: Geschichtstheologie bei Reinhold Niebuhr und Wolfhart Pannenberg | place = Marburg}}.
+* {{Citation | author-link = Stanley Grenz| last = Grenz | first = Stanley J | year = 2005 | title = Reason for Hope: The Systematic Theology of Wolfhart Pannenberg | place =Grand Rapids, MI |edition = 2nd|publisher = Eerdmans}}.
+* {{Citation | author-mask = 3 | last = Grenz | first = Stanley J | publisher = Religion online | url = http://www.religion-online.org/showarticle.asp?title=89 | title = Pannenberg on Marxism: Insights and Generalizations | newspaper = The Christian Century | date = 30 September 1987 | pages = 824–26 | url-status = dead | archive-url = https://web.archive.org/web/20081223112024/http://www.religion-online.org/showarticle.asp?title=89 | archive-date = 23 December 2008 }}.
+* {{Citation | author-mask = 3 | last = Grenz | first = Stanley J | publisher = Religion online | url = http://www.religion-online.org/showarticle.asp?title=59 | title = Wolfhart Pannenberg's Quest for Ultimate Truth | newspaper = The Christian Century | date = 14–21 September 1988 | pages = 795–98 | url-status = dead | archive-url = https://web.archive.org/web/20081223112154/http://www.religion-online.org/showarticle.asp?title=59 | archive-date = 23 December 2008 }}.
+* Lischer, Richard, "[https://web.archive.org/web/20081223112114/http://www.religion-online.org/showarticle.asp?title=1596 An Old/New Theology of History]," ''The Christian Century'' (13 March 1974): 288–90.
+* Don H. Olive, 1973. ''Wolfhart Pannenberg-Makers of the Modern Mind''. Word Incorporated, Waco, Texas. 　
+* Page, James S., 2003, "[http://eprints.qut.edu.au/archive/00003612/ Critical Realism and the Theological Science of Wolfhart Pannenberg: Exploring the Commonalities]," ''Bridges: An Interdisciplinary Journal of Philosophy, Theology, History and Science'' 10(1/2): 71–84.
+* Schwarz, Hans, 2012. 'Wolfhart Pannenberg' in ''[[The Blackwell Companion to Science and Christianity]]'' J.B. Stump and Alan G. Padgett (eds.) Malden, MA: Wiley-Blackwell.
+* Shults, F. LeRon, 1999. ''The Postfoundationalist Task of Theology: Wolfhart Pannenberg and the New Theological Rationality.'' Grand Rapids, MI: Eerdmans.
+* {{Citation | author-link = Frank Tipler| last = Tipler | first = Frank J | year = 1989 | url = http://www3.interscience.wiley.com/journal/119442501/abstract?CRETRY=1&SRETRY=0 | archive-url = https://archive.today/20130105060637/http://www3.interscience.wiley.com/journal/119442501/abstract?CRETRY=1&SRETRY=0 | url-status = dead | archive-date = 5 January 2013 | title = The Omega Point as ''Eschaton'': Answers to Pannenberg's Questions for Scientists | journal = Zygon | volume = 24 | issue = 2 | pages = 217–53| doi = 10.1111/j.1467-9744.1989.tb01112.x }}. Followed by Pannenberg's comments, 255–71.
+* {{Citation | author-mask = 3 | last = Tipler | first = Frank J | year = 1994 | title = The Physics of Immortality: Modern Cosmology, God and the Resurrection of the Dead | place = New York | publisher = Doubleday}}.
+* {{Citation | author-mask = 3 | last = Tipler | first = Frank J | year = 2007 | title = The Physics of Christianity | place = New York | publisher = Doubleday}}.
+* [[E. Frank Tupper|Tupper, E. Frank]], 1973. ''The Theology of Wolfhart Pannenberg.'' Philadelphia: Westminster press.
+* {{cite journal | last = Woo | first = B. Hoon | title = Pannenberg's Understanding of the Natural Law | journal= Studies in Christian Ethics | year=2012 | volume=25  | number =3 | url = https://www.academia.edu/3325466 |pages=346–66 | doi=10.1177/0953946812444686| s2cid = 147059223 }}
+* Stewart, Jacqui, 2000. ''Reconstructing Science and Theology in Postmodernity: Pannenberg, ethics and the human sciences''. Aldershot: Ashgate.
+* Galloway, A.D., 1973. ''Wolfhart Pannenberg''. London: George Allen & Unwin.
+* Gué, X., 2016. ''La christologie de Wolfhart Pannenberg. De la modernité à la postmodernité''. Zürich: LIT Verlag.
+
+==External links==
+{{Wikiquote}}
+{{Commons category}}
+* [http://www.firstthings.com/simpleSearch.php?offset=0&mySqlSearchCriteria=%22Wolfhart+Pannenberg%22 Articles in ''First Things'']
+* [https://web.archive.org/web/20081102193545/http://www.theology.ie/theologians/pannen.htm Articles related to and by Pannenberg.] – Links not functional{{As of? | date = September 2014}}.
+* {{Citation | first = Richard John | last = Neuhaus | author-link = Richard John Neuhaus | year = 1982 | url = http://www.religion-online.org/showarticle.asp?title=1282 | title = Pannenberg Jousts with the World Council of Churches | newspaper = The [[Christian Century]] | publisher = Religion online | url-status = dead | archive-url = https://web.archive.org/web/20081223112109/http://www.religion-online.org/showarticle.asp?title=1282 | archive-date = 23 December 2008 }}.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pannenberg, Wolfhart}}
+[[Category:1928 births]]
+[[Category:2014 deaths]]
+[[Category:Writers from Szczecin]]
+[[Category:People from the Province of Pomerania]]
+[[Category:Systematic theologians]]
+[[Category:Christologists]]
+[[Category:German Lutheran theologians]]
+[[Category:20th-century German Protestant theologians]]
+[[Category:Officers Crosses of the Order of Merit of the Federal Republic of Germany]]
+[[Category:Recipients of the Federal Order of Merit who returned their decoration]]
+[[Category:German male non-fiction writers]]
+[[Category:Writers about religion and science]]
+[[Category: Theistic evolutionists]]
+[[Category:20th-century Lutheran theologians]]
+[[Category:21st-century Lutheran theologians]]
+[[Category:Academic staff of Johannes Gutenberg University Mainz]]

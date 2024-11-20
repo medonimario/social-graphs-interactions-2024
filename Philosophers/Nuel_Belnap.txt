@@ -1,0 +1,78 @@
+{{Short description|American philosopher (1930–2024)}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[Contemporary philosophy]]
+| school_tradition = [[Analytic philosophy|Analytic]]
+| name             = Nuel Belnap
+| birth_name       = Nuel Dinsmore Belnap Jr.
+| birth_date       = {{birth date|1930|05|01}}
+| birth_place      = 
+| death_date       = {{death date and age|2024|06|12|1930|05|01}}
+| death_place      = [[Whitefield, New Hampshire]], U.S.
+| education        = [[University of Illinois]]<br>[[Yale University]] (PhD, 1960){{citation needed|date=January 2022}}
+| institutions     = [[University of Pittsburgh]]
+| thesis_title     = The Formalization of Entailment
+| thesis_url       = 
+| thesis_year      = 1960
+| doctoral_advisor = [[Alan Ross Anderson]]
+| doctoral_students = [[Ruth Manor]]
+| main_interests   = [[Philosophical logic]], [[temporal logic]], [[structural proof theory]]
+| notable_ideas    = [[Display logic]]
+}}
+
+'''Nuel Dinsmore Belnap Jr.''' ({{IPAc-en|ˈ|b|ɛ|l|n|æ|p}}; May 1, 1930 – June 12, 2024) was an American logician and philosopher who has made contributions to the [[philosophy of logic]], [[temporal logic]], and [[structural proof theory]].  He taught at the [[University of Pittsburgh]] from 1963 until his retirement in 2011.
+
+==Early life and education==
+Belnap was born on May 1, 1930.<ref name="legacyobit">{{cite web |title=Nuel D Belnap Jr. |url=https://www.legacy.com/us/obituaries/legacyremembers/nuel-belnap-jr-obituary?id=55336169 |website=Legacy.com |access-date=June 18, 2024}}</ref> He attended [[New Trier High School]] in [[Winnetka, Illinois]], and earned a Bachelor of Arts degree from the [[University of Illinois]].<ref name="legacyobit"/> He recalled Max Fisch assigned [[Alfred North Whitehead|Whitehead]] readings.{{uncited|date=June 2024}}
+
+Belnap worked as a programmer on the [[IBM 701]] for the [[National Security Agency]] through the [[United States Air Force]] for two years before attending graduate school at [[Yale University]].<ref name="legacyobit"/> He enjoyed [[metaphysics]], and his professors included [[Paul Weiss (philosopher)|Paul Weiss]], [[Arthur Pap]], [[Henry Margenau]], [[Frederic Fitch]], and Rulon Wells.{{uncited|date=June 2024}}
+
+On a [[Fulbright Fellowship]] in 1958 he went to [[University of Louvain|Louvain]] to study with Canon [[Robert Feys]]. Belnap domiciled in Brussels with wife and 2-year-old. Feys directed Belnap to read [[Wilhelm Ackermann]]'s article on rigorous implication in the ''[[Journal of Symbolic Logic]]''.<ref>[[Wilhelm Ackermann]] (1956) Begrundung einer strengen implikation, [[Journal of Symbolic Logic]] 21: 113 to 128, {{doi|10.2307/2268750}} {{JSTOR|2268750}}</ref>
+
+[[Alan Ross Anderson]] and Belnap began to discuss relevant implication. In 1960 Anderson told Belnap to write up the work he had done on [[relevance logic]], and this was Belnap's PhD dissertation at Yale (entitled ''The Formalization of Entailment''). The dissertation was published through Omar Kayam Moore at Office of Naval Research, Group Psychology Branch.{{uncited|date=June 2024}}
+
+==Career==
+Belnap became an assistant professor at Yale. He recalled hiring [[Jon Barwise]] and John Wallace as research assistants.<ref name=BI/>
+
+Pittsburgh University wanted [[Wilfrid Sellars]], and according to Belnap, "Jerry Sneewind and I hung on his coattails." [[Adolf Grunbaum]] and [[Nicholas Rescher]] were at Pittsburgh. Vice chancellor Charlie Peake brought Alan Anderson to Pittsburgh in 1965, where he worked until his death in 1973. Anderson and Belnap were co-authors of ''Entailment: The Logic of Relevance and Necessity''.<ref>Anderson, A. R. and Belnap, N. D. (1979) ''Entailment: The Logic of Relevance and Necessity. Vol. 1.'', [[Princeton University Press]].</ref><ref>Anderson, A. R., Belnap, N. D., and Dunn, J. M. (1992) ''Entailment: The Logic of Relevance and Necessity. Vol. 2.'', Princeton University Press. {{ISBN|0-691-07339-2}}</ref> "The way we worked when we worked together was cheek by jaw. We just sat down and wrote sentences together."<ref name=BI/>
+
+Belnap became full professor in 1966. [[Kurt Baier]] was department chairman. Belnap began to teach philosophy of social sciences, with students including [[Bas van Fraassen]] and [[Jon Michael Dunn]]. In 1967 he became professor of sociology and in 1971 professor philosophy of science. Eventually he occupied the endowed chair named for Alan Ross Anderson. He recalled Rich Tomason, student of intelligent systems, passing through Pitt.<ref name=BI/>
+
+Wary of consequences of contradictory stored data, Belnap proposed a [[four-valued logic]] to avoid run-away inferences such as (''A'' & ~''A'') → ''B'' for an arbitrary statement ''B''.<ref>N.  Belnap (1975) "How Computers Should Think", pages 30 to 56 in ''Contemporary Aspects of Philosophy'', [[Gilbert Ryle]] editor, Oriel Press {{ISBN|0-85362-161-6}}</ref> Known as the [[principle of explosion]] in [[classical logic]], the four-valued logic provides a basis for [[paraconsistent logic]] to avoid this pathology of two-valued logic.
+
+In 1976 Belnap and T. B. Steel Jr. published ''The Logic of Questions and Answers'' as a timely contribution to [[erotetics]]. Beyond [[propositional logic]], they noted that the evolving [[database]]s make possible "dossier files on individuals" (page 146) leading to the "problem of [[privacy]] in record keeping." The book included a 45-page annotated bibliography of erotetics, sectioned by philosophy, linguistics, automatic question-answering, and pedagogy, compiled by [[Hubert Schleichert]] and Urs Egli.
+
+On sabbatical, Belnap was visiting professor at the [[University of California, Irvine]] and at [[Indiana University Bloomington]], in the falls of 1977, 1978, 1979 with Jon Michael Dunn. In 1982 at [[Stanford]]'s [[Center for Advanced Studies in the Behavioral Sciences]], and in 1996 at [[University of Leipzig|Leipzig]], Centrum für Höhere Studien with Heirich Wansing. He was a founding member of the Society for Exact Philosophy, which collaborated with Canadians such as [[Mario Bunge]]. Belnap has served as referee for many academic papers.<ref name=BI>N. Belnap (2014) "Biographical Interview", pages 377 to 409 in ''Belnap on Indeterminism and Free Action'', Thomas Müller editor, [[Springer books]] {{doi|10.1007/978-3-319-01754-9}}</ref>
+
+He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 2008.<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=American Academy of Arts and Sciences|accessdate=May 30, 2011}}</ref>
+
+==Personal life and death==
+Belnap had three sons and a daughter with his first wife, Joan Gohde Belnap.<ref name="legacyobit">{{cite web |title=Nuel D Belnap Jr. |url=https://www.legacy.com/us/obituaries/legacyremembers/nuel-belnap-jr-obituary?id=55336169 |website=Legacy.com |access-date=June 18, 2024}}</ref> He died in [[Whitefield, New Hampshire]] on June 12, 2024, at the age of 94.<ref name="legacyobit"/>
+
+==Selected works==
+* 1975: (with Dorothy L. Grover & Joseph L. Camp) "The Prosentential Theory of Truth", [[Philosophical Studies]] 27(1): 73–125
+* 1993: (with [[Anil Gupta (philosopher)|Anil Gupta]]) ''The Revision Theory of Truth'', [[MIT Press]]
+* 2001: (with Ming Xu and Michel Perloff) ''Facing the Future: agents and choices in our indeterministic world'', [[Oxford University Press]] ({{isbn|0195138783}}).
+
+==See also==
+* [[Logical harmony]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://philpapers.org/s/Nuel%20Belnap Works by Nuel Belnap] at [[PhilPapers]]
+* [https://www.philosophy.pitt.edu/person/nuel-belnap Nuel Belnap] at [[University of Pittsburgh]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Belnap, Nuel}}
+[[Category:1930 births]]
+[[Category:2024 deaths]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:American logicians]]
+[[Category:Analytic philosophers]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:University of Pittsburgh faculty]]
+[[Category:Yale Graduate School of Arts and Sciences alumni]]

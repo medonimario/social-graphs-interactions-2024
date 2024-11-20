@@ -1,0 +1,46 @@
+{{Short description|12th-century French philosopher}}
+{{Neoplatonism}}
+'''Thierry of Chartres''' (''Theodoricus Chartrensis'') or '''Theodoric the Breton''' (''Theodericus Brito'') (died before 1155,<ref name="McInerny">{{Cite web|url=http://www2.nd.edu/Departments/Maritain/etext/hwp212.htm|title=Chapter IV - The School of Chartres|accessdate=August 29, 2007|publisher=The Jacques Maritain Center, University of Notre Dame|year=1963|author=Ralph McInerny|work=A History of Western Philosophy Vol. II - Part III: The Twelfth Century|url-status=dead|archiveurl=https://web.archive.org/web/20141123145145/http://www3.nd.edu/Departments/Maritain/etext/hwp212.htm|archivedate=November 23, 2014}}</ref> probably 1150<ref name="Turner">{{Cite web|url=http://maritain.nd.edu/jmc/etext/hop33.htm|title=Chapter XXXIII - The School of Chartres|accessdate=August 29, 2007|publisher=The Jacques Maritain Center, University of Notre Dame|year=1903|author=William Turner|work=History of Philosophy}}</ref>) was a twelfth-century [[philosophy|philosopher]] working at [[Chartres]] and [[Paris]], [[France]].
+
+The [[cathedral school at Chartres]] promoted scholarship before the first university was founded in France. Thierry was a major figure in twelfth-century philosophy and learning, and, like many twelfth-century scholars, is notable for his embrace of Plato's ''[[Timaeus (dialogue)|Timaeus]]'' and his application of philosophy to theological issues.<ref>Some nineteenth and twentieth-century scholars believed that Thierry was in the forefront of a hyper-Platonic school at Chartres (this is the position reflected in Turner's 1903 ''History of Philosophy'', but due to the efforts of [[Richard Southern]] and others, this view is no longer held by modern scholars.</ref> Some modern scholars believed Thierry to have been a brother of [[Bernard of Chartres]] who had founded the school of Chartres, but later research has shown that this is unlikely.<ref>Paul Edward Dutton (ed.), ''The Glosae super Platonem of Bernard of Chartres'', Toronto 1991, p. 40-42.</ref>
+
+Thierry became chancellor of Chartres after his predecessor, [[Gilbert of Poitiers]], returned to his native city in 1141. [[John of Salisbury]],<ref>{{CathEncy|wstitle=Theodoric (Thierry) of Chartes}}</ref> [[Herman of Carinthia]], and [[Clarembald of Arras]] were among Thierry's students.<ref name="D'Onofrio">{{cite book|url=https://books.google.com/books?id=2o5V2GWlaFIC&q=theodoric+of+chartres&pg=PA208|title=The History of Theology: Middle Ages|accessdate=October 30, 2009|publisher=Liturgical Press|year=1996|author=Giulio D'Onofrio|display-authors=etal|isbn=9780814659168}}</ref>
+
+==Works==
+
+===''Hexaemeron''===
+
+The ''Hexaemeron'' interprets the [[Book of Genesis|Genesis]] with reference to [[Plato]]'s "[[Timaeus (dialogue)|Timaeus]]". The text serves as a reasoned defense of God's existence, by relying on Platonic natural philosophy and Aristotelian logic to explain the creation of the world.<ref name="D'Onofrio"/> Thierry establishes that the moment of divine creation was the very beginning of time, and following that, creation evolved naturally through combinations of the four elements (fire, air, water, and earth).<ref name="Lindberg">Lindberg, David C: "The Beginnings of Western Science", page 210. The University of Chicago Press, 2007.</ref> According to Thierry, God created the four elements in the first moment. Fire, which is constantly moving, rotated and lit up the air, causing the first night and day. On the second day, fire warmed the water, causing it to rise into the heavens and form clouds. Because of the reduction of water, land emerged on the third day. The continued heating of the waters above the firmament caused the water to create the heavenly bodies on the fourth day. The continued warming of land caused the plant, animal, and human life to arise on the fifth and sixth days.
+
+Thierry's explanation of the creation of the world is based on a theological interpretation of [[Aristotle]]'s [[four causes]], which he identifies with the three persons of the [[Trinity]] plus matter (made up of the [[Classical element|four elements]]): the Father is the [[Four causes#Efficient cause|efficient cause]], the Son is the [[Four causes#Formal cause|formal cause]], the Holy Spirit is the [[Four causes#Final cause|final cause]] and the four elements are the [[Four causes#Material cause|material cause]].
+
+According to Thierry, the act of divine creation is limited to the creation of the four elements, which then evolve by themselves, mix according to mathematical proportions and make up the physical world.
+
+===''Heptateuch''===
+
+The ''Heptateuch'' is a broad encyclopedia of information relating to the liberal arts, all within the context of academic and theologic unity. It particularly examines the ways in which different types of knowledge can be distinguished, while still supporting a single purpose: explaining order in reality. The trivium (logic, grammar, and rhetoric) address the veracity, consistency, and beauty of the language of expression. The quadrivium ([[geometry]], [[astronomy]], [[arithmetic]], and [[music]]) provide the intellectual content in need of expression.
+
+Thierry also wrote some commentaries on [[Anicius Manlius Severinus Boethius|Boethius]]' ''De Trinitate''.
+
+== Editions ==
+* ''Commentaries on Boethius by Thierry of Chartres and His School'', ed. N. M. Häring, Toronto 1971.
+* ''The Latin Rhetorical Commentaries by Thierry of Chartres'', ed. K. M. Fredborg, Toronto 1988.
+* ''The Commentary on the De arithmetica of Boethius'', ed. I. Caiazzo, Turnhout 2015.
+
+== See also ==
+* [[Renaissance of the 12th century]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* Peter Dronke, "Thierry of Chartres", in P. Dronke, ''A History of Twelfth Century Western Philosophy'', Cambridge 1988.
+* Peter Ellard, ''The Sacred Cosmos: Theological, Philosophical, and Scientific Conversations in the Twelfth Century School of Chartres'', [[University of Scranton Press]], 2007.
+{{Authority control}}
+
+[[Category:Scholastic philosophers]]
+[[Category:1150s deaths]]
+[[Category:12th-century Christian mystics]]
+[[Category:Roman Catholic mystics]]
+[[Category:Year of birth unknown]]
+[[Category: 12th-century French philosophers]]

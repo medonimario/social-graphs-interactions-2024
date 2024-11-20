@@ -1,0 +1,47 @@
+[[File:Francisco Romero.jpg|thumb]]
+
+'''Francisco Romero''' (1891–1962) was a Latin American philosopher who spearheaded a reaction against [[positivism]].
+
+==Biography==
+Romero was born in [[Seville]], Spain, but spent much of his adult life in Latin America, especially [[Argentina]], where he emigrated in 1904.<ref name=ce/><ref name=kilgore/> He entered the Argentine army in 1910 and retired with the rank of major in 1931.<ref name=kilgore/> He became a friend of the Argentine philosopher [[Alejandro Korn]], and when he left military service he took over Korn's professorships at the universities of La Plata and Buenos Aires.<ref name=kilgore/> Due to his strong disapproval of the [[Peronist]] government, he resigned his university positions in 1946, not returning until 1955.<ref name=kilgore/> 
+
+Romero began to publish on literary subjects during the First World War.<ref name=kilgore/> Known as the "dean of Ibero-American philosophers,"<ref name=kilgore/> he became an influential critic, philosopher, and translator. Romero is interested in examining the space of human culture, especially with respect to creativity and social responsibility.<ref name=kilgore/> A strongly anti-ideological humanist, he argues against [[David Hume|Humean]] rationalism and all deterministic conceptions of the universe.<ref name=kilgore/> True being is identified by Romero with transcendence, spiritual and moral aspiration, and intentionality.<ref name=kilgore/> His writing is marked by a balance between philosophical rigor and literary sophistication,<ref name=ce/> and ''Theory of Man'' (1952; English translation in 1964) is considered his master work.<ref name=kilgore/>
+
+Romero was also editor in charge of philosophical publications at the Losada publishing house.<ref name=kilgore/> 
+
+He died in Buenos Aires in 1962.
+
+==Selected works==
+*''Old and New Concepts of Reality'' (1932)
+*''The Problems of Philosophy of Culture'' (1938)
+*''Program of a Philosophy'' (1940)
+*''Man and Culture'' (1950, translation of ''El hombre y la cultura'')
+*''Theory of Man'' (1964; translation of ''Teoría del hombre'', 1952)
+*''Historia de la filosofía moderna'' (1959)
+
+==References==
+{{Reflist | refs =
+
+<ref name=kilgore>Kilgore, William J. "An Introduction to the Philosophy of Francisco Romero". In Francisco Romero, ''Theory of Man'', 1964, pp. xi–xxx.</ref>
+
+<ref name=ce>[http://www.encyclopedia.com/topic/Francisco_Romero.aspx "Romero, Francisco"]. ''The Columbia Encyclopedia'', 6th ed. Columbia University Press, 2016.</ref>
+}}
+
+==Further reading==
+*[[Marjorie Silliman Harris | Harris, Marjorie Silliman]]. ''Francisco Romero on Problems of Philosophy'' (1960)
+*Lipp, S. ''Three Argentine Thinkers'' (1969)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Romero}}
+[[Category:1891 births]]
+[[Category:1962 deaths]]
+[[Category:People from Seville]]
+[[Category:Spanish emigrants to Argentina]]
+[[Category:20th-century Argentine philosophers]]
+[[Category:Argentine translators]]
+[[Category:German–Spanish translators]]
+[[Category:20th-century translators]]
+
+
+{{Argentina-philosopher-stub}}

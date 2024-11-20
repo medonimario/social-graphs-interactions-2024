@@ -1,0 +1,281 @@
+{{multiple issues|
+{{More footnotes needed|date=May 2012}}
+{{Original research|date=November 2010}}
+}}
+{{Use dmy dates|date=July 2024}}
+{{Infobox person
+| pre-nominals       = [[The Reverend]]
+| name               = Emil Brunner
+| image              = Barth-bruner.jpg
+| image_size         = 250px
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = Brunner (left) with [[Karl Barth]]
+| birth_name         = Heinrich Emil Brunner
+| birth_date         = {{birth date|1889|12|23|df=yes}}
+| birth_place        = [[Winterthur]], Switzerland
+| death_date         = {{death date and age|1966|04|06|1889|12|23|df=yes}}
+| death_place        = [[Zürich]], Switzerland
+| spouse             = {{marriage|Margrit Lautenburg|1916}}{{sfnm |1a1=Craver |2a1=Schoch |2y=2012}}
+| awards             = 
+| module             = {{Infobox clergy |child=yes
+| religion           = Christianity
+| church             = [[Swiss Reformed Church]]{{sfn|McGrath|2014|p=4}}
+| ordained           = 1912{{sfn|McGrath|2014|p=4}}
+| congregations      = 
+| offices_held       = 
+}}
+| module2            = {{Infobox academic |child=yes
+| alma_mater         = {{ubl | [[University of Zurich]] | [[University of Berlin]]}}
+| thesis_title       = The Symbolic Element in Religious Knowledge{{efn|name=Thesis|{{langx|de|Das Symbolische in der religiösen Erkenntnis}}.{{sfn|McGrath|2014|p=5}}}}
+| thesis_year        = 1913
+| school_tradition   = [[Neo-orthodoxy]]
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = {{flatlist|
+* [[Martin Buber]]{{sfn|Livingstone|2013|p=79}}
+* [[John Calvin]]{{sfn|Kegley|2005}}
+* [[Edmund Husserl]]{{sfn|Kegley|2005}}
+* [[Immanuel Kant]]{{sfn|Kegley|2005}}
+* [[Søren Kierkegaard]]{{sfn|Kegley|2005}}
+* [[Martin Luther]]{{sfn|Kegley|2005}}
+* [[Leonhard Ragaz]]{{sfn|McGrath|2014|p=2}}
+}}
+| era                = 
+| discipline         = [[Theology]]
+| sub_discipline     = [[Systematic theology]]
+| workplaces         = [[University of Zurich]]
+| doctoral_students  = {{flatlist|
+* [[Edward A. Dowey]]
+* [[Gerhard Ebeling]]{{sfn|Menacher|2013|p=312}}
+}}
+| notable_students   = <!--only those with WP articles-->
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = <!--must be referenced from a third party source-->
+}}
+| signature          = 
+| signature_alt      = 
+}}
+{{Neo-orthodoxy}}
+
+'''Heinrich Emil Brunner'''{{efn|{{IPAc-en|ˈ|b|r|ʊ|n|ər}};<ref>[http://dictionary.reference.com/browse/brunner "Brunner"]. ''[[Random House Webster's Unabridged Dictionary]]''.</ref> {{IPA|de-CH|ˈbrʊnər|lang}}}} (1889–1966) was a Swiss [[Reformed theologian]]. Along with [[Karl Barth]], he is commonly associated with [[neo-orthodoxy]] or the dialectical theology movement.
+
+== Biography ==
+
+Brunner was born on 23 December 1889 in [[Winterthur]], in the Swiss [[canton of Zürich]].{{sfn|McGrath|2014|p=1}}
+
+He studied at the universities of [[University of Zurich|Zurich]] and [[Humboldt University of Berlin|Berlin]], receiving his doctorate in theology from Zurich in 1913, with a dissertation on ''The Symbolic Element in Religious Knowledge''.{{efn|name=Thesis}} Brunner served as pastor from 1916 to 1924 in the mountain village of [[Obstalden]] in the Swiss [[canton of Glarus]]. In 1919–1920 he spent a year in the United States studying at [[Union Theological Seminary in the City of New York|Union Theological Seminary]] in [[New York City|New York]].
+
+In 1921, Brunner published his ''[[Habilitation]]sschrift'' (a post-doctoral dissertation traditionally required in many countries in order to attain the position of a fully tenured professor) on ''Experience, Knowledge and Faith'' and in 1922 was appointed a ''[[Privatdozent]]'' at the University of Zurich. Soon after, another book followed: ''Mysticism and the Word'' (1924), a critique of the [[liberal Christianity|liberal theology]] of [[Friedrich Schleiermacher]]. In 1924 Brunner was appointed Professor of Systematic and Practical Theology at the University of Zurich, a post which he held until his retirement in 1953. In 1927 he published ''The Philosophy of Religion from the Standpoint of Protestant Theology'' and second ''The Mediator''.
+
+After accepting various invitations to deliver lectures across Europe and the United States, in 1930 Brunner published ''God and Man '' and in 1932 ''The Divine Imperative.'' Brunner continued his theological output with ''Man in Revolt'' and ''Truth as Encounter'' in 1937. In the same year, he was a substantial contributor to the [[World Conference on Church, Community, and State]] in [[Oxford]], a position which was reflected in his continued involvement in the [[ecumenism|ecumenical movement]].{{citation needed|date=February 2019}} In 1937–1938 he returned to the United States for a year as a [[visiting professor]] at [[Princeton Theological Seminary]].{{sfn|Schoch|2012}}
+
+Brunner's ecclesiastical positions varied at differing points in his career. Before the outbreak of the war, Brunner returned to Europe with the young Scottish theologian [[Thomas F. Torrance]] who had studied under Karl Barth in [[University of Basel|Basel]] and who had been teaching at [[Auburn Theological Seminary]], New York (and who would subsequently go on to distinguish himself as a professor at the [[University of Edinburgh]]). Following the war, Brunner delivered the prestigious [[Gifford Lectures]] at the [[University of St Andrews]], Scotland, in 1946&ndash;1947 on ''Christianity and Civilisation.'' In 1953 he retired from his post at the University of Zurich and took up the position of Visiting Professor at the recently founded [[International Christian University]] in [[Tokyo]], [[Japan]] (1953&ndash;1955), but not before the publication of the first two volumes of his three-volume ''magnum opus'' ''Dogmatics'' (volume one: ''The Christian Doctrine of God'' [1946], volume two: ''The Christian Doctrine of Creation and Redemption'' [1950], and volume three: ''The Christian Doctrine of the Church, Faith, and Consummation'' [1960]). While returning to Europe from Japan, Brunner suffered a [[cerebral haemorrhage]] and was physically impaired, weakening his ability to work. Though there were times when his condition would improve, he suffered further strokes, finally dying on 6 April 1966 in Zürich.
+
+Brunner holds a place of prominence in Protestant theology in the 20th century and was one of the four or five leading systematicians.{{citation needed|date=February 2019}}
+
+== Theology ==
+
+Brunner rejected liberal theology's portrait of [[Jesus Christ|Jesus]] as merely a highly respected human being. Instead, Brunner insisted that Jesus was [[Incarnation (Christianity)|God incarnate]] and central to salvation.
+
+Some{{who|date=November 2010}} claim that Brunner also attempted to find a middle position within the ongoing [[Arminian]] and [[Calvinist]] debate, stating that Christ stood between God's sovereign approach to mankind and free human acceptance of God's gift of salvation. However, Brunner was a Protestant theologian from German-speaking Europe (a heritage which did not lay nearly as much weight on the [[Calvinist–Arminian debate|Calvinist–Arminian controversy]] as Dutch- or English-speaking theology). Thus, it may be more accurate to describe his viewpoint as a melding of [[Lutheran]] and [[Reformed tradition|Reformed]] perspectives of [[soteriology]]; the Lutheran accent, in particular, was dominant in Brunner's affirmation of [[Predestination#In Lutheranism|single predestination]] over against both the [[double predestination]] of Calvin and the liberal insistence on [[universal salvation]], a view he charged Barth with holding.
+
+In any event, Brunner and his compatriots in the [[neo-orthodox]] movement rejected ''in toto'' [[Pelagian]] concepts of human cooperation with God in the act of salvation, which were prominent in other [[humanism|humanist]] conceptions of Christianity in the late 19th century. Instead, they embraced [[Augustine of Hippo]]'s views, especially as refracted through [[Martin Luther]].
+
+Although Brunner re-emphasized the centrality of Christ, [[evangelicalism|evangelical]] and [[fundamentalist]] theologians, mainly those from America and Great Britain, have usually rejected Brunner's other teachings, including his dismissal of certain [[miracle|miraculous]] elements within the [[scriptures]] and his questioning of the usefulness of the doctrine of [[biblical inerrancy|plenary verbal inspiration of the Bible]]. This is in accord with the treatment that conservatives have afforded others in the movement such as Barth and [[Paul Tillich]]; most conservatives have viewed neo-orthodox theology as simply a more moderate form of liberalism, rejecting its claims as a legitimate expression of the Protestant tradition.
+
+== Relationship with Karl Barth ==
+
+Brunner was considered to be the chief proponent of the new theology long before Barth's name was known in America, as his books had been translated into English much earlier. He has been considered by many to be the minor partner in the uneasy relationship.{{Citation needed|date=August 2010}} Brunner once acknowledged that the only theological genius of the 20th century was Barth.{{Citation needed|date=August 2010}}
+
+== Selected works in English ==
+*[https://archive.org/details/mediatorastudyof013169mbp ''The Mediator''], (translated by [[Olive Wyon]]; The Lutterworth Press 1934, reprinted Cambridge 2003)
+*[https://archive.org/details/MN40294ucmf_3 ''Our Faith''] (1936)
+*''The Divine Imperative'' (1st German edition 1932; English translation 1937 and 1941)
+*''[https://archive.org/details/ManInRevoltAChristianAnthropology-EmilBrunner/mode/2up Man in Revolt. A Christian Anthropology]'' (1st German edition 1937; English translation 1939 and 1941) 
+*''Revelation and Reason. The Christian Doctrine of Faith and Knowledge'', (1st German edition 1941, English translation 1946)
+*[http://www.giffordlectures.org/Author.asp?AuthorID=30 ''Christianity and Civilisation''] (1949) [[Gifford Lectures]] Delivered at the [[University of St Andrews]], James Clarke & Co, reprinted Cambridge 2009
+*[https://archive.org/details/dogmatics01brun ''Dogmatics. Volume I: The Christian Doctrine of God''], (1950) reprinted James Clarke & Co, reprinted Cambridge 2003
+*[https://archive.org/details/dogmatics02brun ''Dogmatics. Volume II: The Christian Doctrine of Creation and Redemption''], (1952) reprinted James Clarke & Co, Cambridge 2003
+*''[https://archive.org/details/dogmatics0000brun/page/n7/mode/2up  Dogmatics. Volume III: The Christian Doctrine of the Church, Faith and the Consummation]'', (1950) reprinted James Clarke & Co, Cambridge 2003
+*[https://archive.org/details/eternalhope012445mbp ''Eternal Hope''] (1954)
+*[https://archive.org/details/greatinvitationa011839mbp ''The Great Invitation Zurich Sermons''], (1955) The Lutterworth Press, Cambridge 2003
+*[https://archive.org/details/ibelieveintheliv011948mbp ''I Believe in the Living God. Sermons on the Apostles' Creed''], (1961) reprinted The Lutterworth Press, Cambridge 2004
+*''Justice and Social Order'', The Lutterworth Press, Cambridge 2003
+*''The Letter to the Romans'', The Lutterworth Press, Cambridge 2003
+*''The Misunderstanding of the Church'', The Lutterworth Press, Cambridge 2003
+
+== Notes ==
+{{notelist|35em}}
+
+== References ==
+=== Footnotes ===
+{{reflist|22em}}
+
+=== Bibliography ===
+{{refbegin|35em|indent=yes}}
+* {{cite encyclopedia
+|last=Craver
+|first=Ben D.
+|title=Heinrich Emil Brunner (1889–1966)
+|url=http://people.bu.edu/wwildman/bce/brunner.htm
+|editor-last=Wildman
+|editor-first=Wesley J.
+|editor-link=Wesley Wildman
+|encyclopedia=Boston Collaborative Encyclopedia of Western Theology
+|location=Boston
+|publisher=Boston University
+|access-date=19 February 2019
+}}
+* {{cite encyclopedia
+|last=Kegley
+|first=Charles W.
+|year=2005
+|title=Brunner, Emil
+|url=https://www.encyclopedia.com/people/philosophy-and-religion/protestant-christianity-biographies/emil-brunner
+|encyclopedia=Encyclopedia of Religion
+|publisher=Thomson Gale
+|access-date=19 February 2019
+|via=Encyclopedia.com
+}}
+* {{cite book
+|year=2013
+|editor-last=Livingstone
+|editor-first=E.&nbsp;A.
+|editor-link=Elizabeth Livingstone
+|title=The Concise Oxford Dictionary of the Christian Church
+|edition=3rd
+|location=Oxford
+|publisher=Oxford University Press
+|doi=10.1093/acref/9780199659623.001.0001
+|isbn=978-0-19-965962-3
+}}
+* {{cite book
+|last=McGrath
+|first=Alister E.
+|author-link=Alister McGrath
+|year=2014
+|title=Emil Brunner: A Reappraisal
+|location=Chichester, England
+|publisher=Wiley Blackwell
+|isbn=978-1-118-56926-9
+}}
+* {{cite book
+|last=Menacher
+|first=Mark D.
+|year=2013
+|chapter=Gerhard Ebeling (1912–2001)
+|editor-last=Mattes
+|editor-first=Mark C.
+|title=Twentieth-Century Lutheran Theologians
+|location=Göttingen, Germany
+|publisher=Vandenhoeck & Ruprecht
+|pages=307–334
+|isbn=978-3-525-55045-8
+}}
+* {{cite encyclopedia
+|last=Schoch
+|first=Max
+|year=2012
+|title=Brunner, Emil
+|url=http://www.hls-dhs-dss.ch/textes/f/F10450.php
+|language=French, German, Italian
+|encyclopedia=[[Historical Dictionary of Switzerland]]
+|access-date=19 February 2019
+}}
+{{refend}}
+
+== Further reading ==
+{{refbegin|35em|indent=yes}}
+* {{cite encyclopedia
+|last=Bautz
+|first=Friedrich Wilhelm
+|year=1990
+|orig-year=1975
+|title=Brunner, Emil
+|url=https://www.bbkl.de/public/index.php/frontend/lexicon/B/Br/brunner-emil-53834
+|url-access=subscription
+|editor-last=Bautz
+|editor-first=Friedrich Wilhelm
+|encyclopedia=[[Biographisch-Bibliographisches Kirchenlexikon]]
+|language=de
+|volume=1
+|location=Hamm, North Rhine-Westphalia
+|publisher=Bautz
+|at=col.&nbsp;769–770
+|isbn=978-3-88309-013-9
+|access-date=19 February 2019
+}}
+* {{cite book
+|last=Humphrey
+|first=J. Edward
+|year=1976
+|title=Emil Brunner
+|location=Waco, Texas
+|publisher=Word Books
+|isbn=978-0-87680-453-7
+|url-access=registration
+|url=https://archive.org/details/emilbrunner0000hump
+}}
+* {{cite book
+|last=Jehle
+|first=Frank
+|year=2006
+|title=Emil Brunner: Theologe im 20. Jahrhundert
+|language=de
+|location=Zürich
+|publisher=Theologischer Verlag
+|isbn=978-3-290-17392-0
+}}
+* {{cite book
+|last=Jewett
+|first=Paul King
+|year=1961
+|title=Emil Brunner: An Introduction to the Man and His Thought
+|location=Chicago
+|publisher=InterVarsity Press
+|oclc=422230677
+}}
+* {{cite book
+|year=1962
+|editor-last=Kegley
+|editor-first=Charles W.
+|title=The Theology of Emil Brunner
+|location=New York
+|publisher=Macmillan
+|oclc=393141
+}}
+* {{cite book
+|last=Williamson
+|first=René de Visme
+|year=1976
+|title=Politics and Protestant Theology: An Interpretation of Tillich, Barth, Bonhoeffer, and Brunner
+|location=Baton Rouge, Louisiana
+|publisher=Louisiana State University Press
+|isbn=978-0-8071-0193-3
+|url-access=registration
+|url=https://archive.org/details/politicsprotesta0000will
+}}
+{{refend}}
+
+{{Princeton Theological Seminary}}
+{{Philosophy of religion}}
+{{Authority control}}
+
+{{Use Oxford spelling|date=February 2019}}
+{{Use dmy dates|date=February 2019}}
+
+{{DEFAULTSORT:Brunner, Emil}}
+[[Category:1889 births]]
+[[Category:1966 deaths]]
+[[Category:20th-century Calvinist and Reformed theologians]]
+[[Category:Calvinist and Reformed philosophers]]
+[[Category:Commanders Crosses of the Order of Merit of the Federal Republic of Germany]]
+[[Category:People from Winterthur]]
+[[Category:People in Christian ecumenism]]
+[[Category:Swiss Calvinist and Reformed ministers]]
+[[Category:Swiss Calvinist and Reformed theologians]]
+[[Category:Swiss evangelicals]]
+[[Category:Systematic theologians]]
+[[Category:Princeton Theological Seminary faculty]]

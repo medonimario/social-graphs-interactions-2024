@@ -1,0 +1,53 @@
+{{Short description|13th-century Flemish translator of Greek into Latin}}
+{{more citations needed|date=April 2014}}
+{{infobox philosopher
+|name=William of Moerbeke
+|birth_date=1215–35
+|birth_place=[[Moerbeke]], [[Holy Roman Empire]]
+|death_date=1286
+|death_place=[[Corinth]], [[Principality of Achaea]]
+|occupation=[[Philosopher]], [[Catholic cleric]], [[Translator]]
+| era              = [[Medieval philosophy]]
+| region           = [[Western philosophy]]
+| school_tradition = [[Scholasticism]]
+|honorific_prefix=The Rev.|honorific_suffix=[[Order of Preachers|OP]]}}
+
+'''William of Moerbeke''', [[Dominican Order|O.P.]] ({{langx|nl|Willem van Moerbeke}}; {{langx|la|Guillelmus de Morbeka}}; 1215–35 &ndash; {{circa}} 1286),  was a prolific medieval translator of philosophical, medical, and scientific texts from Greek into Latin, enabled by the period of [[Latin Empire|Latin rule of the Byzantine Empire]]. His translations were influential in his day, when few competing translations were available, and are still respected by modern scholars.
+
+==Biography==
+Moerbeke was [[Flemish people|Flemish]] by birth (his surname indicating an origin in [[Moerbeke (Geraardsbergen)|Moerbeke]] near [[Geraardsbergen]]), and a [[Dominican Order|Dominican]] by vocation. Little is known of his life. In the spring of 1260, he was at either at [[Nicaea]] or at [[Nikli|Nicles]] in the [[Peloponnese]]; in the autumn of the same year, he was at [[Thebes, Greece|Thebes]], where the [[Dominican Order|Dominicans]] had been since 1253 and where he dated his translation of [[Aristotle]]'s ''[[Parts of Animals|De partibus animalium]]''.
+
+For a time, he resided at the pontifical court of [[Viterbo]] (with evidence for his residence there in 22 November 1267, May 1268, and 15 June 1271), where he met the Latin translator [[Vitello|Vitellius]],<ref>{{cite web|url=https://www.treccani.it/enciclopedia/witelo_%28Dizionario-di-filosofia%29/|title=Witelo (dim. di Wito o Wido "Guido"; latinizz. Vitellio, it. Vitellione)|language=Italian|publisher=[[Treccani]]|work=Dizionario di filosofia|quote=[Vitellius] was in viterbo a friend of wWlhelm of Moerbeke}}</ref> who dedicated to him the Latin [[optics|optical]] treatise ''Perspectiva'' (also named ''Opticae libri decem'').<ref>{{cite web|url=https://www.christies.com/lot/lot-alhazen-abu-ali-al-hasan-ibn-al-hasan-ibn-5067186/|access-date= January 4, 2020|title=Landmarks of Science & Medicine from the Library of Andras Gedeon|year=2008|quote=...dedicated to William of Moerbeke}}</ref><ref>{{cite journal|author=Sabetai Unguru|title=Witelo and Thirteenth-Century Mathematics: An Assessment of His Contributions|journal=[[Isis (journal)|Isis]]|volume= 63|issue= 4 |date=December 1, 1972|pages=496–508 |publisher=[[The University of Chicago Press]]|jstor=229773|oclc=	6822141417|issn=0021-1753|doi=10.1086/350999|s2cid=144170311}}</ref> Subsequently, Moerbeke moved to [[Orvieto]] in 1272 and appeared at the [[Second Council of Lyon|Council of Lyon]]s (1274). Then, from 1278 until his death in 1286 (which probably occurred several months before the nomination of his successor as bishop in October 1286), he occupied the [[Latin Archbishopric of Corinth]], a Catholic see established in the northeastern Peloponnese after the [[Fourth Crusade]]. It is not clear how much time he actually spent in his see; documents show him on mission in [[Perugia]] for the pope in 1283 and dictating his will there.
+
+He was associated with the philosopher [[Thomas Aquinas]], the mathematician [[Campanus of Novara|John Campanus]], the Silesian naturalist and physician [[Witelo]], and the astronomer [[Henri Bate of Mechlin]], who dedicated to William his treatise on the [[astrolabe]].
+
+A little Greek village, [[Merbaka]], with an exceptional late-13th-century church, is believed to have been named for him{{Citation needed|date=June 2021}}; it lies between [[Argos, Peloponnese|Argos]] and [[Mycenae]].
+
+==Translations==
+At the request of Aquinas—so it is assumed; the source document is not clear—he undertook a complete translation of the works of [[Aristotle]] directly from the Greek or, for some portions, in a revision of existing translations. The reason for the request was that many of the copies of Aristotle in Latin then in circulation had originated in [[Spain]] (see [[Toledo School of Translators]]), from Arabic whose texts in turn had often passed through [[Syriac language|Syriac]] versions rather than being translated from the originals.<ref>By the 13th century there was concern that the Arabic versions had distorted the original meaning of Aristotle, and that the possible influence of the rationalist [[Averroes]] could be a source of philosophical and theological errors.</ref>
+
+Aquinas wrote his commentary on Aristotle's ''[[On the Soul|De Anima]]'', the translation of which from the Greek was completed by Moerbeke in 1267, while Aquinas was regent at the ''studium provinciale'' at the convent of [[Santa Sabina]] in Rome, the forerunner of the 16th-century College of Saint Thomas at [[Santa Maria sopra Minerva]] and the [[Pontifical University of Saint Thomas Aquinas|Pontifical University of Saint Thomas Aquinas, ''Angelicum'']].<ref>Jean Pierre Torrell,''Saint Thomas Aquinas: The Person and His Work'', Washington: The Catholic University of America Press, 1996, Volume 1 p. 161 ff.</ref>
+
+William of Moerbeke was the first translator of the ''[[Politics (Aristotle)|Politics]]'' (c. 1260) into Latin, as the ''Politics'', unlike other parts of the Aristotelian corpus, had not been translated into Arabic.<ref>"Aristutalis" in ''Encyclopedia of Islam'' 2nd. ed. Brill, Leiden, Vol.1 p. 631.</ref> He was also responsible for one of only three medieval Latin translations of Aristotle's ''[[Rhetoric (Aristotle)|Rhetoric]]''.<ref>Briggs, Charles F. "Aristotle's Rhetoric in the Later Medieval Universities: A Reassessment", Rhetorica: A Journal of the History of Rhetoric, Vol. 25, No. 3 (Summer 2007), pp. 243-268, p. 247.</ref> William's translations were already standard classics by the 14th century, when [[Henricus Hervodius]] put his finger on their enduring value: they were literal (''de verbo in verbo''), faithful to the spirit of Aristotle, and without elegance. For several of William's translations, the Byzantine Greek manuscripts have since disappeared; without him the works would be lost{{Citation needed|date=June 2021}}.
+
+William also translated [[John Philoponus]]<ref>{{Cite journal |last=Verbeke |first=Gérard |date=1951 |title=Guillaume de Moerbeke, Traducteur de Jean Philopon |url=https://www.persee.fr/doc/phlou_0035-3841_1951_num_49_22_4342 |journal=Revue Philosophique de Louvain |volume=49 |issue=22 |pages=222–235 |doi=10.3406/phlou.1951.4342}}</ref> and mathematical treatises by [[Hero of Alexandria]] and [[Archimedes]]. Especially important was his translation of the ''[[Elements of Theology]]'' of [[Proclus]] (made in 1268), because the ''Elements of Theology'' is one of the fundamental sources of the revived [[Neo-Platonic]] philosophical currents of the 13th century. His translation of Proclus' commentary on Plato's ''[[Parmenides (dialogue)|Parmenides]]'', which included Plato's dialogue up to 142b in [[Stephanus pagination]], made this text available in Latin for the first time.<ref>Klibansky, R. ''Plato's'' Parmenides ''in the Middle Ages and the Renaissance''. (The Warburg Institute, 1943), p. 4.</ref> Some important shorter texts of Proclus, such as "On Providence", "On Providence and Fate", and "On the Existence of Evil", are preserved only in William of Moerbeke's translations.<ref>Procli Diadochi ''Tria opuscula''. Ed. Helmut Boese. Berlin: De Gruyter, 1960.</ref>
+
+The [[Vatican Library|Vatican]] collection holds William's own copy of the translation he made of the greatest [[Hellenistic]] mathematician, [[Archimedes]], with commentaries of [[Eutocius]], which was made in 1269 at the papal court in Viterbo. William consulted two of the best Byzantine Greek manuscripts of Archimedes, both of which have since disappeared. The manuscript, in his own hand, was in the exhibition ''Rome Reborn: The Vatican Library & Renaissance Culture'' at the [[Library of Congress]] in 1993.
+
+== In popular culture ==
+In [[Umberto Eco]]'s puzzle-mystery set in the 1320s, ''[[The Name of the Rose]],'' there is some debate among the monks about Aristotle's ''[[Poetics (Aristotle)|Poetics]]'' (Second Day: Prime). Jorge of Burgos has condemned this book because knowledge of it came through the "infidel [[Moors]]" (as so much of Aristotle had indeed come). But the main character, William of Baskerville, knew that Aristotle's ''Poetics'' had recently been translated directly from Greek into Latin by William of Moerbeke.
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:1215 births]]
+[[Category:1286 deaths]]
+[[Category:Greek–Latin translators]]
+[[Category:13th-century writers in Latin]]
+[[Category:Flemish Dominicans]]
+[[Category:13th-century people from the Principality of Achaea]]
+[[Category:Latin archbishops of Corinth]]
+[[Category:13th-century translators]]
+[[Category:People from Moerbeke]]

@@ -1,0 +1,55 @@
+{{Short description|Italian philosopher}}
+{{More citations needed|date=August 2018}}
+{{Infobox person
+| name               = Antonio Genovesi
+| image              = Antonio Genovesi.jpg
+| birth_date         = 1 November 1713
+| birth_place        = [[Castiglione del Genovesi]], [[Kingdom of Naples]]
+| death_date         = {{death date and age|1769|9|22|1713|11|1|df=y}}
+| death_place        = [[Kingdom of Naples|Naples]]
+}}
+[[File:Genovesi - Lezioni di commercio, 1769 - 191.tif|thumb|''Lezioni di commercio'', 1769.]]
+'''Antonio Genovesi''' (1 November 1713{{snd}}22 September 1769) was an Italian writer on philosophy and political economy.
+
+==Biography==
+Son of Salvatore Genovese, a shoemaker, and Adriana Alfinito of San Mango, Antonio Genovesi was born in [[Castiglione del Genovesi|Castiglione]], near [[Salerno]]<ref>Note: birthplace not to be confused with [[Castiglione di Ravello]], another town in the region.</ref> in 1713.<ref name="Povijest 12">{{cite book |editor1=[[Ivo Goldstein]] |editor2= Kristina Milković |editor3= Enrico Craveto |location= [[Zagreb]] |date=2007 |title=Povijest 12: kolonijalizam i građanske revolucije |publisher=[[Europapress holding]] |pages=17–18 |translator=Ana Bedurina |language=hr |isbn=978-953-300-046-6}}</ref> He began studying early on under the direction of his father and, at fourteen, under Niccolò Genovesi, a relative, and young doctor from [[Kingdom of Naples|Naples]], who taught Antonio peripatetic philosophy for two years, and Cartesian philosophy for another year. When he was eighteen, during his theological studies, he fell in love with a girl from Castiglione, Angela Dragone. His father didn't approve of the couple, and sent his son to a convent of Augustinian monks in Buccino, home of some of his relatives. Here he continued his theological and philosophical studies under the priest Giovanni Abbamonte, focusing his interest on Latin and Greek.
+
+After passing his exam in dogmatic theology, he was ordained deacon on 22 December 1736 in the Cathedral of Salerno, with the attendance of archbishop of Salerno, Fabrizio di Capua. In 1738, Antonio Genovesi, at 25, was ordained a priest.<ref>{{cite encyclopedia |url=https://www.britannica.com/biography/Antonio-Genovesi |title=Antonio Genovesi – Italian philosopher and economist |encyclopedia=Encyclopædia Britannica|date=28 October 2023 }}</ref>
+
+After a few months, he moved to Naples, where he met and befriended [[Giambattista Vico]]. In 1741, he was granted a chair in metaphysics{{mdash}}in later conjunction with the chair of Ethics{{mdash}}at the [[Naples University]]. At this prestigious university, he also was granted the Economics chair, in 1755, the first one of this kind in Italy (the name was originally "Commerce and Mechanics"). At this time, he published the "Lessons in Commerce", in which he declared himself favorable to a more incisive free-trade policy. Among his students were [[Giuseppe Palmieri (economist)|Giuseppe Palmieri]] and [[Francesco Mario Pagano]].
+
+He was a scholar in classical Literature, theology and metaphysical sciences. Later in his life, nonetheless, he started to disdain his old theoretical culture, substituting it gradually with a study focused on practical aims. A follower of Vico's thought, and even more of [[John Locke|Locke]]'s, at least regarding his philosophy, Genovesi managed to keep his minister's functions only due to the intervention of the archbishop of Taranto, Celestino Galiani, and of Pope [[Benedict XIV]] himself.
+
+He died in Naples on September 22, 1769. His body was buried in the church of the monastery of Sant'Eramo Nuovo, thanks to his friend [[Raimondo di Sangro]], prince of San Severo. He was simply placed in the crypt, and therefore we have no specific tomb. Due to renovations in the early 1930s, the remains contained in the crypt (and those of Genovesi) were transferred to the church of Sant'Eramo Vecchio.
+
+==Philosophical thought==
+Those were days of the first ferments of dissent to the spirit and morals of the [[Counter Reformation]]. Anticlerical and Anti-Jesuit sentiments, the reprisal of the struggle for autonomy of the State against any interference from the Church, the first elements of enlightened monarchy and paternalistic regime theories, a new poetic and a more open and courageous critic, are all elements present at this time.
+
+It was in fact the beginning of a true cultural revolution, accomplished in the second half of the eighteenth century by the Enlightenment, a need of complete transformation of the burdens of the [[Ancien Régime]] in all its manifestations. In this cultural atmosphere, the political thought of [[Gaetano Filangieri|Filangieri]] was decisively of a reforming nature: he was called "an anglophile under French clothing" by Paola Zanardi, in her work on the influence of Hume in the Neapolitan Enlightenment.
+
+In his works, Genovesi compromises between idealism and empirism, trying to save the essential religious values of Christian philosophy.
+
+==Economic thought==
+Antonio Genovesi was influenced by the new Italian cultural landscape, and tried through studies and experimentation to describe the concept of public happiness, to be obtained by freeing mankind from its state of "obscurity". He understood the state of cultural, material and spiritual decadence, aftermath of the Neapolitan golden age, and felt the need to intervene in order to restore the former glory of the arts, commerce and agriculture.
+
+This practical rethinking lead him to abandon the study of ethics and philosophy, and turn to economics. In his opinion, economics served governments in increasing their wealth and the power of nations. The chair of Political Economy was instituted specifically for him at the University of Naples by Bartolomeo Intieri. Intieri's palace of Massaquano was for long periods of time the intellectual refuge of Genovesi, where he wrote some of his works.
+
+The core of his economic thought can be found in the ''Lezioni di commercio, O sia di economia civile'', published in 1765, one of the first scientific treatises on Economics. Through this work, Genovesi tried to show a way for reform in some key sectors: education, agriculture (mainly large properties), government protectionism towards commerce and industry.<ref>{{cite journal |last1=Pabst |first1=Adrian |title=Political economy of virtue: civil economy, happiness and public trust in the thought of Antonio Genovesi |journal=The European Journal of the History of Economic Thought |date=2018 |volume=25 |issue=4 |pages=582–604 |doi=10.1080/09672567.2018.1487462|doi-access=free }}</ref>
+
+==Literary style==
+He chose the Italian language for his teaching, due to his passionate civil spirit: he is remembered for being the first professor not to use Latin during his courses, and for having written treatises on metaphysics and logic in Italian. His aim was to spread economic studies among the people, ideally continuing with other humanists in considering these the means to civilization.
+
+==References==
+<references />
+* {{Cite EB1911|wstitle=Genovesi, Antonio|volume=11|page=600}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Genovesi, Antonio}}
+[[Category:1713 births]]
+[[Category:1769 deaths]]
+[[Category:People from the Province of Salerno]]
+[[Category:18th-century Italian economists]]
+[[Category:18th-century Italian philosophers]]
+[[Category:Enlightenment philosophers]]
+[[Category:Scholars from the Kingdom of Naples]]

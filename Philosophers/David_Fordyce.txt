@@ -1,0 +1,40 @@
+{{Short description|Scottish philosopher}}
+{{Use dmy dates|date=December 2020}}
+'''David Fordyce''' (1711, [[Broadford (Aberdeenshire)|Broadford]], [[Aberdeenshire]] – 1751) was a Scottish [[philosopher]], a contributor to the [[Scottish Enlightenment]].
+
+Fordyce was educated at [[Marischal College, Aberdeen]] (MA, 1728). He entered the ministry and returned to Marischal as regent in 1742, teaching Moral Philosophy there until 1751, when he died by drowning at sea. His popular ''Elements of Moral Philosophy'' was first published in [[Robert Dodsley]]'s ''Preceptor'', vol. 2 (1748).<ref name=CHECP>{{Citation | last=Stewart | first=M. A. | year=2006 | contribution=Eilschov, Frederik Christian | editor-last=Haakonssen | editor-first=Knud | title=The Cambridge History of Eighteenth-Century Philosophy | publisher=Cambridge University Press | volume=2 | pages=1171–2}}</ref>
+
+==Life==
+He was born at Broadford, near Aberdeen, and baptised 1 April 1711, the second son of [[George Fordyce the Elder|George Fordyce]] (1663–1733)<ref>{{cite ODNB|id=877|title=Fordyce, David}}</ref> of Broadford, provost of Aberdeen; he was brother to the physician [[William Fordyce]], the minister [[James Fordyce]] and [[Alexander Fordyce]], a banker. After attending Aberdeen grammar school he was entered Marischal College in 1724, where he went through a course of philosophy under [[Daniel Garden]], and took mathematics under John Stewart. He took his M.A. degree in 1728. Being intended for the church he next studied divinity under [[James Chalmers (Teacher)]], and obtained a licence as a preacher; but he never received a call.<ref name="ODNB">{{cite ODNB|id=9877|title=Fordyce, David|first=Alan|last=Ruston}}</ref>
+
+There followed an itinerant period, of nearly a decade. He was in Glasgow, taking part in some intellectual debates as a protégé of [[Thomas Blackwell (scholar)|Thomas Blackwell]], in 1735. He had preoccupations with family business, and then travelled to England, where he associated with [[Philip Doddridge]], whose [[dissenting academy]] was then in [[Northampton]]; he served briefly as a minister in [[Newport Pagnell]], in 1739. Via France he returned to Edinburgh as an assistant at the [[Tron Kirk]].<ref name="ODNB"/>
+
+In 1742 he was appointed professor of moral philosophy in Marischal College. By Dodsley he was employed to write the article ''Moral Philosophy'' for the '''Modern Preceptor'', which was afterwards published separately as ''The Elements of Moral Philosophy'', London, 1754. It reached a fourth edition in 1769, and was translated into German, Zurich, 1757. Fordyce had already attracted some notice for his anonymous ''Dialogues concerning Education'', 2 vols. London, 1745–8.<ref name=DNB>{{cite DNB|wstitle=Fordyce, David}}</ref>
+
+In 1750 he made a tour through France, Italy, and other countries, and was returning home in September 1751 when he lost his life in a storm off the coast of Holland. His death was noticed by his brother James Fordyce in one of his ''Addresses to the Deity''.<ref name=DNB/>
+
+==Works==
+* (anon.), [https://books.google.com/books?id=bYUKMymEIOEC&pg=PP5 ''Dialogues concerning Education''] (1745–48)
+* (anon.) ''Elements of Moral Philosophy'', 1748. Published posthumously under Fordyce's name, 1754 (French trans., 1756; German, 1757). Abridged anonymously in the ''[[Encyclopædia Britannica]]'', 1st ed., 1771.
+* ''Theodorus: A Dialogue concerning the Art of Preaching'', 1752, often reprinted, along with James Fordyce's ' Sermon on the Eloquence, and an Essay on the Action of the Pulpit.'
+* ''The Temple of Virtue: A Dream'', 1757, other editions in 1759 and 1775.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20070206194140/http://oll.libertyfund.org/Home3/Author.php?recordID=0099 David Fordyce] at [http://oll.libertyfund.org/Home3/index.php ''The Online Library of Liberty'']
+* Juan Gomez, [http://blogs.otago.ac.nz/emxphi/2010/11/david-fordyces-advice-to-students/ David Fordyce’s advice to students] at [https://blogs.otago.ac.nz/emxphi/ ''Early Modern Experimental Philosophy'']
+
+;Attribution
+{{DNB|wstitle=Fordyce, David}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fordyce, David}}
+[[Category:1711 births]]
+[[Category:1751 deaths]]
+[[Category:Alumni of the University of Aberdeen]]
+[[Category:Scottish philosophers]]
+[[Category:Enlightenment philosophers]]
+[[Category:People of the Scottish Enlightenment]]

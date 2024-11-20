@@ -1,0 +1,93 @@
+{{short description|American philosopher}}
+
+{{Infobox philosopher
+| region           = 
+| era              = 21st Century Philosophy 
+| image            = Claudia_Card.jpg
+| image_size       = 
+| caption          = 
+| name             = 
+|birth_name=Claudia Falconer Card
+| birth_date       = {{birth date|1940|9|30}}
+| birth_place      = [[Pardeeville, Wisconsin]]
+| death_date       = {{Death date and age|2015|9|12|1940|9|30}}
+| death_place      = [[Fitchburg, Wisconsin]]
+| school_tradition = 
+| main_interests   = 
+| notable_ideas    = 
+| alma_mater       = [[Harvard University]]
+| institutions     = [[University of Wisconsin&ndash;Madison]]
+| influences       = {{hlist| [[Kant]] | [[Schopenhauer]] | [[Nietzsche]] | [[John Rawls]] | [[Marcus George Singer]] | [[Marilyn Frye]] | [[Mary Daly]] | [[Adrienne Rich]] | [[Susan Griffin]]}}
+| influenced       = 
+| signature        = 
+}}
+'''Claudia Falconer Card''' (September 30, 1940 – September 12, 2015) was the Emma Goldman (WARF) Professor of Philosophy at the [[University of Wisconsin&ndash;Madison]], with teaching affiliations in Women's Studies, Jewish Studies, Environmental Studies, and [[LGBT]] Studies.<ref name=Congress>{{cite web |title= Card, Claudia |url= http://id.loc.gov/authorities/names/n90609752.html |publisher= Library of Congress |access-date= 4 March 2015 |quote= data sht. (b. 09-30-40) }}</ref><ref name="Faculty Website">{{cite web|title=Claudia Card, U. W. Madison|date=20 August 2018|url=http://philosophy.wisc.edu/card/}}</ref>
+
+== Education ==
+She earned her B.A. from the University of Wisconsin&ndash;Madison (1962) and her M.A. (1964) and Ph.D. (1969) from [[Harvard University]], where she wrote her dissertation under the direction of [[John Rawls]]. At the University of Wisconsin, she was mentored by Marcus George Singer, who picked her out as an undergraduate to be his T.A. MGS encouraged her to pursue a PhD at Harvard, and fought for her tenure at UW Madison. (source, MG Singer & C. Card conversations and writings.)
+
+== Career ==
+Card joined the faculty in the philosophy department at Wisconsin straight from her Harvard studies. She held visiting professorships at [[The Goethe Institute]] (Frankfurt, Germany), [[Dartmouth College]] (Hanover NH), and the [[University of Pittsburgh]]. She wrote four treatises, edited or co-edited six books, and published nearly 150 articles and reviews. She delivered nearly 250 papers at conferences, colleges, and universities and was featured in 29 radio broadcasts. She delivered the John Dewey Lecture to the Central Division of the [[American Philosophical Association]] (APA) in 2008.<ref>{{cite web|title=Dewey Lectures|url=http://www.apaonline.org/?dewey|website=American Philosophical Association}}</ref>  In April 2011 Card became the President of the APA's Central Division.<ref>{{cite web|title=Past Presidents|url=http://www.apaonline.org/?page=presidents |website=American Philosophical Association}}</ref> Her Presidential Address was "[http://www.apaonline.org/global_engine/download.asp?fileid=A34D2E95-C879-4A4C-908E-1E6DE4EC7ACD Surviving Long-Term Mass Atrocities: U-Boats, Catchers, and Ravens]". In 2013, she was invited to deliver the [[Paul Carus Lectures]], a series of three lectures delivered to the APA; these were to be delivered at the Central Division in 2016.<ref>{{cite web|title=Carus Lectures|url=http://www.apaonline.org/?carus|website=American Philosophical Association}}</ref>
+
+In 2011, Card was awarded the University of Wisconsin's Hilldale Award for excellence in teaching, research and service. In nominating her for this award, her department chair, [[Russ Shafer-Landau]], said, "Her books and articles have become as essential to feminist thinking as ''[[Das Kapital]]'' is to labor theory. You simply can't do feminism without reading Card, and even if you don't read Card, today's feminism bears her mark so deeply that you may not even realize that you have in some other way digested her theoretical perspectives."<ref>{{cite news|title=Four Professors Honored with Hilldale Award |url=http://www.supportuw.org/news-post/professors-honored-with-hilldale-award/ |agency=Wisconsin Alumni Association|date=8 April 2011}}</ref>
+
+== Research ==
+Card's research primarily focused on [[ethics]] and [[social philosophy]], including normative ethical theory; feminist ethics; environmental ethics; and theories of [[justice]], punishment, and [[evil]]. She paid special attention to the ethical theories of [[Immanuel Kant|Kant]], [[Arthur Schopenhauer|Schopenhauer]], and [[Friedrich Nietzsche|Nietzsche]], and had read widely in history, sociology, and survivor testimony. In the 1970s, Card was an active early member of the Midwest Society for Women in Philosophy, and was a pioneer in articulating lesbian [[feminist philosophy]]. She supported a variety of LGBT research and activism throughout her career. In 1996, the [[Society for Women in Philosophy]] (SWIP) elected her Distinguished Philosopher of the Year. Card had previously taken some controversial stances, such as arguing against marriage, on the grounds that it gives each party rights over the person of the other that no one should have, and as being especially dangerous to women within patriarchy. While others were painting rosy pictures of equality in lesbian relationships, Card's realism came through in her articulation of the dangers of lesbian battering.<ref>{{cite journal|last1=Card|first1=Claudia|title=Lesbian Battering|journal=APA Newsletter on Feminism & Philosophy|date=Nov 1988|volume=88|issue=1|pages=3–7}}</ref> Standing up for the oppressed and for persons at risk had marked her work from the start, in her classic and still oft-cited "On Mercy.<ref>{{cite journal|last1=Card|first1=Claudia|title=On Mercy|journal=Philosophical Review|date=April 1972|volume=81|issue=12|pages=182–207|doi=10.2307/2183992|jstor=2183992}}</ref>" Later on in her career, her work turned to understanding the nature of evil.<ref name=Evil>{{cite web|last1=Calder|first1=Todd|title=The Concept of Evil|url=http://plato.stanford.edu/archives/win2013/entries/concept-evil/|website=The Stanford Encyclopedia of Philosophy (Winter 2013 Edition), Edward N. Zalta (ed.)|date=26 November 2013}}</ref> She tackled issues of racism, sexism, oppression, developed a theory of genocide as [[social death]], developed theories of militarism, punishment, and as early as 1996 urged that rape be seen as a weapon of war.<ref>{{cite journal|last1=Card|first1=Claudia|title=Rape as a Weapon of War|journal=Hypatia|date=Fall 1996|volume=11|issue=4|pages=5–18|doi=10.1111/j.1527-2001.1996.tb01031.x|s2cid=144640806 }}</ref>
+
+Prior to her death, Card's work developed a secular conception of evil, which appeared in two volumes of an intended trilogy, ''The Atrocity Paradigm: A Theory of Evil''.<ref>{{cite book |last1=Card |first1=Claudia |title=The Atrocity Paradigm: a theory of evil |date=2002 |publisher=Oxford University Press |location=New York |isbn=0-19-514508-9}}</ref> An issue of ''[[Hypatia: A Journal of Feminist Philosophy|Hypatia]]'' was dedicated to the book.<ref>{{cite book|last1=Veltman|first1=Andrea|last2=Norlock|first2=Kathryn|title=Evil, Political Violence, and Forgiveness: Essays in Honor of Claudia Card|date=2009|publisher=Lexington Books|isbn=978-0739136508}}</ref> These two volumes brought together 20 philosophers commenting on Card's work.
+
+The second book in the trilogy is ''Confronting Evils: Terrorism, Torture, Genocide''.<ref>{{cite book |last1=Card |first1=Claudia |title=Confronting Evils: Terrorism, Torture, Genocide |year=2010 |publisher=Cambridge University Press |location=Cambridge, Eng. |isbn=978-0-521-89961-1 |url-access=registration |url=https://archive.org/details/confrontingevils0000card }}</ref> In it, Card examined her account of atrocity as a paradigm of evil, refining and expanding the views developed in the first book, with attention to structural evil, the role of harm, and the significance of culpability. She argued that evils are inexcusably wrong and that they need not be extraordinary. She also indicated we must pay attention to evils that occur so commonly that we tend to overlook them. She applied, tested, and extended this revised account in examining the moral wrongs of terrorism, torture, and genocide. While she was writing this second book in the trilogy, Card also co-edited a collection of philosophical papers on ''Genocide's Aftermath''.<ref>{{cite book|last1=Card|first1=Claudia|last2=Marsoobian.|first2=Armen|title=Genocide's Aftermath: Responsibility & Repair|date=2007|publisher=Blackwell}}</ref><ref>{{cite web|last1=Roth|first1=John K.|title=Review of "Genocide's Aftermath|date=6 September 2008 |url=https://ndpr.nd.edu/news/23729-genocide-s-aftermath-responsibility-and-repair/|publisher=Notre Dame Philosophical Reviews|access-date=6 September 2008}}</ref>
+
+Prior to her death on September 12, 2015, Card worked extensively on the third book in the trilogy, on ''Surviving Atrocity''. This book built upon her 2010 APA presidential address, and maintained a focus on mass atrocities. The book also included attention to surviving long-term mass atrocities, poverty, and global and local misogyny.
+
+Card introduced the concept of "[[social death]]", originally developed by [[Orlando Patterson]], into the field of genocide studies.<ref name=":0">{{Cite journal |last=Card |first=Claudia |date=2003 |title=Genocide and Social Death |url=http://dx.doi.org/10.1111/j.1527-2001.2003.tb00779.x |journal=Hypatia |volume=18 |issue=1 |pages=63–79 |doi=10.1111/j.1527-2001.2003.tb00779.x |s2cid=143915632 |issn=0887-5367}}</ref> Her approach related the harm of genocidal violence to the destruction of a group's “social vitality”. Social vitality refers to a group's social connections and relationships; which provide meaning to individual life. Social death occurs when the social vitality of the group is eroded and damaged.<ref>{{Cite book |last=Robin. |first=May Schott |url=http://worldcat.org/oclc/938993437 |title=War rape, social death and political evil. |oclc=938993437}}</ref> This connects the violence done to the individual to the harm experienced by the collective.<ref>{{Cite journal |last=Wise |first=Louise E. |date=2017-04-28 |title=Social death and the loss of a 'world': an anatomy of genocidal harm in Sudan |url=http://dx.doi.org/10.1080/13642987.2017.1310464 |journal=The International Journal of Human Rights |volume=21 |issue=7 |pages=838–865 |doi=10.1080/13642987.2017.1310464 |s2cid=152040656 |issn=1364-2987}}</ref> Her approach allows for actions advancing genocide to include various means of both fatal and non-fatal harm; including murder, as well as the destruction of cultural heritage or mass sexual violence.<ref>{{Cite journal |last=Králová |first=Jana |date=2015-07-03 |title=What is social death? |url=http://dx.doi.org/10.1080/21582041.2015.1114407 |journal=Contemporary Social Science |volume=10 |issue=3 |pages=235–248 |doi=10.1080/21582041.2015.1114407 |s2cid=146693915 |issn=2158-2041}}</ref> Card proposed that the final aim of genocide was to enact social death on a group, which does not always necessarily include the mass murder of its members.<ref name=":0" />
+
+== Illness and death ==
+Card was diagnosed with lung cancer in summer 2014, underwent treatment, and seemed to be doing well. However, in early 2015, while attending the Ohio Philosophical Association annual meeting, where she was the invited keynote speaker, at Baldwin Wallace University outside of Cleveland, Ohio, Card collapsed in her hotel room. She was treated at the Cleveland Clinic, where she learned that her cancer had metastasized. After radiation treatment, months of rehabilitation and therapy, Card died, surrounded by her family, on September 12, 2015, at the age of 74, 18 days before her 75th birthday.<ref>{{cite web |url=http://philosophy.wisc.edu/ |title=In Memoriam |website=philosophy.wisc.edu |url-status=dead |archive-url=https://web.archive.org/web/20151025172910/https://philosophy.wisc.edu/ |archive-date=25 October 2015}}</ref>
+
+== Selected bibliography ==
+
+=== Books ===
+* {{cite book | last = Card | first = Claudia | title = Feminist ethics | publisher = University Press of Kansas | location = Lawrence, Kansas | year = 1991 | isbn = 9780700604838 }}
+* {{cite book | last = Card | first = Claudia | title = Lesbian choices | publisher = Columbia University Press | location = New York | year = 1995 | isbn = 9780231080095 }}
+* {{cite book | last = Card | first = Claudia | title = The unnatural lottery: character and moral luck | url = https://archive.org/details/unnaturallottery0000card | url-access = registration | publisher = Temple University Press | location = Philadelphia, Pennsylvania | year = 1996 | isbn = 9781566394536 }}
+* Trilogy:
+::{{cite book | last = Card | first = Claudia | title = The Atrocity Paradigm: a theory of evil | publisher = [[Oxford University Press]] | location = New York | year = 2002 | isbn = 9780195181265 }}
+::{{cite book | last = Card | first = Claudia | title = Confronting evils: terrorism, torture, genocide | publisher = [[Cambridge University Press]] | location = Cambridge, England | year = 2010 | isbn = 9780521899611 | url-access = registration | url = https://archive.org/details/confrontingevils0000card }}
+::{{cite book | last = Card | first = Claudia | title = Surviving atrocity }} (forthcoming)
+
+=== Chapters in books ===
+* {{citation | last = Card | first = Claudia | contribution = Torture in ordinary circumstances | editor-last1 = DesAutels | editor-first1 = Peggy | editor-last2 = Walker | editor-first2 = Margaret Urban | editor-link1 = Peggy DesAutels | editor-link2 = Margaret Urban Walker | title = Moral psychology: feminist ethics and social theory | publisher = Rowman & Littlefield Publishers | pages = 141–162 | location = Lanham, Maryland | year = 2004 | series = Feminist Constructions | isbn = 9780742534803 | postscript = .}}
+
+==References==
+{{reflist|30em}}
+
+== External links ==
+* [http://philosophy.wisc.edu/card/ Profile: Claudia Card (a)] Department of Philosophy, The University of Wisconsin–Madison
+* [https://sites.google.com/site/claudiafalconercard/ Profile: Claudia Card (b)] Department of Philosophy, The University of Wisconsin–Madison
+* {{cite news |title= Fearless Claudia Card defines feminism, confronts evil |url= http://news.ls.wisc.edu/announcements/fearless-claudia-card-defines-feminism-confronts-evil/ |access-date= 4 March 2015 |publisher= News, College of Letters and Science, The University of Wisconsin–Madison |date=9 January 2013}}
+* [https://wisc.academia.edu/ClaudiaCard academia.edu] (downloadable copies of some of Card's work)
+* [http://www.apaonline.org/?carus Carus Lectures] American Philosophical Association
+* {{cite news |last= Mitchell |first= Jessica |title= Genocide definition explored |url= http://thesucrusader.com/?p=1650 |access-date= 4 March 2015 |publisher= The Crusader |date= 25 October 2013 |archive-url= https://web.archive.org/web/20150402100911/http://thesucrusader.com/?p=1650 |archive-date= 2 April 2015 |url-status= dead }}
+
+{{Subject bar|portal1= Biography | portal2 = Philosophy | portal4 = Feminism | portal7 = United States }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Card, Claudia}}
+[[Category:1940 births]]
+[[Category:2015 deaths]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:American women philosophers]]
+[[Category:Scholars of feminist philosophy]]
+[[Category:Harvard Graduate School of Arts and Sciences alumni]]
+[[Category:People from Pardeeville, Wisconsin]]
+[[Category:University of Wisconsin–Madison alumni]]
+[[Category:University of Wisconsin–Madison faculty]]
+[[Category:American academics of women's studies]]
+[[Category:Writers from Wisconsin]]
+[[Category:Deaths from cancer in Wisconsin]]
+[[Category:Presidents of the American Philosophical Association]]
+[[Category:20th-century American women]]
+[[Category:21st-century American women]]

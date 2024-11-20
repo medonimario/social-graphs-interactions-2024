@@ -1,0 +1,30 @@
+{{Short description|5th-century BC Greek political philosopher}}
+'''Callicles''' ({{IPAc-en|ˈ|k|æ|l|ɪ|k|l|iː|z}}; {{langx|el|Καλλικλῆς}};  c. 484 – late 5th century BC) is thought to have been an [[Classical Athens|ancient Athenian]] [[political philosophy|political philosopher]]. He figures prominently in [[Plato]]’s [[Dialogue#Platonic dialogues|dialogue]] ''[[Gorgias (dialogue)|Gorgias]]'',  where he "presents himself as a no-holds-barred, bare-knuckled, clear-headed advocate of ''[[Realpolitik]]''".<ref>{{cite web|url=http://plato.stanford.edu/entries/plato-rhetoric/|title=Plato on Rhetoric and Poetry|publisher=Stanford Encyclopedia of Philosophy|author=Charles L. Griswold}}</ref> In terms of dramatic action, his function in the dialogue is to provide a counter-argument to Plato's philosophical ideas. The absence of contemporaneous sources external to this single text attesting to his existence has suggested to some that he may be no more than a character created by Plato for the dialogue.<ref name="Stanford">{{Citation |last=Barney |first=Rachel |title=Callicles and Thrasymachus |date=2017 |url=https://plato.stanford.edu/archives/fall2017/entries/callicles-thrasymachus/ |work=The Stanford Encyclopedia of Philosophy |editor-last=Zalta |editor-first=Edward N. |edition=Fall 2017 |publisher=Metaphysics Research Lab, Stanford University |access-date=2023-02-18}}</ref> In this vein, it has also been proposed that Callicles may have been devised by Plato as he imagined what kind of intellectual he might have become had he not met with Socrates and undergone his formative philosophical life under the latter's tutelage.<ref name=Stanford/> He is the antithesis to [[Socrates]].<ref name=Stanford/>
+
+Callicles is depicted as a young student of the [[sophist]] [[Gorgias]].  In the dialogue named for his teacher, Callicles argues the position of an [[oligarchic]] [[amoralism|amoralist]], stating that it is natural and just for the strong to dominate the weak and that it is unfair for the weak to resist such oppression by establishing laws to limit the power of the strong.  He asserts that the institutions and moral code of his time were not established by [[Greek god|gods]] but instead by humans who naturally were looking after their own interests. He also shows [[Hedonism|hedonistic]] views with respect to how a superior human should live his life.<ref name="Stanford" />
+
+Despite the scant surviving sources for his thought, he can be viewed as a precursor to [[modern philosophy|modern]] political philosophers, notably including [[Niccolò Machiavelli]]<ref name="GdGdP">George B. Kerferd, [[Hellmut Flashar]]: ''Kallikles aus Acharnai'', in: Hellmut Flashar (ed.): ''Grundriss der Geschichte der Philosophie. Die Philosophie der Antike'', Band 2/1, Schwabe, Basel 1998, p. 85f.</ref> and [[Friedrich Nietzsche]]<ref name="dn">{{Cite journal |last=Urstad |first=Kristian |date=2010 |title=Nietzsche and Callicles on Happiness, Pleasure, and Power |url=https://philpapers.org/rec/URSNAC |journal=Kritike |volume=4 |issue=2 |pages=133–141}}</ref> (although the latter does not explicitly cite him anywhere in his works<ref name="dn" />).
+
+==Callicles in Plato’s ''Gorgias''==
+Callicles poses an [[Immorality|immoralist]] argument that consists of four parts: “(1) a critique of conventional justice, (2) a positive account of ‘justice according to nature’, (3) a theory of the virtues, and (4) a hedonistic conception of the good.”<ref name=Stanford/> For the first aspect of the argument, Callicles supports the ruling of strong individuals and criticizes the weak for trying to undermine them.  He views democracy as “the tyranny of the many over the exceptional individual,” and stresses that citizens should allow themselves to be ruled by these strong individuals.<ref name=Stanford/> This ties into the second part of his argument; Callicles cites nature, saying “[nature] shows that this is what justice has been decided to be: that the superior rule the inferior and have a greater share than they.”<ref name =Stanford/>
+
+This relationship leads Socrates to push Callicles to define what makes certain individuals “superior” to others, the third part of Callicles' argument.  Callicles states that these superior figures must possess “intelligence, particularly about the affairs of the city, and courage.”<ref name=Stanford/> He states that they do not need to have the virtues of justice or moderation, as they are not important like the aforementioned values.  Finally, for the last part of Callicles’ argument, Socrates presses him to state of what it is that these “superior” people deserve more.  Callicles rejects Socrates' ideas of more eating and drinking, but it appears that he does not really know what it is that the superior people deserve more of over the inferior.  Nevertheless, he definitely believes that they should be held in higher regard.<ref name=Stanford/>
+
+==See also==
+*[[List of speakers in Plato's dialogues]]
+*Callicles is also a character in the Latin play [[Truculentus]] by [[Plautus]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://plato.stanford.edu/entries/callicles-thrasymachus/#5 Callicles and Thrasymachus] at Stanford Encyclopedia of Philosophy. 
+*[https://web.archive.org/web/20110629011356/http://www.fordham.edu/philosophy/lc/davenport/ethsum00/callicle.htm Socrates v. Callicles (Archived version)] at Internet Archive. 
+*[https://www.gutenberg.org/cache/epub/1672/pg1672-images.html Gorgias dialogue] at Project Gutenberg.
+
+{{Sophists}}
+{{Authority control}}
+
+[[Category:Sophists]]
+[[Category:Ancient Greek political philosophers]]
+[[Category:5th-century BC Greek philosophers]]

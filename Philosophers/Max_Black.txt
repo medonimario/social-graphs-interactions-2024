@@ -1,0 +1,102 @@
+{{short description|British-American philosopher (1909–1988)}}
+{{other people}}
+{{More footnotes|date=July 2011}}
+{{Infobox philosopher
+| name             = Max Black
+| image            = Max Black philosopher.jpg
+| alt              =
+| caption          =
+| other_names      =
+| birth_name       = <!-- only use if different from name -->
+| birth_date       = {{birth date|1909|2|24}}
+| birth_place      = [[Baku]], [[Russian Empire]]
+| death_date       = {{death date and age|1988|08|27|1909|2|24}}
+| death_place      = [[Ithaca, New York]], U.S.
+| death_cause      =
+| residence        =
+| nationality      = British<br />American
+| alma_mater       = [[Queens' College, Cambridge]]
+| notable_works    = ''The Identity of Indiscernibles''
+| awards           =
+| signature        =
+| signature_size   =
+| signature_alt    =
+| region           = [[Western philosophy]]
+| era              = [[20th-century philosophy]]
+| school_tradition = [[Analytic philosophy]]
+| institutions     = [[Institute of Education]]<br>[[University of Illinois at Urbana–Champaign|University of Illinois]]<br>[[Cornell University]]
+| main_interests   = [[Philosophy of language]]<br>[[Philosophy of mathematics]]<br>[[Philosophy of science]]<br> [[Philosophy of art]]
+| notable_ideas    = Criticism of [[Identity of indiscernibles|Leibniz' law]]
+| influences       = [[Bertrand Russell]], [[Ludwig Wittgenstein]], [[G. E. Moore]], [[Frank P. Ramsey]], [[L. Susan Stebbing]]<ref>{{cite web|url=http://plato.stanford.edu/entries/emily-elizabeth-constance-jones/ |title=Emily Elizabeth Constance Jones (Stanford Encyclopedia of Philosophy) |website=Plato.stanford.edu |access-date=2016-04-28}}</ref>
+| influenced       = [[Keith Donnellan]], [[Anton Friedrich Koch]]
+| website          = <!-- {{URL|example.com}} -->
+}}
+
+'''Max Black''' (February 24, 1909 – August 27, 1988) was an [[Azerbaijan]]-born British-American philosopher who was a leading figure in [[analytic philosophy]] in the years after [[World War II]]. He made contributions to the [[philosophy of language]], the [[philosophy of mathematics]] and [[philosophy of science|science]], and the [[philosophy of art]], also publishing studies of the work of philosophers such as [[Gottlob Frege|Frege]]. His translation (with [[Peter Geach]]) of Frege's published philosophical writing is a classic text.
+
+==Early life and education==
+Black was born on February 24, 1909, in [[Baku]], in present-day [[Azerbaijan]]. He is of [[Jewish]] descent.<ref>''[[Encyclopaedia Judaica]]'', 2nd ed.</ref> In 1912, he moved with his family to [[London]], where he grew up. 
+
+He studied mathematics at [[Queens' College, Cambridge|Queens' College]] at the [[University of Cambridge]], where he developed an interest in the [[philosophy of mathematics]]. [[Bertrand Russell]], [[Ludwig Wittgenstein]], [[G. E. Moore]], and [[Frank P. Ramsey]] were all at Cambridge at that time, and their influence on Black may have been considerable. He graduated in 1930, and was awarded a fellowship to study at [[Göttingen]] for a year.
+
+==Career==
+From 1931 to 1936, he was mathematics master at the [[Royal Grammar School, Newcastle]].
+
+His first book was ''The Nature of Mathematics'' (1933), an exposition of ''[[Principia Mathematica]]'' and of current developments in the philosophy of mathematics.
+
+Black made notable contributions to the metaphysics of [[Identity (philosophy)|identity]]. In his "The Identity of Indiscernibles", Black presents an objection to [[Identity of indiscernibles|Leibniz' Law]] by means of a hypothetical scenario in which he conceives two distinct spheres having [[Similarity (philosophy)#Exact similarity and identity|exactly the same properties]], thereby contradicting Leibniz' second principle in his formulation of "The Identity of Indiscernibles". By virtue of there being two objects, albeit with identical properties, the existence of two objects, even in a void, denies their identicality.
+
+He lectured in mathematics at the [[Institute of Education]] in London from 1936 to 1940. In 1940 he moved to the [[United States]] and joined the Philosophy Department at the [[University of Illinois at Urbana–Champaign]]. In 1946, he accepted a professorship in philosophy at [[Cornell University]]. In 1948, he became a [[naturalized citizen]] of the United States. Black advised the philosophy dissertation of American novelist [[William H. Gass]]. He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1963.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=[[American Academy of Arts and Sciences]] |access-date=July 26, 2011}}</ref> 
+
+==Death==
+Black died in [[Ithaca, New York]] age 79. His younger brother was the architect [[Misha Black]].
+
+==Selected bibliography==
+* Max Black, (1933) ''[[iarchive:in.ernet.dli.2015.221610|The Nature of Mathematics: A Critical Survey]]''<ref>{{Cite journal |last=Smith |first=P. A. |date=September 1934 |title=Review: Max Black, The Nature of Mathematics |url=https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society/volume-40/issue-9.P1/Review-Max-Black-The-Nature-of-Mathematics/bams/1183497617.full |journal=[[Bulletin of the American Mathematical Society]] |volume=40 |issue=9.P1 |pages=646 |doi=10.1090/S0002-9904-1934-05915-9 |issn=0002-9904|doi-access=free }}</ref> 
+* Black, Max (1937). "Vagueness: An exercise in logical analysis". ''Philosophy of Science'' '''4''': 427–55. Reprinted in R. Keefe, P. Smith (eds.): ''Vagueness: A Reader'', MIT Press 1997, {{ISBN|978-0262611459}}
+* Black, Max (1938). "The Evolution of Positivism" ''[[Modern Quarterly (British journal)|Modern Quarterly]]'', Vol. 1. No. 1. 
+* Black, Max (1946). ''[[iarchive:criticalthinking0000blac|Critical Thinking, An Introduction to Logic and Scientific Method]]'', Prentice-Hall Inc. Publishers, Prentice-Hall Philosophy Series, New York
+* Black, Max (1949). ''Language and philosophy: Studies in method'', Ithaca: [[Cornell University Press]]. {{ISBN?}}
+* Black, Max (1954). "Metaphor", ''Proceedings of the Aristotelian Society'', '''55''', pp.&nbsp;273–94.
+* Black, Max (1954). ''Problems of Analysis: Philosophical Essays'', Cornell University Press
+* Black, Max. "Linguistic relativity: The views of benjamin lee whorf", ''The Philosophical Review.'' Vol. 68, No. 2, (April 1959). pp. 228–38.
+* Black, Max (1962). ''Models and metaphors: Studies in language and philosophy'', Ithaca: Cornell University Press. {{ISBN?}}
+* Black, Max (1964). ''A Companion to Wittgenstein's Tractatus'', Cornell University Press
+* Black, Max (1968). ''The Labyrinth of Language'', Praeger
+* Black, Max (1970). ''Margins of Precision: Essays in Logic and Language'', Cornell University Press
+* Black, Max (1975). ''Caveats and Critiques: Philosophical Essays in Language, Logic, and Art'', Cornell University Press
+* Black, Max (1979). "More about Metaphor", in A. Ortony (ed): ''Metaphor & Thought''. {{ISBN?}}
+* Black, Max (1981). ''Language and Philosophy: Studies in Method'', Praeger
+* Black, Max (1985). ''The Prevalence of Humbug and Other Essays'', Cornell University Press
+* Black, Max (1990). ''Perplexities: Rational Choice, the Prisoner's Dilemma, Metaphor, Poetic Ambiguity, and Other Puzzles'', Cornell University Press
+
+==References==
+{{Reflist}}
+
+==External links==
+* [[M. H. Abrams|M.H. Abrams]], [[Sydney Shoemaker|Sydney S. Shoemaker]], Benjamin M. Siegel, Milton E. Konvitz, [https://ecommons.cornell.edu/bitstream/handle/1813/19225/Black_Max_1988.pdf?sequence=2&isAllowed=y "Max Black"] Cornell University Memorial Statement (1998)
+* [http://www-groups.dcs.st-and.ac.uk/history/Biographies/Black.html O'Connor, J.J. and Robertson, E.F., "Max Black: Biography", School of Mathematics and Statistics, University of St Andrews, Scotland.]
+* [https://web.archive.org/web/20070927042734/http://www.gap-system.org/~history/Biographies/Black.html Biography] at the MacTutor History of Mathematics Archive
+* [http://rmc.library.cornell.edu/EAD/htmldocs/RMA02466.html Guide to the Max Black Papers], Cornell University Library
+* [http://www.ditext.com/black/humbug.html The Prevalence of Humbug], The Prevalence of Humbug and Other Essays (Cornell University Press, 1983).
+
+{{Authority control}}
+
+{{DEFAULTSORT:Black, Max}}
+[[Category:1909 births]]
+[[Category:1988 deaths]]
+[[Category:Academics of the UCL Institute of Education]]
+[[Category:Alumni of Queens' College, Cambridge]]
+[[Category:Analytic philosophers]]
+[[Category:Emigrants from the Russian Empire to the United Kingdom]]
+[[Category:British emigrants to the United States]]
+[[Category:British Jews]]
+[[Category:Naturalized citizens of the United States]]
+[[Category:Cornell University faculty]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Jewish philosophers]]
+[[Category:University of Illinois Urbana-Champaign faculty]]
+[[Category:Philosophers of language]]
+[[Category:Philosophers of science]]
+[[Category:Metaphor theorists]]
+[[Category:Writers from Baku]]

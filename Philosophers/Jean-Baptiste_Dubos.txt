@@ -1,0 +1,85 @@
+{{Short description|French author, diplomat and art critic}}
+{{Infobox writer
+| embed            = 
+| honorific_prefix = 
+| name             = Jean-Baptiste Dubos
+| honorific_suffix = 
+| image            = du bos.jpg
+| image_size       = 
+| image_upright    = 
+| alt              = 
+| native_name      = 
+| native_name_lang = 
+| pseudonym        = 
+| birth_name       = 
+| birth_date       = 14 December 1670
+| birth_place      = [[Beauvais]], France
+| death_date       = 23 March 1742
+| death_place      = [[Paris]], France
+| resting_place    = 
+| occupation       = Diplomat, author
+| language         = 
+| nationality      = French
+| citizenship      = 
+| education        = [[University of Paris]] ([[Master of Arts|MA]], [[Bachelor of Theology|BTh]])
+| alma_mater       = 
+| period           = [[Age of Enlightenment]]
+| genre            = <!-- or: | genres = -->
+| subject          = <!-- or: | subjects = -->
+| movement         = 
+| notable_works    = ''Réflexions critiques sur la poésie et sur la peinture'' (1719); ''L'Histoire de la Ligue de Cambray'' (1709-1728)
+| spouse           = <!-- or: | spouses = -->
+| partner          = <!-- or: | partners = -->
+| children         = 
+| relatives        = 
+| awards           = 
+| signature        = 
+| signature_alt    = 
+| years_active     = 
+| module           = 
+| website          = <!-- {{URL|example.org}} -->
+| portaldisp       = <!-- "on", "yes", "true", etc.; or omit -->
+}}
+
+'''Jean-Baptiste Dubos''' ({{IPA|fr|dybo|lang}}; 14 December 1670 – 23 March 1742), also referred to as '''l'[[Abbé]] Du Bos''', was a French author. He was also a diplomat and an art critic.
+
+==Life==
+Dubos was born in [[Beauvais]].<ref name=":0">{{Cite book|last=Thomas|first=Joseph|title=The Universal Dictionary of Biography and Mythology: Clu-hys|publisher=Cosimo Classics|year=2010|isbn=978-1-61640-071-2|location=New York, NY|pages=cxix|language=en}}</ref> He was educated in Paris and received a Master of Arts in 1688 and a Bachelor of Theology in 1692.<ref>{{cite web |last1=Young |first1=James |last2=Cameron |first2=Margaret|author2-link=Margaret Cameron (philosopher) |title=Jean-Baptiste Du Bos |url=https://plato.stanford.edu/entries/du-bos/ |website=plato.stanford.edu |publisher=Stanford Encyclopedia of Philosophy |access-date=25 April 2020}}</ref> After studying theology, he gave it up in favour of public law and politics. He was employed by M. de Torcy, minister of foreign affairs, and by the regent and Cardinal Dubois in several secret missions.<ref name=":0" /> He was rewarded with a pension and other advantages. Having obtained these, he retired from political life and devoted himself to history and literature. During his travels as French envoy, he cultivated connections with contemporary prominent thinkers.<ref name=":1">{{Cite book|last=Lauzon|first=Matthew|title=Signs of Light: French and British Theories of Linguistic Communication, 1648–1789|publisher=Cornell University Press|year=2010|isbn=978-0-8014-4847-8|location=Ithaca, NY|pages=118|language=en}}</ref> These included [[Pierre Bayle]], [[Jean Chardin]], and [[John Locke]], who he became close friends with.<ref name=":1" />
+
+Dubos gained such distinction as an author that in 1720 he was elected a member of the [[Académie française]], and, in 1723, was appointed to the position of perpetual secretary in succession to [[André Dacier]].<ref>{{cite journal |title=Jean-Baptiste Dubos |journal=The Orchestra |date=23 July 1869 |volume=12 |issue=304 |pages=279}}</ref> He died in Paris, repeating the remark, "Death is a law, not a punishment."
+
+==Works==
+
+Dubos' first work was ''L'Histoire des quatre Gordiens prouvée et illustrée par des médailles'' (Paris, 1695), which, in spite of its ingenuity, did not succeed in convincing most people. At the beginning of the war of 1701 he was charged with different negotiations (both in the [[Netherlands]] and England). In an attempt to persuade those countries to adopt a policy of peace, he published a work entitled ''Les Intéréts de l'Angleterre mal entendus dans la guerre présente'' (Amsterdam, 1703). This work contained indiscreet disclosures and predictions that were not fulfilled. The enemy took advantage of the work, and a wag took occasion to remark that the title ought to be read thus: ''Les Intérêts de l'Angleterre mal entendus par l'abbé Dubos''. It is remarkable as containing a distinct prophecy of the revolt of the American colonies from Great Britain.
+
+Dubos' next work was ''L'Histoire de la Ligue de Cambray'' (Paris, 1709, 1728 and 1785, 2 vols.), a full, clear and interesting history, commended by [[Voltaire]].<ref name=":0" /> In 1734 he published his ''Histoire critique de l'établissement de la monarchie française dans les Gaules'' (3 vols. 4to)--a work the object of which was to prove that the Franks had entered Gaul, not as conquerors, but at the request of the nation, which, according to him, had called them in to govern it. This system, though unfolded with a degree of skill and ability that, at first, procured many zealous partisans, was attacked by [[Charles de Secondat, Baron de Montesquieu|Montesquieu]] at the end of the thirtieth book of the ''Esprit des lois''.
+
+Dubos' principle work, ''Réflexions critiques sur la poésie et sur la peinture'', was published for the first time in 1719 (2 vols, but often reprinted in three volumes). In France it was considered an important text for the study of aesthetics and was a popular textbook until the 19th century.<ref>{{cite web |last1=Griener |first1=Pascal |title=Dubos [Du Bos], Jean-Baptiste, Abbé |url=http://www.oxfordartonline.com/subscriber/article/grove/art/T023814 |website=www.oxfordartonline.com |publisher=Oxford University |access-date=25 April 2020}}</ref> Like his history of the [[League of Cambray]], it was highly praised by [[Voltaire]]. The work was rendered more remarkable by the fact that its author had no practical acquaintance with any one of the arts whose principles he discussed. This work has been noted for elevating criticism to a place among the arts.<ref>{{Cite book|last=Warner|first=Charles Dudley|title=A Library of the World's Best Literature - Ancient and Modern - Vol.XLII (Forty-Five Volumes); Dictionary of Authors (A-J)|publisher=Cosimo, Inc.|year=2008|isbn=978-1-60520-249-5|location=New York|pages=153|language=en}}</ref> Besides the works above enumerated, a manifesto of [[Maximilian II Emanuel, elector of Bavaria]], against the [[Leopold I, Holy Roman Emperor|emperor Leopold]] (relative to the succession in Spain) has been attributed to Dubos from the excellence of the style.
+
+==Excerpts==
+
+<blockquote>"[O]ne of the greatest wants of man is to have his mind incessantly occupied. The heaviness which quickly attends the inactivity of the mind, is a situation so very disagreeable to man, that he frequently chooses to expose himself to the most painful excesses, rather than be troubled with it." ''Critical Reflections'', I. I {{Cn|date=August 2024}}</blockquote>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{EB1911|wstitle=Dubos, Jean-Baptiste}}
+*[https://archive.org/stream/criticalreflecti01dubouoft#page/n5/mode/2up Critical Reflections] – 1748 English translation by Thomas Nugent of Dubos's ''Réflexions critiques sur la poésie et sur la peinture''.
+* [http://www.c18th.com/author-works.aspx?id=101 An incomplete bibliography with some notes on the works.]
+
+{{Académie française Seat 39}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dubos, Jean-Baptiste}}
+[[Category:1670 births]]
+[[Category:1742 deaths]]
+[[Category:People from Beauvais]]
+[[Category:Members of the Académie Française]]
+[[Category:18th-century French writers]]
+[[Category:18th-century French male writers]]
+[[Category:18th-century French historians]]
+[[Category:French literary theorists]]
+[[Category:French philosophers of art]]
+[[Category:French male non-fiction writers]]

@@ -1,0 +1,97 @@
+{{Short description|Scottish philosopher (1855-1935)}}
+{{Use dmy dates|date=November 2020}}
+'''William Ritchie Sorley''', [[Fellow of the British Academy|FBA]] ({{IPAc-en|ˈ|s|ɔr|l|i}}; 4 November 1855 – 28 July 1935), usually cited as '''W. R. Sorley''', was a Scottish philosopher. A [[Gifford Lecturer]], he was one of the [[British Idealist]] school of thinkers, with interests in [[ethics]]. He was opposed to women being admitted as students to the [[University of Cambridge]].
+
+==Life and career==
+William Ritchie Sorley was born in [[Selkirk, Scottish Borders|Selkirk]], Scotland, the son of Anna Ritchie and William Sorley, a [[Free Church of Scotland (1843-1900)|Free Church of Scotland]] minister.  He was educated first at the [[University of Edinburgh]], where he took a degree in philosophy and mathematics. This was followed by [[New College, Edinburgh]] where he studied theology with the intention of training for the church.<ref>{{cite journal|last1=Stout|first1=G.F.|title=W. R. Sorley (1855-1935)|journal=Mind|date=1936|volume=45|issue=177|pages=123–125|doi=10.1093/mind/XLV.177.123|jstor=2250299}}</ref> He gave this up, and after winning the Shaw Fellowship he spent a year at [[Trinity College, Cambridge]] where he took Part II of the Moral Sciences Tripos.<ref>{{acad|id=SRLY880WR|name=Sorley, William Ritchie}}</ref> He subsequently spent several years at Cambridge where he was lecturer and in 1883 he was elected a Fellow at Trinity.
+
+In 1886, he was appointed to a post at [[University College London]]. After two years he was appointed to a professorship at [[Cardiff University|University College Cardiff]], succeeding [[Andrew Seth Pringle-Pattison|Andrew Seth]] as Professor of Logic and Philosophy.<ref>{{cite web|title=SORLEY, William Ritchie|url=http://www.ukwhoswho.com/view/article/oupww/whowaswho/U217373|website=Who was Who|access-date=20 April 2017}}</ref>
+
+In 1894 he was appointed [[Regius Professor of Moral Philosophy]] at the [[University of Aberdeen]], and finally in 1900 he succeeded [[Henry Sidgwick]] in the [[Knightbridge Professor of Philosophy|Knightbridge Professorship]] at the [[University of Cambridge]]. He held this post until his retirement in 1933.<ref>{{cite book|last1=Mander|first1=W.J.|editor1-last=Brown|editor1-first=Stuart|chapter=Sorley, William Ritchie (1855-1935)|title=Dictionary of Twentieth Century British Philosophers|date=2005|publisher=Thoemmes|page=983}}</ref> He received the [[honorary degree]] ''[[Legum Doctor]]'' (LLD) from the [[University of Edinburgh]] in March 1900,<ref>{{Cite newspaper The Times |title=University intelligence|date=3 March 1900 |page=8 |issue=36080}}</ref> and was made a Fellow of the British Academy in 1905.
+
+Sorley's main philosophical interest was the place of moral values in the constitution of the universe. He thought that moral values are objective, a view he explains in his [[Gifford lectures]] and in his early work on the ethics of naturalism. What is morally good is what we are morally bound to pursue within our ability to do so. If it does not lie within our power to act in a certain way, then we are not bound to pursue it and it cannot be a moral value.
+
+He is now remembered for his [https://archive.org/details/ahistoryofenglis00sorluoft ''A History of British Philosophy to 1900''], published in 1920, with its idiosyncratic slant, as a retrospective view from the point of view of British Idealism. Among his other published works are: [https://archive.org/details/ethicsofnaturali029110mbp ''The Ethics of Naturalism: a Criticism''] (second edition 1904), [https://archive.org/details/themorallifeandm00sorluoft ''The Moral Life and Moral Worth''] (1911), and his [[Gifford Lectures]] which he gave in 1914-15 and were published under the title [https://archive.org/details/moralvaluesideao00sorlrich ''Moral Values and the Idea of God''] (second edition 1921). In his obituary, J.H. Muirhead said of this: "I can remember the sense of freshness and power that this book gave us all at the time".<ref>{{cite journal|last1=Muirhead|first1=J.H.|title=William Ritchie Sorley|journal=Philosophy|date=1936|volume=11|issue=41|pages=120–121|doi=10.1017/S0031819100033465|s2cid=170798899 }}</ref> The poet [[Charles Sorley]] was his son.
+
+During the long argument about admitting women as students at Cambridge, there were votes by the Senate in 1897 and again in 1920, following intense public debates among lecturers and undergraduates, and the circulation of many flysheets propounding arguments for and against. Sorley was persistently hostile to any presence of women in Cambridge and argued that they were not after equality but sought power and would damage university life. He authored several flysheets with Prof. Ridgeway - both wanted women totally excluded from Cambridge and instead a separate women's university set up for them.<ref>{{cite book|last1=McWilliams-Tullberg|first1=Rita|title=Women at Cambridge: A Men's University, though of a Mixed Type|url=https://archive.org/details/womenatcambridge0000mcwi|url-access=registration|publisher=Gollancz|date=1975|isbn=9780575019690 }}</ref>
+
+{{Election box begin |
+ |title=[[1922 United Kingdom general election|General election 1922]]: Cambridge University (2 seats)}}
+{{Election box candidate with party link|
+ |party = Unionist Party (UK)
+ |candidate = '''[[John Rawlinson (footballer and MP)|John Rawlinson]]'''
+ |votes = 4,192
+ |percentage = 49.39
+ |change = +14.23
+}}
+{{Election box candidate with party link|
+ |party = Independent Liberal
+ |candidate = '''[[J. R. M. Butler]]'''
+ |votes = 3,453
+ |percentage = 39.86
+ |change = +39.86
+}}
+{{Election box candidate with party link|
+ |party = Unionist Party (UK)
+ |candidate = William Ritchie Sorley
+ |votes = 1,018
+ |percentage = 11.75
+ |change = +11.75
+}}
+{{Election box quota|
+ |quota = 2,888
+}}
+{{Election box Registered electors|
+ |reg. electors = 13,592
+}}
+{{Election box turnout|
+ |votes = 8,663
+ |percentage = 63.74
+ |change =
+}}
+{{Election box gain with party link|
+ |winner = Independent Liberal
+ |loser  = Unionist Party (UK)
+ |swing = ''N/A''
+}}
+{{Election box end}}
+
+He died in Cambridge on 28 July 1935 aged 79, following an illness from [[pneumonia]].
+
+==Publications==
+
+* ''The Ethics of Naturalism'' (Edinburgh, 1885)
+* ''Recent Tendencies in Ethics'' (Edinburgh, 1904)
+* ''The Moral Life and Moral Worth'' (Cambridge, 1911)
+* [https://books.google.com/books/about/A_History_of_English_Philosophy.html?id=YCczAQAAMAAJ ''A History of English Philosophy''] (Cambridge, 1920)<ref name="LamprechtSorley1920">{{cite journal|last1=Lamprecht|first1=Sterling P.|title=Review of ''A History of English Philosophy'' by W. R. Sorley|journal=The Journal of Philosophy, Psychology and Scientific Methods|volume=17|issue=24|year=1920|pages=667|issn=0160-9335|doi=10.2307/2940685|jstor=2940685|url=https://archive.org/details/ahistoryofenglis00sorluoft|hdl=2027/mdp.39015005115954|hdl-access=free}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Wikisource author-inline}}
+* {{Gutenberg author | id=4397}}
+* {{Internet Archive author |sname=William Ritchie Sorley}}
+* [http://www.giffordlectures.org/lecturers/william-ritchie-sorley ''William Ritchie Sorley''] some biographical notes and Lectures available from the [[Gifford Lectures]] website
+
+{{Regius Professors of Moral Philosophy (Aberdeen)}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sorley, William Ritchie}}
+[[Category:1855 births]]
+[[Category:1935 deaths]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Idealists]]
+[[Category:19th-century Scottish philosophers]]
+[[Category:20th-century Scottish historians]]
+[[Category:People from Selkirk, Scottish Borders]]
+[[Category:20th-century Scottish philosophers]]
+[[Category:Humboldt University of Berlin alumni]]
+[[Category:Academics of Cardiff University]]
+[[Category:Academics of the University of Aberdeen]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Fellows of Trinity College, Cambridge]]
+[[Category:Fellows of the British Academy]]
+[[Category:Conservative Party (UK) parliamentary candidates]]
+[[Category:Knightbridge Professors of Philosophy]]
+[[Category:Scottish historians of philosophy]]

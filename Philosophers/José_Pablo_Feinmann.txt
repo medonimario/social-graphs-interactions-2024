@@ -1,0 +1,82 @@
+{{Short description|Argentine philosopher (1943–2021)}}
+{{sources|date=March 2014}}
+{{Use dmy dates|date=December 2021}}
+{{Infobox person
+| name = José Pablo Feinmann
+| image              = [[File:Retratro Juan Pablo Feimann - Foro Tucumán (19498874006) (cropped).jpg|200px|Retratro Juan Pablo Feimann - Foro Tucumán (19498874006) (cropped)]]
+| caption            = José Pablo Feinmann in 2015
+| birth_date = {{birth date|df=yes|1943|03|29}}
+| birth_place = [[Buenos Aires]], Argentina
+| death_date = 17 December 2021 (aged 78)
+| death_place = [[Buenos Aires]], Argentina
+| othername =
+| occupation = Philosopher<br />writer<br />playwright<br />TV host
+| yearsactive = 1970–2021
+| spouse = {{Plainlist|
+* [[Marta Zavattaro]] (1966-1982)
+* [[María Julia Bertotto]] (1988-)}}
+| children = Virginia and Verónica
+| website = [http://feinmann.online Official Site]
+}}
+
+'''José Pablo Feinmann''' (29 March 1943 – 17 December 2021) was an Argentine philosopher, writer, [[playwright]], and television host.<ref>[http://www.mertin-litag.de/authors_htm/Feinmann-J.htm José Pablo Feinmann]</ref> He also penned several screenplays for domestic film production and international coproductions.
+
+Born to Abraham and Elena (de Albuquerque) Feinmann,<ref>[https://www.pagina12.com.ar/diario/contratapa/13-117422-2008-12-28.html Las Navidades de Bongo]</ref> Feinmann was a [[Peronist Youth]] militant during the 1970s, considering [[Peronism]] as a real mass movement with the potential to change the country for the better. Nevertheless, he opposed armed violence to achieve political ends, criticizing the [[foco]] theory of [[Che Guevara]] which, years after the [[Cuban Revolution]], became popular in some sectors of the Marxist-Peronist movement, such as [[Montoneros]]. 
+
+Feinmann abandoned Peronism in the 1990s, during the [[neoliberal]] government of [[Carlos Menem]]. He later became a supporter of [[Left-wing politics|left-wing]] Peronist president [[Cristina Fernandez]].
+
+==Death==
+Feinmann died from complications of a stroke on 17 December 2021, at the age of 78.<ref>{{cite news |title=Murió José Pablo Feinmann, escritor y filósofo de lectura imprescindible |url=https://www.pagina12.com.ar/390085-murio-jose-pablo-feinmann-escritor-y-filosofo-de-lectura-imp |access-date=18 December 2021 |publisher=Página 12 |date=17 December 2021}}</ref>
+
+== Works ==
+=== Novels ===
+* ''[[Últimos días de la víctima (novel)|Últimos días de la víctima]]'' (1979)
+*''El ejército de ceniza'' (1986)
+* ''La Astucia de la Razón'' (1990)
+* ''El cadáver imposible'' (1992)
+* ''Los crímenes de Van Gogh'' (1994)
+* ''[[La sombra de Heidegger]]'' (2005)
+* ''Timote: secuestro y muerte del general Aramburu'' (2009)
+* ''Carter en New York'' (2009)
+* ''Carter en Vietnam'' (2009)
+
+=== Screenplays ===
+* ''[[En retirada]]''
+* ''[[At the Edge of the Law]]''
+* ''[[Eva Perón: The True Story]]''
+* ''[[Ángel, la Diva y Yo]]''
+* ''[[El Amor y el Espanto]]''
+* ''[[Ay Juancito]]''
+
+=== TV ===
+* ''El cine por asalto'' (2007)
+* ''Cine contexto'' (2008–2010)
+* ''Filosofía, aquí y ahora'' (2009– ?)<ref>''[http://www.encuentro.gov.ar/sitios/encuentro/Programas/detallePrograma?rec_id=50205&capitulo_id=104210 Filosofía, aquí y ahora] {{webarchive|url=https://web.archive.org/web/20150924000520/http://www.encuentro.gov.ar/sitios/encuentro/Programas/detallePrograma?rec_id=50205&capitulo_id=104210 |date=24 September 2015 }}'' [[Encuentro|Canal Encuentro]] {{in lang|es}} Retrieved on 29 April 2012</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*{{commonscat-inline}}
+*{{wikiquotelang|es|José Pablo Feinmann}}
+* {{IMDb name|0270734}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Feinmann, Jose Pablo}}
+[[Category:1943 births]]
+[[Category:2021 deaths]]
+[[Category:Argentine essayists]]
+[[Category:Argentine male essayists]]
+[[Category:Argentine people of German-Jewish descent]]
+[[Category:Argentine people of Brazilian descent]]
+[[Category:People of Brazilian-Jewish descent]]
+[[Category:Argentine male novelists]]
+[[Category:Argentine educators]]
+[[Category:Argentine philosophers]]
+[[Category:Argentine television personalities]]
+[[Category:Peronists]]
+[[Category:20th-century Argentine novelists]]
+[[Category:21st-century Argentine novelists]]
+[[Category:21st-century Argentine male writers]]
+[[Category:People from Buenos Aires]]

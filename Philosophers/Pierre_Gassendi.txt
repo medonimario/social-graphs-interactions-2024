@@ -1,0 +1,204 @@
+{{Short description|French priest, astronomer, and mathematician (1592–1655)}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[17th-century philosophy]]
+|image            = PierreGassendi.jpg
+|caption          = Pierre Gassendi<br />by [[:fr:Louis-Édouard Rioult|Louis-Édouard Rioult]]
+|honorific_prefix = [[The Reverend]]
+|name             = Pierre Gassendi
+|birth_date       = {{birth date|df=yes|1592|01|22}}
+|birth_place      = [[Champtercier]], [[Provence]]
+|death_date       = {{death date and age|df=yes|1655|10|24|1592|01|22}}
+|death_place      = [[Paris]], [[Kingdom of France|France]]
+|education        = [[University of Aix-en-Provence]]<br />[[University of Avignon]] <small>([[Th.D.]], 1614)</small>
+|institutions     = [[University of Aix-en-Provence]]<br />[[Collège de France|Collège Royal]]
+|school_tradition = 
+{{Flatlist}}
+*[[Aristotelianism]]
+*[[Epicureanism]]
+*[[Atomism]]
+*[[Empiricism]]
+*[[Nominalism]]<ref name=SEP/>
+*[[Materialism]]<ref name=SEP/>
+*[[Corpuscularianism]]<ref name=:0>[[Vere Claiborne Chappell]] (ed.), ''The Cambridge Companion to Locke'', Cambridge University Press, 1994, p. 56.</ref>
+*[[Theological voluntarism]]<ref>[[Peter Harrison (historian)|Peter Harrison]], ''The Fall of Man and the Foundations of Science'', Cambridge University Press, p. 220: "There has been considerable discussion in the secondary literature about the impact of Boyle's theological voluntatism on his approach to natural philosophy."</ref> 
+{{Endflatlist}}
+|main_interests   = [[Philosophical logic]], [[physics]], [[ethics]]
+|notable_ideas    = ''Calor vitalis'' (vital heat)
+|influences       = [[Aristotle]], [[Socrates]], [[Plato]], [[Epicurus]], [[Erasmus]], [[Michel De Montaigne]], [[Rodrigo de Arriaga]]<ref>{{harnvb|Caruso|1981|page=443}}.</ref>
+|influenced       = [[Walter Charleton]], [[Thomas Hobbes]], [[John Locke]], [[Gottfried Leibniz]], [[Voltaire]], [[Jean-Jacques Rousseau]], [[David Hume]], [[Edward Gibbon]], [[Edmund Burke]], [[Joseph De Maistre]], [[Karl Marx]], [[Sigmund Freud]], [[Charles Darwin]], [[Friedrich Nietzsche]], [[François Bernier|Bernier]],
+|signature        =
+}}
+{{Catholic philosophy}}
+
+'''Pierre Gassendi''' ({{IPA|fr|pjɛʁ gasɛ̃di|lang}};<ref>{{cite book |author=Léon Warnant |title=Dictionnaire de la prononciation française dans sa norme actuelle |edition=3rd |year=1987 |publisher=J. Duculot, S. A. |location=Gembloux |language=fr |isbn=978-2-8011-0581-8}}</ref> also '''Pierre Gassend''', '''Petrus Gassendi, Petrus Gassendus'''; 22 January 1592 – 24 October 1655) was a French [[philosopher]], [[Catholic priest]], [[astronomer]], and [[mathematician]].<ref name=SEP>{{Cite book|url=https://plato.stanford.edu/archives/spr2014/entries/gassendi/|title=The Stanford Encyclopedia of Philosophy|first=Saul|last=Fisher|chapter=Pierre Gassendi |editor-first=Edward N.|editor-last=Zalta|date=August 28, 2014|publisher=Metaphysics Research Lab, Stanford University|via=Stanford Encyclopedia of Philosophy}}</ref><ref>{{Cite book|url=https://link.springer.com/book/10.1007/978-94-009-3793-2|title=Pierre Gassendi|series=Synthese Historical Library |year=1987 |volume=30 |via=link.springer.com|doi=10.1007/978-94-009-3793-2|isbn=978-94-010-8187-0 |last1=Brundell |first1=Barry}}</ref><ref>{{Cite web|url=https://link.springer.com/content/pdf/bfm%3A978-94-009-3793-2%2F1.pdf|title=Brundell, B., Pierre Gassendi from Aristotelianism to a New Natural Philosophy, D. Reidel Publishing, 1987}}</ref> While he held a church position in south-east France, he also spent much time in Paris, where he was a leader of a group of [[freethought|free-thinking]] intellectuals. He was also an active observational [[scientist]], publishing the first data on the [[transit of Mercury]] in 1631. The lunar crater [[Gassendi (crater)|Gassendi]] is named after him.
+
+He wrote numerous philosophical works, and some of the positions he worked out are considered significant, finding a way between [[skepticism]] and [[dogmatism]]. [[Richard Popkin]] indicates that Gassendi was one of the first thinkers to formulate the modern "scientific outlook", of moderated skepticism and [[empiricism]]. He clashed with his contemporary [[Descartes]] on the possibility of certain knowledge. His best known intellectual project attempted to reconcile [[Epicureanism|Epicurean]] [[atomism]] with [[Christianity]].
+
+== Biography ==
+
+=== Early life ===
+Gassendi was born at [[Champtercier]], near [[Digne-les-Bains|Digne]], in [[France]] to Antoine Gassend and Françoise Fabry.<ref>{{cite book |title=The Biographical Encyclopedia of Astronomers |last=Hockey |first=Thomas |date=2009 |publisher=[[Springer Publishing]] |isbn=978-0-387-31022-0 |access-date=August 22, 2012 |url=http://www.springerreference.com/docs/html/chapterdbid/58506.html}}</ref> His earliest education was entrusted to his maternal uncle, Thomas Fabry, the [[curé]] of the church of Champtercier.<ref name="Fisquet, p. 249">Fisquet, p. 249.</ref>  A youthful prodigy, at a very early age he showed academic potential and attended the collège (the town high school) at Digne, where he displayed a particular aptitude for languages and [[mathematics]]. In 1609 he entered the [[University of Aix-en-Provence]], to study philosophy under Philibert Fesaye, O.Carm.<ref>Bougerel (1737), p. 6.</ref> at the Collège Royal de Bourbon (the Faculty of Arts of the University of Aix).<ref>{{cite book|author=Ferdinand Belin|title=Histoire de l'ancienne université de Provence, ou Histoire de la fameuse université d'Aix: période. 1409-1679|url=https://books.google.com/books?id=UCEBAAAAYAAJ&pg=PA738|year=1896|publisher=A. Picard et fils|location=Paris|language=fr|pages=183, 340–341}}</ref> In 1612 the college of Digne called him to lecture on [[theology]]. While at Digne, he travelled to [[Senez]], where he received minor orders from Bishop Jacques Martin. In 1614 he received the degree of [[Doctor of Theology]] from the [[University of Avignon]],<ref>{{Cite web|url=https://mathshistory.st-andrews.ac.uk/Biographies/Gassendi/|title=Pierre Gassendi - Biography|website=Maths History}}</ref> and was elected Theologian in the Cathedral Chapter of Digne. On 1 August 1617 he received holy orders from Bishop Jacques Turricella of Marseille.<ref name="Fisquet, p. 249"/> In the same year, at the age of 24, he accepted the chair of philosophy at the University of Aix-en-Provence, and yielded the chair of theology to his old teacher, Fesaye. Gassendi seems gradually to have withdrawn from theology. He maintained his position as Canon Theologian at Digne, however, and in September 1619, when Bishop Raphaël de Bologne took possession of the diocese of Digne, Gassendi participated and made the speech on behalf of the Chapter.<ref>Fisquet, p. 250.</ref>
+
+He lectured principally on the [[Aristotelianism|Aristotelian philosophy]], conforming as far as possible to the traditional methods while he also followed with interest the discoveries of [[Galileo Galilei|Galileo]] and [[Johannes Kepler|Kepler]]. He came into contact with the astronomer [[Joseph Gaultier de la Vallette]] (1564–1647), the Grand Vicar of the Archbishopric of Aix.<ref>Bougerel (1737), pp. 8-9. ''Dictionary of Scientific Biography'', [http://www.chlt.org/sandbox/lhl/dsb/page.284.php?size=240x320 ''Gassendi (Gassend), Pierre''], retrieved: 2017-08-02.</ref>
+
+=== Priesthood ===
+
+In 1623 the [[Society of Jesus]] took over the University of Aix. They filled all positions with Jesuits, so Gassendi was required to find another institution.<ref>J J O'Connor and E F Robertson, [http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Gassendi.html ''Pierre Gassendi''], retrieved: 2017-08-02 {{self-published source|date=August 2017}}</ref> He left, returning to Digne on 10 February 1623, and then returned to Aix to witness an eclipse of the moon on 14 April and the presence of Mars in Sagittarius on 7 June, from which he returned again to Digne.<ref>Bougerel, p. 15.</ref> He travelled to [[Grenoble]] on behalf of the Chapter of Digne for a lawsuit, most reluctantly, since he was working on his project on Aristotle's paradoxes.<ref name = Galileo>[http://galileo.rice.edu/Catalog/NewFiles/gassendi.html Galileo Project page]. Bougerel, p. 15.</ref> In 1624 he printed the first part of his {{lang|la|Exercitationes paradoxicae adversus Aristoteleos}}.  A fragment of the second book later appeared in print at [[The Hague]] (1659), but Gassendi never composed the remaining five, apparently thinking that the ''Discussiones Peripateticae'' of [[Francesco Patrizzi]] left little scope for him.
+
+He spent some time with his patron [[Nicolas Peiresc]]. After 1628 Gassendi travelled in [[Flanders]] and in [[Holland]] where he encountered [[Isaac Beeckman]] and [[François Luillier]].<ref name = Galileo/><ref>''The Archimedes Project'', [http://archimedes2.mpiwg-berlin.mpg.de/archimedes_templates/biography.html?-table=archimedes_authors&author=Gassendi,%20Pierre&-find Gassendi, Pierre (actually Pierre Gassend)] {{Webarchive|url=https://web.archive.org/web/20120220001438/http://archimedes2.mpiwg-berlin.mpg.de/archimedes_templates/biography.html?-table=archimedes_authors&author=Gassendi, |date=2012-02-20 |access-date=2017-08-02}}</ref> He returned to France in 1631. In 1634 the Cathedral Chapter of Digne had become disgusted at the wasteful behavior of Provost Blaise Ausset, and they voted to replace him. They obtained an arrêt of the Parliament of Aix, dated 19 December 1634, which consented to his deposition and to the election of Gassendi as [[Provost (religion)|provost]] of [[Digne Cathedral|the Cathedral Chapter]]. Gassendi was formally installed on 24 December 1634. He held the Provostship until his death in 1655.<ref>Fisquet, pp. 248, 252, 256.</ref>
+
+During this time he wrote some works, at the insistence of [[Marin Mersenne]]. They included his examination of the mystical philosophy of [[Robert Fludd]],<ref>''Epistolica Exercitatio, in qua precipua principia philosophiae Roberti Fluddi deteguntur'', 1631.</ref> an essay on [[Sun dog|parhelia]],<ref>''Epistola de parheliis''.</ref> and some observations on the transit of [[Mercury (planet)|Mercury]].
+
+=== 1640s ===
+
+Gassendi then spent some years travelling through Provence with the [[Louis-Emmanuel d'Angoulême|duke of Angoulême]], governor of the region. During this period he wrote only the one literary work, his ''Life'' of Peiresc, whose death in 1637 seemed to afflict him deeply;<ref name = Hatch>{{Cite web | url=http://www.clas.ufl.edu/users/rhatch/pages/11-ResearchProjects/gassendi/06rp-g-bio.htm | title=Gassendi - Pierre Gassendi - Biography - Information - Links - Dr Robert A. Hatch}}</ref> it received frequent reprintings and an English translation. He returned to Paris in 1641, where he met [[Thomas Hobbes]].<ref>Patricia Springborg (editor), ''The Cambridge Companion to Hobbes's Leviathan'' (2007), p. 422.</ref> He gave some informal philosophy classes, gaining pupils or disciples; according to the biographer Grimarest, these included [[Molière]], [[Cyrano de Bergerac]] (whose participation in classes is disputed),<ref>{{Cite web|url=http://www.paulvates.com/cyranohistory.html|title=www.paulvates.com|website=www.paulvates.com}}</ref> [[Jean Hesnault]] and [[Claude-Emmanuel Chapelle]], son of Lullier.<ref>{{cite web |url=http://www.2020site.org/moliere/earlylife.html |title=LoveToKnow: Advice you can trust |access-date=2009-01-07 |url-status=dead |archive-url=https://web.archive.org/web/20090125125658/http://www.2020site.org/moliere/earlylife.html |archive-date=2009-01-25}}</ref><ref>{{Cite web | url=http://agora.qc.ca/reftext.nsf/Documents/Jean-Baptiste_Poquelin_dit_Moliere--Moliere_eleve_de_Pierre_Gassendi_par_Gaston_Sortais | title=Encyclopedie de l'Agora}}</ref>
+
+In 1640 Mersenne engaged him in controversy with [[René Descartes]]. His objections to the fundamental propositions of Descartes appeared in print in 1641; they appear as the Fifth Set of Objections in the works of Descartes<ref>{{Cite book|url=https://plato.stanford.edu/archives/spr2021/entries/descartes-ontological/|title=The Stanford Encyclopedia of Philosophy|first=Lawrence|last=Nolan|chapter=Descartes' Ontological Argument |editor-first=Edward N.|editor-last=Zalta|date=August 28, 2021|publisher=Metaphysics Research Lab, Stanford University|via=Stanford Encyclopedia of Philosophy}}</ref> and as a separate edition entitled {{Lang|la|Disquisitio Metaphysica}}<ref>{{Cite book|last=Gassendi|first=Pierre|url=https://books.google.com/books?id=59cFzgEACAAJ&q=intitle:%22disquisito+metaphysica%22+gassendi|title=Disquisito metaphysica, seu dubitationes et instantiae adversus Renati Cartesii metaphysicam et responsa|date=1644|publisher=Vrin|language=la}}</ref> with rejoinders.<ref>{{Cite book|last1=Descartes|first1=René|url=https://books.google.com/books?id=gIVt2T6_QXQC&q=gassendi|title=Meditations, Objections, and Replies|last2=Ariew|first2=Roger|last3=Cress|first3=Donald A.|date=2006-03-10|publisher=Hackett Publishing|isbn=978-1-60384-350-8|pages=ix|language=en}}</ref> Though Descartes is often credited with the discovery of the [[mind-body problem]], Gassendi, reacting to Descartes' mind-body dualism, was the first to state it.<ref>Cottinghm, Stoothof, Murdoch, Vol. II, CUP 1984, pp.  234-237</ref> Gassendi's tendency towards the empirical school of speculation appears more pronounced here than in any of his other writings. [[Jean-Baptiste Morin (mathematician)|Jean-Baptiste Morin]] attacked his ''De motu impresso a motore translato'' (1642).<ref name = Hatch/> In 1643 Mersenne also tried to garner support from the German [[Socinianism|Socinian]] and advocate of religious tolerance [[Marcin Ruar]]. Ruar replied at length that he had already read Gassendi but was in favour of leaving science to science not to the church.<ref>Murr, Sylvia, ed. (1997) (in French), ''Gassendi et l'Europe'', Paris: Vrin, {{ISBN|978-2-7116-1306-9}}.</ref>
+
+In 1645 he accepted the chair of mathematics in the [[Collège de France|Collège Royal]] in Paris, and lectured for several years with great success. In addition to controversial writings on physical questions, there appeared during this period the first of the works for which historians of philosophy remember him. In 1647 he published the well-received treatise ''De vita, moribus, et doctrina Epicuri libri octo''. Two years later appeared his commentary on the tenth book of [[Diogenes Laërtius]].<ref>''De vita, moribus, et placitis Epicuri, seu Animadversiones in X. librum Diog. Laër.'' Lyons, 1649; last edition, 1675.</ref> In the same year he had published the more important commentary ''Syntagma philosophiae Epicuri''.<ref>Lyons, 1649; Amsterdam, 1684.</ref>
+
+In 1648 ill-health compelled him to give up his lectures at the Collège Royal. Around this time he became reconciled to Descartes, after years of coldness, through the good offices of [[César d'Estrées]].<ref>Desmond M. Clarke, ''Descartes: A Biography'' (2006), p. 377.</ref>
+
+=== Death and memorial ===
+
+He travelled in the south of France, in the company of his [[protégé]], aide and secretary [[François Bernier]], another pupil from Paris. He spent nearly two years at [[Toulon]],  where the climate suited him. In 1653 he returned to Paris and resumed his literary work, living in the house of [[Montmor]], publishing in that year lives of [[Copernicus]] and of [[Tycho Brahe]]. The disease from which he suffered, a lung complaint, had, however, established a firm hold on him. His strength gradually failed, and he died at Paris in 1655. A bronze statue of him (by Joseph Ramus) was erected by subscription at Digne in 1852. 
+A large crater on the Moon is named after him.<ref>{{cite web|url=https://skyandtelescope.org/wp-content/uploads/MoonMap.pdf|title=THE ESSENTIAL GUIDE TO ASTRONOMY - Moon map}}</ref>
+
+==Scientific achievements==
+As part of his promotion of empirical methods and his anti-[[Aristotelianism|Aristotelian]] and anti-[[Cartesianism|Cartesian]] views, he was responsible for a number of scientific 'firsts':
+*He explained [[Sun dogs|parhelia]] in 1629 as due to ice crystals.
+*In 1631, Gassendi became the first person to observe the transit of a planet across the Sun, viewing the [[transit of Mercury]] that [[Kepler]] had predicted. In December of the same year, he watched for the [[transit of Venus]], but this event occurred when it was night time in Paris.
+*Use of [[camera obscura]] to gauge the apparent diameter of the Moon.
+*Dropping a stone from the mast of a ship (in ''De motu'') conserves horizontal momentum, removing an objection to the [[rotation of the Earth]].
+*Measurement of [[speed of sound]] (to about 25% accuracy), showing that it is invariant of pitch.
+*Satisfactory interpretation of [[Blaise Pascal|Pascal]]'s [[Puy-de-Dôme]] experiment with a barometer in the late 1640s; this suggested a created vacuum is possible.
+*He asserted and defended (in "Syntagma philosophiae Epicuri", 1649, see Philosophical Writings below) the notion that matter is made of atoms, following [[Epicurus]].
+
+In addition to this he did work on [[Lunar distance (navigation)|determining longitude via eclipses of the Moon]] and on improving the [[Rudolphine Tables]]. He addressed the issue of [[free fall]] in ''De motu'' (1642) and ''De proportione qua gravia decidentia accelerantur'' (1646).<ref name=stanfGass>
+{{cite web|title=Pierre Gassendi|last=Fisher|first=Saul|date=2009|publisher=Stanford Encyclopedia of Philosophy|url=http://plato.stanford.edu/archives/win2009/entries/gassendi/}}</ref>
+
+== Writings ==
+[[File:Gassendi - Romanum calendarium compendiose expositum, 1654 - 880721 F.jpeg|thumb|''Romanum calendarium'']]
+
+[[Edward Gibbon]] styled him "Le meilleur philosophe des littérateurs, et le meilleur littérateur des philosophes" (The greatest philosopher among literary men, and the greatest literary man among philosophers).
+
+[[Henri Louis Habert de Montmor]] published Gassendi's collected works, most importantly the ''Syntagma philosophicum'' (Opera, i. and ii.), in 1658 (6 vols., Lyons). [[Nicolaus Averanius]] published another edition, also in 6 folio volumes, in 1727. The first two comprise entirely his ''Syntagma philosophicum''; the third contains his critical writings on [[Epicurus]], [[Aristotle]], [[Descartes]], [[Robert Fludd]] and [[Edward Herbert, Baron Herbert of Cherbury|Herbert of Cherbury]], with some occasional pieces on certain problems of [[physics]]; the fourth, his ''Institutio astronomica'', and his ''Commentarii de rebus celestibus''; the fifth, his commentary on the tenth book of [[Diogenes Laërtius]], the biographies of Epicurus, [[Nicolas-Claude Fabri de Peiresc]], [[Tycho Brahe]], [[Nicolaus Copernicus]], [[Georg von Peuerbach]], and [[Regiomontanus]], with some tracts on the value of ancient money, on the Roman [[calendar]], and on the theory of music, with an appended large and prolix piece entitled ''Notitia ecclesiae Diniensis''; the sixth volume contains his [[communication|correspondence]]. The ''Lives'', especially those of Copernicus, Tycho and Peiresc, received much praise.
+
+=== ''Exercitationes'' ===
+
+The ''Exercitationes'' excited much attention, though they contain little or nothing beyond what others had already advanced against Aristotle. The first book expounds clearly, and with much vigour, the evil effects of the blind acceptance of the Aristotelian ''dicta'' on physical and philosophical study; but, as occurs with so many of the anti-Aristotelian works of this period, the objections show the usual ignorance of Aristotle's own writings{{Citation needed|date=June 2012}}. The second book, which contains the review of Aristotle's dialectic or [[logic]], throughout reflects [[Ramism]] in tone and method. One of the objections to Descartes became famous through Descartes's statement of it in the appendix of objections in the ''Meditations''.
+
+=== ''Animadversiones'' ===
+
+His book ''Animadversiones'', published in 1649, contains a translation of [[Diogenes Laërtius]], Book X on Epicurus, and appeared with a commentary, in the form of the ''Syntagma philosophiae Epicuri''.<ref name=stanfGass/> His labors on Epicurus have historical importance, but he has been criticized for holding doctrines arguably irreconcilable with his strong expressions of empiricism.
+
+In the book, he maintains his maxim "that there is nothing in the intellect which has not been in the senses" (''nihil est in intellectu quod non prius fuerit in sensu''), but he contends that the imaginative faculty (''[[Phantasiai|phantasia]]'') is the counterpart of sense, because it involves material images, and therefore is intrinsically material, and that it is essentially the same both in men and brutes. However, he also admits that the classic qualifier of humanity, [[intellect]], which he affirms as immaterial and immortal, comes to an understanding of notions and truths that no effort of sensation or imagination could have attained (Op. ii. 383). He illustrates the capacity to form "general notions"; the conception of universality (ib. 384), which he says brutes never are able to partake in, though they utilize ''phantasia'' as truly as men; the notion of [[God]], whom he says we may imagine as [[Human body|corporeal]], but understand as incorporeal; and lastly, the reflex by which the mind makes the phenomena and operations within it the objects of its attention.
+
+The English Epicurean [[Walter Charleton]] produced an English free adaptation of this book, ''Physiologia Epicuro-Gassendo-Charletonia'', in 1654.<ref name=stanfGass/>
+
+=== ''Syntagma philosophicum'' ===
+
+The ''Syntagma philosophicum'' sub-divides, according to the usual fashion of the [[Epicureans]], into [[logic]] (which, with Gassendi as with [[Epicurus]], is truly canonic), physics and ethics.
+
+The logic contains a sketch of the history of the science ''De origine et varietate logicae'', and is divided into theory of right apprehension (''bene imaginari''), theory of right judgment (''bene proponere''), theory of right inference (''bene colligere''), theory of right method (''bene ordinare''). The first part contains the specially empirical positions which Gassendi afterwards neglects or leaves out of account. The senses, the sole source of knowledge, supposedly yield us immediate cognition of individual things; phantasy (which Gassendi takes as material in nature) reproduces these ideas; understanding compares these ideas, each particular, and frames general ideas. Nevertheless, he admits that the senses yield knowledge—not of things—but of qualities only, and that we arrive at the idea of thing or substance by [[inductive reasoning]]. He holds that the true method of research is the analytic, rising from lower to higher notions; yet he sees and admits that inductive reasoning, as conceived by [[Francis Bacon]], rests on a general proposition not itself proved by induction.  The whole doctrine of judgment, syllogism and method mixes Aristotelian and [[Ramist]] notions.
+
+In the second part of the ''Syntagma'', the physics, appears the most glaring contradiction between Gassendi's fundamental principles. While approving of the Epicurean physics, he rejects the Epicurean negation of God and [[particular providence]]. He states the various proofs for the existence of an immaterial, infinite, supreme Being, asserts that this Being is the author of the visible universe, and strongly defends the doctrine of the foreknowledge and particular providence of God. At the same time he holds, in opposition to Epicureanism, the doctrine of an immaterial rational [[Soul (spirit)|soul]], endowed with [[immortality]] and capable of [[free will|free determination]]. [[Friedrich Albert Lange]]<ref>''Geschichte des Materialismus'', 3rd ed., i. 233.</ref> claimed that all this portion of Gassendi's system contains nothing of his own opinions, but is introduced solely from motives of self-defence.
+
+The positive exposition of [[atomism]] has much that is attractive, but the hypothesis of the ''calor vitalis'' (vital heat), a species of ''[[Anima mundi (spirit)|anima mundi]]'' (world-soul) which he introduces as a physical explanation of physical phenomena, does not seem to throw much light on the special problems which  he invokes it to solve. Nor is his theory of the weight essential to atoms as being due to an inner force impelling them to motion in any way reconcilable with his general doctrine of mechanical causes.
+
+In the third part, the ethics, over and above the discussion on freedom, which on the whole is indefinite, there is little beyond a milder statement of the Epicurean moral code. The final end of life is happiness, and happiness is harmony of soul and body (''tranquillitas animi et indolentia corporis''). Probably, Gassendi thinks, perfect happiness is not attainable in this life, but it may be in the life to come.
+
+== Views ==
+
+According to [[Gabriel Daniel]], Gassendi was a little [[Pyrrhonian]] in matters of science; but that was no bad thing.<ref>[[Richard Popkin]], ''The History of Scepticism from Erasmus to Spinoza'' (1979), p. 104.</ref> He wrote against the magical animism of Robert Fludd, and [[judicial astrology]].<ref>[[Keith Thomas (historian)|Keith Thomas]], ''Religion and the Decline of Magic'' (1973), p. 418 and p. 770.</ref><ref>{{cite web |url=http://www.philosophy.leeds.ac.uk/GMR/homepage/ueberweg.html |title=Ueberweg |access-date=2009-01-06 |url-status=dead |archive-url=https://web.archive.org/web/20090203090305/http://www.philosophy.leeds.ac.uk/GMR/homepage/ueberweg.html |archive-date=2009-02-03}}</ref> He became dissatisfied with the [[Peripatetic school|Peripatetic]] system, the orthodox approach to [[natural philosophy]] based on the writings of [[Aristotle]]. Gassendi shared an [[empiricism|empirical]] tendency of the age. He contributed to the objections against Aristotelian philosophy, but waited to publish his own thoughts.
+
+There remains some controversy as to the extent to which Gassendi subscribed to the so-called ''libertinage érudit'', the learned [[free-thinking]] that characterised the ''Tétrade'', the Parisian circle to which he belonged, along with [[Gabriel Naudé]] and two others ([[Élie Diodati]] and [[François de La Mothe Le Vayer]]). Gassendi, at least, belonged to the [[fideist]] wing of the sceptics, arguing that the absence of certain knowledge implied the room for faith.<ref>Amesbury, Richard [http://plato.stanford.edu/entries/fideism/ Fideism] Stanford Encyclopedia of Philosophy, 26 September 2012</ref>
+
+In his dispute with Descartes he did apparently hold that the evidence of the senses remains the only convincing evidence; yet he maintains, as is natural from his mathematical training, that the evidence of reason is absolutely satisfactory.
+
+=== Vegetarianism ===
+Gassendi acknowledged that while the complete realisation of the continual pursuit of ultimate pleasure through communion with God might not occur in one's lifetime, he argued against the consumption of meat, considering it a significant obstacle to achieving a divine vision. Drawing support from scripture and the natural world, he envisioned a restored paradise where humans and animals coexisted in peaceful dominion, contrary to the tyranny displayed in the butchering of animals for pleasure.<ref name=":0" />
+
+Gassendi supported his case for vegetarianism with arguments from medicine, history, and scripture. Inspired by Neoplatonic vegetarians and early Christian thinkers, he aligned vegetarianism with Christian doctrines, emphasizing the immortality of the soul. Gassendi, a Catholic priest, advocated for a plant-based diet without dogmatism, asserting that decisions in this lifetime were crucial for preparing the body and mind for the next. He admired the historical virtue of vegetarian practitioners and urged scholars to extract and follow the best ideas from throughout history, asserting that, especially among humanists, a vegetarian lifestyle should be embraced.<ref name=":0" />
+
+Gassendi himself was not a [[Vegetarianism|vegetarian]], but admitted that "if I were wise, I would abandon [meat] bit by bit, and nourish myself solely on the gifts on the earth ... I do not doubt that I would be happier for longer and more constantly in better health."<ref>{{Cite news |last=Shapiro |first=Laura |date=2007-02-27 |title=Meat vs. Potatoes |url=https://slate.com/culture/2007/02/a-history-of-vegetarianism.html |access-date=2024-01-21 |work=Slate |language=en-US |issn=1091-2339}}</ref>
+
+== Early commentary ==
+
+[[Samuel Sorbière]], a disciple,<ref>{{cite web|url=http://www.webspawner.com/users/alanbailey/scept7z.html|archive-url=https://web.archive.org/web/20120214093251/http://www.webspawner.com/users/alanbailey/scept7z.html|archive-date=2012-02-14|title=Scepticism - Lecture 7b|access-date=2023-08-09}}</ref> recounts Gassendi's life in the first collected edition of the works, by [[Joseph Bougerel]], ''Vie de Gassendi'' (1737; 2nd ed., 1770); as does [[Jean Philibert Damiron]], ''Mémoire sur Gassendi'' (1839). An abridgment of his philosophy was given by his friend, the celebrated traveller, [[François Bernier]] (''Abrégé de la philosophie de Gassendi'', 8 vols., 1678; 2nd ed., 7 vols., 1684).
+
+== See also ==
+* [[Ontological pluralism]]
+* [[List of Roman Catholic scientist-clerics]]
+
+== Notes ==
+{{Reflist|30em}}
+
+== References ==
+;Seventeenth to nineteenth-century commentary
+*{{cite book|last=Bougerel|first=Joseph|title=Vie de Pierre Gassendi|url=https://books.google.com/books?id=6fYUAAAAQAAJ|year=1737|publisher=Imprimerie de Jacques Vincent|location=Paris|language=fr}}
+* [[Johann Gottlieb Buhle]], ''Geschichte der neuern Philosophie'', (1802) iii. 1, 87-222
+* [[Jean Philibert Damiron]], ''Mémoires pour servir à l'histoire de la philosophie au XVIIe siècle'' (1864)
+* {{cite book|first1 = Ludwig|last1 = Feuerbach|author-link1= Ludwig Feuerbach|title = Geschichte der neuern Philosophie von Bacon von Verulam bis Benedict Spinoza|place = Ansbach|publisher = C. Brügel|date = 1833|pages = 127–150|url = https://books.google.com/books?id=mnEPAAAAQAAJ&pg=PA129|access-date = 2012-02-05}}
+*Fisquet, Honoré (1864). ''[http://gallica.bnf.fr/ark:/12148/bpt6k204180j/f1.image La France pontificale: Metropole d'Aix: Digne]'', 1re partie: Digne et Riez (Paris: Étienne Repos 1864).
+* [[C. Güttler]], "Gassend oder Gassendi?" in ''Archiv für Geschichte d. Philos.'' x. (1897), pp.&nbsp;238–242.
+* [[F. X. Kiefl]], ''P. Gassendis Erkenninistheorie and seine Stellung zum Materialismus'' (1893) and "Gassendi's Skepticismus" in ''Philos. Jahrb. vi.'' (1893)
+* [[Heinrich Ritter]], ''Geschichte der Philosophie'', (1851) X. 543-571
+* [[Pierre-Félix Thomas]], ''La Philosophie de Gassendi'' (Paris, 1889)
+
+;Twentieth- and twenty-first-century commentary
+* {{cite journal|last=Caruso|first=Esther|title=Sul nominalismo di Gassendi|journal=Rivista critica di storia della filosofia|volume=36|pages=438–450|year=1981|issue=4 |jstor=44022083}}
+* Alberti Antonina (1988). ''Sensazione e realtà. Epicuro e Gassendi'', Florence, Leo Olschki.  {{ISBN|88-222-3608-4}}
+* Olivier Bloch (1971). ''La philosophie de Gassendi. Nominalisme, matérialisme et métaphysique'', La Haye, Martinus Nijhoff, {{ISBN|90-247-5035-0}}
+* [[George Sidney Brett]] (1908). ''Philosophy of Gassendi'', London, Macmillan
+* Barry Brundell (1987). ''Pierre Gassendi. From Aristotelianism to a New Natural Philosophy'', Dordrecht, Springer
+* Franz Daxecker (2004). ''The Physicist and Astronomer Christoph Scheiner: Biography, Letters, Works'', Innsbruck, Publikations of Innsbruck University 246, {{ISBN|3-901249-69-9}}
+* Saul Fisher (2005). ''Pierre Gassendi's Philosophy and Science'', Leiden/Boston, Brill. {{ISBN|978-90-04-11996-3}}
+* Lynn Sumida Joy (1987). ''Gassendi the Atomist: Advocate of History in an Age of Science'', Cambridge, UK/New York, Cambridge University Press. {{ISBN|0-521-52239-0}}
+* Antonia Lolordo (2007). ''Pierre Gassendi and the Birth of Early Modern Philosophy'', Cambridge, UK/New York, Cambridge University Press. {{ISBN|978-0-521-86613-2}}
+* Marco Messeri (1985). ''Causa e spiegazione. La fisica di Pierre Gassendi'', Milan, Franco Angeli. {{ISBN|88-204-4045-8}}
+* Margaret J. Osler (1994). ''Divine Will and the Mechanical Philosophy: Gassendi and Descartes on Contingency and Necessity in the Created World'', Cambridge, UK/New York, Cambridge University Press. {{ISBN|0-521-46104-9}}
+* Rolf W. Puster (1991). ''Britische Gassendi-Rezeption am Beispiel John Lockes'', Frommann-Holzboog. {{ISBN|3-7728-1362-3}}
+* Lisa T. Sarasohn (1996). ''Gassendi's Ethics: Freedom in a Mechanistic Universe.'' Ithaca, NY: Cornell University Press.
+* Reiner Tack (1974). ''Untersuchungen zum Philosophie- und Wissenschaftsbegriff bei Pierre Gassendi: (1592–1655)'', Meisenheim (am Glan), Hain. {{ISBN|3-445-01103-6}}
+* Pierre Gassendi (1654). ''The Life of Copernicus (1473–1543). The Man Who Did Not Change the World'', with notes by Oliver Thill, XulonPress, 2002, {{ISBN|1-59160-193-2}} [https://books.google.com/books?id=9r0RfQtpU6AC&q=author:%22Pierre+Gassendi%22 The Life of Copernicus (1473-1543)]
+
+;Tertiary sources
+*{{EB1911|wstitle=Gassendi, Pierre|volume=11|last1= Adamson |first1= Robert |author1-link= Robert Adamson (philosopher) |pages=503–504|short=1}}
+
+== External links ==
+*{{commons-inline}}
+*{{wikisource author-inline}}
+*{{wikiquote-inline}}
+*{{OL author|124003A}}
+*{{cite SEP |url-id=gassendi |title=Pierre Gassendi |last=Fisher |first=Saul}}
+*[https://web.archive.org/web/20110926232407/http://archimedes.mpiwg-berlin.mpg.de/cgi-bin/toc/toc.cgi?step=thumb&dir=gasse_propo_028_la_1646 ''De proportione qua gravia decidentia accelerantur'' (1646)]
+*[https://web.archive.org/web/20060301125722/http://www.epicurus.info/etexts/gassendi_concerninghappiness.html ''Concerning Happiness'']
+*[http://www.mathpages.com/home/kmath274/kmath274.htm MathPages - ''Mercurius in Sole Visus'']
+*[http://www.clas.ufl.edu/users/rhatch/pages/11-ResearchProjects/gassendi/06rp-g-chron.htm Timeline]
+
+{{Epicureanism}}
+{{philosophy of science}}
+{{History of Catholic theology}}
+{{Catholic philosophy footer}}
+{{Authority control}}
+
+{{DEFAULTSORT:Gassendi, Pierre}}
+[[Category:1592 births]]
+[[Category:1655 deaths]]
+[[Category:Atomists]]
+[[Category:People from Alpes-de-Haute-Provence]]
+[[Category:17th-century writers in Latin]]
+[[Category:17th-century French philosophers]]
+[[Category:17th-century French Catholic theologians]]
+[[Category:17th-century French mathematicians]]
+[[Category:Academic staff of the Collège de France]]
+[[Category:Empiricists]]
+[[Category:17th-century astrologers]]
+[[Category:17th-century French astronomers]]
+[[Category:Catholic clergy scientists]]
+[[Category:Writers about religion and science]]
+[[Category:French vegetarianism activists]]
+[[Category:Scientists from Provence-Alpes-Côte d'Azur]]
+[[Category:Activists from Provence-Alpes-Côte d'Azur]]

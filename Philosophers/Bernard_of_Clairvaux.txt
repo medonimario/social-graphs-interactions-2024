@@ -1,0 +1,308 @@
+{{short description|Burgundian saint, abbot and theologian (1090–1153)}}
+{{Use dmy dates|date=March 2023}}
+{{Infobox saint
+| honorific_prefix    = [[Saint]]
+| name                = Bernard of Clairvaux
+| honorific_suffix    = [[O. Cist.]]
+| image               = San Bernardo, de Juan Correa de Vivar (Museo del Prado).jpg
+| imagesize           = 
+| alt                 = 
+| caption             = ''San Bernardo'' by [[Juan Correa de Vivar]], {{awrap|held in the {{lang|es|[[Museo del Prado]]|italic=no}}, Madrid, Spain}}
+| titles              = {{cslist |Doctor of the Church |''[[Doctor Mellifluus]]'' |[[Last of the Fathers]] |Confessor |Abbot}}
+| birth_name          =
+| birth_date          = {{c.|1090}}
+| birth_place         = [[Fontaine-lès-Dijon]], [[Duchy of Burgundy|Burgundy]], {{awrap|[[Kingdom of France]]}}
+| home_town           = 
+| residence           = 
+| death_date          = 20 August 1153 (aged 62–63)
+| death_place         = [[Clairvaux Abbey]], Clairvaux, [[Champagne (province)|Champagne]], {{awrap|[[Kingdom of France]]}}
+| venerated_in        = {{ublist|[[Catholic Church]]|[[Anglican Communion]]<ref>{{Cite book |url=https://books.google.com/books?id=bEq7DwAAQBAJ |title=Lesser Feasts and Fasts 2018 |date=17 December 2019 |publisher=Church Publishing, Inc. |isbn=978-1-64065-235-4 |language=en}}</ref>|[[Lutheranism]]<ref name="NLS" />}}
+| beatified_date      = 
+| beatified_place     = 
+| beatified_by        = 
+| canonized_date      = 18 January 1174
+| canonized_place     = [[Rome]], [[Papal&nbsp;States]],
+| canonized_by        = [[Pope Alexander&nbsp;III]]
+| major_shrine        = [[Troyes Cathedral]]
+| feast_day           = 20 August
+| attributes          = {{cslist|[[Religious habit|Cistercian habit]]|book|[[crosier]]}}
+| patronage           = {{cslist|[[Cistercians]]|[[Burgundy]]|[[Beekeeper]]|[[Candlemaker]]|[[Gibraltar]]|[[Algeciras]]|[[Queens' College, Cambridge]]|[[Speyer Cathedral]]|[[Knights Templar]]|[[Binangonan]], Rizal|semi=true}}
+| issues              = 
+| suppressed_date     = 
+| suppressed_by       = 
+| influences          = 
+| influenced          = 
+| tradition           = 
+| major_works         = 
+}}
+{{Christian mysticism|people|11th/12th}}
+'''Bernard of Clairvaux''', [[Cistercians|O.Cist.]] ({{langx|la|Bernardus Claraevallensis}}; 1090{{snd}}20 August 1153), venerated as '''Saint Bernard''', was an [[abbot]], [[Mysticism|mystic]], co-founder of the [[Knights Templar]],{{efn|[[André de Montbard]], one of the founders of the Knights Templar, was a half-brother of Bernard's mother.}} and a major leader in the reform of the [[Benedictines]] through the nascent [[Cistercians|Cistercian Order]].
+
+He was sent to found [[Clairvaux Abbey]] at an isolated clearing in a glen known as the ''Val d'Absinthe'', about {{convert|15|km|mi|0}} southeast of [[Bar-sur-Aube]]. In the year 1128, Bernard attended the [[Council of Troyes (1129)|Council of Troyes]], at which he traced the outlines of the Rule of the [[Knights Templar]], which soon became an ideal of Christian nobility.
+
+On the death of [[Pope Honorius II]] in 1130, a schism arose in the church. Bernard was a major proponent of [[Pope Innocent II]], arguing effectively for his legitimacy over the [[Antipope Anacletus II]].
+
+The eloquent abbot advocated crusades in general and convinced many to participate in the unsuccessful [[Second Crusade]], notably through a famous sermon at [[Council of Vézelay|Vézelay (1146)]].
+
+Bernard was [[canonized]] just 21 years after his death by [[Pope Alexander III]]. In 1830 [[Pope Pius VIII]] declared him a [[Doctor of the Church]].
+
+==Early life (1090–1113)==
+Bernard's parents were [[Tescelin de Fontaine]], lord of [[Fontaine-lès-Dijon]], and [[Alèthe de Montbard]], both members of the highest nobility of [[Burgundy]]. Bernard was the third of seven children, six of whom were sons. Aged nine, he was sent to a school at [[Châtillon-sur-Seine]] run by the [[secular canons]] of Saint-Vorles. Bernard had an interest in literature and rhetoric. 
+
+Bernard's mother died when he was a youth. During his education with priests, he often thought of becoming one. In 1098, a group led by [[Robert of Molesme]] had founded [[Cîteaux Abbey]], near [[Dijon]], with the purpose of living according to a literal interpretation of the [[Rule of St Benedict|Rule of St. Benedict]]. They established new administrative structures among their monsteries, effectively creating a new order, known, after the first abbey, as the [[Order of Cistercians]].<ref>{{Cite journal |last=Schachenmayr |first=Alkuin |date=2020 |title=Conference Notes on Stephen Harding as the Sole Author of the Carta Caritatis: Did the Carta found the Order? |url=https://www.amad.org/jspui/handle/123456789/167182 |journal=Cistercian Studies Quarterly |volume=55 |issue=4 |pages=417–424}}</ref> After his mother died, Bernard decided to go to Cîteaux. In 1113 he and thirty other young noblemen of Burgundy, many of whom were his relatives, sought and gained admission to the new monastery.{{sfn|McManners|1990|p=204}} Bernard's example was so convincing that scores (among them his own father) followed him into the monastic life.<ref>{{Cite book |last=Olson |title=Bernard of Clairvaux, Saint. Defender of Christianity Against Rationalism |publisher=Taylor & Francis |year=2013 |publication-date=2013 |chapter=}}</ref> As a result, he is considered the patron of religious vocations.<ref>{{Cite web |last=Mixa |first=Robert |date=2017-08-20 |title=St. Bernard of Clairvaux – Promoter of the Religious Life Par Excellence |url=https://vocationblog.com/2017/08/st-bernard-of-clairvaux-promoter-of-the-religious-life-par-excellence/ |access-date=2024-10-14 |website=Vocation Blog |language=en-US}}</ref>
+
+==Abbot of Clairvaux==
+[[File:Jorg Breu Sr St Bernhard Zwettl.jpg|thumb|Bernard exorcising a possession, altarpiece by [[Jörg Breu the Elder]], {{circa|1500}}]]
+[[File:Marcello Baschenis, San Bernardo e Satana, 1885.jpg|thumb|Bernard holding a demon at his feet, oil on canvas by [[Marcello Baschenis]], {{circa|1885}}]]
+The little community of reformed [[Benedictines]] at [[Cîteaux]] grew rapidly. Three years after entering, Bernard was sent with a group of twelve monks to found a new house at Vallée d'Absinthe, in the [[Diocese of Langres]]. This Bernard named ''Claire Vallée'', or ''Clairvaux'', on 25 June 1115, and the names of Bernard and Clairvaux soon became inseparable. Bernard was made [[abbot]] by [[William of Champeaux]], [[Bishop of Châlons-sur-Marne]]. From then on a strong friendship grew between the abbot and the bishop, who was professor of theology at [[Notre Dame of Paris]] and the founder of [[Abbey of St. Victor, Paris|St. Victor Abbey in Paris]].{{sfn|Gildas|1907}}
+
+The beginnings of [[Clairvaux Abbey]] were austere and Bernard even more so. He had often been ill since his noviciate, due to extreme fasting. Nonetheless, candidates for the monastic life flocked to him in great numbers. Clairvaux soon started founding new communities.<ref name="EiA" /> In 1118 [[Trois-Fontaines Abbey]] was founded in the [[diocese of Châlons]]; in 1119 [[Fontenay Abbey]] in the [[Diocese of Autun]]; and in 1121 [[Foigny Abbey]] near [[Vervins]].
+
+Bernard spent extended time outside of the abbey as a preacher and a diplomat in the service of the pope. Described by [[Jean-Baptiste Chautard]] as "the most contemplative and yet at the same time the most active man of his age,"<ref>{{Cite book |last=Chautard |first=Jean-Baptiste |title=The Soul of the Apostolate |location=Trappist, Ky. |publication-date=1946 |pages=59}}</ref> Bernard described the disparate parts of his personality when he called himself the "[[Chimera (mythology)|chimera]] of his age."<ref>{{Citation |last=Sullivan |first=Karen |title=Chapter One. Bernard of Clairvaux: The Chimera of His Age |date=2011-03-15 |pages=30–52 |url=https://www.degruyter.com/document/doi/10.7208/9780226781662-003/html?lang=en |access-date=2024-10-14 |publisher=University of Chicago Press |language=en |doi=10.7208/9780226781662-003/html?lang=en |doi-broken-date=4 November 2024 |isbn=978-0-226-78166-2}}</ref>
+
+In addition to successes, Bernard also had his trials. Once, when he was absent from Clairvaux, the prior of the rival [[Abbey of Cluny]] went to Clairvaux and convinced Bernard's cousin, [[Robert of Châtillon]], to become a Benedictine. This was the occasion of the longest and most emotional of Bernard's letters.{{sfn|Gildas|1907}} When his brother Gerard died, Bernard was devastated, and his deep mourning was the inspiration for one of his most moving sermons.<ref>{{cite journal |last1=Voigts |first1=Michael |title="Exeat Sane ad Oculos Filiorum: The Holiness of Grief and Vulnerability in Sermon 26 of the Sermones super Cantica Canticorum of Bernard of Clairvaux," |journal=Wesleyan Theological Journal |date=Fall 2023 |volume=60 |page=75-91}}</ref>
+
+[[File:Dehio 212 Cluny.jpg|thumb|left|The abbey of Cluny as it would have looked in Bernard's time]]
+The Cluny Benedictines were unhappy to see Cîteaux gain such prominence so quickly. They criticized the Cistercian way of life. At the solicitation of [[William of St-Thierry|William of St.-Thierry]], Bernard defended the Cistercians with his ''Apology''. [[Peter the Venerable]], abbot of Cluny, answered Bernard and assured him of his admiration and friendship. In the meantime, Cluny launched a reform and Bernard befriended [[Abbot Suger]].<ref>{{Cite journal |last=Van Engen |first=John |date=1986 |title=The "Crisis of Cenobitism" Reconsidered: Benedictine Monasticism in the Years 1050-1150 |url=https://www.journals.uchicago.edu/doi/10.2307/2854041 |journal=Speculum |language=en |volume=61 |issue=2 |pages=269–304 |doi=10.2307/2854041 |jstor=2854041 |issn=0038-7134}}</ref>
+==Doctor of the Church==
+[[File:Francisco Ribalta - Christ Embracing St Bernard - WGA19350.jpg|thumb|Christ Embracing St. Bernard by [[Francisco Ribalta]]]]
+Although acknowledged as "a difficult saint,"<ref>{{Cite book |last=McGuire |first=Brian Patrick |title=The difficult saint: Bernard of Clairvaux and his tradition |date=1991 |publisher=Cistercian Publications |isbn=978-0-87907-626-9 |series=Cistercian studies series |location=Kalamazoo, Mich}}</ref> Bernard has remained influential in the centuries since his death and was named a Doctor of the Church in 1830. In 1953, on the 800th anniversary of his death, [[Pope Pius XII]] devoted the encyclical ''[[Doctor Mellifluus]]'' to him. He labeled the abbot "the [[last of the Fathers]]."<ref>{{Cite web |last=Pius XII |date=24 May 1953 |title=Doctor Mellifluus |url=https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_24051953_doctor-mellifluus.html |access-date=2024-10-15 |website=www.vatican.va}}</ref> 
+
+In opposition to the rational approach to understanding God used by the [[scholastics]], Bernard preached in a poetic manner, using appeals to affect and conversion to nurture a more immediate faith experience. He is considered to be a master of Christian rhetoric: "His use of language remains perhaps his most universal legacy."<ref>{{Cite journal |last=Robertson |first=Duncan |date=1987 |title=The Experience of Reading: Bernard of Clairvaux "Sermons on the Song of Songs", I |url=https://www.jstor.org/stable/40059330 |journal=Religion & Literature |volume=19 |issue=1 |pages=1–20 |jstor=40059330 |issn=0888-3769}}</ref> He contributed lyrics to the [[Cistercian Hymnal]].
+
+As a [[Mariology|mariologist]], Bernard insisted on Mary's central role in Christian theology and preached effectively on Marian devotions. He developed the theology of her role as [[Co-Redemptrix]] and mediator.<ref>{{Cite book |last=Maunder |first=Chris |url=https://books.google.com/books?id=NgulDwAAQBAJ&dq=bernard+virgin+mary&pg=PA333 |title=The Oxford Handbook of Mary |date=2019-08-07 |publisher=Oxford University Press |isbn=978-0-19-879255-0 |pages=306 |language=en}}</ref> 
+
+As a master of prayer, the abbot emphasized the value of personal, experiential friendship with Christ.<ref>{{Cite journal |last=Bynum |first=Caroline Walker |date=1977 |title=Jesus as Mother and Abbot as Mother: Some Themes in Twelfth-Century Cistercian Writing |url=https://www.jstor.org/stable/1509631 |journal=The Harvard Theological Review |volume=70 |issue=3/4 |pages=257–284 |jstor=1509631 |issn=0017-8160}}</ref> 
+
+===Schism===
+Bernhard made a self-confident impression and had an undeniable charisma in the eyes of his contemporaries; "his first and greatest miracle," wrote the historian Holdsworth, "was himself."<ref>{{Citation |last=Holdsworth |first=Christopher |title=Bernard of Clairvaux: his first and greatest miracle was himself |date=2012-11-22 |work=The Cambridge Companion to the Cistercian Order |pages=173–185 |editor-last=Birkedal Bruun |editor-first=Mette |url=https://www.cambridge.org/core/product/identifier/CCO9780511735899A024/type/book_part |access-date=2024-10-30 |edition=1 |publisher=Cambridge University Press |doi=10.1017/cco9780511735899.017 |isbn=978-1-107-00131-2}}</ref> He defended the rights of the church against the encroachments of kings and princes, and recalled to their duty [[Henri Sanglier]], archbishop of Sens and [[Stephen of Senlis]], bishop of Paris. When Honorius II died in 1130, a [[Papal schism of 1130|schism]] broke out in the Church by the election of two popes, [[Pope Innocent II]] and [[Antipope Anacletus II]]. Innocent, having been banished from Rome by Anacletus, took refuge in France. King Louis VI convened a national council of the French bishops at [[Étampes]] and Bernard, summoned there by the bishops, was chosen to judge between the rival popes. He decided in favour of Innocent.<ref>{{Cite journal |last=White |first=Hayden V. |date=1960 |title=The Gregorian Ideal and Saint Bernard of Clairvaux |url=https://www.jstor.org/stable/2708141 |journal=Journal of the History of Ideas |volume=21 |issue=3 |pages=321–348 |doi=10.2307/2708141|jstor=2708141 }}</ref>
+
+Bernard travelled on to Italy and reconciled [[Pisa]] with [[Genoa]], and [[Milan]] with the pope. The same year Bernard was again at the [[Council of Reims]] at the side of Innocent II. He then went to [[Aquitaine]] where he succeeded for the time in detaching [[William X, Duke of Aquitaine]], from the cause of Anacletus.
+[[File:Marten Pepijn - Saint Bernard and the Duke of Aquitaine.jpg|thumb|left|''Saint Bernard and the Duke of Aquitaine'', by [[Marten Pepijn]]]]
+
+[[Germany]] had decided to support Innocent through [[Norbert of Xanten]], who was a friend of Bernard's. Pope Innocent, however, insisted on Bernard's company when he met with [[Lothair II, Holy Roman Emperor]]. Lothair II became Innocent's strongest ally among the nobility. Although the councils of Étampes, [[Würzburg]], [[Council of Clermont|Clermont]], and [[Rheims]] all supported Innocent, large portions of the Christian world still supported Anacletus.
+
+In a letter by Bernard to German Emperor Lothair regarding Antipope Anacletus, Bernard wrote, "It is a disgrace for Christ that a Jew sits on the throne of St. Peter's" and "Anacletus has not even a good reputation with his friends, while Innocent is illustrious beyond all doubt." (One of Anacletus' great-great-grandparents, Benedictus, maybe Baruch in Hebrew, was a Jew who had converted to Christianity - but Anacletus himself was not a Jew, and his family had been Christians for three generations).<ref>{{Cite web | url=http://www.treccani.it/enciclopedia/pierleoni/ | title=Pierleóni nell'Enciclopedia Treccani}}</ref>
+
+Bernard wrote to Gerard of Angoulême (a letter known as Letter 126), which questioned Gerard's reasons for supporting Anacletus. Bernard later commented that Gerard was his most formidable opponent during the whole schism. After persuading Gerard, Bernard traveled to visit [[William X, Duke of Aquitaine]]. He was the hardest for Bernard to convince. He did not pledge allegiance to Innocent until 1135. After that, Bernard spent most of his time in [[Italy]] persuading the Italians to pledge allegiance to Innocent.
+
+In 1132, Bernard accompanied Innocent II into Italy, and at Cluny the pope abolished the dues which Clairvaux used to pay to that abbey. This action gave rise to a quarrel between the [[Cistercians|White Monks]] and the Black Monks which lasted 20 years. In May of that year, the pope, supported by the army of Lothair III, entered Rome, but Lothair III, feeling himself too weak to resist the partisans of Anacletus, retired beyond the Alps, and Innocent sought refuge in Pisa in September 1133. Bernard had returned to France in June and was continuing the work of peacemaking which he had commenced in 1130.
+
+Towards the end of 1134, he made a second journey into Aquitaine, where William X had relapsed into schism. Bernard invited William to the Mass which he celebrated in the Church of La Couldre. At the [[Eucharist]], he "admonished the Duke not to despise God as he did His servants".{{sfn|Gildas|1907}} William yielded and the schism ended.
+
+Bernard went again to Italy, where [[Roger II of Sicily]] was endeavouring to withdraw the Pisans from their allegiance to Innocent. He recalled the city of Milan to obedience to the pope as they had followed the deposed [[Anselm V, Archbishop of Milan]]. For this, he was offered, and he refused, the [[Archbishop of Milan|see of Milan]]. He then returned to Clairvaux. Believing himself at last secure in his cloister, Bernard devoted himself to the composition of the works which won for him the title of "Doctor of the Church". He wrote at this time his sermons on the [[Song of Songs]].{{efn|Other mystics such as [[John of the Cross]] also found their language and symbols in Song of Songs.{{sfn|Cunningham|Egan|1996|p=128}}}}
+
+In 1137, he was again forced to leave the abbey by order of the pope to put an end to the quarrel between Lothair and Roger of Sicily. At the conference held at Palermo, Bernard succeeded in convincing Roger of the rights of Innocent II. He also silenced the final supporters who sustained the schism. Anacletus died of "grief and disappointment" in 1138, and with him the schism ended.{{sfn|Gildas|1907}}{{sfn|Cristiani|1977|p=}}
+
+In 1139, Bernard assisted at the [[Second Council of the Lateran]], in which the surviving adherents of the schism were definitively condemned. About the same time, Bernard was visited at Clairvaux by [[Saint Malachy|Malachy]], [[Primate of All Ireland]], and a very close friendship formed between them. Malachy wanted to become a Cistercian, but the pope would not give his permission. Malachy died at Clairvaux in 1148.{{sfn|Gildas|1907}}
+
+===Conflict with Abelard===
+Towards the close of the 11th century, a spirit of independence flourished within schools of [[philosophy]] and [[theology]]. The movement found an ardent and powerful advocate in [[Peter Abelard]]. Abelard's treatise on the [[Trinity]] had been condemned as heretical in 1121, and he was compelled to throw his own book into a fire. However, Abelard continued to develop his controversial teachings. Bernard is said to have held a meeting with Abelard intending to persuade him to amend his writings, during which Abelard repented and promised to do so. But once out of Bernard's presence, he reneged.{{sfn|Evans|2000|pp=115–123}}
+
+Bernard then denounced Abelard to the pope and cardinals of the [[Roman Curia|Curia]]. Abelard sought a debate with Bernard, but Bernard initially declined, saying he did not feel matters of such importance should be settled by logical analyses. Bernard's letters to [[William of St-Thierry]] also express his apprehension about confronting the preeminent logician. Abelard continued to press for a public debate, and made his challenge widely known, making it hard for Bernard to decline. In 1141, at the urgings of Abelard, the archbishop of Sens called a council of bishops, where Abelard and Bernard were to put their respective cases so Abelard would have a chance to clear his name.{{sfn|Evans|2000|pp=115–123}}
+
+Bernard lobbied the prelates on the evening before the debate, swaying many of them to his view. The next day, after Bernard made his opening statement, Abelard decided to retire without attempting to answer.{{sfn|Evans|2000|pp=115–123}} The council found in favour of Bernard and their judgment was confirmed by the pope. Abelard submitted without resistance, and he retired to Cluny to live under the protection of [[Peter the Venerable]], where he died two years later.
+
+===The challenge of heresy===
+Bernard had occupied himself in sending bands of monks from his overcrowded monastery into Germany, Sweden, England, Ireland, Portugal, Switzerland, and Italy. Some of these, at the command of Innocent II, took possession of [[Tre Fontane Abbey]], from which [[Eugene III]] was chosen in 1145. Pope Innocent II died in the year 1143. His two successors, [[Pope Celestine II]] and [[Pope Lucius II]], reigned only a short time, and then Bernard saw one of his disciples, Bernard of Pisa, and known thereafter as Eugene III, raised to the [[Chair of Saint Peter]]. Bernard sent him, at the pope's own request, various instructions which comprise the often-quoted ''[[De consideratione]].'' Its main argument is that church reform ought to start with the pope. Temporal matters are merely accessories; Bernard insists that piety and meditation were to precede action.{{sfn|McManners|1990|p=210}}
+
+Having previously helped end the schism within the Church, Bernard was now called upon to combat heresy. [[Henry of Lausanne]], a former [[Cluny Abbey|Cluniac]] monk, had adopted the teachings of the [[Petrobrusians]], followers of [[Peter of Bruys]] and spread them in a modified form after Peter's death. Henry of Lausanne's followers became known as [[Henricians]]. In June 1145, at the invitation of Cardinal [[Alberic of Ostia]], Bernard traveled in southern France. His preaching, aided by his ascetic looks and simple attire, helped doom the new sects. Both the Henrician and the Petrobrusian faiths began to die out by the end of that year. Soon afterwards, Henry of Lausanne was arrested, brought before the [[bishop of Toulouse]], and probably imprisoned for life. In a letter to the people of Toulouse, undoubtedly written at the end of 1146, Bernard calls upon them to extirpate the last remnants of the heresy. He also preached against [[Catharism]].
+
+== Monastic and clerical preaching ==
+As abbot, Bernard often addressed his community, but he also spoke to other monastics and, in one particularly famous case, to students of Theology in Paris. He gave the sermon ''Ad clericos de conversione'' (to clerics on conversion) in 1139 or early 1140, to a group of scholars and student clerics.<ref>{{Cite web |last=Billy |first=Dennis |date=1995-12-24 |title=Preaching Conversion through the Beatitudes: Bernard of Clairvaux's Ad clericos de conversione |url=https://media.christendom.edu/1995/12/preaching-conversion-through-the-beatitudes-bernard-of-clairvauxs-ad-clericos-de-conversione/ |access-date=2024-10-15 |website=Christendom Media |language=en-US}}</ref> His many sermons on the [[Song of Songs]] belong to the often-studied sermons he addressed to the monks at Clairvaux.<ref>{{Cite journal |last=Krahmer |first=Shawn M. |date=2000 |title=The Virile Bride of Bernard of Clairvaux |url=https://www.jstor.org/stable/3169582 |journal=Church History |volume=69 |issue=2 |pages=304–327 |doi=10.2307/3169582 |jstor=3169582 |issn=0009-6407}}</ref>
+
+== Crusade preaching ==
+
+===Second Crusade (1146–49)===
+[[File:Saint-Bernard prêchant la 2e croisade, à Vézelay, en 1146.jpg|thumb|Saint Bernard preaching the second crusade in [[Vézelay]] in 1146. ]]
+News came at this time from the [[Holy Land]] that alarmed [[Christendom]]. Christians had been defeated at the [[Siege of Edessa (1144)|Siege of Edessa]] and most of the county had fallen into the hands of the [[Seljuq dynasty|Seljuk Turks]].{{sfn|Riley-Smith|1991|p=48}} The [[Kingdom of Jerusalem]] and the other [[Crusader states]] were threatened with similar disaster. Deputations of the bishops of [[Armenian Kingdom of Cilicia|Armenia]] solicited aid from the pope, and the King of France also sent ambassadors. In 1144 Eugene III commissioned Bernard to preach the Second Crusade and granted the same [[indulgence]]s for it which [[Pope Urban II]] had accorded to the [[First Crusade]]<!--what were they? 1st Crusade article doesn't mention-->.{{sfn|Durant|1950|p=594}}
+
+There was at first virtually no popular enthusiasm for the crusade as there had been in 1095. Bernard found it expedient to dwell upon taking the cross as a potent means of gaining absolution for sin and attaining grace. On 31 March, with King [[Louis VII of France]] present, he preached to an enormous crowd in a field at [[Vézelay]], making "the speech of his life".{{sfn|Norwich|2012|p=}} When he had finished, the many of his listeners enlisted; they supposedly ran out of the cloth used to make crosses for the new recruits.{{sfn|Durant|1950|p=594}}{{sfn|Norwich|2012|p=}}
+
+Unlike the First Crusade, the new venture attracted royalty, such as the French queen [[Eleanor of Aquitaine]] and scores of high aristocrats and bishops. But an even greater show of support came from the common people. Bernard wrote Pope Eugene a few days afterwards, "Cities and castles are now empty. There is not left one man to seven women, and everywhere there are widows to still-living husbands."<ref>{{Cite book |last1=Durant |first1=Will |url=https://books.google.com/books?id=btIOAQAAIAAJ&q=%22not+left+one+man+to+seven+women%22 |title=The age of Faith; a history of medieval civilization (Christian, Islamic, and Judaic) from Constantine to Dante, A.D. 325-1300 |last2=Durant |first2=Ariel |date=1935 |publisher=Simon and Schuster |series=The Story of Civilization |pages=594 |language=en}}</ref>
+
+Bernard then passed into Germany, with reported miracles contributing to the success of his mission. [[Conrad III of Germany]] and his nephew [[Frederick I, Holy Roman Emperor|Frederick Barbarossa]], received the cross from the hand of Bernard.{{sfn|Riley-Smith|1991|p=48}} Pope Eugenius came in person to France to encourage the enterprise. As in the First Crusade, the preaching led to attacks on [[Jews]]; a fanatical French monk named [[Radulf the Cistercian|Radulphe]] was apparently inspiring massacres of Jews in the Rhineland, [[Cologne]], [[Mainz]], [[Worms, Germany|Worms]], and [[Speyer]], with Radulphe claiming Jews were not contributing financially to the rescue of the Holy Land. The [[archbishop of Cologne]] and the [[archbishop of Mainz]] were vehemently opposed to these attacks and asked Bernard to denounce them. This he did, but when the campaign continued, Bernard traveled from Flanders to Germany to deal with the problems in person. He then found Radulphe in Mainz and was able to silence him, returning him to his monastery.{{sfn|Durant|1950|p=391}}
+
+The last years of Bernard's life were saddened by the failure of the Second Crusade he had preached, the entire responsibility for which was thrown upon him. Bernard sent an apology to the Pope and it is inserted in the second part of his ''"Book of Considerations".'' There he explains how the sins of the crusaders were the cause of their misfortune and failures.
+
+=== Wendish Crusade (1147) ===
+Bernard did not actually preach the [[Wendish Crusade]], but he did write a letter that advocated subduing this group of Western Slavs, so that they should not be an obstacle to the Second Crusade. He was for battling them "until such a time as, by God's help, they shall either be converted or deleted".<ref>{{Cite book|last=Christiansen|first=Eric|url=https://www.worldcat.org/oclc/38197435|title=The northern Crusades|date=1997|publisher=Penguin|isbn=0-14-026653-4|edition=2nd, new|location=London, England|pages=53|oclc=38197435}}</ref> A decree issued in Frankfurt stated that the letter should be proclaimed widely and read aloud, so that "the letter functioned as a sermon."<ref>Beverly Kienzle (2001): Bernard of Clairvaux, the 1143/44 Sermons and the 1145 Preaching Mission: From the Domestic to the Lord’s Vineyard. In: ''Cistercians, Heresy and Crusade in Occitania, 1145–1229: Preaching in the Lord’s Vineyard''. Boydell & Brewer, pp. 81-82.</ref>
+
+==Final years (1149–53)==
+[[File:BernhardClairvaux Lactatio SourceUnknown.jpg|thumb|Bernard receiving milk from the breast of the Virgin Mary. The scene is a legend which took place at [[Speyer Cathedral]] in 1146.]]
+The death of his contemporaries served as a warning to Bernard of his own approaching end. The first to die was Suger in 1152, of whom Bernard wrote to Eugene III, "If there is any precious vase adorning the palace of the King of Kings it is the soul of the venerable Suger."<ref>{{Cite book |last=Ratisbonne |first=Theodore |title=The Life and Times of St. Bernard |year=2023 |publication-date=1859 |pages=465}}</ref> Conrad III and his son Henry died the same year. Bernard died at age sixty-three on 20 August 1153, after forty years of monastic life. He was buried at Clairvaux Abbey. After its destruction in 1792 by the [[French Revolution|French revolutionary government]] his remains were transferred to [[Troyes Cathedral]].
+
+==Legacy==
+Bernard's theology and Mariology continue to be of major importance.{{efn|His texts are prescribed reading in Cistercian congregations.}} Bernard helped found 163 monasteries in different parts of Europe. Cistercians honour him as one of the greatest early Cistercians. His feast day is 20 August.
+
+Bernard is [[Dante Alighieri]]'s last guide, in ''[[Divine Comedy]]'', as he travels through the [[Empyrean]].<ref>''[[Paradiso (Dante)|Paradiso]]'', cantos XXXI–XXXIII</ref>
+
+[[John Calvin]] and [[Martin Luther]] quoted Bernard several times{{sfn|Lane|1999|p=100}} in support of the doctrine of ''[[Sola Fide]].''{{sfn|Calvin|1960|loc=bk.3 ch.2 §25, bk.3 ch.12 §3}}{{sfn|Luther|1930|p=130}} Calvin also quotes him in setting forth his doctrine of a forensic alien righteousness, or as it is commonly called [[imputed righteousness]].{{sfn|Calvin|1960|loc=bk.3 ch.11 §22, bk.3 ch.25 §2}}
+Bernard introduced a major shift, a "fundamental reorientation" into medieval theology.<ref>{{Cite journal |last=Sommerfeldt |first=John R. |date=2000 |title=Review of ''Bernard of Clairvaux'' by G. R. Evans |url=https://www.jstor.org/stable/25025831 |journal=The Catholic Historical Review |volume=86 |issue=4 |pages=661–663 |jstor=25025831 |issn=0008-8080}}</ref>
+
+The [[Couvent et Basilique Saint-Bernard]], a collection of buildings dating from the 12th, 17th, and 19th centuries, is dedicated to Bernard and stands in his birthplace of [[Fontaine-lès-Dijon]].<ref name="culture.gouv.fr" /> Countless churches and chapels have St. Bernard as their patron saint.
+
+On November 11, 2024, [[Pope Francis]] remembered Bernard's [[millenium]] and the ninth [[Centennial|centenary]] since his [[canonization]] with a papal [[Audience (meeting)|audience]] attended by Canons Regular of Great Saint Bernard and the [[Roman Catholic Diocese of Aosta|Roman Catholic Diocese of Aosta]]'s representatives at the [[Apostolic Palace]]. As patron saint of [[Mountaineering|mountaineers]], he was bestowed a [[pickaxe]] by the people of [[Aosta]].<ref>{{cite news |last1= Brockhaus|first1= Hannah |title=Pope Francis marks first millennium since birth of St. Bernard, patron of mountaineers|url=https://www.catholicnewsagency.com/news/260395/pope-francis-marks-first-millennium-since-birth-of-st-bernard-patron-of-mountaineers |accessdate=November 13, 2024 |work= [[Catholic News Agency]]|date=November 11, 2024}}</ref>
+
+==Works==
+[[File:StBernardFS.jpg|thumb|An [[engraving]] of The [[Lactation of Saint Bernard]]. The Virgin Mary is shooting milk into the eye of Saint Bernard of Clairvaux from her right breast.]]
+The modern critical edition is ''{{lang|la|Sancti Bernardi opera}}'' (1957–1977), edited by [[Jean Leclercq (monk)|Jean Leclercq]].{{sfn|SBOp}}{{efn|For a research guide see {{harvtxt|McGuire|2013}}.}}
+
+Bernard's works include:
+
+*{{cite book|author=Bernard of Clairvaux|display-authors=0|date=c. 1120|title=De gradibus humilitatis et superbiae|trans-title=The steps of humility and pride|language=la}}{{sfn|PL|loc=182, cols. 939–972c}}
+*{{cite book|author=Bernard of Clairvaux|display-authors=0|title=Apologia ad Guillelmum Sancti Theoderici Abbatem|trans-title=Apology to William of St. Thierry|language=la|title-link=Apologia ad Guillelmum}} Written in the defence of the Cistercians against the claims of the monks of Cluny.{{sfn|PL|loc=182, cols. 893–918a}}
+*{{cite book|author=Bernard of Clairvaux|display-authors=0|year=1122|title=De conversione ad clericos sermo seu liber|trans-title=On the conversion of clerics|language=la}}{{sfn|PL|loc=182, cols. 833–856d}}
+*{{cite book|author=Bernard of Clairvaux|display-authors=0|year=c. 1128|title=De gratia et libero arbitrio|trans-title=On grace and free choice|language=la}}.{{sfn|PL|loc=182, cols. 999–1030a}}
+*{{cite book|author=Bernard of Clairvaux|display-authors=0|title=De diligendo Dei|trans-title=On loving God|language=la}}{{sfn|PL|loc=182, cols. 971–1000b}}
+*{{cite book|author=Bernard of Clairvaux|display-authors=0|year=1129|title=Liber ad milites templi de laude novae militiae|trans-title=In Praise of the new knighthood|language=la|title-link=Liber ad milites templi de laude novae militiae}}{{sfn|PL|loc=182, cols. 917–940b}}<ref>{{Cite book | url=https://books.google.com/books?id=fejcEAAAQBAJ |title =In Praise of the New Chivalry |isbn = 9798868923982 |last1 = Curtin|first1 = D. P.|date = June 2011|publisher =Dalcassian Publishing Company }}</ref>
+*{{cite book|author=Bernard of Clairvaux|display-authors=0|year=c. 1144|title=De praecepto et dispensatione libri|trans-title=Book of precepts and dispensations|language=la}}{{sfn|PL|loc=182, cols. 857–894c}}
+*{{cite book|author=Bernard of Clairvaux|display-authors=0|date=c. 1150|title=De consideratione|trans-title=On consideration|language=la}} Addressed to Pope Eugene III.{{sfn|PL|loc=182, cols. 727–808a}}
+*{{cite book|author=Bernard of Clairvaux|display-authors=0|title=Liber De vita et rebus gestis Sancti Malachiae Hiberniae Episcopi|trans-title=The life and death of Saint Malachy, bishop of Ireland|language=la}} {{sfn|PL|loc=182, cols. 1073–1118a}}
+*''[[De moribus et officio episcoporum]]'' (in Latin). A letter to Henri Sanglier, Archbishop of Sens on the duties of bishops.{{refn|Ep. 42 ({{harvnb|PL|loc=182, cols. 807–834a}}).}}
+
+His sermons are also numerous:
+
+* Most famous are his ''{{lang|la|Sermones super Cantica Canticorum}}'' (''Sermons on the Song of Songs''). They may have found their origins in sermons preached to the monks of Clairvaux, but theories differ.{{efn|For a history of the debate over the ''Sermons'', and an attempted solution, see {{harvc|last=Leclercq|first=Jean|chapter=Introduction|pp=vii–xxx|in=Walsh|year=1976}}}} These sermons contain an autobiographical passage, sermon 26, mourning the death of his brother, Gerard.{{sfn|Verbaal|2004}}{{sfn|PL|loc=183, cols. 785–1198A}} After Bernard died, the English Cistercian [[Gilbert of Hoyland]] continued Bernard's incomplete series of 86 sermons on the biblical Song of Songs.
+* There are 125 surviving ''{{lang|la|Sermones per annum}}'' (''Sermons on the Liturgical Year'').
+* There are also ''{{lang|la|Sermones de diversis}}'' (''Sermons on Different Topics'').
+* 547 letters survive.{{sfn|SBOp|loc=v. 7–8}}
+ 
+Many letters, treatises, and other works were falsely attributed to him.{{sfn|Gildas|1907}} These include:
+*{{cite book|author=pseudo-Bernard (pseud. of Guigo I)|author-link=Guigo I|year=c. 1150|title=L'échelle du cloître|trans-title=The scale of the cloister|type=letter|language=fr}}{{sfn|Gildas|1907}}
+*{{cite book|author=pseudo-Bernard|title=Meditatio|trans-title=Meditations|language=la}} This was probably written at some point in the thirteenth century. It circulated extensively in the Middle Ages under Bernard's name and was one of the most popular religious works of the later Middle Ages. Its theme is self-knowledge as the beginning of wisdom; it begins with the phrase "Many know much, but do not know themselves".{{sfn|PL|loc=184, cols. 485–508}}{{sfn|Bestul|2012|p=164}}{{sfn|Gildas|1907}}
+*{{cite book|author=pseudo-Bernard|title=L'édification de la maison intérieure|language=fr}}{{sfn|Gildas|1907}}
+
+===Translations===
+* ''On consideration'', trans by George Lewis, (Oxford, 1908) https://books.google.com/books?id=kkoJAQAAIAAJ
+* ''Select treatises of S. Bernard of Clairvaux: De diligendo Deo & De gradibus humilitatis et superbiae'', (Cambridge: CUP, 1926)
+* ''On loving God, and selections from sermons'', edited by Hugh Martin, (London: SCM Press, 1959) [reprinted as (Westport, CO: Greenwood Press, 1981)]
+* ''Cistercians and Cluniacs: St. Bernard's Apologia to Abbot William'', translated by Michael Casey. Cistercian Fathers series no. 1, (Kalamazoo: Cistercian Publications, 1970)
+* ''The works of Bernard of Clairvaux. Vol.1, Treatises, 1'', edited by M. Basil Pennington. Cistercian Fathers Series, no. 1. (Spencer, Mass.: Cistercian Publications, 1970) [contains the treatises ''Apologia to Abbot William'' and ''On Precept and Dispensation'', and two shorter liturgical treatises]
+* Bernard of Clairvaux, ''On the Song of Songs'', 4 vols, Cistercian Fathers series nos 4, 7, 31, 40, (Spencer, MA: Cistercian Publications, 1971–80)
+* ''Letter of Saint Bernard of Clairvaux on revision of Cistercian chant = Epistola S[ancti] Bernardi de revisione cantus Cisterciensis'', edited and translated by Francis J. Guentner, ([[American Institute of Musicology]], 1974)
+* ''Treatises II : The steps of humility and pride on loving God'', Cistercian Fathers series no. 13 (Washington: Cistercian Publications, 1984)
+* ''[[De consideratione|Five books on consideration]]: advice to a Pope'', translated by John D. Anderson & Elizabeth T. Kennan. Cistercian Fathers Series no. 37. (Kalamazoo, MI: Cistercian Publications, 1976)
+* ''The Works of Bernard of Clairvaux. Volume Seven, Treatises III: On Grace and free choice. In praise of the new knighthood'', translated by Conrad Greenia. Cistercian Fathers Series no. 19, (Kalamazoo, Mich.: Cistercian Publications Inc., 1977)
+* ''The life and death of Saint Malachy, the Irishman'' translated and annotated by Robert T. Meyer, (Kalamazoo, Mich.: Cistercian Publications, 1978)
+* Bernard of Clairvaux, ''Homiliae in laudibus Virginis Matris'', in ''Magnificat: homilies in praise of the Blessed Virgin Mary'' translated by Marie-Bernard Saïd and Grace Perigo, Cistercian Fathers Series no. 18, (Kalamazoo, MI: Cistercian Publications, 1979)
+* ''Sermons on Conversion: on conversion, a sermon to clerics and Lenten sermons on the psalm "He Who Dwells"'', Cistercian Fathers Series no. 25, (Kalamazoo, MI: Cistercian Publications, 1981)
+* Bernard of Clairvaux, ''Song of Solomon'', translated by Samuel J. Eales, (Minneapolis, MN: Klock & Klock, 1984)
+* ''St. Bernard's sermons on the Blessed Virgin Mary,'' translated from the original Latin by a priest of Mount Melleray, (Chumleigh: Augustine, 1984)
+* Bernard of Clairvaux, ''The twelve steps of humility and pride; and, On loving God'', edited by Halcyon C. Backhouse, (London: Hodder and Stoughton, 1985)
+* ''St. Bernard's sermons on the Nativity'', translated from the original Latin by a priest of Mount Melleray, (Devon: Augustine, 1985)
+* ''Bernard of Clairvaux : selected works'', translation and foreword by G.R. Evans; introduction by Jean Leclercq; preface by Ewert H. Cousins (New York: Paulist Press, 1987) [contains the treatises ''On conversion, On the steps of humility and pride, On consideration'', and ''On loving God''; extracts from ''Sermons on The song of songs'', and a selection of letters]
+* Conrad Rudolph, ''The 'Things of Greater Importance': Bernard of Clairvaux's Apologia and the Medieval Attitude Toward Art'', (Philadelphia: University of Pennsylvania Press, 1990) [Includes the ''Apologia'' in both Leclercq's Latin text and English translation]
+* ''Love without measure: extracts from the writings of St Bernard of Clairvaux'', introduced and arranged by Paul Diemer, Cistercian studies series no. 127, (Kalamazoo, Mich. : Cistercian Publications, 1990)
+* ''Sermons for the summer season: liturgical sermons from Rogationtide and Pentecost'', translated by Beverly Mayne Kienzle; additional translations by James Jarzembowski, (Kalamazoo, Mich: Cistercian Publications, 1991)
+* Bernard of Clairvaux, ''On loving God'', Cistercian Fathers series no. 13B, (Kalamazoo, MI: Cistercian Publications, 1995)
+* Bernard of Clairvaux, ''The parables & the sentences'', edited by Maureen M. O'Brien. Cistercian Fathers Series no. 55, (Kalamazoo, MI: Cistercian Publications, 2000)
+* Bernard of Clairvaux, ''On baptism and the office of bishops, on the conduct and office of bishops, on baptism and other questions: two letter-treatises'', translated by [[Pauline Matarasso]]. Cistercian Fathers Series no. 67, (Kalamazoo, MI: Cistercian Publications, 2004)
+* Bernard of Clairvaux, ''Sermons for Advent and the Christmas season'' translated by Irene Edmonds, Wendy Mary Beckett, Conrad Greenia; edited by John Leinenweber; introduction by Wim Verbaal. Cistercian Fathers Series no. 51, (Kalamazoo, MI: Cistercian Publications, 2007)
+* Bernard of Clairvaux, ''Sermons for Lent and the Easter Season'', edited by John Leinenweber and Mark Scott, OCSO. Cistercian Fathers Series no. 52, (Kalamazoo, MI: Cistercian Publications, 2013)
+
+==References==
+===Notes===
+{{notelist}}
+
+===Citations===
+{{reflist|30em|refs=
+<ref name="NLS">{{Cite web |title=Notable Lutheran Saints |work=resurrectionpeople.org |access-date=21 August 2020 |url=http://www.resurrectionpeople.org/saints.html |archive-date=16 May 2019 |archive-url=https://web.archive.org/web/20190516024927/http://www.resurrectionpeople.org/saints.html |url-status=dead }}</ref>
+
+<ref name="EiA">{{cite web|title=Expositio in Apocalypsim|type=manuscript|id=MS Mm.5.31|url=http://cudl.lib.cam.ac.uk/view/MS-MM-00005-00031/229|website=Cambridge Digital Library|access-date=26 January 2016}}</ref>
+
+<ref name="culture.gouv.fr">{{Base Mérimée|PA00112467|Couvent et Basilique Saint-Bernard}}</ref>
+
+}}
+
+===Sources===
+{{refbegin|30em|indent=yes}}
+*{{cite book|author=Anon.|title=Holy Women, Holy Men: Celebrating the Saints|url=https://books.google.com/books?id=2I6RmJ4JiuAC&pg=PA534|year=2010|publisher=Church Publishing, Inc.|isbn=978-0-89869-637-0}}
+*{{cite EB1911|last=Alphandéry|first=Paul D.|wstitle=Henry of Lausanne|volume=13|pages=298–299}}
+* Pierre Aubé: Saint Bernard de Clairvaux, Paris, éd. Fayard, 2003, 812 pages.
+*{{cite book|author=Bernard of Clairvaux|year=1976|translator-last=Walsh|translator-first=Kilian|title=On the Song of Songs II|series=Cistercian Fathers series|volume=7|location=Kalamazoo, MI|publisher=Cistercian Publications|oclc=2621974|url=https://books.google.com/books?id=LSQmAQAAMAAJ|ref={{SfnRef|Walsh|1976}}|isbn=9780879077075}}
+*{{cite book|author=Bernard of Clairvaux|year=1998|translator-last=James|translator-first=Bruno Scott|title=The letters of St Bernard of Clairvaux|series=Cistercian Fathers series|volume=62|location=Kalamazoo, MI|publisher=Cistercian Publications|isbn=9780879071622|ref={{SfnRef|James|1998}}}}
+*{{cite book|author=Bernard of Clairvaux|editor-last=Mabillon|editor-first=Jean|editor-link=Jean Mabillon|title=Opera omnia|language=la|series=[[Patrologia Latina]]|year=1836|volume=182–185|location=Paris|publisher=[[Jacques Paul Migne]] |url=https://archive.org/details/patrologiaecurs62unkngoog|ref={{SfnRef|PL}}}} 6 tomes in 4 volumes.
+*{{cite book|author=Bernard of Clairvaux|year=1957–1977|editor1-last=Leclerq|editor1-first=Jean|editor2-last=Talbot|editor2-first=Charles H.|editor3-last=Rochais|editor3-first=Henri Marie|title=Sancti Bernardi Opera|language=la|volume=8 volumes in 9|location=Rome|publisher=Éditions cisterciennes|oclc=654190630|ref={{SfnRef|SBOp}}}}
+*{{cite book|last=Bestul|first=Thomas H|year=2012|chapter=''Meditatio''/Meditation|chapter-url=https://books.google.com/books?id=IR7aAgAAQBAJ&pg=PA157|editor1-last=Hollywood|editor1-first=Amy|editor2-last=Beckman|editor2-first=Patricia Z.|title=The Cambridge Companion to Christian Mysticism|location=Cambridge|publisher=Cambridge University Press|isbn=9780521863650}}
+* {{cite book|title=Dante and the Mystical Tradition: Bernard of Clairvaux in the ''Commedia'' |last=Botterill|first=Steven|publisher=Cambridge University Press|location=Cambridge |year=1994}}
+*{{cite book|last=Calvin|first=John|year=1960|editor-last=McNeill|editor-first=John T.|translator-last=Battles|translator-first=Ford Lewis|title=Institutes of the Christian Religion|volume=1|location=Philadelphia|publisher=Westminster Press|oclc=844778472}}
+* {{cite book|last=Cantor|first=Norman|author-link=Norman F. Cantor|title=The Civilization of the Middle Ages | publisher = HarperPerennial | location = New York|year=1994 | isbn = 0-06-092553-1 }}
+*{{cite book|last=Cristiani|first=Léon |title=St. Bernard of Clairvaux, 1090–1153|url=https://books.google.com/books?id=k8QIwQEACAAJ|year=1977|publisher=St. Paul Editions|isbn=978-0-8198-0463-1|translator=M. Angeline Bouchard|oclc=2874038}}
+*{{cite book|last1=Cunningham|first1=Lawrence S.|last2=Egan|first2=Keith J.|year=1996|chapter=Meditation and contemplation|chapter-url=https://books.google.com/books?id=JF3ZYURUsJEC&pg=PA91|title=Christian spirituality: themes from the tradition|location=Mahwah, NJ|publisher=Paulist Press|isbn=978-0-8091-3660-5}}
+* {{cite book|title=Saints and Sinners, a History of the Popes |last=Duffy |first=Eamon | author-link=Eamon Duffy|year=1997}}
+*{{cite book|last=Durant|first=Will |title=The Story of Civilization|url=https://archive.org/details/storyofcivilizat04dura/page/n5/mode/2up?q=clairvaux|volume=IV: The Age of Faith |year=1950|publisher=Simon and Schuster|location=New York}}
+*{{cite CE1913|last=Gildas|first=Marie|wstitle=St. Bernard of Clairvaux|volume=2}}
+* {{cite book|first= Gillian R.|last=Evans | title = Bernard of Clairvaux (Great Medieval Thinkers) | publisher = Oxford University Press| year = 2000 |isbn = 0-19-512525-8 }}
+* {{cite book|last=Gilson |first= Etienne| author-link=Etienne Gilson | title=The mystical theology of St Bernard | publisher=London: Sheed & Ward| year = 1940}}
+*{{cite journal |last1=Kemp |first1=E. W. |title=Pope Alexander III and the Canonization of Saints: The Alexander Prize Essay |journal=Transactions of the Royal Historical Society |date=1945 |volume=27 |pages=13–28 |doi=10.2307/3678572 |issn=0080-4401|jstor=3678572 |s2cid=159681002 }}
+*{{cite book|last=Lane|first=Anthony N. S.|year=1999|title=John Calvin: student of the church fathers|location=Edinburgh|publisher=T & T Clark|isbn=9780567086945|url=https://books.google.com/books?id=uWfbxzvxs1gC&pg=PA100}}
+*{{cite book|last=Ludlow|first=James Meeker|year=1896|title=The Age of the Crusades|series=Ten epochs of church history|volume=6|location=New York|publisher=Christian Literature|oclc=904364803|url=https://archive.org/details/agecrusades01ludlgoog}}
+*{{cite book|last=Luther|first=Martin|year=1930|title=D. Martin Luthers Werke: kritische Gesammtausgabe|language=de, la|volume=40|location=Weimar|publisher=Herman Böhlau}}
+*{{citation|last=McGuire|first=Brian Patrick|date=30 September 2013|title=Bernard of Clairvaux|work=Oxford Bibliographies|publisher=Oxford University Press|doi=10.1093/OBO/9780195396584-0088}}
+* {{cite book| last = McManners | first = John| author-link=John McManners | title = The Oxford Illustrated History of Christianity | url = https://archive.org/details/isbn_9780192852595 | url-access = registration | publisher = Oxford University Press | location = Oxford | year = 1990 | isbn = 0-19-822928-3 }}
+*{{cite web|last=Most|first=William G.|year=1996|title=Mary's Immaculate Conception|website=ewtn.com|location=Irondale, AL|publisher=Eternal Word Television Network|url=https://www.ewtn.com/faith/teachings/marya2.htm|access-date=23 February 2015|archive-url=https://web.archive.org/web/19980219052528/http://www.ewtn.com/faith/teachings/marya2.htm|archive-date=19 February 1998|url-status=live}} Adapted from {{cite book|last=Most|first=William G.|year=1994|title=Our Lady in doctrine and devotion|location=Alexandria, VA|publisher=Notre Dame Institute Press|oclc=855913595}}
+*{{cite book|last=Norwich|first=John Julius |title=The Popes: A History|url=https://books.google.com/books?id=gTVVYAAACAAJ|year=2012|publisher=Vintage|isbn=978-0-09-956587-1}}
+* {{Cite EB1911|wstitle=Bernard, Saint|volume=3|last=Phillips|first=Walter Alison |author-link=Walter Alison Phillips|pages=795–798}}
+* {{cite book|last=Riley-Smith|first=Jonathan|author-link=Jonathan Riley-Smith|title=The Atlas of the Crusades|publisher=Facts on File|location=New York|year=1991|isbn=0-8160-2186-4|url-access=registration|url=https://archive.org/details/atlasofcrusadesc00jona}}
+* {{cite book |last= Runciman | author-link= Steven Runciman| first = Steven | title = The Kingdom of Jerusalem and the Frankish East, 1100–1187| volume=2|publisher = Cambridge University Press | location= Cambridge | year = 1987 | series=A History of the Crusades|isbn = 0-521-34771-8}}
+*{{cite book |last=Smith|first=William|title=Catholic Church Milestones: People and Events That Shaped the Institutional Church|year=2010|publisher=Left Coast|location=Indianapolis|isbn=978-1-60844-821-0|page=32|url=https://books.google.com/books?id=WM8c8VdqCV8C&pg=PA32 }}
+*{{cite book|last=Verbaal|first=Wim|year=2004|chapter=Preaching the dead from their graves: Bernard of Clairvaux's Lament on his brother Gerard|editor1-last=Donavin|editor1-first=Georgiana|editor2-last=Nederman|editor2-first=Cary|editor3-last=Utz|editor3-first=Richard|title=Speculum sermonis: interdisciplinary reflections on the medieval sermon|series=Disputatio|volume=1|location=Turnhout|publisher=Brepols|isbn=9782503513393|pages=113–139|doi=10.1484/M.DISPUT-EB.3.1616}}
+{{refend}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+* {{Gutenberg author | id=9821}}
+* {{Internet Archive author |name=Bernard of Clairvaux}}
+* {{Librivox author |id=4221}}
+* [http://www.bartleby.com/210/8/201.html "St. Bernard, Abbot"], ''Butler's Lives of the Saints''
+* [http://www.binetti.ru/bernardus/ ''Opera omnia Sancti Bernardi Claraevallensis''] his complete works, in Latin
+* [https://web.archive.org/web/20070930020043/http://www.waysideaudio.com/audio/bernard/bernard.html Audio on the life of St. Bernard of Clairvaux] from waysideaudio.com
+* [https://cistopedia.org/imagesofbernard/startpage.htm Database with all known medieval representations of Bernard] 
+* [http://www.christianiconography.info/bernard.html Saint Bernard of Clairvaux] at the [http://www.christianiconography.info/index.html Christian Iconography] web site.
+* [http://www.christianiconography.info/goldenLegend/bernard.htm "Here Followeth the Life of St. Bernard, the Mellifluous Doctor"] from the Caxton translation of the ''Golden Legend''
+* [http://www.fordham.edu/Halsall/source/1150bernard-2accs.asp "Two Accounts of the Early Career of St. Bernard"] by William of Thierry and Arnold of Bonneval
+* [http://www.ewtn.com/library/mary/bernard2.htm Saint Bernard of Clairvaux Abbot, Doctor of the Church-1153] at EWTN Global Catholic Network
+* [http://www.stpetersbasilica.info/Exterior/Colonnades/Saints/St%20Bernard-18/StBernard.htm Colonnade Statue St Peter's Square]
+* [http://openn.library.upenn.edu/Data/0023/html/lewis_e_026.html Lewis E 26 De consideratione (On Consideration) at OPenn]
+* [http://openn.library.upenn.edu/Data/0028/html/ms_484_011.html MS 484/11 Super cantica canticorum at OPenn]
+
+{{Catholic saints}}
+{{Navboxes
+|list=
+{{History of Catholic theology}}
+{{History of the Catholic Church}}
+{{History of Christianity}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bernard Of Clairvaux}}
+[[Category:1090 births]]
+[[Category:1153 deaths]]
+[[Category:12th-century Christian mystics]]
+[[Category:12th-century Christian saints]]
+[[Category:12th-century French Roman Catholic priests]]
+[[Category:12th-century Roman Catholic theologians]]
+[[Category:Christian ethicists]]
+[[Category:Christians of the Second Crusade]]
+[[Category:Cistercian saints]]
+[[Category:Doctors of the Church]]
+[[Category:12th-century French Catholic theologians]]
+[[Category:French Cistercians]]
+[[Category:French male writers]]
+[[Category:French religious writers]]
+[[Category:French Roman Catholic saints]]
+[[Category:Knights Templar]]
+[[Category:Medieval French saints]]
+[[Category:Medieval French theologians]]
+[[Category:People from Fontaine-lès-Dijon]]
+[[Category:Pre-Reformation saints of the Lutheran liturgical calendar]]
+[[Category:Catholic Mariology]]
+[[Category:Roman Catholic mystics]]
+[[Category:Miracle workers]]
+[[Category:12th-century French writers]]
+[[Category:12th-century writers in Latin]]
+[[Category:Anglican saints]]
+[[Category:Monastic theologians]]
+[[Category:Characters in the Divine Comedy]]

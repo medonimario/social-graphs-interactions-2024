@@ -1,0 +1,129 @@
+{{Short description|German Jewish philosopher (1842–1918)}}
+{{Other people|Herman Cohen}}
+{{Infobox philosopher
+|region = [[Western philosophy]]
+|era    = [[19th-century philosophy]]
+|name                = Hermann Cohen
+|image               = Hermann Cohen.jpg
+|caption             = 
+|birth_date          = 4 July 1842<ref>Poma, A. (2007). Hermann Cohen: Judaism and Critical Idealism. In M. Morgan & P. Gordon (Eds.), ''The Cambridge Companion to Modern Jewish Philosophy'' (Cambridge Companions to Religion, pp. 80–101). Cambridge: Cambridge University Press. {{doi|10.1017/CCOL0521813123.005}}</ref>
+|birth_place         = [[Coswig, Saxony-Anhalt|Coswig]], [[Anhalt-Bernburg]], <br>[[German Confederation]]
+|death_date          = {{death date and age|df=yes|1918|4|4|1842|7|4}}
+|death_place         = [[Berlin]], [[German Empire]]
+|nationality         = [[Germany|German]]
+|school_tradition = [[Neo-Kantianism]] ([[Marburg School]])
+|main_interests   = [[Ethics]]
+|notable_ideas    = 
+|influences       = [[Friedrich Albert Lange]], [[Friedrich Adolf Trendelenburg]]
+|influenced       = [[Henry E. Allison]], [[Martin Buber]], [[Ernst Cassirer]], [[Paul Natorp]], [[Leo Strauss]], [[Peter Strawson]], [[Franz Rosenzweig]] 
+|institutions        = [[University of Marburg]]
+|education           = [[Jewish Theological Seminary of Breslau]]<br />[[University of Breslau]]<br />[[University of Berlin]]<br />[[University of Halle]] 
+|doctoral_advisor    = 
+|doctoral_students   = [[Paul Natorp]]<ref>[http://plato.stanford.edu/entries/cohen/ Stanford Encyclopedia of Philosophy "Hermann Cohen"]</ref>
+|notable_students    = [[Ernst Cassirer]]<br />[[Nicolai Hartmann]]<br />[[Franz Rosenzweig]]
+|thesis_title=Die Systematischen Begriffe in Kants Vorkritischen Schriften Nach Ihrem Verhältniss Zum Kritischen Idealismus (The Systematic Terms in Kant's Pre-critical Writings According to Their Relationship to Critical Idealism)|thesis_url=https://philpapers.org/rec/COHDSB|thesis_year=1873
+}}
+
+[[File:Hermann_Cohen_(lithograph_by_Karl_Doerbecker).jpg|thumb|200px|Lithograph by Karl Doerbecker]]
+'''Hermann Cohen''' (4 July 1842&nbsp;– 4 April 1918) was a German [[Jew]]ish [[philosophy|philosopher]], one of the founders of the [[University of Marburg|Marburg]] school of [[neo-Kantianism]], and he is often held to be "probably the most important Jewish philosopher of the nineteenth century".<ref>[https://www.jewishvirtuallibrary.org/jsource/biography/HermannCohen.html Jewish Virtual Library, ''Hermann Cohen'']</ref>
+
+==Biography==
+Cohen was born in [[Coswig, Saxony-Anhalt|Coswig]], in the Principality of [[Anhalt-Bernburg]]. He began to study philosophy early on, and soon became known as a profound [[Immanuel Kant|Kant]] scholar. He was educated at the Gymnasium at [[Dessau]], at the [[Jewish Theological Seminary of Breslau]], and at the universities of [[University of Breslau|Breslau]], [[Humboldt University of Berlin|Berlin]], and [[University of Halle-Wittenberg|Halle]]. In 1873, he became ''[[Privatdozent]]'' in the philosophical faculty of the [[University of Marburg]]; the thesis with which he obtained the ''[[Habilitation|venia legendi]]'' being ''Die systematischen Begriffe in Kant's vorkritischen Schriften nach ihrem Verhältniss zum kritischen Idealismus''.<ref>{{Cite book |last=Cohen |first=Hermann |title=Die systematischen Begriffe in Kants vorkritischen Schriften nach ihrem Verhältniss zum kritischen Idealismus |publisher=F. Dummler |year=1873 |location=Berlin |language=DE}}</ref> Cohen was elected [[Professor extraordinarius]] at Marburg in 1875 and [[Professor ordinarius]] the following year.
+
+He was one of the founders of the "Gesellschaft zur Förderung der [[Wissenschaft des Judenthums]]", which held its first meeting in Berlin in November 1902.
+
+Cohen edited and published [[Friedrich Albert Lange]]'s final philosophical work, ''Logische Studien'' (Leipzig, 1877), and edited and wrote several versions of a long introduction and critical supplement to Lange's ''[[Geschichte des Materialismus]]''.<ref>Second enlarged edition based on the 7th edition of the original, 1902, vol. I.</ref>
+
+He devoted three early volumes to the interpretation of Kant (''Kant's Theory of Experience'', ''Kant's Foundations of Ethics'', and ''Kant's Foundations of Aesthetics'').  In 1902 he began publishing the three volumes of his own systematic philosophy: ''Logik der reinen Erkenntnis'' (1902), ''Ethik des reinen Willens'' (1904) and ''Ästhetik des reinen Gefühls'' (1912). The planned fourth volume on psychology was never written.
+
+Cohen's writings relating more especially to Judaism include several pamphlets, among them "Die Kulturgeschichtliche Bedeutung des Sabbat" (1881) and "Ein Bekenntniss in der Judenfrage" (1880); as well as the following articles: "Das Problem der Jüdischen Sittenlehre" in the "Monatsschrift" xliii. (1899), pp.&nbsp;385–400, 433–449; "Liebe und Gerechtigkeit in den Begriffen Gott und Mensch" in "Jahrbuch für Jüdische Geschichte und Litteratur", III. (1900), pp.&nbsp;75–132; and "Autonomie und Freiheit" in ''Gedenkbuch für [[David Kaufmann]]'' (1900).<ref>https://philpapers.org/archive/PATHCH.pdf {{Bare URL PDF|date=March 2022}}</ref>
+
+Cohen's most famous Jewish works include: ''Religion der Vernunft aus den Quellen des Judentums'' (''Religion of Reason out of the Sources of Judaism'', 1919),<ref>''Metzler Philosophical Lexikon'', article on Hermann Cohen</ref> ''Deutschtum und Judentum'', ''Die Naechstenliebe im Talmud'', and ''Die Ethik des Maimonides''.
+His essay "Die Nächstenliebe im Talmud" was written at the request of the Marburg Königliches Landgericht (3d ed., Marburg, 1888).
+Cohen's Jewish writings are collected in his ''Jüdische Schriften'' (3 vols. ed. Bruno Strauss, Berlin 1924). There is an ongoing new academic edition of Cohen's works, edited by Helmut Holzhey, Hartwig Wiedebach u.a. (Olms, Hildesheim 1977 ff.). Selected writings have published in English translation in ''Hermann Cohen: Writings on Neo-Kantianism and Jewish Philosophy'' (ed. by Samuel Moyn and Robert S. Schine, 2021) and in ''Reason and Hope: Selections from the Jewish Writings of Hermann Cohen'', translated by Eva Jospe (1971).
+
+Cohen was an outspoken critic of [[Zionism]], as he argued that its aspiration to create a Jewish state would lead to "return the Jews to History". In his view, Judaism was inherently [[ahistorical|a-historical]], with a spiritual and moral mission far transcending the [[nationalism|national aims]] of Zionism.
+Despite his attitude, [[Tel Aviv]] has a Hermann Cohen Street.
+
+Cohen is buried in the [[Weißensee Cemetery]] in [[Berlin]].
+
+== Works ==
+:English translations are indented.
+*"Die Platonische Ideenlehre Psychologisch Entwickelt," in "Zeitschrift für Völkerpsychologie," 1866, iv. 9 ("Platonic Ideal Theorie Psychologically Developed")
+*"Mythologische Vorstellungen von Gott und Seele," ib. 1869 ("Mythological Concepts of God and the Soul")
+*"Die dichterische Phantasie und der Mechanismus des Bewusstseins," ib. 1869 ("Poetic Fantasy and Mechanisms of Consciousness")
+* ''Jüdische Schriften''. Introduction by Franz Rosenzweig, edited by Bruno Strauss. Berlin, C. A. Schwetschke: 1924. 
+**Excerpts have been published in English translation: ''Reason and Hope: Selections from the Jewish Writings of Hermann Cohen.'' Translated by Eva Jospe. Cincinnati: Hebrew Union College Press, 1993. (Originally published New York: Norton, 1971, in series: B'nai B'rith Jewish Heritage Classics, with additional material.)
+**Selected translations from the ''Jüdische Schriften'' are found in Part Two of ''Hermann Cohen: Writings on Neo-Kantianism and Jewish Philosophy'' (edited by Samuel Moyn and Robert S. Schine. The Brandeis Library of Modern Jewish Thought. Waltham, MA: Brandeis University Press, 2021). Part One presents chapters from ''Ethik des reinen Willens'' and Part Three essays on the interpretation of Cohen by [[Ernst Cassirer]], [[Franz Rosenzweig]] and [[Alexander Altmann]].
+*"Zur Kontroverse zwischen [[Friedrich Adolf Trendelenburg|Trendelenburg]] und [[Kuno Fischer]]," ib. 1871 ("On the controversy between Trendelenburg and Kuno Fischer")
+*''Kant's Theorie der Erfahrung'', Berlin, 1871; 2d ed., 1885 ("Kant's Theory of Experience").
+** [One central chapter of the 1885 edition is translated as 2015, "The Synthetic Principles," D. Hyder (trans.), in S. Luft (ed.), The Neo-Kantian Reader, Oxford: Routledge.]
+*''Kant's Begründung der Ethik'', Berlin, 1877 ("Kant's Foundations of Ethics")
+*"Platon's Ideenlehre und die Mathematik," Marburg, 1878 ("Mathematics and Theory of Platonic Ideals")
+*''Das Prinzip der Infinitesimalmethode und seine Geschichte: ein Kapitel zur Grundlegung der Erkenntnisskritik'', Berlin, 1883 ("The Principle of the Method of Infintesmals and its History: A Chapter Contributed to Critical Perception") 
+**A short selection is translated as 2015, "Introduction," D. Hyder and L. Patton (trans.), in S. Luft (ed.), The Neo-Kantian Reader, Oxford: Routledge.
+*''Religion der Vernunft aus den Quellen des Judentums.'' (1919, repr. Fourier: 1995) 
+**''Religion of Reason out of the Sources of Judaism.'' Translated, with an introduction, by Simon Kaplan. Introductory essay by Leo Strauss. New York: F. Ungar, 1972.
+*"Spinoza über Staat und Religion, Judentum und Christentum" (1915). 
+**''Spinoza on State and Religion, Judaism and Christianity.'' Translated and with an introduction by Robert S. Schine. Jerusalem: Shalem Press, 2014.
+*"Von Kant's Einfluss auf die Deutsche Kultur," Berlin, 1883 ("On Kant's Influence on German Culture")
+*''Kant's Begründung der Aesthetik'', Berlin, 1889 ("Kant's Foundations of Aesthetics")
+*"Zur Orientierung in den Losen Blättern aus Kant's Nachlass," in "Philosophische Monatshefte," 1890, xx. ("An Orientation to the Loose Pages from Kant's Literary Estate")
+*"[[Leopold Schmidt]]," in "Neue Jahrbücher für Philologie und Pädagogik," 1896, cliv.
+
+==Notes==
+{{reflist}}
+
+== Further reading ==
+* Bienenstock, Myriam. ''Cohen face à Rosenzweig. Débat sur la pensée allemande'' (Paris, Vrin, 2009)
+* Bienenstock, Myriam, ed. ''Hermann Cohen: l'idéalisme critique aux prises avec le matérialisme'' (special issue of the journal ''Revue de métaphysique et de morale'', {{ISSN|0035-1571}}), edited by , Paris, PUF, 2011, 141 pages.
+* Bruckstein, Almuth. ''Cohen's Ethics of Maimonides'', translated with commentary, Madison, Wisc. 2004.
+* Ephraim Chamiel, The Dual Truth, Studies on Nineteenth-Century Modern Religious Thought and its Influence on Twentieth-Century Jewish Philosophy, Academic Studies Press, Boston 2019, Vol II, pp.&nbsp;289–308. 
+* Edgar, Scott. "Hermann Cohen," ''The Stanford Encyclopedia of Philosophy''  (Fall 2015 Edition), Edward N. Zalta (ed.),	 URL = <https://plato.stanford.edu/archives/fall2015/entries/cohen/>.
+* Giovanelli, Marco. "Hermann Cohen's ''Das Princip der Infinitesimal-Methode'': The history of an unsuccessful book," ''Studies in the History and Philosophy of Science Part A,'' Vol. 58: pp.&nbsp;9–23, 2016.
+* Kaplan, Lawrence. "Hermann Cohen's Theory of Sacrifice", in: ''Religion der Vernunft aus den Quellen des Judentums. Tradition und Ursprungsdenken in Hermann Cohens Spätwerk'' (ed. Helmut Holzhey et al.), Hildesheim, 2000.
+* Kohler, George Y. "Finding God's Purpose – Hermann Cohen's Use of Maimonides to Establish the Authority of Mosaic Law", in: ''Journal for Jewish Thought and Philosophy'' 18:1 (2010), 85–115.
+* Kohler, George Y.: “Against the Heteronomy of Halacha – Hermann Cohen’s Implicit Rejection of Kant’s Critique of Judaism”, in: ''Dinei Israel Yearbook'', vol 32, 2018, p. 189-209.
+* Morgain, Stéphane-Marie. ''Le Père Hermann Cohen (1820–1871) – Un romantique au Carmel'', Parole et Silence, 2019.
+* Moses, Stéphane, et al., (eds.) ''Hermann Cohen's Philosophy of Religion''; International Conference in Jerusalem 1996, Hildesheim, 1997.
+* Munk, Reiner. ''Hermann Cohen's Critical Idealism''.  Dordrecht: Springer, 2005. {{ISBN|978-1-4020-4046-7}}.
+* Patton, Lydia. ''Hermann Cohen's History and Philosophy of Science''. Dissertation, McGill University. 2004. 
+* Patton, Lydia. "The Critical Philosophy Renewed: The Bridge Between Hermann Cohen’s Early Work on Kant and Later Philosophy of Science,” ''Angelaki'' 10 (1): 109–118. 2005.
+* Piccinini, Irene Abigail. ''Una guida fedele. L'influenza di Hermann Cohen sul pensiero di Leo Strauss''.  Torino: Trauben, 2007. {{ISBN|978-88-89909-31-7}}.
+* Schwarzschild, Steven. "Franz Rosenzweig's Anecdotes about Hermann Cohen", in: ''Gegenwart im Rückblick: Festgabe für die Jüdische Gemeinde zu Berlin 25 Jahre nach dem Neubeginn'', ed. H. A. Strauss and [[Kurt Grossman|K. R. Grossman]], Heidelberg, 1970, S. 209–218.
+* Schwarzschild, Steven. "The Democratic Socialism of Hermann Cohen", ''[[Hebrew Union College Annual|HUCA]]'' 27 (1956).
+* Schwarzschild, Steven. "Germanism and Judaism - Hermann Cohen's Normative Paradigm of the German-Jewish Symbiosis", in: ''Jews and Germans from 1860 to 1933'', ed. David Bronsen, Heidelberg 1979.
+* Steinby, Lisa. "Hermann Cohen and Bakhtin's early aesthetics," ''Studies in East European Thought'', 63,3 (2011), 227–249.
+* Poma, Andrea. ''The Critical Philosophy of Hermann Cohen'', Albany 1997.
+* Poma, Andrea. "Hermann Cohen: Judaism and Critical Idealism", in: Michael L. Morgan and Peter Eli Gordon (eds.) ''The Cambridge Companion to Modern Jewish Philosophy,'' Cambridge 2007.
+* Zank, Michael. ''The Idea of Atonement in the Philosophy of Hermann Cohen'', Providence 2000.
+
+==External links==
+{{wikiquote}}
+* [http://www.hermann-cohen-gesellschaft.org/ Hermann-Cohen-Gesellschaft], promotes research on Hermann Cohen's work and help bring his philosophy to bear in the forum of current debate.
+* [https://web.archive.org/web/20150828025552/http://www.philosophie.uzh.ch/bibliothek/recherche/hca.html Hermann Cohen Archives at the University of Zurich, Switzerland]
+* [http://criticalidealism.blogspot.com/ The Hermann Cohen Society of North America]
+* {{cite SEP |url-id=cohen |title=Hermann Cohen |last=Edgar |first=Scott}}
+* {{webarchive |url=https://web.archive.org/web/20060319084816/http://www.jewishgates.com/file.asp?File_ID=306 |date=March 19, 2006 |title=Hermann Cohen, Systematizer of Ethical Monotheism }}, JewishGates
+* [https://archives.cjh.org//repositories/5/resources/11856 Digitized archival collection of Hermann Cohen] at the [[Leo Baeck Institute, New York]]
+* {{Find a Grave|6791529}}
+
+{{Authority control}}
+
+
+{{DEFAULTSORT:Cohen, Hermann}}
+[[Category:1842 births]]
+[[Category:1918 deaths]]
+[[Category:People from Coswig, Saxony-Anhalt]]
+[[Category:People from Anhalt-Bernburg]]
+[[Category:German Jewish theologians]]
+[[Category:19th-century German philosophers]]
+[[Category:20th-century German philosophers]]
+[[Category:Jewish philosophers]]
+[[Category:Kantian philosophers]]
+[[Category:Philosophers of Judaism]]
+[[Category:German socialists]]
+[[Category:Jewish socialists]]
+[[Category:Spinoza scholars]]
+[[Category:Jewish ethicists]]
+[[Category:Academic staff of the University of Marburg]]

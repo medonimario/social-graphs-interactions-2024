@@ -1,0 +1,40 @@
+{{short description|Italian politician}}
+{{about|the Italian philosopher||Banfi}}
+{{Use dmy dates|date=January 2024}}
+[[File:Antoniobanfi01.jpg|thumb|Banfi in 1957]]
+'''Antonio Banfi''' (Vimercate, 30 September 1886 – Milano, 22 July 1957) was an Italian philosopher and [[Senate of the Republic (Italy)|senator]]. He is also noted for founding the Italian philosophical school called [[critical rationalism]].<ref>{{Cite book |last=Minazzi |first=Fabio |url=https://books.google.com/books?id=IXJnEAAAQBAJ&dq=antonio+banfi+dino+formaggio&pg=PA323 |title=Historical Epistemology and European Philosophy of Science: Rethinking Critical Rationalism and Transcendentalism |publisher=Springer Nature |year=2022 |isbn=978-3-030-96331-6 |location=Cham |pages=323 |language=en}}</ref>
+
+Although influenced by the [[neo-Kantians]] in [[Marburg]] and [[Edmund Husserl]], whom he knew personally, Banfi moved away from [[idealism]] and instead focused on [[Marxism]], in particular [[historical materialism]]. Banfi joined the [[Italian Communist Party]] in 1947. He was elected to the Italian Senate in 1948 and again in 1953.
+
+Banfi was a chair of the [[University of Milan]]'s History of Philosophy department.<ref name=":0">{{cite book | last=Di Giovanni | first=Piero | title=Le avanguardie della filosofia italiana nel XX. secolo | publisher=FrancoAngeli | publication-place=Milano | date=2002 | isbn=88-464-3693-8 | oclc=50261366 | language=it | page = 157}}</ref> Among his students were [[Dino Formaggio]] and [[Mario Dal Pra]].<ref name=":0" /><ref>{{Cite book |last=Tymieniecka |first=Anna-Teresa |title=Phenomenology World-Wide: Foundations — Expanding Dynamics — Life-Engagements A Guide for Research and Study |publisher=Springer |year=2014 |isbn=978-94-007-0472-5 |location=Dordrecht |pages=482 |language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* Garin, E., "Banfi, Antonio" in Brochert, D. M. (ed.), ''Encyclopedia of Philosophy'', Second Edition, vol. 1 (Thomson Gale, 2006), p.&nbsp;476.
+* Garin, E., ''[https://books.google.com/books?id=sVP3vBmDktQC&pg=PA1292 History of Italian Philosophy]'', vol. 2 (Rodopi, 2008), p.&nbsp;1292.
+* Guiat, C., ''[https://books.google.com/books?id=LNZqz7hdYTkC The French and Italian Communist Parties: Comrades and Culture]'' (Frank Cass Publishers, 2003), pp.&nbsp;144–150.
+
+{{s-start}}
+{{s-par|it-upr}}
+{{s-bef|before=None}}
+{{s-ttl|title=[[Senate of the Republic (Italy)|Italian Senator]] for [[Lombardy]]
+|years=1948–1958}}
+{{s-aft|after=Title jointly held}}
+{{s-end}}
+
+{{ITSenLO}}
+{{Authority control}}
+
+{{DEFAULTSORT:Banfi, Antonio}}
+[[Category:1886 births]]
+[[Category:1957 deaths]]
+[[Category:People from Vimercate]]
+[[Category:Italian Communist Party politicians]]
+[[Category:Senators of Legislature I of Italy]]
+[[Category:Senators of Legislature II of Italy]]
+[[Category:Members of the Italian Senate from Lombardy]]
+[[Category:20th-century Italian philosophers]]
+[[Category:Materialists]]
+[[Category:Manifesto of the Anti-Fascist Intellectuals]]

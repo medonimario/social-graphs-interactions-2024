@@ -1,0 +1,128 @@
+{{Short description|German philosopher, literary figure, and socialite (1743–1819)}}
+{{more citations needed|date=February 2017}}
+{{Infobox philosopher
+| image = Friedrich Heinrich Jacobi portrait.jpg
+| caption =  Portrait of Jacobi, sometimes erroneously identified as portrait of [[Immanuel Kant]]
+| region  = [[Western philosophy]]
+| era  = [[19th-century philosophy]]
+| name = Friedrich Heinrich Jacobi
+| birth_date  = {{birth date|1743|1|25|df=y}}
+| birth_place = [[Düsseldorf]], [[Electorate of the Palatinate]], [[Holy Roman Empire]]
+| death_date  = {{death date and age|1819|3|10|1743|1|25|df=y}}
+| death_place = [[Munich]], [[Kingdom of Bavaria]], [[German Confederation]]
+| children    = [[Carl Wigand Maximilian Jacobi]]
+| relatives   = [[Johann Georg Jacobi]] (brother)
+| school_tradition = [[German idealism]]
+| main_interests    =  [[Common sense realism]], [[religious philosophy]], [[metaphysics]], [[moral philosophy]]
+| influences = [[Adam Smith]], [[Thomas Reid]], [[David Hume]], [[Baruch Spinoza|Spinoza]], [[Gottfried Leibniz|Leibniz]], [[Christian Wolff (philosopher)|Christian Wolff]], [[Johann Wolfgang von Goethe|Goethe]], [[Johann Georg Hamann|Hamann]], [[Immanuel Kant|Kant]], [[Moses Mendelssohn|Mendelssohn]]
+| influenced        = [[Johann Gottlieb Fichte|Fichte]], [[Georg Wilhelm Friedrich Hegel|Hegel]], [[Søren Kierkegaard|Kierkegaard]], [[Martin Heidegger|Heidegger]], [[Moses Mendelssohn|Mendelssohn]], [[Friedrich Wilhelm Joseph Schelling|Schelling]], [[Jakob Friedrich Fries|Fries]], [[Victor Cousin|Cousin]], [[Ludwig Feuerbach]], [[Leo Strauss]]
+|notable_ideas     = ''Glaube'', ''[[Revelation|Offenbarung]]'', [[nihilism]]
+}}
+'''Friedrich Heinrich Jacobi''' ({{IPA|de|jaˈkoːbi|lang}}; 25 January 1743 – 10 March 1819) was a German philosopher, writer and socialite. He is best known for popularizing [[nihilism]] and promoting it as the prime fault of [[Age of Enlightenment|Enlightenment]] thought in the philosophical systems of [[Baruch Spinoza]], [[Immanuel Kant]], [[Johann Gottlieb Fichte]] and [[Friedrich Wilhelm Joseph Schelling]].<ref name="sep">{{cite SEP |url-id=friedrich-jacobi |title=Friedrich Heinrich Jacobi}}</ref>
+
+Jacobi advocated ''Glaube'' (variously translated as [[faith]] or "belief") and [[revelation]] instead of [[speculative reason]]. In this sense, Jacobi can be seen to have anticipated present-day writers who criticize secular philosophy as [[Relativism|relativistic]] and dangerous for religious faith. His aloofness from the ''[[Sturm and Drang]]'' movement was the basis of a brief friendship with [[Johann Wolfgang von Goethe]]. He was the younger brother of poet [[Johann Georg Jacobi]] and the father of the great psychiatrist [[Carl Wigand Maximilian Jacobi|Maximilian Jacobi]].
+
+==Biography==
+
+===Early life===
+He was born at [[Düsseldorf]], the second son of a wealthy sugar merchant, and was educated for a commercial career, which included a brief apprenticeship at a merchant house in Frankfurt-am-Main during 1759. Following, he was sent to [[Geneva]] for general education. Jacobi, of a retiring, meditative disposition, associated himself at Geneva mainly with the literary and scientific circle (of which the most prominent member was [[Georges-Louis Le Sage]]).<ref name=EB1911/>
+
+He studied  closely the works of [[Charles Bonnet]], as well as the political ideas of [[Jean-Jacques Rousseau]] and [[Voltaire]]. In 1763 he was recalled to Düsseldorf, and in the following year he married Elisbeth von Clermont and took over the management of his father's business.<ref name=EB1911/>
+
+After a short time, he gave up his commercial career, and in 1770 he became a member of the council for the duchies of Jülich and Berg.  He distinguished himself by his ability in financial affairs and his zeal in social reform. Jacobi kept up his interest in literary and philosophic matters by an extensive correspondence. His mansion at Pempelfort, near Düsseldorf, was the centre of a distinguished literary circle. He helped to found a new literary journal with [[Christoph Martin Wieland]]. Some of his earliest writings, mainly on practical or economic subjects, were published<ref name=EB1911/> in ''[[Der Teutsche Merkur]].''
+
+Here too appeared in part the first of his philosophic works, ''Edward Allwill's Briefsammlung'' (1776), a combination of romance and speculation. This was followed in 1779 by ''Woldemar'', a philosophic novel, of very imperfect structure, but full of genial ideas, and giving the most complete picture of Jacobi's method of philosophizing.<ref name=EB1911/>
+
+In 1779, he visited [[Munich]] following his appointment as minister and privy councillor for the Bavarian department of customs and commerce. He opposed the mercantilistic policies of Bavaria and intended to liberalize local customs and taxes; but, after a short stay there, differences with his colleagues and with the authorities of [[Bavaria]], as well as his unwillingness to engage in a power struggle, drove him back to Pempelfort. The experience as well as its aftermath led to the publication of two essays in which Jacobi defended [[Adam Smith]]'s theories of [[political economy]]. These essays were followed in 1785 by the work which first brought Jacobi into prominence as a philosopher.<ref name=EB1911/>
+
+===Pantheism controversy===
+{{Main|Pantheism controversy}}
+[[File:JacobiFH.jpg|thumb|Jacobi painting by Johann Friedrich Eich, 1780]]
+A conversation with [[Gotthold Lessing]] in 1780 in which Lessing avowed that he knew no philosophy in the true sense of that word, save Spinozism, led him to a protracted study of [[Baruch Spinoza|Spinoza]]'s works. After Lessing's death, just a couple of months later, Jacobi continued to engage with Spinozism in an exchange of letters with Lessing's close friend [[Moses Mendelssohn]], which began in 1783. These letters, published with commentary by Jacobi as ''Briefe über die Lehre Spinozas'' (1785; 2nd ed., much enlarged and with important Appendices, 1789), expressed sharply and clearly Jacobi's strenuous objection to a dogmatic system in philosophy, and drew upon him the vigorous enmity of the [[Aufklärer]].<ref name=EB1911/>
+
+Jacobi was ridiculed for trying to reintroduce into philosophy the antiquated notion of unreasoning belief, was denounced as an enemy of reason, as a pietist, and as a [[Society of Jesus|Jesuit]] in disguise, and was especially attacked for his use of the ambiguous term "belief". His next important work, ''David Hume über den Glauben, oder Idealismus und Realismus'' (1787), was an attempt to show not only that the term ''[[wikt:Glaube#Noun|Glaube]]'' had been used by the most eminent writers to denote what he had employed it for in the ''Letters on Spinoza'', but that the nature of the cognition of facts as opposed to the construction of inferences could not be otherwise expressed. In this writing, and especially in the Appendix, Jacobi came into contact with the critical philosophy, and subjected the Kantian view of knowledge to searching examination.<ref name=EB1911/>
+
+In 1787, Friedrich Heinrich Jacobi addressed, in his book On Faith, or Idealism and Realism, Kant's concept of "thing-in-itself." Jacobi agreed that the objective thing-in-itself cannot be directly known. However, he stated, it must be taken on faith. A subject must believe that there is a real object in the external world that is related to the representation or mental idea that is directly known. This faith or belief is a result of revelation or immediately known, but logically unproved, truth. The real existence of a thing-in-itself is revealed or disclosed to the observing subject. In this way, the subject directly knows the ideal, subjective representations that appear in the mind, and strongly believes in the real, objective thing-in-itself that exists outside of the mind. By presenting the external world as an object of faith, Jacobi legitimized belief and its theological associations. [[Schopenhauer]] would later state: "…[B]y reducing the external world to a matter of faith, he wanted merely to open a little door for faith in general…."<ref>Schopenhauer, ''The World as Will and Representation'', Vol. II, Ch. I</ref>
+
+Ironically, the Pantheism Controversy led later German philosophers and writers to take an interest in [[pantheism]] and [[Spinozism]]. Jacobi's [[fideism]] remained unpopular, and instead his critique of Enlightenment rationalism led more German philosophers to explore [[atheism]] and wrestle with the perceived loss of philosophical foundations for [[theism]], [[myth]], and [[morality]]. Jacobi and the Pantheism Controversy he ignited remain important in European intellectual history, because he formulated (albeit critically) one of the first systematic statements of nihilism and represents an early example of the [[God is dead|death of God]] discourse.<ref>{{Cite book | last = Josephson-Storm | first = Jason | title = The Myth of Disenchantment: Magic, Modernity, and the Birth of the Human Sciences | location = Chicago | publisher = University of Chicago Press | date = 2017 |pages = 69–74 | url = https://books.google.com/books?id=xZ5yDgAAQBAJ | isbn = 978-0-226-40336-6 }}</ref>
+
+===Later life===
+The Pempelfort era came to an end in 1794 when the [[French Revolution]] spilled over into Germany following the [[French Revolutionary Wars|outbreak of war]] with the French Republic. The occupation of Düsseldorf by French Troops forced him to resettle and for nearly ten years live in Holstein. There he became intimately acquainted with [[Karl Leonhard Reinhold]] (in whose Beitrage his important work, ''Uber das Unternehmen des Kriticismus, die Vernunft zu Verstande zu bringen'', was first published), and with [[Matthias Claudius]], the editor of the ''Wandsbecker Bote''.<ref name=EB1911/>
+
+==== Atheism dispute ====
+{{Main|Atheism dispute}}
+[[Gottlieb Fichte]] was dismissed from [[university of Jena|Jena]] in 1799 as a result of a charge of atheism. He was accused of this in 1798, after publishing his essay "Ueber den Grund unsers Glaubens an eine göttliche Weltregierung" ("On the Ground of Our Belief in a Divine World-Governance"), which he had written in response to [[Friedrich Karl Forberg]]'s essay "Development of the Concept of Religion", in his ''Philosophical Journal''. For Fichte, God should be conceived primarily in moral terms: "The living and efficaciously acting moral order is itself God. We require no other God, nor can we grasp any other" ("On the Ground of Our Belief in a Divine World-Governance"). Fichte's intemperate "Appeal to the Public" ("Appellation an das Publikum", 1799) as well as a more thoughtful response entitled “From a Private Letter” (1799), provoked F. H. Jacobi to publish ''Letter to Fichte'' (1799), in which he equated philosophy in general and Fichte's [[transcendental philosophy]] in particular with [[nihilism]] and the relation of his own philosophic principles to [[theology]].<ref>{{Cite web |date=Aug 30, 2001 |title=Johann Gottlieb Fichte |url=https://plato.stanford.edu/archives/spr2012/entries/johann-fichte/#1 |access-date=Feb 20, 2024 |website=Stanford Encyclopedia of Philosophy}}</ref>
+
+==== President of Academy of sciences and retirement ====
+Soon after his return to Germany, Jacobi received a call to Munich in connection with the new academy of sciences just founded there. The loss of a considerable portion of his fortune induced him to accept this offer; he settled in Munich in 1804, and in 1807 became president of the academy.<ref name=EB1911/>
+
+In 1811 appeared his last philosophic work, directed against [[Friedrich Schelling]] specially (''Von den göttlichen Dingen und ihrer Offenbarung''), the first part of which, a review of the ''Wandsbecker Bote'', had been written in 1798. A bitter reply from Schelling was left without answer by Jacobi, but gave rise to an animated controversy in which [[Jakob Friedrich Fries|Fries]] and [[Franz Xaver von Baader|Baader]] took prominent part.<ref name=EB1911/>
+
+In 1812 Jacobi retired from the office of president, and began to prepare a collected edition of his works. He died before this was completed. The edition of his writings was continued by his friend F. Koppen, and was completed in 1825. The works fill six volumes, of which the fourth is in three parts. To the second is prefixed an introduction by Jacobi, which is at the same time an introduction to his philosophy. The fourth volume has also an important preface.<ref name=EB1911/>
+
+==Philosophical work==
+Jacobi's philosophy is essentially unsystematic. A fundamental view which underlies all his thinking is brought to bear in succession upon those [[Systematic philosophy|systematic]] doctrines which appear to stand most sharply in contradiction to it, and any positive philosophic results are given only occasionally. The leading idea of the whole is that of the complete separation between understanding [comprehension] and apprehension of real fact. For Jacobi, Understanding, or the logical faculty, is purely formal or elaborative, and its results never transcend the given material supplied to it. From the basis of immediate experience or perception thought proceeds by comparison and abstraction, establishing connections among facts, but remaining in its nature mediate and finite.<ref name=EB1911/>
+
+The principle of reason and consequent, the necessity of thinking each given fact of perception as conditioned, impels understanding towards an endless series of identical propositions, the records of successive comparisons and abstractions. The province of the understanding is therefore strictly the region of the conditioned; to it the world must present itself as a [[Mechanism (philosophy)|mechanism]]. If, then, there is objective truth at all, the existence of real facts must be made known to us otherwise than through the logical faculty of thought; and, as the regress from conclusion to premises must depend upon something not itself capable of logical grounding, mediate thought implies the consciousness of immediate truth.<ref name=EB1911/>
+
+It is impossible that there should be a God, for if so he would of necessity be finite. But a finite God, a God that is known, is no God. It is impossible that there should be liberty, for if so the mechanical order of phenomena, by means of which they are comprehensible, would be disturbed, and we should have an unintelligible world, coupled with the requirement that it shall be understood. Cognition, then, in the strict sense, occupies the middle place between sense perception, which is belief in matters of sense, and reason, which is belief in supersensuous fact.<ref name=EB1911>{{EB1911|wstitle=Jacobi, Friedrich Heinrich |volume=15 |pages=115–116|inline=1}}</ref>
+
+==Works==
+*Early essays in ''[[Der Teutsche Merkur]]''. Available [http://www.ub.uni-bielefeld.de/diglib/aufkl/teutmerk/teutmerk.htm online].
+*''Edward Allwill’s Briefsammlung'' (1781).
+*''Etwas das Lessing gesagt hat'' (1782). [https://books.google.com/books?id=RQoLAAAAYAAJ&pg=RA1-PA325 ''Werke'', vol. 2, pp. 325-388].
+*''Über die Lehre des Spinoza in Briefen an den Herrn Moses Mendelssohn'' (1785). 2nd edition, 1789. [https://books.google.com/books?id=TFkNAAAAYAAJ NYPL].
+*''Friedrich Heinrich Jacobi wider Mendelssohns Beschuldigungen betreffend die Briefe über die Lehre des Spinoza'' (1786). [https://books.google.com/books?id=yFkHAAAAQAAJ Oxford].
+*''David Hume über den Glauben, oder Idealismus und Realismus'' (1787). [https://books.google.com/books?id=OF0OAAAAQAAJ University of Lausanne].
+*''Woldemar'' (1794). 2 volumes. [https://books.google.com/books?id=3GEHAAAAQAAJ Oxford]. 2nd edition, 1796. [https://books.google.com/books?id=118qAAAAMAAJ NYPL].
+*''Jacobi an Fichte'' (1799). [https://books.google.com/books?id=7VWn5iFDyRUC University of Michigan]. Text 1799/1816, Italian Translation, 3 Appendices with Jacobi's and Fichte's complementary Texts, Commentary by A. Acerbi): La Scuola di Pitagora, Naples 2017, {{ISBN|978-88-6542-553-4|}}.
+*''Ueber das Unternehmen des Kriticismus'' (1801). [https://books.google.com/books?id=MRELAAAAYAAJ ''Werke'', vol. 3, pp. 59-195].
+*''Ueber Gelehrte Gesellschaften, ihren Geist und Zweck'' (1807). [https://books.google.com/books?id=BoUAAAAAYAAJ Harvard].
+*''Von den göttlichen Dingen und ihrer Offenbarung'' (1811). [https://books.google.com/books?id=8KY-AAAAIAAJ University of California].
+*''Friedrich Heinrich Jacobi's Werke'' (1812–1825).
+**<small>Volume 1</small>, 1812. [https://books.google.com/books?id=VAwLAAAAYAAJ Harvard]; [https://books.google.com/books?id=w4oOAAAAIAAJ NYPL]; [https://books.google.com/books?id=5iPt-x2xezoC University of Michigan]; [https://books.google.com/books?id=4s9aIl68CtYC University of Michigan (Morris)].
+**<small>Volume 2</small>, 1815. [https://books.google.com/books?id=RQoLAAAAYAAJ Harvard]; [https://books.google.com/books?id=DowOAAAAIAAJ NYPL]; [https://books.google.com/books?id=L5lF7Dlh4wsC University of Michigan]; [https://books.google.com/books?id=41eCMq3durAC University of Michigan (Morris)].
+**<small>Volume 3</small>, 1816. [https://books.google.com/books?id=MRELAAAAYAAJ Harvard]; [https://books.google.com/books?id=5osOAAAAIAAJ NYPL]; [https://books.google.com/books?id=pwqXub5ab2IC University of Michigan]; [https://books.google.com/books?id=ki-mwlHo_ZMC University of Michigan (Morris)].
+**<small>Volume 4</small>, 1819. [https://books.google.com/books?id=0BELAAAAYAAJ Harvard]. <small>Parts 1 & 2</small>: [https://books.google.com/books?id=nDUCAAAAQAAJ Oxford]; [https://books.google.com/books?id=R2Ru-BeE6JAC University of Michigan (Morris)].
+***<small>Part 1</small>. [https://books.google.com/books?id=SYgOAAAAIAAJ NYPL]; [https://books.google.com/books?id=TUQKi4OqJMQC University of Michigan].
+***<small>Part 2</small>. [https://books.google.com/books?id=j4gOAAAAIAAJ NYPL]; [https://books.google.com/books?id=eLehRORnP1UC University of Michigan].
+***<small>Part 3</small>. [https://books.google.com/books?id=nI0OAAAAIAAJ NYPL]; [https://books.google.com/books?id=NgClCryuB4wC University of Michigan (Morris)].
+**<small>Volume 5</small>, 1820. [https://books.google.com/books?id=ugkLAAAAYAAJ Harvard]; [https://books.google.com/books?id=X40OAAAAIAAJ NYPL]; [https://books.google.com/books?id=yUPykOdJWRAC University of Michigan]; [https://books.google.com/books?id=BPsCAEBmgAAC University of Michigan (Morris)].
+**<small>Volume 6</small>, 1825. [https://books.google.com/books?id=PO4OAAAAIAAJ NYPL]; [https://books.google.com/books?id=lJmyNY4AHC8C University of Michigan (Morris)].
+*''Friedrich Heinrich Jacobi's auserlesener Briefwechsel'' (1825–27). 2 volumes.
+**<small>Volume 1</small>, 1825. [https://books.google.com/books?id=fHcRAAAAYAAJ Harvard]; [https://books.google.com/books?id=GRpLAAAAMAAJ University of Michigan].
+**<small>Volume 2</small>, 1827. [https://books.google.com/books?id=D3gRAAAAYAAJ Harvard]; [https://books.google.com/books?id=Di5LAAAAMAAJ University of Michigan].
+
+==Notes ==
+{{Reflist}}
+
+== External links ==
+{{commonscat}}
+* {{Internet Archive author |sname=Friedrich Heinrich Jacobi}}
+* {{Librivox author |id=12357}}
+* {{cite IEP |url-id=jacobi |title=Friedrich Heinrich Jacobi}}
+* {{Cite ADB|13|577|584|Jacobi, Friedrich Heinrich|[[Karl von Prantl|Carl von Prantl]]|ADB:Jacobi, Friedrich Heinrich Ritter von}}
+*Friedrich Heinrich Jacobi, George Di Giovanni (1994).[https://books.google.com/books?id=Oeet5Lqd6nwC&dq=allwill&pg=PP1 "The Main Philosophical Writings and the Novel Allwill"]. McGill-Queen's Press - MQUP, . {{ISBN|0-7735-1018-4}}.
+*{{Cite Americana|wstitle=Jacobi, Friedrich Heinrich|year=1920 |short=x}}
+*{{Cite NIE|wstitle=Jacobi, Friedrich Heinrich|year=1905 |short=x}}
+*{{Cite AmCyc|wstitle=Jacobi, Friedrich Heinrich |short=x}}
+{{Age of Enlightenment}}
+{{Use dmy dates|date=August 2019}}
+{{Illuminati}}
+{{Authority control}}
+
+{{DEFAULTSORT:Jacobi, Friedrich Heinrich}}
+[[Category:1743 births]]
+[[Category:1819 deaths]]
+[[Category:Writers from Düsseldorf]]
+[[Category:19th-century German writers]]
+[[Category:19th-century German male writers]]
+[[Category:18th-century German novelists]]
+[[Category:18th-century German philosophers]]
+[[Category:German Protestants]]
+[[Category:People from Berg (state)]]
+[[Category:Members of the Bavarian Academy of Sciences]]
+[[Category:German male novelists]]
+[[Category:Spinoza scholars]]
+[[Category:19th-century German philosophers]]
+[[Category:German idealists]]

@@ -1,0 +1,128 @@
+{{Short description|American philosopher}}
+{{multiple issues|
+{{BLP primary sources|date=January 2013}}
+{{COI|section|date=July 2013}}
+}}
+{{Infobox philosopher
+|region            = [[Western philosophy]]
+|era               = [[20th-century philosophy|20th-]]/[[21st-century philosophy]]
+|name             = Nathan U. Salmon
+|birth_date       = {{birth date and age|January 2, 1951}}
+|birth_place      = [[Los Angeles]], [[California]], [[U.S.]]
+|school_tradition = [[Analytic philosophy]]
+|main_interests   = [[Philosophy of language]], [[philosophy of logic]]
+|influences       = [[Gotlob Frege]], [[Bertrand Russell]], [[Alonzo Church]], [[David Kaplan (philosopher)|David Kaplan]], [[Saul Kripke]]
+|notable_ideas    = Millianism ([[J. S. Mill|Mill]]'s [[Meaning (philosophy of language)|theory of meaning]])<ref>The view that the meaning of a simple proper name is the object for which it stands (Jeff Speaks: [http://plato.stanford.edu/entries/meaning/ "Theories of Meaning"]).</ref>
+|image = Nathan salmon.jpg
+}}
+
+'''Nathan U. Salmon''' ({{IPAc-en|ˈ|s|æ|m|ən}}; [[né]] '''Nathan Salmon Ucuzoglu''';  born January 2, 1951) is an [[Americans|American]] [[philosopher]] in the [[Analytic philosophy|analytic]] tradition, specializing in [[metaphysics]], [[philosophy of language]], and [[philosophy of logic]].
+
+== Life and career ==
+Salmon was born January 2, 1951, in [[Los Angeles, California|Los Angeles]] to a working-class family of [[Sephardi Jews]] of [[Spanish and Portuguese Jews|Spanish]]-[[Turkish people|Turkish]] heritage. He is the grandson of archivist Emily Sene (née Emily Perez) and [[oud]] player Isaac Sene. Salmon attended Lincoln Elementary School in [[Torrance, California|Torrance]], California through eighth grade, where he was a classmate and friend of the [[child prodigy]], [[James Newton Howard]]. Salmon graduated from [[North High School (Torrance)]] in 1969.
+ 
+The first person in his family to go to college, Salmon graduated from [[El Camino College]] (1971) and from the [[University of California, Los Angeles]] (B.A. 1973, M.A. 1974, [[Doctor of Philosophy|Ph.D.]] 1979). At [[UCLA Department of Philosophy|UCLA]] he studied with [[Tyler Burge]], [[Alonzo Church]], [[Keith Donnellan]], [[Donald Kalish]], [[David Kaplan (philosopher)|David Kaplan]], [[Saul Kripke]], and [[Yiannis Moschovakis]]. Salmon was assistant professor of [[philosophy]] at [[Princeton University]] from 1978 to 1982. In 1984, the [https://web.archive.org/web/20110723045240/http://www.cgsnet.org/Default.aspx?tabid=104 Council of Graduate Schools] awarded him the [http://www.cgsnet.org/cgs-gustave-o-arlt-award-humanities Gustave O. Arlt Award in the Humanities], for his book, ''Reference and Essence'' (1981), which was based on his UCLA doctoral dissertation. His second book, ''Frege's Puzzle'' (1986), was selected by [[Scott Soames]] for a literary website as one of the best five books on the philosophy of language.<ref>Scott Soames, "Best Five Books on the Philosophy of Language," ''The Browser'', October 15, 2010. The other selections are monographs by [[Noam Chomsky]], [[Gottlob Frege]], [[David Kaplan (philosopher)|David Kaplan]], and [[Saul Kripke]].</ref>
+
+Salmon is currently Distinguished Professor Emeritus at the [[University of California, Santa Barbara]], where he has taught since 1984. He has also taught at [[Princeton University]], UCLA, the [[University of California, Riverside]], the [[University of Southern California]], and was a regular visiting distinguished professor at the [[Graduate Center|City University of New York Graduate Center]] from 2009 to 2012. He will teach at UCLA beginning January 2025.
+
+== Philosophical work ==
+===Direct reference theory===<!-- "Millianism" redirects here -->
+Salmon is a proponent of the theory of [[direct reference]]. Salmon has provided accounts both of [[propositional attitude]]s and of [[Frege's Puzzle|Frege's puzzle]] about true identifications, i.e., truths of the form "''a'' = ''b''".<ref>In his books, ''Frege's Puzzle'' and ''Content, [[Cognition]], and [[Communication]]''.</ref> Salmon maintains that co-designative proper names are inter-substitutable with preservation of [[semantic]] content. Thus, on his view the sentence "Samuel Clemens was witty" expresses exactly the same content as "Mark Twain was witty", whether or not the competent user of these sentences recognizes it. Therefore, a person who believes that [[Mark Twain]] was witty ''ipso facto'' believes that [[Samuel Clemens]] was witty, even if he or she also believes, inconsistently, that Clemens was not witty. Salmon argues that this is made palatable by recognizing that to believe a proposition is to be cognitively disposed in a particular manner toward that proposition when taking it by means of some ''proposition-guise'' or other, and that one may be so disposed relative to one proposition-guise while not being so disposed relative to another. Salmon applies this apparatus to solve a variety of famous philosophical puzzles, including Frege's puzzle, Kripke's puzzle about so-called ''de dicto'' belief, and [[W. V. O. Quine]]'s puzzle about ''de re'' belief. For example, Quine describes a scenario in which Ralph believes that Ortcutt is no spy, yet Ralph also believes that the man in the brown hat is a spy, when unbeknownst to Ralph the man in the hat is none other than Ortcutt. Under these circumstances, is Ortcutt believed by Ralph to be a spy? The grounds for an affirmative or negative judgment seem equally balanced. On Salmon's account Ortcutt is believed by Ralph to be a spy, since Ralph is appropriately cognitively disposed toward the proposition about Ortcutt that he is a spy when taking that proposition by means of one proposition-guise, even though Ralph is not so disposed relative to an alternative, equally relevant proposition-guise.<ref>[http://plato.stanford.edu/entries/prop-attitude-reports/#FrePuz. "Propositional Attitude Reports"]</ref>
+
+===Existence===
+Salmon provided direct-reference accounts of problems of [[nonexistence]] and of names from fiction.<ref>See, e.g., ''Metaphysics, Mathematics, and Meaning'', Oxford University Press, 2005.</ref> Salmon argues, directly contrary to [[Immanuel Kant]],<ref>''[http://humanum.arts.cuhk.edu.hk/Philosophy/Kant/cpr/ Critique of Pure Reason] {{webarchive|url=https://web.archive.org/web/20090707011421/http://humanum.arts.cuhk.edu.hk/Philosophy/Kant/cpr/ |date=2009-07-07 }}'' book II c.3 sec. 5, [http://humanum.arts.cuhk.edu.hk/cgi-bin/cprframe.pl?query=18ideal.htm A598  A598, B626].</ref> that [[existence]] is a property, one that particular individuals have and other individuals lack. According to Salmon, the English verb "exist" is (along with its literal translations into other languages), among other things, a term for this alleged property, and a sentence of the form "''a'' exists" is true if and only if the subject term designates something with the property, and is false (and "''a'' does not exist" is true) if and only if the subject term designates something with the complementary property of nonexistence. Thus [[Bertrand Russell|Russell]]'s example, "The present king of France exists", is neither true nor false, since France is not presently a monarchy, and therefore "the present king of France" does not designate; whereas "Napoleon exists" is simply false, since although [[Napoleon]] once existed, the moment he died he took on the property of nonexistence.
+
+By contrast, Salmon maintains that "Sherlock Holmes exists" is literally true, whereas "Sherlock Holmes was a detective" is literally false. According to Salmon, [[Sherlock Holmes]] is a fictional character, a kind of [[abstract entity]], created by author [[Arthur Conan Doyle]], and the fiction is a story, or a collection of stories, which are about that very character but are literally false. Holmes really exists, but is only depicted as a detective in the fiction. In the fiction, Holmes is a detective; in reality, Holmes is merely a fictional detective.
+
+Salmon extends this view to what he calls ''mythical objects'', like the hypothetical planet, [[Vulcan (hypothetical planet)|Vulcan]]. Vulcan really exists, but it is not a real planet. It is an abstract entity that is only depicted as a planet in the myth. Salmon's account of fiction and myth thus has direct application to the philosophy of religion. Salmon has also applied his account of mythical objects to [[Peter Geach]]'s famous problem of uncovering the [[logical form]] of the particular sentence, "Hob thinks a witch has blighted Bob's mare, and Nob wonders whether she (the same witch) killed Cob's sow". Salmon's account shows how the problematic sentence can be true even though there are no witches, and even if Hob and Nob do not know about each other, and there is no one whom they think is a witch.
+
+Salmon thinks, again contrary to [[Immanuel Kant|Kant]], that it is perfectly legitimate to invoke [[existence]] in a term's definition. Thus "God" might be legitimately defined as ''the conceivable individual that is divine and also exists''. According to Salmon, the [[ontological argument]] for God's existence fallaciously assumes that "The ''F'' is ''F''" is a truth of [[logic]], or an [[logical truth|analytic truth]]. What is true by logic is a significantly weaker variant: "If anything is uniquely ''F'', then the ''F'' is ''F''". The strongest conclusion that [[Validity (logic)|validly]] follows from the proposed definition is that ''if'' any conceivable individual actually is uniquely both divine and existent, ''then'' God actually exists. This same conclusion is also a trivial [[logical consequence]] of the [[atheism|atheist]]'s contention that no conceivable individual actually is uniquely both divine and existent. According to Salmon's critique, the ontological argument thus shows nothing.
+
+=== Semantics and pragmatics===
+Salmon argues that natural-language sentences that are representable as λ-converts of one another (in the sense of Church's [[lambda-calculus]]) are, although [[Logical equivalence|logically equivalent]] by λ-conversion, typically not strictly synonymous, i.e., they typically differ in semantic content—as for example "''a'' is large and also ''a'' is seaworthy" and "''a'' is a thing that is both large and seaworthy".
+
+Salmon maintains a sharp division between [[semantics]] and [[pragmatics]] ([[speech acts]]). He argues that in uttering a sentence, a speaker typically asserts a good deal more than the words' semantic content, and that, consequently, it is a mistake to identify the semantic content of a sentence with what is said by its speaker. Salmon maintains that such an identification is an instance of a mistaken form of argument in the philosophy of language, "the pragmatic fallacy."<ref>[http://plato.stanford.edu/entries/prop-attitude-reports/#NaiRusThe "Propositional Attitude Reports"].</ref>
+
+===Essentialism===
+Salmon is also known in [[metaphysics]] for, among other things, his analysis of arguments for modal [[essentialism]]—the doctrine that some properties of things are properties that those things could not fail to have (except perhaps by not existing). In particular, Salmon is known for his development and defense of a ''[[reductio ad absurdum]]'' argument, using a [[Paradox of the heap|sorites]]-like problem ([[slippery slope]]), against nearly universally accepted [[modal logic]] systems S4 and S5, which he argues commit "the fallacy of necessity iteration," sanctioning the invalid inference from the observation that a proposition ''p'' is a [[logical truth|necessary truth]] to the conclusion that it is a necessary truth that ''p'' is a necessary truth. He defends his view by exposing a mistake in a standard argument favoring S5, while arguing that there are not only [[possible world]]s—thought of as maximal scenarios that might have obtained—but in addition classically consistent ''[[impossible world]]s'': maximal scenarios that could not obtain.<ref>[http://plato.stanford.edu/entries/natural-kinds/#Ess "Natural Kinds"]</ref>
+
+===Identity===
+Salmon also provided a controversial ''[[reductio ad absurdum]]'' "disproof" of indeterminate [[identity (philosophy)|identity]], i.e., the philosophically popular idea that for some pairs of things there is no fact of the matter concerning whether those things are one and the very same. Salmon argues that if there were such a pair of things, ''x'' and ''y'', then this pair would have to be different from the reflexive pair of ''x'' with itself, since there is a fact concerning whether ''x'' and ''x'' are the same. It would then follow by [[set theory]] that ''x'' and ''y'' are not the same, and in that case there would be a fact of the matter after all concerning whether ''x'' and ''y'' are the same: they are not. Therefore, there cannot be a pair of things for which there is no fact concerning their identity. On the other hand, Salmon maintains that not all vagueness is due to language and some indeterminacy results from how things themselves are, i.e., that for some things and some attributes, independently of language, there is no fact of the matter concerning whether those things have those attributes. Critics of Salmon's alleged proof acknowledge that the highlighted difference between <''x'', ''y''> and <''x'', ''x''>—that there is a fact whether the elements of the latter, but not of the former, are the same thing—is genuine, but respond that it does not validly support the conclusion that those pairs are not the same.
+
+== Selected publications ==
+
+=== Books ===
+*''Content, [[Cognition]], and [[Communication]]'' (2007). Oxford University Clarendon Press. {{ISBN|0-19-928272-2}}
+*''[[Frege's Puzzle]] (Second Edition)'' (1986).  Ridgeview, Atacadero, California.  {{ISBN|0-924922-05-2}}
+*''[[Metaphysics]], [[philosophy of mathematics|Mathematics]], and [[linguistic meaning|Meaning]]'' (2005). Oxford University Clarendon Press. {{ISBN|0-19-928471-7}}
+*''[[Proposition]]s and [[Propositional attitude|Attitudes]]'' (1988), (co-edited with [[Scott Soames]]).  Oxford University Press, New York. {{ISBN|0-19-875091-9}}
+*''[[Reference]] and [[Essence]] (Second Edition)'' (1981).  Prometheus Books, Amherst, New York. {{ISBN|1-59102-215-0}}
+
+=== Articles ===
+*"Assertion and Incomplete Definite Descriptions" (1982) ''Philosophical Studies'' 42: 37–46.
+*"Being of Two Minds: Belief with Doubt" (1995) ''Noûs'' 29 (1): 1-20.
+*"Demonstrating and Necessity" (2002) ''Philosophical Review'' 111 (4): 497-537
+*"How ''Not'' to Become a Millian Heir" (1991) ''Philosophical Studies'' 165–177.
+*"How ''Not'' to Derive Essentialism From the Theory of Reference" (1979) ''[[Journal of Philosophy]]'' 76: 703–725.
+*"How to Become a Millian Heir" (1989) ''Noûs'' 23: 211–220.
+*"How to Measure the Standard Metre" (1988) ''Proceedings of the Aristotelian Society'' 88: 193–217.
+*"Identity Facts" (2002) ''Philosophical Topics'' 30: 237–267.
+*"Impossible Worlds" (1984) in ''Analysis'' 44: 114–117.
+*"The Limits of Human Mathematics" (2001) ''Noûs'' 15: 93–117.
+*"The Logic of What Might Have Been" (1989) ''Philosophical Review'' 98: 3-34.
+*"Modal Paradox: Parts and Counterparts, Points and Counterpoints" (1986) ''Midwest Studies in Philosophy'' 11: 75–120.
+*"Naming, Necessity, and Beyond" (2003) ''Mind'' 112 (447): 475–492.
+*"Nonexistence" (1998) ''Noûs'' 32 (3): 277–319.
+*"On Content" (1992) ''Mind'' 101 (404): 733–751.
+*"On Designating" (2005) ''Mind'' 114 (456): 1069–1133.
+*"The Pragmatic Fallacy" (1991) ''Philosophical Studies'' 83–97.
+*"A Problem in the Frege-Church Theory of Sense and Denotation" (1993) ''Noûs'' 27(2): 158–166.
+*"Reflexivity" (1986) ''Notre Dame Journal of Formal Logic'' 27: 401–429.
+*"Relative and Absolute Apriority" (1993) ''Philosophical Studies'' 69(1): 83–100.
+*"Tense and Singular Propositions" (1989) in ''Themes From Kaplan''. Oxford University Press, New York.
+*"A Theory of Bondage" (2006) ''The Philosophical Review'' 115 (4): 415–448.
+*"Trans-World Identification and Stipulation" (1996) ''Philosophical Studies'' 84(2-3): 203–223.
+*"Wholes, Parts, and Numbers" (1997) in ''Philosophical Perspectives, 11, Mind, Causation, and World'', James Tomberlin (ed).  Blackwell, Boston.
+
+==See also==
+*[[Descriptivist theory of names]]
+*[[American philosophy]]
+*[[List of American philosophers]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[http://www.philosophy.ucsb.edu/people/profiles/faculty/salmon.html Nathan Salmon's web page at UCSB]
+*[https://philpeople.org/profiles/nathan-salmon PhilPapers]
+{{Authority control}}
+
+{{DEFAULTSORT:Salmon, Nathan}}
+[[Category:1951 births]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century American essayists]]
+[[Category:20th-century American Sephardic Jews]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:21st-century American philosophers]]
+[[Category:21st-century American essayists]]
+[[Category:21st-century American Sephardic Jews]]
+[[Category:American male essayists]]
+[[Category:American male non-fiction writers]]
+[[Category:American people of Turkish-Jewish descent]]
+[[Category:American philosophy academics]]
+[[Category:Analytic philosophers]]
+[[Category:American epistemologists]]
+[[Category:Jewish philosophers]]
+[[Category:Living people]]
+[[Category:American metaphysicians]]
+[[Category:Metaphysics writers]]
+[[Category:Ontologists]]
+[[Category:People from Los Angeles]]
+[[Category:American philosophers of language]]
+[[Category:American philosophers of logic]]
+[[Category:American philosophers of mathematics]]
+[[Category:American philosophers of mind]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:University of California, Santa Barbara faculty]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]

@@ -1,0 +1,122 @@
+{{Short description|American philosopher and logician}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[Contemporary philosophy]]
+| name                      = David Kaplan
+| birth_date                = {{Birth date and age|mf=yes|1933|09|17}}
+| birth_place               =
+| nationality               = American
+| education                 = [[University of California, Los Angeles]] <small>([[Bachelor's degree|BA]]; [[PhD]], 1964)</small>
+| school_tradition = [[Analytic philosophy]]
+| institutions              = [[University of California, Los Angeles]]
+| main_interests            = [[Philosophy of language]], [[logic]], [[metaphysics]], [[epistemology]]
+| notable_ideas             = [[Two-dimensionalism]],<ref>[https://plato.stanford.edu/entries/two-dimensional-semantics/ Two-Dimensional Semantics (Stanford Encyclopedia of Philosophy)]</ref> [[semantic]] analysis of [[indexical]]s and [[demonstratives]], "quantifying in", Kaplan's intensional paradox<ref>Andrew Bacon, John Hawthorne & Gabriel Uzquiano, "Higher-order free logic and the Prior-Kaplan paradox", ''Canadian Journal of Philosophy'' '''46'''(4–5): 493–541 (2016).</ref> 
+| influences       = [[Gottlob Frege]], [[Bertrand Russell]], [[Rudolf Carnap]], [[Richard Montague]], [[Alonzo Church]], [[Saul Kripke]]
+| influenced       = [[John Perry (philosopher)]], [[Nathan Salmon]], [[C. Anthony Anderson]]
+| spouse                    = Renée Singer Kaplan (1956–present)
+| awards                    = {{unbulleted list | Fellow of the [[American Academy of Arts & Sciences]] {{small| (1996)}} | Corresponding Fellow of the [[British Academy]] {{small|(2007)}}}}
+| website                   = [http://philosophy.ucla.edu/person/david-kaplan/ Faculty webpage]
+| thesis_title      = Foundations of Intensional Logic
+| thesis_url        = https://philpapers.org/rec/KAPFOI
+| thesis_year       = 1964
+| doctoral_advisor   = [[Rudolf Carnap]]
+}}
+
+'''David Benjamin Kaplan''' ({{IPAc-en|ˈ|k|æ|p|l|ən}}; born September 17, 1933) is an [[Americans|American]] [[philosopher]]. He is the Hans Reichenbach Professor of Scientific Philosophy at the [[UCLA Department of Philosophy]]. His philosophical work focuses on the [[philosophy of language]], [[logic]], [[metaphysics]], [[epistemology]] and the philosophy of [[Gottlob Frege|Frege]] and [[Bertrand Russell|Russell]].<ref>{{Cite web|url=http://philosophy.ucla.edu/person/david-kaplan/|title = David Kaplan - Faculty}}</ref> He is best known for his work on [[demonstrative]]s, [[proposition]]s, and [[reference]] in [[Extensional|intensional]] contexts.  He was elected a Fellow of the [[American Academy of Arts & Sciences]] in 1983<ref>{{Cite web|url=http://www.ucla.edu/about/awards-and-honors/faculty/american-academy-of-arts-and-sciences|title = American Academy of Arts and Sciences &#124; UCLA}}</ref> and a Corresponding Fellow of the [[British Academy]] in 2007.<ref>{{cite web |url=http://www.britac.ac.uk/fellowship/elections/2007/kaplan.cfm |title=David Kaplan - British Academy |access-date=2015-07-06 |url-status=dead |archive-url=https://web.archive.org/web/20150707002818/http://www.britac.ac.uk/fellowship/elections/2007/kaplan.cfm |archive-date=2015-07-07 }}</ref>
+
+==Education and career==
+Kaplan began as an undergraduate at [[UCLA]] in 1951, admitted on academic probation "owing to poor grades."<ref name=":0">{{Cite book|title=The Philosophy of David Kaplan|publisher=Oxford University Press|year=2008|pages=27–8}}</ref> While he started as a music major due to his interest in [[jazz]], he was soon persuaded by his academic counselor Veronica Kalish to take the [[logic]] course taught by her husband [[Donald Kalish]].<ref name=":0" /> Kaplan went on to earn a BA in [[philosophy]] in 1956 and a BA in [[mathematics]] in 1957,<ref>{{Cite web|url=http://www.lancog.com/david-kaplan.html|title=CFUL – Centre of Philosophy University of Lisbon|access-date=2017-08-13|archive-date=2017-08-13|archive-url=https://web.archive.org/web/20170813181450/http://www.lancog.com/david-kaplan.html|url-status=dead}}</ref> continuing in the [[UCLA Department of Philosophy|department of philosophy]] as a graduate student. He was the last doctoral student supervised by [[Rudolf Carnap]], receiving his [[PhD]] in 1964 with a thesis entitled ''Foundations of Intensional Logic''. His work continues the strongly formal approach to philosophy long associated with UCLA (as represented by mathematician-logician-philosophers such as [[Alonzo Church]] and [[Richard Montague]]).
+
+In most years, Kaplan teaches an upper division course on [[philosophy of language]], focusing on the work of either [[Gottlob Frege]], [[Bertrand Russell]], or [[P. F. Strawson]]. He also teaches a related course on [[Saul Kripke|Kripke's]] [[Naming and Necessity]]. His lectures often focus on selected paragraphs from Russell's "[[On Denoting]]" as well as Frege's "[[On Sense and Reference]]."
+
+In 2022 he received the [[Rolf Schock Prizes|Rolf Schock Prize]] in the category of "Philosophy".<ref>{{Cite web |url=https://www.kva.se/en/pressrum/pressmeddelanden/arkitekt-pianist-filosof-och-matematiker-far-arets-rolf-schockpriser |title=Rolf Schock Prize 2022 |access-date=2022-03-24 |archive-date=2022-03-25 |archive-url=https://web.archive.org/web/20220325075546/https://www.kva.se/en/pressrum/pressmeddelanden/arkitekt-pianist-filosof-och-matematiker-far-arets-rolf-schockpriser |url-status=dead }}</ref>
+
+==Philosophical work==
+{{original research|date=July 2017}}
+Kaplan's work is primarily focused on issues in the philosophy of language and logic. These ventures, however, sometimes take him into related issues in other fields, such as the [[philosophy of mind]].
+
+===Semantics for indexicals and demonstratives===
+Kaplan's most influential contribution to the philosophy of language is his [[semantic]] analysis of [[indexical]]s and [[demonstratives]], which is outlined (in progressively greater detail) in a series of articles: "Dthat," "On The Logic of Demonstratives," "Demonstratives," and "Afterthoughts".{{citation needed|reason=a published source asserting this 'fact' is needed|date=July 2017}}
+
+Kaplan's insights center on two key distinctions, which may be seen as responses to the inability of Frege's semantics to deal with context-sensitivity in language. First, in place of Frege's categories of Sinn and Bedeutung (typically translated as "sense" and "reference"), Kaplan introduces the notions of ''character'' and ''content''. The former is the [[linguistics|linguistic]] meaning of an expression, and the latter is the [[proposition]] (or propositional component) expressed by an expression in a context. Second, Kaplan makes an explicit distinction between the context of an utterance and the circumstances of evaluation of the proposition expressed by an utterance. Context can be formalized as a set composed of a speaker, a place, a time, and a possible world (and, depending on the analysis of demonstratives, perhaps a set of either demonstrations or directing intentions). Circumstances of evaluation play a role very similar to [[possible worlds]] in modal semantics.
+
+From these rough distinctions, Kaplan then defines character and content more precisely. Character defines a function associated by convention with an expression, which takes contextual elements as arguments and yields content as values. Content, on the other hand, defines a function taking as arguments those elements of the circumstances of evaluation relevant to determining extension, and yielding the [[Extension (metaphysics)|extension]] ([[referent]] or [[truth-value]]) as a value.
+
+Two more important notions can thus be defined. We can say that an expression is context-sensitive if and only if its character defines a non-constant function (i.e., ''[[if and only if|if, and only if]]'' it yields different content-values given different context-element-arguments). An expression is context-insensitive if and only if its character defines a constant function. Also, the distinction between character and content breaks down in the case of context-insensitive expressions, and convention associates each such expression directly with a content.
+
+On the other hand, an expression is directly referential if, and only if its content defines a constant function from circumstances of evaluation to extension. Kaplan also characterizes [[directly referential expression]]s as those that refer without the mediation of a Fregean Sinn, or as those whose only contribution to content are their referents. Thus, in the case of directly referential expressions, we can say that the distinction between content and referent breaks down.
+
+Any [[singular term]] is directly referential according to Kaplan. So the following intuitive picture emerges: the meaning of an indexical is a rule taking us from some part of the context to an expression, and the meaning of an expression is a bit of propositional content that determines the extension in each possible world.
+
+Kaplan goes on to use this semantic scheme to explain phenomena concerning the relationship between necessary and ''[[A priori and a posteriori|a priori]]'' truth. An utterance is said to be [[logical truth|necessarily true]] if, and only if the content it expresses is true in every possible circumstance; while an utterance is said to be true ''a priori'' if, and only if it expresses, in each context, a content that is true in the circumstances that context is part of. So, "I am here now" is true ''a priori'' because each of the indexical expressions used ('I', 'here', 'now') directly refer to the speaker, location, and time of utterance. But the utterance is not ''necessarily'' true, because any given speaker might have been in at a different place at that time, given different circumstances of evaluation. On the other hand, "I am David Kaplan," as spoken by David Kaplan, is necessarily true, since "I" and "David Kaplan" (both directly referential expressions) refer to the same object in every circumstance of evaluation. The same statement is not true ''a priori'', however, because if it were spoken in a different context (e.g., one with a speaker other than Kaplan), it might be false.
+
+Another result of Kaplan's theory is that it solves [[Frege's Puzzle]] for indexicals. Roughly, the puzzle here arises as indexicals are thought to be directly referential, i.e., they do not refer by means of a Fregean Sinn. However, Frege explains cognitive value in terms of Sinn. Thus the following problem emerges: The sentences "I am David Kaplan", spoken by David Kaplan, "he is David Kaplan", spoken by someone pointing at David Kaplan, and "David Kaplan is David Kaplan", spoken by anyone, all express the same content and refer to the same individuals. Yet each of the three has a different cognitive value (it is possible to rationally believe one while denying another). Kaplan explains this by associating cognitive value with character rather than content, thus remedying the problem. (There are problems with this approach, which Kaplan explores in "Afterthoughts".)
+
+Kaplan's semantic theory faces a problem, however, with proper names, which seem both directly referential ''and'' context-insensitive. On Kaplan's account, this means that constant functions are defined by both a proper name's character ''and'' its content, which would imply that proper names have no meaning other than their reference. While this approach to proper names is not novel ([[John Stuart Mill]] being an early advocate), [[Frege's Puzzle]] is thought to cast doubt on any such account. Many philosophers have attempted to deal with this issue (notably [[Joseph Almog]], [[David Braun (philosopher)|David Braun]], [[Michael Devitt]], [[John Perry (philosopher)|John Perry]], [[Nathan Salmon]], [[Scott Soames]], and [[Howard Wettstein]]), but no solution has been widely accepted.
+
+===Quantifying in===
+In his article "Quantifying In" (1968), Kaplan discusses issues in intensional and indirect (''Ungerade'', or ''oblique'') discourse, such as substitution failure, existential generalization failure, and the distinction between [[De dicto and de re|''de re'' / ''de dicto'']] propositional attitude attributions. Such issues were made salient primarily by W. V. Quine in his "Quantifiers and Propositional Attitudes" (1956).
+
+The phrase "quantifying in" comes from Quine's discussion of what he calls "relational" constructions of an existential statement. In such cases, a variable bound by an anterior variable-binding operator occurs within a non-extensional context such as that created by a 'that' clause, or, alternatively, by propositional attitude or modal operators. The "quantifying in" idiom captures the notion that the variable-binding operator (for example, the existential quantifier 'something') ''reaches into'', so to speak, the non-extensional context to bind the variable occurring within its scope.   For example, (using a propositional attitude clause), if one quantifies into the statement "Ralph believes that Ortcutt is a spy," the result is (partly formalized):
+
+:(Ǝx) (Ralph believes that x is a spy)
+:["There is someone Ralph believes is a spy"]
+
+In short, Kaplan attempts (among other things) to provide an apparatus (in a [[Gottlob Frege|Fregean]] vein) that allows one to quantify into such intensional contexts even if they exhibit the kind of substitution failure that Quine discusses. If successful, this shows that Quine is wrong in thinking that substitution failure implies existential generalization failure for (or inability to quantify into) the clauses that exhibit such substitution failure.
+
+===Logic 2000 program===
+In recent years, Kaplan has devoted much effort to teaching introductory logic. A main contribution has been his work to create a computer program, Logic 2000, on which students can do their assignments. Logic 2000 is currently available for use free of charge. The program has many parts, including a derivations module, a symbolizations module, a models module, and much more. The program was initially developed to complement the logic text of Donald Kalish and Richard Montague, and the derivations module therefore uses their distinctive natural deduction system. Perhaps the most significant features of the program are its feedback and error-checking capacities. The program can provide a student with immediate and extensive error messages detailing any errors the student may have made on the problem he or she is currently working on. The program's current iteration and name is Logic 2010.<ref>The program may be obtained at [https://logiclx.humnet.ucla.edu/].</ref>
+
+==Bibliography==
+* "Quantifying In," ''Synthese'', XIX 1968.
+* "On the Logic of Demonstratives," ''Journal of Philosophical Logic'', VIII 1978: 81–98; and reprinted in French et al. (eds.), ''Contemporary Perspectives in the Philosophy of Language'' (Minneapolis: University of Minnesota Press, 1979): 401–412.
+* "Dthat," ''Syntax and Semantics'', vol. 9, ed. P. Cole (New York: Academic Press, 1978); and reprinted in ''The Philosophy of Language'', ed. A. P. Martinich (Oxford: Oxford University Press, 1985).
+* "Bob and Carol and Ted and Alice," in ''Approaches to Natural Language'' (J.Hintikka et al., eds.), Reidel, 1973.
+* "How to Russell a Frege-Church," ''The Journal of Philosophy'', LXXII 1975.
+* "Opacity," in ''[[W. V. Quine]]'' (L. Hahn, ed.), Open Court, 1986.
+* "Demonstratives" and "Afterthoughts" in ''Themes from Kaplan'' (Almog, et al., eds.), Oxford 1989. {{ISBN|978-0-19-505217-6}}
+* "Words," ''The Aristotelian Society'', Supplementary Volume, LXIV 1990
+* "A Problem in Possible World Semantics," in ''Modality, Morality, and Belief'' (W. Sinnott-Armstrong et al., eds.) Cambridge, 1995.
+* "Reading 'On Denoting' on its Centenary", ''Mind'', 114 2005: 934–1003.
+
+==See also==
+*[[American philosophy]]
+*[[List of American philosophers]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Joseph Almog & Paolo Leonardi, eds., ''The Philosophy of David Kaplan'', Oxford University press, 2009. {{ISBN|978-0-195-36788-1}}
+
+==External links==
+*{{cite SEP |url-id=indexicals |title=Indexicals |last=Braun |first=David}}
+{{Schock Prize laureates}}
+{{Authority control}}
+
+{{DEFAULTSORT:Kaplan, David}}
+[[Category:1933 births]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century American essayists]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:21st-century American philosophers]]
+[[Category:21st-century American essayists]]
+[[Category:American male essayists]]
+[[Category:American male non-fiction writers]]
+[[Category:American philosophy academics]]
+[[Category:Analytic philosophers]]
+[[Category:Aristotelian philosophers]]
+[[Category:Corresponding fellows of the British Academy]]
+[[Category:American epistemologists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Living people]]
+[[Category:American metaphysicians]]
+[[Category:Ontologists]]
+[[Category:American philosophers of language]]
+[[Category:American philosophers of logic]]
+[[Category:American philosophers of mind]]
+[[Category:Philosophy writers]]
+[[Category:UCLA Department of Philosophy faculty]]
+[[Category:University of California, Los Angeles faculty]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]

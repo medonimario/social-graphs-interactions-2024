@@ -1,0 +1,5 @@
+#REDIRECT [[Jean Le Clerc (theologian)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

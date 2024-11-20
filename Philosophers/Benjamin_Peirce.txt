@@ -1,0 +1,173 @@
+{{Short description|American mathematician (1809–1880)}}
+{{About||his father, the Harvard librarian|Benjamin Peirce (librarian)|the U.S. Coast Survey ship|USCS Benjamin Peirce}}
+{{other people}}
+{{Use mdy dates|date=January 2021}}
+{{Infobox person
+| name               = 
+| honorific_suffix   = {{postnominals|ForMemRS|HonFRSE|country=GBR|size=100%}}
+| image              = BenjaminPeirce5.jpg
+| caption            = Peirce {{circa|1870}}
+| birth_date         = {{Birth date|1809|4|4}}
+| birth_place        = [[Salem, Massachusetts]], U.S.
+| death_date         = {{death date and age|1880|10|6|1809|4|4}}
+| death_place        = [[Cambridge, Massachusetts]], U.S.
+| father             = [[Benjamin Peirce (librarian)|Benjamin Peirce]]
+| spouse             = Sarah Hunt Mills
+| children           = 5, including [[Charles Sanders Peirce|Charles]], [[Herbert H. D. Peirce|Herbert]], and [[James Mills Peirce|James]]
+| signature          = Signature of Benjamin Peirce.png
+| module             = {{Infobox scientist
+| embed             = yes
+| field             = {{hlist|Mathematics|statistics|[[science policy]]}}
+| work_institutions = [[Harvard University]]<br /> Superintendent of the [[United States Coast and Geodetic Survey|United States Coast Survey]]
+| alma_mater        = [[Harvard University]]
+| academic_advisors = [[Nathaniel Bowditch]]
+| notable_students  = [[Joseph Lovering]]
+| known_for         = {{ubl|[[Peirce's criterion]] for [[outlier]]s (statistics)|Definition of mathematics as the science of [[logical truth|necessary truths]]|[[linear algebra]]s|[[celestial mechanics]]}}
+}}
+}}
+
+'''Benjamin Peirce''' {{postnominals|ForMemRS|HonFRSE|country=GBR}} ({{IPAc-en|ˈ|p|ɜr|s}};<ref>"Peirce", in the case of Benjamin Peirce and family, always rhymes with "terse" and so, in most dialects, is pronounced like the word "{{Audio|en-us-purse.ogg|purse}}". See "Note on the Pronunciation of 'Peirce'", The ''Peirce [Edition] Project Newsletter'', Vol. 1, Nos. 3/4, Dec. 1994, [http://www.iupui.edu/~peirce/news/1_3/13_4x.htm#pronunciation Eprint] {{Webarchive|url=https://web.archive.org/web/20160303204222/http://www.iupui.edu/~peirce/news/1_3/13_4x.htm#pronunciation |date=March 3, 2016 }}.</ref> April 4, 1809 – October 6, 1880) was an American [[mathematician]] who taught at [[Harvard University]] for approximately 50 years. He made contributions to [[celestial mechanics]], [[statistics]], [[number theory]], [[algebra]], and the [[philosophy of mathematics]].
+
+==Early life==
+He was born in [[Salem, Massachusetts]], the son of first cousins [[Benjamin Peirce (librarian)|Benjamin Peirce]] (1778–1831), later librarian of Harvard, and Lydia Ropes Nichols Peirce (1781–1868).<ref>{{cite book|author1=Rossiter Johnson|author2=John Howard Brown|title=The twentieth century biographical dictionary of notable Americans ...|url=https://books.google.com/books?id=ve0UAAAAYAAJ&pg=PT269|access-date=28 August 2011|year=1904|publisher=The Biographical Society|pages=269–}}</ref>
+
+After graduating from [[Harvard University]] in 1829, he taught mathematics for two years at the [[Round Hill School]] in Northampton, and in 1831 was appointed professor of mathematics at Harvard. He added [[astronomy]] to his portfolio in 1842, and remained as Harvard professor until his death. In addition, he was instrumental in the development of Harvard's science curriculum, served as the college librarian, and was director of the [[United States Coast and Geodetic Survey|United States Coast Survey]] from 1867 to 1874.
+In 1842, he was elected as a member of the [[American Philosophical Society]].<ref>{{Cite web|title=APS Member History|url=https://search.amphilsoc.org/memhist/search?creator=&title=&subject=&subdiv=&mem=&year=1842&year-max=1842&dead=&keyword=&smode=advanced|access-date=2021-04-12|website=search.amphilsoc.org}}</ref> He was elected a [[Foreign Member of the Royal Society]] of London in 1852.<ref>{{cite web|url= https://collections.royalsociety.org/DServe.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqDb=Persons&dsqPos=1&dsqSearch=%28%28text%29%3D%27peirce%27%29|title= Fellow Details|publisher= [[Royal Society]]|access-date= 27 May 2017|archive-date= July 8, 2019|archive-url= https://web.archive.org/web/20190708073537/https://collections.royalsociety.org/DServe.exe?dsqIni=Dserve.ini|url-status= dead}}</ref>
+
+==Research==
+Benjamin Peirce is often regarded as the earliest American scientist whose research was recognized as world class.<ref>{{cite journal
+|last=Stigler|first=Stephen M.|title=Mathematical Statistics in the Early States
+|journal=Annals of Statistics|year=1978
+|volume=6|pages=239–265
+|url=http://projecteuclid.org/euclid.aos/1176344123
+|doi=10.1214/aos/1176344123 |jstor=2958876
+|issue=2|doi-access=free}}
+</ref> He was an apologist for [[slavery]], opining that it should be condoned if it was used to allow an elite to pursue scientific enquiry.<ref>{{cite journal|last=Auspitz|first=Josiah Lee|title=The Wasp Leaves the Bottle: Charles Sanders Peirce|journal=The American Scholar|date=Autumn 1994|volume=63|issue=4|pages=602–618|url=http://www.cspeirce.com/menu/library/aboutcsp/auspitz/escape.htm}}</ref>
+
+===Mathematics===
+In number theory, he proved there is no odd [[perfect number]] with fewer than four [[prime factor]]s.
+
+In algebra, he was notable for the study of [[associative algebra]]s. He first introduced the terms [[idempotent element (ring theory)|idempotent]] and [[nilpotent]] in 1870 to describe elements of these algebras, and he also introduced the [[Peirce decomposition]].
+
+In the philosophy of mathematics, he became known for the statement that "Mathematics is the science that draws necessary conclusions".<ref>First line of ''Linear Associative Algebra''</ref> Peirce's definition of mathematics was credited by his son, [[Charles Sanders Peirce]], as helping to initiate the consequence-oriented philosophy of [[pragmatism]].  Like [[George Boole]], Peirce believed that mathematics could be used to study [[logic]]. These ideas were further developed by his son Charles, who noted that logic also includes the study of faulty reasoning.  In contrast, the later [[Logicism|logicist]] program of [[Gottlob Frege]] and [[Bertrand Russell]] attempted to base mathematics on logic.
+
+===Statistics===
+Peirce proposed what came to be known as [[Peirce's criterion|Peirce's Criterion]] for the statistical treatment of [[outlier]]s, that is, of apparently extreme observations. His ideas were further developed by his son Charles.<ref>Peirce, Charles Sanders (1870/1871/1873).</ref>
+
+Peirce was an [[expert witness]] in the [[Howland will forgery trial]], where he was assisted by his son Charles. Their analysis of the questioned signature showed that it resembled another particular handwriting example so closely that the chance of such a match occurring at random, i.e. by pure coincidence, was extremely small.<ref>{{cite journal
+ | last1 = Meier | first1 = Paul
+ | last2 = Zabell | first2 = Sandy
+ | doi = 10.1080/01621459.1980.10477501
+ | issue = 371
+ | journal = Journal of the American Statistical Association
+ | jstor = 2287637
+ | mr = 590685
+ | pages = 497–506
+ | title = Benjamin Peirce and the Howland will
+ | volume = 75
+ | year = 1980}}</ref>
+
+==Private life==
+[[File:Louis Aggasiz and Benjamin Peirce.jpg|thumb|upright=1.2|With [[Louis Agassiz]] ]]
+
+He was devoutly religious, though he seldom published his theological thoughts.<ref name=IEP>Grattan-Guinness, Ivor and Walsh, Alison (2008), "Benjamin Peirce", ''Stanford Encyclopedia of Philosophy''. [http://plato.stanford.edu/entries/peirce-benjamin/ Eprint].</ref> Peirce credited God as shaping nature in ways that account for the efficacy of pure mathematics in describing empirical phenomena.<ref>Peirce, "Address of Professor Benjamin Peirce, President of the American Association for the Year 1853", ''Proceedings of the American Association for the Advancement of Sciences'', Eighth Meeting [&nbsp;=&nbsp;Volume&nbsp;8], held at Washington D.C., May, 1854, published 1855, pp. 1–17, see especially pp. 12–15. ''Google Books'' [https://archive.org/details/proceedingsamer79sciegoog/page/n63 <!-- pg=1 --> Eprint]</ref> Peirce viewed "mathematics as study of God's work by God's creatures", according to an encyclopedia.<ref name=IEP/> He was an avid juggler of [[diabolo]] and wrote about the physics of the game in ''Analytic Mechanics''.<ref>{{cite book |title=Notes and Queries |date=1881 |publisher=Oxford University Press |page=176 |edition=August 27, 1881 |url=https://books.google.com/books?id=kGwJAAAAQAAJ&dq=%22notes%20and%20queries%22%20%22devil%20on%20two%20sticks.%22&pg=PA176 |language=en}}</ref>
+
+He married Sarah Hunt Mills, the daughter of U.S. Senator [[Elijah Hunt Mills]].<ref>Adams, Henry. ''The Life of George Cabot Lodge''. pp. 4–5. Boston and New York: Houghton Mifflin, 1911</ref> Peirce and his wife had four sons and one daughter:<ref>Fisch, Max H. (1981), [http://www.iupui.edu/~peirce/writings/v1/v1intro.htm Introduction] {{Webarchive|url=https://web.archive.org/web/20181022143324/http://www.iupui.edu/~peirce/writings/v1/v1intro.htm |date=October 22, 2018 }}, ''Writings of Charles S. Peirce'' v. 1.</ref>
+* [[James Mills Peirce]] (1834–1906), who also taught mathematics at Harvard and succeeded to his father's professorship,
+* [[Charles Sanders Peirce]] (1839–1914), a famous logician, polymath and philosopher,
+* Benjamin Mills Peirce (1844–1870), who worked as a mining engineer before an early death,
+* Helen Huntington Peirce Ellis (1845–1923), who married William Rogers Ellis, and
+* [[Herbert H. D. Peirce|Herbert Henry Davis Peirce]] (1849–1916), who pursued a career in the Foreign Service.
+
+[[File:BenjaminPeirce.jpg|thumb|right]]
+
+==Eponyms==
+The [[moon|lunar]] [[Impact crater|crater]] [[Peirce (crater)|Peirce]] is named for Peirce, as well as the [[asteroid]] [[29463 Benjaminpeirce]].
+
+Post-doctoral positions in Harvard University's mathematics department are named in his honor as Benjamin Peirce Fellows and Lecturers.
+
+The [[United States Coast and Geodetic Survey|United States Coast Survey]] ship {{ship|USCS|Benjamin Peirce}}, in commission from 1855 to 1868, was named for him.<ref>[http://www.history.noaa.gov/ships/ship16.html#peirce noaa.gov NOAA Legacy: Tools of the Trade: Coast and Geodetic Survey Ships: Benjamin Peirce]</ref>
+
+==Works==
+* ''An Elementary Treatise on Plane and Spherical Trigonometry'', Boston: James Munroe and Company. ''Google'' [http://www.google.com/search?tbs=bks:1&q=editions:LBv3oOMOCY4C Eprints] of successive editions 1840–1862.
+* ''Physical  and Celestial Mechanics'', Boston: [[Little, Brown and Company]]. ''Google'' [https://books.google.com/books?id=Gmw_AAAAcAAJ&pg=PR1 Eprint] of 1855 edition.
+* ''Linear Associative Algebra'', lithograph by Peirce 1872. New edition with corrections, notes, and an added 1875 paper by Peirce, plus notes by his son [[Charles Sanders Peirce]], published in the ''American Journal of Mathematics'' v. 4, 1881, Johns Hopkins University, pp.&nbsp;221–226, ''Google'' [https://books.google.com/books?id=LQgPAAAAIAAJ&pg=PA221 Eprint] and as an extract, D. Van Nostrand, 1882, ''Google'' [https://archive.org/details/bub_gb_De0GAAAAYAAJ Eprint].
+* 1872: [https://archive.org/details/asystemanalytic01peirgoog A System of Analytical Mechanics], [[David van Nostrand]] & Company, link from [[Internet Archive]]
+
+==See also==
+* [[Benjamin Osgood Peirce]] (1854–1914)
+* [[Tachytrope]], curve in which the law of the velocity is given. Developed by Peirce.
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{refbegin}}
+* F. P. Matz, "B. O. Peirce: Biography," ''[[American Mathematical Monthly]]'', 1895, № 2, 173–179. ''Google'' [https://books.google.com/books?id=jQkPAAAAIAAJ&pg=RA1-PA173 Eprint].
+* S. R. Peterson, "Benjamin Peirce: Mathematician and Philosopher," ''Journal of the History of Ideas'', 16, 1955, 89–112.
+* Peirce, Benjamin (1852), [http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1852AJ......2..161P;data_type=PDF_HIGH "Criterion for the Rejection of Doubtful Observations"], ''Astronomical Journal'' II 45 and [http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1852AJ......2..176P;data_type=PDF_HIGH Errata to the original paper]. Link pages for their non-PDF images of [http://adsabs.harvard.edu/abs/1852AJ......2..161P the article] and [http://adsabs.harvard.edu/abs/1852AJ......2..176P its errata].
+* Peirce, Benjamin (1872, 1881), ''Linear Associative Algebra''. Lithograph edition by Peirce 1872. New edition with corrections, notes, and an added 1875 paper by Peirce, plus notes by his son [[Charles Sanders Peirce]], published in the ''American Journal of Mathematics'' v. 4, n. 1, 1881, Johns Hopkins University, pp.&nbsp;221–226, ''Google'' [https://books.google.com/books?id=LQgPAAAAIAAJ&pg=PA221 Eprint], {{doi|10.2307/2369153}} [[JSTOR]] and as an extract, D. Van Nostrand, 1882, ''Google'' [https://archive.org/details/bub_gb_De0GAAAAYAAJ Eprint], ''Internet Archive'' [https://archive.org/details/linearassocalgeb00pierrich Eprint].
+* Peirce, Benjamin (1878), "On Peirce's Criterion", ''Proceedings of the [[American Academy of Arts and Sciences]]'', v. 13 (whole series), v. 5 (new series), for May 1877 – May 1878, Boston: Press of John Wilson and Son, pp.&nbsp;348–351. ''Google'' [https://archive.org/details/bub_gb_SUcWAAAAYAAJ/page/n364 <!-- pg=348 --> Eprint]. [[JSTOR]] [https://www.jstor.org/stable/25138498 abstract].
+* [[Charles Sanders Peirce|Peirce, Charles Sanders]] (1870/1871/1873) "Appendix No. 21. On the Theory of Errors of Observation", ''Report of the Superintendent of the United States Coast Survey Showing the Progress of the Survey During the Year 1870'', pp.&nbsp;200–224. Coast Survey Report submitted February 18, 1871, published 1873 by the U.S. Government Printing Office, Washington, D.C. [http://docs.lib.noaa.gov/rescue/cgs/data_rescue_cgs_annual_reports.html Reports 1837–1965]. NOAA [http://docs.lib.noaa.gov/rescue/cgs/001_pdf/CSC-0019.PDF#page=215 PDF Eprint] (link goes to 1870 Report's p.&nbsp;200, PDF's p.&nbsp;215). Reprinted in pp.&nbsp;140–160 of ''Writings of Charles S. Peirce: A Chronological Edition: Volume 3, 1872–1878'', Christian J. W. Kloesel ''et al.'', eds., Bloomington, Indiana: Indiana University Press, {{isbn|0-253-37201-1}}.
+*{{cite book
+|author-link=Stephen M. Stigler
+|last=Stigler
+|first=Stephen M.
+|chapter=Mathematical Statistics in the Early States
+|editor=Stephen M. Stigler
+|editor-link=Stephen M. Stigler
+|title=American Contributions to Mathematical Statistics in the Nineteenth Century, Volumes I & II
+|volume=I
+|publisher=Arno Press
+|location=New York
+|year=1980}}
+*{{cite book
+|author-link=Stephen M. Stigler
+|last=Stigler
+|first=Stephen M.
+|chapter=Mathematical Statistics in the Early States
+|editor=Peter Duren
+|title=A Century of Mathematics in America  <!-- Part III -->
+|volume=III
+|publisher=American Mathematical Society
+|location=Providence, RI
+|year=1989
+|pages=537–564}}
+{{refend}}
+
+==External links==
+{{wikiquote}}
+{{commons|Benjamin Peirce|Benjamin Peirce}}
+* {{MathGenealogy |id=80886 |name=Benjamin Peirce }}
+* {{Find a Grave|46905364}}
+* [[Ivor Grattan-Guinness|Grattan-Guinness, Ivor]], and <!-- [[Alison Walsh|  ]] --> Walsh, Alison (2005), "Benjamin Peirce", ''[[Stanford Encyclopedia of Philosophy]]'', [[Edward N. Zalta]] (ed.), [http://plato.stanford.edu/entries/peirce-benjamin/ Eprint].
+* O'Connor, John J., and Robertson, Edmund F. (2005), "Benjamin Peirce", ''[[MacTutor History of Mathematics Archive]]'', [http://www-history.mcs.st-andrews.ac.uk/Biographies/Peirce_Benjamin.html Eprint].
+* Hogan, Edward R. (2008), ''Of the Human Heart: A Biography of Benjamin Peirce'', Lehigh University Press, [https://web.archive.org/web/20120110170607/http://inpress.sites.lehigh.edu/publications/details/Hogan.html catalog page discussion of Peirce].
+*[[Scientific American]], "[https://books.google.com/books?id=6ok9AQAAIAAJ Benjamin Peirce]", 23 October 1880, p.&nbsp;257
+
+{{s-start}}
+{{s-gov}}
+{{s-bef | before=[[Alexander Dallas Bache]]}}
+{{s-ttl | title=[[United States Coast and Geodetic Survey|Superintendent, United States Coast Survey]] | years=1867–1874}}
+{{s-aft | after=[[Carlile Pollock Patterson]]}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Peirce, Benjamin}}
+[[Category:1809 births]]
+[[Category:1880 deaths]]
+[[Category:Charles Sanders Peirce]]
+[[Category:American algebraists]]
+[[Category:American number theorists]]
+[[Category:American statisticians]]
+[[Category:American astronomers]]
+[[Category:19th-century American mathematicians]]
+[[Category:United States Coast Survey personnel]]
+[[Category:National Oceanic and Atmospheric Administration]]
+[[Category:Harvard University Department of Philosophy faculty]]
+[[Category:Harvard University alumni]]
+[[Category:Foreign members of the Royal Society]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:People from Salem, Massachusetts]]
+[[Category:Mathematicians from Massachusetts]]

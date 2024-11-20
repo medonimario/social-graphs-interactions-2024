@@ -1,0 +1,47 @@
+{{short description|Norman Franciscan, theologian, and philosopher}}
+{{For|the 13th-century chancellor|Richard Middleton (Lord Chancellor)}}
+[[File:Nuremberg Chronicle f 222v 3.jpg|thumb|A generic portrait of ''Richardus de media villa'' in a woodcut from the ''[[Nuremberg Chronicle]]'']]
+'''Richard of Middleton''' ([[Medieval Latin]]: '''Richardus de Mediavilla'''; c. 1249 – c. 1308) was a member of the [[Franciscan Order]], a [[theology|theologian]], and [[Scholasticism|scholastic]] [[philosopher]].
+
+==Life==
+Richard's origins are unclear: he was either  [[Norman people|Norman]] French (from Menneville or [[Moyenville (disambiguation)|Moyenneville]]) or English (from Middletown).<ref>Wéber</ref> As a Bachelor of the ''[[Sentences]]'' of [[Peter Lombard]] at the [[University of Paris]] in 1283, he played a part in the Franciscan commission examining [[Peter Olivi]].<ref>Amann (1937)</ref> He was [[regent master]] of the Franciscan studium in Paris from 1284 to 1287, and, on 20 September 1295 in [[Metz]], he was elected Franciscan minister provincial of France.<ref>Cross (2005)</ref> He was also subsequently tutor to [[Louis of Toulouse]], son of [[Charles II of Anjou]]. He died sometime between 1300 and 1308.<ref>Wéber</ref>
+
+==Theology and philosophy==
+[[File:Bologna, riccardo da mediavilla, commentarium... sententiarum, 1250-75 ca. 01.jpg|thumb|300px|''Commentarium...'', c. 1250-1275, [[Biblioteca Medicea Laurenziana]], Florence]]
+
+His extant theological output is mainly contained in his two commentaries on the ''[[Sentences]]'' of [[Peter Lombard]], which he edited between 1285 and 1295, three sets of [[Quodlibeta|quodlibetal disputations]] and  some 45 disputed questions.<ref>Cross (2011)</ref><ref>Cross (2005)</ref> His work is heavily influenced by his predecessors at Paris, including [[Bonaventure]], [[Henry of Ghent]] and [[Thomas Aquinas]]. Although his philosophy owes much to the Franciscan school of thought, with regard to the plurality of forms in a single substance, for example, he also affirmed universal [[hylomorphism]], thus following [[Thomas Aquinas|Aquinas]].<ref>Cross (2005)</ref> In this regard, he did not shy away from synthesizing [[Aristotelianism|Aristotelian]] thought into his own philosophical reasoning, in spite of the hostility surrounding the [[Averroes|Averroist]] doctrines that were [[Condemnations of 1210-1277|condemned]] at the University of Paris in 1270 and 1277. Along with other masters of theology, his quodlibetal disputations had resonance beyond the immediate milieu of the University.<ref>Wei (1993)</ref> For example, in 1285, he was one of the masters who debated whether [[annuities]] were licit or illicit as a form of contract.<ref>Wei (2012)</ref>
+
+==Works==
+* Richard of Middleton, ''Quodlibeta doctoris eximii Ricardi de Mediavilla ordinis minorum'' (Brescia, 1591; repr. Frankfurt am Main, 1963).
+* Richard of Middleton, ''Super Quatuor Libros Sententiarum,'' 4 vols. (Brescia, 1591, repr. Frankfurt am Main, 1963).
+
+==References==
+{{reflist}}
+
+==Sources==
+* [[F. Maurice Powicke]] and E. B. Fryde. ''Handbook of British Chronology'' 2nd. ed. London: Royal Historical Society 1961.
+* [[Étienne Gilson]], ''History of Christian Philosophy in the Middle Ages'', New York: Random House, 1955, p. 347.
+* Édouard-Henri Wéber, RICHARD DE MEDIAVILLA ou DE MIDDLETON (1249 env.-entre 1300 et 1308), ''[[Encyclopædia Universalis]]'' [en ligne] - http://www.universalis.fr/encyclopedie/richard-de-mediavilla-de-middleton/
+* E. Amann, 'Richard de Mediavilla', ''Dictionnaire de Théologie Catholique'', xiii.2 (1937), pp. 2669–75.
+* Richard Cross, 'Richard of Middleton', ''A Companion to Philosophy in the Middle Ages'', Edited by:  JORGE J. E. GRACIA and TIMOTHY B. NOONE (2005).
+* Richard Cross, 'Richard of Middleton', ''Encyclopedia of Medieval Philosophy'' (2011),   pp 1132–1134 
+* Ian P. Wei, 'The masters of theology at the University of Paris in the late thirteenth and early fourteenth centuries: an authority beyond the schools', ''Bulletin of the John Rylands University Library of Manchester'' 75, (1993) p. 37 - 63.
+* Ian P. Wei, ''Intellectual Culture in Medieval Paris. Theologians and the University, c. 1100-1330'', (Cambridge University Press, 2012), p. 332. {{ISBN|9781107460362}}
+
+==External links==
+*[http://www.christusrex.org/www1/ofm/fra/FRAtho03.html Franciscan schools of thought]
+*[http://www.womenpriests.org/theology/middlto1.asp His argument against the ordination of women]
+*{{CathEncy|wstitle=Richard of Middletown}}
+
+{{Authority control}}
+
+[[Category:1249 births]]
+[[Category:1300s deaths]]
+[[Category:Norman Franciscans]]
+[[Category:Scholastic philosophers]]
+[[category:Franciscan theologians]]
+[[Category:13th-century French Catholic theologians]]
+[[Category:14th-century French Catholic theologians]]
+[[Category:13th-century writers in Latin]]
+[[Category:14th-century writers in Latin]]
+[[Category:1308 deaths]]

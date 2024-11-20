@@ -1,0 +1,8 @@
+#REDIRECT [[Thales of Miletus]]
+
+{{Rcat shell|
+{{R from move}}
+{{R from short name}}
+{{R mentioned in hatnote}}
+{{R printworthy}}
+}}

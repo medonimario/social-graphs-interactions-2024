@@ -1,0 +1,140 @@
+{{Short description|British religious philosopher (1805–1900)}}
+{{Use dmy dates|date=November 2020}}
+{{Use British English|date=August 2012}}
+{{Infobox philosopher
+| name             = James Martineau
+| image            = JamesMartineauOld.jpg
+| caption          = 
+| other_names      = 
+| birth_name       = 
+| birth_date       = {{Birth date|df=y|1805|04|21}}
+| birth_place      = [[Norwich]], England
+| death_date       = {{Death date and age|df=y|1900|01|11|1805|04|21}}
+| death_place      = [[London]], England
+| death_cause      =
+| residence        = 
+| nationality      = British  
+| era              = 
+| region           = [[British Unitarianism]]
+| school_tradition = 
+| main_interests   = 
+| books            = ''The Rationale of Religious Inquiry'' (1836)<br/> ''The Seat of Authority in Religion'' (1890)
+| alma_mater       = [[Unitarian College, Manchester|Manchester College, York]]
+| institutions     = [[Manchester New College]]
+| notable_ideas    = 
+| influences       = 
+| influenced       = 
+| awards           = 
+| signature        =James Martineau Signature.jpg 
+}}
+'''James Martineau''' ({{IPAc-en|ˈ|m|ɑr|t|ɪ|n|oʊ}}; 21 April 1805 – 11 January 1900)<ref>{{cite web|url=http://nla.gov.au/nla.news-article3242352|title=Obituary - Dr. James Martineau, London - January 12, 1900|work=The West Australian |date=15 January 1900 |page =5|access-date=15 January 2014}}</ref> was a British [[Christian philosophy|religious philosopher]] influential in the [[history of Unitarianism]].
+
+He was the brother of the atheist [[social theory|social theorist]], [[abolitionist]] [[Harriet Martineau]]. James Martineau's children included the [[Pre-Raphaelite Brotherhood|Pre-Raphaelite]] watercolourist [[Edith Martineau]], and painter and woodcarver [[Gertrude Martineau]].<ref>{{Citation |title=Martineau, Edith (Miss) |date=2011-10-31 |url=http://www.oxfordartonline.com/benezit/view/10.1093/benz/9780199773787.001.0001/acref-9780199773787-e-00300589 |work=Benezit Dictionary of Artists |access-date=2023-11-18 |publisher=Oxford University Press |language=en |doi=10.1093/benz/9780199773787.article.b00300589}}</ref>
+
+For 45 years he was Professor of Mental and Moral Philosophy and Political Economy in [[Manchester New College]]{{sfn|Fairbairn|1911|p=797}} (now Harris Manchester College, of the University of Oxford), the principal [[seminary|training college]] for [[British Unitarianism]].
+
+Many portraits of Martineau, including one painted by [[George Frederick Watts]], are held at London's [[National Portrait Gallery, London|National Portrait Gallery]]. In 2014, the gallery revealed that its patron, [[Catherine, Princess of Wales]], was related to Martineau. The Princess's  great-great-grandfather, [[Lupton family|Francis Martineau Lupton]], was Martineau's grandnephew.<ref>{{cite web|last=Furness|first=Hannah|title=Duchess of Cambridge visits National Portrait Gallery - home of little known Middleton family paintings|url=https://www.telegraph.co.uk/news/uknews/kate-middleton/10631996/Duchess-of-Cambridge-visits-National-Portrait-Gallery-home-of-little-known-Middleton-family-paintings.html|work=UK Daily Telegraph - page 3|publisher=UK Daily Telegraph - February 11th, 2014|access-date=9 May 2014}}</ref><ref>{{cite web|last=Gallery, London|first=National Portrait|url=http://www.npg.org.uk/collections/search/portrait/mw04254/James-Martineau|title=George Frederick Watts,- Portrait of James Martineau, 1873|publisher=NPG, London, 2014|access-date=15 January 2014}}</ref> The gallery also holds written correspondence between Martineau and [[Poet Laureate]], [[Alfred, Lord Tennyson]] - who records that he "regarded Martineau as the mastermind of all the remarkable company with whom he engaged". Martineau  and [[Alfred, Lord Tennyson|Lord Tennyson]] were  familiar with [[Queen Victoria|Queen Victoria's]] son, [[Prince Leopold, Duke of Albany]] and noted that Leopold, who had often "conversed with the eminent Dr. Martineau, was considered to be a young man of a very thoughtful mind, high aims, and quite remarkable acquirements".<ref>{{cite book|last=Greenwood|first=Grace|title=Queen Victoria, her girlhood and womanhood|url=http://www.fullbooks.com/Queen-Victoria-her-girlhood-and-womanhood4.html|year=1883 |location=Montreal |publisher=Dawson Bros|access-date=21 January 2014}}</ref> [[William Ewart Gladstone]] said to [[Frances Power Cobbe]] "Dr Martineau is beyond question the greatest of living thinkers".<ref>{{cite book|last=Cobbe|first=Frances Power|author-link=Frances Power Cobbe|title=Life of Frances Power Cobbe as Told by Herself|year=1904|publisher=Swan Sonnenschein & Co, Lim.|location=London|page=509|chapter=London in the Sixties and Seventies|chapter-url=https://books.google.com/books?id=Pus0AAAAMAAJ&q=Gladstone+%22greatest+of+living+thinkers%22&pg=PA509}}</ref>
+
+==Early life==
+The seventh of eight children, James Martineau was born in [[Norwich]], England, where his father Thomas (1764–1826) was a cloth manufacturer and merchant. His mother, Elizabeth Rankin, was the eldest daughter of a sugar refiner and grocer. The [[Martineau family]] were descended from Gaston Martineau, a [[Huguenot]] surgeon and refugee, who married Marie Pierre in 1693, and settled in Norwich. His son and grandson, respectively the great-grandfather and grandfather of James Martineau, were surgeons in the same city.{{sfn|Fairbairn|1911|p=797}} Many of the family were active in [[Unitarianism|Unitarian]] causes, so much so that a room in [[Essex Hall]], the headquarters of [[British Unitarianism]], was eventually named after them. Branches of the Martineau family in Norwich, Birmingham and London were socially and politically prominent Unitarians; other elite Unitarian families in Birmingham were the Kenricks, Nettlefolds and the Chamberlains, with much intermarriage between these families taking place.<ref>{{cite web|last=Tree|first=Chamberlain Family|url=http://www.greywall.demon.co.uk/genealogy/WynnHall/chamberlain.html|title=Chamberlain Family|publisher=Graham Wall copyright 2001|access-date=20 January 2014|quote=Note connection of Martineau, Kenrick, Nettleford and Chamberlain families (1862-1945)|archive-date=24 September 2015|archive-url=https://web.archive.org/web/20150924023718/http://www.greywall.demon.co.uk/genealogy/WynnHall/chamberlain.html|url-status=dead}}</ref><ref>{{cite web|last=Ruston|first=Alan|title=Joseph Chamberlain|url=http://uudb.org/articles/josephchamberlain.html|publisher=UUDB. c2011|access-date=20 January 2014|archive-date=23 May 2019|archive-url=https://web.archive.org/web/20190523224924/http://uudb.org/articles/josephchamberlain.html|url-status=dead}}</ref>{{sfn|Rowe|1959|loc=chapter 6}} Essex Hall held a statue of Martineau.{{sfn|Rowe|1959|loc=chapter 8}} His niece, [[Frances Lupton]], who was close to his sister [[Harriet Martineau|Harriet]], had worked to open up [[Female education#Modern period|educational opportunities for women]].<ref>{{cite book|editor=Elisabeth Sanders Arbuckle|author=Harriet Martineau|title=Harriet Martineau's Letters to Fanny Wedgwood|url=https://books.google.com/books?id=yR2rAAAAIAAJ&pg=PA154|publisher=Stanford University Press | page= 150 |date= 1 January 1983|isbn=9780804711463|quote=(May 1857) My (H. Martineau) niece, Mrs (Frances) Lupton and her husband came for two days}}</ref>
+
+==Education and early years==
+James was educated at [[Norwich School|Norwich Grammar School]] where he was a school-fellow with [[George Borrow]] under [[Edward Valpy]], as good a scholar as his better-known brother [[Richard Valpy|Richard]], but proved too sensitive for school.<ref>{{cite book|title=Souvenir of the George Borrow Celebration|url=https://archive.org/details/souvenirofgeorge00hooprich|first=James|last=Hooper|page=[https://archive.org/details/souvenirofgeorge00hooprich/page/14 14]|year=1913|publisher=Jarrold & Sons}}</ref> He was sent to [[Bristol]] to the private academy of Dr. [[Lant Carpenter]], under whom he studied for two years. On leaving he was apprenticed to a [[civil engineer]] at [[Derby, England|Derby]], where he acquired "a store of exclusively scientific conceptions," but also began to look to religion for mental stimulation.{{sfn|Fairbairn|1911|p=797}}
+
+Martineau's [[religious conversion|conversion]] followed, and in 1822 he entered the [[dissenting academy]] [[Harris Manchester College, Oxford|Manchester College]], then at [[York]] - his uncle [[Peter Finch Martineau]] was one of its vice-presidents.<ref>{{Cite journal|last=Ronalds|first=B.F.|date=February 2018|title=Peter Finch Martineau and his Son|journal=The Martineau Society Newsletter|volume=41|pages=10–19}}</ref> Here he "woke up to the interest of moral and metaphysical speculations." Of his teachers, one, the Rev. [[Charles Wellbeloved]], was, Martineau said, "a master of the true [[Nathaniel Lardner|Lardner]] type, candid and catholic, simple and thorough, humanly fond indeed of the counsels of peace, but piously serving every bidding of sacred truth." The other, the Rev. [[John Kenrick (historian)|John Kenrick]], he described as a man so learned as to be placed by [[Dean Stanley]] "in the same line with [[Edward Valentine Blomfield|Blomfield]] and [[Connop Thirlwall|Thirlwall]]," and as "so far above the level of either vanity or dogmatism, that cynicism itself could not think of them in his presence." On leaving the college in 1827 Martineau returned to [[Bristol]] to teach in the school of Lant Carpenter; but in the following year, he was ordained for a Unitarian church in [[Dublin]],{{sfn|Rowe|1959|loc=chapter 1}} whose senior minister was a relative of his.{{sfn|Fairbairn|1911|p=797}}
+
+[[File:JamesMartineauYoung.jpg|thumb|right|upright|James Martineau at a younger age]]
+
+Martineau's ministerial career was suddenly cut short in 1832 by difficulties growing out of the "[[regium donum]]", which had on the death of the senior minister fallen to him. He conceived it as "a religious monopoly" to which "the nation at large contributes," while "Presbyterians alone receive," and which placed him in "a relation to the state" so "seriously objectionable" as to be "impossible to hold." The invidious distinction it drew between [[Presbyterian]]s on the one hand, and Catholics, members of the [[Religious Society of Friends]] (Quakers), other [[Nonconformist (Protestantism)|nonconformists]], unbelievers, and Jews on the other, who were compelled to support a ministry they conscientiously disapproved, offended his conscience.{{sfn|Fairbairn|1911|p=797}} His conscience did, however, allow him to attend both the [[Coronation of Queen Victoria]] in 1838 and [[Golden Jubilee of Queen Victoria|her Golden Jubilee]] half a century later. A year prior to the coronation, at [[St James's Palace]], Martineau had "[[Kissing hands|kissed the hand]]" of the queen at the deputation of British Presbyterian ministers.<ref>{{cite book|last=Carpenter|first=J. Estlin|title=James Martineau, theologian and teacher; A study of his life in thought|url=https://archive.org/details/jamesmartineaut01carpgoog|publisher=Philip Green, Essex Street, London, 1905, Chapter VII}}</ref>
+
+==Work and writings==
+From Dublin, he was called to [[Liverpool]]. He lodged in a house owned by [[Joseph Williamson (philanthropist)|Joseph Williamson]]. It was during his 25 years in Liverpool that he published his first work, ''Rationale of Religious Enquiry'', which caught the attention of many religious and philosophical figures.
+
+In 1840 Martineau was appointed Professor of Mental and Moral Philosophy and Political Economy in [[Manchester New College]], the seminary in which he had been educated, and which had now moved from York back to [[Manchester]]. This position, and the principalship (1869–1885), he held for 45 years.<ref>{{cite web|last1=University of Oxford|first1=Harris Manchester College -|title=Archives and History - Harris Manchester College, University of Oxford|url=http://www.hmc.ox.ac.uk/pages/default.asp?id=20&sID=135&cP=201|website=hmc.ox.ac.uk|publisher=Harris Manchester College Pty Ltd|access-date=22 September 2014|url-status=dead|archive-url=https://web.archive.org/web/20141018063606/http://www.hmc.ox.ac.uk/pages/default.asp?id=20&sID=135&cP=201|archive-date=18 October 2014}}</ref> In 1853 the college moved to London, and four years later he followed it there. In 1858 he combined this work with preaching at the pulpit of Little Portland Street Chapel in London, which for the first two years he shared with [[John James Tayler]] (who was also his colleague in the college), and then for twelve years as its only minister.{{sfn|Fairbairn|1911|pp=797–798}}
+
+In 1866, the Chair of the Philosophy of Mind and Logic at [[University College, London]], fell vacant when the liberal nonconformist [[John Hoppus|Dr John Hoppus]] retired. Martineau became a candidate, and despite strong support from some quarters, potent opposition was organised by the anti-clerical [[George Grote]], whose refusal to endorse Martineau resulted in the appointment of [[George Croom Robertson]], then an untried man. Martineau, however, sidestepped Grote's opposition, much as Hoppus had learnt to do during his Professorship, and developed a cordial friendship with Robertson.
+
+Martineau was elected a Foreign Honorary Member of the [[American Academy of Arts and Sciences]] in 1872.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter M|url=http://www.amacad.org/publications/BookofMembers/ChapterM.pdf|publisher=American Academy of Arts and Sciences|access-date=23 September 2016}}</ref> He was awarded LL.D. of Harvard in 1872, S.T.D. of [[university of Leiden|Leiden]] in 1874, D.D. of [[University of Edinburgh|Edinburgh]] in 1884, D.C.L. of [[university of Oxford|Oxford]] in 1888 and D.Litt. of [[university of Dublin|Dublin]] in 1891.{{sfn|Fairbairn|1911|p=798}}
+[[File:James Martineau by Elliott & Fry, c1860s-crop.jpg|thumb|right|200px|James Martineau by [[Elliott & Fry]], circa 1860s]]
+
+==Life and thought==
+Martineau described some of the changes he underwent; how he had "carried into logical and ethical problems the maxims and postulates of physical knowledge," and had moved within narrow lines "interpreting human phenomena by the analogy of external nature"; and how in a period of "second education" at [[Humboldt University]] in Berlin, with [[Friedrich Adolf Trendelenburg]], he experienced "a new intellectual birth".{{sfn|Fairbairn|1911|p=798}} It made him, however, no more of a [[theist]] than he had been before, and he developed [[Transcendentalism|Transcendentalist]] views, which became a significant current within Unitarianism.<ref>Tiffany K. Wayne, ''Encyclopedia of Transcendentalism'' (2006), p. 179.</ref>
+
+===Early years===
+In his early life he was a preacher. Although he did not believe in the Incarnation, he held deity to be manifest in humanity; man underwent an [[apotheosis]], and all life was touched with the dignity and the grace which it owed to its source. His preaching led to works that built up his reputation:''Endeavours after the Christian Life'', 1st series, 1843; 2nd series, 1847; ''Hours of Thought'', 1st series, 1876; 2nd series, 1879; the various hymn-books he issued at Dublin in 1831, at Liverpool in 1840, in London in 1873; and the ''Home Prayers'' in 1891.{{sfn|Fairbairn|1911|p=798}}
+[[File:James Martineau by George Frederic Watts.jpg|right|thumb|200px|James Martineau -   Replica (National Portrait Gallery) by [[George Frederic Watts]], 1873]]
+In 1839 Martineau came to the defence of Unitarian doctrine, under attack by Liverpool clergymen including [[Fielding Ould]] and [[Hugh Boyd M‘Neile]]. In the controversy, Martineau published five discourses, in which he discussed "the Bible as the great autobiography of human nature from its infancy to its perfection," "the Deity of Christ," "Vicarious Redemption," "Evil," and "Christianity without Priest and without Ritual."{{sfn|Fairbairn|1911|p=798}}
+
+In Martineau's earliest book, ''The Rationale of Religious Enquiry'', published in 1836, he placed the authority of reason above that of Scripture; and he assessed the New Testament as "uninspired, but truthful; sincere, able, vigorous, but fallible."<ref>James Martineau, ''The Rationale of Religious Enquiry'' (London, 1836), p. 17.</ref> The book marked him down, among older British Unitarians, as a dangerous radical, and his ideas were the catalyst for a pamphlet war in America between [[George Ripley (transcendentalist)|George Ripley]] (who favored Martineau's questioning of the historical accuracy of scripture) and the more conservative [[Andrews Norton]]. Despite his belief that the Bible was fallible, Martineau continued to hold the view that "in no intelligible sense can any one who denies the supernatural origin of the religion of Christ be termed a Christian," which term, he explained, was used not as "a name of praise," but simply as " a designation of belief."<ref>James Martineau, ''The Rationale of Religious Enquiry'' (London, 1836), "Preface to the Second Edition", p. x.</ref> He censured the German rationalists "for having preferred, by convulsive efforts of interpretation, to compress the memoirs of Christ and His apostles into the dimensions of ordinary life, rather than admit the operation of miracle on the one hand, or proclaim their abandonment of Christianity on the other".<ref>{{cite book|last=Martineau|first=James|title=The Rationale of Religious Enquiry|year=1836|publisher=Whittaker and Co, Simpkin and Marshall, and R. Hunter|location=London|page=133|chapter=Rationalism}}</ref>{{sfn|Fairbairn|1911|p=798}}
+
+===Transcendentalism===
+Martineau came to know German philosophy and criticism, especially the criticism of [[Ferdinand Christian Baur]] and the [[University of Tübingen|Tübingen]] school, which affected his construction of Christian history. French influences were [[Ernest Renan]] and the Strassburg theologians. The rise of evolution compelled him to reformulate his theism. He addressed the public, as editor and contributor, in the ''[[Monthly Repository]]'', the ''[[Christian Reformer]]'', the ''Prospective Review'', the ''[[Westminster Review]]'' and the ''[[National Review]]''. Later he was a frequent contributor to the literary monthlies. More systematic expositions came in ''Types of Ethical Theory'' and ''The Study of Religion'', and, partly, in ''The Seat of Authority in Religion'' (1885, 1888 and 1890). What did Jesus signify? This was the problem which Martineau attempted to deal with in ''The Seat of Authority in Religion''.<ref>Martineau, James. [https://archive.org/details/a592331600martuoft ''The Seat of Authority in Religion'']</ref>{{sfn|Fairbairn|1911|p=798}}
+
+Martineau's theory of religious society, or church, was that of an idealist. He propounded a scheme, which was not taken up, that would have removed the church from the hands of a clerical order, and allowed the coordination of sects or churches under the state. Eclectic by nature, he gathered ideas from any source that appealed. [[Stopford Brooke (chaplain)|Stopford Brooke]] once asked [[Arthur Penrhyn Stanley|A. P. Stanley]], [[Dean of Westminster]], "if the Church of England would broaden sufficiently to allow James Martineau to be made [[Archbishop of Canterbury]]".<ref name = "MartineauODNB">{{cite ODNB|title = Martineau, James|last = Waller|first = Ralph|author-link = Ralph Waller|id = 18229|year = 2006}}</ref>
+[[File:Family grave of James Martineau in Highgate Cemetery.jpg|thumb|right|Family grave of James Martineau in [[Highgate Cemetery]]]]
+[[File:Norwich-_Octagon_Chapel_%28geograph_3236803%29.jpg|thumb|right|Norwich's Octagon Chapel and adjacent Martineau Memorial Hall (right)]]
+[[File:Memorial to James Martineau (1805 - 1900) - geograph.org.uk - 114114.jpg|thumb|right|200px|Memorial to Martineau, near [[Aviemore]], Scotland]]
+
+==Later years==
+Although he had opposed the removal (1889) of Manchester New College to Oxford, Martineau took part in the opening of the new buildings, conducting the communion service (19 October 1893) in the chapel of what is today [[Harris Manchester College]], University of Oxford.<ref>{{cite DNBSupp|last=Gordon |first=Alexander |wstitle=Martineau, James|volume=3}}</ref>
+
+A wide circle of friends mourned his death on 11 January 1900; [[Oscar Wilde]] references him in his prose.<ref>{{cite book|last=Wilde|first=Oscar|title=The Prose of Oscar Wilde|page=494|url=https://books.google.com/books?id=ibNYKfOxB-AC&pg=PA494|orig-year=1st. pub. Cosmopolitan Book Cor. 1916|access-date=15 January 2014|isbn=9781596050969|date=2005-01-01}}</ref>
+
+He was buried in a family grave on the eastern side of [[Highgate Cemetery]]. One of his daughters was the [[Watercolor painting|watercolourist]] [[Edith Martineau]] who was interred in the family grave in 1909. The Martineau Memorial Hall in Norwich was built in 1907 and  named after [[celebrity|celebrated]]  members of  the family who had long resided in the area and were deacons of the [[Octagon Chapel, Norwich|chapel]] to which the hall was attached. However, unofficially, the hall was named after James who had died within recent years having established the hall's [[Sunday school]] some decades earlier.<ref>{{cite book |title=Official Guide to the City of Norwich |url=https://books.google.com/books?id=XSBRAQAAIAAJ&q=martineau+Memorial+Hall++norwich++harriet++James |access-date=3 April 2023| last1=(England) | first1=Norwich | year=1936 }}</ref>
+
+==Bibliography==
+* [https://archive.org/details/endeavoursafterc00mart ''Endeavours after the Christian Life''] (1843);
+* [https://archive.org/details/miscellanies00martiala ''Miscellanies''] 1852;
+* [https://archive.org/details/a592327000martuoft ''The Rationale of Religious Enquiry: or, The question stated of reason, the Bible, and the church; in six lectures''] (1853);
+* [https://archive.org/details/a592343600martuoft ''Studies of Christianity : a series of papers''] (1858);
+* [https://archive.org/details/astudyspinoza05martgoog ''A Study of Spinoza''] (1882)
+* ''Types of Ethical Theory'' (1885)
+
+==See also==
+*[[Free Christians (Britain)]]
+*[[General Assembly of Unitarian and Free Christian Churches]]
+*[[Unitarianism]]
+
+==References==
+{{Reflist}}
+
+==Sources==
+* [[John Hunt (theologian)|J. Hunt]], [https://archive.org/details/religiousthough00hunt ''Religious Thought in England in the 19th Century''] (1896) pages 246–250;
+* A. W. Jackson, [https://archive.org/details/jamesmartineaubi00jackiala ''James Martineau, a Biography and a Study''] (Boston, 1900);
+* J. Drummond and C. B. Upton, ''Life and Letters'' (2 volumes, 1901);
+* [[Henry Sidgwick]], ''Lectures on the Ethics of Green, Spencer and Martineau'' (1902);
+* A. H. Craufurd, [https://archive.org/details/recollectionsofj00craurich ''Recollections of James Martineau''] (1903);
+* J. E. Carpenter, [https://archive.org/details/jamesmartineau00carpuoft ''James Martineau, Theologian and Teacher''] (1905);
+* C. B. Upton, [https://archive.org/details/drmartineausphil00upto ''Dr. Martineau's philosophy, a survey''] (1905);
+* {{cite book|last=Rowe|first=Mortimer|title=The History of Essex Hall|url=http://www.unitarian.org.uk/support/doc-EssexHall0.shtml|year=1959|publisher=Lindsey Press|location=London|archive-url=https://web.archive.org/web/20120116153833/http://www.unitarian.org.uk/support/doc-EssexHall0.shtml|archive-date=16 January 2012}}
+* [[Frank Schulman]], ''James Martineau: This Conscience-Intoxicated Unitarian'' (2002).
+'''Attribution'''
+* {{EB1911|wstitle=Martineau, James|volume=17|pages=797–800|first=Andrew Martin|last=Fairbairn|author-link=Andrew Martin Fairbairn}}
+
+==External links==
+*{{wikiquote-inline}}
+* {{Gutenberg author | id=40587| name=James Martineau}}
+* {{Internet Archive author |sname=James Martineau}}
+* {{NPG name|id=2990}}
+
+{{s-start}}
+{{s-rel|pres}} 
+{{s-bef|before=Philip Taylor<br>Joseph Hutton}}
+{{s-ttl|title=Minister of [[Eustace Street Presbyterian Church, Dublin]]|years=1828–1832|with=Philip Taylor, 1828-1831|with2=Joseph Hutton, 1828–1832}}
+{{s-aft|after=Joseph Hutton}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Martineau, James}}
+[[Category:1805 births]]
+[[Category:1900 deaths]]
+[[Category:Burials at Highgate Cemetery]]
+[[Category:Alumni of Harris Manchester College, Oxford]]
+[[Category:English philosophers]]
+[[Category:English Unitarians]]
+[[Category:English people of French descent]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:People educated at Norwich School]]
+[[Category:Irish non-subscribing Presbyterian ministers]]
+[[Category:Martineau family]]

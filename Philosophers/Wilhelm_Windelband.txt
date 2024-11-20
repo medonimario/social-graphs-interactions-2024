@@ -1,0 +1,88 @@
+{{short description|German philosopher (1848–1915)}}
+{{use dmy dates|date=February 2020}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[19th-century philosophy]]
+| name      = Wilhelm Windelband
+| image     = Wilhelm Windelband.jpg
+| caption   = Wilhelm Windelband, prior to 1905
+| birth_date     = {{Birth date|1848|5|11|df=y}}
+| birth_place    = [[Potsdam]], [[Province of Brandenburg|Brandenburg]], [[Kingdom of Prussia]]
+| death_date     = {{death date and age|1915|10|22|1848|5|11|df=y}}
+| death_place    = [[Heidelberg]], [[Grand Duchy of Baden]], [[German Empire|Germany]]
+| alma_mater     = [[University of Jena]]<br />[[University of Berlin]]<br />[[University of Göttingen]] (Dr. phil., 1870)
+| school_tradition = [[Neo-Kantianism]] ([[Baden School]])<br />[[Foundationalism]]<ref>Windelband defended foundationalism in his book ''Über die Gewißheit<!--[sic]--> der Erkenntniss.'' (1873)—see [[Frederick C. Beiser]] (2014), ''The Genesis of Neo-Kantianism, 1796–1880'' (Oxford: Oxford University Press), p. 517.</ref>
+| main_interests   = [[Metaphysics]], [[philosophical logic]]
+| notable_ideas    = The [[nomothetic]]–[[idiographic]] distinction
+| thesis_title = Die Lehren vom Zufall (The Theories of Chance)
+| thesis_url   = https://archive.org/details/dielehrenvomzufa00winduoft
+| thesis_year  = 1870
+| doctoral_advisor  = [[Hermann Lotze]]
+| academic_advisors = 
+| doctoral_students = [[Heinrich Rickert]]
+}}
+'''Wilhelm Windelband''' ({{IPAc-en|ˈ|v|ɪ|n|d|əl|b|æ|n|d}}; {{IPA|de|ˈvɪndl̩bant|lang}}; 11 May 1848 – 22 October 1915) was a German [[philosopher]] of the [[Baden School]].
+[[File:Windelband grab.JPG|thumb|His grave in Heidelberg]]
+
+==Biography==
+Windelband was born the son of a Prussian official in [[Potsdam]]. He studied at [[University of Jena|Jena]], [[University of Berlin|Berlin]], and [[University of Göttingen|Göttingen]].
+
+==Philosophical work==
+Windelband is now mainly remembered for the terms [[nomothetic and idiographic|''nomothetic'' and ''idiographic'']], which he introduced. These have currency in [[psychology]] and other areas, though not necessarily in line with his original meanings. Windelband was a [[Neo-Kantianism|neo-Kantian]] who argued against other contemporary neo-Kantians, maintaining that "to understand [[Immanuel Kant|Kant]] rightly means to go beyond him". Against his [[positivist]] contemporaries, Windelband argued that philosophy should engage in humanistic dialogue with the natural sciences rather than uncritically appropriating its methodologies. His interests in [[psychology]] and cultural sciences represented an opposition to [[psychologism]] and [[historicism]] schools by a critical philosophic system.
+
+Windelband relied in his effort to reach beyond Kant on such philosophers as [[Georg Wilhelm Friedrich Hegel]], [[Johann Friedrich Herbart]] and [[Hermann Lotze]]. Closely associated with Windelband was [[Heinrich Rickert]]. Windelband's disciples were not only noted philosophers, but [[sociologists]] like [[Max Weber]] and [[theologians]] like [[Ernst Troeltsch]] and [[Albert Schweitzer]].
+
+==Bibliography==
+The following works by Windelband are available in English translations:
+
+;Books
+* ''[https://archive.org/details/historyofphiloso00inwind History of Philosophy]'' (1893) (two volumes) reprinted 1901, 1938 and 1979 by Macmillan
+* ''[https://archive.org/details/historyancientp04windgoog History of Ancient Philosophy]'' (1899)
+* ''An Introduction to Philosophy'' (1895)''
+* ''Theories in Logic'' (1912)
+
+;Articles
+*"History and Natural Science" (J. T. Lamiell, transl.).  ''Theory and Psychology'' '''8''', 1998, 6–22.
+
+==See also==
+*[[Heinz Heimsoeth]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite book |title=Wilhelm Windelband |first=Heinrich |last=Rickert |year=1929 |orig-year=1915 |edition=2nd |location=Tübingen |publisher=J.C.B. Mohr}}
+*{{cite book |last=Mayeda |first=Graham |year=2008 |chapter=Is there a Method to Chance? Contrasting Kuki Shūzō's Phenomenological Methodology in The Problem of Contingency with that of his Contemporaries Wilhelm Windelband and Heinrich Rickert |editor1-first=Victor S |editor1-last=Hori |editor2-first=Melissa Anne-Marie |editor2-last=Curley |title=Frontiers of Japanese Philosophy II: Neglected Themes and Hidden Variations |location=Nagoya, Japan |publisher=Nanzan Institute for Religion and Culture }}
+
+==External links==
+*[https://archive.org/details/windelbandsphilo00winduoft A History of Philosophy—With especial reference to the formation and development of its problems and conceptions (1901)] on [[archive.org]]
+*[https://archive.org/details/introductiontoph00winduoft An Introduction to Philosophy] on [[archive.org]]
+
+{{philosophy of science}}
+{{Authority control}}
+
+{{DEFAULTSORT:Windelband, Wilhelm}}
+[[Category:1848 births]]
+[[Category:1915 deaths]]
+[[Category:19th-century German essayists]]
+[[Category:19th-century German philosophers]]
+[[Category:20th-century German essayists]]
+[[Category:20th-century German philosophers]]
+[[Category:Christian philosophers]]
+[[Category:German epistemologists]]
+[[Category:German logicians]]
+[[Category:German Lutherans]]
+[[Category:German male essayists]]
+[[Category:German male non-fiction writers]]
+[[Category:German historians of philosophy]]
+[[Category:Kantian philosophers]]
+[[Category:Metaphysicians]]
+[[Category:Ontologists]]
+[[Category:People from Potsdam]]
+[[Category:People from the Province of Brandenburg]]
+[[Category:Philosophers of logic]]
+[[Category:Philosophers of psychology]]
+[[Category:German philosophers of science]]
+
+
+{{Germany-philosopher-stub}}

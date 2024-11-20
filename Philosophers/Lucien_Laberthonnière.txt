@@ -1,0 +1,102 @@
+'''Lucien Laberthonnière''' was a French Oratorian priest, theologian, philosopher and historian of philosophy. He was a central figure in the [[Modernism in the Catholic Church|Modernist crisis]] along with his close friend and primary philosophical influence [[Maurice Blondel]]. He also influenced [[George Tyrell]] and his writings were placed on the [[Index of Forbidden Books]] in 1913.<ref>{{Citation|title=Laberthonnière, Lucien |date=2009-01-01 |work=The Oxford Dictionary of the Christian Church |editor-last=Cross |editor-first=F. L.|author1=F. > Cross|url=https://www.oxfordreference.com/display/10.1093/acref/9780192802903.001.0001/acref-9780192802903-e-3906 |access-date=2024-07-20 |publisher=Oxford University Press |language=en |doi=10.1093/acref/9780192802903.001.0001/acref-9780192802903-e-3906 |isbn=978-0-19-280290-3 |last2=Livingstone |first2=E. A.}}</ref>
+
+{{Infobox philosopher
+| honorific_prefix  = Father
+| name              = Lucien Laberthonnière
+| native_name       = <!-- add name in the philosopher's language or script if different from the English name -->
+| honorific_suffix  = [[Oratory of Saint Philip Neri|CO]]
+| image             = Lucien_Laberthonnière.jpg
+| image_size        = 
+| alt               = 
+| caption           = 
+| other_names       = 
+| birth_name        = <!-- only use if different from name -->
+| birth_date        = {{birth date|1860|10|05}}
+| birth_place       = [[Chazelet|Chazelet, France]]
+| death_date        = {{death date and age|1932|10|06|1860|10|05}}
+| death_place       = [[Paris|Paris, France]]
+| death_cause       = 
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| spouse            =
+| partner           =
+| children          =
+| family            =
+| relatives         = 
+| education         = 
+| alma_mater        = 
+| occupation        = 
+| notable_works     = <!-- use "notable_works" in place of "books" parameter (deprecated) -->
+| awards            = 
+| signature         = 
+| signature_type    =
+| signature_size    = 
+| signature_alt     = 
+| era               = [[Modern philosophy]]
+| region            = 
+| school_tradition  = [[Modernism in the Catholic Church|Catholic modernism]]
+| institutions      = 
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| language          = 
+| main_interests    = 
+| notable_ideas     = Moral dogmatism
+| website           = <!-- {{URL|example.com}} -->
+}}
+
+== Biography ==
+
+Laberthonnière was born in [[Chazelet]] October 5, 1860 and died in [[Paris]] October 6, 1932. He was ordained an [[Oratory of Saint Philip Neri|Oratorian priest]] in 1886. He taught philosophy at the [[Collège de Juilly]] from 1887 to 1896. In 1894, he met Maurice Blondel after being impressed with his dissertation ''L'Action''. The two began an intimate correspondence which would later be published by [[Claude Tresmontant]].<ref>{{cite book |last1=Tresmontant |first1=Claude |title=Maurice Blondel — Lucien Laberthonnière : Correspondance philosophique : Publiée et présentée par Claude Tresmontant |date=1961 |publisher=Editions de Seuil |location=Paris}}</ref>
+
+He was named director of the [[École Massillon]] in 1897 through 1900 and returned to the Collège de Juilly from 1900 to 1903 as director. He was relieved from his pedagogical responsibilities as a result of the anticlerical laws enforced under [[Émile Combes]]. He then moved to an apartment on Rue Las Cases in [[7th arrondissement of Paris]] to focus exclusively on philosophical research and intellectual apostolate.<ref>Ngindu Mushete, ''Le problème de la connaissance religieuse d'après Lucien Laberthonnière'', p.35</ref> Anxious to define his work as [[Christian philosophy]], he opposed "réalisme chrétien et l'idéalisme grec".  In 1905, he founded an association of religious studies and became a titular member of the Société française de philosophie. He served as director of the ''[[Annales de philosophie chrétienne]]'' de 1905 à 1913 and was heavily criticized by diverse theologians. He focused on issues related to the relationship between faith and reason.<ref>[https://www.universalis.fr/encyclopedie/lucien-laberthonniere/ Universalis : Laberthonnière]</ref> In 1906, his works ''Essais de philosophie religieuse'' and ''Le réalisme chrétien et l'idéalisme grec'' were censured. His attacks on [[Action française]], notably in ''Positivisme et catholicisme'' (1911), brought negative attention from [[integralism|integralists]]. In 1913, the ''Annales'' were placed on the Index of Forbidden Books. Laberthonnière submitted to the ban on publishing but was not banned from preaching. During the [[World War I|First World War]], Laberthonnière was asked by Henri-Louis Chapon, [[Roman Catholic Diocese of Nice|Bishop of Nice]] to write a doctrinal letter condemning [[Pan-Germanism]]. He served as chaplain to blind soldiers at the [[Quinze-Vingts National Ophthalmology Hospital|Hôpital des Quinze-Vingts]], where he met his friend the Protestant pastor [[Marc Boegner]].
+
+After the war, Laberthonnière participated in many private ecumenical meetings. From the years 1925 to 1927, he wrote the Lent conferences at the [[Notre-Dame de Paris|Cathedral of Notre Dame de Paris]]. He died of an illness on October 6, 1932, at the age of 72. His funeral at [[Sainte-Clotilde, Paris|Sainte-Clotilde]] was held discreetly, to the satisfaction of [[Alfred Baudrillart]] who worried it would have the "character of a demonstration." [[Louis Canet]] oversaw the posthumous publication of his work.
+
+== Thought==
+
+Laberthonnière was influenced by Maurice Blondel and [[Blaise Pascal]]. His work focused on the existential dimension of Christianity contrary to the so-called ''extrinsicism'' of Neo-Scholasticism. He utilized the "method of immanence" treated of skeptically by [[Pope Pius X]] in [[Pascendi Dominici gregis]] and emphasized the interior experience of Christianity against the empirical claims of apologetics.<ref>{{cite web |last1=Fox |first1=Gregory |title=The Ideal Which Must Direct Us |url=https://www.todaysamericancatholic.org/2024/07/the-ideal-which-must-direct-us/ |website=Today's American Catholic |access-date=20 July 2024}}</ref>
+
+Laberthonnière was loosely associated with [[Le Sillon]] though he had a poor relationship with [[Marc Sangnier]] and was a public opponent of [[Charles Maurras]] and Action française. He was also critical of [[L'Univers]], perceiving its focus on the papacy as a perversion of Catholicism. While critical of anticlericalism, he called for a greater degree of separation of church and state and was critical of militant Catholic movements.<ref>{{Citation |title=Laberthonnière's separation between politics and Christian faith |date=1982 |work=Nationalism, Positivism and Catholicism: The Politics of Charles Maurras and French Catholics 1890–1914 |pages=163–201 |editor-last=Sutton |editor-first=Michael |url=https://www.cambridge.org/core/books/nationalism-positivism-and-catholicism/laberthonnieres-separation-between-politics-and-christian-faith/5AB4DEFFF7CC7D1605BB40E0BC39F102 |access-date=2024-07-20 |series=Cambridge Studies in the History and Theory of Politics |place=Cambridge |publisher=Cambridge University Press |doi=10.1017/cbo9780511558610.007 |isbn=978-0-521-89340-4}}</ref>
+
+== Bibliography ==
+* ''Théorie de l'éducation'', 1901.
+* ''Essais de philosophie religieuse'', 1903.
+* ''Le réalisme chrétien et l'idéalisme grec'', 1904.
+* ''Le catholicisme et la société'', 1907.
+* ''Positivisme et catholicisme'', 1911.
+* ''Autour de l'Action française'', 1911.
+* ''Le témoignage des martyrs'', 1912.
+* ''Sur le chemin du catholicisme'', 1913.
+* ''Études sur Descartes'', 2 vol., 1935.
+* ''Étude de philosophie cartésienne'' et ''Premiers écrits philosophiques'', 1937.
+* ''Esquisse d'une philosophie personnaliste'', 1945.
+* ''Pangermanisme et christianisme'', 1945.
+* ''Sciut ministrator'', 1947.
+* ''Critique du laïcisme'', 1948.
+* ''La notion chrétienne de l'autorité'', 1955.
+
+== References ==
+<references />
+
+=== Bibliography ===
+* Maurice Blondel, Laberthonnière, ''Correspondance philosophique'', Éditions du Seuil, 1961. Présentée par [[Claude Tresmontant]].
+*[[Marie-Dominique Chenu]]. ''La Jeunesse de Laberthonnière, printemps d'une mission prophétique'', Paris : Beauchesne, 1979.
+*Roger Aubert. ''Le Problème de la connaissance religieuse'', Kinshasa : Faculté de théologie catholique, 1978.
+*Oratoriana, ''Laberthonnière : L'Homme et l'Œuvre. Introduction à sa pensée'', textes et communications présentés par P. Beillevert, éd. Beauchesne, Paris, 1972.
+*Marie-Thérèse Perrin. ''Laberthonnière et ses amis : L. Birot, H. Bremond, L. Canet, E. Le Roy : dossiers de correspondance (1905-1916)'', éd. Beauchesne, coll. Théologie Historique, Paris, 1975.
+*Marie-Thérèse Perrin, ''La jeunesse de Laberthonnière : printemps d'une mission prophétique'', éd. Beauchesne, coll. Le point théologique, Paris, 1980.
+*Marie-Thérèse Perrin, ''Dossier Laberthonnière: Correspondance et textes (1917-1932)'', éd. Beauchesne, coll. Textes, dossiers, documents, Paris, 1983.
+*Ngindu Mushete, ''Le problème de la connaissance religieuse d'après Lucien Laberthonnière'', Faculté de théologie catholique de Kinshasa, 1977.
+
+{{authority control}}
+
+{{DEFAULTSORT:Laberthonniere, Lucien}}
+[[Category:1860 births]]
+[[Category:1932 deaths]]
+[[Category:Catholic philosophers]]
+[[Category:Modernism in the Catholic Church]]
+[[Category:Catholic priests]]

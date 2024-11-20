@@ -1,0 +1,168 @@
+{{Short description|Chinese philosopher (c.369 – c.286 BC)}}
+{{About|the Chinese philosopher|his eponymous text|Zhuangzi (book)}}
+{{Infobox philosopher
+|region           = [[Eastern philosophy]]
+* [[Chinese philosophy]]
+|era              = [[Ancient philosophy]]
+|image            = 玄門十子圖 莊子.jpg
+|caption          = 
+|name             = Zhuangzi ({{nobold|{{lang|zh|莊子}}}})<br />Zhuang Zhou ({{nobold|{{lang|zh|莊周}}}})
+|birth_date       = {{c.|369 BC}}
+|birth_place      =
+|death_date       = {{Circa|286 BC}}  (aged c. 82{{snd}}83)
+|death_place      = 
+|school_tradition = {{ubl|[[Taoism]]|[[Philosophical skepticism]]}}
+|main_interests   = 
+<!-- |influences      = [[Zhou Dynasty|Zhou Era]] [[Chinese thought]]: [[Confucius]], [[Laozi]], [[Mozi]], [[Hui Shi]], [[Yang Zhu]]
+|influenced       = [[Daoism]], [[Chinese Buddhism]], [[Zen]], and other [[East Asian philosophy|East Asian philosophies]], [[Alan Watts]], [[Aleister Crowley]], [[Heidegger]], [[Karen L. Carr]]<ref>''The Sense Of Antirationalism: The Religious Thought Of Zhuangzi And Kierkegaard'', Karen L. Carr and Philip J. Ivanhoe, CreateSpace, 2010</ref> -->
+|notable_ideas    = 
+|notable_works    = ''[[Zhuangzi (book)|Zhuangzi]]''}}
+{{Infobox Chinese
+| title = Zhuangzi
+| pic = Zhuangzi (Chinese characters).svg
+| picupright = 0.5
+| piccap = "Zhuangzi" in [[seal script]] (top), [[Traditional Chinese characters|Traditional]] (middle), and [[Simplified Chinese characters|Simplified]] (bottom) Chinese characters
+| s = {{linktext|庄子}}
+| t = {{linktext|莊子}}
+| l = "Master [[Zhuang (surname)|Zhuang]]"
+| p = Zhuāngzǐ
+| w = {{tone superscript|Chuang1 Tzu3}}
+| gr = Juangtzyy
+| bpmf = ㄓㄨㄤ&nbsp;&nbsp;&nbsp;ㄗˇ
+| mi = {{IPAc-cmn|zh|uang|1|.|zi|3}}
+| myr = Jwāngdž
+| showflag = p
+| j = Zong1 zi2
+| ci = {{IPAc-yue|z|ong|1|.|z|i|2}}
+| y = Jōngjí
+| wuu = Tzaõ-tzy
+| buc = Cŏng-cṳ̄
+| tl = {{unbulleted list|Tsong-tsú;|Tsng-tsú}}
+| mc = tʂjang-tzí
+| oc-bs = *[ts]raŋ tsәʔ
+| altname = Zhuang Zhou
+| t2 = {{linktext|莊|周}}
+| s2 = {{linktext|庄|周}}
+| p2 = Zhuāng Zhōu
+| w2 = {{tone superscript|Chuang1 Chou1}}
+| bpmf2 = ㄓㄨㄤ&nbsp;&nbsp;&nbsp;ㄓㄡ
+| gr2 = Juang Jou
+| mi2 = {{IPAc-cmn|zh|uang|1|-|zh|ou|1}}
+| myr2 = Jwāng Jōu
+| j2 = Zong1 Zau1
+| ci2 = {{IPAc-yue|z|ong|1|-|z|au|1}}
+| y2 = Jōng Jāu
+| tl2 = Tsong Tsiu
+| mc2 = tʂjang tʃjuw
+| oc-bs2 = *[ts]raŋ tiw
+}}
+
+{{Taoism}}
+'''Zhuang Zhou''' ({{IPAc-en|dʒ|u|ˈ|ɑː|ŋ|_|ˈ|dʒ|oʊ}}),<ref>[http://www.dictionary.com/browse/zhou "Zhou"]. ''[[Random House Webster's Unabridged Dictionary]]''.</ref> commonly known as '''Zhuangzi''' ({{IPAc-en|ˈ|dʒ|w|ɑː|ŋ|ˈ|d|z|ʌ}};<ref>[http://www.dictionary.com/browse/chuang-tzu "Chuang-tzu"]. ''[[Random House Webster's Unabridged Dictionary]]''.</ref> {{zh|t=莊子}}; literally "Master [[Zhuang (surname)|Zhuang]]"; also rendered in the [[Wade–Giles]] romanization as '''Chuang Tzu'''),{{efn|Other [[romanization]]s include ''Zhuang Tze'', ''Chuang Tsu'', ''Chuang-tzu'', ''Chouang-Dsi'', ''Chuang Tse'', and ''Chuangtze''.}} was an influential Chinese [[philosopher]] who lived around the [[4th century BC|4th century BCE]] during the [[Warring States period]], a period of great development in [[Chinese philosophy]], the [[Hundred Schools of Thought]]. He is credited with writing—in part or in whole—a work known by his name, the ''[[Zhuangzi (book)|Zhuangzi]]'', which is one of two foundational texts of [[Taoism]], alongside the ''[[Tao Te Ching]]''.
+
+== Life ==
+{{see also|Zhuangzi (book)#History}}
+The only account of the life of Zhuangzi is a brief sketch in chapter 63 of [[Sima Qian]]'s ''[[Records of the Grand Historian]]'',<ref>{{Cite web|date=2020-08-30|title=Daoism Series 23: 荘子 Zhuang Zi|url=https://purplecloudinstitute.com/daoism-series-23-荘子-zhuang-zi/|access-date=2020-11-24|website=Purple Cloud|language=en-AU}}</ref> and most of the information it contains seems to have simply been drawn from [[anecdotal evidence|anecdotes]] in the ''Zhuangzi'' itself.{{sfnp|Mair|1994|p=xxxi-xxxiii}} In Sima's biography, he is described as a minor official from the town of [[Mengcheng|Meng]] (in modern [[Anhui]]) in the state of [[Song (state)|Song]], living in the time of [[King Hui of Wei|King Hui of Liang]] and [[King Xuan of Qi]] (late fourth century BC).{{sfnp|Ziporyn|2009|p=vii}} Sima Qian writes that Zhuangzi was especially influenced by [[Laozi]], and that he turned down a job offer from [[King Wei of Chu]], because he valued his personal freedom.{{sfnp|Horne|1917|pp=397–398}}
+
+His existence has been questioned by Russell Kirkland, who asserts that "there is no reliable historical data at all" for Zhuang Zhou, and that most of the available information on the ''Zhuangzi'' comes from its third-century commentator, [[Guo Xiang]].{{sfnp|Kirkland|2004|pp=33–34}}
+
+== Writings ==
+{{main article|Zhuangzi (book)}}
+Zhuangzi is traditionally credited as the author of at least part of the work bearing his name, the ''Zhuangzi''.{{sfnp|Klein|2010|pp=306–309}} This work, in its current shape consisting of 33 chapters, is traditionally divided into three parts: the first, known as the "Inner Chapters", consists of the first seven chapters; the second, known as the "Outer Chapters", consist of the next 15 chapters; the last, known as the "Mixed Chapters", consist of the remaining 11 chapters. The meaning of these three names is disputed: according to Guo Xiang, the "Inner Chapters" were written by Zhuangzi, the "Outer Chapters" written by his disciples, and the "Mixed Chapters" by other hands; the other interpretation is that the names refer to the origin of the titles of the chapters—the "Inner Chapters" take their titles from phrases inside the chapter, the "Outer Chapters" from the opening words of the chapters, and the "Mixed Chapters" from a mixture of these two sources.{{sfnp|Roth|1993|pp=56–57}}
+
+Further study of the text does not provide a clear choice between these alternatives. On the one side, as [[Martin Palmer]] points out in the introduction to his translation, two of the three chapters [[Sima Qian]] cited in his biography of Zhuangzi, come from the "Outer Chapters" and the third from the "Mixed Chapters". "Neither of these are allowed as authentic Chuang Tzu chapters by certain purists, yet they breathe the very spirit of Chuang Tzu just as much as, for example, the famous 'butterfly passage' of chapter 2."{{sfnp|Palmer|1996|p=xix}}
+
+On the other hand, chapter 33 has been often considered as intrusive, being a survey of the major movements during the "Hundred Schools of Thought" with an emphasis on the philosophy of [[Hui Shi]]. Further, [[Angus Charles Graham|A.C. Graham]] and other critics have subjected the text to a stylistic analysis and identified four strains of thought in the book: a) the ideas of Zhuangzi or his disciples; b) a "primitivist" strain of thinking similar to [[Laozi]] in chapters 8-10 and the first half of chapter 11; c) a strain very strongly represented in chapters 28-31 which is attributed to the philosophy of [[Yang Zhu]]; and d) a fourth strain which may be related to the philosophical school of [[Huang-Lao]].{{sfnp|Schwartz|1985|p=216}} In this spirit, Martin Palmer wrote that "trying to read Chuang Tzu sequentially is a mistake. The text is a collection, not a developing argument."{{sfnp|Palmer|1996|p=x}}
+
+Zhuangzi was renowned for his brilliant wordplay and use a original form of ''[[Koan|gōng'àn]]'' (Chinese: 公案) or [[parable]]s to convey messages. His critiques of [[Confucian]] society and historical figures are humorous and at times ironic.
+
+==See also==
+*[[Dream argument]]
+*[[Goblet word]]
+*''[[Liezi]]''
+*''[[Tao Te Ching]]''
+
+==Notes==
+{{notelist}}
+
+==Citations==
+{{Reflist|20em}}
+
+==References==
+* Ames, Roger T. (1991), 'The Mencian Concept of Ren Xing: Does it Mean Human Nature?' in Chinese Texts and Philosophical Contexts, ed. Henry Rosemont, Jr. LaSalle, Ill.: Open Court Press.
+* Ames, Roger T. (1998) ed. Wandering at Ease in the Zhuangzi. Albany: State University of New York Press.
+* Bruya, Brian (translator). (2019). ''Zhuangzi: The Way of Nature''. Princeton: Princeton University Press. {{ISBN|9780691179742}}.
+* {{cite book|last=Chan|first=Wing-Tsit|title=A Source Book In Chinese Philosophy|url=https://archive.org/details/sourcebookinchin00chan|url-access=registration|year=1963|publisher=Princeton University Press|location=USA|isbn=0-691-01964-9}}
+* {{cite book|last=Chang|first=Chung-yuan|title=Creativity and Taoism: A Study of Chinese Philosophy, Art, and Poetry|year=1963|publisher=Julian Press|location=New York}}
+* Graham A.C,  ''Chuang-Tzû, the seven inner chapters'', [[Allen & Unwin]], London, 1981
+** ''Chuang-tzu: The Inner Chapters and other Writings from the Book of Chuang-tzu'' (London: Unwin Paperbacks, 1986)
+* {{cite book|last=Creel|first=Herrlee G.|title=What is Taoism? : and other studies in Chinese cultural history|year=1982|publisher=University of Chicago Press|location=Chicago|isbn=0-226-12047-3}}
+* Hansen, Chad (2003). "The Relatively Happy Fish," ''Asian Philosophy'' 13:145-164.
+*Herbjørnsrud, Dag (2018). "[https://jhiblog.org/2017/02/15/global-history-of-ideas-a-sea-for-fish-on-dry-land/ A Sea for Fish on Dry Land]," the blog of the Journal of History of Ideas.
+* {{cite book | title=The Sacred Books and Early Literature of the East, Volume XII: Medieval China | url=https://archive.org/details/sacredbooksearly12hornuoft | editor-first=Charles F. | editor-last=Horne | publisher=Parke | location=New York | year=1917 }}
+* {{cite book | surname=Kirkland | given=Russell | title=Taoism: The Enduring Tradition | publisher=Routledge | location=New York | year=2004 | isbn=978-0-415-26321-4 }}
+* {{ cite journal
+| title= Were there "Inner Chapters" in the Warring States? A New Examination of Evidence about the Zhuangzi| first= Esther | last= Klein |journal= T'oung Pao |date= 2010|volume= 96 | place= Leiden |issue= 4/5  |pages= 299–369 |publisher=Brill |jstor=41354706 | doi= 10.1163/156853210X546509
+}}
+* {{cite book | first=Victor H. | last=Mair | author-link=Victor H. Mair | title=Wandering on the Way: Early Taoist Tales and Parables of Chuang Tzu | year=1994 | publisher=Bantam Books | location=New York | isbn=0-553-37406-0 }} [https://books.google.com/books?id=dpFnYhV_ghIC (Google Books)]
+* Merton, Thomas. (1969). ''The Way of Chuang Tzu''. New York: New Directions.
+* {{cite book | title=The Book of Chuang Tzu | given=Martin | surname=Palmer | publisher=Penguin | year=1996 | isbn=978-0-14-019488-3 }}
+* {{cite book | first=H. D. | last=Roth | chapter=''Chuang tzu'' 莊子 | editor-first=Michael | editor-last=Loewe | title=Early Chinese Texts: A Bibliographical Guide | pages=56–66 | year=1993 | publisher=Society for the Study of Early China; Institute of East Asian Studies, University of California Berkeley | location=Berkeley | isbn=1-55729-043-1 }}
+* {{cite book | given=Benjamin J. | surname=Schwartz | title=The World of Thought in Ancient China | location=Cambridge | publisher=Belknap Press | year=1985 | isbn=978-0-674-96191-3 }}
+* {{cite journal|last=Shen|first=Tsing-song Vincent|year=2015|title=Evolutionism through Chinese Eyes: Yan Fu, Ma Junwu and their Translations of Darwinian Evolutionism|journal=ASIANetwork Exchange|volume=22|issue=1|pages=49–60|issn=1943-9946|doi=10.16995/ane.135|oclc=8091685198|url=https://www.asianetworkexchange.org/article/id/7807/|doi-access=free}}
+* Waltham, Clae (editor). (1971). ''Chuang Tzu: Genius of the Absurd''. New York: Ace Books.
+* {{cite book|last=Watson|first=Burton|title=Early Chinese Literature|url=https://archive.org/details/earlychineselite0000wats|url-access=registration|year=1962|publisher=Columbia University Press|location=New York|isbn=9780231086714}}
+**''The complete work of Chuang Tzu'', Columbia University Press, 1968
+* {{cite book |author=Watts, Alan with Huan, Al Chung-liang |title=Tao: The Watercourse Way |publisher=Pantheon Books |location=New York |year=1975 |isbn=0-394-73311-8 |url-access=registration |url=https://archive.org/details/taowatercoursewa00watt_0 }}
+* {{ cite book | title=Zhuangzi: The Essential Writings with Selections from Traditional Commentaries Hackett Classics Series | given=Brook | surname=Ziporyn | publisher=Hackett Publishing | year=2009 | isbn=978-1-60384-435-2 }}
+
+==External links==
+{{Wikisourcelang|zh|莊子|Zhuangzi}}
+{{Wikiquote|Zhuangzi}}
+{{Commons category|Zhuangzi}}
+* [http://ctext.org/zhuangzi Zhuangzi] Bilingual Chinese-English version ([[James Legge]]'s translation) - [[Chinese Text Project]]
+* [https://web.archive.org/web/20070107080906/http://www.daoisopen.com/ZhuangziTranslation.html The Zhuangzi "Being Boundless"], Complete translation of Zhuangzi by Nina Correa
+* [https://taoism.net/tao/chuang-tzu/ Chuang Tzu at Taoism.net], Chuang Tzu's Stories and Teachings - translations by [[Derek Lin]]
+* [http://www.iep.utm.edu/z/zhuangzi.htm Zhuangzi], The Internet Encyclopedia of Philosophy
+* [http://plato.stanford.edu/entries/zhuangzi/ Zhuangzi], Stanford Encyclopedia of Philosophy
+* [https://web.archive.org/web/20060219221611/http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/chuangtz.html Selection from ''The Zhuangzi''], translated by [[Patricia Buckley Ebrey|Patricia Ebrey]]
+* [http://www.taopage.org/chuangtzu.html Chuang-tzu at Taopage.org]
+* [http://www.wfu.edu/~moran/zhexuejialu/Zhuang_Zi_chap_1.html  ''Zhuang Zi'', chapter 1]
+* [http://www.wfu.edu/~moran/zhexuejialu/Zhuang_Zi_2.html  ''Zhuang Zi'', chapter 2]
+* [http://oaks.nvg.org/chuang.html James Legge Complete Translation In English] The Legge translation of the complete Chuang Tzu (Zhuangzi) updated
+* {{Librivox author |id=12480}}
+
+{{Chinese philosophy}}
+{{Philosophy of language}}
+{{Philosophy of mind}}
+{{Portal bar|China|Biography|Philosophy|History}}
+{{Authority control}}
+
+{{DEFAULTSORT:Zhuang Zhou}}
+[[Category:360s BC births]]
+[[Category:280s BC deaths]]
+[[Category:Year of birth uncertain]]
+[[Category:Year of death uncertain]]
+[[Category:4th-century BC Chinese people]]
+[[Category:4th-century BC Chinese philosophers]]
+[[Category:3rd-century BC Chinese people]]
+[[Category:3rd-century BC Chinese philosophers]]
+[[Category:Metaphysicians]]
+[[Category:Chinese ethicists]]
+[[Category:Chinese logicians]]
+[[Category:Guqin players]]
+[[Category:People from Bozhou]]
+[[Category:People whose existence is disputed]]
+[[Category:Philosophers from Anhui]]
+[[Category:Philosophers of culture]]
+[[Category:Philosophers of education]]
+[[Category:Philosophers of language]]
+[[Category:Philosophers of logic]]
+[[Category:Philosophers of science]]
+[[Category:Chinese political philosophers]]
+[[Category:Proto-anarchists]]
+[[Category:Proto-evolutionary biologists]]
+[[Category:Social philosophers]]
+[[Category:Taoist immortals]]
+[[Category:Zhou dynasty philosophers]]
+[[Category:Zhou dynasty Taoists]]

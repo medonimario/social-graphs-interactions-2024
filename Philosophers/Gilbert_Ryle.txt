@@ -1,0 +1,193 @@
+{{Short description|British philosopher (1900–1976)}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=September 2019}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| image            = Rex Whistler - Gilbert Ryle, Fellow.jpg
+|honorific_prefix=[[Major (United Kingdom)|Major]]
+| name             = Gilbert Ryle
+| birth_date       = 19 August 1900
+| birth_place      = [[Brighton]], England
+| death_date       = 6 October 1976 (aged 76)
+| death_place      = [[Whitby]], England
+| alma_mater       = [[The Queen's College, Oxford]]
+| school_tradition = {{hlist | [[Analytic philosophy]] | [[logical behaviourism]]<ref>{{cite SEP |url-id=behaviorism |title=Behaviorism}}</ref><ref>[[Neil Tennant (philosopher)|Neil Tennant]], ''Introducing Philosophy: God, Mind, World, and Logic'', Routledge, 2015, p. 299.</ref>}}
+| doctoral_students= {{flatlist|
+* [[Daniel Dennett]]
+* [[Colin Radford]]
+}}
+| notable_students= {{flatlist|
+* [[A. J. Ayer]]
+* [[G.&nbsp;A. Cohen]]
+* [[Antony Flew]]
+* [[Þorsteinn Gylfason]]
+* [[Bernard Williams]]
+}}
+| main_interests   = {{hlist | [[Philosophy of language]] | [[ordinary language philosophy]] | [[philosophy of mind]] | [[behaviourism]] | [[meaning (philosophy of language)|meaning]] | [[cognition]]}}
+| influences       = {{flatlist|
+* [[René Descartes]]
+* [[Ludwig Wittgenstein]]
+* [[Herbert James Paton]]<ref>Stuart Brown, Diane Collinson, Robert Wilkinson (eds), ''Biographical Dictionary of Twentieth-Century Philosophers'', Routledge, 2012: "Paton, Herbert James."</ref>
+* [[Edmund Husserl]]<ref>Edmund Husserl, ''[[Logical Investigations (Husserl)|Logical Investigations]]'', Volume 1, Routledge & Keegan Paul, 2001: Introduction by Dermot Moran, p. lxiv: "Husserl... visited England in 1922 intent on establishing relations with English philosophers.... He delivered a number of lectures which were attended by Gilbert Ryle...."</ref>
+}}
+| influenced       = {{flatlist|
+* [[J.&nbsp;L. Austin]]
+* [[A.&nbsp;J. Ayer]]
+* [[John Searle]]
+* [[R.&nbsp;M. Hare]]
+* [[Wilfrid Sellars]]
+* [[Daniel Dennett]]
+* [[Richard Webster (British author)|Richard Webster]]
+* [[Ullin Place]]
+* [[Clifford Geertz]]
+* [[G.&nbsp;A. Cohen]]
+* [[P.&nbsp;F. Strawson]]
+* [[Michael Dummett]]<ref>[[Michael Dummett]], ''Origins of Analytical Philosophy'', [[Bloomsbury Publishing]], 2014, p. xiii; Anat Biletzki, Anat Matarp (eds.), ''The Story of Analytic Philosophy: Plot and Heroes'', Routledge, 2002, p. 57: "It was Gilbert Ryle who, [Dummett] says, opened his eyes to this fact in his lectures on Bolzano, Brentano, Meinong, and Husserl."</ref>
+* [[Þorsteinn Gylfason]]
+* [[J.&nbsp;J.&nbsp;C. Smart]]
+* [[Alan&nbsp;R. White]]
+}}
+| notable_ideas    = {{hlist | [[Category mistake]] | [[Ryle's regress]] | [[ordinary language philosophy]] | [[ghost in the machine]] | [[thick description]] vs thin description | [[procedural knowledge|knowing-how]] vs. [[descriptive knowledge|knowing-that]] | topic neutrality<ref>[http://plato.stanford.edu/entries/logical-constants/ Logical Constants (Stanford Encyclopedia of Philosophy)]</ref>}}
+}}
+'''Gilbert Ryle''' (19 August 1900 – 6 October 1976) was a British philosopher,<ref>{{Cite news|url=https://www.britannica.com/biography/Gilbert-Ryle|title=Gilbert Ryle {{!}} British philosopher|work=Encyclopedia Britannica|access-date=2018-09-03|language=en}}</ref> principally known for his critique of [[Cartesian dualism]], for which he coined the phrase "[[ghost in the machine]]." Some of Ryle's ideas in philosophy of mind have been called [[logical behaviourism|behaviourist]]. In his best-known book, ''[[The Concept of Mind]]'' (1949), he writes that the "general trend of this book will undoubtedly, and harmlessly, be stigmatised as 'behaviourist'."<ref>Ryle, Gilbert. [1949] 2002. ''The Concept of Mind''. Chicago: University of Chicago Press. p. 327.</ref> Having studied the philosophers [[Bernard Bolzano]], [[Franz Brentano]], [[Alexius Meinong]], [[Edmund Husserl]], and [[Martin Heidegger]], Ryle suggested that the book instead "could be described as a sustained essay in [[Phenomenology (philosophy)|phenomenology]], if you are at home with that label."<ref>Ryle, Gilbert. 1971. "Phenomenology versus 'The Concept of Mind'." In ''Collected Papers''. London: Hutchinson. p. 188.</ref>
+
+==Biography==
+
+=== Family ===
+Gilbert Ryle's father, Reginald John Ryle, was a [[Brighton]] doctor, a generalist who had interests in philosophy and [[astronomy]], passing on to his children a large library. Gilbert's father was a son of [[J. C. Ryle|John Charles Ryle]], the first [[Anglican Church|Anglican]] [[Bishop of Liverpool]].<ref>Ryle ('Modern Studies in Philosophy' series), ed. Oscar P. Wood and George Pitcher, Doubleday & Co. Ltd, 1970, p. 1</ref><ref>Faith in the Age of Science: Atheism, Religion, and the Big Yellow Crane, Mark Silversides, Sacristy Press, 2012, p. 157</ref> The Ryles were Cheshire landed [[gentry]]; Gilbert's elder brother, [[John Alfred Ryle]], of Barkhale, Sussex, became head of the family.
+
+Gilbert Ryle's mother, Catherine, was daughter of Samuel King Scott (younger brother of the architect Sir [[George Gilbert Scott]]) by his wife Georgina, daughter of William Hulme Bodley, M.D., and sister of architect [[George Frederick Bodley]], himself a student of Sir George. Cousins of the Ryle family thus include the haematologist [[Ronald Bodley Scott]], architect [[George Gilbert Scott Jr.]], founder of [[Watts & Co.]], and his son, [[Giles Gilbert Scott]], designer of the [[Battersea Power Station]].<ref>Burke's Landed Gentry, 18th edition, vol. 1, 1965, ed. Peter Townend, p. 615, 'Ryle formerly of Barkhale' pedigree</ref>
+
+=== Early life and education ===
+Gilbert Ryle was born in Brighton, England, on 19 August 1900, and grew up in an environment of learning.
+
+He was educated at [[Brighton College]] and in 1919 went up to [[The Queen's College, Oxford|The Queen's College]] at [[Oxford University|Oxford]] to study [[classics]], but was soon drawn to philosophy. He graduated with a "triple first"; he received [[first-class honours]] in classical [[Honour Moderations]] (1921), ''[[literae humaniores]]'' (1923), and [[philosophy, politics, and economics]] (1924).
+
+=== Career ===
+In 1924, Ryle was appointed lecturer in philosophy at [[Christ Church, Oxford]]. A year later, he became a [[fellow]] and tutor at Christ Church, where he remained until 1940.<ref name="Stanford Encyclopedia">{{cite encyclopedia| last = Tanney | first = Julia | title = Gilbert Ryle | encyclopedia = Stanford Encyclopedia of Philosophy | publisher = The Metaphysics Research Lab | location = Stanford, CA | date = Winter 2003 | url = http://plato.stanford.edu/entries/ryle/ | access-date = 5 March 2008 }}</ref>
+
+In the [[Second World War]], Ryle was commissioned in the [[Welsh Guards]]. A capable linguist, he was recruited into [[military intelligence|intelligence]] work and by the end of the war had been promoted to the rank of [[Major (United Kingdom)|Major]]. After the war he returned to Oxford and was elected [[Waynflete Professor of Metaphysical Philosophy]] and Fellow of [[Magdalen College, Oxford]]. He published ''The Concept of Mind'' in 1949. He was president of the [[Aristotelian Society]] from 1945 to 1946, and editor of the philosophical journal ''[[Mind (journal)|Mind]]'' from 1947 to 1971. Ryle died on 6 October 1976 at [[Whitby]], North Yorkshire.<ref name="Stanford Encyclopedia" />
+
+Ryle's brothers [[John Alfred Ryle|John Alfred]] (1889–1950) and [[George Bodley Ryle|George Bodley]] (1902–1978), both educated at [[Brighton College]], also had eminent careers. John became [[Regius Professor of Physic (Cambridge)|Regius Professor of Physic]] at the [[University of Cambridge]] and physician to King George V. George, after serving as Director of Forestry first for Wales and then England, was Deputy-Director of the [[Forestry Commission]] and appointed a [[Commander of the Order of the British Empire|CBE]].<ref>{{Cite journal|date=1978-01-01|journal=Forestry: An International Journal of Forest Research|language=en|volume=51|issue=2|pages=187–188|doi=10.1093/forestry/51.2.187|issn=0015-752X|title=George Bodley Ryle C.b.e}}</ref>
+
+Ryle was the subject of a portrait by [[Rex Whistler]], which he said made him look like "a drowned German General". He was a lifelong bachelor, and in retirement he lived with his twin sister Mary.<ref>{{Cite book|chapter-url=https://plato.stanford.edu/entries/ryle/|title = The Stanford Encyclopedia of Philosophy|chapter = Gilbert Ryle|year = 2021|publisher = Metaphysics Research Lab, Stanford University}}</ref>
+
+==Work==
+===''The Concept of Mind''===
+{{Main|The Concept of Mind}}
+
+In ''The Concept of Mind'', Ryle argues that [[Dualism (philosophy of mind)|dualism]] involves [[category mistake]]s and philosophical [[nonsense]], two philosophical topics that continued to inform Ryle's work. He rhetorically asked students in his 1967–68 Oxford audience what was wrong with saying that there are three things in a field: two cows and a pair of cows. They were also invited to ponder whether the [[bunghole]] of a beer barrel is part of the barrel or not.<ref>{{Cite web|url=https://www.the-philosophy.com/ryle-concept-mind-summary|title=Ryle: The concept of mind (Summary)|website=www.the-philosophy.com|date=3 June 2012|language=en-US|access-date=2018-09-03}}</ref>
+
+====Knowing-how and knowing-that====
+{{main|Descriptive knowledge|Procedural knowledge}}
+A distinction deployed in ''The Concept of Mind'', between 'knowing-how' and 'knowing-that', has attracted independent interest. This distinction is also the origin of procedural (''knowing-how'') and declarative (''knowing-that'') models of [[long-term memory]].<ref name=":2">[[Jason Stanley]] and [[Timothy Williamson]], [https://www.jstor.org/stable/2678403 "Knowing How"], ''[[Journal of Philosophy]]'', '''98'''(8): 411–444, 2001.</ref> This distinction is widely accepted in philosophy.<ref name=":2" />
+
+{{Cquote|quote=Philosophers have not done justice to the distinction which is quite familiar to all of us between knowing that something is the case and knowing how to do things. In their theories of knowledge they concentrate on the discovery of truths or facts, and they either ignore the discovery of ways and methods of doing things or else they try to reduce it to the discovery of facts. They assume that intelligence equates with the contemplation of propositions and is exhausted in this contemplation.|author=Gilbert Ryle|source=[[Aristotelian Society]] [https://www.jstor.org/stable/4544405?seq=1#page_scan_tab_contents Presidential Address, 1945.]}}
+
+An example of the distinction can be knowing how to tie a [[reef knot]] and knowing that Queen Victoria died in 1901.
+
+===Philosophy as cartography===
+{{cquote|The philosophical arguments which constitute this book are intended not to increase what we know about minds but to rectify the logical geography of the knowledge we already possess.<ref>Concept of Mind p 1</ref>}}
+Ryle thought it no longer possible to believe that a philosopher's task is to study mental as opposed to physical objects. In its place, Ryle saw a tendency of philosophers to search for objects whose nature was neither physical nor mental. Ryle believed, instead, that "philosophical problems are problems of a certain sort; they are not problems of an ordinary sort about special entities."<ref name="Stanford Encyclopedia" />
+
+Ryle analogizes philosophy to [[cartography]]. Competent speakers of a language, Ryle believes, are to a philosopher what ordinary villagers are to a mapmaker: the ordinary villager has a competent grasp of his village, and is familiar with its inhabitants and [[geography]]. But when asked to interpret a map of that knowledge, the villager will have difficulty until he is able to translate his practical knowledge into universal cartographic terms. The villager thinks of the village in personal and practical terms, while the mapmaker thinks of the village in neutral, public, cartographic terms.<ref name=":0">Ryle, Gilbert. 1971. "Abstractions." In ''Collected Papers'' 2. London: Hutchinson.</ref>{{Rp|440–2}}
+
+By "mapping" the words and phrases of a particular statement, philosophers are able to generate what Ryle calls '''implication threads''': each word or phrase of a statement contributes to the statement in that, if the words or phrases were changed, the statement would have a different implication. The philosopher must show the directions and limits of different implication threads that a "concept contributes to the statements in which it occurs." To show this, he must be "tugging" at neighbouring threads, which, in turn, must also be "tugging." Philosophy, then, searches for the meaning of these implication threads in the statements in which they are used.<ref name=":0" />{{Rp|444–5}}
+
+=== Thick description ===
+{{main|Thick description}}
+In 1968 Ryle first introduced the notion of ''[[thick description]]'' in "The Thinking of Thoughts: What is 'Le Penseur' Doing?"<ref name=":1">Ryle, Gilbert. [1968] 1996. "[https://web.archive.org/web/20080410232658/http://lucy.ukc.ac.uk/CSACSIA/Vol11/Papers/ryle_1.html The Thinking of Thoughts: What is 'Le Penseur' Doing?]" ''Studies in Anthropology'' 11:11. {{ISSN|1363-1098}}. Archived from the [http://lucy.ukc.ac.uk/CSACSIA/Vol11/Papers/ryle_1.html original] on 10 April 2008. Retrieved 25 June 2008.</ref><ref>Ryle, Gilbert. [1968] 1971. "The Thinking of Thoughts: What is 'Le Penseur' Doing?" Pp. 480–96 in ''Collected Papers'' 2. London: Hutchinson.</ref> and "Thinking and Reflecting".<ref>{{Cite journal |last=Ryle |first=Gilbert |date=1968 |title=Thinking and Reflecting |url=https://www.cambridge.org/core/product/identifier/S0080443600011511/type/journal_article |journal=Royal Institute of Philosophy Lectures |language=en |volume=1 |pages=210–226 |doi=10.1017/S0080443600011511 |issn=0080-4436}}</ref><ref>{{Citation |last=Kirchin |first=Simon |title=Thick Concepts and Thick Descriptions |date=2013-04-25 |work=Thick Concepts |pages=60–77 |editor-last=Kirchin |editor-first=Simon |url=https://academic.oup.com/book/5816/chapter/149029835 |access-date=2024-10-13 |publisher=Oxford University Press |doi=10.1093/acprof:oso/9780199672349.003.0004 |isbn=978-0-19-967234-9 |quote=The first coinage in print of ‘thick concept’ was due to Bernard Williams, [...] However, Gilbert Ryle was the first to use the phrase ‘thick description’ to describe ideas in this general ballpark.  A thick description is a more specific sort of description that one needs in order to categorize an action, personality trait, or other such thing. Ryle used this phrase in two papers from the late 1960s, although the idea runs through much of his work.}}</ref> According to Ryle, there are two types of descriptions:<ref name=":1" />
+
+# thin description: surface-level observations of behaviour, e.g. 'His right hand rose to his forehead, palm out, when he was in the vicinity of and facing a certain other human.'
+# thick description: adds context to such behaviour. Explaining this context necessitates an understanding of the motivations people have for their behaviours, as well as how observers in the community understand such behaviour: 'He saluted the General.'
+
+==Legacy==
+Ryle's notion of thick description<ref name=":1" /> has been an important influence on cultural anthropologists such as [[Clifford Geertz]].<ref>{{Cite book
+ | last = Geertz
+ | first = Clifford
+ | author-link = Clifford Geertz
+ | date = 1973
+ | chapter = Thick Description: Toward an Interpretive Theory of Culture
+ | chapter-url = http://hypergeertz.jku.at/geertztexts/thick_description.htm
+ | title = The Interpretation of Cultures: Selected Essays
+ | location = New-York
+ | publisher = Basic Books
+ | pages = 3–30
+ | access-date = 25 June 2008
+}}</ref><ref>
+{{cite journal
+|title=Gilbert Ryle
+|url=https://plato.stanford.edu/entries/ryle/#Thi
+|journal=Stanford Encyclopedia of Philosophy
+|year=2021
+}}</ref>
+
+''[[The Concept of Mind]]'' was recognised on its appearance as an important contribution to philosophical psychology, and an important work in the [[ordinary language philosophy]] movement. But in the 1960s and 1970s, the rising influence of the [[Cognitivism (psychology)|cognitivist]] theories of [[Noam Chomsky]], [[Herbert A. Simon]], [[Jerry Fodor]], and others in the neo-Cartesian school became predominant. The two major postwar schools in the [[philosophy of mind]], Fodor's [[representationalism]] and [[Wilfrid Sellars]]'s [[Functionalism (philosophy of mind)|functionalism]], posited precisely the 'internal' cognitive states that Ryle had argued against. Philosopher [[Daniel Dennett]], a student of Ryle's, has said that recent trends in [[psychology]] such as [[embodied cognition]], [[discursive psychology]], [[situated cognition]], and others in the [[post-cognitivist]] tradition, have provoked a renewed interest in Ryle's work. Dennett provided a sympathetic foreword to the 2000 edition of ''The Concept of Mind''.<ref>{{cite journal
+|url = http://ejap.louisiana.edu/EJAP/2002/Dennett.html
+|last = Dennett
+|first = Daniel C.
+|journal = Electronic Journal of Analytic Philosophy
+|issue = 7
+|year = 2002
+|title = Re-Introducing ''The Concept of Mind''
+|author-link = Daniel Dennett
+|access-date = 20 December 2007}}</ref>
+
+Author [[Richard Webster (British author)|Richard Webster]] endorsed Ryle's arguments against mentalist philosophies, suggesting in ''[[Why Freud Was Wrong]]'' (1995) that they implied that "theories of human nature which repudiate the evidence of behaviour and refer solely or primarily to invisible mental events will never in themselves be able to unlock the most significant mysteries of human nature."<ref>{{cite book |author=Webster, Richard |title=Why Freud Was Wrong: Sin, Science and Psychoanalysis |publisher=The Orwell Press |location=Oxford |year=2005 |pages=vii, 483 |isbn=0951592254 }}</ref>
+
+==Works==
+*1949. ''[[The Concept of Mind]]''
+*1954. ''[[iarchive:dilemmastarnerle0000gilb|Dilemmas: The Tarner Lectures 1953]]'', a collection of shorter pieces
+*1962. ''[[iarchive:rationalanimal0000ryle|A Rational Animal]]: Auguste Comte Memorial Lecture Delivered on 26 April 1962 at the London School of Economics and Political Science'' 
+*1966. ''[[iarchive:platosprogress0000ryle|Plato's Progress]]''
+*1971. ''Collected Essays 1929 - 1968'', in two volumes, 57 essays
+*1977. ''[[iarchive:isbn_9780853621614|Contemporary Aspects of Philosophy]]'', editor
+*1979. ''[[iarchive:onthinking0000ryle|On Thinking]]''<ref>{{Cite web|url=http://www.linacre.ox.ac.uk/facilities/library/gilbert-ryle-collection|title=Gilbert Ryle Collection {{!}} Linacre College|website=www.linacre.ox.ac.uk|language=en|access-date=2018-09-03|archive-date=16 January 2021|archive-url=https://web.archive.org/web/20210116122605/http://www.linacre.ox.ac.uk/facilities/library/gilbert-ryle-collection|url-status=dead}}</ref>
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+
+* [[Avrum Stroll|Stroll, A.]] (2001). [https://www.blackwellpublishing.com/content/bpl_images/content_store/WWW_Content/9780631214151/008.pdf "Gilbert Ryle (1900–1976)"] in ''A Companion to Analytic Philosophy'' (eds [[Aloysius Martinich|A.P. Martinich]] and [[David Sosa|D. Sosa]]).
+
+==External links==
+*[http://www.hist-analytic.com/Ryle.htm "Ordinary Language"], Gilbert Ryle, ''[[The Philosophical Review]]'' LXII (1953)
+*[https://www.sfu.ca/~jeffpell/Phil467/RyleUseUsage61.pdf "Symposium: Use, Usage and Meaning"]. Gilbert Ryle; [[J. N. Findlay]], ''Proceedings of the Aristotelian Society'' ''Supplementary Volume'' 35 (1961): 223–242.
+*[http://ejap.louisiana.edu/EJAP/2002/contents.html The Electronic Journal of Analytic Philosophy – Issue 7, 2002] (Issue dedicated to Ryle)
+*[http://www.linacre.ox.ac.uk/facilities/library/gilbert-ryle-collection The Gilbert Ryle Collection at Linacre College, Oxford.] {{Webarchive|url=https://web.archive.org/web/20210116122605/http://www.linacre.ox.ac.uk/facilities/library/gilbert-ryle-collection |date=16 January 2021 }} Linacre College houses Gilbert Ryle's library along with a collection of his papers
+*[https://www.nytimes.com/1976/10/20/archives/gilbert-ryle-british-philosopher-of-mind-dead-in-yorkshire-at-76.html "Gilbert Ryle, British 'Philosopher Of Mind,' Dead in Yorkshire at 76"] ''[[The New York Times]]'', 20 October 1976 (obituary)
+
+{{Analytic philosophy}}
+{{Metaphysics}}
+{{Epistemology}}
+{{philosophy of language}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ryle, Gilbert}}
+[[Category:1900 births]]
+[[Category:1976 deaths]]
+[[Category:20th-century English writers]]
+[[Category:Alumni of the Queen's College, Oxford]]
+[[Category:Analytic philosophers]]
+[[Category:Aristotelian philosophers]]
+[[Category:British Army personnel of World War II]]
+[[Category:20th-century English philosophers]]
+[[Category:British epistemologists]]
+[[Category:Fellows of Christ Church, Oxford]]
+[[Category:Fellows of Magdalen College, Oxford]]
+[[Category:Intelligence Corps officers]]
+[[Category:Linguistic turn]]
+[[Category:British metaphysicians]]
+[[Category:Ontologists]]
+[[Category:Ordinary language philosophy]]
+[[Category:People educated at Brighton College]]
+[[Category:People from Brighton]]
+[[Category:Phenomenologists]]
+[[Category:British philosophers of language]]
+[[Category:British philosophers of mind]]
+[[Category:British philosophy academics]]
+[[Category:Presidents of the Aristotelian Society]]
+[[Category:Waynflete Professors of Metaphysical Philosophy]]
+[[Category:Welsh Guards officers]]
+[[Category:Mind (journal) editors]]

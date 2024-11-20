@@ -1,0 +1,26 @@
+'''Thomas of York'''<ref>Thomas de Eboraco, Thomas Eboracensis.</ref> (b. c. 1220; d. before 1269) was an English [[Franciscan]] theologian and [[scholasticism|scholastic]] philosopher of the thirteenth century.  He was associated with the [[Oxford Franciscan school]].
+
+He entered the Order of Friars Minor in 1242, and studied at the [[University of Oxford]]. He later was the leader of the Franciscan establishment at [[Cambridge]].<ref>[https://web.archive.org/web/19970607200858/http://www.christusrex.org/www1/ofm/fra/FRAtho03.html Franciscan Schools of thought]</ref>
+Along with [[Bonaventure]] and [[Thomas Aquinas]], he was a major critic of the Parisian secular theologian [[William of Saint-Amour]].<ref>Andrew G. Traver, 'Thomas of York’s Role in the Conflict Between Mendicants and Seculars at Paris,' ''Franciscan Studies'' 57 (1999): 1-24.</ref> 
+
+== Works ==
+* Thomae Eboracensis, ''Sapientiale, Liber III, cap. 1-20'', edited by Antonio Punzi, Florence, SISMEL-Edizioni del Galluzzo, 2020.
+* Thomae Eboracensis, ''Sapientiale, Liber I, capp. 1.18'', edited by Fiorella Retucci, Florence, SISMEL-Edizioni del Galluzzo, 2023.
+
+== Notes ==
+<references/>
+
+==External links==
+*[https://applejack.science.ru.nl/franciscanauthors/ Franaut entry: Thomas de York (Eboracensis, d. ca. 1260)]
+*Jeremy Catto, [http://www.oxforddnb.com/view/article/38057 ‘York, Thomas of (b. c.1220, d. before 1269)’], rev., ''Oxford Dictionary of National Biography'', Oxford University Press, 2004, accessed 20 June 2007
+*{{BBKL|t/thomas_v_y|band=11|autor= Adolf Lumpe|spalten=1416-1419}}
+
+{{Authority control}}
+{{DEFAULTSORT:Thomas of York (Franciscan)}}
+[[Category:English theologians]]
+[[Category:English Friars Minor]]
+[[Category:Scholastic philosophers]]
+[[Category:13th-century births]]
+[[Category:13th-century deaths]]
+[[Category:English philosophers]]
+[[Category:13th-century philosophers]]

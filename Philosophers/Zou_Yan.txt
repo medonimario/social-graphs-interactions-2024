@@ -1,0 +1,46 @@
+{{short description|Zhou Dynasty philosopher}}
+{{family name hatnote|[[Zou (surname)|Zou]]|lang=Chinese}}
+{{infobox Chinese
+|t=鄒衍
+|s=邹衍
+|p=Zōu Yǎn
+|w=Tsou<sup>1</sup> Yen<sup>3</sup>
+|mi={{IPAc-cmn|z|ou|1|-|yan|3}}
+|j=Zau<sup>1</sup> Jin<sup>2</sup>
+|y=Jāu Yín
+|tl=Tsau Ián
+|oc-bs=*{{IPA|[ts]ˤro N-q(r)anʔ}}
+|occupation = Philosopher
+}}
+'''Zou Yan''' ({{zh|t=鄒衍}}; 305 BC{{snd}}240 BC) was a Chinese philosopher and spiritual writer of [[Warring States era|Warring States-era]]. He was best known as the representative thinker of the [[Yin and Yang]] School (or [[School of Naturalists]]) during the [[Hundred Schools of Thought]] era in [[Chinese philosophy]].
+
+==Biography==
+Zou Yan was a noted scholar of the [[Jixia Academy]] in the state of [[Qi (Shandong)|Qi]]. The British biochemist and sinologist, [[Joseph Needham]], describes Zou as "The real founder of all Chinese scientific thought."<ref name=Needham/> His teachings combined and systematized two current theories during the [[Warring States period]]: [[Yin-Yang]] and the [[Five elements (Chinese philosophy)|Five Elements/Phases]] ([[wood (classical element)|wood]], [[fire (classical element)|fire]], [[earth (classical element)|earth]], [[metal (classical element)|metal]], and [[water (classical element)|water]]).
+All of Zou Yan's writings have been lost and are only known through quotations in early Chinese texts. The best information comes from his brief biography in the ''[[Records of the Grand Historian]]'' (1st century BC) by [[Sima Qian]]. It describes him as a polymath (philosopher, historian, politician, naturalist, geographer, astrologer) who came from the coastal state of [[Qi (state)|Qi]] (present day [[Shandong]]), where he was a member of the state-sponsored Jixia Academy. Needham writes:
+{{quote|He saw that the rulers were becoming ever more dissolute and incapable of valuing virtue. ... So he examined deeply into the phenomena of the increase and decrease of the Yin and the Yang, and wrote essays totaling more than 100,000 words about their strange permutations, and about the cycles of the great sages from beginning to end. His sayings were vast and far-reaching, and not in accord with the accepted beliefs of the classics. First he had to examine small objects, and from these he drew conclusions about large ones, until he reached what was without limit. First he spoke about modern times, and from this he went back to the time of ([[Yellow Emperor|Huang Di]]). The scholars all studied his arts. ... He began by classifying China's notable mountains, great rivers and connecting valleys; its birds and beasts; the fruitfulness of its water and soils, and its rare products; and from this extended his survey to what is beyond the seas, and men are unable to observe. Then starting from the time of the separation of the Heavens and the Earth, and coming down, he made citations of the revolutions and transmutations of the Five Powers (Virtues), arranging them until each found its proper place and was confirmed (by history). (Zou Yan) maintained that what the Confucians called the "Middle Kingdom" (i.e. China) holds a place in the whole world of but one part in eighty-one. ... Princes, dukes and great officials, when they first witnessed his arts, fearfully transformed themselves, but later were unable to practice them.<ref name=Needham>Needham, Joseph. 1978. ''The Shorter Science and Civilisation in China''. Colin A. Ronan, ed. Cambridge: Cambridge University Press. pp.142-143 {{ISBN|0-521-21821-7}}</ref>}}
+[[File:Zou Yan Philosopher.jpg|100px|thumb|A depiction of Yan on the ''Chocolate Frog Card'' (made by the ''[[Harry Potter]]'' production team)]]
+Zou Yan is commonly associated with [[Daoism]] and the origins of Chinese [[alchemy]], going back to the (ca. 100 AD) ''[[Book of Han]]'' that calls him a ''[[fangshi]]'' (方士 [literally "technique master"] "alchemist; magician; exorcist; diviner"). Holmes Welch proposes the ''fangshi'' were among those whom Sima Qian described as "unable to practice" Zou Yan's arts, and says while Zou "gradually acquired alchemistical stature, he himself knew nothing of the art. It was probably developed by those of his followers who became interested in physical experimentation with the Five Elements."<ref>Welch, Holmes. 1957. ''Taoism: The Parting of the Way''. Boston: Beacon Press. pp.96-97 {{ISBN|0-8070-5973-0}}</ref>
+
+==See also==
+*[[Jiuzhou]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Fung Yu-lun (1952). History of Chinese Philosophy. Vol. 1. p.&nbsp;159-69.
+
+{{Chinese philosophy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zou Yan}}
+[[Category:305 BC births]]
+[[Category:240 BC deaths]]
+[[Category:3rd-century BC Chinese philosophers]]
+[[Category:Chinese spiritual writers]]
+[[Category:Philosophers from Shandong]]
+[[Category:Writers from Shandong]]
+[[Category:Zhou dynasty philosophers]]
+
+{{China-philosopher-stub}}

@@ -1,0 +1,10 @@
+#REDIRECT [[Arthur Eddington]]
+
+{{Redirect category shell|
+{{R from move}}
+{{R from full name}}
+{{R from birth name}}
+{{R printworthy}}
+}}
+
+{{DEFAULTSORT:Eddington, Arthur Stanley}}

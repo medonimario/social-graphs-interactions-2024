@@ -1,0 +1,137 @@
+{{Short description|French philosopher}}
+{{Infobox writer	
+| name			= Théodore Simon Jouffroy
+| image			= 
+| size			=  <!-- Default 200px --> 
+| alt				= 
+| caption			= 
+| birth_name		= 
+| birth_date		= {{Birth date|1796|07|06|df=y}}
+| birth_place		= [[Les Pontets]], [[Franche-Comté]]
+| death_date		= {{Death date and age|1842|02|04|1796|07|06|df=y}}
+| death_place		= [[Paris]]
+| nationality		= French
+| other_names	= 
+| ethnicity		=  
+| citizenship		= 
+| education		= 
+| alma_mater		= 
+| occupation		= 
+| known_for		= 
+| notable_works	= 
+| religion			=  <!-- Religion should be supported with a citation from a reliable source --> 
+| spouse			= 
+| partner			=  <!-- Unmarried life partner; use ''Name (1950–present)'' --> 
+| children		= 
+| parents			=  <!-- Use <br /> to separate names --> 
+| relatives		= 
+}}
+
+'''Théodore Simon Jouffroy''' (6 July 1796{{snd}}4 February 1842), aka '''Simon Joseph Théodore Jouffroy''', was a French [[philosopher]].
+
+== Biography ==
+He was born at [[Les Pontets]], [[Franche-Comté]], département of [[Doubs (department)|Doubs]]. In his tenth year, his father, a tax-gatherer, sent him to an uncle at [[Pontarlier]], under whom he began his classical studies. At [[Dijon]] his compositions attracted the attention of an inspector, who had him placed (1814) in the normal school, [[Paris, France|Paris]]. There he came under the influence of [[Victor Cousin]], and in 1817 he was appointed assistant professor of philosophy at the normal and Bourbon schools.<ref name="EB1911">{{EB1911|inline=y|wstitle=Jouffroy, Théodore Simon|volume=15|page=523}}</ref>
+
+Three years later, being thrown upon his own resources, he began a course of lectures in his own house, and formed literary connexions with ''[[Le Courrier français (1820–1851)|Le Courrier français]]'', ''Le Globe'', ''L'Encyclopédie moderne'', and ''La Revue européenne''. The variety of his pursuits at this time carried him over the whole field of ancient and modern literature. But he was chiefly attracted to the philosophical system represented by [[Thomas Reid]] and [[Dugald Stewart]]. The application of "common sense" to the problem of substance supplied a more satisfactory analytic for him than the scepticism of [[David Hume]] which reached him through a study of [[Immanuel Kant|Kant]].<ref name="EB1911"/>
+
+He thus threw in his lot with the [[Scottish common sense realism|Scottish philosophy]], and his first dissertations are adaptations from Reid's ''Inquiry''. In 1826 he wrote a preface to a translation of Stewart's ''Moral Philosophy'', demonstrating the possibility of a scientific statement of the laws of consciousness; in 1828 he began a translation of the works of Reid, and in his preface estimated the influence of Scottish criticism upon philosophy, giving a biographical account of the movement from [[Francis Hutcheson (philosopher)|Francis Hutcheson]] onwards.  In the following year he was returned to ''parlement'' by the ''arrondissement'' of Pontarlier; but the work of legislation was ill-suited to him. Yet he attended to his duties conscientiously, and ultimately broke his health in their discharge. In 1833 he was appointed professor of Greek and Roman philosophy at the college of France and a member of the Academy of Sciences; he then published the ''Mélanges philosophiques'' (4th ed. 1866; Eng. trans. G Ripley, Boston, 1835 and 1838), a collection of fugitive papers in [[criticism]] and philosophy and history. In them is foreshadowed all that he afterwards worked out in [[metaphysics]], [[psychology]], [[ethics]] and [[aesthetics]].<ref name="EB1911"/>
+
+He had already demonstrated, in his prefaces, the possibility of a psychology apart from physiology, of a science of the phenomena of consciousness distinct from the perceptions of sense. He now classified the mental faculties, premising that they must not be confounded with capacities or properties of mind. They were, according to his analysis, personal will, primitive instincts, voluntary movement, natural and artificial signs, sensibility and the faculties of intellect; on this analytic he founded his scheme of the universe.<ref name="EB1911"/>
+
+In 1835 he published ''Cours de droit naturel'' (4th ed. 1866), one of his most important works. From the conception of a universal order in the universe he reasons to a Supreme Being, who has created it and who has conferred upon every man in harmony with it the aim of his existence, leading to his highest good. Good, he says, is the fulfilment of man's destiny, evil the thwarting of it. Every man being organized in a particular way has, of necessity, an aim, the fulfilment of which is good; and he has faculties for accomplishing it, directed by reason. The aim is good, however, only when reason guides it for the benefit of the majority, but that is not absolute good. When reason rises to the conception of universal order, when actions are submitted, by the exercise of a sympathy working necessarily and intuitively to the idea of the universal order, the good has been reached, the true good, good in itself, absolute good. But he does not follow his idea into the details of human duty, though he passes in review [[fatalism]], [[mysticism]], [[pantheism]], [[scepticism]], [[egotism]], [[Sentimentalism (philosophy)|sentimentalism]] and [[rationalism]].<ref name="EB1911"/>
+
+In 1835 Jouffroy's health failed and he went to [[Italy]], where he continued to translate the Scottish philosophers. On his return he became librarian to the university, and took the chair of recent philosophy at the faculty of letters. He died in Paris. After his death were published ''Nouveaux mélanges philosophiques'' (3rd ed. 1872) and ''Cours d'esthetique'' (3rd ed. 1875). The former contributed nothing new to the system except a more emphatic statement of the distinction between psychology and physiology. The latter formulated his theory of beauty.<ref name="EB1911"/>
+
+Jouffroy's claim to distinction rests mainly on his ability as an expositor of other men's ideas. His enthusiasm, and his command over the language of popular exposition, made him a great international medium for the transfusion of ideas. He stood between Scotland and France and Germany and France; and, though his expositions are vitiated by loose reading of the philosophers he interpreted, he did some memorable work.<ref name="EB1911"/>
+
+== Works ==
+* {{Citation |title=Esquisses de Philosophie Morale |publisher= |date=1826 |oclc=422237300 |mode=cs1}}
+* {{Citation |title=Introduction to Ethics Including a Critical Survey of Moral Systems. Vol. 1 |publisher= |date=1848 |oclc=515416140 |mode=cs1}} 
+* {{Citation |title=Introduction to Ethics Including a Critical Survey of Moral Systems. Vol. 2 |publisher= |date=1848 |oclc=515415726 |mode=cs1 |last1= |first1=}}
+* {{Citation
+| title = Mélanges Philosophiques
+| publisher = 
+| date = 1860
+| oclc = 2183553
+| mode=cs1
+}}
+* {{Citation
+| title = Nouveaux Mélanges Philosophiques
+| publisher = 
+| date = 1842
+| oclc = 568402
+| mode=cs1
+| last1 = Jouffroy
+| first1 = Théodore
+}}
+* {{Citation
+| title = Cours de droit naturel
+| publisher = 
+| date = 1866
+| oclc = 
+| mode=cs1
+}}
+* {{Citation
+| author1 = Royer-Collard, Paul, 1763-1843
+| author2 = Stewart, Dugald, 1753-1828
+| author3 = Jouffroy, Théodore, 1796-1842
+| title = Œuvres Complètes De Thomas Reid, Chef De L'école Écossaise, Publiées Par M. Th. Jouffroy, Avec Des Fragments De M. Royer-Collard Et Une Introduction De L'éditeur ..
+| publisher = 
+| date = 1828–1836
+| oclc = 2943985
+| mode=cs1
+}}
+
+== Notes ==
+{{reflist}}
+
+== References ==
+* [[Lucien Lévy-Bruhl]]: ''History of modern philosophy in France: with portraits of the leading French philosophers'', pp.&nbsp;349–357. Chicago, Ill.: Open Court, 1899.
+* Claude Joseph Tissot: ''Th. Jouffroy, sa vie et ses écrits''. Paris 1876.
+* [[Jean Philibert Damiron]]: ''Essai sur l'histoire de la philosophie en France au XVIIe siècle''. Paris, 1846.
+* {{Citation
+| author = Adolphe Lair
+| title = Correspondance De Théodore Jouffroy Publiée Avec Une Étude Sur Jouffroy
+| publisher = 
+| date = 1901
+| oclc = 489768527
+| mode=cs1
+}} 
+* {{Citation
+| author1 = George Ripley
+| title = Philosophical Miscellanies, Translated from the French of Cousin, Jouffroy, and B. Constant. With Introductory and Critical Notices.
+| publisher = 
+| date = 1838
+| oclc = 3262645
+| mode=cs1
+}} 
+* {{Citation
+| author1 = Serge Nicolas
+| title = Cours De Philosophie De 1830 À L'École Normale; Suivi De Du Suicide
+| publisher = 
+| date = 2007
+| oclc = 470646158
+| mode=cs1
+}}
+
+== External links ==
+*[https://archive.org/details/introductiontoet00jouf Introduction to Ethics, including a critical survey of moral systems (Volume 1)]
+
+{{Authority control}}
+
+{{EB1911 article with no significant updates}}
+
+{{DEFAULTSORT:Jouffroy, Theodore Simon}}
+[[Category:1796 births]]
+[[Category:1842 deaths]]
+[[Category:People from Doubs]]
+[[Category:Orléanists]]
+[[Category:Members of the 2nd Chamber of Deputies of the July Monarchy]]
+[[Category:Members of the 3rd Chamber of Deputies of the July Monarchy]]
+[[Category:Members of the 4th Chamber of Deputies of the July Monarchy]]
+[[Category:Members of the 5th Chamber of Deputies of the July Monarchy]]
+[[Category:Members of Parliament for Doubs]]
+[[Category:19th-century French philosophers]]
+[[Category:French male non-fiction writers]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:Members of the Académie des sciences morales et politiques]]

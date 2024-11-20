@@ -1,0 +1,130 @@
+{{short description|American minister and academic (1819–1898)}}
+{{Infobox person
+| honorific_prefix   = [[The Reverend]]
+| name               = Alexander Crummell
+| image              = Alexander Crummel (cropped).png
+| birth_date         = {{birth date|1819|3|3}}
+| birth_place        = [[New York City]], [[New York (state)|New York]], U.S.
+| death_date         = {{death date and age|1898|9|10|1819|3|3}}
+| death_place        = [[Red Bank, New Jersey]], U.S.
+| occupation         = [[Minister (Christianity)|Minister]], [[Professor]]
+| education          = [[Noyes Academy]]<br>[[Oneida Institute]]<br>[[Queens' College, Cambridge]]
+| module             = {{Infobox religious biography
+| embed       = yes
+| religion    = [[Episcopal Church (United States)|Episcopal]]}}
+}}
+
+'''Alexander Crummell''' (March 3, 1819 – September 10, 1898) was an American minister and academic. Ordained as an [[Episcopal Church (United States)|Episcopal]] priest in the [[United States]], Crummell went to [[England]] in the late 1840s to raise money for his church by lecturing about [[Slavery in the United States|American slavery]]. [[Abolitionism|Abolitionists]] supported his three years of study at [[Cambridge University]], where Crummell developed concepts of [[pan-Africanism]] and was the school's first recorded Black student and graduate.
+
+In 1853, Crummell moved to [[Liberia]], where he worked to convert Africans to Christianity and educate them, as well as to persuade [[Americo-Liberian people|African-American colonists]] of his ideas. He wanted to attract American Blacks to Africa on a civilizing mission. Crummell lived and worked for 20 years in Liberia and appealed to American Blacks to join him, but did not gather wide support for his ideas.
+
+After returning to the United States in 1872, Crummell was called to St. Mary's Episcopal Mission in [[Washington, D.C.|Washington, DC]].  In 1875, he and his congregation founded [[St. Luke's Episcopal Church (Washington, D.C.)|St. Luke's Episcopal Church]], the first independent Black Episcopal church in the city. Crummell served as rector there until his retirement in 1894.
+
+==Early life and education==
+Crummell was born in 1819 in [[New York City]] to Charity Hicks, a [[free person of color|free woman of color]], and Boston Crummell, a former slave.  According to Crummell's account, his paternal grandfather was an ethnic [[Temne people|Temne]], born in what is now [[Sierra Leone]]; he was captured and sold into slavery when he was around 13 years old.<ref>Moses (1988), p. 11.</ref> Both of Crummell's parents were active [[Abolitionism in the United States|abolitionists]]. Their home was used to publish the first [[African American newspapers|African-American newspaper]], ''[[Freedom's Journal]]''. Boston Crummell instilled in his son a sense of unity with Africans living in Africa. His parents' influence and these early experiences within the abolitionist movement shaped Crummell's values, beliefs, and actions throughout the rest of his life. Even as a boy in New York, Crummell worked for the [[American Anti-Slavery Society]].
+
+[[Image:AfricanFreeSchool.jpg|thumb|Lithograph of [[African Free School]] which Crummell attended.]]
+Crummell began his formal education in the [[African Free School]] No. 2 and at home with private tutors. Other African-American men who became active in the abolitionist movement, such as [[James McCune Smith]] (a pioneering doctor) and [[Henry Highland Garnet]], also graduated from this school. Crummell attended the [[Canal Street High School]]. After graduating, Crummell and his friend Garnet attended the new [[Noyes Academy]] in [[New Hampshire]]. However, a mob opposed to Blacks attacked and destroyed the school. Crummell next enrolled in the [[Oneida Institute]] in central New York, a hotbed of abolitionism. While there, Crummell decided to become an [[Episcopal Church (United States)|Episcopal]] priest. His prominence as a young intellectual earned him a spot as keynote speaker at the anti-slavery [[New York State Convention of Negroes]] when it met in Albany in 1840.<ref>[http://plato.stanford.edu/archives/sum2011/entries/alexander-crummell/ Thompson, Stephen, "Alexander Crummell"], ''The Stanford Encyclopedia of Philosophy'' (Summer 2011 Edition), Edward N. Zalta (ed.).</ref>
+
+Denied admission to the [[General Theological Seminary]] in New York City because of his race,<ref name=Hunter>{{cite book|title=To Set the Captives Free. Reverend Jermain Wesley Loguen and the struggle for freedom in central New York, 1835-1872|first=Carol|last=Hunter|edition=2nd|year=2013|publisher=CreateSpace Independent Publishing Platform |isbn=978-1484007945}}</ref>{{rp|58}} Crummell went on to study at Yale from 1840 to 1841.<ref>{{Cite web |date=2023-04-22 |title=Honoring the Rev. James W. C. Pennington and the Rev. Alexander Crummell |url=https://president.yale.edu/president/statements/honoring-rev-james-w-c-pennington-and-rev-alexander-crummell |access-date=2023-05-17 |website=Office of the President |language=en}}</ref> In 1842, he receive Episcopal [[holy orders]] and was ordained in  [[Massachusetts]]. However, "he soon found that there was little scope for Black priests."<ref>{{cite journal|first=C. R.|last=Stockton|year=1977|title=The Integration of Cambridge: Alexander Crummell as Undergraduate, 1849–1853|journal=Equity & Excellence in Education|via=Taylor & Francis|volume=15|number=2|pages=15–19|doi=10.1080/0020486770150205}}</ref> As he struggled against ambivalence and low church attendance in his church in [[Providence, Rhode Island]], Crummell traveled to [[Philadelphia]] to petition the area bishop for a larger congregation. Philadelphia had a large free Black community. [[Henry Ustick Onderdonk|Bishop Onderdonk]] replied, "I will receive you into this [[diocese]] on one condition: No negro priest can sit in my [[List of General Conventions of the Episcopal Church|church convention]] and no negro church must ask for representation there." Crummell is said to have paused for a moment, and then said: "I will never enter your diocese on such terms."<ref>Du Bois, W. E. B. ''The Souls of Black Folk'', Modern Library Edition: New York/Toronto  p. 226.</ref>
+
+==Career==
+===Studies and lectures in England===
+[[File:Presidents Lodge, Queens' College, Cambridge.JPG|thumb|right|Crummell studied at [[Queens' College, Cambridge]].]] 
+In 1847, Crummell traveled to [[England]] to raise money for his congregation at the Church of the Messiah. While there, Crummell preached, spoke about abolitionism in the United States, and raised almost $2,000.  From 1849 to 1853, Crummell studied at [[Queens' College, Cambridge]], sponsored by [[Sir Benjamin Collins Brodie, 1st Baronet|Benjamin Brodie]], [[William Wilberforce]], [[Arthur Penrhyn Stanley]], [[James Anthony Froude]], and [[Thomas Babington Macaulay, 1st Baron Macaulay|Thomas Babington Macaulay]].<ref>{{acad|id=CRML849A|name=Crummell, Alexander}}</ref><ref>Twigg, John, ''A History of Queens' College, Cambridge, 1448-1986'' (1987), pp. 268-71.</ref> Although Crummell had to take his finals twice to receive his degree, he became the first officially recorded Black student to graduate from [[Cambridge University]]. While it appears he was not the first [[Black people in Cambridge|Black student at Cambridge]], he is the first for whom official records exist.<ref name=bates>{{cite news|last=Bates|first=Stephen|title=Alexander Crummell, Cambridge's first Black graduate|url=https://www.theguardian.com/education/2011/oct/20/alexander-crummell-cambridge-black-graduate|access-date=December 20, 2012|newspaper=[[The Guardian]]|date=October 19, 2011}}</ref><ref>{{cite news |title=Cambridge University's 'first' Black student pioneer |url=https://www.bbc.co.uk/news/uk-england-cambridgeshire-15386436 |access-date=24 September 2022 |work=BBC News |date=20 October 2011}}</ref>
+
+At his graduation  Crummell endured a moment of racist heckling until another student, [[E. W. Benson]], counter-heckled in his defence:
+{{blockquote|A pale slim undergraduate [...] shouted in a voice which re-echoed through the building, "Shame, shame! Three groans for you, Sir!" and immediately afterwards, "Three cheers for Crummell!" This was taken up in all directions [...] and the original offender had to stoop down to hide himself from the storm of groans and hisses that broke out all around him.<ref name=Twigg/>}}
+
+While in Cambridge, Crummell hosted the abolitionist lecturer [[William Wells Brown]], who had escaped slavery in 1834.<ref name=Twigg>John Twigg, [https://www.queens.cam.ac.uk/visiting-the-college/history/college-facts/alexander-crummell "Alexander Crummell"], ''The Record'', 1986, pp.9–10.</ref> Crummell continued to travel around Britain and speak out about slavery and the plight of Black people.  During this period, Crummmell formulated the concept of [[Pan-Africanism]], which became his central belief for the advancement of the [[Ethnic groups of Africa|African race]]. Crummell believed that in order to achieve their potential, the African race as a whole, including those in the [[Americas]], the [[West Indies]], and [[Africa]], needed to unify under the banner of race. To Crummell, racial solidarity could solve [[slavery]], [[racial discrimination|discrimination]], and continued attacks on the African race. He decided to move to Africa to spread his message.
+
+===In Liberia===
+Crummell arrived in [[Liberia]] in 1853, at the point in [[History of Liberia|that country's history]] when [[Americo-Liberian]]s had begun to govern the former colony for free American Blacks. Crummell came as a [[missionary]] of the [[Episcopal Church (United States)|American Episcopal Church]], with the stated aim of [[Christianization|converting native Africans]]. Though Crummell had previously opposed [[colonization]], his [[civilizing mission]] experiences in Liberia changed his mind.
+
+His name appears on an 1859 document signed by citizens of the [[Maryland County, Liberia|county of Maryland, Liberia]].<ref>{{cite book|title=Official Report of the Niger Valley Exploring Party|first=Martin R.|last=Delany|authorlink=Martin R. Delany|date=2007|publisher=[[Project Gutenberg]]|orig-date=1861|oclc=746972358|url=https://www.gutenberg.org/ebooks/22118}}</ref>{{rp|261}}
+
+Crummell began to preach that "enlightened," or Christianized, ethnic Africans in the United States and the West Indies had a duty to go to Africa. There, they would help civilize and [[Christianity in Africa|Christianize the continent]].  When enough native Africans had been converted, they would take over converting the rest of the population, while those from the western hemisphere would work to educate the people and run a republican government. Crummell influenced Liberian intellectual and religious life, as preacher, prophet, social analyst, and educationist, proclaiming a special place for Africa in the history of redemption, as it had God-given moral and religious potential.<ref name=anderson>{{cite book|last=Anderson|first=Gerald H.|title=Biographical Dictionary of Christian Missions|year=1998|publisher=W.B. Eerdmans Publishing Company|location=Grand Rapids, Michigan|url=http://www.dacb.org/stories/liberia/crummel_alexander2.html|access-date=2012-12-20|archive-url=https://web.archive.org/web/20121010023945/http://www.dacb.org/stories/liberia/crummel_alexander2.html|archive-date=2012-10-10|url-status=dead}}</ref> But Crummell never realized his grand scheme. Most American Blacks were more interested in gaining equal rights in the United States than going to colonize or convert Africans. While Crummell successfully served as both a pastor and professor in Liberia, he could not create the society he envisioned. In 1873, fearing his life was in danger from the [[Americo-Liberian people|Americo-Liberian]] ascendancy, Crummell returned to the United States.<ref name=anderson/>
+
+===Return to the United States===
+[[File:St. Luke's Episcopal Church DC.JPG|thumb|St. Luke's Episcopal Church DC]]
+He was called as pastor for [[St. Mary's Episcopal Church (Washington, D.C.)|St. Mary's]] [[Colored Episcopal Mission|Episcopal Mission]] in Washington, DC, in the [[Foggy Bottom]] area. It was then a predominately African-American, working-class neighborhood. In 1875, he and his congregation founded [[St. Luke's Episcopal Church (Washington, D.C.)|St. Luke's Episcopal Church]], the first independent Black Episcopal church in the city.  They raised funds to construct a new church on upper 15th Street, N.W., in the Columbia Heights area, beginning in 1876, and celebrated Thanksgiving in 1879 in it. Crummell served as rector at St. Luke's until his retirement in 1894. The church was designated a [[National Historic Landmark]] in 1976.<ref name="nhlsum">{{cite web|url=http://tps.cr.nps.gov/nhl/detail.cfm?ResourceId=1691&ResourceType=Building |archive-url=https://web.archive.org/web/20121011014447/http://tps.cr.nps.gov/nhl/detail.cfm?ResourceId=1691&ResourceType=Building |url-status=dead |archive-date=October 11, 2012 |title=St. Luke's Episcopal Church |access-date=September 4, 2009 |work=National Historic Landmark summary listing |publisher=National Park Service }}</ref> Crummell taught at [[Howard University]] from 1895 to 1897.<ref name=anderson/>
+
+Despite frustrations, Crummell never stopped working for the racial solidarity he had advocated for so long. Throughout his life, Crummell worked for [[Black nationalism]], [[self-help]], and separate [[economic development]]. He spent the last years of his life founding the [[American Negro Academy]], the first organization to support African-American scholars, which opened in 1897 in Washington, DC.<ref name=archives>{{cite web|title=The Reverend Alexander Crummell: 1819-1898|url=http://www.episcopalarchives.org/Afro-Anglican_history/exhibit/leadership/crummell.php|work=The Church Awakens: African-Americans and the Struggle for Justice|publisher=Archives of the Episcopal Church|access-date=December 20, 2012}}</ref> Alexander Crummell died in [[Red Bank, New Jersey]], in 1898.
+
+==Influence==
+Crummell was an important voice within the abolition movement and a leader of the Pan-African ideology.  Crummell's legacy can be seen not only in his personal achievements, but also in the influence he exerted on other Black nationalists and [[Pan-Africanists]], such as [[Marcus Garvey]], [[Paul Laurence Dunbar]], and [[W. E. B. Du Bois]].  Du Bois paid tribute to Crummell with a memorable essay entitled "Of Alexander Crummell", collected in his 1903 book, ''[[The Souls of Black Folk]]''.
+
+In 2002, the scholar [[Molefi Kete Asante]] listed Alexander Crummell on his list of [[100 Greatest African Americans]].<ref>Asante, Molefi Kete (2002). ''100 Greatest African Americans: A Biographical Encyclopedia''. Amherst, New York: Prometheus Books. {{ISBN|1-57392-963-8}}.</ref>
+
+==Legacy and honors==
+Crummell's private papers are held by the [[Schomburg Center for Research in Black Culture]], of the [[New York Public Library]] in Harlem.<ref name=archives/> The [[Alexander Crummell School]] in Washington, DC, was named after him<ref>[http://www.preservationnation.org/travel-and-sites/sites/southern-region/crummell-alexander-school.html Alexander Crummell School] {{webarchive |url=https://web.archive.org/web/20120929100248/http://www.preservationnation.org/travel-and-sites/sites/southern-region/crummell-alexander-school.html |date=September 29, 2012 }}, NRHP.</ref> and a street is named after him in Annapolis, MD. Crummell is included on a [[New Hampshire historical marker]] ([[List of New Hampshire historical markers (226–250)#246|number 246]]) commemorating Noyes Academy in [[Canaan, New Hampshire]].
+
+In 2021, [[Queens' College, Cambridge]] established the Alexander Crummell Scholarships for students from disadvantaged backgrounds or those currently under-represented at [[Cambridge University]].<ref>{{cite web |title=The Alexander Crummell Scholarships |url=https://www.queens.cam.ac.uk/the-alexander-crummell-scholarships |publisher=Queens' College, Cambridge |access-date=24 September 2022}}</ref> A portrait photograph of Crummell is mounted in the Essex Room of the President's Lodge at Queens' College.
+
+On April 24, 2023, [[Yale University]] awarded [[Ad eundem degree|M.A Privatim]] degrees to Crummell along with the first known Black student at Yale, [[James W. C. Pennington|Rev. James W.C. Pennington]], acknowledging the discrimination they faced while students at the university.<ref>{{Cite web |last=Mongkol |first=Chatwan |date=2023-04-28 |title=First known Black student at Yale gets his degree, nearly 200 years later |url=https://www.nhregister.com/news/article/first-known-black-yale-student-gets-degree-17920612.php |access-date=2023-05-17 |website=New Haven Register |language=en-US}}</ref>
+
+==Veneration==
+Crummell is honored with a [[feast day]] on the [[Calendar of saints (Episcopal Church in the United States of America)|liturgical calendar of the Episcopal Church (USA)]] on September 10.<ref>[http://www.lectionarypage.net/LesserFF/Sep/Crummell.html "Lessons Appointed for use on the Feast of Alexander Crummell".]</ref>
+
+==Writings==
+
+* {{Internet Archive|id=04373690.4743.emory.edu|name=Africa and America: addresses and discourses}}
+* {{Internet Archive|id=civilizationthep31268gut|name=Civilization the Primal Need of the Race The American Negro Academy. Occasional Paper No. 3}}
+* {{Internet Archive|id=defenceofnegrora00crum|name=A defence of the negro race in America from the assaults and charges of Rev. J. L. Tucker, D. D., of Jackson, Miss., in his paper before the "Church Congress" of 1882, on "The relations of the church to the colored race." Prepared and published at request of the colored clergy of the Prot. Epis. Church}}
+* {{Internet Archive|id=blackwomanofsout00crum|name=The Black woman of the South}}
+* {{Internet Archive|id=26158458.4765.emory.edu|name=Charitable institutions in colored churches}}
+* [[s:The Future of Africa|The future of Africa: being addresses, sermons, etc., etc., delivered in the Republic of Liberia]]
+* {{Internet Archive|id=greatnessofchris00crum|name=The greatness of Christ : and other sermons}}
+* {{Internet Archive|id=liberialandofpro00blyd|name=Liberia, the land of promise to free colored men}}
+* {{Internet Archive|id=659534158.4768.emory.edu|name=Look within}}
+* {{Internet Archive|id=manherochristian00crum|name=The man: the hero: the Christian! : A eulogy on the life and character of Thomas Clarkson: delivered in the city of New-York; Dec. 1846}}
+* {{Internet Archive|id=26219475.4758.emory.edu|name=The race-problem in America}}
+* {{Internet Archive|id=relationsanddut00crumgoog|name=The relations and duties of free colored men in America to Africa. A letter to Charles B. Dunbar ..}}
+* {{Internet Archive|id=26314722.4934.emory.edu|name=The shades and the lights of a fifty years' ministry: jubilate : a sermon by Alex. Crummell, rector, and a presentation address by Mrs. A.J. Cooper}}
+
+==See also==
+{{Portal|Saints}}
+* [[National Afro-American League]], set up in 1890 and based on racial solidarity and self-help
+* [[Black separatism]], as distinguished from [[Black nationalism]]
+* [[William Taylor (missionary)]], Missionary in Africa
+* [[Robert Moffat (missionary)]], Missionary in Africa
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+*[[Wilson Jeremiah Moses]]: [http://www.anb.org/articles/08/08-00330.html "Alexander Crummell"]. American National Biography Online. 2000. Oxford University Press. 5 February 2008.
+*Wilson Jeremiah Moses: ''Alexander Crummell: A Study of Civilization and Discontent''. New York: Oxford University Press, 1989.
+*Rigsby, Gregory, U.. ''Alexander Crummell: Pioneer in the Nineteenth-Century Pan-African Thought''. New York: Greenwood Press, 1987.
+*Moss, Alfred A. The American Negro Academy: Voice of the Talented Tenth.  Louisiana State University Press, 1981.  
+*Wahle, Kathleen O'Mara. "Alexander Crummell: Black Evangelist and Pan-Negro Nationalist." ''Phylon'' 29(1968): 388–395.
+
+==External links==
+*{{commonscat-inline}}
+*{{wikisource author-inline}}
+* {{Gutenberg author | id=35108| name=Alexander Crummell}}
+* {{Internet Archive author |sname=Alexander Crummell}}
+* {{Librivox author |id=8928}}
+* {{OL author|444864A}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Crummell, Alexander}}
+[[Category:People from Washington, D.C.]]
+[[Category:1819 births]]
+[[Category:1898 deaths]]
+[[Category:Americo-Liberian people]]
+[[Category:Activists for African-American civil rights]]
+[[Category:African-American abolitionists]]
+[[Category:American pan-Africanists]]
+[[Category:Religious leaders from New York City]]
+[[Category:Alumni of Queens' College, Cambridge]]
+[[Category:Anglican saints]]
+[[Category:Temne people]]
+[[Category:People of Temne descent]]
+[[Category:African-American Episcopalians]]
+[[Category:Activists from New York City]]
+[[Category:Oneida Institute alumni]]
+[[Category:Noyes Academy students who enrolled at the Oneida Institute]]
+[[Category:African Free School alumni]]
+[[Category:19th-century American Episcopalians]]

@@ -1,0 +1,153 @@
+{{Short description|1st-century BC Roman poet and philosopher}}
+{{About|the Roman poet and philosopher|other people named Lucretius|Lucretia gens|the impact crater on the far side of the Moon|Lucretius (crater)}}
+{{Infobox philosopher
+| era = [[Hellenistic philosophy]]
+| name = Titus Lucretius Carus
+| image = Lucretius pointing to the casus.jpg
+| caption = Lucretius pointing to the casus, the downward movement of the atoms. From the frontispiece to ''Of the Nature of Things'', 1682
+| birth_date = {{circa}} 99 BC
+| death_date = {{circa}} 55 BC (aged around 44)
+| school_tradition = [[Epicureanism]]<br />[[Atomism]]<br />[[Materialism]]
+| main_interests = [[Ethics]], [[metaphysics]], [[atomic theory]]<ref name="DRNV1200" />
+| notable_ideas =
+}}
+
+'''Titus Lucretius Carus''' ({{IPAc-en|ˈ|t|aɪ|t|ə|s|_|l|uː|ˈ|k|r|iː|ʃ|ə|s}} {{respell|TY|təs|_|loo|KREE|shəs}}, {{IPA|la|ˈtitus luˈkreːti.us ˈkaːrus|lang}}; {{circa|99}}&nbsp;– {{circa|55 BC}}) was a [[Ancient Rome|Roman]] [[Roman literature|poet]] and [[Ancient Roman philosophy|philosopher]]. His only known work is the philosophical poem ''[[De rerum natura]]'', a [[didactic]] work about the [[tenets]] and philosophy of [[Epicureanism]], which usually is translated into English as ''On the Nature of Things''—and somewhat less often as ''On the Nature of the Universe''. 
+Very little is known about Lucretius's life; the only certainty is that he was either a friend or [[Patronage in ancient Rome|client]] of [[Gaius Memmius (praetor 58 BC)|Gaius Memmius]], to whom the poem was addressed and dedicated.{{sfnp | Melville | Fowler | 2008 | p=xii }} ''De rerum natura'' was a considerable influence on the [[Augustan poetry|Augustan poets]], particularly [[Virgil]] (in his ''[[Aeneid]]'' and ''[[Georgics]]'', and to a lesser extent on the ''[[Eclogues]]'') and [[Horace]].<ref>Reckford, K. J. ''Some studies in Horace's [[ode]]s on love''</ref> The work was almost lost during the [[Middle Ages]], but was rediscovered in 1417 in a monastery in Germany{{sfnp|Greenblatt|2009|p=44 }} by [[Poggio Bracciolini]] and it played an important role both in the development of [[atomism]] (Lucretius was an important influence on [[Pierre Gassendi]])<ref>{{cite encyclopedia|title=Pierre Gassendi|last=Fisher|first=Saul|year=2009|encyclopedia=Stanford Encyclopedia of Philosophy|url=http://plato.stanford.edu/archives/win2009/entries/gassendi/}}</ref> and the efforts of various figures of the [[Age of Enlightenment|Enlightenment era]] to construct a new [[Christian humanism]].
+
+== Life ==
+{{quote box
+| quote = And now, good Memmius, receptive ears <br /> And keen intelligence detached from cares <br /> I pray you bring to true philosophy
+| source = ''De rerum natura'' (tr. Melville) 1.50
+| align = left
+| width = 20em
+}}
+{{quote box
+| quote = If I must speak, my noble Memmius, <br /> As nature's majesty now known demands
+| source = ''De rerum natura'' (tr. Melville) 5.6
+| align = left
+| width = 20em
+}}
+Virtually nothing is known about the life of Lucretius, and there is insufficient basis for a confident assertion of the dates of Lucretius's birth or death in other sources. Another, yet briefer, note is found in the ''[[Chronicon (Jerome)|Chronicon]]'' of Donatus's pupil, [[Jerome]]. Writing four centuries after Lucretius's death, he enters under the 171st [[Olympiad]]: "Titus Lucretius the poet is born."<ref name=chronicon>[[Jerome]], ''[[Chronicon (Jerome)|Chronicon]]''.</ref> If Jerome is accurate about Lucretius's age (43) when Lucretius died (discussed below), then it may be concluded he was born in 99 or 98 BC.{{sfnp | Bailey | 1947 | pp=1–3}}{{sfnp | Smith | 1992 | pp=x–xi }} Less specific estimates place the birth of Lucretius in the 90s BC and his death in the 50s BC,{{sfnp | Kenney | 1971 | p=6 }}{{sfnp | Costa | 1984 | p=ix }} in agreement with the poem's many [[allusion]]s to the tumultuous state of political affairs in [[Rome]] and its [[Roman civil wars|civil strife]].
+[[File:Titi Lucretii Cari De rerum natura.jpg|thumb|Start of late 15th-century illuminated manuscript of ''[[De rerum natura]]'']]
+
+Lucretius probably was a member of the [[aristocratic]] ''[[Lucretia gens|gens Lucretia]]'', and his work shows an intimate knowledge of the luxurious lifestyle in Rome.{{sfnp | Melville | Fowler | 2008 | loc=Foreword }} Lucretius's love of the countryside invites speculation that he inhabited family-owned rural estates, as did many wealthy Roman families, and he certainly was expensively educated with a mastery of Latin, Greek, literature, and philosophy.{{sfnp | Melville | Fowler | 2008 | loc=Foreword }}
+
+A brief biographical note is found in [[Aelius Donatus]]'s ''Life of [[Virgil]]'', which seems to be derived from an earlier work by [[Suetonius]].{{sfnp | Horsfall | 2000 | p=3 }} The note reads: "The first years of his life Virgil spent in Cremona until the assumption of his ''[[toga virilis]]'' on his 17th birthday (when the same two men held the [[Roman consul|consulate]] as when he was born), and it so happened that on the very same day Lucretius the poet passed away." However, although Lucretius certainly lived and died around the time that Virgil and Cicero [[fl.|flourished]], the information in this particular testimony is internally inconsistent: if Virgil was born in 70 BC, his 17th birthday would be in 53. The two consuls of 70 BC, [[Pompey]] and [[Marcus Licinius Crassus|Crassus]], stood together as consuls again in 55, not 53.
+
+Another note regarding Lucretius's biography is found in Jerome's ''Chronicon'', where he contends that Lucretius "was driven mad by a love [[potion]], and when, during the intervals of his insanity, he had written a number of books, which were later emended by Cicero, he killed himself by his own hand in the 44th year of his life."<ref name=chronicon/> The claim that he was driven mad by a love potion, although defended by such scholars as Reale and Catan,{{sfnp | Reale | Catan | 1980 | p=414 }} is often dismissed as the result of historical confusion,{{sfnp | Melville | Fowler | 2008 | p=xii }} or anti-Epicurean bias.{{sfnp | Smith | 2011 | p=vii }} In some accounts the administration of the toxic aphrodisiac is attributed to his wife [[Lucilia (wife of Lucretius)|Lucilia]]. Regardless, Jerome's image of Lucretius as a lovesick, mad poet continued to have significant influence on modern scholarship until quite recently, although it now is accepted that such a report is inaccurate.{{sfnp | Gale | 2007 | p=2 }}
+
+== ''De rerum natura'' ==
+{{main article|De rerum natura}}
+
+His poem ''De rerum natura'' (usually translated as "On the Nature of Things" or "On the Nature of the Universe") transmits the ideas of [[Epicureanism]], which includes [[atomism]] and [[cosmology]]. Lucretius was the first writer known to introduce Roman readers to Epicurean philosophy.{{sfnp | Gale | 2007 | p=35 }} The poem, written in some 7,400 [[dactylic hexameter]]s, is divided into six untitled books, and explores Epicurean physics through richly poetic language and [[metaphor]]s. Lucretius presents the principles of [[atomism]], the nature of the mind and [[soul]], explanations of sensation and thought, the development of the world and its [[phenomena]], and explains a variety of celestial and terrestrial [[phenomena]]. The universe described in the poem operates according to these physical principles, guided by ''fortuna'', "chance", and not the [[divine intervention]] of the [[Religion in ancient Rome|traditional Roman deities]]<ref>In particular, ''De rerum natura'' 5.107 (''fortuna gubernans'', "guiding chance" or "fortune at the helm"): see Monica R. Gale, ''Myth and Poetry in Lucretius'' (Cambridge University Press, 1994, 1996 reprint), pp. 213, 223–224 [https://books.google.com/books?id=gf8k02Iud74C&q=%22there+is+no+divine+providence%22 online] and ''Lucretius'' (Oxford University Press, 2007), p. 238 [https://books.google.com/books?id=mHadLr3QVUMC&dq=%22the+necessity+of+its+process+through+its+physics%22&pg=PA238 online.]</ref> and the religious explanations of the natural world.
+
+Within this work, Lucretius makes reference to the cultural and technological development of humans in his use of available materials, tools, and weapons through prehistory to Lucretius's own time. He specifies the earliest weapons as hands, nails, and teeth. These were followed by stones, branches, and fire (once humans could kindle and control it). He then refers to "tough iron" and copper in that order, but goes on to say that copper was the primary means of tilling the soil and the basis of weaponry until, "by slow degrees", the iron sword became predominant (it still was in his day) and "the bronze sickle fell into disrepute" as iron ploughs were introduced.<ref name=DRNV1200>{{cite book |last=Lucretius |author-link=Lucretius |title=De rerum natura, Book V, around Line 1200 ff. }}</ref> He had earlier envisaged a pre-technological, pre-literary kind of human whose life was lived "in the fashion of wild beasts roaming at large".<ref name=DRNV940>{{cite book |last=Lucretius |author-link=Lucretius |title=De rerum natura, Book V, around line 940 ff. }}</ref> From this beginning, he theorised, there followed the development in turn of crude huts, use and kindling of fire, clothing, language, family, and [[city-state]]s. He believed that smelting of metal, and perhaps too, the firing of pottery, was discovered by accident: for example, the result of a forest fire. He does specify, however, that the use of copper followed the use of stones and branches and preceded the use of iron.<ref name=DRNV940/>
+ 
+Lucretius seems to equate copper with [[bronze]], an alloy of copper and tin that has much greater resilience than copper; both copper and bronze were superseded by iron during his millennium (1000 BC to 1 BC). He may have considered bronze to be a stronger variety of copper and not necessarily a wholly individual material. Lucretius is believed to be the first to put forward a theory of the successive uses of first wood and stone, then copper and bronze, and finally iron. Although his theory lay dormant for many centuries, it was revived in the nineteenth century and he has been credited with originating the concept of the [[three-age system]] that was formalised from 1834 by [[Christian Jürgensen Thomsen|C. J. Thomsen]].<ref>Barnes, pp. 27–28.</ref><gallery>
+File:T. Lucretii Cari De rerum natura.tif|''De rerum natura'' (1570)
+File:Carus-3.jpg|alt=|1754 copy of ''De rerum natura''
+File:Carus-4.jpg|alt=|Frontispiece of a 1754 copy of ''De rerum natura''
+File:Carus-1.jpg|alt=|1683 English translation of ''De rerum natura''
+File:Carus-2.jpg|alt=|Title page of a 1683 English translation of ''De rerum natura''
+</gallery>
+
+===Reception===
+In a letter by [[Cicero]] to his brother [[Quintus Tullius Cicero|Quintus]] in February 54 BC, Cicero said: "The poems of Lucretius are as you write: they exhibit many flashes of [[genius]], and yet show great mastership."{{sfnp | Cicero | loc=2.9 }} In the work of another author in late Republican Rome, [[Virgil]] writes in the second book of his ''Georgics'', apparently referring to Lucretius,{{sfnp | Smith | 1975 | loc = intro }}  "Happy is he who has discovered the causes of things and has cast beneath his feet{{efn|name=subiecit pedibus}} all fears, unavoidable fate, and the din of the devouring Underworld."{{sfnp | Virgil | loc=2.490 }}
+
+==Natural philosophy==
+
+Lucretius was an early thinker in what grew to become the study of [[evolution]]. He believed that nature experiments endlessly across the aeons, and the organisms that adapt best to their environment have the best chance of surviving. Living organisms survived because of the commensurate relationship between their strength, speed, or intellect and the external dynamics of their environment. Prior to [[Charles Darwin]]'s 1859 publication of ''[[On the Origin of Species]]'', the natural philosophy of Lucretius typified one of the foremost non-[[Teleology|teleological]] and mechanistic accounts of the creation and evolution of life.<ref>{{Cite book|last=Campbell|first=Gordon|title=Lucretius on Creation and Evolution: A Commentary on De rerum natura 5.772-1104|publisher=Oxford University Press|year=2003|isbn=0199263965|location=Oxford/New York|pages=3–6}}</ref> In contrast to modern thought on the subject, he did not believe that new species evolved from previously existing ones. Lucretius challenged the assumption that humans are necessarily superior to animals, noting that mammalian mothers in the wild recognize and nurture their offspring as do human mothers.<ref>{{Cite journal|last=Massaro|first=Alma|date=2014-11-11|title=The Living in Lucretius' De rerum natura. Animals' ataraxia and Humans' Distress|url=https://www.ledonline.it/index.php/Relations/article/view/672|journal=Relations. Beyond Anthropocentrism|language=en|volume=2|issue=2|pages=45–58|doi=10.7358/rela-2014-002-mass|issn=2280-9643|doi-access=free}}</ref>
+
+Despite his advocacy of [[empiricism]] and his many correct conjectures about atomism and the nature of the physical world, Lucretius concludes his first book stressing the absurdity of the (by then well-established) [[spherical Earth]] theory<ref name="Hannam-Aeon">{{cite web |last=Hannam |first=James |title=Atoms and flat-earth ethics |url=https://aeon.co/essays/lucretius-the-flat-earth-and-the-malaise-of-modern-science |website=Aeon |access-date=8 May 2019 |archive-url=https://archive.today/20190429101743/https://aeon.co/essays/lucretius-the-flat-earth-and-the-malaise-of-modern-science |archive-date=29 April 2019 |date=29 April 2019}}</ref> as it related to the personally favored infinite Earth hypothesis which did not make reference to outer bodies.<ref>{{Cite book |title=Lucretius and the Transformation of Greek Wisdom |last=Sedley |first=David N. |date=2003 |publisher=[[Cambridge University Press]] |isbn=978-0-521-54214-2 |place=Cambridge |pages=78–82 }}</ref><ref>Lucretius, ''De rerum natura'', 1.1052–82.</ref>
+
+While [[Epicurus]] left open the possibility for [[free will]] by arguing for the [[Brownian motion|uncertainty of the paths of atoms]], Lucretius viewed the soul or mind as emerging from fortuitous arrangements of distinct particles.<ref>{{cite book |last=Gillispie |first=Charles Coulston |author-link=Charles Coulston Gillispie |title=The Edge of Objectivity: An Essay in the History of Scientific Ideas |year=1960 |publisher=Princeton University Press |isbn=0-691-02350-6 |page=[https://archive.org/details/edgeofobjectivit00char/page/98 98] |url=https://archive.org/details/edgeofobjectivit00char/page/98 }}</ref>
+
+==See also==
+* ''[[The Swerve: How the World Became Modern]]'', a modern [[historiography]] by [[Stephen Greenblatt]]
+* [[List of English translations of De rerum natura|List of English translations of ''De rerum natura'']]
+* [[Javelin argument]]
+
+== Notes ==
+<!-- Notes are automatically generated here; the note contents are inline with the reference in the article.-->
+{{notes
+| notes =
+
+{{efn
+| name = subiecit pedibus
+| ''subiecit pedibus''; cf. Lucretius 1.78: ''religio pedibus subiecta'', "religion lies cast beneath our feet"
+}}
+
+}}
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+{{see also|De_rerum_natura#Editions}}
+{{Refbegin|30em}}
+* {{cite book |last=Bailey |first=C. |chapter=Prolegomena |title=Lucretius's De rerum natura |year=1947 }}
+* {{cite book |last=Barnes |first=Harry Elmer |author-link=Harry Elmer Barnes |title=An Intellectual and Cultural History of the Western World, Volume One |year=1937 |publisher=[[Dover Publications]] |oclc=390382}}
+* {{cite web |last=Cicero |translator= Evelyn Shuckburgh |title=Letters to his brother Quintus |url=https://en.wikisource.org/wiki/Letters_to_his_brother_Quintus |access-date=16 May 2012 }}
+* {{cite book |last=Costa |first=C. D. N. |title=Lucretius: De Rerum Natura V |year=1984 |chapter=Introduction |isbn=978-0-19-814457-1 |publisher=Oxford University Press }}
+* {{cite book |last=Dalzell |first=A. |chapter=Lucretius |title=The Cambridge History of Classical Literature |publisher=Cambridge University Press |location=Cambridge |year=1982}}
+* {{cite book |last=Gale |first=M.R. |title=Oxford Readings in Classical Studies: Lucretius |publisher=Oxford University Press |location=Oxford |year=2007 |isbn=978-0-19-926034-8 }}
+* {{cite book |last=Greenblatt |first=Stephen | author-link=Stephen Greenblatt |title=[[The Swerve: How the World Became Modern]] |publisher=WW. Norton and Company |location=New York |year=2009 }}
+* {{cite book |last=Horsfall |first=N. |year=2000 |title=A Companion to the Study of Virgil |publisher=BRILL |url=https://books.google.com/books?id=EsxUp4Cy3q8C |access-date=16 May 2012 |isbn=978-90-04-11951-2 }}
+* {{cite book |last=Kenney |first=E. J. |title=Lucretius: De rerum natura |chapter=Introduction |isbn=978-0-521-29177-4 |year=1971 |publisher=Cambridge University Press }}
+* {{cite book |editor-last1=Melville |editor-first1=Ronald |editor-last2=Fowler |editor-first2=Don and Peta |title=Lucretius: On the Nature of the Universe |series=Oxford World's Classics |publisher=Oxford University Press |year=2008 |orig-year=1999 |isbn=978-0-19-162327-1 }}<!-- or origyear=1997 -->
+* {{cite book |last1=Reale |first1=G. |last2=Catan |first2=J. |title=A History of Ancient Philosophy: The Systems of the Hellenistic Age |year=1980 |publisher=SUNY Press }}
+* {{cite web |url=https://archive.org/details/threephilosophic00santuoft |last=Santayana |first=George |year=1910 |title=Three philosophical poets: Lucretius, Dante, and Goethe |access-date=16 May 2012 }}
+* {{cite book |last=Smith |author-link=Martin Ferguson Smith |first=M. |title=De rerum natura |chapter=Introduction |publisher=[[Loeb Classical Library]] |year=1992 }}
+* {{cite book |last=Smith |first=M. F. |year=1975 |title=De rerum natura |publisher=Loeb Classical Library }}
+* {{cite book |last=Smith |first=M. F. |title=Lucretius, On the Nature of Things |url=https://books.google.com/books?id=iKdij3ErDnMC |access-date=16 May 2012 |publisher=Hackett |year=2011 |orig-year=2001 |isbn=978-0-87220-587-1 }}
+* {{cite journal |title=Lucretius and Memmius |last=Stearns |first=J. B. |journal=The Classical Weekly |date=December 1931 |volume=25 |issue=9 |pages=67–68 |jstor=4389660 |doi=10.2307/4389660 }}
+* {{cite web |last=Virgil |title=Georgics |url=http://www.poetryintranslation.com/PITBR/Latin/VirgilGeorgicsII.htm#_Toc533843195 |access-date=16 May 2012 }}
+{{Refend}}
+
+== Further reading ==
+
+* {{Cite book |title=Lucretius: his continuing influence and contemporary relevance |date=2011 |publisher=[[RIT Press]] |isbn=978-1-933360-49-2 |editor-last=Madigan |editor-first=Tim |location=Rochester, NY |language=en |editor-last2=Suits |editor-first2=David B.}}
+
+==External links==
+{{Wikisource author|Titus Lucretius Carus}}
+{{Wikiquote|Lucretius}}
+{{Commons category|Lucretius}}
+{{Library resources box |by=yes |onlinebooks=yes |others=yes |about=yes |label=Lucretius
+  |viaf= |lccn= |lcheading= |wikititle= }}
+* {{cite EB1911|wstitle=Lucretius |volume=17 |short=x}}
+* {{Gutenberg author |id=414}}
+** [http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=785 ''On The Nature Of Things'']
+* {{Internet Archive author}}
+* {{Librivox author |id=323}}
+* {{PerseusAuthor|Lucretius}}
+* [http://www.iep.utm.edu/lucretiu/ ''Internet Encyclopedia of Philosophy entry''] by David Simpson
+* [http://plato.stanford.edu/entries/lucretius/ Stanford Encyclopedia of Philosophy entry]
+* [http://www.intratext.com/Catalogo/Autori/AUT238.HTM Lucretius's works]: text, concordances and frequency list
+* [https://web.archive.org/web/20061126015734/http://bsa.biblio.univ-lille3.fr/lucretius.htm Bibliography De rerum natura Book III] (archived 26 November 2006)
+* [http://hos.ou.edu/galleries//02LateAncient/Lucretius/ Online Galleries, History of Science Collections, University of Oklahoma Libraries] High-resolution images of works by Lucretius in .jpg and .tiff format.
+* Lucretius: [http://roderic.uv.es/uv_ms_0506 ''De rerum natura''] (1475–1494), digitised codex at [http://roderic.uv.es/handle/10550/43 Somni]
+* [http://cudl.lib.cam.ac.uk/view/PR-MONTAIGNE-00001-00004-00004/1 Titi Lucretii Cari ''De rerum natura libri sex''], published in Paris 1563, later owned and annotated by [[Michel de Montaigne|Montaigne]], fully digitised in [[Cambridge Digital Library]]
+* [https://epicureanfriends.com Discussion Forum For Lucretius and Epicurean Philosophy]
+*[https://aeon.co/ideas/is-nature-continuous-or-discrete-how-the-atomist-error-was-born Is nature continuous or discrete? How the atomist error was born]
+
+{{Epicureanism}}
+{{Greek schools of philosophy}}
+{{Ancient Rome topics|state=collapsed}}
+{{Authority control}}
+
+[[Category:90s BC births]]
+[[Category:50s BC deaths]]
+[[Category:1st-century BC philosophers]]
+[[Category:1st-century BC Roman poets]]
+[[Category:Atomists]]
+[[Category:Didactic poets]]
+[[Category:Empiricists]]
+[[Category:Epic poets]]
+[[Category:Golden Age Latin writers]]
+[[Category:Lucretii]]
+[[Category:Metaphysicians]]
+[[Category:Natural philosophers]]
+[[Category:Roman-era Epicurean philosophers]]
+[[Category:Ancient Roman poets]]
+[[Category:Philosophers of Roman Italy]]
