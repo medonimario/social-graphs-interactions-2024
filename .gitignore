@@ -3,10 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Philosophers either in the following two
-Philosophers/ 
+#  All the downloaded philospher files in downloads directory
 downloads/
-title_links.json
 # C extensions
 *.so
 
