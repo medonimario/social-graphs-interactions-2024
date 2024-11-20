@@ -1,5 +1,6 @@
 import urllib.request
 import csv
+import re
 
 
 # Download the LabMT wordlist (with happiness scores)
