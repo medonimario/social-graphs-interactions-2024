@@ -1,0 +1,225 @@
+{{Short description|German-Israeli philosopher (1897–1982)}}
+{{Use dmy dates|date=July 2021}}
+{{Lead too long|date=April 2024}}
+{{Infobox philosopher
+| honorific_prefix  = 
+| name              = Gershom Scholem
+| native_name       = {{Nobold|{{Script/Hebrew|גרשום שלום}}}}
+| honorific_suffix  = 
+| image             = File:Gershom Scholem 1935 (cropped).jpg 
+| image_size        = 
+| alt               = 
+| caption           = Scholem, 1935
+| other_names       = 
+| birth_name        = Gerhard Scholem
+| birth_date        = {{birth date|df=yes|1897|12|05}}
+| birth_place       = [[Berlin]], [[German Empire]]
+| death_date        = {{death date and age|df=yes|1982|02|21|1897|12|05}} 
+| death_place       = [[Jerusalem]], [[Israel]]
+| death_cause       = 
+| residence         = 
+| nationality       = [[Germany|German]]<br>[[Israel]]
+| spouse            =  Fania Freud Scholem
+| education         = 
+| alma_mater        = [[Humboldt University of Berlin|Frederick William University]]
+| notable_works     = ''Sabbatai Zevi, the Mystical Messiah''<br>''[[Major Trends in Jewish Mysticism]]''
+| awards            = [[Israel Prize]]<br>[[Bialik Prize]]
+| signature         = 
+| signature_size    = 
+| signature_alt     = 
+| era               = [[20th-century philosophy]]
+| region            = [[German philosophy]]<br>[[Jewish philosophy]]
+| school_tradition  = [[Continental philosophy]]<br>[[Kabbalah]]<br>[[Wissenschaft des Judentums]] 
+| institutions      = [[Hebrew University of Jerusalem]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| main_interests    = [[Philosophy of religion]]<br>[[Philosophy of history]]<br>[[Mysticism]]<br>[[Messianism]]
+| notable_ideas     = 
+}}
+'''Gershom Scholem''' ({{Langx|he|גֵרְשׁׂם שָׁלוֹם}}) (5 December 1897 – 21 February 1982) was a German-born [[Israel]]i [[philosopher]] and [[historian]]. Widely regarded as the founder of modern academic study of the [[Kabbalah]], Scholem was appointed the first professor of [[Jewish mysticism]] at [[Hebrew University of Jerusalem]].<ref>{{cite book |author= Magid, Shaul |title= Gershom Scholem |date= 14 May 2024 |publisher= Stanford Encyclopedia of Philosophy (Spring 2009 Edition) |editor= Edward N. Zalta |url= http://plato.stanford.edu/archives/spr2009/entries/scholem/}}</ref>
+
+Scholem is acknowledged as the single most significant figure in the recovery, collection, annotation, and registration into rigorous Jewish scholarship of the canonical bibliography of mysticism and scriptural commentary that runs through its primordial phase in the ''[[Sefer Yetzirah]],'' its inauguration in the ''[[Bahir]],'' its exegesis in the [[Pardes (exegesis)|''Pardes'']] and the ''[[Zohar]]'' to its cosmogonic, apocalyptic climax in [[Isaac Luria|Isaac Luria's]] ''[[Ein Sof]]''  that is known collectively as [[Kabbalah]].<ref name=":6">{{Cite book |last=Scholem |first=Gershom |url=https://www.worldcat.org/oclc/13456988 |title=Origins of the Kabbalah |date=1987 |publisher=Jewish Publication Society |others=R. J. Zwi Werblowsky |isbn=0-691-07314-7 |edition= |location=[Philadelphia] |oclc=13456988}}</ref><ref name=":7">{{Cite book |last=Scholem |first=Gershom |url=https://www.worldcat.org/oclc/670936 |title=Major trends in Jewish mysticism |date=1961 |publisher=Schocken Books |isbn=0-8052-0005-3 |edition= |location=New York |oclc=670936}}</ref>
+
+After generations of demoralization and assimilation in the European enlightenment,<ref name=":3">{{Cite book |last=Scholem |first=Gershom |url=https://www.worldcat.org/oclc/959423350 |title=Sabbatai Ṣevi; the mystical Messiah, 1626–1676 |date=2016 |isbn=978-0-691-17209-5 |edition= |location=Princeton, NJ |oclc=959423350}}</ref> the disappointment of messianic hopes,<ref name=":3" /> the famine of 1916 in Palestine,<ref name=":4">{{Cite book |last=PROCHNIK |first=GEORGE |url=https://www.worldcat.org/oclc/992451184 |title=STRANGER IN A STRANGE LAND : searching for gershom scholem and jerusalem. |date=2018 |publisher=GRANTA Books |isbn=978-1-78378-180-5 |location=[Place of publication not identified] |pages=133 |oclc=992451184}}</ref> and the catastrophe of the [[Final Solution]] in Europe<ref name=":0"/> Scholem gathered and reassembled these sacred texts from many of the archives that had been disarranged, orphaned, confiscated under Nazi rule or otherwise washed up in [[Genizah]] cataloging the flood of fragments and disordered, decontextualized manuscripts into an annotated and relatively organized sequence of texts available to scholars and seekers within the reception of this tradition. Many other Jewish scholars assisted in this process of recovery once it was underway, but it is broadly recognized that Scholem initiated this process of textual and archival recovery and rebirth.
+
+As Scholem points out in his memoirs, the canon of sacred Jewish writings from the diaspora and the Middle Ages (re: "[[Kabbalah]]") had fallen into such a state of disrepair and oblivion—fragmented and effaced by persecutions from without as well as contortions, conversions and schisms from within Judaism—that many of the "finest writings..."<ref name=":2">{{Cite book |last=Scholem |first=Gershom |url=https://www.worldcat.org/oclc/9983412 |title=Walter Benjamin : the story of a friendship |date=1982 |publisher=Faber and Faber |isbn=0-571-11970-0 |location=London |pages=80, 105 |oclc=9983412}}</ref> from the major currents of Jewish mysticism could only be found in long block quotations in antisemitic texts, where some "nincompoop who had quoted and translated the most wonderful, the most profound things,"<ref name=":2" /> had assembled them "in order to decry them as blasphemies."<ref name=":2" /> (This was a strong, somewhat exaggerated statement for expressive effect that Scholem attributes to [[Ernst Bloch]] in his memoirs—but there he co-signs the sentiment and appropriates it as his own description of the state of affairs in other places.)<ref>{{Cite book |last=Scholem |first=Gershom |url=https://www.worldcat.org/oclc/63245451 |title=Alchemy and kabbalah |date=2006 |publisher=Spring Publications |others=Klaus Ottmann |isbn=0-88214-566-5 |edition= |location=Putnam, Conn. |oclc=63245451}}</ref><ref name=":6" /><ref name=":7" />
+
+Due to Scholem's efforts, and those of his students and colleagues, the confused and inscrutable condition of Kabbalistic bibliography and provenance would be significantly remedied after the end of the World Wars and the foundation of the modern state of Israel where Scholem worked as head librarian of the National Library in Jerusalem.
+
+==Biography==
+[[File:Gershom Scholem learning the Zohar (NNL 003800553).IV.jpg|thumb|Gershom Scholem sitting in Sukka studying the Zohar, 1925]]
+{{Kabbalah}}
+{{Jewish philosophy}}
+Gerhard (Gershom) Scholem was born in [[Berlin]] to Arthur Scholem and Betty Hirsch Scholem. His  father was a printer. His older brother was the German Communist leader [[Werner Scholem]]. He studied [[Hebrew language|Hebrew]] and [[Talmud]] with an [[Orthodox Judaism|Orthodox]] rabbi.<ref name=":8">{{Cite web |date=1980-05-01 |title=How I Came to the Kabbalah |url=https://www.commentary.org/articles/gershom-scholem/how-i-came-to-the-kabbalah/ |access-date=2022-09-01 |website=Commentary Magazine |language=en-US}}</ref>
+
+Scholem met [[Walter Benjamin]] in Munich in 1915, when the former was seventeen years old and the latter was twenty-three. They began a lifelong friendship that ended when Benjamin committed suicide in 1940 in the wake of Nazi persecution. Scholem dedicated his book ''Major Trends in Jewish Mysticism'' (''Die jüdische Mystik in ihren Hauptströmungen''), based on lectures 1938–1940, to  Benjamin. In 1915 Scholem enrolled at the [[Humboldt University of Berlin|Frederick William University]] in Berlin (today, [[Humboldt University of Berlin|Humboldt University]]), where he studied mathematics, philosophy, and Hebrew. There he met [[Martin Buber]], [[Shmuel Yosef Agnon]], [[Hayim Nahman Bialik]], [[Ahad Ha'am]], and [[Zalman Shazar]].<ref name=":8" />
+
+In Berlin, Scholem befriended [[Leo Strauss]] and corresponded with him throughout his life.<ref>Green, Kenneth Hart (1997). "Leo Strauss as a Modern Jewish Thinker" [editor's introduction], in: Leo Strauss, ''Jewish Philosophy and the Crisis of Modernity'', ed. Green. Albany: State University of New York Press. {{ISBN|9780791427736}}. p.&nbsp;55.</ref> He studied [[mathematical logic]] at the [[University of Jena]] under [[Gottlob Frege]]. He was in Bern in 1918 with Benjamin when he met Elsa (Escha) Burchhard, who became his first wife. Scholem returned to Germany in 1919, where he received a degree in [[Semitic languages]] at the [[Ludwig Maximilian University of Munich]].<ref name=":8" /> Together with Benjamin he established a fictitious school – the University of Muri.<ref>{{Cite journal |last=McFarland |first=James |date=2012 |title=One-Way Street: Childhood and Improvisation at the Close of the Book |journal=The Germanic Review: Literature, Culture, Theory |language=en |volume=87 |issue=3 |pages=293–303 |doi=10.1080/00168890.2012.704339 |s2cid=143548205 |issn=0016-8890}}</ref>
+
+Scholem wrote his doctoral thesis on the oldest known kabbalistic text, ''[[Bahir|Sefer ha-Bahir]]''. The following year it appeared in book form as "Das Buch Bahir", having been published by his father's publishing house.<ref name=":8" />
+
+Drawn to [[Zionism]] and influenced by Buber, he [[aliyah|immigrated]] in 1923 to the [[Mandatory Palestine|British Mandate of Palestine]].<ref>[https://www.haaretz.com/israel-news/.premium-the-cult-following-of-gershom-scholem-founder-of-modern-kabbala-research-1.8196758 The Cult Following of Gershom Scholem, Founder of Modern Kabbala Research], [[Haaretz]]</ref> It may be considered notable that though Scholem's allegiance to the Zionist cause (or the reclamation of Palestine by the Jewish diaspora) is incontrovertible, his relationship to the manifest ethics of Zionism was more ambiguous and critical than Buber's.<ref name="Scholem 1982">{{Cite book |last=Scholem |first=Gershom |url=https://www.worldcat.org/oclc/9983412 |title=Walter Benjamin : the story of a friendship |date=1982 |publisher=Faber and Faber |isbn=0-571-11970-0 |location=London |oclc=9983412}}</ref><ref>{{Cite book |last=Scholem |first=Gershom |url=https://www.worldcat.org/oclc/35961417 |title=On the possibility of Jewish mysticism in our time & other essays |date=1997 |publisher=Jewish Publication Society |others=Avraham Shapira |isbn=0-8276-0579-X |edition= |location=Philadelphia |oclc=35961417}}</ref><ref name=":5">{{Cite book |last=Benjamin |first=Walter |url=https://www.worldcat.org/oclc/24467826 |title=The Correspondence of Walter Benjamin and Gershom Scholem, 1932-1940 |date=1992 |publisher=Harvard University Press |others=Gershom Scholem |isbn=0-674-17415-1 |edition= |location=Cambridge, Mass. |oclc=24467826}}</ref><ref>{{Cite book |last=Benjamin |first=Walter |url=https://www.worldcat.org/oclc/780333114 |title=The correspondence of Walter Benjamin, 1910-1940 |date=2012 |publisher=University of Chicago Press |others=Gershom Scholem, Theodor W. Adorno |isbn=978-0-226-04238-1 |edition= |location=Chicago, Ill. |oclc=780333114}}</ref>
+
+After his emigration from Berlin to Palestine, Scholem became a librarian, heading the Department of Hebrew and Judaica at the National Library. In 1927 he revamped the [[Dewey Decimal System]], making it appropriate for large Judaica collections. Scholem's brother [[Werner Scholem|Werner]] was a member of the ultra-left "Fischer-Maslow Group" and the youngest ever member of the [[Reichstag (Weimar Republic)|Reichstag]], or Weimar [[Diet (assembly)|Diet]], representing the [[Communist Party of Germany]]. He was expelled from the party and later murdered by the Nazis during the [[Third Reich]]. Unlike his brother, Gershom was vehemently opposed to both [[Communism]] and [[Marxism]]. In 1936, he married his second wife, Fania Freud. Fania, who had been his student and could read Polish, was helpful in his later research, particularly in regard to [[Jacob Frank]].<ref>{{Cite web |date=1971-01-01 |title=The Holiness of Sin |url=https://www.commentary.org/articles/gershom-scholem/the-holiness-of-sin/ |access-date=2022-09-01 |website=Commentary Magazine |language=en-US}}</ref>
+
+In 1946 Scholem was sent by the Hebrew University to search for Jewish books that had been plundered by the Nazis and help return them to their rightful owners. He spent much of the year in Germany and Central Europe as part of this project, known as "Otzrot HaGolah".<ref name=":8" />
+
+Scholem died in [[Jerusalem]], where he is buried next to his wife in the [[Sanhedria Cemetery]]. [[Jürgen Habermas]] delivered the eulogy.<ref>{{Cite book |last=Biale |first=David |title=Sage of Jerusalem |chapter=9. The Sage of Jerusalem |date=19 June 2018 |pages=180–199 |publisher=Yale University Press |doi=10.12987/9780300235159-010 |isbn=9780300235159 |s2cid=246092076 |url=https://www.degruyter.com/document/doi/10.12987/9780300235159-010/pdf}}</ref>
+
+==Academic career==
+Scholem became a lecturer at the Hebrew University of Jerusalem. He taught the Kabbalah and mysticism from a scientific point of view and became the first professor of Jewish mysticism at the university in 1933, working in this post until his retirement in 1965, when he became an emeritus professor. 
+[[File:Scholem card catalog.jpg|thumb|140px|right|Card catalogue which Gershom Scholem used to write his notes]]
+[[File:Gershom Scholem house (2).JPG|200px|thumbnail|Gershom Scholem House, 28 Abarbanel Street, Jerusalem]]
+Scholem directly contrasted his historiographical approach on the study of Jewish [[mysticism]] with the approach of the 19th-century school of the ''[[Wissenschaft des Judentums]]'' ("Science of Judaism"), which sought to submit the study of Judaism to the discipline of subjects such as [[history]], [[philology]], and [[philosophy]]. According to Jeremy Adler, Scholem's thinking was "both recognizably Jewish and deeply German," and "changed the course of twentieth-century European thought."<ref>Times Literary Supplement, 10 April 2015</ref>
+
+At the time Scholem entered his field of study, Jewish mysticism was acknowledged as Judaism's weakest scholarly link by many of the scholars, publishers and cultural leaders of the Jewish community and gentile German scholars who sponsored Scholem's early career, including [[Martin Buber]], [[Salman Schocken]], [[Franz Rosenzweig]], [[Robert Eisler]], {{ill|Philipp Bloch|de|Philipp Bloch}}, Moses Marx, [[Clemens Baeumker|Clemens Baumker]], [[Fritz Hommel]] and [[Walter Benjamin]].<ref name=":0">{{Cite web |date=1980-05-01 |title=How I Came to the Kabbalah |url=https://www.commentary.org/articles/gershom-scholem/how-i-came-to-the-kabbalah/ |access-date=2022-08-31 |website=Commentary Magazine |language=en-US}}</ref><ref name="Scholem 1982"/>
+
+Scholem told the story of his early research "at the start of my path" in 1922 when he went to Berlin to visit "the only Jewish scholar scholar who had engaged in the study of Kabbalah in the previous generation."<ref name=":1">{{Cite book |last=Scholem |first=Gershom |url=https://www.worldcat.org/oclc/35961417 |title=From a lecture given to the Bavarian Academy of the Arts collected as "My Way to Kabbalh"(1974) in "On the possibility of Jewish mysticism in our time & other essays" |date=1997 |publisher=Jewish Publication Society |others=Avraham Shapira |isbn=0-8276-0579-X |edition= |location=Philadelphia |pages=21–22 |oclc=35961417}}</ref> Gesturing at the rabbi's library of documents, manuscripts and autographs written by the authors of the Kabbalah, some of which had been inscribed in [[Early modern period|early modern]] or [[Middle Ages|medieval]] centuries, Scholem remarked, "How wonderful it is, Herr Professor, that you have read and learned all this!" to which "...the elderly gentleman replied: 'What! And I ''also'' have to ''read'' all this nonsense?!"<ref name=":1" /> (Though he does not mention the name of the Rabbi in his canonical account of this visit, Scholem explains elsewhere that this scholar—once the Rabbi of [[Poznań]]—was Phillip Bloch.<ref name=":0" /><ref name=":1" />)
+
+The analysis of Judaism carried out by the ''Wissenschaft'' school was flawed in two ways, according to Scholem: It studied Judaism as a dead object rather than as a living organism; and it did not consider the proper ''foundations'' of Judaism, the non-rational force that, in Scholem's view, made the religion a living thing.
+
+In Scholem's opinion, the mythical and mystical components were at least as important as the rational ones, and he thought that they, rather than the minutiae of [[Halakha]], were the truly living core of Judaism. In particular, he disagreed with what he considered to be [[Martin Buber]]'s personalization of Kabbalistic concepts as well as what he argued was an inadequate approach to Jewish history, Hebrew language, and the [[land of Israel]].
+
+In the [[worldview]] of Scholem, the research of Jewish mysticism could not be separated from its historical context. Starting from something similar to the ''Gegengeschichte'' of  [[Friedrich Nietzsche]], he ended up including less normative aspects of Judaism in the public history.
+
+Specifically, Scholem in his scholarly writing that Jewish history could be divided into three periods:
+
+*During the [[Hebrew Bible|Biblical]] period, [[monotheism]] battles [[mythology]] without completely defeating it.
+*During the [[Talmud]]ic period, some of the institutions—for example, the notion of the magical power of the accomplishment of the Sacraments—are removed in favour of the purer concept of the divine [[transcendence (religion)|transcendence]].
+*During the medieval period, the impossibility of reconciling the abstract concept of God of [[ancient Greek philosophy]] with the personal [[Names of God in Judaism|God]] of the Bible, led Jewish thinkers, such as [[Maimonides]], to try to eliminate the remaining myths and to modify the figure of the living God. After this time, mysticism, as an effort to find again the essence of the God of their fathers, became more widespread.
+
+Elsewhere, in oral presentation or informal reflection, Scholem inflected the three periods within a different frame of reference:<ref name=":9" /><ref name=":10">{{Cite book |last=Scholem |first=Gershom |url=https://www.worldcat.org/oclc/35961417 |title="Walter Benjamin and His Angel" collected in "On the possibility of Jewish mysticism in our time & other essays" |date=1997 |publisher=Jewish Publication Society |others=Avraham Shapira |isbn=0-8276-0579-X |edition=1st |location=Philadelphia |oclc=35961417}}</ref><ref name=":8" /> there was the primordial inscription and enunciation of the Law in the Torah and the Talmud, the mystical reflections of the Kaballah, and the post-metaphysical phase of mystical writings represented by (for example) the writings of Franz Kafka or the critical mysticism of his friend and correspondent Walter Benjamin. Scholem often told his students that the modern reader must read Franz Kafka in order to enter into the frame of mind native to the Kaballah, and elsewhere remarked that, "among the peculiarities" Benjamin's writings was its "enormous suitability for canonization; I might almost say for quotation as a kind of Holy Writ."<ref name=":10" />
+
+The notion of the three periods, with its interactions between rational and irrational elements in Judaism, led Scholem to put forward some controversial arguments. He thought that the 17th century messianic movement, known as [[Sabbateans|Sabbateanism]], was developed from the [[Lurianic Kabbalah]]. In order to neutralize Sabbateanism, [[Hasidic Judaism|Hasidism]] had emerged as a [[Hegelian dialectic|Hegelian synthesis]]. Many of those who joined the Hasidic movement, because they had seen in it an [[Orthodox Judaism|Orthodox]] congregation, considered it scandalous that their community should be associated with a heretical movement.
+
+In the same way, Scholem produced the hypothesis that the source of the 13th century Kabbalah was a Jewish [[gnosticism]] that preceded Christian gnosticism.
+
+The historiographical approach of Scholem also involved a linguistic theory. In contrast to Buber, Scholem believed in the power of the language to invoke supernatural phenomena. In contrast to [[Walter Benjamin]], he put the [[Hebrew language]] in a privileged position with respect to other languages, as the only language capable of revealing the divine truth. His special regard for the spiritual potency of the Hebrew language was expressed in his 1926 letter to [[Franz Rosenzweig]]  regarding his concerns over the "secularization" of Hebrew. Scholem considered the Kabbalists as interpreters of a pre-existent linguistic revelation.
+
+== Friends, colleagues and canonical affinities ==
+Scholem's closest peers included, most famously, [[Walter Benjamin]] and [[Leo Strauss]].
+
+Though his relationship with [[Franz Rosenzweig]] was of shorter duration, it was also a deeply influential one. Likewise, though Scholem was never directly introduced to [[Franz Kafka]], he found out later in life that Kafka approved of his comments in a debate.<ref name=":2" /> Scholem and Benjamin's discussions of Kafka, spanning decades, played no small role in the elevation Kafka's literary and epistolary writings to canonical status in both secular and mystical literature as writing that was prophetic or premonitory of the [[The Holocaust|Holocaust]] while also having qualities of a kind of post-metaphysical kabbalah.<ref>{{Cite web |title=Gershom Scholem's ten unhistorical aphorisms on Kabbalah : text and commentary {{!}} Article NNL_ALEPH000291046 {{!}} The National Library of Israel |url=https://www.nli.org.il/en/articles/NNL_ALEPH000291046/NLI |access-date=2022-08-31 |website=www.nli.org.il |language=en}}</ref><ref>Benjamin, Walter. "[http://users.clas.ufl.edu/burt/KafkaKierkegaardBible/BenjaminReflectionsKafka.pdf Some Reflections on Kafka.]" collected ILLUMINATIONS. New York: Schocken, 1968.</ref><ref>{{Cite book |last=Steiner |first=George |url=https://www.worldcat.org/oclc/26232703 |title="Introduction" to Franz Kafka's THE TRIAL |date=1992 |others=Willa Muir, Edwin Muir |isbn=0-679-40994-7 |location=New York |oclc=26232703}}</ref><ref name=":9">{{Cite book |last=Scholem |first=Gershom |url=https://www.worldcat.org/oclc/35961417 |title="My Way To Kaballah"(1974) collected in "On the possibility of Jewish mysticism in our time & other essays" |date=1997 |publisher=Jewish Publication Society |others=Avraham Shapira |isbn=0-8276-0579-X |edition= |location=Philadelphia |oclc=35961417}}</ref><ref name=":5" />
+
+It is a measure of the depth of Scholem's friendship with Benjamin that he wrote two memoirs at the end of his life: his own autobiography<ref>{{Cite book |last=Scholem |first=Gershom |url=https://www.worldcat.org/oclc/709681211 |title=From Berlin to Jerusalem : memories of my youth |date=2012 |publisher=Paul Dry Books |isbn=978-1-58988-073-3 |edition= |location=Philadelphia |oclc=709681211}}</ref> tends to be less read or frequently cited than his "Autobiography of a Friendship" recounting his lifelong relationship and work in partnership with Benjamin prior to the latter's death in flight from the Gestapo in 1940.<ref name=":2" /> In addition to his Kabbalah scholarship, a significant portion of Scholem's working life postwar was spent recovering, editing and promoting the literary estate of his dead friend.<ref name=":4" />
+
+[[Martin Buber]] was a patron, publisher and sponsor of the careers of both Scholem and his best friend [[Walter Benjamin|Benjamin]] (despite Benjamin's frequent ingratitude and incorrigible blowing of deadlines and Scholem's occasionally scathing critiques of the elder figure).<ref name=":2" /><ref name=":4" />
+
+Though Scholem's relationships with [[Hannah Arendt]], [[Theodor W. Adorno|Theodor Adorno]], [[Hans Jonas]], and [[Ernst Bloch]] were more characteristically turbulent than those relationship just mentioned, the frequent citation of these figures in Scholem's published writings and private correspondence demonstrates that they were among his closest and most influential colleagues. Selected letters from his correspondence with thinkers, critics and philosophers have been published.
+
+Though appearing as a friend and protegé late in his career, [[Cynthia Ozick]] merits mention among those in Scholem's inner-circle. His late-career relationships with [[Allen Ginsberg]], [[Harold Bloom]], and [[George Steiner]] were also significant (though his relationship with Steiner was, characteristically, somewhat combative). Scholem was also friendly with the author [[Shai Agnon]] and the Talmudic scholar [[Saul Lieberman]].
+
+As a major, unofficial but widely acknowledged figurehead of mystical, historical and theological currents within both [[Reform Judaism|Reform]] and (much more controversially) [[Conservative Judaism]] after World War II and the [[The Holocaust|Destruction of the European Jewry]] in the Holocaust, Scholem's stature within Jewish tradition is roughly comparable to the role played before the [[World War I|First World War]] and during the interwar period by [[Martin Buber]].<ref>{{Cite book |last=PROCHNIK |first=GEORGE |url=https://www.worldcat.org/oclc/992451184 |title=STRANGER IN A STRANGE LAND : searching for gershom scholem and jerusalem. |date=2018 |publisher=GRANTA Books |isbn=978-1-78378-180-5 |location=[Place of publication not identified] |oclc=992451184}}</ref><ref>{{Cite journal |last=Jonas |first=Hans |date=1987 |title=The Concept of God after Auschwitz: A Jewish Voice |url=https://www.jstor.org/stable/1203313 |journal=The Journal of Religion |volume=67 |issue=1 |pages=1–13 |doi=10.1086/487483 |jstor=1203313 |s2cid=170911703 |issn=0022-4189}}</ref>
+
+==Debate with Hannah Arendt==
+In the aftermath of the [[Adolf Eichmann]] trial in Jerusalem, Scholem sharply criticised [[Hannah Arendt]]'s book, ''[[Eichmann in Jerusalem]]'' and decried her lack of solidarity with the Jewish people ({{langx|he|אהבת ישראל}} "love of one's fellow Jews", ''ʾahəvaṯ ʾiśrāʾēl'').<ref>{{Cite book |last=Scholem |first=Gershom |url=https://www.worldcat.org/oclc/9346526 |title="On Eichman" collected in "On Jews and Judaism in crisis : selected essays" |date=1978 |publisher=Schocken Books |isbn=0-8052-0588-8 |edition= |location=New York |oclc=9346526}}</ref> Arendt responded that she never loved any collective group, and that she does not love the Jewish people but was only part of them.<ref>{{Cite book |last=Arendt |first=Hannah |url=https://www.worldcat.org/oclc/889522925 |title=Joachim Fest Interview collected in "Thinking without a banister : essays in understanding, 1953–1975" |date=2018 |others=Jerome Kohn |isbn=978-0-8052-4215-7 |edition= |location=New York |oclc=889522925}}</ref> The bitter fight, which was exchanged in various articles, led to a rift between Scholem and Arendt though they remained mutually respectful thereafter and continued to work alongside one another on various projects, particularly in their work on the literary estate of Walter Benjamin.<ref>{{Cite book |last=Benjamin |first=Walter |url=https://www.worldcat.org/oclc/12947710 |title="The Little Hunchback" by Hannah Arendt, published in the anthology of selected Benjamin works "Illuminations" |date=1968 |publisher=Schocken Books |others=Hannah Arendt, Harry Zohn |isbn=0-8052-0241-2 |location=New York |oclc=12947710}}</ref>  In an apparently wrathful moment, Scholem wrote to Hans Paeschke that he "knew Hannah Arendt when she was a socialist or half-communist and... when she was a Zionist. I am astounded by her ability to pronounce upon movements in which she was once so deeply engaged, in terms of a distance measured in light years and from such sovereign heights."<ref>{{cite book |last1=Aschheim |first1=Steven E. |title=Hannah Arendt in Jerusalem |date=August 2001 |publisher=University of California Press |isbn=978-0-520-22057-7 |page=9 |url=https://books.google.com/books?id=uN__U6VdHEgC&q=9 |language=en}}</ref> Differing perspectives on the appropriate penalty for Adolph Eichmann further illuminate differences between the two authors.  Whereas Arendt felt that Eichmann should be executed, Scholem was opposed, fearing that his execution would serve to alleviate the Germans' collective sense of guilt.<ref>{{Cite book |last=Scholem |first=Gershom |url=https://www.worldcat.org/oclc/9346526 |title="Against the German Jewish Dialogue" and "On Eichmann" collected in "On Jews and Judaism in crisis : selected essays" |date=1978 |publisher=Schocken Books |isbn=0-8052-0588-8 |edition= |location=New York |oclc=9346526}}</ref><ref>{{Cite book |last=Arendt |first=Hannah |url=https://www.worldcat.org/oclc/65198074 |title=Final paragraph of main text in "Eichmann in Jerusalem : a report on the banality of evil" |date=2006 |publisher=Penguin Books |others=Amos Elon |isbn=0-14-303988-1 |location=New York, N.Y. |oclc=65198074}}</ref>
+
+==Awards and recognition==
+* In 1958, Scholem was awarded the [[Israel Prize]] in Jewish studies.<ref>{{cite web|url=http://cms.education.gov.il/EducationCMS/Units/PrasIsrael/Tashyag/Tashkab_Tashyag_Rikuz.htm?DictionaryKey=Tashyah |title=Israel Prize recipients in 1958 (in Hebrew) |publisher=Israel Prize Official Site |archive-url=https://web.archive.org/web/20120208115723/http://cms.education.gov.il/EducationCMS/Units/PrasIsrael/Tashyag/Tashkab_Tashyag_Rikuz.htm?DictionaryKey=Tashyah |archive-date=8 February 2012 |url-status=dead }}</ref>
+* In 1968, he was elected president of the [[Israel Academy of Sciences and Humanities]].
+* In 1969, he received the [[Yakir Yerushalayim]] (Worthy Citizen of Jerusalem) award.<ref name=YYawards>{{Cite web|title=Recipients of Yakir Yerushalayim award (in Hebrew) |url=http://www.jerusalem.muni.il/jer_main/TopSiteJeru.asp?newstr=3&src=/jer_sys/publish/HtmlFiles/1030/results_pub_id=12594.html&cont=895 |url-status=dead |archive-url=https://web.archive.org/web/20110617061055/http://www.jerusalem.muni.il/jer_main/TopSiteJeru.asp?newstr=3&src=%2Fjer_sys%2Fpublish%2FHtmlFiles%2F1030%2Fresults_pub_id%3D12594.html&cont=895 |archive-date=2011-06-17 }} City of Jerusalem official website</ref>
+* In 1977, he was awarded the [[Bialik Prize]] for [[Jewish thought]].<ref name=bialik>{{Cite web|title=List of Bialik Prize recipients 1933–2004 (in Hebrew), Tel Aviv Municipality website |url=http://www.tel-aviv.gov.il/Hebrew/_MultimediaServer/Documents/12516738.pdf |url-status=dead |archive-url=https://web.archive.org/web/20071217143811/http://www.tel-aviv.gov.il/Hebrew/_MultimediaServer/Documents/12516738.pdf |archive-date=2007-12-17 }}</ref>
+
+==Literary influence==
+[[File:GLAM National Library Trude Krolik.JPG|thumb|190px|right|1947 drawing by Trude Krolik of the young Scholem "Baal HaZohar" (Master of the Zohar), in the Scholem collection, [[National Library of Israel]] (Hebrew University), Jerusalem]]
+Various stories and essays of the Argentinian writer [[Jorge Luis Borges]] were inspired or influenced by Scholem's books.<ref>Gourevitch, Philip, [https://books.google.com/books?id=2hIVwWOa4sUC&pg=RA1-PA156&lpg "Interview with Jorge Luis Borges (July 1966)"], in ''The Paris review: Interviews, Volume 1'', Macmillan, 2006. Cf. p.156. Also see: {{cite journal| url=http://www.theparisreview.org/interviews/4331/the-art-of-fiction-no-39-jorge-luis-borges| title=Jorge Luis Borges, The Art of Fiction No. 39| journal=Paris Review| date=Winter–Spring 1967| author=Ronald Christ | volume=Winter-Spring 1967| issue=40}}</ref> He has also influenced ideas of [[Umberto Eco]], [[Jacques Derrida]], [[Harold Bloom]], Italian  philosopher [[Giorgio Agamben]], and [[George Steiner]].<ref>Idel, Moshe, [http://muse.jhu.edu/login?uri=/journals/modern_judaism/v026/26.2idel.html "White Letters: From R. Levi Isaac of Berditchev's Views to Postmodern Hermeneutics"], ''Modern Judaism'', Volume 26, Number 2, May 2006, pp. 169–192. Oxford University Press</ref> American author [[Michael Chabon]] cites Scholem's essay, ''The Idea of the Golem'', as having assisted him in conceiving the Pulitzer-Prize winning book ''[[The Amazing Adventures of Kavalier and Clay]]''.<ref>{{cite news| url=https://www.nytimes.com/2008/06/29/books/review/Kamine-t.html | work=The New York Times | title=Chasing His Bliss | first=Mark | last=Kamine | date=2008-06-29 | access-date=2010-05-03}}</ref> The same essay influenced, and is cited by, [[Bruce Chatwin]]'s ''Utz''.  [[Chaim Potok]]'s ''[[The Book of Lights]]'' features a lightly disguised Scholem as "Jacob Keter."<ref>{{Cite journal|last=Soll|first=Will|date=1989|title=Chaim Potok's "Book of Lights": Reappropriating Kabbalah in the Nuclear Age|url=https://www.jstor.org/stable/40059404|journal=Religion & Literature|volume=21|issue=1|pages=111–135|jstor=40059404 |issn=0888-3769}}</ref>
+
+==Selected works in English==
+* ''Major Trends in Jewish Mysticism'', 1941
+* ''Jewish Gnosticism, Merkabah Mysticism, and the Talmudic Tradition'', 1960
+* Arendt and Scholem, "Eichmann in Jerusalem: Exchange of Letters between Gershom Scholem and Hannah Arendt", in ''[[Encounter (magazine)|Encounter]]'', 22/1, 1964
+* ''On the Kabbalah and Its Symbolism,'' 1965
+* ''The Messianic Idea in Judaism and other Essays on Jewish Spirituality'', trans. 1971
+* ''Sabbatai Sevi: The Mystical Messiah'', 1973
+* ''Kabbalah'', Meridian 1974, Plume Books 1987 reissue: {{ISBN|0-452-01007-1}}
+* ''On Jews and Judaism in Crisis: Selected Essays,'' 1976
+* ''From Berlin to Jerusalem: Memories of My Youth'', 1977; trans. Harry Zohn, 1980.
+* ''Walter Benjamin: the Story of a Friendship'', trans. Harry Zohn. New York: Schocken Books, 1981.
+* ''Origins of the Kabbalah'', JPS, 1987 reissue: {{ISBN|0-691-02047-7}}
+* ''Zohar — The Book of Splendor: Basic Readings from the Kabbalah'', ed., 1995
+* ''On the Mystical Shape of the Godhead: Basic Concepts in the Kabbalah'', 1997
+* ''The Fullness of Time: Poems'', trans. [[Richard Sieburth]], 2003
+* ''On History and Philosophy of History'', in "Naharaim: Journal for German-Jewish Literature and Cultural History", v, 1–2 (2011), pp.&nbsp;1–7.
+* ''On Franz Rosenzweig and his Familiarity with Kabbala Literature'', in "Naharaim: Journal for German-Jewish Literature and Cultural History", vi, 1 (2012), pp.&nbsp;1–6.
+* ''On the Possibility of Jewish Mysticism in Our Time'', 1994.
+* ''From Frankism to Jacobinism'', 2019
+
+==See also==
+*[[Martin Buber]]
+*[[Abraham Joshua Heschel]]
+*[[Joseph Dan]]
+*[[Rachel Elior]]
+*[[Arthur Green]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*Avriel Bar-Levav, [https://www.academia.edu/25914586/On_the_Absence_of_a_Book_from_a_Library_Gershom_Scholem_and_the_Shulhan_Arukh._Zutot_Perspectives_on_Jewish_Culture_6_2009_71-73 On the Absence of a Book from a Library: Gershom Scholem and the Shulhan Arukh] {{Webarchive|url=https://web.archive.org/web/20190420110246/https://www.academia.edu/25914586/On_the_Absence_of_a_Book_from_a_Library_Gershom_Scholem_and_the_Shulhan_Arukh._Zutot_Perspectives_on_Jewish_Culture_6_2009_71-73 |date=20 April 2019 }}. Zutot: Perspectives on Jewish Culture 6 (2009): 71–73
+*[[David Biale|Biale, David]]. ''Gershom Scholem: Kabbalah and Counter-History'', second ed., 1982.
+*Bloom, Harold, ed. ''Gershom Scholem'', 1987.
+*Campanini, Saverio, ''A Case for Sainte-Beuve. Some Remarks on Gershom Scholem's Autobiography'', in P. Schäfer – R. Elior (edd.), ''Creation and Re-Creation in Jewish Thought''. Festschrift in Honor of [[Joseph Dan]] on the Occasion of his 70th Birthday, Tübingen 2005, pp.&nbsp;363–400.
+*Campanini, Saverio, ''Some Notes on Gershom Scholem and Christian Kabbalah'', in Joseph Dan (ed.), ''Gershom Scholem in Memoriam'', Jerusalem Studies in Jewish Thought, 21 (2007), pp.&nbsp;13–33.
+*Engel, Amir, [http://press.uchicago.edu/ucp/books/book/chicago/G/bo25126030.html Gershom Scholem: An Intellectual Biography], University of Chicago Press, 2017.
+*Geller, Jay Howard, [https://www.cornellpress.cornell.edu/book/9781501731563/the-scholems/ The Scholems: A Story of the German-Jewish Bourgeoisie from Emancipation to Destruction], Cornell University Press, 2019.
+*Jacobson, Eric, ''Metaphysics of the Profane – The Political Theology of Walter Benjamin and Gershom Scholem'', (Columbia University Press, NY, 2003).
+* {{cite journal |last1=Holzer-Kawalko |first1=Anna |title=Eastern European Perspectives on the Restitution of Nazi-Looted Jewish Cultural Property: Gershom Scholem in Prague, 1946 |journal=Naharaim |date=1 December 2022 |volume=16 |issue=2 |pages=229–256 |doi=10.1515/naha-2022-0007 |url=https://www.degruyter.com/document/doi/10.1515/naha-2022-0007/html |language=en |issn=1862-9156}}
+* {{cite web |last1=Leshem |first1=Zvi |title=Religious Anarchist and Unobservant Orthodox: On Gershom Scholem, Harry A. Wolfson and Agnostic Sermons |url=https://blog.nli.org.il/en/scholem_wolfson/ |website=The Librarians |access-date=24 March 2024 |date=6 December 2020}}
+* Lucca, Enrico, ''Between History and Philosophy of History. Comments on an unpublished Document by Gershom Scholem'', in "Naharaim", v, 1–2 (2011), pp.&nbsp;8–16.
+* Lucca, Enrico, ''Gershom Scholem on Franz Rosenzweig and the Kabbalah. Introduction to the Text'', in "Naharaim", vi, 1 (2012), pp.&nbsp;7–19.
+*Mirsky, Yehudah, "[http://www.jewishideasdaily.com/content/module/2012/5/8/main-feature/1/gershom-scholem-30-years-on Gershom Scholem, 30 Years On]", (Jewish Ideas Daily, 2012).
+*Heller Wilensky, Sarah, See the letters from Joseph Weiss to Sarah Heller Wilensky in "Joseph Weiss, Letters to Ora" in A. Raoport-Albert (Ed.) Hasidism reappraised. London: Littman Press, 1977.
+*Robinson, G. ''Essential Judaism'', Pocket Books, 2000.
+*Zadoff, Noam, [https://www.brandeis.edu/tauber/publications/books/zadoff-scholem.html/ Gershom Scholem: From Berlin to Jerusalem and Back] {{Webarchive|url=https://web.archive.org/web/20230321021544/https://www.brandeis.edu/tauber/publications/books/zadoff-scholem.html |date=21 March 2023 }}, Brandeis University Press, 2017.
+
+==External links==
+{{wikiquote}}
+{{commons category}}
+*[https://archive.org/details/GershomScholemKabbalah1975LectureAudio Audio of Gershom Scholem lecturing on Kabbalah in 1975]
+*[https://www.jewishvirtuallibrary.org/jsource/biography/scholem.html Biography at the Jewish Virtual Library]
+*"[http://www.myjewishlearning.com/article/gershom-scholem-the-study-of-mysticism/ Gershom Scholem&nbsp;&amp; the Study of Mysticism]", MyJewishLearning.com
+*[http://www.personal.psu.edu/users/t/o/tob/503/schol.html Biographical page] {{Webarchive|url=https://web.archive.org/web/20221129071054/http://www.personal.psu.edu/users/t/o/tob/503/schol.html |date=29 November 2022 }} created by Sharon Naveh
+*[https://traditiononline.org/orthodoxy-and-the-scholem-moment/ Orthodoxy and the Scholem Moment], by Zvi Leshem
+
+{{Authority control}}
+
+{{DEFAULTSORT:Scholem, Gershom}}
+[[Category:1897 births]]
+[[Category:1982 deaths]]
+[[Category:20th-century German essayists]]
+[[Category:20th-century German philosophers]]
+[[Category:20th-century Israeli philosophers]]
+[[Category:20th-century Israeli historians]]
+[[Category:Corresponding fellows of the British Academy]]
+[[Category:20th-century German Jews]]
+[[Category:German emigrants to Mandatory Palestine]]
+[[Category:Hasidic Judaism]]
+[[Category:Academic staff of the Hebrew University of Jerusalem]]
+[[Category:Historians of Jews and Judaism]]
+[[Category:Humboldt University of Berlin alumni]]
+[[Category:Israel Prize in Jewish studies recipients who were historians]]
+[[Category:Israel Prize in Jewish studies recipients who were philosophers]]
+[[Category:20th-century German historians]]
+[[Category:German male non-fiction writers]]
+[[Category:German Zionists]]
+[[Category:Israeli essayists]]
+[[Category:Israeli philosophers]]
+[[Category:Jewish historians]]
+[[Category:Jewish philosophers]]
+[[Category:Kabbalistic scholars]]
+[[Category:Librarians at the National Library of Israel]]
+[[Category:Ludwig Maximilian University of Munich alumni]]
+[[Category:Members of the Israel Academy of Sciences and Humanities]]
+[[Category:Philosophers of history]]
+[[Category:Philosophers of Judaism]]
+[[Category:Philosophers of religion]]
+[[Category:Philosophy academics]]
+[[Category:Presidents of the Israel Academy of Sciences and Humanities]]
+[[Category:Recipients of the Pour le Mérite (civil class)]]
+[[Category:Writers from Berlin]]
+[[Category:Bialik Prize recipients]]

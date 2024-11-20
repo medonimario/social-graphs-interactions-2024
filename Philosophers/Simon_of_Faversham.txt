@@ -1,0 +1,41 @@
+{{Use dmy dates|date=April 2022}}
+'''Simon of Faversham''' (also '''Simon Favershamensis''', '''Simon de Faverisham''', '''Simon von Faversham''', or '''Simon Anglicus'''; c. 1260–1306) was an [[England|English]] medieval scholastic [[philosopher]] and later a university [[Chancellor (university)|chancellor]].<ref name="hibbert">{{cite book| title=[[The Encyclopaedia of Oxford]] | publisher=[[Macmillan Publishers|Macmillan]] | chapter=Appendix 5: Chancellors of the University|year=1988|pages=521–522|isbn=0-333-39917-X|editor-last=Hibbert|editor-first=Christopher|editor-link=Christopher Hibbert}}</ref>
+
+Simon of Faversham was born in [[Faversham]], [[Kent]],<ref name="faversham">{{cite web | title=Who's Who in Faversham's History P–Z | url=http://www.faversham.org/history/people/whos_who_p-z | publisher=faversham.org | access-date=5 August 2012 | archive-date=15 March 2012 | archive-url=https://web.archive.org/web/20120315032215/http://www.faversham.org/history/people/whos_who_p-z | url-status=dead }}</ref>  and educated at [[University of Oxford|Oxford]], receiving a [[Master of Arts]] degree. He probably taught in [[Paris]] during the 1280s. His philosophical work consists almost entirely of commentaries on [[Aristotle]]'s works.{{citation needed|date=August 2012}}  He was made [[Chancellor of the University of Oxford|Chancellor]] of Oxford University in January 1304 until his death in 1306.<ref name="wood">{{cite book|title=The History and Antiquities of the Colleges and Halls in the University of Oxford |via=[[Internet Archive]] | first=Anthony | last=Wood |url=https://archive.org/details/appendixtohistor00wood| chapter=Fasti Oxonienses | year=1790 | page=[https://archive.org/details/appendixtohistor00wood/page/17 17] }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{cite SEP |url-id=simon-faversham |title=Simon of Faversham |last=Mora-Márquez |first=Ana María}}
+* [https://longeway.wordpress.com/ John Longeway's page] on Simon of Faversham.
+* {{cite book |last1=Hutchinson |first1=John |title=Men of Kent and Kentishmen |date=1892 |publisher=Cross & Jackman |location=Canterbury |pages=125–126 |edition=Subscription  |chapter=[[s:Men of Kent and Kentishmen/Simon of Faversham|Simon of Faversham]]}}
+
+{{s-start}}
+{{s-aca}}
+{{succession box
+| title=[[Chancellor of the University of Oxford]]
+| years=1304–1306
+| before=[[Walter de Wetheringsete]]
+| after=[[Walter Burdun]]
+}}
+{{s-end}} 
+{{Chancellors of the University of Oxford}}
+{{Authority control}}
+
+{{DEFAULTSORT:Simon of Faversham}}
+[[Category:1260 births]]
+[[Category:1306 deaths]]
+[[Category:People from Faversham]]
+[[Category:Alumni of the University of Oxford]]
+[[Category:Scholastic philosophers]]
+[[Category:English philosophers]]
+[[Category:13th-century philosophers]]
+[[Category:Chancellors of the University of Oxford]]
+[[Category:13th-century English people]]
+[[Category:14th-century English people]]
+
+
+{{UK-philosopher-stub}}
+{{UOxford-stub}}
+{{England-academic-administrator-stub}}

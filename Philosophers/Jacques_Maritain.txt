@@ -1,0 +1,347 @@
+{{short description|French Catholic philosopher (1882–1973)}}
+{{More footnotes needed|date=November 2010}}
+{{Use dmy dates|date=December 2019}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[20th-century philosophy]]
+| name = Jacques Maritain
+| honorific_suffix = [[Benedictines|OblSB]] 
+| school_tradition = [[Existential Thomism]]
+| image=Maritain Jacques.jpg
+| caption = Maritain in the 1930s
+| alt = A black-and-white photo of Maritain looking toward the camera
+| birth_date   = {{Birth date|1882|11|18|df=y}}
+| birth_place  = [[Paris, France|Paris]], [[French Third Republic|France]]
+| death_date   = {{Death date and age|df=y|1973|4|28|1882|11|18}}
+| death_place  = [[Toulouse]], [[France]]
+| alma_mater   = [[University of Paris]]
+| spouse       = {{marriage|[[Raïssa Maritain]]|1904|1960|end=died}}
+| main_interests = {{hlist | [[Philosophy of religion]] | [[political theory]] | [[economics]] | [[philosophy of science]] | [[metaphysics]]}}
+| notable_ideas =
+|notable_works={{plainlist|
+* ''[[Art and Scholasticism]]'' (1920)
+* ''[[The Degrees of Knowledge]]'' (1932)
+* ''[[The Person and the Common Good]]'' (1947)
+* ''[[The Range of Reason]]'' (1952)
+}}}}
+{{Christian Democracy sidebar|people}}
+{{Conservatism in France}}
+{{Catholic philosophy|Contemporary}}
+'''Jacques Maritain''' ({{IPA|fr|ʒak maʁitɛ̃|lang}}; 18 November 1882&nbsp;– 28 April 1973) was a French [[Catholic]] philosopher. Raised as a [[Protestant]], he was agnostic before converting to Catholicism in 1906. An author of more than 60 books, he helped to revive [[Thomas Aquinas]] for modern times, and was influential in the development and drafting of the [[Universal Declaration of Human Rights]]. [[Pope Paul VI]] presented his "Message to Men of Thought and of Science" at the close of [[Vatican II]] to Maritain, his long-time friend and mentor. The same pope had seriously considered making him a [[lay cardinal]], but Maritain rejected it.<ref>{{cite web|url=https://www.ewtn.com/library/THEOLOGY/FR91201.HTM|title=The Christian Personalism of Jacques Maritain|author=Donald DeMarco|publisher=[[EWTN]]|url-status=dead|archive-url=https://web.archive.org/web/20001205160000/https://www.ewtn.com/library/THEOLOGY/FR91201.HTM|archive-date=5 December 2000}}</ref> Maritain's interest and works spanned many aspects of philosophy, including [[aesthetics]], [[political theory]], [[philosophy of science]], [[metaphysics]], the nature of education, [[liturgy]] and [[ecclesiology]].
+
+==Life==
+Maritain was born in Paris, the son of Paul Maritain, who was a lawyer, and his wife Geneviève Favre, the daughter of philosopher and educator [[Julie Favre]] and statesman and lawyer [[Jules Favre]]. His niece was librarian and Resistance member [[Éveline Garnier]], who he later made his principal legatee and introduced to her life partner [[Andrée Jacob]].<ref>{{Cite web |last=texte |first=Cercle d'études Jacques et Raïssa Maritain Auteur du |date=1990 |title=Cahiers Jacques Maritain |url=https://gallica.bnf.fr/ark:/12148/bpt6k97699002 |access-date=2023-03-26 |website=Gallica |language=EN}}</ref><ref>{{Cite news |date=2019-09-19 |title=A Paris, les voies de la Résistance |language=fr |work=Le Monde.fr |url=https://www.lemonde.fr/idees/article/2019/09/19/a-paris-les-voies-de-la-resistance_5512356_3232.html |access-date=2023-03-26}}</ref><ref>{{Cite web |title=Marie-Jo Bonnet raconte les résistantes oubliées |date=February 2013 |url=https://www.ouest-france.fr/pays-de-la-loire/le-mans-72000/marie-jo-bonnet-raconte-les-resistantes-oubliees-777162}}</ref> Maritain was reared in a liberal Protestant milieu. 
+
+He was sent to the [[Lycée Henri-IV]]. Later, he attended the [[University of Paris|Sorbonne]], studying the natural sciences: chemistry, biology and physics.
+
+At the Sorbonne, he met [[Raïssa Maritain|Raïssa Oumançoff]], a Russian Jewish émigré. They married in 1904, but they made a private vow to abstain from sex.<ref>{{cite web |last1=Johnston |first1=George Sim |title=Friendship & devotion |url=https://www.catholiceducation.org/en/culture/other-topics/friendship-devotion.html |website=catholiceducation.org |access-date=31 August 2024}}</ref> A noted poet and mystic, she participated as his intellectual partner in his search for truth. Raïssa's sister, Vera Oumançoff, lived with Jacques and Raïssa for almost all their married life.
+
+At the Sorbonne, Jacques and Raïssa soon became disenchanted with [[scientism]], which could not, in their view, address the larger existential issues of life. In 1901, in light of this disillusionment, they made a pact to commit suicide together if they could not discover some deeper meaning to life within a year. They were spared from following through on this because, at the urging of [[Charles Péguy]], they attended the lectures of [[Henri Bergson]] at the [[Collège de France]]. Bergson's critique of scientism dissolved their intellectual despair and instilled in them "the sense of the absolute." Then, through the influence of [[Léon Bloy]], they converted to the [[Catholic Church|Catholic]] faith in 1906.<ref>{{harvnb|Hanna|1996|p=39}}</ref>
+
+In the fall of 1907 the Maritains moved to [[Heidelberg]], where Jacques studied biology under [[Hans Driesch]]. Hans Driesch's theory of neo-vitalism attracted Jacques because of its affinity with Henri Bergson. During this time, Raïssa fell ill, and during her convalescence, their [[spirtuality|spiritual]] advisor, a [[Dominican friar]] named Humbert Clérissac, introduced her to the writings of Thomas Aquinas. She read them with enthusiasm and, in turn, exhorted her husband to examine the saint's writings. In Thomas, Maritain found a number of insights and ideas that he had believed all along. He wrote:
+<blockquote>Thenceforth, in affirming to myself, without chicanery or diminution, the authentic value of the reality of our human instruments of knowledge, I was already a Thomist without knowing it&nbsp;... When several months later I came to the ''[[Summa Theologica|Summa Theologiae]]'', I would construct no impediment to its luminous flood.</blockquote>
+
+From the Angelic Doctor (the honorary title of Aquinas), he was led to "The Philosopher", as Aquinas called [[Aristotle]]. Still later, to further his intellectual development, he read the [[neo-Thomist]]s.
+
+Beginning in 1912, Maritain taught at the [[Collège Stanislas de Paris|Collège Stanislas]]. He later moved to the [[Institut Catholique de Paris]]. For the 1916–1917 academic year, he taught at the [[Petit Séminaire de Versailles]].  In 1930 Maritain and [[Étienne Gilson]] received honorary doctorates in philosophy from the [[Pontifical University of Saint Thomas Aquinas|Pontifical University of Saint Thomas Aquinas, ''Angelicum'']].<ref>Piero Viotto, ''Grandi amicizie: i Maritain e i loro contemporanei'', 38, https://books.google.com/books?id=aonOg8KLOdIC&pg=PA38 Accessed 28 February 2016. Jean Leclercq, ''Di grazia in grazia: memorie'', 60. https://books.google.com/books?id=jxKnMfTj81AC&pg=PA60 Accessed 28 February 2016</ref> In 1933, he gave his first lectures in North America in [[Toronto]] at the [[Pontifical Institute of Mediaeval Studies]]. He also taught at [[Columbia University]]; at the Committee on Social Thought, [[University of Chicago]]; at the [[University of Notre Dame]], and at [[Princeton University]].
+
+From 1945 to 1948, he was the French ambassador to the Holy See.
+
+Afterwards, Maritain returned to Princeton University. In 1952, he gave the inaugural [[A. W. Mellon Lectures in the Fine Arts]]. Four years later, he achieved the "Elysian status" (as he put it) of a professor emeritus. Raïssa Maritain died in 1960. After her death, Jacques published her journal under the title "Raïssa's Journal." For several years Maritain was an honorary chairman of the [[Congress for Cultural Freedom]], appearing as a keynote speaker at its 1960 conference in Berlin.<ref>{{Cite web|url=https://www.newcriterion.com/issues/1990/1/what-was-the-congress-for-cultural-freedom|title=What was the Congress for Cultural Freedom?|website=www.newcriterion.com|date=January 1990 }}</ref>
+From 1961, Maritain lived with the [[Little Brothers of Jesus]] in Toulouse, France. He had an influence on the order since its foundation in 1933 and became a Little Brother in 1970.<ref>{{Cite journal|last=Picón|first=María Laura|date=2009|title="Jacques Maritain y los Pequeños Hermanos de Jesús".|url=https://dialnet.unirioja.es/servlet/articulo?codigo=3210151|journal=Studium Filosofía y Teología|language=es|volume=T.12, Fasc. 24|pages=403–414|issn=0329-8930}}</ref> Maritain was also an oblate for the [[Benedictines|Order of Saint Benedict]].<ref>{{cite web|last=Scalia|first=Elizabeth|title=She's a Tertiary? He's an Oblate? What Is That About?|url=https://aleteia.org/2016/01/20/shes-a-tertiary-hes-an-oblate-what-is-that-about/|work=Aleteia.org|date=20 January 2016}}</ref> In a 1938 interview published by the ''[[Commonweal (magazine)|Commonweal]]'' magazine, they asked if he was a freemason. Maritain replied:<blockquote>That question offends me, for I should have a horror of belonging to Freemasonry. So much the worse for well-intentioned people whose anxiety and need for explanations would have been satisfied by believing me to be one.<ref>{{Cite web|url=https://www.commonwealmagazine.org/interview-jacques-maritain|title=An Interview with Jacques Maritain {{!}} Commonweal Magazine|website=www.commonwealmagazine.org|date=3 February 1939 |access-date=2019-11-21}}</ref></blockquote>Jacques and Raïssa Maritain are buried in the cemetery of [[Kolbsheim]], a little French village in [[Alsace]] where he had spent many summers at the estate of his friends, Antoinette and Alexander Grunelius.<ref>The most comprehensive biography of the Maritains is: Jean-Luc Barre, "Jacques And Raissa Maritain: Beggars For Heaven", University of Notre Dame Press.</ref>[[File:Kolbsheim TombeMaritain.JPG|thumb|Tomb of Raïssa and Jacques Maritain]]
+
+==Work==
+The foundation of Maritain's thought is Aristotle, Aquinas, and the [[Thomism|Thomistic]] commentators, especially [[John of St. Thomas]]. He is eclectic in his use of these sources. Maritain's philosophy is based on evidence accrued by the senses and acquired by an understanding of first principles. Maritain defended philosophy as a science against those who would degrade it, and promoted philosophy as the "queen of sciences".
+
+In 1910, Jacques Maritain completed his first contribution to modern philosophy, a 28-page article titled, "Reason and Modern Science" published in ''Revue de Philosophie'' (June issue). In it, he warned that science was becoming a divinity, its methodology usurping the role of reason and philosophy, supplanting the humanities.<ref>{{harvnb|Hanna|1996|p=40}}</ref>
+
+In 1917, a committee of French bishops commissioned Jacques to write a series of textbooks to be used in Catholic colleges and seminaries. He wrote and completed only one of these projects, titled ''Elements de Philosophie'' (Introduction of Philosophy) in 1920. It has been a standard text ever since in many Catholic seminaries. He wrote in his introduction:
+<blockquote>If the philosophy of Aristotle, as revived and enriched by [[Thomas Aquinas]] and his school, may rightly be called the [[Christian philosophy]], both because the church is never weary of putting it forward as the only true philosophy and because it harmonizes perfectly with the truths of faith, nevertheless it is proposed here for the reader's acceptance not because it is Christian, but because it is demonstrably true. This agreement between a philosophic system founded by a pagan and the dogmas of revelation is no doubt an external sign, an extra-philosophic guarantee of its truth; but from its own rational evidence, it derives its authority as a philosophy.</blockquote>
+
+During the Second World War, Jacques Maritain protested the policies of the [[Vichy France|Vichy]] government while teaching at the Pontifical Institute for Medieval Studies in Canada. "Moving to New York, Maritain became deeply involved in rescue activities, seeking to bring persecuted and threatened academics, many of them Jews, to America. He was instrumental in founding the [[École Libre des Hautes Études]], a kind of university in exile that was, at the same time, the centre of Gaullist resistance in the United States". After the war, in a papal audience on 16 July 1946, he tried unsuccessfully to have [[Pope Pius XII]] officially denounce [[antisemitism]].<ref>{{cite journal |author=Richard Francis Crane |title=Heart-Rending Ambivalence: Jacques Maritain and the Complexity of Postwar Catholic Philosemitism |journal=Studies in Christian-Jewish Relations |volume=6 |year=2011 |url=http://ejournals.bc.edu/ojs/index.php/scjr/article/view/1820/1698 |pages=8–9}}</ref>
+
+Many of his American papers are held by the [[University of Notre Dame]], which established [[The Jacques Maritain Center]] in 1957. The Cercle d'Etudes Jacques & Raïssa Maritain is an association founded by the philosopher himself in 1962 in Kolbsheim (near [[Strasbourg]], France), where the couple is also buried. The purpose of these centres is to encourage study and research of Maritain's thoughts and expand upon them. It is also absorbed in translating and editing his writings.
+
+==Metaphysics and epistemology==
+Maritain's philosophy is based on the view that [[metaphysics]] is prior to [[epistemology]]. Being is first apprehended implicitly in [[Empirical evidence|sense experience]], and is known in two ways. First, being is known reflexively by abstraction from sense experience. One experiences a particular being, e.g. a cup, a dog, etc. and through reflection ("bending back") on the judgement, e.g. "this is a dog", one recognizes that the object in question is an existent. Second, in light of attaining being reflexively through apprehension of sense experience, one may arrive at what Maritain calls "an Intuition of Being". For Maritain this is the point of departure for metaphysics; without the intuition of being one cannot be a metaphysician at all. The intuition of being involves rising to the apprehension of ''ens secundum quod est ens'' (being insofar as it is a being). In ''Existence and the Existent'' he explains:
+
+<blockquote>"It is being, attained or perceived at the summit of an abstractive intellection, of an eidetic or intensive visualization which owes its purity and power of illumination only to the fact that the intellect, one day, was stirred to its depths and trans-illuminated by the impact of the act of existing apprehended in things, and because it was quickened to the point of receiving this act, or hearkening to it, within itself, in the intelligible and super-intelligible integrity of the tone particular to it." (p. 20)</blockquote>
+
+In view of this priority given to metaphysics, Maritain advocates an epistemology he calls "Critical Realism". Maritain's epistemology is not "critical" in Kant's sense, which held that one could only know anything after undertaking a thorough critique of one's cognitive abilities. Rather, it is critical in the sense that it is not a naive or non-philosophical realism, but one that is defended by way of reason. Against Kant's critical project, Maritain argues that epistemology is reflexive; you can only defend a theory of knowledge in light of knowledge you have already attained. Consequently, the critical question is not the question of modern philosophy{{spaced ndash}}how do we pass from what is perceived to what is? Rather, "Since the mind, from the very start, reveals itself as warranted in its certitude by things and measured by an esse [the Latin verb 'to be', Aquinas' preferred term for 'existence'],  independent of itself, how are we to judge if, how, on what conditions, and to what extent it is so both in principle and in the various moments of knowledge?"
+
+In contrast, idealism inevitably ends up in contradiction, since it does not recognize the universal scope of the first principles of identity, contradiction, and finality. These become merely laws of thought or language, but not of being, which opens the way to contradictions being instantiated in reality.
+
+Maritain's metaphysics ascends from this account of being to a critique of the philosophical aspects of modern science, through analogy to an account of the existence and nature of God as it is known philosophically and through mystical experience.
+
+==Ethics==
+Maritain was a strong defender of a [[natural law]] ethics. He viewed ethical norms as being rooted in [[human nature]]. For Maritain, the natural law is known primarily, not through philosophical argument and demonstration, but rather through "Connaturality". Connatural knowledge is a kind of knowledge by acquaintance. We know the natural law through our direct acquaintance with it in our human experience. Of central importance, is Maritain's argument that natural rights are rooted in the natural law. This was key to his involvement in the drafting of the UN's [[Universal Declaration of Human Rights]].
+
+Another important aspect of his ethics was his insistence upon the need for moral philosophy to be conducted in a theological context. While a Christian could engage in speculative thought about nature or metaphysics in a purely rational manner and develop an adequate philosophy of nature of metaphysics, this is not possible with ethics. Moral philosophy must address the actual state of the human person, and this is a person in a state of grace. Thus, "moral philosophy adequately considered" must take into account properly theological truths. It would be impossible, for instance, to develop an adequate moral philosophy without giving consideration to proper theological facts such as original sin and the supernatural end of the human person in beatitude. Any moral philosophy that does not take into account these realities that are only known through faith would be fundamentally incomplete.<ref>Maritain, An Essay on Christian Philosophy, (NY: Philosophical Library, 1955), pp. 38 ff.</ref>
+
+==Political theory==
+Maritain corresponded with, and was a friend of<ref>{{Cite web|url=http://www.cssronline.org/CSSR/Current/Articles%20-%20Wolfe.pdf|archive-url=https://web.archive.org/web/20140426233422/http://www.cssronline.org/CSSR/Current/Articles%20-%20Wolfe.pdf|url-status=dead|title=Wolfe, C.J. "Lessons from the Friendship of Jacques Maritain with Saul Alinsky" he Catholic Social Science Review 16 (2011): 229–240|archive-date=26 April 2014}}</ref> the American radical [[Community organizing|community organizer]] [[Saul Alinsky]]<ref>{{cite book |title=Thomistic Papers|volume=3|chapter=Jacques Maritain and His Two Authentic Revolutionaries|pages=91–116|location=Houston, Tex.|publisher=[[Center for Catholic Studies (University of St. Thomas)|Center for Thomistic Studies]]|editor-last=Kennedy|editor-first=Leonard A|last=Doering|first=Bernard E.|oclc=17307550|year=1987|chapter-url=http://www.u.arizona.edu/~aversa/modernism/Maritain%20and%20His%20Two%20Authentic%20Revolutionaries%20(Thomistic%20Papers%20III.).pdf|isbn=0-268-01865-0}}</ref> and French Prime Minister [[Robert Schuman]].<ref name="Fimister">{{cite book |url=https://books.google.com/books?id=BZ7ncyFsEGMC&pg=PA131|title=Robert Schuman: Neo-Scholastic Humanism and the Reunification of Europe|last=Fimister|first=Alan Paul|year=2008|oclc=244339575|isbn=978-90-5201-439-5|page=131|publisher=Peter Lang }}</ref>
+
+In the study ''The Radical Vision of Saul Alinsky'', author P. David Finks noted that "For years Jacques Maritain had spoken approvingly to [[Pope Paul VI|Montini]] of the democratic community organizations built by Saul Alinsky". Accordingly, in 1958 Maritain arranged for a series of meetings between [[Saul Alinsky|Alinsky]] and [[Pope Paul VI|Archbishop Montini]] in Milan. Before the meetings, Maritain had written to Alinsky: "the new cardinal was reading Saul’s books and would contact him soon".<ref>{{Cite web|url=https://remnantnewspaper.com/web/index.php/articles/item/4029-rules-for-radicals-when-paul-vi-met-saul-alinsky|title=Saul Alinsky and 'Saint' Pope Paul VI: Genesis of the Conciliar Surrender to the World|last=Ferrara|first=Christopher A.|website=The Remnant Newspaper|language=en-gb|access-date=21 November 2019}}</ref>
+
+===Integral Humanism===
+Maritain advocated what he called "Integral Humanism" (or '''"Integral Christian Humanism"''').<ref>{{cite web |last1=Sweet |first1=William |title=Jacques Maritain |url=http://plato.stanford.edu/entries/maritain/ |website=The Stanford Encyclopedia of Philosophy |publisher=Metaphysics Research Lab, Stanford University |date=2019}}</ref> He argued that [[secular]] forms of [[humanism]] were inevitably anti-human in that they refused to recognize the whole person. Once the [[Spirituality|spiritual]] dimension of human nature is rejected, we no longer have an integral, but merely partial humanism, one which rejects a fundamental aspect of the human person. Accordingly, in ''Integral Humanism'' he explores the prospects for a new [[Christendom]], rooted in his philosophical pluralism, in order to find ways Christianity could inform political discourse and policy in a pluralistic age. In this account he develops a theory of cooperation, to show how people of different intellectual positions can nevertheless cooperate to achieve common practical aims. Maritain's political theory was extremely influential and was a primary source behind the [[Christian democracy|Christian Democratic movement]].{{Citation needed|date=March 2024}}
+
+=== Global policy ===
+Along with [[Albert Einstein]], Maritain was one of the sponsors of the [[Peoples' World Convention]] (PWC), also known as Peoples' World Constituent Assembly (PWCA), which took place in 1950-51 at Palais Electoral, [[Geneva]], Switzerland.<ref>{{Cite book |last1=Einstein |first1=Albert |url=http://archive.org/details/einsteinonpeace00eins |title=Einstein on peace |last2=Nathan |first2=Otto |last3=Norden |first3=Heinz |date=1968 |publisher=New York, Schocken Books |others=Internet Archive |pages=539, 670, 676}}</ref><ref>{{Cite web |title=[Carta] 1950 oct. 12, Genève, [Suiza] [a] Gabriela Mistral, Santiago, Chile [manuscrito] Gerry Kraus. |url=http://www.bibliotecanacionaldigital.gob.cl/bnd/623/w3-article-137193.html |access-date=2023-10-19 |website=BND: Archivo del Escritor}}</ref>
+
+==Legacy==
+
+===Praise===
+Citing the Integral humanism of Jacques Maritain's ''L'humanisme intégral'', [[Pope Paul VI]] declared in ''[[Populorum progressio]]'' that the "ultimate goal is a full-bodied humanism".<ref>{{cite web | url=https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html | title=Populorum Progressio (March 26, 1967) &#124; Paul VI }}</ref>
+
+Senator [[John F. Kennedy]] (later [[President of the United States]]), once quoted Maritain in a 1955 address to [[Assumption University (Worcester)|Assumption College]].<ref>{{cite work|last=Kennedy|first=John F.|title=Remarks of Senator John F. Kennedy, Commencement Address Assumption College, Worcester, Massachusetts, June 3, 1955|url=https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/assumption-college-19550603|work=JFK Library|date=3 June 1955}}</ref>
+
+President [[Joe Biden]] has cited Maritain as immensely influential in his thinking.<ref>{{Cite magazine |last=Cairns |first=Madoc |date=May 3, 2023 |title=The Red Christian |url=https://www.newstatesman.com/ideas/2023/05/red-christian-democracy-history-philosophy |access-date=October 20, 2023 |magazine=New Statesman}}</ref>
+
+In an interview from 2016, [[Pope Francis]] praised Maritain among a small list of French liberal thinkers.<ref>{{Cite news|url=https://www.la-croix.com/Religion/Pape/INTERVIEW-Pope-Francis-2016-05-17-1200760633|title=INTERVIEW Pope Francis|journal=La Croix|date=17 May 2016|access-date=21 November 2019|language=fr-FR|issn=0242-6056}}</ref>
+
+===Criticism===
+Major criticisms of Maritain have included: 
+#Spanish [[Dominican Order|Dominican]] theologian Santiago Ramírez argued that Maritain's moral philosophy, adequately considered, could not be distinguished in any meaningful way from moral theology as such.<ref>[[Denis J. M. Bradley]]. Aquinas on the Twofold Human Good: Reason and Human Happiness in Aquinas's Moral Science. Washington: The Catholic University of America Press, 1997.</ref> 
+#Tracey Rowland, a theologian at the University of Notre Dame (Australia), has argued that the lack of a fully developed philosophy of culture in Maritain and others (notably [[Karl Rahner|Rahner]]) was responsible for an inadequate notion of culture in the documents of Vatican II and thereby for much of the misapplication of the conciliar texts in the life of the church following the council.<ref>Tracey Rowland, "Culture and the Thomist Tradition: After Vatican II" (Routledge Radical Orthodoxy)</ref>
+#Maritain's political theory has been criticized for a democratic pluralism that appeals to something very similar to the later liberal philosopher [[John Rawls]]' conception of an overlapping consensus of reasonable views. It is argued that such a view illegitimately presupposes the necessity of pluralistic conceptions of the human good.<ref>Thaddeus J. Kozinski, The Political Problem of Religious Pluralism: And Why Philosophers Can't Solve It, (Lexington Books, 2013)</ref>
+
+Catholic philosopher and historian [[Thomas Molnar]], who praised Maritain as "a man of charity", also wrote that Maritain's work contained "baffling paradoxes". Molnar said that while Maritain's philosophy was "Orthodox and Thomist", he nonetheless unfortunately had "occasional excursions into strange semi-spiritual lands."<ref>{{cite work|last=Molnar|first=Thomas|title=Jacques Maritain: Protean Figure of the Century|url=https://docplayer.net/120734172-Jacques-maritain-protean-figure-of-the-century.html|date=1998}}</ref>
+
+Catholic political theorist [[Erik von Kuehnelt-Leddihn]] wrote that "Maritain knew a lot about theology, he was a philosopher, and he knew something about biology, but he knew next to nothing about politics and economics."<ref>{{cite news|last=Kuehnelt-Leddihn|first=Erik von|title=Economics in the Catholic World|work=National Review|date=2 May 1980|page=536}}</ref>
+
+Catholic philosopher [[Alice von Hildebrand]] referred to Maritain as "treasonous" and criticized his negative views on [[Engelbert Dollfuss]], whom Maritain had spoken of positively in the past, but later became critical of.<ref>{{cite book|last=Messner|first=Johannes|title=Dollfuss: An Austrian Patriot|page=10|date=2004|publisher=IHS Press}}</ref>
+
+===Veneration===
+A cause for [[beatification]] of him and his wife Raïssa was being planned in 2011.<ref>{{YouTube|KRbxS5FfAf0|Beatification process for Jacques and Raissa Maritain could begin}} (8 February 2011)</ref> Since then, there have been no advancements in the case.
+
+==Sayings==
+* "Vae mihi si non Thomistizavero" [Woe to me if I do not Thomisticize].<ref>{{Cite book
+| publisher = Sheed & Ward
+| last = Maritain
+| first = Jacques
+| others = J. F. Scanlan (trans.)
+| title = St. Thomas Aquinas: Angel of the Schools
+| location = London
+| year = 1946
+| page = viii
+}}</ref>
+* "Je n’adore que Dieu" [I adore only God].
+* "The artist pours out his creative spirit into a work; the philosopher measures his knowing spirit by the real."
+* "I do not know if [[Saul Alinsky]] knows God. But I assure you that God knows Saul Alinsky."
+*  "We do not need a truth to serve us, we need a truth that we can serve"
+
+==Writings==
+===Significant works in English===
+* ''Introduction to Philosophy'', Christian Classics, Inc., Westminster, Md., 1st. 1930, 1991
+* ''[[The Degrees of Knowledge]]'', orig. 1932
+* ''Integral Humanism'', orig. 1936
+*''An Introduction to Logic'' (1937)
+*''A Preface To Metaphysics (1939)'' (1939)
+* ''Education at the Crossroads'', engl. 1942
+* ''[[The Person and the Common Good]]'', fr. 1947
+* ''[[Art and Scholasticism with other essays]]'', Sheed and Ward, London, 1947
+* ''Existence and the Existent'', (fr. 1947) trans. by Lewis Galantiere and Gerald B. Phelan, Image Books division of Doubleday & Co., Inc., Garden City, N.Y., 1948, Image book, 1956. {{ISBN|978-0-8371-8078-6}}
+*''Philosophy of Nature'' (1951)
+* ''[[The Range of Reason]]'', engl. 1952
+* ''Approaches to God'', engl. 1954
+* ''Creative Intuition in Art and Poetry'', engl. 1953
+* ''Man and The State'', (orig.) University of Chicago Press, Chicago, Ill., 1951
+* ''A Preface to Metaphysics'', engl. 1962
+* ''God and the Permission of Evil'', trans. Joseph W. Evans, The Bruce Publishing Company, Milwaukee, Wisc., 1966 (orig. 1963)
+* ''Moral Philosophy'', 1964
+* ''The Peasant of the Garonne, An Old Layman Questions Himself about the Present Time'', trans. Michael Cuddihy and Elizabeth Hughes, Holt, Rinehart and Winston, N.Y., 1968; orig. 1966
+* ''The Education of Man, The Educational Philosophy of Jacques Maritain.'', ed. D./I. Gallagher, Notre Dame/Ind. 1967
+
+===Other works in English===
+*''Religion and Culture'' (1931)
+*''The Things that are Not Caesar's'' (1931)
+*''Theonas; Conversations of a Sage'' (1933)
+*''Freedom in the Modern World'' (1935)
+*''True Humanism'' (1938) (Integral Humanism, 1968)
+*''A Christian Looks at the Jewish Question'' (1939)
+*''The Twilight of Civilization'' (1939)
+*''Scholasticism and Politics'', New York (1940)
+*''Science and Wisdom'' (1940)
+*''Religion and the Modern World'' (1941)
+*''France, My Country Through the Disaster'' (1941)
+*''The Living Thoughts of St. Paul'' (1941)
+*''France, My Country, Through the Disaster'' (1941)
+*''Ransoming the Time'' (1941)
+*''Christian Humanism'' (1942)
+*''Saint Thomas and the problem of evil'', Milwaukee (1942)
+*''Essays in Thomism'', New York (1942)
+*''The Rights of Man and Natural Law'' (1943)
+*''Prayer and Intelligence'' (1943)
+*''Give John a Sword'' (1944)
+*''The Dream of Descartes'' (1944)
+*''Christianity and Democracy'' (1944)
+*''Messages 1941–1944'', New York 1945
+*''A Faith to Live by'' (1947)
+*''The Person and the Common Good'' (1947)
+*''Art & Faith'' (with Jean Cocteau 1951)
+*''The Pluralist Principle in Democracy'' (1952)
+*''Creative Intuition in Art and History'' (1953)
+*''An Essay on Christian Philosophy'' (1955)
+*''The Situation of Poetry'' with Raïssa Maritain, 1955)
+*''Bergsonian Philosophy'' (1955)
+*''Reflections on America'' (1958)
+*''St. Thomas Aquinas'' (1958)
+*''The Degrees of Knowledge'' (1959)
+*''The Sin of the Angel: An Essay on a Re-interpretation of some Thomistic Positions'' (1959)
+*''Liturgy and Contemplation'' (1960)
+*''The Responsibility of the Artist'' (1960)
+*''On the Use of Philosophy'' (1961)
+*''God and the Permission of Evil'' (1966)
+* ''Challenges and Renewals'', ed. J.W. Evans/L.R. Ward, Notre Dame/Ind. (1966)
+*''On the Grace and Humanity of Jesus'' (1969)
+*''On the Church of Christ: The Person of the Church and her Personnel'' (1973)
+*''Notebooks'' (1984)
+* ''Natural Law: reflections on theory and practice'' (ed. with Introductions and notes, by William Sweet), St. Augustine's Press [distributed by University of Chicago Press] (2001; Second printing, corrected, 2003)
+
+===Original works in French===
+* ''La philosophie bergsonienne'', 1914 (1948)
+* ''Eléments de philosophie'', 2 volumes, Paris 1920/23
+* ''Art et scolastique'', 1920
+* ''Théonas ou les entretiens d’un sage et de deux philosophes sur diverses matières inégalement actuelles'', Paris, Nouvelle librairie nationale, 1921
+* ''Antimoderne'', Paris, Édition de la Revue des Jeunes, 1922
+* ''Réflexions sur l’intelligence et sur sa vie propre'', Paris, Nouvelle librairie nationale, 1924
+* ''Trois réformateurs : [[Martin Luther|Luther]], [[Descartes]], [[Rousseau]], avec six portraits'', Paris [Plon], 1925 ([https://archive.org/details/in.ernet.dli.2015.151667/page/n9/mode/2up English version])
+* ''Réponse à [[Jean Cocteau]]'', 1926
+* ''Une opinion sur [[Charles Maurras]] et le devoir des catholiques'', Paris [Plon], 1926
+* ''Primauté du spirituel'', 1927
+* ''Pourquoi Rome a parlé'' (coll.), Paris, Spes, 1927
+* ''Quelques pages sur Léon Bloy'', Paris 1927
+* ''Clairvoyance de Rome'' (coll.), Paris, Spes, 1929
+* ''Le docteur angélique'', Paris, Paul Hartmann, 1929
+* ''Religion et culture'', Paris, Desclée de Brouwer, 1930 (1946)
+* ''Le thomisme et la civilisation'', 1932
+* ''Distinguer pour unir ou Les degrés du savoir'', Paris 1932
+* ''Le songe de Descartes, Suivi de quelques essais'', Paris 1932
+* ''De la philosophie chrétienne'', Paris, Desclée de Brouwer, 1933
+* ''Du régime temporel et de la liberté'', Paris, DDB, 1933
+* ''Sept leçons sur l'être et les premiers principes de la raison spéculative'', Paris 1934
+* ''Frontières de la poésie et autres essais'', Paris 1935
+* ''La philosophie de la nature, Essai critique sur ses frontières et son objet'', Paris 1935 (1948)
+* ''Lettre sur l’indépendance'', Paris, Desclée de Brouwer, 1935.
+* ''Science et sagesse'', Paris 1935
+* ''Humanisme intégral. Problèmes temporels et spirituels d'une nouvelle chrétienté''; zunächst spanisch 1935), Paris (Fernand Aubier), 1936 (1947)
+* ''Les Juifs parmi les nations'', Paris, Cerf, 1938
+* ''Situation de la Poesie'', 1938
+* ''Questions de conscience : essais et allocutions'', Paris, Desclée de Brouwer, 1938
+* ''La personne humaine et la societé'', Paris 1939
+* ''Le crépuscule de la civilisation'', Paris, Éd. Les Nouvelles Lettres, 1939
+* ''Quattre essais sur l'ésprit dans sa condition charnelle'', Paris 1939 (1956)
+* ''De la justice politique, Notes sur le présente guerre'', Paris 1940
+* ''A travers le désastre'', New York 1941 (1946)
+* ''Conféssion de foi'', New York 1941
+* ''La pensée de St.Paul'', New York 1941 (Paris 1947)
+* ''Les Droits de l'Homme et la Loi naturelle'', New York 1942 (Paris 1947)
+* ''Christianisme et démocratie'', New York 1943 (Paris 1945)
+* ''Principes d'une politique humaniste'', New York 1944 (Paris 1945);
+* ''De Bergson à Thomas d'Aquin, Essais de Métaphysique et de Morale'', New York 1944 (Paris 1947)
+* ''A travers la victoire'', Paris 1945;
+* ''Pour la justice'', Articles et discours 1940–1945, New York 1945;
+* ''Le sort de l'homme'', Neuchâtel 1945;
+* ''Court traité de l'existence et de l'existant'', Paris 1947;
+* ''La personne et le bien commun'', Paris 1947;
+* ''Raison et raisons, Essais détachés'', Paris 1948
+* ''La signification de l'athéisme contemporain'', Paris 1949
+* ''Neuf leçons sur les notions premières de la philosophie morale'', Paris 1951
+* ''Approaches de Dieu'', Paris 1953.
+* ''L'Homme et l'Etat'' (engl.: Man and State, 1951) Paris, PUF, 1953
+* ''Pour une philosophie de l'éducation'', Paris 1959
+* ''Le philosophe dans la Cité'', Paris 1960
+* ''La philosophie morale'', Vol. I: Examen historique et critique des grands systèmes, Paris 1960
+* ''Dieu et la permission du mal'', 1963
+* ''Carnet de notes'', Paris, DDB, 1965
+* ''L'intuition créatrice dans l'art et dans la poésie'', Paris, Desclée de Brouwer, 1966 (engl. 1953)
+* ''Le paysan de la Garonne. Un vieux laïc s’interroge à propos du temps présent'', Paris, DDB, 1966
+* ''De la grâce et de l'humanité de Jésus'', 1967
+* ''De l'Église du Christ. La personne de l'église et son personnel'', Paris 1970
+* ''Approaches sans entraves'', posthum 1973
+* ''La loi naturelle ou loi non écrite'', texte inédit, établi par Georges Brazzola. Fribourg, Suisse: Éditions universitaires, 1986. [Lectures on Natural Law. Tr. William Sweet. In The Collected Works of Jacques Maritain, Vol. VI, Notre Dame, IN: University of Notre Dame Press, (forthcoming)]
+* ''Oeuvres complètes de Jacques et Raïssa Maritain'', 16 Bde., 1982–1999
+
+==See also==
+* [[Personalism]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* G. B. Phelan, ''Jacques Maritain'', NY, 1937.
+*  J.W. Evans in ''Catholic Encyclopaedia'' Vol XVI Supplement 1967–1974.
+* Michael R. Marrus, "The Ambassador & The Pope; Pius XII, Jacques Maritain & the Jews", ''Commonweal'', 22 October 2004
+* H. Bars, ''Maritain en notre temps'', Paris, 1959.
+* D. and I. Gallagher, ''The Achievement of Jacques and Raïssa Maritain: A Bibliography, 1906–1961'', NY, 1962.
+* J. W. Evans, ed., ''Jacques Maritain: The Man and His Achievement'', NY, 1963.
+* C. A. Fecher, ''The Philosophy of Jacques Maritain'', Westminster, MD, 1963.
+* Jude P. Dougherty, ''Jacques Maritain: An Intellectual Profile'', Catholic University of America Press, 2003
+* Ralph McInerny, ''The Very Rich Hours of Jacques Maritain: A Spiritual Life'', University of Notre Dame Press, 2003
+* {{cite book |url=https://books.google.com/books?id=in2B6rI9HsgC |title=The Mobilization of Intellect: French Scholars and Writers During the Great War |first=Martha |last=Hanna |publisher=Harvard University Press |year=1996 |isbn=0674577558 }}
+
+==Further reading==
+*''The Social and Political Philosophy of Jacques Maritain'' (1955)
+*W. Herberg (ed.), ''Four Existentialist Theologians'' (1958)
+*''The Philosophy of Jacques Maritain'' (1953)
+*''Jacques Maritain, Antimodern or Ultramodern?: An Historical Analysis of His Critics, His Thought, and His Life''  (1974)
+
+==External links==
+* {{wikiquote-inline}}
+* [https://www.pdcnet.org/maritain Études maritainiennes-Maritain Studies]
+* [https://archive.today/20080409023315/http://maritain.web.officelive.com/ Maritain Center, Kolbsheim] (in French)
+* [http://www.maritain.fr Cercle d'Etudes J. & R. Maritain] at Kolbsheim (France).
+* [https://maritain.nd.edu/ Jacques Maritain Center] at the [[University of Notre Dame]].
+* [[Stanford Encyclopedia of Philosophy]]: [http://plato.stanford.edu/entries/maritain/ Jacques Maritain] by William Sweet.
+* [http://www.istitutomaritain.org/ International Jacques Maritain Institute.]
+* [http://www.istitutomaritain.org/page.html?id=45&c=33] {{Webarchive|url=https://web.archive.org/web/20141216015224/http://www.istitutomaritain.org/page.html?id=45&c=33 |date=16 December 2014 }} of the primary and secondary literatures on Jacques Maritain.
+* [http://www.panarchy.org/maritain/state.html Jacques Maritain, Man and the State] (1951)
+* [https://www.wnyc.org/story/french-philosopher-and-writer-jacques-maritain-speaks-out-against-anti-semitism-over-wnyc/ Jacques Maritain Speaks Out Against Anti-Semitism Over WNYC in 1938]
+
+{{Jacques Maritain}}
+{{aesthetics}}
+{{Social and political philosophy}}
+{{History of Catholic theology}}
+{{Portalbar|Biography|Catholicism|Christianity|France|Philosophy|Politics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Maritain, Jacques}}
+[[Category:1882 births]]
+[[Category:1973 deaths]]
+[[Category:Writers from Paris]]
+[[Category:Lycée Henri-IV alumni]]
+[[Category:Conservatism in France]]
+[[Category:French political philosophers]]
+[[Category:French economics writers]]
+[[Category:French anti-communists]]
+[[Category:French Roman Catholic writers]]
+[[Category:French Roman Catholics]]
+[[Category:French feminists]]
+[[Category:French environmentalists]]
+[[Category:French medievalists]]
+[[Category:French nationalists]]
+[[Category:Catholic philosophers]]
+[[Category:Christian existentialists]]
+[[Category:Christian radicals]]
+[[Category:Ecofeminists]]
+[[Category:French epistemologists]]
+[[Category:Existentialists]]
+[[Category:Male feminists]]
+[[Category:Metaphysicians]]
+[[Category:Thomists]]
+[[Category:Virtue ethicists]]
+[[Category:20th-century French philosophers]]
+[[Category:Benedictine oblates]]
+[[Category:Christian humanists]]
+[[Category:Ambassadors of France to the Holy See]]
+[[Category:Converts to Roman Catholicism from atheism or agnosticism]]
+[[Category:Committee on Social Thought]]
+[[Category:French male writers]]
+[[Category:Critics of atheism]]
+[[Category:Critics of Marxism]]
+[[Category:Corresponding Fellows of the Medieval Academy of America]]
+[[Category:Political theologians]]
+[[Category:French philosophers of education]]
+[[Category:University of Paris alumni]]
+[[Category:Anti-Masonry]]

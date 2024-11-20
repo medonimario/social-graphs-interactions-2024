@@ -1,0 +1,135 @@
+{{Short description|Swiss polymath (1728–1777)}}
+{{Infobox scientist
+| name              = Johann Heinrich Lambert
+| image             = JHLambert.jpg
+| caption           = Johann Heinrich Lambert (1728–1777)
+| birth_date        = 26 or 28 August 1728
+| birth_place       = Republic of [[Mulhouse]], (currently [[Alsace]], [[France]])
+| death_date        = {{death date and age|1777|9|25|1728|8|26|df=y}}
+| death_place       = [[Berlin]], [[Kingdom of Prussia|Prussia]]
+| nationality       = Republic of Mulhouse, [[Switzerland|Swiss]], [[France|French]]
+| field             = [[Mathematician]], [[physicist]], [[astronomer]], and [[philosopher]]
+| work_institution  = <!--please insert-->
+| alma_mater        = <!--please insert-->
+| doctoral_advisor  = <!--please insert-->
+| doctoral_students = <!--please insert-->
+| known_for         = First [[Proof that π is irrational]]<br>[[Beer–Lambert law]]<br>[[Lambert's cosine law]]<br>[[Transverse Mercator projection]]<br>[[Lambert W function]]
+| prizes            = <!--please insert-->
+}}
+'''Johann Heinrich Lambert''' ({{IPA|de|ˈlambɛɐ̯t|lang}}; {{langx|fr|Jean-Henri Lambert}}; 26 or 28 August 1728 – 25 September 1777) was a [[polymath]] from the [[Republic of Mulhouse]], generally identified as either [[Switzerland|Swiss]] or [[France|French]], who made important contributions to the subjects of [[mathematics]], [[physics]] (particularly [[optics]]), [[philosophy]], [[astronomy]] and [[map projections]].
+
+==Biography==
+Lambert was born in 1728 into a [[Huguenot]] family in the city of [[Mulhouse]]<ref name=trinity/> (now in <!--[[Haut-Rhin]],--> [[Alsace]], [[France]]), at that time a city-state allied to [[Switzerland]].<ref>[https://hls-dhs-dss.ch/fr/articles/007089/2020-04-30/ Mulhouse], in the [[Historical Dictionary of Switzerland]].</ref>  Some sources give 26 August as his birth date and others 28 August.<ref>{{cite book |last1=Banham |first1=Gary |last2=Schulting |first2=Dennis |last3=Hems |first3=Nigel |title=The Bloomsbury Companion to Kant |date=26 March 2015 |publisher=Bloomsbury Academic |isbn=978-1-4725-8678-0 |page=101 |url=https://books.google.com/books?id=HMWFBwAAQBAJ |language=en}}</ref><ref>{{cite web |title=Johann Heinrich Lambert |url=https://www.britannica.com/biography/Johann-Heinrich-Lambert |website=Encyclopedia Britannica |access-date=24 August 2020 |language=en}}</ref><ref name=trinity/>  Leaving school at 12, he continued to study in his free time while undertaking a series of jobs.  These included assistant to his father (a tailor), a clerk at a nearby iron works, a private tutor, secretary to the editor of ''Basler Zeitung'' and, at the age of 20, private tutor to the sons of Count Salis in [[Chur]].  Travelling Europe with his charges (1756–1758) allowed him to meet established mathematicians in the German states, The Netherlands, France and the Italian states. On his return to Chur he published his first books (on optics and cosmology) and began to seek an academic post. After a few short posts he was rewarded (1763) by an invitation to a position at the [[Prussian Academy of Sciences]] in Berlin, where he gained the sponsorship of [[Frederick II of Prussia]], and became a friend of [[Euler]]. In this stimulating and financially stable environment, he worked prodigiously until his death in 1777.<ref name=trinity>[[W. W. Rouse Ball]] (1908) [http://www.maths.tcd.ie/pub/HistMath/People/Lambert/RouseBall/RB_Lambert.html Johann Heinrich Lambert (1728–1777)] via [[Trinity College, Dublin]]</ref>
+
+== Work ==
+
+===Mathematics===
+[[File:Acta Eruditorum - I geometria, 1763 – BEIC 13452701.jpg|thumb|Illustration from ''De ichnographica campi'' published in [[Acta Eruditorum]], 1763]]
+[[Image:Lambert - Perspective affranchie de l'embarras du plan géometral, 1759 - 1445566.jpg|thumb|''La perspective affranchie de l'embarras du plan géometral'', French edition, 1759]]
+Lambert was the first to introduce [[hyperbolic functions]] into [[trigonometry]]. Also, he made conjectures about [[non-Euclidean]] space. Lambert is credited with the first [[proof that π is irrational]] using a [[generalized continued fraction]] for the function tan x.<ref>{{cite journal|last=Lambert|first=Johann Heinrich|title=Mémoire sur quelques propriétés remarquables des quantités transcendentes circulaires et logarithmiques |trans-title=Memoir on some remarkable properties of circular and logarithmic transcendental quantities |publication-date=1768|date=1761|journal=Histoire de l'Académie Royale des Sciences et des Belles-Lettres de Berlin |volume=17|pages=265–322 |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433009864251;view=1up;seq=303 |language=fr }}</ref> [[Euler]] believed the conjecture but could not prove that π was irrational, and it is speculated that [[Aryabhata]] also believed this, in 500 CE.<ref>{{cite book |first= S. Balachandra |last=Rao |title = Indian Mathematics and Astronomy: Some Landmarks | publisher = Jnana Deep Publications |date = 1994 |location = Bangalore | isbn = 81-7371-205-0}}</ref> Lambert also devised theorems about [[conic section]]s that made the calculation of the [[orbit]]s of [[comet]]s simpler.
+
+Lambert devised a formula for the relationship between the angles and the area of [[hyperbolic triangle]]s. These are triangles drawn on a concave surface, as on a [[saddle]], instead of the usual flat Euclidean surface. Lambert showed that the angles added up to less than [[π]] ([[radian]]s), or 180°. The defect (amount of shortfall) increases with area. The larger the triangle's area, the smaller the sum of the angles and hence the larger the defect C△ = π — (α + β + γ). That is, the area of a hyperbolic triangle (multiplied by a constant C) is equal to π (radians), or 180°, minus the sum of the angles α, β, and γ. Here C denotes, in the present sense, the negative of the [[curvature]] of the surface (taking the negative is necessary as the curvature of a saddle surface is by definition negative). As the triangle gets larger or smaller, the angles change in a way that forbids the existence of [[similar triangle|similar]] hyperbolic triangles, as only triangles that have the same angles will have the same area. Hence, instead of the area of the triangle's being expressed in terms of the lengths of its sides, as in Euclidean geometry, the area of Lambert's hyperbolic triangle can be expressed in terms of its angles.
+
+===Map projection===
+Lambert was the first mathematician to address the general properties of [[map projection]]s (of a spherical Earth).<ref>{{Cite book|url=http://atena.beic.it/webclient/DeliveryManager?pid=13452701&search_terms=DTL47|title=Acta Eruditorum|year=1763|location=Leipzig|pages=143}}</ref> In particular he was the first to discuss the properties of conformality and equal area
+preservation and to point out that they were mutually exclusive.
+(Snyder 1993<ref name=flattening>{{cite book | author=Snyder, John P. | title=Flattening the Earth: Two Thousand Years of Map Projections | publisher =[[University of Chicago Press]]| date=1993|isbn=0-226-76747-7}}.</ref>  p77). In 1772, Lambert published<ref name=lambert>Lambert,  Johann Heinrich. 1772. ''Ammerkungen und Zusatze zurder Land und Himmelscharten Entwerfung''. In Beitrage zum Gebrauche der Mathematik in deren Anwendung, part 3, section 6).</ref><ref name="lambert1772republished">{{cite book |last=Lambert |first=Johann Heinrich |title=Anmerkungen und Zusätze zur Entwerfung der Land- und Himmelscharten (1772) |editor = A. Wangerin |publisher=W. Engelmann |location=Leipzig |date=1894 |url=https://archive.org/details/anmerkungenundz00lambgoog | access-date=2018-10-14 }}
+</ref>
+seven new map projections under the title ''Anmerkungen und Zusätze zur Entwerfung der Land- und Himmelscharten'', (translated as ''Notes and Comments on the Composition of Terrestrial and Celestial Maps'' by Waldo Tobler (1972)<ref name="tobler">Tobler, Waldo R, ''Notes and Comments on the Composition of Terrestrial and Celestial Maps'', 1972. (University of Michigan Press), reprinted (2010) by Esri: [http://store.esri.com/esri/showdetl.cfm?SID=2&Product_ID=1284&Category_ID=38].</ref>).
+Lambert did not give names to any of his projections but they are now known as:
+# [[Lambert conformal conic projection|Lambert conformal conic]]
+# [[Transverse Mercator projection|Transverse Mercator]]
+# [[Lambert azimuthal equal-area projection|Lambert azimuthal equal area]]
+# Lagrange projection
+# [[Lambert cylindrical equal-area projection|Lambert cylindrical equal area]]
+# Transverse cylindrical equal area
+# [[Lambert equal-area conic projection|Lambert conical equal area]]
+The first three of these are of great importance.<ref name=flattening/><ref>Corresponding to the Lambert azimuthal equal-area projection, there is a Lambert [[zenith]]al equal-area projection.  ''The Times Atlas of the World'' (1967), Boston:  Houghton Mifflin, Plate 3 et passim.</ref> Further details may be found at [[map projections]] and in several texts.<ref name=flattening/><ref name=snyder>{{cite book | author=Snyder, John P. | title=Map Projections - A Working Manual. U.S. Geological Survey Professional Paper 1395 | publisher =United States Government Printing Office, Washington, D.C. | date=1987}}This paper can be downloaded from
+[https://pubs.er.usgs.gov/pubs/pp/pp1395 USGS pages.] {{Webarchive|url=https://web.archive.org/web/20080516070706/http://pubs.er.usgs.gov/pubs/pp/pp1395 |date=2008-05-16 }}</ref><ref name="mulcahy_lambert">{{cite web
+  | last =Mulcahy
+  | first =Karen
+  | title =Cylindrical Projections
+  | publisher = [[City University of New York]]
+  | url =http://www.geo.hunter.cuny.edu/mp/cylind.html
+  | access-date = 2007-03-30 }}</ref>
+
+===Physics===
+Lambert invented the first practical [[hygrometer]].  In 1760, he published a book on photometry, the ''[[Photometria]]''. From the assumption that light travels in straight lines, he showed that illumination was proportional to the strength of the source, inversely proportional to the square of the distance of the illuminated surface and the [[Lambert's cosine law|sine of the angle]] of inclination of the light's direction to that of the surface. These results were supported by experiments involving the visual comparison of illuminations and used for the calculation of illumination. In ''Photometria'' Lambert also cited a law of light absorption, formulated earlier by [[Pierre Bouguer]] he is mistakenly credited for<ref>{{Cite web|url=https://www.britannica.com/biography/Pierre-Bouguer#ref149726|title = Pierre Bouguer &#124; French scientist}}</ref> (the [[Beer–Lambert law]]) and introduced the term ''[[albedo]]''.<ref>{{cite book|last=Mach|first=Ernst|title=The Principles of Physical Optics|publisher=Dover|date=2003|isbn=0-486-49559-0|pages=14–20}}</ref> [[Lambertian reflectance]] is named after him. He wrote a classic work on [[Perspective (visual)|perspective]] and contributed to [[geometrical optics]].
+
+The non-[[SI]] unit of luminance, [[lambert (luminance)|lambert]], is named in recognition of his work in establishing the study of [[photometry (optics)|photometry]]. Lambert was also a pioneer in the development of three-dimensional [[colour models]]. Late in life, he published a description of a triangular colour pyramid (''Farbenpyramide''), which shows a total of 107 colours on six different levels, variously combining red, yellow and blue pigments, and with an increasing amount of white to provide the vertical component.<ref>Lambert, ''Beschreibung einer mit dem Calauschen Wachse ausgemalten Farbenpyramide wo die Mischung jeder Farben aus Weiß und drey Grundfarben angeordnet, dargelegt und derselben Berechnung und vielfacher Gebrauch gewiesen wird'' (Berlin, 1772). On this model, see, for example, Werner Spillmann ed. (2009). ''Farb-Systeme 1611-2007. Farb-Dokumente in der Sammlung Werner Spillmann''. Schwabe, Basel. {{ISBN|978-3-7965-2517-9}}. pp. 24 and 26; William Jervis Jones (2013). ''German Colour Terms: A study in their historical evolution from earliest times to the present''. John Benjamins, Amsterdam & Philadelphia. {{ISBN|978-90-272-4610-3}}. pp. 218–222.</ref> His investigations were built on the earlier theoretical proposals of [[Tobias Mayer]], greatly extending these early ideas.<ref>Sarah Lowengard (2006) [http://www.gutenberg-e.org/lowengard/A_Chap03.html "Number, Order, Form: Color Systems and Systematization"] and [http://www.gutenberg-e.org/lowengard/glossShell.html?l#l03 Johann Heinrich Lambert] in ''The Creation of Color in Eighteenth-Century Europe'', [[Columbia University Press]]</ref> Lambert was assisted in this project by the court painter [[Benjamin Calau]].<ref>Introduction to {{cite book|date=2011|title=Johann Heinrich Lambert's ''Farbenpyramide''|type=Translation of "Beschreibung einer mit dem Calauischen Wachse ausgemalten Farbenpyramide" ("Description of a colour pyramid painted with Calau's wax"), 1772, with an introduction by Rolf Kuehni|url=http://www.iscc.org/pdf/LambertFarbenpyramide.pdf|url-status=dead|archive-url=https://web.archive.org/web/20160304034654/http://www.iscc.org/pdf/LambertFarbenpyramide.pdf|archive-date=2016-03-04}}</ref>
+
+=== Logic and philosophy ===
+In his main philosophical work, ''Neues Organon'' (''New Organon'', 1764, named after [[Aristotle]]'s ''[[Organon]]''), Lambert studied the rules for distinguishing [[Subjectivity|subjective]] from [[Objectivity (science)|objective]] appearances, connecting with his work in [[optics]]. The ''Neues Organon'' contains one of the first appearances of the term ''phenomenology'',<ref>In his Preface, p. 4, of vol. I, Lambert called phenomenology "the doctrine of appearance." In vol. ii, he discussed sense appearance, psychological appearance, moral appearance, probability, and perspective.</ref> and it includes a presentation of the various [[syllogism#Types|kinds of syllogism]]. According to [[John Stuart Mill]], {{blockquote| The German philosopher Lambert, whose ''Neues Organon'' (published in the year 1764) contains among other things one of the most elaborate and complete expositions of the [[syllogism|syllogistic doctrine]], has expressly examined which sort of arguments fall most suitably and naturally into each of the four figures; and his investigation is characterized by great ingenuity and clearness of thought.<ref>[[J. S. Mill]] (1843) [https://archive.org/details/systemofratiocin00milluoft/page/130 A System of Logic], page 130 via [[Internet Archive]]</ref>}}
+
+A modern edition of the ''Neues Organon'' was published in 1990 by the Akademie-Verlag of Berlin.
+
+In 1765 Lambert began corresponding with [[Immanuel Kant]].  Kant intended to dedicate the ''[[Critique of Pure Reason]]'' to Lambert, but the work was delayed, appearing after Lambert's death.<ref>O'Leary M., ''Revolutions of Geometry'', London:Wiley, 2010, p.385</ref>
+
+=== Astronomy ===
+Lambert also developed a theory of the generation of the [[universe]] that was similar to the [[nebular hypothesis]] that [[Thomas Wright (astronomer)|Thomas Wright]] and [[Immanuel Kant]] had (independently) developed. Wright published his account in ''An Original Theory or New Hypothesis of the Universe'' (1750), Kant in ''Allgemeine Naturgeschichte und Theorie des Himmels'', published anonymously in 1755. Shortly afterward, Lambert published his own version of the nebular hypothesis of the origin of the [[Solar System]] in ''Cosmologische Briefe über die Einrichtung des Weltbaues'' (1761). Lambert hypothesized that the stars near the [[Sun]] were part of a group which travelled together through the [[Milky Way]], and that there were many such groupings ([[star system]]s) throughout the [[galaxy]]. The former was later confirmed by Sir [[William Herschel]]. In [[astrodynamics]] he also solved the problem of determination of time of flight along a section of orbit, known now as [[Lambert's problem]]. His work in this area is commemorated by the [[Asteroid]] [[187 Lamberta]] named in his honour.
+
+=== Meteorology ===
+Lambert propounded the ideology of observing periodic phenomena first, try to derive their rules and then gradually expand the theory. He expressed his purpose in meteorology as follows:
+{{Blockquote
+|text=It seems to me that if one wants to make meteorology more scientific than it currently is, one should imitate the astronomers who began with establishing general laws and middle movements without bothering too much with details first. [...] Should one not do the same in meteorology? It is a sure fact that meteorology has general laws and that it contains a great number of periodic phenomena. But we can but scarcely guess these latter. Only few observations have been made so far, and between these one cannot find connections.
+|author=Johann Heinrich Lambert<ref name="Bullynck 2010" />
+}}
+
+To obtain more and better data of meteorology, Lambert proposed to establish a network of weather stations around the world, in which the various weather configurations (rain, clouds, dry ...) would be recorded – the methods that are still used nowadays. He also devoted himself to the improvement of the measuring instruments and accurate concepts for the advancement of meteorology. This results in his published works in 1769 and 1771 on hygrometry and hygrometers.<ref name="Bullynck 2010">{{cite journal | last=Bullynck | first=Maarten | title=Johann Heinrich Lambert's Scientific Tool Kit, Exemplified by His Measurement of Humidity, 1769–1772 | journal=Science in Context | volume=23 | issue=1 | date=2010-01-26 | url= https://halshs.archives-ouvertes.fr/halshs-00663305/document | archive-url=https://web.archive.org/web/20181103164408/https://halshs.archives-ouvertes.fr/halshs-00663305/document | archive-date=2018-11-03 | issn=1474-0664 | doi=10.1017/S026988970999024X | pages=65–89 | s2cid=170241574 }}</ref>
+
+== Published works ==
+
+* [https://libserv.aip.org/ipac20/ipac.jsp?session=1668O33395J5H.322504&menu=search&aspect=power&npp=10&ipp=20&spp=20&profile=rev-all&ri=3&source=%7E%21horizon&index=.GW&term=Pyrometrie+oder+vom+Maasse+des+Feuers+und+der+Wa%CC%88rme&x=16&y=12&aspect=power Lambert, Johann Heinrich. "Pyrometrie; oder, Vom maasse des feuers und der wȧrme. Mit acht kupfertafeln." Berlin, Bey Haude und Spener, 1779.] 
+<gallery>
+File:Lambert-1.jpg|1779 copy of "Pyrometrie oder vom Maasse des Feuers und der Wärme"
+File:Lambert-2-1.jpg|Title page to "Pyrometrie oder vom Maasse des Feuers und der Wärme"
+File:Lambert-5.jpg|First page of "Pyrometrie oder vom Maasse des Feuers und der Wärme"
+</gallery>
+
+== See also ==
+* [[List of things named after Johann Lambert]]
+* Asteroid [[187 Lamberta]]
+* [[Lambert (Martian crater)]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite book |title=Asimov's Biographical Encyclopedia of Science and Technology |url=https://archive.org/details/asimovsbiographi00asim |url-access=registration |author-link=Isaac Asimov |first=Isaac |last=Asimov |publisher=Doubleday & Co., Inc. |year=1972 |isbn=0-385-17771-2}}
+* {{cite book |first1=A. |last1=Papadopoulos |first2=G. |last2=Théret |year=2014 |title=La théorie des parallèles de Johann Heinrich Lambert: French translation, with historical and mathematical commentaries |publisher=Collection Sciences dans l'histoire, Librairie Albert Blanchard |location=Paris |isbn=978-2-85367-266-5}}
+* {{cite book |first1=R. |last1=Caddeo |first2=A. |last2=Papadopoulos |year=2022 |title=Mathematical geography in the eighteenth century: Euler, Lagrange and Lambert |publisher=Springer |location=Cham |isbn=978-3-031-09569-6}}
+* {{cite thesis |type=Ph.D. dissertation |url=http://e-collection.library.ethz.ch/eserv/eth:21862/eth-21862-02.pdf |archive-url=https://web.archive.org/web/20160304082346/http://e-collection.library.ethz.ch/eserv/eth:21862/eth-21862-02.pdf |archive-date=2016-03-04 |url-status=live |first=Max E. |last=Eisenring |title=Johann Heinrich Lambert und die wissenschaftliche Philosophie der Gegenwart |institution=ETH Zürich |date=Nov 1941 |language=de}}
+
+== External links ==
+{{wikiquote}}
+{{commons|Johann Heinrich Lambert}}
+{{EB1911 poster|Lambert, Johann Heinrich}}
+* [http://www.kuttaka.org/~JHL/Main.html Johann Heinrich Lambert (1728-1777): Collected Works - Sämtliche Werke Online]
+* {{MacTutor Biography|id=Lambert}}
+* [http://www.britannica.com/eb/article-9046942/Johann-Heinrich-Lambert Britannica]
+* [http://docnum.unistra.fr:8080/cdm4/results.php?CISOOP1=any&CISOBOX1=Jean+Henri+Lambert&CISOFIELD1=CISOSEARCHALL&CISOOP2=all&CISOBOX2=lambert%2C+jean-henri&CISOFIELD2=creato&CISOROOT=all&t=s Digitized works] {{Webarchive|url=https://web.archive.org/web/20140329095855/http://docnum.unistra.fr:8080/cdm4/results.php?CISOOP1=any&CISOBOX1=Jean+Henri+Lambert&CISOFIELD1=CISOSEARCHALL&CISOOP2=all&CISOBOX2=lambert,+jean-henri&CISOFIELD2=creato&CISOROOT=all&t=s |date=2014-03-29 }} at [[Université de Strasbourg]]
+* "Mémoire sur quelques propriétés remarquables..." (1761), demonstration of irrationality of π, online and analyzed ''[https://www.bibnum.education.fr/sites/default/files/24-lambert-analysis.pdf BibNum]'' (PDF).
+
+{{Scientists whose names are used as non SI units}}
+{{Authority control}}
+
+{{DEFAULTSORT:Lambert, Johann Heinrich}}
+[[Category:18th-century Swiss philosophers]]
+[[Category:1728 births]]
+[[Category:1777 deaths]]
+[[Category:Hyperbolic geometers]]
+[[Category:18th-century Swiss astronomers]]
+[[Category:Swiss male writers]]
+[[Category:Swiss non-fiction writers]]
+[[Category:Members of the Prussian Academy of Sciences]]
+[[Category:Alsatian-German people]]
+[[Category:Scientists from Mulhouse]]
+[[Category:Swiss people of Walloon descent]]
+[[Category:Pi-related people]]
+[[Category:18th-century German astronomers]]
+[[Category:18th-century German philosophers]]
+[[Category:German male writers]]
+[[Category:18th-century German mathematicians]]
+[[Category:18th-century Swiss mathematicians]]
+[[Category:18th-century Swiss writers]]
+[[Category:Swiss male non-fiction writers]]

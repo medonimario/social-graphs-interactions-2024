@@ -1,0 +1,190 @@
+{{short description|American philosopher}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox academic
+| honorific_prefix   = 
+| name               = Thom Brooks
+| honorific_suffix   = {{Post-nominals|country=GBR|FRHistS|FAcSS|FRSA|FHEA| size=100%}}
+| image              =
+| image_size         = 
+| alt                = 
+| caption            = Thom Brooks in 2016
+| birth_name         = Thomas Brooks
+| birth_date         = {{birth date and age|df=y|1973|10|14}}
+| birth_place        = [[New Haven]], [[Connecticut]], US
+| death_date         = <!-- {{death date and age|df=y|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) --> 
+| death_place        = 
+| death_cause        = 
+| region             =
+| nationality        = [[Citizenship in the United States|United States]] <br /> [[British nationality law|United Kingdom]]
+| period             = 
+| occupation         = 
+| title              = Professor of Law and Government 
+| boards             = <!-- Board or similar positions extraneous to main occupation   -->
+| known_for          =
+| spouse             = 
+| children           = 
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| era                = 
+| discipline         = {{plain list|
+* [[Law]]
+* [[Philosophy]] 
+| school_tradition = {{hlist | [[Analytic philosophy]] | [[Legal realism]]}}
+* [[Political Science]] }}
+| sub_discipline     = {{hlist|[[Political philosophy]]|[[legal philosophy]]|[[criminal law]]|[[immigration law]]|[[United Kingdom constitutional law]]}}
+| movement           = <!-- Should match the idiologial movement or denomination (for religious), "school" of thought etc. (e.g. "Anglican", "Postmodernist", "Socialist" or "Green" etc. -->
+| religion           = <!-- Religion should be supported with a citation from a reliable source -->
+| denomination       = <!-- Religious denomination should be supported with a citation from a reliable source -->
+| education          = [[Xavier High School (Connecticut)|Xavier High School]]
+| alma_mater         = {{plain list|
+* [[William Paterson University]] 
+* [[Arizona State University]] 
+* [[University College Dublin]] 
+* [[University of Sheffield]] }}
+| thesis_title       = Taking the System Seriously: Themes in Hegel's Philosophy of Right
+| thesis_url         = 
+| thesis_year        = 2004
+| doctoral_advisor   = [[Robert Stern (philosopher)|Robert Stern]] and Leif Wenar
+| doctoral_students  = 
+| notable_students   = <!--Only those with WP articles-->
+| main_interests     = 
+| workplaces         = [[Durham University]] <br /> [[Newcastle University]]
+| notable_works      = {{unbulleted list | ''Hegel's Political Philosophy'' (2007) | ''Punishment'' (2012) | ''Becoming British'' (2016)}}
+| notable_ideas      = {{unbulleted list|[[Capability approach]] | [[Citizenship]] | Unified theory of [[punishment]]}}
+| influences         = <!--Must be referenced from a third party source-->
+| influenced         = <!--Must be referenced from a third party source-->
+| awards             = <!--Notable national level awards only-->
+| footnotes          =
+}}
+
+'''Thomas''' "'''Thom'''" '''Brooks''', {{Post-nominals|country=GBR|FRHistS|FAcSS|FRSA|FHEA| size=100%|sep=,}} (born 14 October 1973) is an American-British [[political philosopher]] and [[legal scholar]]. He has been Professor of Law and Government at [[Durham University]] since 2014, and was the Dean of [[Durham Law School]] from 2016 to 2021. He was previously a lecturer then [[Reader (academic rank)|Reader]] at [[Newcastle University]]. He has been a [[visiting scholar]] at several [[Ivy League]] and [[Russell Group]] universities. He was the founding editor of the ''[[Journal of Moral Philosophy]]''.
+
+==Early life and education==
+Brooks was born on 14 October 1973 in [[New Haven, Connecticut]] and raised nearby in [[Guilford, Connecticut]]. He was educated at [[Xavier High School (Connecticut)|Xavier High School]], an all-boys private [[Catholic school]] in [[Middletown, Connecticut|Middletown]], Connecticut, United States.<ref name="bio - Debrett's">{{cite web|title=Thomas (Thom) BROOKS|url=http://www.debretts.com/people-of-today/profile/95845/Thom-Brooks|website=People of Today|publisher=Debrett's|access-date=11 February 2016|url-status=dead|archive-url=https://web.archive.org/web/20160316014557/http://www.debretts.com/people-of-today/profile/95845/Thom-Brooks|archive-date=16 March 2016}}</ref> From 1992 to 1997, he studied at [[William Paterson University]]. He graduated with a Bachelor of Arts (B.A.) degree in 1997, [[Major (academic)|majoring]] in music and [[political science]]. He then studied political science at [[Arizona State University]] and graduated with a Master of Arts (MA) degree in 1999. He studied for an MA in philosophy at [[University College Dublin]], graduating in 2000 with [[first class honours]].<ref name="CV">{{cite web|title=Curriculum Vitae|url=http://thombrooks.info/Brooks_CV.pdf|website=thombrooks.info|access-date=11 February 2016|year=2015}}</ref> From 2001, he undertook [[postgraduate research]] in philosophy at the [[University of Sheffield]] under the [[Doctoral supervisor|supervision]] of [[Robert Stern (philosopher)|Robert Stern]] and Leif Wenar.<ref name="CV" /><ref name="PhD theses">{{cite web|title=Recent MPhil and PhD theses titles and supervisors|url=http://www.sheffield.ac.uk/philosophy/current/postgraduate/recent|website=Department of Philosophy|publisher=University of Sheffield|access-date=11 February 2016|archive-url=https://web.archive.org/web/20160216090545/http://www.sheffield.ac.uk/philosophy/current/postgraduate/recent|archive-date=16 February 2016|url-status=dead}}</ref> He completed his Doctor of Philosophy (PhD) degree in 2004.<ref name="CV" /> His [[doctoral thesis]] was titled "''Taking the System Seriously: Themes in Hegel's Philosophy of Right''".<ref name="PhD theses" /><ref>{{cite web |last1=Brooks |first1=Thom |title=Taking the system seriously: themes in Hegel's philosophy of right |url=https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.412243 |website=E-Thesis Online Service |publisher=The British Library Board |access-date=12 July 2019 |date=2004}}</ref>
+
+==Academic career==
+Brooks started his academic career at [[Newcastle University]]. He was a lecturer in [[political thought]] from 2004 to 2007.<ref name="bio - Debrett's" /> From 2004 to 2005, he was also a [[visiting fellow]] at the Centre for Ethics, Philosophy and Public Affairs, [[University of St Andrews]].<ref name="CV" /> In 2007, he was promoted to [[Reader (academic rank)|reader]] in [[Political Philosophy|political]] and [[legal philosophy]].<ref name="bio - Debrett's" /> From 2010 to 2011, he was an academic visitor to the [[Faculty of Philosophy, University of Oxford|Faculty of Philosophy]], University of Oxford and received a visiting fellowship to [[St John's College, Oxford]] in 2012.<ref name="CV" /> His "Publishing Guide for Graduate Students" aims to fill the gap in advice that graduate students may face when attempting to become published in humanities and social sciences.<ref>{{cite SSRN|title=Thom Brooks, "Publishing Advice for Graduate Students"|date=18 January 2008|ssrn=1085245|last1=Brooks|first1=Thom}}</ref>
+
+In 2012, Brooks joined the [[Durham Law School]], [[Durham University]], as a reader in law, and its Philosophy Department as an associate member.<ref name="bio - Debrett's" /><ref name="CV" /> He was appointed Professor of Law and Government in 2014.<ref name="CV" /> Between 2014 and 2016, he served as Director of the Centre for Criminal Law and Criminal Justice at Durham University.<ref name="bio - Debrett's" /> In 2015, he was a visiting fellow to [[Yale Law School]], [[Yale University]].<ref name="CV" /><ref name="bio - Durham Law School">{{cite web|title=Professor Thom Brooks|url=https://www.dur.ac.uk/law/staff/?id=11140|website=Durham Law School|publisher=Durham University|access-date=11 February 2016}}</ref>
+
+On 1 August 2016, was appointed head of the Durham Law School and the school's inaugural [[Dean (education)#Great Britain and Ireland|dean]]. As dean, Brooks introduced [[Chinese law]] into the LLB and LLM curriculum alongside a new annual Chinese law summer school - the first ever in the UK and first time in English outside Asia.<ref name="The Times, 'Chinese law offers great career prospects'">{{cite news|url=https://www.thetimes.co.uk/article/chinese-law-offers-great-career-prospects-08w9g9lkv/|title=Chinese law offers great career prospects|website=The Times|access-date=1 June 2019|last1=Baksi|first1=Catherine}}</ref> He stepped down as dean in 2021.<ref>{{cite web |title=Professor Thom Brooks |url=https://www.durham.ac.uk/staff/thom-brooks/ |website=www.durham.ac.uk |publisher=Durham University |access-date=20 July 2023 |language=en-gb}}</ref>
+
+===Research and contributions===
+
+In 2013, Brooks wrote a report analysing the United Kingdom's new [[citizenship test]]. His report was titled "''The '[[Life in the United Kingdom test]]': Is It Unfit for Purpose?''". He was highly critical of the test, concluding that it was "unfit for purpose". He criticised the test's focus on "British culture and history at the expense of practical knowledge".<ref>{{cite news|title=UK Citizenship Test For Foreign Nationals Is 'Unfit For Purpose' Says Academic|url=http://www.huffingtonpost.co.uk/2013/03/17/british-citizenship-test-unfit_n_2896938.html|access-date=11 February 2016|work=HuffPost|date=17 March 2013}}</ref>
+
+Brooks publishes widely on criminal justice and sentencing. His "unified theory of punishment" is noted as one of the top 100 Big Ideas for the Future in a report by [[RCUK]].<ref>{{cite web|title=RCUK Top 100 Big Ideas for the Future|url=http://www.rcuk.ac.uk/publications/reports/bigideas/|access-date=17 March 2016}}</ref> Brooks has written three books, edited two reports and 23 collections, published over 130 articles and 150 columns.<ref name="CV"/> His research on capital punishment is quoted and cited by the Connecticut Supreme Court lead decision in its case of ''State v. Santiago (Santiago II)'', 318 Conn. 1, 105 (2015) abolishing [[capital punishment in Connecticut]].<ref>{{cite news|title=State v Santiago (Santiago II), 318 Conn 1 (2015)|url=http://www.jud.state.ct.us/external/supapp/Cases/AROcr/CR318/318CR306.pdf|access-date=28 November 2016|work=Connecticut Supreme Court|date=25 August 2015}}</ref> In 2015, the [[Electoral Commission (United Kingdom)|Electoral Commission]] quotes Brooks in support of its proposed changes to the [[2016 United Kingdom European Union membership referendum|EU Referendum]]. They proposed changing the ballot choices to "Remain" and "Leave" and this was later accepted by the UK Government.<ref name="Home Page">{{cite web|title=Home Page|url=http://www.thombrooks.info/|website=thombrooks.info|access-date=17 March 2016}}</ref><ref name="Three years since the Brexit vote, meet the man behind Leave and Remain">{{cite web|url=https://www.itv.com/news/tyne-tees/2019-06-23/three-years-since-the-brexit-vote-meet-the-man-behind-leave-and-remain|access-date=25 June 2019|title=Three years since the Brexit vote, meet the man behind Leave and Remain|date=23 June 2019}}</ref>
+
+Brooks appears frequently on media, including television, radio and newspapers often discussing [[Human migration|migration]] policy.<ref>{{cite news|title=Thom Brooks, What should Theresa May do about immigration? A 6-point plan|url=https://www.telegraph.co.uk/news/2016/07/22/what-should-theresa-may-do-about-immigration-a-6-point-plan//|newspaper=The Telegraph|date=22 July 2016|access-date=31 July 2016|last1=Brooks|first1=Thom}}</ref><ref>{{cite web|title=Professor Thom Brooks, How Labour is failing voters|url=http://www.express.co.uk/comment/expresscomment/704609/Professor-Thom-Brooks-How-Labour-is-failing-voters|website=Daily Express|date=28 August 2016|access-date=29 August 2016}}</ref> He has been interviewed by [[Andrew Marr]].<ref>{{cite web|title=Start the Week|url=http://www.bbc.co.uk/programmes/b06ybg7h|publisher=BBC|access-date=17 March 2016}}</ref>
+
+Brooks is an Advisory Editor of the University of Bologna Law Review, a general student-edited law journal published by the Department of Legal Studies of the [[University of Bologna]].<ref>{{cite web|url=https://bolognalawreview.unibo.it/about/displayMembership/123|title=Advisory Board|publisher=Bolognalawreview.unibo.it|access-date=29 August 2016}}</ref>
+
+==Personal life==
+Brooks has been a [[Citizenship in the United States|citizen of the United States]] since birth. In 2009, he gained [[indefinite leave to remain]] in the United Kingdom. He became a [[British nationality law|citizen of the United Kingdom]] in 2011, and therefore holds [[dual citizenship]].<ref>{{cite news|last1=Sanghani|first1=Radhika|title=British citizenship test is just a 'bad pub quiz'|url=https://www.telegraph.co.uk/news/uknews/immigration/10119281/British-citizenship-test-is-just-a-bad-pub-quiz.html|access-date=11 February 2016|work=The Daily Telegraph|date=13 June 2013}}</ref> His report is cited several times in Parliamentary debates.<ref>{{cite web|work=Hansard|url=https://publications.parliament.uk/pa/ld201314/ldhansrd/text/131010-gc0002.htm|access-date=17 March 2016|title=Lords Hansard text for 10 Oct 2013 (Pt 0002)}}</ref> Brooks has been called "the UK's leading expert on the citizenship test".<ref>{{cite web|title=BBC Radio 4|url=https://www.bbc.co.uk/sounds/play/m0007bx1|website=bbc.co.uk/|access-date=5 August 2022}}</ref> His recommendations for reforming the test have been widely influential.<ref>{{cite web|title=Labour Party|url=http://www.thombrooks.info/labour-party/|website=thombrooks.info|access-date=5 August 2022}}</ref>
+
+Brooks is a member of the [[Labour Party (UK)|British Labour Party]] and the [[Unison (trade union)|UNISON]] trade union. He has written about his view of the Labour Party's policy on immigration, including making a range of proposals on the topic.<ref>{{cite web|title=Citizenship and Immigration|url=http://www.thombrooks.info/becoming-british/|website=thombrooks.info|access-date=5 August 2022}}</ref><ref>{{cite web|last=Neame|first=Katie|title=Public want fairer approach to immigration|url= https://labourlist.org/2022/04/fabians-public-want-fairer-approach-to-immigration-in-light-of-ukraine/|publisher=Labourlist|date=2022-04-13|access-date=2022-10-11}}</ref><ref>{{cite web|url= https://www.independent.co.uk/news/uk/politics/boris-johnson-news-live-brexit-latest-today-labour-leadership-tax-coronavirus-a9326436.html?page=2|author1=Adam Forrest|author2=Ashley Cowburn|title=PM's ludicrous plan for bridge to Northern Ireland attacked, as backlash builds over mansion tax and HS2|website=The Independent|date=10 February 2020 |access-date=2022-10-11}}</ref><ref>{{cite web|url= https://www.lawgazette.co.uk/legal-updates/amid-the-furore-where-does-labour-stand/5115463.article |title=Amid the furore, where does Labour stand? |author1=Phoebe Warren|website=Law Society Gazette|date=17 March 2023 |access-date=2023-09-05}}</ref> He is the chair of the [[Sedgefield]] and [[Fishburn]] branch of the Sedgefield Constituency Labour Party. He has made past comments supporting [[New Labour]] and Sedgefield's [[Tony Blair]],<ref>{{cite news|last1=Brooks|first1=Thom|title=Blairism isn't about moving right – it's about doing what's right|url=http://www.newstatesman.com/politics/2015/06/blairism-isnt-about-moving-right-its-about-doing-whats-right|access-date=11 February 2016|work=The New Statesmen|date=18 June 2015}}</ref> and supported [[Liz Kendall]] in the [[2015 Labour Party (UK) leadership election|2015 Labour leadership contest]].<ref>{{cite web|last1=Brooks|first1=Thom|title=Liz Kendall for leader of the Labour Party|url=http://the-brooks-blog.blogspot.co.uk/2015/06/liz-kendall-for-leader-of-labour-party.html|website=The Brooks Blog|access-date=11 February 2016|date=4 June 2015}}{{dead link|date=March 2018}}</ref> He has championed party unity over factionalism.<ref>{{cite news|last1=Brooks|first1=Thom|title=Labour is on a roll - so let's abandon the old divisions and work together for victory|url=https://labourlist.org/2017/06/labour-is-on-a-roll-so-lets-abandon-the-old-divisions-and-work-together-for-victory/|access-date=24 March 2018|work=LabourList}}</ref> Brooks is a vocal supporter of Labour Leader [[Keir Starmer]],<ref>{{cite web|title=Twitter|url=https://twitter.com/thom_brooks/status/1552357488317587462?s=20&t=BDWfVvwH0gb7ZLWqXOcUBg|website=twitter.com|access-date=5 August 2022}}</ref> whom he has supported since his election to Parliament in 2015.<ref>{{cite web|title=Public wants fairer approach to immigration|website=LabourList|date=13 April 2022 |url=https://labourlist.org/2022/04/fabians-public-want-fairer-approach-to-immigration-in-light-of-ukraine/|access-date=5 August 2022}}</ref> In 2022, Brooks published a [[Fabian Society]] pamphlet ''New Arrivals: A Fair Immigration System for Labour'' that presented a new model for a Labour-led post-Brexit points-based system modelled on Starmer's vision.<ref>{{cite web|title=New Arrivals|url=https://fabians.org.uk/publication/new-arrivals/|website=fabians.org.uk/|date=13 April 2022 |access-date=5 August 2022}}</ref>
+
+Brooks writes columns for ''[[The Daily Telegraph]]'', ''[[The Guardian]]'', ''[[The Independent]]'', ''[[LabourList]]'', ''[[The Times]]'' and others often on immigration topics.<ref>{{cite web|title=Thom Brooks, The Daily Telegraph|url=https://www.telegraph.co.uk/authors/thom-brooks|access-date=28 October 2016}}</ref><ref>{{cite web|title=Thom Brooks, The Guardian|website=[[TheGuardian.com]]|url=https://www.theguardian.com/profile/thom-brooks|access-date=3 March 2018}}</ref><ref>{{cite web|title=Thom Brooks, The Independent|website=[[Independent.co.uk]]|url=https://www.independent.co.uk/author/thom-brooks|access-date=11 June 2017}}</ref><ref>{{cite web|title=Thom Brooks, LabourList|url=http://labourlist.org/author/thom-brooks/|access-date=17 March 2016}}</ref><ref>{{cite news|title=Thom Brooks, The Times|url=https://www.thetimes.co.uk/article/may-doesn-t-have-to-wait-for-brexit-to-cut-immigration-3j5bzngsn|access-date=11 June 2017|last1=Brooks|first1=Thom}}</ref>
+
+==Honours==
+In 2009, Brooks was elected a [[Fellow of the Academy of Social Sciences]] (FAcSS).<ref name="bio - Debrett's" /> In 2010, he was elected a [[Fellow of the Royal Historical Society]] (FRHistS). In 2012, Brooks was elected a [[Fellow of the Royal Society of Arts]] (FRSA). In 2014, he was elected a [[Fellow of the Higher Education Academy]] (FHEA).<ref name="bio - Debrett's" /> In 2018, he became an Academic Bencher of the Honourable Society of [[Inner Temple]].<ref name="CV" /> In 2021, he was elected member of the [[Academia Europaea]].<ref>{{cite web|title=Thom Brooks|url=https://www.ae-info.org/ae/Member/Brooks_Thom|work=Member|publisher=Academia Europaea|access-date=2024-06-30}}</ref>
+
+==Selected works==
+
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=Rousseau and Law|date=2005|publisher=Ashgate|location= Aldershot|isbn=9780754624417}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|editor2-last=Freyenhagen|editor2-first=Fabian|title=The Legacy of John Rawls|date=2005|publisher=Continuum|location=London|isbn=978-0826478436}}
+* {{cite book|last1=Brooks|first1=Thom|title=Hegel's Political Philosophy: A Systematic Reading of the Philosophy of Right|date=2007|publisher=Edinburgh University Press|location=Edinburgh|isbn=978-0748625741|edition=1st}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=The Global Justice Reader|date=2008|publisher=Blackwell|location=Oxford|isbn=978-1405169653}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=The Right to a Fair Trial|date=2009|publisher=Ashgate|location=Aldershot|isbn=9780754628088}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=New Waves in Ethics|date=2010|publisher=Palgrave Macmillan|location=Basingstoke|isbn=978-0230232754}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=Ethics and Moral Philosophy|date=2011|publisher=Brill|location=Leiden|isbn=978-9004203426}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=Hegel's Philosophy of Right|date=2012|publisher=Wiley-Blackwell|location=Chichester, West Sussex|isbn=978-1405188135}}
+* {{cite book|last1=Brooks|first1=Thom|title=Punishment|date=2012|publisher=Routledge|location=London|isbn=978-0415431811}}
+* {{cite book|last1=Brooks|first1=Thom|title=Hegel's Political Philosophy: A Systematic Reading of the Philosophy of Right|date=2013|publisher=Edinburgh University Press|location=Edinburgh|isbn=978-0748645107|edition=2nd}}
+* {{cite report|last1=Brooks|first1=Thom|title=The 'Life in the United Kingdom' Citizenship Test: Is It Unfit for Purpose?|year=2013|publisher=Durham University|location=Durham|url=http://thombrooks.info/Brooks_citizenship_test_report.pdf|access-date=11 February 2016}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=Just War Theory|date=2013|publisher=Brill|location=Leiden|isbn=9789004228504}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=Ethical Citizenship: British Idealism and the Politics of Recognition|date=2014|publisher=Palgrave Macmillan|location=Basingstoke|isbn=978-1137329950}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=Alcohol and Public Policy|date=2014|publisher=Routledge|location=London|isbn=978-0415730242}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=New Waves in Global Justice|date=2014|publisher=Palgrave Macmillan|location=Basingstoke|isbn=9781137286383}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=Sentencing|date=2014|publisher=Ashgate|location=Aldershot|isbn=9789004228504}}
+* {{cite report|last1=Brooks|first1=Thom|title=A Practical Guide to Living in the United Kingdom: A Report|year=2015|publisher=Durham University|location=Durham|ssrn=2622908}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|editor2-last=Nussbaum|editor2-first=Martha C.|editor2-link=Martha Nussbaum|title=Rawls's Political Liberalism|date=2015|publisher=Columbia University Press|location=New York, NY|isbn=978-0231149709}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=Current Controversies in Political Philosophy|date=2015|publisher=Routledge|location=London|isbn=978-0415517522}}
+* {{cite book|last1=Brooks|first1=Thom|title=Becoming British: UK Citizenship Examined|date=2016|publisher=Biteback Publishing|location=London|isbn=978-1849549769}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|editor2-last=Stein|editor2-first=Sebastian|title=Hegel's Political Philosophy: On the Normative Significance of Method and System|date=2017|publisher=Oxford University Press|location=New York, NY|isbn=9780198778165}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=Plato's The Republic|date=2019|publisher=South Asia Press|location=New Delhi|isbn=9788193610497}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=The Oxford Handbook of Global Justice|date=2020|publisher=Oxford University Press|location=Oxford|isbn=9780198714354}}
+* {{cite book|last1=Brooks|first1=Thom|title=Climate Change Ethics for an Endangered World|date=2020|publisher=Routledge|location=London|isbn=9780367524319}}
+* {{cite book|last1=Brooks|first1=Thom|title=Punishment: A Critical Introduction, 2nd edition|date=2021|publisher=Routledge|location=London|isbn=9781138694668}}
+* {{cite book|editor1-last=Brooks|editor1-first=Thom|title=Political Emotions: Towards a Decent Public Sphere|date=2022|publisher=Palgrave Macmillan|location=Basingstoke}}
+* {{cite book|last1=Brooks|first1=Thom|title=The Trust Factor: Essays on he Current Crisis and Hope for the Future|date=2022|publisher=Methuen|location=London|isbn=9780413778482}}
+*  {{cite book|last1=Brooks|first1=Thom|title=New Arrivals: A Fair Immigration Plan for Labour|date=2022|publisher=[Fabian Society]|location=London|isbn=9780716306580}}
+*  {{cite book|last1=Brooks|first1=Thom|title=Reforming the UK's Citizenship Test: Building Bridges, Not Barriers|date=2022|publisher=Bristol University Press|location=Bristol|isbn=9781529218527}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://thombrooks.info His personal website]
+* [https://www.dur.ac.uk/law/staff/?id=11140 His Durham University website]
+* [https://twitter.com/thom_brooks Twitter profile]
+* [https://www.telegraph.co.uk/authors/thom-brooks Thom Brooks – Daily Telegraph]
+* [https://www.independent.co.uk/author/thom-brooks Thom Brooks – The Independent]
+* [https://www.thetimes.co.uk/article/may-doesn-t-have-to-wait-for-brexit-to-cut-immigration-3j5bzngsn Thom Brooks – The Times]
+* [http://wtnh.com/2017/04/26/guilford-man-writes-about-becoming-a-british-citizen/ Thom Brooks WTNH interview with Ann Nyberg]
+* [http://the-brooks-blog.blogspot.co.uk/ The Brooks Blog]
+
+{{Ethics}}
+{{Jurisprudence}}
+{{Social and political philosophy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brooks, Thom}}
+[[Category:1973 births]]
+[[Category:21st-century American philosophers]]
+[[Category:21st-century British philosophers]]
+[[Category:Living people]]
+[[Category:William Paterson University alumni]]
+[[Category:Arizona State University alumni]]
+[[Category:Alumni of University College Dublin]]
+[[Category:Alumni of the University of Sheffield]]
+[[Category:American columnists]]
+[[Category:American legal scholars]]
+[[Category:Analytic philosophers]]
+[[Category:American political philosophers]]
+[[Category:American political scientists]]
+[[Category:American male non-fiction writers]]
+[[Category:British columnists]]
+[[Category:British legal scholars]]
+[[Category:British male journalists]]
+[[Category:British philosophers]]
+[[Category:British political philosophers]]
+[[Category:British political scientists]]
+[[Category:British writers]]
+[[Category:The Daily Telegraph people]]
+[[Category:American democratic socialists]]
+[[Category:European democratic socialists]]
+[[Category:The Guardian journalists]]
+[[Category:Academics of Newcastle University]]
+[[Category:Academics of Durham University]]
+[[Category:Fellows of the Academy of Social Sciences]]
+[[Category:Fellows of the Royal Historical Society]]
+[[Category:Fellows of the Higher Education Academy]]
+[[Category:Members of Academia Europaea]]
+[[Category:Hegel scholars]]
+[[Category:Hegelian philosophers]]
+[[Category:Kant scholars]]
+[[Category:Labour Party (UK) people]]
+[[Category:Deans of law schools in the United States]]
+[[Category:Members of the Inner Temple]]
+[[Category:Naturalised citizens of the United Kingdom]]
+[[Category:American opinion journalists]]
+[[Category:People from Connecticut]]
+[[Category:People from Guilford, Connecticut]]
+[[Category:American philosophy academics]]
+[[Category:Writers from New Haven, Connecticut]]
+[[Category:American philosophers of law]]
+[[Category:The Independent people]]
+[[Category:The Times people]]

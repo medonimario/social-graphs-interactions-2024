@@ -1,0 +1,129 @@
+{{Short description|Finnish philosopher and logician}}
+{{Infobox philosopher
+|region = [[Western philosophy]]
+|era = [[20th-century philosophy]]
+|school_tradition = [[Analytic philosophy]]
+|name = Jaakko Hintikka
+|birth_name = Jaakko Kaarlo Juhani Hintikka
+|image = Hintikka 2.jpg
+|caption = Jaakko Hintikka in 2003
+|birth_date = {{Birth date|1929|01|12|df=y}}
+|birth_place = [[Helsingin maalaiskunta]], Finland
+|death_date = {{Death date and age|2015|08|12|1929|01|12|df=y}}
+|death_place = [[Porvoo]], Finland
+|nationality = Finnish
+|main_interests = {{plainlist|
+* [[Philosophy]]
+* [[Logic]]
+}}
+|institutions = {{plainlist|
+* [[Stanford University]]
+* [[Boston University]]
+}}
+|education = [[University of Helsinki]]<br />(Ph.D., 1953)
+|doctoral_advisor = [[Georg Henrik von Wright]]
+|doctoral_students = 
+* [[Terence Parsons]] 
+* [[Barry Loewer]]
+|thesis_title = Distributive Normal Forms in the Calculus of Predicates
+|thesis_url = 
+|thesis_year = 1953
+|notable_ideas = {{plainlist|
+* [[Hintikka set]]
+* [[Game semantics]]
+* [[Epistemic logic]]
+* [[Independence-friendly logic]]
+}}
+|awards = {{plainlist|
+* [[Library of Living Philosophers]] (2006)
+* [[Rolf Schock Prize]] (2006)
+}}
+|spouse = 
+}}
+'''Kaarlo Jaakko Juhani Hintikka''' (12 January 1929 – 12 August 2015) was a Finnish [[philosopher]] and [[logician]]. Hintikka is regarded as the founder of formal [[epistemic logic]] and of [[game semantics]] for logic.
+
+==Life and career==
+Hintikka was born in [[Helsingin maalaiskunta]] (now Vantaa).
+
+In 1953, he received his doctorate from the [[University of Helsinki]] for a thesis entitled ''Distributive Normal Forms in the [[Predicate calculus|Calculus of Predicates]]''. He was a student of [[Georg Henrik von Wright]].
+
+Hintikka was a Junior Fellow at [[Harvard University]] (1956-1969), and held several professorial appointments at the University of Helsinki, the Academy of Finland, [[Stanford University]], [[Florida State University]] and finally [[Boston University]] from 1990 until his death.<ref>{{cite web|last1=Floyd|first1=Juliet|url=http://www.bu.edu/philo/2015/08/13/professor-jaakko-hintikka-1929-2015/|title=Professor Jaakko Hintikka (1929-2015)|date=13 August 2015|website=Boston University Philosophy Department|publisher=Boston University|access-date=2 September 2015}}</ref> He was the prolific author or co-author of over 30 books and over 300 scholarly articles, Hintikka contributed to [[mathematical logic]], [[philosophical logic]], the [[philosophy of mathematics]], [[epistemology]], [[Philosophy of language|language theory]], and the [[philosophy of science]]. His works have appeared in over nine languages.
+
+Hintikka edited the [[academic journal]] ''[[Synthese]]'' from 1962 to 2002, and was a consultant editor for more than ten journals. He was the first vice-president of the [[International Federation of Philosophical Societies|Fédération Internationale des Sociétés de Philosophie]], the vice-president of the [[Institut International de Philosophie]] (1993–1996), as well as a member of the [[American Philosophical Association]], the [[International Union of History and Philosophy of Science]], [[Association for Symbolic Logic]], and a member of the governing board of the [[Philosophy of Science Association]]. In 2005, he won the [[Rolf Schock Prize]] in logic and philosophy "for his pioneering contributions to the logical analysis of modal concepts, in particular the concepts of knowledge and belief". In 1985, he was president of the [[Florida Philosophical Association]].
+
+He was a member of the [[Norwegian Academy of Science and Letters]].<ref>{{cite web|url=http://www.dnva.no/c26849/artikkel/vis.html?tid=40104 |title=Gruppe 3: Idéfag |publisher=[[Norwegian Academy of Science and Letters]] |language=no |access-date=16 January 2011 |url-status=dead |archive-url=https://web.archive.org/web/20150109221405/http://www.dnva.no/c26849/artikkel/vis.html?tid=40104 |archive-date= 9 January 2015 }}</ref> On May 26, 2000, Hintikka received an [[Honorary degree|honorary doctorate]] from the Faculty of History and Philosophy at [[Uppsala University]], [[Sweden]]<ref>{{cite web|url=http://www.uu.se/en/about-uu/traditions/prizes/honorary-doctorates/|title=Honorary doctorates - Uppsala University, Sweden|website=www.uu.se|access-date=10 April 2018}}</ref>
+
+==Philosophical work==
+
+Early in his career, he devised a [[semantics of modal logic]] essentially analogous to [[Saul Kripke]]'s [[Kripke semantics|frame semantics]], and discovered the now widely taught [[semantic tableau]], independently of [[Evert Willem Beth]]. Later, he worked mainly on game semantics, and on [[independence-friendly logic]], known for its "[[branching quantifier]]s", which he believed do better justice to our intuitions about [[Quantification (logic)|quantifiers]] than does conventional [[first-order logic]]. He did important exegetical work on [[Aristotle]], [[Immanuel Kant]], [[Ludwig Wittgenstein]], and [[Charles Sanders Peirce]]. Hintikka's work can be seen as a continuation of the analytic tendency in philosophy founded by [[Franz Brentano]] and Peirce, advanced by [[Gottlob Frege]] and [[Bertrand Russell]], and continued by [[Rudolf Carnap]], [[Willard Van Orman Quine]], and by Hintikka's teacher [[Georg Henrik von Wright]]. For instance, in 1998 he wrote ''The Principles of Mathematics Revisited'', which takes an exploratory stance comparable to that Russell made with his ''[[The Principles of Mathematics]]'' in 1903.
+
+==Selected books==
+[[File:Jaakko Hintikka.jpg|thumb|right|Hintikka in 2006.]]
+For a bibliography, see Auxier and Hahn (2006).
+* 1962. ''Knowledge and Belief – An Introduction to the Logic of the Two Notions'' {{ISBN|1-904987-08-7}}
+* 1969. ''Models for Modalities: Selected Essays'' {{ISBN|978-90-277-0598-3}}
+* 1973 ''Logic, Language-Games and Information: Kantian Themes in the Philosophy of Logic'' {{ISBN|978-0198243649}}
+* 1975. ''The intentions of intentionality and other new models for modalities'' {{ISBN|978-90-277-0634-8}}
+* 1976. ''The semantics of questions and the questions of semantics: case studies in the interrelations of logic, semantics, and syntax'' {{ISBN|978-95-1950-535-0}}
+* 1989. [https://books.google.com/books/about/The_Logic_of_Epistemology_and_the_Episte.html?id=AOujmpQNGUsC ''The Logic of Epistemology and the Epistemology of Logic''] {{ISBN|0-7923-0040-8}}
+* 1996. ''Ludwig Wittgenstein: Half-Truths and One-and-a-Half-Truths'' {{ISBN|0-7923-4091-4}}
+* 1996. ''Lingua Universalis vs Calculus Ratiocinator'' {{ISBN|0-7923-4246-1}}
+* 1996. [https://books.google.com/books/about/The_Principles_of_Mathematics_Revisited.html?id=k5vDVr8sRSwC ''The Principles of Mathematics Revisited''] {{ISBN|0-521-62498-3}}
+* 1998. ''Paradigms for Language Theory and Other Essays'' {{ISBN|0-7923-4780-3}}
+* 1998. ''Language, Truth and Logic in Mathematics'' {{ISBN|0-7923-4766-8}}
+* 1999. ''Inquiry as Inquiry: A Logic of Scientific Discovery'' {{ISBN|0-7923-5477-X}}
+* 2004. ''Analyses of Aristotle'' {{ISBN|1-4020-2040-6}}
+* 2007. ''Socratic Epistemology: Explorations of Knowledge-Seeking by Questioning'' {{ISBN|978-0-521-61651-5}}
+
+==See also==
+{{Portal|Biography|Philosophy}}
+* [[Rudolf Carnap]]
+* [[Saul Kripke]]
+* [[Charles Sanders Peirce]]
+* [[Willard Van Orman Quine]]
+* [[Alfred Tarski]]
+* [[Ludwig Wittgenstein]]
+* [[Doxastic logic]]
+* [[Hintikka set]]
+
+==Notes==
+{{reflist}}
+
+==Further reading==
+*Auxier, R.E., & Hahn, L. (eds.) 2006. ''The Philosophy of Jaakko Hintikka (The Library of Living Philosophers)''. Open Court. Includes a complete bibliography of Hintikka's publications. {{ISBN|0-8126-9462-7}}
+* Bogdan, Radu (ed.) 1987. ''Jaakko Hintikka''. Kluwer Academic Publishers. {{ISBN|90-277-2402-4}}
+* Kolak, Daniel 2001. ''On Hintikka''. Wadsworth. {{ISBN|0-534-58389-X}}
+* Kolak, Daniel & Symons, John (eds.) 2004. ''Quantifiers, Questions and Quantum Physics: Essays on the Philosophy of Jaakko Hintikka''. Springer. {{ISBN|1-4020-3210-2}}
+* {{cite book | editor1=Ditmarsch, Hans van | editor2=Sandu, Gabriel | title=Jaakko Hintikka on Knowledge and Game-Theoretical Semantics | publisher=Springer | location=Cham | year=2018 | isbn=978-3-319-62863-9 | series=Outstanding Contributions to Logic, 12 | issn=2211-2758 }}
+* {{cite book | author=Tanninen, Tuukka | title=Worlds and Objects of Epistemic Space: A Study of Jaakko Hintikka's Modal Semantics | type=Ph.D. thesis | publisher=The University of Helsinki | year=2022 | isbn=978-951-51-7884-8 | url=http://urn.fi/URN:ISBN:978-951-51-7884-8 }}
+
+==External links==
+* {{commons category-inline|Jaakko Hintikka}}
+* [https://www.bu.edu/philo/profile/jaakko-hintikka/ Jaakko Hintikka's personal website]
+* [http://www.helsinkitimes.fi/finland/finland-news/domestic/8954-philosopher-jaakko-hintikka-reveals-love-affair-between-his-wife-and-jfk.html Philosopher Jaakko Hintikka reveals love affair between his wife and JFK.] ''Helsinki Times''.
+* [http://375humanistia.helsinki.fi/en/humanists/jaakko-hintikka Jaakko Hintikka in 375 humanists – 20 May 2015.] Faculty of Arts, University of Helsinki.
+
+{{Analytic philosophy}}
+{{Philosophy of language}}
+{{Schock Prize laureates}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hintikka, Jaakko}}
+[[Category:1929 births]]
+[[Category:20th-century Finnish philosophers]]
+[[Category:21st-century Finnish philosophers]]
+[[Category:Analytic philosophers]]
+[[Category:Florida State University faculty]]
+[[Category:Game theorists]]
+[[Category:2015 deaths]]
+[[Category:Members of the Norwegian Academy of Science and Letters]]
+[[Category:Foreign members of the Russian Academy of Sciences]]
+[[Category:Modal logicians]]
+[[Category:People from Vantaa]]
+[[Category:Rolf Schock Prize laureates]]
+[[Category:Boston University faculty]]
+[[Category:Finnish expatriates in the United States]]
+[[Category:Harvard Fellows]]
+[[Category:Members of the American Philosophical Society]]
+[[Category:Epistemologists]]

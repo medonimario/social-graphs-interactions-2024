@@ -1,0 +1,92 @@
+{{for|the Jamaican cricket umpire|Norman Malcolm (umpire)}}
+{{for|the Australian journalist|Norman Malcolm (journalist)}}
+{{short description|American philosopher}}
+{{Infobox philosopher 
+| region          = [[Western philosophy]]
+| era             = [[20th-century philosophy]]
+| image         = 
+| name          = Norman Malcolm
+| birth_date    = {{Birth date|1911|06|11|df=yes}}
+| birth_place   = [[Selden, Kansas|Selden]], [[Kansas]], United States
+| death_date    = {{Death date and age|1990|08|04|1911|06|11|df=yes}}
+| death_place   = [[London]], UK
+| alma_mater       = [[University of Nebraska]]<br>[[Harvard University]]
+| school_tradition = [[Analytic philosophy]]
+| main_interests = [[Philosophy of mind]]
+| influences    = [[Ludwig Wittgenstein]], [[Søren Kierkegaard]], [[René Descartes]], [[Oets Kolk Bouwsma|Oets Kolk (O.K.) Bouwsma]], [[Anselm of Canterbury]] 
+| influenced    = [[Oets Kolk Bouwsma|Oets Kolk (O.K.) Bouwsma]], [[John Rawls]], [[Sydney Shoemaker]]
+| notable_ideas = Criticism of [[common sense]] beliefs, [[Ontological argument]] from the distinction between necessary and contingent beings
+| academic_advisors = [[O. K. Bouwsma]]<br>[[C. I. Lewis]]<ref>[https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/malcolm-norman-1911-1990 "Malcolm, Norman (1911–1990)" – Encyclopedia.com]</ref><br>[[Ludwig Wittgenstein]]
+| institutions  = [[Cornell University]]
+}}
+{{Wittgenstein|People}}
+'''Norman Adrian Malcolm''' ({{IPAc-en|ˈ|m|æ|l|k|ə|m}}; 11 June 1911 &ndash; 4 August 1990) was an American [[philosophy|philosopher]].
+
+==Biography==
+Malcolm was born in [[Selden, Kansas]]. He studied philosophy with [[O. K. Bouwsma]] at the [[University of Nebraska]], then enrolled as a graduate student at [[Harvard University]] in 1933.
+
+At [[Cambridge University]] in 1938–9, he met [[George Edward Moore|G. E. Moore]] and [[Ludwig Wittgenstein]]. Malcolm attended Wittgenstein's lectures on the [[philosophy|philosophical]] foundations of [[mathematics]] throughout 1939 and remained one of Wittgenstein's closest friends. Malcolm's memoir of his time with Wittgenstein, published in 1958, is widely acclaimed as one of the most captivating and most accurate portraits of Wittgenstein's remarkable personality.
+
+After serving in the [[United States Navy]] from 1942 to 1945, Malcolm, with his wife, Leonida, and their son, Raymond Charles Malcolm, resided in Cambridge again in 1946–47.  He saw a good deal of Wittgenstein during that time, and they continued to correspond frequently thereafter. In 1947,  Malcolm joined the faculty at [[Cornell University]], where he taught until his retirement. In 1949, Wittgenstein was a guest of the Malcolms in [[Ithaca, New York]].  In that year Malcolm introduced [[O. K. Bouwsma]] to Wittgenstein. Bouwsma remained close to Wittgenstein until Wittgenstein's death in 1951.
+
+==Philosophical work==
+In 1959, his book ''Dreaming'' was published, in which he elaborated on Wittgenstein's question as to whether it really mattered if people who tell dreams "really had these images while they slept, or whether it merely seems so to them on waking". This work was also a response to [[Descartes]]' ''Meditations''.[https://web.archive.org/web/20060901085843/http://auden.webster.edu/~sekosha/pastor.htm]
+
+Other than that he is known for propagating the view that [[common sense]] philosophy and [[ordinary language]] philosophy are the same. He was generally supportive of [[George Edward Moore|Moore's]] theory of knowledge and certitude, though he found Moore's style and method of arguing to be ineffective.<ref>Norman Malcolm (1952), "Moore and Ordinary Language", ''The Philosophy of G. E. Moore''</ref> His critique of Moore's articles on skepticism (and also on Moore's '[[Here is a hand]]' argument) lay the foundation for the renewed interest in common sense philosophy and [[ordinary language philosophy|ordinary language philosoph]]y.<ref>Scott Soames (2003) "Philosophical Analysis in the Twentieth Century, Volume II: The Age of Meaning." ''Chapter 7''</ref>
+
+Malcolm was also a defender of a [[Modal logic|modal]] version of the [[ontological argument]]. In 1960 he argued that the argument originally presented by [[Anselm of Canterbury]] in the second chapter of his ''[[Proslogion]]'' was just an inferior version of the argument propounded in chapter three.<ref>Norman Malcolm (1960), "Anselm's Ontological Arguments," ''Philosophical Review'', '''69''':41&ndash;62.</ref><ref>{{Cite web |last=Case |first=Brendan |title=Bonaventure's Critique of Thomas Aquinas |url=https://churchlifejournal.nd.edu/articles/bonaventures-critique-of-thomas-aquinas/ |access-date=2023-04-29 |website=Church Life Journal |date=16 September 2021 |language=en |quote=Though no one pointed this out explicitly until Norman Malcolm in the mid-twentieth century, Bonaventure and Aquinas alike seem to have recognized that Anselm in fact developed two distinct versions of the ontological argument.[42] Malcolm distinguishes them as follows: Anselm’s “first ontological proof [in Pros. 2] uses the principle that a thing is greater if it exists than if it does not exist. His second proof [in Pros. 3] employs the different principle that a thing is greater if it necessarily exists than if it does not necessarily exist.”[...][42] The first person to explicitly flag that there are two distinct arguments in Prologion 2-3 was Norman Malcolm, in “Anselm’s Ontological Arguments,” 44-46.}}</ref> His argument is similar to those produced by [[Charles Hartshorne]] and [[Alvin Plantinga]]. Malcolm argued that a God cannot simply exist as a matter of contingency but rather must exist in necessity if at all. He argued that if God exists in contingency then his existence is subject to a series of conditions that would then be greater than God and this would be a contradiction (referring to Anselm's definition of God as That than which Nothing Greater can be Conceived).
+
+==Publications==
+His works include:
+*''[https://archive.org/details/ludwig-wittgenstein-a-memoir-with-a-biographical-sketch-malcolm-norman-wright-georg-henrik-von Ludwig Wittgenstein: A Memoir]''
+*''Moore and Ordinary Language''
+*''Wittgenstein: A Religious Point Of View?''
+*''Nothing Is Hidden: Wittgenstein's criticism of his early thought''
+*''Problems of Mind: Descartes to Wittgenstein''
+*''Knowledge and Belief''
+*''Consciousness and Causality'' (with [[D. M. Armstrong]])
+*''Memory and Mind''
+*''Dreaming and Skepticism''
+* ''Wittgenstein: The Relation of Language to Instinctive Behaviour (J.R.Jones Memorial Lecture) Publisher: University of Wales, Swansea (Dec 1981) {{ISBN|0860760243}}''
+*''Thought and knowledge''
+*''Wittgensteinian themes'' (edited by [[Georg Henrik von Wright]]) and ''Dreaming''.
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{Cite journal |last=Serafini |first=Anthony |date=July 1993 |title=Norman Malcolm: A Memoir |url=https://www.jstor.org/stable/3751643 |journal=[[Philosophy (journal)|Philosophy]] |pages=309–324 |url-access=registration |via=JSTOR}}
+*Ginet, C. (2001). [https://www.blackwellpublishing.com/content/BPL_Images/Content_Store/WWW_Content/9780631214151/018.pdf "Norman Malcolm (1911–1990)"] in ''A Companion to Analytic Philosophy'' (eds [[Aloysius Martinich|A.P. Martinich]] and [[David Sosa|D. Sosa]]).
+
+== External links ==
+*McDonough, Richard (2017). [http://www.iep.utm.edu/malcolm/ "Norman Malcolm"] ''[[Internet Encyclopedia of Philosophy]]''.
+
+{{Analytic philosophy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Malcolm, Norman}}
+[[Category:1911 births]]
+[[Category:1990 deaths]]
+[[Category:20th-century American Episcopalians]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century American  historians]]
+[[Category:American male non-fiction writers]]
+[[Category:20th-century American memoirists]]
+[[Category:Analytic philosophers]]
+[[Category:Anglican philosophers]]
+[[Category:Cornell University faculty]]
+[[Category:American epistemologists]]
+[[Category:Harvard University alumni]]
+[[Category:Ontologists]]
+[[Category:Ordinary language philosophy]]
+[[Category:People from Sheridan County, Kansas]]
+[[Category:American philosophers of education]]
+[[Category:American philosophers of language]]
+[[Category:American philosophers of mind]]
+[[Category:American philosophers of religion]]
+[[Category:American philosophers of social science]]
+[[Category:American philosophy academics]]
+[[Category:Philosophy writers]]
+[[Category:United States Navy sailors]]
+[[Category:University of Nebraska–Lincoln alumni]]
+[[Category:Wittgensteinian philosophers]]

@@ -1,0 +1,69 @@
+{{redirect-distinguish|David the Philosopher|David (commentator)}}
+{{CS1 config|mode=cs1}}
+{{Use dmy dates|date=August 2024}}
+[[File: David Anhaght.jpg|thumb|David the Invincible depicted in medieval manuscript of ''Definition of Philosophy'' ([[Matenadaran]], Ms. 1746, c. 1280)]]
+[[File:David the Invincible statue (1985), Yerevan, Armenia.jpg|thumb|The 1985 statue of David the Invincible in Yerevan]]
+
+'''David the Invincible''' or '''David the Philosopher''' was a [[Neoplatonism|neoplatonist]] philosopher of the 6th century.{{sfn|Andrews|2013|p=36}}
+
+David was a pupil of [[Olympiodorus the Younger|Olympiodorus]] in [[Alexandria]]. His works, originally written in [[ancient Greek|Greek]], survive in medieval [[Armenian language|Armenian]] translation, and he was given the byname of "invincible" ([[Classical Armenian|Classical]] {{langx|hy| Անյաղթ}}; <small>[[Armenian orthography reform|reformed]]:</small>  {{lang|hy|Անհաղթ}}, {{lang|hy-Latn|Anhağt}}) in the Armenian tradition, which considers David himself an Armenian. Whereas, Tara Andrews states his ethnicity is uncertain.{{sfn|Andrews|2013|p=35-36}}
+
+Due to confusion with other authors called David and due to an abundant body of medieval legend, almost nothing is known with certainty about the historical David. Armenian tradition makes him a native of [[Taron (historic Armenia)|Taron]],<ref name=hacikyan>{{cite book|last1=Hacikyan|first1=Agop J.|title=The heritage of Armenian literature|date=2000|publisher=Wayne State Univ. Press|location=Detroit|isbn=0814328156|page=[https://archive.org/details/heritageofarmeni00ajha/page/288 288]|url=https://archive.org/details/heritageofarmeni00ajha|url-access=registration}}</ref>  but this is not substantiated in contemporary sources and may be due to conflation with another person.{{sfn|Calzolari|2009|pp=22f.}}{{sfn|Muradyan|2014|pp=1–2}}<ref>{{cite book | editor-last=Westerink | editor-first=Leendert Gerrit | editor-last2=Trouillard | editor-first2=Jean | editor-last3=Segonds | editor-first3=A. Ph | year=1990 | title=Prolégomènes à la philosophie de Platon | language=fr,el | series=[[Collection Budé]] | publication-place=Paris | publisher=Les Belles Lettres | isbn=978-2-251-00412-9 | oclc=26404365 | page=XXXVII}}</ref> 
+He was active in [[Alexandria]] in [[Diocese of Egypt|Byzantine Egypt]], known as an expert in Aristotle's ''[[Physics (Aristotle)|Physics]]''.{{sfn|Calzolari|Barnes|2009}}
+He supposedly received the byname "invincible" for his exceptional oratory and argumentative skills.<ref name=hacikyan />  David is said to have returned to his native Armenia later in life, where he was active as a teacher, but he came into conflict with the Armenian church and ultimately died in exile in [[Haghbat]].<ref name=hacikyan />
+
+Of the number of works attributed to him, many are pseudepigraphic or doubtful. 
+The works which can be attributed to him with certainty or at least with some plausibility are not scholarly treatises but propedeutic (introductory) handbooks for use in teaching beginners.
+They were composed in Greek but survive only in Armenian translation.
+Philologically, these translations are important representatives of the "Hellenizing" tradition in Armenian literature (''Yownaban Dproc‘'') of the 6th to 8th centuries.<ref>Valentina Calzolari: Aux origines de la formation du corpus philosophique en Arménie: quelques remarques sur les versions arméniennes des commentaires grecs de David. In: Cristina D’Ancona (ed.): The Libraries of the Neoplatonists, Leiden 2007,   259–278, here: 261–264</ref>{{sfn|Calzolari|2009|pp=15–20}}
+
+The David Anhaght Medal, the highest-ranking medal granted by the [[Armenian Academy of Philosophy]], is named after him.<ref>{{cite web|title=Grand Medal of David the Invincible|url=http://i-p-o.org/David_the_Invincible-grand_medal.htm|publisher=International Progress Organization}}</ref> ''David the Invincible'' (''Դավիթ Անհաղթ - David Anhaght'', [[Armenfilm]]) is a  1978 film by [[Levon Mkrtchyan]].
+
+==References==
+{{Reflist}}
+
+== Bibliography ==
+*{{cite book |chapter=Identity, Philosophy, and the Problem of Armenian History in the Sixth Century |first=Tara L. |last=Andrews |pages=27{{endash}}42 |title=History and Identity in the Late Antique Near East |editor-first=Philip |editor-last=Wood |publisher=Oxford University Press |year=2013 | isbn=978-0-19-991540-8}}
+* {{cite book | last=Calzolari | first=Valentina | date=23 November 2009 | chapter=David et la tradition arménienne | chapter-url=https://www.academia.edu/19066149 | doi=10.1163/ej.9789004160477.i-238.9 | editor-last1=Calzolari | editor-first1=Valentina | editor-last2=Barnes | editor-first2=Jonathan R. | title=L'œuvre de David l'Invincible et la transmission de la pensée grecque dans la tradition arménienne et syriaque | series=Commentaria in Aristotelem Armeniaca - Davidis Opera | volume=1 | publication-place=Leiden | publisher=Brill | isbn=978-90-04-16047-7 | oclc=318867138 | pages=15–36}}
+*{{cite book
+| last      = Gertz
+| first     = Sebastian
+| title     = Elias and David: Introductions to Philosophy with Olympiodorus: Introduction to Logic
+| publisher = Bloomsbury Academic
+| year      = 2017
+| isbn      = 9781350136441
+| url       = https://books.google.com/books?id=TUxUDwAAQBAJ
+}}
+*{{cite book
+| last      = Topchyan
+| first     = Aram
+| title     = David the Invincible, Commentary on Aristotle's Prior Analytics
+| publisher = Brill
+| year      = 2010
+| isbn      = 9789004187191
+| url       = https://books.google.com/books?id=ALhOZFnTRuYC&q=David+the+Invincible,+Commentary+on+Aristotle%27s+Prior+Analytics
+}}
+* {{cite book | editor-last=Muradyan | editor-first=Gohar | editor-link=Gohar Muradyan | author=David the Invincible | author-mask=0 | date=27 November 2014 | title=Commentary on Porphyry's ''Isagoge'': Old Armenian text with the Greek original, an English translation, introduction and notes | publisher=Brill | publication-place=Leiden | isbn=978-90-04-28088-5 | doi=10.1163/9789004280885 | url=https://books.google.com/books?id=fE6jBQAAQBAJ | ref={{sfnref|Muradyan|2014}}}}
+*{{cite book
+| last      = Sanjian
+| first     = Avedis K.
+| title     = David Anhaght', the 'Invincible' Philosopher
+| publisher = Scholars' Press 
+| place     = Atlanta, Georgia
+| year      = 1986     
+| isbn      =1555400671<!-- 0555400671, an invalid ISBN, is printed in the book-->
+| url       = https://archive.org/embed/Sanjian1986DavidAnhaght
+}}
+* {{cite book | editor-last1=Calzolari | editor-first1=Valentina | editor-last2=Barnes | editor-first2=Jonathan R. | date=23 November 2009 | title=L'œuvre de David l'Invincible et la transmission de la pensée grecque dans la tradition arménienne et syriaque | language=fr,en | series=Commentaria in Aristotelem Armeniaca - Davidis Opera | volume=1 | publication-place=Leiden | publisher=Brill | isbn=978-90-04-16047-7 | oclc=318867138 | doi=10.1163/ej.9789004160477.i-238 | url=https://books.google.com/books?id=MWAB3POqC0QC}}
+*{{cite thesis |last=Benedetta  |first=Contin |date=2011 |title=La version arménienne des œuvres grecques de David l'Invincible. Recherches sur la formation du vocabulaire épistémologique arménien.|publisher=University of Geneva |url=http://dspace.unive.it/bitstream/handle/10579/1137/THESE-CopieDef.pdf?sequence=2 }} {{in lang|fr}}
+
+
+{{wikiquote|hy:Դավիթ Անհաղթ|David Anhaght (Armenian Wikiquote)}}
+
+{{Authority control}}
+
+{{Armenian literature}}
+{{Platonists}}
+
+[[Category:6th-century Greek philosophers]]
+[[Category:Commentators on Aristotle]]

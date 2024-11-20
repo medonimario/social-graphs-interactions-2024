@@ -1,0 +1,257 @@
+{{Short description|Irish-born British writer and philosopher (1919–1999)}}
+{{Use dmy dates|date=June 2024}}
+{{EngvarB|date=June 2024}}
+{{Infobox philosopher
+| honorific_prefix  = [[Dame]]
+| name              =  Iris Murdoch
+| honorific_suffix  = {{post-nominals|country=GBR|size=100|DBE}}
+| image             =  File:Iris Murdoch.jpg
+| alt               = 
+| caption           = 
+| birth_name        = Jean Iris Murdoch 
+| birth_date        = {{birth date|df=yes|1919|07|15}}
+| birth_place       = [[Dublin]], Ireland
+| death_date        = {{death date and age|df=yes|1999|02|08|1919|07|15}}
+| death_place       = [[Oxford]], England
+| spouse            = {{marriage|[[John Bayley (writer)|John Bayley]]|1956}}
+| education         = {{ubl|[[Somerville College, Oxford]]|[[Newnham College, Cambridge]]}}
+| notable_works     = {{ubl|''[[Sartre: Romantic Rationalist]]'' (1953)|''[[Under the Net]]'' (1954)|''[[The Sovereignty of Good]]'' (1970)|''[[The Sea, the Sea]]'' (1978)}}
+| awards            = [[Booker Prize]] (1978)
+| era               = [[Contemporary philosophy]]
+| region            = [[Western philosophy]]
+| school_tradition  = {{ubl|[[Analytic philosophy]]|[[Virtue ethics]]|[[Modern Platonism]]}}
+| institutions      = 
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| main_interests    = 
+| notable_ideas     = {{ubl|Sovereignty of the good|Idea of perfection}}
+| influences        = [[Plato]], [[Simone Weil]], [[Jean-Paul Sartre]], [[Philippa Foot]], [[Stuart Hampshire]]
+| influenced        = [[Philippa Foot]], [[Elizabeth Anscombe]], [[Martha Nussbaum]]
+}}
+'''Dame Jean Iris Murdoch''' {{postnominals|country=GBR|DBE}} ({{IPAc-en|ˈ|m|ɜr|d|ɒ|k}} {{respell|MUR|dok}}; 15 July 1919 – 8 February 1999) was an Irish and British novelist and philosopher. Murdoch is best known for her novels about [[good and evil]], [[sexual relationships]], [[morality]], and the [[unconscious mind|power of the unconscious]]. Her first published novel, ''[[Under the Net]]'' (1954), was selected in 1998 as one of [[Modern Library 100 Best Novels|Modern Library's 100 best English-language novels of the 20th century]]. Her 1978 novel ''[[The Sea, the Sea|The Sea, The Sea]]'' won the [[Booker Prize]]. In 1987, she was made a [[Dame]] by Queen [[Elizabeth II]] for services to literature. In 2008, ''[[The Times]]'' ranked Murdoch twelfth on a list of "The 50 greatest British writers since 1945".<ref>(5 January 2008). {{cite web|url=https://www.thetimes.co.uk/article/the-50-greatest-british-writers-since-1945-ws3g69xrf90|title=The 50 greatest British writers since 1945|url-status=live|url-access=subscription|archive-url=https://web.archive.org/web/20110425050801/http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article3127837.ece |archive-date=25 April 2011|work=The Times}}</ref>
+
+Her other books include ''[[The Bell (novel)|The Bell]]'' (1958), ''[[A Severed Head]]'' (1961), ''[[An Unofficial Rose]]'' (1962), ''[[The Red and the Green]]'' (1965), ''[[The Nice and the Good]]'' (1968), ''[[The Black Prince (novel)|The Black Prince]]'' (1973), ''[[Henry and Cato]]'' (1976), ''[[The Philosopher's Pupil]]'' (1983), ''[[The Good Apprentice]]'' (1985), ''[[The Book and the Brotherhood]]'' (1987), ''[[The Message to the Planet]]'' (1989), and ''[[The Green Knight (novel)|The Green Knight]]'' (1993).
+
+As a philosopher, Murdoch's best-known work is ''[[The Sovereignty of Good]]'' (1970). She was married for 43 years, until her death, to the literary critic and author [[John Bayley (writer)|John Bayley]].
+
+==Life==
+Murdoch was born in [[Phibsborough]], [[Dublin]], [[Ireland]], the daughter of Irene Alice ([[née]] Richardson, 1899–1985)<ref name=Meyers>{{cite book |last=Meyers |first=Jeffrey |title=Remembering Iris Murdoch: Letters and Interviews |date=2013 |publisher=Palgrave Macmillan |location=New York |isbn=9781137352415 |access-date=1 June 2015 |url=https://books.google.com/books?id=qtQl_UyY928C&pg=PT24 |url-status=live|archive-url=https://web.archive.org/web/20180207070113/https://books.google.com/books?id=qtQl_UyY928C&pg=PT24 |archive-date=7 February 2018 }}</ref> and Wills John Hughes Murdoch. Her father, a [[civil service|civil servant]], came from a mainly [[Presbyterian]] sheep farming family from [[Hillhall]], [[County Down]]. In 1915, he enlisted as a soldier in [[King Edward's Horse]] and served in France during the [[World War I|First World War]] before being commissioned as a [[Second lieutenant]]. Her mother had trained as a singer before Iris was born, and was from a middle-class [[Church of Ireland]] family in Dublin. Iris Murdoch's parents first met in Dublin when her father was on leave and were married in 1918.<ref name=Conradi2001>{{cite book |last=Conradi |first=Peter J. |title=Iris Murdoch: A Life |publisher=Norton |location=New York |year=2001 |isbn=0393048756 |url=https://archive.org/details/irismurdochlife00conr }}</ref>{{rp|14}} Iris was the couple's only child. When she was a few weeks old the family moved to London, where her father had joined the [[Department of Health (United Kingdom)|Ministry of Health]] as a second-class [[clerk]].<ref name=Wilson>{{cite book |last=Wilson |first=A. N. |author-link=A. N. Wilson |title=Iris Murdoch as I knew her |publisher=Hutchinson |location=London |year=2003 |isbn=9780091742461 |url=https://archive.org/details/irismurdochasikn00wils }}</ref>{{rp|67}} She was a second cousin of the Irish mathematician [[Brian H. Murdoch|Brian Murdoch]].<ref name=Conradi2001/>
+
+Murdoch was brought up in [[Chiswick]]<ref name="W4 Murdoch">{{cite web |title=Iris Murdoch Deemed Top Pick for Next Chiswick Blue Plaque |url=http://www.chiswickw4.com/default.asp?section=info&page=evchisbookfestival094.htm |publisher=Chiswick W4 |access-date=19 October 2021}}</ref> and [[Private schools in the United Kingdom|educated privately]], entering the [[Froebel Demonstration School]] in 1925 and attending [[Badminton School]] in Bristol as a boarder from 1932 to 1938. In 1938, she went up to [[Somerville College, Oxford]], with the intention of studying English, but switched to "[[Greats]]", a course of study combining classics, ancient history, and philosophy.<ref>{{cite web |last1=Susan |first1=Brown |last2=Patricia |first2=Clements |last3=Isobel |first3=Grundy |title=Iris Murdoch |url=http://orlando.cambridge.org |website=Orlando: Women's Writing in the British Isles from the Beginnings to the Present |publisher=Cambridge University Press |access-date=15 October 2018}}</ref> At Oxford she studied philosophy with [[Donald M. MacKinnon]] and attended [[Eduard Fraenkel]]'s seminars on [[Agamemnon (play)#Agamemnon|''Agamemnon'']].<ref name=Conradi2001/> She was awarded a [[first-class honours]] degree in 1942.<ref>{{cite web |url=http://www.some.ox.ac.uk/3591/Iris%20Murdoch.html |title=Iris Murdoch |access-date=27 June 2012 |author=Somerville College |work=Somerville Stories |archive-url=https://web.archive.org/web/20120623102346/http://www.some.ox.ac.uk/3591/Iris%20Murdoch.html |archive-date=23 June 2012 }}</ref> After leaving Oxford she went to work in London for [[HM Treasury]]. In June 1944, she left the Treasury and went to work for the [[United Nations Relief and Rehabilitation Administration]] (UNRRA). At first, she was stationed in London at the agency's European Regional Office. In 1945, she was transferred first to [[Brussels]], then to [[Innsbruck]], and finally to [[Graz]], Austria, where she worked in a refugee camp. She left the UNRRA in 1946.<ref name=Conradi2001/>{{rp|245}}
+
+From 1947 to 1948, Iris Murdoch studied philosophy as a postgraduate at [[Newnham College, Cambridge]]. She met [[Ludwig Wittgenstein]] at Cambridge but did not hear him lecture, as he had left his [[Trinity College, Cambridge|Trinity College]] professorship before she arrived.<ref name=Conradi2001 />{{rp|262–263}}<ref name="Oxford DNB">{{cite ODNB |last=Conradi |first=Peter J.|author-link=Peter J. Conradi |date=2004 |doi=10.1093/ref:odnb/71228 |title=Murdoch, Dame (Jean) Iris}}</ref> In 1948 she became a fellow of [[St Anne's College, Oxford]], where she taught philosophy until 1963. From 1963 to 1967, she taught one day a week in the General Studies department at the [[Royal College of Art]].<ref name=Conradi2001 />{{rp|469}}
+
+In 1956, Murdoch married [[John Bayley (writer)|John Bayley]], a literary critic, novelist, and from 1974 to 1992 Warton Professor of English at the University of Oxford, whom she had met in Oxford in 1954. The unusual romantic partnership lasted more than forty years until Murdoch's death. Bayley thought that sex was "inescapably ridiculous". Murdoch in contrast had "multiple affairs with both men and women which, on discomposing occasions, [Bayley] witnessed for himself".<ref name="econ_Ofli">{{Cite news|title=Of literature and love|author-link=Ann Wroe|first=Ann|last=Wroe|newspaper=The Economist|date=31 January 2015|access-date=15 February 2015|url=https://www.economist.com/news/obituary/21641126-john-bayley-english-don-literary-critic-and-husband-iris-murdoch-died-january-12th|quote=Sex did not feature much...|url-status=live|archive-url=https://web.archive.org/web/20150207163300/http://www.economist.com/news/obituary/21641126-john-bayley-english-don-literary-critic-and-husband-iris-murdoch-died-january-12th|archive-date=7 February 2015}}</ref><ref name="tele_Thes">{{Cite web|title=The secrets of Iris Murdoch and John Bayley's unconventional marriage|author=Archer, Graeme|work=The Telegraph|date=23 January 2015|access-date=3 March 2015|url=https://www.telegraph.co.uk/culture/books/11362805/The-secrets-of-Iris-Murdoch-and-John-Bayleys-unconventional-marriage.html|url-status=live|archive-url=https://web.archive.org/web/20150403013903/http://www.telegraph.co.uk/culture/books/11362805/The-secrets-of-Iris-Murdoch-and-John-Bayleys-unconventional-marriage.html|archive-date=3 April 2015}}</ref> Notably she had a long and turbulent love relationship with writer [[Brigid Brophy]].<ref name="brophy">{{cite journal |last=Leeson |first=Miles |title=Love, in lines unmusical |journal=The Times Literary Supplement |date=5 June 2020 |issue=6114 |url=https://www.the-tls.co.uk/articles/iris-murdoch-brigid-brophy-love-in-lines-unmusical-miles-leeson/}}</ref>
+
+Iris Murdoch's first novel, ''[[Under the Net]]'', was published in 1954. She had previously published essays on philosophy, and the first [[monograph]] about [[Jean-Paul Sartre]] published in English. She went on to produce 25 more novels and additional works of philosophy, as well as poetry and drama. In 1976 she was named a Commander of the [[Order of the British Empire]] and in 1987 was made a Dame Commander of the Order of the British Empire.<ref name=Conradi2001 />{{rp|571, 575}} She was awarded [[honorary degree]]s by [[Durham University]] (DLitt, 1977),<ref>{{cite web|title=Durham University Gazette, XXIII (ns) including supplement|url=http://reed.dur.ac.uk/xtf/view?docId=bookreader/DU_Gazettes/DUGazette23/dg23METS.xml;query=maurice%20casey;brand=default#page/66/mode/2up|website=reed.dur.ac.uk|access-date=13 March 2018|language=en}}</ref> the [[University of Bath]] (DLitt, 1983),<ref>{{cite web |url=http://www.bath.ac.uk/ceremonies/hongrads/ |title=Honorary Graduates 1989 to present &#124; University of Bath |publisher=Bath.ac.uk |access-date=29 August 2013 |url-status=live |archive-url=https://web.archive.org/web/20100717061336/http://www.bath.ac.uk/ceremonies/hongrads/ |archive-date=17 July 2010 }}</ref> University of Cambridge (1993)<ref>[http://www.cam.ac.uk/univ/degrees/honorary/recipients.html] {{webarchive|url=https://web.archive.org/web/20130201183233/http://www.cam.ac.uk/univ/degrees/honorary/recipients.html|date=1 February 2013}}</ref> and [[Kingston University]] (1994), among others. She was elected a Foreign Honorary Member of the [[American Academy of Arts and Sciences]] in 1982.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter M|url=http://www.amacad.org/publications/BookofMembers/ChapterM.pdf|publisher=American Academy of Arts and Sciences|access-date=25 July 2014|url-status=live|archive-url=https://web.archive.org/web/20131109123554/http://www.amacad.org/publications/BookofMembers/ChapterM.pdf|archive-date=9 November 2013}}</ref>
+
+The house at 30 [[Charlbury Road]] where she lived with her husband from 1989 to her death has an Oxfordshire blue plaque.<ref>[http://www.oxonblueplaques.org.uk/plaques/murdoch.html Oxfordshire Blue Plaques Board website page on Iris Murdoch]</ref> Her last novel, ''[[Jackson's Dilemma]]'', was published in 1995. Iris Murdoch was diagnosed with [[Alzheimer's disease]] in 1997 and died in 1999 in Oxford.<ref name="Oxford DNB" /> There is a bench dedicated to her in the grounds of [[Lady Margaret Hall, Oxford]], where she used to enjoy walking.<ref>{{cite web |url=http://cherwell.org/2016/11/27/iris-murdochs-oxford-life/ |title=Iris Murdoch's Oxford Life |date=27 November 2016 |access-date=2017-08-22 |url-status=live |archive-url=https://web.archive.org/web/20170822232324/http://cherwell.org/2016/11/27/iris-murdochs-oxford-life/ |archive-date=22 August 2017 }}</ref> [[Dublin City Council]] and the [[An Post|Irish postal service]] marked the centenary of Murdoch's birth in 2019 by unveiling a commemorative plaque and postage stamp at her birthplace.<ref>{{cite web
+	| url = https://www.irishtimes.com/culture/iris-murdoch-centenary-marked-with-stamp-and-plaque-1.3953918
+	| title = Iris Murdoch centenary marked with stamp and plaque
+	| last = Burns
+	| first = Sarah
+	| date = 11 July 2019
+	| publisher = Irish Times
+	| access-date = 10 October 2023}}</ref>
+
+==Work==
+
+===Philosophy===
+For some time, Murdoch's influence and achievements as a philosopher were eclipsed by her success as a novelist, but recent appraisals have increasingly accorded her a substantial role in postwar Anglo-American philosophy, particularly for her unfashionably prescient work in moral philosophy and her reinterpretation of [[Aristotle]] and [[Plato]]. [[Martha Nussbaum]] has argued for Murdoch's "transformative impact on the discipline" of moral philosophy because she directed her analysis not at the once-dominant matters of will and choice, but at those of attention (how people learn to see and conceive of one another) and phenomenal experience (how the sensory "thinginess" of life shapes moral sensibility).<ref name="NussbaumNR">{{cite magazine|last1=Nussbaum|first1=Martha C.|author-link1=Martha Nussbaum|title=When she was good|magazine=New Republic|date=31 December 2001|volume=225|pages=28–34}}</ref> Because as Calley A. Hornbuckle puts, “For Murdoch, the most essential kind of knowledge is the knowledge that other people exist”.<ref>{{Citation |last=Hornbuckle |first=Calley A. |title=Exploring Aesthetic Perception of the Real in Iris Murdoch'S the Black Prince |series=Analecta Husserliana |date=2006 |volume=92 |pages=221–233 |url=http://dx.doi.org/10.1007/1-4020-3744-9_16 |access-date=2024-05-21 |place=Berlin/Heidelberg |publisher=Springer-Verlag |doi=10.1007/1-4020-3744-9_16 |isbn=1-4020-3743-0}}</ref>
+
+In a recent survey of Murdoch's philosophical work, Justin Broackes points to several distinctive features of Murdoch's moral philosophy, including a "[[moral realism]] or 'naturalism', allowing into the world cases of such properties as humility or generosity; an anti‐scientism; a rejection of [[David Hume|Humean]] [[moral psychology]]; a sort of '[[Moral particularism|particularism]]'; special attention to the virtues; and emphasis on the metaphor of moral perception or 'seeing' moral facts."<ref name=Broakesabstract>{{Cite book| publisher = Oxford University Press| isbn = 978-0-19-928990-5| last = Broackes| first = Justin.| title = Iris Murdoch, philosopher: a collection of essays| chapter = Introduction| location = Oxford, England| date = 2012| url = http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199289905.001.0001/acprof-9780199289905| url-status = live| archive-url = https://web.archive.org/web/20151126115959/http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199289905.001.0001/acprof-9780199289905| archive-date = 26 November 2015}}</ref> The reasons for this are unclear, but the Scottish literary critic, [[G. S. Fraser]] notes that, in the late 1940s, the philosophers who were then occupying Murdoch's attention were late Victorian British idealists, such as [[T. H. Green]], [[F. H. Bradley]], and [[Bernard Bosanquet (philosopher)|Bernard Bosanquet]].<ref>{{Cite book| last = Fraser| first = G.S..| title = "Iris Murdoch: The Solidity of the Normal" in International Literary Annual, Vol. 2 | location = New York| date = 1959| url = https://archive.org/stream/internationallit009773mbp/internationallit009773mbp_djvu.txt }}</ref> Broackes also notes that Murdoch's influence on the discipline of philosophy was sometimes indirect since it impacted both her contemporaries and the following generation of philosophers, particularly [[Elizabeth Anscombe]], [[Philippa Foot]], [[John McDowell]], and [[Bernard Williams]].<ref>{{cite book|last1=Broackes|first1=Justin|title="Introduction," Iris Murdoch, Philosopher|date=2011|publisher=Oxford University Press|location=Oxford|isbn=9780199289905}}</ref> She sent copies of her earlier novels to Anscombe, but there is nothing in Anscombe's writing which reflects any of these.
+
+Her philosophical work was influenced by [[Simone Weil]] (from whom she borrows the concept of 'attention'), and by [[Plato]], under whose banner she claimed to fight.<ref name=sovereignty>{{cite book | last = Murdoch | first = Iris | title = The Sovereignty of Good | publisher = Routledge | location = London New York | year = 2001 | isbn = 9780415253994 |quote=I am looking out of my window in an anxious and resentful state of mind, oblivious of my surroundings, brooding perhaps on some damage done to my prestige. Then suddenly I observe a hovering kestrel. In a moment everything is altered. The brooding self with its hurt vanity has disappeared. There is nothing now but kestrel. And when I return to thinking of the other matter it seems less important. And of course this is something which we may also do deliberately: give attention to nature in order to clear our minds of selfish care.}}</ref>{{rp|76}} In re-animating Plato, she gives force to the reality of the Good, and to a sense of the moral life as a pilgrimage from illusion to reality.  From this perspective, Murdoch's work offers perceptive criticism of Kant, [[Jean-Paul Sartre|Sartre]] and [[Ludwig Wittgenstein|Wittgenstein]] ('early' and 'late'). Her most central parable, which appears in ''[[The Sovereignty of Good]]'', asks us (in Nussbaum's succinct account), "to imagine a mother-in-law, M, who has contempt for D, her daughter-in-law. M sees D as common, cheap, low. Since M is a self-controlled Englishwoman, she behaves (so Murdoch stipulates) with perfect graciousness all the while, and no hint of her real view surfaces in her acts. But she realises, too, that her feelings and thoughts are unworthy, and likely to be generated by jealousy and an excessively keen desire to hang on to her son. So she sets herself a moral task: she will change her view of D, making it more accurate, less marred by selfishness. She gives herself exercises in vision: where she is inclined to say 'coarse,' she will say, and see, 'spontaneous.' Where she is inclined to say 'common,' she will say, and see, 'fresh and naive.' As time goes on, the new images supplant the old. Eventually M does not have to make such an effort to control her actions: they flow naturally from the way she has come to see D."<ref name="NussbaumNR" /> This is how M cultivates a pattern of behavior that leads her to view D "justly or lovingly".<ref name=perfection>{{cite book | last1 = Murdoch | first1 = Iris | title = Existentialists and Mystics: Writings on Philosophy and Literature | chapter = The Idea of Perfection |editor1= Peter Conradi | publisher = Chatto & Windus | year = 1997 | location = London |isbn=0701166290}}</ref>{{rp|317}} The parable is partly meant to show (against Oxford contemporaries including [[R. M. Hare]] and [[Stuart Hampshire]]) the importance of the "inner" life to moral action. Seeing another correctly can depend on overcoming jealousy, and discoveries about the world involve inner work.
+
+===Fiction===
+Her novels, in their attention and generosity to the inner lives of individuals, follow the tradition of novelists like [[Fyodor Dostoyevsky|Dostoyevsky]], [[Leo Tolstoy|Tolstoy]], [[George Eliot]], and [[Marcel Proust|Proust]], besides showing an abiding love of [[William Shakespeare|Shakespeare]]. There is however great variety in her achievement, and the richly layered structure and compelling realistic comic imagination of ''[[The Black Prince (novel)|The Black Prince]]'' (1973) is very different from the early comic work ''[[Under the Net]]'' (1954) or ''[[The Unicorn (novel)|The Unicorn]]'' (1963). ''The Unicorn'' can be read as a sophisticated [[Gothic fiction|Gothic]] [[Romance novel|romance]], or as a novel with Gothic trappings, or perhaps as a parody of the Gothic mode of writing. ''The Black Prince'', for which Murdoch won the [[James Tait Black Memorial Prize]], is a study of [[Hypersexuality|erotic obsession]], and the text becomes more complicated, suggesting multiple interpretations, when subordinate characters contradict the narrator and the mysterious "editor" of the book in a series of afterwords. Though her novels differ markedly, and her style developed, themes recur. Her novels often include upper-middle-class male intellectuals caught in moral dilemmas, gay characters, refugees, Anglo-Catholics with crises of faith, empathetic pets, curiously "knowing" children and sometimes a powerful and almost demonic male "enchanter" who imposes his will on the other characters—a type of man Murdoch is said to have modelled on her lover, the [[Nobel Prize|Nobel]] laureate [[Elias Canetti]].<ref name=Conradi2001/>{{rp|350–352}}
+
+Murdoch was awarded the [[Booker Prize]] in 1978 for ''[[The Sea, the Sea]]'', a finely detailed novel about the power of love and loss, featuring a retired stage director who is overwhelmed by jealousy when he meets his erstwhile lover after several decades apart. It was dedicated to archaeologist [[Rosemary Cramp]], who had been a student at St Anne’s.<ref>{{Cite news |title=Professor Dame Rosemary Cramp obituary |newspaper=[[The Times]] |language=en |url=https://www.thetimes.co.uk/article/professor-dame-rosemary-cramp-obituary-77fwbkgg5 |access-date=2023-05-06 |issn=0140-0460}}</ref> An authorised collection of her poetic writings, ''Poems by Iris Murdoch'', appeared in 1997, edited by [[Paul Hullah]] and Yozo Muroya. Several of her works have been adapted for the screen, including the British television series of her novels ''[[An Unofficial Rose]]'' and ''[[The Bell (novel)|The Bell]]''. [[J. B. Priestley]]'s dramatisation of her 1961 novel ''[[A Severed Head]]'' starred [[Ian Holm]] and [[Richard Attenborough]].
+
+In 1988 the [[Hamburg]]-based [[Alfred Toepfer Foundation]] awarded Murdoch its annual [[Shakespeare Prize]] in recognition of her life's work. In 1997, she was awarded the [[Golden PEN Award]] by [[English PEN]] for "a Lifetime's Distinguished Service to Literature".<ref>{{cite web |url=http://www.englishpen.org/prizes/golden-pen-award-for-a-lifetimes-distinguished-service-to-literature |title=Golden Pen Award, official website |publisher=[[English PEN]] |access-date=3 December 2012 |url-status=live |archive-url=https://web.archive.org/web/20121121020544/http://www.englishpen.org/prizes/golden-pen-award-for-a-lifetimes-distinguished-service-to-literature/ |archive-date=21 November 2012 }}</ref>
+
+[[Harold Bloom]] wrote in his 1986 review of ''[[The Good Apprentice]]'' that "no other contemporary British novelist" seemed of her "eminence".<ref name="Bloom">{{cite news |last1=Bloom |first1=Harold |author-link1=Harold Bloom |title=A comedy of worldly salvation |url=https://archive.nytimes.com/www.nytimes.com/books/98/12/20/specials/murdoch-apprentice.html |access-date=1 November 2020 |newspaper=The New York Times |date=12 January 1986}}</ref> [[A. S. Byatt]] called her "a great philosophical novelist".<ref name="Stout">{{cite news |last1=Stout |first1=Mira |title=What Possessed A.S. Byatt? |url=https://movies2.nytimes.com/books/99/06/13/specials/byatt-possessed.html |access-date=1 November 2020 |newspaper=The New York Times |date=26 May 1991}}</ref> [[James Wood (critic)|James Wood]] wrote in ''How Fiction Works'': "In her literary and philosophical criticism, she again and again stresses that the creation of free and independent characters is the mark of a great novelist; yet her own characters never have this freedom." He stressed that some authors, "like [[Leo Tolstoy|Tolstoy]], [[Anthony Trollope|Trollope]], [[Honore de Balzac|Balzac]] and [[Charles Dickens|Dickens]]", wrote about people different from themselves by choice, whereas others, such as "[[Henry James|James]], [[Gustave Flaubert|Flaubert]], [[D. H. Lawrence|Lawrence]], [[Virginia Woolf|Woolf]]", have more interest in the self. Wood called Murdoch "poignant", because she spent her whole life writing in the latter category, while she struggled to fit herself into the former.<ref name="JamesWood">{{cite book |last1=Wood |first1=James |title=How Fiction Works |date=2018 |publisher=Picador |location=New York |pages=113–114 |edition=2nd}}</ref>
+
+==Political views==
+Murdoch won a scholarship to study at [[Vassar College]] in the US in 1946, but was refused a visa because she had joined the [[Communist Party of Great Britain]] in 1938, while a student at Oxford. She left the party in 1942, when she went to work at the Treasury, but remained sympathetic to communism for several years.<ref name=Conradi2001/>{{rp|172}}<ref>{{cite book | last1 = Todd | first1 = Richard | title = Iris Murdoch | publisher = Methuen | year = 1984 | location = London | isbn = 0416354203 | quote = Here, like many other intellectuals in the 1930s, she became a member of the Communist Party; she later resigned in disillusion, but remained for a long time close to the Left. | url = https://archive.org/details/irismurdoch0000todd }}</ref>{{rp|15}} In later years she was allowed to visit the United States, but always had to obtain a waiver from the provisions of the [[Immigration and Nationality Act of 1952#Provisions|McCarran Act]], which barred Communist Party members and former members from entering the country. In a 1990 ''[[Paris Review]]'' interview, she said that her membership of the Communist Party had made her see "how strong and how awful it [Marxism] is, certainly in its organized form".<ref>{{cite magazine | title = Iris Murdoch: The Art of Fiction No. 117 |magazine=[[The Paris Review]] | date = Summer 1990 | first = Jeffrey | last = Meyers | issue = 115 | pages = 206–224 | url = http://www.theparisreview.org/interviews/2313/the-art-of-fiction-no-117-iris-murdoch | access-date = 20 June 2012 | quote = But it was just as well, in a way, to have seen the inside of Marxism because then one realizes how strong and how awful it is, certainly in its organized form. | url-status = live | archive-url = https://web.archive.org/web/20120630133530/http://www.theparisreview.org/interviews/2313/the-art-of-fiction-no-117-iris-murdoch | archive-date = 30 June 2012 }}</ref>{{rp|210}}
+
+Aside from her Communist Party membership, her Irish heritage is the sensitive aspect of Murdoch's political life that has attracted interest. Part of the interest revolves around the fact that, although Irish by both birth and traced descent on both sides, Murdoch did not display the full set of political opinions that are sometimes assumed to go with this origin. Biographer Peter Conradi wrote: "No one ever agrees about who is entitled to lay claim to Irishness. Iris's Belfast cousins today call themselves British, not Irish ... [But] Iris has as valid a claim to call herself Irish as most North Americans have to call themselves American".<ref name=Conradi2001/>{{rp|24}} Conradi notes {{nowrap|A. N. Wilson's}} record that Murdoch regretted the sympathetic portrayal of the Irish nationalist cause she had given earlier in ''[[The Red and the Green]]'', and a competing defence of the book at [[Caen]] in 1978.<ref name=Conradi2001/>{{rp|465}} The novel, while broad of sympathy, is hardly an unambiguous celebration of the 1916 rising, dwelling upon bloodshed, unintended consequences and the evils of romanticism, besides celebrating selfless individuals on both sides. Later, of [[Ian Paisley]], Murdoch stated "[he] sincerely condemns violence and did not intend to incite the Protestant terrorists. That he is emotional and angry is not surprising, after 12–15 years of murderous [[Irish_Republican_Army|IRA]] activity. All this business is deep in my soul, I'm afraid."<ref name=Conradi2001/>{{rp|465}} In private correspondence with her close friend and fellow philosopher [[Philippa Foot]], she remarked in 1978 that she felt "unsentimental about Ireland to the point of hatred" and, of a Franco-Irish conference she had attended in Caen in 1982, said that "the sounds of all those Irish voices made me feel privately sick. They just couldn't help sympathising with the IRA, like Americans do. A mad bad world".<ref>{{cite news | first = Mark | last = Brown | title = Iris Murdoch Letters Reveal Love for Close Friend Philippa Foot | date = 31 August 2012 | url = https://www.theguardian.com/world/2012/aug/31/irish-murdoch-letters-philippa-foot | newspaper = [[The Guardian]] | access-date = 4 September 2012 | url-status = live | archive-url = https://web.archive.org/web/20141008201658/http://www.theguardian.com/world/2012/aug/31/irish-murdoch-letters-philippa-foot | archive-date = 8 October 2014 }}</ref>
+
+==Biographies and memoirs==
+[[Peter J. Conradi]]'s 2001 biography was the fruit of long research and authorised access to journals and other papers. It is also a labour of love, and of a friendship with Murdoch that extended from a meeting at her [[Gifford Lectures]] to her death. The book was well received. [[John Updike]] commented: "There would be no need to complain of [[Biography in literature|literary biographies]] [...] if they were all as good".<ref name=Updike>{{Cite magazine| last = Updike| first = John| title = Young Iris| author-link = John Updike| magazine = [[The New Yorker]]| access-date = 17 February 2015| date = 1 October 2001| url = https://www.newyorker.com/magazine/2001/10/01/young-iris| url-status = live| archive-url = https://web.archive.org/web/20150217223023/http://www.newyorker.com/magazine/2001/10/01/young-iris| archive-date = 17 February 2015}}</ref> The text addresses many popular questions about Murdoch, such as how Irish she was and what her politics were. Though not a trained philosopher, Conradi's interest in Murdoch's achievement as a thinker is evident in the biography, and yet more so in his earlier work of literary criticism, ''The Saint and the Artist: A Study of Iris Murdoch's Works'' (Macmillan, 1986; HarperCollins, 2001). He also recalled his personal encounters with Murdoch in ''Going Buddhist: Panic and Emptiness, the Buddha and Me'' (Short Books, 2005). Conradi's archive of material on Murdoch, together with Iris Murdoch's Oxford library, is held at [[Kingston University]].<ref>[http://fass.kingston.ac.uk/research/iris-murdoch/ Centre for Iris Murdoch Studies, Faculty of Arts and Social Sciences] {{webarchive|url=https://web.archive.org/web/20081217093027/http://fass.kingston.ac.uk/research/iris-murdoch/ |date=17 December 2008 }} Kingston University, Retrieved 9 April 2011.</ref>
+
+An account of Murdoch's life with a different ambition is given by [[A. N. Wilson]] in his 2003 book ''Iris Murdoch as I Knew Her''. The work was described by [[Galen Strawson]] in ''[[The Guardian]]'' as "mischievously revelatory" and labelled by Wilson himself as an "anti-biography".<ref>{{cite news|url=http://books.guardian.co.uk/reviews/biography/0,6121,1036391,00.html|title=Telling Tales|newspaper=[[The Guardian]]|last=Strawson|first=Galen|date=6 September 2003|access-date=19 June 2012|archive-url=https://web.archive.org/web/20070521034217/http://books.guardian.co.uk/reviews/biography/0,6121,1036391,00.html|archive-date=21 May 2007}}</ref> 
+
+David Morgan met Iris Murdoch in 1964, when he was a student at the Royal College of Art.<ref name=Conradi2001 />{{rp|475}} His 2010 memoir ''With Love and Rage: A Friendship with Iris Murdoch'', describes their lifelong friendship.<ref>{{cite web|title=With Love and Rage: A Friendship with Iris Murdoch|url=http://fass.kingston.ac.uk/kup/publications/love-rage/|website=[[Kingston University|Kingston University London]]|access-date=24 November 2014|url-status=live|archive-url=https://web.archive.org/web/20140716180534/http://fass.kingston.ac.uk/kup/publications/love-rage/|archive-date=16 July 2014}}</ref><ref name="tele_Dame">{{Cite web| title = Dame Iris Murdoch letters reveal secret love affair| last = Roberts| first = Laura| work = [[The Daily Telegraph|The Telegraph]]| date = 7 March 2010| access-date = 3 March 2015| url = https://www.telegraph.co.uk/culture/books/booknews/7391143/Dame-Iris-Murdoch-letters-reveal-secret-love-affair.html| url-status = live| archive-url = https://web.archive.org/web/20150402095604/http://www.telegraph.co.uk/culture/books/booknews/7391143/Dame-Iris-Murdoch-letters-reveal-secret-love-affair.html| archive-date = 2 April 2015}}</ref>
+
+John Bayley wrote two memoirs of his life with Iris Murdoch. ''Iris: A Memoir'' was published in the United Kingdom in 1998, shortly before her death. The American edition, which was published in 1999, was called ''[[Elegy for Iris]]''. A sequel entitled ''Iris and Her Friends'' was published in 1999, after her death. Murdoch was portrayed by [[Kate Winslet]] and [[Judi Dench]] in [[Richard Eyre]]'s film ''[[Iris (2001 film)|Iris]]'' (2001), based on Bayley's memories of his wife as she developed Alzheimer's disease.<ref>{{Cite news| last = Schudel| first = Matt| title = John Bayley, who stirred controversy with his intimate memoir of his wife, dies at 89| newspaper = [[The Washington Post]]| access-date = 20 February 2015| date = 21 January 2015| url = https://www.washingtonpost.com/entertainment/books/john-bayley-who-stirred-controvery-with-his-intimate-memoir-of-his-wife-dies-at-89/2015/01/21/91e29c8e-a19c-11e4-b146-577832eafcb4_story.html| url-status = live| archive-url = https://web.archive.org/web/20150220203951/http://www.washingtonpost.com/entertainment/books/john-bayley-who-stirred-controvery-with-his-intimate-memoir-of-his-wife-dies-at-89/2015/01/21/91e29c8e-a19c-11e4-b146-577832eafcb4_story.html| archive-date = 20 February 2015}}</ref>
+
+In her centenary year, 2019, a collection of unpublished memoirs was published by Sabrestorm Press, entitled ''Iris Murdoch: A Centenary Celebration'', edited by Miles Leeson, who directs the Iris Murdoch Research Centre at the [[University of Chichester]], UK.<ref>[https://www.sabrestormfiction.com/product/iris-murdoch-a-centenary-celebration/ Iris Murdoch – A Centenary Celebration] {{Webarchive|url=https://web.archive.org/web/20220805192624/https://www.sabrestormfiction.com/product/iris-murdoch-a-centenary-celebration/ |date=5 August 2022 }} ''www.sabrestormfiction.com'', Retrieved 31 October 2020.</ref>
+
+==Adaptations==
+
+In 2015, [[BBC Radio 4]] broadcast an Iris Murdoch season, with several memoirs by people who knew her, and dramatisations of her novels:<ref>[http://www.bbc.co.uk/programmes/b066fxt1 BBC Radio 4] {{webarchive|url=https://web.archive.org/web/20150824044711/http://www.bbc.co.uk/programmes/b066fxt1 |date=24 August 2015 }}</ref>
+* ''Iris Murdoch: Dream Girl''
+* ''The Sea, the Sea''
+* ''A Severed Head''
+
+In March 2019, the London-based production company Rebel Republic Films announced that it had optioned ''[[The Italian Girl]]'', and was developing a screenplay based on the book.<ref name="rebel">{{cite web |title=We have optioned Iris Murdoch's ''The Italian Girl'' |url=https://rebelrepublicfilms.com/we-have-optioned-iris-murdochs-the-italian-girl/ |website=Rebel Republic Films |access-date=14 June 2024 |date=4 March 2019}}</ref>
+
+==Bibliography==
+{{col-begin}}
+{{col-break}}
+'''Novels'''
+* ''[[Under the Net]]'' (1954)
+* ''[[The Flight from the Enchanter]]'' (1956)
+* ''[[The Sandcastle (novel)|The Sandcastle]]'' (1957)
+* ''[[The Bell (novel)|The Bell]]'' (1958)
+* ''[[A Severed Head]]'' (1961)
+* ''[[An Unofficial Rose]]'' (1962)
+* ''[[The Unicorn (novel)|The Unicorn]]'' (1963)
+* ''[[The Italian Girl]]'' (1964)
+* ''[[The Red and the Green]]'' (1965)
+* ''[[The Time of the Angels]]'' (1966)
+* ''[[The Nice and the Good]]'' (1968)
+* ''[[Bruno's Dream]]'' (1969)
+* ''[[A Fairly Honourable Defeat]]'' (1970)
+* ''[[An Accidental Man]]'' (1971)
+* ''[[The Black Prince (novel)|The Black Prince]]'' (1973), winner of the [[James Tait Black Memorial Prize]]
+* ''[[The Sacred and Profane Love Machine]]'' (1974), winner of the [[Whitbread literary award]] for Fiction
+* ''[[A Word Child]]'' (1975)
+* ''[[Henry and Cato]]'' (1976)
+* ''[[The Sea, the Sea]]'' (1978), winner of the [[Booker Prize]]
+* ''[[Nuns and Soldiers]]'' (1980)
+* ''[[The Philosopher's Pupil]]'' (1983)
+* ''[[The Good Apprentice]]'' (1985)
+* ''[[The Book and the Brotherhood]]'' (1987)
+* ''[[The Message to the Planet]]'' (1989)
+* ''[[The Green Knight (novel)|The Green Knight]]'' (1993)
+* ''[[Jackson's Dilemma]]'' (1995){{col-break}}
+
+'''Short Stories'''
+* ''[[Something Special (short story)|Something Special]]'' (1957)
+
+'''Philosophy'''
+*  ''[[Sartre: Romantic Rationalist]]'' (1953)
+*  ''[[The Sovereignty of Good]]'' (1970)
+*  ''[[The Fire and the Sun]]'' (1977)
+*  ''Metaphysics as a Guide to Morals'' (1992) 
+*  ''Existentialists and Mystics: Writings on Philosophy and Literature'' (1997)
+
+'''Plays'''
+* ''[[A Severed Head]]'' (with J. B. Priestley, 1964)
+* ''[[The Italian Girl]]'' (with James Saunders, 1969)
+* ''[[The Three Arrows; The Servants and the Snow]]'' (1972)<ref>{{cite book|last1=Murdoch|first1=Iris|title=The servants and the snow; The three arrows; The black prince: three plays|date=1989|publisher=Chatto & Windus|location=London|isbn=9780701135904|page=[https://archive.org/details/threeplays1989murd/page/302 302]|url=https://archive.org/details/threeplays1989murd/page/302}}</ref>
+* ''The Servants'' (1980)
+* ''[[Acastos: Two Platonic Dialogues]]'' (1986)
+* ''[[The Black Prince (novel)|The Black Prince]]'' (1987)
+
+'''Poetry collections'''
+* ''[[A Year of Birds]]'' (1978; revised edition, 1984)
+* ''[[Poems by Iris Murdoch]]'' (1997)
+
+Source: [http://fass.kingston.ac.uk/research/iris-murdoch/bibliography Centre for Iris Murdoch Studies, Faculty of Arts and Social Sciences] Kingston University
+{{col-end}}
+
+==References==
+{{Reflist|30em}}
+
+==Sources==
+{{refbegin|40em}}
+* Antonaccio, Maria (2000), ''Picturing the human: the moral thought of Iris Murdoch'' [[OUP]]. {{ISBN|0-19-516660-4}}
+* [[John Bayley (writer)|Bayley, John]] (1999), ''Elegy for Iris''. Picador. {{ISBN|0-312-25382-6}}
+* Bayley, John (1998), ''Iris: A Memoir of Iris Murdoch''. Gerald Duckworth & Co. Ltd. {{ISBN|0-7156-2848-8}}
+* Bayley, John (1999), ''Iris and Her Friends: A Memoir of Memory and Desire''. W. W. Norton & Company  {{ISBN|0-393-32079-0}}
+*Bove, Cheryl (1993) ''Understanding Iris Murdoch''. Columbia, University of South Carolina Press. {{ISBN|087249876X}}.
+* [[A.S. Byatt|Byatt. A.S.]] (1965) ''Degrees of Freedom: The Early Novels of Iris Murdoch''. Chatto & Windus
+* [[Peter J. Conradi|Conradi, P. J.]] (2001) ''Iris Murdoch: A Life''. W. W. Norton & Company {{ISBN|0-393-04875-6}}
+* Conradi, P. J. (foreword by John Bayley), ''The Saint and the Artist''. Macmillan 1986, HarperCollins 2001 {{ISBN|0-00-712019-2}}
+* de Melo Araújo, Sofia & Vieira, Fátima (ed.) (2011), ''Iris Murdoch, Philosopher Meets Novelist''. Cambridge Scholars Publishing. {{ISBN|1-4438-2883-1}}
+*Dooley, Gillian (ed.), (2003), ''From a Tiny Corner in the House of Fiction: Conversations With Iris Murdoch''. Columbia, University of South Carolina Press {{ISBN|1-57003-499-0}}
+* Laverty, Megan (2007), ''Iris Murdoch's Ethics: A Consideration of Her Romantic Vision''. Continuum Press {{ISBN|0-8264-8535-9}}
+* Martens, Paul. (2012), "Iris Murdoch: Kierkegaard as Existentialist, Romantic, Hegelian, and Problematically Religious" in ''Kierkegaard's Influence on Philosophy''. Ashgate Publishing. {{ISBN|978-140-944055-0}}.
+*Mauri, Margarita (ed.) (2014). ''Ética y literatura. Cinco novelas de Iris Murdoch''. Kit-book. {{ISBN|978-84-942067-2-6}}.
+* Monteleone, Ester (2012), ''Il Bene, l'individuo, la virtù. La filosofia morale di Iris Murdoch''. Rome, Armando Editore. {{ISBN|978-88-6677-087-9}}
+* Morgan, David (2010), ''With Love and Rage: A Friendship with Iris Murdoch''. Kingston University Press. {{ISBN|9781899999422}}
+* [[Heather Widdows|Widdows, Heather]] (2005) ''The Moral Vision of Iris Murdoch''.  Ashgate Press {{ISBN|0-7546-3625-9}}
+* [[A.N. Wilson|Wilson, A. N.]] (2003) ''Iris Murdoch as I Knew Her''. London, Hutchinson. {{ISBN|9780091742461}}
+* Wolfe, Graham (2022), "Iris Murdoch and the Immoralities of Adaptation" in ''Adaptation''. 
+* Zuba, Sonja (2009), ''Iris Murdoch's Contemporary Retrieval of Plato: The Influence of an Ancient Philosopher on a Modern Novelist''. [[Lewiston, New York]]: [[Edwin Mellen Press]]. {{ISBN|9780773438248}}
+{{refend}}
+
+==External links==
+{{wikiquote}}
+
+* [http://chi.ac.uk/humanities/public-humanities/literary-and-cultural-narrative/iris-murdoch-research-centre The Iris Murdoch Research Centre at the University of Chichester, UK]. Retrieved 10 January 2020.
+* [http://dementia.stir.ac.uk/aboutus_irismbuilding The Iris Murdoch Building at the Dementia Services Development Centre, University of Stirling] {{Webarchive|url=https://web.archive.org/web/20100209105419/http://dementia.stir.ac.uk/aboutus_irismbuilding |date=9 February 2010 }}. Retrieved 24 February 2010.
+* [http://fass.kingston.ac.uk/research/iris-murdoch/ The Iris Murdoch Archive, Kingston University, London]. Retrieved 24 February 2010. In 2014, the Centre was given 400 letters from Murdoch to the artist [[Harry Weinberger]], a close friend from 1977 until her death in 1999.
+* [https://www.theguardian.com/saturday_review/story/0,3605,548346,00.html Review of Conradi's Murdoch biography], ''The Guardian'' 8 September 2001. Retrieved 24 February 2010.
+* [http://www.arlindo-correia.org/021001.html Collated reviews of Conradi biography]. Retrieved 24 February 2010.
+* [http://www.arlindo-correia.org/120204.html Collated reviews of AN Wilson biography]. Retrieved 24 February 2010.
+* [http://www.thewordtravels.com/iris-murdoch.html A series of Iris Murdoch walks in London] {{Webarchive|url=https://web.archive.org/web/20061215104120/http://www.thewordtravels.com/iris-murdoch.html |date=15 December 2006 }} Retrieved 24 February 2010.
+* [[Galen Strawson]], [http://books.guardian.co.uk/reviews/biography/0,6121,1036391,00.html "Telling tales"] (review of A. N. Wilson's Murdoch biography), ''The Guardian'', 6 September 2003. Retrieved 24 February 2010.
+* Matt Seaton, [http://books.guardian.co.uk/departments/biography/story/0,6000,1034600,00.html {{"'}}I'm Mr Evil{{'"}}] (interview with biographer A. N. Wilson), ''The Guardian'', 3 September 2003. Retrieved 24 February 2010.
+* [https://web.archive.org/web/20141219163925/http://www.usfca.edu/jco/irismurdoch/ Joyce Carol Oates on Iris Murdoch]
+* {{UK National Archives ID}}
+* [http://philpapers.org/asearch.pl?sqc=&onlineOnly=off&showCategories=on&filterMode=keywords&newWindow=on&proOnly=on&categorizerOn=&searchStr=%26quot%3Biris+murdoch%26quot%3B&publishedOnly=on&hideAbstracts=&sort=relevance&filterByAreas=&freeOnly=&format=html&start=0&limit=&jlist=&ap_c1=&ap_c2= Search results for "Iris Murdoch"] at [[PhilPapers]]
+* [https://plato.stanford.edu/entries/ethics-virtue/ "Virtue Ethics"], ''Stanford Encyclopedia of Philosophy'', 18 July 2003; revised 11 October 2022.
+* [https://www.npg.org.uk/collections/search/person/mp05608/dame-jean-iris-murdoch Portraits of Iris Murdoch] at the [[National Portrait Gallery, London]]
+* Graham Wolfe, [https://academic.oup.com/adaptation/advance-article/doi/10.1093/adaptation/apac011/6648900 "Iris Murdoch and the Immoralities of Adaptation"], ''Adaptation'', Volume 15, Issue 3, December 2022, pp. 439–455. Retrieved 8 August 2022.
+
+{{Iris Murdoch}}
+{{Booker Prize}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Murdoch, Iris}}
+[[Category:1919 births]]
+[[Category:1999 deaths]]
+[[Category:20th-century atheists]]
+[[Category:20th-century British dramatists and playwrights]]
+[[Category:20th-century British non-fiction writers]]
+[[Category:20th-century British poets]]
+[[Category:20th-century British novelists]]
+[[Category:20th-century British philosophers]]
+[[Category:20th-century British women writers]]
+[[Category:20th-century Irish women writers]]
+[[Category:Alumni of Newnham College, Cambridge]]
+[[Category:Alumni of Somerville College, Oxford]]
+[[Category:Analytic philosophers]]
+[[Category:Atheist philosophers]]
+[[Category:Booker Prize winners]]
+[[Category:British atheists]]
+[[Category:British ethicists]]
+[[Category:British parodists]]
+[[Category:British people of Irish descent]]
+[[Category:British socialists]]
+[[Category:British women dramatists and playwrights]]
+[[Category:British women non-fiction writers]]
+[[Category:Communist Party of Great Britain members]]
+[[Category:Dames Commander of the Order of the British Empire]]
+[[Category:Deaths from Alzheimer's disease in England]]
+[[Category:Deaths from dementia in England]]
+[[Category:British LGBTQ novelists]]
+[[Category:British LGBTQ poets]]
+[[Category:British women novelists]]
+[[Category:British women philosophers]]
+[[Category:British women poets]]
+[[Category:Fellows of St Anne's College, Oxford]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Irish historians of philosophy]]
+[[Category:James Tait Black Memorial Prize recipients]]
+[[Category:Parody novelists]]
+[[Category:People educated at Badminton School]]
+[[Category:People from Chiswick]]
+[[Category:Philosophers of culture]]
+[[Category:Philosophers of history]]
+[[Category:Philosophers of literature]]
+[[Category:Philosophy writers]]
+[[Category:Platonists]]
+[[Category:Virtue ethicists]]
+[[Category:British historians of philosophy]]
+[[Category:Irish women philosophers]]

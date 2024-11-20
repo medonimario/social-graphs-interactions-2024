@@ -1,0 +1,123 @@
+{{short description|Italian American mathematician}}
+{{distinguish|Carlo Rota}}
+<!--  Commented out because image was deleted: [[Image:GCRota.jpg|350px|thumb|right|Gian-Carlo Rota]] -->
+{{Infobox scientist
+| name              = Gian-Carlo Rota
+| image             = Gian-Carlo_Rota_blackboard_Nizza_1970.jpg
+| image_size        = 220px
+| caption           = Rota in 1970
+| birth_date        = {{BirthDeathAge|B|1932|4|27|1999|4|18|}}
+| birth_place       = [[Vigevano]], Italy
+| death_date        = {{BirthDeathAge||1932|4|27|1999|4|18|}}
+| death_place       = [[Cambridge, Massachusetts|Cambridge]], [[Massachusetts]], U.S.
+| citizenship       = <!-- don't know -->
+| nationality       = <!-- don't know -->
+| fields            = {{ubl|[[Combinatorics]]|[[Functional analysis]]|[[Probability theory]]|[[Phenomenology (philosophy)|Phenomenology]]}}
+| workplaces        = [[Massachusetts Institute of Technology]]<br>[[Los Alamos National Laboratory]]<br>[[The Rockefeller University]]
+| alma_mater        = [[Princeton University]] ([[Bachelor of Arts|AB]])<br>[[Yale University]] ([[Ph.D.|PhD]])
+| doctoral_advisor  = [[Jack Schwartz|Jacob T. Schwartz]]
+| academic_advisors = <!-- don't know -->
+| doctoral_students = <!-- need to go through the list (Mathematics Genealogy Project) and see who is notable -->
+| notable_students  = {{Plainlist|
+*[[Thomas H. Brylawski]]
+*[[William Y.C. Chen]]
+*[[Daniel I. A. Cohen]]
+*[[Henry Crapo (mathematician)|Henry Crapo]]
+*[[Peter Duren]]
+*[[Richard Ehrenborg]]
+*[[Stephen Grossberg]]
+*[[Mark Haiman]]
+*[[Patrick O'Neil]]
+*[[Richard P. Stanley]]
+*[[Walter Whiteley]]
+*[[Catherine Yan]]
+}}
+| known_for         = <!-- hard to tell, please help! -->
+| author_abbrev_bot = <!--Not needed in this case. But keep as template placeholder.-->
+| author_abbrev_zoo = <!--Not needed in this case. But keep as template placeholder.-->
+| influences        = <!-- don't know -->
+| influenced        = <!-- don't know -->
+| awards            = [[Leroy P. Steele Prize]] <small>(1988)</small>
+| religion          = <!-- don't know -->
+| signature         = <!-- none available -->
+| footnotes         = <!--For any footnotes needed to clarify entries above-->
+}}
+'''Gian-Carlo Rota''' (April 27, 1932 &ndash; April 18, 1999) was an Italian-American [[mathematician]] and [[philosopher]]. He spent most of his career at the [[Massachusetts Institute of Technology]], where he worked in [[combinatorics]], [[functional analysis]], [[probability theory]], and [[Phenomenology (philosophy)|phenomenology]].
+
+==Early life and education==
+Rota was born in [[Vigevano]], [[Italy]]. His father, Giovanni, an architect and prominent [[antifascist]], was the brother of the mathematician Rosetta, who was the wife of the writer [[Ennio Flaiano]].<ref name="MacTutor">{{MacTutor Biography|id=Rota}}</ref><ref name="palombi">{{cite book | title = The Star and the Whole: Gian-Carlo Rota on Mathematics and Phenomenology | url = https://archive.org/details/starwholegiancar00palo | url-access = limited | last1 = Palombi  |first1 = Fabrizio | pages = [https://archive.org/details/starwholegiancar00palo/page/n15 6]–7 | publisher = [[CRC Press]] | year = 2011 | isbn = 9781568815831 | quote = His aunt, Rosetta Rota (1911–2003), was a mathematician associated with the renowned Rome university Institute of Physics in Via Panispenra… }}</ref>  Gian-Carlo's family left Italy when he was 13 years old, initially going to [[Switzerland]].
+
+Rota attended the [[Colegio Americano de Quito]] in Ecuador, and graduated with an A.B. in mathematics from [[Princeton University]] in 1953 after completing a senior thesis, titled "On the solubility of linear equations in [[topological vector space]]s", under the supervision of [[William Feller]]. He then pursued graduate studies at [[Yale University]], where he received a [[Doctor of Philosophy|Ph.D.]] in mathematics in 1956 after completing a doctoral dissertation, titled "Extension Theory Of Ordinary Linear [[Differential operator|Differential Operators]]", under the supervision of [[Jacob T. Schwartz]].<ref>{{Cite web|title=American Mathematical Society {{!}} Gian-Carlo Rota (1932–1999)|url=https://www.ams.org/notices/200002/mem-rota.pdf}}</ref><ref>{{Cite thesis|title=Extension Theory Of Ordinary Linear Differential Operators|url=https://orbis.library.yale.edu/vwebv/holdingsInfo?bibId=14963958|publisher=Yale University|date=1956|place=New Haven, Connecticut|first=Gian Carlo|last=Rota}}</ref>
+
+==Career==
+Much of Rota's career was spent as a professor at the [[Massachusetts Institute of Technology]] (MIT), where he was and remains the only person ever to be appointed Professor of Applied Mathematics and Philosophy. Rota was also the [[Norbert Wiener]] Professor of Applied Mathematics.
+
+In addition to his professorships at MIT, Rota held four honorary degrees, from the University of Strasbourg, France (1984); the [[University of L'Aquila]], Italy (1990); the [[University of Bologna]], Italy (1996); and [[Brooklyn Polytechnic|Brooklyn Polytechnic University]] (1997).
+Beginning in 1966 he was a consultant at [[Los Alamos National Laboratory]], frequently visiting to lecture, discuss, and collaborate, notably with his friend [[Stanisław Ulam]]. He was also a consultant for the [[Rand Corporation]] (1966–71) and for the [[Brookhaven National Laboratory]] (1969&ndash;1973). Rota was elected to the [[National Academy of Sciences]] in 1982, was vice president of the [[American Mathematical Society]] (AMS) from 1995–97, and was a member of numerous other mathematical and philosophical organizations.<ref name="web.mit.edu">{{cite web | title=MIT professor Gian-Carlo Rota, mathematician and philosopher, is dead at 66 | website=MIT News | date=1999-04-22 | url=https://news.mit.edu/1999/rota | access-date=2024-01-31}}</ref>
+
+He taught a difficult but very popular course in [[probability]]. He also taught Applications of Calculus, [[differential equations]], and [[Combinatorics|Combinatorial Theory]]. His philosophy course in [[phenomenology (philosophy)|phenomenology]] was offered on Friday nights to keep the enrollment manageable. Among his many eccentricities, he would not teach without a can of [[Coca-Cola]], and handed out prizes ranging from [[Hershey bar]]s to [[pocket knives]] to students who asked questions in class or did well on tests.<ref>{{cite news | author = Wesley T. Chan | title = To Teach or Not To Teach: Professors Might Try a New Approach to Classes – Caring about Teaching | work = [[The Tech (newspaper)|The Tech]] | volume = 117 | issue = 63 | date = December 5, 1997 | url = https://thetech.com/issues/117/63/pdf | page = 5 | access-date = 2008-02-10}}</ref><ref>{{cite news | title = Gian-Carlo Rota | work = [[The Tech (newspaper)|The Tech]] | volume = 119 | issue = 21 | date = April 23, 1999 | url = https://thetech.com/issues/119/21/pdf | access-date = 2008-02-10}}</ref>
+
+Rota began his career as a [[functional analysis|functional analyst]], but switched to become a distinguished [[combinatorics|combinatorialist]]. His series of ten papers on the "Foundations of Combinatorics" in the 1960s is credited with making it a respectable branch of modern mathematics.<ref name="web.mit.edu"/> He said that the one combinatorial idea he would like to be remembered for is the correspondence between combinatorial problems and problems of the location of the zeroes of [[polynomial]]s.<ref name="LANL Gian-Carlo Rota and David Sharp">{{cite web | title=Mathematics, Philosophy, and Artificial Intelligence: a dialogue with Gian-Carlo Rota and David Sharp | website=LANL | url=https://la-science.lanl.gov/lascience12.shtml | year=1985 | volume=12 | access-date=2024-01-31 | page=99}}</ref> He worked on the theory of [[incidence algebra]]s (which generalize the 19th-century theory of [[Möbius inversion formula|Möbius inversion]]) and popularized their study among combinatorialists, set the [[umbral calculus]] on a rigorous foundation, unified the theory of [[Sheffer sequence]]s and [[polynomial sequence]]s of [[binomial type]], and worked on fundamental problems in [[probability theory]]. His philosophical work was largely in the [[Phenomenology (philosophy)|phenomenology]] of [[Edmund Husserl]].<ref name="Rota on Husserl 2000 ">{{cite book | last=Rota | first=Gian-Carlo | title=Phenomenology on Kant, German Idealism, Hermeneutics and Logic | chapter=Ten Remarks on Husserl and Phenomenology | series=Contributions to Phenomenology | publisher=Springer Netherlands | publication-place=Dordrecht | volume=39 | date=2000 | isbn=978-90-481-5448-7 | doi=10.1007/978-94-015-9446-2_7 | pages=89–97}}</ref>
+
+Rota founded the ''[[Advances in Mathematics]]'' journal in 1961.<ref name="web.mit.edu"/>
+
+==Death==
+Rota died of [[Atherosclerosis|atherosclerotic cardiac disease]] on April 18, 1999, apparently in his sleep at his home in Cambridge, Massachusetts.
+
+==See also==
+* [[Kallman–Rota inequality]]
+* [[Rota's conjecture]]
+* [[Rota's basis conjecture]]
+* [[Rota–Baxter algebra]]
+* [[Joint spectral radius]], introduced by Rota in the early 1960s
+* [[Cyclotomic identity]]
+* [[Necklace ring]]
+* [[Twelvefold way]]
+* [[List of American philosophers]]
+
+==Notes==
+{{Reflist}}
+
+==External links==
+*{{MathGenealogy |id=7721}}
+*{{MacTutor Biography|id=Rota}}
+*{{cite book
+  |last1 = Kung
+  |first1 = Joseph
+  |last2 = Rota
+  |first2 = Gian-Carlo
+  |last3 = Yan
+  |first3 = Catherine
+  |title = Combinatorics: The Rota Way
+  |title-link = Combinatorics: The Rota Way
+  |publisher = [[Cambridge University Press]]
+  |series = Cambridge Mathematical Library
+  |year = 2009
+  |isbn = 978-0-521-73794-4
+  }}
+*{{webarchive |url=https://web.archive.org/web/20070630211718/http://www.rota.org/ |date=June 30, 2007 |title=The Forbidden City of Gian-Carlo Rota (a memorial site) }} This page at www.rota.org was not originally intended to be a memorial web site, but was created by Rota himself with the assistance of his friend Bill Chen in January 1999 while Rota was visiting Los Alamos National Laboratory.
+*{{webarchive |url=https://web.archive.org/web/20070811172343/http://www.rota.org/hotair/rotasharp.html |date=August 11, 2007 |title=Mathematics, Philosophy, and Artificial Intelligence: a dialogue with Gian-Carlo Rota and David Sharp }}. From [[Los Alamos Science]] No. 12 ([https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-85-5072 PDF]).
+*[https://web.archive.org/web/20150310024937/http://www.princeton.edu/~mudd/finding_aids/mathoral/pmcxrota.htm "Fine Hall in its golden age: Remembrances of Princeton in the early fifties" by Gian-Carlo Rota.]
+*[http://www.math.tamu.edu/~cyan/Rota.html Tribute page by Prof. Catherine Yan (Texas A&M University), a former student of Rota]
+*[http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf Scanned copy of Gian-Carlo Rota's and Kenneth Baclawski's Introduction to Probability and Random Processes manuscript in its 1979 version.]
+* {{Cite book |author=Gian-Carlo Rota |title=Indiscrete Thoughts |year=1996 |publisher=Birkhäuser Boston|isbn=0-8176-3866-0}}; review at [https://maa.org/publications/maa-reviews/indiscrete-thoughts-0]
+*[https://archive.today/20121209093253/http://ra.crema.unimi.it/Rota2009 The Digital Footprint of Gian-Carlo Rota]: International Conference in memory of Gian-Carlo Rota, organized by Ottavio D'Antona, Vincenzo Marra and [[Ernesto Damiani]] at the [[University of Milan]] (Italy)
+* [https://www.springer.com/us/book/9780817642754 Gian-Carlo Rota on Analysis and Probability], {{ISBN|978-0-8176-4275-4}}.
+* [http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/rota-gian-carlo.pdf Joseph P. S. Kung, "Gian-Carlo Rota", Biographical Memoirs of the National Academy of Sciences (2016)]
+{{Authority control}}
+
+{{DEFAULTSORT:Rota, Gian-Carlo}}
+[[Category:1932 births]]
+[[Category:1999 deaths]]
+[[Category:People from Vigevano]]
+[[Category:20th-century Italian mathematicians]]
+[[Category:20th-century Italian philosophers]]
+[[Category:20th-century American mathematicians]]
+[[Category:20th-century American philosophers]]
+[[Category:Combinatorialists]]
+[[Category:American people of Italian descent]]
+[[Category:Princeton University alumni]]
+[[Category:Yale University alumni]]
+[[Category:Massachusetts Institute of Technology School of Science faculty]]
+[[Category:Phenomenologists]]
+[[Category:Probability theorists]]

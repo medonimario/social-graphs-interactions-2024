@@ -1,0 +1,68 @@
+{{short description|Scottish philosopher (1808–1864)}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+[[File:James-Frederick-Ferrier.jpg|thumb]]
+
+'''James Frederick Ferrier''' (16 June 1808 – 11 June 1864) was a Scottish [[metaphysics|metaphysical]] writer and philosopher. He introduced the word ''[[epistemology]]'' in philosophical English,<ref>{{cite book |title=Oxford English Dictionary |date=2014 |publisher=Oxford University Press |edition=3rd |chapter=Epistemology}} The word is used for the first time in his book, ''Institutes of Metaphysics'',  where he also distinguishes it from ontology, and states: "This section of the science is properly termed the ''' epistemology''' - the doctrine or theory of knowing, just as ontology is the doctrine or theory of being." See Third Edition, Edinburgh: William Blackwood, 1875, Introduction, §55, p. 48. See also [[Epistemology#Etymology]].</ref> as well as coining [[agnoiology]] for the study of ignorance.<ref>{{cite encyclopedia |year=1930 |title=Agnoiology |encyclopedia=[[Encyclopaedia Britannica]] |edition=14 |volume=1 |page=351 |language=en}} See also ''Institutes of Metaphysics'' Section II: THE AGNOIOLOGY, OR THEORY OF IGNORANCE, p. 405f.</ref>
+
+==Education and early writings==
+[[File:Townhouse at 15 Heriot Row, Edinburgh.jpg|thumb|Townhouse at 15 Heriot Row, Edinburgh]]
+Ferrier was born at 15 [[Heriot Row]]<ref>Edinburgh Post Office Directory 1810/11</ref> in [[Edinburgh]], the son of John Ferrier, [[writer to the signet]]. He was educated at the [[Royal High School (Edinburgh)|Royal High School]], the [[University of Edinburgh]] and [[Magdalen College, Oxford]], and subsequently, his metaphysical tastes having been fostered by his intimate friend, [[Sir William Hamilton, 9th Baronet|Sir William Hamilton]], spent some time at [[university of Heidelberg|Heidelberg]] studying [[German philosophy]].{{sfn|Chisholm|1911|p=288}}
+
+In 1840 he is listed as an advocate living at 14 Carlton Street in the [[Stockbridge, Edinburgh|Stockbridge]] area of Edinburgh.<ref>Edinburgh Post Office directory 1840</ref>
+
+In 1842 he was appointed professor of [[civil history]] at Edinburgh University, still living at Carlton Street.<ref>Edinburgh Post Office Directory 1844</ref> In 1845 professor of [[moral philosophy]] and [[political economy]] at the [[University of St Andrews]]. He was twice an unsuccessful candidate for chairs in Edinburgh, for that of [[moral philosophy]] on Wilson's resignation in 1852, and for that of [[logic]] and metaphysics in 1856, after Hamilton's death. He remained at St Andrews until his death.{{sfn|Chisholm|1911|p=288}}
+
+==Family==
+[[File:Grave of James Frederick Ferrier, St Cuthberts, Edinburgh.JPG|thumb|Grave of James Frederick Ferrier, [[St Cuthbert's Church, Edinburgh]]]]
+James Ferrier married his cousin, Margaret Anne Wilson, daughter of his mother's brother, the writer [[John Wilson (Scottish writer)|John Wilson]], who wrote under the pseudonym Christopher North.<ref>{{Cite web|url=http://www.heriotrow.org/James-Frederick-Ferrier/|title = Heriot Row History}}</ref> His younger brother was named John Wilson Ferrier.
+
+Ferrier had five children, one of whom became the wife of [[Sir Alexander Grant, 10th Baronet|Sir Alexander Grant]].{{sfn|Chisholm|1911|p=288}} He was also the great-great-grandfather of [[Ludovic Kennedy]].
+ 
+He died in [[St Andrews]] (possibly of syphilis) and is buried with his aunt [[Susan Ferrier]] in [[St Cuthbert's Church, Edinburgh|St. Cuthberts Churchyard]] in [[Edinburgh]] just to the north-east of the church.
+
+==Early career==
+Ferrier's first contribution to metaphysics was a series of articles in ''[[Blackwood's Magazine]]'' (1838–1839), entitled ''An Introduction to the Philosophy of Consciousness''. In these he condemns previous philosophers for ignoring in their psychological investigations the fact of [[consciousness]], which is the distinctive feature of man, and confining their observation to the so-called states of the mind.{{sfn|Chisholm|1911|p=288}} He argues as follows:
+
+{{quote|Consciousness is manifest only when the man has used the word with full knowledge of what it means. This notion he must originate within himself. Consciousness cannot spring from the states which are its object, for it is in [[wikt:antagonism|antagonism]] to them. It originates in the will, which in the act of consciousness puts the "I" in the place of our sensations. [[Morality]], [[conscience]], and [[Moral responsibility|responsibility]] are necessary results of consciousness.{{sfn|Chisholm|1911|p=288}}}}
+
+These articles were succeeded by a number of others, of which the most important were ''The Crisis of Modern Speculation'' (1841), ''Berkeley and Idealism'' (1842), and an important examination of Hamilton's edition of [[Thomas Reid|Reid]] (1847), which contains a vigorous attack on the philosophy of [[common sense]]. Ferrier pronounces the perception of matter to be the ''[[ne plus ultra]]'' of thought, and declares that Reid, for presuming to analyse it, is in fact a [[representationist]], although he professed to be an [[intuitionist]]. Ferrier distinguishes between the perception of matter and our apprehension of the perception of matter. [[Psychology]], he asserts, vainly tries to analyse the former, while [[metaphysics]] shows the latter alone to be analysable. Metaphysics separates the subjective element, our apprehension, from the objective element, the perception of matter; not matter ''[[List of Latin phrases (P)#per se|per se]]'', but the perception of matter is the existence independent of the individual's thought. However, he says, it cannot be independent of thought; it must belong to some mind, and is therefore the property of the [[Divine Mind]]. There, he thinks, is an indestructible foundation for an ''[[List of Latin phrases (A)#a priori|a priori]]'' argument for the [[existence of God]].{{sfn|Chisholm|1911|p=288}}
+
+==Later writings==
+Ferrier's matured philosophical doctrines find expression in the ''Institutes of Metaphysic: The Theory of Knowing and Being'' (1854), in which he claims to have met the twofold obligation resting on every system of philosophy, that it should be reasoned and true. His method is that of [[Baruch Spinoza|Spinoza]], strict demonstration, or at least an attempt at it. All the errors of natural thinking and psychology must fall under one or other of three topics: [[Knowledge|Knowing and the Known]], [[Ignorance]], and [[Being]]. These are all-comprehensive, and are therefore the departments into which philosophy is divided, for the sole end of philosophy is to correct the inadvertencies of ordinary thinking.{{sfn|Chisholm|1911|p=288}}
+
+Self-evident truths concerning knowing and the known are discussed in the ''Institutes of Metaphysic'' (Ferrier is thought to have coined the term [[epistemology]] in this work, p.&nbsp;46). It explains that the fact that any intelligence, in addition to knowing whatever it knows, must as the ground or condition of its knowledge have some [[self-awareness|cognizance of itself]] as the basis of the whole philosophical system. In addition, the only possible kind of knowable is one which is both known of an object and known by a subject (Object + Subject, or Thing + Intelligence). This leads to the conclusion that the only independent [[universe]] which any mind can think of is the universe in synthesis with some other mind or ego.{{sfn|Chisholm|1911|p=288}}
+
+The leading contradiction which is corrected in the ''Agnoiology or Theory of Ignorance'' claims that there can be an ignorance of that of which there can be no knowledge. It is corrected by appealing to the fact that Ignorance is a defect, and argues that there is no defect in not knowing what cannot be known by any intelligence (for example, that two and two make five), and therefore there can be an ignorance only of that of which there can be a knowledge, that is, of some-object-plus-some-subject. Therefore, the knowable alone is the ignorable. Ferrier lays special claim to originality for this division of the Institutes.{{sfn|Chisholm|1911|p=288}}
+
+''The Ontology or Theory of Being'' forms a discussion of the origin of knowledge, in which Ferrier traces all the perplexities and errors of philosophers to the assumption of the absolute existence of matter. The conclusion arrived at is that the only true real and independent existences are minds-together-with-that-which-they-apprehend, and that the one strictly necessary absolute existence is a supreme and infinite and everlasting mind in synthesis with all things.{{sfn|Chisholm|1911|p=288}}
+
+The [[Encyclopædia Britannica Eleventh Edition|1911 ''Encyclopædia Britannica'']] adjudges Ferrier's works as remarkable for their unusual charm and simplicity of style, qualities which are especially noticeable in the ''Lectures on Greek Philosophy'', one of the best introductions on the subject in the English language.{{sfn|Chisholm|1911|p=288}}
+
+A complete edition of his philosophical writings was published in 1875, with a memoir by [[Edmund Law Lushington]]. See also the monograph by [[Elizabeth Sanderson Haldane]] in the ''Famous Scots Series'' (link below).{{sfn|Chisholm|1911|p=288}}
+
+==References==
+{{Reflist}}
+* {{EB1911|wstitle=Ferrier, James Frederick|volume=10|pages=287–288}}
+
+==External links==
+{{wikisource-author}}
+* ''[https://archive.org/details/jamesfrederick00halduoft James Frederick Ferrier]'', an 1899 book in the [[List of books for the "Famous Scots Series"|Famous Scots Series]] by [[Elizabeth Sanderson Haldane]].
+* [http://www.iep.utm.edu/ferrier/ James Frederick Ferrier], ''Internet Encyclopedia of Philosophy''.
+* [http://www.alastairmcintosh.com/general/resources/2010-Ferrier-Scottish-Soil.pdf Extract from Ferrier's ''Scottish Philosophy the Old and the New'' of 1856]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ferrier, James Frederick}}
+[[Category:1808 births]]
+[[Category:1864 deaths]]
+[[Category:Writers from Edinburgh]]
+[[Category:People educated at the Royal High School, Edinburgh]]
+[[Category:Heidelberg University alumni]]
+[[Category:Metaphysicians]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Alumni of Magdalen College, Oxford]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:Academics of the University of St Andrews]]
+[[Category:19th-century Scottish philosophers]]
+[[Category:Epistemologists]]

@@ -1,0 +1,136 @@
+{{short description|Czech philosopher (1907–1977)}}
+{{more footnotes needed|date=December 2017}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[20th-century philosophy]]
+| image            = Patocka 1971.jpg
+| image_size       = 200px
+| caption          = Jan Patočka (1971)<br /><sup>Photo: Jindřich Přibík</sup>
+| name             = Jan Patočka
+| other_names      = 
+| birth_date       = {{Birth date|1907|06|01|df=y}}
+| birth_place      = [[Turnov]], [[Kingdom of Bohemia|Bohemia]], [[Austria-Hungary]]
+| death_date       = {{Death date and age|1977|03|13|1907|06|01|df=y}}
+| death_place      = [[Prague]], [[Czechoslovakia]]
+| alma_mater       =
+| school_tradition = [[Continental philosophy]]<br>[[Phenomenology (philosophy)|Phenomenology]]<br>"Asubjective phenomenology" / [[Existential phenomenology]]<br>"Negative [[Platonism]]"
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = {{flatlist|
+* [[Václav Bělohradský|Bělohradský]]
+* [[Tomáš Halík|Halík]]
+* [[Ladislav Hejdánek|Hejdánek]]
+* [[Radim Palouš|Palouš]]
+* [[Jan Sokol (philosopher)|Sokol]]
+}}
+| language         = 
+| main_interests   = {{hlist|[[Aesthetics]]|[[philosophical anthropology|anthropology]]|[[ethics]]|[[philosophy of history|history]]|[[metaphysics]]|[[metaphilosophy|philosophy]]|[[political philosophy|politics]]|[[spirituality]]}}
+| notable_ideas    = {{hlist|[[Spiritual practice|Care of the soul]], post-European era, [[lifeworld|natural world]], three movements of human existence}}
+| notable_works    = {{flatlist|
+* ''Heretical Essays in the Philosophy of History'' (1975)
+* ''Plato and Europe'' (1973)
+* ''Body, Community, Language, World'' (1969)
+* ''The Natural World as a Philosophical Problem'' (1936)
+}}
+| influences       = {{flatlist|
+* [[Eugen Fink|Fink]]
+* [[Hegel]]
+* [[Martin Heidegger|Heidegger]]
+* [[Heraclitus]]
+* [[Edmund Husserl|Husserl]]
+* [[Friedrich Nietzsche|Nietzsche]]
+* [[Plato]]
+* [[Socrates]]
+* [[:de:Wilhelm Weischedel|Weischedel]]
+}}
+| influenced       = {{flatlist|
+* [[Charter 77]] (including [[Václav Havel|Havel]])
+* [[Czech philosophy]] since the [[Prague Spring]]
+* [[Renaud Barbaras|Barbaras]]
+* [[Jacques Derrida|Derrida]]
+* [[Erazim Kohák|Kohák]]
+}}
+| signature        = 
+}} 
+'''Jan Patočka''' ({{IPA|cs|ˈpatot͡ʃka}}; 1 June 1907 – 13 March 1977) was a [[Czech philosopher]]. Having studied in [[Prague]], [[Paris]], [[Berlin]], and [[Freiburg]], he was one of the last pupils of [[Edmund Husserl]] and [[Martin Heidegger]]. In Freiburg he also developed a lifelong philosophical friendship with Husserl's assistant [[Eugen Fink]]. Patočka worked in the [[Czechoslovak Socialist Republic]] for almost his entire career, but never joined the [[Communist Party of Czechoslovakia|Communist Party]] and was affected by persecution, which ended in his death as a dissident spokesperson of [[Charter 77]].
+
+Patočka was a prolific writer and lecturer with a wide range of reference, contributing much to [[existential phenomenology]] as well as the interpretation of Czech culture and European culture in general. From his Czech collected works, some of the most notable have been translated to English and other major languages. These include the late works ''Plato and Europe'' (1973) and ''Heretical Essays in the Philosophy of History'' (1975), in which Patočka developed a [[philosophy of history]] identifying the [[Socrates|Socratic]]-[[Plato]]nic theme of the [[Spiritual practice|care of the soul]] as the basis of "Europe".
+
+==Early life==
+Patočka attended [[Jan Neruda Grammar School]].
+
+In 1936 he completed his habilitation with a thesis entitled '' Přirozený svět jako filosofický problém '' (The natural world as a philosophical problem), the first systematic phenomenological study in the Czech language, which was correspondingly influential on Czech philosophy. In 1937, Patočka took over the post of editor-in-chief of the philosophical journal '' Česká mysl '' (The Czech Mind). In 1938 he became a member of the [[Institut International de Philosophie]].
+
+==Works==
+His works mainly dealt with the problem of the original, given world (''Lebenswelt''), its structure and the human position in it. He tried to develop this [[Edmund Husserl|Husserlian]] concept under the influence of some core [[Martin Heidegger|Heideggerian]] themes (e.g. historicity, technicity, etc.)  On the other hand, he also criticised Heideggerian philosophy for not dealing sufficiently with the basic structures of [[Heideggerian terminology#Being-in-the-world|being-in-the-world]], which are not [[Heideggerian terminology#Aletheia|truth-revealing]] activities (this led him to an appreciation of the work of [[Hannah Arendt]]). From this standpoint he formulated his own original theory of "three movements of human existence": 1) ''receiving'', 2) ''reproduction'', 3) ''transcendence''. He also translated many of [[Georg Wilhelm Friedrich Hegel|Hegel]]'s and [[Friedrich Wilhelm Joseph von Schelling|Schelling]]'s works into Czech. In his lifetime, Patočka published in Czech, German, and French.
+
+Apart from his writing on the problem of the ''Lebenswelt'', he wrote interpretations of [[Pre-Socratic philosophy|Presocratic]] and [[Ancient Greek philosophy#Classical Greek philosophy|classical Greek philosophy]] and several longer essays on the history of Greek ideas in the formation of our concept of Europe. Patočka increasingly focused on the idea of Europe during the 1970s.<ref>[[:cs:Jóhann Páll Árnason|Árnason, J. P.]], & Doyle, N., eds., ''Domains and Divisions of European History'' ([[Liverpool]]: [[Liverpool University Press]], 2010), [https://books.google.com/books?id=gWHu7SQQa04C&pg=PA153 p. 153].</ref> As he was banned from teaching (see below), he held clandestine lectures in his private apartment on the Greek thought in general and on Plato in particular in the late 70s. These clandestine lectures are collectively known as ''Plato and Europe'', and they are published under the same title in English. He also entered into discussions about modern Czech philosophy, art, history and politics. He was an esteemed scholar of Czech thinkers such as [[John Amos Comenius|Komensky]] (b.1592) (also known as Comenius) and [[Tomáš Masaryk|Masaryk]] (b.1850). In 1971, he has published a small treatise on Comenius in German titled ''Die Philosophy der Erziehung des J.A. Comenius (Comenius's Philosophy of Education).'' In 1977, his work on Masaryk culminated in 'Two Studies on Masaryk, which was initially a privately circulated typescript.<ref>Erazim Kohak, "Jan Patočka: A Philosophical Biography" in (ed.) Erazim Kohak, ''Jan Patočka: Philosophy and Selected Writings'' (Chicago & London: The University of Chicago Press, 1989), p. 4.</ref>
+
+Patočka's ''Heretical Essays in the Philosophy of History'' is analyzed at length and with much care in [[Jacques Derrida]]'s important book ''The Gift of Death.'' Derrida was the most recent person who wrote or conversed with Patočka's thought; [[Paul Ricoeur]] and [[Roman Jakobson]] (who respectively wrote the preface and afterword to the French edition of the ''Heretical Essays'') are two further examples.
+
+[[Image:patocka grave.jpg|thumb|right|150px|Grave of Jan Patočka, Břevnov cemetery, Prague]]
+During the years 1939–1945, when the Czech universities were closed, as well as between 1951 and 1968, and from 1972 on, Patočka was banned from teaching. Only a few of his books were published and most of his work circulated only in the form of typescripts kept by students and disseminated mostly after his death. Along with other banned intellectuals he gave lectures at the so-called "Underground University", which was an informal institution that tried to offer a free, uncensored cultural education. In January 1977 he became one of the original signatories and main spokespersons for the [[Charter 77]] (Charta 77) human rights movement in Czechoslovakia. For the three months after the Charter was released he was intensely active writing and speaking about the meaning of the Charter, in spite of his deteriorating health. He was also interrogated by the police regarding his involvement with the Charter movement. On March 3, 1977, he was held by the police for ten hours, who had claimed that he would be allowed to speak in his role as a Charter spokesperson with a high-ranking official (in fact, this was a pretext to keep him from attending a reception at the West German embassy<ref>John Bolton, ''Worlds of Dissent ''(Cambridge: Harvard University Press, 2012), p. 159.</ref>). He fell ill that evening and was taken to the hospital, where his health briefly improved, enabling him to give one final interview with ''Die Zeit ''and to write one final essay entitled "What We Can Expect from Charter 77." On March 11 he relapsed, and on March 13 he died of [[apoplexy]], at the age of 69.
+
+His brother [[František Patočka]] was a microbiologist.
+
+==List of works==
+* ''The Natural World as a Philosophical Problem'' [Přirozený svět jako filosofický problém]
+* ''An Introduction to Husserl's Phenomenology'' [Úvod do Husserlovy fenomenologie]
+* ''Aristotle, his Predecessors and his Heirs'' [Aristoteles, jeho předchůdci a dědicové]
+* ''Body, Community, Language, World'' [Tělo, společenství, jazyk, svět]
+* ''Negative Platonism'' [Negativní platónismus]
+* ''Plato and Europe'' [Platón a Evropa]
+* ''Who are the Czechs?'' [Co jsou Češi?]
+* ''Care for the Soul'' [Péče o duši]
+* ''Heretical Essays in the Philosophy of History'' [Kacířské eseje o filosofii dějin]
+* ''Two Studies on Masaryk'' [Dvě studie o Masarykovi]
+
+=== In English ===
+* "Wars of the Twentieth Century and the Twentieth Century as War". [http://www.telospress.com ''Telos''] 30 (Winter 1976–77). New York: Telos Press.
+* ''Jan Patocka: Philosophy and Selected Writings.'' Edited by Erazim Kohak. Chicago & London: The Chicago University Press, 1989.
+* ''Body, Community, Language, World''.  Translated by Erazim Kohák.  Edited by James Dodd.  Chicago, IL: Open Court, 1998.
+* ''Heretical Essays in the Philosophy of History''.  Translated by Erazim Kohák.  Edited by James Dodd.  Chicago, IL: Open Court, 1996.
+* ''An Introduction to Husserl's Phenomenology''.  Translated by Erazim Kohák.  Edited by James Dodd.  Chicago, IL: Open Court, 1996.
+* ''Plato and Europe''.  Translated by Petr Lom.  Stanford, CA: Stanford University Press, 2002.
+* ''The Natural World as a Philosophical Problem.'' Translated by Erika Abrams. Edited by Ivan Chvatík and Ľubica Učnik. Evanston, IL: Northwestern University Press, 2016.
+* ''The Selected Writings of Jan Patočka''. Edited by Erin Plunkett. London: Bloomsbury, 2022.
+
+== Media ==
+The 2017 movie, ''The Socrates of Prague'', was filmed in Prague and debuted in Brussels. This film explores Patočka's life and work in the second half of the twentieth century in Communist Central Europe by interviewing several of his students and friends.<ref>"The Socrates of Prague", [http://patockamovie.ophen.org/].</ref>
+
+== References ==
+<references />
+
+== Further reading ==
+* [[Renaud Barbaras]], ''Le mouvement de l'existence. Etudes sur la phénoménologie de Jan Patočka'', Les Editions de la transparence, 2007
+* Dalibor Truhlar, ''Jan Patočka. Ein Sokrates zwischen Husserl und Heidegger'', Sonderpublikation des Universitätszentrums für Friedensforschung Wien, 1996
+* Erazim Kohák, ''Jan Patočka: Philosophy and Selected writings''.
+* [[Jacques Derrida]], ''The Gift of Death''
+* Edward F. Findlay, ''Caring for the soul in a postmodern age : politics and phenomenology in the thought of Jan Patočka.'' Albany: SUNY Press, 2002. 
+* Marc Crépon, ''Altérités de l'Europe.''
+* [http://www.studia-phaenomenologica.com/?page=issue&id=7 Jan Patočka and the European Heritage, Studia Phaenomenologica VII (2007) - Ivan Chvatik (guest editor)]
+* Emre Şan, ''La transcendance comme problème phénoménologique: Lecture de Merleau-Ponty et Patočka.'' Paris: Mimesis, 2012.
+* [[Francesco Tava]], ''The Risk of Freedom: Ethics, Phenomenology, and Politics in Jan Patočka.'' London: Rowman & Littlefield International, 2015.
+* Dariam Meacham & Francesco Tava (eds.), ''Thinking After Europe: Jan Patocka and Politics.'' Rowman & Littlefield International, 2016.
+*James Mensch. ''Patočka’s Asubjective Phenomenology: Toward a New Concept of Human Rights'' (''Orbis Phaenomenologicus Studien'', vol. 38), Würzburg: Königshausen & Neumann, 2016.   
+*Ivan Chvatík and Erin Plunkett (eds.), ''The Selected Writings of Jan Patočka: Care for the Soul.'' Bloomsbury, 2022.
+
+== External links ==
+{{Wikiquote}}
+*[http://ajp.cuni.cz/index.php/Home The Jan Patočka Archive in Prague]
+*[http://archiv.janpatocka.cz/ Jan Patočka - audio recordings]
+* The [http://www.iwm.at/research/patocka/ Jan Patočka Archive, Vienna, Institute of Human Sciences] {{Webarchive|url=https://web.archive.org/web/20171004075714/http://www.iwm.at/research/patocka/ |date=2017-10-04 }}
+* [http://www.husserlpage.com/hus_r2pa.html A Representative Bibliography of Writings], a bibliography
+
+{{Authority control}}
+
+{{DEFAULTSORT:Patocka, Jan}}
+[[Category:1907 births]]
+[[Category:1977 deaths]]
+[[Category:Academic staff of Charles University]]
+[[Category:Charter 77 signatories]]
+[[Category:Czech philosophers]]
+[[Category:People from the Kingdom of Bohemia]]
+[[Category:People from Turnov]]
+[[Category:Phenomenologists]]
+[[Category:Recipients of the Order of Tomáš Garrigue Masaryk]]

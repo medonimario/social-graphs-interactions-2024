@@ -1,0 +1,140 @@
+{{short description|British philosopher, theologian, historian and Anglican priest (1858-1924)}}
+{{EngvarB|date=July 2017}}
+{{Use dmy dates|date=July 2017}}
+{{Infobox person
+| honorific_prefix   = [[The Reverend]]
+| name               = Hastings Rashdall
+| honorific_suffix   = {{post-nominals|country=GBR|FBA|size=100%}}
+| image              = Oswald Hornby Joseph Birley (1880–1952) - Hastings Rashdall (1858–1924) - 2755 - New College.jpg
+| landscape          = <!-- yes, if wide image, otherwise leave blank -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = Randall in 1923
+| birth_date         = {{birth date|1858|06|24|df=yes}}
+| birth_place        = [[London]], England
+| death_date         = {{death date and age|1924|02|09|1858|06|24|df=yes}}
+| death_place        = [[Worthing]], [[Sussex]], England
+| spouse             = {{marriage|Constance|1905}}{{sfn|Rayner|2005|p=13}}
+| module             = {{Infobox clergy |child=yes
+| church             = [[Church of England]]
+| ordained           = {{hlist | 1884 (deacon){{sfn|Jackson|Gilmore|1953|p=390}} | 1886 (priest){{sfn|Rayner|2005|p=4}}}}
+| offices_held       = [[Dean of Carlisle]] (1917–1924)
+}}
+| module2            = {{Infobox academic |child=yes
+| alma_mater         = [[New College, Oxford]]
+| thesis_title       = 
+| thesis_year        = 
+| school_tradition   = {{hlist | [[Idealism]] | [[liberal Christianity|theological liberalism]]{{sfn|Rayner|2005|pp=2, 9}}}}
+| influences         = {{hlist | [[T.&nbsp;H. Green]] | [[J.&nbsp;B. Lightfoot]]{{sfn|Rayner|2005|p=239}} | [[Henry Sidgwick]]}}
+| era                = 
+| discipline         = {{hlist | [[History]] | [[philosophy]] | [[theology]]}}
+| sub_discipline     = {{hlist | [[Medieval history]] | [[metaphysics]] | [[moral philosophy]]}}
+| workplaces         = {{ubl | [[University of Wales, Lampeter|St David's College]] | [[University College, Durham]] | [[Hertford College, Oxford]] | [[New College, Oxford]]}}
+| doctoral_students  = <!--only those with WP articles-->
+| notable_students   = <!--only those with WP articles-->
+| main_interests     = 
+| notable_works      = ''[[The Theory of Good and Evil]]'' (1907)
+| notable_ideas      = [[Utilitarianism#Ideal utilitarianism|Ideal utilitarianism]]
+| influenced         = [[Henry Herbert Symonds]]
+}}
+| signature          = 
+| signature_alt      = 
+}} 
+[[File:Grave of Hastings Rashdall.jpg|thumb|Holywell Cemetery, Oxford]]
+
+'''Hastings Rashdall''' {{post-nominals|country=GBR|FBA}} (24 June 1858 – 9 February 1924) was an English philosopher, [[Theology|theologian]], historian, and [[Anglican]] priest. He expounded a theory known as [[Utilitarianism#Ideal utilitarianism|ideal utilitarianism]], and he was a major historian of the universities of the [[Middle Ages]].<ref>{{harvnb|Garnett|2004}}, where Rashdall's ''The Universities of Europe in the Middle Ages'' is referred to as "a standard work."</ref> He argued for [[personal idealism]] and [[theistic finitism]].
+
+==Biography==
+Born in [[Kensington]], [[London]], on 24 June 1858,{{sfn|Garnett|2004}} Rashdall was the son of an [[Anglican]] priest. He was educated at [[Harrow School|Harrow]]{{sfn|"Rashdall, Very Rev. Hastings"|2007}} and received a scholarship for [[New College, Oxford|New College]], Oxford. After short tenures at [[St David's University College]] and [[University College, Durham]], Rashdall was made a Fellow of first [[Hertford College, Oxford]], then [[New College, Oxford]], and dedicates his main work, ''[[The Theory of Good and Evil]]'' (1907), to the memory of his teachers [[T.&nbsp;H. Green]] and [[Henry Sidgwick]].
+
+The dedication is appropriate, for the particular version of utilitarianism put forward by Rashdall owes elements to both Green and Sidgwick.{{sfn|Garnett|2004}} Whereas he holds that the concepts of good and value are logically prior to that of right, he gives right a more than instrumental significance. His idea of good owes more to Green than to the hedonistic utilitarians. "The ideal of human life is not the mere juxtaposition of distinct goods, but a whole in which each good is made different by the presence of others." Rashdall has been eclipsed as a moral philosopher by [[G.&nbsp;E. Moore]], who advocated similar views in his earlier work ''[[Principia Ethica]]'' (1903). Rashdall was also a [[George Berkeley|Berkeleyan]] and advocated his own variant of [[personal idealism]].<ref name="Sell 2012">Sell, Alan P. F. (2012). ''The Philosophy of Religion 1875-1980''. Wipf & Stock Publishers. pp. 46-47. {{ISBN|978-1620324264}}</ref> He rejected absolute idealism and criticized other philosophers who identified God with the absolute. He argued that there can be no matter without a perceiving mind and that God is an infinite mind, ground of all things and the supreme personality.<ref name="Sell 2012"/> He argued for an anthropomorphic God that is limited in power to explain the [[problem of evil]].<ref>Nicholls, David. (1989). ''Deity and Domination: Images of God and the State in the Nineteenth and Twentieth Centuries''.  Routledge. pp. 53-54. {{ISBN|978-0415011716}}</ref><ref>Henry, Carl Ferdinand Howard. (1999). ''God, Revelation and Authority: God Who Stands and Stays, Volume 6''. Crossway Books. p. 285. {{ISBN|1-58134-056-7}}</ref>
+
+His historical study, ''The Universities of Europe in the Middle Ages'',<ref>{{cite magazine |date=April 1896 |title=Review of ''The European Universities of the Middle Ages'', by Hastings Rashdall |url=https://archive.org/details/quarterlyreview46smitgoog |journal=The Quarterly Review |volume=183 |pages=445–472 |access-date=2 October 2019}}</ref> was described in the introduction to its recent reprinting as "one of the first comparative works on the subject" whose "scope and breadth has assured its place as a key work in intellectual history."
+
+His ''The Idea of Atonement in Christian Theology'' surveyed different approaches to the Christian doctrine of [[Atonement in Christianity|atonement]], concluding with an influential defence of the "subjective" theory of the atonement that Rashdall attributed to both [[Peter Abelard]] and [[Peter Lombard]]. Rashdall argued that the "objective" view of the atonement associated with [[Anselm of Canterbury]] was inadequate, and that the most authentically Christian doctrine was that Christ's life was a demonstration of God's love so profound that Christ was willing to die rather than compromise his character. This in turn inspires believers to emulate his character and his intimacy with the Father.{{sfn|Rashdall|1919|pp=437–447}}
+
+Rashdall received the degree [[Doctor of Letters]] (DL) from New College, Oxford, in October 1901.<ref>{{Cite newspaper The Times |title=University Intelligence |date=18 October 1901 |page=4 |issue=36589}}</ref>
+
+He was president of the [[Aristotelian Society]] from 1904 to 1907,{{sfn|Matheson|1928|p=115}} a member of the [[Christian Social Union (Church of England)|Christian Social Union]] from its inception in 1890, and was an influential [[Anglican]] modernist theologian of the time, being appointed to a canonry in 1909.
+
+He was [[Dean of Carlisle]] from 1917 to 1924, and died of cancer in [[Worthing]]<ref>{{cite news |date=11 February 1924 |title=Dean Rashdall |newspaper=The Times |location=London |issue=43572 |page=17}}</ref> on 9 February 1924.{{sfn|Matheson|1928|p=230}} He is buried in [[Holywell Cemetery]], Oxford.
+
+==Selected works==
+*{{cite book | last = Rashdall | first = Hastings | title = The Universities of Europe in the Middle Ages, ''2 vols. in 3 parts'' | url = https://books.google.com/books?id=4m-ISQAACAAJ | orig-year = 1895 | year = 2010 | publisher = Cambridge University Press [orig. Oxford: Clarendon Press] | location = Cambridge | isbn = 978-1-108-01813-5 }}
+*[https://archive.org/details/doctrineanddevel00rashuoft ''Doctrine and Development: University Sermons''] (1898) 
+*[https://archive.org/stream/newcollege00rashrich#page/n9/mode/2up ''New College''] (with [[Robert Rait]], 1901)
+*[https://archive.org/details/christusineccles00rashuoft ''Christus in Ecclesia: Sermons on the Church and Its Institutions''] (1904) 
+*[http://fair-use.org/hastings-rashdall/the-theory-of-good-and-evil/ ''The Theory of Good and Evil''] (1907)
+*[https://archive.org/details/rashdallsethics00rashuoft ''Ethics''] (undated)
+*[https://archive.org/details/philosophyandrel00rashuoft ''Philosophy and Religion''] (1910)
+*[https://archive.org/details/isconscienceane00rashgoog ''Is Conscience an Emotion? Three Lectures on Recent Ethical Theories''] (1914)
+*[https://archive.org/details/consciencechrist00rashrich ''Conscience and Christ: Six Lectures on Christian Ethics''] (1916) 
+*[https://archive.org/details/atonementchristi00rashuoft ''The Idea of Atonement in Christian Theology''] (London: Macmillan, 1919) 
+*[https://archive.org/details/kingscollegelect00matt ''The Moral Argument for Personal Immortality''] in ''King's College Lectures on Immortality'' (1920)
+*[https://archive.org/details/MN40227ucmf_1 ''God and Man''] 1930
+
+==See also==
+* [[Moral influence theory of atonement]]
+
+==References==
+===Footnotes===
+{{reflist|22em}}
+
+===Bibliography===
+{{refbegin|35em|indent=yes}}
+* {{cite encyclopedia |last=Garnett |first=Jane |year=2004 |title=Rashdall, Hastings (1858–1924) |encyclopedia=[[Oxford Dictionary of National Biography]] |location=Oxford |publisher=Oxford University Press |doi=10.1093/ref:odnb/35676}}
+* {{cite book |year=1953 |editor1-last=Jackson |editor1-first=Samuel Macauley |editor1-link=Samuel Macauley Jackson |editor2-last=Gilmore |editor2-first=George William |title=[[Schaff–Herzog Encyclopedia of Religious Knowledge|The New Schaff–Herzog Encyclopedia of Religious Knowledge]] |volume=9 |location=Grand Rapids, Michigan |publisher=Baker Book House}}
+* {{cite book |last=Matheson |first=P.&nbsp;E. |author-link=Percy Ewing Matheson |year=1928 |title=The Life of Hastings Rashdall, D.D.}}
+* {{cite book |last1=Postle |first1=Dorothy |last2=Marsh |first2=Margaret |year=2000 |title=Hastings Rashdall: Dean of Carlisle, 1917–1924}}
+* {{cite book |last=Rashdall |first=Hastings |year=1919 |title=The Idea of Atonement in Christian Theology |url=https://archive.org/details/theideeaofatone00rashuoft |location=London |publisher=Macmillan and Co.}}
+* {{cite encyclopedia |year=2007 |title=Rashdall, Very Rev. Hastings |encyclopedia=[[Who Was Who]] |publisher=A&nbsp;& C Black |doi=10.1093/ww/9780199540884.013.U201990 |isbn=978-0-19-954089-1 |ref={{sfnref|"Rashdall, Very Rev. Hastings"|2007}}}}
+* {{cite thesis |last=Rayner |first=Margaret J. |year=2005 |title=The Theology of Hastings Rashdall: A Study of His Part in Theological Debates During His Lifetime |url=https://eprints.glos.ac.uk/3132/1/423374.pdf |degree=PhD |publisher=University of Gloucestershire |access-date=}}
+{{refend}}
+
+==External links==
+{{wikisource-author}}
+* {{Gutenberg author | id=25019| name=Hastings Rashdall}}
+* {{Internet Archive author |sname=Hastings Rashdall}}
+
+{{s-start}}
+{{s-rel|en}}
+{{s-bef|before=[[William Barker (priest, died 1917)|William Barker]]}}
+{{s-ttl|title=[[Dean of Carlisle]]|years=1917–1924}}
+{{s-aft|after=[[Henry Stuart (priest)|Henry Stuart]]}}
+{{s-aca}}
+{{s-bef|before=[[George Edmundson]]}}
+{{s-ttl|title=[[Bampton Lectures|Bampton Lecturer]]|years=1915}}
+{{s-aft|after= }}
+{{s-npo}}
+{{s-bef|before=[[G.&nbsp;F. Stout]]}}
+{{s-ttl|title=President of the [[Aristotelian Society]]|years=1904–1907}}
+{{s-aft|after=[[Richard Haldane, 1st Viscount Haldane|Richard Haldane]]}}
+{{s-bef|before=[[Percy Gardner]]}}
+{{s-ttl|title=President of the [[Modern Church|Churchmen's Union]]|years=1923–1924}}
+{{s-aft|after=[[William Ralph Inge]]}}
+{{s-end}}
+
+{{Deans of Carlisle}}
+{{Authority control}}
+
+{{DEFAULTSORT:Rashdall, Hastings}}
+[[Category:1858 births]]
+[[Category:1924 deaths]]
+[[Category:19th-century British historians]]
+[[Category:19th-century English theologians]]
+[[Category:20th-century English historians]]
+[[Category:20th-century English theologians]]
+[[Category:Alumni of New College, Oxford]]
+[[Category:Anglican philosophers]]
+[[Category:Finite theists]]
+[[Category:People educated at Harrow School]]
+[[Category:Academics of Durham University]]
+[[Category:Deans of Carlisle]]
+[[Category:English philosophers]]
+[[Category:English Anglican theologians]]
+[[Category:Fellows of New College, Oxford]]
+[[Category:Idealists]]
+[[Category:Presidents of the Aristotelian Society]]
+[[Category:Consequentialists]]
+[[Category:Utilitarians]]
+[[Category:Fellows of the British Academy]]
+[[Category:Deaths from cancer in England]]

@@ -1,0 +1,200 @@
+{{short description|American legal philosopher (1931–2013)}}
+{{About|the legal philosopher|the author|Ronald W. Dworkin}}
+{{Use mdy dates|date=December 2021}}
+{{Infobox philosopher
+|image             = Ronald Dworkin at the Brooklyn Book Festival.jpg
+|region            = [[Western philosophy]]
+|era               = [[Contemporary philosophy]]
+|caption           = Dworkin in 2008
+|birth_name        = Ronald Myles Dworkin
+|birth_date        = {{birth date|1931|12|11}}
+|birth_place       = [[Providence, Rhode Island|Providence]], [[Rhode Island]], U.S.
+|death_date        = {{death date and age|2013|2|14|1931|12|11}}
+|death_place       = [[London]], England
+|school_tradition  = [[Analytic philosophy|Analytic]]<br />[[interpretivism (legal)|Legal interpretivism]] 
+|institutions      = {{ubl | [[Yale University]] | [[University of Oxford]] | [[University College London]] | [[New York University]]}}
+|main_interests    = {{hlist | [[Jurisprudence]] | [[political philosophy]]}}
+|notable_ideas     = {{hlist | [[Law as integrity]] | fit and justification in law<ref>Ofer Raban, "Dworkin's 'Best Light' Requirement and the Proper Methodology of Legal Theory", ''Oxford Journal of Legal Studies'', '''23'''(2) (Summer, 2003), pp. 243–264.</ref> | right answer thesis | [[interpretivism (legal)|legal interpretivism]] | rights as trumps<ref>Dworkin, R., "Rights as Trumps," in: Waldron, J. (ed.), 1984, ''Theories of Rights'', Oxford: Oxford University Press, pp. 153–67.</ref>}}
+|doctoral_students = [[Jeremy Waldron]]
+|awards=[[Henry J. Friendly Medal]] (2005)<br />[[Holberg International Memorial Prize]] (2007)<br />[[Balzan Prize]] (2012)|education={{ubl | [[Harvard University]] ([[Bachelor of Arts|AB]], [[Juris Doctor|JD]]) | [[Magdalen College, Oxford]] ([[Bachelor of Arts|BA]])}}}}
+'''Ronald Myles Dworkin''' {{post-nominals|country=GBR|FBA|QC}} ({{IPAc-en|ˈ|d|w|ɔr|k|ɪ|n}}; December 11, 1931 – February 14, 2013) was an American [[legal philosopher]], [[jurist]], and scholar of [[United States constitutional law]].<ref>{{cite web|last=Khouryyesterday |first=Jack |url=http://www.haaretz.com/jewish-world/jewish-world-news/ronald-dworkin-dies-at-81-1.503643 |title=Ronald Dworkin dies at 81 – Haaretz – Israel News |website=Haaretz.com |date=February 15, 2013 |access-date=May 31, 2017}}</ref> At the time of his death, he was Frank Henry Sommer Professor of Law and Philosophy at [[New York University]] and Professor of Jurisprudence at [[University College London]]. Dworkin had taught previously at [[Yale Law School]] and the [[University of Oxford]], where he was the Professor of Jurisprudence, successor to philosopher [[H. L. A. Hart]].
+
+An influential contributor to both [[jurisprudence|philosophy of law]]  and [[political philosophy]], Dworkin received the 2007 [[Holberg International Memorial Prize]] in the Humanities for "his pioneering scholarly work" of "worldwide impact".<ref>[http://www.nybooks.com/authors/90 "Ronald Dworkin"]. ''New York Review of Books''. Nybooks.com. Accessed September 29, 2009.</ref> According to a survey in ''[[The Journal of Legal Studies]]'', Dworkin was the second most-cited American legal scholar of the twentieth century.<ref>{{cite journal|last=Shapiro|first=Fred R.|year=2000|title=The Most-Cited Legal Scholars|journal=Journal of Legal Studies|volume=29|issue=1|pages=409–426|doi=10.1086/468080|s2cid=143676627}}</ref>  After his death, Harvard legal scholar [[Cass Sunstein]] said Dworkin was "one of the most important legal philosophers of the last 100 years. He may well head the list."<ref>{{cite web|url=https://www.bloomberg.com/news/articles/2013-02-15/the-most-important-legal-philosopher-of-our-time |title=The Most Important Legal Philosopher of Our Time |publisher=Bloomberg |date=February 15, 2013 |access-date=May 31, 2017}}</ref>
+
+His theory of [[law as integrity]] as presented in his book ''[[Law's Empire]]'', in which judges interpret the law in terms of consistent moral principles, especially justice and fairness, is among the most influential contemporary theories about the nature of law. Dworkin advocated a "moral reading" of the [[United States Constitution]],<ref>[https://books.google.com/books?id=yeUg-wglsK0C&dq=ronald+dworkin ''Freedom's Law: The Moral Reading of the American Constitution'']. Ronald Dworkin. Cambridge, Massachusetts: [[Harvard University Press]]. 1996. via Google Books.</ref> and an [[Interpretivism (legal)|interpretivist]] approach to law and morality. He was a frequent commentator on contemporary political and legal issues, particularly those concerning the [[Supreme Court of the United States]], often in the pages of ''[[The New York Review of Books]]''.
+
+==Early life and education==
+
+Ronald Dworkin was born in 1931 in [[Providence, Rhode Island]], the son of Madeline (Talamo) and David Dworkin.<ref name=":0">{{Cite news|url=https://www.theguardian.com/law/2013/feb/14/ronald-dworkin|title=Ronald Dworkin obituary|last=Hodgson|first=Godfrey|date=February 14, 2013|work=The Guardian|access-date=April 16, 2017|language=en-GB|issn=0261-3077}}</ref> His family was [[Jewish]]. He graduated from [[Harvard University]] in 1953 with an [[A.B.]], ''[[summa cum laude]]'', where he majored in [[philosophy]] and was elected to [[Phi Beta Kappa]] in his junior year. He then attended [[Magdalen College, Oxford]], where he was a [[Rhodes Scholar]] and a student of [[Rupert Cross|Sir Rupert Cross]] and [[J. H. C. Morris]]. Upon completion of his final exams at Oxford, the examiners were so impressed with his script that the Professor of Jurisprudence (then [[H. L. A. Hart]]) was summoned to read it. He was awarded a B.A. with a [[Congratulatory first]]. Dworkin then attended [[Harvard Law School]], graduating in 1957 with a [[Juris Doctor]], ''[[magna cum laude]]''.<ref name="Liptak">{{cite news|url=https://www.nytimes.com/2013/02/15/us/ronald-dworkin-legal-philosopher-dies-at-81.html?pagewanted=all|title=Ronald Dworkin, Scholar of the Law, Is Dead at 81|first=Adam|last=Liptak|date=February 14, 2013|newspaper=The New York Times}}</ref> 
+
+Dworkin then [[Law clerk|clerked]] for Judge [[Learned Hand]] of the [[United States Court of Appeals for the Second Circuit]]. Judge Hand would later call Dworkin "the law clerk to beat all law clerks",<ref name="Liptak" /> and Dworkin would recall Judge Hand as an enormously influential mentor.<ref>Dworkin, Ronald (1996), Freedom's Law: The Moral Reading of the American Constitution, Oxford: Oxford University Press, {{ISBN|978-0-19-826470-5}}.</ref>
+
+==Career==
+After clerking for Judge Learned Hand, Dworkin was offered the opportunity to clerk for Justice [[Felix Frankfurter]].<ref name="Liptak"/> He turned down the offer and joined [[Sullivan & Cromwell]], a New York City law firm.<ref name="Liptak"/> After working at the firm, Dworkin became a professor of law at [[Yale Law School]],<ref name="Liptak"/> becoming the holder of the [[Wesley N. Hohfeld]] Chair of Jurisprudence.
+
+In 1969, Dworkin was appointed to the [[Professor of Jurisprudence (University of Oxford)|Chair of Jurisprudence at Oxford]], a position in which he succeeded H. L. A. Hart (who remembered Dworkin's Oxford examination and promoted his candidacy) and was elected Fellow of [[University College, Oxford]]. After retiring from Oxford, Dworkin became the [[Quain Professor]] of [[Jurisprudence]] at [[University College London]], where he later became the Bentham Professor of Jurisprudence.<ref>{{Cite ODNB |last1=Guest |first1=Stephen |author-link=Stephen Guest |last2=Jeffrey |first2=Jowell |author-link2=Jeffrey Jowell |title=Dworkin, Ronald Myles (1931–2013), legal and political philosopher |url=https://www.oxforddnb.com/display/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-106162 |access-date=2024-02-04 |date=2017 |language=en |doi=10.1093/ref:odnb/106162 |doi-access=free}}</ref> He was Frank Henry Sommer Professor of Law at [[New York University School of Law]] and professor of philosophy at [[New York University]] (NYU),<ref>{{Cite web |title=In Memoriam: Ronald Dworkin {{!}} NYU School of Law |url=https://www.law.nyu.edu/news/RONALD_DWORKIN_MEMORIAM |access-date=2024-02-05 |website=www.law.nyu.edu}}</ref> where he taught from the late 1970s. He co-taught a colloquium in legal, political, and social philosophy with [[Thomas Nagel]]. Dworkin had regularly contributed, for several decades, to ''[[The New York Review of Books]]''. He delivered the [[Oliver Wendell Holmes Jr.|Oliver Wendell Holmes]] Lecture at [[Harvard University|Harvard]], the Storrs Lectures at [[Yale University|Yale]], the Tanner Lectures on Human Values at [[Stanford University|Stanford]], and the Scribner Lectures at [[Princeton University|Princeton]]. In June 2011, he joined the professoriate of [[New College of the Humanities]], a private college in London.<ref>{{cite web |url=http://www.nchum.org/who-we-are/the-professoriate |title=The professoriate &#124; New College of the Humanities |access-date=June 8, 2017 |url-status=dead |archive-url=https://web.archive.org/web/20110608234526/http://www.nchum.org/who-we-are/the-professoriate |archive-date=June 8, 2011 }}</ref>
+
+==Jurisprudence and philosophy==
+===Law as rule and principle===
+Dworkin's criticism of [[H. L. A. Hart]]'s [[legal positivism]] has been summarized by the ''Stanford Encyclopedia of Philosophy'':
+<blockquote>Dworkin, as positivism's most significant critic, rejects the positivist theory on every conceivable level. Dworkin denies that there can be any general theory of the existence and content of law; he denies that local theories of particular legal systems can identify law without recourse to its moral merits, and he rejects the whole institutional focus of positivism. A theory of law is for Dworkin a theory of how cases ought to be decided and it begins, not with an account of the political organization of a legal system, but with an abstract ideal regulating the conditions under which governments may use coercive force over their subjects.<ref>{{cite web|url=http://plato.stanford.edu/entries/legal-positivism/|title=Legal Positivism (Stanford Encyclopedia of Philosophy)|publisher=Plato.stanford.edu|date=2003-01-03|access-date=2013-02-14}}</ref></blockquote>
+[[Image:RonaldDworkin.jpg|thumb|left|Dworkin in 2008]]
+
+Dworkin's opinion of Hart's legal positivism was expressed in its fullest form in the book ''[[Law's Empire]]''. Dworkin's theory is "[[interpretivism (legal)|interpretive]]": the law is whatever follows from a constructive interpretation of the institutional history of the legal system.
+
+Dworkin argues that moral principles that people hold dear are often wrong, even to the extent that certain crimes are acceptable if one's principles are skewed enough. To discover and apply these principles, courts interpret the legal data (legislation, cases, etc.) with a view to articulating an interpretation that best explains and justifies past legal practice. All interpretation must follow, Dworkin argues, from the notion of "[[law as integrity]]" to make sense.
+
+Out of the idea that law is "interpretive" in this way, Dworkin argues that in every situation where people's legal rights are controversial, the best interpretation involves the right answer thesis, the thesis that there exists a right answer as a matter of law that the judge must discover. Dworkin opposes the notion that judges have discretion in such difficult cases.
+
+Dworkin's model of legal principles is also connected with Hart's notion of the [[Rule of Recognition]]. Dworkin rejects Hart's conception of a master rule in every legal system that identifies valid laws, on the basis that this would [[logical consequence|entail]] that the process of identifying law must be uncontroversial, whereas (Dworkin argues) people have legal rights even in cases where the correct legal outcome is open to reasonable dispute.
+
+Dworkin moves away from [[legal positivism|positivism's]] separation of law and morality, since constructive interpretation implicates moral judgments in every decision about what the law is.
+
+Despite their intellectual disagreements, Hart and Dworkin "remained on good terms."<ref name=":0" />
+
+===The right answer thesis===
+In Dworkin's own words, his "right answer thesis" may be interpreted through the following hypothetical:
+<blockquote>Suppose the legislature has passed a statute stipulating that "sacrilegious contracts shall henceforth be invalid." The community is divided as to whether a contract signed on Sunday is, for that reason alone, sacrilegious. It is known that very few of the legislators had that question in mind when they voted, and that they are now equally divided on the question of whether it should be so interpreted. Tom and Tim have signed a contract on Sunday, and Tom now sues Tim to enforce the terms of the contract, whose validity Tim contests. Shall we say that the judge must look for the right answer to the question of whether Tom's contract is valid, even though the community is deeply divided about what the right answer is? Or is it more realistic to say that there simply is no right answer to the question?<ref>Dworkin, 1985, p. 119</ref></blockquote>
+
+One of Dworkin's most interesting and controversial theses states that the law as properly interpreted will give an answer. This is not to say that everyone will have the same answer (a consensus of what is "right"), or if it did, the answer would not be justified exactly in the same way for every person; rather it means that there will be a necessary answer for each individual if he applies himself correctly to the legal question. For the correct method is that encapsulated by the metaphor of Judge Hercules, an ideal judge, immensely wise and with full knowledge of legal sources. Hercules (the name comes from a classical mythological [[Hercules|hero]]) would also have plenty of time to decide. Acting on the premise that the law is a seamless web, Hercules is required to construct the theory that best fits and justifies the law as a whole ([[law as integrity]]) in order to decide any particular case. Hercules is the perfect judge, but that doesn't mean he always reaches the right answer.<ref name="Dworkin, 1986, p. 239-40">Dworkin, 1986, p. 239-40</ref>
+
+Dworkin does not deny that competent lawyers often disagree on what is the solution to a given case. On the contrary, he claims that they are disagreeing about ''the'' right answer to the case, the answer Hercules would give.<ref name="Dworkin, 1986, p. 239-40"/>
+
+Dworkin's critics argue not only that ''law proper'' (that is, the legal sources in a positivist sense) is full of gaps and inconsistencies, but also that other legal standards (including principles) may be insufficient to solve a hard case. Some of them are [[commensurability (philosophy of science)|incommensurable]]. In any of these situations, even Hercules would be in a [[dilemma]] and none of the possible answers would be the ''right'' one.{{Citation needed|date=August 2016}}
+
+===Discussion of the right answer thesis===
+
+Dworkin's metaphor of judge Hercules bears some resemblance to [[John Rawls|Rawls]]' [[veil of ignorance (philosophy)|veil of ignorance]] and [[Jürgen Habermas|Habermas]]' ideal speech situation, in that they all suggest idealized methods of arriving at somehow valid normative propositions. The key difference with respect to the former is that Rawls' veil of ignorance translates almost seamlessly from the purely ideal to the practical. In relation to [[politics]] in a [[democracy|democratic]] society, for example, it is a way of saying that those in power should treat the [[Opposition (politics)|political opposition]] consistently with how they would like to be treated when in opposition, because their present position offers no guarantee as to what their position will be in the political landscape of the future (i.e. they will inevitably form the opposition at some point). Dworkin's Judge Hercules, on the other hand, is a purely idealized construct, that is, ''if'' such a figure existed, he would arrive at a right answer in every [[moral dilemma]]. For a critique along these lines see Lorenzo Zucca's ''Constitutional Dilemmas''.<ref>{{cite web|url=http://www.oup.com/us/catalog/general/subject/Law/ConstitutionalLaw/?view=usa&ci=9780199204977|title=Oxford University Press: Constitutional Dilemmas: Lorenzo Zucca|publisher=Oup.com|access-date=February 14, 2013|url-status=dead|archive-url=https://web.archive.org/web/20120330082707/http://www.oup.com/us/catalog/general/subject/Law/ConstitutionalLaw/?view=usa&ci=9780199204977|archive-date=March 30, 2012}}</ref>
+
+Dworkin's right answer thesis turns on the success of his attack on the skeptical argument that right answers in legal-moral dilemmas cannot be determined. Dworkin's anti-skeptical argument is essentially that the properties of the skeptic's claim are analogous to those of substantive moral claims, that is, in asserting that the truth or falsity of "legal-moral" dilemmas cannot be determined, the skeptic makes not a metaphysical claim about the way things are, but a ''moral'' claim to the effect that it is, in the face of epistemic uncertainty, unjust to determine legal-moral issues to the detriment of any given individual.{{Citation needed|date=August 2016}}
+
+===Moral reading of the Constitution===
+In her book on [[Hans Kelsen]], Sandrine Baume<ref>Baume, Sandrine (2011). ''Hans Kelsen and the Case for Democracy'', ECPR Press, pp. 53–54.</ref> identified Ronald Dworkin as a leading defender of the "compatibility of judicial review with the very principles of democracy." Baume identified John Hart Ely alongside Dworkin as the foremost defenders of this principle in recent years, while the opposition to this principle of "compatibility" was identified as [[Bruce Ackerman]] and [[Jeremy Waldron]].<ref>Waldron, Jeremy (2006). "The Core of the case against judicial review," ''The Yale Law Review'', 2006, Vol. 115, pp 1346–406.</ref> Dworkin has been a long-time advocate of the principle of the moral reading of the Constitution whose lines of support he sees as strongly associated with enhanced versions of judicial review in the federal government.
+
+===Theory of equality===
+Dworkin has also made important contributions to what is sometimes called the ''[[egalitarianism|equality of what]]'' debate. In a pair of articles and his book ''Sovereign Virtue'', he advocates a theory he calls "equality of resources". This theory combines two key ideas. Broadly speaking, the first is that human beings are [[Moral responsibility|responsible]] for the life choices they make. The second is that natural endowments of intelligence and talent are [[moral luck|morally arbitrary]] and ought not to affect the distribution of [[Natural resource|resources]] in society. Like the rest of Dworkin's work, his theory of equality is underpinned by the core principle that every person is entitled to [[Social equality|equal]] concern and respect in the design of the structure of society. Dworkin's theory of equality is said to be one variety of so-called [[luck egalitarianism]], but he rejects this statement.<ref>{{Cite journal |last=Dworkin |first=Ronald |date=2003 |title=Equality, Luck and Hierarchy |url=https://www.jstor.org/stable/3557937 |journal=[[Philosophy & Public Affairs]] |volume=31 |issue=2 |pages=190–198 |doi=10.1111/j.1088-4963.2003.00190.x |jstor=3557937 |issn=0048-3915 |url-access=subscription |via=[[JSTOR]]}}</ref>
+
+===Positive and negative liberty===
+In the essay "Do Values Conflict? A Hedgehog's Approach,"<ref>{{Cite journal |last=Dworkin |first=Ronald |date=2001 |title=Do Values Conflict: A Hedgehog's Approach |url=https://heinonline.org/HOL/Page?handle=hein.journals/arz43&id=263&div=&collection= |journal=[[Arizona Law Review]] |volume=43 |pages=251 |url-access=subscription}}</ref> Dworkin contends that the values of liberty and equality do not necessarily conflict. He criticizes [[Isaiah Berlin]]'s [[Two Concepts of Liberty|conception of liberty]] as "flat" and proposes a new, "dynamic" conception of liberty, suggesting that one cannot say that one's liberty is infringed when one is prevented from committing murder. Thus, liberty cannot be said to have been infringed when no wrong has been done. Put in this way, liberty is only liberty to do whatever we wish so long as we do not infringe upon the rights of others.
+
+==Personal life and death==
+While working for Judge [[Learned Hand]], Dworkin met his future wife, Betsy Ross, with whom he would have twins Anthony and Jennifer.<ref name=":0" /> Betsy was the daughter of a successful New York businessman.<ref name=":0" /> They were married from 1958 until Betsy died of cancer in 2000.<ref name=":0" /><ref name="Williamson">{{cite news|url=https://www.independent.co.uk/news/obituaries/professor-ronald-dworkin-legal-philosopher-acclaimed-as-the-finest-of-his-generation-8497540.html|title=Professor Ronald Dworkin: Legal philosopher acclaimed as the finest of his generation|first=Marcus|last=Williamson|date=February 15, 2013|newspaper=The Independent|location=London}}</ref> Dworkin later married Irene Brendel, the former wife of pianist [[Alfred Brendel]].
+
+Dworkin died of [[leukemia]] in London on February 14, 2013, at the age of 81,<ref>{{cite news|title=Ronald Dworkin, Legal Scholar, Dies at 81|url=https://www.nytimes.com/aponline/2013/02/14/world/europe/ap-eu-britain-obit-dworkin.html?partner=rss&emc=rss&smid=tw-nytimes&_r=0|work=New York Times|access-date=February 14, 2013}}</ref><ref name=obit>{{cite web|author=The Associated Press|url=http://www.miamiherald.com/2013/02/14/3233930/us-legal-scholar-ronald-dworkin.html|title=LONDON: US legal scholar Ronald Dworkin dies in UK aged 81|publisher=MiamiHerald.com|date=February 14, 2013|access-date=February 14, 2013}}</ref> survived by his second wife, two children, and two grandchildren.<ref name=":0" /><ref>{{cite news|url=https://www.telegraph.co.uk/news/obituaries/law-obituaries/9873847/Professor-Ronald-Dworkin.html|title=Professor Ronald Dworkin|date=February 15, 2013|newspaper=The Telegraph|location=London}}</ref>
+
+==Awards==
+In 2005, Dworkin was jointly awarded the [[American Law Institute]]'s [[Henry J. Friendly Medal]] with Judge [[Richard Posner]].<ref>{{Cite web |last= |first= |date=February 14, 2013 |title=In Memoriam: Ronald M. Dworkin |url=https://www.ali.org/news/articles/memoriam-ronald-m-dworkin/ |access-date=2024-03-30 |website=[[American Law Institute]] |language=en}}</ref> In September 2007, Dworkin was awarded the [[Holberg International Memorial Prize]]. The award citation of the Holberg Prize Academic Committee recognized that Dworkin has "elaborated a liberal egalitarian theory" and stressed Dworkin's effort to develop "an original and highly influential legal theory grounding law in morality, characterized by a unique ability to tie together abstract philosophical ideas and arguments with concrete everyday concerns in law, morals, and politics".<ref>{{cite web |url=http://www.holberg.uib.no/HP_prisen/en_hp_2007_dworkin.html |title=Holberg International Memorial Prize 2007: Ronald Dworkin |access-date=October 2, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20080330021554/http://www.holberg.uib.no/HP_prisen/en_hp_2007_dworkin.html |archive-date=March 30, 2008 }}</ref>
+
+The [[New York University]] [[NYU Annual Survey of American Law|''Annual Survey of American Law'']] honored Dworkin with its 2006 dedication.
+
+In 2006, the Legal Research Institute of the [[National Autonomous University of Mexico]] honored Dworkin with the [[Héctor Fix-Zamudio]] International Award.<ref>Flores, Imer, [https://scholarship.law.georgetown.edu/cgi/viewcontent.cgi?article=2127&context=facpub "Ronald Dworkin’s Justice for Hedgehogs and Partnership Conception of Democracy (With a Comment to Jeremy Waldron's 'A Majority in the Lifeboat')"], Georgetown University Law Center, 2010, p. 103.</ref>
+
+In June 2000, he was awarded an honorary doctorate by the University of Pennsylvania.<ref>{{cite web|url=http://www.upenn.edu/almanac/v46/n27/commencement2K.html#r |title=COMMENCEMENT 2000: Honorary Degree Recipients – Almanac, Vol. 46, No. 27, 4/4/2000 |website=Upenn.edu |date=April 4, 2000 |access-date=May 31, 2017}}</ref>  In June 2009, he was awarded an honorary doctorate of law by Harvard University.<ref>{{cite web|url=http://www.law.harvard.edu/news/2009/06/05_dworkin.html |title=Ronald Dworkin '57 receives honorary doctorate from Harvard – Harvard Law Today |website=Law.harvard.edu |access-date=May 31, 2017}}</ref>  In August 2011, the [[University of Buenos Aires]] awarded Dworkin an honorary doctorate. The resolution noted that he "has tirelessly defended the rule of law, democracy and human rights."  These were among a number of honorary doctorates conferred upon him.<ref name="otago.ac.nz">{{cite web |url=http://www.otago.ac.nz/law/news/otago042519.html |title=Ronald Dworkin 1931-2013, Faculty of Law, University of Otago, New Zealand |access-date=January 24, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140202201948/http://www.otago.ac.nz/law/news/otago042519.html |archive-date=February 2, 2014 }}</ref>
+
+On November 14, 2012, Dworkin received the [[Balzan Prize]] for Jurisprudence in Quirinale Palace, Rome, from the President of the Italian Republic. The Balzan Prize was awarded "for his fundamental contributions to Jurisprudence, characterized by outstanding originality and clarity of thought in a continuing and fruitful interaction with ethical and political theories and with legal practices".
+
+He was an honorary [[Queen's Counsel]] (QC).<ref name="otago.ac.nz"/>
+
+Dworkin was elected a fellow of the [[British Academy]], the [[American Academy of Arts and Sciences]], and the [[American Philosophical Society]].<ref>{{Cite web|title=APS Member History|url=https://search.amphilsoc.org/memhist/search?creator=Ronald+Dworkin&title=&subject=&subdiv=&mem=&year=&year-max=&dead=&keyword=&smode=advanced|access-date=April 28, 2021|website=search.amphilsoc.org}}</ref>
+
+==Published works==
+'''Author'''
+
+*''[[Taking Rights Seriously]]''. Cambridge, Massachusetts: Harvard University Press, 1977.
+*''[http://www.hup.harvard.edu/catalog.php?isbn=9780674554610 A Matter of Principle]''. Cambridge, Massachusetts: Harvard University Press, 1985.<ref>{{Cite news |last=Williams |first=Bernard |author-link=Bernard Williams |date=1986-04-17 |title=Consequences |url=https://www.lrb.co.uk/the-paper/v08/n07/bernard-williams/consequences |archive-url=https://web.archive.org/web/20200608223904/https://www.lrb.co.uk/the-paper/v08/n07/bernard-williams/consequences |archive-date=8 June 2020 |access-date=2024-02-04 |work=[[London Review of Books]] |language=en |volume=08 |issue=7 |issn=0260-9592}}</ref>
+*''[[Law's Empire]]''. Cambridge, Massachusetts: Harvard University Press, 1986.<ref>{{Cite news |last=Nagel |first=Thomas |date=1986-09-18 |title=Reading the law |url=https://www.lrb.co.uk/the-paper/v08/n16/thomas-nagel/reading-the-law |archive-url=https://web.archive.org/web/20230602190215/https://www.lrb.co.uk/the-paper/v08/n16/thomas-nagel/reading-the-law |archive-date=2 June 2023 |access-date=2024-02-04 |work=London Review of Books |language=en |volume=08 |issue=16 |issn=0260-9592}}</ref>
+*[https://digital.library.unt.edu/ark:/67531/metadc97370/ "Philosophical issues concerning the rights of patients suffering serious permanent dementia", prepared for the Office of Technology Assessment, Congress of the United States (Washington, DC: Government Printing Office, 1987)]
+*''A Bill of Rights for Britain''. Ann Arbor, Michigan: University of Michigan Press, 1990.
+*''Life's Dominion: An Argument About Abortion, Euthanasia, and Individual Freedom''. New York: Alfred A. Knopf, 1993.<ref>{{Cite news |last=Waldron |first=Jeremy |author-link=Jeremy Waldron |date=1994-05-12 |title=The Edges of Life |url=https://www.lrb.co.uk/the-paper/v16/n09/jeremy-waldron/the-edges-of-life |archive-url=https://web.archive.org/web/20230602175147/https://www.lrb.co.uk/the-paper/v16/n09/jeremy-waldron/the-edges-of-life |archive-date=2 June 2023 |access-date=2024-02-05 |work=London Review of Books |language=en |volume=16 |issue=9 |issn=0260-9592}}</ref>
+*''[[iarchive:freedomslawmoral00dwor|Freedom's Law: The Moral Reading of the American Constitution]]''. Cambridge, Massachusetts: Harvard University Press, 1996.
+*''[http://www.hup.harvard.edu/catalog.php?isbn=9780674008106 Sovereign Virtue: The Theory and Practice of Equality]''. Cambridge, Massachusetts: Harvard University Press, 2000.<ref>{{Cite news |last=Waldron |first=Jeremy |date=2001-08-09 |title=What about Bert? |url=https://www.lrb.co.uk/the-paper/v23/n15/jeremy-waldron/what-about-bert |archive-url=https://web.archive.org/web/20230602180649/https://www.lrb.co.uk/the-paper/v23/n15/jeremy-waldron/what-about-bert |archive-date=2 June 2023 |access-date=2024-02-05 |work=London Review of Books |language=en |volume=23 |issue=15 |issn=0260-9592}}</ref>
+*''[http://www.hup.harvard.edu/catalog.php?isbn=9780674027275 Justice in Robes]''. Cambridge, Massachusetts: Harvard University Press, 2006.
+*''Is Democracy Possible Here? Principles for a New Political Debate''. Princeton, New Jersey: Princeton University Press, 2006..
+*''[http://www.hup.harvard.edu/catalog.php?isbn=9780674072251 Justice for Hedgehogs]''. Cambridge, Massachusetts: Harvard University Press, 2011.
+*''[http://www.hup.harvard.edu/catalog.php?isbn=9780674726826 Religion Without God]''. Cambridge, Massachusetts: Harvard University Press, 2013.
+
+'''Editor'''
+* ''The Philosophy of Law'' (Oxford Readings in Philosophy). New York: Oxford University Press, 1977.
+* ''[[iarchive:badlyflawedelect0000unse|A Badly Flawed Election: Debating Bush v. Gore, the Supreme Court, and American Democracy]]''. New York: New Press, 2002.
+*''From Liberal Values to Democratic Transition: Essays in Honor of Janos Kis''. Budapest: Central European University Press, 2004.
+For a more complete listing of publications, including journal articles, see Burley (2004).<ref>{{Citation |title=Bibliography of Ronald Dworkin's Works |date=2004 |work=Dworkin and His Critics |pages=396–404 |editor-last=Burley |editor-first=Justine |edition=1 |publisher=Wiley |language=en |doi=10.1002/9780470996386.biblio |isbn=978-0-631-19765-2 |doi-access=free}}</ref>
+
+==See also==
+* [[Contributions to liberal theory]]
+* [[Indeterminacy debate in legal theory|Legal indeterminacy]]
+* [[Hart–Dworkin debate]]
+* [[Judicial activism]]
+* [[Legal formalism]]
+* [[List of American philosophers]]
+*[[New York University Department of Philosophy]]
+*[[Faculty of Philosophy, University of Oxford]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* Allard, Julie. ''Dworkin et Kant: Réflexions sur le judgement''. Bruxelles: Editions de l'ULB, 2001.
+* Brown, Alexander. ''Ronald Dworkin's Theory of Equality: Domestic and Global Perspectives''. New York: Palgrave Macmillan, 2009.
+* [https://www.academia.edu/5157596/From_Principles_to_Rules_and_from_Musar_to_Halakhah_-_The_Hafetz_Hayims_Rulings_on_Libel_and_Gossip Benjamin Brown, From Principles to Rules and from Musar to Halakhah – The Hafetz Hayim's Rulings on Libel and Gossip]
+* Burke, John J.A. ''The Political Foundation of Law: The Need for Theory with Practical Value''. San Francisco: Austin & Winfield, 1992.
+* Burley, Justine, ed. ''Dworkin and His Critics''. Oxford: Blackwell Publishing, 2004.
+* Cohen, Marshall, ed. ''[[iarchive:ronalddworkincon0000unse|Ronald Dworkin and Contemporary Jurisprudence]]''. London: Duckworth, 1984.
+* Gaffney, Paul. ''Ronald Dworkin on Law as Integrity: Rights as Principles of Adjudication''. Lewiston, New York: Mellen University Press, 1996.
+* Guest, Stephen. ''Ronald Dworkin'' (Jurists: Profiles in Legal Theory). Stanford: Stanford University Press, 2012.
+* Hershovitz, Scott, ed. ''Exploring Law's Empire: The Jurisprudence of Ronald Dworkin''. Oxford: Oxford University Press, 2006.
+* Hunt, Alan, ed. ''Reading Dworkin Critically''. New York: Berg, 1992.
+* Ripstein, Arthur, ed. ''Ronald Dworkin'' (Contemporary Philosophers in Focus). Cambridge: Cambridge University Press, 2007.
+* Wesche, Stefen and Zanetti, Véronique, eds. ''Dworkin: Un débat''. Paris: Ousia, 2000.
+
+==External links==
+{{commons category}}
+{{wikiquote}}
+* {{Webarchive|url=https://web.archive.org/web/20130615145907/http://www.ucl.ac.uk/laws/academics/profiles/index.shtml?dworkin |date=June 15, 2013 |title=UCL Faculty of Laws profile}}
+* [https://www.theguardian.com/law/2013/feb/14/ronald-dworkin Ronald Dworkin obituary by The Guardian]
+* [http://www.nybooks.com/authors/90 ''New York Review of Books'' archive]
+*[https://web.archive.org/web/20080708222708/http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/the_tls/article3003761.ece "Ronald Dworkin – Mr Justice", ''The Times Literary Supplement'', 5 December 2007] [Archived]
+* [http://plato.stanford.edu/entries/legal-reas-interpret "Interpretation and Coherence in Legal Reasoning"] at the [[Stanford Encyclopedia of Philosophy]]
+* [http://plato.stanford.edu/entries/law-interpretivist/ "Interpretivist Theories of Law"] at the [[Stanford Encyclopedia of Philosophy]]
+* [http://www.balzan.org/en/prizewinners/ronald-m--dworkin Ronald Dworkin] International Balzan Prize Foundation
+* {{IMDb name|id=2621221}}
+* {{C-SPAN|55172}}
+* [https://philosophybites.com/2012/03/ronald-dworkin-on-the-unity-of-value.html Ronald Dworkin on the Unity of Value] a [[Philosophy Bites]] podcast interview
+* [http://hdl.handle.net/10079/fa/mssa.ms.2071 Ronald Dworkin Papers (MS 2071).] Manuscripts and Archives, Yale University Library.
+
+{{jurisprudence}}
+{{Political philosophy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dworkin, Ronald}}
+[[Category:1931 births]]
+[[Category:2013 deaths]]
+[[Category:Alumni of Magdalen College, Oxford]]
+[[Category:Harvard Law School alumni]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:Academics of University College London]]
+[[Category:20th-century American Jews]]
+[[Category:American legal scholars]]
+[[Category:Jewish American academics]]
+[[Category:Jewish legal scholars]]
+[[Category:American political philosophers]]
+[[Category:American Rhodes Scholars]]
+[[Category:Deaths from leukemia in England]]
+[[Category:Fellows of University College, Oxford]]
+[[Category:Jewish philosophers]]
+[[Category:New York (state) lawyers]]
+[[Category:New York University School of Law faculty]]
+[[Category:Lawyers from Providence, Rhode Island]]
+[[Category:American philosophers of law]]
+[[Category:Holberg Prize laureates]]
+[[Category:Professors of Jurisprudence (University of Oxford)]]
+[[Category:Law clerks of Judge Learned Hand]]
+[[Category:Honorary King's Counsel]]
+[[Category:Philosophers from Rhode Island]]
+[[Category:Sullivan & Cromwell people]]
+[[Category:Harvard College alumni]]
+[[Category:20th-century American lawyers]]
+[[Category:21st-century American Jews]]
+[[Category:New York University faculty]]
+[[Category:Natural law ethicists]]

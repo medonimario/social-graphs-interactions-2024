@@ -1,0 +1,107 @@
+{{Short description|German writer, editor, teacher, Marxist theorist and politician}}
+{{Infobox officeholder
+| name                = Otto Rühle
+| image               = Otto Rühle 2.jpg
+| office              = Member of the [[Reichstag of the German Empire|Reichstag]]
+| term_start          = 12 January 1912
+| term_end            = 9 November 1918
+| constituency        = [[Pirna]]-[[Sebnitz]]
+| birth_name          = Karl Heinrich Otto Rühle
+| birth_date          = {{birth date|1874|10|23|df=y}}
+| birth_place         = [[Großschirma|Großvoigtsberg]], [[German Empire]]
+| death_date          = {{death date and age|1943|6|24|1874|10|23|df=y}}
+| death_place         = [[Mexico City]], [[Mexico]]
+| nationality         = [[Germans|German]]
+| citizenship         = German
+| occupation          = {{hlist|[[Politician]]|[[Philosopher]]|[[Psychologist]]|[[Writer]]}}
+| party               = {{plainlist|
+* [[Social Democratic Party of Germany|SPD]] (1896–1916)
+* [[Spartacus League]] (1916–1917)
+* [[Independent Social Democratic Party of Germany|USPD]] (1916–1918)
+* [[International Communists of Germany (1918)|IKD]] (1918)
+* [[Communist Party of Germany|KPD]] (1918–1919)
+* [[Allgemeine Arbeiter-Union – Einheitsorganisation|AAUE]] (1919–1932)
+* [[Communist Workers' Party of Germany|KAPD]] (1920–1922)
+}}
+| spouse              = {{marriage|[[Alice Rühle-Gerstel|Alice Gerstel]]|1921|1943|end=d.}}
+}}
+{{left communism sidebar}}
+{{libertarian socialism sidebar}}
+'''Karl Heinrich Otto Rühle''' (23 October 1874 – 24 June 1943) was a German [[Marxist]] active in opposition to both the [[First World War|First]] and [[Second World Wars]] as well as a [[Council communism|council communist]] theorist.
+
+==Early years==
+Otto was born in [[Großschirma|Großvoigtsberg]], Saxony on 23 October 1874. His father was a railway official. In 1889 he started to train as teacher in [[Oschatz]]. While there he became involved with the [[German Freethinkers League]]. In 1895 he became the private tutor for the Countess von Bühren, while also teaching at [[Oederan|Öderan]].<ref name="KDVB">{{cite web |title=Rühle, Otto |url=https://www.bundesstiftung-aufarbeitung.de/de/recherche/kataloge-datenbanken/biographische-datenbanken/otto-ruehle |website=www.bundesstiftung-aufarbeitung.de |publisher=Karl Dietz Verlag Berlin |access-date=18 August 2020}}</ref>
+
+==Political career==
+He joined the [[Social Democratic Party of Germany]] (SPD) in 1896 and soon established a socialist [[Sunday school]].<ref name="KDVB"/> However he was dismissed as  a primary school teacher in 1902, and soon supported himself as a writer and editor of social democratic newspapers in [[Hamburg]], followed by [[Breslau]], [[Chemnitz]], Pirna and [[Zwickau]]. Rühle had already become a vocal critic of existing teaching methods and set up a social democratic educational society for the Hamburg area. In 1907 he became an itinerant teacher for the SPD's educational committee and developed a reputation in the SPD, through his socially critical educational writings: "Work and Education" (1904), "The Enlightenment of Children About Sexual Matters", (1907), and, above all, "The Proletarian Child" (1911).
+
+Rühle joined [[Karl Liebknecht]], [[Rosa Luxemburg]], [[Franz Mehring]] and others in founding the group and magazine ''Internationale'', which proposed a [[Proletarian internationalism|revolutionary internationalism]] against a world of warring states. In 1916, Rühle also took part in the [[Spartacus League]].
+
+===Reichstag===
+In 1912 he was elected as deputy for [[Pirna]]-[[Sebnitz]], in [[Saxon Switzerland]]. He represented the SPD in the [[Reichstag (German Empire)|Reichstag]].<ref name="Bax">{{cite journal |last1=Bax |first1=E. Belfort |title=Otto Rühle |journal=Justice |date=1918 |issue=6 June 1918 |url=https://www.marxists.org/archive/bax/1918/06/ruehle.htm}}</ref> In 1918, Rühle decided not to seek re-election.<ref name="Bax"/> Following the disorderly period of time in Germany, 1918–19, the dissolution of the Reichstag, which would subsequently be the end of Rühle's term in office, is not exactly known. However, given that the [[abdication of Wilhelm II]] was the first event in a series of events that would eventually lead to a new [[Weimar Republic|republic]], this is the date that shall be put as the end of his term in office.
+
+==The German Revolution==
+Rühle participated in the [[Left communism|left opposition]] of the German [[labour movement]], developing both an early communist critique of Bolshevism and an early [[opposition to fascism]]. Rühle saw the [[Soviet Union]] as a form of [[state capitalism]] that had much in common with the state-centred [[capitalism]] of the [[Western world|West]] as well as [[fascism]], saying: <blockquote>It has served as the model for other capitalistic dictatorships. Ideological divergences do not really differentiate socioeconomic systems.<ref name="Otto Rühle and the German Labour Movement">{{cite web|url=http://www.marxists.org/archive/mattick-paul/1945/otto-ruhle.htm|title=Otto Rühle and the German Labour Movement by Paul Mattick 1945|first=Paul|last=Mattick|publisher=Marxists Internet Archive}}</ref></blockquote>
+
+==Delegation to the Comintern Congress, 1920==
+The [[Communist Workers Party of Germany]] (KAPD) was invited by the [[Executive Committee of the Communist International]] to participate in the [[Second Congress of the Communist International]]. However, when the KAPD lost touch with their first  delegates, [[Jan Appel]] and [[Franz Jung]], [[Otto Rühle]] and [[August Merges]] were sent as delegates.
+
+==''The Revolution is not a Party Affair''==
+While Rühle saw the [[Leninist]] [[Vanguardism|vanguardist party]] as an appropriate form for the overthrow of [[tsarism]], it was ultimately an inappropriate form for a [[proletarian revolution]]. As such, no matter what the actual intentions of the Bolsheviks, what they actually succeeded in bringing about was much more like the [[bourgeois revolution]]s of Europe than a proletarian revolution, arguing: <blockquote>This distinction between head and body, between intellectuals and workers, officers and privates, corresponds to the duality of class society. One class is educated to rule; the other to be ruled. Lenin's organisation is only a replica of bourgeois society. His revolution is objectively determined by the forces that create a social order incorporating these class relations, regardless of the subjective goals accompanying this process.<ref name="Otto Rühle and the German Labour Movement"/></blockquote>
+
+Rühle was also critical of the party as a revolutionary organisational form, stating that "the revolution is not a party affair".<ref>{{cite web|url=http://www.marxists.org/archive/ruhle/1920/ruhle02.htm|title=Rühle: Revolution Not A Party Affair|first=Otto|last=Rühle|publisher=Marxists Internet Archive}}</ref> As a result, he supported a more [[council communist]] approach which emphasised the importance of [[workers' council]]s. In October 1921, he was involved in setting up the [[Allgemeine Arbeiter-Union – Einheitsorganisation]].<ref name="Politics in B&R">{{cite book|last1=Prichard|first1=Alex|last2=Kinna|first2=Ruth|last3=Pinta|first3=Saku|last4=Berry|first4=Dave|title=Libertarian Socialism: Politics in Black and Red|date=2012|publisher=Palgrave Macmillan}}</ref>
+
+In ''Anti-Bolshevik Communism'', [[Paul Mattick]] describes Rühle as an exemplary radical figure within a German labour movement that had become ossified into various official structures, a perpetual outsider defined by his antagonistic relationship with the labour movement and to [[Marxism–Leninism]] as well as to [[bourgeois democracy]] and fascism.<ref>Mattick, Paul (1978). ''Anti-Bolshevik Communism''. London: Merlin Press. See the [https://libcom.org/files/paul-mattick-anti-bolshevik-communism-2007_0.pdf PDF version].</ref>
+
+With the signing of the [[Molotov–Ribbentrop Pact]] in 1939, Rühle began to see the parallels between the two ideological dictators, writing: <blockquote>Russia was the example for fascism. [...] Whether party 'communists' like it or not, the fact remains that the state order and rule in Russia are indistinguishable from those in Italy and Germany. Essentially, they are alike. One may speak of a red, black, or brown 'soviet state', as well as of red, black or brown fascism.<ref>Rühle, Otto (1939). "[http://www.marxists.org/archive/ruhle/1939/ruhle01.htm The Struggle Against Fascism Begins with the Struggle Against Bolshevism]". First appeared in the American Councilist journal ''Living Marxism'' (4: 8). A longer text was published in French as "Fascisme Brun, Fascisme Rouge" by Spartacus in 1975 (Série B: 63).</ref></blockquote>
+
+Because of his connection to [[Leon Trotsky]], Rühle found it difficult to find work in Mexico and was forced to hand-paint notecards for hotels to financially survive.<ref>Roth, Gary (2015). ''Marxism in a Lost Century: A Biography of Paul Mattick''. Leiden/Boston: Brill Nijhoff and Hotel Publishing. p. 195. See the [https://libcom.org/files/Gary%20Roth%20-%20Marxism%20in%20a%20Lost%20Century%20-%20A%20Biography%20of%20Paul%20Mattick.pdf PDF version].</ref>
+
+Rühle was a member of the [[Dewey Commission]] which cleared Trotsky of all charges made during the [[Moscow Trials]].<ref name="Dewey Commission Report">{{cite web|url=http://www.marxists.org/archive/trotsky/1937/dewey/index.htm|title=The Case of Leon Trotsky (Report of Dewey Commission - 1937)|first=Leon|last=Trotsky|publisher=Marxists Internet Archive}}</ref>
+
+In 1928, Rühle wrote a very detailed biography of [[Karl Marx]], ''Karl Marx: His Life and Works''.<ref>Rühle, Otto (1928); trans. 1929). [http://www.marxists.org/archive/ruhle/1928/marx/index.htm ''Karl Marx: His Life and Works'']. New York: Viking Press.</ref>
+
+== Personal life ==
+In 1921, Rühle married [[Alice Rühle-Gerstel|Alice Gerstel]], a German-Jewish writer, feminist and psychologist.
+
+In 1936, Gerstel followed him to Mexico.  She committed suicide on the day of his death on 24 June 1943.
+
+== See also ==
+* [[Exilliteratur]]
+* [[List of peace activists]]
+
+== References ==
+{{reflist}}
+
+== Sources ==
+{{Commons category}}
+* [http://www.marxists.org/archive/ruhle/ Otto Rühle] at the [[Marxists Internet Archive]].
+* [https://web.archive.org/web/20041222132056/http://www.kurasje.org/lex/l00500.htm Otto Rühle] at Kurasje.org.
+* "Non-Leninist Marxism: Writings on the Workers Councils" (2007). St. Petersburg, Florida: Red and Black Publishers.  {{ISBN|978-0-9791813-6-8}}. It includes Ruhle's "The Revolution is Not a Party Affair" and "Report From Moscow".
+
+{{authority control}}
+
+{{DEFAULTSORT:Ruhle, Otto}}
+[[Category:1874 births]]
+[[Category:1943 deaths]]
+[[Category:Adlerian psychology]]
+[[Category:Anti–World War II activists]]
+[[Category:Communist Party of Germany politicians]]
+[[Category:Communist Workers' Party of Germany politicians]]
+[[Category:Council communists]]
+[[Category:Exilliteratur writers]]
+[[Category:German anti-fascists]]
+[[Category:German anti–World War I activists]]
+[[Category:German male writers]]
+[[Category:German Marxists]]
+[[Category:German pacifists]]
+[[Category:German revolutionaries]]
+[[Category:Left communists]]
+[[Category:Libertarian socialists]]
+[[Category:Members of the 13th Reichstag of the German Empire]]
+[[Category:Marxist theorists]]
+[[Category:People from Mittelsachsen]]
+[[Category:People from the Kingdom of Saxony]]
+[[Category:People of the German Revolution of 1918–1919]]
+[[Category:Social Democratic Party of Germany politicians]]
+[[Category:Weimar Republic politicians]]

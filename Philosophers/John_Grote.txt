@@ -1,0 +1,42 @@
+{{Short description|British philosopher and clergyman}}
+{{Use dmy dates|date=November 2019}}
+'''John Grote''' (5 May 1813, [[Beckenham]] &ndash; 21 August 1866, [[Trumpington, Cambridgeshire]]) was an [[English people|English]] moral philosopher and [[Anglican]] clergyman.
+
+==Life and career==
+The son of a banker, John Grote was younger brother to the historian, philosopher and reformer [[George Grote]]. He was educated at Beckenham School, Kent. He then went up to [[Trinity College, Cambridge|Trinity College]], [[University of Cambridge|Cambridge]], in 1831, graduating with a first-class degree in the Classics Tripos in 1835, and became a fellow of Trinity in 1837.<ref>{{acad|id=GRT831J|name=Grote, John}}</ref> From 1847 until his death, he was vicar of [[Trumpington, Cambridgeshire|Trumpington]], where he was a neighbour of his close friend [[Robert Leslie Ellis]], the paralysed mathematician and Bacon scholar. In 1855, Grote succeeded [[William Whewell]] as [[Knightbridge Professor of Philosophy|Knightbridge professor of moral philosophy]] at Cambridge University.
+
+Grote published relatively little during his life: volume I of ''Exploratio Philosophica: Rough Notes on Modern Intellectual Science'' appeared in 1865, but ''An Examination of the Utilitarian Philosophy'' was only published posthumously (1870). Grote's literary executor and editor, [[Joseph Bickersteth Mayor]], also put together a ''Treatise on Moral Ideals'' (1876) and volume II of ''Exploratio Philosophica'' (1900), and married his niece, Alexandrina.<ref>{{cite news |title= Obituary: Professor Joseph Mayor |work=[[The Times]] |date=1 December 1916 |page=11 }}</ref>
+
+A philosophical [[Idealism|idealist]] and opponent of [[utilitarianism]] (as befitted his Cambridge and Anglican clerical identity), Grote was nevertheless happy to admit the new experimental psychology of someone like [[John Stuart Mill]]'s disciple [[Alexander Bain (philosopher)|Alexander Bain]] – as long as such 'phenomenal' and more properly 'philosophical' investigations were not conflated with each other. Grote had the (perhaps unenviable) distinction of coining the word '[[relativism]]', though he did not use it in quite the same sense as it is used today.
+
+Grote was frequently acknowledged as a major influence by [[Michael Oakeshott]], and had an important influence on a diverse group of philosophers and scholarship emerging from Cambridge University.<ref>{{Cite web|url=https://www.timeshighereducation.com/features/a-trailblazer-rescued-from-a-footnote/209567.article#|title=A trailblazer rescued from a footnote|date=6 July 2007}}</ref>
+
+==Publications==
+===Books===
+* (1865) [https://books.google.com/books?id=DlUuAAAAYAAJ ''Exploratio Philosophica: Part I'']. 
+* (1870) [https://books.google.com/books?id=U6tCAAAAIAAJ ''An Examination of the Utilitarian Philosophy'']. 
+* (1876) [https://books.google.com/books?id=EOidYz0AstMC ''A Treatise on the Moral Ideals''].  
+* (1872) [https://books.google.com/books?id=4eMEAAAAQAAJ ''Sermons'']. 
+* (1900) [https://books.google.com/books?id=hahCAAAAIAAJ ''Exploratio Philosophica: Part II''].
+
+==References==
+{{reflist}}
+
+==Further reading==
+*Gibbins, John R. (2007) ''John Grote, Cambridge University and the Development of Victorian Thought'', Imprint Academic, Exeter.
+*MacDonald, Laughlin D. (1966) ''John Grote: A Critical Estimate of his Writings'', Martinus Nijhoff, The Hague.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Grote, John}}
+[[Category:1813 births]]
+[[Category:1866 deaths]]
+[[Category:English philosophers]]
+[[Category:Idealists]]
+[[Category:19th-century English Anglican priests]]
+[[Category:Fellows of Trinity College, Cambridge]]
+[[Category:English male non-fiction writers]]
+[[Category:People from Beckenham]]
+[[Category:People from Trumpington]]
+[[Category:Knightbridge Professors of Philosophy]]
+[[Category:Grote family|John]]

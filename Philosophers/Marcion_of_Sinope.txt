@@ -1,0 +1,128 @@
+{{Short description|Early Christian theologian (c.85–c.160)}}
+{{redirect|Marcion|the Coptic–English/Czech dictionary|Marcion (software)}}
+{{redirect-distinguish|Marcion of Pontus|Marcian of Pontus}}
+{{Infobox theologian
+| honorific_prefix   = 
+| image              = Apostle John and Marcion of Sinope, from JPM LIbrary MS 748, 11th c.jpg
+| caption            = Apostle John (left) and (according to [[Robert Eisler|Eisler]]) Marcion of Sinope (right), from [[Morgan Library & Museum|Morgan Library]] MS 748, 11th century.<ref>Eisler, Robert (1938). The Enigma of the Fourth Apostle, Methuen & Co.,p. 158, plate XIII).</ref> 
+| birth_date         = AD 85
+| birth_place        = [[Sinop, Turkey|Sinope]], [[Bithynia and Pontus]], [[Roman Empire]]{{pb}}
+| death_date         = AD 160
+| death_place        = [[Classical Anatolia|Roman Anatolia]], Roman Empire 
+| era                = [[Patristics|Patristic age]]
+| notable_works      = [[Gospel of Marcion]]
+| tradition_movement = [[Marcionism]]
+| main_interests     = [[Dualistic cosmology|Dualism]], [[Nontrinitarianism]]
+}}
+'''Marcion of Sinope''' ({{IPAc-en|ˈ|m|ɑr|k|i|ə|n|,_|-|s|i|ə|n}}; {{langx|grc|Μαρκίων}}<ref>''[[First Apology of Justin Martyr]]'', [http://khazarzar.skeptik.net/books/justinus/apolog1g.htm XXVI.5]</ref>{{NoteTag|[[Genitive case|Genitive]]: {{lang|grc|Μαρκίωνος}}}} {{lang|grc|Σινώπης}}; {{c.|85|160}}) was a [[Diversity in early Christian theology|theologian]]<ref name="Ehrman 2005">{{cite book |last=Ehrman |first=Bart D. |author-link=Bart D. Ehrman |year=2005 |orig-year=2003 |title=Lost Christianities: The Battles for Scripture and the Faiths We Never Knew |chapter=At Polar Ends of the Spectrum: Early Christian Ebionites and Marcionites |chapter-url=https://books.google.com/books?id=URdACxKubDIC&pg=PA95 |location=[[Oxford]] |publisher=[[Oxford University Press]] |pages=95–112 |doi=10.1017/s0009640700110273 |isbn=978-0-19-518249-1 |lccn=2003053097 |s2cid=152458823}}</ref> in [[early Christianity]].<ref name="Ehrman 2005"/><ref name="Dunn 2016">{{cite book |last=Dunn |first=James D. G. |author-link=James Dunn (theologian) |year=2016 |chapter="The Apostle of the Heretics": Paul, Valentinus, and Marcion |chapter-url=https://books.google.com/books?id=Cc0JDAAAQBAJ&pg=PA105 |editor1-last=Porter |editor1-first=Stanley E. |editor1-link=Stanley E. Porter |editor2-last=Yoon |editor2-first=David |title=Paul and Gnosis |location=[[Leiden]] and [[Boston]] |publisher=[[Brill Publishers]] |series=Pauline Studies |volume=9 |pages=105–118 |doi=10.1163/9789004316690_008 |isbn=978-90-04-31668-3 |lccn=2016009435 |s2cid=171394481}}</ref> Marcion preached that [[God in Christianity|God]] had sent [[Jesus Christ]], who was distinct from the "vengeful" God ([[Demiurge#Marcion|Demiurge]]) who had created the world.<ref name="Ehrman 2005"/><ref name="Dunn 2016"/>{{sfn|BeDuhn|2015|p=165}} He considered himself a follower of [[Paul the Apostle]], whom he believed to have been the only true [[Apostles in the New Testament|apostle]] of Jesus Christ; his doctrine is called [[Marcionism]].<ref name="Ehrman 2005"/><ref name="Dunn 2016"/>{{sfn|Knox|1942|p=7}} Marcion published the earliest record of a canon of New Testament books.<ref name="Ehrman 2005"/><ref>{{Cite book|last=Westcott|first=Brooke Foss|url=https://books.google.com/books?id=wkpVAAAAcAAJ&q=he+published+the+earliest+fixed+extent+collection+of+new+testament+books+marcion+s&pg=PA282|title=A general survey of the History of the Canon of the New Testament, during the first four centuries|date=1870|language=en}}</ref>
+
+[[Early Church Fathers]] such as [[Justin Martyr]], [[Irenaeus]], and [[Tertullian]] denounced Marcion as a [[Heresy in Christianity|heretic]] or antichrist,<ref name="Kaatz 2012 p. 44">{{cite book | last=Kaatz | first=K.W. | title=Early Controversies and the Growth of Christianity | publisher=ABC-CLIO | series=Praeger Series on the Ancient World | year=2012 | isbn=978-0-313-38360-1 | url=https://books.google.com/books?id=nFd0tlBV8e4C&pg=PA44 | access-date=2023-08-12 | page=44}}</ref> and he was excommunicated by the church of [[Diocese of Rome|Rome]] around 144.{{sfn|Harnack|1921|p=17}} He published his own [[Biblical canon|canon]] of [[Christianity|Christian]] [[Religious text#Christianity|sacred scriptures]],<ref name="Ehrman 2005"/><ref name="bruce-134">Bruce 1988, p.&nbsp;134.</ref>{{sfn|Knox|1942|p=19}} which contained ten [[Pauline epistles]] (including the [[Epistle to the Laodiceans]], while excluding the [[Pastoral epistles]]) and the [[Gospel of Marcion]] which historically is claimed to be an edited version of the [[Gospel of Luke]].<ref name="Ehrman 2005"/>{{sfn|BeDuhn|2015|p=166}} Some modern scholars, such as [[Matthias Klinghardt]],<ref>Matthias Klinghardt (2015) ''Das älteste Evangelium und die Entstehung der kanonischen Evangelien'', Francke Verlag; Translated as
+{{Cite book|last=Klinghardt|first=Matthias|url=|title=The Oldest Gospel and the Formation of the Canonical Gospels|date=2021|publisher=Peeters Publishers|isbn=978-90-429-4310-0|series=Biblical Tools and Studies, 41|volume=1 & 2|location=Leuven|oclc=1238089165}}</ref> have theorized that [[Priority of the Gospel of Marcion|Marcion's Gospel was the oldest]], although this has been [[Priority of the Gospel of Marcion#Criticism|contested]]. 
+
+This made Marcionism a catalyst in the process of the [[Development of the New Testament canon#Marcion of Sinope|development of the New Testament canon]] by forcing the [[Proto-orthodox Christianity|proto-orthodox Church]] to respond to his canon.<ref name="Ehrman 2005" />{{sfn|Knox|1942|p=3}}
+
+==Life==
+{{Gnosticism}}
+[[Epiphanius of Salamis|Epiphanius]] records in his {{transliteration|grc|[[Panarion]]}} (c. 375) that Marcion was born the son of a bishop in [[Pontus (region)|Pontus]] (modern-day Turkey), likely [[Philologus of Sinope]].<ref>{{Cite web|title=The Gospel of Marcion|url=http://gnosis.org/library/marcion.htm|access-date=2021-08-15|website=gnosis.org}}</ref> [[Rhodo]] and [[Tertullian]], young men in Marcion's old age, described him as a "mariner" and a "ship-master" respectively. Some time in the late 130s, Marcion traveled to Rome, joined the Roman church, and made a large donation of 200,000 [[Sestertius|sesterces]] to the congregation there.{{sfn|Harnack|1921|p=17}}{{sfn|Knox|1942|p=5}} Conflicts with the church of Rome arose and he was eventually [[Excommunication|excommunicated]] in 144, his donation being returned to him.{{sfn|Harnack|1921|p=18}}
+
+[[Irenaeus]] writes that "a certain Cerdo, originating from the Simonians, came to Rome under [[Pope Hyginus|Hyginus]] [...] and taught that the one who was proclaimed as God by the Law and the Prophets is not the Father of our Lord Jesus Christ" (''[[Against Heresies]]'', 1, 27, 1). Also, according to them, Marcion and the Gnostic [[Valentinus (Gnostic)|Valentinus]] were companions in Rome.<ref>Bernard Green, ''Christianity in Ancient Rome: The First Three Centuries''</ref>
+
+In 394, Epiphanius claimed that after beginnings as an [[ascetic]], Marcion seduced a [[virgin]] and was accordingly excommunicated by his father, prompting him to leave his home town.<ref>''[[Refutation of All Heresies]]'', XLII, ii.</ref> Some scholars have taken this  "seduction of a virgin" as a metaphor for Marcion's corruption of the Christian Church, with the Church portrayed as the undefiled virgin,<ref>[[Bart D. Ehrman]], ''Lost Christianities'' Conf. Beyschlag, Karlmann. "Herkunft und Eigenart der Papiasfragmente." Pages 268–80 in Studia Patristica 4: Papers Presented to the 3rd International Conference on Patristic Studies at Christ Church, Oxford, 21–26 September 1959. Edited by Frank L. Cross. TU 79. Berlin: Akademie-Verlag, 1961, p. 276</ref> and that Marcion apparently has become "the victim of the historicisation of such a metaphor, even though it contradicts the otherwise firm tradition of his strict sexual probity".<ref>{{cite book |last=Lieu |first=Judith M |title=Marcion and the Making of a Heretic. God and Scripture in the Second Century |publisher=Cambridge |date=2015}}</ref>{{rp|102}} Doubtful is Tertullian's claim in ''The Prescription Against Heretics'' (written {{c.|200}}) that Marcion professed repentance, and agreed to the conditions granted to him — that he should receive reconciliation if he restored to the Church those whom he had led astray — but that he was prevented from doing so by his death.<ref>[http://www.tertullian.org/anf/anf03/anf03-24.htm#P3125_1133921 ''The Prescription Against Heretics''] 30:3. Tertullian.org.</ref>
+
+==Marcionite Church==
+{{distinguish|Maronite Church}}
+The Marcionite church expanded greatly within Marcion's lifetime, becoming a major rival to the [[History of early Christianity|other emerging church]]. After his death, it retained its following and survived Christian controversy and imperial disapproval for several centuries.<ref>Evans 1972 p. ix</ref> Several theologians have viewed him as a proto-protestant.<ref name="Welchman 2014 p. 21">{{cite book | last=Welchman | first=A. | title=Politics of Religion/Religions of Politics | publisher=Springer Netherlands | series=Sophia Studies in Cross-cultural Philosophy of Traditions and Cultures | year=2014 | isbn=978-94-017-9448-0 | url=https://books.google.com/books?id=-8zlBAAAQBAJ&pg=PA21 | access-date=2023-06-11 | page=21}}</ref>
+
+== Teachings ==
+{{Main|Marcionism|Gospel of Marcion}}
+{{See also|Priority of the Gospel of Marcion}}
+
+Study of the [[Hebrew Bible]], along with received writings circulating in the nascent Church, led Marcion to conclude that many of the [[ministry of Jesus|teachings of Jesus]] were incompatible with the actions of [[Yahweh]], characterized as the belligerent god of the [[Hebrew Bible]]. Marcion responded by developing a [[Dualistic cosmology|ditheistic]] system of belief around the year 144.{{NoteTag|115 years and six months from the [[Crucifixion]], according to [[Tertullian]]'s reckoning in {{lang|la|Adversus Marcionem}}, xv.}} This notion of two gods—a higher transcendent one and a lower world-creator and ruler—allowed Marcion to reconcile his perceived contradictions between Christian [[Covenant theology]] and [[the gospel]] proclaimed by the [[New Testament]].
+
+In contrast to other leaders of the nascent Christian Church, however, Marcion declared that Christianity was in complete discontinuity with [[Judaism]] and entirely opposed to the scriptures of Judaism. Marcion did not claim that these were false. Instead, he asserted that they were entirely true, but were to be read in an absolutely literalistic manner, one which led him to develop an understanding that Yahweh was not the same God spoken of by Jesus. For example, Marcion argued that the [[Book of Genesis|Genesis]] account of Yahweh walking through the [[Garden of Eden]] asking where Adam was, proved that Yahweh inhabited a physical body and was without [[omniscience|universal knowledge]], attributes wholly incompatible with the Heavenly Father professed by Jesus.
+
+According to Marcion, the god of the [[Old Testament]], whom he called the [[Demiurge]], the [[Creator deity|creator]] of the material [[universe]], is a jealous [[National god|tribal deity]] of the [[Jews]], whose [[Torah|law]] represents [[legalism (theology)|legalistic]] [[eye for an eye|reciprocal justice]] and who punishes mankind for its sins through suffering and death. In contrast, the God that Jesus professed is an altogether different being, a universal God of compassion and love who looks upon humanity with benevolence and mercy. Marcion also produced a book titled ''Antitheses'', which is no longer extant,<ref name=":0">{{Cite book |last=Badiou |first=Alain |url=https://www.worldcat.org/oclc/51093150 |title=Saint Paul : the foundation of universalism |date=2003 |publisher=[[Stanford University Press]] |isbn=0-8047-4470-X |location=Stanford, Calif. |pages=35 |oclc=51093150 |author-link=Alain Badiou}}</ref> contrasting the Demiurge of the Old Testament with the Heavenly Father of the New Testament.
+
+Marcion held Jesus to be the son of the Heavenly Father but understood the [[Incarnation (Christianity)|incarnation]] in a [[Docetism|docetic]] manner, i.e. that Jesus' body was only an imitation of a material body, and consequently denied Jesus' physical and bodily birth, death, and resurrection.
+
+Marcion was the first to codify a Christian [[Development of the New Testament canon#Marcion of Sinope|canon]]. His canon consisted of only eleven books, grouped into two sections: the {{transliteration|grc|[[Gospel of Marcion|Evangelikon]]}}, a shorter version of the Gospel of Luke, and the {{transliteration|grc|[[Apostolikon]]}}, a selection of ten epistles of Paul the Apostle, which were also slightly shorter than the canonical text. Early Christians such as Irenaeus, Tertullian, and Epiphanius claimed that Marcion's editions of Luke and the Pauline epistles were intentionally edited by Marcion to match his theological views, and many modern scholars agree.<ref name="Wilkinson2015">{{cite book|author=Robert J. Wilkinson|title=Tetragrammaton: Western Christians and the Hebrew Name of God: From the Beginnings to the Seventeenth Century|url=https://books.google.com/books?id=1xyoBgAAQBAJ&pg=PA120|date=5 February 2015|publisher=BRILL|isbn=978-90-04-28817-1|pages=120–}}</ref> However, some scholars argue that Marcion's texts were not substantially edited by him, and may in some respects represent an earlier version of these texts than the canonical versions.{{sfn|BeDuhn|2015|p=165}}{{sfn|Klinghardt|2008|p=6-10}}{{sfn|Knox|1942|p=164ff}}{{sfn|Hoffmann|1984}} Like the [[Gospel of Mark]], the gospel used by Marcion did not contain elements relating to his [[nativity of Jesus|birth]] and childhood. Interestingly, it did contain some Jewish elements, and material that challenged Marcion's ditheism—a fact that was exploited by early Christians in their polemics against Marcion.{{sfn|Klinghardt|2008|p=7}}
+
+The centrality of the Pauline epistles in Marcion's canon reflects the fact that Marcion considered Paul to be the correct interpreter and transmitter of Jesus' teachings, in contrast to the Twelve Disciples and the early Jerusalem church.{{sfn|Knox|1942|p=7}} In Marcion's view, the other apostles were under the auspices of the Demiurge.<ref name=":0" />
+
+==Gnosticism==
+Marcion is sometimes described as a [[Gnosticism|Gnostic]] philosopher. In some essential respects, Marcion proposed ideas which aligned well with Gnostic thought. Like the Gnostics, he believed that Jesus was essentially a divine spirit who appeared to human beings in human form, but did not actually take on a fleshly human body.{{sfn|Knox|1942|p=7}}
+
+However, Marcionism conceptualizes God in a way which cannot be reconciled with broader Gnostic thought. For Gnostics, some human beings are born with a small piece of God's soul lodged within their spirit (akin to the notion of a [[Divine Spark]]).{{sfn|Harnack|1900|pp=vol. I, &nbsp;267&ndash;313; vol. II, &nbsp;1&ndash;19}} God is thus intimately connected to and part of his creation. Salvation lies in turning away from the physical world (which Gnostics regard as an illusion) and embracing the godlike qualities within oneself. Marcion, by contrast, held that the Heavenly Father (the father of Jesus Christ) was an utterly alien God; he had no part in making the world, nor any connection with it.{{sfn|Harnack|1900|pp=vol. I, &nbsp;267&ndash;313; vol. II, &nbsp;1&ndash;19}} According to [[Bart Ehrman]]: "Marcion himself should not be thought of as a Gnostic; he held that there were only [[Dualism in cosmology|two gods]], not many; he did not think of this world as a cosmic disaster, but as the creation of the Old Testament God; and he did not think divine sparks resided in human bodies that could be set free by understanding the true 'gnosis.' Moreover, his [[docetic]] view does not appear to have been the typical view of Gnostics."<ref>{{Cite book|last=Ehrman|first=Bart D.|title=How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee|date=2014-03-25|publisher=Harper Collins|isbn=978-0-06-225219-7|language=en|chapter=Chapter 8. After the New Testament: Christological Dead Ends of the Second and Third Centuries}}</ref>
+
+== See also ==
+*[[Antinomianism]]
+*[[Manichaeism]]
+
+== Notes ==
+{{NoteFoot}}
+
+== References ==
+{{Reflist}}
+
+== Sources ==
+{{refbegin|2}}
+* {{cite journal|last1=BeDuhn|first1=Jason|author-link1=Jason BeDuhn|title=The New Marcion|journal=Forum|volume=3|issue=Fall 2015|pages=163–179|year=2015|url=http://www.westarinstitute.org/wp-content/uploads/2015/10/Forum-42-Challenging-Common-Conceptions-of-Early-Christianity.pdf|access-date=2019-06-21|archive-date=2019-05-25|archive-url=https://web.archive.org/web/20190525073815/http://www.westarinstitute.org/wp-content/uploads/2015/10/Forum-42-Challenging-Common-Conceptions-of-Early-Christianity.pdf|url-status=dead}}
+* Blackman, E.C. ''Marcion and His Influence'' [1948] 2004. {{ISBN|978-1-59244-731-2|}}.
+* [[F. F. Bruce|Bruce, F. F.]] (1988). ''The Canon of Scripture''. InterVarsity Press. {{ISBN|978-0-8308-1258-5|}}.
+* Clabeaux, John James. ''The Lost Edition of the Letters of Paul: A Reassessment of the Text of Pauline Corpus Attested by Marcion (Catholic Biblical Quarterly Monograph Series No. 21)'' 1989 {{ISBN|0-915170-20-5|}}.
+* Dahl, Nils Alstrup. "The Origin of the Earliest Prologues to the Pauline Letters", ''[[Semeia]]'' 12 (1978), pp.&nbsp;233–277.
+* [[Epiphanius of Salamis]]. ''The Panarion of Epiphanius of Salamis, Book 1 (Sects 1-46)'' Frank Williams translator, 1987. {{ISBN|90-04-07926-2|}}.
+* Evans, Ernest (comments and translation): [[Tertullian]], ''Against Marcion'' (Oxford University Press, 1972). [http://www.tertullian.org/articles/evans_marc/evans_marc_00index.htm E-text of ''Adversus Marcionem'' and Evan's introduction "Marcion : His Doctrine and Influence"]
+* Grant, Robert M. ''Marcion and the Critical Method'' Peter Richardson & John Collidge Hurd, eds., From Jesus to Paul. Studies in Honour of Francis Wright Beare. Waterloo, ON, 1984. pp.&nbsp;207–215.
+* {{cite book|last1=Harnack|first1=Adolf|author-link=Adolf von Harnack|title=History of Dogma|year=1900|translator-last1=Buchanan|translator-first1=Neil}}
+* {{cite book|last1=Harnack|first1=Adolf|author-link=Adolf von Harnack|title=Marcion: The Gospel of the Alien God|year=1921|translator-last1=Steely|translator-first1=John E.|translator-last2=Bierma|translator-first2=Lyle D.|publisher=Baker|location=Grand Rapids|isbn=978-1-55635-703-9}}
+* {{cite book | last=Hoffmann | first=R. Joseph | author-link=R. Joseph Hoffmann |title=Marcion, on the Restitution of Christianity: An Essay on the Development of Radical Paulist Theology in the Second Century | publisher=Scholars Press | publication-place=Chico, Calif | date=1984 | isbn=0-89130-638-2}}
+* {{cite book|last=Knox|first=John|title=Marcion and the New Testament: An Essay in the Early History of the Canon|publisher=Chicago University Press|location=Chicago|date=1942|isbn=978-0404161835}}.
+* {{cite journal|last=Klinghardt|first=Matthias|author-link=Matthias Klinghardt|date=2008|title=The Marcionite Gospel and the Synoptic Problem: A New Suggestion|jstor=25442581|journal=Novum Testamentum|volume=50|issue=1|pages=1–27|doi=10.1163/156853608X257527}}
+* Livingstone, E. A. ''The Oxford Dictionary of the Christian Church (3rd ed.)'', pp.&nbsp;1033–34, 1997 {{ISBN|0-19-211655-X|}}.
+* Francis Legge, ''Forerunners and Rivals of Christianity, From 330 B.C. to 330 A.D. '' (1914), reprinted in two volumes bound as one, University Books New York, 1964. {{LCCN|64024125}}.
+* {{Cite book|editor-last=Mitchell|editor-first=Charles W.|title=S. Ephraim's Prose Refutations of Mani, Marcion, and Bardaisan|year=1912|volume=1|location=London|publisher=Text and Translation Society|url=https://books.google.com/books?id=HkJIAQAAIAAJ}}
+* {{Cite book|editor-last1=Mitchell|editor-first1=Charles W.|editor-last2=Bevan|editor-first2=Anthony A.|editor-link2=Anthony Ashley Bevan|editor-last3=Burkitt|editor-first3=Francis C.|editor-link3=Francis Crawford Burkitt|title=S. Ephraim's Prose Refutations of Mani, Marcion, and Bardaisan|year=1921|volume=2|location=London|publisher=Text and Translation Society|url=https://books.google.com/books?id=B2VIAQAAIAAJ}}
+* Moll, Sebastian, ''The Arch-Heretic Marcion'', Wissenschaftliche Untersuchungen zum Neuen Testament 250, Mohr Siebeck, Tübingen 2010 (Spanish translation: Marción. El primer hereje, Biblioteca de Estudios Bíblicos 145, Ediciones Sígueme, Salamanca 2014)
+* Riparelli, Enrico, ''Il volto del Cristo dualista. Da Marcione ai catari'', Peter Lang, Bern 2008, 368 pp. {{ISBN|978-3-03911-490-0|}}.
+* [[R.C. Sproul|Sproul, R.C.]], ''How Then Shall We Worship?''. Colorado Springs, CO: David C Cook, 2013. {{ISBN|978-1-4347-0424-5|}} p.&nbsp;16.
+* Williams, David Salter. "Reconsidering Marcion's Gospel", ''Journal of Biblical Literature'' 108 (1989), pp.&nbsp;477–96
+* Wilson, R. S. ''Marcion: A Study of a Second-Century Heretic'' (London: Clarke) 1933.
+{{refend}}
+
+==Further reading==
+* Joseph B. Tyson, ''[https://books.google.com/books?id=MU2U08v6aq0C&pg=PA32 Marcion and Luke-Acts: A defining struggle]'', University of South Carolina Press, 2006, {{ISBN|1-57003-650-0}}
+* [http://www.earlychurch.org.uk/article_marcion.html ''Marcion: Portrait of a Heretic'' by Rob Bradshaw]
+* [https://web.archive.org/web/20070207013000/http://escholarship.bc.edu/cgi/viewcontent.cgi?article=1016&context=scjr Joseph B. Tyson, Anti-Judaism in Marcion and his Opponents]
+* {{Cite Catholic Encyclopedia |wstitle=Marcionites |volume=9 |first=John |last=Arendzen |author-link=John Arendzen |short=1 |noicon=1}}
+* {{Cite EB1911 |wstitle=Marcion |volume=17 |pages=691–693 |first=Adolf |last=von Harnack |author-link=Adolf von Harnack |short=1}}
+
+==External links==
+{{Wikiquote}}
+* [http://www.gnosis.org/library/marcionsection.htm ''Marcion's Writings (at the Gnosis Archive)'':] Marcion: Gospel of the Lord and Other Writings
+* [http://www.marcionite-scripture.info/ Marcionite Research Library]
+* [http://www.ccel.org/ccel/harnack/origin_nt.v.i.html The Marcionite Prologues to the Pauline Epistles]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Marcion of Sinope}}
+[[Category:80s births]]
+[[Category:160s deaths]]
+[[Category:Year of birth uncertain]]
+[[Category:Year of death uncertain]]
+[[Category:2nd-century Christian theologians]]
+[[Category:2nd-century Greek people]]
+[[Category:2nd-century Romans]]
+[[Category:2nd-century writers]]
+[[Category:Ancient Christian anti-Judaism]]
+[[Category:Ancient Christians involved in controversies]]
+[[Category:Ancient Pontic Greeks]]
+[[Category:Anti-natalists]]
+[[Category:Christianity-related controversies]]
+[[Category:Founders of religions]]
+[[Category:Gnostics]]
+[[Category:Christianity and Judaism related controversies]]
+[[Category:People excommunicated by Christian churches]]
+[[Category:People from Sinop, Turkey]]
+[[Category:Roman Pontus]]
+[[Category:Marcionism]]

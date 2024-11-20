@@ -1,0 +1,86 @@
+{{Short description|German scientist, philosopher and politician (1817–1895)}}
+{{other people}}
+{{redirect|Karl Vogt|the Swiss field hockey player|Karl Vogt (field hockey)}}
+{{Infobox philosopher
+| region = [[Western philosophy]]
+| era    = [[19th-century philosophy]]
+| name        = Carl Vogt
+| image       = Carl Vogt NYPL 1158509 (cropped).jpg
+| caption     = Vogt {{circa|1870}}
+| birth_date  = {{birth-date|5 July 1817}}
+| birth_place = [[Gießen]], [[Grand Duchy of Hesse]]
+| death_date  = {{death-date and age|5 May 1895|5 July 1817}}
+| death_place = [[Geneva]], Switzerland
+| nationality      = [[Germany|German]]–[[Switzerland|Swiss]]
+| education        = [[University of Giessen]]<br/>[[University of Bern]] ([[M.D.]], 1839)
+| institutions     = [[University of Giessen]]<br>[[University of Geneva]]
+| school_tradition = [[German materialism]]<ref>Owen Chadwick, ''The Secularization of the European Mind in the Nineteenth Century'', Cambridge University Press, 1990, p. 165: "During the 1850s German ... scientists conducted a controversy known ... as the materialistic controversy. It was specially associated with the names of Vogt, Moleschott and Büchner" and p. 173: "Frenchmen were surprised to see Büchner and Vogt. ... [T]he French were surprised at German materialism".</ref> 
+| main_interests   = [[Philosophy of science]], [[political philosophy]]
+| influences       = [[Justus von Liebig]],<ref>''The Louisiana Planter and Sugar Manufacturer'', [https://books.google.com/books?id=QbrmAAAAMAAJ Vol. 70], 1923, p. 184.</ref> [[Louis Agassiz]]<ref>Nicolaas A. Rupke, ''Alexander von Humboldt: A Metabiography'', University of Chicago Press, 2008, p. 54.</ref>
+| influenced       = [[Ivan Pavlov]]<ref name=PBP>John Powell, Derek W. Blakeley, Tessa Powell (eds.), ''Biographical Dictionary of Literary Influences: The Nineteenth Century, 1800-1914'', Greenwood Publishing Group, 2001, "Pavlov, Ivan Petrovich (1849–1936)."</ref>
+| notable_ideas    = [[Polygenism]]
+|signature=Signatur Carl Vogt.PNG
+}}
+
+'''August Christoph Carl Vogt''' ({{IPA|de|foːkt|lang|de-Vogt2.ogg}}; 5 July 1817{{snd}}5 May 1895) was a German scientist, philosopher, popularizer of science, and politician who emigrated to [[Switzerland]]. Vogt published a number of notable works on [[zoology]], [[geology]] and [[physiology]]. All his life he was engaged in politics, in the German [[Frankfurt Parliament]] of [[Revolutions of 1848|1848–49]] and later in Switzerland.<ref>[[Andreas Daum|Andreas W. Daum]], ''Wissenschaftspopularisierung im 19. Jahrhundert: Bürgerliche Kultur, naturwissenschaftliche Bildung und die deutsche Öffentlichkeit, 1848–1914''. Munich: Oldenbourg, 1998, pp. 13, 15, 25, 160, 210, 254, 277, 289–90, 294–97, 355, 357, 377, 386–87, 393, 398–99, 418, 426, 430, 451, 456, 514–15, including a short biography.</ref>
+
+==Early life==
+[[File:BoulevardCarlVogtGeneva-CriticismOfRacism RomanDeckert23062022.jpg|thumb|Street sign in Geneva with a poster denouncing Vogt's theories as [[White supremacy|white-supremacist]], criticising the naming of the street, official buildings etc. after him and the presence of his bust in front of the university]]
+Vogt was born in [[Giessen]], the son of {{Interlanguage link multi|Philipp Friedrich Wilhelm Vogt|de}}, professor of clinics, and Louise Follenius.  His maternal uncle was [[Charles Follen]].<ref>{{cite journal|title=Sketch of Carl Vogt|journal=Popular Science Monthly|date=November 1897|page=116|url=https://www.biodiversitylibrary.org/item/68249#page/124/mode/1up|accessdate=7 May 2013}}</ref> From 1833 to 1836, he studied medicine at the [[University of Giessen]], and continued his training in [[Bern]], Switzerland, earning his PhD. in 1839. He then worked with [[Louis Agassiz]] in [[Neuchâtel]].<ref>[[Andreas Daum|Daum]], ''Wissenschaftspopularisierung'', p. 514.</ref>
+
+==Life and Career==
+In 1847 he became professor of zoology at the [[University of Giessen]], and in 1852 professor of geology and afterwards also of zoology at the [[University of Geneva]]. His earlier publications were on zoology. He dealt with the [[Amphibia]] (1839), [[Reptiles]] (1840), with [[Mollusca]] and [[Crustacea]] (1845) and more generally with the invertebrate fauna of the [[Mediterranean]] (1854).<ref name="EB1911">{{EB1911|inline=y|wstitle=Vogt, Karl Christoph |volume=28 |page=172}}</ref> In 1842, during his time with [[Louis Agassiz]], he discovered the mechanism of [[apoptosis]], the [[programmed cell death]], while studying the development of the tadpole of the [[midwife toad]] (''[[Alytes obstetricans]]''). [[Charles Darwin]] mentions Vogt's support for the theory of evolution in the introduction to his ''[[The Descent of Man, and Selection in Relation to Sex]]'' (1871).
+
+Vogt was a proponent of [[scientific materialism]] and [[atheism]],<ref>Spencer, Nick. Atheists: The Origin of the Species. N.p.: n.p., n.d. Print.</ref> eager to engage in public debates with philosophical and scientific opponents, such as in his work ''Köhlerglaube und Wissenschaft'' of 1855, which was reprinted four times the same year.<ref>{{Cite book|last=Daum|title=Wisssenschaftspopularisierung|pages=293–299}}</ref> 
+
+Vogt defended the theory of [[polygenist]] evolution; he rejected the monogenist beliefs of most Darwinists and instead believed that each race had evolved from a different type of ape.<ref>Colin Kidd, ''The forging of races: race and scripture in the Protestant Atlantic world, 1600-2000'', 2006, p. 58.</ref> He wrote the [[Caucasian race|White race]] was a separate species from Negroes. In Chapter VII of his ''Lectures on Man'' (1864), he compared the Negro to the White race and described them as “two extreme human types”. The differences between them, he claimed, are greater than those between two species of ape; and this proved that Negroes are a separate species from Whites.<ref>[[Gustav Jahoda]], ''Images of savages: ancients [sic] roots of modern prejudice in Western culture'', 1999, p. 83.</ref> He was elected as a member to the [[American Philosophical Society]] in 1869.<ref>{{Cite web|title=APS Member History|url=https://search.amphilsoc.org/memhist/search?year=1869;year-max=1869;smode=advanced;startDoc=1|access-date=2021-04-26|website=search.amphilsoc.org}}</ref> He died in Geneva at the age of 77.
+
+==Politics==
+Vogt was active in German politics and was a left-wing representative in the [[Frankfurt Parliament]]. [[Karl Marx]] scathingly replied to attacks by Carl Vogt in his book ''Herr Vogt'' (Mister Vogt) in 1860.<ref name=Mehringt>{{cite book|last = Mehring | first = Franz | author-link = Franz Mehring | title = [[Karl Marx: The Story of His Life]] |chapter=Chapter 10.5: Herr Vogt |year=1918 |others=Translated by Edward Fitzgerald}}</ref><ref name=trans>''[https://www.marxists.org/archive/marx/works/1860/herr-vogt/herr-vogt.pdf Herr Vogt],'' translation in English by Robert Archer (1982).</ref>
+
+Years later, in 1870, with the fall of the [[Second French Empire|Second Empire]], [[French Third Republic|French Republic]] under the [[Government of National Defense]] put up a "''Commission chargée de réunir, classer et publier les papiers saisis aux Tuileries''" ("Commission responsible for collecting, classifying and publishing the papers seized at the Tuileries") under the chairmanship of {{ill|André Lavertujon|fr}} to publish the documents survived [[Tuileries Palace]] fire. In the published documents there was a list, prepared with the collaboration of André Lefèvre, that revealed some of the [[Bonapartism|Bonapartist]] agents, among them, a man named Vogt: "''Vogt (?). Il lui est remis, en août 1859, 40,000 fr.''" ("Vogt (?). He was given, in August 1859, 40.000 [[French franc|francs]].")<ref>{{cite book |title=Papiers et correspondance de la famille impériale (Tome II) |date=1870 |publisher=Imprimerie nationale |location=[[Paris]] |page=166 |edition=1st |url=https://babel.hathitrust.org/cgi/pt?id=hvd.hnxb1n&view=1up&seq=178 |access-date=5 April 2023}}</ref><ref>{{cite book |editor1-last=Poulet-Malassis |editor1-first=Auguste |title=Papiers secrets et correspondance du second empire; reímpression complète de l'édition de l'Imprimerie nationale, annotée et augmentée de nombreuses pièces pub. à l'étranger, et recueillies par A. Poulet-Malassis. Avec fac-simile d'autographes de l'empereur, de l'impératrice, de Mlle Marguerite Bellanger, de Joséphine Bonaparte, etc., etc. |date=1871 |publisher=Chez tous les libraires |location=Bruxelles |edition=1st |url=https://catalog.hathitrust.org/Record/007313730 |access-date=5 April 2023}}</ref><ref>{{cite book |title=Papiers Secrets et Correspondance du Second Empire Réimpression complète, annotée et augmentée de nombreuses pièces publiées à l'étranger: PREMIÈRE PARTIE Avec fac-simile d'autographes de l'Empereur, de l'Impératrice, de Mme. Marguerite Bellanger, de Joséphine Bonaparte, etc. etc. |date=1871 |publisher=Chez tous les libraires |location=Bruxelles |page=366 |url=https://books.google.com/books?id=VfJSAAAAcAAJ |access-date=5 April 2023}}</ref><ref>{{cite book |title=Documents authentiques annotes. Les papiers secrets du second empire (N° 10) |date=1871 |publisher=Office de Publicité |location=[[Brussels|Bruxelles]] |page=9 |edition=1st |url=https://books.google.com/books?id=ftexrfNNqkwC |access-date=5 April 2023}}</ref>
+
+After this publication, this issue also was handled in German Marxist/social-democratic papers. Newspaper ''[[Der Volksstaat]]'' published these passages in April 15.<ref>{{cite news |title="Herr Vogt" |url=https://books.google.com/books?id=wDf9jtrQFZgC&pg=RA4-PA18 |access-date=5 April 2023 |work=Der Volksstaat |issue=31 |date=15 April 1871 |page=4 |language=German}}</ref> In ''Der Volksstaat'''s May 10 issue, Engels, with his article "Abermals „Herr Vogt“" ("Once again on Herr Vogt") further commented on the identity of the person named as "Vogt (?)", and claimed it being Carl Vogt.<ref>{{cite news |last1=Engels |first1=Friedrich |author1-link=Friedrich Engels |title=Abermals "Herr Vogt" |url=https://books.google.com/books?id=wDf9jtrQFZgC&pg=RA6-PA19 |access-date=5 April 2023 |work=Der Volksstaat |issue=38 |date=10 May 1871 |pages=1, 4}}</ref> Engels explained:<ref>{{cite web |last1=Engels |first1=Frederick |title=Once Again "Herr Vogt" |url=https://wikirouge.net/texts/en/Once_Again_%22Herr_Vogt%22 |access-date=5 April 2023}} in: {{cite book |last1=Marx |first1=Karl |last2=Engels |first2=Frederick |author1-link=Karl Marx |author2-link=Friedrich Engels |title=Collected Works (Volume: 22 - Marx and Engels, 1870-1871) |date=1987 |publisher=[[Lawrence & Wishart]] |pages=303–304 |edition=1st}}</ref>
+
+{{Blockquote
+|text=Vogt? Who is Vogt? What a misfortune for Vogt that the description was not more specific! Had it said, Professor Karl Vogt in Geneva, giving the name of the street and the number of his house, Vogt could have said: It's not me, it's my brother, my wife, my eldest son—anyone but me—but as things stand! Just plain Vogt without title, first name, address—well, that can only be the one Vogt, the world-famous scholar, the great discoverer of the round-worms and the flat-worms, of the long skulls and the short skulls, and of the Brimstone Gang, the man whose reputation is so well known, even to the police administering the secret fund, that any more detailed description would be superfluous! And then—is there any other Vogt who could have rendered such services to the Bonapartist government in 1859 that it should have paid him 40,000 francs in the August of that year (and Vogt just happened to be in Paris at the time)? That you rendered the services, Herr Vogt, is public knowledge. Your Studies are the proof of it. The first edition of those Studies came out in the spring, the second appeared in the summer. You yourself have admitted that you offered many people money to act in the Bonapartist interests from April 1, 1859 until well into the summer of that year. In August 1859, after the war had come to an end, you were in Paris—and are we now supposed to believe that the Vogt to whom Bonaparte paid out 40,000 francs in August 1859 was another, wholly unknown Vogt? Impossible. We swear by all round-worms and flat-worms: until you can prove the opposite to us, we must assume that you are the Vogt in question.
+}}
+
+This revelation was later adapted by other Marxists and [[Marxology|Marxologists]] too, and since then being canonized. Marx's daughter, [[Eleanor Marx]], in her biography of her father published after his death, also mentioned this affair.<ref>{{cite journal |last1=Marx |first1=Eleanor |title=Karl Marx I |journal=Progress |date=May 1883 |volume=I |issue=5 |pages=288–294}}; reprinted in: {{cite journal |last1=Marx |first1=Eleanor |author1-link=Eleanor Marx |title=Karl Marx |journal=The Social-Democrat |date=June 15, 1897 |volume=I |issue=6 |page=166 |url=https://babel.hathitrust.org/cgi/pt?id=njp.32101067578839&view=1up&seq=176 |access-date=5 April 2023}}</ref> This question was mentioned in numerous Marxist texts, notably, publications of '''''Herr Vogt'''''<ref>{{cite journal |title=Karl Marx on Herr Vogt: Timely Excerps from a Classic |journal=[[New International (magazine)|The New International]] |date=August 1944 |volume=X |issue=8 |page=257 |url=https://www.marxists.org/history/etol/newspape/ni/vol10/no08/v10n08-w089-aug-1944-new-int.pdf |access-date=5 April 2023}}</ref><ref>"Publisher's Foreword". New Park Publications. in: {{cite book |last1=Marx |first1=Karl |author1-link=Karl Marx |title=Herr Vogt: A Spy in the Workers' Movement |date=1982 |publisher=New Park Publications |isbn=9780902030985 |edition=1st}}</ref> or about Carl Vogt.
+
+==Honors==
+[[File:Büste von Carl Vogt vor Universitätsgebäude in Genf 02.JPG|thumb|Bust of Carl Vogt in front of the University of Geneva]]
+The city of Geneva, Switzerland named a boulevard (Boulevard Carl-Vogt) after Vogt and erected a memorial bust in front of a building of the [[University of Geneva]].<ref>{{cite web|author=Peter Schubert |url=http://www.ville-ge.ch/mhng/hydrozoa/history/vogt.htm |title=Carl A. C. Vogt |work=Hydrozoa directory |publisher=Muséum Genève|date=April 2011 |accessdate=4 June 2012}}</ref> In September 2022, the university board of the University of Geneva decided to change the name of a university building named after Carl Vogt due to his racist and sexist theories.<ref>{{Cite web|title=Uni Carl Vogt va changer de nom|url=https://www.radiolac.ch/actualite/geneve/uni-carl-vogt-va-changer-de-nom/|access-date=2022-10-02|website=radiolac.ch|date=29 September 2022 }}</ref>
+
+==Works==
+[[File:Vogt, Karl Christoph – Histoire naturelle des poissons d'eau douce de l'Europe centrale, 1842 – BEIC 12331720.jpg|thumb|''Histoire naturelle des poissons d'eau douce de l'Europe centrale'', 1842 ]]
+* {{Cite book|title=Histoire naturelle des poissons d'eau douce de l'Europe centrale|volume=|publisher=Nicolet|location=Neuchâtel|year=1842|language=fr|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=12331720}}
+* An English version of his ''Lectures on Man: his Place in Creation and in the History of the Earth'' was published by the Anthropological Society of London in 1864.<ref name="EB1911"/>
+
+==Notes==
+{{reflist}}
+
+==References==
+* [[Andreas Daum]], ''Wissenschaftspopularisierung im 19. Jahrhundert: Bürgerliche Kultur, naturwissenschaftliche Bildung und die deutsche Öffentlichkeit, 1848–1914''. Munich: Oldenbourg, 1998, {{ISBN|3-486-56337-8}}.
+*Fredrick Gregory: ''Scientific Materialism in Nineteenth Century Germany'', Springer, Berlin u.a. 1977, {{ISBN|90-277-0760-X}}
+
+==External links==
+*{{Commonscatinline}}
+*{{Wikisource-inline|Author:Carl Christoph Vogt}}
+*[http://vlp.mpiwg-berlin.mpg.de/people/data?id=per359 Short biography and bibliography] in the [[Virtual Laboratory]] of the [[Max Planck Institute for the History of Science]]
+
+{{authority control}}
+
+{{DEFAULTSORT:Vogt, Carl}}
+[[Category:1817 births]]
+[[Category:1895 deaths]]
+[[Category:German atheists]]
+[[Category:19th-century German geologists]]
+[[Category:German physiologists]]
+[[Category:19th-century German zoologists]]
+[[Category:members of the Frankfurt Parliament]]
+[[Category:members of the Second Chamber of the Estates of the Grand Duchy of Hesse]]
+[[Category:people from Giessen]]
+[[Category:people from the Grand Duchy of Hesse]]
+[[Category:Academic staff of the University of Geneva]]
+[[Category:Academic staff of the University of Giessen]]

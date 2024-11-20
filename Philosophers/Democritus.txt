@@ -1,0 +1,178 @@
+{{Short description|Greek philosopher (c. 460–c. 370 BC)}}
+{{other uses}}
+{{pp-vandalism|small=yes}}
+{{Use dmy dates|date=May 2024}}
+{{Infobox philosopher
+| name = Democritus
+| image = Unknown greek pushkin.jpg
+| caption = A philosopher, possibly Democritus. Casting of bust of the [[Villa of the Papyri]].<ref>{{cite book |editor1-last=De Petra |editor1-first=Giulio |editor2-last=Sogliano |editor2-first=Antonio |editor3-last=Patroni |editor3-first=Giovanni |editor4-last=Mariani |editor4-first=L. |editor5-last=Bassi |editor5-first=Domenico |editor6-last=Marucchi |editor6-first=Orazio |editor7-last=Conti |editor7-first=A. |editor6-link=Orazio Marucchi |title=Illustrated guide to the National Museum in Naples : sanctioned by the Ministry of education |publisher=Naples : Richter & Co. |page=68 |url=https://archive.org/details/illustratedguide00museiala/page/n1/mode/2up |access-date=9 May 2024}}</ref>
+| birth_date ={{circa|460 BC}}
+| birth_place = [[Abdera, Thrace|Abdera]], [[Thrace]]
+| death_date ={{circa|370 BC}} (aged approximately 90)
+| era = [[Pre-Socratic philosophy]]
+| region = [[Western philosophy]]
+| school_tradition = [[Atomism]]
+| main_interests = {{hlist |style = padding:0.1em 0; line-height:1.3em; |[[Physis|Nature]]}}
+| notable_ideas =
+ {{unbulleted list |item_style=padding:0.15em 0;line-height:1.25em;
+  |[[Atoms]] and the [[Vacuum|void]] as the fundamental constituents of the physical world{{efn|[[Diels–Kranz numbering system|DK]] B125: "ἐτεῇ δὲ ἄτομα καὶ κενόν"}}
+ }}
+| influences = {{hlist |[[Leucippus]], [[Eleatic school]], [[Anaxagoras]]}}
+| influenced = {{hlist |[[Aristotle]]| [[Epicurus]] |[[Pyrrho]] |[[Lucretius]] |}}
+}}
+
+'''Democritus''' ({{IPAc-en|d|ɪ|ˈ|m|ɒ|k|r|ɪ|t|ə|s}}, {{respell|dim|OCK|rit|əs}}; {{langx|el|Δημόκριτος}}, ''Dēmókritos'', meaning "chosen of the people"; {{circa|460}} – {{circa|370 BC}}) was an [[Ancient Greece|Ancient Greek]] [[Pre-Socratic philosophy|pre-Socratic philosopher]] from [[Abdera, Thrace|Abdera]], primarily remembered today for his formulation of an [[atomism|atomic theory]] of the [[universe]].{{sfn|Barnes|1987}} Democritus wrote extensively on a wide variety of topics.<ref name=":1">{{Cite book |last=Kenny |first=Anthony |url= |title=Ancient Philosophy |publisher=Oxford Publications |isbn=9780198752721 |pages=27}}</ref>
+
+None of Democritus' original work has survived, except through second-hand references. Many of these references come from [[Aristotle]], who viewed him as an important rival in the field of [[natural philosophy]].{{sfn|Berryman|2016}} He was known in antiquity as the ‘laughing philosopher’ because of his emphasis on the value of cheerfulness.<ref>{{Cite web |last=Berryman |first=Sylvia |date=Spring 2023 |title="Democritus", The Stanford Encyclopedia of Philosophy (Spring 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.) |url=https://plato.stanford.edu/archives/spr2023/entries/democritus/ |access-date=30 April 2024 |website=The Stanford Encyclopedia of Philosophy (Spring 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.)}}</ref>
+
+==Life==
+Democritus was born in Abdera, on the coast of [[Thrace]].{{efn|Aristotle, ''De Coel''. iii.4, ''Meteor.'' ii.7}}{{sfn|Taylor|1999|pp=157-158}} He was a polymath and prolific writer, producing nearly eighty treatises on subjects such as poetry, harmony, military tactics, and Babylonian theology. He traveled extensively, visiting Egypt and Persia, but wasn't particularly impressed by these countries. He once remarked that he would rather uncover a single scientific explanation than become the king of Persia.<ref name=":1" /> Although many anecdotes about Democritus' life survive, their authenticity cannot be verified and modern scholars doubt their accuracy.{{sfn|Taylor|1999|pp=157-158}} Ancient accounts of his life have claimed that he lived to a very old age, with some writers{{efn|Lucian, ''Macrobii'' 18}}{{efn|Hipparchus ap. Diogenes Laërtius, ix.43.}} claiming that he was over a hundred years old at the time of his death.{{sfn|Taylor|1999|pp=157-158}}
+
+==Philosophy and science==
+Democritus wrote on ethics as well as physics.<ref name=":2">{{Cite book |last=Kenny |first=Anthony |title=Ancient Philosophy |isbn=9780198752721 |pages=28}}</ref> Democritus was a student of [[Leucippus]]. Early sources such as [[Aristotle]] and [[Theophrastus]] credit Leucippus with creating atomism and sharing its ideas with Democritus, but later sources credit only Democritus, making it hard to distinguish their individual contributions.{{sfn| Taylor| 1999| pp=157-158}}
+
+===Atomic hypothesis===
+{{see also|Atomism}}
+
+We have various quotes from Democritus on atoms, one of them being:
+{{blockquote|text=
+{{lang|grc|δοκεῖ δὲ αὐτῶι τάδε· ἀρχὰς εἶναι τῶν ὅλων ἀτόμους καὶ κενόν, τὰ δ'ἀλλα πάντα νενομίσθαι [δοξάζεσθαι]. (Diogenes Laërtius, Democritus, Vol. IX, 44)}}
+Now his principal doctrines were these. That atoms and the vacuum were the beginning of the universe; and that everything else existed only in opinion. (trans. Yonge 1853)
+|multiline=yes
+}}
+
+He concluded that divisibility of matter comes to an end, and the smallest possible fragments must be bodies with sizes and shapes, although the exact argument for this conclusion of his is not known. The smallest and indivisible bodies he called "atoms."<ref name=":1" /> Atoms, Democritus believed, are too small to be detected by the senses; they are infinite in numbers and come in infinitely many varieties, and they have existed forever and that these atoms are in constant motion in the void or vacuum. The middle-sized objects of everyday life are complexes of atoms that are brought together by random collisions, differing in kind based on the variations among their constituent atoms.<ref name=":1" /> For Democritus, the only true realities are atoms and the void. What we perceive as water, fire, plants, or humans are merely combinations of atoms in the void. The sensory qualities we experience are not real; they exist only by convention.<ref name=":2" /> Of the mass of atoms, Democritus said, "The more any indivisible exceeds, the heavier it is." However, his exact position on atomic weight is disputed.{{sfn|Russell|1972|p=64-65}}
+
+His exact contributions are difficult to disentangle from those of his mentor [[Leucippus]], as they are often mentioned together in texts. Their speculation on atoms, taken from Leucippus, bears a passing and partial resemblance to the 19th-century understanding of atomic structure that has led some to regard Democritus as more of a scientist than other Greek philosophers; however, their ideas rested on very different bases.{{sfn|Berryman|2016}} Democritus, along with Leucippus and [[Epicurus]], proposed the earliest views on the shapes and connectivity of atoms. They reasoned that the solidness of the material corresponded to the shape of the atoms involved.{{sfn|Berryman|2016}} Using analogies from humans' [[empirical evidence|sense experience]]s, he gave a picture or an image of an atom that distinguished them from each other by their shape, their size, and the arrangement of their parts. Moreover, connections were explained by material links in which single atoms were supplied with attachments: some with hooks and eyes, others with balls and sockets.{{efn|See ''testimonia'' DK 68 A 80, DK 68 A 37 and DK 68 A 43.}}
+
+The Democritean atom is an inert solid that excludes other bodies from its volume and interacts with other atoms mechanically. Quantum-mechanical [[atom]]s are similar in that their motion can be described by [[mechanics]] in addition to their electric, magnetic and quantum interactions. They are different in that they can be split into protons, neutrons, and electrons. The [[elementary particle]]s are similar to Democritean atoms in that they are indivisible but their [[collision]]s are governed purely by [[quantum physics]]. [[Fermion]]s observe the [[Pauli exclusion principle]], which is similar to the Democritean principle that atoms exclude other bodies from their volume. However, [[boson]]s do not, with the prime example being the elementary particle [[photon]].
+
+==== Correlation with modern science ====
+The theory of the atomists appears to be more nearly aligned with that of modern science than any other theory of antiquity. However, the similarity with modern concepts of science can be confusing when trying to understand where the hypothesis came from. Classical atomists could not have had an empirical basis for modern concepts of atoms and molecules.
+
+The [[The Void (philosophy)|atomistic void]] hypothesis was a response to the paradoxes of [[Parmenides]] and [[Zeno of Elea|Zeno]], the founders of metaphysical logic, who put forth difficult-to-answer arguments in favor of the idea that there can be no movement. They held that any movement would require a void—which is nothing—but a nothing cannot exist. The Parmenidean position was "You say there ''is'' a void; therefore the void is not nothing; therefore there is not the void."{{sfn|Russell|1972|p=69}}{{efn|Aristotle, ''Phys''. iv.6}} The position of Parmenides appeared validated by the observation that where there seems to be nothing there is air, and indeed even where there is not matter there is ''something'', for instance light waves.
+
+The atomists agreed that motion required a void, but simply rejected the argument of Parmenides on the grounds that motion was an observable fact. Therefore, they asserted, there must be a void.
+
+Democritus held that originally the universe was composed of nothing but tiny atoms churning in chaos, until they collided together to form larger units—including the earth and everything on it.{{sfn|Barnes|1987}} He surmised that [[Cosmic pluralism|there are many worlds]], some growing, some decaying; some with no sun or moon, some with several. He held that every world has a beginning and an end and that a world could be destroyed by collision with another world.{{efn|To epitomize Democritus's cosmology, Russell{{sfn|Russell|1972|pp=71–72}} calls on Shelley: "Worlds on worlds are rolling ever / From creation to decay, / Like the bubbles on a river / Sparkling, bursting, borne away".}}
+
+=== Mathematics ===
+[[File:Plane intersecting cone 2.png|thumb|250px|right|Democritus argued that the circular cross-section of a cone would need step-like sides,{{sfn|Berryman|2016}} rather than being shaped like a cylinder.]]
+Democritus was also a pioneer of mathematics and geometry in particular. According to [[Archimedes]],{{efn|Method of Mechanical Theorems - Archimedes}} Democritus was among the first to observe that a cone and pyramid with the same base area and height has one-third the volume of a cylinder or prism respectively, a result which Archimedes states was later proved by [[Eudoxus of Cnidus]].{{efn|Method of Mechanical Theorems - Archimedes}}{{sfn|Heath|1913|pp=121-122}} [[Plutarch]]{{efn|Plut. De Comm. 39}} also reports that Democritus worked on a problem involving the [[cross-section (geometry)|cross-section]] of a cone that [[Thomas Heath (classicist)|Thomas Heath]] suggests may be an early version of [[infinitesimal calculus]].{{sfn|Heath|1913|pp=121-122}}
+
+===Anthropology===
+
+Democritus thought that the first [[humans]] lived an anarchic and animal sort of life, foraging individually and living off the most palatable herbs and the fruit which grew wild on the trees, until fear of wild animals drove them together into societies. He believed that these early people had no language, but that they gradually began to articulate their expressions, establishing symbols for every sort of object, and in this manner came to understand each other. He says that the earliest men lived laboriously, having none of the utilities of life; clothing, houses, fire, domestication, and farming were unknown to them. Democritus presents the early period of mankind as one of learning by trial and error, and says that each step slowly led to more discoveries; they took refuge in the caves in winter, stored fruits that could be preserved, and through reason and keenness of mind came to build upon each new idea.{{sfn|Barnes|1987}}{{efn|[[#DS|Diodorus]] I.viii.1–7.}}
+
+===Ethics ===
+Democritus was eloquent on ethical topics. Some sixty pages of his fragments, as recorded in [[Diels–Kranz numbering|Diels–Kranz]], are devoted to moral counsel. The ethics and politics of Democritus come to us mostly in the form of maxims. In placing the quest for happiness at the center of moral philosophy, he was followed by almost every moralist of antiquity. The most common maxims associated with him are "''Accept favours only if you plan to do greater favours in return''", and he is also believed to impart some controversial advice such as "''It is better not to have any children, for to bring them up well takes great trouble and care, and seeing them grow up badly is the cruellest of all pains''".<ref name=":0">{{Cite book |last=Kenny |first=Anthony |title=Ancient Philosophy |publisher=Oxford |isbn=9780198752738 |volume=1 |page= |pages=258–259 |language=en |archive-url=}}</ref> He also wrote a treatise on the purpose of life and the nature of happiness. He held that "''happiness was not to be found in riches but in the goods of the soul and one should not take pleasure in mortal things''". Another saying that is often attributed to him is "''The hopes of the educated were better than the riches of the ignorant''". He also stated that "''the cause of sin is ignorance of what is better''" which become a central notion later in the Socratic moral thought. Another idea he propounded which was later echoed in the Socratic moral thought was the maxim that "''you are better off being wronged than doing wrong''".<ref name=":0" /> His other moral notions went contrary to the then prevalent views such as his idea that "''A good person not only refrains from wrongdoing but does not even want to do wrong.''" for the generally held notion back then was that virtue reaches it apex when it triumphs over conflicting human passions.<ref>{{Cite book |last=Kenny |first=Anthony |title=Ancient Philosophy |publisher=Oxford University Press |isbn=9780198752721 |pages=259}}</ref>
+
+===Aesthetics===
+
+Later Greek historians consider Democritus to have established [[aesthetics]] as a subject of investigation and study,{{sfn|Tatarkiewicz|2006|p=89}} as he wrote theoretically on poetry and fine art long before authors such as [[Aristotle]]. Specifically, Thrasyllus identified six works in the philosopher's oeuvre which had belonged to aesthetics as a discipline, but only fragments of the relevant works are extant; hence of all Democritus writings on these matters, only a small percentage of his thoughts and ideas can be known.
+
+==Works==
+[[Diogenes Laertius]] attributes several works to Democritus, but none of them have survived in a complete form.{{sfn|Berryman|2016}}
+
+; Ethics: ''Pythagoras'', ''On the Disposition of the Wise Man'', ''On the Things in Hades'', ''Tritogenia'', ''On Manliness or On Virtue'', ''The Horn of Amaltheia'', ''On Contentment'', ''Ethical Commentaries''
+; Natural science: ''The Great World-System'',{{efn|may have been written by Leucippus}} ''Cosmography'', ''On the Planets'', ''On Nature'', ''On the Nature of Man or On Flesh'' (two books), ''On the Mind'', ''On the Senses'', ''On Flavours'', ''On Colours'', ''On Different Shapes'', ''On Changing Shape'', ''Buttresses'', ''On Images'', ''On Logic'' (three books)
+; Nature: ''Heavenly Causes'', ''Atmospheric Causes'', ''Terrestrial Causes'', ''Causes Concerned with Fire and Things in Fire'', ''Causes Concerned with Sounds'', ''Causes Concerned with Seeds and Plants and Fruits'', ''Causes Concerned with Animals'' (three books), ''Miscellaneous Causes'', ''On Magnets''
+; Mathematics: ''On Different Angles or On contact of Circles and Spheres'', ''On Geometry'', ''Geometry'', ''Numbers'', ''On Irrational Lines and Solids'' (two books), ''Planispheres'', ''On the Great Year or Astronomy'' (a calendar) ''Contest of the Waterclock'', ''Description of the Heavens'', ''Geography'', ''Description of the Poles'', ''Description of Rays of Light'',
+; Literature: ''On the Rhythms and Harmony'', ''On Poetry'', ''On the Beauty of Verses'', ''On Euphonious and Harsh-sounding Letters'', ''On Homer'', ''On Song'', ''On Verbs'', ''Names''
+; Technical works: ''Prognosis'', ''On Diet'', ''Medical Judgment'', ''Causes Concerning Appropriate and Inappropriate Occasions'', ''On Farming'', ''On Painting'', ''Tactics'', ''Fighting in Armor''
+; Commentaries: ''On the Sacred Writings of Babylon'', ''On Those in Meroe'', ''Circumnavigation of the Ocean'', ''On History'', ''Chaldaean Account'', ''Phrygian Account'', ''On Fever and Coughing Sicknesses'', ''Legal Causes'', ''Problems''{{sfn|Barnes|1987|pp=245–246}}
+
+A collections of sayings credited to Democritus have been preserved by [[Stobaeus]], as well as a collection of sayings ascribed to [[Democrates]] which some scholars including [[Diels-Kranz numbering|Diels and Kranz]] have also ascribed to Democritus.{{sfn|Berryman|2016}}
+
+==Legacy==
+Diogenes Laertius claims that Plato disliked Democritus so much that he wished to have all of his [[Book burning|books burned]].{{efn|[[Diogenes Laërtius]], ''[[Lives and Opinions of Eminent Philosophers]]'', ix. 40: "[[Aristoxenus]] in his ''Historical Notes'' affirms that Plato wished to burn all the writings of Democritus that he could collect."}} He was nevertheless well known to his fellow northern-born philosopher [[Aristotle]], and was the teacher of [[Protagoras]].{{efn|[[Diogenes Laertius]], ''Lives of Eminent Philosophers'' Book IX, Chapter 8, Section 50.}}
+
+Democritus is evoked by English writer [[Samuel Johnson]] in his poem, ''[[The Vanity of Human Wishes]]'' (1749), ll. 49–68, and summoned to "arise on earth, /With chearful wisdom and instructive mirth, /See motley life in modern trappings dress'd, /And feed with varied fools th'eternal jest." <!--- Epicurus badly needs to be added --->
+
+<gallery>
+File:Bust of Democritus.jpg|Portrait of a philosopher, possibly Democritus. [[Villa of the Papyri]], Herculaneum.
+File:Vincent, François-André - Democritus among the Abderites.jpg|''Democritus among the Abderites''.
+File:Charles-Antoine Coypel - The Cheerful Democritus.jpg|Charles-Antoine Coypel, ''Cheerful Democritus'', 1746.
+File:Greece donates Democritus Bust (01613420) (50691165646).jpg|2020 bust of Democritus presented to the [[International Atomic Energy Agency]] by [[Greece]].
+</gallery>
+
+==See also==
+* [[Atom]]
+* [[John Dalton]]
+* [[Democritus University of Thrace]]
+* [[Kaṇāda (philosopher)|Kaṇāda]]
+* [[Mochus]]
+* [[National Centre of Scientific Research "DEMOKRITOS"]]
+* [[Pseudo-Democritus]]
+* [[Vaisheshika]]
+
+== Notes ==
+{{NoteFoot}}
+{{notelist}}
+
+=== Citations ===
+{{Reflist}}
+
+== References ==
+{{refbegin}}
+* {{cite book |last1=Barnes |first1=Jonathan |title=Early Greek Philosophy |date=1987 |publisher=Penguin Books |isbn=978-0-14-044461-2 |url=https://books.google.com/books?id=wtNQAQAAIAAJ |access-date=8 September 2022 |language=en}}
+* {{cite SEP |url-id=democritus |title=Democritus |last=Berryman |first=Sylvia|date=2016}}
+* {{cite book |last1=Burnet |first1=John |title=Early Greek Philosophy |date=1892 |publisher=A. and C. Black |url=https://archive.org/details/earlygreekphilo01burngoog |access-date=8 September 2022 |language=en}}
+* {{cite book |last1=Couprie |first1=Dirk L. |title=Heaven and Earth in Ancient Greek Cosmology: From Thales to Heraclides Ponticus |date=23 March 2011 |publisher=Springer Science & Business Media |isbn=978-1-4419-8116-5 |url=https://books.google.com/books?id=MUmdgyUA8bgC |access-date=8 September 2022 |language=en}}
+* {{cite book |last1=Heath |first1=Thomas |title=Aristarchus of Samos, the Ancient Copernicus: A History of Greek Astronomy to Aristarchus, Together with Aristarchus's Treatise on the Sizes and Distances of the Sun and Moon |date=1913 |publisher=Cambridge University Press |isbn=978-1-108-06233-6 |url=https://books.google.com/books?id=rZmHAAAAQBAJ |language=en}}
+* {{cite book |title=The Open Society and its Enemies. Vol I.: The Spell of Plato |last=Popper |first=Karl R. |publisher=George Routledge & Sons |year=1945 |location=London}}
+* {{cite book |last1=Russell |first1=Bertrand |title=A History of Western Philosophy |date=1972 |publisher=Simon and Schuster |isbn=978-0-671-31400-2 |url=https://books.google.com/books?id=OfxQAAAAYAAJ |access-date=8 September 2022 |language=en}}
+* {{cite book |last = Tatarkiewicz |first = Wladyslaw |url = https://books.google.com/books?id=LS_ji6fh60IC&pg=PA91 |title = History of Aesthetics |editor1 = J. Harrell |editor2 = C. Barrett |editor3 = D. Petsch |page = 89 |publisher = A&C Black |year = 2006 |isbn = 0826488552 |access-date = 6 May 2015 |archive-date = 9 April 2022 |archive-url = https://web.archive.org/web/20220409224843/https://books.google.com/books?id=LS_ji6fh60IC&pg=PA91 |url-status = live }}
+* {{cite book |last1=Taylor |first1=C.C.W. |title=The Atomists, Leucippus and Democritus: Fragments : a Text and Translation with a Commentary |date=1999 |publisher=University of Toronto Press |isbn=978-0-8020-4390-0 |url=https://books.google.com/books?id=WcADAQAAIAAJ |access-date=9 September 2022 |language=en}}
+{{refend}}
+
+=== Ancient testimony ===
+* <cite id="DS">[[Diodorus Siculus]] (1st century BC). ''[[Bibliotheca historica]]''.</cite>
+* {{cite LotEP |chapter = Democritus}}
+* <cite id="Petronius">[[Petronius]] (late 1st century AD). ''[[Satyricon]].'' Trans. William Arrowsmith. New York: A Meridian Book, 1987.</cite>
+* <cite id="Sextus">[[Sextus Empiricus]] ({{circa|200 AD}}). ''Adversus Mathematicos''.</cite>
+
+=== Translations ===
+* <cite id="Fr">Bakalis, Nikolaos (2005). ''Handbook of Greek Philosophy: From Thales to the Stoics: Analysis and Fragments'', Trafford Publishing, {{ISBN|1-4120-4843-5}}.</cite>
+* Freeman, Kathleen (2008). ''Ancilla to the Pre-Socratic Philosophers: A Complete Translation of the Fragments in [[Hermann Alexander Diels|Diels]]'', Forgotten Books, {{ISBN|978-1-60680-256-4}}.
+
+==Further reading==
+* Bailey, C. (1928). ''The Greek Atomists and Epicurus''. Oxford.{{ISBN?}}
+* Barnes, Jonathan (1982). ''The Presocratic Philosophers'', Routledge Revised Edition.{{ISBN?}}
+* {{cite book |last=Brumbaugh |first=Robert S. |title=The Philosophers of Greece |url=https://archive.org/details/philosophersofgr00brum |url-access=registration |year=1964 |publisher=Crowell |location=New York}}
+* {{cite book |last=Burnet |first=John |title=Greek Philosophy: Thales to Plato |url=https://archive.org/details/burnetsgreekphil00burnuoft |year=1914 |publisher=Macmillan |location=London}}
+* Guthrie, W. K. (1979) ''A History of Greek Philosophy – The Presocratic tradition from Parmenides to Democritus'', Cambridge University Press.{{ISBN?}}
+* Kirk, G. S., J. E. Raven and M. Schofield (1983). ''The Presocratic Philosophers'', Cambridge University Press, 2nd edition.{{ISBN?}}
+* {{cite book|last1=Lee|first1=Mi-Kyoung|title=Epistemology after Protagoras: responses to relativism in Plato, Aristotle, and Democritus|url=https://archive.org/details/epistemologyafte0000leem|access-date=22 September 2016|date=2005|publisher=Oxford University Press|isbn=978-01-99-26222-9|url-access=registration}}
+* {{cite book |last=Sandywell |first=Barry |title=Presocratic Reflexivity: The Construction of Philosophical Discourse c. 600–450 BC |year=1996 |publisher=Routledge |location=London |isbn=0-415-10170-0}}
+* {{cite journal |last=Vlastos |first=Gregory |author-link=Gregory Vlastos |title=Ethics and Physics in Democritus |journal=Philosophical Review |year=1945–1946 |volume=54-55 |pages=53–64, 578–592}}
+
+==External links==
+{{Commons category multi|Democritus|Laughing Democritus|align=right}}
+{{Library resources box |by=yes |onlinebooks=yes |others=yes |about=yes |label=Democritus
+  |viaf= |lccn= |lcheading= |wikititle= }}
+* {{Wikiquote-inline}}
+* {{Wikisource author-inline}}
+* {{cite IEP |url-id=democrit}}
+* {{MacTutor Biography|id=Democritus}}
+
+{{Ancient Greek mathematics}}
+{{Greek schools of philosophy}}
+{{Ancient Greece topics}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Democritus}}
+[[Category:5th-century BC Greek philosophers]]
+[[Category:4th-century BC Greek people]]
+[[Category:4th-century BC writers]]
+[[Category:Abderites]]
+[[Category:Ancient Greek atomist philosophers]]
+[[Category:Ancient Greek epistemologists]]
+[[Category:Ancient Greek mathematicians]]
+[[Category:Ancient Greek metaphysicians]]
+[[Category:Presocratic philosophers]]
+[[Category:460s BC births]]
+[[Category:370s BC deaths]]
+[[Category:5th-century BC mathematicians]]
+[[Category:4th-century BC mathematicians]]

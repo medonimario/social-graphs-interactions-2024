@@ -1,0 +1,200 @@
+{{Short description|3rd-century Phoenician Neoplatonist philosopher}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[Ancient philosophy]]
+| image            = Porphyry.jpg
+| caption          = ''Porphire Sophiste'', in a French 16th-century engraving
+| name             = Porphyry of Tyre
+| other_names      =
+| birth_date       = {{Circa|234 CE}} 
+| birth_place      = [[Tyre, Lebanon|Tyre]], [[Phoenice (Roman province)| Phoenice Syria]], [[Roman Empire]] (present-day [[Lebanon]])
+| death_date       = {{death year and age|305|234}}
+| death_place      = [[Rome]], [[Roman Empire]]
+| school_tradition = [[Neoplatonism]]
+| main_interests   = [[Metaphysics]], [[astrology]]
+| notable_ideas    = [[Porphyrian tree]], [[criticism of Christianity]], [[vegetarianism]]
+| influences       = [[Theophrastus]], [[Plotinus]], [[Middle Platonism]], [[Plato]], [[Aristotle]]
+| influenced       = [[Iamblichus]], [[Julian the Apostate|Julian]], [[Boethius]], [[Eusebius of Caesarea|Eusebius]], [[Origen]], [[Augustine]], [[Sossianus Hierocles]], [[Scholasticism]] and Arabic [[Aristotelianism]] (through the ''[[Isagoge]]''), later [[Neoplatonism]]
+| notable_works    = {{collapsible list|''[[Isagoge|Introduction to Categories]]'' (Εἰσαγωγή; ''Introductio in Praedicamenta or Isagoge et in Aristotelis Categorias commentarium''), ''The Life of Pythagoras'' (Πυθαγόρου βίος; ''Vita Pythagorae''), ''[[On Abstinence from Animal Food]]'' (Περὶ ἀποχῆς ἐμψύχων; ''De Abstinentia ab Esu Animalium''), ''[[On the Cave of the Nymphs in the Odyssey]]'' (Περὶ τοῦ ἐν Ὀδυσσείᾳ τῶν Νυμφῶν Ἄντρου; ''De Antro Nympharum''), ''Introduction to Ptolemy's Tetrabiblos'' (Εἰσαγωγὴ εἰς τὴν Ἀποτελεσματικὴν τοῦ Πτολεμαίου), ''Commentary on Ptolemy's Harmonics'' (Εἰς τὰ ἁρμονικὰ Πτολεμαίου ὑπόμνημα), ''On the Life of Plotinus and the Arrangement of his Work'' (Περὶ τοῦ Πλωτίνου βίου καὶ τῆς τάξεως τῶν βιβλίων αὐτοῦ; ''Vita Plotini''), ''Starting-points leading to the intelligibles'' (Ἀφορμαὶ πρὸς τὰ νοητά; ''Sententiae ad intelligibilia ducentes''), ''Philosophy from Oracles'' (Περὶ τῆς ἐκ λογίων φιλοσοφίας; ''De Philosophia ex Oraculis Haurienda''), ''Against the Christians'' (Κατὰ Χριστιανῶν; ''Adversus Christianos'')}}
+}}
+
+'''Porphyry of Tyre''' ({{IPAc-en|ˈ|p|ɔr|f|ɪr|i}}; {{lang-grc-gre|Πορφύριος}}, ''Porphýrios''; {{Circa|234}} – {{Circa|AD 305}}) was a [[Neoplatonism|Neoplatonic]] philosopher born in [[Tyre, Lebanon|Tyre]], [[Phoenice (Roman province)|Roman Phoenicia]]<ref name=":1">{{Cite book|last=Schott|first=Jeremy M.|url=https://books.google.com/books?id=VJDuEd_Jl5YC&q=translations+of+Porphyry's+name+are+indicative+of+a+much+deeper+transformation,+that+from+Syrian+provincial+to&pg=PA62|title=Christianity, Empire, and the Making of Religion in Late Antiquity|date=2013-04-23|publisher=University of Pennsylvania Press|isbn=978-0-8122-0346-2|language=en}}</ref> during [[Roman Empire|Roman rule]].{{efn|For Porphyry's dates, place of birth and philosophical school, see {{harvnb|Barker| 2003|pp=1226–1227}}.  {{harvnb|Sarton|1936| pp= 429–430}} identifies Transjordania as Porphyry's place of birth.}}<ref name=":1" />{{sfn|Johnson|2013|p=8}} He edited and published ''[[The Enneads]]'', the only collection of the work of [[Plotinus]], his teacher.
+
+He wrote original works in the [[Greek language]] on a wide variety of topics, ranging from [[music theory]] to [[Homer]] to [[vegetarianism]].{{efn| For a comprehensive list see Beutler (1894–1980); {{harvnb|Guthrie|1988|p=91}} provides another list }} His ''[[Isagoge]]'' or ''Introduction'', an introduction to logic and philosophy,{{efn|{{harvnb|Barnes| 2003| p= xv}} clarifies that the ''Isagoge'' "[was] not an ''Introduction to the Categories'', rather "[since it was] an introduction to the study of logic, [it] was... an introduction to philosophy—and hence accidentally an introduction to the ''Categories''."}} was the standard textbook on [[logic]] throughout the [[Middle Ages]] in its [[Latin]] and [[Arabic]] translations.{{sfn|Barnes| 2003| p= ix}} Porphyry was, and still is, also well-known for his [[Anti-Christian sentiment|anti-Christian]] polemics.<ref name=":0" /> Through works such as ''Philosophy from Oracles'' and ''[[Against the Christians]]'' (which was banned by [[Constantine the Great]]),{{sfn|Clark|1989|p=9}} he was involved in a controversy with [[early Christianity|early Christians]].{{sfn|Digeser| 1998|p=}}
+
+== Life ==
+The ''[[Suda]]'' (a 10th-century Byzantine encyclopedia based on many sources now lost) reports that Porphyry was born in [[Tyre (Lebanon)|Tyre]], however, other sources report that he was born in Batanaea, present-day [[Syria]] .<ref>[[Suda]], [https://www.cs.uky.edu/~raphael/sol/sol-cgi-bin/search.cgi?login=guest&enlogin=guest&db=REAL&field=adlerhw_gr&searchstr=pi,2099 Porphyry]</ref><ref>{{Cite book |last=Nettesheim |first=Heinrich Cornelius Agrippa von |url=https://books.google.com/books?id=5YjXnoAaYowC |title=Three Books of Occult Philosophy |date=1993 |publisher=Llewellyn Worldwide |isbn=978-0-87542-832-1 |language=en}}</ref><ref>{{Cite web |title=Porphyry {{!}} Neoplatonism, Logic, Commentaries {{!}} Britannica |url=https://www.britannica.com/biography/Porphyry-Syrian-philosopher |access-date=2024-07-10 |website=www.britannica.com |language=en}}</ref><ref>{{Citation |last=Cuvier |first=Georges |title=20. The Byzantine Empire |date=2012 |work=Cuvier’s History of the Natural Sciences : Twenty-four lessons from Antiquity to the Renaissance |pages=591–603 |editor-last=Pietsch |editor-first=Theodore Wells |url=https://books.openedition.org/mnhn/3841 |access-date=2024-07-10 |series=Archives |place=Paris |publisher=Publications scientifiques du Muséum |language=en |isbn=978-2-85653-867-8}}</ref> His parents named him ''Malkos'' or ''Malchus'' (cf. [[Old Aramaic]] [[wikt:מלכא|''malkā'']] 'king'), though he changed it into the name "[[Basileus]]" (cf. [[Ancient Greek]] βασιλεύς ''basileús'' 'king'), and into his [[nickname]] "Porphyrius" (cf. Ancient Greek πορφύριος ''porphýrios'' 'clad in purple') later in his life.<ref name=":0" /> In his work ''The Life of Plotinus,'' he refers to [[Aramaic]] as his "native tongue."<ref>{{Cite web |title=The Enneads of Plotinus: Porphyry: On the Life of Plotinus and the Arrangement of his Work |url=https://www.sacred-texts.com/cla/plotenn/enn001.htm |access-date=2022-10-30 |website=www.sacred-texts.com}}</ref> Under [[Cassius Longinus (philosopher)|Cassius Longinus]], in Athens, he studied [[grammar]] and rhetoric, and became acquainted with [[Middle Platonism]].<ref name=":0">Macris, Constantinos (2015), ''Porphyry''. Athens: Plato's Encyclopedia</ref>
+
+In 262 he went to [[Rome]], attracted by the reputation of [[Plotinus]], and for six years devoted himself to the practice of [[Neoplatonism]], during which time he severely modified his diet, at one point becoming suicidal.<ref name="Eunapius1921" /> On the advice of Plotinus he went to live in [[Sicily]] for five years to recover his mental health. On returning to Rome, he lectured on [[philosophy]] and completed an edition of the writings of Plotinus (who had died in the meantime) together with a biography of his teacher. [[Iamblichus]] is mentioned in ancient Neoplatonic writings as his disciple, but this is most likely only meant to indicate that he was the dominant figure in the next generation of philosophers succeeding him.<ref>{{Cite book |last1=Chiaradonna |first1=Riccardo |title=Iamblichus |last2=Lecerf |first2=Adrien |publisher=The Stanford Encyclopedia of Philosophy |year=2019}}</ref> The two men differed publicly on the issue of [[theurgy]].
+
+In his later years, he married Marcella, a widow with seven children and a student of philosophy.<ref>{{Cite book |last=Porphyry |url=https://archive.org/stream/cu31924029006141/cu31924029006141_djvu.txt |title=Porphyry, the philosopher, to his wife, Marcella; |publisher=[[London : G. Redway]] |year=1896 |translator-last=Zimmern |translator-first=Alice |lccn=04006426 |archive-url=http://www.archive.org/details/cu31924029006141 |archive-date=2009-11-03}}</ref> There are around sixty works connected to Porphyry's name, some in fragments or lost. Some pieces of his work are still being reconstructed today.<ref name=":2">{{Cite book |last=Emilsson |first=Eyjólfur |title=Porphyry |publisher=The Stanford Encyclopedia of philosophy |year=2022}}</ref> Little more is known of his life, and the date of his death is uncertain.
+
+==Works==
+=== ''Introduction'' (''Isagoge'') ===
+[[File:AverroesAndPorphyry.JPG|thumb|Imaginary debate between [[Averroes]] (1126–1198 AD) and Porphyry (234–{{Circa|305 AD}}). Monfredo de Monte Imperiali ''Liber de herbis'', 14th century.{{sfn|Sadaune|2014|p=112}}]]
+Porphyry is best known for his contributions to philosophy. Apart from writing the ''Aids to the Study of the Intelligibles'' (Ἀφορμαὶ πρὸς τὰ νοητά; ''Sententiae ad Intelligibilia Ducentes''), a basic summary of Neoplatonism, he is especially appreciated for his ''Introduction to Categories'' (''Introductio in Praedicamenta'' or ''Isagoge et in Aristotelis Categorias Commentarium''), a very short work often considered to be a commentary on [[Aristotle]]'s ''[[Categories (Aristotle)|Categories]]'', hence the title.{{efn|{{harvnb|Barnes| 2003| p= xiv }} outlines the history of the opinion that Porphyry meant for his ''Isagoge'' to be an introductory work to the ''Categories''.}} According to {{Harvnb|Barnes|2003}}, however, the correct title is simply ''Introduction'' (Εἰσαγωγή ''Isagoge''), and the book is an introduction not to the ''Categories'' in particular, but to logic in general, comprising as it does the theories of predication, definition, and proof. The ''Introduction'' describes how qualities attributed to things may be classified, famously breaking down the philosophical [[Substance theory|concept of substance]] into the five components ''genus'', ''species'', ''difference'', ''property'', and ''accident''. Porphyry's discussion of ''accident'' sparked a long-running debate on the application of [[Essentialism|''accident'' and ''essence'']].{{sfn|Rahman|1986|pp=271–273}}
+
+As Porphyry's most influential contribution to philosophy, the ''Introduction to Categories'' incorporated Aristotle's logic into Neoplatonism, in particular the doctrine of the [[category of being|categories of being]] interpreted in terms of entities (in later philosophy, "[[universal (metaphysics)|universal]]"). [[Boethius]]' ''Isagoge'', a Latin translation of Porphyry's ''Introduction'', became a standard medieval textbook in European schools and universities, which set the stage for medieval philosophical-theological developments of logic and the [[problem of universals]]. In medieval textbooks, the all-important ''[[Porphyrian tree|Arbor porphyriana]]'' ("Porphyrian Tree") illustrates his logical classification of substance. To this day, taxonomy benefits from concepts in Porphyry's Tree, in classifying living organisms (see [[cladistics]]). Porphyry's invention of the "Porphyrian Tree" is noted as the first proper commentary made on Aristotle's work.
+[[File:Porphyrian Trees Gallery small.png|thumb|A replica of the ''[[Arbor porphyriana]]'' (Porphyrian tree) used to comment on Aristotle's work by [[:File:Arbor porphyrii (from Purchotius' Institutiones philosophicae I, 1730).png|Purchotius]] (1730), [[:File:Arbor porphyrii (probably from one of Boethius' translations).png|Boethius]] (6th century), and [[:File:Arbor scientiae (Ramon Llull) using A porphyrii structure.png|Ramon Llull]] (ca. 1305). ]]
+
+The ''Introduction'' was translated into Arabic by [[Ibn al-Muqaffa'|Abd-Allāh ibn al-Muqaffaʿ]] from a Syriac version. With the Arabicized name ''Isāghūjī'' (إيساغوجي) it long remained the standard introductory logic text in the Muslim world and influenced the study of theology, philosophy, grammar, and jurisprudence. Besides the adaptations and epitomes of this work, many independent works on logic by Muslim philosophers have been entitled Isāghūjī.
+
+=== ''Philosophy from Oracles'' (''De Philosophia ex Oraculis Haurienda'') ===
+Porphyry is also known as an opponent of [[Christianity]] and defender of [[Paganism]]; his precise contribution to the philosophical approach to traditional religion may be discovered in the fragments of ''Philosophy from Oracles'' (Περὶ τῆς ἐκ λογίων φιλοσοφίας; ''De Philosophia ex Oraculis Haurienda''), which was originally three books in length. There is debate as to whether it was written in his youth (as Eunapius reports<ref name="Eunapius1921" />) or closer in time to the persecutions of Christians under [[Diocletian]] and [[Galerius]].{{efn|The Christian apologist [[Eusebius of Caesarea|Eusebius]] states that "some Greek" might say "How can these people be thought worthy of forbearance? They have not only turned away from those who from earliest time have been thought of as divine among all Greeks and barbarians... but by emperors, law-givers and philosophers— all of a given mind... And to what sort of penalties might they not be subjected who... are fugitives from the things of their Fathers?"  This material, once thought to be part of ''Against the Christians'', but reassigned by {{harvnb|Wilken| 1979|p=}} to ''Philosophy from Oracles'', is quoted in {{harvnb|Digeser |1998| p= 129}}. However, it may not have been by Porphyry at all.{{sfn|Johnson|2010|p=53-58}} }}
+
+Whether or not Porphyry was the pagan philosopher's opponent in [[Lactantius]]' ''Divine Institutes'', written at the time of the persecutions, has long been discussed. The fragments of the ''Philosophy from Oracles'' are only quoted by Christians, especially [[Eusebius of Caesarea|Eusebius]], [[Theodoret]], [[Augustine]], and [[John Philoponus]]. The fragments contain oracles identifying proper sacrificial procedure, the nature of [[astrological]] fate, and other topics relevant to Greek and Roman religion in the third century. Whether this work contradicts his treatise defending [[vegetarianism]], which also warned the philosopher to avoid animal sacrifice, is disputed among scholars.{{sfn|Johnson|2013|p=135}} Due to Porphyry’s work being incomplete or lost, the understanding of the piece could be misconstrued.<ref name=":2" />
+
+=== ''Against the Christians'' (''Adversus Christianos'') ===
+{{main_article|Against the Christians}}
+[[File:Porphyrios Sucevita Fresco.jpg|right|thumb|Porphyry, a detail of the ''Tree of Jesse'', 1535, [[Sucevița Monastery]].]]
+During his retirement in [[Sicily]], Porphyry wrote ''Against the Christians'' (Κατὰ Χριστιανῶν; ''Adversus Christianos'') which consisted of fifteen books. Some thirty Christian apologists, such as [[Methodius of Olympus|Methodius]], [[Eusebius]], [[Apollinaris of Laodicea|Apollinaris]], [[Augustine of Hippo|Augustine]], [[Jerome]], etc., responded to his challenge. In fact, everything known about Porphyry's arguments is found in these refutations, largely because [[Theodosius II]] ordered [[Book burning#Christian book burnings|every copy burned]] in AD 435 and again in 448.{{sfn|Digeser| 1998|p=130|ps=: "Constantine and other emperors banned and burned Porphyry's work".}}{{sfn|Socrates Scholasticus|1885|pp=Book I, Ch 9, pp. 30–31|loc=Letter of Constantine proscribing the works of Porphyry and Arius}}{{sfn|Stevenson|1987|p=|ps=: Gelasius, ''Historia Ecclesiastica'', II.36}}
+
+[[Augustine of Hippo|Augustine]] and the 5th-century ecclesiastical historian [[Socrates of Constantinople]] assert that Porphyry was once a Christian.{{sfn|Socrates Scholasticus|1885b|pp= Book III, Ch 23}} It is said, however, that while Porphyry did engage with Christianity, he did not believe it. Augustine made comments to Porphyry as he said he was the "most learned of the philosophers, as the most bitter enemy of the Christians".<ref>{{Cite book |last=Clark |first=Gillian |title=Augustine's Porphyry and the Universal Way of Salvation |publisher=Oxford University Press |year=2007}}</ref>
+
+=== Other works ===
+Porphyry was opposed to the [[theurgy]] of his disciple [[Iamblichus]]. Much of Iamblichus' mysteries is dedicated to the defense of mystic theurgic divine possession against the critiques of Porphyry. French philosopher [[Pierre Hadot]] maintains that for Porphyry, spiritual exercises are an essential part of spiritual development.{{sfn|Hadot|1995|p=100}}
+
+Porphyry was, like [[Pythagoras]], an advocate of [[vegetarianism]] on spiritual and ethical grounds. These two philosophers are perhaps the most famous vegetarians of classical antiquity. He wrote the ''[[On Abstinence from Animal Food]]'' (Περὶ ἀποχῆς ἐμψύχων; ''De Abstinentia ab Esu Animalium''), advocating against the consumption of animals, and he is cited with approval in vegetarian literature up to the present day. He believed that everything was created for mutual advantage, and vegetarianism was a way to preserve universal harmony of nature.<ref>{{Cite web |last=Williams |first=Howard |date=April 25, 2023 |title=The Ethics of Diet |url=https://ivu.org/history/williams/porphyry.html |website=International Vegetarian Union}}</ref>
+
+Porphyry also wrote widely on [[music theory]],<ref>{{cite encyclopedia |last=Richter |first=Lukas |year=2001 |encyclopedia=[[Grove Music Online]] |title=Porphyry |publisher=[[Oxford University Press]] |location=Oxford |accessdate=25 September 2021 |doi=10.1093/gmo/9781561592630.article.22125 |isbn=978-1-56159-263-0 |url-access=subscription |url=https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000022125 }} {{Grove Music subscription}}</ref> [[astrology]], religion, and philosophy. He produced a ''History of Philosophy'' (''Philosophos Historia'') with ''[[Biography|vitae]]'' of philosophers that included a life of his teacher, Plotinus. His life of Plato from book iv exists only in quotes by [[Cyril of Alexandria]].{{efn|{{harvnb|Notopoulos|1940|pp= 284–293}} attempted a reconstruction from Apuleius' use of it.}} His book ''Vita Pythagorae'' on the life of [[Pythagoras]] is not to be confused with the book of the same name by [[Iamblichus]]. His commentary on [[Ptolemy#Music|Ptolemy's ''Harmonics'']]<ref name="toxolyros.gr" /> (''Eis ta Harmonika Ptolemaiou hypomnēma'') is an important source for the history of ancient harmonic theory.
+
+Porphyry also wrote about [[Homer]]. Apart from several lost texts known only from quotations by other authors, two texts survive at least in large parts: the ''Homeric Questions'' (''Homēriká zētḗmata'', largely a philological comment on the ''Iliad'' and ''Odyssey'') and ''[[On the Cave of the Nymphs in the Odyssey]]'' (''Peri tou en Odysseia tōn nymphōn antrou'').
+
+Porphyry's commentary on [[Euclid]]'s ''[[Euclid's Elements|Elements]]'' was used as a source by [[Pappus of Alexandria]].<ref name="MacTutor" />
+
+===List of works===
+==== Extant ====
+* ''Life of Plotinus''. Editions: Luc Brisson, ''La vie de Plotin''. Histoire de l'antiquité classique 6 & 16, Paris: Librairie Philosophique J. Vrin: 1986–1992, 2 vols; A. H. Armstrong, ''Plotinus'', Loeb Classical Library, Cambridge, Massachusetts: Harvard University Press, 1968, pp.&nbsp;2–84. Translation: ''Neoplatonic Saints: The Lives of Plotinus and Proclus''. Translated Texts for Historians 35 (Liverpool: Liverpool University Press, 2000).
+* ''Life of Pythagoras''. Edition: E. des Places, ''Vie de Pythagore, Lettre à Marcella'', Paris: Les Belles Lettre, 1982.
+* Introduction to Aristotle's ''[[Categories (Aristotle)|Categories]]'' (''[[Isagoge]]''). Translations: E. Warren, ''Isagoge'', Mediaeval Sources in Translation 16, Toronto: Pontifical Institute of Mediaeval Studies, 1975; J. Barnes, ''Porphyry's Introduction''. Translation of the 'Isagoge' with a Commentary, Oxford, 2003; Steven K. Strange, ''Porphyry. On Aristotle's Categories'', Ithaca, New York, 1992; Octavius Freire Owen, ''The Organon or Logical Treatises of Aristotle with the Introduction of Porphyry''. Bohn's Classical Library 11–12, London: G. Bell, 1908–1910, 2 vols; Paul Vincent Spade, ''Five Texts on the Mediaeval Problem of Universals: Porphyry, Boethius, Abelard, Duns Scotus, Ockham'', Indianapolis: Hackett, 1994.
+* Introduction to the ''[[Tetrabiblos]]'' of Ptolemy. Editions: Stefan Weinstock, in: Franz Cumont (ed.), ''Catalogus Codicum astrologorum Graecorum'', (Brussels, 1940): V.4, 187–228; ''Kommentar zur Harmonielehre des Ptolemaios'' Ingemar Düring. ed. (Göteborg: Elanders, 1932). Translation: James Herschel Holden, ''Porphyry the Philosopher, Introduction to the Tetrabiblos and Serapio of Alexandria, Astrological Definitions'', Tempe, Az.: A.F.A., Inc., 2009.
+* ''Against the Christians'' (''Contra Christianos''). Editions: A. Ramos Jurado, J. Ritoré Ponce, A. Carmona Vázquez, I. Rodríguez Moreno, J. Ortolá Salas, J. M. Zamora Calvo (eds), ''Contra los Cristianos: Recopilación de Fragmentos, Traducción, Introducción y Notas'' –  (Cádiz: Servicio de Publicaciones de la Universidad de Cádiz 2006); [[Adolf von Harnack]], ''Porphyrius, "Gegen die Christen," 15 Bücher: Zeugnisse, Fragmente und Referate.'' Abhandlungen der königlich preussischen Akademie der Wissenschaften: Jahrgang 1916: philosoph.-hist. Klasse: Nr. 1 (Berlin: 1916). Translations: R. M. Berchman, ''Porphyry Against the Christians'', Ancient Mediterranean and Medieval Texts and Contexts 1, Leiden: Brill, 2005; R. Joseph Hoffmann, ''Porphyry’s Against the Christians: The Literary Remains'', Amherst: Prometheus Books, 1994.
+* ''Commentary on Plato's Timaeus''. Edition: A. R. Sodano, Porphyrii in Platonis Timaeum commentarium fragmenta'', Napoli: 1964.
+* ''Homeric Questions''. Edition: ''The Homeric Questions: a Bilingual Edition'' – Lang Classical Studies 2, R. R. Schlunk, trans. (Frankfurt-am-Main: Lang, 1993).
+* ''[[On the Cave of the Nymphs in the Odyssey]]'' (''De Antro Nympharum''). Edition: ''The Cave of the Nymphs in the Odyssey. A revised text with translation'' by Seminar Classics 609, State University of New York at Buffalo, Arethusa Monograph 1 (Buffalo: Dept. of Classics, State University of New York at Buffalo, 1969). Translation: Robert Lamberton, ''On the Cave of the Nymphs'', Barrytown, N. Y.: Station Hill Press, 1983.
+* ''[[On Abstinence from Animal Food|On Abstinence from Eating Animals]]'' (''De Abstinentia ab Esu Animalium''). Edition: Jean Bouffartigue, M. Patillon, and Alain-Philippe Segonds, edd., 3 vols., Budé (Paris, 1979–1995). Translation: Gillian Clark, ''On Abstinence from Killing Animals'', Ithaca: Cornell University Press, 2000.
+* ''On Philosophy from Oracles'' (''De Philosophia ex Oraculis Haurienda''). Edition: [https://archive.org/details/wolff-de-philosophia-ex-oraculis-haurienda-gr-lat-1856 G. Wolff, Berlin: 1856]; Porphyrii Philosophi fragmenta, ed. by Andrew Smith, Stuttgart and Leipzig, Teubner 1993.
+* ''Aids to the Study of the Intelligibles'' (''Sententiae ad Intelligibilia Ducentes''). Edition: E. Lamberz, Leipzig: Teubner, 1975. Translation: K. Guthrie, ''Launching-Points to the Realm of Mind'', Grand Rapids, Michigan, 1988.
+* ''Letter to Marcella''. Edition: Kathleen O’Brien Wicker, ''Porphyry, the Philosopher, to Marcella: Text and Translation with Introduction and Notes'', Text and Translations 28; Graeco-Roman Religion Series 10 (Atlanata: Scholars Press, 1987); ''Pros Markellan'' Griechischer Text, herausgegeben, übersetzt, eingeleitet und erklärt von W. Pötscher (Leiden: E. J. Brill, 1969). Translation: [[Alice Zimmern]], ''Porphyry's Letter to His Wife Marcella Concerning the Life of Philosophy and the Ascent to the Gods'', Grand Rapids, Michigan, 1989.
+* ''Letter to Anebo'' (''Epistula ad Anebonem''). Edition: A. R. Sodano, Naples: L'arte Tipografia: 1958.
+
+==== Lost ====
+* ''Ad Gedalium'', a lost commentary on Aristotle's ''Categories'' in seven books.<ref>Simplicius, ''In Aristotelis Categorias commentarium'', 2.5-9v</ref> The ''testimonia'' are published in Andrew Smith (ed.), ''Porphyrius, Porphyrii Philosophi fragmenta. Fragmenta Arabica David Wasserstein interpretante'', Berlin: Walter de Gruyter, 1993.
+*''A Treatise Concerning the Secret Doctrines of the Philosophers.'' Mentioned by Eunapius according to John Toland in "Clidophorus, or of the Exoteric and Esoteric Philosophy."  Eunapius says that Porphyry "commended the medicine of perspicuity, and tasting it by experience, wrote "A Treatise Concerning the Secret Doctrines of the Philosophers", which they involv'd in obscurity, as in the Fables of the Poets, but which he brought to light."<ref>{{Cite book|last=Toland|first=John|title="Clidophorus, or of the Exoteric and Esoteric Philosophy, that is of the External and Internal Doctrine of the Ancients: the one open and public, accommodating to the popular prejudices and established Religions, the other private and secret, wherein, to the few capable and discrete, was taught the real truth stript of all disguises," in Tetradamus.|publisher=Brotherton and Meadows (London)|year=1720|pages=v}}</ref>
+*There is a fragment attributed to Porphyry in [[Shem-Tov ibn Falaquera]]'s ''De'ot ha-Filusufim'', from the 13th century. It is a [[Hebrew]] translation from an unknown [[Arabic]] translation of a lost work. Gad Freudenthal and Aaron Johnson tentatively accept its authenticity.{{sfn|Freudenthal|Johnson|2020}}
+
+==== Uncertain attribution ====
+* ''Ad Gaurum'' (of uncertain attribution).{{sfn|Barnes|2011|p=109|loc=n. 22}} Edition: K. Kalbfleisch. Abhandlungen der Preussischen Akadamie der Wissenschaft. phil.-hist. kl. (1895): [https://archive.org/details/dieneuplatonisc00galegoog 33–62]. Translation: J. Wilberding, ''To Gaurus On How Embryos are Ensouled'', ''and On What is in our Power''. ''Ancient Commentators on Aristotle'' Series, R. Sorabji (ed.), Bristol: Classical Press, 2011.
+* #6 and #9 in ''Corpus dei Papiri Filosofici Greci e Latini III: Commentari'' – (Florence: Leo S. Olschki, 1995) may or may not be by Porphyry.
+
+==See also==
+*[[Basilides of Tyre]]
+*[[Macarius Magnes]] – his work ''Apocriticus'' contains a series of excerpts from Porphyry's ''Against the Christians''
+* [[4th century in Lebanon]]
+
+== References ==
+=== Notes ===
+{{notelist}}
+
+===Citations===
+{{Reflist|refs=
+<ref name="MacTutor">{{MacTutor|id=Porphyry|title=Porphyry Malchus}}</ref>
+<ref name="Eunapius1921">{{Cite web |title=Lives of the Philosophers and Sophists |pages=343–565 |author=Eunapius |author-link=Eunapius |work=tertullian.org |date=1921 |access-date=6 September 2019 |url= http://www.tertullian.org/fathers/eunapius_02_text.htm#PORPHYRY }}</ref>
+<!--  <ref name="Porphyry2004">{{cite web|title=Porphyry, Against the Christians (2004). Fragments.|url=http://www.tertullian.org/fathers/porphyry_against_christians_02_fragments.htm|work=tertullian.org |date=2004 |access-date=6 September 2019}}</ref>-->
+<ref name="toxolyros.gr">{{cite web|url=http://www.toxolyros.gr/index.php?option=com_content&task=view&id=5663&Itemid=857|trans-title=In Ptolemy's Harmonized Memoirs – Philosophical Academy |title=Τοξόλυρος – Εἰς τὰ ἁρμονικὰ Πτολεμαίου ὑπόμνημα – φιλοσοφικό Ακαδημίας|language=el|url-status=dead|archive-url=https://web.archive.org/web/20110721083538/http://www.toxolyros.gr/index.php?option=com_content&task=view&id=5663&Itemid=857|archive-date=2011-07-21}}</ref>
+}}
+
+=== Sources===
+{{refbegin|2|indent=yes}}
+* {{cite book|last=Barker|first= A. |date=2003|chapter=Porphyry|editor1-first=S. |editor1-last=Hornblower |editor2-first= A.|editor2-last= Spawforth|title=Oxford Classical Dictionary|edition= revised 3rd | pages=1226–1227}}
+* {{cite book|last=Barnes|first= Jonathan|date=2003|title=Porphyry: Introduction|publisher= Clarendon |location=Oxford|isbn= 9780199246144|url=https://books.google.com/books?id=hE8TDAAAQBAJ}}
+*{{cite book|last=Barnes|first=Jonathan |title=Method and Metaphysics: Essays in Ancient Philosophy|url=https://books.google.com/books?id=28h6x7HQosgC&pg=PA109|volume=I|year=2011|publisher=OUP |location=Oxford|isbn=978-0-19-957751-4}}
+* Beutler, R. (1894–1980). "Porphyrios (21)" in A. Pauly, G. Wissowa, W. Kroll, K. Witte, K. Mittelhaus and K. Ziegler, eds., ''Paulys Realencyclopädie der classischen Altertumswissenschaft'', vol. 22.1.
+*{{cite book|last=Clark|first=Gillian|title=Iamblichus : On the Pythagorean Life|url=https://books.google.com/books?id=N9vrHlJVck8C&pg=PR9|year=1989|publisher=Liverpool University Press|isbn=978-0-85323-326-8}}
+* {{cite journal|last1=Digeser|first1=Elizabeth DePalma|author-link=Elizabeth DePalma Digeser|title=Lactantius, Porphyry, and the Debate over Religious Toleration|journal=Journal of Roman Studies|volume=88|year=1998|pages=129–146|issn=0075-4358|doi=10.2307/300808|jstor=300808|s2cid=161341468 }}
+*{{cite journal |first1=Gad |last1=Freudenthal |first2=Aaron P. |last2=Johnson |title=A New Porphyry Frament? |journal=The Classical Quarterly |volume=70 |issue=1 |year=2020 |pages=410–428 |doi=10.1017/S0009838820000282|s2cid=225911273 }}
+*{{cite book|last=Guthrie|first=Kenneth Sylvan |author-link=Kenneth Sylvan Guthrie|title=Porphyry's Launching-points to the realm of mind: an introduction to the neoplatonic philosophy of Plotinus|url=https://books.google.com/books?id=OAgQAQAAIAAJ|year=1988|publisher=Phanes Press|isbn=978-0-933999-59-6|chapter=The Works of Porphyry}} also available at [http://www.tertullian.org/fathers/porphyry_works.htm tertullian.org]
+*{{cite book|last=Hadot|first= P.|author-link=Pierre Hadot|title=Philosophy as a Way of Life|location=Oxford|publisher= Blackwell|date= 1995}}
+*{{cite journal|first=Aaron |last=Johnson|title=Rethinking the Authenticity of Porphyry, c.Christ. fr. 1|journal=Studia Patristica|volume= 46|date=2010|pages=53–58}}
+*{{cite book|last=Johnson|first=Aaron P. |title=Religion and Identity in Porphyry of Tyre: The Limits of Hellenism in Late Antiquity|url=https://books.google.com/books?id=mM7N_v0xcmQC&pg=PA135|year=2013|publisher=Cambridge University Press|isbn=978-1-107-01273-8}}
+*{{cite journal|last1=Notopoulos|first1=James A.|title=Porphyry's Life of Plato|journal=Classical Philology|volume=35|issue=3|year=1940|pages=284–293|issn=0009-837X|doi=10.1086/362396|s2cid=161160877}}
+*{{Cite encyclopedia |title=ʿARAŻ |last=Rahman |first=F. |encyclopedia=Encyclopaedia Iranica |date=1986 |url= http://www.iranicaonline.org/articles/araz-a-term-of-philosophy-meaning-accident |volume=II, Fasc. 3| pages= 271–273}}
+* {{cite journal|last=Sarton|first= G. |date=1936|title=The Unity and Diversity of the Mediterranean World|journal=Osiris|volume= 2|pages=406–463|doi=10.1086/368462|s2cid= 143379839 }}
+*{{cite book|title=Inventions et decouvertes au Moyen-Age|language=fr|trans-title=Inventions and Discoveries of the Middle Ages|first=Samuel |last=Sadaune|isbn=9782737362415|publisher=Ouest-France|date=2014}}
+*{{cite wikisource|author=Socrates Scholasticus|author-link=Socrates Scholasticus |title=Historia Ecclesiastica|volume= Book I, Ch 9, pp. 30-31|wslink=Nicene and Post-Nicene Fathers: Series II/Volume II/Socrates/Book I/Chapter 9|date=1885}}
+*{{cite wikisource|author=Socrates Scholasticus|author-link=Socrates Scholasticus |title=Historia Ecclesiastica|volume= Book III, Ch 23|wslink=Nicene and Post-Nicene Fathers: Series II/Volume II/Socrates/Book III/Chapter 23|date=1885b}}
+*{{cite book|last=Stevenson|first=James |title=A New Eusebius: Documents Illustrating the History of the Church to AD 337|url=https://books.google.com/books?id=uIjYAAAAMAAJ|year=1987|publisher=SPCK|isbn=978-0-281-04268-5}}
+* {{cite book|last=Wilken|first= R. |date=1979|chapter=Pagan Criticism of Christianity: Greek Religion and Christian Faith|editor1-first= W. |editor1-last=Schoedel and |editor2-first=R. |editor2-last=Wilken|title=Early Christian Literature and the Classical Intellectual Tradition|pages=117–134}}
+{{refend}}
+
+== Editions ==
+* ''Porphyrios, „Contra Christianos“. Neue Sammlung der Fragmente, Testimonien und Dubia mit Einleitung, Übersetzung und Anmerkungen'' [Porphyrios, „Contra Christianos“. New collection of the fragments, testimonies and dubia with introduction, translation and notes]. Matthias Becker. Texte und Kommentare, volume 52. Berlin, Boston: De Gruyter, 2016.
+* Translations of several fragments are contained in Appendix 1 of ''Religion and Identity in Porphyry of Tyre'' by Aaron Johnson (Cambridge, 2013).
+* ''Select Works of Porphyry''. Translated by T. Taylor (Guildford, 1994). Contains ''Abstinence from Eating Animal Food'', the ''Sententiae'' and the ''Cave of the Nymphs''.
+* ''Porphyrii philosophi fragmenta''. Andrew Smith, Stvtgardiae et Lipsiae: B. G. Tevbneri, 1993.
+* ''Porphyre: La Vie de Plotin'' [Porphyry: The Life of Plotin]. Luc Brisson et al. 2 volumes, Paris: Vrin, 1982–1992.
+* ''Opuscula selecta''. Augusts Nauck, ed. (Lipsiae: B. G. Tevbneri, 1886) (online at [https://archive.org/details/porphyriiphilos00naucgoog archive.org]).
+
+==Further reading==
+{{refbegin}}
+* Bidez, J. (1913). ''Vie de Porphyre''. Ghent.
+* Clark, Gillian, "Porphyry of Tyre on the New Barbarians," in R. Miles (ed), ''Constructing Identities in Late Antiquity'' (London: Routledge, 1999), 112–132; = in Eadem, ''Body and Gender, Soul and Reason in Late Antiquity'' (Farnham; Burlington, VT, Ashgate, 2011) (Variorum collected studies series, CS978), art. XIV.
+* Clark, Gillian, "Philosophic Lives and the philosophic life: Porphyry and Iamblichus," in T. Hägg and P. Rousseau (eds), ''Greek Biography and Panegyric in Late Antiquity'' (Berkeley and Los Angeles, University of California Press, 2000), 29–51; = in Eadem, ''Body and Gender, Soul and Reason in Late Antiquity'' (Farnham; Burlington, VT, Ashgate, 2011) (Variorum collected studies series, CS978), art. XV.
+* Clark, Gillian, "Fattening the soul: Christian asceticism and Porphyry On Abstinence," ''Studia Patristica'', 35, 2001, 41–51; = in Eadem, ''Body and Gender, Soul and Reason in Late Antiquity'' (Farnham; Burlington, VT, Ashgate, 2011) (Variorum collected studies series, CS978), art. XVI.
+* Emilsson, E., [http://plato.stanford.edu/entries/porphyry/ "Porphyry"]. Retrieved April 19, 2009.
+* Girgenti, G. (1987) ''Porfirio negli ultimi cinquant'anni: bibliografia sistematica e ragionata della letteratura primaria e secondaria riguardante il pensiero porfiriano e i suoi influssi storici'' Milan.
+* Hartmann, Udo (2018). ''Der spätantike Philosoph. Die Lebenswelten der paganen Gelehrten und ihre hagiographische Ausgestaltung in den Philosophenviten von Porphyrios bis Damaskios'' (in German). Bonn: Habelt, {{ISBN|978-3-7749-4172-4}}, especially pp. 50–117 und 433–459.
+* Iamblichus: ''De mysteriis''. Translated with an Introduction and Notes by Emma C. Clarke, [[John M. Dillon]] and Jackson P. Hershbell (Society of Biblical Literature; 2003) {{ISBN|1-58983-058-X}}.
+* Smith, Andrew (1987) ''Porphyrian Studies since 1913'', in W. Haase, ed., Aufstieg und Niedergang der Römischen Welt II.36.2, pp.&nbsp;717–773.
+* Smith, Andrew (1974) ''Porphyry's Place in the Neoplatonic Tradition. A Study in post-Plotinian Neoplatonism'', The Hague, Nijhoff.
+* Zuiddam, B. A. "Old Critics and Modern Theology," ''Dutch Reformed Theological Journal'' (South Africa), xxxvi, 1995, No. 2.
+{{refend}}
+
+== External links ==
+{{Library resources box |by=yes |onlinebooks=yes |others=yes |about=yes |label=Porphyry
+  |viaf= |lccn= |lcheading= |wikititle= }}
+* {{commons category-inline}}
+* {{wikisource author-inline}}
+* {{wikisourcelang-inline|el|Πορφύριος}}
+* {{wikiquote-inline}}
+* [http://www-history.mcs.st-andrews.ac.uk/Biographies/Porphyry.html Porphyry Malchus (mathematician)] – entry in MacTutor History of Maths Archives.
+* {{cite SEP |url-id=porphyry |title=Porphyry |last=Emilsson |first=Eyjólfur}}.
+* [https://www.astrologicon.org/porphyry/porphyry-peri-tou-en-odysseia-ton-nymphon-antrou.html Περὶ τοῦ ἐν Ὀδυσσείᾳ τῶν Νυμφῶν Ἄντρου (''The Cave of the Nymphs in the Odyssey''), original Greek text.]
+* [https://www.astrologicon.org/porphyry/porphyry-introduction-to-apotelesmatics-of-ptolemy.html Εἰσαγωγὴ εἰς τὴν Ἀποτελεσματικὴν τοῦ Πτολεμαίου (''Introduction to Ptolemy's Tetrabiblos''), original Greek text.]
+* [http://www.tertullian.org/fathers/porphyry_abstinence_01_book1.htm Porphyry, ''On Abstinence from Animal Food'', Book I], translated by [[Thomas Taylor (neoplatonist)|Thomas Taylor]].
+* [http://www.tertullian.org/fathers/porphyry_abstinence_02_book2.htm Porphyry, ''On Abstinence from Animal Food'', Book II], translated by Thomas Taylor.
+* [http://www.tertullian.org/fathers/porphyry_abstinence_03_book3.htm Porphyry, ''On Abstinence from Animal Food'', Book III], translated by Thomas Taylor.
+* [http://www.tertullian.org/fathers/porphyry_abstinence_04_book4.htm Porphyry, ''On Abstinence from Animal Food'', Book IV], translated by Thomas Taylor.
+* [http://www.tertullian.org/fathers/porphyry_cave_of_nymphs_02_translation.htm Porphyry, ''On the Cave of Nymphs''], translated by Thomas Taylor.
+* [http://tertullian.org/fathers/porphyry_sententiae_02_trans.htm Porphyry, ''Auxiliaries to the Perception of Intelligible Natures''], translated by Thomas Taylor.
+* [http://www.tertullian.org/fathers/porphyry_isagogue_02_translation.htm Porphyry, ''Isagoge''], translated by [[s:Author:Octavius Freire Owen|Octavius Freire Owen]].
+* [http://www.prometheustrust.co.uk/html/20_-_organon.html ''The Isagoge, or Introduction of Porphyry''], translated by Thomas Taylor with an extensive preface by the translator.
+* [http://www.sacred-texts.com/cla/plotenn/enn001.htm Porphyry, ''On the Life of Plotinus'']
+* [http://www.attalus.org/translate/daniel.html Porphyry, ''Comments on the Book of Daniel''.]
+* [http://www.ccel.org/ccel/pearse/morefathers/files/morefathers.html#porphyry Additional texts, edited by Roger Pearse]
+* {{Librivox author |id=12112}}
+
+{{Porphyry (philosopher)}}
+{{Platonists}}
+{{Greek mathematics}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Porphyry}}
+[[Category:234 births]]
+[[Category:305 deaths]]
+[[Category:3rd-century Romans]]
+[[Category:4th-century Romans]]
+[[Category:Commentators on Aristotle]]
+[[Category:Commentators on Plato]]
+[[Category:Pagan anti-Gnosticism]]
+[[Category:Writers of late antiquity]]
+[[Category:Neoplatonists]]
+[[Category:Roman-era students in Athens]]
+[[Category:People from Tyre, Lebanon]]
+[[Category:Phoenician philosophers]]
+[[Category:Critics of Christianity]]
+[[Category:Critics of Judaism]]
+[[Category:Historians of Phoenicia]]
+[[Category:3rd-century Phoenician people]]
+[[Category:Converts to pagan religions from Christianity]]

@@ -1,0 +1,256 @@
+{{Short description|British naturalist (1627–1705)}}
+{{Other people}}
+{{Use dmy dates|date=March 2020}}
+{{Use British English|date=July 2012}}
+{{Infobox scientist
+|name              = John Ray
+|image             = John Ray from NPG.jpg
+|image_size        = 200px
+|caption           = John Ray
+|birth_date        = {{birth date|1627|11|29|df=y}}
+|birth_place       = [[Black Notley]], [[Essex]], England
+|death_date        = {{death date and age|1705|1|17|1627|11|29|df=y}}
+|death_place       = Black Notley, Essex, England
+|alma_mater        = [[Trinity College, Cambridge]]<br>[[St Catharine's College, Cambridge]]
+|residence         =
+|citizenship       =
+|nationality       = [[England|English]]
+|ethnicity         =
+|field             = [[Botany]], [[Zoology]], [[Natural history]], [[Natural theology]]
+|academic_advisors = [[James Duport]]
+|author_abbrev_bot = Ray
+}}
+[[File:John Ray by Roubiliac, British Museum.jpg|thumb|250px|John Ray by [[Roubiliac]], British Museum]]
+'''John Ray''' [[Fellow of the Royal Society|FRS]] (29 November 1627 – 17 January 1705) was a [[Christian]] [[England|English]] [[Natural history|naturalist]] widely regarded as one of the earliest of the English [[parson-naturalist]]s. Until 1670, he wrote his name as '''John Wray'''. From then on, he used 'Ray', after "having ascertained that such had been the practice of his family before him". He published important works on [[botany]], [[zoology]], and [[natural theology]]. His classification of plants in his ''[[Historia Plantarum (Ray book)|Historia Plantarum]]'', was an important step towards modern [[Taxonomy (biology)|taxonomy]]. Ray rejected the system of [[dichotomy|dichotomous]] division by which species were classified by repeated sub-division into groups according to a pre-conceived series of characteristics they have or have not, and instead classified plants according to similarities and differences that emerged from observation. He was among the first to attempt a biological definition for the concept of ''[[species]]'', as "a group of morphologically similar organisms arising from a common ancestor".<ref>''Historia plantarum generalis'', in the volume published in 1686, Tome I, Libr. I, Chap. XX, page 40 (Quoted in Mayr, Ernst. 1982. ''The growth of biological thought: diversity, evolution, and inheritance.'' Cambridge, Mass.: Belknap Press: 256)</ref> Another significant contribution to taxonomy was his division of plants into those with two seedling leaves ([[dicotyledons]]) or only one ([[monocotyledons]]), a division used in taxonomy today.<ref>{{cite book |last1=Atran |first1=Scott |title=Cognitive Foundations of Natural History: Towards an Anthropology of Science |date=1992 |publisher=Cambridge University Press |location=Cambridge}}</ref>
+
+== Life ==
+
+=== Early life ===
+
+[[File:John Ray birthplace's in Black Notley, Essex.jpg|thumb|John Ray's birthplace in Black Notley, Essex]]
+[[File:Blue plaque to John Ray.jpg|thumb|Blue plaque to John Ray]]
+
+John Ray was born in the village of [[Black Notley]] in Essex. He is said to have been born in the smithy, his father having been the village [[blacksmith]]. After studying at Braintree school, he was sent at the age of sixteen to Cambridge University: studying at [[Trinity College, Cambridge|Trinity College]].<ref>{{acad|id=RY644J|name=Ray, John}}</ref> Initially at Catharine Hall, his tutor was Daniel Duckfield, and later transferred to Trinity where his tutor was [[James Duport]], and his "intimate friend" and fellow-pupil the celebrated [[Isaac Barrow]]. Ray was chosen minor fellow{{efn|While still a B.A.}} of Trinity in 1649, and later major fellow.{{efn|On attaining his M.A.}} He held many college offices, becoming successively lecturer in Greek (1651), mathematics (1653), and humanity (1655), ''[[praelector]]'' (1657), junior dean (1657), and college steward (1659 and 1660); and according to the habit of the time, he was accustomed to preach in his college chapel and also at [[St Mary the Great with St Michael, Cambridge|Great St Mary's]], long before he took [[holy order]]s on 23 December 1660. Among these sermons were his discourses on ''The wisdom of God manifested in the works of the creation'',<ref>[https://books.google.com/books?id=dxkHAAAAQAAJ ''The wisdom of God manifested in the works of the Creation''], Google Books</ref> and ''Deluge and Dissolution of the World''. Ray was also highly regarded as a tutor and he communicated his own passion for natural history to several pupils.{{sfn|Thompson|1911|p=931}} Ray's student, [[Isaac Barrow]], helped Francis Willughby learn mathematics and Ray collaborated with Willughby later.<ref>{{cite journal|author=Mullens, W.H. |title=Some early British Ornithologists and their works. VII. John Ray (1627-1705) and Francis Willughby (1635-1672)|pages=290–300 |volume=2|issue=9|url=http://britishbirds.co.uk/wp-content/uploads/article_files/V02/V02_N09/V02_N09_P290_300_A047.pdf|journal=British Birds|year=1909}}</ref><ref>{{cite book|title=The Wonderful Mr Willughby: The First True Ornithologist|last1=Birkhead|first1=Tim|publisher=Bloomsbury|year=2018|isbn=978-1-4088-7848-4|location=London|pages=24–25}}</ref> It was at Trinity that he came under the influence of [[John Wilkins]], when the latter was appointed [[master (college)|master]] of the college in 1659.{{sfn|Slaughter|1982|loc=p.&nbsp;62}}
+
+=== Later life and family ===
+
+After leaving Cambridge in 1663 he spent some time travelling both in Britain and the continent.{{sfn|Vines|1913}} In 1673, Ray married Margaret Oakley of [[Launton]] in Oxfordshire; in 1676 he went to [[Middleton Hall, Warwickshire|Middleton Hall]] near [[Tamworth, Staffordshire|Tamworth]], and in 1677 to Falborne (or [[Faulkbourne]]) Hall in Essex. Finally, in 1679, he removed to his birthplace at [[Black Notley]], where he afterwards remained. His life there was quiet and uneventful, although he had poor health, including chronic sores.{{sfn|Thompson|1911|p=932}} Ray kept writing books and corresponded widely on scientific matters, collaborating with his doctor and contemporary [[Samuel Dale (physician)|Samuel Dale]].<ref name=sage>Morris, A. D. (1974). Samuel Dale (1659-1739), Physician and Geologist. Proceedings of the Royal Society of Medicine, 67, 120–124. Retrieved from https://journals.sagepub.com/doi/pdf/10.1177/003591577406700215</ref> He lived, in spite of his infirmities, to the age of seventy-seven, dying at Black Notley. He is buried in the churchyard of St Peter and St Paul where there is a memorial to him. He is widely regarded as one of the earliest of the English [[parson-naturalist]]s.{{sfn|Armstrong|2000|loc=pp.&nbsp;45''ff''}}
+
+[[File:Memorial to John Ray in the churchyard of St Peter and St Paul in Black Notley.jpg|thumb|Memorial to John Ray in the churchyard of St Peter and St Paul in Black Notley]]
+[[File:Close-up of John Ray memorial.jpg|thumb|Close-up of memorial to John Ray]]
+
+== Work ==
+[[File:Ray, John – Synopsis methodica stirpium britannicarum, 1690 – BEIC 8764527.jpg|thumb|''Synopsis methodica stirpium britannicarum'', 1690]]
+At Cambridge, Ray spent much of his time in the study of [[natural history]], a subject which would occupy him for most of his life, from 1660 to the beginning of the eighteenth century.{{sfn|Slaughter|1982|loc=p.&nbsp;62}}{{sfn|Vines|1913}} When Ray found himself unable to subscribe as required by the [[Act of Uniformity 1662]] he, along with 13 other college fellows, resigned his fellowship on 24 August 1662<!--not in source: the year after [[Isaac Newton]] had entered the college--> rather than swear to the declaration that the [[Solemn League and Covenant]] was not binding on those who had taken it.<ref name="DNB00">[[s:Ray, John (DNB00)]]</ref> [[Tobias Smollett]] quoted the reasoning given in the biography of Ray by [[William Derham]]:
+{{blockquote|The reason of his refusal was not (says his biographer) as some have imagined, his having taken the solemn league and covenant; for that he never did, and often declared that he ever thought it an unlawful oath: but he said he could not say, for those that had taken the oath, that no obligation lay upon them, but feared there might."<ref>[[Tobias Smollett|Tobias George Smollett]] (1761) ''The Critical review, or, Annals of literature'', Volume 11 [https://books.google.com/books?id=ZoRHAAAAYAAJ&pg=PA93 pp. 92–93]</ref>}}
+His religious views were generally in accord with [[Clarendon Code|those imposed]] under the restoration of [[Charles II of England]], and (though technically a [[Nonconformist (Protestantism)|nonconformist]]) he continued as a layman in the [[Established church|Established]] [[Church of England]].<ref name="DNB00" />
+
+From this time onwards he seems to have depended chiefly on the bounty of his pupil [[Francis Willughby]], who made Ray his constant companion while he lived.{{sfn|Thompson|1911|p=931}} They travelled extensively, carrying out field observations and collecting specimens of botany, ornithology, ichthyology, mammals, reptiles and insects. Initially they agreed that Ray would take responsibility for the plants, and Willughby for birds, beasts, fishes, and insects. Willughby arranged that after his death, Ray would have 6 shillings a year for educating Willughby's two sons.<ref name="Mickel">{{cite journal |last1=Mickel |first1=Clarence E. |title=John Ray: Indefatigable Student of Nature |journal=Annual Review of Entomology |date=January 1973 |volume=18 |issue=1 |pages=1–17 |doi=10.1146/annurev.en.18.010173.000245 |pmid=4617556 |url=https://www.annualreviews.org/doi/pdf/10.1146/annurev.en.18.010173.000245 |access-date=21 February 2023 |language=en |issn=0066-4170}}</ref>
+
+In the spring of 1663 Ray started together with Willughby and two other pupils ([[Philip Skippon (1641-1691)|Philip Skippon]] and [[Nathaniel Bacon (colonist)|Nathaniel Bacon]]<ref name=gribbin2002>{{cite book | author=Gribbin, John | author-link=John Gribbin | title=Science, a History, 1543-2001 | url=https://archive.org/details/sciencehistory150000grib | url-access=registration | publisher=Allen Lane | location=New York | year=2002| isbn=9780713995039 }}</ref>) on a tour through [[Europe]], from which he returned in March 1666, parting from Willughby at [[Montpellier]], whence the latter continued his journey into [[Spain]]. He had previously in three different journeys (1658, 1661, 1662) travelled through the greater part of Great Britain, and selections from his private notes of these journeys were edited by [[George Lewis Scott|George Scott]]<!--Fellow of Society of Antiquaries--> in 1760, under the title of ''Mr Ray's Itineraries''. Ray himself published an account of his foreign travel in 1673, entitled ''Observations topographical, moral, and physiological, made on a Journey through part of the Low Countries, Germany, Italy, and France''. From this tour Ray and Willughby returned laden with collections, on which they meant to base complete systematic descriptions of the animal and vegetable kingdoms.<ref name="Mickel"/>{{sfn|Thompson|1911|p=932}}
+
+In 1667 Ray was elected Fellow of the [[Royal Society]],<ref name="Mickel"/> and in 1669 he and Willughby published a paper on ''Experiments concerning the Motion of Sap in Trees''.{{sfn|Thompson|1911|p=932}} In 1671, he presented the research of Francis Jessop on [[formic acid]] to the Royal Society.{{sfn|Raven|1950}}
+
+Following Willughby's death in 1672, Ray took on the responsibility of bringing both Willughby's work and his own to publication.  Ray was left with an ornithology and ichthyology to edit as well as his own work dealing with mammals, reptiles and insects. Although he presented the
+''Ornithologia'' (1676) as Willughby's, he made extensive contributions to the work. His task became more difficult after the death of Lady Cassandra, Willughby's mother, on July 25, 1675. Lady Cassandra had supported Ray's continued work, but the widow Willughby had no interest in her late husband's scientific interests or his scientific friends. Ray was no longer allowed to instruct the children, and Ray and his wife Margaret Oakley were forced to leave the Willughby household in Middleton. Critically, Ray lost access to the Willughby collections, notes and manuscripts at this time. The plants gathered on his British tours had already been described in his ''Catalogus plantarum Angliae'' (1670), which formed the basis for later English floras. He had likely already used the botanical collections to lay much of the groundwork of his ''Methodus plantarum nova'' (1682),  His great ''Historia generalis plantarum'' appeared in 3 vols. in 1686, 1688, 1704.<ref name="Mickel"/>
+
+In the 1690s, he published three volumes on religion—the most popular being ''The Wisdom of God Manifested in the Works of the Creation'' (1691), an essay describing evidence that all in nature and space is God's creation as in the Bible is affirmed. In this volume, he moved on from the naming and cataloguing of species like his successor [[Carl Linnaeus]]. Instead, Ray considered species' lives and how nature worked as a whole, giving facts that are arguments for God's will expressed in His creation of all 'visible and invisible' ([[Colossians]] 1:16).
+Ray gave an early description of [[dendrochronology]], explaining how to find the [[Ash (tree)|ash tree's]] age from its tree-rings.<ref>Armstrong, 2000. p. 47</ref>
+
+=== Taxonomy ===
+
+Ray's work on [[plant taxonomy]] spanned a wide range of thought, starting with an approach that was predominantly in the tradition of the [[herbalists]] and [[Aristotelianism|Aristotelian]], but becoming increasingly theoretical and finally rejecting Aristotelianism. Despite his early adherence to Aristotelian tradition, his first botanical work, the ''Catalogus plantarum circa Cantabrigiam nascentium'' (1660),{{sfn|Ray|1660}} was almost entirely descriptive, being arranged alphabetically. His model was an account by [[Gaspard Bauhin|Bauhin]] of the plants growing around Basel in 1622 and was the first English county flora, covering about 630 species.{{sfn|Jarvis|2012}} However at the end of the work he appended a brief taxonomy{{sfn|Ray|1660|loc=pp.&nbsp;100–102}} which he stated followed the usage of Bauhin and other herbalists.{{sfn|Ray|1660|loc=pp.&nbsp;100–102}}{{sfn|Slaughter|1982|loc=p.&nbsp;62}}
+
+==== System of classification ====
+
+Ray's system, starting with his Cambridge catalogue, began with the division between the imperfect or lower plants ([[Cryptogams]]), and perfect (''planta perfecta'') higher plants ([[Seed plants]]). The latter he divided by [[life forms]], e.g. trees (''arbores''), shrubs (''frutices''), subshrubs (''suffrutices'') and [[herbaceous plants]] (''herbae'') and lastly grouping them by common characteristics. The trees he divided into 8 groups, e.g. ''Pomiferae'' (including apple and pear). The shrubs he placed in 2 groups, ''Spinosi'' ([[Berberis]] etc.) and ''Non Spinosi'' ([[Jasmine]] etc.). The subshrubs formed a single group and the herbs into 21 groups.{{sfn|Slaughter|1982|loc=pp.&nbsp;62–63}}
+
+Division of Herbae;
+{{div col|colwidth=30em}}
+# Bulbosae (''[[Lilium]]'' etc.)
+# Tuberosae (''[[Asphodelus]]'' etc.)
+# Umbelliferae (''[[Foeniculum]]'' etc.)
+# Verticellatae (''[[Mentha]]'' etc.)
+# Spicatae (''[[Lysimachia]]'' etc.)
+# Scandentes (''[[Cucurbita]]'' etc.)
+# Corymbiferae (''[[Tanacetum]]'')
+# Pappiflorae (''[[Senecio]]'' etc.)
+# Capitatae (''[[Scabiosa]]'' etc.)
+# Campaniformes (''[[Digitalis]]'' etc.)
+# Coronariae (''[[Dianthus|Caryophyllus]]'' etc.)
+# Rotundifoliae (''[[Cyclamen]]'' etc.)
+# Nervifoliae (''[[Plantago]]'' etc.)
+# Stellatae (''[[Rubia]]'' etc.)
+# Cerealia (''[[Leguminosae|Legumina]]'' etc.)
+# Succulentae (''[[Sedum]]'' etc.)
+# Graminifoliae (''[[Gramineae|Gramina]]'' etc.)
+# [omitted]
+# Oleraceae (''[[Beta (plant)|Beta]]'' etc.)
+# Aquaticae (''[[Nymphaea]]'' etc.)
+# Marinae (''[[Fucus]]'' etc.)
+# Saxatiles (''[[Asplenium]]'' etc)
+{{div col end}}
+
+As outlined in his ''Historia Plantarum'' (1685–1703):{{sfn|Singh|2004|loc=[https://books.google.com/books?id=z6fMBQAAQBAJ&pg=PA302 John Ray p.&nbsp;302]}}
+* Herbae ([[Herbaceous plants]])
+** Imperfectae ([[Cryptogams]])
+** Perfectae ([[Seed plants]])
+*** [[Monocotyledons]]
+*** [[Dicotyledons]]
+* Arborae ([[Trees]])
+** Monocotyledons
+** Dicotyledons
+
+==== Definition of species ====
+Ray was the first person to produce a biological definition of '''[[species]]''', in his 1686 ''History of Plants'':
+
+{{blockquote|... no ''surer criterion for determining species has occurred to me than'' the distinguishing features that perpetuate themselves in propagation from seed. Thus, no matter what variations occur in the individuals or the species, if they spring from the seed of one and the same plant, they are accidental variations and not such as to distinguish a species... Animals likewise that differ specifically preserve their distinct species permanently; one species never springs from the seed of another nor vice versa.<ref>Mayr ''Growth of biological thought'' p256; original was Ray, ''History of Plants''. 1686, trans E. Silk.</ref>}}
+
+=== Publications ===
+
+Ray published about 23 works, depending on how they are counted. The biological works were usually in Latin, the rest in English.<ref name="Keynes">[[Geoffrey Keynes|Keynes, Sir Geoffrey]] [1951] 1976. ''John Ray, 1627–1705: a bibliography 1660–1970''. Van Heusden, Amsterdam.</ref> His first publication, while at Cambridge, was the ''Catalogus plantarum circa Cantabrigiam nascentium'' (1660), followed by many works, botanical, zoological,theological and literary.{{sfn|Vines|1913}} Until 1670, he wrote his name as '''John Wray'''. From then on, he used 'Ray', after "having ascertained that such had been the practice of his family before him".{{sfn|Gunther|1928|loc=p.&nbsp;16}}
+
+==== List of selected publications ====
+{{refbegin|30em}}
+* {{cite book|last=Ray|first=John|author-link=John Ray|title=Catalogus plantarum circa Cantabrigiam nascentium ...: Adiiciuntur in gratiam tyronum, index Anglico-latinus, index locorum ...|trans-title=Catalogue of Cambridge plants|url=https://books.google.com/books?id=hz0-AAAAcAAJ|year=1660|publisher=John Field|location=Cambridge|language=la}} Appendices 1663, 1685
+** {{cite book|last=Ray|first=John|title=Catalogus Plantarum Circa Cantabrigiam Nascentium|trans-title=Ray's Flora of Cambridgeshire|others=trans. Ewen & Prime|url=https://books.google.com/books?id=vJk_AAAAYAAJ|year=1975|publisher=Wheldon and Wesley|isbn=978-0-85486-090-6}}
+** {{cite book|last=Ray|first=John|title=John Ray's Cambridge Catalogue (1660)|others=trans. Oswald and Preston|url=https://books.google.com/books?id=l6uhpwAACAAJ|year=2011|publisher=[[Ray Society]]|isbn=978-0-903874-43-4}}
+* 1668: ''Tables of plants'', in [[John Wilkins]]' ''[[An Essay Towards a Real Character, and a Philosophical Language|Essay]]''
+* {{cite book|last1=Ray|first1=John|author-link=John Ray|title= Catalogus plantarum Angliae, et insularum adjacentium: tum indigenas, tum in agris passim cultas complectens. In quo praeter synonyma necessaria, facultates quoque summatim traduntur, unà cum observationibus & experimentis novis medicis & physics|trans-title=Catalogue of English plants|edition=2nd|date=1677|orig-year=1668|publisher=A Clark|location=London|url=https://www.biodiversitylibrary.org/bibliography/82234#/summary|language=la}}
+* 1670: ''Collection of English proverbs''.
+* 1673: ''Observations in the Low Countries and Catalogue of plants not native to England''.
+* 1674: ''Collection of English words not generally used''.[https://books.google.com/books?id=njdWAAAAYAAJ online]
+* 1675: ''Trilingual dictionary, or nomenclator classicus''.
+* 1676: [https://www.biodiversitylibrary.org/item/129443#page/7/mode/1up  ''Willughby's Ornithologia''].{{efn|"In fact, the book was Ray's, based on preliminary notes by [[Francis Willughby]]".<ref name="Keynes"/><sup>p52</sup>{{sfn|Raven|1950}}<sup>Chapter 12</sup> "Willughby and Ray laid the foundation of scientific ornithology".<ref>[[Alfred Newton|Newton, Alfred]] 1893. ''Dictionary of birds''. Black, London</ref>}}
+* {{cite book|last1=Ray|first1=John|author-link=John Ray|title=Methodus plantarum nova: brevitatis & perspicuitatis causa synoptice in tabulis exhibita, cum notis generum tum summorum tum subalternorum characteristicis, observationibus nonnullis de seminibus plantarum & indice copioso|trans-title=New method of plants|date=1682|publisher=Faithorne & Kersey|location=London|url=https://www.biodiversitylibrary.org/bibliography/37647#/summary|language=la}}
+** [https://web.archive.org/web/20080820060520/http://montgomery.cas.muohio.edu/nimissa/research/methodus%20folder/methoduspreliminary.html English translation by Stephen Nimis]
+* 1686: ''History of fishes''.{{efn|Plates subscribed by [[Fellows of the Royal Society]]. [[Samuel Pepys]], the President, subscribed for 79 of the plates.}}
+* 1686–1704: ''Historia plantarum species'' [''History of plants'']. London:Clark 3 vols;
+** [https://books.google.com/books?id=fCCbsb0ySy0C Vol 1 1686], [https://books.google.com/books?id=01xl8Eu-LnwC Vol 2 1688], [https://books.google.com/books?id=ojSSrVW3OrcC Vol 3 1704] (in Latin){{efn|The third volume lacked plates, so his assistant [[James Petiver]] published Petiver's Catalogue in parts, 1715–1764, with plates. The work on the first two volumes was supported by subscriptions from the President and Fellows of the Royal Society}}
+** [https://theses.ncl.ac.uk/jspui/handle/10443/327 Lazenby, Elizabeth Mary (1995).  The Historia Plantarum Generalis of John Ray, Book I : a translation and commentary. PhD thesis  Newcastle University]
+* {{cite book|last1=Ray|first1=John|author-link=John Ray|title=Synopsis methodica stirpium Britannicarum: in qua tum notae generum characteristicae traduntur, tum species singulae breviter describuntur: ducentae quinquaginta plus minus novae species partim suis locis inseruntur, partim in appendice seorsim exhibentur : cum indice & virium epitome|trans-title=Synopsis of British plants|date=1690|publisher=Sam. Smith|location=London|url=https://www.biodiversitylibrary.org/bibliography/63346|language=la}}
+** 2nd edition 1696
+* 1691: [http://www.jri.org.uk/ray/wisdom/ ''The wisdom of God Manifested in the Works of the Creation'' 7th ed.] {{Webarchive|url=https://web.archive.org/web/20150807175816/http://www.jri.org.uk/ray/wisdom/ |date=7 August 2015 }} 2nd edition 1692, 3rd edition 1701, 4th edition 1704, 7th edition 1717{{efn|7th edition Printed by R. Harbin, for William Innys, at the Prince’s-Arms in St Paul’s Church Yard, London 1717. Each edition enlarged from the previous edition. This was his most popular work. It was in the vein later called [[natural theology]], explaining the [[adaptation]] of living creatures as the work of God. It was heavily plagiarised by [[William Paley]] in his ''Natural theology'' of 1802.<ref name="Keynes"/><sup>p92</sup>{{sfn|Raven|1950}}<sup>p452</sup>}}
+* 1692: [http://lhldigital.lindahall.org/cdm/ref/collection/earththeory/id/15962 ''Miscellaneous discourses concerning the dissolution and changes of the world'']{{efn|This includes some important discussion of fossils. Ray insisted that fossils had once been alive, in opposition to his friends [[Martin Lister]] and [[Edward Llwyd]]. "These [fossils] were originally the shells and bones of living fishes and other animals bred in the sea". Raven commented that this was "The fullest and most enlightened treatment by an Englishman" of that time.{{sfn|Raven|1950}}<sup>p426</sup>}}
+* 1693: ''[https://www.biodiversitylibrary.org/item/91492 Synopsis of animals and reptiles]''.
+* 1693: ''Collection of travels''.
+* 1694: ''Collection of European plants''.
+* 1695: ''Plants of each county''. (Camden's Britannia)
+* {{cite book|last1=Ray|first1=John|author-link=John Ray|title=De Variis Plantarum Methodis Dissertatio Brevis|trans-title=Brief dissertation|date=1696|publisher=Smith & Walford|location=London|url=http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ184733202|language=la}}
+** [https://web.archive.org/web/20080827204643/http://montgomery.cas.muohio.edu/nimissa/research/dissertatio/diss.html English translation by Stephen Nimis]
+* 1700: ''A persuasive to a holy life''.
+* {{cite book|last1=Ray|first1=John|author-link=John Ray|title=Methodus plantarum emendata et aucta: In quãa notae maxime characteristicae exhibentur, quibus stirpium genera tum summa, tum infima cognoscuntur & áa se mutuo dignoscuntur, non necessariis omissis. Accedit methodus graminum, juncorum et cyperorum specialis|date=1703|publisher=Smith & Walford|location=London|url=https://www.biodiversitylibrary.org/bibliography/105652#/summary|language=la}}
+
+;Posthumous
+* 1705. ''Method and history of insects''
+* 1713: [http://gdz.sub.uni-goettingen.de/dms/load/toc/?PID=PPN383878012 Synopsis methodica avium & piscium: opus posthumum (''Synopsis of birds and fishes''), in Latin. William Innys, London] vol. 1: ''Avium'' vol. 2: ''Piscium''
+* 1713 [http://lhldigital.lindahall.org/cdm/ref/collection/earththeory/id/9107 ''Three Physico-theological discourses'']{{efn|This is the 3rd edition of Miscellaneous discourses, the last by Ray before his death, and delayed in publication. Its main importance is that Ray recanted his former acceptance of fossils, apparently because he was theologically troubled by the implications of extinction.<ref>{{cite book | author=Bowler, Peter J. | author-link=Peter J. Bowler | year=2003 | title=Evolution: the history of an idea | url=https://archive.org/details/evolutionhistory0000bowl_n7y8 | url-access=registration | edition=3rd | location=California| isbn=9780520236936 }}</ref><sup>p37</sup> [[Robert Hooke]], like [[Nicolas Steno]], was in no doubt about the biological origin of fossils. Hooke made the point that some fossils were no longer living, for example [[Ammonite]]s: this was the source of Ray's concern.<ref>Hooke, Robert 1705. ''The posthumous works of Robert Hooke''. London. repr. 1969 Johnson N.Y.</ref><sup>p327</sup>}}
+* {{cite book|editor-last=Dillenius|editor-first=Johann Jacob|editor-link=Dillenius|last1=Ray|first1=John|author-link=John Ray|title=Synopsis methodica stirpium Britannicarum: in qua tum notae generum characteristicae traduntur, tum species singulae breviter describuntur: ducentae quinquaginta plus minus novae species partim suis locis inseruntur, partim in appendice seorsim exhibentur: cum indice & virium epitome (editio tertia multis locis emendata, & quadringentis quinquaginta circiter speciebus noviter detectis aucta )|trans-title=Synopsis of British plants|date=1724|orig-year=1690|edition=3rd|publisher=Gulielmi & Joaniis Innys|location=London|url=https://www.biodiversitylibrary.org/bibliography/63346|language=la}}
+** [https://web.archive.org/web/20170320053107/http://www.raysociety.org.uk/publications/general-and-historical/synopsis-methodica-stirpum-britannicarum-john-ray/ Facsimile edition 197], [[Ray Society]], London. With introduction by [[William T. Stearn]]. {{ISBN|978-0-903874-00-7}}
+** Fourth edition 1760
+{{refend}}
+
+==== Libraries holding Ray's works ====
+Including the various editions, there are 172 works of Ray, of which most are rare. The only libraries with substantial holdings are all in England.<ref name="Keynes"/><sup>p153</sup> The list in order of holdings is:
+
+:The [[British Library]], Euston, London. Holds over 80 of the editions.
+:The [[Bodleian Library]], University of Oxford.
+:The [[University of Cambridge]] Library.
+:Library of [[Trinity College, Cambridge]].
+:The [[Natural History Museum, London|Natural History Museum]] Library, South Kensington, London.
+:The [[John Rylands Library]], University of Manchester, Deansgate, Manchester
+
+==Legacy==
+[[File:John Ray woodcut.jpg|thumb|upright|Woodcut (1693)]]
+Ray's biographer, Charles Raven, commented that "Ray sweeps away the litter of mythology and fable... and always insists upon accuracy of observation and description and the testing of every new discovery".{{sfn|Raven|1950}}<sup>p10</sup> Ray's works were directly influential on the development of taxonomy by [[Carl Linnaeus]].
+
+The [[Ray Society]], named after John Ray, was founded in 1844. It is a scientific [[text publication society]] and [[Charitable organization|registered charity]], based at the [[Natural History Museum, London]], which exists to publish books on natural history, with particular (but not exclusive) reference to the flora and fauna of the British Isles. As of 2017, the Society had published 179 volumes.<ref>{{cite web |url=http://www.raysociety.org.uk/ |title=The Ray Society |access-date=25 December 2017 }}</ref>
+
+The John Ray Society (a separate organisation) is the Natural Sciences Society at [[St Catharine's College, Cambridge]]. It organises a programme of events of interest to science students in the college.<ref>{{cite web | url=http://www.johnray.caths.cam.ac.uk/Home.html | title=John Ray Society | publisher=St Catharine's College, Cambridge | access-date=7 May 2013 | archive-url=https://web.archive.org/web/20140102193538/http://www.johnray.caths.cam.ac.uk/Home.html | archive-date=2 January 2014 | url-status=dead }}</ref>
+
+In 1986, to mark the 300th anniversary of the publication of Ray's ''Historia Plantarum'', there was a celebration of Ray's legacy in [[Braintree, Essex]]. A "John Ray Gallery" was opened in the [[Braintree, Essex#Culture|Braintree Museum]].<ref>{{cite web |title=John Ray |url=http://www.braintreemuseum.co.uk/john-ray/ |publisher=Braintree Museum |access-date=1 February 2015}}</ref>
+
+The John Ray Initiative (JRI) is an educational [[charitable organization|charity]] that seeks to reconcile scientific and Christian understandings of the environment. It was formed in 1997 in response to the global environmental crisis and the challenges of sustainable development and environmental stewardship. John Ray's writings proclaimed God as creator whose wisdom is "manifest in the works of creation", and as redeemer of all things. JRI aims to teach appreciation of nature, increase awareness of the state of the global environment, and to promote a Christian understanding of environmental issues.<ref>{{cite web |title=Mission |url=http://www.jri.org.uk/introduction/mission-statement/ |publisher=The John Ray Initiative |access-date=1 February 2015}}</ref>
+
+Furthermore, a nature walk has been established in Essex in memorium of John Ray. This walk was conquered by the Latimer/Hines household on 27 May 2024.
+
+== See also ==
+* [[Monocotyledons]]
+
+{{botanist|Ray}}
+
+==Notes==
+{{notelist|30em}}
+
+==References==
+{{reflist|33em}}
+
+== Bibliography ==
+{{refbegin|30em }}
+
+=== Books ===
+* {{cite book|last=Armstrong|first=Patrick|title=The English Parson-naturalist: A Companionship Between Science and Religion|url=https://books.google.com/books?id=hB0hEc4CN3wC|year=2000|publisher=Gracewing Publishing|isbn=978-0-85244-516-7}}
+* {{cite book|editor1-last=Birch|editor1-first=Thomas|title=The History of the Royal Society of London for Improving of Natural Knowledge from Its First Rise, in which the Most Considerable of Those Papers Communicated to the Society, which Have Hitherto Not Been Published, are Inserted as a Supplement to the Philosophical Transactions, Volume 3|date=1757|publisher=Millar|location=London|url=https://books.google.com/books?id=o2EVAAAAQAAJ}}
+* {{cite book |editor1-last=Gunther |editor1-first=R.W.T. |title=Further Correspondence of John Ray. |date=1928 |publisher=[[Ray Society]]}}
+* {{cite book|editor1-last=Lankester|editor1-first=Edwin|editor-link=Edwin Lankester|title=The Correspondence of John Ray: Consisting of Selections from the Philosophical Letters Published by Dr. Derham, and Original Letters of John Ray in the Collection of the British Museum|date=1848|publisher=[[Ray Society]]|location=London|url=https://books.google.com/books?id=a0JHAQAAMAAJ}} (also [https://www.biodiversitylibrary.org/bibliography/49458 here] at [[Biodiversity Heritage Library]])
+* {{Cite book |editor-last= Oliver |editor-first= Francis W. |year=1913 | editor-link=Francis Wall Oliver |title= Makers of British Botany |location=Cambridge | publisher=[[Cambridge University Press]] |url=https://www.biodiversitylibrary.org/bibliography/1365#/summary}}
+* {{cite book|last1=Pavord|first1=Anna|author-link=Anna Pavord|title=The naming of names the search for order in the world of plants.|date=2005|publisher=Bloomsbury|location=New York|isbn=9781596919655|url=https://books.google.com/books?id=qksX1BeWkqcC|access-date=18 February 2015}} See also [https://books.google.com/books?id=wvP92qGbI08C ebook 2010]
+* {{cite book|last1=Raven|first1=Charles E.|author-link=Charles E. Raven|title=John Ray, naturalist: his life and works|url=https://books.google.com/books?id=ETusSTe5O8YC|date=1950|orig-year=1942|publisher=Cambridge University Press|location=Cambridge [England]|isbn=9780521310833|edition=2nd|access-date=10 December 2015}}
+* {{cite book|last1=Raven|first1=Charles E.|author-link=Charles E. Raven|title=English naturalists from Neckham to Ray: a study of the making if the modern world|date=1947|publisher=[[Cambridge University Press]]|location=Cambridge|isbn=9781108016346|url=https://books.google.com/books?id=kzcfhNPLFSAC}}
+* {{cite book|last1=Sachs|first1=Julius von|author-link=Julius von Sachs|title=Geschichte der Botanik vom 16. Jahrhundert bis 1860|trans-title=[[History of Botany (1530-1860)|History of botany (1530-1860)]]|date=1890|orig-year=1875|publisher=[[Oxford University Press]]|location=Oxford|others=translated by Henry E. F. Garnsey, revised by Isaac Bayley Balfour|url=https://www.biodiversitylibrary.org/bibliography/30585#/summary|access-date=13 December 2015|doi=10.5962/bhl.title.30585}}, see also {{Google books|iT5-CgAAQBAJ|History of botany (1530-1860)}}
+* {{cite book|last=Singh|first=Gurcharan|title=Plant Systematics: An Integrated Approach|year=2004|publisher=Science Publishers|isbn=1578083516|url=https://books.google.com/books?id=z6fMBQAAQBAJ|edition=3|access-date=23 January 2014}}
+* {{cite book|last=Slaughter|first=M. M.|title=Universal Languages and Scientific Taxonomy in the Seventeenth Century|url=https://books.google.com/books?id=Mn6Aejr8ZLkC|date= 1982|publisher=[[Cambridge University Press]]|isbn=978-0-521-24477-0}}
+* {{EB1911|wstitle=Ray, John|volume=22|pages=931–932|first=D'Arcy Wentworth|last=Thompson|author-link=D'Arcy Wentworth Thompson}}
+* {{cite book|last1=Vines|first1=Sydney Howard|author-link=Sydney Howard Vines|title=Robert Morison 1620–1683 and John Ray 1627–1705|pages=8–43|ref={{harvid|Vines|1913}}}}, in {{harvtxt|Oliver|1913}}
+
+=== Articles ===
+* {{cite journal |last1=Jarvis |first1=Charlie |title=John Ray's Cambridge Catalogue (1660) translated and edited by P.H.Oswald and C.D.Preston. London: The Ray Society. 2011. ix + 612 pp. Hardback. ISBN 978-0903874-43-4. £80. |journal=[[Botanical Journal of the Linnean Society]] |date=December 2012 |volume=170 |issue=4 |pages=640–641 |doi=10.1111/j.1095-8339.2012.01316.x|doi-access=free}}
+* {{cite journal|last1=Thompson|first1=Roger|title=Some newly discovered letters of John Ray|journal=Journal of the Society for the Bibliography of Natural History|date=July 1974|volume=7|issue=1|pages=111–123|doi=10.3366/jsbnh.1974.7.1.111}}
+
+=== Websites ===
+* {{cite web |title=The Ray Society |url=https://www.raysociety.org.uk/ |access-date=30 December 2019 }}, see also [[Ray Society]]
+* [https://www.biodiversitylibrary.org/creator/999#/titles John Ray's works at the] [[Biodiversity Heritage Library]]
+{{refend}}
+
+==External links==
+* [http://www.ucmp.berkeley.edu/history/ray.html John Ray Biography ]([http://www.ucmp.berkeley.edu/ University of California Museum of Paleontology Berkeley])
+* [http://scienceblogs.com/evolvingthoughts/2009/05/10/the-first-biological-species-c/ The first biological species concept (Evolving Thoughts)]
+* [http://babel.hathitrust.org/cgi/pt?id=nyp.33433007345659;view=1up;seq=23 ''Memoir of John Ray''] by [[James Duncan (zoologist)|James Duncan]]
+* [http://www.oxforddnb.com/index/23/101023203/ Oxford Dictionary of National Biography]
+* [https://www.europeana.eu/portal/record/9200332/BibliographicResource_3000123604845.html De Variis Plantarum Methodis Dissertatio Brevis at Europeana]
+* [http://www.kingscollections.org/exhibitions/specialcollections/to-scrutinize-nature/biologists-at-the-royal-society/john-ray-and-taxonomy John Ray and taxonomy. King's College London]
+* [https://www.britannica.com/biography/John-Ray-English-naturalist Encyclopaedia Britannica]
+* [http://www.encyclopedia.com/people/science-and-technology/biology-biographies/john-ray Dictionary of Scientific Biography]
+* [http://www.jri.org.uk/ The John Ray Initiative: connecting Environment and Christianity]
+
+{{wikisource author}}
+{{wikiquote}}
+{{commons category}}
+
+{{List of systems of plant taxonomy}}
+{{Natural history}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ray, John}}
+[[Category:1627 births]]
+[[Category:1705 deaths]]
+[[Category:17th-century English naturalists]]
+[[Category:18th-century English naturalists]]
+[[Category:17th-century English botanists]]
+[[Category:17th-century Protestants]]
+[[Category:17th-century English writers]]
+[[Category:17th-century English male writers]]
+[[Category:18th-century English writers]]
+[[Category:18th-century English male writers]]
+[[Category:British phycologists]]
+[[Category:Alumni of St Catharine's College, Cambridge]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Botanists with author abbreviations]]
+[[Category:Bryologists]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Paleobotanists]]
+[[Category:People from Black Notley]]
+[[Category:Parson-naturalists]]
+[[Category:Burials in Essex]]
+[[Category:Writers about religion and science]]

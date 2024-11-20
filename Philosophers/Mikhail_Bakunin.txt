@@ -1,0 +1,305 @@
+{{short description|Russian revolutionary anarchist and philosopher (1814–1876)}}
+{{redirect|Bakunin|others with this surname|Bakunin (surname)|the 1937 book by E. H. Carr|Bakunin (biography)|the Soviet politician|Nikolai Bukharin}}
+{{family name hatnote|Alexandrovich|[[Bakunin (surname)|Bakunin]]|lang=Eastern Slavic}}
+{{use dmy dates|date=April 2023}}
+{{Infobox philosopher
+| name             = Mikhail Bakunin
+| image            = Bakunin Nadar.jpg
+| alt              =
+| caption          = Bakunin {{circa}} 1860
+| birth_name       = Mikhail Alexandrovich Bakunin
+| birth_date       = {{birth date|1814|5|30|df=y}} ([[Old Style and New Style dates|N.S.]])
+| birth_place      = [[Pryamukhino]], [[Tver Governorate]], [[Russian Empire]] {{small|(present-day [[Kuvshinovsky District]], [[Tver Oblast]], [[Russia]])}}
+| death_date       = {{death date and age|1876|7|1|1814|5|30|df=y}}
+| death_place      = [[Bern, Switzerland]]
+| family           = [[Bakunin family|Bakunin]]
+| era              = [[19th century philosophy]]
+| region           = {{unbulleted list|[[Russian philosophy]]|[[Western philosophy]]}}
+| school_tradition = {{plainlist|
+* [[Collectivist anarchism]] (late)
+* [[Left-Hegelianism]]<ref>{{cite journal|title='Strike out, right and left!': a conceptual-historical analysis of 1860s Russian nihilism and its notion of negation|first=Kristian|last=Petrov|year=2019|journal=Stud East Eur Thought|volume=71|issue=2|pages=73–97|doi-access=free|doi=10.1007/s11212-019-09319-4|s2cid=150893870}}</ref> (early)
+* [[Left-wing nationalism]] (early)
+* [[Revolutionary socialism]]
+* [[Russian materialism]]<ref>{{cite encyclopedia|title=Russian Materialism: 'the 1860s'|first=James P.|last=Scanlan|year=1998|encyclopedia=Routledge Encyclopedia of Philosophy|publisher=Taylor and Francis|doi=10.4324/9780415249126-E050-1|isbn=978-0415250696}}</ref>
+* [[Westernizers]]<ref>{{cite book|title=Russian Philosophy Volume II: the Nihilists, The Populists, Critics of Religion and Culture|first1=James M.|last1=Edie|first2=James|last2=Scanlan|first3=Mary-Barbara|last3=Zeldin|date=1994|publisher=University of Tennessee Press|page=3|quote=Bakunin himself was a Westernizer}}</ref>
+}}
+| main_interests   =
+| signature        = БСЭ1. Автограф. Автографы. 7.svg
+}}
+{{anarchism sidebar}}
+
+'''Mikhail Alexandrovich Bakunin'''{{efn|{{lang-rus|Михаил Александрович Бакунин|p=mʲɪxɐˈil ɐlʲɪkˈsandrəvʲɪdʑ bɐˈkunʲɪn}}.}} ({{IPAc-en|b|ə|ˈ|k|uː|n|ɪ|n}} {{respell|bə|KOO|nin}};<ref>[http://www.thefreedictionary.com/bakunin "Bakunin"]. ''[[Random House Kernerman Webster's College Dictionary]]''. 2010.</ref> 30  May 1814 – 1 July 1876) was a [[Anarchism in Russia|Russian revolutionary anarchist]]. He is among the most influential figures of anarchism and a major figure in the [[revolutionary socialist]], [[social anarchist]],<ref>{{citation|last=Masters|first=Anthony|year=1974|title=Bakunin, the Father of Anarchism|publisher=Saturday Review Press|isbn=0841502951}}</ref> and [[collectivist anarchist]] traditions. Bakunin's prestige as a revolutionary also made him one of the most famous ideologues in Europe, gaining substantial influence among radicals throughout Russia and Europe.
+
+Bakunin grew up in [[Kuvshinovsky District|Pryamukhino]], a family estate in [[Tver Governorate]]. From 1840, he studied in [[Moscow]], then in [[Berlin]] hoping to enter academia. Later in [[Paris]], he met [[Karl Marx]] and [[Pierre-Joseph Proudhon]], who deeply influenced him. Bakunin's increasing radicalism ended hopes of a professorial career. He was expelled from France for opposing the [[Russian Empire]]'s [[Poland-Russia relations#Muscovy and Russian Empire|occupation of Poland]]. After participating in the [[Prague Uprising of 1848|1848 Prague]] and [[1849 Dresden uprising|1849 Dresden]] uprisings, Bakunin was imprisoned, tried, sentenced to death, and extradited multiple times. Finally [[exile]]d to [[History of Siberia#Russian Empire|Siberia]] in 1857, he escaped via Japan to the United States and then to [[London]], where he worked with [[Alexander Herzen]] on the journal ''Kolokol'' (''The Bell''). In 1863, Bakunin left to join the [[January Uprising|insurrection in Poland]], but he failed to reach it and instead spent time in Switzerland and Italy.
+
+In 1868, Bakunin joined the [[International Workingmen's Association]], leading the anarchist faction to rapidly grow in influence. The 1872 [[Hague Congress (1872)|Hague Congress]] was dominated by a struggle between Bakunin and Marx, who was a key figure in the General Council of the International and argued for the use of the state to bring about socialism. In contrast, Bakunin and the anarchist faction argued for the replacement of the state by federations of self-governing workplaces and communes. Bakunin could not reach the Netherlands, and the anarchist faction lost the debate in his absence. Bakunin was expelled from the International for maintaining, in Marx's view, a secret organisation within the International, and founded the [[Anti-Authoritarian International]] in 1872. From 1870 until his death in 1876, Bakunin wrote his longer works such as ''[[Statism and Anarchy]]'' and ''[[God and the State]]'', but he continued to directly participate in European worker and peasant movements. In 1870, he was involved in an insurrection in [[Lyon]], France. Bakunin sought to take part in an anarchist insurrection in [[Bologna]], Italy, but his declining health forced him to return to Switzerland in disguise.
+
+Bakunin is remembered as a major figure in the history of anarchism, an opponent of [[Marxism]], especially of the [[dictatorship of the proletariat]]; and for his predictions that Marxist regimes would be one-party dictatorships ruling over the proletariat, not rule by the proletariat. His book ''God and the State'' has been widely translated and remains in print. Bakunin has had a significant influence on thinkers such as [[Peter Kropotkin]], [[Errico Malatesta]], [[Herbert Marcuse]], [[E. P. Thompson]], [[Neil Postman]] and [[A. S. Neill]] as well as syndicalist organizations such as the [[IWW]], the anarchists in the [[Spanish Civil War]] and [[contemporary anarchists]] involved in the modern-day [[anti-globalization movement]].<ref name=Sale>[[Kirkpatrick Sale|Sale, Kirkpatrick]] (2006-11-06) [http://www.amconmag.com/article/2006/nov/06/00031/ An Enemy of the State] {{Webarchive|url=https://web.archive.org/web/20110604222713/http://www.amconmag.com/article/2006/nov/06/00031/ |date=4 June 2011 }}, ''[[The American Conservative]]''</ref>
+
+== Life ==
+
+=== Early life ===
+
+On {{OldStyleDate|30 May|1814|18 May}}, Mikhail Aleksandrovich Bakunin was born into [[Russian nobility]].{{sfn|Shatz|2003|p=35}} His family's [[Priamukhino]] estate, in the [[Tver Oblast|Tver]] region northwest of Moscow, had over 500 serfs.{{sfn|Eckhardt|2022|p=308}} His father, [[Alexander Mikhailovich Bakunin]], was a Russian diplomat who had served in Italy. Upon returning to Priamukhino and marrying the much younger Varvara Aleksandrovna Murav'eva, the elder Bakunin raised his ten children<!-- add note here for the eleventh who died young--> in the [[Rousseauan]] pedagogic model.{{sfn|Shatz|2003|p=35}} Mikhail Bakunin, their third child and oldest son,{{sfn|Eckhardt|2022|p=309}} read the languages, literature, and philosophy of the period and described his youth as idyllic and sheltered from the realities of Russian life. As an early teenager, he began training for a military career at the [[St. Petersburg]] Artillery School, which he rejected.{{sfn|Shatz|2003|p=35}} Becoming an officer in 1833, he availed himself of the freedom to participate in the city's social life, but was unfulfilled. Derelict in his studies, he was sent to Belarus and Lithuania as punishment in early 1834, where he read academic theory and philosophy. He deserted the school in 1835 and only escaped arrest through his familial influence.{{sfn|Eckhardt|2022|p=309}} He was discharged at the end of the year and, despite his father's protests, left for Moscow to pursue a career as a mathematics teacher.{{sfnm|1a1=Shatz|1y=2003|1p=35|2a1=Eckhardt|2y=2022|2p=309}}
+
+Bakunin lived a bohemian, intellectual life in Moscow, where [[German Romantic]] literature and [[German idealism|idealist philosophy]] were influential in the 1830s.{{sfn|Shatz|2003|p=35}} In the intellectual circle of [[Nikolai Stankevich]], Bakunin read German philosophy, from [[Immanuel Kant|Kant]] to [[Johann Gottlieb Fichte|Fichte]] to [[Georg Wilhelm Friedrich Hegel|Hegel]],{{sfn|Eckhardt|2022|p=309}} and published Russian translations of their works.{{sfn|Shatz|2003|p=36}} Bakunin produced the first Russian translation of Hegel and was the foremost Russian expert on Hegel by 1837.{{sfn|Eckhardt|2022|pp=309–310}} Bakunin befriended Russian intellectuals including the literary critic [[Vissarion Belinsky]], the poet [[Nikolay Ogarev]], the novelist [[Ivan Turgenev]], and the writer [[Alexander Herzen]] as youth prior to their careers.{{sfn|Shatz|2003|p=36}} Herzen funded Bakunin to study at the [[University of Berlin]] in 1840. Bakunin's plans to return to Moscow as a professor were soon abandoned.{{sfn|Eckhardt|2022|p=310}}
+
+In Berlin, Bakunin gravitated towards the [[Young Hegelians]], an intellectual group with radical interpretations of Hegel's philosophy,{{sfn|Shatz|2003|p=36}} and who drew Bakunin to political topics.{{sfn|Eckhardt|2022|p=310}} He left Berlin in early 1842 for [[Dresden]] and met the Hegelian [[Arnold Ruge]],{{sfn|Eckhardt|2022|p=310}} who published Bakunin's first original publication. ''{{langx|de|Die Reaktion in Deutschland}}'' ("The Reaction in Germany") proposes a continuation of the [[French Revolution]] to the rest of Europe and Russia.{{sfn|Shatz|2003|p=36}} Though steeped in Hegelian jargon and published under a pseudonym, it marked Bakunin's transition from philosophy to revolutionary rhetoric.{{sfn|Eckhardt|2022|p=310}}
+
+=== Revolutionary activity and imprisonment ===
+[[File:Young Bakunin.jpg|thumb|Bakunin, 1843]]
+
+Throughout the 1840s, Bakunin grew into revolutionary agitation.{{sfn|Shatz|2003|p=36}} When his cadre aroused interest from Russian secret agents, Bakunin left for [[Zürich]] in early 1843. He met the proto-communist [[Wilhelm Weitling]] whose arrest led [[Bern]]'s Russian embassy to distrust Bakunin.{{sfn|Eckhardt|2022|p=310}} Defying Russian orders to return, the [[Governing Senate|Russian Senate]] stripped him of his rights as a nobleman and sentenced him [[trial in absentia|in absentia]] to [[penal labor]] in Siberia.{{sfnm|1a1=Shatz|1y=2003|1p=36|2a1=Eckhardt|2y=2022|2p=310}} Without steady financial support, Bakunin became an itinerant, traveling Europe meeting the people who had influenced him.{{sfn|Shatz|2003|p=36}} He visited [[Brussels]] and [[Paris]], where he joined international emigrants and socialists, befriended the anarchist [[Pierre-Joseph Proudhon]], and met the philosopher [[Karl Marx]], with whom he would later tussle.{{sfn|Eckhardt|2022|p=310}} Bakunin only became personally active in political agitation in 1847, as Polish emigrants in Paris invited him to commemorate the [[1830 Polish uprising]] with a speech.{{sfn|Eckhardt|2022|p=310}} His call for Poles to overthrow czarism in alliance with Russian democrats made Bakunin known throughout Europe and led the Russian ambassador to successfully request Bakunin's deportation.{{sfn|Eckhardt|2022|pp=310–311}}
+
+When the French King [[Louis Philippe I]] abdicated during the [[February 1848 Revolution]], Bakunin returned to Paris and basked in the revolutionary milieu.{{sfn|Shatz|2003|p=36}} With the French government's support, he headed to Prussian Poland to agitate for revolt against Russia but never arrived.{{sfn|Shatz|2003|pp=36–37}} He attended the 1848 [[Prague Slavic Congress, 1848|Prague Slavic Congress]] to defend Slavic rights against German and Hungarian nationalism, and participated in [[1848 Prague uprising|its impromptu insurrection]] against the [[Habsburg empire|Austrian Habsburgs]]. Uncaptured, he wrote ''Aufruf an die Slaven'' ("Appeal to the Slavs") at the end of the year, advocating for a Slavic federation and revolt against the Austrian, Prussian, Turkish, and Russian governments. It was widely read and translated.{{sfn|Shatz|2003|p=37}}
+
+After participating in both the Prague uprising and the [[May Uprising in Dresden|1849 Dresden uprising]], Bakunin was imprisoned, tried, sentenced to death, extradited multiple times, and ultimately placed in [[solitary confinement]] in the [[Peter and Paul Fortress]] of [[St. Petersberg, Russia]], in 1851. Three years later, he transferred to [[Shlisselburg Fortress]] near St. Petersberg for another three years. Prison weathered but did not break Bakunin, who retained his revolutionary zeal through his release. He did, however, write an autobiographical, genuflecting ''[[Confession (Bakunin)|Confession]]'' to the Russian emperor, which proved to be a controversial document upon its public discovery some 70 years later. The letter did not improve his prison conditions. In 1857, Bakunin was permitted to transfer to permanent exile in Siberia. He married Antonia Kwiatkowska there{{sfn|Shatz|2003|p=37}} before escaping in 1861, first to Japan, then to San Francisco, sailing to [[Panama]] and then to New York and Boston, and arrived in London by the end of the year.{{sfn|Shatz|2003|p=38}} Bakunin set foot in America just as the [[American Civil War|Civil War]] was breaking out. Speaking with supporters of both sides, Bakunin stated that his sympathies were with the North, although he claimed hypocrisy in their stated goal of slave liberation while also forcing the South to remain in the Union.<ref name=":0">{{Cite web |last=Avrich |first=Paul |title=Bakunin in America |url=https://files.libcom.org/files/BAKUNIN%20AND%20THE%20UNITED%20STATES.pdf}}</ref> Though a fierce critic and enemy of slavery, Bakunin held a deep admiration for the United States as a whole, referring to the country as “the finest political organization that ever existed in history.”<ref name=":0" />
+
+=== Back in Europe ===
+
+In London, Bakunin reunited with Herzen and Ogarev. Bakunin collaborated with them on [[Kolokol (newspaper)|their Russian-language newspaper]] but his revolutionary fervor exceeded their moderate reform agenda. Bakunin's 1862 pamphlet ''The People{{'}}s Cause: Romanov, Pugachev, or Pestel?'' criticized the Russian tsar for not using his position to facilitate a bloodless revolution and forgo another [[Pugachev's Rebellion]]. In early August 1862, he briefly travelled to Paris.<ref>{{cite book |last1=Kawelin |first1=Konstantin |author1-link=Konstantin Kavelin |editor1-last=Dragomanow |editor1-first=Michail |editor1-link=Mykhailo Drahomanov |title=Konstantin Kawelins und Iwan Turgenjews sozial-politischer Briefwechsel mit Alexander Iw. Herzen: Mit Beilagen und Erläuterungen |series=Bibliothek russischer Denkwürdigkeiten; 4 Bd |date=1894 |publisher=Verlag der J. G. Cotta'schen Buchhandlung Nachfolger |location=Stuttgart |pages=64–66 |url=https://catalog.hathitrust.org/Record/000975825 |language=German}}</ref> In Paris at this time, famous photographer [[Nadar]] took three famous photographs of him on August 7, 1862. After being photographed, he also signed Nadar's ''Livre d'Or'' (autograph albume), wrote that (leaf 161): "Watch out that liberty doesn't come to you from the north."<ref>{{cite web |last1=Begley |first1=Adam |title=Nadar's Livre d'or |url=https://www.theparisreview.org/blog/2017/07/05/nadars-livre-dor/ |website=[[The Paris Review]] |date=5 July 2017 |access-date=23 November 2023}}</ref><ref>{{cite web |title=Nadar autograph album |url=https://findingaids.library.upenn.edu/records/UPENN_RBML_PUSP.MS.COLL.21 |access-date=23 November 2023}}</ref> In 1863, Bakunin joined in an unsuccessful effort to supply armed men for the Polish [[January Uprising]] against Russia. Bakunin, reunited with his wife, moved to Italy the next year, where they stayed for three years.{{sfn|Shatz|2003|p=38}}
+
+Bakunin, in his early 50s, developed his core anarchist thoughts in Italy. He continued to refine these ideas in his remaining 12 years. Among this ideology was the first of many conspiratorial revolutionary societies, though none of these participated in revolutionary actions, chiefly the revolutionary toppling of the state, to be replaced by free federation between voluntarily associated economic producers.{{sfn|Shatz|2003|p=38}}
+
+He moved to Switzerland in 1867, a more permissive environment for revolutionary literature. Bakunin's anarchist writings were fragmentary and prolific.{{sfn|Shatz|2003|p=38}} With France's collapse in the 1870 [[Franco-Prussian War]], Bakunin traveled to Lyon and participated in the fruitless [[Lyon Commune]] in which the citizens briefly occupied the city hall. Bakunin retreated to Switzerland.{{sfn|Shatz|2003|pp=38–39}}
+
+In Switzerland, the Russian revolutionary [[Sergey Nechayev]] sought out Bakunin for a collaboration. Not knowing Nechayev's past betrayals, Bakunin warmed to Nechayev's revolutionary zeal and they together produced the 1869 ''Catechism of the Revolutionary'', a tract that endorsed an ascetic life for revolutionaries without societal or moral bonds. Bakunin's connection with Nechayev hurt the former's reputation. More recent scholarship, however, challenges the catechism's authorship, crediting Nechayev as the primary or sole author. Bakunin ultimately disavowed their connection.{{sfn|Shatz|2003|p=39}}
+
+=== First International ===
+
+[[File:Bakunin Monument Bern EN.webm|thumb|Video of Bakunin's grave]]
+
+While Bakunin encountered [[Karl Marx]] in Paris (1844) and London (1864), he came to know him through the [[First International]] (International Working Men's Association), which Marx and [[Friedrich Engels]] formed in the 1860s. Bakunin's relationship with Marx became strained in the early 1870s for both interpersonal and ideological differences. Bakunin respected Marx's erudition and passion for socialism but found his personality to be authoritarian and arrogant. In turn, Marx was skeptical towards Russian reactionism and Bakunin's unruliness.{{sfn|Shatz|2003|p=39}} As Bakunin developed his anarchist ideas in this period, he came to see federative social organization, led by the peasantry and poorest workers, as the primary post-revolution goal, whereas Marx believed in a [[dictatorship of the proletariat]], led by organized workers in industrially advanced countries, in which the workers use state infrastructure until [[withering away of the state|the state withers away]]. Bakunists abhorred the political organization for which Marx advocated.{{sfn|Shatz|2003|pp=39–40}}
+
+Marx had Bakunin and Bakunist anarchists ejected from the First International's [[Hague Congress (1872)|1872 Hague Congress]]. This breaking point split the Marxist socialist movement from the anarchist movement and led to the undoing of the International. Bakunin's ideas continued to spread nevertheless to the labor movement in Spain and the watchmakers of the Swiss [[Jura Federation]].{{sfn|Shatz|2003|p=40}}
+
+Bakunin wrote his last major work, ''Statism and Anarchy'' (1873), anonymously in Russian to stir underground revolution in Russia. It restates his anarchist position, establishes the German Empire as the foremost centralized state in opposition to European anarchism, likens Marx to German authoritarianism, and warns of Marx's dictatorship of the proletariat being led by autocrats for their own gain in the name of the proletariat. This premonition furthered the gulf between the Marxists and Bakunist anarchists.{{sfn|Shatz|2003|p=40}}
+
+In one final revolutionary act, Bakunin planned the unsuccessful [[1874 Bologna insurrection]] with his Italian followers. Its failure was a major setback to the [[anarchism in Italy|Italian anarchist movement]]. Bakunin retreated to Switzerland,{{sfn|Drake|2009|pp=35–36}} where he retired, dying in [[Bern]] on 1 July 1876.{{sfn|Shatz|2003|p=41}}
+
+== Thought ==
+
+{{quote box|"The passion for destruction is also a creative passion."{{sfn|Shatz|2003|p=36}}}}
+
+Much of Bakunin's writings on anarchism reflects antipathy for the state and "political organization itself as the source of oppression and exploitation". His revolutionary solutions focus on undoing the state and hierarchical religious, social, and economic institutions, to be replaced by a system of freely federated communes organized "from below upward" with voluntary associations of economic producers, starting locally but ostensibly organizing internationally. These thoughts were first published in his unfinished 1871 ''The Knouto-Germanic Empire and the Social Revolution'', expanded by a second part published in his 1908 ''Oeuvres'', and again elaborated a fragment found and published posthumously as ''God and the State'' (1882). The latter was his most famous work, translated widely,{{sfn|Shatz|2003|p=38}} and a touchstone of anarchist literature.{{sfn|Eckhardt|2022|p=313}} It appeals to cast off both the state and religion to realize man's inborn freedom.{{sfn|Shatz|2003|p=38}}
+
+Bakunin's core political thought addressed emancipatory communities in which members freely develop their abilities and faculties without overpowering each other.{{sfn|Eckhardt|2022|pp=315–316}} Participation within community was a personal concern of his, and his vision of a community's role in creating free and happy humans stemmed from his close sibling relationships. Bakunin unsuccessfully sought community in religion and philosophy through influences including Arnold Ruge (Left Hegelianism), [[Ludwig Feuerbach]] (philosophical humanism), Wilhelm Weitling (proto-communism), and Pierre-Joseph Proudhon (early anarchism). Bakunin turned from metaphysics and theory to the practice of creating communities of free, independent people.{{sfn|Eckhardt|2022|p=316}} His first attempts at this, with the Polish emigrants and Prague Slav Congress in the 1840s, focused on national liberation, but he turned to emancipatory community after the failed 1863 Polish naval expedition.{{sfn|Eckhardt|2022|p=316}}<!-- consider merging into bio above? --> For Bakunin, freedom required community (such that humanity could only be free if everyone was free) and equality (that all people have the same starting basis), including equality in rights and social functions for women.{{sfn|Eckhardt|2022|p=318}}
+
+He envisioned an international revolution by the awakened masses that would bring about new forms of social organization (by committees of delegates and independent municipalities) in a large-scale federation undoing all state structure and social coercion. In this emancipated community, every adult would be entitled freedom, to be governed by their own conscience and reason according to their own will, responsible foremost to themselves and then to their community. He did not believe a reformed bourgeois or revolutionary state could emancipate like such a community he described, so his vision of revolution meant not capturing power but ensuring that no new power took the place of the old.{{sfn|Eckhardt|2022|p=317}}
+
+Bakunin was not a systematic thinker and did not design grand systems or theoretical constructs.{{sfn|Eckhardt|2022|p=318}} His writing was prolific and fragmented. He was prone to large digressions and rarely completed what he set out to address. As a result, much of his writings on anarchism do not cohere and were published only posthumously.{{sfn|Shatz|2003|p=38}} Bakunin did develop his theoretical perspective through draft programs.{{sfn|Eckhardt|2022|p=317}}<!-- what about the development of the term anarchist from social revolutionary? --> Bakunin first called himself an anarchist in 1867.{{sfn|Eckhardt|2022|p=318}}
+
+=== Authority ===
+
+Bakunin saw the institutions of church and state as standing against the aims of emancipatory community, namely that they impose wisdom and justice from above under the pretense that the masses could not fully self-govern. He wrote that "to exploit and to govern mean the same thing".{{sfn|Eckhardt|2022|p=318}} Bakunin held the State as a regulated system of domination and exploitation by a privileged, ruling class.{{sfn|Eckhardt|2022|p=318}} This applied to States both historical and contemporaneous, including modern monarchies and republics that each used military and bureaucratic centralization. He regarded representative democracies as a paradoxical abstraction from social reality. Although a popular legislature is meant to represent the will of the people, he saw it rarely function as such in practice. Elected politicians instead represented abstractions. Bakunin believed that powerful institutions to be inherently stronger than individual will and incapable of internal reform due to the overwhelming ambitions and temptations that corrupt those with power. To Bakunin, anarchists were rightly "enemies of all power, knowing that power corrupts those invested with it just as much as those compelled to submit to it".{{sfn|Eckhardt|2022|p=319}}
+
+Bakunin clashed with Marx over worker governance and revolutionary change. Bakunin argued that even the best revolutionary placed on the Russian throne would become worse than Czar Alexander. Bakunin wrote that socialist workers in power would become ex-workers who govern by their own pretensions, not representing the people.{{sfn|Eckhardt|2022|p=321}} Bakunin did not believe in transitional dictatorship serving any purpose other than to perpetuate itself, saying that "liberty without socialism is privilege and injustice, and socialism without liberty is slavery and brutality".{{sfn|Eckhardt|2022|p=322}} Bakunin disagreed with Marx that [[Withering away of the state|the state would wither away]] under worker ownership and that worker conquest and changes in production conditions would inherently kill the state.{{sfn|Eckhardt|2022|p=322}} Bakunin promoted spontaneous worker actions over Marx's suggested organization of a working-class party.{{sfn|Eckhardt|2022|p=321}}
+
+While Bakunin believed that science and specialists could be useful in enlightening communities, he did not believe in government by experts or letting any privileged minority rule over a majority or any presumed intelligence rule over a presumed stupidity. Bakunin wrote of referring to the "[[Authority of the bootmaker|authority to the bootmaker]]" on boots and to savants for their specialities, and listening to the freely in respect for their expertise, but not allowing the bootmaker or the savant to impose this authority and not letting them be beyond reproach of criticism or censure. Bakunin believed that authority should be in continual voluntary exchange rather than a constant subordination. He believed intelligence to have intrinsic benefits so as to not require additional privileges.{{sfn|Eckhardt|2022|p=320}}
+
+=== Revolutionary societies ===
+
+Towards the end of his life, beginning in 1864 in Italy with the International Brotherhood, Bakunin attempted to unite his international network under secret revolutionary societies, a concept at odds with his professed caution against the autocratic tendencies of the revolutionary elite.{{sfnm|1a1=Shatz|1y=2003|1p=38|2a1=Eckhardt|2y=2022|2p=323}} Composed of Bakunin's circle, these informal groups existed mainly on paper and thus did not participate in revolutionary action or bridge revolutionary theory to practice like Bakunin intended.{{sfnm|1a1=Eckhardt|1y=2022|1pp=317, 323–324|2a1=Shatz|2y=2003|2p=38}} The groups operated with significant autonomy, having diverged from Bakunin on multiple controversial issues. Despite being cast at the Hague Congress as under Bakunin's stern authority, they were organized by personal relationships rather than the vertical hierarchies and membership ranks found in Bakunin's notes.{{sfn|Eckhardt|2022|pp=317, 324}}<!-- also see Eckhardt's First Socialist Schism, p. 319 --> His written programs played a larger role in his politics than these draft secret societies.{{sfn|Eckhardt|2022|p=317}}<!--Geneva Alliance {{sfn|Eckhardt|2022|p=313}}-->
+
+The idea of the "invisible dictatorship" was central to Bakunin's politics. In combination with Bakunin's opposition to parliamentary politics, historian [[Peter Marshall (author)|Peter Marshall]] wrote that such a secret party—its existence unknown and its policies beholden to none—had the potential for greater tyranny than a Blanquist or Marxist party and was hard to envision as presaging an open, democratic society.{{sfn|Marshall|1992|p=287}}
+
+== Personal life ==
+
+[[File:Mikhail Bakunin and Antonia.jpg|thumb|Antonia and Mikhail Bakunin, c. 1861]]
+
+Bakunin married Antonia Kwiatkowska, originally from Poland, during his exile in Siberia. Kwiatkowska was much younger than Bakunin (a difference of 26 years; she was 18) and had little interest in politics. Their differences and Bakunin's meagre attention to romance have left biographers speculating about possible psychosexual rationales for Bakunin's personal life and the extent of his dedication to revolutionary action. Though she remained married to Bakunin until his death in 1876, Kwiatkowska had three children with another man while Bakunin was still alive – an Italian disciple of his, who married her after Bakunin's death.{{sfn|Shatz|2003|pp=37–38}}
+
+== Legacy ==
+
+Bakunin was the leading anarchist revolutionary of the 19th century, active from the 1840s through the 1870s.{{sfn|Shatz|2003|p=35}} His foundational anarchist writings helped the movement stand in contrast to capitalism and Marxism and became more popular after his death, with some of his highest regarded works published posthumously and in new editions. His ''Statism and Anarchy'' influenced the growing Russian [[Narodnik]] movement of peasant socialism, and his anarchism influenced ideology in both the [[Russian Revolution]] and the [[Spanish Civil War]]. The 1960s [[New Left]] revived interest in his works and ideas of voluntary association and opposition to authoritarian socialism, with new editions and translations published.{{sfn|Shatz|2003|p=41}}
+
+Bakunin's legacy reflects the paradox and ambivalence by which he lived. As historian [[Paul Avrich]] put it, Bakunin was "a nobleman who yearned for a peasant revolt, a libertarian with an urge to dominate others, an intellectual with a powerful anti-intellectual streak", who professed support for unfettered liberty while demanding [[unconditional obedience]] from his followers. Many of his actions put him closer to later authoritarian movements, even if his words were anti-authoritarian.{{sfn|Avrich|1988|p=14}}<!-- more to paraphrase in source -->
+
+In particular, the antisemitic passages in Bakunin's writing have been the subject of extended interest, such that Bakunin biographer [[Mark Leier]] has said the question is raised every time he speaks on Bakunin. Both Leier and scholar of antisemitism Eirik Eiglad have commented that antisemitism was not essential to Bakunin's thought, nor was his thought valued for his antisemitism.{{sfn|Eiglad|2015|pp=[https://books.google.com/books?id=ibfkCgAAQBAJ&pg=PA235 235–236]}} Sociologist Marcel Stoetzler argued the opposite, saying that the [[Antisemitic trope#World domination|antisemitic trope of Jewish world domination]] was at the centre of Bakunin's political thought.{{sfn|Stoetzler|2014|pp=139–140}} Bakunin's anti-Jewish and anti-German resentment are most visible in the context of his attacks on Marx, but his antisemitism predated these passages.{{sfn|Shatz|1990|p=[https://books.google.com/books?id=ffXU01KzRNQC&pg=PR30 xxx]}}<ref>{{cite book | url=https://books.google.com/books?id=ju7U83nRDt8C&pg=PA151 | title=Antisemitism: A Reference Handbook | isbn=9781576072097 | last1=Chanes | first1=Jerome A. | year=2004 |page=151| publisher=Bloomsbury Academic }}</ref> Scholar [[Marshall Shatz]] noted that there is a gap between Bakunin's egalitarian principles and his ethnic prejudices, even if this antisemitism and stereotyping was common among French radicals of the era{{sfn|Shatz|1990|p=[https://books.google.com/books?id=ffXU01KzRNQC&pg=PR30 xxx]}} and shared by Marx himself.{{sfn|Leier|2009|p=[https://books.google.com/books?id=vSp6NmJvTswC&pg=PA276 276]}}
+
+[[Noam Chomsky]] called Bakunin's prediction that Marxist regimes would become dictatorships "one of the few predictions in the social sciences that actually came true".<ref>{{Citation |title=Noam Chomsky - Lenin, the USSR, and the Predictions of Bakunin |url=https://www.youtube.com/watch?v=gfdnbMd9BiE |access-date=2023-07-08 |language=en}}</ref><!--Bakunin influenced Chomsky{{sfn|Eckhardt|2022|p=308}}-->
+
+Bakunin archives are held in several places: the [[Pushkin House]], the [[State Archive of the Russian Federation]], the [[Russian State Library]], the [[Russian State Archive of Literature and Art]], the [[National Library of Russia]], and the [[International Institute of Social History]].{{sfn|Shatz|2003|p=41}}
+
+== Works ==
+=== Books ===
+* ''[[God and the State]]'', {{ISBN|048622483X}}
+
+=== Pamphlets ===
+* [http://www.revoltlib.com/anarchism/stateless-socialism-anarchism/view.php Stateless ''Socialism: Anarchism''] (1953)
+* ''[[Marxism, Freedom and the State]],<ref name=":02">Hodges, Donald Clark. "The Rise and Fall of Militant Trade Unionism." ''[[The American Journal of Economics and Sociology]]'', vol. 20, no. 5, 1961, pp. 483–96. ''JSTOR'', {{JSTOR|3484301}}. Accessed 9 Mar. 2023.</ref>'' (translated by [[Kenneth Kenafick]] in 1950)
+* [http://www.revoltlib.com/anarchism/the-paris-commune-and-the-idea-of-the-state/view.php ''The Paris Commune and the Idea of the State''] (1871)
+* [http://www.revoltlib.com/anarchism/the-immorality-of-the-state/view.php ''The Immorality of the State''] (1953)
+* ''[[Statism and Anarchy]]'' (1990), Cambridge University Press, {{ISBN|0521361826}}
+* [http://www.revoltlib.com/anarchism/revolutionary-catechism/view.php ''Revolutionary Catechism''] (1866)
+* [http://www.revoltlib.com/anarchism/the-commune,-the-church-the-state/view.php ''The Commune, the Church, and the State''] (1947)
+* [http://www.revoltlib.com/anarchism/founding-of-the-first-international/view.php ''Founding of the First International''] (1953)
+* [http://www.revoltlib.com/anarchism/on-rousseau/view.php ''On Rousseau''] (1972)
+* ''No Gods No Masters'' (1998) by [[Daniel Guérin]], Edinburgh: AK Press, {{ISBN|1873176643}}
+
+=== Articles ===
+* [http://www.revoltlib.com/anarchism/power-corrupts-the-best/view.php "Power Corrupts the Best"] (1867)
+* [http://www.revoltlib.com/anarchism/the-class-war/view.php "The Class War"] (1870)
+* [http://www.revoltlib.com/anarchism/what-is-authority/view.php "What is Authority?"] (1870)
+* [http://www.revoltlib.com/anarchism/recollections-on-marx-and-engels/view.php "Recollections on Marx and Engels"] (1869)
+* [http://www.revoltlib.com/anarchism/the-red-association/view.php "The Red Association"] (1870)
+* [http://www.revoltlib.com/anarchism/solidarity-in-liberty/view.php "Solidarity in Liberty"] (1867)
+* [http://www.revoltlib.com/anarchism/the-german-crisis/view.php "The German Crisis"] (1870)
+* [http://www.revoltlib.com/anarchism/god-or-labor/view.php "God or Labor"] (1947)
+* [http://www.revoltlib.com/anarchism/where-i-stand/view.php "Where I Stand"] (1947)
+* [http://www.revoltlib.com/anarchism/appeal-to-my-russian-brothers/view.php "Appeal to my Russian Brothers"] (1896)
+* [http://www.revoltlib.com/anarchism/the-social-upheaval/view.php "The Social Upheaval"] (1947)
+* [http://www.revoltlib.com/anarchism/integral-education-i/view.php "Integral Education, Part I"] (1869)
+* [http://www.revoltlib.com/anarchism/integral-education-ii/view.php "Integral Education, Part II"] (1869)
+* [http://www.revoltlib.com/anarchism/the-organization-of-the-international/view.php "The Organization of the International"] (1869)
+* [http://www.revoltlib.com/anarchism/polish-declaration/view.php "Polish Declaration"] (1896)
+* [http://www.revoltlib.com/anarchism/politics-and-the-state/view.php "Politics and the State"] (1871)
+* [http://www.revoltlib.com/anarchism/workers-and-the-sphinx/view.php "Workers and the Sphinx"] (1867)
+* [http://www.revoltlib.com/anarchism/the-policy-of-the-council/view.php "The Policy of the Council"] (1869)
+* [http://www.revoltlib.com/anarchism/the-two-camps/view.php "The Two Camps"] (1869)
+
+=== Collections ===
+* ''Bakunin on Anarchism'' (1971). Edited, translated and with an introduction by [[Sam Dolgoff]]. Preface by [[Paul Avrich]]. New York: Knopf Originally published as ''Bakunin on Anarchy'', it includes [[James Guillaume]]'s ''Bakunin: A Biographical Sketch''. {{ISBN|0043210120}}.
+* ''Michael Bakunin: Selected Writings'' (1974). A. Lehning (ed.). New York: Grove Press. {{ISBN|0802100201}}.
+* ''[[Anarchism: A Documentary History of Libertarian Ideas]], Volume 1: From Anarchy to Anarchism (300 CE – 1939)'' (2005). [[Robert Graham (historian)|Robert Graham]] (ed.). Montreal and New York: Black Rose Books. {{ISBN|1551642514}}.
+* ''The Political Philosophy of Bakunin'' (1953). G. P. Maximoff (ed.). It includes ''Mikhail Bakunin: A Biographical Sketc''h by Max Nettlau.
+* ''The Basic Bakunin: Writings 1869–1871'' (1992). Robert M. Cutler (ed.). New York: Prometheus Books, 1992. {{ISBN|0879757450}}.
+
+== See also ==
+
+* ''[[Archives Bakounine]]''
+* [[List of Russian anarchists]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+=== Footnotes ===
+{{reflist}}
+
+=== Bibliography ===
+<!-- Please order books alphabetically by the author's last name. -->
+
+{{refbegin|2}}
+
+* {{cite book |last1=Avrich |first1=Paul |author-link=Paul Avrich |chapter= |title=Anarchist Portraits |pages=[https://archive.org/details/anarchistportrai00avri/page/5 5–52] |date=1988 |language=en |isbn=978-0691047539 |publisher=[[Princeton University Press]] |location=Princeton |oclc=17727270 |df=mdy-all |title-link=Anarchist Portraits |doi=10.2307/j.ctv173f13b|jstor=j.ctv173f13b|s2cid=241705620}}
+* {{Cite book |last1=Drake |first1=Richard |chapter=Carlo Cafiero |title=Apostles and Agitators: Italy's Marxist Revolutionary Tradition |date=2009 |language=en |isbn=978-0-674-03432-7 |publisher=Harvard University Press |df=mdy-all }}
+* {{Cite book |editor-last1=van der Linden |editor-first1=Marcel |last1=Eckhardt |first1=Wolfgang |chapter=Mikhail Bakunin and Social Anarchism |title=The Cambridge History of Socialism |volume=1 |pages=308–330 |date=2022 |isbn=978-1-108-48134-2 |publisher=Cambridge University Press |location=Cambridge |chapter-url=https://www.cambridge.org/core/books/cambridge-history-of-socialism/mikhail-bakunin-and-social-anarchism/2F5E1612BC5092CD1514657BA86DFB55 |df=mdy-all }}
+* {{Cite book |last1=Eiglad |first1=Eirik |editor-last1=Rosenfeld |editor-first1=Alvin H. |chapter=Anti-Zionism and the Anarchist Tradition |title=Deciphering the New Antisemitism |pages=206–241 |date=2015 |isbn=978-0-253-01869-4 |publisher=Indiana University Press |series=Studies in Antisemitism |df=mdy-all }}
+* {{cite book|title=Bakunin: The Creative Passion|first=Mark|last=Leier|author-link=Mark Leier|year=2009|orig-year=2006|location=[[New York City|New York]]|publisher=[[Seven Stories Press]]|isbn=978-1583228944|oclc=1090891844|url=https://books.google.com/books?id=vSp6NmJvTswC}}
+* {{Cite book |last1=Marshall |first1=Peter |author-link=Peter Marshall (author) |title=[[Demanding the Impossible: A History of Anarchism]] |chapter=Michael Bakunin: The Fanatic of Freedom |pages=263–308 |date=1992 |isbn=978-0-00-217855-6 |publisher=HarperCollins |location=London |df=mdy-all }}
+* {{Cite book |last1=Shatz |first1=Marshall |chapter=Introduction |title=Bakunin: Statism and Anarchy |date=1990 |language=en |isbn=978-0-521-36973-2 |publisher=Cambridge University Press |df=mdy-all }}
+* {{Cite book |last1=Shatz |first1=Marshall S. |author-link=Marshall S. Shatz |editor-last1=Gillespie |editor-first1=Alyssa Dinega |chapter=Mikhail Aleksandrovich Bakunin |title=Russian Literature in the Age of Realism |volume=277 |pages=34–41 |date=2003 |language=English |id={{Gale|OOJNKW999627593}} |series=[[Dictionary of Literary Biography]] |publisher=Gale |location=Detroit, MI |isbn=9780787660215 |chapter-url=https://archive.org/details/russianliteratur0277unse/page/34/mode/2up |df=mdy-all }}<!-- ✓ -->
+* {{Cite book |last1=Stoetzler |first1=Marcel |title=Antisemitism and the Constitution of Sociology |date=2014 |isbn=978-0-8032-4864-9 |publisher=University of Nebraska Press |df=mdy-all }}
+* {{Cite book |last1=Woodcock |first1=George |author-link=George Woodcock |title=[[Anarchism: A History of Libertarian Ideas and Movements]] |chapter=The Destructive Urge |pages=121–152 |date=1986 |language=English |isbn=978-0-14-022697-3 |edition=2nd |publisher=Penguin Books |location=Harmondsworth |oclc=489971695 |df=mdy-all }}
+
+{{refend}}
+
+== Further reading ==
+
+{{Refbegin|2}}
+
+* {{cite book|title=Bakunin|first=Guy|last=Aldred|author-link=Guy Aldred|year=1940|location=[[Glasgow]]|publisher=[[The Strickland Press]]|oclc=915244740|url=https://libcom.org/library/bakunin-guy-aldred}}
+* Angaut, Jean-Christophe."Revolution and the Slav question : 1848 and Mikhail Bakunin" in Douglas Moggach and Gareth Stedman Jones (eds.) The 1848 revolutions and European political thought. Cambridge University Press, 2018.
+* {{cite book|title=[[The Spanish Anarchists: The Heroic Years, 1868–1936]]|first=Murray|last=Bookchin|author-link=Murray Bookchin|date=1998|publisher=[[AK Press]]|isbn=187317604X|location=Canada|oclc=1112575991}}
+* {{cite book|title=Michael Bakunin|first=E. H.|last=Carr|author-link=E. H. Carr|url=https://libcom.org/library/michael-bakunin-e-h-carr|year=1975|orig-year=1937|location=[[London]]|publisher=[[Palgrave Macmillan|Macmillan Press]]|sbn=333 18425 4|doi=10.1007/978-1-349-02632-6|isbn=978-1349026326|oclc=1004387682}}
+* {{Cite EB1911|wstitle= Bakunin, Mikhail |volume= 3 | page = 231 }}
+* {{cite book|title=The Collaboration of Necaev, Ogarev, and Bakunin in 1869|first=Stephen|last=Cochrane|year=1977|location=[[Giessen]]|publisher=W. Schmitz|oclc=462089331|url=https://books.google.com/books?id=kZ0JAQAAIAAJ|series=Osteuropastudien der Hochschulen des Landes Hessen|volume=18|issn=0474-8328}}
+* David, Zdeněk V. "Frič, Herzen, and Bakunin: the Clash of Two Political Cultures." East European Politics and Societies 12.1 (1997): 1–30.
+* {{cite book|title=The First Socialist Schism: Bakunin vs. Marx in the International Working Men's Association|first=Wolfgang|last=Eckhardt|year=2016|location=[[Oakland, California]]|publisher=[[PM Press]]|isbn=978-1629630427|lccn=2014908069|oclc=1242987176}}
+* {{cite journal|last=Goodwin |first=James |year=2007 |title=Russian Anarchism and the Bolshevization of Bakunin in the Early Soviet Period |journal=[[Kritika (journal)|Kritika]] |volume=8 |issue=3 |pages=533–560 |doi=10.1353/kri.2007.0035 |s2cid=154662742 |issn=1538-5000}}
+* [[Daniel Guérin|Guérin, Daniel]]. ''Anarchism: From Theory to Practice''. New York: Monthly Review Press, 1970 (paperback, {{ISBN|0853451753}}).
+* {{cite book|chapter=Michael Bakunin: A Biographical Sketch|chapter-url=https://www.marxists.org/reference/archive/guillaume/works/bakunin.htm|first=James|last=Guillaume|author-link=James Guillaume|orig-year=1907|title=Bakunin on Anarchy|editor-first=Sam|editor-last=Dolgoff|editor-link=Sam Dolgoff|year=1972|isbn=039471783X|oclc=5928655|pages=22–52|publisher=Vintage Books }}
+* {{citation|title=Historia judaica, Volumes 12–14|last=[[Judaica]]|year=1950|publisher=Verlag von Julius Kittls Nachfolger}}
+* {{cite book|last=Kelly|first=Aileen|year=1982|title=Mikhail Bakunin: A Study in the Psychology and Politics of Utopianism|url=https://archive.org/details/mikhailbakuninst0000kell|location=[[Oxford]]|publisher=[[Oxford University Press]]|isbn=0-19-827244-8|lccn=82-6287}}
+* {{cite book|title=Bakunin: the Father of Anarchism|first=Anthony|last=Masters|location=[[London]]|publisher=Sidgwick & Jackson|year=1974|isbn=0283979569|url=https://books.google.com/books?id=_rjaAAAAMAAJ|oclc=907511050}}
+* {{cite book|title=Mikhail Bakunin: The Philosophical Basis of his Anarchism|first=Paul|last=McLaughlin|year=2002|location=[[New York City|New York]]|publisher=Algora Publishing|isbn=1892941848|oclc=612054885|url=https://libcom.org/library/mikhail-bakunin-philosophical-basis-his-anarchism-paul-mclaughlin|lccn=2002-001934}}
+* {{cite book|last=Mendel|first=Arthur|year=1981|title=Michael Bakunin: Roots of Apocalypse|url=https://archive.org/details/michaelbakuninro00mend|location=[[New York City|New York]]|publisher=[[Greenwood Publishing Group|Praeger]]|isbn=0-03-059218-6|lccn=81-5168}}
+* {{cite book|title=Mikhail Bakunin: The Philosophy of Freedom|year=1993|first=Brian|last=Morris|author-link=Brian Morris (anthropologist)|location=[[New York City|New York]]|publisher=[[Black Rose Books]]|url=https://books.google.com/books?id=GJXy5eCpPawC|isbn=1895431662|oclc=678812569}}
+* {{cite book|chapter=Mikhail Bakunin – a Biographical Sketch|first=Max|last=Nettlau|author-link=Max Nettlau|title=The Political Philosophy of Bakunin|editor-first=Gregori|editor-last=Maximoff|editor-link=Gregori Maximoff|year=1964|orig-year=1953|location=[[New York City|New York]]|publisher=[[Free Press (publisher)|Free Press]]|oclc=463186694|url=https://libcom.org/library/political-philosophy-bakunin-scientific-anarchism-gp-maximoff|pages=29–48}}
+* {{cite book|chapter=The Heretic: Mikhail Bakunin, Apostle of Destruction|title=Apostles of Revolution|first=Max|last=Nomad|author-link=Max Nomad|year=1961|orig-year=1939|location=[[New York City|New York]]|publisher=[[Crowell-Collier Publishing Company|Collier Books]]|chapter-url=https://archive.org/details/apostlesofrevolu00noma/page/150/|lccn=61018566|oclc=984463383|pages=151–213}}
+* {{cite book|title=Bakunin and the Italians|first=T. R.|last=Ravindranathan|year=1988|location=[[Montreal]] and [[Kingston, Ontario|Kingston]]|publisher=[[McGill–Queen's University Press]]|url=https://books.google.com/books?id=dgTFQgAACAAJ|isbn=0773506462|oclc=848525194}}
+* {{cite book|title=The Social and Political Thought of Michael Bakunin|first=Richard|last=Saltman|year=1983|location=[[Westport, Connecticut]]|publisher=[[Greenwood Press]]|isbn=0313233780|oclc=461887077|url=https://books.google.com/books?id=pLnaAAAAMAAJ}}
+* [[Tom Stoppard|Stoppard, Tom]]. ''[[The Coast of Utopia]]''. New York: Grove Press, 2002 (paperback, {{ISBN|080214005X}}).
+* {{citation|title=Karl Marx|last=Wheen|first=Francis|year=1999|publisher=Fourth Estate|isbn=1857026373}}
+* {{cite book|last=Yarmolinsky|first=Avrahm|author-link=Avrahm Yarmolinsky|title=[[Road to Revolution: A Century of Russian Radicalism]]|year=2014|orig-year=1957|location=[[Princeton, New Jersey]]|publisher=[[Princeton University Press]]|isbn=978-0691610412|oclc=890439998}}
+* {{cite book|title=Reflections on Prophecy: A Critical Appreciation of Michael Bakunin's Thought|first=Marc|last=Young|year=2017|publisher=Calesius C.B.|series=Calesius Papers in Political Philosophy|url=https://libcom.org/library/reflections-prophecy-critical-appreciation-michael-bakunins-thought}}
+
+{{Refend}}
+
+== External links ==
+{{Sister project links|s=Author:Mikhail Bakunin|wikt=no|v=no|n=no}}
+{{Library resources box|by=yes|onlinebooks=yes|about=yes|wikititle=Mikhail Bakunin}}
+* [http://www.revoltlib.com/?id=14 Bakunin Archive] at RevoltLib
+* [http://dwardmac.pitzer.edu/anarchist_archives/bakunin/Bakuninarchive.html Bakunin archive] at [[Anarchy Archives]]
+* Archive of [https://search.socialhistory.org/Record/ARCH00018 Michail Aleksandrovič Bakunin Papers] at the [[International Institute of Social History]]
+* [http://www.marxists.org/reference/archive/bakunin/ Writings of Bakunin at Marxist Internet Archive]
+* {{Gutenberg author|id=9485|name=Mikhail Aleksandrovic Bakunin}}
+* {{Internet Archive author|sname=Mikhail Aleksandrovich Bakunin}}
+* {{Librivox author|id=730}}
+
+{{navboxes
+|list=
+{{libertarianism}}
+{{revolutionary socialism}}
+{{socialism}}
+{{Political philosophy}}
+}}
+{{authority control}}
+{{Portal bar|Anarchism|Biography|Communism|Libertarianism|Politics|Religion|Russia|Socialism}}
+
+{{DEFAULTSORT:Bakunin, Mikhail}}
+[[Category:Mikhail Bakunin| ]]
+[[Category:1814 births]]
+[[Category:1876 deaths]]
+[[Category:19th-century atheists]]
+[[Category:19th-century philosophers from the Russian Empire]]
+[[Category:19th-century writers from the Russian Empire]]
+[[Category:Anarchist theorists]]
+[[Category:Anarchist writers]]
+[[Category:Antisemitism in the Russian Empire]]
+[[Category:Aphorists]]
+[[Category:Atheists from the Russian Empire]]
+[[Category:Atheist philosophers]]
+[[Category:Collectivist anarchists]]
+[[Category:Critics of Freemasonry]]
+[[Category:Critics of Judaism]]
+[[Category:Critics of Marxism]]
+[[Category:Critics of religions]]
+[[Category:Critics of work and the work ethic]]
+[[Category:Escapees from Russian detention]]
+[[Category:Former Russian Orthodox Christians]]
+[[Category:Libertarian socialists]]
+[[Category:Materialists]]
+[[Category:Members of the International Workingmen's Association]]
+[[Category:Participants of the Slavic Congress in Prague 1848]]
+[[Category:People from Kuvshinovsky District]]
+[[Category:People from Lugano]]
+[[Category:People from Novotorzhsky Uyezd]]
+[[Category:People of the Revolutions of 1848]]
+[[Category:Philosophers of culture]]
+[[Category:Philosophers of economics]]
+[[Category:Philosophers of history]]
+[[Category:Philosophers of nihilism]]
+[[Category:Philosophers of religion]]
+[[Category:Philosophy writers]]
+[[Category:Prisoners of Shlisselburg fortress]]
+[[Category:Prisoners of the Peter and Paul Fortress]]
+[[Category:Revolution theorists]]
+[[Category:Russian anarchists]]
+[[Category:Russian anti-capitalists]]
+[[Category:Russian atheists]]
+[[Category:Russian atheism activists]]
+[[Category:Russian writers on atheism]]
+[[Category:Russian duellists]]
+[[Category:Russian escapees]]
+[[Category:Russian nihilists]]
+[[Category:Russian male non-fiction writers]]
+[[Category:Russian political philosophers]]
+[[Category:Russian political writers]]
+[[Category:Russian revolutionaries]]
+[[Category:Russian socialists]]
+[[Category:Russian untitled nobility]]
+[[Category:Socialist economists]]
+[[Category:Social philosophers]]
+[[Category:Theorists on Western civilization]]

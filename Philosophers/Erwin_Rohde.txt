@@ -1,0 +1,37 @@
+{{Short description|German classical philologist (1845–1898)}}
+{{refimprove|date=October 2013}}
+[[Image:Erwin Rohde - Imagines philologorum.jpg|right|thumb|250px|Erwin Rohde]]
+[[File:Erwin rohde.JPG|thumb|200px|Grave in Heidelberg]]
+'''Erwin Rohde''' ({{IPA|de|ˈʀoːdə|lang}}; 9 October 1845 &ndash; 11 January 1898) was one of the great [[Germany|German]] classical scholars of the 19th century.
+
+Rohde was born in [[Hamburg]] and was the son of a doctor. Outside of antiquarian circles, Rohde is known today chiefly for his friendship and correspondence with fellow philologist [[Friedrich Nietzsche]]. The two were students together in [[Bonn]] and [[Leipzig]], where they were studying [[philology]] taught by [[Friedrich Wilhelm Ritschl]]. In 1872, Rohde became a professor at the [[University of Kiel]]. He later was professor in [[Jena]] (1876), [[Tübingen]] (1878) and finally [[Heidelberg]], where he died in 1898 after suffering from a gradual decline in health.
+
+His ''Psyche'' (1890-1894) remains a standard reference work for [[Greek mythology|Greek]] cult practices and beliefs related to the [[soul]].
+
+His work, ''Der Griechische Roman und seine Vorläufer'' (1876), was considered by [[Mikhail Bakhtin]] to be "the best book on the history of the [[Novel#World wide view|ancient novel]]", and it is still regarded as one of the greatest "monuments of 19th century classics scholarship in Germany".<ref>Bakhtin, M. M. (1981) ''[https://books.google.com/books?id=JKZztxqdIpgC The Dialogic Imagination: Four Essays]''. Ed. Michael Holquist. Trans. Caryl Emerson and Michael Holquist. Austin and London: University of Texas Press. p. 4</ref>
+
+== Bibliography ==
+*''Psyche: The Cult of Souls and the Belief in Immortality among the Greeks'', trans. from the 8th edn. by W. B. Hillis (London: Routledge & Kegan Paul, 1925; [https://archive.org/details/in.ernet.dli.2015.218435/page/n5/mode/2up archive.org], reprinted by Routledge, 2000), limited preview [https://books.google.com/books?id=EsVTr_6c7E0C&q=intitle:Psyche+inauthor:Erwin+inauthor:Rohde online]; full text at Project Gutenberg [https://www.gutenberg.org/ebooks/66555 online].
+
+==References==
+<references/>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rohde, Erwin}}
+[[Category:1845 births]]
+[[Category:1898 deaths]]
+[[Category:German classical scholars]]
+[[Category:Writers from Hamburg]]
+[[Category:University of Bonn alumni]]
+[[Category:Leipzig University alumni]]
+[[Category:Academic staff of Heidelberg University]]
+[[Category:Academic staff of the University of Jena]]
+[[Category:Academic staff of the University of Kiel]]
+[[Category:Academic staff of the University of Tübingen]]
+[[Category:Scholars of Greek mythology and religion]]
+[[Category:German scholars of ancient Greek philosophy]]
+
+
+{{Germany-academic-bio-stub}}
+{{AncientGreece-scholar-stub}}

@@ -1,0 +1,68 @@
+{{short description|Chinese philosopher}}
+{{family name hatnote|[[Cheng (surname)|Cheng]]|lang=Chinese}}
+{{Infobox philosopher
+|name=Cheng Yi
+|region=Chinese Philosophy
+|era=[[Neo-Confucianism]]
+|image=Cheng Yi.jpg
+|caption=Imaginary of Cheng Yi by Shangguan Zhou (上官周, b. 1665).
+|birth_date=1033
+|death_date=1107 (aged 74)
+|occupation = Classicist, essayist, philosopher, politician
+|influences=[[Zhou Dunyi]], [[Confucius]], [[Mencius]]
+|influenced=[[Zhu Xi]]
+}}
+{{infobox chinese
+|title=
+|pic=
+|piccap=
+|name1=[[Chinese personal name|Personal Name]]
+|t={{linktext|程|頤}}
+|s={{linktext|程|颐}}
+|p=Chéng Yí
+|w=Ch'eng I
+|altname=[[Chinese courtesy name|Courtesy Name]]
+|c2={{linktext|程|正|叔}}
+|p2=Chéng Zhèngshū
+|w2=Ch'eng Cheng-shu
+|altname3=[[Hao (Chinese name)|Literary Pseudonym]]
+|c3={{linktext|伊|川|先生}}
+|p3=Yīchuān xiānshēng
+|w3=I-ch'uan Hsien-sheng
+}}
+
+'''Cheng Yi'''<!--Chinese in infobox; see [[WP:MOS-ZH]]--> (1033–1107), also known by various other names and [[romanization of Chinese|romanizations]], was a Chinese classicist, essayist, philosopher, and politician of the [[Song Dynasty]].<ref name="tang">Tang, Yuyan, [https://web.archive.org/web/20070929104543/http://203.72.198.245/web/Content.asp?ID=56152&Query=1 "Cheng Yi"]. ''[[Encyclopedia of China]]'' (Philosophy Edition), 1st ed.</ref> He worked with his older brother [[Cheng Hao]]. Like his brother, he was a student of [[Zhou Dunyi]], a friend of [[Shao Yong]], and a nephew of [[Zhang Zai]]. The five of them along with [[Sima Guang]] are called the Six Great Masters by his follower [[Zhu Xi]]. He became a prominent figure in [[neo-Confucianism]], and the philosophy of Cheng Yi, Cheng Hao and Zhu Xi is referred to as the [[Cheng–Zhu school]] or the Rationalistic School.<ref>{{cite book |url=https://books.google.com/books?id=A0qs9W6Km6UC&pg=PA545 |title= A Source Book in Chinese Philosophy |page=545 |isbn=978-1-4008-2003-0 |publisher=Princeton University Press |date= 2008-09-02 }}</ref>
+
+==Life==
+Cheng was born in [[Luoyang]], [[Henan]] in 1033.  Cheng entered the national university in 1056, and received the "presented scholar" degree in 1059. He lived and taught in Luoyang, and declined numerous appointments to high offices. He campaigned against the reformist policies of [[Wang Anshi]], and after the reformers were dismissed from office, he was appointed expositor-in-waiting in 1086 to begin lecturing the emperor on [[Confucianism]].<ref name="iep">{{cite IEP |url-id=chengyi |title=Cheng Yi}}</ref> He was more aggressive and obstinate than his brother, and made several enemies, including [[Su Shi]], the leader of the [[Sichuan]] group. In 1097, his enemies were able to ban his teachings, confiscate his properties, and banish him. He was pardoned three years later, but was blacklisted and again his work was banned in 1103. He was finally pardoned in 1106, one year before his death.<ref name=sellman>James D. Sellman, "Cheng Hao and Cheng Yi," in ''Great Thinkers of the Eastern World'', Ian McGreal, ed., New York: Harper Collins, 1995, p.&nbsp;111-115.</ref>
+
+In 1452 the title ''Wujing Boshi'' ([[w:zh:五經博士|五經博士]]) was bestowed upon the descendants of Cheng Yi and other Confucian sages such as [[Mencius]], [[Zengzi]], [[Zhou Dunyi]], and [[Zhu Xi]].<ref>Wilson, Thomas A.. 1996. "The Ritual Formation of Confucian Orthodoxy and the Descendants of the Sage". The Journal of Asian Studies 55 (3). [Cambridge University Press, Association for Asian Studies]: 559–84. doi:10.2307/2646446. https://www.jstor.org/stable/2646446 p. 571.</ref>
+
+A well known [[chengyu]] 程門立雪 refers to an incident when two men (Yang Shi and [[You Zuo]]) requesting to be taken on as his disciples stood in the snow for hours at his door and became renowned examples of the [[Confucian]] virtues of devotion to learning and respect for one's master.<ref>{{cite book|last1=Yao|first1=Xinzhong|title=O - Z|date=2003|publisher=Taylor & Francis US|isbn=978-0-415-30653-9|page=739|url=https://books.google.com/books?id=oguhmCO7bZEC&pg=PA739|language=en}}</ref>
+
+Cheng Yi is widely believed to be responsible for the rise of the cult of [[widow chastity]].<ref name="hsiang">{{cite book |url=https://books.google.com/books?id=yTvLQbaH81wC&pg=PA133 |title=Confucianism and Women: A Philosophical Interpretation |author=Li-Hsiang Lisa Rosenlee |publisher=State University of New York Press |pages=132–133 |year= 2007 |isbn=978-0-7914-6750-3 }}</ref><ref name="ebrey">{{cite book |url=https://books.google.com/books?id=GDPskRXfl5cC&pg=PA10 |title=Women and the Family in Chinese History|author= Patricia Buckley Ebrey |pages=10&ndash;12|publisher=Routledge |date=19 September 2002 |isbn= 978-0-415-28822-4}}</ref> He argued that it would be improper for a man to marry a widow since she had lost her integrity. On the question of widows who had become impoverished due to the death of their husbands, Cheng stated: "To starve to death is a small matter, but to lose one's chastity is a great matter." (餓死事小，失節事大).<ref name="hsiang"/><ref name="ebrey"/> The practice of widow chastity that became common in the Ming and Qing dynasty would lead to hardship and loneliness for many widows,<ref name=Adler>{{cite web | last = Adler | first = Joseph A. | title = Daughter/Wife/Mother or Sage/Immortal/Bodhisattva? Women in the Teaching of Chinese Religions | work = ASIANetwork Exchange, vol. XIV, no. 2 | date = Winter 2006 | url = http://www2.kenyon.edu/Depts/Religion/Fac/Adler/Writings/Women.htm | access-date = 18 May 2011 }}</ref> as well as a dramatic increase in suicides by widows during the Ming era.<ref>{{cite book |url=https://books.google.com/books?id=YLCgu3XgOjMC&pg=PR12| last=T'ien|first= Ju-k'ang |date=1988|title= Male Anxiety and Female Chastity: a comparative study of Chinese ethical values in Ming-Ch'ing time |publisher= Brill |isbn=978-90-04-08361-5|pages=xii, 39&ndash;69}}</ref><ref>{{cite journal |title=Women in late imperial China: a review of recent english-language scholarship |journal=Women's History Review|volume= 3|issue=3|pages=347–383 |first=Paul S. |last=Ropp|doi=10.1080/09612029400200060 |year = 1994}}</ref>
+
+==References==
+{{Portal|China|Biography|Philosophy}}
+{{Reflist}}
+
+{{Song dynasty topics}}
+{{Chinese philosophy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Cheng, Yi}}
+[[Category:1033 births]]
+[[Category:1107 deaths]]
+[[Category:11th-century antiquarians]]
+[[Category:11th-century Chinese philosophers]]
+[[Category:Chinese Confucianists]]
+[[Category:Educators from Hubei]]
+[[Category:Neo-Confucian scholars]]
+[[Category:Philosophers from Hubei]]
+[[Category:Politicians from Wuhan]]
+[[Category:Recipients of Chinese royal pardons]]
+[[Category:Song dynasty classicists]]
+[[Category:Song dynasty essayists]]
+[[Category:Song dynasty philosophers]]
+[[Category:Song dynasty government officials]]
+[[Category:Writers from Wuhan]]

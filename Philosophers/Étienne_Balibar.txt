@@ -1,0 +1,149 @@
+{{Short description|French philosopher (born 1942)}}
+{{Use dmy dates|date=January 2023}}
+{{Infobox philosopher
+|image  = Etienne Balibar in Berkeley -2014.jpg
+|region = [[Western philosophy]]
+|era    = [[20th-century philosophy|20th]]-/[[21st-century philosophy]]
+|name   = Étienne Balibar
+|birth_date  = {{birth date and age|1942|4|23|df=y}}
+|birth_place = [[Avallon]], [[Burgundy]], France
+|alma_mater  = {{Lang|fr|[[École normale supérieure (Paris)|École normale supérieure]]|italic=no}}
+|school_tradition = [[Continental philosophy]]<br>[[Post-Marxism]]
+|main_interests   = [[Political philosophy]]
+|notable_ideas    = [[Law of equal liberty|Equaliberty]]
+}}
+'''Étienne Balibar''' ({{IPAc-en|b|æ|l|ɪ|ˈ|b|ɑr}}; {{IPA|fr|etjɛn balibaʁ|lang}}; born 23 April 1942) is a French [[philosopher]]. He has taught at the [[Paris Nanterre University|University of Paris X-Nanterre]], at the [[University of California Irvine]] and is currently an Anniversary Chair Professor at the Centre for Research in Modern European Philosophy (CRMEP) at [[Kingston University]] and a visiting professor at the Department of French and Romance Philology at Columbia University.
+
+==Life==
+Balibar was born in [[Avallon]], [[Yonne]], [[Burgundy]], France in 1942, and first rose to prominence as one of Althusser's pupils at the {{Lang|fr|[[École normale supérieure (Paris)|École normale supérieure]]|italic=no}}. He entered the {{Lang|fr|École normale supérieure|italic=no}} in 1960.<ref name=":0">{{Cite web|url=http://pdf.oac.cdlib.org/pdf/uci/cta/c023.pdf|title=Guide to the Etienne Balibar Papers|last=Special Collections and Archives, University of California, Irvine Libraries|date=2012|website=Online Archive of California|access-date=20 February 2018}}</ref>
+
+In 1961, Balibar joined the ''[[French Communist Party|Parti communiste français]]''. He was expelled in 1981 for critiquing the party's policy on immigration in an article.<ref>{{Cite news|url=https://www.viewpointmag.com/2018/02/01/charonne-vitry-1981/|title=From Charonne to Vitry (1981) - Viewpoint Magazine|date=1 February 2018|work=Viewpoint Magazine|access-date=20 February 2018|language=en-US}}</ref>
+
+Balibar participated in [[Louis Althusser]]'s seminar on [[Karl Marx]]'s ''[[Das Kapital]]'' in 1965.<ref>{{Cite web|url=http://oac.cdlib.org/findaid/ark:/13030/c8nz8611/|title=Guide to the Etienne Balibar Papers|last=Online Archive of California|first=California Digital Library|date=2012|website=Online Archive of California|access-date=20 February 2018}}</ref> This seminar resulted in the book ''[[Reading Capital]]'', co-authored by Althusser and his students. Balibar's chapter, "On the Basic Concepts of Historical Materialism," was republished along with those of Althusser in the book's abridged version (trans. 1970),<ref>{{Cite web|url=https://www.marxists.org/reference/archive/althusser/1968/reading-capital/index.htm|title=Reading Capital|last=Althusser, Louis|first=Balibar, Etienne|date=1970|website=Marxists.org|access-date=20 February 2018}}</ref> until a complete translation was published in 2016.<ref>{{Cite book|url=https://www.versobooks.com/books/2042-reading-capital?discount_code=AlthusserBookshelf|title=Verso|website=www.versobooks.com|date=July 2016|publisher=Verso Books|isbn=9781784781415|access-date=20 February 2018}}</ref>
+
+In 1987, he received his doctorate degree in philosophy from the ''[[Radboud University Nijmegen|Katholieke Universiteit Nijmegen]]'' in the Netherlands.<ref name=":0" /> He received his [[habilitation]] from the [[Pantheon-Sorbonne University|Université Paris I]] in 1993. Balibar joined the University of Paris X-Nanterre as a professor in 1994, and the University of California, Irvine in 2000. He became professor emeritus of Paris X in 2002.<ref name=":0" />
+
+His daughter with the physicist [[Françoise Balibar]] is the actress [[Jeanne Balibar]].<ref>{{Cite web|url=https://en.unifrance.org/directories/person/26044/jeanne-balibar|title=Jeanne Balibar|website=en.unifrance.org|language=en|access-date=20 February 2018}}</ref>
+
+== Work ==
+In ''Masses, Classes, Ideas'' (1994), Balibar argues that in ''[[Das Kapital]]'' (or ''Capital''), the theory of [[historical materialism]] comes into conflict with the [[critical theory]] that Marx begins to develop, particularly in his analysis of the category of [[labor (economics)|labor]], which in [[capitalism]] becomes a form of [[property]]. This conflict involves two distinct uses of the term "labor": labor as the revolutionary class subject (i.e., the "[[proletariat]]") and labor as an objective condition for the reproduction of capitalism (the "[[working class]]"). In ''[[The German Ideology]]'', Marx conflates these two meanings, and treats labor as, in Balibar's words, the "veritable site of truth as well as the place from which the world is changed..."<ref name="Balibar1994">{{cite book |last1=Balibar |first1=Étienne |title=Masses, Classes, Ideas: Studies on Politics and Philosophy Before and After Marx |date=1994 |publisher=Routledge |location=New York |isbn=0-415-90602-4}}</ref>{{rp|92}}
+
+In ''Capital'', however, the disparity between the two senses of labor becomes apparent. One manifestation of this is the virtual disappearance in the text of the term "proletariat." As Balibar points out, the term appears only twice in the first edition of ''Capital'', published in 1867: in the dedication to [[Wilhelm Wolff]] and in the two final sections on the "General Law of Capitalist Accumulation". For Balibar, this implies that "the emergence of a revolutionary form of subjectivity (or identity)... is never a specific property of nature, and therefore brings with it no guarantees, but obliges us to search for the conditions in a conjuncture that can precipitate class struggles into mass movements..." Moreover, "[t]here is no proof… that these forms are always and eternally the same (for example, the party-form, or the [[trade union]])."<ref name="Balibar1994" />{{rp|147}}
+
+In "The Nation Form: History and Ideology," Balibar critiques modern conceptions of the [[nation-state]]. He states that he is undertaking a study of the contradiction of the nation-state because "Thinking about racism led us back to nationalism, and nationalism to uncertainty about the historical realities and categorization of the nation".<ref name="Balibar1990">Balibar, Etienne. "The Nation Form: History and Ideology." Translated by Immanuel Wallerstein and Chris Turner. ''Review (Fernand Braudel Center)'' 13, no. 3 (1990): 329–361.</ref>{{rp|329}}
+
+Balibar contends that it is impossible to pinpoint the beginning of a nation or to argue that the modern people who inhabit a nation-state are the descendants of the nation that preceded it. Balibar argues that, because no nation-state has an ethnic base, every nation-state must create fictive ethnicities in order to project stability on the populace: 
+[[File:Etienne Balibar with Judith Butler Berkeley Critical Theory 2014.jpg|thumb|Etienne Balibar with [[Judith Butler]] in Berkeley, 2014]]
+<blockquote>"the idea of nations without a state, or nations 'before' the state, is thus a contradiction in terms, because a state always is implied in the historic framework of a national formation (even if not necessarily within the limits of its territory). But this contradiction is masked by the fact that national states, whose integrity suffers from internal conflicts that threaten its survival (regional conflicts, and especially class conflicts), project beneath their political existence to a preexisting 'ethnic' or 'popular' unity".<ref name="Balibar1990"/>{{rp|331}}</blockquote>
+
+In order to minimize these regional, class, and race conflicts, nation-states fabricate myths of origin that produce the illusion of shared ethnicity among all their inhabitants. In order to create these myths of origins, nation-states scour the historical period during which they were "formed" to find justification for their existence. They also create the illusion of shared ethnicity through linguistic communities: when everyone has access to the same language, they feel as if they share an ethnicity. Balibar argues that "schooling is the principal institution which produces ethnicity as linguistic community."<ref name="Balibar1990" />{{rp|351}} In addition, this ethnicity is created through the "nationalization of the family," meaning that the state comes to perform certain functions that might traditionally be performed by the family, such as the regulation of marriages and administration of social security. In recent work following the "populist" wave, Balibar has called the incorporation of these different elements "absolute capitalism."<ref>Etienne Balibar, "Absolute Capitalism" in ''Mutant Neoliberalism: Market Rule and Political Rupture''. William Callison and Zachary Manfredi, eds. New York: Fordham University Press, 2020.</ref>
+
+== Bibliography ==
+=== Works in French ===
+* 1965: ''Lire le Capital''. With Louis Althusser et al.
+* 1974: ''Cinq Etudes du Matérialisme Historique''.
+* 1976: ''Sur La Dictature du Prolétariat''.
+* 1985: ''Spinoza et la politique''.
+* 1988: ''Race, Nation, Classe''. With [[Immanuel Wallerstein]].
+* 1991: ''Écrits pour Althusser''.
+* 1992: ''Les Frontieres De La Démocratie''
+* 1993: ''La philosophie de Marx''.
+* 1997: ''La crainte des masses: politique et philosophie avant et après Marx''. (French version of ''Masses, Classes, Ideas'', with extra essays)
+* 1998: ''Droit de cité. Culture et politique en démocratie''.
+* 1998: ''John Locke, Identité et différence - L'invention de la conscience'' (Balibar's Monograph on John Locke)
+* 2001: ''Nous, citoyens d'Europe? Les frontières, l'État, le peuple''.
+* 2003: ''L'Europe, l'Amérique, la Guerre. Réflexions sur la médiation européenne''.
+* 2005: ''Europe, Constitution, Frontière''.
+* 2010: ''La proposition de l'égaliberté''.
+* 2010: ''Violence et Civilité: Wellek Library Lectures et autres essais de philosophie politique''
+* 2011: ''Citoyen sujet et autres essais d'anthropologie philosophique''
+* 2012: ''Saeculum : Culture, religion, idéologie''
+*2015: ''Violence, civilité, révolution'' (edited volume ''about'' Balibar's work)
+*2016: ''Europe, Crise et fin ?''
+*2016: ''Des Universels. Essais et conférences''
+*2018: ''Spinoza politique. Le transindividuel'' (French version of Italian original, which appeared in 2002)
+
+=== Selected translations ===
+{{Marxian critique of political economy sidebar}}
+* 1970: ''[[Reading Capital]]'' (London: NLB). With Louis Althusser. Trans. Ben Brewster.
+* 1977: ''On the Dictatorship of the Proletariat'' (London: NLB). Trans. Grahame Lock.
+* 1991: ''Race, Nation, Class: Ambiguous Identities'' (London & New York: Verso). With Immanuel Wallerstein. Trans. Chris Turner.
+* 1994: ''Masses, Classes, Ideas: Studies on Politics and Philosophy Before and After Marx'' (New York & London: Routledge). Trans. James Swenson.
+* 1995: ''The Philosophy of Marx'' (London & New York: Verso). Trans. Chris Turner.
+* 1998: ''Spinoza and Politics'' (London & New York: Verso). Trans. Peter Snowdon.
+* 2002: ''Politics and the Other Scene'' (London & New York: Verso). Trans. Christine Jones, James Swenson & Chris Turner.
+* 2004: ''We, the People of Europe? Reflections on Transnational Citizenship'' (Princeton & Oxford: Princeton University Press). Trans. James Swenson.
+* 2013: ''Identity and Difference: John Locke and the Invention of Consciousness'' (London & New York: Verso). 
+* 2014: ''Equaliberty: Political Essays'' (Durham, NC: Duke University Press). Trans. James Ingram.
+* 2015: ''Violence and Civility: On the Limits of Political Philosophy'' (New York: Columbia University Press). Trans. G.M. Goshgarian.
+* 2015: ''Citizenship'' (Cambridge: Polity). Trans. Thomas Scott-Railton. 
+* 2017: ''Citizen Subject: Foundations for Philosophical Anthropology'' (New York: Fordham University Press). Trans. Steven Miller.
+* 2018: ''Secularism and Cosmopolitanism: Critical Hypotheses on Religion and Politics'' (New York: Columbia University Press). Trans. G. M. Goshgarian.
+* 2020: ''Spinoza, the Transindividual'' (Edinburgh: Edinburgh University Press). Trans. M.G.E. Kelly.
+
+=== Online texts ===
+* [http://krisis.eu/index_en.php#htmlpart=issues.php?issue=2011,%20Issue%201 Occasional Notes on Communism. In: Krisis: Journal for Contemporary Philosophy]
+* [http://www.euroalter.com/2009/theses-for-an-alter-globalising-europe/ Theses for an Alter-Globalising Europe ].
+* [http://www.marx2mao.com/Other/RC68NB.html Reading Capital] (1968).
+* [http://www.marx2mao.com/Other/SC73.pdf Self-Criticism: Answers to Questions from Theoretical Practice] (1973).
+* [http://www.marx2mao.com/Other/ODP77NB.html On the Dictatorship of the Proletariat] (1977).
+* [http://makeworlds.org/node/80 At The Borders Of Europe] (1999).
+* [https://www.crisiscritique.org/storage/app/media/2017-11-07/etienne-balibar.pdf October 1917 After One Century], Crisis and Critique, Volume 4, Issue 2. 
+* “[https://eprints.kingston.ac.uk/id/eprint/45149/1/Balibar-E-45149-AAM-1.pdf Ontological difference, anthropological difference, and equal liberty]”, European Journal of Philosophy, 28(1), pp. 3-14,  <nowiki>https://doi.org/10.1111/ejop.12512</nowiki> . 
+* “[https://core.ac.uk/reader/189159870 Althusser’s dramaturgy and the critique of ideology]”, The Roger B. Henkle Memorial Lecture at Brown University, Providence, October 7, 2013. 
+
+=== Interviews ===
+* “[https://oro.open.ac.uk/67204/4/67204.pdf Etienne Balibar in Conversation: Revisiting European Marxism]”, Theory, Culture & Society, 36(7-8) pp. 231–247.
+* “[https://www.philosophy-world-democracy.org/interviews-1/of-ambivalent-insurrections Of Ambivalent Insurrections: Interview with Etienne Balibar]”, ''Philosophy World Democracy'', 15 January 2021. 
+* “[https://www.versobooks.com/en-gb/blogs/news/3518-democracy-oppression-and-universality-an-interview-with-etienne-balibar Democracy, Oppression, and Universality: an Interview with Étienne Balibar]”, [[Verso Books|Verso]], 7 December 2017. 
+* [https://viewpointmag.com/2015/03/17/a-period-of-intense-debate-about-marxist-philosophy-an-interview-with-etienne-balibar/ “A Period of Intense Debate about Marxist Philosophy”: An Interview with Étienne Balibar], Viewpoint Magazine, March 17, 2015. 
+* “[https://jacobin.com/2023/12/etienne-balibar-socialism-liberty-equality-democracy-theory-marx Étienne Balibar: Socialism and Democracy Are Intrinsically Related Ideas]”, [[Jacobin (magazine)|Jacobin]], 2023. 
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* Stoler, Ann Laura (ed.), Thinking with Balibar: A Lexicon of Conceptual Practice, Fordham University Press, 2020. 
+* Montag, Warren; Elsayed, Hanan (ed.), Balibar and the Citizen Subject, Edinburgh University Press, 2017. 
+* Deleixhe, Martin, Etienne Balibar. L'illimitation démocratique, Michalon, 2014.
+* Gaille, Marie; Lacroix, Justine et Sardinha, Diogo (ed.), "Pourquoi Balibar ?", Raison Publique, 2014.
+* Hewlett, Nick, Badiou, Balibar, Rancière: Re-Thinking Emancipation, Continuum, 2010.
+* Lacroix, Justine, La pensée française à l'épreuve de l'Europe, Grasset, 2008.
+* Raynaud, Philippe, L'Extrême gauche plurielle. Entre démocratie radicale et révolution, Autrement, 2006.
+
+== External links ==
+=== Archival collections ===
+* [http://www.oac.cdlib.org/findaid/ark:/13030/c8nz8611 Guide to the Etienne Balibar Papers MS.C.023.] Special Collections and Archives, The UC Irvine Libraries, Irvine, California.
+
+=== Other ===
+* [http://sun3.lib.uci.edu/%7Escctr/Wellek/balibar/ Selected bibliography (up to 1998).]
+* [http://www.borderlands.net.au/vol3no1_2004/read_balibar.htm Review of ''We, the People of Europe? Reflections on Transnational Citizenship''.]
+*Anna-Verena Nosthoff, "Equaliberty: Notes on the Thought of Etienne Balibar", ''[https://criticallegalthinking.com/2014/09/08/equaliberty-notes-thought-etienne-balibar/ Critical Legal Thinking.]''
+* [http://www.darkmatter101.org/site/2007/08/05/racisms-migration-citizenship-in-europe/  Racisms, Migration & Citizenship in Europe: Etienne Balibar and Sandro Mezzadra in Conversation (Audio-English)] - darkmatter Journal, 5 August 2007.
+* [http://www.canalc2.tv/video.asp?idvideo=7034 intervention d'Etienne Balibar & Moishe Postone] Congrès Marx International V : Altermondialisme/ anticapitalisme. Pour une cosmopolitique alternative. October 2007
+* [http://www.ciepfc.fr/spip.php?article21 Debating with Alain Badiou on Universalism] Opening statement, 2007 Koehn Event in Critical Theory. A dialogue between Alain Badiou and Etienne Balibar on "Universalism", University of California Irvine, 2 February 2007
+* [http://backdoorbroadcasting.net/2009/05/thinking-with-spinoza-politics-philosophy-and-religion/ Etienne Balibar's Lecture ''Spinoza's Three Gods and the Modes of Communication'' at the Conference of the Birkbeck Institute for the Humanities ''Thinking with Spinoza: Politics, Philosophy and Religion'', 7 & 8 May 2009 (podcast)]
+* [http://traces.revues.org/4926 For a phenomenology of cruelty;Interview with E.balibar]
+* http://nplusonemag.com/balibarism Bruce Robbins' "Balibarism!"
+* http://heymancenter.org/events/thinking-with-balibar/ "Thinking with Balibar" Conference at Columbia University, fall 2014
+* [[Wendy Brown (political theorist)|Wendy Brown]], [[David Harvey]], and [[Etienne Balibar]] at London Critical Theory Summer School – Friday Debate 2015  [http://backdoorbroadcasting.net/2015/07/london-critical-theory-summer-school-2015-friday-debate-i/], and Wendy Brown, [[Costas Douzinas]], Stephen Frosh, and [[Slavoj Zizek]] at London Critical Theory Summer School – Friday Debate 2012 [http://backdoorbroadcasting.net/2012/06/critical-theory-summer-school-2012-friday-debate-i/].
+{{Critique of political economy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Balibar, Etienne}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:People from Avallon]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:Academic staff of the University of Paris]]
+[[Category:University of California, Irvine faculty]]
+[[Category:French political philosophers]]
+[[Category:French historians of philosophy]]
+[[Category:French Marxists]]
+[[Category:Marxist theorists]]
+[[Category:20th-century French philosophers]]
+[[Category:French male writers]]
+[[Category:French expatriates in the United Kingdom]]
+[[Category:French expatriates in the United States]]
+[[Category:21st-century French philosophers]]
+[[Category:Spinoza scholars]]
+[[Category:Critics of political economy]]

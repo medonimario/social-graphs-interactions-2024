@@ -1,0 +1,61 @@
+{{Short description|German jurist and philosopher (1655–1728)}}
+{{needs inline references|date=November 2018}}
+[[Image:Christian Thomasius.jpg|thumb|right|Christian Thomasius, portrait by [[Johann Christian Heinrich Sporleder]]]]
+'''Christian Thomasius''' ({{IPAc-en|t|oʊ|ˈ|m|eɪ|ʃ|ə|s}}; 1 January 1655 – 23 September 1728) was a German jurist and philosopher.
+
+== Biography ==
+He was born in [[Leipzig]] and was educated by his father, [[Jakob Thomasius]] (1622–1684), at that time a junior lecturer in [[Leipzig University]] (later dean and rector, as well as head master of [[Thomasschule zu Leipzig]]).  Through his father's lectures, Christian came under the influence of the [[political philosophy]] of [[Hugo Grotius]] and [[Samuel Pufendorf]], and continued the study of law at the [[University of Frankfurt (Oder)]]{{sfn|Chisholm|1911}} in 1675, completing his doctorate in 1679. In 1680, he married Anna Christine Heyland and started a legal practice in Leipzig; the following year he began teaching at the university’s law school as well. In 1684 he became professor of natural law, soon attracting attention by his abilities, and particularly by his attack on traditional prejudices, in [[theology]] and [[jurisprudence]]. In 1685 he published a provocative dissertation, ''De crimine bigamiae'' (The crime of bigamy), in which he argued that [[bigamy]] is permissible under [[natural law]].
+
+In 1687 he made the daring innovation of lecturing in [[German language|German]] instead of [[Latin]] and gave a lecture on the topic "How One Should Emulate the French Way of Life," referring to the French use of their native language not only in everyday life but in scholarship as well; according to scholar Klaus Luig, this event marks the real beginning of the [[age of Enlightenment|Enlightenment]] in Germany.{{Citation needed|date=February 2022}} In the following year he began publishing a monthly periodical (''Scherzhafte und ernsthafte, vernüftige'' [sic] ''und einfältige Gedanken über allerhand lustige und nutzliche Bücher und Fragen'') in which he ridiculed the pedantic weaknesses of the learned, taking the side of the [[Pietists]] in their controversy with the [[Lutheran orthodoxy|orthodox]], and defending mixed marriages of [[Martin Luther|Luther]]ans and [[John Calvin|Calvin]]ists;{{sfn|Chisholm|1911}} he also published a volume on natural law which emphasized natural reason and a paper defending marriage between Lutherans and members of the Reformed church.
+
+In consequence of these and other views, on 10 May 1690 he was denounced from the pulpits, forbidden to lecture or to write, and his arrest was ordered. He escaped by going to Berlin, and the elector [[Friedrich I of Prussia|Frederick III]] offered him a refuge in [[Halle, Saxony-Anhalt|Halle]], with a salary of 500 [[thaler]] and permission to lecture. He helped found the [[University of Halle]] (1694), where he became second and then first professor of law and (in 1710) rector of the university. He was one of the most esteemed university teachers and influential writers of his day,{{sfn|Chisholm|1911}} and in 1709 he was appointed to the privy council.
+
+Though not a profound philosophical thinker, Thomasius prepared the way for great reforms in philosophy, as well as in law, literature, social life and theology. It was his mission to introduce a rational, common-sense point of view, and to bring the divine and human sciences to bear on the everyday world. He thus created an epoch in [[German literature]], philosophy and law, and, along with [[Ludwig Timotheus Spittler|Spittler]], began the modern period of ecclesiastical history. One of the aims of his life was to free politics and jurisprudence from the control of theology. He fought bravely and consistently for freedom of thought and speech on religious matters{{sfn|Chisholm|1911}} and mediated between the academic and the public sphere. In this regard, he shared much in common with his disciple [[Gabriel Wagner]], who subsequently objected to Thomasius' religious metaphysical beliefs.<ref name=israel06>Israel (2006), pp. 173–5.</ref> In law, he tried to prove that the rules of [[Roman law]], which contradicted his own principles of [[natural law]], had never actually been accepted and were therefore invalid; he also tried to legitimize his own principles by showing them to be common law built on Germanic foundations. In this way he contributed to the creation of scholarship of private law separate from that of Roman law.
+
+Thomasius is often spoken of in German works as the author of the "territorial system," or [[Erastianism|Erastian]] theory of ecclesiastical government; but he taught that the state may interfere with legal or public duties only, and not with moral or private ones. He would not have even [[atheism|atheists]] punished, though they should be expelled from the country, and he came forward as an earnest opponent of the prosecution of [[witch]]es and of the use of [[torture]]. In theology he was not a naturalist or a [[deism|deist]], but a believer in the necessity of revealed religion for salvation. He came strongly under the influence of the [[pietists]], particularly of [[Philipp Jakob Spener|Spener]], and there was a mystic vein in his thought; but other elements of his nature were too powerful to allow him to attach himself wholly to that party.{{sfn|Chisholm|1911}}
+
+He died in Halle in 1728.
+
+Thomasius's most popular and influential German publications were his periodical already referred to (1688–1689); ''Einleitung zur Vernunftlehre'' (1691, 5th ed. 1719); ''Vernünflige Gedanken über allerhand auserlesene und juristische Handel'' (1720–1721); ''Historie der Weisheit und Torheit'' (3 vols., 1693); ''Kurze Lehrsätze van dem Laster der Zauberei mit dem Hexenprozess'' (1704); ''Weitere Erläuterungen der neueren Wissenschaft anderer Gedanken kennen zu lernen'' (1711).{{sfn|Chisholm|1911}} He expressed his pedagogical principles in two main Latin works, ''Institutiones iurisprudentiae divinae'' (Institutes of Divine Jurisprudence, 1688), based on a lecture on [[Samuel Pufendorf|Pufendorf]]’s natural law, and ''Fundamenta juris naturae et gentium'' (Foundations of the Law of Nature and Nations, 1705).
+
+==Works in English translation==
+* ''Essays on Church, State, and Politics'', edited, translated, and with and introduction by Ian Hunter, Thomas Ahnert, and Frank Grunert, Indianapolis: Liberty Fund, 2007.
+* ''Institutes of Divine Jurisprudence: With Selections from Foundations of the law of Nature and Nations'', edited, translated, and with an introduction by Thomas Ahnert, Indianapolis: Liberty Fund, 2011.
+
+==See also==
+*[[Gabriel Wagner]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* Thomas Ahnert, ''Religion and the Origins of the German Enlightenment: Faith and the Reform of Learning in the Thought of Christian Thomasius'' (Rochester, NY: University of Rochester Press, 2006) (Rochester Studies in Philosophy).
+* {{cite book|first=Jonathan|last=Israel|year=2006|title=Enlightenment Contested: Philosophy, Modernity, and the Emancipation of Man 1670-1752|publisher=Oxford University Press|isbn=9780199279227|url=https://books.google.com/books?id=7qAeKpIIxCsC}}
+* Werner Schneiders (ed.), ''Christian Thomasius, 1655-1728'', Hamburg: Meiner, 1989 {{ISBN|3-7873-0922-5}}
+* Peter Schröder, ''Christian Thomasius zur Einführung'', Hamburg: Junius, 1999 {{ISBN|3-88506-997-0}}
+* {{EB1911|wstitle=Thomasius, Christian|volume=26|page=868}}
+* Ian Hunter, ''The Secularisation of the Confessional State: The Political Thought of Christian Thomasius'' (Cambridge: Cambridge University Press, 2007)
+
+== External links ==
+* [http://cujasweb.univ-paris1.fr/book/app/resource/0607001161/#page/2/mode/2up ''Fundamenta juris naturae et gentium''] on the [[Cujas Library]] website
+
+{{Age of Enlightenment}}
+{{Authority control}}
+
+{{DEFAULTSORT:Thomasius, Christian}}
+[[Category:1655 births]]
+[[Category:1728 deaths]]
+[[Category:Enlightenment philosophers]]
+[[Category:Age of Enlightenment]]
+[[Category:Jurists from Saxony]]
+[[Category:17th-century German philosophers]]
+[[Category:18th-century German philosophers]]
+[[Category:People from the Electorate of Saxony]]
+[[Category:Leipzig University alumni]]
+[[Category:Academic staff of Leipzig University]]
+[[Category:Writers from Leipzig]]
+[[Category:European University Viadrina alumni]]
+[[Category:Academic staff of European University Viadrina]]
+[[Category:Academic staff of the University of Halle]]
+[[Category:German male writers]]
+[[Category:18th-century jurists from the Holy Roman Empire]]

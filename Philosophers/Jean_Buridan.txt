@@ -1,0 +1,157 @@
+{{short description|French philosopher (c. 1301–1359/6)}}
+{{Infobox philosopher
+|region = [[Western philosophy]]
+|era    = [[Medieval philosophy]]
+|image  = Iohannes Buridanus (Paris ca. 1370, Kraków cod. BJ 1771, fol. 142v).jpg
+|caption = 
+|name    = Jean Buridan
+|birth_date  = {{circa|1301}}
+|birth_place = [[Béthune]], [[Picardy]]
+|death_date  = {{circa|lk=no|1359|1362}}
+|death_place = 
+|alma_mater   = {{Flatlist}}
+* [[Collège du Cardinal Lemoine]]
+* [[University of Paris]]
+{{Endflatlist}}
+|institutions = [[University of Paris]]
+|school_tradition = {{Flatlist}}
+* [[Scholasticism]]
+* [[Nominalism]]
+* [[Aristotelianism]]
+{{Endflatlist}}
+| main_interests = {{Flatlist}}
+* [[Logic]]
+* [[Grammar]]
+* [[Metaphysics]]
+* [[Natural philosophy]]
+* [[Ethics]]
+{{Endflatlist}}
+|influences      = [[Aristotle]], [[Porphyry (philosopher) |Porphyry]],<ref>Zupko 2015, §4</ref> [[John Philoponus]], [[Peter of Spain]],<ref name="Zupko 2014">Zupko 2015</ref> [[William of Ockham]],<ref>Jaegwon Kim, Ernest Sosa, Gary S. Rosenkrantz (eds.), ''A Companion to Metaphysics'', Wiley-Blackwell, 2010, p. 164: "Buridan, Jean."</ref> [[Thomas Bradwardine]]<ref>Clagett 1959, p. 331.</ref><ref>"[http://plato.stanford.edu/entries/insolubles/ Insolubles]," in the Stanford Encyclopedia of Philosophy.</ref>
+|influenced      = [[Nicole Oresme]],<ref name="Clagett 522">Clagett 1960, p. 522.</ref> [[Albert of Saxony (philosopher)|Albert of Saxony]],<ref name="Clagett 522"/> Nicholas of Vaudemont,<ref>Zipko 2015, n. 5</ref> [[Marsilius of Inghen]],<ref name="Clagett 522"/> [[Pierre d'Ailly|Peter of Ailly]]<ref name="Zupko 6">Zupko 2015, §6</ref>[[Nicholas of Cusa]], [[Copernicus]], [[Galileo]],
+|notable_ideas   = {{flatlist}}
+* [[Theory of impetus]]
+* Modernization of [[Term logic|Aristotelian logic]]
+* [[Buridan's bridge]]
+{{Endflatlist}}
+}}
+'''Jean Buridan''' ({{IPA|fr|byʁidɑ̃|lang}}; [[Latin]]: ''Johannes Buridanus''; {{circa|1301}} – {{circa|lk=no|1359/62}}) was an influential 14th{{nbh}}century [[French people|French]] [[philosophy| philosopher]].
+
+Buridan taught in the [[Faculty (division)#Faculty of Arts|faculty of arts]] at the [[University of Paris]] for his entire career and focused in particular on [[logic]] and on the works of [[Aristotle]]. Buridan sowed the seeds of the [[Copernican Revolution]] in Europe.<ref>[[Thomas Kuhn| Kuhn, T.]] ''[https://archive.org/details/copernicanrevolu0008kuhn The Copernican Revolution]'', 1958, pp. 119–123.</ref> He developed the concept of [[Theory of impetus| impetus]], the first step toward the modern concept of [[inertia]] and an important development in the [[History of science in the Middle Ages|history of medieval science]]. His name is most familiar through the [[thought experiment]] known as [[Buridan's ass]], but the thought experiment does not appear in his extant writings.<ref>Dugas, René. Histoire de la méchanique. 1955. Tr.: Maddox, J.R.. A History of Mechanics. Dover: NY. 1988:48. "[[Pierre Duhem|[Pierre] Duhem]], who has studied Buridan's works in detail, including those concerning [[free will]], says that he has found no trace of the parable of the ass, which apart from his status in the history of mechanics, has made Buridan's name classical."</ref>
+
+==Life==
+===Education and career===
+[[Image:Aristotelis De anima.jpg|thumb|right|14th-century manuscript of Buridan's ''Questions on Aristotle's'' {{lang|la|[[De anima]]}}.]]
+
+Buridan was born sometime before 1301, perhaps at or near the town of [[Béthune]] in [[Picardy]], [[France]],<ref name="Zupko 1">Zupko 2015, §1</ref> or perhaps elsewhere in the diocese of Arras.<ref>
+{{cite book|editor1-last=Streijger|editor1-first=M.|editor2-last=Bakker|editor2-first=P.J.J.M.|editor3-last=Thijssen|editor3-first=J.M.M.H|title=John Buridan: Quaestiones Super Libros De Generatione et Corruptione Aristotelis. A Critical Edition with an Introduction|isbn=9789004185043|publisher=Brill|date=2010|page=1|quote=The often repeated tradition that he was born in the town of Béthune is spurious.|url=https://books.google.com/books?id=gN55DwAAQBAJ&q=streijger+buridan+bethune&pg=PA1
+}}</ref> He received his education in Paris, first at the [[Collège du Cardinal Lemoine]] and then at the [[University of Paris]], receiving his [[Master of Arts]] degree and formal license to teach at the latter by the mid-1320s.<ref name="Zupko 1"/>
+
+Unusually, he spent his entire academic life in the faculty of arts, rather than obtaining the doctorate in [[law]], [[medicine]] or [[theology]] that typically prepared the way for a career in [[philosophy]].<ref name="Zupko 1"/> Also unusual for a philosopher of his time, Buridan further maintained his intellectual independence by remaining a [[Secular clergy|secular cleric]], rather than joining a [[religious order]]. A papal letter of 1330 refers to him as simply, "''clericus Atrebatensis diocoesis, magister in artibus'' [a cleric from the Diocese of Arras and Master of Arts]."<ref>Faral 1951, p. 11</ref> As university statutes permitted only those educated in theology to teach or write on the subject, there are no writings from Buridan on either theological matters or commentary of [[Peter Lombard]]'s ''[[Sentences]]''.<ref name="Zupko 1"/>
+
+Speculation on his reasons for avoiding religious matters have remained uncertain.<ref>Zupko 2004, ch. 10</ref><ref>Courtenay 2002</ref><ref>Courtenay 2005</ref> Most scholars think it is unlikely that he went unnoticed, given his philosophical talents. As well, it is unlikely that he could not afford to study theology, given that he received several bursaries and stipends. Indeed, he is listed in a document from 1350 as being among the teachers capable of supporting themselves without the need for financial assistance from the University.<ref name="Zupko 1"/> Zupko{{who|date=November 2024}} has speculated that Buridan "deliberately chose to remain among the 'artists [''artistae'']',"<ref name="Zupko 1"/> possibly envisioning philosophy as a secular enterprise based on what is evident to both the senses and the intellect, rather than the non-evident truths of theology revealed through scripture and doctrine.<ref name="Zupko 1"/>
+
+The last appearance of Buridan in historical documents came in 1359, where he was mentioned as the adjudicator in a territorial dispute between the [[England|English]] and Picard nations.<ref name="Zupko 1"/> It is supposed that he died sometime after then, since one of his benefices was awarded to another person in 1362.<ref>Michael 1986, pp. 79–238 399–404</ref>
+
+The [[bishop]] [[Albert of Saxony (philosopher)|Albert of Saxony]], himself renowned as a [[logician]], was among the most notable of his students.{{citation needed|date=February 2019}}
+
+An ordinance of [[Louis XI of France]] in 1473, directed against the [[nominalism|nominalists]], prohibited the reading of his works.{{citation needed|date=February 2019}}
+
+===Apocryphal stories===
+{{Quote box
+ |quote=<poem>
+Where is the very wise [[Heloise (student of Abelard)|Heloise]],
+For whom was castrated, and then (made) a monk,
+Pierre Esbaillart ([[Abelard]]) in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]?
+For his love he suffered this sentence.
+'''Similarly, where is the Queen ([[Margaret of Burgundy, Queen of France|Marguerite de Bourgogne]])'''
+'''Who ordered that Buridan'''
+'''Were thrown in a sack into the [[Seine]]?'''
+Oh, where are the snows of yesteryear!
+</poem>
+ |author = [[François Villon]]
+ |source = ''[[Ballade des dames du temps jadis]]'', 9–16
+ |width  = 30%
+ |align  = right
+ |quoted =
+}}
+Apocryphal stories abound about his reputed amorous affairs and adventures which are enough to show that he enjoyed a reputation as a glamorous and mysterious figure in Paris life.<ref>Faral 1951, p. 16</ref> None of the stories can be confirmed, and most contradict known historical information.<ref name="Faral 9-33">Faral 1951, p. 9-33</ref>
+
+Some rumors hold that he died when the King of France had him put in a sack and thrown into the River [[Seine]] after his affair with the Queen came to light. [[François Villon]] alludes to this in his famous poem ''[[Ballade des Dames du Temps Jadis]]''. Others suggest that he was expelled from Paris due to his nominalist teachings and moved to [[Vienna]] to found the [[University of Vienna]]. Another story talks of him hitting [[Pope Clement VI]] with a shoe.<ref name="Zupko 1"/><ref name="Faral 9-33"/>
+
+==Impetus theory==
+{{main|Theory of impetus}}
+The concept of ''inertia'' was alien to the physics of [[Aristotle]]. Aristotle, and his [[Peripatetic school|peripatetic]] followers held that a body was maintained in motion only by the action of a continuous external [[force]]. Thus, in the Aristotelian view, a projectile moving through the air would owe its continuing motion to ''eddies'' or ''vibrations'' in the surrounding medium, a phenomenon known as ''[[antiperistasis]]''. In the absence of a proximate force, the body would come to rest almost immediately.
+
+The theory of impetus proposed that motion was maintained by some property of the body, imparted when it was set in motion. Buridan was the first to name this motion-maintaining property ''impetus'' but the theory itself probably did not originate with him. A less sophisticated notion of impressed forced can be found in the commentary of [[John Philoponus]] on Aristoteilan physics.<ref name="Zupko 6" /> In this he was possibly influenced by [[John Philoponus]] who was developing the Stoic notion of ''hormé'' (impulse).<ref name="Zupko 6"/><ref>Zupko 1997</ref> The major difference between Buridan's theory and that of his predecessor is that he rejected the view that the impetus dissipated spontaneously, instead asserting that a body would be arrested by the forces of air resistance and [[gravity]] which might be opposing its impetus. Buridan further held that the impetus of a body increased with the speed with which it was set in motion, and with its quantity of matter. This is closely related to the modern concept of [[momentum]]. Buridan saw impetus as ''causing'' the motion of the object:
+
+:''...after leaving the arm of the thrower, the projectile would be moved by an impetus given to it by the thrower and would continue to be moved as long as the impetus remained stronger than the resistance, and would be of infinite duration were it not diminished and corrupted by a contrary force resisting it or by something inclining it to a contrary motion'' (''Questions on Aristotle's [[Metaphysics (Aristotle)|Metaphysics]]'' XII.9: 73ra).<ref>T. F. Glick, S. J. Livesay, F. Wallis, ''[https://books.google.com/books?id=SaJlbWK_-FcC&dq= Medieval Science, Technology and Medicine:an Encyclopedia]'', 2005, p. 107.</ref>
+
+Buridan also contended that impetus is a variable quality whose force is determined by the speed and quantity of the matter in the subject. In this way, the acceleration of a falling body could be understood in terms of its gradual accumulation of units of impetus.<ref name="Zupko 6"/>
+
+===Legacy===
+
+Because of his developments, historians of science [[Pierre Duhem]]<ref>{{cite book|last1=Duhem|first1=Pierre|title=Études sur Léonard de Vinci|date=1906–13|publisher=Hermann|location=Paris|volume=1–3}}</ref> and [[Anneliese Maier]]<ref>{{cite book|last1=Maier|first1=Anneliese|title=Studien zur Naturphilosophie der Spätscholastik|date=1955|publisher=Storiae Letteratura|location=Rome|chapter=Metaphysische Hintergründe der spätscholastischen Naturphilosophie}}</ref> both saw Buridan as playing an important role in the demise of [[On the Heavens|Aristotelian cosmology]].<ref>{{cite book|last1=Grant|first1=Edward|title=Physical Science in the Middle Ages|date=1971|publisher=Cambridge University Press|isbn=9780521292948|url=https://books.google.com/books?id=bD2himiEabQC|language=en}}</ref> Duhem even called Buridan the forerunner of [[Galileo Galilei|Galileo]].<ref>Duhem 1906–13</ref> Zupko has disagreed, pointing out that Buridan did not use his theory to transform the science of mechanics, but instead remained a committed Aristotelian in thinking that motion and rest are contrary states and that the universe is finite in extent.<ref name="Zupko 6"/>
+
+==Works== <!--linked-->
+{{incomplete list|date=January 2024}}
+* [[George Edward Hughes|Hughes, G. E.]] (1983). ''John Buridan on Self-Reference: Chapter Eight of Buridan's Sophismata.'' An edition and translation with an introduction, and philosophical commentary. Cambridge/London/New York: Cambridge University Press, {{ISBN|0-521-28864-9}}.
+* King, Peter (1986). ''John Buridan's Logic: The Treatise on Supposition; The Treatise on Consequences.'' Translation from the Latin with a Philosophical Introduction, Dordrecht: Reidel.
+* Zupko, John Alexander, ed. and tr. (1990). ''John Buridan's Philosophy of Mind: An Edition and Translation of Book III of His Questions on Aristotle's ''De Anima'' (Third Redaction), with Commentary and Critical and Interpretative Essays.'' Doctoral dissertation, Cornell University.
+* Klima, Gyula, tr. (2002). ''John Buridan: 'Summulae de Dialectica'.'' Yale Library of Medieval Philosophy. New Haven, Conn./London: Yale University Press.
+* John Buridan (2015). ''Treatise on Consequences'', translated, with an Introduction by Stephen Read. New York: Fordham University Press.
+* Klima, G., Sobol, P. G., Hartman, P., & Zupko, J. (2023, May 31). ''John Buridan’s Questions on Aristotle’s de Anima – Iohannis Buridani Quaestiones in Aristotelis de Anima'' (Vol. 9). Springer.
+
+==See also==
+*[[List of Roman Catholic scientist-clerics]]
+*[[Buridan formula]]
+
+==References==
+===Notes===
+{{reflist}}
+
+===Sources===
+* {{cite book|last1=Clagett|first1=Marshall|title=The Science of Mechanics in the Middle Ages|date=1960|publisher=University of Wisconsin Press|location=Madison, Wis.|isbn=978-0299019006|edition=1980.}}
+*{{cite journal|last1=Courtenay|first1=William J.|title=Philosophy's Reward: The Ecclesiastical Income of Jean Buridan|journal=Recherches de Théologie et Philosophie Médiévale|date=2002|volume=68|pages=163–69|doi=10.2143/rtpm.68.1.859}}
+*{{cite journal|last1=Courtenay|first1=William J.|title=The University of Paris at the Time of John Buridan and Nicole Oresme|journal=Vivarium|date=2005|volume=42|issue=1|pages=3–17|doi=10.1163/1568534042066974|s2cid=170742014}}
+*{{cite book |last=Faral|first=Edmond|title=Extrait de l'Histoire littéraire de la France |publisher=Imprimerie Nationale |location=Paris |date=1951 |chapter=Jean Buridan: Maître ès Arts de l'Université de Paris |volume=1}}
+*{{cite book |last=Michael |first=Bernd |year=1986 |title=Johannes Buridan: Studien zu seinem Leben, seinen Werken und zu Rezeption seiner Theorien im Europa des späten Mittelalters |trans-title=Jean Buridan: His life, his works and the reaction to his theories in the Europe of the late Middle Ages |others=2 Vols. Doctoral dissertation |publisher=University of Berlin }}
+*{{cite journal|last1=Zupko|first1=Jack|title=What Is the Science of the Soul? A Case Study in the Evolution of Late Medieval Natural Philosophy|journal=Synthese|date=1998|volume=110|issue=2|pages=297–334|doi=10.1023/A:1004969404080|s2cid=149443888 }}
+* {{cite book|last1=Zupko|first1=Jack|title=John Buridan. Portrait of a Fourteenth-Century Arts Master|date=2004|publisher=University of Notre Dame Press|location=Notre Dame, Indiana|isbn=9780268032562|url=https://books.google.com/books?id=E0mdmAEACAAJ}}
+* {{cite web|last1=Zupko|first1=Jack|title=John Buridan|url=https://plato.stanford.edu/entries/buridan/|website=The Stanford Encyclopedia of Philosophy|publisher=Metaphysics Research Lab, Stanford University|access-date=5 February 2019|date=2015}}
+
+==Further reading==
+
+* Klima, Gyula (2009). ''John Buridan''. New York: Oxford University Press.
+*{{cite journal |last=Landi |first=Marcello |title=Un contributo allo studio della scienza nel Medio Evo. Il trattato Il cielo e il mondo di Giovanni Buridano e un confronto con alcune posizioni di Tommaso d'Aquino |journal=Divus Thomas |trans-title=A contribution to the study of science in the Middle Ages. The sky and the world of Jean Buridan and a comparison with some positions of St. Thomas Aquinas |volume=110 |issue=2 |year=2008 |pages=151–185 }}
+* Thijssen, J. M. M. H., and Jack Zupko (ed.) (2002). ''The Metaphysics and Natural Philosophy of John Buridan'' Leiden: Brill.
+
+==External links==
+{{EB1911 poster|Buridan, Jean}}
+*{{cite SEP |url-id=buridan |title=John Buridan |last=Zupko |first=Jack}}<!-- Zupko, Jack, "John Buridan", The Stanford Encyclopedia of Philosophy  (Fall 2011 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/fall2011/entries/buridan/>.  -->
+*[http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Buridan/JB-Biblio.pdf Bibliography by Fabienne Pironet] (up to 2001)
+*[http://www.historyoflogic.com/biblio/buridan-biblio-one.htm Buridan's Logic and Metaphysics: an annotated bibliography] (updates the bibliography of Fabienne Pironet to 2014)
+*[http://www.historyoflogic.com/buridan-logic-one.htm Buridan's Logical Works. I. An Overview of the Summulae de dialectica] a detailed summary of the nine treatises of the ''Summulae de dialectica''
+*[http://www.historyoflogic.com/buridan-logic-two.htm Buridan's Logical Works. II. The Treatise on Consequences and other writings] a summary of the other logical writings
+*[http://www.ontology.co/biblio/buridan-editions.htm Buridan: Editions, Translations and Studies on the Manuscript Tradition] Complete bibliography of the logical and metaphysical works
+
+{{Medieval Philosophy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Buridan, Jean}}
+[[Category:1295 births]]
+[[Category:1361 deaths]]
+[[Category:14th-century French writers]]
+[[Category:14th-century French Roman Catholic priests]]
+[[Category:14th-century French philosophers]]
+[[Category:People from Béthune]]
+[[Category:Latin commentators on Aristotle]]
+[[Category:Natural philosophers]]
+[[Category:Scholastic philosophers]]
+[[Category:Catholic clergy scientists]]
+[[Category:Catholic philosophers]]
+[[Category:French male writers]]
+[[Category:French logicians]]
+[[Category:Academic staff of the University of Paris]]
+[[Category:Medieval physicists]]
+[[Category:14th-century writers in Latin]]

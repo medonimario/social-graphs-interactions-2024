@@ -1,0 +1,77 @@
+{{Short description|American feminist philosopher and professor (born 1941)}}
+{{Infobox person
+| birth_date  = {{Birth year and age|1941}}
+| birth_place = [[Tulsa, Oklahoma]], U.S.
+| education   = {{Plainlist|
+* [[Stanford University]] ([[Bachelor of Arts|BA]])
+* [[Cornell University]] ([[Master of Arts|MA]], PhD)}}
+}}
+
+'''Marilyn Frye''' (born 1941) is an American philosopher and [[radical feminist]] theorist.  She is known for her theories on [[sexism]], [[racism]], [[oppression]], and sexuality.  Her writings offer discussions of feminist topics, such as: [[white supremacy]], [[male privilege]], and gay and lesbian [[marginalization]]. Although she approaches the issues from the perspective of justice, she is also engaged with the [[metaphysics]], [[epistemology]], and [[moral psychology]] of social categories.
+
+==Education and career==
+Frye received a BA with honors in philosophy from [[Stanford University]] in 1963 and a PhD in philosophy at [[Cornell University]] in 1969. She wrote her dissertation, titled ''Meaning and Illocutionary Force'', under the supervision of [[Max Black]]. Before coming to [[Michigan State University]] in 1974, she taught in the philosophy department at the [[University of Pittsburgh]]. From 2003 until her retirement, Frye was University Distinguished Professor at [[Michigan State University]]; she also served as Associate Dean for Graduate Studies of the College of Arts and Letters. In 2008 she was the [[Phi Beta Kappa Society|Phi Beta Kappa]] Romanell Lecturer.
+
+==Research and publications==
+Frye is the author of ''[[The Politics of Reality]]''<ref>Frye, Marilyn. The Politics of Reality: Essays in Feminist Theory, The Crossing Press, 1983, {{ISBN|0-89594-099-X}}, p175</ref> (1983), a collection of nine essays which has become a "classic" of feminist philosophy.<ref name=Cudd>{{cite journal|last=Cudd|first=Ann|title=Frye, Marilyn (1941-)|journal=Encyclopedia of Philosophy|year=2006}}</ref>
+ 
+In her chapter entitled "Oppression" in the book ''Feminist Frontiers'', Frye discusses the idea of the [[double bind]] in gender. This double bind refers to "situations in which options are reduced to a very few and all of them expose one to penalty, censure or deprivation". Frye applies this principle to gender and the dilemma women often face in her discussion of oppression. For example, it is neither socially acceptable for a woman to be sexually active or for her to be sexually inactive and labelled a "man-hater" or "uptight". This absence of choice permeates so thoroughly into women's day-to-day life that even small things like how they choose to dress or talk are criticized. Frye acknowledges that men face issues as well, but differentiates the issues of men and women through the metaphor of a bird cage. As Frye tells it, each individual bind women face can be thought of as a single bar in a cage: by itself, it isn't enough to contain the bird. But, with enough bars, the bird is trapped inside the cage, left with nowhere to go. This is the complete absence of choice Frye describes: how it is the culmination of issues women face that is so "immobilizing" and why, for Frye, their struggle—and not men's—is considered [[oppression]].<ref>{{Cite book|title=Feminist Frontiers|last=Frye|first=Marilyn|year=2007|edition=7th|pages=7–9|chapter=Oppression}}</ref>
+
+Frye is a [[lesbian]],<ref>''[[Willful Virgin: Essays in Feminism, 1976-1992]]'' (1992)</ref> and much of her work explores social categories—in particular, those based on [[Race (classification of human beings)|race]] and [[gender]].<ref>{{cite web |url=http://www.cal.msu.edu/departments/Frye.php |title=MSU Philosopher Marilyn Frye Wins Romanell-Phi Beta Kappa Professorship |website=Michigan State University |access-date=September 28, 2021 |archive-url=https://web.archive.org/web/20070815162502/http://www.cal.msu.edu/departments/Frye.php |archive-date=August 15, 2007}}</ref><ref name=Cutbank>{{cite web |url=http://kidcutbank.blogspot.com/2012/05/book-review-politics-of-reality-by.html |title=Book Review: Frye's Politics of Reality |website=Kid Cutbank |date=May 16, 2012 |access-date=September 27, 2021}}</ref><ref name=Card>{{cite journal|last=Card|first=Claudia|title=Oppression and Resistance: Frye's Politics of Reality|journal=Hypatia|year=1986|volume=1|issue=1|pages=149–166|doi=10.1111/j.1527-2001.1986.tb00526.x|s2cid=145078457 }}</ref>
+
+==Awards and distinctions==
+*Frye was named Distinguished Woman Philosopher of the Year<ref>[http://cswip.ca/index.php/events/295/ Distinguished Woman Philosopher of the Year]</ref> by the [[Society for Women in Philosophy]] in 2001.<ref>{{cite web |url=http://www.msu.edu/unit/wmstdy/wsnl_spring992.htm |title=MSU Women's Studies Newsletter Spring 2000 |publisher=Michigan State University |access-date=September 27, 2021 |archive-url=https://web.archive.org/web/20070908174220/http://www.msu.edu/unit/wmstdy/wsnl_spring992.htm |archive-date=September 8, 2007}}</ref>
+*Frye was chosen as [[Phi Beta Kappa]]'s Romanell Professor in Philosophy for 2007-2008. The annually-awarded Romanell Professorship "recognizes the recipient's distinguished achievement and substantial contribution to the public understanding of philosophy." Recipients of this award also offer a series of lectures open to the public; Frye's series was entitled "Kinds of People: Ontology and Politics."<ref>{{cite web |url=http://staging.pbk.org/AM/Template.cfm?Section=News3&Template=/CM/ContentDisplay.cfm&ContentID=2271 |title=Phi Beta Kappa Society '07 Romanell Professor |date=February 7, 2007 |website=The Phi Beta Kappa Society |access-date=September 27, 2021 |archive-url=https://web.archive.org/web/20070519004604/http://staging.pbk.org/AM/Template.cfm?Section=News3&Template=%2FCM%2FContentDisplay.cfm&ContentID=2271 |archive-date=May 19, 2007}}</ref>
+
+==Bibliography==
+
+=== Books ===
+* {{cite book | last = Frye | first = Marilyn | title = [[The Politics of Reality|The politics of reality: essays in feminist theory]] | publisher = Crossing Press | location = Trumansburg, New York | year = 1983 | isbn = 9780895940995 }}
+* {{cite book | last = Frye | first = Marilyn | title = Willful virgin: essays in feminism, 1976-1992 | publisher = Crossing Press | location = Freedom, California | year = 1992 | isbn = 9780895945532 | url-access = registration | url = https://archive.org/details/willfulvirginess00frye }}
+* {{cite book | last1 = Frye | first1 = Marilyn | last2 = Hoagland | first2 = Sarah Lucia | author-link2 = Sarah Hoagland | title = Feminist interpretations of Mary Daly | publisher = Pennsylvania State University | series = Re-reading the canon | location = University Park, Pennsylvania | year = 2000 | isbn = 9780271020198 }}
+
+=== Chapters in books ===
+* "Categories and Dichotomies", ''Encyclopedia of Feminist Theories'', ed., Loraine Code, NY: Routledge, (2000)
+* "Essentialism/Ethnocentrism: The Failure of the Ontological Cure", ''Is Academic Feminism Dead? Theory in Practice,'' ed., the Center for Advanced Feminist Studies at the University of Minnesota, NYU Press, (2000)
+* {{citation | last = Frye | first = Marilyn | contribution = Oppression | editor1-last = Cudd | editor1-first = Ann E. | editor2-last = Andreasen | editor2-first = Robin O. | editor-link1 = Ann Cudd | title = Feminist theory: a philosophical anthology | publisher = Blackwell Pub | pages = 84–90 | location = Oxford, UK Malden, Massachusetts | year = 2005 | isbn = 9781405116619 | postscript = .}}
+* {{citation | last = Frye | first = Marilyn | contribution = Categories in distress | editor1-last = Andrew | editor1-first = Barbara S. | editor2-last = Keller | editor2-first = Jean | editor3-last = Schwartzman | editor3-first = Lisa H. | title = Feminist interventions in ethics and politics: feminist ethics and social theory | publisher = Rowman & Littlefield Publishers | pages = 41–58 | location = Lanham, Maryland | year = 2005 | isbn = 9780742542693 | postscript = .}}
+
+=== Journal articles ===
+* "The Necessity of Differences: Constructing a Positive Category of Women," ''SIGNS: Journal of Women in Culture and Society,'' Vol.21, No.4, Summer (1996)
+
+==References==
+<references/>
+
+== External links ==
+{{Wikiquote}}
+* [https://web.archive.org/web/20190917051711/http://www.philosophy.msu.edu/people/faculty/marilynfrye/ Michigan State University faculty profile page]
+
+{{radical feminism|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Frye, Marilyn}}
+[[Category:1941 births]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century American women writers]]
+[[Category:20th-century American LGBTQ people]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:21st-century American philosophers]]
+[[Category:21st-century American women writers]]
+[[Category:21st-century American LGBTQ people]]
+[[Category:American feminist writers]]
+[[Category:American lesbian writers]]
+[[Category:American women non-fiction writers]]
+[[Category:American women philosophers]]
+[[Category:Cornell University alumni]]
+[[Category:Scholars of feminist philosophy]]
+[[Category:Feminist studies scholars]]
+[[Category:Lesbian academics]]
+[[Category:Lesbian feminists]]
+[[Category:LGBTQ people from Michigan]]
+[[Category:Living people]]
+[[Category:Michigan State University faculty]]
+[[Category:American philosophers of language]]
+[[Category:Radical feminists]]
+[[Category:Date of birth missing (living people)]]

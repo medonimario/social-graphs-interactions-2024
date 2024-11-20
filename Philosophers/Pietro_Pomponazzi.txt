@@ -1,0 +1,64 @@
+{{Short description|Italian philosopher (1462 – 1525)}}
+{{Infobox scientist
+| name              = Pietro Pomponazzi
+| image             = Pietro Pomponazzi.jpg
+| birth_date        = 16 September 1462
+| birth_place       = [[Mantua]], [[Margravate of Mantua]]
+| death_date        = 18 May 1525
+| death_place       = [[Bologna]], [[Papal States]]
+| fields            = 
+| workplaces        = [[University of Padua]]
+| alma_mater        = [[University of Padua]]
+| academic_advisors = [[Nicoletto Vernia]]
+| notable_students  = {{nowr|[[Johannes Baptista Montanus]]}}<br>[[Vittore Trincavelli]]
+| known_for         = 
+| influences        = 
+| influenced        = 
+}}
+
+'''Pietro Pomponazzi''' (16 September 1462 &ndash; 18 May 1525) was an Italian [[philosopher]]. He is sometimes known by his [[Latin language|Latin]] name, ''Petrus Pomponatius''.
+
+==Biography  ==
+Pietro Pomponazzi was born in [[Mantua]] and began his education there. He completed his studies at the [[University of Padua]], where he became a [[Physician|medical doctor]] in 1487. In 1488 he was elected extraordinary professor of philosophy at Padua, where he was a colleague of [[Alessandro Achillini]], the Averroist. From about 1495 to 1509 he occupied the chair of natural philosophy until the closing of the schools of Padua, when he took a professorship at Ferrara where he lectured on the Aristotle's ''[[On the Soul|De Anima]]'' (On the Soul) and [[potentiality and actuality|entelechy]]. In 1512 he was invited to [[Bologna]] where he remained until his death and where he produced all his important works.
+
+The predominance of medical science at Padua had cramped his energies, but at Ferrara, and even more at Bologna, the study of [[psychology]] and [[theological]] speculation were more important. In 1516 he produced his great work ''De immortalitate animae'' (''On the Immortality of the Soul''), which gave rise to a storm of controversy between the [[Thomism|orthodox Thomists]] of the [[Catholic Church]], the [[Averroism|Averroists]] headed by [[Agostino Nifo]], and the so-called [[Alexandrists|Alexandrist School]]. The treatise was burned at [[Venice]], and Pomponazzi himself ran serious risk of death at the hands of the Catholics. Two pamphlets followed, the ''Apologia'' and the ''Defensorium,'' wherein he explained his paradoxical position as a Catholic and philosophical [[materialism|materialist]]. His last two treatises, the ''De incantationibus'' and the ''De fato'', were posthumously published in an edition of his works printed at [[Basel]].
+
+Pomponazzi is profoundly interesting as the herald of the [[Renaissance]]. He was born in the period of transition when scholastic formalism was losing its hold over men both in the Church and outside.  So close was this identification that any attack on Aristotle, or even an attempt to reopen the old discussions on the Aristotelian problems, was regarded as a dangerous heresy. Pomponazzi claimed the right to study Aristotle for himself, and devoted himself to the ''De Anima'' with the view of showing that [[Thomas Aquinas]] had entirely misconceived the Aristotelian theory of the active and the passive intellect.
+
+In ''On the Immortality of the Soul'' Pomponazzi argued specifically that Aquinas and Aristotle clash over the question of the immortality of the soul. While Pomponazzi himself does not follow Aristotle in this respect, he argues that Aristotle very clearly argues for the absolute mortality of the soul, with only limited features of [[immortality]]. He was not the first to make this claim, and appears to have been influenced by the Greek commentator on [[Aristotle]], [[Alexander of Aphrodisias]]. He further claims that the [[immortality of the soul]] cannot be determined through reason, and thus must be left to the powers of [[God]]. Since the scriptures reveal that God has made the soul immortal, argued Pomponazzi, we too can accept as true the immortality of the soul and thereby go beyond the limits of reason. (This debate influenced his 1591-1631 successor in the chair [[Cesare Cremonini (philosopher)|Cesare Cremonini]], whose adherence to Aristotle led to the opposite conclusion of the mortality of the soul.)
+
+Pomponazzi declared his adherence to the Catholic faith,<ref>{{CathEncy|wstitle=Pietro Pomponazzi}}</ref> and despite the controversy over his initial work, it was not condemned by the Church. Again it was established that the principle that religion and philosophy, faith and knowledge, may be diametrically opposed and yet coexist for the same thinker. This curious paradox he exemplifies in the ''De incantatione'', where he sums up against the existence of demons and spirits on the basis of the Aristotelian theory of the cosmos, and, as a believing Christian, asserts his faith in their existence. In this work he insists emphatically upon the orderly sequence of nature, cause and effect. They grow to maturity and then decay; so religions have their day and succumb. Even Christianity, he added (with the proviso that he is speaking as a philosopher) was showing indications of decline.
+
+He died in [[Bologna]].
+
+==References==
+{{reflist}}
+
+;Attribution
+* {{EB1911|wstitle = Pomponazzi, Pietro |volume=22 |last1= Mitchell |first1= John Malcolm |author1-link= |page=58|short=1}}
+
+==Further reading==
+
+* Elisa Cuttini, ''Unità e pluralità nella tradizione europea della filosofia pratica di Aristotele. Girolamo Savonarola, Pietro Pomponazzi e Filippo Melantone'', Rubbettino 2005.
+* Stefano Perfetti, [http://plato.stanford.edu/archives/fall2008/entries/pomponazzi/ ‘Pietro Pomponazzi’], in ''The Stanford Encyclopedia of Philosophy (Fall 2008 Edition)'', ed. by Edward N. Zalta.
+* Martin Pine, ''Pietro Pomponazzi, Radical Philosopher of the Renaissance'', Padua 1986
+* [[Marco Sgarbi]], ''Pietro Pomponazzi. Tra tradizione e dissenso'', Firenze, Leo S. Olschki, 2010.
+* Pasquale Vitale, "Potentia dei absoluta e libertà in Pietro Pomponazzi", ''Dialegesthai. Rivista telematica di filosofia'', 12/2010.
+
+==External links==
+* {{cite web |url=http://plato.stanford.edu/entries/pomponazzi/|title=Pietro Pomponazzi|author=Craig Martin|website=Stanford Encyclopedia of Philosophy|access-date=November 8, 2017}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pomponazzi, Pietro}}
+[[Category:1462 births]]
+[[Category:1525 deaths]]
+[[Category:16th-century writers in Latin]]
+[[Category:Writers from Mantua]]
+[[Category:Italian Roman Catholics]]
+[[Category:Catholic philosophers]]
+[[Category:Latin commentators on Aristotle]]
+[[Category:Academic staff of the University of Padua]]
+[[Category:16th-century Italian philosophers]]
+[[Category:16th-century Italian male writers]]
+[[Category:15th-century Italian philosophers]]

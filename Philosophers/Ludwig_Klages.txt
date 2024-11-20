@@ -1,0 +1,270 @@
+{{Short description|German psychologist and philosopher (1872–1956)}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox philosopher
+| name   = Ludwig Klages
+| image     = Klages3.jpg
+| caption   = 
+| birth_date  = {{birth date|1872|12|10|df=y}}
+| birth_place = [[Hannover]], [[Prussia]], [[German Empire]]
+| death_date  = {{death date and age|1956|7|29|1872|12|10|df=y}}
+| death_place = [[Kilchberg, Zurich]], [[Switzerland]]
+| nationality = German
+| alma_mater  = {{plainlist|
+* [[Leipzig University]]
+* [[Technische Hochschule Hannover]]
+* [[University of Munich]]
+}}
+| awards = [[Goethe Medal for Art and Science]] (1932)
+| era    = [[20th-century philosophy]]
+| region = [[Western philosophy]]
+| school_tradition = {{plainlist|
+* [[Continental philosophy]]
+* [[Anti-foundationalism]]
+* [[Anti-militarism]]
+* [[Biocentrism (ethics)|Biocentrism]]
+* ''[[Lebensphilosophie]]''{{sfn|Lebovic|2013|p=9}}
+* [[Perspectivism]]
+}}
+| main_interests = [[Aesthetics]], [[anthropology]], [[classical studies]], [[eroticism]], [[handwriting]], [[intellectual history]], [[metaphysics]], [[philosophy of history]], [[philosophy of language]], [[philosophy of mind]], [[poetry]], [[psychology]]
+| notable_ideas = {{plainlist|
+* {{lang|de|Ausdruckskunde}}
+* ''Geist''–''Seele'' dialectic
+* [[Id (psychology)]]{{sfn|Pryce|2013|loc=§ Works of maturity}}
+* [[Logocentrism]]
+* Reality of images
+}}
+| module = {{infobox|child=yes
+| label1 = {{nowrap|Co-founder of}}
+| data1 = [[Munich Cosmic Circle]]
+| data2 = {{infobox scientist
+| child = yes
+| field = [[Theoretical psychology]], [[characterology]], [[chemistry]]
+| workplaces = {{plainlist|
+* [[University of Munich]] (1893–)
+* {{lang|de|Chemisches Institut|italics=no}} (1893–){{sfn|Bishop|2017|p=3}}
+* {{lang|de|Psychodiagnostisches Seminar|italics=no}} (1905–1914)<ref>{{harvnb|Bishop|2017|p=6}}; {{harvnb|Stauth|Turner|1992|p=48}}.</ref>
+}}
+| thesis_title = Attempt at a Synthesis of Menthone{{sfn|Bishop|2017|p=3}}
+| thesis_year = 1901
+| doctoral_advisor = [[Alfred Einhorn]]{{sfn|Bishop|2017|p=3}}
+| academic_advisors = [[Theodore Lipps]]{{sfn|Lebovic|2013|p=24}}
+}}
+| rowclass3 = note
+| data3 = {{collapsible list|title=Influences|{{center|{{flatlist|
+* [[Johann Jakob Bachofen|Bachofen]]
+* [[Julius Bahnsen|Bahnsen]]
+* [[Hans Busse|Busse]]
+* [[Carl Gustav Carus|Carus]]
+* [[Stefan George|George]]
+* [[Johann Wolfgang von Goethe|Goethe]]
+* [[Henrik Ibsen|Ibsen]]
+* [[Friedrich Huch|Huch]]
+* [[Friedrich Nietzsche|Nietzsche]]{{sfn|Bishop|2017|p=24}}
+* [[Arthur Schopenhauer|Schopenhauer]]{{sfn|Bishop|2017|p=78}}
+* [[Alfred Schuler|Schuler]]
+}}}}}}
+| rowclass4 = note
+| data4 = {{collapsible list|title=Influenced|{{center|{{flatlist|
+* [[Theodore Adorno|Adorno]]{{sfn|Josephson-Storm|2017|pp=214–215}}
+* [[Giorgio Agamben|Agamben]]{{sfn|Josephson-Storm|2017|pp=214–215}}
+* [[Georges Bataille|Bataille]]{{sfn|Josephson-Storm|2017|pp=214–215}}
+* [[Walter Benjamin|Benjamin]]
+* [[Ernst Cassirer|Cassirer]]
+* [[Emil Cioran|Cioran]]
+* [[Julio Cortázar|Cortázar]]
+* [[Jacques Derrida|Derrida]]<ref>{{harvnb|Lebovic|2013|p=87}}; {{harvnb|Wolin|2004|p=154}}.</ref>
+* {{ill|Gottfried Ewald|lt=Ewald|de}}
+* [[Michel Foucault|Foucault]]<ref>{{harvnb|Josephson-Storm|2017|pp=214–215}}; {{harvnb|Lebovic|2013|p=75}}.</ref>
+* [[Félix Guattari|Guattari]]{{sfn|Josephson-Storm|2017|pp=214–215}}
+* [[Jürgen Habermas|Habermas]]
+* [[Martin Heidegger|Heidegger]]{{sfn|Josephson-Storm|2017|pp=214–215}}
+* [[Herman Hesse|Hesse]]
+* [[Hermann Hoffmann|Hoffmann]]
+* [[August Homburger|Homburger]]
+* [[Max Horkheimer|Horkheimer]]{{sfn|Josephson-Storm|2017|pp=214–215}}
+* [[Eugen Kahn|Kahn]]
+* [[Arthur Kronfeld|Kronfeld]]
+* [[Alfred Kubin|Kubin]]
+* [[Jacques Lacan|Lacan]]{{sfn|Josephson-Storm|2017|pp=214–215}}
+* {{ill|Johannes Lange|lt=Lange|de|Johannes Lange (Mediziner)}}
+* [[Karl Löwith|Löwith]]{{sfn|Josephson-Storm|2017|pp=214–215}}
+* [[George Lukács|Lukács]]
+* [[Paul de Man|de Man]]
+* [[Thomas Mann|Mann]]
+* [[Kurt Schneider|Schneider]]
+* [[Alfred Schuler|Schuler]]
+* [[Johannes Heinrich Schultz|Schultz]]
+* [[Else Voigtländer|Voigtländer]]
+}}}}}}
+}}
+| signature = 
+}}
+'''Friedrich Konrad Eduard Wilhelm Ludwig Klages''' (10 December 1872 – 29 July 1956) was a German [[philosopher]], [[psychologist]], [[graphology#History|graphologist]], poet, writer, and lecturer, who was a two-time nominee for the [[Nobel Prize in Literature]].<ref>{{harvnb|White|1967}}; {{harvnb|''Britannica''|n.d.}}: "Ludwig Klages, (born Dec. 10, 1872, Hannover, Ger.—died July 29, 1956, Kilchberg, near Zürich, Switz.), German psychologist and philosopher, distinguished in the field of characterology."; {{cite web|url=https://www.nobelprize.org/nomination/archive/show_people.php?id=4878 |title=Nomination Database: Ludwig Klages|website=NobelPrize.org|publisher=Nobel Media AB|access-date=2017-04-19}}</ref> In the [[Germanosphere]], he is considered one of the most important thinkers of the 20th century.{{sfn|''L'Agora''|2014}} He began his career as a [[research chemist]] according to his family's wishes, though soon returned to his passions for poetry, philosophy and [[classical studies]]. He held a post at the [[University of Munich]], where in 1905 he founded the {{lang|de|Psychodiagnostisches Seminar|italics=no}}; the latter was forced to close in 1914 with the outbreak of [[World War I]].<ref>{{harvnb|Bishop|2017|pp=3, 7, 16}}; {{harvnb|Lebovic|2013|p=24}}; {{harvnb|Stauth|Turner|1992|p=48}}; {{harvnb|''Britannica''|n.d.}}: "Educated in chemistry, physics, and philosophy at the University of Munich, where he also taught".</ref> In 1915, Klages moved to neutral [[Switzerland]], where over the following decades much of his mature philosophical works were written. Klages died in 1956.{{sfn|Josephson-Storm|2017|p=213}}
+
+Klages was a central figure of [[characterology|characterological psychology]] and the {{lang|de|[[Lebensphilosophie]]}} school of thought. Prominent elements of his philosophy include: the opposition between life-affirming {{wikt-lang|de|Seele}} and life-denying {{lang|de|[[Geist]]}}; reality as the on-going creation and [[interpretation (philosophy)|interpretation]] of sensory images, rather than [[feelings]]; a [[biocentrism (ethics)|biocentric ethics]] in response to modern [[environmental issues|ecological issues]] and [[militarism]];{{sfn|Pryce|2013|loc=§ Works of maturity}} an affirmation of [[eroticism]] in critique of both [[Christian patriarchy]] and the notion of the "[[sexuality|sexual]]";{{sfn|Josephson-Storm|2017}} a theory of psychology focused on [[emotional expression|expression]], including [[handwriting analysis]];{{sfn|Lebovic|2013|p=119}} and a science of [[character structure|character]] aimed at reconciling the [[human ego]] to the divide it effectuates between living beings.<ref>{{harvnb|White|1967}}: "His most important work was directed toward the formulation of a science of character that would reestablish the undifferentiated union of the life forms that had been ruptured by the emergence of ego in the human species."</ref> Central to Klages' thought is a linguistic opposition to [[logocentrism]], a term introduced by Klages to diagnose a fixation on language or words to the detriment of the things to which they refer.<ref>{{harvnb|Beyler|2015|ps=: "Alongside characterology and graphology, Klages's most prominent philosophical theme was the rejection of technical rationality and intellectualized concepts. In other words, opposition to “logocentrism,” a term he coined."}}; {{harvnb|''Collins''|2014}}.</ref> His formulation of this concept came to be of significant importance to [[semiotic studies]] of Western science and philosophy, namely within [[deconstruction|Derridean deconstruction]].<ref>{{harvnb|Josephson-Storm|2017|p=221}}; {{harvnb|Lebovic|2013|p=87}}.</ref> Klages is similarly seen as a forebear to [[critical theory]],<ref>{{harvnb|Josephson-Storm|2017|pp=20, 209}}; {{harvnb|Stauth|Turner|1992}}.</ref> [[deep ecology]],{{sfn|Pryce|2013|loc=§ Works of maturity}} and [[existential phenomenology]].
+
+Klages' place in modern psychology has been likened to those of his contemporaries [[Sigmund Freud]] and [[Carl Jung]].<ref>{{harvnb|Bishop|2017}}; {{harvnb|''L'Agora''|2014}}.</ref> His philosophy was roundly attacked by [[Nazi leaders]] during the height of his career, though his proximity has since fallen to dispute.<ref>{{harvnb|Bishop|2017|p=32|ps=: "Difficult, because one of the most commonly heard charges made against Klages is that he sympathized with the National Socialists. As we shall see, however, nothing could be further from the truth."}}; {{harvnb|Pryce|2013|loc=§ National Socialist Germany, World War II, and their aftermath}}; {{harvnb|Schlicht|2020}}.</ref> Though little of his literary output has historically been available in English, Klages' thought has exhibited sweeping influence on German developments in psychology, psychiatry, literature, and various other disciplines.{{sfn|Bishop|2017|pp=i–xxiii, 91}}
+
+==Biography==
+===Early life===
+[[File:Zedler & Vogel PC 02443 Hannover, Georgsplatz mit Lyceum. Bildseite mit Wegweiser an der Georgstraße zur Kunst- und Gewerbehalle.jpg|thumb|left|The {{lang|de|Lyceum am Georgsplatz|italics=no}} ({{circa|1900}})]]
+
+Klages was born on 10 December 1872, in [[Hannover, Germany]], the son of Friedrich Ferdinand Louis Klages, a businessman and former military officer, and wife Marie Helene {{nee}} Kolster.{{sfn|Bishop|2017|p=1}} In 1878, his sister Helene Klages was born and the two shared a strong bond throughout their lives. In 1882, when Klages was nine years old, his mother died. The death is thought to have been the result of pneumonia. Klages had begun attending school at the {{lang|de|Lyceum am Georgsplatz|italics=no}} (later called the {{ill|Kaiser-Wilhelm-und-Ratsgymnasium|de|Kaiser-Wilhelm- und Ratsgymnasium Hannover}}) in Hannover, when his aunt, Ida Kolster, soon came to live with them to help raise the children, in keeping with the dying mother's request.{{sfn|Bishop|2017|pp=1–2}} Klages' early education was marked by a traditional emphasis on the classics and humanities. He quickly developed a strong interest in both prose and poetry writing, as well as in Greek and Germanic antiquity.{{sfn|Bishop|2017|p=2}} His relationship with his father was strained by the latter's strictness and will to discipline him. Nevertheless, attempts to forbid Klages from writing poetry were unsuccessful by both his teachers and parents.<ref>{{harvnb|Bishop|2017|p=3}}; {{harvnb|Lebovic|2013|p=23}}.</ref>
+
+Klages developed an intense childhood friendship with classmate [[Theodor Lessing]], with whom he shared many passionate interests.<ref>{{harvnb|Bishop|2017|pp=2–3}}; {{harvnb|Pryce|2013|loc=§ The early years}}.</ref> Klages fought to maintain their friendship in spite of his father's [[antisemitism]]. According to Lessing, "Ludwig's father did not view his son's fraternization with '[[Juden]]' as acceptable."{{sfn|Lebovic|2013|p=24}} In 1891, Klages completed his {{lang|de|[[Abitur]]}}-level schooling and continued to [[Leipzig University]], where he began his studies in physics and chemistry.{{sfn|Pryce|2013|loc=§ The early years}} His father had instructed him to pursue a career in [[industrial chemistry]]. He took two semesters at Leipzig, during 1891–1892, then one semester at the {{lang|de|[[Technische Hochschule Hannover]]|italics=no}} (now the University of Hannover), during 1892–1893.<ref>{{harvnb|Bishop|2017|p=3}}; {{harvnb|Lebovic|2013|p=24}}.</ref>
+
+===Munich career===
+Klages moved to Munich in 1893, continuing his undergraduate degree at [[Munich University]].<ref>{{harvnb|Bishop|2017|p=3}}; {{harvnb|Pryce|2013|loc=§ The early years}}.</ref> The same year, he joined the {{lang|de|Chemisches Institut|italics=no}}, a laboratory founded at the university by [[Adolf von Baeyer]] in 1875.{{sfn|Bishop|2017|p=3}} Alongside his studies, he engaged in the cultural scene in [[Schwabing]], the Bohemian district of Munich.{{sfn|Pryce|2013|loc=§ The early years}} In 1894, Klages met poet and sculptor Hans Busse, who had recently founded the {{lang|de|Institut für wissenschaftliche Graphologie|italics=no}} (Institute for Scientific Graphology). Handwriting analysis, or [[graphology]], was at that time a more reputable discipline than now; Busse was sought on occasion to give expert testimony in court cases, and his passion for the subject drew Klages to him.{{sfn|Bishop|2017|p=5}} Others figures who entered Klages life at this time include psychiatrist Georg Meyer, poet [[Stefan George]], classicist [[Alfred Schuler]], and novelist [[Fanny zu Reventlow|Franziska zu Reventlow]].<ref>{{harvnb|Bishop|2017|pp=5, 13}}; {{harvnb|Pryce|2013|loc=§ The early years}}.</ref>
+
+[[File:VerweyGeorge2 cropped.jpg|thumb|Members of the [[Munich Cosmic Circle]], from left to right: Karl Wolfskehl, Alfred Schuler, Ludwig Klages, Stefan George, Albert Verwey (1902, photo by Karl Bauer)]]
+After graduating, Klages continued his work as a [[research chemist]] and began preparing his doctoral thesis under [[Alfred Einhorn]].{{sfn|Bishop|2017|p=3}} Klages' writings in both prose and poetry began appearing in {{lang|de|Blätter für die Kunst}}, a journal publication owned by Stefan George, who himself had eagerly recognized Klages' talent.{{sfn|Pryce|2013|loc=§ The early years}} In 1896, Klages, Meyer, and Busse founded a new graphological institution, the {{lang|de|Deutsche Graphologische Gesellschaft|italics=no}} (German Graphological Society).{{sfn|Bishop|2017|p=5}} Klages' childhood friendship with Theodor Lessing came to a bitter end in 1899. Both would later write about the depth of their relationship and influence on each other—though many aspects, such as the effect [[Race (human categorization)|race]] had on their friendship, remain unclear.{{sfn|Kotowski|2000|p=7}}
+
+In 1900, Klages received his doctorate in chemistry from the [[University of Munich]]; since chemistry had seven years earlier moved from the medical faculty, Klages received his qualification as a philosophy doctorate ([[PhD]]) rather than a [[medical doctorate]] (MD).<ref>{{harvnb|Bishop|2017|p=3}}; {{harvnb|Lebovic|2013|p=25}}; {{harvnb|White|1967}}.</ref> Klage published his thesis ''Attempt at a Synthesis of Menthone'' in 1901.{{sfn|Bishop|2017|p=3}}<!-- Removed pending clean-up:
+
+He wrote a book praising George's poetry in 1902. As a member of this group his philosophy contrasted the "degenerate" modern world with an ancient, and [[Mysticism|mystical]], Germanic past, with a heroic role for the artist in forging a new future.<ref>{{harvnb|Noll|1997|pp=166–172}}; {{harvnb|Lindenfeld|Marchand|2004}}.</ref> George distanced himself from Klages' mystical philosophy (which was shared by Schuler), but continued for a time to publish Klages' poems in his journal ''Blätter für die Kunst''.{{sfn|Furness|1978}} Wolfskehl acquainted Klages with the work of [[Johann Jakob Bachofen]] (1815–1887), a Swiss anthropologist and sociologist, and his research into matriarchal clans.{{sfn|Eller|2000}}-->
+
+===Switzerland career===
+In 1914 at the outbreak of war Klages moved to [[Switzerland]] and supported himself with his writing and income from lectures. He returned to Germany in the 1920s and in 1932 was awarded the Goethe medal for Art and Science. However, by 1936 he was under attack from [[Nazi]] authorities for lack of support and on his 70th birthday in 1942 was denounced by many newspapers in Germany. After the war he was honoured by the new government, particularly on his 80th birthday in 1952.
+
+==Thought==
+{{Cleanup section|reason=it may be inaccurate, incomplete or in need of reorganization to comply with Wikipedia's [[Wikipedia:Manual of Style/Layout|layout guidelines]].|date=September 2020}}
+
+Klages' thought is often seen as the link between [[Friedrich Nietzsche]] and much of contemporary [[continental philosophy]],{{sfn|Josephson-Storm|2017}} with even Klages once regarding his as "the most plundered" body of work of the present age.{{sfn|Bishop|2017|p=xvii}} [[Jürgen Habermas]], who regarded Klages as well ahead of his time, describes his philosophy as "anti-spiritual" ({{langx|de|geistfeindlichen}}).{{sfn|''Der Spiegel''|1966}} In this regard, Klages is also seen as a pioneering figure of critique against the [[Geist#Hegelianism|Hegelian notion of spirit]] as adverse to the [[affirmation of life]].{{sfn|Josephson-Storm|2017}}
+
+Much of Klages' work makes noted use of highly precise philosophical [[German language]] as well as occasional esoteric terminology.<ref>{{harvnb|Bishop|2017|p=51}}; {{harvnb|Josephson-Storm|2017}}.</ref>
+
+He created a complete theory of graphology and will be long associated with the concepts of form level, rhythm and bi-polar interpretation. Together with [[Friedrich Nietzsche]] and [[Henri Bergson]] he anticipated [[existential phenomenology]]. He also coined the term [[logocentrism]] in the 1920s.{{sfn|Josephson-Storm|2017|pp=214, 221–222}}
+
+As a philosopher, Klages took the Nietzschean premises of ''[[Lebensphilosophie]]'' "to their most extreme conclusions." He drew a distinction between life-affirming ''Seele'' (soul) and life-destroying ''Geist'' (spirit or intellect). ''Geist'' represented the forces of "modern, industrial, and intellectual rationalization", while ''Seele'' represented the possibility of overcoming "alienated intellectuality in favor of a new-found earthly rootedness."{{sfn|Aschheim|1992|pp=80–81}} After his death, the German philosopher [[Jürgen Habermas]] urged that Klages' developments in the fields of [[anthropology]] and [[philosophy of language]] should not be left veiled behind his enigmatic metaphysics and apocalyptic [[philosophy of history]]. Habermas characterized Klages' thought in this regard as ahead of its time.{{sfn|''Der Spiegel''|1966}}
+
+Klages influence was widespread and amongst his great admirers were contemporaries like Jewish thinker [[Walter Benjamin]], philosopher [[Ernst Cassirer]], philologist [[Walter F. Otto]] and novelist [[Hermann Hesse]].{{sfn|Bishop|2017|p=93}} The novelist [[Robert Musil]] satirised Klages as the character Meingast in ''[[The Man Without Qualities]]''. Although the portrayal is a parody, influences from Klages' theories can be found throughout the novel's treatment of image and eros.{{sfn|Preusser|2011|p=224}}
+
+==Personal life==
+===Relationships and sexuality===
+In uniting his philosophy and personal preferences, Klages generally opposed [[sexuality]] as a formal concept.{{sfn|Lebovic|2013|p=94}} Even during the heyday of sexual and bohemian rebellion, [[Jeffrey Herf|Herf]] writes, "Klages struck most observers as strikingly clean and honourable in erotic matters."{{sfn|Lebovic|2013|p=94}}
+
+When Klages moved into a new Schwabing flat in 1895, he entered into an intense sexual relationship with his landlady's daughter, with the mother's approval; the daughter, whom Klages called 'Putti', was 12 years old,<ref>{{harvnb|Bishop|2017|pp=3–4}}; {{harvnb|Lebovic|2013|p=60}}.</ref> and their relationship continued for almost two decades.{{sfn|Lebovic|2013|p=60}} During his years in Schwabing, Klages also became romantically involved with novelist [[Fanny zu Reventlow|Franziska zu Reventlow]], which was further alluded to in her 1913 [[roman à clef]] ''Herrn Dames Aufzeichnungen''.<ref>{{harvnb|Bishop|2017|p=4}}; {{harvnb|Pryce|2013|loc=§ The early years}}.</ref> Both [[Stefan George]] and [[Alfred Schuler]], with whom Klages closely associated, were openly [[homosexual]] men.{{sfn|Lebovic|2013|pp=45, 88}} Whilst some of Klages' outward statements on homosexuality may be seen as harsh, he maintained an intimate personal and academic admiration for Schuler all throughout his life.<ref>{{harvnb|Lebovic|2013}}; {{harvnb|Pryce|2013|loc=§ The early years}}.</ref>
+
+===Religion and political views===
+Klages, like [[Friedrich Nietzsche]], was critical of [[Christianity]] as well as what they both saw as its roots in [[Judaism]].{{sfn|Bishop|2017|pp=24, 35}} Some of his earlier statements on Judaism in this regard may be seen as only veiled attacks on [[Christianity]], drawing further similarities to Nietzsche and [[Voltaire]].{{sfn|Josephson-Storm|2017}} "On one level, it is possible to see in Klages a call for a return to [[polytheism]] or [[pantheism]], inasmuch [as] there are significant affinities between his outlook and the [[cosmogony]] of the [[ancient Greek philosophy|ancient Greeks]], who saw each individual part of the world in pantheist and [[pagan]] terms", writes contemporary scholar [[Paul C. Bishop]]; he concludes however, that Klages' religious views in this regard "must remain an open question".{{sfn|Bishop|2017|p=102}} Other sources, such as by Josephson-Storm, have more overtly regarded Klages as a [[neo-pagan]].{{sfn|Josephson-Storm|2017|p=20}}
+
+Klages has largely been identified as [[apolitical]], with resemblances to [[deep ecology]] in his bioethical stance, [[feminism]] in his rejection of [[Christian patriarchy]], and [[pacifism]] in his staunch anti-war position on [[History of Germany during World War I|German involvement in World Wars I]] and II.<ref>{{harvnb|Josephson-Storm|2017}}; {{harvnb|Pryce|2013|loc=§ Works of maturity}}.</ref> Despite his opposition to [[fascist]] militarism,{{sfn|Josephson-Storm|2017}} among the most common charges against Klages is the misconception that he sympathised with [[Nazism]].{{sfn|Bishop|2017|p=32|ps=: "Difficult, because one of the most commonly heard charges made against Klages is that he sympathized with the National Socialists. As we shall see, however, nothing could be further from the truth."}} Attempts have been made to dismiss Klages on these grounds for his inclusion of [[antisemitic]] remarks, while under the rule of the [[Third Reich]], in the foreword to a 1940 publication of the late [[Alfred Schuler]]'s ''Nachlass''.{{sfn|Bishop|2017|p=35}} Klages is also sometimes placed among thinkers of the [[Conservative Revolution]].{{sfn|Lebovic|2013}} Klages was however, as Bishop states, "not a fundamentally anti-semitic thinker, not a right-wing philosopher, and not a Nazi."{{sfn|Bishop|2017|p=xix}} Earlier publishings by scholars Lebovic, Stauth, and Turner regard Klages as antisemitic.<ref>{{harvnb|Lebovic|2013}}; {{harvnb|Stauth|Turner|1992}}.</ref> Likewise, historian Josephson-Storm states "As an American Jew who lost extended family in [[the Shoah]], I personally find this the most disgusting and odious part of Klages's oeuvre."{{sfn|Josephson-Storm|2017|p=225}} Bishop further states that such views on Klages can be traced back to polemical interpretations forwarded by Jewish thinkers [[Ernst Bloch]] and [[Georg Lukács]], and later embraced by the [[European New Right]].{{sfn|Bishop|2017|pp=xviii–xix}} Addressing the issue of antisemitism, Klages wrote:
+
+{{blockquote|I have {{em|never endorsed the claim}} that the Nazi big-wigs belonged to a superior race. However, I must also add that I have consistently refused to accept the claim of another such race as the [[chosen people]]. The arrogance is identical in both cases, but with this important distinction: after waging war against mankind for more than three thousand years, Judaism has finally achieved total victory over all nations of the earth.{{sfn|Schroder|1966|loc=§ 1350}}}}
+
+==Works==
+Klages wrote 14 books and 60 articles between 1910 and 1948, and co-edited the journal ''Berichte'' (1897–1898) and its successor ''Graphologische Monatshefte'' until 1908.
+
+===Translated works in English===
+* {{cite book|last=Klages|first=Ludwig|author-mask=1|year=1921|title=On the Nature of Consciousness|publisher=Independently Published |trans-title=Vom Wesen des Bewusstseins|publication-date=2022|edition=translated from the 1st|isbn=979-8500264039|ref=none}}
+* {{cite book|last=Klages|first=Ludwig|author-mask=1|year=1922|title=Of Cosmogonic Eros|trans-title=Vom kosmogonischen Eros|translator-last=Kuhn|translator-first=Mav|editor1-last=Beth|editor1-first=David|editor2-last=Grote|editor2-first=Jessica|display-editors=0|publication-date=2019|publisher=Theion Publishing|isbn=978-3-9820-6540-3|ref=none}}
+* {{cite book|last=Klages|first=Ludwig|author-mask=1|year=1926|title=The Science of Character|trans-title=Grundlagen der Charakterkunde|translator-last=Johnston|translator-first=Walter H.|publication-date=2018|edition=translated from the 5th & 6th|location=London|publisher=Unwin Brothers|ref=none}}
+* {{cite book|last=Klages|first=Ludwig|author-mask=1|year=n.d.|title=The Biocentric Worldview: Selected Essays and Aphorisms|translator-last=Pryce|translator-first=Joseph D.|publication-date=2013|publisher=[[Arktos Media]]|isbn=978-1-9071-6661-7|ref=none}}
+* {{cite book|last=Klages|first=Ludwig|author-mask=1|year=n.d.|title=Cosmogonic Reflections: Selected Aphorisms|translator-last=Pryce|translator-first=Joseph D.|publication-date=2015|publisher=[[Arktos Media]]|isbn=978-1-9105-2441-1|ref=none}}
+
+===Selected works in German===
+* ''Vom Wesen des Bewusstseins'' (1921)
+* ''Vom kosmogonischen Eros'' (1922)
+* ''Die Grundlagen der Charakterkunde'' (1926)
+* ''Der Geist als Widersacher der Seele'' (1929–32)
+
+==References==
+{{reflist}}
+
+===Sources===
+{{refbegin}}
+* {{cite book|last=Aschheim|first=Steven E.|year=1992|title=The Nietzsche Legacy in Germany, 1890–1990|publisher=University of California Press|isbn=0520085558|url-access=registration|url=https://archive.org/details/nietzschelegacyi0000asch }}
+* {{cite journal|last=Beyler|first=Richard H.|year=2015|title=Review: ''The Philosophy of Life and Death: Ludwig Klages and the Rise of a Nazi Biopolitics'' by Nitzan Lebovic|journal=The American Historical Review|volume=120|issue=3|pages=1135–1136|doi=10.1093/ahr/120.3.1135|doi-access=free}}
+* {{cite book|last=Bishop|first=Paul|year=2017|title=Ludwig Klages and the Philosophy of Life: A Vitalist Toolkit|publisher=Routledge|isbn=9781138697157}}
+* {{cite book|last=Eller|first=Cynthia|year=2000|title=The Myth of Matriarchal Prehistory: Why An Invented Past Will Not Give Women a Future|publisher=Beacon Press|isbn=978-0-8070-6792-5}}
+* {{cite book|last=Furness|first=Raymond|date=1978|title=The Twentieth Century 1890–1945|publisher=Croom Helm|location=London|isbn=006492310X|url-access=registration|url=https://archive.org/details/twentiethcentury00furn }}
+* {{cite book|last1=Josephson-Storm|first1=Jason|year=2017|title=The Myth of Disenchantment: Magic, Modernity, and the Birth of the Human Sciences|publisher=University of Chicago Press|isbn=9780226403533}}
+* {{cite book|last=Kotowski|first=Elke-Vera|year=2000|title=Feindliche Dioskuren: Theodor Lessing und Ludwig Klages, das Scheitern einer Jugendfreundschaft (1885–1899)|location=Berlin|publisher=Jüdische Verlagsanstalt|language=de|isbn=978-3-93465-8097}}
+* {{cite book|last=Lebovic|first=Nitzan|year=2013|title=The Philosophy of Life and Death: Ludwig Klages and the Rise of a Nazi Biopolitics|publisher=Palgrave Macmillan|series=Palgrave Studies in Cultural and Intellectual History|isbn=978-1137342058}}
+* {{cite book|last1=Lindenfeld|first1=David F.|last2=Marchand|first2=Suzanne L.|date=2004|title=Germany at the Fin de Siècle: Culture, Politics, and Ideas|publisher=Louisiana State University Press|isbn=0807129798}}
+* {{cite book|last=Noll|first=Richard|year=1997|title=The Jung Cult: Origins of a Charismatic Movement|publisher=Touchstone|isbn=0684834235}}
+* {{cite book |last=Preusser |first=Heinz-Peter |year=2011 |chapter=Die Masken des Ludwig Klages. Figurenkonstellation als Kritik und Adaption befremdlicher Ideen in Robert Musils Roman ''Der Mann ohne Eigenschaften'' |editor1-last=Wolf |editor1-first=Norbert Christian |editor2-last=Zeller |editor2-first=Rosmarie |title=Musil-Forum |volume=31 |pages=224–253 |language=de |location=Berlin |publisher=[[De Gruyter]] |doi=10.1515/9783110271218.224 |isbn=978-3-11-027121-8 }}
+* {{cite book|contributor-last=Pryce|contributor-first=Joseph D.|year=2013|contribution=The Biocentric Metaphysics of Ludwig Klages|title=The Biocentric Worldview: Selected Essays and Aphorisms|last=Klages|first=Ludwig|translator-last=Pryce|translator-first=Joseph D.|publisher=Arktos Media|isbn=978-1-9071-6661-7}}
+* {{cite journal|last=Schlicht|first=Laurens|year=2020|title=Graphology in Germany in the 1920s and 1930s|journal=NTM Zeitschrift für Geschichte der Wissenschaften, Technik und Medizin|volume=28|issue=2|pages=149–179|doi=10.1007/s00048-020-00246-8|pmid=32333033|doi-access=free}}
+* {{cite book|last=Schroder|first=Hans Eggert|year=1966|title=Ludwig Klages, Die Geschichte Seines Lebens|language=de|publication-date=1992|isbn=978-3-41600-8501}}
+* {{cite journal|last1=Stauth|first1=Georg|last2=Turner|first2=Bryan S.|year=1992|title=Ludwig Klages (1872-1956) and the Origins of Critical Theory|journal=Theory, Culture & Society|volume=9|number=45|pages=45–63|doi=10.1177/026327692009003003|s2cid=143602617}}
+* {{cite encyclopedia|last=White|first=Hayden V.|year=1967|title=Klages, Ludwig|encyclopedia=Encyclopedia of Philosophy|publisher=Macmillan Library Reference|publication-date=2005|edition=2nd|volume=5|pages=77–78}}
+* {{cite book|last=Wolin|first=Richard|year=2004|title=The Seduction of Unreason: The Intellectual Romance with Fascism from Nietzsche to Postmodernism|location=Princeton|publisher=Princeton University Press|isbn=9780691114644}}
+* {{cite dictionary|title=logocentrism|dictionary=Collins English Dictionary|edition=Complete and Unabridged, 12th|year=2014|publisher=HarperCollins Publishers|access-date=September 26, 2020|via=TheFreeDictionary.com|url=https://www.thefreedictionary.com/logocentrism |ref={{harvid|''Collins''|2014}}}}
+* {{cite encyclopedia|title=Ludwig Klages|encyclopedia=Encyclopædia Britannica|date=n.d.|access-date=September 27, 2020|via=Britannica.com|url=https://www.britannica.com/biography/Ludwig-Klages |ref={{harvid|''Britannica''|n.d.}}}}
+* {{cite encyclopedia|title=Klages, Ludwig|encyclopedia=Encyclopédie de L'Agora|year=2014|language=fr|ref={{harvid|''L'Agora''|2014}}}}
+* {{cite journal|title=Klages: Gewalten des Untergangs|journal=[[Der Spiegel]]|issue=37/1966|date=5 September 1966|language=de|ref={{harvid|''Der Spiegel''|1966}}}}
+{{refend}}
+
+==Further reading==
+{{refbegin}}
+* {{cite book|last=Alksnis|first=Gunnar|year=1970|title=Ludwig Klages and His Attack on Rationalism|publisher=Kansas State University|author-link=Gunnar Alksnis}} (republished as {{cite book|title=Chthonic Gnosis: Ludwig Klages and his Quest for the Pandaemonic All|publisher=Theion Publishing|date=2015|url=http://www.theionpublishing.com/chthonic-gnosis-klages}})
+* {{cite book|last=Falter|first=Reinhard|year=2003|title=Ludwig Klages. Lebensphilosophie als Zivilisationskritik|location=Munich|publisher=Telesma|isbn=978-3-8330-0678-4|language=de}}
+* {{cite book|last=Furness|first=Raymond|year=2000|chapter=Ludwig Klages|title=Zarathustra's Children: A Study of a Lost Generation of German Writers|location=Rochester, NY|publisher=Camden House|isbn=1-57113-057-8|pages=99–124}}
+* {{cite book|last=Grossheim|first=Michael|year=1993|title=Ludwig Klages und die Phaenomenologie|location=Weinheim|publisher=Wiley-VCH Verlag GmbH|language=de}}
+* {{cite journal|last=Lebovic|first=Nitzan|year=2006|title=The Terror and Beauty of Lebensphilosophie: Ludwig Klages, Walter Benjamin, and Alfred Bauemler|journal=South Central Review|volume=23|number=1|publisher=The Johns Hopkins University Press|pages=23–39|doi=10.1353/scr.2006.0009|jstor=40039911|s2cid=170637814}}
+* {{cite book|last=Lewin|first=James|year=1931|title=Geist und Seele: Ludwig Klages' Philosophie|location=Berlin|publisher=Reuther & Reichard|language=de}}
+* {{cite book|last=Schneider|first=Tobias|year=2001|title=Ideological Trench Warfare: Ludwig Klages and National Socialism from 1933–1938|publisher=Vierteljahrshefte für Zeitgeschichte}}
+* {{cite book|last=Tuppini|first=Tommaso|year=2003|title=Ludwig Klages: L'immagine e la questione della distanza|location=Milano|publisher=Franco Angeli|language=it}}
+* {{cite book|last=Ardic|first=Chiara Gianni|year=2016|title=La Fuga degli Dèi: Mito, matriarcato e immagine in Ludwig Klages|location=Milano|publisher=Jouvence|language=it}}
+* {{cite book|last=Sneller |first=Rico |year=2021 |title=Perspectives on Synchronicity, Inspiration, and the Soul |location=Newcastle |publisher=Cambridge Scholars |isbn=978-1-5275-6632-3}}
+{{refend}}
+
+==External links==
+{{wikiquote}}
+* Online text: {{cite book|title=The Science of Character|translator-last=Johnston|translator-first=Walter H.|url=http://dispater.atspace.com}}
+* Online text: {{cite book|title=The Biocentric Worldview: Selected Essays and Aphorisms|translator-last=Pryce|translator-first=Joseph D.|url=http://www.revilo-oliver.com/Writers/Klages/Ludwig_Klages.html}}
+* {{cite news|last=Pryce|first=Joseph D.|date=August 26, 2010|title=Ludwig Klages on Judaism, Christianity and Paganism|website=[[Occidental Observer]]|url=https://www.theoccidentalobserver.net/2010/08/26/pryce-klages/ }}
+* Alksnis, Gunnar. [http://www.theionpublishing.com/chthonic-gnosis-klages ''Chthonic Gnosis: Ludwig Klages and his Quest for the Pandaemonic All''] at Theion Publishing
+* Klages, Ludwig. [http://www.theionpublishing.com/of-cosmogonic-eros ''Of Cosmogonic Eros''] at Theion Publishing
+* {{PM20|FID=pe/009687}}
+
+{{Continental philosophy}}
+{{Conservative Revolution}}
+{{Authority control}}
+
+{{DEFAULTSORT:Klages, Ludwig}}
+[[Category:1872 births]]
+[[Category:1956 deaths]]
+[[Category:19th-century German chemists]]
+[[Category:19th-century German male writers]]
+[[Category:19th-century German poets]]
+[[Category:20th-century German male writers]]
+[[Category:20th-century German poets]]
+[[Category:German male poets]]
+[[Category:20th-century German philosophers]]
+[[Category:20th-century German psychologists]]
+[[Category:Conservative Revolutionary movement]]
+[[Category:Continental philosophers]]
+[[Category:German critics of Christianity]]
+[[Category:Critics of Freemasonry]]
+[[Category:Critics of Judaism]]
+[[Category:Critics of Theosophy]]
+[[Category:Deep ecologists]]
+[[Category:Emotion psychologists]]
+[[Category:Environmental philosophers]]
+[[Category:German graphologists]]
+[[Category:German male non-fiction writers]]
+[[Category:German psychologists]]
+[[Category:Lecturers]]
+[[Category:Leipzig University alumni]]
+[[Category:Ludwig Maximilian University of Munich alumni]]
+[[Category:Academic staff of the Ludwig Maximilian University of Munich]]
+[[Category:German modern pagans]]
+[[Category:Metaphysicians]]
+[[Category:Moral psychologists]]
+[[Category:Modern pagan philosophers]]
+[[Category:Modern pagan poets]]
+[[Category:Personality psychologists]]
+[[Category:German philosophers of culture]]
+[[Category:German philosophers of history]]
+[[Category:German philosophers of language]]
+[[Category:Philosophers of love]]
+[[Category:German philosophers of mind]]
+[[Category:Philosophers of psychology]]
+[[Category:German philosophers of religion]]
+[[Category:Philosophers of sexuality]]
+[[Category:Scientists from Hanover]]
+[[Category:Theorists on Western civilization]]
+[[Category:University of Hanover alumni]]
+[[Category:Writers from Hanover]]

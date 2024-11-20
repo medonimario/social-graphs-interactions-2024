@@ -1,0 +1,52 @@
+{{other people|Diodorus}}
+{{Primary sources|date=January 2023}}
+'''Diodorus Cronus''' ({{langx|el|Διόδωρος Κρόνος}}; died c. 284 BC){{sfn|Dorandi|1999|p=52}} was a [[Ancient Greece|Greek]] [[philosopher]] and [[dialectician]] connected to the [[Megarian school]]. He was most notable for logic innovations, including his master argument formulated in response to [[Aristotle]]'s discussion of [[problem of future contingents|future contingents]].
+
+==Life==
+Diodorus was the son of Ameinias of [[Iasus, Caria|Iasus]] in [[Caria]]. He lived in the court of [[Alexandria]] in the reign of [[Ptolemy I Soter]], who is said to have given him the surname of Cronus ("old fogey"<ref name="sedley">{{cite SEP |url-id=diodorus-cronus |title=Diodorus Cronus |last=Sedley |first=David}}</ref>) on account of his inability to solve at once some [[dialectic]] problem proposed by [[Stilpo]], when the two philosophers were dining with the king. Diodorus is said to have taken that disgrace so much to heart that after his return from the meal, and writing a treatise on the problem, he died in despair.{{sfn|Laërtius|1925|loc=§ 111}} However, according to [[Strabo]],<ref>Strabo, xiv., xvii.</ref> Diodorus himself adopted the surname of Cronus from his teacher, [[Apollonius Cronus]]. Diodorus is thought to have died around 284 BC; his date of birth is unknown.<ref name="sedley"/> It was once thought that he was old enough to have influenced [[Aristotle]] (384–322 BC), but there is no strong evidence for this.<ref name="sedley"/>
+
+Diodorus was particularly celebrated for his great dialectic skill, for which he was called ''The Dialectician''.<ref>Strabo, xiv., xvii.; Sextus Empiricus, ''adv. Gram.'' i.; Pliny, ''Hist. Nat.'' vii. 54.</ref> This effectively became his surname, and descended even to his five daughters, Menexene, Argia, Theognis, Artemesia, and Pantaclea, who were likewise distinguished as dialecticians.<ref>Clement of Alexandria, ''[[Stromata]]'', iv. 19</ref> His pupils included [[Philo the Dialectician]], and [[Zeno of Citium]]—the founder of the [[Stoicism|Stoic]] school. Although influenced by the [[Megarian school]] it is not clear how closely Diodorus and his fellow dialecticians were connected to that particular philosophical school.<ref name="sedley"/><ref name="bobzien">{{cite SEP |url-id=dialectical-school |title=Dialectical School |last=Bobzien |first=Susanne}}</ref>
+
+==Philosophy==
+He was most notable for logic innovations, including his master argument formulated in response to [[Aristotle]]'s discussion of [[problem of future contingents|future contingents]]. [[Diogenes Laertius|Diogenes Laërtius]] says that Diodorus also made use of the [[Sorites paradox]], and is said to have invented two others of the same kind, viz. ''The Masked Man'' and ''The Horns'', which are, however, also ascribed to [[Eubulides]].{{sfn|Laërtius|1925|loc=§ 111}} Aulus Gellius claims that he also rejected the view that words are ambiguous, any uncertainty in understanding was always due to speakers expressing themselves obscurely.<ref>Aulus Gellius, xi. 12</ref> According to Sextus Empiricus,<ref name="sextus1">Sextus Empiricus, ''Adv. Math.'', x. 85–118</ref> he also maintained that space was indivisible, and consequently that motion was impossible. He further denied the coming into existence and all multiplicity both in time and in space; but he considered the things that fill up space as one whole composed of an infinite number of indivisible particles.{{bsn|date=January 2023}}
+
+===Master argument<!--linked from 'Problem of future contingents'-->===
+{{see also|Problem of future contingents}}
+[[Aristotle]], in his work ''[[De Interpretatione|On Interpretation]]'', had wrestled with the [[problem of future contingents]].<ref name="ohrstrom">{{cite SEP |url-id=future-contingents |title=Future Contingents |first=Peter |last=Øhrstrøm |first2=Per |last2=Hasle}}</ref> In particular whether one can meaningfully regard future [[Contingency (philosophy)|contingents]] as true or false now, if the future is open, and if so, how?<ref name="ohrstrom"/>
+
+In response, Diodorus maintained that possible was identical with necessary (''i.e.,'' not contingent); so that the future is as certain and defined as the past.<ref name="grote">[[George Grote]], (1888), ''Plato, and the other companions of Sokrates'', Volume 3, page 501</ref> [[Alexander of Aphrodisias]]<ref>Alexander of Aphrodisias, ''In An. Pr.'' 183-4</ref> tells us that Diodorus believed that that alone is possible which either is happening now, or will happen at some future time. When speaking about facts of an unrecorded past, we know well that a given fact either occurred or did not occur, yet without knowing which of the two is true—and therefore we affirm only that the fact may have occurred: so also about the future, either the assertion that a given fact will at some time occur, is positively true, or the assertion that it will never occur, is positively true: the assertion that it may or may not occur some time or other, represents only our ignorance, which of the two is true.<ref name="grote"/> That which will never at any time occur, is impossible.<ref name="grote"/>
+
+Diodorus went on to formulate an argument that became known as the ''master argument''<ref>Not to be confused with [[George Berkeley]]'s [[master argument]].</ref> (or ''ruling argument'': ''ho kurieuôn logos'' [ὁ κυριεύων λόγος]). The most succinct description of it is provided by [[Epictetus]]:
+<blockquote>The argument called the master argument appears to have been proposed from such principles as these: there is in fact a common contradiction between one another in these three propositions, each two being in contradiction to the third. The propositions are: (1) every past truth must be necessary; (2) that an impossibility does not follow a possibility; (3) something is possible which neither is nor will be true. Diodorus observing this contradiction employed the probative force of the first two for the demonstration of this proposition: That nothing is possible which is not true and never will be.<ref>Epictetus, ''Discourses'', ii.19.1-4</ref></blockquote>
+
+Epictetus' description of the master argument is not in the form as it would have been presented by Diodorus, which makes it difficult to know the precise nature of his argument. To modern logicians, it is not obvious why these three premises are inconsistent, or why the first two should lead to the rejection of the third.<ref name="kneale119">William Kneale, Martha Kneale, (1962), ''The Development of Logic'', page 119, Clarendon Press</ref> Modern interpretations therefore assume that there must have been extra premises in the argument tacitly assumed by Diodorus and his contemporaries.<ref name="gaskin219">[[Richard Gaskin]], (1995), ''The sea battle and the master argument: Aristotle and Diodorus on the metaphysics of the future'', page 219. Walter de Gruyter</ref>
+
+One possible reconstruction is as follows:<ref>Robert Dobbin, (2008), ''Discourses and Selected Writings'', page 263. Penguin Classics</ref> For Diodorus, if a future event is not going to happen, then it was true in the past that it would not happen. Since every past truth is necessary (proposition 1), it was necessary that in the past it would not happen. Since the impossible cannot follow from the possible (proposition 2), it must have always been impossible for the event to occur. Therefore if something will not be true, it will never be possible for it to be true, and thus proposition 3 is shown to be false.
+
+Epictetus goes on to point out that [[Panthoides]], [[Cleanthes]], and [[Antipater of Tarsus]] made use of the second and third proposition to demonstrate that the first proposition was false. [[Chrysippus]], on the other hand, agreed with Diodorus that everything true as an event in the past is necessary, but attacked Diodorus' view that the possible must be either what is true or what will be true.<ref>Cicero, ''de Fato'', 6, 7, 9, ''ad Fam.'' ix. 4; Epictetus, ''Discourses'', ii. 19.2-5</ref><ref>Josiah B. Gould, ''The Philosophy of Chrysippus'', pages 77-8. SUNY Press.</ref> He thus made use of the first and third proposition to demonstrate that the second proposition was false.<ref>Epictetus, ''Discourses'', ii.19.2-5</ref>
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+*{{cite book |last=Dorandi  |first=Tiziano |chapter=Chapter 2: Chronology |editor-last=Algra |editor-first=Keimpe |display-editors=etal |year=1999 |title=The Cambridge History of Hellenistic Philosophy |url=https://archive.org/details/cambridgehistory00algr  |url-access=limited  |page=[https://archive.org/details/cambridgehistory00algr/page/n71 52] |location=Cambridge |publisher=Cambridge University Press |isbn=9780521250283 }}
+*{{cite LotEP|chapter=Euclides|§=106–111}}
+
+==Further reading==
+* Gaskin, Richard, ''The Sea-Battle and the Master Argument. Aristotle and Diodorus Cronus on the Metaphysics of the Future''. Berlin, Walter de Gruyter, 1995.
+* Sedley, David. ''Diodorus Cronus and Hellenistic Philosophy.'' Proceedings of the Cambridge Philological Society 203, N.S. 23 (1977), P. 74-120.
+* Vuillemin, Jules. ''Nécessité ou contingence. L'aporie de Diodore et les systèmes philosophiques''. Paris 1984. (English translation: ''Necessity or Contingency. The Master Argument'', Stanford: CSLI Publications, 1996. {{ISBN|1-881526-86-0}}, paperback {{ISBN|1-881526-85-2}}).
+
+==External links==
+* {{cite SEP |url-id=diodorus-cronus |title=Diodorus Cronus |last=Sedley |first=David}}
+* {{cite SEP |url-id=dialectical-school |title=Dialectical School |last=Bobzien |first=Susanne}}
+* {{cite web|url=https://www.historyoflogic.com/biblio/master-argument-biblio.htm|title=Selected Bibliography on the "Master Argument" of Diodorus Cronus}} with a bibliography on the Master Argument
+
+{{Megarian philosophy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Diodorus Cronus}}
+[[Category:4th-century BC Greek philosophers]]
+[[Category:Ancient Greek logicians]]
+[[Category:Megarian philosophers]]

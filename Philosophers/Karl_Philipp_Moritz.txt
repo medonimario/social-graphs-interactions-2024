@@ -1,0 +1,79 @@
+{{short description|German author, editor and essayist}}
+{{Infobox writer
+|image = Karl Philipp Moritz.jpg
+|caption = Portrait by Karl Franz Jacob Heinrich Schumann (1763-1827)
+|signature = Karl Philipp Moritz (signature).jpg
+}}  
+'''Karl Philipp Moritz''' ([[Hameln]], 15 September 1756 – [[Berlin]], 26 June 1793) was a [[German people|German]] author, editor and essayist of the ''[[Sturm und Drang]]'', late [[Age of Enlightenment|Enlightenment]], and classicist periods, influencing early [[German Romanticism]] as well. He led a life as a hatter's apprentice, teacher, journalist, literary critic, professor of art and linguistics, and member of both of Berlin's academies.
+
+==Biography==
+Moritz was born into impoverished circumstances in [[Hameln]] in 1756.<ref name=nie>{{Cite NIE|wstitle=Moritz, Karl Philipp|year=1905}}</ref> After receiving a scanty schooling, he was apprenticed to a [[hat maker]].<ref name=eb>{{EB1911|wstitle=Moritz, Karl Philipp}}</ref> After distressful attempts to gain a living, he caught the attention of a patron in [[Hanover]] and entered a [[Gymnasium (school)|gymnasium]]; however, he soon accepted an engagement as actor under [[Konrad Ekhof|Ekhof]] at [[Gotha]], failing in which he returned to study (1776) at [[Erfurt]]; but tiring again he joined the ''Herrnhuter'' ([[Moravian Church]]) at [[Barby, Germany|Barby]], and studied theology at [[Wittenberg]] (1777); then taught philanthropy at the [[Potsdam]] military orphanage, soon again to take to wandering.<ref name=amer>{{Americana|wstitle=Moritz, Karl Philipp|inline=1}}</ref>
+
+Teaching in Berlin, he made a reputation as writer, preacher and poet, and [[Journeys of a German in England in 1782|went to England]]. Then he became professor at the gymnasium (high school) at [[Berlin]] ({{langx|de|link=no|Köllnisches Gymnasium}}). Next he tried editing the ''Vossische Zeitung'' to make it [[proletarian]], but failed. Later he traveled to Italy (1786) where he met [[Goethe]], and on his return to Germany he took up residence as Goethe's guest at [[Weimar]]. [[Karl August, Grand Duke of Saxe-Weimar-Eisenach|Duke Karl August]] helped him join the [[Prussian Academy of Sciences|Berlin Academy of Sciences]], and in 1789 Moritz became a professor of antiquities at the [[Akademie der Künste|Royal Academy of Fine Arts in Berlin]].<ref name=amer/> Among his students were [[Ludwig Tieck]], [[Wilhelm Heinrich Wackenroder]] and [[Alexander von Humboldt]]. He was an avid admirer of [[Jean Paul]], and befriended [[Moses Mendelssohn]], and [[Asmus Jakob Carstens]].
+
+==Works==
+Apart from a four-part autobiographical novel, ''[[Anton Reiser]]'', and two fictional ''Andreas Hartknopf'' novels, he also wrote a number of theoretical writings on aesthetics, especially "Über die bildende Nachahmung des Schönen" (On the Formative Imitation of Beauty), which Goethe excerpted in his ''[[Italian Journey]]''. Moritz's ''Magazin zur Erfahrungsseelenkunde als ein Lesebuch für Gelehrte und Ungelehrte'' (Journal of Experiential Psychology, as reading for scholars and laymen) was one of the first Germanophone journals of psychology. His works include:
+{{colbegin}}
+*''Blunt oder der Gast'', 1781
+*''Beiträge zur Philosophie des Lebens aus dem Tagebuch eines Freimäurers<!--sic!-->'', 1780
+*''Magazin zur Erfahrungsseelenkunde als ein Lesebuch für Gelehrte und Ungelehrte.'' 1783–1793
+*''Reisen eines Deutschen in England im Jahre 1782'', 1783. English: ''[[Journeys of a German in England in 1782]]''
+*[http://www.fh-augsburg.de/~harsch/germanica/Chronologie/18Jh/Moritz/mor_zeit.html Ideal einer vollkommnen Zeitung], 1784
+*''[[Anton Reiser]]'' (Part 1), 1785
+*''Andreas Hartknopf'', Eine Allegorie, 1785
+*''[[Anton Reiser]]'' (Parts 2 and 3), 1786
+*''Denkwürdigkeiten, aufgezeichnet zur Beförderung des Edlen und Schönen'', 1786
+*''Versuch einer deutschen Prosodie'', 1786
+*''Versuch einer kleinen praktischen Kinderlogik'', 1786
+*''Fragmente aus dem Tagebuche eines Geistersehers'', 1787
+*[https://web.archive.org/web/20071009075225/http://www.fh-augsburg.de/~harsch/germanica/Chronologie/18Jh/Moritz/mor_nac0.html Über die bildende Nachahmung des Schönen], 1788
+*''Italien und Deutschland'', 1789
+*''Monats-Schrift der Akademie der Künste und Mechanischen Wissenschaften zu Berlin'', 1789
+*''Über eine Schrift des Herrn Schulrath Campe, und über die Rechte des Schriftstellers und Buchhändlers'', 1789
+*''Andreas Hartknopfs Predigerjahre'', 1790
+*''[[Anton Reiser]]'' (Part 4), 1790
+*[http://www.fh-augsburg.de/~harsch/germanica/Chronologie/18Jh/Moritz/mor_ab00.html Neues ABC-Buch], 1790
+*''Annalen der Akademie der Künste und Mechanischen Wissenschaften'', 1791
+*''Anthusa oder Roms Alterthümer'', 1791
+*[https://web.archive.org/web/20051223223800/http://gutenberg.spiegel.de/moritz/goetterl/goetterl.htm Götterlehre oder Mythologische Dichtungen der Alten], 1791
+*''Grundlinien zu meinen Vorlesungen über den Styl'', 1791
+*''Italienische Sprachlehre für die Deutschen'', 1791
+*''Über die Vereinfachung der menschlichen Kenntnisse'', 1791
+*''Lesebuch für Kinder'', 1792
+*''Mythologischer Almanach für Damen'', 1792
+*''Reisen eines Deutschen in Italien in den Jahren 1786 bis 1788'', 1792
+*''Vom richtigen deutschen Ausdruck'', 1792
+*''Allgemeiner deutscher Briefsteller'', 1793
+*''Die große Loge oder der [[Freemasonry|Freimaurer]] mit Waage und Senkblei'', 1793
+*''Grammatisches Wörterbuch'' (4 vols. 1793–1800)
+*''Mythologisches Wörterbuch zum Gebrauch für Schulen'', 1793
+*''Reisen eines Deutschen in Italien in den Jahren 1786 bis 1788'', 1793
+*''Vorbegriffe zu einer Theorie der Ornamente'', 1793
+*''Vorlesungen über den Styl'' (Part 1), 1793
+*''Die neue Cecilia'', (1793, fragment)
+{{colend}}
+
+== References ==
+{{Reflist}}
+
+== Sources ==
+* Apel, Kim.  ''Predigten in der Literatur: Homiletische Erkundungen bei Karl Philipp Moritz. Praktische Theologie in Geschichte und Gegenwart'' (Tuebingen: Mohr Siebeck, 2009).
+
+== External links ==
+{{Wikisource author}}
+* {{Gutenberg author |id=1748| name=Karl Philipp Moritz}}
+* {{Internet Archive author |sname=Karl Philipp Moritz |sopt=t}}
+* [https://web.archive.org/web/20061001204834/http://www.bbaw.de/bbaw/Forschung/Forschungsprojekte/moritz/de/Startseite Berlin-Brandenburg Academy of Sciences Moritz Critical Edition]
+*[https://www.mze.gla.ac.uk/ ''Das Magazin zur Erfahrungsseelenkunde'' Digital Edition].
+
+{{Authority control}}
+
+{{DEFAULTSORT:Moritz, Karl Philipp}}
+[[Category:1756 births]]
+[[Category:1793 deaths]]
+[[Category:People from Hamelin]]
+
+[[Category:People from the Electorate of Hanover]]
+[[Category:Members of the Prussian Academy of Sciences]]
+[[Category:German milliners]]
+[[Category:German male writers]]

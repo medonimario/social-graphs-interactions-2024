@@ -1,0 +1,5 @@
+#REDIRECT [[L. E. J. Brouwer]]
+
+{{Redirect category shell|
+{{R from long name}}
+}}

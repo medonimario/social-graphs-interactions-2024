@@ -1,0 +1,26 @@
+'''Franz Jakubowski''' (10 June 1912, Posen, [[Province of Posen]], [[Kingdom of Prussia|Prussia]], Germany, now Poznan, [[Poland]]{{spaced ndash}}1970, U.S.) was a [[philosopher]] and [[Western Marxism|Western]] [[Marxist theory|Marxist theorist]].
+==Life==
+Born in [[Prussia]], he grew up in what was then the [[Free City of Danzig]]. His father was a doctor. From 1930 to 1933 he studied law in Heidelberg, Berlin, Munich and Breslau, before completing his studies in political science at [[Basel University]]. After student activism and the agitational role he would briefly play in Danzig, Jakubowski abandoned Europe, and settled in the US, changing his name to '''Frank Fisher''' and marrying Margaret Citron with whom he had two children Thomas and Robert Fisher. In the 1970s he moved back to Europe and married Elisabeth Spanjer. There he would play a part in establishing the [[Alexander Herzen Foundation]], a publisher of [[samizdat]] soviet literature.
+
+==Contribution to theory==
+Jakubowski published his only major work, a book based on his doctoral thesis, in Danzig, 1936. It is entitled ''Ideology and Superstructure in Historical Materialism'',<ref>{{cite web |title=M.I.A. Library: Franz Jakubowski |url=https://www.marxists.org/archive/jakubowski/index.htm |website=www.marxists.org}}</ref> {{ISBN|0-85031-154-3}} and may be seen as an extension to the seminal work of [[Karl Korsch]] on the centrality of the [[Georg Wilhelm Friedrich Hegel|Hegel]]ian [[dialectic]] to Marxian thought. Jakubowski rehearses for the reader the steps Marx and Engels took away from Hegel, via Feuerbach, to their 'historical materialist' position. Its unique contribution to Marxian thought is the clarity of its exposition of the relationship between subject and object in Marxian theory.
+
+: "In order to combat a widespread misunderstanding, it must be stressed that the [[superstructure]] is real. Lenin in particular tended to overlook this, when he contrasted being and idea in his 'reflection theory'. The superstructure is no less real than its base. The terms 'reflection' and 'to reflect', which Engels was fond of using when he was discussing ideological superstructure, can be misleading; these terms are meant to indicate something about the ''relationship'' between base and superstructure, not to ''describe'' the superstructure itself. There are in fact two forms of reality: the material reality and the 'ideal' reality (ie, the reality of human ideas). Political and legal superstructure are as real as the base. Both are social relations consisting of human relationships. Both exist in the idea, both are also material realities. As Marx said in ''The Holy Family'', 'The communist workers know full well that property, capital, money, wage labour etc. are in no way the mere creations of their imagination but are the extremely concrete and practical results of their own self-alienation', and the same is true of non-economic relationships. The reality of social ideas, then, forms a necessary and constituent part of the material reality of social relationships. ''Material relations are what they are only in conjunction with the ideas which correspond to them''. The reality of both is expressed by their social efficacy."
+
+''Ideology and Superstructure'' also offered a critique of competing interpretations of Marxian thought, particularly that associated with [[Karl Kautsky]] and that with [[Max Adler (Marxist)|Max Adler]].
+
+==Influence==
+History has not been kind to Jakubowski. His one contribution is still read in certain small Marxist political currents, and occasionally touches the fringes of academic study,<ref>{{cite journal |last1=Norton |first1=Theodore Mills |title=Ideology and Superstructure in Historical Materialism. By Franz Jakubowski. Translated by Anne Booth. (New York: St. Martin's, 1976. Pp. 132. $12.95.) |journal=American Political Science Review |date=December 1978 |volume=72 |issue=4 |pages=1378–1379 |doi=10.2307/1954552 |jstor=1954552 |s2cid=151508386 }}</ref> for example, a brief review in the journal ''Radical Philosophy'' by British philosopher [[Kate Soper]].
+==References==
+<references/>
+==External links==
+* [https://www.marxists.org/archive/jakubowski/index.htm]
+* [http://libcom.org/library/ideology-superstructure-historical-materialism-franz-jakubowski-1936 Text of Ideology and Superstructure in Historical Materialism]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jakubowski, Frank}}
+[[Category:1912 births]]
+[[Category:1970 deaths]]
+[[Category:Marxist theorists]]
+[[Category:Immigrants to the United States]]

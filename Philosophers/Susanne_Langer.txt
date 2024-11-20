@@ -1,0 +1,138 @@
+{{Short description|American philosopher (1895–1985)}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[20th-century philosophy]]
+| image            = Susanne Langer 1945.jpg
+| caption          = Langer in 1945
+| name             = Susanne Langer
+| birth_name       = Susanne Katerina Knauth
+| birth_date       = December 20, 1895
+| birth_place      = New York City, U.S.
+| death_date       = {{death date and age|1985|07|17|1895|12|20}}
+| death_place      = [[Old Lyme, Connecticut]], U.S.
+| education        = [[Radcliffe College]] ([[B. A.|BA]], [[PhD]])
+| school_tradition = [[Process philosophy]]
+| main_interests   = [[Philosophy of mind]], [[aesthetics]]
+| influences       = [[Ernst Cassirer|Cassirer]], [[Arthur Schopenhauer|Schopenhauer]],<ref>{{cite encyclopedia | last = Wicks | first = Robert | editor-last = Zalta | editor-first = Edward N. | title = Arthur Schopenhauer | encyclopedia = The Stanford Encyclopedia of Philosophy (Spring 2019 Edition) | publisher = Metaphysics Research Lab, Stanford University | date = 2019 | url = https://plato.stanford.edu/archives/spr2019/entries/schopenhauer/#8}}</ref> [[Alfred North Whitehead|Whitehead]],
+| influenced       = [[Howard Gardner]], [[Clifford Geertz]],<ref>{{cite book|title=Readings in the Philosophy of Social Science|last=Martin|first=Michael|year=1994 |page=213|publisher=MIT Press |isbn=0-262-13296-6}}</ref> [[Neo-Concrete Movement]],<ref>{{cite book|last1=Suárez|first1=Osbel (exhibition concept and guest curator)|last2=García|first2=María Amalia|last3=Agnew|first3=Michael (translations)|editor1-last=Witschey|editor1-first=Erica|editor2-last=Fundación Juan March|title=Cold America: Geometric Abstraction in Latin América (1934–1973)|date=2011|publisher=Fundación Juan March|location=Madrid|isbn=978-84-7075-588-0|url=http://digital.march.es/catalogos/fedora/repository/cat:170/PDF|language=en|format=Exhibition catalog|oclc=707460289}} {{Wikidata+icon|Q29043205|y}}</ref> [[Bernard Lonergan]]<ref>[http://www.anthonyflood.com/liddylonerganlearnslanger.htm  From Lonergan Workshop, vol. 11, 1995, 53-90. Posted May 5, 2008, What Bernard Lonergan Learned from Susanne K. Langer. Richard M. Liddy]</ref> 
+| notable_ideas    = Distinction between discursive and presentational symbols
+| doctoral_advisor = [[Alfred North Whitehead]]
+| spouse           = {{marriage|[[William Leonard Langer]]|1921|1942|end=div.}}
+}}
+
+'''Susanne Katherina Langer''' ({{IPAc-en|ˈ|l|æ|ŋ|ər}}; {{née}} '''Knauth'''; December 20, 1895 – July 17, 1985) was an American philosopher, writer, and educator known for her theories on the influences of art on the mind.<ref>{{Cite web |title=Susanne K. Langer {{!}} Feminist Philosopher, Cognitive Scientist, Art Historian {{!}} Britannica |url=https://www.britannica.com/biography/Susanne-K-Langer |access-date=2023-09-25 |website=www.britannica.com |language=en}}</ref> She was one of the earliest American women to achieve an academic career in philosophy and the first woman to be professionally recognized as an American philosopher{{Citation needed|reason=By whom?|date=September 2024}}. Langer is best remembered for her 1942 book ''[[Philosophy in a New Key]]'', which was followed by a sequel, ''Feeling and Form: A Theory of Art'', in 1953.<ref>{{Cite book|last=Langer|first=Susanne K.|title=Feeling and Form: A Theory of Art|publisher=Charles Scribner's Sons|year=1953|location=New York}}</ref> In 1960, Langer was elected a Fellow of the [[American Academy of Arts and Sciences]].<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter A|url=http://www.amacad.org/publications/BookofMembers/ChapterL.pdf|publisher=American Academy of Arts and Sciences|access-date=March 11, 2017}}</ref>
+
+== Life ==
+Born Susanne Katherina Knauth, Langer was raised in [[West Side (Manhattan)|Manhattan's West Side]] in New York City. She was the daughter of Antonio Knauth, an attorney, and Else Uhlich, both immigrants from Germany. Though she was American born, Langer's primary language was German, as it was strictly spoken in her household throughout her youth, and her German accent remained for her entire life. She was exposed thoroughly to creativity and art, most specifically through music. She was taught to play the [[cello]] and the piano, and she continued with the cello for the rest of her life. As a girl, Langer enjoyed reciting the works of great poets as well as traditional children's rhymes and tales. This formed her love for reading and writing, and she would often write her own poems and stories to entertain her younger siblings. Her love of nature began during the summers her family spent in their cottage on [[Lake George (lake), New York|Lake George]]. She married [[William Leonard Langer]], a fellow student at [[Harvard University|Harvard]], in 1921, and in the same year the couple took their studies to Vienna, Austria. They had two sons and moved back to [[Cambridge, Massachusetts]] before they divorced in 1942. She died July 17, 1985.<ref name=":0">{{Cite web|url=http://www.anb.org/articles/16/16-02412.html|title=American National Biography Online: Langer, Susanne K.|website=www.anb.org|access-date=2016-03-23}}</ref><ref>{{cite web |url=http://www.kirjasto.sci.fi/topelius.htm |title=Susanne Langer |website=Books and Writers (kirjasto.sci.fi) |first=Petri |last=Liukkonen |publisher=[[Kuusankoski]] Public Library |location=Finland |archive-url=https://web.archive.org/web/20150221075501/http://www.kirjasto.sci.fi/topelius.htm |archive-date=21 February 2015 |url-status=dead }}</ref>
+
+=== Education ===
+Her early education included attendance at [[Veltin School for Girls]], a private school, as well as being tutored from home. In 1916, Langer enrolled at [[Radcliffe College]]. She earned a bachelor's degree in 1920 and continued with graduate studies in philosophy at [[Harvard University|Harvard]], where she received a master's degree in 1924 and a doctorate in 1926. She returned to Radcliffe as a tutor in philosophy from 1927 to 1942. She lectured in philosophy for one year at the [[University of Delaware]] and for five years at [[Columbia University]] (1945–1950). From 1954 to 1962, she taught at [[Connecticut College]]. She also taught philosophy at the [[University of Michigan]], [[New York University]], [[Northwestern University]], [[Ohio University]], [[Smith College]], [[Vassar College]], the [[University of Washington]], and [[Wellesley College]].<ref name=":0" />
+
+== Philosophy ==
+Susanne Langer brought to the fore previously unexplored ideas about the connection of consciousness and aesthetics in striking prose, bringing her serious scholarly attention and respect that allowed her to forge a career as an academic philosopher in the wake of her divorce and the pressures it put on her. As her work progressed, she was drawn to further and deeper exploration of the complexity and nature of human consciousness across times and cultures.<ref name=":5">Shelley, C. (1998). "Consciousness, Symbols and Aesthetics: A Just-So Story and its Implications in Susanne Langer's ''Mind: An Essay on Human Feeling''", ''Philosophical Psychology'' Vol. 11, No. 1, pp. 45-66. Philosopher's Index, EBSCOHost, viewed 4 April 2016.</ref>
+
+Langer's philosophy explored the continuous process of meaning-making in the human mind through the power of "seeing" one thing in terms of another. Langer's first major work, ''[[Philosophy in a New Key]]'', put forth a notion that has become commonplace today: there is a basic and pervasive human need to symbolize, to invent meanings, and to invest meanings in one's world.<ref name=":1">Howard Gardner (1992). "''Philosophy in a New Key'' Revisited: An Appreciation of Susanne Langer", in ''Art, Mind, and Brain: A Cognitive Approach to Creativity''. New York: Basic Books, pp. 48–54.</ref>
+
+Beginning with a critique of [[positivism]], Langer's work is a study of human thought progressing from semantic theory through philosophy of music, sketching a theory for all the arts. For Langer, the human mind "is constantly carrying on a process of symbolic transformation of the experiential data that come to it", causing it to be "a veritable fountain of more or less spontaneous ideas".<ref name=":2" />
+
+Langer's distinction between discursive and presentational symbols is one of her better-known concepts.<ref>Hoffmann, Michael H. G., Geist und Welt – durch die Symbolisierungen der Kunst betrachtet, a review of Susanne K. Langer, Die lebendige Form menschlichen Fühlens und Verstehens (The living form of human feeling and understanding). Munich: Fink, 2000. {{ISBN|3-7705-3462-X}}, IASL Online, retrieved 2010-03-19.</ref> Discursive symbolization arranges elements (not necessarily words) with stable and context-invariant meanings into a new meaning. Presentation symbolization operates independently of elements with fixed and stable meanings. The presentation cannot be understood by building up an understanding of its parts in isolation but must be understood as a whole. For example, an element used in one painting may be used to articulate an entirely different meaning in another. The same principle applies to a note in a musical arrangement—such elements independently have no fixed meaning except in the context of their entire presentation.<ref name=":3">Lachmann, Rolf (January 1998). "From Metaphysics to Art and Back: The Relevance of Susan K. Langer's Philosophy for Process Metaphysics", ''Process Studies'' 26, pp. 107–125.</ref> Langer's analysis of this internal contextualization within a work of art led her to claim it was "nonsense" to think "form could be abstracted logically" from content.<ref>{{Cite journal|last=Langer|first=Susanne K.|date=1950|title=The Principles of Creation in Art|journal=Hudson Review|volume=2|issue=4 |pages=520–521|doi=10.2307/3847705 |jstor=3847705 }}</ref>
+
+Langer believed that symbolism is the central concern of philosophy because it underlies all human knowing and understanding.<ref>Littlejohn, Stephen W.; Foss, Karen A. (2008), ''Theories of Human Communication'' (9th ed.), Belmont, California: The Thomson Wadsworth Corporation, p. 105</ref> As with [[Ernst Cassirer]], Langer believed that what distinguishes humans from animals is the capacity for using symbols. While all animal life is dominated by feeling, human feeling is mediated by conceptions, symbols, and language. Animals respond to signs, but stimulus from a sign is significantly more complex for humans. This perspective on symbols is also associated with symbolic communication, a field in which animal societies are studied to help understand how symbolic communication affects the conduct of members of a cooperating group.
+
+Langer was one of the first philosophers to pay close attention to the concept of the virtual, as shown partly by her early use of the term "virtual experience".<ref>{{Cite book|last=Walsh|first=Dorothy|title=Literature and Knowing|publisher=Wesleyan University|year=1969|location=Middletown, Connecticut}}</ref> Inspired by [[Henri Bergson]]'s notions of [[Matter and Memory|matter and memory]], she connected art to the concept of the virtual. She describes virtuality as "the quality of all things that are created to be perceived". For Langer, the virtual is not only a matter of consciousness, but something external that is created intentionally and existing materially as a space of contemplation outside of the human mind. Langer sees virtuality as a physical space created by the artist, such as a painting or a building, that is "significant in itself and not as part of the surroundings". As an artist figures out the space of an art work, the artist builds a virtual world. Langer particularly considers architecture not as the realization of a space for being, but as the conceptual translation of space and being into virtuality for symbolic perceiving: "The architect, in fine, deals with a created space, a virtual entity." In contrast to Bergson, for Langer, virtuality is tangible and can cause a contemplative interaction between humans and machines.<ref>Susanne K. Langer, ''Feeling and Form'' (Charles Scribner's Sons, 1953), 65 and 114–115.</ref>
+
+In her later years, Langer came to believe that the decisive task of her work was to construct a science- and psychology-based theory of the "life of the mind" using [[process philosophy]] conventions.<ref name=":3" /> Langer's final work, ''Mind: An Essay on Human Feeling'', represents the culmination of her attempt to establish a philosophical and scientific underpinning of aesthetic experience in a three-volume survey of relevant humanistic and scientific texts.<ref name=":1" />
+
+=== History of feeling ===
+Langer's desire to study the mind and its connections with art was rooted in her theory that works of art are representations of human feeling and expression. This led Langer to construct a biological theory of feeling that explains that "feeling" is an inherently biological concept that can be connected to evolutionary genetics. In her essay, "Mind"', Langer tries to connect the early evolution of man to how we perceive the mind today. She explains that early organisms underwent refining through natural selection, in which certain behaviors and functions were shaped in order for them to survive. Langer describes the body's organs all operating with specific rhythms, and these rhythms must cooperate with one another to keep the organism alive. This development, Langer explains, was the beginning of the framework for the [[central nervous system]], which Langer believed to be the heart of cognitive interactions among humans.<ref name=":5" />
+
+=== Rhetoric ===
+Susanne Langer's work with symbolism and meaning has led to her association with contemporary rhetoric, although her influence in the field is somewhat debated.<ref name=":4">Lunsford, Andrea (1995). Reclaiming Rhetoric: Women in the Rhetorical Tradition. Pittsburgh, PA: University of Pittsburgh Press. pp. 265–284.</ref> Langer established the use of symbols as the "epistemic unit of community",<ref name=":4" /> suggesting that all knowledge in a community is gained and built from shared symbol-systems within a given culture. Langer's concept regarding language and dialogue may be understood to imply that language does not simply communicate, but it produces symbols from which humans then create their own reality.<ref>Innes, Robert (2008). Susanne Langer in Focus: The Symbolic Mind. Bloomington, IN: Indiana University Press.</ref> Claimed support of this perspective comes from Langer's statement that "language is intrinsic to thinking, imagining, even our ways of perceiving".<sup>[9]</sup>
+
+According to Arabella Lyon, professor at State University of New York, Langer holds that meaning arises from the relationship between a community, its discourse, and the individual.<ref name=":4" /> Lyon suggests that Langer's work may be viewed as a contradiction to the comparatively traditional theories of Aristotle, by way of Langer's argument that discourse forms through sensory experiences shared between speaker and hearer, rather than through logic as advocated by the philosopher. Langer's epistemic view of symbolism and language, which further examines the motivation of the speaker, the influential aspects of language that affect people, and the relationship between the speaker and the community,<ref name=":4" /> are often reflected in aspects of modern rhetorical studies.
+
+== Influences ==
+[[File:Susanne Langer - Filosofia é a contínua busca de sentidos - mais amplos, claros, negociados, articulados.svg|thumb|Poster with a quotation of Susanne Langer in Portuguese]]
+Langer's works were largely influenced by fellow philosophers [[Ernst Cassirer]] and [[Alfred North Whitehead]]. Whitehead, an English mathematician and philosophy professor, was Langer's professor at Radcliffe. Whitehead introduced Langer to the history of human thought, the origins of the modern world, and contemporary philosophy. He helped shape her perspective on these topics which she presented in her first text, ''The Practice of Philosophy''. Throughout her career, Whitehead continued to influence her understanding of the complicated world of human thought which guided her to pursue a philosophical career.  She shared Whitehead's belief in going beyond the limitations of scientific research and believed that along with the new-found thinking and ideas that had initiated the modern era in science and philosophy, the opportunity for a rebirth of philosophical creativity would arise. Langer dedicated ''Philosophy in a New Key'' to "Alfred North Whitehead, my great Teacher and Friend".<ref name=":2">{{Cite web|url=http://www.anthonyflood.com/drydenlangerwhitehead.htm|title=Dryden, "Whitehead's Influence on Susanne Langer's Conception of Living Form"|website=www.anthonyflood.com|access-date=2016-03-23}}</ref>
+
+Susanne Langer's other main influence was the German philosopher Ernst Cassirer. Cassirer was a neo-Kantian who studied theories of symbolization. Cassirer influenced much of Langer's ideas in ''Philosophy in a New Key'', where she stated that the creation of symbols is the essential activity of art, myth, rite, the sciences, mathematics, and philosophy. She stated, "It is a peculiar fact that every major advance in thinking, every epoch-making new insight, springs from a new type of symbolic transformation". She drew from Cassirer's view in her belief that art theory must be interdependent with a theory of mind.<ref name=":0"/>
+
+== Legacy ==
+[[File:Langeria magnifica 02.jpg|thumb|right|upright|A fossil leaf of <br/>''[[Langeria magnifica]]''<br/> Named for Langer by [[Jack A. Wolfe|Wolfe]] & [[Wesley Wehr|Wehr]], [[1987 in paleontology|1987]]]]
+Susanne Langer had an influence in many fields: for example, she has been cited by psychologist [[Abraham Maslow]] in ''[[Motivation and Personality]]'' (1954), by urban planner [[Kevin A. Lynch]] in ''[[The Image of the City]]'' (1960), by inventor [[William J. J. Gordon]] in ''[[Synectics]]'' (1961), by philosopher (epistemology and aesthetics) [[Louis Arnaud Reid]] in ''Ways of Knowledge and Experience'' (1961), by anthropologist [[Clifford Geertz]] in ''[[The Interpretation of Cultures]]'' (1973), by art scholar [[Ellen Dissanayake]] in ''[[Homo Aestheticus]]'' (1992), and by digital media theorist [[Janet Murray]] in ''[[Hamlet on the Holodeck]]'' (1997). She is both cited and excerpted in [[Melvin Rader]]'s classic compilation, ''A Modern Book of Esthetics,'' that has been widely used for several decades as a standard college text in esthetics.<ref>{{Cite book|last=Rader|first=Melvin|title=A Modern Book of Esthetics|publisher=Holt, Rinehart and Winston Inc|year=1980|isbn=0030193311|edition=Fifth|location=New York}}</ref>
+
+==Selected publications==
+===Books===
+* ''The Cruise of the Little Dipper, and Other Fairy Tales'' (1924 illustrated by Helen Sewall)
+* ''The Practice of Philosophy'' (1930, foreword by Alfred North Whitehead)
+* ''An Introduction to Symbolic Logic'' (1937), {{ISBN|978-0-486-60164-9}}
+* ''[[iarchive:pdfy-rhrw7VPajPHIhLwH|Philosophy in a New Key: A Study in the Symbolism of Reason, Rite, and Art]]'' (1942), {{ISBN|978-0-674-66503-3}}
+* ''Language and Myth'' (1946), translator, from Sprache und Mythos (1925) by Ernst Cassirer, {{ISBN|978-0-486-20051-4}}
+* ''Feeling and Form: A Theory of Art'' (1953)
+* ''Problems of Art: Ten Philosophical Lectures'', 1957
+* ''Reflections on Art'' (1961) (editor)
+* ''Philosophical Sketches'' (1962), {{ISBN|978-1-4351-0763-2}}
+* ''Mind: An Essay on Human Feeling'', three volumes (1967, 1972, and 1982)
+
+===Articles===
+* {{citation|contribution=Confusion of Symbols and Confusion of Logical Types|title= Mind|volume=35|year=1926|pages=222–229}}
+* {{citation|contribution=Form and Content: A Study in Paradox|title=  Journal of Philosophy|volume=23|year=1926|pages=435–438}}
+* {{citation|contribution=A Logical Study of Verbs|title= Journal of Philosophy|volume=24|year=1927|pages=120–129}}
+* {{citation|contribution=The Treadmill of Systematic Doubt|title= Journal of Philosophy|volume=26 |year=1929|pages=379–384}}
+* {{citation|contribution=Facts: The Logical Perspectives of the World|title=  Journal of Philosophy|volume=30 |year=1933|pages= 178–187}}
+* {{citation|contribution=On a Fallacy in 'Scientific Fatalism'|title=  International Journal of Ethics|volume=46 |year=1936 |pages=473–483}}
+* {{citation|contribution=The Lord of Creation|title=  Fortune|volume=29 |date=January 1944|pages=127–154}}
+* {{citation|contribution=Why Philosophy?|title=  Saturday Evening Post|volume=234 |date=13 May 1961|pages= 34–35, 54, 56}}
+* {{citation|contribution=[[Henry M. Sheffer]]|title=  Philosophy and Phenomenological Research|volume=25 |year=1964|pages= 305–307}}
+
+==See also==
+*[[Symbolic behavior]]
+
+== Notes ==
+{{Reflist}}
+
+== References ==
+* Borchert, Donald M. ''Encyclopedia of Philosophy''. 2nd ed. Detroit: Macmillan Reference USA, 2006. Print.
+* Campbell, James. "Langer's Understanding of Philosophy". ''Transactions Of The Charles S. Peirce Society'' 33.1 (1997): 133. ''Academic Search Complete''. Web. 14 Mar. 2016.
+* Lyon, Arabella . "Susanne Langer". ''Notable American Women''. Cambridge: Belknap Press of Harvard University. 2005. 36 
+* Connie C. Price. "Langer, Susanne K". ''American National Biography Online'' Feb. 2000. Accessed March 14, 2016. 2000 American Council of Learned Societies. Published by Oxford University Press.
+
+== Further reading ==
+*{{citation|title=Cassirer and Langer on Myth: An Introduction|publisher=Routledge|year=2000|first=William|last= Schultz|isbn=978-0-8153-2465-2}}
+*{{citation |title=Susanne Langer in Focus: The Symbolic Mind |last=Innis |first=Robert E. |publisher=Indiana University Press |year=2009 |isbn=978-0-253-22053-0}}
+*{{citation|last=Dryden|first= Donald|contribution=Susanne Langer and [[William James]]: Art and the Dynamics of the Stream of Consciousness|title=The Journal of Speculative Philosophy|volume=15|issue=4|year=2001|pages= 272–285|doi=10.1353/jsp.2001.0036|s2cid= 144036874}}
+*{{citation|first=Christine P.|last=Watling|contribution=The Arts, Emotion, and Current Research in Neuroscience |title=Mosaic|volume=31 |year=1998 |pages=107–124}}
+*{{citation|first=Joseph R.|last=Royce|contribution=The Implications of Langer's Philosophy of Mind for a Science of Psychology |title=Journal of Mind and Behavior |volume=4 |year=1983|pages=491–506}}
+*{{citation|first=Cameron|last=Shelley|contribution=Consciousness, Symbols and Aesthetics: A Just-So Story and Its Implications in Susanne Langer's Mind: An Essay on Human Feeling|title=Philosophical Psychology |volume=11 |year=1998|pages=45–66}}
+*{{citation|first=Alexander|last=Durig|contribution=What Did Susanne Langer Really Mean|title=Sociological Theory |volume=12 |year=1994|pages=254–265}}
+
+== External links ==
+{{Wikiquote}}
+* {{Gutenberg author | id=51344}}
+* {{cite IEP|url-id=langer|author-last1=Windle|author-first1=Peter}}
+*''[https://www.nytimes.com/1985/07/19/nyregion/susanne-k-langer-philosopher-is-dead-at-89.html SUSANNE K. LANGER, PHILOSOPHER, IS DEAD AT 89] - [[The New York Times|New York Times]] obituary of 19 July 1985 b''y William R Greer
+*[http://authorscalendar.info/slanger.htm Susanne Langer - Authors' Calendar]
+*[http://www.huthsteiner.org/Knauth/Susanne.Knath.Langer_Bio_DLB.pdf Susanne K. Langer (20 December 1895 – 17 July 1985)] {{Webarchive|url=https://web.archive.org/web/20160303203007/http://www.huthsteiner.org/Knauth/Susanne.Knath.Langer_Bio_DLB.pdf |date=3 March 2016 }} by Donald Dryden
+
+{{aesthetics}}
+{{Connecticut Women's Hall of Fame}}
+{{Authority control}}
+
+{{DEFAULTSORT:Langer, Susanne}}
+[[Category:1895 births]]
+[[Category:1985 deaths]]
+[[Category:American philosophers of art]]
+[[Category:American philosophers of mind]]
+[[Category:Philosophers from Connecticut]]
+[[Category:Philosophers from New York (state)]]
+[[Category:American women philosophers]]
+[[Category:American people of German descent]]
+[[Category:Writers from Manhattan]]
+[[Category:20th-century American philosophers]]
+[[Category:Columbia University faculty]]
+[[Category:Radcliffe College alumni]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Mass media theorists]]
+[[Category:American philosophers of technology]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century American women writers]]

@@ -1,0 +1,217 @@
+{{Short description|Austrian writer and journalist}}
+{{Use dmy dates|date=April 2023}}
+{{infobox writer
+| image            = Karl Kraus.jpg
+| birth_date       = 28 April 1874
+| birth_place      = [[Jičín]], [[Kingdom of Bohemia]], [[Austria-Hungary]]
+| death_date       = {{Death-date and age|12 June 1936|28 April 1874}}
+| death_place      = [[Vienna]], [[First Austrian Republic|Austria]]
+| occupation       = {{hlist|Writer|journalist}}
+| genre            = Satire
+| education        = [[University of Vienna]]
+}}
+'''Karl Kraus''' (28 April 1874 – 12 June 1936)<ref>[https://www.britannica.com/biography/Karl-Kraus ''Encyclopaedia Britannica'']</ref> was an Austrian writer and journalist, known as a satirist, essayist, [[aphorism|aphorist]], playwright and poet. He directed his satire at the press, German culture, and German and Austrian politics. He was nominated for the [[Nobel Prize in Literature]] three times.<ref>{{Cite web|url=https://www.nobelprize.org/nomination/archive/show_people.php?id=5034 |title=Nomination Database|website=www.nobelprize.org|access-date=April 19, 2017}}</ref>
+
+==Biography==
+===Early life===
+Kraus was born into the wealthy Jewish family of Jacob Kraus, a papermaker, and his wife Ernestine, née Kantor, in [[Jičín]], [[Kingdom of Bohemia]], [[Austria-Hungary]] (now the Czech Republic). The family moved to [[Vienna]] in 1877. His mother died in 1891.
+
+Kraus enrolled as a law student at the [[University of Vienna]] in 1892. Beginning in April of the same year, he began contributing to the paper {{Lang|de|Wiener Literaturzeitung}}, starting with a critique of [[Gerhart Hauptmann]]'s ''[[The Weavers (play)|The Weavers]]''. Around that time, he unsuccessfully tried to perform as an actor in a small theater. In 1894, he changed his field of studies to philosophy and [[German literature]]. He discontinued his studies in 1896. His friendship with [[Peter Altenberg]] began about this time.
+
+===Career===
+
+====Before 1900====
+[[File:Fackel Kraus 1899 (1) Cover.jpg|thumb|First issue of ''Die Fackel'']]
+In 1896, Kraus left university without a diploma to begin work as an actor, stage director and performer, joining the [[Young Vienna]] group, which included [[Peter Altenberg]], [[Leopold Andrian]], [[Hermann Bahr]], [[Richard Beer-Hofmann]], [[Arthur Schnitzler]], [[Hugo von Hofmannsthal]], and [[Felix Salten]]. In 1897, Kraus broke from this group with a biting satire, {{Lang|de|Die demolierte Literatur}} (''Demolished Literature''), and was named Vienna correspondent for the newspaper ''Breslauer Zeitung''. One year later, as an uncompromising advocate of Jewish assimilation, he attacked the founder of modern Zionism, [[Theodor Herzl]], with his polemic {{Lang|de|Eine Krone für Zion}} (1898) (''[[A Crown for Zion]]''). The title is a play on words, in that ''Krone'' means both "crown" and the currency of Austria-Hungary from 1892 to 1918; one ''Krone'' was the minimum donation required to participate in the [[Zionist Congress]] in [[Basel]], and Herzl was often mocked as the "king of Zion" (''König von Zion'') by Viennese anti-Zionists.
+
+On 1 April 1899, Kraus renounced Judaism, and in the same year he founded his own magazine, ''[[Die Fackel (magazine)|Die Fackel]]'' (German: ''The Torch''), which he continued to direct, publish, and write until his death, and from which he launched his attacks on [[hypocrisy]], [[psychoanalysis]], corruption of the [[Habsburg|Habsburg empire]], [[nationalism]] of the [[pan-German]] movement, [[laissez-faire]] economic policies, and numerous other subjects.
+
+====1900–1909====
+In 1901 Kraus was sued by [[Hermann Bahr]] and Emmerich Bukovics, who felt they had been attacked in ''Die Fackel''. Many lawsuits by various offended parties followed in later years. Also in 1901, Kraus found out that his publisher, Moriz Frisch, had taken over his magazine while he was absent on a months-long journey. Frisch had registered the magazine's front cover as a trademark and published the ''Neue Fackel'' (''New Torch''). Kraus sued and won. From that time, ''Die Fackel'' was published (without a cover page) by the printer Jahoda & Siegel.
+
+While ''Die Fackel'' at first resembled journals like ''[[Die Weltbühne]]'', it increasingly became a magazine that was privileged in its [[editorial independence]], thanks to Kraus's financial independence. ''Die Fackel'' printed what Kraus wanted to be printed. In its first decade, contributors included such well-known writers and artists as [[Peter Altenberg]], [[Richard Dehmel]], [[Egon Friedell]], [[Oskar Kokoschka]], [[Else Lasker-Schüler]], [[Adolf Loos]], [[Heinrich Mann]], [[Arnold Schoenberg]], [[August Strindberg]], [[Georg Trakl]], [[Frank Wedekind]], [[Franz Werfel]], [[Houston Stewart Chamberlain]] and [[Oscar Wilde]]. After 1911, however, Kraus was usually the sole author. Kraus's work was published nearly exclusively in ''Die Fackel'', of which 922 irregularly issued numbers appeared in total. Authors who were supported by Kraus include Peter Altenberg, Else Lasker-Schüler, and Georg Trakl.
+
+''Die Fackel'' targeted corruption, journalists and brutish behaviour. Notable enemies were [[Maximilian Harden]] (in the mud of the [[Harden–Eulenburg affair]]), [[Moriz Benedikt]] (owner of the newspaper ''[[Neue Freie Presse]]''), [[Alfred Kerr]], [[Hermann Bahr]], {{Interlanguage link multi|Imre Bekessy|de}} and [[Johann Schober]].
+
+In 1902, Kraus published ''Sittlichkeit und Kriminalität'' (''Morality and Criminal Justice''), for the first time commenting on what was to become one of his main preoccupations: he attacked the general opinion of the time that it was necessary to defend sexual morality by means of criminal justice (''Der Skandal fängt an, wenn die Polizei ihm ein Ende macht'', ''The Scandal Starts When the Police Ends It'').<ref>quoted following ''Sprüche und Widersprüche'' (''Sayings and Gainsayings''), Suhrkamp, Frankfurt/M. 1984, p. 42</ref> Starting in 1906, Kraus published the first of his [[aphorism]]s in ''Die Fackel''; they were collected in 1909 in the book ''Sprüche und Widersprüche'' (''Sayings and Gainsayings'').
+
+In addition to his writings, Kraus gave numerous highly influential public readings during his career, put on approximately 700 one-man performances between 1892 and 1936 in which he read from the dramas of [[Bertolt Brecht]], [[Gerhart Hauptmann]], [[Johann Nestroy]], [[Johann Wolfgang von Goethe|Goethe]], and [[William Shakespeare|Shakespeare]], and also performed [[Jacques Offenbach|Offenbach]]'s operettas, accompanied by piano and singing all the roles himself. [[Elias Canetti]], who regularly attended Kraus's lectures, titled the second volume of his autobiography ''"Die Fackel" im Ohr'' (''"The Torch" in the Ear'') in reference to the magazine and its author. At the peak of his popularity, Kraus's lectures attracted four thousand people, and his magazine sold forty thousand copies.<ref name="MATTL09" />
+
+In 1904, Kraus supported [[Frank Wedekind]] to make possible the staging in Vienna of his controversial play ''[[Pandora's Box (play)|Pandora's Box]]'';<ref name="Bru06" /> the play told the story of a sexually enticing young dancer who rises in German society through her relationships with wealthy men but later falls into poverty and prostitution.<ref name="mueller">Carl R. Mueller, Introduction to ''Frank Wedekind: Four Major Plays'', Vol 1, Lyme, NH: Smith and Krauss, 2000</ref> These plays' frank depiction of sexuality and violence, including lesbianism and an encounter with [[Jack the Ripper]],{{sfnp|Willett|1959|p=73n}} pushed against the boundaries of what was considered acceptable on the stage at the time. Wedekind's works are considered among the precursors of expressionism, but in 1914, when expressionist poets like [[Richard Dehmel]] began producing war propaganda, Kraus became a fierce critic of them.<ref name="MATTL09">Siegfried Mattl (2009) [http://journals.cambridge.org/action/displayFulltext?type=1&fid=4612264&jid=MIH&volumeId=6&issueId=01&aid=4612256 "The Ambivalence of Modernism From the Weimar Republic to National Socialism and Red Vienna"], ''Modern Intellectual History'', Volume 6, Issue 01, April 2009, pp. 223–234</ref><ref name="Bru06">Sascha Bru, Gunther Martens (2006) ''The invention of politics in the European avant-garde (1906–1940)'' pp. 52–5</ref>
+
+In 1907, Kraus attacked his erstwhile benefactor Maximilian Harden because of his role in the Eulenburg trial in the first of his spectacular ''Erledigungen'' (''Dispatches'').{{Citation needed|date=December 2009}}
+
+====1910–1919====
+After 1911, Kraus was the sole author of most issues of ''Die Fackel''.
+
+One of Kraus's most influential satirical-literary techniques was his clever [[wordplay]] with quotations. One controversy arose with the text ''Die Orgie'', which exposed how the newspaper ''[[Neue Freie Presse]]'' was blatantly supporting [[Liberalism in Austria#Liberal Political Parties in Austria|Austria's Liberal Party]]'s election campaign; the text was conceived as a guerrilla prank and sent as a fake letter to the newspaper (''Die Fackel'' would publish it later in 1911); the enraged editor, who fell for the trick, responded by suing Kraus for "disturbing the serious business of politicians and editors".<ref name="Bru06" />
+
+After an obituary for [[Archduke Franz Ferdinand of Austria|Franz Ferdinand]], who had been [[Assassination in Sarajevo|assassinated in Sarajevo]] on 28 June 1914, ''Die Fackel'' was not published for many months. In December 1914, it appeared again with an essay "In dieser großen Zeit" ("In this grand time"): "In dieser großen Zeit, die ich noch gekannt habe, wie sie so klein war; die wieder klein werden wird, wenn ihr dazu noch Zeit bleibt; … in dieser lauten Zeit, die da dröhnt von der schauerlichen Symphonie der Taten, die Berichte hervorbringen, und der Berichte, welche Taten verschulden: in dieser da mögen Sie von mir kein eigenes Wort erwarten."<ref>''Die Fackel'', No. 404, December 1914, p. 1</ref> ("In this grand time, which I used to know when it was this small; which will become small again if there is time; … in this loud time that resounds from the ghastly symphony of deeds that spawn reports, and of reports that cause deeds: in this one, you may not expect a word of my own.") In the subsequent time, Kraus wrote against the World War, and censors repeatedly confiscated or obstructed editions of ''Die Fackel''.
+
+Kraus's masterpiece is generally considered to be the massive satirical play about the [[First World War]], ''Die letzten Tage der Menschheit'' (''[[The Last Days of Mankind]]''), which combines dialogue from contemporary documents with [[apocalypse|apocalyptic]] fantasy and commentary by two characters called "the Grumbler" and "the Optimist". Kraus began to write the play in 1915 and first published it as a series of special ''Fackel'' issues in 1919. Its epilogue, "Die letzte Nacht" ("The last night") had already been published in 1918 as a special issue.
+[[Edward Timms]] has called the work a "faulted masterpiece" and a "fissured text" because the evolution of Kraus's attitude during the time of its composition (from [[Aristocracy (government)|aristocratic]] conservative to democratic [[republicanism|republican]]) gave the text structural inconsistencies resembling a [[Fault (geology)|geological fault]].<ref>{{harvnb|Timms|1986|pp=374, 380}}.</ref>
+
+Also in 1919, Kraus published his collected war texts under the title ''Weltgericht'' (''World Court of Justice''). In 1920, he published the satire ''Literatur oder man wird doch da sehn'' (''Literature, or You Ain't Seen Nothing Yet'') as a reply to [[Franz Werfel]]'s ''Spiegelmensch'' (''Mirror Man''), an attack against Kraus.{{Citation needed|date=December 2009}}
+[[File:KarlKraus.jpg|thumb|Plaque of Karl Kraus on the house where he was born in [[Jičín]]]]
+
+====1920–1936====
+During January 1924, Kraus started a fight against Imre Békessy, publisher of the tabloid ''Die Stunde'' (''The Hour''), accusing him of extorting money from restaurant owners by threatening them with bad reviews unless they paid him. Békessy retaliated with a libel campaign against Kraus, who in turn launched an ''Erledigung'' with the catchphrase "Hinaus aus Wien mit dem Schuft!" ("Throw the scoundrel out of Vienna!"). In 1926, Békessy indeed fled Vienna to avoid arrest. Békessy achieved some later success when his novel ''Barabbas'' was the monthly selection of an American book club.{{Citation needed|date=January 2010}}
+
+A peak in Kraus's political commitment was his sensational attack in 1927 on the powerful Vienna police chief [[Johann Schober]], also a former two-term chancellor, after 89 rioters were shot dead by the police during the 1927 [[July Revolt of 1927|July Revolt]]. Kraus produced a poster that in a single sentence requested Schober's resignation; the poster was published all over Vienna and is considered an icon of 20th-century Austrian history.<ref name="MATTL09" />
+
+In 1928, the play ''Die Unüberwindlichen'' (''The Insurmountables'') was published. It included allusions to the fights against Békessy and Schober. During that same year, Kraus also published the records of a lawsuit Kerr had filed against him after Kraus had published Kerr's war poems in ''Die Fackel'' (Kerr, having become a pacifist, did not want his earlier enthusiasm for the war exposed). In 1932, Kraus translated [[William Shakespeare|Shakespeare's]] sonnets.
+
+Kraus supported the [[Social Democratic Party of Austria]] from at least the early 1920s,<ref name="MATTL09" /> but in 1934, hoping [[Engelbert Dollfuss]] could prevent Nazism from engulfing Austria, he supported Dollfuss's coup d'état, which established the Austrian fascist regime.<ref name="MATTL09" /> This support estranged Kraus from some of his followers.
+
+In 1933 Kraus wrote ''Die Dritte Walpurgisnacht'' (''The Third [[Walpurgis Night]]''), of which the first fragments appeared in ''Die Fackel''. Kraus withheld full publication in part to protect his friends and followers hostile to Hitler who still lived in the Third Reich from Nazi reprisals, and in part because "violence is no subject for polemic."<ref>Kraus (1934) ''Die Fackel'' Nr. 890, "{{Lang|de|Warum die Fackel nicht erscheint|italic=no}}", p. 26, quotation: "Gewalt kein Objekt der Polemik"</ref><ref>Kovacsics, Adan (2011) ''Seleción de artículos de «Die Fackel»'', p. 524, quotation: "la obra que Kraus escribió en 1933, pero que no publicó, en parte, como él mismo señala, porque no puede ser «la violencia objeto de polémica ni la locura objeto de sátira», en parte porque temía comprometer a sus amigos y seguidores en Alemania y ponerlos en peligro."</ref><ref>Freschi, Marino (1996) Preface to the Italian translation of ''The Third Walpurgis Night'', pp. XXI–XXII , quotation: "Il progetto venne bloccato dalle remore avvertite da Kraus, preoccupato di coinvolgere amici e conoscenti citati nel libro e ostili a Hitler, che ancora vivevano nel Terzo Reich."</ref> This satire on Nazi ideology begins with the now-famous sentence, "{{Lang|de|Mir fällt zu Hitler nichts ein|italic=no}}" ("Hitler brings nothing to my mind"). Lengthy extracts appear in Kraus's apologia for his silence at Hitler's coming to power, "{{Lang|de|Warum die ''Fackel'' nicht erscheint|italic=unset}}" ("Why ''Die Fackel'' is not published"), a 315-page edition of the periodical. The last issue of ''Die Fackel'' appeared in February 1936. Shortly after, he fell in a collision with a bicyclist and suffered intense headaches and loss of memory. He gave his last lecture in April, and had a severe heart attack in the [[Hotel Imperial|Café Imperial]] on 10 June. He died in his apartment in Vienna on 12 June 1936, and was buried in the [[Zentralfriedhof]] cemetery in Vienna.
+
+Kraus never married, but from 1913 until his death he had a conflict-prone but close relationship with the Baroness [[Sidonie Nádherná von Borutín]] (1885–1950). Many of his works were written in Janowitz castle, Nádherný family property. Sidonie Nádherná became an important pen pal to Kraus and addressee of his books and poems.<ref>[http://www.clivejames.com/karl-kraus "The Question of Karl Kraus"] (from ''The Revolt of the Pendulum'', 2009), ''[[Australian Literary Review]]'', March 2007, via [[Clive James|clivejames.com]]</ref>
+
+In 1911 Kraus was [[baptism|baptized]] as a [[Roman Catholic Church|Catholic]], but in 1923, disillusioned by the Church's support for the war, [[Apostasy|he left]] the Catholic Church, claiming sarcastically that he was motivated "primarily by antisemitism", i.e. indignation at [[Max Reinhardt]]'s use of the [[Kollegienkirche, Salzburg|Kollegienkirche]] in Salzburg as the venue for a theatrical performance.<ref>{{harvnb|Timms|2005|pp=282–283}}.</ref>
+
+Kraus was the subject of two books by [[Thomas Szasz]], ''Karl Kraus and the Soul Doctors'' and ''Anti-Freud: Karl Kraus's Criticism of Psychoanalysis and Psychiatry'', which portray Kraus as a harsh critic of [[Sigmund Freud]] and of [[psychoanalysis]] in general.<ref>Szasz, ''Karl Kraus and the Soul-Doctors'', Routledge & Kegan Paul, 1977, pp. 19–20</ref> Other commentators, such as [[Edward Timms]], have argued that Kraus respected Freud, though with reservations about the application of some of his theories, and that his views were far less black-and-white than Szasz suggests.<ref>{{harvnb|Timms|1986|loc=chpt. 5, "Sorcerers and Apprentices: The Encounter with Freud", especially pp. 107, 111–112}}.</ref>
+
+== Character ==
+Karl Kraus was a subject of controversy throughout his lifetime. [[Marcel Reich-Ranicki]] called him 'vain, self-righteous and self-important'.<ref>Harry Zohn, [https://books.google.com/books?id=zMTJ6QWnaNYC&pg=PA90 ''Karl Kraus and the Critics''], Camden House, 1997, p. 90</ref> Kraus's followers saw in him an infallible authority who would do anything to help those he supported. Kraus considered posterity his ultimate audience, and reprinted ''Die Fackel'' in volume form years after it was first published.<ref name="Knight2004p252">Knight, Charles A. (2004) ''Literature of Satire'' [https://books.google.com/books?id=SOfVePSFctgC&pg=PA252 pp. 252–6]</ref>
+
+A concern with language was central to Kraus's outlook, and he viewed his contemporaries' careless use of language as symptomatic of their insouciant treatment of the world. Viennese composer [[Ernst Krenek]] described meeting the writer in 1932: "At a time when people were generally decrying the [[History of Shanghai#End of Old Shanghai .281937.E2.80.931945.29|Japanese bombardment of Shanghai]], I met Karl Kraus struggling over one of his famous comma problems. He said something like: 'I know that everything is futile when the house is burning. But I have to do this, as long as it is at all possible; for if those who were supposed to look after commas had always made sure they were in the right place, Shanghai would not be burning'."<ref>[[Hans Weigel]], ''Kraus: Die Macht der Ohnmacht'' (Kraus or the power of powerlessness), Brandstätter, 1986, p. 128. Original text: "Als man sich gerade über die Beschießung von Shanghai durch die Japaner erregte und ich Karl Kraus bei einem der berühmten Beistrich-Problemen antraf, sagte er ungefähr: Ich weiß, daß das alles sinnlos ist, wenn das Haus in Brand steht. Aber solange das irgend möglich ist, muß ich das machen, denn hätten die Leute, die dazu verpflichtet sind, immer darauf geachtet, daß die Beistriche am richtigen Platz stehen, so würde Shanghai nicht brennen.“</ref>
+
+The Austrian author [[Stefan Zweig]] once called Kraus "the master of venomous ridicule" (''der Meister des giftigen Spotts'').<ref>[[Stefan Zweig]], ''Die Welt von Gestern. Erinnerungen eines Europäers'' (Frankfurt am Main: Fischer, 1986), 127.</ref> Up to 1930, Kraus directed his satirical writings to figures of the center and the left of the political spectrum, as he considered the flaws of the right too self-evident to be worthy of his comment.<ref name="Knight2004p252" /> Later, his responses to the Nazis included ''The Third Walpurgis Night''.
+
+To the numerous enemies he made with the inflexibility and intensity of his partisanship, however, he was a bitter [[Misanthropy|misanthrope]] and ''poor would-be'' ([[Alfred Kerr]]). He was accused of wallowing in hateful denunciations and ''Erledigungen'' [breakings-off].{{Citation needed|date=May 2011}} Along with [[Karl Valentin]], he is considered a master of [[gallows humor]].<ref>{{cite web|url=http://www.danieleluttazzi.it/?q%3Dnode%2F221 |author=Marmo, Emanuela |title=Interview with Daniele Luttazzi |date=March 2004 |access-date=May 6, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20060506133300/http://www.danieleluttazzi.it/?q=node%2F221 |archive-date=May 6, 2006 |quote="Quando la satira poi riesce a far ridere su un argomento talmente drammatico di cui si ride perché non c'è altra soluzione possibile, si ha quella che nei cabaret di Berlino degli Anni '20 veniva chiamata la 'risata verde'. È opportuno distinguere una satira ironica, che lavora per sottrazione, da una satira grottesca, che lavora per addizione. Questo secondo tipo di satira genera più spesso la risata verde. Ne erano maestri Kraus e Valentin." }}</ref>
+
+[[Giorgio Agamben]] compared [[Guy Debord]] and Kraus for their criticism of journalists and [[media culture]].<ref>[[Giorgio Agamben]] in Debord ''Commentari sulla società dello spettacolo'', quotation: "Se c'è, nel nostro secolo, uno scrittore con cui Debord accetterebvbe forse di essere paragonato, questi è Karl Kraus. Nessuno ha saputo, come Kraus nella sua caparbia lotta coi giornalisti, portare alla luce le leggi nascoste dello spettacolo, «i fatti che producono notizie e le notizie che sono colpevoli dei fatti». E se si dovesse immaginare qualcosa che corrisponde alla voce fuori campo che nei film di Debord accompagna l'esposizione del deserto di macerie dello spettacolo, nulla di più appropriato che la voce di Kraus (...) È nota la battuta con cui, nella postuma ''Terza notte di Valpurga'', Kraus giustifica il suo silenzio davanti all'avvento del nazismo: «Su Hitler non mi viene in mente nulla»."</ref>
+
+[[Gregor von Rezzori]] wrote of Kraus, "[His] life stands as an example of moral uprightness and courage which should be put before anyone who writes, in no matter what language... I had the privilege of listening to his conversation and watching his face, lit up by the pale fire of his fanatic love for the miracle of the German language and by his holy hatred for those who used it badly."<ref>[[Gregor von Rezzori]] (1979) ''Memoirs of an Anti-Semite''. Middlesex; Penguin; pp. 219–220.</ref>
+
+Kraus's work has been described as the culmination of a literary outlook. Critic Frank Field quoted the words [[Bertolt Brecht]] wrote of Kraus, on hearing of his death: "As the epoch raised its hand to end its own life, he was the hand."<ref>Frank Field, ''The Last Days of Mankind: Karl Kraus and his Vienna'', Macmillan, 1967, p. 242</ref>
+
+== Selected works ==
+* ''Die demolierte Literatur'' [Demolished Literature] (1897)
+* ''[[Eine Krone für Zion]]'' [A Crown for Zion] (1898)
+* ''Sittlichkeit und Kriminalität'' [Morality and Criminal Justice] (1908)
+* ''Sprüche und Widersprüche'' [Sayings and Contradictions] (1909)
+* ''Die chinesische Mauer'' [The Wall of China] (1910)
+* ''Pro domo et mundo'' [For Home and for the World] (1912)
+* ''[[Johann Nestroy|Nestroy]] und die Nachwelt'' [Nestroy and Posterity] (1913)
+* ''Worte in Versen'' (1916–30)
+* ''Die letzten Tage der Menschheit'' ([[The Last Days of Mankind]]) (1918)
+* ''Weltgericht'' [The Last Judgment] (1919)
+* ''Nachts'' [At Night] (1919)
+* ''Untergang der Welt durch schwarze Magie'' [The End of the World Through Black Magic] (1922)
+* ''Literatur'' (Literature) (1921)
+* ''Traumstück'' [Dream Piece] (1922)
+* ''Die letzten Tage der Menschheit: Tragödie in fünf Akten mit Vorspiel und Epilog'' [The Last Days of Mankind: Tragedy in Five Acts with Preamble and Epilogue] (1922)
+* ''Wolkenkuckucksheim'' [Cloud Cuckoo Land] (1923)
+* ''Traumtheater'' [Dream Theatre] (1924)
+* ''Epigramme'' [Epigrams] (1927)
+* ''Die Unüberwindlichen'' [The Insurmountables] (1928)
+* ''Literatur und Lüge'' [Literature and Lies] (1929)
+* ''Shakespeares Sonette'' (1933)
+* ''Die Sprache'' [Language] (posthumous, 1937)
+* ''Die dritte Walpurgisnacht'' [The Third Walpurgis Night] (posthumous, 1952)
+
+Some works have been re-issued in recent years:
+
+* {{Lang|de|''Die letzten Tage der Menschheit'', Bühnenfassung des Autors|italic=unset}}, 1992 Suhrkamp, {{ISBN|3-518-22091-8}}
+* ''Die Sprache'', Suhrkamp, {{ISBN|3-518-37817-1}}
+* ''Die chinesische Mauer'', mit acht Illustrationen von Oskar Kokoschka, 1999, Insel, {{ISBN|3-458-19199-2}}
+* ''Aphorismen. Sprüche und Widersprüche''. Pro domo et mundo. Nachts, 1986, Suhrkamp, {{ISBN|3-518-37818-X}}
+* ''Sittlichkeit und Krimininalität'', 1987, Suhrkamp, {{ISBN|3-518-37811-2}}
+* ''Dramen. Literatur, Traumstück, Die unüberwindlichen u.a.'', 1989, Suhrkamp, {{ISBN|3-518-37821-X}}
+* ''Literatur und Lüge'', 1999, Suhrkamp, {{ISBN|3-518-37813-9}}
+* ''Shakespeares Sonette'', Nachdichtung, 1977, Diogenes, {{ISBN|3-257-20381-0}}
+* ''Theater der Dichtung mit Bearbeitungen von Shakespeare-Dramen'', Suhrkamp 1994, {{ISBN|3-518-37825-2}}
+* ''Hüben und Drüben'', 1993, Suhrkamp, {{ISBN|3-518-37828-7}}
+* ''Die Stunde des Gerichts'', 1992, Suhrkamp, {{ISBN|3-518-37827-9}}
+* ''Untergang der Welt durch schwarze Magie'', 1989, Suhrkamp, {{ISBN|3-518-37814-7}}
+* ''Brot und Lüge'', 1991, Suhrkamp, {{ISBN|3-518-37826-0}}
+* ''Die Katastrophe der Phrasen'', 1994, Suhrkamp, {{ISBN|3-518-37829-5}}
+
+=== Works in English translation ===
+* {{cite book | translator1-first=Alexander |translator1-last=Gode |translator2-first=Sue |translator2-last=Allen Wright | title = The Last Days of Mankind: A Tragedy in Five Acts (abridged) | publisher = F. Ungar Pub. Co | location = New York | year = 1974 | isbn = 9780804424844 | url-access = registration | url = https://archive.org/details/lastdaysofmankin00krau }}
+* ''No Compromise: Selected Writings of Karl Kraus'' (1977, ed. Frederick Ungar, includes poetry, prose, and aphorisms from ''Die Fackel'' as well as correspondences and excerpts from ''The Last Days of Mankind.)''
+* ''In These Great Times: A Karl Kraus Reader'' (1984), ed. Harry Zohn, contains translated excerpts from ''Die Fackel'', including poems with the original German text alongside, and a drastically abridged translation of ''The Last Days of Mankind''.
+* ''Anti-Freud: Karl Kraus' Criticism of Psychoanalysis and Psychiatry'' (1990) by Thomas Szasz contains Szasz's translations of several of Kraus' articles and aphorisms on psychiatry and psychoanalysis.
+* ''Half Truths and One-and-a-Half Truths: selected aphorisms'' (1990) translated by Hary Zohn. Chicago {{ISBN|0-226-45268-9}}.
+* ''Dicta and Contradicta'', tr. Jonathan McVity (2001), a collection of aphorisms.
+* ''The Last Days of Mankind'' (1999) a radio drama broadcast on BBC Three. [[Paul Scofield]] plays The Voice of God. Adapted and directed by Giles Havergal. The 3 episodes were broadcast from 6 to 13 December 1999.
+* Work in progress. An incomplete and extensively annotated English translation by Michael Russell of ''The Last Days of Mankind'' is available at http://www.thelastdaysofmankind.org. It consists currently of Prologue, Act I, Act II and the Epilogue, slightly more than 50 percent of the original text. This is part of a project to translate a complete performable text with a focus on performable English that in some (modest) ways reflects Kraus's prose and verse in German, with an apparatus of footnotes explaining and illustrating Kraus's complex and dense references. The all-verse Epilogue is now published as a separate text, available from Amazon as a book and on Kindle.  Also on this site will be a complete "working'" translation by Cordelia von Klot, provided as a tool for students and the only version of the whole play accessible online, translated into English with the useful perspective of a German speaker.
+* ''The Kraus Project: Essays by Karl Kraus'' (2013) translated by [[Jonathan Franzen]], with commentary and additional footnotes by Paul Reitter and [[Daniel Kehlmann]].
+* ''In These Great Times and Other Writings'' (2014, translated with notes by Patrick Healy, ebook only from November Editions. Collection of eleven essays, aphorisms, and the prologue and first act of ''The Last Days of Mankind)''
+* [http://www.abitofpitch.com www.abitofpitch.com] is dedicated to publishing selected writings of Karl Kraus in English translation with new translations appearing in irregular intervals.
+* ''The Last Days of Mankind'' (2015), complete text translated by Fred Bridgham and [[Edward Timms]]. Yale University Press.
+* ''The Last Days of Mankind'' (2016), alternate translation by Patrick Healy, November Editions
+*''Third Walpurgis Night: the Complete Text'' (2020), translated by Fred Bridgham. Yale University Press.
+
+==References==
+
+===Citations===
+{{Reflist}}
+
+===Sources===
+* ''Karl Kraus'' by L. Liegler (1921)
+* ''Karl Kraus'' by [[Walter Benjamin|W. Benjamin]] (1931)
+* ''Karl Kraus'' by R. von Schaukal (1933)
+* ''Karl Kraus in Sebstzeugnissen und Bilddokumenten'' by P. Schick (1965)
+* ''The Last Days of Mankind: Karl Kraus and His Vienna'' by Frank Field (1967)
+* ''Karl Kraus'' by W.A. Iggers (1967)
+* ''Karl Kraus'' by H. Zohn (1971)
+* ''Wittgenstein's Vienna'' by A. Janik and S. Toulmin (1973)
+* ''Karl Kraus and the Soul Doctors'' by [[Thomas Szasz|T.S. Szasz]] (1976)
+* ''Masks of the Prophet: The Theatrical World of Karl Kraus'' by Kari Grimstad (1981)
+* ''McGraw-Hill Encyclopedia of World Drama'', vol. 3, ed. by Stanley Hochman (1984)
+* {{cite book |last = Timms |first = Edward |author-link = Edward Timms |title = Karl Kraus, Apocalyptic Satirist: Culture and Catastrophe in Habsburg Vienna |url = https://archive.org/details/karlkrausapocaly0000timm |publication-place = New Hawen |publisher = Yale University Press |year = 1986|isbn = 0-300-03611-6}} reviews: [https://www.jstor.org/stable/3728643] [https://www.jstor.org/stable/1347455] [http://yalepress.yale.edu/yupbooks/reviews.asp?isbn=9780300044836] [https://web.archive.org/web/20080423065353/http://tls.timesonline.co.uk/article/0,,25336-1914702,00.html]
+* {{cite book |last = Timms |first = Edward |author-link = Edward Timms |title = Karl Kraus, Apocalyptic Satirist: The Post-War Crisis and the Rise of the Swastika |url = https://archive.org/details/karlkrausapocaly0000timm_b2o0 | publication-place = New Hawen |publisher = Yale University Press|year = 2005|isbn=0-300-10751-X}}
+* ''Anti-Freud: Karl Kraus's Criticism of Psychoanalysis and Psychiatry'' by Thomas Szasz (1990)
+* ''The Paper Ghetto: Karl Kraus and Anti-Semitism'' by John Theobald (1996)
+* ''Karl Kraus and the Critics'' by Harry Zohn (1997)
+* ''[https://books.google.com/books?id=m-mc76HwPdwC Otto Weininger: Sex, Science, and Self in Imperial Vienna]'' by Chandak Sengoopta pp.&nbsp;6, 23, 35–36, 39–41, 43–44, 137, 141–45
+* Linden, Ari. "Beyond Repetition: Karl Kraus's 'Absolute Satire'." ''German Studies Review'' 36.3 (2013): 515–536.
+* Linden, Ari. "Quoting The Language Of Nature In Karl Kraus's Satires." ''Journal of Austrian Studies'' 46.1 (2013): 1–22.
+* {{cite journal|last1=Bloch|first1=Albert|title=Karl Kraus' Shakespeare|journal=Books Abroad|date=1937|volume=11|issue=1|pages=21–24|doi=10.2307/40077864|jstor=40077864}}
+* {{cite book |last=Willett |first=John |date=1959 |title=The Theatre of Bertolt Brecht: A Study from Eight Aspects |location=London |publisher=Methuen |isbn=0-413-34360-X |url-access=registration |url=https://archive.org/details/theatreofbertolt0000will }}
+
+== External links ==
+{{Commons category|Karl Kraus}}
+{{wikiquote|Karl Kraus}}
+{{Wikisourcelang|de|Karl Kraus}}
+* [http://www.theabsolute.net/minefield/kraus.html The Life and Work of Karl Kraus]
+* [http://www.truthandbeauty.ru Truth and Beauty- a successor publication by his great-nephew, Eric Kraus]
+* [http://www.lrb.co.uk/v35/n21/joshua-cohen/no-one-hates-him-more On Jonathan Franzen's Karl Kraus] by Joshua Cohen, at ''The London Review of Books''
+* [http://www.aac.ac.at/fackel Digitalized edition of ''Die Fackel''] (registration required) from the Austrian Academy of Science AAC (user interface in German and English)
+* [http://www.nonviolent-resistance.info/exhibitions/ger/kraus/index.htm Karl Kraus – ''Weltgericht'' (''The Last Judgement''). Polemiken gegen den Krieg (Polemics against the War)] – Online-Exhibition in German, including original film footage (2014)
+* {{Internet Archive author |sname=Karl Kraus |birth=1874 |death=1936}}
+* {{Librivox author |id=767}}
+
+{{German literature}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kraus, Karl}}
+[[Category:1874 births]]
+[[Category:1936 deaths]]
+[[Category:20th-century Austrian dramatists and playwrights]]
+[[Category:20th-century Austrian poets]]
+[[Category:20th-century Austrian male writers]]
+[[Category:Anti-Zionist Jews]]
+[[Category:Converts to Roman Catholicism from Judaism]]
+[[Category:Former Roman Catholics]]
+[[Category:Anti-Zionists from Austria-Hungary]]
+[[Category:Aphorists]]
+[[Category:Austrian essayists]]
+[[Category:Jewish Austrian writers]]
+[[Category:Austrian satirists]]
+[[Category:Austrian male dramatists and playwrights]]
+[[Category:Austrian male poets]]
+[[Category:Austrian newspaper editors]]
+[[Category:Jews from Austria-Hungary]]
+[[Category:Writers from Austria-Hungary]]
+[[Category:Burials at the Vienna Central Cemetery]]
+[[Category:German-language poets]]
+[[Category:Jewish poets]]
+[[Category:Austrian male essayists]]
+[[Category:20th-century newspaper publishers (people)]]
+[[Category:People from Jičín]]
+[[Category:Jews from Bohemia]]
+[[Category:Young Vienna]]

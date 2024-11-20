@@ -1,0 +1,105 @@
+{{Short description|German philosopher}}
+{{Infobox philosopher
+| region = [[Western philosophy]]
+| era    = [[18th-century philosophy]]
+| image            = 
+| name             = Alexander Gottlieb Baumgarten
+| school_tradition = [[Age of Enlightenment]]
+| birth_date  = 17 July 1714
+| birth_place = [[Berlin]], [[Margraviate of Brandenburg|Brandenburg]]
+| death_date  = {{death date and age|1762|5|27|1714|7|17|df=y}}
+| death_place = [[Frankfurt (Oder)]], [[Margraviate of Brandenburg|Brandenburg]]
+| education  = [[University of Halle]]<br>[[University of Jena]] (no degree)
+| main_interests = [[Aesthetics]]
+| notable_ideas = Aesthetics as the perfection of sensuous cognition<ref>Alexander Baumgarten, ''Aesthetica'', 1750, §1: "Aesthetices finis est perfectio cognitionis sensitivae".</ref><ref>Steven Nadler (ed.), ''A Companion to Early Modern Philosophy'', John Wiley & Sons, 2008, p. 622.</ref>
+| academic_advisors = [[Christian Wolff (philosopher)|Christian Wolff]]<br>{{Interlanguage link|Johann Peter Reusch|de}}
+| notable_students = [[Georg Friedrich Meier]]
+| institutions = [[University of Halle]]<br>[[Alma Mater Viadrina]]
+}}
+
+'''Alexander Gottlieb Baumgarten''' ({{IPAc-en|ˈ|b|aʊ|m|g|ɑr|t|ən}}; {{IPA|de|ˈbaʊmˌgaʁtn̩|lang}}; 17 July 1714 &ndash; 27 May<ref name="lekschas">Jan Lekschas, [http://www.jan.lekschas.de/?section=gene''The Baumgarten Family''] {{Webarchive|url=https://web.archive.org/web/20190124203924/https://jan.lekschas.de/?section=gene |date=2019-01-24 }}</ref> 1762) was a German [[philosopher]]. He was a brother to theologian [[Siegmund Jakob Baumgarten]] (1706–1757).
+
+==Biography==
+Baumgarten was born in [[Berlin]] as the fifth of seven sons of the [[pietist]] [[pastor]] of the [[garrison]], Jacob Baumgarten, and his wife Rosina Elisabeth. Both his parents died early, and he was taught by Martin Georg Christgau where he learned [[Hebrew]] and became interested in [[Latin]] [[poetry]].
+
+In 1733, during his formal studies at the [[University of Halle]], he attended lectures on the philosophy of [[Christian Wolff (philosopher)|Christian Wolff]] by {{Interlanguage link|Johann Peter Reusch|de}} at the [[University of Jena]].<ref>Robert Theis, Alexander Aichele (eds.), ''Handbuch Christian Wolff'', Springer-Verlag, 2017, p. 442.</ref><ref>[http://www.baumgarten-alexander-gottlieb.de/leben/druckleben.html Alexander Gottlieb Baumgarten (1714-1762)]</ref>
+
+==Philosophical work==
+While the meanings of words often change as a result of cultural developments, Baumgarten's reappraisal of [[aesthetics]] is often seen as a key moment in the development of [[aesthetic philosophy]].<ref>{{cite book|author1-link=Howard Caygill|last1=Caygill|first1=Howard|title=Aesthetics and Civil Society: Theories of Art and Society, 1640-1790|date=1982|location=University of Sussex|url=https://books.google.com/books?id=cOwrnQEACAAJ}}</ref> Previously the word ''aesthetics'' had merely meant "sensibility" or "responsiveness to stimulation of the senses" in its use by ancient writers. With the development of [[art]] as a commercial enterprise linked to the rise of a ''[[nouveau riche]]'' class across Europe, the purchasing of art inevitably led to the question, "what is good art?". Baumgarten developed aesthetics to mean the study of good and bad "[[Taste (sociology)|taste]]", thus good and bad art, linking good taste with beauty.
+
+By trying to develop an idea of good and bad taste, he also in turn generated philosophical debate around this new meaning of aesthetics. Without it, there would be no basis for aesthetic debate as there would be no objective criterion, basis for comparison, or reason from which one could develop an objective argument.
+
+===Views on aesthetics===
+[[File:Aesthetica.png|thumb|''Aesthetica'' (1750) by Alexander Gottlieb Baumgarten]]
+Baumgarten appropriated the word ''aesthetics'', which had always meant "sensation", to mean taste or "sense" of beauty. In so doing, he gave the word a different significance, thereby inventing its modern usage. The word had been used differently since the time of the ancient Greeks to mean the ability to receive stimulation from one or more of the five bodily senses. In his ''Metaphysic'', § 607,<ref>[https://books.google.com/books?id=WU-rqBF6J_QC&q=607 Metaphysics: A Critical Translation with Kant's Elucidations]</ref> Baumgarten defined taste, in its wider meaning, as the ability to judge according to the senses, instead of according to the intellect. Such a judgment of taste he saw as based on feelings of pleasure or displeasure. A science of aesthetics would be, for Baumgarten, a deduction of the rules or principles of artistic or natural beauty from individual "taste". Baumgarten may have been motivated to respond to Pierre Bonhours' (b.1666) opinion, published in a pamphlet in the late 17th century, that Germans were incapable of appreciating art and beauty.
+
+==Reception==
+In 1781, [[Immanuel Kant]] declared that Baumgarten's aesthetics could never contain objective rules, laws, or principles of natural or artistic beauty.
+
+{{blockquote|text=The Germans are the only people who presently (1781) have come to use the word ''aesthetic[s]'' to designate what others call the critique of taste. They are doing so on the basis of a false hope conceived by that superb analyst Baumgarten. He hoped to bring our critical judging of the beautiful under rational principles, and to raise the rules for such judging to the level of a lawful science. Yet that endeavor is futile. For, as far as their principal sources are concerned, those supposed rules or criteria are merely empirical. Hence they can never serve as determinate ''a priori'' laws to which our judgment of taste must conform. It is, rather, our judgment of taste which constitutes the proper test for the correctness of those rules or criteria. Because of this it is advisable to follow either of two alternatives. One of these is to stop using this new name ''aesthetic[s]'' in this sense of critique of taste, and to reserve the name ''aesthetic[s]'' for the doctrine of sensibility that is true science. (In doing so we would also come closer to the language of the ancients and its meaning. Among the ancients the division of cognition into ''aisthētá kai noētá'' [sensed or thought] was quite famous.) The other alternative would be for the new ''aesthetic[s]'' to share the name with speculative philosophy. We would then take the name partly in its transcendental meaning, and partly in the psychological meaning. (''[[Critique of Pure Reason]]'', A 21, note.)|sign=|source=}}
+Nine years later, in his ''[[Critique of Judgment]]'', Kant conformed to Baumgarten's new usage and employed the word ''aesthetic'' to mean the judgment of [[Taste (sociology)|taste]] or the estimation of the beautiful. For Kant, an aesthetic judgment is subjective in that it relates to the internal feeling of pleasure or displeasure and not to any qualities in an external object.
+
+In 1897, [[Leo Tolstoy]], in his ''[[What is Art?]]'', criticized Baumgarten's book on aesthetics. Tolstoy opposed "Baumgarten's trinity &ndash; Good, Truth and Beauty…."<ref name="What7">''[[What is Art?]]'', VII</ref> Tolstoy asserted that "these words not only have no definite meaning, but they hinder us from giving any definite meaning to existing art…."<ref name="What7" /> Baumgarten, he said, claimed that there are three ways to know perfection: "Beauty is the perfect (the absolute) perceived by the senses. Truth is the perfect perceived by reason. The good is the perfect attained by the moral will."<ref>''[[What is Art?]]'',  III</ref> Tolstoy, however, contradicted Baumgarten's theory and claimed that good, truth, and beauty have nothing in common and may even oppose each other. 
+ 
+{{blockquote|text=…the arbitrary uniting of these three concepts served as a basis for the astonishing theory according to which the difference between good art, conveying good feelings, and bad art, conveying wicked feelings, was totally obliterated, and one of the lowest manifestations of art, art for mere pleasure…came to be regarded as the highest art. And art became, not the important thing it was intended to be, but the empty amusement of idle people. (''[[What is Art?]]'', VII.)}}
+
+Whatever the limitations of Baumgarten's theory of aesthetics, [[Frederick Copleston]] credits him with playing a formative role in German aesthetics, extending [[Christian Wolff (philosopher)|Christian Wolff]]'s philosophy to topics that Wolff did not consider, and demonstrating the existence of a legitimate topic for philosophical analysis that could not be reduced to abstract logical analysis.<ref name="FC">Frederick Copleston (1946–1975). ''[[A History of Philosophy (Copleston)|A History of Philosophy]]'', vol. VI.</ref>
+
+==Metaphysics==
+For many years, Kant used Baumgarten's ''Metaphysica'' as a handbook or manual for his lectures on that topic. [[Georg Friedrich Meier]] translated the ''Metaphysics'' from Latin to German, an endeavour which – according to Meier – Baumgarten himself had planned, but could not find the time to execute.
+
+== Works ==
+* ''Dissertatio chorographica, Notiones superi et inferi, indeque adscensus et descensus, in chorographiis sacris occurentes, evolvens'' (1735)
+* ''[https://web.archive.org/web/20101005090921/http://modernsource.daphnet.org/texts/Baumgarten/BauMPh Meditationes philosophicae de nonnullis ad poema pertinentibus]'' ([[doctoral thesis]], 1735)
+* ''De ordine in audiendis philosophicis per triennium academicum quaedam praefatus acroases proximae aestati destinatas indicit Alexander Gottlieb Baumgarten'' (1738)
+* [https://books.google.com/books?id=C7tRik1BRV0C ''Metaphysica''] (1739)
+* ''[https://books.google.com/books?id=kwA-AAAAcAAJ Ethica philosophica]'' (1740)
+* ''Alexander Gottlieb Baumgarten eröffnet Einige Gedancken vom vernünfftigen Beyfall auf Academien, und ladet zu seiner Antritts-Rede [...] ein'' (1740)
+* ''Serenissimo potentissimo principi Friderico, Regi Borussorum marchioni brandenburgico S. R. J. archicamerario et electori, caetera, clementissimo dominio felicia regni felicis auspicia, a d. III. Non. Quinct. 1740'' (1740)
+* ''Philosophische Briefe von Aletheophilus'' (1741)
+* ''Scriptis, quae moderator conflictus academici disputavit, praefatus rationes acroasium suarum Viadrinarum reddit Alexander Gottlieb Baumgarten'' (1743)
+* ''[https://archive.org/details/aestheticascrip00baumgoog Aesthetica]'' (1750)
+* ''[http://www.korpora.org/Kant/agb-initia/index.html Initia Philosophiae Practicae. Primae Acroamatice] {{Webarchive|url=https://web.archive.org/web/20110716230741/http://www.korpora.org/Kant/agb-initia/index.html |date=2011-07-16 }}'' (1760)
+* ''[https://books.google.com/books?id=PaE_AAAAYAAJ Acroasis logica in Christianum L.B. de Wolff]'' (1761, 2nd ed. 1773)
+* ''Ius naturae'' (posthum 1763)
+* ''Sciagraphia encyclopaedia philosophicae'' (ed. Johs. Christian Foerster 1769)
+* ''Philosophia generalis'' (ed. Johs. Christian Foerster 1770)
+* ''Alex. Gottl. Baumgartenii Praelectiones theologiae dogmaticae'' (ed. Salomon Semmler; 1773)
+* ''[https://books.google.com/books?id=gFD_n4B_eU0C Alexander Gottlieb Baumgartens Metaphysik]'' (translated by [[Georg Friedrich Meier]] 1766)
+* ''Gedanken über die Reden Jesu nach dem Inhalt der evangelischen Geschichten'' (ed. F.G. Scheltz & A.B. Thiele; 1796–1797)
+
+===English translations===
+* Alexander Baumgarten, ''Metaphysics. A Critical Translation with Kant's Elucidations, Selected Notes, and Related Materials'' translated and edited by Courtney D. Fugate and John Hymers, London, New York: Bloomsbury Publishing, 2013.
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite EB1911|wstitle=Baumgarten, Alexander Gottlieb}}
+
+==Further reading==
+* Eric Watkins (ed.), ''Kant's Critique of Pure Reason: Background Source Materials'', Cambridge University Press, 2009 (Chapter 3 contains a partial translation of the 'Metaphysics').
+
+==External links==
+{{commons category}}
+* [https://www.amazon.com/Baumgarten-Kant-Metaphysics-Courtney-Fugate/dp/0198783884 Baumgarten and Kant on Metaphysics] 2018  Courtney D. Fugate (Editor), John Hymers (Editor) 
+* Jan Lekschas, [https://web.archive.org/web/20190124203924/https://jan.lekschas.de/?section=gene''The Baumgarten Family''] (in German)
+* [http://www.baumgarten-alexander-gottlieb.de Alexander Gottlieb Baumgarten (1714-1762)] (in German)
+
+{{aesthetics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Baumgarten, Alexander Gottlieb}}
+[[Category:1714 births]]
+[[Category:1762 deaths]]
+[[Category:Writers from Berlin]]
+[[Category:People from the Margraviate of Brandenburg]]
+[[Category:18th-century Protestants]]
+[[Category:18th-century German philosophers]]
+[[Category:German philosophers of art]]
+[[Category:University of Halle alumni]]
+[[Category:University of Jena alumni]]
+[[Category:Academic staff of the University of Halle]]
+[[Category:Academic staff of European University Viadrina]]
+[[Category:18th-century German male writers]]
+[[Category:Writers from the Kingdom of Prussia]]

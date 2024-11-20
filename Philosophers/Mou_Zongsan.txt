@@ -1,0 +1,168 @@
+{{Short description|Chinese philosopher and translator}}
+{{family name hatnote|[[Mou (surname)|Mou]]|lang=Chinese}}
+{{Infobox philosopher
+|name=Mou Zongsan
+|image=Mou Tsung-san 1960s.jpg
+|caption=Mou teaching in [[British Hong Kong|Hong Kong]] in the 1960s
+|birth_date={{birth date|1909|6|12|df=y}}<ref name=Chronicle>{{cite book |author1=Tsai Ren-hou (蔡仁厚) |title=Complete Works of Professor Mou Tsung-san, Vol. 32 (《牟宗三先生全集》第32冊)|date=2003 |publisher=Linking Publishing Company (聯經出版) |location=[[Taipei]] |isbn=9570825510 |chapter=Chronicle of Professor Mou Tsung-san's Life and Scholarship (〈牟宗三先生學思年譜〉)}}</ref>{{rp|Chronicle, p.2}}
+|birth_place=[[Shandong]], [[Qing Dynasty|Qing China]]
+|death_date={{death date and age|1995|4|12|1909|6|12|df=y}}<ref name=Chronicle/>{{rp|Chronicle, p.95}}
+|death_place=[[Taipei]], [[Taiwan]]
+|alma_mater=[[Peking University]]
+|region=[[Chinese philosophy]]|era=[[20th-century philosophy]]|influences=[[Confucius]] · [[Mencius]] · [[Guo Xiang|Guo]] · [[Wang Bi|Wang]] · [[Zhuang Zhou|Zhuangzi]] · [[Cheng Hao|Cheng]] · [[Lu Jiuyuan|Lu]] · [[Wang Yangming|Wang]] · [[Kant]] · [[Hegel]] · [[Max Müller|Müller]] · [[Alfred North Whitehead|Whitehead]] · [[Bertrand Russell|Russell]] · [[Xiong Shili|Xiong]] · [[Heidegger]]|school_tradition=[[New Confucianism]]|influenced=[[Liu Shu-hsien]] · [[Tu Weiming]]|main_interests=History of Chinese philosophy|notable_ideas=[[Kant's influence on Mou Zongsan|Interpretation of Immanuel Kant's thought]]}}
+
+'''Mou Zongsan''' ({{zh|c=牟宗三|p=Móu Zōngsān|w='''Mou Tsung-san'''}}; 12 June 1909 – 12 April 1995) was a Chinese philosopher and translator. He was born in [[Shandong]] province and graduated from [[Peking University]]. In 1949 he moved to [[Taiwan]], and later Hong Kong, remaining outside of [[mainland China]] for the rest of his life.  His thought was heavily influenced by [[Immanuel Kant]], whose three [[Critiques]] he translated from English, possibly first,<ref name=Chan>•	Chan, Wing-Cheuk. "Mou Zongsan's Transformation Of Kant'S Philosophy." Journal of Chinese Philosophy 33.1 (2006): 125-39. Print.</ref> into Chinese, and above all by [[Tiantai]] Buddhist philosophy.
+
+Over the last 40 years of his life, Mou wrote histories of "[[Neo-Daoist]]," [[Confucianism|Confucian]], and [[Buddhist philosophy]] (totaling six volumes) a group of constructive philosophic treatises, culminating in his 1985 work, ''On the Summum Bonum'' ({{zh|c=圓善論|p=yuanshan lun}}), in which he attempts to rectify the problems in Kant's system through a Confucian-based philosophy reworked with a set of concepts appropriated from Tiantai Buddhism.
+
+In the People's Republic of China, Mou is especially famous for his cultural traditionalism and his defense of democracy as a traditional Chinese value.
+
+==Biography==
+Mou Zongsan was born into the family of an innkeeper in [[Qixia, Shandong|Qixia]], [[Shandong]]. He went to Peking University for college prep (1927) and undergraduate courses (1929). During that time he became a follower of [[Xiong Shili]], author of the ''New Treatise on Consciousness-only'' and soon to be the most eminent philosopher in China until supplanted by Mou himself. After graduating in 1933, Mou moved around the country working as a secondary school teacher and a faculty member at different universities. In 1949 he followed the [[Guomindang|Nationalist]] government to Taiwan. His student at [[Tunghai University]] was [[Tu Weiming]]. In 1960 he moved to Hong Kong and eventually took up a post at [[New Asia College]] in Hong Kong (now part of the [[Chinese University of Hong Kong]]) and helped found [[New Asia Middle School]].<ref>{{cite book |author1=林之滿、蕭楓 |title=渾厚深沉的中國哲學（下） |date=2008 |publisher=遼海出版社 |quote=退休後，唐君毅又與牟宗三、徐復觀一起創辦新亞中學，熱心於教育事業。}}</ref> During the last two decades of his life Mou was something of an intellectual celebrity. He lectured frequently on Confucian, Buddhist, Daoist, and Kantian philosophy at [[Hong Kong University]], [[National Taiwan Normal University]], and [[National Taiwan University]]. He died in [[Taipei]] in 1995, leaving dozens of disciples in top academic jobs in Taiwan and Hong Kong.<ref>Jason Clower, "[http://www.iep.utm.edu/zongsan/ Mou Zongsan (Mou Tsung-san)] ," [http://www.iep.utm.edu/home/about/ Internet Encyclopedia of Philosophy]</ref>
+
+==Works==
+Mou's complete works contains more than 30 volumes written over about 60 years. In religious studies and philosophy programs, attention is paid mostly to his production in his last 30 years. These can be divided into histories of Chinese philosophy and philosophic treatises.
+
+===Histories of philosophy===
+''Physical Nature and Speculative Reason'' 才性與玄理 (1963). This is Mou's main treatise on "Neo-Daoism" or ''xuanxue'' 玄學. It is an analysis of intellectual developments of the Wei-Jin dynasties (220-420 AD), said to set the agenda for much of later Chinese philosophy and anticipate the developments in Buddhist philosophy later understood by Mou as a pattern underlying the main line of Song-Ming Confucianism.
+
+''Substance of Mind and Substance of Human Nature'' 心體與性體 (1968–1969). This is probably the most studied of Mou's books, and by far the most famous in the West. It is a three volume history of Confucianism in the Song (960-1279) and Ming (1368-1644) dynasties, often called "[[Neo-Confucianism]]" in the West. It challenges usual two-part division of Neo-Confucian thought into a "school of principle" (''lixue'' 理學), the [[Cheng-Zhu school]] represented by [[Cheng Yi (philosopher)|Cheng Yi]], [[Cheng Hao]], and [[Zhu Xi]], and a "school of mind" ({{ill|xinxue|zh|心學}} 心學) or {{ill|xinxue|lt=Lu-Wang school|zh|心學}} represented by [[Lu Xiangshan]] and [[Wang Yangming]]. Mou identifies a third lineage, whose main figures are [[Hu Hong]] (Hu Wufeng) and [[Liu Zongzhou]] (Liu Jishan), which best conveys the basic message of the classical sage [[Mencius]]. Mou's later book ''From Lu Xiangshan to Liu Jishan'' ({{lang|zh-Hant|從陸象山到劉蕺山}}) (1979) is treated as the fourth volume of this book.
+
+''Buddha-Nature and Prajna'' 佛性與般若 (1977). This is Mou's main examination of [[Buddhist philosophy]], written in two volumes. It upends usual Chinese recognition of [[Huayan school]] as most well-developed form of Buddhism and puts the [[Tiantai]] school in first place. Mou credits Tiantai with having the best concepts for understanding the authoritative Hong-Liu line of Confucianism.
+
+===Philosophical treatises===
+''Intellectual Intuition and Chinese Philosophy'' 智的直覺與中國哲學 (1971). In this treatise, Mou applies the Kantian idea of 'intellectual intuition' to Chinese philosophy, which he believes affirms the idea that human beings can have such awareness. He expresses strong interest in the utility of Buddhist philosophy for Confucian purposes. This book is often thought of as an early version of ''Phenomenon and Thing-in-Itself''.
+
+''Phenomenon and Thing-in-Itself'' 現象與物自身 (1975). This develops Mou's famous doctrine of "two-level ontology," patterned off of Kantian and Buddhist metaphysics.
+
+''Treatise on Summum Bonum'' ({{lang|zh-Hant|圓善論}}) (1985). This is Mou's last major work. Mou did not intend it as his final book, but scholars generally treat it as the definitive summary of his thinking.  It attempts to use Tiantai ontological concepts as inspiration to find Confucian solution to Kant's problem of the highest good or ''summum bonum.'' It includes a chapter with Mou's commentary on Mencius and a more complete evaluation of the place of Daoist and Buddhist philosophy for the modern Confucian.
+
+==Philosophical work==
+
+===Mou and Kant===
+{{Main|Kant's influence on Mou Zongsan}}
+Following his teacher [[Xiong Shili]], Mou Zongsan sought to articulate and justify a moral metaphysics.<ref name=Bunnin>•	Bunnin, Nicholas. "God's Knowledge And Ours: Kant And Mou Zongsan On Intellectual Intuition." ''Journal of Chinese Philosophy'' 35.4 (2008): 613-24. Print.</ref> A moral metaphysics asserts the interconnectedness of ontology and morality, implying the moral value of all objects including the self. Mou's philosophy attempts to demonstrate the limits of Kant, suggesting instead the ways in which Chinese thought may surpass Kantian morality. Several of Mou's titles directly reveal his engagement with Kant – ''Intellectual Intuition and Chinese Philosophy'', ''Phenomenon and Thing-in-Itself'', and ''Treatise of the Perfect Good'' – a commitment that is reflected in Mou's decision to express his philosophy in Kantian terms. For example, Mou's philosophy inherits the Kantian concepts of autonomy, intellectual intuition, and Thing-in-Itself, although Confucianism inspires Mou to transform these concepts.<ref name=Billioud>• Billioud, Sebastien. "Mou Zongsan's Problem With The Heideggerian Interpretation Of Kant." ''Journal of Chinese Philosophy'' 33.2 (2006): 225-47. Print.</ref> The reason behind this decision to use Kantian terms remains unknown, but some scholars argue that Mou's use of certain terminologies aims to facilitate a dialogue between the East and West, pointing to Mou's comparison of Mencius and Kant, whereby he demonstrates the compatibility of Chinese and Western philosophies.<ref name=Guo>• Guo, Qiyong. "Mou Zongsan’s View of Interpreting Confucianism by “moral Autonomy”." ''Frontiers of Philosophy in China'' 2.3 (2007): 345-62. Print.</ref>
+
+Mou's philosophy develops as a critique and transformation of Kant's critical philosophy.<ref name=Schmidt>•	Schmidt, Stephan. "Mou Zongsan, Hegel, and Kant: The Quest for Confucian Modernity." ''Philosophy East and West'' 61.2 (2011): 260-302. Philosopher's Index [ProQuest]. Web.</ref> Mou believes in the compatibility of Chinese thought and Kantian philosophy because both are backed by the Way, where the Way is essentially truth and different philosophies manifest different aspects it.<ref>• Jiadong, Zheng. "The Issue of the "Legitimacy" of Chinese Philosophy." ''Contemporary Chinese Thought'' 37.1 (2005): 11-23. Print.</ref> Mou's analysis of Kant centers on Kant's ''[[Critique of Pure Reason]]''.<ref name=Chan /> One of Mou's major criticisms of Kant involves Kant's regard for [[free will]] as theoretical. Herein lies one of Mou's fundamental beliefs, that morality and the moral life are, contrary to what Kant posits, really real.<ref name=Guo /> This presumption stems from Mou's belief in the metaphysical necessity of the capability of improving one's moral praxis, and thus Mou develops a moral metaphysics within the tenet of [[subjectivism]].<ref name=Chan /> While Kant believes that [[intellectual intuition]] is only possible for God, Mou ascribes human beings equal capability of this intuition, which Mou finds superior to [[Heidegger]]’s [[fundamental ontology]].<ref name=Chan /> Mou rejects Heidegger because according to Kant, true metaphysics is transcendent.<ref name=Billioud /> Mou further departs from Kant’s philosophy, eventually transforming it into what is commonly referred to as New Confucianism or Mind Confucianism.
+
+===Mou and Heidegger===
+====Mou's relation to Heidegger====
+Mou Zongsan’s interest in Heidegger’s philosophy arises from his critique and transformation of Kant's philosophy. Mou's interpretation of Kant is greatly influenced by Heidegger’s elaboration of Kant's ''[[Critique of Pure Reason]]'' in his books ''[[Kant and the Problem of Metaphysics]]'' (''Kantbuch'') and ''[[Introduction to Metaphysics (Heidegger)|Introduction to Metaphysics]]''. Under the influence of Heidegger’s philosophy, Mou change his interpretation of Kant’s ''first critique'' from an epistemological approach to an ontological approach.<ref>• Chan, Wing-cheuk. "Mou Zongsan's Transformation of Kant's Philosophy." Journal of Chinese Philosophy Vol. 33 (2006): 125-139.</ref> In his treatise ''Intellectual Intuition and Chinese Philosophy (zhi de zhexue yu zhongguo zhexue)'' 智的直覺與中國哲學 (1971), Mou not only wrote his reflection on Heidegger’s philosophy (and translated two chapters from ''[[Being and Time]]''), but also criticized Heidegger’s [[fundamental ontology]] with his moral metaphysics.  Actually, Mou may get influence from Heidegger even in his early major work ''Substance of Mind and Substance of Human Nature (xinti yu xingti)'' 心體與性體 (1968–1969). Mou’s argument of the “Three modes” of [[Neo-Confucianism]] may be inspired by Heidegger's “Three ontological difference”, which was introduced to Mou from [[Max Müller]]’s works.<ref>• Chan, Wing-cheuk. "Mou Zongsan and Martin Heidegger." National Central University Journal of Humanities Vol. 51 (2012): 1-23.</ref>
+
+Mou Zongsan agrees to a certain extent with Heidegger’s interpretation of Kant. Mou introduces a two-layer structure of understanding of the transcendental determination of the Kantian categories: a “logical” layer of understanding and an “ontological” layer of understanding. Mou believes the Kantian thesis that “objectivity is subjectivity” is not an “ontical proposition” but rather an “ontological proposition”. He agrees with Heidegger's analysis of ''Transcendental Schematism'', which indicates that the meaning of objectification presupposes a subjective horizon that enables the object to appear. Mou names the ontology of the phenomenal world as “attached ontology” (''zhi de cunyoulun'').<ref name="Billioud, Sébastien 2006">• Billioud, Sébastien. "Mou Zongsan's Problem with the Heideggerian Interpretation of Kant." Journal of Chinese Philosophy Vol. 33 (2006): 225-247.</ref> Mou rejects Kant's declaration that human beings are incapable of producing any intuitive knowledge of ''[[thing-in-itself]]''. He embraces Heidegger's affirmation of the “subjective” character of the Kantian transcendental distinction, which he learns from ''Kantbuch'':
+
+<blockquote>The distinction between the concept of thing in itself and that of appearance is not objective but merely subjective.The thing in itself is not another but another aspect (respectus) of the representation with regard to the same object.<ref name=Heidegger>• Heidegger, Martin. "Kant and Metaphysics." p.37.</ref></blockquote>
+
+====Mou's critique====
+In general, Mou holds a critical attitude towards Heidegger's fundamental ontology in his treatise ''Intellectual Intuition and Chinese Philosophy'':
+
+<blockquote>Heidegger’s descriptions could let us think of a disclosure of a “true mind” (zhen xin) for instance when he speaks about “call of consciousness”(Ruf, liangxin de huhuan), feeling of guilt ( jiuze zhi gan), dread (Sorge, jiaolü), determined being (Entschlossenheit, jueduan) or nothingness (Nichtigkeit, xuwu). Nevertheless, all these descriptions are still “floating” and he has not been able to pave the way for a “true mind.”<ref name=Mou>• Mou, Zongsan. "Intellectual Intuition and Chinese Philosophy (Zhi de Zhijue yu Zhongguo Zhexue)." Taipei(2000): 362.</ref></blockquote>
+
+According to Mou, Heidegger's descriptions are “floating” because Heidegger's thought does not recognize any transcendental reality (''chaoyue de shiti'') but focus on the immanent metaphysics (''neizai xingershangxue'') to develop his fundamental ontology. “True metaphysics” is “transcendent.”<ref>• Mou, Zongsan. "Intellectual Intuition and Chinese Philosophy (Zhi de Zhijue yu Zhongguo Zhexue)." Taipei(2000): 32.</ref> In the eyes of Mou Zongsan, since the immanent metaphysics merely focuses on the problem of the meaning of phenomenal beings, it fails to deal with Kant's transcendental concepts of freedom, immortality, and God. Mou also thinks Heidegger's philosophy is too heroic and romantic and thereby fails to maintain an inherent calmness to approach to “true mind.”<ref>• Chen, Yingnian. "Mou Zongsan and Heidegger." Confucian Study (2013): 88-111.</ref> Besides, Mou disagrees with Heidegger's “value-free,” and in particular, “morally-neutral” approach. The lack of moral awareness indicates that Heidegger's fundamental ontology does not reach the realm of moral metaphysics, but merely offers an empty and inauthentic answer to the subject.
+
+In short, Mou considers Heidegger only as a “commentator” or “usurper” of Kant.<ref name="Liangkang 2002">• Ni, Liangkang. "Mou Zongsan and Phenomenology." Philosophy Study, Issue 10 (2002): 42-48+80.</ref> According to Mou, the reason why Heidegger's fundamental ontology fails to reach the realm of moral metaphysics is that Heidegger sticks to the Kantian thesis of the finitude of human being and fails to recognize the intellectual intuition (''zhi de zhijue'') of human beings.<ref>• Mou, Zongsan. "Phenomenon and Thing-in-Itself (Xianxiang yu Wuzishen)." Taipei(1975): 3.</ref>  Mou claims that although the study of Kant's philosophy helps him understand the relation between phenomenal world and metaphysical ontology, it is his teacher [[Xiong Shili]] who makes him realize the fundamental union of the two via the intellectual intuition. The idea of intellectual intuition is widely manifested in Confucianism, Neo-Confucianism, Daoism and Buddhism, especially in the thought of [[Wang Yangming]], who assimilates moral learning with the course of action such as archery and calligraphy. According to Mou, intellectual intuition is not the central concept of a highly complex speculative system, but a form of knowledge acquired through our deeds (including emotions and intentions).<ref name="Billioud, Sébastien 2006"/>
+
+====Mou's "misplacement"====
+Some scholars argue that Mou Zongsan's critique of Heidegger's fundamental ontology actually “misplaces (''wuzhi'')” Heidegger's transcendental metaphysics.<ref>• Zhao, Weiguo. "Mou Zongsan's Misplacement of Heidegger's Fundamental Ontology." Journal of Shanxi Normal University Vol. 39 (2010): 23-32.</ref> It turns out that Mou may agree with Heidegger more than he believes. Heidegger's discussions of Being actually achieve a similar metaphysical level with Mou's discussions of transcendental concepts, such as God, freedom, ''ren'' or ''Dao''. Instead of being “floating”, Heidegger's fundamental ontology finds its root in the “transcendent metaphysics” in Being. Far away from “a way of being” in immanent metaphysics, Heidegger's Being actually serves as an ontological basis for beings in phenomenal world. Moreover, in Heidegger's theory, the unveiledness of the Being of beings (“beings” encompass the phenomenal world) is inseparable from the practical and ethical reason. This echoes with Mous’ belief in unifying phenomenal world with metaphysical ontology through the intellectual intuition. They also share a similar interpretation of the “knowledge”. Mou believes moral learning can pave a way to moral metaphysics, while Heidegger also believes that we can open ourselves to the Being in our daily lives.
+
+Mou's “misplacement” of Heidegger's transcendental metaphysics may arise from his misconception of Heidegger's Time (''Zeit, shijian'').<ref name="Liangkang 2002"/>  Heidegger's concept of Time is different from the time as ''[[A priori and a posteriori|a priori]]'' knowledge for Kant, which is actually the temporality (''Zeitlichkeit, shijian xing'') of ''[[Dasein]]'' (the experience of being that is peculiar to human beings). Heidegger's Time serves not only as the fundamental character for Being, but also as the fundamental unveiledness of Being. Mou confuses Heidegger's Time (''Zeit, shijian'') with temporality (''Zeitlichkeit, shijian xing'') and thereby fails to see the transcendental nature in neither Time nor Being. The different understanding of the concept Time further causes Mou's disagreement with Heidegger's discussions of finitude of human beings. In fact, Heidegger's discussions of finitude are based on his interpretation of the temporality of ''Dasein''. It is not the rejection of the transcendental ontology. Mou fails to recognize that Heidegger's Time represents the transcendental metaphysics that overcome the normal sense of time in phenomenal world. This failure limits Mou's understanding of Heidegger's philosophy only as the immanent metaphysics that stick to the attached (phenomenal) ontology.
+
+===Mou's moral metaphysics===
+Moral metaphysical systems have been proposed prior to Mou, most notably in the Platonic [[Form of the Good]] and the Confucian concept of ''[[Tao|dao]]''. In one sense, Mou's philosophy attempts to reconcile these systems. Concurrently, Mou's philosophy was influenced by Yogacara Buddhism, which believes that no objectivity is possible aside from subjectivity.<ref name=Chan /> Mou's beliefs regarding the relationship between philosophy and culture and his view of the future of humanity dictate his construction of a philosophy that argues for the necessity to develop “Confucian Modernity”.<ref name=Schmidt /> Akin to his view of intellectual intuition, Mou constructs a vertical philosophical system that emphasizes the relation between the subject and an ontological objective, as opposed to a horizontal system where one's relationship to the world functions through the subject-object dichotomy.<ref>•	Billioud, Sébastien. Thinking through Confucian Modernity: A Study of Mou Zongsan's Moral Metaphysics. Leiden [The Netherlands: Brill, 2012. Print.</ref> Mou's ontological ultimate is ''benti'', or ultimate reality.<ref name=Billioud /> Mou's moral metaphysics, which includes the natural and ethical universe, attempts to validate morality through the notion of ''tiandao'', the principle of the natural universe, which, for Mou, equates to the moral principle. Further, Mou believes that one's uncomfortable reaction to crime and degeneracy indicates the presence of moral consciousness, which Mou signifies as the inner essence of human beings. This belief, that the infinite within ''benti'' similarly exists within human beings, known as the doctrine of infinite mind, can be compared with Heidegger's acceptance of being-with-others as a feature of Dasein, [[Wittgenstein]]’s rejection of a private language, and [[Husserl]]’s discussion of the immediacy of our recognition of others and their mental states within the lived world.<ref name=Bunnin />
+
+Subsequently, Mou uses 良知 (''liangzhi'', or good consciousness) and 智的直觉 (''zhi de zhijue'', or intellectual intuition) to identify the substance in his system. Again, Mou chooses to translate his philosophy in Kantian terminology. Here, ''liangzhi'' refers to the foundation or essence of morality. Within Confucianism ''liangzhi'' also means the essence of human beings, explaining why Mou writes that, “the substance of human being is one and the same as that of the world, the world of value, but not the world of reality.” For Mou, this substance is independent of social background. This idea reflects the human nature proposed by [[Mencius]] through the [[Mencius#The four beginnings (or sprouts)|example]] of the apparent, innate reaction of an individual to seeing a child sitting precariously on a well (The Four Beginnings). Here, Mou departs from traditional Confucianism by defining the essence of an individual in terms of modern [[individualism]]. Thus with regards to Mencius’ example, it is the very life of the child that evokes a reaction, and not the individual's relation to the child. Mou notes that the basic implications of this example – an individual's inherent benevolence – are consistent with the autonomy of a moral subject.<ref name=Guo /> This autonomy, the motivating force for morality according to Mou, exists within the transcendental and philosophical mind of the individual.<ref name=Guo />
+
+In accord with his notions of intellectual intuition, Mou is committed to the idea of moral transformation, whereby all individuals can transcend themselves to ultimately become sages.<ref name=Bunnin /> Mou borrows this conception of moral transformation from Confucianism, as well as the concept of ''[[summum bonum]]'', in which there exists a connection between one's worthiness of happiness and the actual attainment of happiness.<ref name=Bunnin />
+
+===Discussion and criticism of Mou’s philosophy===
+Several consequences arise from Mou's moral metaphysics. Some scholars view Mou as a defender of [[Zen Buddhism]] over other critical Buddhisms, pointing to Mou's morality, which, similar to Zen Buddhism, maintains that the possibility of enlightenment is more important than actually attaining it.<ref>• Chan, Wing-cheuk. "Mou Zongsan on Zen Buddhism." Dao 5.1 (2005): 73-88. Print.</ref> Additionally, ascribing human beings intellectual intuition ultimately assigns humans moral responsibility. However, this allows individuals access to Kant's [[noumenon]]. According to Mou, intellectual intuition for human beings is the foundation of all of Chinese thought. In ''Phenomena and Noumena'' Mou Zongsan writes that, “if it is true that human beings cannot have intellectual intuition, then the whole of Chinese philosophy must collapse completely”.<ref name = Bunnin /> Despite the fact that this is Mou's claim, many scholars debate its validity, maintaining the legitimacy of Chinese philosophy and New Confucianism independent of intellectual intuition.
+
+Some traditional Confucians reject Mou, citing his wholesale acceptance of Western liberty and democracy as problematic.<ref name=Jiang>{{cite book|last=Qing |first=J. |year=2011 |chapter=From Mind Confucianism to Political Confucianism |pages=17–32 |editor1-last=Fan |editor1-first=R. |title=The Renaissance of Confucianism in Contemporary China |series=Philosophical Studies in Contemporary Culture |volume=20 |publisher=Springer, Dordrecht |doi=10.1007/978-94-007-1542-4_2|isbn=978-94-007-1541-7 }}</ref> Despite Mou's attempt at Confucian Modernity, critics claim that New Confucianism cannot handle modernity's interconnectedness and its inevitable negative consequences.<ref name=Jiang /> Others argue that because Mou is not political, he should not even be considered a Confucian because much of Confucian doctrine advocates for the active pursuit of change.<ref name=Jiang /> However, the [[Censorship in the People's Republic of China|limitations of speech]] in China during the time period when Mou philosophized may address this criticism.{{citation needed|date=July 2019}}
+
+==Scholarship in English==
+*Angle, Stephen C. “Sagehood: The Contemporary Significance of Neo-Confucian Philosophy.” New York: Oxford University Press, 2009.
+*Asakura, Tomomi. “On Buddhistic Ontology: A Comparative Study of Mou Zongsan and Kyoto School Philosophy.” ''Philosophy East and West'' 61(4): 647–678.
+*Billioud, Sebastien. ''Thinking Through Confucian Modernity: A Study of Mou Zongsan's Moral Metaphysics''. Leiden & Boston: Brill, 2011.
+*Chan, N. Serina. ''The Thought of Mou Zongsan.'' Leiden & Boston: Brill, 2011.
+*Chan, Wing-Cheuk. “Mou Zongsan’s Transformation of Kant’s Philosophy.” ''Journal of Chinese Philosophy'' 33(1): 125–139.
+* Clower, Jason, "[http://www.iep.utm.edu/zongsan/ Mou Zongsan (Mou Tsung-san)] ," [http://www.iep.utm.edu/home/about/ Internet Encyclopedia of Philosophy]
+*Clower, Jason T. ''The Unlikely Buddhologist: Tiantai Buddhism in the New Confucianism of Mou Zongsan''. Leiden & Boston: Brill, 2010.
+*Clower, Jason (ed.). ''Late Works of Mou Zongsan: Selected Essays on Chinese Philosophy''. Leiden & Boston: Brill, 2014.
+*Clower, Jason. "Chinese Ressentiment and Why New Confucians Stopped Caring about Yogācāra" in ''Transforming Consciousness: Yogacara Thought in Modern China,'' ed. John Makeham. New York: Oxford, 2014.
+*Kantor, Hans-Rudolf. "Ontological Indeterminacy and Its Soteriological Relevance: An Assessment of Mou Zongsan's (1909-1995) Interpretation of Zhiyi's (538-597) Tiantai Buddhism." ''Philosophy East and West'' 56(1): 16–68.
+*Lin Chen-kuo. "Dwelling in Nearness to the Gods: The Hermeneutical Turn from MOU Zongsan to TU Weiming." ''Dao'' 7: 381–392.
+*Lin Tongqi and Zhou Qin. "The Dynamism and Tension in the Anthropocosmic Vision of Mou Zongsan." ''Journal of Chinese Philosophy'' 22.
+*Liu, Shu-hsien. “Mou Tsung-san (Mou Zongsan)” in ''Encyclopedia of Chinese Philosophy,'' ed. A.S. Cua. New York: Routledge, 2003.
+* Rošker, Jana S. The Ideological Foundations of Taiwanese Modernity: Mou Zongsan's New Moral Philosophy. Asian and African Studies, ISSN 1408-5429, Vol. 15, Issue two https://revije.ff.uni-lj.si/as/article/viewFile/2882/2871 
+* Rošker, Jana S. The Fusion of Modern Confucianism and Buddhism: Mou Zongsan's Journey from Double to Fundamental Ontology. Taiwan journal of East Asian studies, ISSN 1812-6243, 2016, Vol. 13, No. 1, pp.&nbsp;57–76. 
+* Rošker, Jana S.. The Rebirth of the Moral Self: the Second Generation of Modern Confucians and their Modernization Discourses. Hong Kong: Chinese University Press, cop. 2016
+*Stephan Schmidt. “Mou Zongsan, Hegel, and Kant: The Quest for Confucian Modernity.” ''Philosophy East and West'' 61(2): 260–302.
+
+==Students==
+{{col-begin}}
+{{col-4}}
+*[[Cai Renhou]] 蔡仁厚
+*[[Dai Lianzhang]] 戴璉璋
+*[[Wang Bangxiong]] 王邦雄
+*[[Zeng Zhaoxu]] 曾昭旭
+*[[Lu Xuekun]] 盧雪崑
+*[[Huizhen You]] 尤惠貞
+*[[Chen Guimiao]] 陳癸淼
+{{col-4}}
+*[[Wei Zhengtong]] 韋政通
+*[[He Shujing]] 何淑靜
+*[[Zhu Jianmin]] 朱建民
+*[[Fan Liangguang]] 范良光
+*[[Wang Caigui]] 王財貴
+*[[Lee Shui-chuen]] 李瑞全
+*[[Zhou Yangshan]] 周楊山
+{{col-4}}
+*[[Yang Zuhan]] 楊祖漢
+*[[Yan Guoming]] 顏國明
+*[[Lin Yuehui]] 林月惠
+*[[Li Minghui]] 李明輝
+*[[Zhuang Yaolang]] 莊耀郎
+*[[Liu Jinxian]] 劉錦賢
+{{col-4}}
+*[[Xie Daning]] 謝大寧
+*[[Lin Anwu]] 林安梧
+*[[Fan Kewei]] 樊克偉
+*[[Tu Weiming]] 杜維明
+*[[Wu Rujun]] (Ng Yu-kwan) 吳汝鈞
+*[[Chen Rongzhuo]] (Wing-cheuk Chan) 陳榮灼
+{{col-end}}
+
+==References==
+
+{{Reflist}}
+
+==External links==
+* [https://nineteenlectures.wordpress.com/ Mou Zongsan, Nineteen Lectures]  excerpted from ''Mou Zongsan, Nineteen Lectures on Chinese Philosophy'' translated by Julie Wei.
+{{Chinese philosophy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mou, Zongsan}}
+[[Category:1909 births]]
+[[Category:1995 deaths]]
+[[Category:20th-century Chinese philosophers]]
+[[Category:20th-century translators]]
+[[Category:Chinese Confucianists]]
+[[Category:Academic staff of the Chinese Culture University]]
+[[Category:Chinese University of Hong Kong people]]
+[[Category:Educators from Shandong]]
+[[Category:Hong Kong philosophers]]
+[[Category:Academic staff of the National Taiwan University]]
+[[Category:Academic staff of the National Taiwan Normal University]]
+[[Category:New Confucian philosophers]]
+[[Category:20th-century Chinese essayists]]
+[[Category:20th-century Chinese translators]]
+[[Category:Philosophers from Shandong]]
+[[Category:Academic staff of Tunghai University]]
+[[Category:Taiwanese people from Shandong]]
+[[Category:Taiwanese philosophers]]
+[[Category:Translators to Chinese]]
+[[Category:Translators from German]]
+[[Category:University of Hong Kong]]
+[[Category:Writers from Yantai]]
+[[Category:Academic staff of Zhejiang University]]
+[[Category:National University of Peking alumni]]

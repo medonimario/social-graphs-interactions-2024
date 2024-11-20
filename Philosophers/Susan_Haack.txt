@@ -1,0 +1,126 @@
+{{Short description|British philosopher and academic (born 1945)}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[Contemporary philosophy]]
+|image            = Susan_Haack.JPG
+|caption          = Haack in 2005
+|name             = Susan Haack
+|birth_date       = {{birth year and age|1945}}
+|birth_place      = [[England]]
+|alma_mater       = [[St Hilda's College, Oxford]]
+|school_tradition = [[Analytic philosophy|Analytic]]<br/>[[Neopragmatism]]<ref>[https://www.iep.utm.edu/pragmati/ Pragmatism – Internet Encyclopedia of Philosophy]</ref><br/>[[Foundherentism]]
+|main_interests   = [[Philosophy of science]]<br/>[[Philosophy of logic]]<br/>[[Epistemology]]<br />[[Pragmatism]]
+|notable_ideas    = [[Foundherentism]]
+|influences       = [[Francis Bacon]], [[Willard Van Orman Quine|W. V. O. Quine]], [[Charles Sanders Peirce|C. S. Peirce]], [[Frank P. Ramsey]]
+|influenced       = [[Luciano Floridi]], John Zeis
+|institutions     = [[University of Cambridge]]<br/>[[University of Warwick]]<br/>[[University of Miami]]
+}}
+'''Susan Haack''' (born 1945) is a [[distinguished professor]] in the humanities, Cooper Senior Scholar in Arts and Sciences, professor of philosophy, and professor of law at the [[University of Miami]] in [[Coral Gables, Florida]].
+
+Haack has written on [[logic]], the [[philosophy of language]], [[epistemology]], and [[metaphysics]]. Her [[pragmatism]] follows that of [[Charles Sanders Peirce]].
+
+==Career==
+===Education===
+Haack is a graduate of the [[University of Oxford]] and the [[University of Cambridge]] (B.A., B.Phil., Oxford; Ph.D., Cambridge). She was elected into [[Phi Beta Kappa]] as an honorary member. At Oxford, she studied at [[St Hilda's College, Oxford|St. Hilda's College]], where her first philosophy teacher was Jean Austin, the widow of [[J. L. Austin]]. As an undergraduate, she took [[Politics, Philosophy and Economics]] and said of her taste for philosophy: "it was, initially, the 'politics' part that most appealed to me. But somewhere down the line, despite encouragement from my politics tutor to pursue that subject, philosophy took over."<ref name="Carrier">{{Cite web|url=http://freethoughtblogs.com/carrier/archives/1207|title=Interview with Susan Haack|publisher=Richard Carrier Blogs|date=6 May 2012|access-date=11 May 2012|url-status=dead|archive-url=https://web.archive.org/web/20120509022732/http://freethoughtblogs.com/carrier/archives/1207|archive-date=9 May 2012|df=dmy-all}}</ref>
+
+She studied [[Plato]] with [[Gilbert Ryle]] and logic with [[Michael Dummett]]. [[David Pears]] supervised her B.Phil. dissertation on [[ambiguity]]. At Cambridge, she wrote her PhD under the supervision of [[Timothy Smiley]]. She held the positions of Fellow of [[New Hall, Cambridge]] and professor of philosophy at the [[University of Warwick]] before taking her current position at the University of Miami.
+
+Haack has said of her career that she is "very independent":
+{{blockquote|rather than follow philosophical fads and fashions, I pursue questions I believe are important, and tackle them in the ways that seem most likely to yield results; I am beholden to no clique or citation cartel; I put no stock in the ranking of philosophy graduate programs over which my colleagues obsess; I accept no research or travel funds from my university; I avoid publishing in journals that insist on taking all the rights to my work; etc., etc. Naturally, this independence comes at a price; but it also earns me the freedom to do the best work I can, without self-censorship, and to communicate with a much wider audience than the usual "niche literature" does<ref name="Carrier" />}}
+
+==Philosophical work==
+Haack's major contribution to philosophy, in the 1993 book ''Evidence and Inquiry'' is her [[epistemology|epistemological]] theory called [[foundherentism]],<ref>{{Cite journal | last1 = Aune | first1 = B. | title = Haack's ''Evidence and Inquiry''| journal = [[Philosophy and Phenomenological Research]] | volume = 56 | issue = 3 | pages = 627–632 | doi = 10.2307/2108389 | year = 1996 | jstor = 2108389 }}</ref><ref>{{Cite journal | last1 = Flage | first1 = D. E. | title = Evidence and Inquiry: Towards Reconstruction in Epistemology | journal = [[The Review of Metaphysics]] | volume = 49 | issue = 1 | pages = 136–138 | year = 1995 | jstor = 20129822 }}</ref><ref>{{Cite journal | last1 = Fumerton | first1 = R. | author1-link=Knowledge by acquaintance#Fumerton | title = Evidence and Enquiry | journal = [[The Philosophical Quarterly]] | volume = 48 | issue = 192 | pages = 409–412 | year = 1998 | jstor = 2660334 }}</ref> which is her attempt to avoid the logical problems of both pure [[foundationalism]] (which is susceptible to infinite regress) and pure [[coherentism]] (which is susceptible to circularity). She illustrates this idea with the metaphor of the crossword puzzle.  A highly simplified version of this proceeds as follows: Finding an answer using a clue is analogous to a foundational source (grounded in [[empirical evidence]]). Making sure that the interlocking words are mutually sensible is analogous to justification through coherence. Both are necessary components in the justification of knowledge.
+
+Haack has been a fierce critic of [[Richard Rorty]].<ref>{{Cite book |publisher = Blackwell |isbn = 0-631-11851-9 |ol = 1398949M |location = Oxford UK |title = Evidence and Inquiry |first = Susan |last=Haack |year = 1993 |chapter=Ch. 9: Vulgar Pragmatism: an Unedifying Prospect}}</ref><ref>{{cite SEP |url-id=rorty |title=Richard Rorty}}</ref> She wrote a play, ''We Pragmatists ...: [[Charles Sanders Peirce|Peirce]] and [[Richard Rorty|Rorty]] in Conversation'', consisting entirely of quotes from both philosophers. She performed the role of Peirce. Haack published a vigorous essay<ref>{{cite web |last=Haack |first=Susan |title=Vulgar Rortyism |date=November 1997 |publisher=The New Criterion |url=http://www.newcriterion.com/articles.cfm/rortyism-haack-3261}}</ref> in the ''[[New Criterion]]'', taking strong exception to many of Rorty's views, especially his claim to be a sort of pragmatist.
+
+In ''Manifesto of a Passionate Moderate'', Haack is highly critical of the view that there is a specifically female perspective on logic and scientific truth and is critical of [[feminist epistemology]]. She holds that many feminist critiques of science and philosophy are excessively concerned with [[political correctness]].<ref>{{cite book |first=Susan |last=Haack |title=Manifesto of a Passionate Moderate: Unfashionable Essays |url=https://books.google.com/books?id=2ezeTXOlQngC |year=2000 |publisher=University of Chicago Press |isbn=978-0-226-31137-1 |orig-year=1998}}</ref><ref>{{Cite journal|author=Lynn Hankinson Nelson|title=The Very Idea of Feminist Epistemology|jstor=3810236|journal=[[Hypatia (journal)|Hypatia]]|volume=10|number=3|pages=31–49|year=1995|doi=10.1111/j.1527-2001.1995.tb00736.x|s2cid=144075886 }}</ref>
+
+Haack describes her 2003 book ''Defending Science – Within Reason: Between Scientism and Cynicism'', as a defence of [[scientific inquiry]] from the moderate viewpoint. During an interview with [[D.J. Grothe]], then of the [[Center for Inquiry]], Haack put forward the proposition that those on the far left consider science to be rhetoric motivated by power or politics, and she then proceeds to show how science can, and often does provide real benefits and gains, regardless of what the left may claim. The book offers a sounder and more solid defence of scientific inquiry in response to the narrow logical models of rationality proposed by some philosophers of science. Haack's opinion on the topic of inquiry, whoever may be undertaking it, is that good evidence, sound methods, transparent review and fitting new discovery into the collective sphere of human knowledge are signs of robust inquiry.  Haack claims that quality inquiry can be done by many, however the scientific community has numerous tools or helps that have brought many benefits to mankind, and which help foster science's credibility.  These tools and helps may not be available to those engaged in individual inquiry. When asked about how she responds to paranormal or supernatural claims, Haack indicates supporters of such claims have a heavy burden of proof. Rather than labelling such claims as pseudo-science, she admits these things can be "pretty bad stuff" and if they are to be considered seriously, they would need extraordinary evidence, and that such evidence should fit with the best warranted scientific theory about how things are.  In this interview Haack also responds to the question of religion's compatibility with science.  She agrees there is great tension between the two. While stating her disagreement with British philosopher of religion [[Richard G. Swinburne]] and [[Stephen Jay Gould]], she referred to the pertinent chapter of her book for a comprehensive understanding of her views on this matter.<ref>{{cite web|last=Susan|first=Haack|title=Interview with D.J Groeth|url=http://www.pointofinquiry.org/susan_haack_defending_science_within_reason/|publisher=Center for Inquiry|access-date=26 January 2014|archive-date=1 February 2014|archive-url=https://web.archive.org/web/20140201192523/http://www.pointofinquiry.org/susan_haack_defending_science_within_reason/|url-status=dead}}</ref>
+
+In the related chapter ten of ''Defending Science'', Haack disagrees with Gould's claim that science and religion have their own distinct domains that do not overlap. (See [[Non-overlapping magisteria|NOMA]]). Haack also disagrees with Swinburne. Haack believes that while scientists, historians and detectives play a useful role in scientific inquiry, theologians do not. Haack shows how religion and science make claims about how the world is.  She shows how science and religion also make assertions as to what could lead to a better human condition. By these statements, Haack shows that religion and science do not enjoy their own separate space. She points out areas where prior and current religious claims about the natural universe are strongly refuted by the best warranted findings of science.  She also stipulates that controversy and unanswered questions abound in modern science. She summarises her defence for scientific inquiry by stating that she makes no apology for reserving her "greatest admiration for those who delight to exercise the mind, no matter which way it takes them...those for whom doing their damnedest with the mind, no holds barred, is a point of honor".<ref>{{cite book|last=Haack|first=Susan|title=Defending Science – Within Reason: between Scientisim and Cynicism|year=2003|publisher=[[Prometheus Books]]|location=Chapter 10, "And, in Conclusion"|page=[https://books.google.com/books?id=RhXxaPTc_EYC&pg=PA175 175]|isbn=1-59102-117-0|url=https://archive.org/details/defendingscience00susa}}</ref>
+
+She has written for ''[[Free Inquiry]]'' magazine and the [[Council for Secular Humanism]]. Haack's work has been reviewed and cited in the popular press, such as ''[[The Times Literary Supplement]]'' as well as in academic journals.
+
+==Memberships==
+Haack is an honorary member of [[Phi Beta Kappa Society]] and [[Phi Kappa Phi]], a past President of the [[Charles Sanders Peirce#CSPS|Charles S. Peirce Society]],<ref>{{cite web|title=The Charles S. Peirce Society|url=http://www.peircesociety.org/}}</ref> and a past member of the US/UK Educational Commission.
+
+==Selected writings==
+*''[[Deviant Logic]]''. Cambridge University Press, 1974.
+* {{cite journal|title=Two Fallibilists in Search of the Truth| author1-link=Susan Haack | first=Susan | last=Haack |author2=Kolenda, Konstantin| journal=Proceedings of the Aristotelian Society|issue=Supplementary Volumes|volume=51| year=1977|pages= 63–104| jstor=4106816| doi=10.1093/aristoteliansupp/51.1.63 }} ([[Charles Sanders Peirce]] and [[Karl Popper]] have strikingly similar views on the [[propensity probability|propensity theory of probability]] and [[philosophy of science]].)
+*''Philosophy of Logics''. Cambridge University Press, 1978.
+*''Evidence and Inquiry''. Blackwell, 1993. Second edition, Prometheus Books 2009.
+*''Deviant Logic, Fuzzy Logic: Beyond the Formalism''. The University of Chicago Press, 1996. (Extends the 1974 ''Deviant Logic'', with some additional essays published between 1973 and 1980, particularly on fuzzy logic, cf ''[[The Philosophical Review]]'', 107:3, 468–471 [http://www.columbia.edu/~av72/papers/PhilReview(Review)_1998.pdf])
+*"[http://www.newcriterion.com/articles.cfm/rortyism-haack-3261 Vulgar Rortyism]," ''The New Criterion 16'', 1997.
+*''Manifesto of a Passionate Moderate: Unfashionable Essays''. The University of Chicago Press, 1997.
+*''Defending Science – Within Reason: Between Scientism and Cynicism''. Prometheus Books, 2003. {{ISBN|1-59102-117-0}}.
+*"[https://web.archive.org/web/20060628074443/http://www.defendingscience.org/loader.cfm?url=%2Fcommonspot%2Fsecurity%2Fgetfile.cfm&PageID=2408 Trial and Error: The Supreme Court's Philosophy of Science]". ''American Journal of Public Health'', 2005.
+*''Pragmatism, Old and New'' (Robert Lane, associate editor). Prometheus Books, 2006.
+*''Putting Philosophy to Work: Inquiry and Its Place in Culture''. Prometheus Books, 2008.
+*''Evidence Matters: Science, Proof and Truth in the Law''. Cambridge University Press, 2014.
+
+==References==
+{{Reflist|2}}
+
+==Sources==
+*{{cite journal |first=Rose Ann |last=Christian |title=Restricting the Scope of the Ethics of Belief: Haack's Alternative to Clifford and James |journal=J Am Acad Relig |volume=77 |issue=3 |pages=461–493 |year=2009 |doi=10.1093/jaarel/lfp037 |url=http://jaar.oxfordjournals.org/content/77/3/461.short}}
+
+==External links==
+{{Commons category}}
+{{Spoken Wikipedia|Susan Haack.ogg|date=2012-09-20}}
+*[http://www.law.miami.edu/faculty/susan-haack Susan Haack's Web Page] at [[University of Miami]].
+*[https://web.archive.org/web/20120509022732/http://freethoughtblogs.com/carrier/archives/1207 Interview with Susan Haack] by [[Richard Carrier]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Haack, Susan}}
+[[Category:1945 births]]
+[[Category:20th-century British educators]]
+[[Category:20th-century British women educators]]
+[[Category:20th-century English philosophers]]
+[[Category:20th-century English women writers]]
+[[Category:20th-century British essayists]]
+[[Category:21st-century British women writers]]
+[[Category:21st-century British educators]]
+[[Category:21st-century English philosophers]]
+[[Category:21st-century English women writers]]
+[[Category:21st-century British essayists]]
+[[Category:Academics of the University of Warwick]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Analytic philosophers]]
+[[Category:British ethicists]]
+[[Category:British legal scholars]]
+[[Category:Critics of creationism]]
+[[Category:English educators]]
+[[Category:English essayists]]
+[[Category:English humanists]]
+[[Category:English legal scholars]]
+[[Category:English logicians]]
+[[Category:English women philosophers]]
+[[Category:British epistemologists]]
+[[Category:Fellows of New Hall, Cambridge]]
+[[Category:British free speech activists]]
+[[Category:Freethought writers]]
+[[Category:History of logic]]
+[[Category:Living people]]
+[[Category:Metaphysics writers]]
+[[Category:Ontologists]]
+[[Category:British philosophers of culture]]
+[[Category:British philosophers of education]]
+[[Category:British philosophers of language]]
+[[Category:Philosophers of law]]
+[[Category:British philosophers of logic]]
+[[Category:Women logicians]]
+[[Category:British philosophers of mind]]
+[[Category:British philosophers of science]]
+[[Category:Philosophers of social science]]
+[[Category:American philosophy academics]]
+[[Category:Pragmatists]]
+[[Category:Secular humanists]]
+[[Category:Theorists on Western civilization]]
+[[Category:University of Miami faculty]]
+[[Category:American women legal scholars]]
+[[Category:American legal scholars]]
+[[Category:Writers about activism and social change]]
+[[Category:Writers about religion and science]]

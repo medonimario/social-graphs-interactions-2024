@@ -1,0 +1,94 @@
+{{Short description|British philosopher}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox philosopher
+| image = 
+| caption          = 
+| name             = Jennifer Hornsby
+| birth_date       = 1951
+| birth_place      = 
+| death_date       = 
+| death_place      = 
+| alma_mater       = 
+| school_tradition = [[Analytic philosophy]]
+| main_interests   = [[philosophy of mind]], [[philosophy of action]], [[feminist philosophy]]
+| notable_ideas    = 
+| influences        = [[Donald Davidson (philosopher)|Donald Davidson]], [[John L. Austin]], [[Bernard Williams]]
+| influenced        = [[Rae Langton]], [[Nancy Bauer (philosopher)|Nancy Bauer]]
+| doctoral_advisor = [[Bernard Williams]]
+}}
+
+'''Jennifer Hornsby''', [[Fellow of the British Academy|FBA]] (born 1951) is a British philosopher with interests in the philosophies of [[philosophy of mind|mind]], [[philosophy of action|action]], [[philosophy of language|language]], as well as [[feminist philosophy]].  She is currently a professor at the School of Philosophy, [[Birkbeck, University of London]].  She is well known for her opposition to orthodoxy in current analytic philosophy of mind, and for her use of [[J. L. Austin]]'s [[Speech Act]] Theory to look at the effects of pornography.
+
+==Education and career==
+
+Hornsby earned her PhD from the [[University of Cambridge]] under the direction of [[Bernard Williams]]. She also earned a BA and MPhil from Oxford and London, respectively. She taught at the University of Oxford for 17 years before moving to [[Birkbeck, University of London|Birkbeck College, London]]. She was president of the [[Aristotelian Society]] from 1996 to 1997.<ref>[http://www.bbk.ac.uk/philosophy/our-staff/academics/hornsby Hornsby's Profile] at Birkbeck College, London.</ref>
+
+==Philosophical work==
+Hornsby's work focuses primarily on the philosophies of [[philosophy of mind|mind]], [[philosophy of action|action]], [[philosophy of language|language]], and [[feminist philosophy]].
+
+===Actions===
+
+Hornsby's action theory is significantly influenced by the philosophy of [[Donald Davidson (philosopher)|Donald Davidson]].  In her book ''Actions'' (1980), she argues that actions are events occurring beneath the surface of the skin. The argument for this turns on an ambiguity in the slogan "all actions are bodily movements". The ambiguity stems from the fact that 'move' is one of a class of verbs that can occur either transitively or intransitively. Nominal expressions containing such verbs are therefore ambiguous: for example, 'the movement of the flag' can refer either to the action of someone's moving the flag or to the resultant movement of the flag. As we only ever answer a question about what someone did by using transitive verbs --- e.g. 'Jack moved his arm', not 'Jack's arm moved' (unless the latter is taken to imply that the former is true) --- the slogan "all actions are bodily movements" is only true if 'movement' is read transitively. This ambiguity noted, Hornsby then points out that if A V<sub>T</sub>-s B, then A caused B to V<sub>I</sub> ('<sub>T</sub>' and '<sub>I</sub>' serving to distinguish between transitive and intransitive uses of the relevant verbs). If Jack raised<sub>T</sub> the flag, Jack caused the flag to rise<sub>I</sub>. As causes and effects must be distinct, we must therefore also distinguish between Jack's raising<sub>T</sub> his arm from Jack's arm's rising<sub>I</sub>, the former causing the latter. So actions are bodily movements<sub>T</sub>, which cause bodily movements<sub>I</sub>. The final move is to claim that we know from physiology that the causes of bodily movements<sub>I</sub> are events that occur beneath the surface of the skin. Therefore, actions occur beneath the surface of the skin.
+
+This claim is combined with another: that the most basic description, in the causal sense of 'basic', of an action is as a trying. This arises from accepting a coarse-grained account of the individuation of events, according to which events are particulars that can be described in many different ways. The descriptions are distinguished by the effects of the described event in terms of which they are picked out. For example, the event of my slamming the door may be identical to the event of my waking the cat. The first description picks out the event by reference to the event of the door's being slammed. The second description picks out the event by reference to the event of the cat's waking. The question then is, Is there a description of the events which are actions that picks them out without reference to any effects? Hornsby's answer is that we can describe actions as tryings. I can try to raise my arm and, if successful, my arm will rise. (Note, though, that not all tryings are actions, only the successful ones.)
+
+==Honours==
+Hornsby is a member of the [[Norwegian Academy of Science and Letters]].<ref>{{cite web|url=http://www.dnva.no/c26849/artikkel/vis.html?tid=40104 |title=Gruppe 3: Idéfag |publisher=[[Norwegian Academy of Science and Letters]] |language=no |access-date=16 January 2011 |url-status=dead |archive-url=https://web.archive.org/web/20150109221405/http://www.dnva.no/c26849/artikkel/vis.html?tid=40104 |archive-date= 9 January 2015 }}</ref> In July 2017, she was elected a [[Fellow of the British Academy]] (FBA), the United Kingdom's [[national academy]] for the humanities and social sciences.<ref>{{cite web|title=Elections to the British Academy celebrate the diversity of UK research|url=http://www.britac.ac.uk/news/elections-british-academy-celebrate-diversity-uk-research|website=British Academy|access-date=29 July 2017|date=2 July 2017}}</ref> She was elected international honorary member of the [[American Academy of Arts and Sciences|American Academy of Arts & Sciences]] in April 2018.<ref>{{Cite web|url=https://www.britac.ac.uk/news/british-academy-president-and-fellows-elected-american-academy-arts-sciences|title=British Academy President and Fellows elected to American Academy of Arts & Sciences {{!}} British Academy|website=British Academy|language=en|access-date=2018-06-30}}</ref>
+
+==Selected publications==
+===Books===
+* ''Actions'' (1980), Routledge & Kegan Paul, London.
+* ''Simple Mindedness: A Defence of Naïve Naturalism in the Philosophy of Mind'' (1997), Harvard University Press, Cambridge, MA.
+
+===Edited collections===
+* ''Ethics: A Feminist Reader'' (with Elizabeth Frazer and [[Sabina Lovibond]]) (1992)
+* ''The Cambridge Companion to Feminism in Philosophy'' (with [[Miranda Fricker]]) (2000)
+* ''Reading Philosophy: Selected Texts with a Method for Beginners'' (with Samuel Guttenplan and Christopher Janaway), (2002)
+* ''Reading Philosophy of Language: Selected Texts with Interactive Commentary'' (with Guy Longworth) (2005)
+
+===Articles===
+====Mind and action====
+* "Anomalousness in Action," in ''The Philosophy of Donald Davidson'', ed. Lewis E. Hahn (Library of Living Philosophers, Open Court, Chicago IL, 1999), 623–36.
+* "Personal and Sub-Personal: A Defence of Dennett's Original Distinction," in ''New Essays on Psychological Explanation'', eds. M. Elton & J. Bermudez, (Special Issue of Philosophical Explorations) 2000, 6–24.
+* "Agency and Actions," in ''Agency and Action'', eds. H. Steward and J. Hyman (Cambridge University Press, 2004), 1–23.
+* "Alienated Agents," in ''Naturalism in Question'', eds. M. De Caro and D. Macarthur (Harvard University Press, 2004), 173–87.
+
+====Language and feminism====
+
+* "Speech Acts and Pornography," Women's Philosophy Review, 1993. Reprinted in ''The Problem of Pornography'', ed. Susan Dwyer (Wadsworth, 1995) 220–32.
+* "Illocution and its Significance," in ''Foundations of Speech Act Theory: Philosophical and Linguistic Perspectives'', ed. S.L.Tsohatzidis (Routledge) 1994, 187–207.
+* "Disempowered Speech," in ''Feminist Perspectives on Language, Knowledge and Reality'' (Philosophical Topics 23.2) ed. S. Haslanger (University of Arkansas Press, 1995) 127–47.
+* "Free Speech and Illocution," (with Rae Langton) ''Legal Theory'' 4 (1998): 21–37.
+* "Feminism in Philosophy of Language: Communicative Speech Acts," in ''The Cambridge Companion to Feminism in Philosophy'', eds. M. Fricker and J. Hornsby (Cambridge University Press, 2000) 87–106.
+* "How to Think About Derogatory Words," in ''Figurative Language'' (Midwest Studies in Philosophy, XXV), eds. P. French & H. Wettstein (Blackwell Publishers, 2001) 128–41.
+* "Free Speech and Hate Speech: Language and Rights," in ''Normativity, Facts, and Values'', eds. R. Egidi, M. Dell'Utri, and M. De Caro (Quodlibet, Macerata, 2003) 297–310.
+
+====Truth and metaphysics====
+
+* "Truth: The Identity Theory," ''Proceedings of the Aristotelian Society'' 97 (1997) 1–24. Reprinted in ''Truth'', ed. Michael Lynch (MIT Press, 2001) 663–81.
+* "Dealing with Facts," in a Symposium on Stephen Neale's Facing Facts, ''Philosophy and Phenomenological Research'' (forthcoming 2005).
+* "Physicalism, Conceptual Analysis, and Acts of Faith," in ''Minds, Worlds & Conditionals: Essays in Honour of Frank Jackson'', ed. I. Ravenscroft (Oxford University Press, forthcoming [2005]).
+* "Truth without Truthmaking Entities," in ''Truthmakers'', eds. H. Beebee and J. Dodd (Oxford University Press,
+
+==References==
+{{Reflist}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hornsby, Jennifer}}
+[[Category:British philosophers of language]]
+[[Category:British women philosophers]]
+[[Category:20th-century British philosophers]]
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:21st-century British philosophers]]
+[[Category:Action theorists]]
+[[Category:Analytic philosophers]]
+[[Category:Academics of Birkbeck, University of London]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Members of the Norwegian Academy of Science and Letters]]
+[[Category:Presidents of the Aristotelian Society]]
+[[Category:Scholars of feminist philosophy]]
+[[Category:British feminists]]
+[[Category:British philosophers of mind]]
+[[Category:Fellows of the British Academy]]

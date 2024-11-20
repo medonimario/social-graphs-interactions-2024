@@ -1,0 +1,28 @@
+'''Nicoletto Vernia''' (c. 1420, in [[Chieti]]<ref>James Hankins (2007). ''The Cambridge companion to Renaissance philosophy''. p. 358.</ref> – October 31, 1499, in [[Vicenza]]) was an Italian [[Averroist]] philosopher, at the [[University of Padua]].<ref>[https://plato.stanford.edu/entries/arabic-islamic-influence/ Influence of Arabic and Islamic Philosophy on the Latin West]</ref>
+
+==Life==
+He studied at [[Pavia]], under [[Paolo da Pergola]] in [[Venice]], and with [[Gaetano da Thiene (philosopher)|Gaetano da Thiene]] in Padua, graduating with a doctorate in 1458. His first work was on the ''[[unitas intellectus]]'', the theory of Averroes on the unity of the [[soul]] and [[intellect]].<ref>Schmitt and Skinner, p. 839.</ref>
+
+In [[natural philosophy]] he posed the question of the scope of the subject. Following Averroes, he took “mobile being” as the topic, against the scholastic views of [[Antonius Andreas]] and [[John Canonicus]].<ref>[[Edward Craig (philosopher)|Edward Craig]], ed., ''Routledge Encyclopedia of Philosophy'' (1998), p. 407.</ref> [[Pietro Barozzi]], [[Bishop of Padua]], in 1489 issued a decree limiting academic discussion, and Vernia had to withdraw from his position. He wrote against Averroes, in ''Contra perversam Averrois opinionem'', attacking his views on the [[immortality of the soul]] and the unity of the intellect.<ref>Deno John Geanakoplos, ''Constantinople and the West: Essays on the Late Byzantine (Palaeologan) and Italian Renaissances and the Byzantine and Roman Churches'' (1989), p. 119.</ref>
+
+His students included [[Agostino Nifo]] and [[Pietro Pomponazzi]]. Both Vernia and Nifo changed allegiance from Averroes to the interpretations of [[Aristotle]] in certain Greek commentators, one of whom, [[Themistius]], was being translated by [[Ermolao Barbaro]], a colleague at Padua. As time went on, the commentary ''On the Soul'' by [[Alexander of Aphrodisias]] was translated into Latin, by [[Girolamo Donato]], and a translation of the commentary attributed to [[Simplicius of Cilicia|Simplicius]] was also circulated. Vernia's views of the correct interpretation of Aristotle modified in the light of access to these fresh opinions.<ref>Anthony Grafton and Nancy Siraisi (editors), Introduction p. 9, in ''Natural Particulars: Nature and the Disciplines in Renaissance Europe'' (1999).</ref><ref>Edward Craig, ''Routledge Encyclopedia of Philosophy'' (1998), p. 409.</ref><ref>[https://plato.stanford.edu/entries/pomponazzi/ Pietro Pomponazzi]</ref>
+
+==Notes==
+{{reflist}}
+
+==References==
+*Charles B. Schmitt, [[Quentin Skinner]] (editors), ''The Cambridge History of Renaissance Philosophy'', Cambridge: Cambridge University Press, 1990.
+
+==Further reading==
+*{{MathGenealogy|id=152902}}
+*Edward P. Mahoney, ''Giovanni Pico della Mirandola and Elia del Medigo, Nicoletto Vernia and Agostino Nifo'', p.&nbsp;132 in G.C. Garfagnini (editor), ''Giovanni Pico della Mirandola: Convegno internazionale di studi nel cinqueccentesimo anniversario della morte (1494-1994)'', Florence, Leo S. Olschki, 1997 (2 vols).
+*Edward P. Mahoney, ''Two Aristotelians of the Italian Renaissance: Nicoletto Vernia and Agostino Nifo'', Aldershot: Ashgate, 2000.
+*D. N. Hasse, ''The attraction of Averroism in the Renaissance: Vernia, Achillini, Prassico'', pp.&nbsp;131–147  in P. Adamson, H. Balthussen, & M. Stone (editors), Philosophy, science, and exegesis in Greek, Arabic, and Latin commentaries, London: Institute of Classical Studies, 2004.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vernia, Nicoletto}}
+[[Category:1442 births]]
+[[Category:1499 deaths]]
+[[Category:15th-century Italian philosophers]]
+[[Category:People from Chieti]]

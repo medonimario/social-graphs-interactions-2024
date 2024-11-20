@@ -1,0 +1,89 @@
+{{Short description|German political scientist}}
+{{Multiple issues|
+{{BLP sources|date=October 2021}}
+{{Primary sources|date=March 2023}}
+}}
+{{Infobox philosopher
+|name           =  Michael Heinrich
+|image          = Michael Heinrich in 2018 at the Rosa Luxemburg Foundation.jpg
+|caption        = Michael Heinrich in May 2018
+|alt            = 
+|birth_date     = {{birth year and age|1957}}
+|birth_place    = [[Heidelberg]]
+|nationality    = German 
+|alma_mater     = [[Free University of Berlin]]
+|notable_works  = ''The Science of Value'' (1991), ''[[An Introduction to the Three Volumes of Karl Marx's Capital]]'' (2004)
+|main_interests = [[Karl Marx]], [[value-form]], [[critique of political economy]], [[Michel Foucault]]}}
+
+'''Michael Heinrich''' (born 1957, [[Heidelberg]]) is a German historian of philosophy and political scientist, specialising in the critical study of the development of [[Karl Marx]]'s thought. Heinrich's work, influenced by [[Elmar Altvater]] and the [[Neue Marx-Lektüre]] of [[Hans-Georg Backhaus]] and [[Helmut Reichelt]] is characterised by its focus on the points of ambivalence and inconsistency in the work of Marx. Through this theme, Heinrich challenges both the closed system he identifies with "worldview Marxism", as well as teleological narratives of Marx's intellectual development throughout his life.<ref name="roso">{{cite news |last1=Roso |first1=Darren |date=2018 |title=Interview with Michael Heinrich |work=Historical Materialism |url=https://www.historicalmaterialism.org/interviews/interview-with-michael-heinrich |access-date=10 October 2021}}</ref> He is best known for his 1991 study of the theoretical field of classical political economy ''The Science of Value'' ({{Langx|de|Die Wissenschaft vom Wert}}), his introductory text to the critique of political economy ''[[An Introduction to the Three Volumes of Karl Marx's Capital]]'', and his ongoing project to produce a multi-volume biography of Marx, of which the first volume of a projected four was published in 2020.
+
+==Career==
+Heinrich was a research assistant at the Department of Political Science at [[Free University of Berlin]] from 1987 to 1993, where he received his PhD. His dissertation was published as
+''The Science of Value'' ({{Langx|de|Die Wissenschaft vom Wert}}) in 1991, and is now in its eighth edition in Germany. An English translation is forthcoming on the [[Historical Materialism (journal)|Historical Materialism]] imprint of [[Brill Publishers]].<ref name="roso"/><ref>{{citation|title=Marx and the Birth of Modern Society: An Interview with Michael Heinrich | url=https://jhiblog.org/2020/11/25/marx-and-the-birth-of-modern-society/ |date=2020-11-25}}</ref> Following his habilitation, Heinrich was a visiting professor at the [[University of Vienna]] and [[HTW Berlin]]. Heinrich was later appointed as lecturer at [[Free University Berlin]], and returned to [[HTW Berlin]] as lecturer from 2005 to 2016. In this period, Heinrich was involved in preparatory work on the [[Marx-Engels-Gesamtausgabe]], and until 2014 served as managing editor of ''{{ill|PROKLA: Journal for Critical Social Science|de| PROKLA}}''.
+
+Heinrich is presently working on a four-volume biography of Marx's life.<ref>{{cite web |title=Karl-Marx-Biografie – Leben und Werk im Kontext |url=http://marx-biografie.de/ |access-date=10 October 2021 |language=de-DE}}</ref> The first volume, ''Karl Marx and the Birth of Modern Society'', was published in 2018, and appeared in English the next year on [[Monthly Review Press]], with Portuguese, French and Spanish translations following suit.<ref>{{cite web |title=Michael Heinrichs neue Marx-Biographie erscheint international |url=http://www.theorie.org/blog/2017/10/michael-heinrichs-neue-marx-biographie-erscheint-international/ |website=theorie.org |access-date=9 November 2017 |ref=marxbioint |archive-url=https://web.archive.org/web/20171109022809/http://www.theorie.org/blog/2017/10/michael-heinrichs-neue-marx-biographie-erscheint-international/ |archive-date=9 November 2017|language=de}}</ref><ref>{{cite news |last1= |first1= |title=Karl Marx and the Birth of Modern Society: The Life of Marx and the Development of His Work (Volume I: 1818-1841) |url=https://monthlyreview.org/product/karl-marx-and-the-birth-of-modern-society/ |access-date=10 October 2021 |work=Monthly Review}}</ref><ref name="byron">{{cite news |last1=Byron |first1=Chris |title='Karl Marx and the Birth of Modern Society: The Life of Marx and the Development of His Work (Volume I: 1818-1841)' by Michael Heinrich reviewed by Chris Byron |url=https://marxandphilosophy.org.uk/reviews/18072_karl-marx-and-the-birth-of-modern-society-the-life-of-marx-and-the-development-of-his-work-volume-i-1818-1841-by-michael-heinrich-reviewed-by-chris-byron/ |access-date=10 October 2021 |work=marxandphilosophy.org.uk |date=2020}}</ref> The second volume is expected to be published in 2023.<ref>{{cite web |title=Exposé (EN) – Karl-Marx-Biografie |url=http://marx-biografie.de/expose/expose_en/ |access-date=10 October 2021 |language=de-DE}}</ref>
+
+== Thought ==
+[[File:Michael Heinrich 2014 in Zagreb.jpg|thumb|Heinrich in 2014]]
+Heinrich is an outspoken critic of what he calls "worldview Marxism" ({{Lang|de|Weltanschauungsmarxismus}}), for which [[Karl Kautsky]] was the dominant figure. This form of Marxism is characterized by "a crudely knitted materialism, a bourgeois belief in progress, and a few strongly simplified elements of [[Hegelian philosophy]] and modular pieces of Marxian terminology combined into simple formulas and explanations". Other prominent features include "a rather crude [[economism]]" and "a pronounced [[historical determinism]] that viewed the end of capitalism and the proletarian revolution as inevitable occurrences".<ref name=":0">{{Cite book |last=Heinrich |first=Michael |url=https://www.worldcat.org/oclc/812923956 |title=An introduction to the three volumes of Karl Marx's Capital |date=2012 |publisher=Monthly Review Press |others=Alexander Locascio |isbn=978-1-58367-291-4 |location=New York |pages= |oclc=812923956}}</ref>{{Rp|pages=24–25}}
+
+=== Fetishism and context of delusion ===
+Contrary to "worldview Marxism", Heinrich primarily views Marx as "a critic of a social structure that is mediated by value and thus 'fetishized'". Following the [[Structural Marxism|structuralism]] of [[Louis Althusser|Althusser]] and [[critical theory]], he speaks of a context of deception ({{Lang|de|Verblendungszusammenhang}}) to which both workers and capitalists are equally subject. For Heinrich, [[Commodity fetishism|fetishism]] is not an impenetrable context of deception, but one cannot speak of a "privileged position of perception occupied by the working class",<ref name=":0" />{{Rp|page=79}} nor can one speak of a conscious instrumentalization by capital, making moral criticisms of behaviors of individuals unproductive.
+
+=== Monetary theory of value ===
+Heinrich rejects the "substantialist" interpretation of Marx's theory of value, which understands value as the "property of an ''individual'' commodity",<ref name=":0" />{{Rp|page=54}} namely the "abstract labor" defined by Marx. Rather, he understands Marx's theory as a ''monetary theory of value'', which marks a paradigmatic shift from the pre-monetary [[Labor theory of value|labor theory]] of the preceding [[classical political economists]], and also distinguishes Marx from the  [[Utility theory of value|utility theory]] of [[neoclassical economics]].<ref name=":0" />{{Rp|page=64}}
+
+Although the value of a commodity appears to be a ''material property'', it is a social relationship, namely the relationship between "the ''individual'' labor of producers and the ''total labor of society''". This does not mean that exchange produces value, but that only in exchange can value "obtain an objective value form".<ref name=":0" />{{Rp|page=55}}
+
+=== Tendency of the rate of profit to fall and crisis theory ===
+[[File:Michael Heinrich in 2018.png|thumb|Heinrich in June 2018]]
+Heinrich calls into question Marxist theories giving a central place to the [[tendency of the rate of profit to fall]], as Marx himself neglected to include the argument in his published theoretical work.<ref name="mrrop">{{cite journal |last1=Heinrich |first1=Michael |title=Crisis Theory, the Law of the Tendency of the Profit Rate to Fall, and Marx's Studies in the 1870s |journal=Monthly Review |date=1 April 2013 |volume=64 |issue=11 |page=15 |doi=10.14452/MR-064-11-2013-04_2 |url=https://monthlyreview.org/2013/04/01/crisis-theory-the-law-of-the-tendency-of-the-profit-rate-to-fall-and-marxs-studies-in-the-1870s/ |access-date=6 March 2023}}</ref> And at the level of the reasoning of the argument, the mathematician Heinrich demonstrates that "a long-lasting ''tendency'' for the rate of profit to fall cannot be substantiated at the general level" with the argument we're given. <ref name=":0" />{{Rp|page=153}} In order to safely deduce a fall in profit as a general tendency, Marx's argument requires the presumption that the rate of [[surplus value|surplus-value]] grows faster than the ratio of capital to value, which cannot be mathematically demonstrated from the concepts with which Marx is working. While the general direction of movement of both quantities may be known—both the rate of relative surplus-value, and the ratio of capital to value, are taken in ordinary capitalist conditions to increase— neither can grow without limit, and easy conclusions about their comparative rates of growth are not forthcoming. Marx, Heinrich argues, later became cognisant of this difficulty. Over a decade after he wrote the manuscript that became. in Engels' edition, [[Das Kapital, Volume III|the third volume of ''Capital'']], Marx composed a mathematical manuscript where he deals at length with the case of rising profit-rates under an increasing value-composition of capital.<ref name="mrrop"></ref>
+
+Along these lines, Heinrich challenges the identification of Marx's theories of crisis with the law of the tendency of the rate of profit to fall, a reading he attributes principally to Engels having edited the third volume of [[Das Kapital|''Capital'']] so as to condense all the fragmentary discussion of crisis under the chapter title "Development of the Law's Internal Contradictions", suggesting all crisis for Marx flows from declining profit rates.<ref name="mrrop"></ref> Instead, Heinrich suggests we ought to follow the direction of Marx's remarks on the role of crisis in mediating breakdowns of relationships between production and consumption, and extend these arguments through more careful attention to a theory of money and credit. Further, Heinrich is sceptical of the suggestion that crisis for Marx necessarily begets collapse, arguing that the collapse theory "has historically always had an excusatory function: regardless of how bad contemporary defeats were, the opponent's end was a certainty". Heinrich argues that such a theory is not found in Marx beyond a possible trace of one in the ''[[Grundrisse]]'', one which is not taken up in Marx's later work. <ref name=":0" />{{Rp|page=|pages=176–178}}
+
+== Published books (selected) ==
+* ''Die Wissenschaft vom Wert. Die Marxsche Kritik der politischen Ökonomie zwischen wissenschaftlicher Revolution und klassischer Tradition.'' VSA-Verlag, Hamburg 1991, ISBN 3-87975-583-3 (9th edition reprint of 7th expanded edition, Westfälisches Dampfboot, Munich 2022, ISBN 978-3-89691-454-5).
+* ''Kritik der politischen Ökonomie. Eine Einführung in „Das Kapital“ von Karl Marx''. 15th edition. Schmetterling, Stuttgart 2021, ISBN 978-3-89657-041-3 (first published 2004).
+** English edition: [[An Introduction to the Three Volumes of Karl Marx's Capital]], Monthly Review Press, New York 2012, ISBN 978-1-58367-289-1.
+* ''Karl Marx and the Birth of Modern Society: The Life of Marx and the Development of His Work. Volume I: 1818-1841'', Monthly Review Press, New York 2019, ISBN 978-1-58367-735-3.
+* ''How to Read Marx's ‘Capital’. Commentary and Explanations on the Beginning Chapters''. Monthly Review Press, New York 2021, ISBN 978-1-58367-894-7
+
+'''Online'''
+* {{Cite book|last=Heinrich|first=Michael|url=https://books.google.com/books?id=kZy9AAAACAAJ|title=Die Wissenschaft vom Wert: die Marxsche Kritik der politischen Ökonomie zwischen wissenschaftlicher Revolution und klassischer Tradition|date=1991|publisher=VSA-Verlag|isbn=978-3-87975-583-7|language=de}}
+* {{Cite book|last=Heinrich|first=Michael|url=https://books.google.com/books?id=ZD0zzgEACAAJ|title=Kritik der politischen Ökonomie: Eine Einleitung in "Das Kapital" von Karl Marx|date=2021|publisher=Schmetterling Verlag GmbH|isbn=978-3-89657-041-3|language=de}}
+* {{Cite book|last=Heinrich|first=Michael|url=https://books.google.com/books?id=0ZiXAAAACAAJ|title=Wie das Marxsche "Kapital" lesen?: Leseanleitung und Kommentar zum Anfang des "Kapital"|date=2008|publisher=Schmetterling-Verlag|isbn=978-3-89657-051-2|language=de}}
+* {{Cite book|last=Heinrich|first=Michael|url=https://books.google.com/books?id=i4tJLgEACAAJ|title=Wie das Marxsche Kapital lesen? Bd. 2: Leseanleitung und Kommentar zum Anfang der "Kapital"|date=2012|publisher=Schmetterling Verlag|isbn=978-3-89657-053-6|language=de}}
+* {{Cite book|last1=Heinrich|first1=Michael|url=https://books.google.com/books?id=o6sitAEACAAJ|title=Ce qu'est "Le Capital" de Marx|last2=Bouffard|first2=Alix|last3=Feron|first3=Alexandre|last4=Fondu|first4=Guillaume|date=2017|publisher=les Éditions sociales|isbn=978-2-35367-034-5|language=fr}}
+* {{Cite book|last=Heinrich|first=Michael|url=https://books.google.com/books?id=2u0FMQAACAAJ|title=Karl Marx und die Geburt der modernen Gesellschaft: Biographie und Werkentwicklung|date=2018|publisher=Schmetterling Stuttgart|isbn=978-3-89657-085-7|language=de}}
+* {{Cite book|last=Heinrich|first=Michael|url=https://books.google.com/books?id=8JvVzQEACAAJ|title=Karl Marx und die Geburt der modernen Gesellschaft: 1818-1841|date=2018|publisher=Schmetterling Verlag|isbn=978-3-89657-085-7|language=de}}
+
+==See also==
+* [[Monetary theory of value]]
+* [[Robert Kurz (philosopher)|Robert Kurz]]
+* ''[[Neue Marx-Lektüre]]''
+
+==References==
+{{reflist}}
+
+==External links==
+* {{official website|http://www.oekonomiekritik.de/}} - Oekonomiekritik.de
+* {{Cite web|title=Was ist die Werttheorie noch wert?|url=http://www.oekonomiekritik.de/302Transformationsproblem.htm|access-date=2021-10-10|website=www.oekonomiekritik.de}}
+* {{Cite book|last1=Elbe|first1=Ingo|url=https://books.google.com/books?id=PBF_NwAACAAJ|title=Gesellschaftliche Praxis und ihre wissenschaftliche Darstellung: Beiträge zur Kapital-Diskussion|last2=Reichardt|first2=Tobias|last3=Wolf|first3=Dieter|date=2008|publisher=Argument|isbn=978-3-88619-655-5|language=de}}
+
+{{Critique of political economy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Heinrich, Michael}}
+[[Category:Living people]]
+[[Category:1957 births]]
+[[Category:Marxian economists]]
+[[Category:Marxist theorists]]
+[[Category:21st-century political scientists]]
+[[Category:Academic staff of the University of Vienna]]
+[[Category:German Marxists]]
+[[Category:Critics of political economy]]
+[[Category:Scholars of Marxism]]
+[[Category:German writers]]
+[[Category:German communists]]
+[[Category:German academics]]
+[[Category:German economists]]

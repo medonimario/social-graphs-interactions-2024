@@ -1,0 +1,85 @@
+{{Short description|Slovenian chess player (1885–1962)}}
+{{for multi|the son of the grandmaster, also a chess player|Milan Vidmar Jr.|the canoeist|Milan Vidmar (canoeist)}}
+{{Use dmy dates|date=December 2013}}
+{{More citations needed|date=March 2008}}
+{{Infobox person
+| name               = Milan Vidmar
+| image              = Milan Vidmar 1930s.jpg
+| caption            = Vidmar {{circa}} 1935
+| birth_date         = {{birth date|1885|6|22|mf=yes}}
+| birth_place        = [[Ljubljana]], [[Austria-Hungary]]
+| death_date         = {{death date and age|1962|10|9|1885|6|22|mf=yes}}
+| death_place        = 
+| alma_mater         = [[University of Vienna]]
+| title              = [[Grandmaster (chess)|Grandmaster]] (1950)
+| children           = [[Milan Vidmar Jr.|Milan Jr.]]
+}}
+
+'''Milan Vidmar''' (22 June 1885 – 9 October 1962) was a [[Slovenia]]n [[electrical engineer]], chess player, [[Chess theory|chess theorist]], and writer. He was among the top dozen chess players in the world from 1910 to 1930 and in 1950, was among the inaugural recipients of the title [[Grandmaster (chess)|International Grandmaster]] from [[FIDE]]. Vidmar was a specialist in [[Electric power|power]] [[transformer]]s and [[transmission (telecommunications)|transmission]] of [[electric current]].
+
+==Early life, family, and education==
+He was born in a middle-class family in [[Ljubljana]], [[Austria-Hungary]] (now in [[Slovenia]]). He began to study [[mechanical engineering]] in 1902, and he graduated in 1907 from the [[University of Vienna]]. He got his [[Doctor of Philosophy|doctor's degree]] in 1911 from the Technical faculty in Vienna. The study of [[electrical engineering]] at the Technical faculty did not begin until 1904, so Vidmar had to take special examinations in the field basics.
+
+Between 1912 and 1913 he worked at the famous [[Ganz Works]] in Budapest as the assistant of [[Ottó Titusz Bláthy]], one of the inventors and foremost experts on transformers which in turn became Vidmar's specialisation too.<ref>[http://www.cesa-project.eu/en/lexicon/authors/milan-vidmar Milan Vidmar]. Central European Science Adventure.</ref>
+
+He was a professor at the [[University of Ljubljana]], a member of the [[Slovenian Academy of Arts and Sciences]], and the founder of the Faculty of Electrical Engineering. Between 1928 and 1929 he was the 10th chancellor of the University of Ljubljana. In 1948 he established the Institute of Electrotechnics that now bears his name.<ref>{{cite web | title=Elektroinštitut Milan Vidmar | url=https://www.eimv.si/eng/ | access-date=April 8, 2018 | archive-date=9 April 2018 | archive-url=https://web.archive.org/web/20180409043114/https://www.eimv.si/eng/ | url-status=dead }}</ref>
+
+==Chess career==
+Vidmar was also a top-class chess player, probably one of the best dozen players in the world from 1910 to 1930, all the while remaining an amateur. He was awarded the [[Grandmaster (chess)|Grandmaster]] title by [[FIDE]] in 1950, when titles were introduced.
+
+His successes include high places at some of the top chess tournaments of his time, e.g. sixth at [[Carlsbad 1907 chess tournament|Carlsbad 1907]], third at [[Prague 1908 chess tournament|Prague 1908]], first at Gothenburg 1909 (the 7th [[Nordic Chess Championship]]), second at [[San Sebastián chess tournament|San Sebastián 1911]] with [[Akiba Rubinstein]] behind [[José Raúl Capablanca]], first at [[Budapest]] 1912, second at [[Mannheim 1914 chess tournament|Mannheim 1914]], first at [[Vienna]] and [[Berlin]] in 1918, second at [[Košice]] 1928, third at London 1922, shared first with [[Alexander Alekhine]] at [[Hastings International Chess Congress|Hastings 1925/26]], third at [[Semmering, Austria|Semmering]] 1926, fourth at [[New York 1927 chess tournament|New York 1927]], fourth at London 1927, shared fifth at [[Carlsbad 1929 chess tournament|Carlsbad 1929]], tied for 4–7th at [[Bled 1931 chess tournament|Bled 1931]], tied for 3–6th at [[Stuttgart]] 1939, second behind [[Max Euwe]] at Budapest 1940, first at [[Basel]] 1952.
+
+Vidmar represented Yugoslavia in the [[Chess Olympiad]]s of [[Prague]] 1931 ({{chessgloss|top board|board one}}, 8½/16) and [[Stockholm]] 1935 (board one, 8½/14).<ref>{{cite web | title=OlimpBase :: Men's Chess Olympiads :: Milan sr Vidmar | url=http://www.olimpbase.org/players/5t7ljfxg.html | access-date = April 8, 2018 }}</ref>
+ 
+Vidmar became an [[arbiter (chess)|arbiter]], earning the title of [[International Arbiter]] from FIDE, and was chief referee for the [[World Chess Championship 1948|1948 World Chess Championship]] in [[The Hague]]/Moscow.
+
+==Major writings==
+Books on chess:
+* ''Pol stoletja ob šahovnici'' (''Half a century at the chessboard'') (Ljubljana 1951)
+* ''Šah'' (''Chess'')
+* ''Razgovori o šahu z začetnikom'' (''Conversations on chess with a beginner'')
+* in German, ''Goldene Schachzeiten'' (''The Golden Times of Chess'')
+Others:
+* ''Transformatorji'' (''Transformers'')
+* ''Problemi prenosa električne energije'' (''Problems of electric energy transmission'')
+* ''Pogovori o elektrotehniki'' (''Talking about electrotechnics'')
+* ''Med Evropo in Ameriko'' (''Between Europe and America'')
+* augmented edition in German, ''Das Ende des Goldzeitalters'' (Berlin, 1942)
+* ''Moj pogled na svet'' (''My view of the World'')
+* ''Oslovski most'' (''Pons asinorum'') (Merkur, Ljubljana 1936)
+
+==Family==
+His younger brother, [[Josip Vidmar]], was an influential Slovenian literary critic and public intellectual; his son, [[Milan Vidmar Jr.]] was an [[International Master]] of chess.
+
+==Tributes==
+The Slovene Chess Federation organizes an international grandmaster tournament named the [[Milan Vidmar memorial]].<ref>[http://stara.sah-zveza.si/mv12/mvarc.html dr. Milan Vidmar memorial Tournaments] {{Webarchive|url=https://web.archive.org/web/20211031111550/http://stara.sah-zveza.si/mv12/mvarc.html |date=31 October 2021 }}, Slovenian chess federation</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{chessgames player|id=10226}}
+
+{{Authority control}}
+
+{{Yugoslav Chess Championship}}
+
+{{DEFAULTSORT:Vidmar, Milan}}
+[[Category:1885 births]]
+[[Category:1962 deaths]]
+[[Category:Engineers from Ljubljana]]
+[[Category:University of Vienna alumni]]
+[[Category:Academic staff of the University of Ljubljana]]
+[[Category:Chess Grandmasters]]
+[[Category:Chess Olympiad competitors]]
+[[Category:Slovenian chess players]]
+[[Category:Yugoslav chess players]]
+[[Category:20th-century Slovenian philosophers]]
+[[Category:Slovenian writers]]
+[[Category:Chess writers]]
+[[Category:Chess arbiters]]
+[[Category:Slovenian electrical engineers]]
+[[Category:Members of the Slovenian Academy of Sciences and Arts]]
+[[Category:Burials at Žale]]
+[[Category:Yugoslav engineers]]
+[[Category:Engineers from Austria-Hungary]]

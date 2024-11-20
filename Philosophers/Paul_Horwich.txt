@@ -1,0 +1,73 @@
+{{Short description|British analytic philosopher}}
+{{Use dmy dates|date=April 2022}}
+{{BLP sources|date=January 2011}}
+{{Infobox philosopher
+| region = [[Western philosophy]]
+| era    = [[Contemporary philosophy]]
+| name        = Paul Horwich
+| birth_name  = Paul Gordon Horwich
+| image       = 
+| caption     =
+| birth_date  = 1947
+| birth_place = 
+| education        = [[Cornell University]]
+| school_tradition = [[Analytic philosophy|Analytic]]
+| main_interests   = [[Philosophy of science]], [[Metaphysics]], [[Epistemology]]
+| influences = [[Wittgenstein]]
+| influenced = 
+| notable_ideas     = [[Minimal theory of truth]]
+| doctoral_advisor  = [[Richard Boyd]]
+| thesis_title      = The Metric and Topology of Time
+| thesis_url        = https://philpapers.org/rec/HOROTM
+| thesis_year       = 1975
+}}
+
+'''Paul Gordon Horwich''' (born 1947) is a British [[analytic philosophy|analytic philosopher]] at [[New York University]], noted for his contributions to [[philosophy of science]], [[philosophy of physics]], the philosophy of language (especially [[truth]] and meaning) and the interpretation of [[Wittgenstein]]'s later philosophy.
+
+==Education and career==
+
+Horwich read Physics at Oxford, graduating in 1968, and earned his PhD in Philosophy from [[Cornell University]] in 1975 with a thesis on ''The Metric and Topology of Time'', under the direction of [[Richard Boyd]]. He began his academic career at [[MIT]], where he taught from 1973 until 1994, when he took up a post at [[University College London]]. He returned to the U.S. in 2000, to take up a chair at the [[CUNY Graduate Center]]. He moved to [[New York University Department of Philosophy|NYU]] in 2005.<ref>[https://as.nyu.edu/content/dam/nyu-as/philosophy/documents/faculty-documents/horwich/Horwich-Paul-CV.pdf as.nyu.edu]</ref>
+
+==Philosophical work==
+
+In ''Truth'' (1990), Horwich presented a detailed defence of the [[Minimalism (philosophy)|''minimalist'' variant]] of the [[deflationary theory of truth]]. He is opposed to appealing to reference and truth to explicate meaning, and so has defended a naturalistic [[use theory of meaning]] in his book ''Meaning''. Other concepts he has advanced are a probabilistic account of [[scientific methodology]] and a unified explanation of temporally asymmetric phenomena.<ref>[http://philosophy.fas.nyu.edu/object/paulhorwich NYU faculty page]</ref>
+
+In the context of philosophical speculations about [[time travel]], Horwich coined the term autofanticide for a variant of the [[grandfather paradox]], in which a person goes back in time and deliberately or inadvertently kills their infant self.<ref>''Asymmetries in Time: Problems in the Philosophy of Science'' by Paul Horwich, MIT Press, 1987.</ref>
+
+==Books==
+* ''Probability and Evidence'' (Cambridge University Press, 1982)<ref>{{Harvnb|Block|2005}}</ref>
+* ''Asymmetries in Time'' (MIT Press, Bradford Books, 1987)
+* ''Truth'' (Oxford:  Clarendon Press, 1990; 2nd edn. 1998)
+* ''Meaning'' (Oxford University Press, 1998)
+* ''From a Deflationary Point of View'' (Oxford University Press, 2004)<ref>[http://ndpr.nd.edu/review.cfm?id=5141 Review of "From a Deflationary Point of View"], accessed January 2011</ref>
+* ''Reflections on Meaning'' (Oxford University Press, 2005)
+* ''Truth—Meaning—Reality'' (Oxford University Press, 2010)
+* ''Wittgenstein's Metaphilosophy'' (Oxford University Press, 2012)
+
+==References==
+
+=== Citations ===
+{{reflist}}
+
+=== Sources ===
+* {{Cite encyclopedia|year=2005|title=Horwich, Paul|encyclopedia=[[The Oxford Companion to Philosophy]]|publisher=[[Oxford University Press]]|location=[[Oxford]]|url=https://books.google.com/books?id=WbkSDAAAQBAJ|last=Block|first=N.|editor-last=Honderich|editor-first=T.|editor-link=Ted Honderich|edition=2nd|page=400|isbn=0-19-926479-1}}
+
+==External links==
+* [http://www.3ammagazine.com/3am/deflationism-and-wittgenstein/ Interview at 3AM Magazine]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Horwich, Paul}}
+[[Category:21st-century British philosophers]]
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:Cornell University alumni]]
+[[Category:Academics of University College London]]
+[[Category:British philosophers of language]]
+[[Category:Analytic philosophers]]
+[[Category:Philosophers of time]]
+[[Category:British metaphysicians]]
+[[Category:20th-century American philosophers]]
+
+
+{{UK-philosopher-stub}}

@@ -1,0 +1,1104 @@
+{{Short description|Brazilian educator (1921–1997)}}
+{{About|the educator|the astronomer|Paulo Freire (astronomer)}}
+{{Portuguese name|Neves|Freire}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox person
+| name               = Paulo Freire
+| image              = Paulo Freire 1977.jpg
+| alt                = 
+| caption            = Freire in 1977
+| birth_name         = Paulo Reglus Neves Freire
+| birth_date         = {{birth date|1921|9|19|df=yes}}
+| birth_place        = [[Recife, Pernambuco]], Brazil
+| death_date         = {{death date and age|1997|5|2|1921|9|19|df=yes}}
+| death_place        = [[São Paulo]], [[São Paulo (state)|São Paulo]], Brazil
+| education          = [[Universidade Federal de Pernambuco]]
+| party              = [[Workers' Party (Brazil)|Workers' Party]]
+| spouse             = {{ubl | {{marriage|Elza Freire|1944|1986|end=died}} | {{marriage|Ana Maria Araújo Freire|1988}}{{sfn|Stone|2013|p=45}}}}
+| module             = {{Infobox scholar |child=yes
+| non-academic       = yes
+| alma_mater         = 
+| thesis_title       = 
+| thesis_year        = 
+| school_tradition   = {{hlist | [[Christian socialism]] | [[critical pedagogy]] | [[Marxism]] | [[Marxist humanism]]}}
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = {{flatlist|
+* [[Zevedei Barbu]]{{sfn|Kirkendall|2010|p=21}}
+* [[John Dewey]]{{sfnm |1a1=Clare |1y=n.d. |2a1=Díaz |2y=n.d.}}
+* [[Frantz Fanon]]{{sfnm |1a1=Arney |1y=2007 |1p=30 |2a1=Clare |2y=n.d. |3a1=Díaz |3y=n.d.}}
+* [[Erich Fromm]]{{sfnm |1a1=Clare |1y=n.d. |2a1=Díaz |2y=n.d. |3a1=Lake |3a2=Dagostino |3y=2013 |3pp=101–102}}
+* [[Antonio Gramsci]]{{sfnm |1a1=Díaz |1y=n.d. |2a1=Mayo |2y=2013 |2p=53}}
+* [[Saul Alinsky]]
+* [[Gustavo Gutiérrez]]{{sfnm |1a1=Clare |1y=n.d. |2a1=Reynolds |2y=2013 |2p=140}}
+* [[Georg Wilhelm Friedrich Hegel|G.&nbsp;W.&nbsp;F. Hegel]]{{sfnm |1a1=Blunden |1y=2013 |1p=11 |2a1=Clare |2y=n.d. |3a1=Díaz |3y=n.d. |4a1=Ordóñez |4y=1981 |4p=100}}
+* [[Tan Malaka]]
+* [[Herbert Marcuse]]{{sfn|Kahn|Kellner|2008|p=30}}
+* [[Jacques Maritain]]{{sfnm |1a1=Clare |1y=n.d. |2a1=Peters |2a2=Besley |2y=2015 |2p=3}}
+* [[Emmanuel Mounier]]{{sfn|Rocha|2018|pp=371–372}}
+* [[Karl Marx]]{{sfnm |1a1=Clare |1y=n.d. |2a1=Díaz |2y=n.d. |3a1=Kress |3a2=Lake |3y=2013 |3p=30 |4a1=Lake |4a2=Dagostino |4y=2013 |4p=111 |5a1=Ordóñez |5y=1981 |5pp=100–101}}
+* [[Sigmund Freud]]
+* [[Charles Darwin]]
+* [[Friedrich Nietzsche]]
+* [[Albert Memmi]]{{sfnm |1a1=Arney |1y=2007 |1p=30 |2a1=Clare |2y=n.d. |3a1=Díaz |3y=n.d.}}
+* [[Álvaro Vieira Pinto]]<ref>https://iftm.edu.br/simpos/2018/anais/758-%20Pronto%20ANAIS.pdf {{Bare URL PDF|date=March 2022}}</ref>
+* [[Jean-Paul Sartre]]{{sfnm |1a1=Ordóñez |1y=1981 |1pp=100–101 |2a1=Peters |2a2=Besley |2y=2015 |2p=3}}
+* [[Anísio Teixeira]]{{sfn|Díaz|n.d.}}
+* [[Miguel de Unamuno]]{{sfn|Rocha|2018|pp=371–372, 379}}
+* [[Simone Weil]]{{sfn|Kirkendall|2010|p=21}}
+}}
+| era                = 
+| discipline         = {{hlist | [[Pedagogy]] | [[philosophy]]}}
+| sub_discipline     = <!--academic discipline specialist area – e.g. Sub-atomic research, 20th-century Danish specialist, Pauline research, Arcadian and Ugaritic specialist-->
+| workplaces         = <!--full-time positions only, not student positions-->
+| notable_students   = <!--only those with WP articles-->
+| main_interests     = 
+| notable_works      = ''[[Pedagogy of the Oppressed]]'' (1968)
+| notable_ideas      = {{hlist | [[Banking model of education]] | [[critical consciousness]]}}
+| influenced         = {{collapsible list |hlist=on |title={{not a typo|&#32;}}<!-- Overrides default title -->
+| [[Fazle Hasan Abed]]{{sfn|Fateh|2020|p=2}}
+| [[Marcella Althaus-Reid]]
+| [[Stanley Aronowitz]]{{sfn|Díaz|n.d.}}
+| [[Christine Ballengee-Morris]]<ref>{{Cite web|url=http://vcg.emitto.net/index.php/vcg/reviewBoard|title = Review Board &#124; Visual Culture & Gender}}</ref>
+| {{ill|Ana Mae Barbosa|es||pt}}{{sfn|Ballengee Morris|2008|pp=55, 60, 65}}
+| [[Steve Biko]]
+| [[Augusto Boal]]
+| [[Leonardo Boff]]{{sfn|Díaz|n.d.}}
+| [[Francisco Brennand]]{{sfn|Ballengee Morris|2008|p=55}}
+| [[Fernando Cardenal]]{{sfn|Kirylo|2011|pp=244–245}}
+| [[Enrique Martinez Celaya]]
+| [[Vicky Colbert]]{{sfn|Luschei|Soto-Peña|2019|p=122}}
+| [[James H. Cone]]{{sfn|Díaz|n.d.}}
+| [[Antonia Darder]]
+| [[Mestre Ferradura]]
+| [[Ramón Flecha]]{{sfn|Flecha|2013|p=21}}
+| {{ill|Moacir Gadotti|pt}}{{sfn|Kohan|2018|p=619}}
+| [[Henry Giroux]]{{sfn|Díaz|n.d.}}
+| [[Cees Hamelink]]{{sfn|Prodnik|Hamelink|2017|p=271}}
+| [[bell hooks]]{{sfnm |1a1=Díaz |1y=n.d. |2a1=Kirylo |2y=2011 |2pp=251–252}}
+| [[Didacus Jules]]
+| [[Karen Keifer-Boyd]]<ref>{{Cite web|url=http://www.personal.psu.edu/faculty/k/t/ktk2/syllabi/3362/khome.html|title=Karen Keifer-Boyd, Ph.D.|access-date=21 September 2020|archive-date=6 March 2023|archive-url=https://web.archive.org/web/20230306045035/http://www.personal.psu.edu/faculty/k/t/ktk2/syllabi/3362/khome.html|url-status=dead}}</ref>
+| [[Joe L. Kincheloe]]{{sfn|Díaz|n.d.}}
+| [[James D. Kirylo]]{{sfn|Kirylo|2011|p=xxii}}
+| [[Jonathan Kozol]]{{sfn|Díaz|n.d.}}
+<!-- | [[George Lakey]]?<ref>https://books.google.ca/books?id=zYGiAgAAQBAJ&pg=PA171&lpg=PA171&dq=George+Lakey+influenced+Freire&source=bl&ots=66XdxM0tjY&sig=ACfU3U129kmE7DxhgJv32ADrhbslMl3Baw&hl=en&sa=X&ved=2ahUKEwim-uSkmIDsAhVRRBoKHX1EDyU4FBDoATAHegQICBAB#v=onepage&q=George%20Lakey%20influenced%20Freire&f=false {{Bare URL inline|date=May 2022}}</ref> -->
+| [[Khen Lampert]]
+| [[Colin Lankshear]]<ref>{{cite web |last1=Lankshear |first1=Colin |author1-link=Colin Lankshear |last2=Peters |first2=Michael A. |author2-link=Michael Adrian Peters |year=2020 |title=There, for Fortune: An 'Accidental' Academic Life. Part 1: From 'Rights' to 'Literacy' |url=https://pesaagora.com/columns/there-for-fortune-an-accidental-academic-life-part-1/ |website=PESA Agora |publisher=Philosophy of Education Society of Australia |access-date=16 September 2020}}</ref>
+| [[Allan Luke]]<ref>https://thelearningexchange.ca/projects/allan-luke-the-new-literacies/ approx. 1:47</ref>
+| [[Donaldo Macedo]]{{sfn|Díaz|n.d.}}
+| [[Ignacio Martín-Baró]]<ref>https://cabodostrabalhos.ces.uc.pt/n14/documentos/06_MoaraCrivelente.pdf {{Bare URL PDF|date=March 2022}}</ref>
+| [[Peter Mayo]]{{sfn|Kirylo|2011|p=258}}
+| [[Alan McCombes]]
+| [[Peter McLaren]]{{sfnm |1a1=Cruz |1y=2013 |1p=8 |2a1=Díaz |2y=n.d.}}
+| [[Jack Mezirow]]
+| [[Oscar Mogollon]]
+| [[G. Nammalvar]]
+| [[Gino Piccio]]
+| [[Majid Rahnema]]
+| [[Howard Richards (academic)|Howard Richards]]
+| [[Marshall Rosenberg]]<ref>{{Cite web|url=https://www.gaconflict.org/our-programs?32d2740e_page=2|title=Our Programs &#124; Georgia Conflict Center|access-date=21 September 2020|archive-date=29 September 2020|archive-url=https://web.archive.org/web/20200929081311/https://www.gaconflict.org/our-programs?32d2740e_page=2|url-status=dead}}</ref>
+| [[Ira Shor]]{{sfnm |1a1=Díaz |1y=n.d. |2a1=Kirylo |2y=2011 |2p=267}}
+| [[Shirley R. Steinberg]]{{sfn|Díaz|n.d.}}
+| [[Carlos Alberto Torres (sociologist)|Carlos Alberto Torres]]{{sfn|Díaz|n.d.}}
+| [[María Guillermina Valdes Villalva]]
+| [[Cornel West]]{{sfnm |1a1=Díaz |1y=n.d. |2a1=Kirylo |2y=2011 |2p=269}}
+}}
+}}
+| signature          = Paulo Freire signature.svg
+| signature_alt      = 
+}}
+{{Christian socialism sidebar|people}}
+{{Critical pedagogy}}
+'''Paulo Reglus Neves Freire'''{{efn|English pronunciation: {{IPAc-en|ˈ|f|r|ɛər|i}} {{respell|FRAIR|ee}}; Portuguese pronunciation: {{IPA|pt|ˈpawlu ˈfɾejɾi||Paulo Freire - pronúncia nordeste Brasil.ogg}}.<ref>[https://www.dicio.com.br/freire/ Freire] Dicionário Online de Português, 2024.</ref>}} (19 September 1921 – 2 May 1997) was a Brazilian [[educator]] and [[philosopher]] who was a leading advocate of [[critical pedagogy]]. His influential work ''[[Pedagogy of the Oppressed]]'' is generally considered one of the foundational texts of the critical pedagogy movement,<ref>{{cite web |last=Wyllie |first=Justin |date=7 June 2012 |orig-year=2010 |title=Review of Paulo Freire's ''Pedagogy of the Oppressed'' |url=https://thenewobserver.co.uk/2012/06/07/review-of-paulo-freires-pedagogy-of-the-oppressed-2/ |website=The New Observer |access-date=20 September 2020}}</ref><ref>{{cite web |last=Barmania |first=Sima |date=26 October 2011 |title=Why Paulo Freire's 'Pedagogy of the Oppressed' Is Just as Relevant Today as Ever |url=http://blogs.independent.co.uk/2011/10/26/why-paulo-freires-pedagogy-of-the-oppressed-is-just-as-relevant-today-as-ever/ |url-status=dead |department=The Independent Blogs |website=The Independent |location=London |archive-url=https://web.archive.org/web/20120430215016/http://blogs.independent.co.uk/2011/10/26/why-paulo-freires-pedagogy-of-the-oppressed-is-just-as-relevant-today-as-ever/ |archive-date=30 April 2012 |access-date=12 November 2012}}</ref><ref>{{cite web |year=2002 |title=Paulo Freire |url=http://www.infed.org/thinkers/et-freir.htm |work=infed |archive-url=https://web.archive.org/web/20121029123023/http://www.infed.org/thinkers/et-freir.htm |archive-date=29 October 2012 |access-date=12 November 2012}}</ref> and was the third [[Citation analysis|most cited]] book in the [[social science]]s {{as of|2016|lc=yes}} according to [[Google Scholar]].<ref>{{cite web | title=What are the most-cited publications in the social sciences (according to Google Scholar)? |author=Elliott D. Green | website=LSE Research Online |publisher=[[London School of Economics and Political Science]] | date=2016-05-12 | url=http://eprints.lse.ac.uk/66752 | access-date=2021-05-07}}</ref>
+
+==Biography==
+Freire was born on 19 September 1921 to a middle-class family in [[Recife]], the capital of the northeastern Brazilian state of [[Pernambuco]]. He became familiar with poverty and hunger from an early age as a result of the [[Great Depression]]. In 1931 his family moved to the more affordable city of [[Jaboatão dos Guararapes]], 18&nbsp;km west of Recife. His father died on 31 October 1934.{{sfn|Freire|1996}}
+
+During his childhood and adolescence, Freire ended up four grades behind, and his social life revolved around playing [[pick-up game|pick-up]] [[association football|football]] with other poor children, from whom he claims to have learned a great deal. These experiences shaped his concerns for the poor and helped to construct his particular educational viewpoint. Freire stated that poverty and hunger severely affected his ability to learn. These experiences influenced his decision to dedicate his life to improving the lives of the poor: "I didn't understand anything because of my hunger. I wasn't dumb. It wasn't lack of interest.  My social condition didn't allow me to have an education. Experience showed me once again the relationship between [[social class]] and knowledge".<ref name=":0">{{cite web |last=Stevens |first=Christy |title=Paulo Freire |url= http://mingo.info-science.uiowa.edu/~stevens/critped/freire.htm |website=Critical Pedagogy on the Web |location=Iowa City, [[Iowa|IO]] |publisher=University of Iowa |archive-url= https://web.archive.org/web/20120206062445/http://mingo.info-science.uiowa.edu/~stevens/critped/freire.htm |archive-date= 6 February 2012 |access-date= 20 September 2020}}</ref> Eventually, his family's misfortunes turned around and their prospects improved.<ref name=":0" />
+
+Freire enrolled in [[law school]] at the [[Federal University of Pernambuco|University of Recife]] in 1943. He also studied philosophy, more specifically [[phenomenology (philosophy)|phenomenology]], and the [[psychology of language]]. Although admitted to the legal bar, he never practiced law and instead worked as a [[secondary school]] [[Portuguese language|Portuguese]] teacher. In 1944, he married Elza Maia Costa de Oliveira, a fellow teacher. The two worked together and had five children.<ref>{{Citation |last=Ramalho |first=Tania |title=Paulo Freire and Communication Studies |date=2018-11-20 |url=https://oxfordre.com/communication/display/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-608 |encyclopedia=Oxford Research Encyclopedia of Communication |access-date=2024-01-13 |language=en |doi=10.1093/acrefore/9780190228613.013.608 |isbn=978-0-19-022861-3}}</ref>
+
+In 1946, Freire was appointed director of the [[Pernambuco]] Department of Education and Culture. Working primarily among the illiterate poor, Freire began to develop an educational [[praxis (process)|praxis]] that had an influence on the [[liberation theology]] movement of the 1970s. In 1940s Brazil, [[literacy]] was a requirement for voting in presidential elections.{{sfn|Bethell|2000}}<ref>{{Cite news|url= https://hbswk.hbs.edu/item/the-great-leap-forward-the-political-economy-of-education-in-brazil-1889-1930 |title= The Great Leap Forward: The Political Economy of Education in Brazil, 1889–1930|date=29 April 2010|work=HBS Working Knowledge|access-date=6 April 2018}}</ref>
+
+[[File:Paulo Freire (1963).tif|left|thumb|Freire in 1963]]
+In 1961, he was appointed director of the Department of Cultural Extension at the University of Recife. In 1962, he had the first opportunity for large-scale application of his theories, when, in an experiment, 300 [[sugarcane]] harvesters were taught to read and write in just 45 days.  In response to this experiment, the [[Brazilian government]] approved the creation of thousands of cultural circles across the country.<ref>{{Cite web|last=Oxman|first=Richard|title= Securing Sweetness For Sugarcane Souls: A Tribute To Paulo Freire | work = Countercurrents|date=26 April 2017|url= https://countercurrents.org/2017/04/securing-sweetness-for-sugarcane-souls-a-tribute-to-paulo-freire/ |access-date=2021-09-07|language=en-US}}</ref>
+
+The [[1964 Brazilian coup d'état]] put an end to Freire's literacy effort, as the ruling military junta did not endorse it. Freire was subsequently imprisoned as a traitor for 70 days. After a brief exile in Bolivia, Freire worked in Chile for five years for the [[Christian Democratic Agrarian Reform Movement]] and the [[United Nations]] [[Food and Agriculture Organization]].  In 1967, Freire published his first book, ''Education as the Practice of Freedom''. He followed it up with his most famous work, ''[[Pedagogy of the Oppressed]]'', which was first published in 1968.{{Citation needed|date=August 2024}}
+
+After a positive international reception of his work, Freire was offered a [[visiting professorship]] at [[Harvard University]] in 1969. The next year, ''Pedagogy of the Oppressed'' was published in Spanish and English, vastly expanding its reach. Because of political feuds between Freire, a [[Christian socialist]], and Brazil's successive [[right-wing]] [[authoritarian]] [[military junta|military governments]], the book went unpublished in Brazil until 1974, when, starting with the presidency of [[Ernesto Geisel]], the military junta started a process of slow and controlled political [[liberalisation]].{{Citation needed|date=November 2018}}
+
+Following a year in [[Cambridge, Massachusetts]], Freire moved to [[Geneva]] to work as a special education advisor to the [[World Council of Churches]]. During this time Freire acted as an advisor on education reform in several former [[Portuguese colonies]] in Africa, particularly [[Guinea-Bissau]] and [[Mozambique]]. In 1979, he first visited Brazil after more than a decade of [[exile]], eventually moving back in 1980. Freire joined the [[Workers' Party (Brazil)|Workers' Party]] (PT) in [[São Paulo]] and acted as a supervisor for its [[adult literacy]] project from 1980 to 1986. When the Workers' Party won the [[1988 São Paulo mayoral elections]] in 1988, Freire was appointed municipal [[Secretary of Education]]. Freire is widely considered the grandfather of Critical Education Theory. Freire died of [[heart failure]] on 2 May 1997, in São Paulo.<ref>{{cite news |last=Pace |first=Eric |date=6 May 1997 |title=Paulo Freire, 75, Is Dead; Educator of the Poor in Brazil |url= https://www.nytimes.com/1997/05/06/world/paulo-freire-75-is-dead-educator-of-the-poor-in-brazil.html |work= The New York Times |page=D23 |issn=0362-4331 |access-date=6 April 2018}}</ref>
+
+==Pedagogy==
+{{blockquote|There is no such thing as a neutral education process. Education either functions as an instrument which is used to facilitate the integration of generations into the logic of the present system and bring about conformity to it, or it becomes the "practice of freedom", the means by which men and women deal critically with reality and discover how to participate in the transformation of their world.|Jane Thompson, drawing on Paulo Freire{{sfn|Mayo|1999|p=5}}}}
+
+Freire contributed a philosophy of education which blended classical approaches stemming from [[Plato]] and modern [[Marxist]], [[post-Marxist]], and [[anti-colonialist]] thinkers. His ''[[Pedagogy of the Oppressed]]'' (1968) can be read as an extension of, or reply to, [[Frantz Fanon]]'s ''[[The Wretched of the Earth]]'' (1961), which emphasized the need to provide [[native populations]] with an education which was simultaneously new and modern, rather than traditional, and anti-colonial&nbsp;– not simply an extension of the colonizing culture.{{Citation needed|date=August 2024}}
+
+In ''Pedagogy of the Oppressed'', Freire, reprising the oppressors–oppressed distinction, applies the distinction to education, championing that education should allow the oppressed to regain their sense of humanity, in turn overcoming their condition. Nevertheless, he acknowledges that for this to occur, the oppressed individual must play a role in their liberation.{{Citation needed|date=August 2024}}
+
+<blockquote>
+No pedagogy which is truly liberating can remain distant from the oppressed by treating them as unfortunates and by presenting for their emulation models from among the oppressors. The oppressed must be their own example in the struggle for their redemption.{{sfn|Freire|1971|p=39}}
+</blockquote>
+
+Likewise, oppressors must be willing to rethink their way of life and to examine their own role in oppression if true liberation is to occur: "Those who authentically commit themselves to the people must re-examine themselves constantly".{{sfn|Freire|1971|p=47}}
+
+Freire believed education could not be divorced from politics; the act of teaching and learning are considered political acts in and of themselves. Freire defined this connection as a main tenet of [[critical pedagogy]]. Teachers and students must be made aware of the politics that surround education. The way students are taught and what they are taught serves a political agenda. Teachers, themselves, have political notions they bring into the classroom.{{sfn|Kincheloe|2008}} Freire believed that
+{{blockquote|Education makes sense because women and men learn that through learning they can make and remake themselves, because women and men are able to take responsibility for themselves as beings capable of knowing—of knowing that they know and knowing that they don't.{{sfn|Freire|2016|p=15}}}}
+
+===Criticism of the "banking model" of education===
+{{Main|Banking model of education}}
+In terms of pedagogy, Freire is best known for his criticism of what he called the "banking" concept of education, in which students are viewed as empty accounts to be filled by teachers. He notes that "it transforms students into receiving objects [and] attempts to control thinking and action, lead[ing] men and women to adjust to the world, inhibit[ing] their creative power."{{sfn|Freire|1971|p=64}} The basic critique was not entirely novel, and paralleled [[Jean-Jacques Rousseau]]'s conception of children as [[Active learning|active learners]], as opposed to a ''[[tabula rasa]]'' view, more akin to the banking model.<ref>{{Cite web |last=Bogle |first=Steven |date=2021 |title=A critique of A Curriculum for Excellence through the works of Paulo Freire |url=https://theses.gla.ac.uk/82405/13/2021BogleMPhil%28R%29.pdf |access-date=January 13, 2024}}</ref> [[John Dewey]] was also strongly critical of the transmission of mere facts as the goal of education. Dewey often described education as a mechanism for [[social change]], stating that "education is a regulation of the process of coming to share in the social consciousness; and that the adjustment of individual activity on the basis of this social consciousness is the only sure method of social reconstruction".{{sfn|Dewey|1897|p=16}} Freire's work revived this view and placed it in context with contemporary theories and practices of education, laying the foundation for what was later termed [[critical pedagogy]].{{Citation needed|date=August 2024}}
+
+===Culture of silence===
+According to Freire, unequal social relations create a "culture of silence" that instills the oppressed with a negative, passive and suppressed self-image; learners must, then, develop a [[critical consciousness]] in order to recognize that this culture of silence is created to oppress.<ref>{{cite web|url=http://tx.cpusa.org/school/classics/freire.htm|title=Marxist education:Education by Freire|publisher=Tx.cpusa.org|access-date=12 November 2012|archive-url=https://web.archive.org/web/20161025154727/http://tx.cpusa.org/school/classics/freire.htm|archive-date=25 October 2016|url-status=dead}}</ref> A culture of silence can also cause the "dominated individuals [to] lose the means by which to critically respond to the culture that is forced on them by a dominant culture."<ref>{{cite web|url=http://www.education.miami.edu/ep/contemporaryed/Paulo_Freire/paulo_freire.html|title=Paulo Freire|publisher=Education.miami.edu|access-date=12 November 2012|url-status=dead |archive-url=https://web.archive.org/web/20130326012648/http://education.miami.edu/ep/contemporaryed/Paulo_Freire/paulo_freire.html|archive-date=26 March 2013}}</ref>
+
+He considers social, race and class dynamics to be interlaced into the conventional education system, through which this culture of silence eliminates the "paths of thought that lead to a ''language of critique''."<ref>{{cite book |last=Giroux |first=Henry A. |author-link=Henry Giroux |year=2001 |chapter=Culture, Power and Transformation in the Work of Paulo Freire |editor-last=Schultz |editor-first=Fred |title=Sources: Notable Selections in Education Selections in Education |edition=3rd |location=New York |publisher=McGraw-Hill Dushkin |page=80}} Cited in {{cite web |last=Cortez |first=John |title=''Culture, Power and Transformation in the Work of Paulo Freire'', by Henry A. Giroux |url=http://faculty.fordham.edu/kpking/classes/uege5102-pres-and-newmedia/Giroux-John-Cortez-Presentation.pdf |location=New York |publisher=Fordham University |page=5 |access-date=18 September 2020 |archive-date=24 October 2020 |archive-url=https://web.archive.org/web/20201024123211/https://faculty.fordham.edu/kpking/classes/uege5102-pres-and-newmedia/Giroux-John-Cortez-Presentation.pdf |url-status=dead }}</ref>
+
+==Legacy and reception==
+Since the publication of the English-language edition in 1970, ''Pedagogy of the Oppressed'' has had a large impact in [[education]] and [[pedagogy]] worldwide,{{sfnm |1a1=Aitken |1a2=Shaw |1y=2018 |2a1=McKenna |2y=2013 |3a1=Salas |3y=2018}} especially as a defining work of [[critical pedagogy]]. According to Israeli writer and [[education reform]] theorist [[Sol Stern]], it has "achieved near-iconic status in America's teacher-training programs".<ref>{{cite magazine |last=Stern |first=Sol |author-link=Sol Stern |date=Spring 2009 |title=Pedagogy of the Oppressor |url=https://www.city-journal.org/html/pedagogy-oppressor-13168.html |magazine=City Journal |location=New York |publisher=Manhattan Institute for Policy Research |access-date=18 September 2020}}</ref> Connections have also been made between Freire's non-dualism theory in pedagogy and Eastern philosophical traditions such as the [[Advaita Vedanta]].{{sfn|Sriraman|2008}}
+
+In 1977, the Adult Learning Project, based on Freire's work, was established in the [[Gorgie-Dalry]] neighborhood of [[Edinburgh]], Scotland.{{sfn|Kirkwood|Kirkwood|2011}} This project had the participation of approximately 200 people in the first years, and had among its aims to provide affordable and relevant local learning opportunities and to build a network of local tutors.{{sfn|Kirkwood|Kirkwood|2011}} In Scotland, Freire's ideas of popular education influenced [[activism|activist]] movements{{sfn|Kane|2010}} not only in Edinburgh but also in [[Glasgow]].<ref>{{Cite web|url=https://www.heraldscotland.com/news/12326184.paulo-freire/|title=Paulo Freire|website=HeraldScotland|date=24 May 1997 |access-date=20 June 2019}}</ref>
+
+Freire's major exponents in North America are [[bell hooks]],<ref>{{Cite book |last=hooks |first=bell |url=https://www.worldcat.org/oclc/30668295 |title=Teaching to transgress : education as the practice of freedom |date=1994 |isbn=0-415-90807-8 |location=New York |oclc=30668295}}</ref> [[Henry Giroux]], [[Peter McLaren]], [[Donaldo Macedo]], [[Antonia Darder]], [[Joe L. Kincheloe]], [[Shirley R. Steinberg]], [[Carlos Alberto Torres (academic)|Carlos Alberto Torres]], and [[Ira Shor]].<ref>{{Cite web |title=Paulo Freire {{!}} Internet Encyclopedia of Philosophy |url=https://iep.utm.edu/freire/ |access-date=2024-01-13 |language=en-US}}</ref> One of McLaren's edited texts, ''Paulo Freire: A Critical Encounter'', expounds upon Freire's impact in the field of [[critical pedagogy]]. McLaren has also provided a comparative study concerning Paulo Freire and [[Argentinian]] [[revolutionary]] icon [[Che Guevara]]. Freire's work influenced the [[radical math]] movement in the United States, which emphasizes social justice issues and critical pedagogy as components of mathematical curricula.<ref>{{cite web|url=http://www.radicalmath.org/|title=Radical Math|website=www.radicalmath.org}}</ref>
+
+In South Africa, Freire's ideas and methods were central to the 1970s [[Black Consciousness Movement]], often associated with [[Steve Biko]],<ref>{{Cite web |last=Timmel |first=Sally |date=29 December 2015 |title=Anne Hope&nbsp;– A Woman of Substance in Anti-Apartheid Movement |url=https://www.iol.co.za/capetimes/opinion/anne-hope-a-woman-of-substance-in-anti-apartheid-movement-1964986 |work=Cape Times |location=Cape Town |access-date=18 September 2020}}</ref><ref>[http://msupress.org/books/book/?id=50-1D0-33FD#.V1KZ8SN97o Liberation and Development: Black Consciousness Community Programs in South Africa], Leslie Anne Hadfield,2016</ref> as well as the trade union movement in the 1970s and 1980s, and the [[United Democratic Front (South Africa)|United Democratic Front]] in the 1980s.<ref>{{cite news |last=Pithouse |first=Richard |date=4 August 2017 |title=Art of Listening Is at Heart of True Democracy |url=https://mg.co.za/article/2017-08-04-00-art-of-listening-is-at-heart-of-true-democracy |work=Mail & Guardian |location=Johannesburg |access-date=18 September 2020}}</ref> The radical doctor [[Abu Baker Asvat]] was among the many prominent anti-apartheid activists who used Freire's methods.<ref>[https://www.newframe.com/abu-baker-asvat-a-forgotten-revolutionary/ Abu Baker Asvat: a forgotten revolutionary], Imraan Buccus, ''New Frame'', 8 November 2021</ref> Today there is a Paulo Freire Project at the [[University of KwaZulu-Natal]] in [[Pietermaritzburg]]<ref>{{cite web|url=http://cae.ukzn.ac.za/PauloFreireProject.aspx|title=Paulo Freire Project|website=cae.ukzn.ac.za|access-date=22 June 2012|archive-date=8 January 2014|archive-url=https://web.archive.org/web/20140108063218/http://cae.ukzn.ac.za/PauloFreireProject.aspx|url-status=dead}}</ref> and [[Abahlali baseMjondolo]], a radical movement of the urban poor, continues to use Freirian methods.<ref>[https://thetricontinental.org/dossier-34-paulo-freire-and-south-africa/ Paulo Freire and Popular Struggle in South Africa], Zamalotshwa Sefatsa, Tricontinental Institute for Social Research, 9 November 2020</ref>
+
+In 1991, the [[Paulo Freire Institute]] was established in [[São Paulo]] to extend and elaborate upon his theories of [[popular education]]. The institute has started projects in many countries and is headquartered at the [[UCLA Graduate School of Education and Information Studies]], where it actively maintains the Freire archives. Its director is UCLA [[professor]] [[Carlos Alberto Torres (academic)|Carlos Torres]], the author of several Freirean works, including the 1978 ''A praxis educativa de Paulo Freire''.<ref>{{Cite web |title=About {{!}} School of Education & Information Studies |url=https://www.pfi.seis.ucla.edu/about |access-date=2024-01-13 |website=UCLA Paulo Freire In |language=en}}</ref><ref>{{Cite journal |last=Torres |first=Carlos Alberto |date=1977 |title=A práxis educativa de Paulo Freire |url=https://acervo.paulofreire.org/handle/7891/1628 |journal=Produção de terceiros sobre Paulo Freire; Série Livros |language=pt}}</ref>
+
+In 1999 PAULO, a national training organisation named in honour of Freire, was established in the United Kingdom. This agency was approved by the New Labour Government to represent some 300,000 community-based education practitioners working across the UK. PAULO was given formal responsibility for setting the occupational training standards for people working in this field.<ref>{{Cite web |title=Latest version of the UK's National Occupational Standards for Community Development out – IACD |url=https://www.iacdglobal.org/2015/10/31/latest-version-of-the-uks-national-occupational-standards-for-community-development-out/ |access-date=2024-01-13 |language=en-US}}</ref>
+
+The [[Paulo and Nita Freire Project for International Critical Pedagogy]] was founded at [[McGill University]]. Here [[Joe L. Kincheloe]] and [[Shirley R. Steinberg]] worked to create a dialogical forum for critical scholars around the world to promote research and re-create a Freirean pedagogy in a multinational domain.<ref>{{Cite web |title=The Paulo and Nita Freire Project for Critical Pedagogy, McGill University {{!}} Centre for Culture, Identity and Education |url=https://ccie.educ.ubc.ca/the-paulo-and-nita-freire-project-for-critical-pedagogy-mcgill-university/ |access-date=2024-01-13 |website=ccie.educ.ubc.ca}}</ref> After the death of Kincheloe, the project was transformed into a virtual global resource.<ref>{{Cite web |title=The Freire Project |url=https://freireproject.com/ |access-date=2024-01-13 |website=freireproject.com |language=en}}</ref><!-- See the about section further down the home page -->
+
+In 2012, a group of educators in [[Western Massachusetts]], United States, received permission to name a public school after Freire. The [[Holyoke, Massachusetts|Holyoke]], Massachusetts, [[Paulo Freire Social Justice Charter School]] opened in September 2013.<ref>{{cite news |last=Vaznis |first=James |date=28 February 2012 |title=State Approves Four New Charter Schools |url=https://www.bostonglobe.com/metro/2012/02/28/state-approves-four-new-charter-schools/vJSYRGhkz9rgEBqwaPMyGI/story.html |work=The Boston Globe |access-date=18 September 2020}}</ref> The school moved to the former Pope Francis Catholic High School building in [[Chicopee, Massachusetts]], in 2019.<ref>{{Cite news|last=Christensen|first=Dusty|date=June 24, 2021|title=Dozens protest as Paulo Freire charter school axes half its teachers|work=[[Daily Hampshire Gazette]]|url=https://www.gazettenet.com/Paulo-Freire-Social-Justice-Charter-School-union-alleges-union-busting-41135304|access-date=October 30, 2021}}</ref>
+
+In 2012, Paulo Freire Charter High School opened in [[Newark, New Jersey]]. The state closed the school in 2017 due to lagging test scores and lack of "instructional rigor."<ref>{{Cite web|last=Clark|first=Adam|date=2017-03-02|title=Here are the specific reasons N.J. closed these 4 charter schools|url=https://www.nj.com/education/2017/03/heres_why_nj_closed_these_4_charter_schools.html|access-date=2021-10-30|website=nj.com|language=en}}</ref>
+
+Shortly before his death, Freire was working on a book of [[ecopedagogy]], a platform of work carried on by many of the Freire Institutes and Freirean Associations around the world today. It has been influential in helping to develop planetary education projects such as the [[Earth Charter]] as well as countless international grassroots campaigns in the spirit of Freirean popular education generally.<ref>{{Cite web |last=Earth Charter Initiative Secretariat |title=The Earth Charter and Education for Social Change |url=https://earthcharter.org/wp-content/assets/virtual-library2/images/uploads/X-%20The%20Earth%20Charter%20and%20Education%20for%20Social%20Change.pdf |access-date=January 13, 2024}}</ref>
+
+Freirean literacy methods have been adopted throughout the [[developing world]]. In the Philippines, Catholic "[[base community|basal Christian communities]]" adopted Freire's methods in [[community education]]. Papua New Guinea, Freirean literacy methods were used as part of the World Bank-funded Southern Highlands Rural Development Program's Literacy Campaign. Freirean approaches also lie at the heart of the "Dragon Dreaming" approach to community programs that have spread to 20 countries by 2014.<ref>{{Cite web |last=Disterheft |first=Antje |date=2015 |title=PARTICIPATORY APPROACHES IN HIGHER EDUCATION'S SUSTAINABILITY PRACTICES: A MIXED-METHODS STUDY LEADING TO A PROPOSAL OF A NEW ASSESSMENT MODEL |url=https://core.ac.uk/download/pdf/303043452.pdf}}</ref>
+
+===Awards and honors===
+{{Expand Portuguese|topic=bio|section=yes|Paulo Freira#Honrarias|date=September 2021}}
+
+* [[King Baudouin International Development Prize]] 1980: Paulo Freire was the first person to receive this prize. He was nominated by Mathew Zachariah, Professor of Education at the University of Calgary.
+* Prize for Outstanding Christian Educators, with his wife Elza
+* [[UNESCO Prize for Peace Education]] 1986
+* Honorary Doctorate, the [[University of Nebraska at Omaha]], 1996, along with Augusto Boal, during their residency at the Second Pedagogy and Theatre of the Oppressed Conference in Omaha.
+* Honorary Degree from [[Claremont Graduate University]], 1992
+* Honorary Doctorate from [[The Open University]], 1973
+* Inducted, [[International Adult and Continuing Education Hall of Fame]], 2008<ref>{{cite web|url=http://www.halloffame.outreach.ou.edu/by_year/HOF_2008.html|title=International Adult Continuing Education Hall of Fame|website=www.halloffame.outreach.ou.edu|access-date=3 March 2015|archive-url=https://web.archive.org/web/20150306060310/http://www.halloffame.outreach.ou.edu/by_year/HOF_2008.html|archive-date=6 March 2015|url-status=dead}}</ref>
+*Honorary Degree from the [[University of Illinois at Chicago]], 1993.<ref>{{Cite web|url=https://commencement.uic.edu/about/history/honorary-degrees/|title=Honorary Degrees {{pipe}} Commencement {{pipe}} University of Illinois at Chicago|website=commencement.uic.edu}}</ref>
+
+==Bibliography==
+Freire wrote and co-wrote more than 20 books on education, pedagogy and related themes.<ref>{{cite web|url= http://www.pedagogyoftheoppressed.com/bibliography/|title=Bibliography | work =Pedagogy of the oppressed|access-date=12 November 2012|url-status=dead |archive-url= https://web.archive.org/web/20120928024059/http://www.pedagogyoftheoppressed.com/bibliography/|archive-date=28 September 2012}}</ref>
+
+His works include:
+* ''[[Pedagogy of the Oppressed]]''.  New York: Continuum, 1970.
+* ''Cultural Action for Freedom''. [Cambridge], Harvard Educational Review, 1970, {{ISBN|978-1877930799}}.
+* ''Education for Critical Consciousness''. New York: Seabury Press, 1973, {{ISBN|978-0816491131}}.
+* ''[[Conscientization]]''. Geneva: World Council of Churches, 1975.
+* ''Education, the Practice of Freedom''. London: Writers and Readers Publishing Cooperative, 1976.
+* ''Pedagogy in Process: The Letters to Guinea-Bissau''. New York: A Continuum Book: The Seabury Press, 1978.
+* ''The Politics of Education: Culture, Power, and Liberation''. South Hadley, Massachusetts: Bergin & Garvey, 1985.
+* (With Donaldo Macedo) ''Literacy: Reading the Word and the World''. South Hadley, MA: Bergin & Garvey Publishers, 1987.
+* Shor, Ira (editor), ''Freire for the Classroom: A Sourcebook for Liberatory Teaching'', Boynton/Cook Publishers Inc, 1987.
+<!-- not by Freire?, though he wrote Introduction* H. Giroux, Foreword by P. McLaren) ''Teachers as Intellectuals: Towards a Critical Pedagogy of Learning'', 1988.-->
+<!-- not by Freire?* I. Shor) ''Culture Wars: School and Society in the Conservative Restoration, 1969–1984'', 1988.-->
+* ''Pedagogy of the City''. New York: Continuum, 1993.
+* (With Antonion Faundez) ''Learning to Question: A Pedagogy of Liberation'', trans. Tony Coates. New York: Continuum, 1992.
+* (With Ana Maria Araújo Freire) ''[[Pedagogy of Hope: Reliving Pedagogy of the Oppressed]]''. New York: Continuum, 1994.
+* ''Mentoring the Mentor: A Critical Dialogue with Paulo Freire''. New York: P. Lang, 1997.
+* (With Ana Maria Araújo Freire) ''Pedagogy of the Heart''. New York: Continuum, 1997.
+* ''Pedagogy of Freedom: Ethics, Democracy and Civic Courage''. Lanham: Rowman & Littlefield Publishers, 1998.
+* ''Politics and Education''. Los Angeles: UCLA Latin American Center Publications, 1998.
+*  ''Teachers as Cultural Workers: Letters to Those Who Dare Teach''. Boulder, Colorado: Westview Press, 1998.
+
+==See also==
+{{colbegin}}
+* [[Adult education]]
+* [[Clodomir Santos de Morais]]
+* [[Culture circle]]
+* [[Dialogic education]]
+* [[Dialogic learning]]
+* [[Dialogic pedagogy]]
+* [[Raya Dunayevskaya]]
+* [[Education in Brazil]]
+* [[James D. Kirylo]]
+* [[Landless Workers' Movement]]
+* [[Marxist humanism]]
+* [[Paulo Freire University]]
+* [[Peer mentoring]]
+* [[Popular education]]
+* [[Praxis intervention]]
+* [[Problem-posing education]]
+* [[Rouge Forum]]
+* [[Second Episcopal Conference of Latin America]]
+* [[Structure and agency]]
+{{colend}}
+
+==Notes==
+{{notelist}}
+
+==References==
+===Footnotes===
+{{reflist|22em}}
+
+===Works cited===
+{{refbegin|35em|indent=yes}}
+* {{cite journal
+|year=2018
+|title=Pedagogy of the Oppressed
+|url=http://concept.lib.ed.ac.uk/article/view/2849/3906
+|type=special issue
+|editor1-last=Aitken
+|editor1-first=Mel
+|editor2-last=Shaw
+|editor2-first=Mae
+|journal=Concept
+|volume=9
+|issue=3
+|issn=2042-6968
+}}
+* {{cite thesis
+|last=Arney
+|first=Lance A.
+|year=2007
+|title=Political Pedagogy and Art Education with Youth in a Street Situation in Salvador, Brazil: An Ethnographic Evaluation of the Street Education Program of Projeto Axé
+|url=https://scholarcommons.usf.edu/etd/608
+|degree=MA
+|location=Tampa, Florida
+|publisher=University of South Florida
+|access-date=22 September 2020
+}}
+* {{cite journal
+|last=Ballengee Morris
+|first=Christine
+|author-link=Christine Ballengee-Morris
+|year=2008
+|title=Paulo Freire: Community-Based Arts Education
+|journal=Journal of Thought
+|volume=43
+|issue=1–2
+|pages=55–69
+|issn=2375-270X
+|jstor=jthought.43.1-2.55
+}}
+* {{cite journal
+|last=Bethell
+|first=Leslie
+|author-link=Leslie Bethell
+|year=2000
+|title=Politics in Brazil: From Elections Without Democracy to Democracy Without Citizenship
+|journal=Daedalus
+|volume=129
+|issue=2
+|pages=1–27
+|issn=1548-6192
+|jstor=20027627
+}}
+* {{cite book
+|last=Blunden
+|first=Andy
+|author-link=Andy Blunden
+|year=2013
+|chapter=Contradiction, Consciousness, and Generativity: Hegel's Roots in Freire's Work
+|editor1-last=Lake
+|editor1-first=Robert
+|editor2-last=Kress
+|editor2-first=Tricia
+|title=Paulo Freire's Intellectual Roots: Toward Historicity in Praxis
+|url=http://s3.amazonaws.com/arena-attachments/1002832/1fb090e71ce54337371cb171375ebda9.pdf
+|location=New York
+|publisher=Bloomsbury Academic
+|pages=11–28
+|doi=10.5040/9781472553164.ch-001
+|isbn=978-1-4411-1380-1
+|access-date=17 September 2020
+}}
+* {{cite encyclopedia
+|last=Clare
+|first=Roberta
+|date=n.d.
+|title=Paulo Freire
+|url=https://www.biola.edu/talbot/ce20/database/paulo-freire
+|encyclopedia=Christian Educators of the 20th Century
+|location=La Mirada, California
+|publisher=Biola University
+|access-date=17 September 2020
+}}
+* {{cite journal
+|last=Cruz
+|first=Ana L.
+|year=2013
+|title=Paulo and Nita: Sharing Life, Love and Intellect&nbsp;– An Introduction
+|url=http://libjournal.uncg.edu/ijcp/article/view/770
+|journal=International Journal of Critical Pedagogy
+|volume=5
+|issue=1
+|pages=5–10
+|issn=2157-1074
+|access-date=18 September 2020
+}}
+* {{cite book
+|last=Dewey
+|first=John
+|author-link=John Dewey
+|year=1897
+|title=My Pedagogic Creed
+|url=https://archive.org/details/mypedagogiccree00dewegoog
+|location=New York
+|publisher=E.&nbsp;L. Kellogg & Co.
+|access-date=18 September 2020
+}}
+* {{cite encyclopedia
+|last=Díaz
+|first=Kim
+|date=n.d.
+|title=Paulo Freire (1921–1997)
+|url=https://iep.utm.edu/freire/
+|encyclopedia=Internet Encyclopedia of Philosophy
+|issn=2161-0002
+|access-date=17 September 2020
+}}
+* {{cite thesis
+|last=Fateh
+|first=Mohammad
+|year=2020
+|title=A Historical Analysis on Bangladesh Rural Advancement Committee (BRAC) and Abed's Reception of Paulo Freire's Critical Literacy in Designing BRAC's Functional Education Curriculum in Bangladesh from 1972 to 1981
+|degree=MEd
+|location=Kingston, Ontario
+|publisher=Queen's University
+|hdl=1974/27558
+|hdl-access=free
+}}
+* {{cite journal
+|last=Flecha
+|first=Ramón
+|author-link=Ramón Flecha
+|year=2013
+|title=Life Experiences with Paulo and Nita
+|url=http://libjournal.uncg.edu/ijcp/article/view/772
+|journal=International Journal of Critical Pedagogy
+|volume=5
+|issue=1
+|pages=17–24
+|issn=2157-1074
+|access-date=18 September 2020
+}}
+* {{cite book
+|last=Freire
+|first=Paulo
+|year=1971
+|orig-year=1970
+|title=Pedagogy of the Oppressed
+|title-link=Pedagogy of the Oppressed
+|translator-last=Ramos
+|translator-first=Myra Bergman
+|location=New York
+|publisher=Herder and Herder
+|oclc=1036794065
+}}
+* {{cite book
+|last=Freire
+|first=Paulo
+|author-mask={{long dash}}
+|year=1985
+|title=The Politics of Education: Culture, Power, and Liberation
+|translator-last=Macedo
+|translator-first=Donaldo
+|translator-link=Donaldo Macedo
+|series=Critical Studies in Education
+|location=Westport, Connecticut
+|publisher=Bergin & Garvey
+|isbn=978-0-89789-043-4
+|issn=1064-8615
+}}
+* {{cite book
+|last=Freire
+|first=Paulo
+|author-mask={{long dash}}
+|year=1996
+|title=Letters to Cristina: Reflections on My Life and Work
+|location=New York
+|publisher=Routledge
+}}
+* {{cite book
+|last=Freire
+|first=Paulo
+|author-mask={{long dash}}
+|year=2016
+|orig-year=2004
+|title=Pedagogy of Indignation
+|location=Abingdon, England
+|publisher=Routledge
+|doi=10.4324/9781315632902
+|isbn=978-1-59451-050-2
+}}
+* {{cite book
+|last=Grollios
+|first=Georgios
+|year=2016
+|orig-year=2009
+|title=Paulo Freire and the Curriculum
+|translator-last=Gakoudi
+|translator-first=Niki
+|location=Abingdon, England
+|publisher=Routledge
+|doi=10.4324/9781315632988
+|isbn=978-1-59451-747-1
+}}
+* {{cite book
+|last1=Kahn
+|first1=Richard
+|last2=Kellner
+|first2=Douglas
+|author2-link=Douglas Kellner
+|year=2008
+|chapter=Paulo Freire and Ivan Illich: Technology, Politics, and the Reconstruction of Education
+|editor1-last=Torres
+|editor1-first=Carlos Alberto
+|editor1-link=Carlos Alberto Torres (sociologist)
+|editor2-last=Noguera
+|editor2-first=Pedro
+|editor2-link=Pedro Noguera
+|title=Social Justice Education for Teachers: Paulo Freire and the Possible Dream
+|location=Rotterdam, Netherlands
+|publisher=Sense Publishers
+|pages=13–34
+|doi=10.1163/9789460911446_003
+|isbn=978-94-6091-144-6
+}}
+* {{cite journal
+|last=Kane
+|first=Liam
+|year=2010
+|title=Community Development: Learning from Popular Education in Latin America
+|journal=Community Development Journal
+|volume=45
+|issue=3
+|pages=276–286
+|doi=10.1093/cdj/bsq021
+|issn=1468-2656
+}}
+* {{cite book
+|last=Kirkendall
+|first=Andrew J.
+|year=2010
+|title=Paulo Freire and the Cold War Politics of Literacy
+|title-link=Paulo Freire and the Cold War Politics of Literacy
+|location=Chapel Hill, North Carolina
+|publisher=University of North Carolina Press
+|isbn=978-0-8078-3419-0
+}}
+* {{cite book
+|last1=Kirkwood
+|first1=Gerri
+|last2=Kirkwood
+|first2=Colin
+|year=2011
+|title=Living Adult Education: Freire in Scotland
+|edition=2nd
+|location=Rotterdam, Netherlands
+|publisher=Sense Publishers
+|isbn=978-94-6091-552-9
+}}
+* {{cite book
+|last=Kirylo
+|first=James D.
+|author-link=James D. Kirylo
+|year=2011
+|title=Paulo Freire: The Man from Recife
+|title-link=Paulo Freire: The Man from Recife
+|series=Counterpoints: Studies in the Postmodern Theory of Education
+|volume=385
+|location=New York
+|publisher=Peter Lang
+|isbn=978-1-4331-0879-2
+|issn=1058-1634
+|jstor=i40115912
+}}
+* {{cite book
+|last=Kincheloe
+|first=Joe L.
+|author-link=Joe L. Kincheloe
+|year=2008
+|title=Critical Pedagogy Primer
+|title-link=Critical Pedagogy Primer
+|edition=2nd
+|location=New York
+|publisher=Peter Lang
+}}
+* {{cite journal
+|last=Kohan
+|first=Walter Omar
+|author-link=Walter Omar Kohan
+|year=2018
+|title=Paulo Freire and Philosophy for Children: A Critical Dialogue
+|journal=Studies in Philosophy and Education
+|volume=37
+|issue=6
+|pages=615–629
+|doi=10.1007/s11217-018-9613-8
+|s2cid=149853542
+|issn=1573-191X
+}}
+* {{cite book
+|last1=Kress
+|first1=Tricia
+|last2=Lake
+|first2=Robert
+|year=2013
+|chapter=Freire and Marx in Dialogue
+|editor1-last=Lake
+|editor1-first=Robert
+|editor2-last=Kress
+|editor2-first=Tricia
+|title=Paulo Freire's Intellectual Roots: Toward Historicity in Praxis
+|url=http://s3.amazonaws.com/arena-attachments/1002832/1fb090e71ce54337371cb171375ebda9.pdf
+|location=New York
+|publisher=Bloomsbury Academic
+|pages=29–52
+|doi=10.5040/9781472553164.ch-002
+|isbn=978-1-4411-1380-1
+|access-date=17 September 2020
+}}
+* {{cite book
+|last1=Lake
+|first1=Robert
+|last2=Dagostino
+|first2=Vicki
+|year=2013
+|chapter=Converging Self/Other Awareness: Erich Fromm and Paulo Freire on Transcending the Fear of Freedom
+|editor1-last=Lake
+|editor1-first=Robert
+|editor2-last=Kress
+|editor2-first=Tricia
+|title=Paulo Freire's Intellectual Roots: Toward Historicity in Praxis
+|url=http://s3.amazonaws.com/arena-attachments/1002832/1fb090e71ce54337371cb171375ebda9.pdf
+|location=New York
+|publisher=Bloomsbury Academic
+|pages=101–126
+|doi=10.5040/9781472553164.ch-006
+|isbn=978-1-4411-1380-1
+|access-date=17 September 2020
+}}
+* {{cite book
+|last1=Luschei
+|first1=Thomas F.
+|last2=Soto-Peña
+|first2=Michelle
+|title=Educational Alternatives in Latin America
+|chapter=Beyond Achievement: Colombia's Escuela Nueva and the Creation of Active Citizens
+|year=2019
+|editor1-last=Aman
+|editor1-first=Robert
+|editor2-last=Ireland
+|editor2-first=Timothy
+|url=https://link.springer.com/content/pdf/10.1007%2F978-3-319-53450-3.pdf
+|location=Cham, Switzerland
+|publisher=Palgrave Macmillan
+|pages=113–141
+|doi=10.1007/978-3-319-53450-3_6
+|isbn=978-3-319-53450-3
+|s2cid=181703402
+|access-date=22 September 2020
+}}
+* {{cite book
+|last=Mayo
+|first=Peter
+|author-link=Peter Mayo
+|year=1999
+|title=Gramsci, Freire, and Adult Education: Possibilities for Transformative Action
+|location=London
+|publisher=Zed Books
+|isbn=978-1-85649-614-8
+}}
+* {{cite book
+|last=Mayo
+|first=Peter
+|author-link=Peter Mayo
+|author-mask={{long dash}}
+|year=2013
+|chapter=The Gramscian Influence
+|editor1-last=Lake
+|editor1-first=Robert
+|editor2-last=Kress
+|editor2-first=Tricia
+|title=Paulo Freire's Intellectual Roots: Toward Historicity in Praxis
+|url=http://s3.amazonaws.com/arena-attachments/1002832/1fb090e71ce54337371cb171375ebda9.pdf
+|location=New York
+|publisher=Bloomsbury Academic
+|pages=53–64
+|doi=10.5040/9781472553164.ch-003
+|isbn=978-1-4411-1380-1
+|access-date=17 September 2020
+}}
+* {{cite journal
+|last=McKenna
+|first=Brian
+|year=2013
+|title=Paulo Freire's Blunt Challenge to Anthropology: Create a ''Pedagogy of the Oppressed'' for Your Times
+|journal=Critique of Anthropology
+|volume=33
+|issue=4
+|pages=447–475
+|doi=10.1177/0308275X13499383
+|s2cid=147418397
+|issn=0308-275X
+}}
+* {{cite thesis
+|last=Ordóñez
+|first=Jacinto
+|year=1981
+|title=Paulo Freire's Concept of Freedom: A Philosophical Analysis
+|url=https://ecommons.luc.edu/luc_diss/2208
+|type=PhD dissertation
+|location=Chicago
+|publisher=Loyola University of Chicago
+|access-date=18 September 2020
+}}
+* {{cite book
+|last1=Peters
+|first1=Michael A.
+|author1-link=Michael Adrian Peters
+|last2=Besley
+|first2=Tina
+|author2-link=Tina Besley
+|year=2015
+|chapter=Introduction
+|editor1-last=Peters
+|editor1-first=Michael A.
+|editor1-link=Michael Adrian Peters
+|editor2-last=Besley
+|editor2-first=Tina
+|editor2-link=Tina Besley
+|title=Paulo Freire: The Global Legacy
+|series=Counterpoints: Studies in the Postmodern Theory of Education
+|volume=500
+|location=New York
+|publisher=Peter Lang
+|pages=1–13
+|hdl=10289/11857
+|hdl-access=free
+|isbn=978-1-4539-1408-3
+|issn=1058-1634
+|jstor=45178201
+}}
+* {{cite journal
+|last1=Prodnik
+|first1=Jernej Amon
+|last2=Hamelink
+|first2=Cees
+|author2-link=Cees Hamelink
+|year=2017
+|title="Well Friends, Let's Play Jazz": An Interview with Cees Hamelink
+|journal=TripleC
+|volume=15
+|issue=1
+|pages=262–284
+|doi=10.31269/triplec.v15i1.861
+|doi-access=free
+|issn=1726-670X
+}}
+* {{cite book
+|last=Reynolds
+|first=William M.
+|year=2013
+|chapter=Liberation Theology and Paulo Freire: On the Side of the Poor
+|editor1-last=Lake
+|editor1-first=Robert
+|editor2-last=Kress
+|editor2-first=Tricia
+|title=Paulo Freire's Intellectual Roots: Toward Historicity in Praxis
+|url=http://s3.amazonaws.com/arena-attachments/1002832/1fb090e71ce54337371cb171375ebda9.pdf
+|location=New York
+|publisher=Bloomsbury Academic
+|pages=127–144
+|doi=10.5040/9781472553164.ch-007
+|isbn=978-1-4411-1380-1
+|access-date=17 September 2020
+}}
+* {{cite journal
+|last=Rocha
+|first=Samuel D.
+|year=2018
+|title={{'}}''Ser Mais''{{'}}: The Personalism of Paulo Freire
+|url=https://educationjournal.web.illinois.edu/ojs/index.php/pes/article/view/195
+|journal=Philosophy of Education
+|pages=371–384
+|doi=10.47925/74.371
+|access-date=24 September 2020
+|doi-access=free
+}}
+* {{cite journal
+|last=Salas
+|first=Maria del Mar Ramis
+|year=2018
+|title=Contributions of Freire's Theory to Dialogic Education
+|journal=Social and Education History
+|volume=7
+|issue=3
+|pages=277–299
+|doi=10.17583/hse.2018.3749
+|doi-access=free
+|issn=2014-3567
+|hdl=2445/163561
+|hdl-access=free
+}}
+* {{cite book
+|last=Sriraman
+|first=Bharath
+|author-link=Bharath Sriraman
+|year=2008
+|chapter=On the Origins of Social Justice: Darwin, Freire, Marx and Vivekananda
+|editor-last=Sriraman
+|editor-first=Bharath
+|editor-link=Bharath Sriraman
+|title=International Perspectives on Social Justice in Mathematics Education
+|series=The Montana Mathematics Enthusiast: Monograph Series in Mathematics Education
+|volume=1
+|pages=1–6
+|location=Charlotte, North Carolina
+|publisher=Information Age Publishing
+|isbn=978-1-59311-880-8
+}}
+* {{cite book
+|last=Stone
+|first=Sandra J.
+|title=A Critical Pedagogy of Resistance
+|series=Transgressions
+|year=2013
+|chapter=Ana Maria Araújo Freire: Scholar, Humanitarian, and Carrying on Paulo Freire's Legacy
+|editor-last=Kirylo
+|editor-first=James D.
+|editor-link=James D. Kirylo
+|location=Rotterdam, Netherlands
+|publisher=Sense Publishers
+|pages=45–47
+|doi=10.1007/978-94-6209-374-4_12
+|isbn=978-94-6209-374-4
+}}
+{{refend}}
+
+==Further reading==
+{{refbegin|35em|indent=yes}}
+* {{cite book
+|last=Coben
+|first=Diana
+|author-link=Diana Coben
+|year=1998
+|title=Radical Heroes: Gramsci, Freire and the Politics of Adult Education
+|location=New York
+|publisher=Garland Press
+}}
+* {{cite book
+|last=Darder
+|first=Antonia
+|author-link=Antonia Darder
+|year=2015
+|title=Freire and Education
+|location=New York
+|publisher=Routledge
+|isbn=978-0-415-53840-4
+}}
+* {{cite book
+|last=Darder
+|first=Antonia
+|author-link=Antonia Darder
+|author-mask={{long dash}}
+|year=2017
+|title=Reinventing Paulo Freire: A Pedagogy of Love
+|edition=2nd
+|location=New York
+|publisher=Routledge
+|isbn=978-1-138-67531-5
+}}
+* {{cite book
+|last=Elias
+|first=John
+|year=1994
+|title=Paulo Freire: Pedagogue of Liberation
+|location=Florida
+|publisher=Krieger
+}}
+* {{cite book
+|year=2009
+|editor1-last=Ernest
+|editor1-first=Paul
+|editor1-link=Paul Ernest
+|editor2-last=Greer
+|editor2-first=Brian
+|editor3-last=Sriraman
+|editor3-first=Bharath
+|editor3-link=Bharath Sriraman
+|title=Critical Issues in Mathematics Education
+|series=The Montana Mathematics Enthusiast: Monograph Series in Mathematics Education
+|location=Charlotte, North Carolina
+|publisher=Information Age Publishing
+|isbn=978-1-60752-039-9
+}}
+* {{cite journal
+|last1=Freire
+|first1=Ana Maria Araújo
+|last2=Vittoria
+|first2=Paolo
+|year=2007
+|title=Dialogue on Paulo Freire
+|url=https://scholarworks.iu.edu/journals/index.php/ried/article/view/115/195
+|journal=Interamerican Journal of Education for Democracy
+|volume=1
+|issue=1
+|pages=97–117
+|issn=1941-7799
+|access-date=16 September 2020
+}}
+* {{cite book
+|year=1997
+|editor-last=Freire
+|editor-first=Paulo
+|title=Mentoring the Mentor: A Critical Dialogue with Paulo Freire
+|series=Counterpoints: Studies in the Postmodern Theory of Education
+|volume=60
+|location=New York
+|publisher=Peter Lang
+|isbn=978-0-8204-3798-9
+}}
+* {{cite book
+|last=Gadotti
+|first=Moacir
+|year=1994
+|title=Reading Paulo Freire: His Life and Work
+|translator-last=Milton
+|translator-first=John
+|location=Albany, New York
+|publisher=State University of New York Press
+|isbn=978-0-7914-1923-6
+}}
+* {{cite thesis
+|last=Gibson
+|first=Richard
+|year=1994
+|title=The Promethean Literacy: Paulo Freire's Pedagogy of Reading, Praxis and Liberation
+|url=http://www.rohan.sdsu.edu/~rgibson/freirall.htm
+|type=dissertation
+|location=University Park, Pennsylvania
+|publisher=Pennsylvania State University
+|archive-url=https://web.archive.org/web/20061109003625/http://www.rohan.sdsu.edu/~rgibson/freirall.htm
+|archive-date=9 November 2006
+|access-date=16 September 2020
+}}
+* {{cite book
+|last=Gottesman
+|first=Isaac
+|year=2016
+|title=The Critical Turn in Education: From Marxist Critique to Poststructuralist Feminism to Critical Theories of Race
+|location=New York
+|publisher=Routledge
+|doi=10.4324/9781315769967
+|isbn=978-1-315-76996-7
+}}
+* {{cite book
+|last=Kincheloe
+|first=Joe L.
+|year=2004
+|title=Critical Pedagogy Primer
+|location=New York
+|publisher=Peter Lang}}
+* {{cite book
+|last1=Kirylo
+|first1=James D.
+|author1-link=James D. Kirylo
+|last2=Boyd
+|first2=Drick
+|year=2017
+|title=Paulo Freire: His Faith, Spirituality, and Theology
+|location=Rotterdam, Netherlands
+|publisher=Sense Publishers
+|doi=10.1007/978-94-6351-056-1
+|isbn=978-94-6351-056-1
+}}
+* [[Bernhard Mann|Mann, Bernhard]], ''The Pedagogical and Political Concepts of Mahatma Gandhi and Paulo Freire.'' In: Claußen, B. (Ed.) International Studies in Political Socialization and ion. Bd. 8. Hamburg 1996. {{ISBN|3-926952-97-0}}
+* {{cite book
+|last=McLaren
+|first=Peter
+|author-link=Peter McLaren
+|year=2000
+|title=Che Guevara, Paulo Freire and the Pedagogy of Revolution
+|location=Lanham, Maryland
+|publisher=Rowman & Littlefield
+|isbn=978-0-8476-9533-1
+}}
+* {{cite book
+|year=1994
+|editor1-last=McLaren
+|editor1-first=Peter
+|editor1-link=Peter McLaren
+|editor2-last=Lankshear
+|editor2-first=Colin
+|editor2-link=Colin Lankshear
+|title=Politics of Liberation: Paths from Freire
+|location=London
+|publisher=Routledge
+}}
+* {{cite book
+|year=1993
+|editor1-last=McLaren
+|editor1-first=Peter
+|editor1-link=Peter McLaren
+|editor2-last=Leonard
+|editor2-first=Peter
+|title=Paulo Freire: A Critical Encounter
+|url-status=live
+|url=https://libcom.org/files/peter-mclaren-paulo-freire-a-critical-encounter-1.pdf
+|location=London
+|publisher=Routledge
+|isbn=978-0-203-42026-3
+|archive-url=https://web.archive.org/web/20190712160247/https://libcom.org/files/peter-mclaren-paulo-freire-a-critical-encounter-1.pdf
+|archive-date=12 July 2019
+|access-date=16 September 2020
+}}
+* {{cite book
+|last=Mayo
+|first=Peter
+|author-link=Peter Mayo
+|year=2004
+|title=Liberating Praxis: Paulo Freire's Legacy for Radical Education and Politics
+|series=Critical Studies in Education and Culture
+|location=Westport, Connecticut
+|publisher=Praeger Publishers
+|isbn=978-0-89789-786-0
+|issn=1064-8615
+}}
+* {{cite book
+|last1=Morrow
+|first1=Raymond A.
+|last2=Torres
+|first2=Carlos Alberto
+|author2-link=Carlos Alberto Torres (sociologist)
+|year=2002
+|title=Reading Freire and Habermas: Critical Pedagogy and Transformative Social Change
+|location=New York
+|publisher=Teachers College Press
+|isbn=978-0-8077-4202-0
+}}
+* {{cite book
+|last1=O'Cadiz
+|first1=Maria del Pilar
+|last2=Wong
+|first2=Pia Lindquist
+|last3=Torres
+|first3=Carlos Alberto
+|author3-link=Carlos Alberto Torres (sociologist)
+|year=1997
+|title=Education and Democracy: Paulo Freire, Social Movements and Educational Reform in São Paulo
+|location=Boulder, Colorado
+|publisher=Westview Press
+}}
+* {{cite book
+|last=Roberts
+|first=Peter
+|year=2000
+|title=Education, Literacy, and Humanization Exploring the Work of Paulo Freire
+|location=Westport, Connecticut
+|publisher=Bergin & Garvey
+}}
+* {{cite book
+|last=Rossatto
+|first=César Augusto
+|year=2005
+|title=Engaging Paulo Freire's Pedagogy of Possibility: From Blind to Transformative Optimism
+|location=Lanham
+|publisher=Rowman & Littlefield
+|isbn=978-0-7425-7836-4
+}}
+* {{cite book
+|last=Schugurensky
+|first=Daniel
+|year=2011
+|title=Paulo Freire
+|location=London
+|publisher=Continuum
+}}
+* {{cite book
+|last=Taylor
+|first=Paul V.
+|year=1993
+|title=The Texts of Paulo Freire
+|location=Buckingham, England
+|publisher=Open University Press
+}}
+* {{cite book
+|last=Torres
+|first=Carlos Alberto
+|author-link=Carlos Alberto Torres (sociologist)
+|year=2014
+|title=First Freire: Early Writings in Social Justice Education
+|location=New York
+|publisher=Teachers College Press
+|isbn=978-0-8077-5533-4
+}}
+* {{cite book
+|last=Vittoria
+|first=Paolo
+|year=2016
+|title=Narrating Paulo Freire: Toward a Pedagogy of Dialogue
+|location=London
+|publisher=IEPS Publisher
+}}
+{{refend}}
+
+== External links ==
+{{sister project links|d=Q164797|n=no|b=no|v=no|voy=no|s=no|wikt=no|c=Category:Paulo Freire|m=no|mw=no|species=no}}
+* [https://web.archive.org/web/20080604050019/http://www.paulofreire.ufpb.br/ Digital Library Paulo Freire (Pt-Br)]
+* [http://marxists.anu.edu.au/subject/education/freire/pedagogy/index.htm ''Pedagogy of the Oppressed'' by Paulo Freire]
+* [https://web.archive.org/web/20060511090433/http://www.poped.org/ PopEd Toolkit - Exercises/Links inspired by Freire's work]
+* [http://findarticles.com/p/articles/mi_qa3965/is_200004/ai_n8881236/ Interview with Maria Araújo Freire on her marriage to Paulo Freire]
+* [https://web.archive.org/web/20110725181724/http://brechtforum.org/node/1683 A dialogue with Paulo Freire and Ira Shor (1988)]
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-new|award}}
+{{s-ttl|title=[[King Baudouin International Development Prize]]|years=1980–1981|with=[[Consultative Group for International Agricultural Research|Consultative Group for<br />International Agricultural Research]]}}
+{{s-aft|after=[[A.&nbsp;T. Ariyaratne]]}}
+{{s-bef|before=[[Indar Jit Rikhye]]}}
+{{s-ttl|title=[[UNESCO Prize for Peace Education]]|years=1986}}
+{{s-aft|after=[[Laurence Deonna]]}}
+{{s-end}}
+
+{{Freire}}
+{{Literacy}}
+{{Order of Cultural Merit}}
+{{Authority control}}
+{{Portal bar|Biography|Brazil|Education}}
+
+{{DEFAULTSORT:Freire, Paulo}}
+[[Category:1921 births]]
+[[Category:1997 deaths]]
+[[Category:20th-century Brazilian economists]]
+[[Category:Adult education leaders]]
+[[Category:Brazilian Christian socialists]]
+[[Category:Brazilian educational theorists]]
+[[Category:Brazilian educators]]
+[[Category:Brazilian exiles]]
+[[Category:Brazilian prisoners and detainees]]
+[[Category:Catholic socialists]]
+[[Category:Christian humanists]]
+[[Category:Critical pedagogy]]
+[[Category:Critical theorists]]
+[[Category:Development specialists]]
+[[Category:Education writers]]
+[[Category:Marxist humanists]]
+[[Category:People from Campinas]]
+[[Category:People from Recife]]
+[[Category:Philosophers of education]]
+[[Category:Postcolonial theorists]]
+[[Category:Popular education]]
+[[Category:Prisoners and detainees of Brazil]]
+[[Category:Catholic philosophers]]
+[[Category:Liberation theologians]]
+[[Category:Academic staff of the State University of Campinas]]
+[[Category:Academic staff of the University of Geneva]]
+[[Category:Academic staff of the University of Oldenburg]]
+[[Category:Workers' Party (Brazil) politicians]]
+[[Category:Youth empowerment people]]
+[[Category:20th-century Brazilian philosophers]]

@@ -1,0 +1,72 @@
+{{Short description|Italian translator and astrologer (c. 1114–1187)}}
+[[Image:Al-RaziInGerardusCremonensis1250.JPG|thumb|European depiction of the Persian physician [[Rhazes]], in Gerard of Cremona's ''Recueil des traités de médecine'' 1250–1260. Gerard de Cremona translated numerous works by Persian and Arab scholars.<ref>''Inventions et decouvertes au Moyen-Age'', Samuel Sadaune, p. 44.</ref>]]
+
+'''Gerard of Cremona''' ([[Latin]]: ''Gerardus Cremonensis''; c. 1114 – 1187) was an [[Italians|Italian]] translator of scientific books from Arabic into Latin. He worked in [[Toledo, Spain|Toledo]], [[Kingdom of Castile]] and obtained the Arabic books in the libraries at Toledo. Some of the books had been originally written in Greek and, although well known in Byzantine Constantinople and Greece at the time, were unavailable in Greek or Latin in Western Europe. Gerard of Cremona is the most important translator among the [[Toledo School of Translators]] who invigorated Western [[medieval Europe]] in the twelfth century by transmitting the Arabs' and ancient Greeks' knowledge in astronomy, medicine and other sciences, by making the knowledge available in Latin. One of Gerard's most famous translations is of [[Ptolemy]]'s ''[[Almagest]]'' from Arabic texts found in Toledo.<ref>{{cite journal|access-date=11 April 2022|author1=Kunitzsch, Paul|date=May 1986|doi=10.1177/002182868601700202|issn=0021-8286|language=en|number=2|page=89|periodical=Journal for the History of Astronomy|quote=Gerard of Cremona's Latin translation made in Toledo about 1175 from the Arabic|title=The Star Catalogue Commonly Appended to the Alfonsine Tables|url=https://articles.adsabs.harvard.edu/pdf/1986JHA....17...89K|volume=17}}<!-- auto-translated by Module:CS1 translator --></ref>
+
+Confusingly, there appear to have been two translators of Arabic text into Latin known as ''Gerard of Cremona.'' The first was active in the 12th century and concentrated on astronomy and other scientific works, while the second was active in the 13th century and concentrated on medical works.
+
+==Life==
+Gerard was born in [[Cremona]] in northern Italy. Dissatisfied with the philosophies of his Italian teachers, Gerard went to Toledo. There he learned Arabic, initially so that he could read [[Ptolemy]]'s ''[[Almagest]]'',<ref>{{ Citation | editor-last = Grant | editor-first = Edward | editor-link = Edward Grant | date = 1974 | title = A Source Book in Medieval Science | chapter = The Translation of Greek and Arabic Science into Latin | publisher = Harvard University Press | place = Cambridge | page = 35 | isbn = 9780674823600 | quote = For love of the ''Almagest'', which he could not find at all among the Latins, he went to Toledo; there seeing the abundance of books in Arabic on every subject … he learned the Arabic language in order to translate. }}</ref> which had a traditionally high reputation among scholars, but which, before his departure to Castile, was not yet known in Latin translation. The first Latin translation was made, from the Greek around 1160 in Sicily.<ref>R. W. Southern, ''The Making of the Middle Ages'' New Haven: Yale University Press, 1953, p. 64-65.</ref> Although we do not have detailed information of the date when Gerard went to [[Castile (historical region)|Castile]], it was no later than 1144.
+
+Toledo, which had been a provincial capital in the [[Caliphate of Cordoba]] and remained a seat of learning, was safely available to a [[Catholic]] like Gerard, since it had been conquered from the [[Moors]] by [[Alfonso VI of Castile]] in 1085. Toledo remained a multicultural capital, insofar as its rulers protected the large Jewish and Muslim quarters, and kept their trophy city an important centre of [[Arab]] and [[Hebrew language|Hebrew]] [[culture]]. One of the great scholars associated with Toledo was Rabbi [[Abraham ibn Ezra]], Gerard's contemporary. [[Mozarab|Mozarabic culture]] was common in the area. The city was full of [[libraries]] and [[manuscript]]s, and was one of the few places in medieval Europe where a Christian could be exposed to Arabic language and culture.
+
+In Toledo Gerard devoted the remainder of his life to making Latin translations from the Arabic scientific literature.
+
+==Gerard's translations==
+[[File:Al Razi Receuil de traite de medecine translated by Gerard de Cremone Second half of 13th century.jpg|thumb|[[Muhammad ibn Zakariya al-Razi|Al-Razi]]'s ''Recueil des traités de médecine'' translated by Gerard of Cremona, second half of the 13th century.]]
+Gerard of Cremona's Latin translation of the Arabic version of Ptolemy's ''[[Almagest]]'' made c. 1175 was the most widely known in [[Western Europe]] before the Renaissance. Unbeknownst to Gerard, an earlier translation of the ''Almagest'' had already been made in Sicily from the original Greek c. 1160 under the aegis of [[Henricus Aristippus]], although this version was not as widely used in the Middle Ages as Gerard's version.<ref>R. W. Southern, ''The Making of the Middle Ages,'' New Haven: Yale University Press, 1953, p. 64-65; L. D. Reynolds and Nigel G. Wilson, ''Scribes and scholars: A guide to the transmission of Greek and Latin literature''Oxford: Clarendon Press, 1974, p. 106.</ref> [[George of Trebizond]] and then [[Regiomontanus|Johannes Regiomontanus]] retranslated it from the Greek original in the fifteenth century. The ''Almagest'' formed the basis for Western [[astronomy]] until it was eclipsed by the theories of [[Copernicus]].
+
+Gerard edited for Latin readers the ''[[Tables of Toledo]]'', the most accurate compilation of astronomical data ever seen in Europe at the time.{{Citation needed|date=May 2010}} The ''Tables'' were partly the work of [[Al-Zarqali]], known to the West as [[Arzachel]], a mathematician and astronomer who flourished in [[Córdoba, Spain|Cordoba]] in the eleventh century.
+
+[[Al-Farabi]], the Islamic "second teacher" after [[Aristotle]], wrote hundreds of treatises. His book on the sciences, ''Kitab lhsa al Ulum,'' discussed classification and fundamental principles of science in a unique and useful manner. Gerard rendered it as ''De scientiis'' (''On the Sciences'').
+
+Gerard translated [[Euclid]]’s ''[[Euclid's Elements|Geometry]]'' and [[Alfraganus]]'s ''Elements of Astronomy''.<ref>For a list of Gerard of Cremona's translations see: Edward Grant (1974) ''A Source Book in Medieval Science'', (Cambridge: Harvard Univ. Pr.), pp. 35-8 or Charles Burnett, "The Coherence of the Arabic-Latin Translation Program in Toledo in the Twelfth Century," ''Science in Context'', 14 (2001): at 249-288, at pp. 275-281.</ref>
+
+Gerard also composed original treatises on [[algebra]], [[arithmetic]] and [[astrology]]. In the astrology text, longitudes are reckoned both from Cremona and Toledo.
+
+In total, Gerard of Cremona<ref>C. H. Haskins, ''Renaissance of the Twelfth Century,'' p. 287, "more of Arabic science passed into Western Europe at the hands of Gerard of Cremona than in any other way."</ref> translated 87 books from the Arabic language,<ref>Edward Grant ''A Source Book in Medieval Science'', (Cambridge: Harvard Univ Press, 1974), pp. 35-38.</ref> including such originally Greek works as [[Ptolemy]]'s ''[[Almagest]]'', [[Archimedes]]' ''[[On the Measurement of the Circle]]'', [[Aristotle]]'s ''[[On the Heavens]]'', and [[Euclid]]'s ''[[Euclid's Elements|Elements of Geometry]]''; and such originally Arabic works as [[Muhammad ibn Mūsā al-Khwārizmī|al-Khwarizmi]]'s ''[[The Compendious Book on Calculation by Completion and Balancing|On Algebra and Almucabala]]'',  [[Jabir ibn Aflah]]'s ''Elementa astronomica'',<ref name="Katz">V. J. Katz, ''A History of Mathematics: An Introduction'', p. 291.</ref> and works by [[Muhammad ibn Zakariya al-Razi|al-Razi]] (Rhazes).<ref name="Bieber">Jerome B. Bieber. [http://inst.santafe.cc.fl.us/~jbieber/HS/trans2.htm Medieval Translation Table 2: Arabic Sources] {{webarchive|url=https://web.archive.org/web/20010318000221/http://inst.santafe.cc.fl.us/~jbieber/HS/trans2.htm |date=2001-03-18 }}, [[Santa Fe Community College (Florida)|Santa Fe Community College]].</ref> Gerard of Cremona was also creator of anatomical terms.<ref>{{cite journal |last1=Arráez-Aybar |first1=Luis-A |title=Toledo School of Translators and their influence on anatomical terminology |journal=Annals of Anatomy - Anatomischer Anzeiger  |year=2015 |volume=198 |pages=21–33 |doi=10.1016/j.aanat.2014.12.003|pmid=25667112 }}</ref> The Latin translation of the ''[[Calendar of Córdoba]]'', entitled ''Liber Anoe'', has also been attributed to Gerard.<ref>Miquel Forcada, 'Calendar of Córdoba', in ''Encyclopaedia of Islam'', 3rd edn, ed. by Kate Fleet and others (Leiden: Brill, 2007-), {{doi|10.1163/1573-3912_ei3_COM_24375}}.</ref>
+
+==A second Gerard Cremonensis==
+[[File:Theorica Platenarum by Gerard of Cremona 13th century.jpg|thumb|''Theorica Planetarum'' by Gerard of Cremona, 13th century.]]
+Some of the works credited to Gerard of Cremona are probably the work of a later Gerard Cremonensis, working in the thirteenth century, who was also known as '''Gerard de Sabloneta''' ([[Sabbioneta]]).<ref name=Ostler>{{Cite book|title=Ad Infinitum|first=Nicholas|last=Ostler|author-link=Nicholas Ostler|publisher=[[Harper Press]]|date=2009|isbn=978-0007343065 |page=211}}</ref> The later Gerard focused on translating medical texts rather than astronomical texts,<ref name=Ostler/> but the two translators have understandably been confused with one another. His translations from works of [[Avicenna]] are said to have been made by order of the emperor [[Frederick II, Holy Roman Emperor|Frederick II]].
+
+Other treatises attributed to the "Second Gerard" include the ''Theoria'' or ''Theorica planetarum'',<ref>Pedersen, Olaf. [http://adsabs.harvard.edu/full/1981JHA....12..113P The origins of "Theorica Planetarum"]. ''Journal for History of Astronomy''. Vol. 12 (1981), pp 113-123.</ref> and versions of [[Avicenna]]’s ''Canon of Medicine''— the basis of the numerous subsequent Latin editions of that well-known work — and of the ''Almansor'' of [[Abu Bakr Mohammad Ibn Zakariya al-Razi|al-Razi]] ("Rhazes" in Latin-speaking Europe). The attribution of the ''Theorica'' to Gerard of Sabbioneta is not well supported by manuscript evidence and should not be regarded as certain.
+
+==See also==
+*[[Latin translations of the 12th century]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* {{Cite journal | last1 = Burnett | first1 = Charles | date = 2001 | title = The Coherence of the Arabic-Latin Translation Program in Toledo in the Twelfth Century | journal = Science in Context | volume = 14 | issue = 1–2 | pages = 249–288 | doi=10.1017/s0269889701000096| s2cid = 143006568 }}
+* Campbell, Donald (2001). ''Arabian Medicine and Its Influence on the Middle Ages''. [[Routledge]]. (Reprint of the London, 1926 edition).  {{ISBN|0-415-23188-4}}.
+* Haskins, Charles Homer.  ''The Renaissance of the Twelfth Century''.  Cambridge: Harvard Univ. Pr., 1927.  See especially chapter 9, "The Translators from Greek and Arabic".
+* Katz, Victor J. (1998). ''A History of Mathematics: An Introduction''. [[Addison Wesley]]. {{ISBN|0-321-01618-1}}.
+
+==External links==
+*{{MacTutor Biography|id=Gherard}}
+*{{Cite EB1911|wstitle= Gerard of Cremona |volume= 11 |last= Beazley |first= Charles Raymond |author-link= Charles Raymond Beazley | pages = 764 |short= 1}}
+*{{CE1913|wstitle=Gerard of Cremona}}
+
+{{Authority control}}
+
+[[Category:1110s births]]
+[[Category:1187 deaths]]
+[[Category:Writers from Cremona]]
+[[Category:12th-century writers in Latin]]
+[[Category:Italian translators]]
+[[Category:Arabic–Italian translators]]
+[[Category:Arabic–Latin translators]]
+[[Category:Medieval Italian astrologers]]
+[[Category:Medieval Italian astronomers]]
+[[Category:Translators from Arabic]]
+[[Category:12th-century astrologers]]
+[[Category:12th-century astronomers]]
+[[Category:Medieval Arabists]]
+[[Category:Medieval orientalists]]
+[[Category:Medieval linguists]]
+[[Category:12th-century Italian scientists]]
+[[Category:12th-century Spanish writers]]
+[[Category:12th-century Italian writers]]
+[[Category:12th-century translators]]

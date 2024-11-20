@@ -1,0 +1,87 @@
+{{Short description|American philosopher (1931–2022)}}
+{{pp|small=yes}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[20th-century philosophy]]
+| image            = 
+| name             = Sydney S. Shoemaker
+| birth_date       = September 29, 1931
+| birth_place      = [[Boise, Idaho]], U.S.
+| death_date       = {{death date and age|2022|9|3|1931|9|29}}
+| death_place      = [[Ithaca, New York]]
+| education        = [[Reed College]]<br>[[Cornell University]] (Ph.D., 1958)
+| institutions     = [[Cornell University]]
+| school_tradition = [[Analytic philosophy]]<br/>[[Representationalism]]
+| main_interests   = [[Philosophy of mind]], [[metaphysics]]
+| notable_ideas    = Immunity to error through misidentification<br>Quasi-memory
+|
+| doctoral_advisor = [[Norman Malcolm]]<ref>{{Cite web |title=History of the Sage School {{!}} Sage School of Philosophy |url=https://philosophy.cornell.edu/history |access-date=2022-09-29 |website=philosophy.cornell.edu |language=en}}</ref>
+}}
+
+'''Sydney Sharpless  Shoemaker''' (September 29, 1931 – September 3, 2022) was an American [[philosopher]]. He was the Susan Linn Sage Professor of [[Philosophy]] at [[Cornell University]] and is well known for his contributions to [[philosophy of mind]] and [[metaphysics]].
+
+==Education and career==
+Shoemaker graduated with a [[Bachelor of Arts]] from [[Reed College]] and earned his [[Doctor of Philosophy]] from [[Cornell University]] in 1958<ref>Larry Bernard (May 6, 1996), [https://news.cornell.edu/stories/1996/05/three-cornell-faculty-members-are-elected-american-academy-arts-and-sciences "Three Cornell faculty members are elected to the American Academy of Arts and Sciences"], ''[[Cornell Chronicle]].''</ref> under the supervision of [[Norman Malcolm]].<ref>{{Cite web|title=History of the Sage School {{!}} Sage School of Philosophy Cornell Arts & Sciences|url=https://philosophy.cornell.edu/history|access-date=2021-03-15|website=philosophy.cornell.edu|quote=Sydney Shoemaker and Carl Ginet have been working in metaphysics and epistemology at Cornell since the late 1960s and early 1970s. Both did their graduate work at Cornell – Shoemaker with Norman Malcolm and Ginet with John Rawls. Although Shoemaker studied Wittgenstein with Malcolm early on, his work reflects the realism and lack of discomfort with metaphysics that characterized analytic philosophy more generally beginning in the 1960s.}}</ref> He taught philosophy at [[Ohio State University]] from 1957 to 1960 then, in 1961, returned to Cornell as a faculty member of the philosophy department.  In 1978 he was appointed the Susan Linn Sage Professor of Philosophy, a position he held until his retirement, as professor emeritus of Philosophy.<ref name=":0">{{Cite book |last=Greco |first=John |author-link=John Greco (philosopher) |url= |title=[[The Dictionary of Modern American Philosophers]] |year=2005 |isbn=9780199754663 |language=en |chapter=Shoemaker, Sydney Sharpless |doi=10.1093/acref/9780199754663.001.0001 |chapter-url=https://web.archive.org/web/20210311213058/https://www.oxfordreference.com/view/10.1093/acref/9780199754663.001.0001/acref-9780199754663-e-878}}</ref>
+
+Among his students at Cornell were [[Richard Moran (philosopher)|Richard Moran]]<ref>{{Cite web|last1=Moran|first1=Richard|author-link=Richard Moran (philosopher)|last2=Marshall|first2=Richard|title=Keeping Sartre, and other passions|url=https://www.3-16am.co.uk/articles/keeping-sartre-and-other-passions|access-date=2024-10-09|website=3:16|language=en|quote=When I began to work on self-knowledge in graduate school with Sydney Shoemaker,...}}</ref> and [[Susanna Siegel]].<ref>{{Cite journal|date=2000|title=Doctoral Dissertations 1999-2000|url=https://www.jstor.org/stable/20131526|journal=[[The Review of Metaphysics]]|volume=54|issue=1|pages=216|jstor=20131526}}</ref>
+
+In 1971, he delivered the [[John Locke Lectures]] at [[Oxford University]].
+
+Shoemaker died on September 3, 2022, at the age of 90. He was buried in [[Greensprings Natural Cemetery Preserve]] in Newfield.<ref>{{cite web |title=Sydney Shoemaker |url=https://www.ithacajournal.com/obituaries/bps131466 |website=Ithaca Journal |access-date=16 September 2022}}</ref>
+
+==Philosophical work==
+Shoemaker worked primarily in the [[philosophy of mind]] and [[metaphysics]], and published many classic papers in both of these areas (as well as their overlap). In "Functionalism and Qualia" (1975), for example, he argued that [[Functionalism (philosophy of mind)|functionalism]] about mental states can account for the qualitative character (or 'raw feel') of mental states. In "Self-Reference and Self-Awareness" (1968), he argued that the phenomenon of absolute 'immunity to error through misidentification' is what distinguishes self-attributions of mental states (such as "I see a canary") from self-attributions of physical states (such as "I weigh 200 pounds").
+
+In metaphysics, he defended the view that laws are metaphysically necessary, a position that follows from his view of properties as clusters of conditional [[causal]] powers. He also applied his view of properties to the [[problem of mental causation]]. He also distinguished contributions to the literature on [[Self-knowledge (psychology)|self-knowledge]] and [[Identity (social science)|personal identity]], where he defended a [[John Locke|Lockean]] psychological [[continuity theory]] in his influential paper "Persons and their Pasts". In his later work on the content of [[perception]], he has argued for a distinctive version of [[representationalism]].<ref>{{Cite journal|jstor=40208913|title=Shoemaker on Phenomenal Content|last1=Thompson|first1=Brad|journal=Philosophical Studies|year=2007|volume=135|issue=3|pages=307–334|doi=10.1007/s11098-005-3735-x|s2cid=6829580}}</ref>
+
+==Selected publications==
+=== Books ===
+* ''[[iarchive:selfknowledgesel0000shoe h5i2|Self-Knowledge and Self-Identity]]'' (1963).
+* ''[[iarchive:personalidentity0000shoe|Personal Identity]]'' (co-authored with [[Richard Swinburne]]) (1984).
+* ''[[iarchive:identitycausemin0000shoe|Identity, Cause and Mind: Philosophical Essays]]'' (1984).
+* ''The First-Person Perspective, and other Essays'' (1996).<ref>{{Cite journal |last=Tye |first=Michael |author-link=Michael Tye (philosopher) |date=2000 |title=Shoemaker's The First-Person Perspective and Other Essays |url=https://www.jstor.org/stable/2653496 |journal=[[Philosophy and Phenomenological Research]] |volume=60 |issue=2 |pages=461–464 |doi=10.2307/2653496 |jstor=2653496 |issn=0031-8205 |url-access=registration |via=[[JSTOR]]}}</ref>
+* ''[[iarchive:physicalrealizat0000shoe|Physical Realization]]'' (2007).
+
+===Articles===
+* 1970, [https://www.jstor.org/stable/20009360 "Persons and their Pasts"], ''[[American Philosophical Quarterly]]'', pp.&nbsp;269–85.
+* 1988, [https://www.jstor.org/stable/2214074 "On Knowing One's Own Mind"], ''[[Philosophical Perspectives]]'', pp.&nbsp;183–209.
+
+==See also==
+*[[American philosophy]]
+*[[List of American philosophers]]
+
+== References ==
+{{reflist}}
+
+==External links==
+* [http://www.reasoned.org/dir/phi/shoemaker.htm Links to some of Shoemaker's papers online]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shoemaker, Sydney}}
+[[Category:1931 births]]
+[[Category:2022 deaths]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century American essayists]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American philosophers]]
+[[Category:21st-century American essayists]]
+[[Category:Action theorists]]
+[[Category:American male essayists]]
+[[Category:American male non-fiction writers]]
+[[Category:American philosophy academics]]
+[[Category:Analytic philosophers]]
+[[Category:American consciousness researchers and theorists]]
+[[Category:Cornell University alumni]]
+[[Category:Cornell University faculty]]
+[[Category:American epistemologists]]
+[[Category:American metaphysicians]]
+[[Category:Metaphysics writers]]
+[[Category:Ontologists]]
+[[Category:Philosophers from Idaho]]
+[[Category:American philosophers of mind]]
+[[Category:American philosophers of science]]
+[[Category:Reed College alumni]]
+[[Category:Writers from Boise, Idaho]]
+[[Category:Corresponding fellows of the British Academy]]

@@ -1,0 +1,115 @@
+{{Short description|Canadian philosopher of science (1940-2024)}}
+{{Use dmy dates|date=November 2024}}
+{{Use British English|date=October 2017}}
+{{Infobox philosopher
+| name             = Michael Escott Ruse
+| image            = Michael Ruse photo scruffy Mcgruff and pet human.jpg
+| caption          =Ruse in 2020 
+| birth_date       = {{Birth date|df=yes|1940|06|21}}
+| birth_place      = [[Birmingham]], England
+| death_date       = {{Death date and age|df=yes|2024|11|1|1940|06|21}}
+| death_place      = 
+| region = [[Western Philosophy]]
+| era    = [[Contemporary philosophy]]
+| school_tradition = [[Analytic philosophy]]
+| main_interests   = [[Philosophy of biology]]<br />[[Philosophy of science]]
+| notable_ideas    = [[Orthogenesis]] as the view that [[evolution]] has a kind of momentum of its own that carries organisms along certain tracks{{sfn|Ruse|1996|page=261}}
+| institutions     = [[Florida State University]] (2000–2024)<br />[[University of Guelph]] (1965–2000)
+| doctoral_students         = [[David Castle (philosopher)|David Castle]]
+}}
+
+'''Michael Escott Ruse''' {{Post-nominals|country=CAN|FRSC}} (21 June 1940 – 1 November 2024) was a British-born Canadian [[philosopher of science]] who specialised in the [[philosophy of biology]] and worked on the [[relationship between science and religion]], the [[creation–evolution controversy]], and the [[demarcation problem]] within [[science]]. Ruse began his career teaching at [[The University of Guelph]] and spent many years at [[Florida State University]].
+
+==Early life and career==
+Ruse was born in [[Birmingham]], England, attending [[Bootham School]], York.<ref>{{cite book |publisher=Bootham Old Scholars Association |title=Bootham School Register |place=York, England |year=2011}}</ref> He took his undergraduate degree at the [[University of Bristol]] (1962), his master's degree at [[McMaster University]], [[Hamilton, Ontario]] (1964), and Ph.D. at the University of Bristol (1970).
+
+Ruse taught at the [[University of Guelph]] in [[Ontario]], Canada for 35 years. Since his retirement from Guelph, he had taught at [[Florida State University]] and was the Lucyle T. Werkmeister Professor of Philosophy (2000–20??). In 1986, he was elected as a Fellow of both the [[Royal Society of Canada]] and the [[American Association for the Advancement of Science]]. He received honorary doctorates from the [[University of Bergen]], Norway (1990), [[McMaster University]], Ontario, Canada (2003) and the [[University of New Brunswick]], Fredericton, New Brunswick, Canada (2007). In September 2014 he was made an Honorary Doctor of Science by University College London.
+
+Ruse was a key witness for the [[plaintiff]] in the 1981 test case (''[[McLean v. Arkansas]]'') of the state law permitting the teaching of "[[creation science]]" in the [[Arkansas]] school system.<ref>{{cite web| url=http://www.antievolution.org/projects/mclean/new_site/pf_trans/mva_tt_p_ruse.html| archive-url=https://web.archive.org/web/20021018200132/http://www.antievolution.org/projects/mclean/new_site/pf_trans/mva_tt_p_ruse.html| url-status=usurped| archive-date=18 October 2002| title=Testimony of Dr. Michael Ruse| publisher=AntiEvolution.org| year=1981| access-date=14 September 2010}}</ref> The federal judge ruled that the state law was [[Constitutionality|unconstitutional]].
+
+His 1996 book on [[orthogenesis|the idea of progress in biology (orthogenesis)]], ''[[Monad to Man]]'', had a mixed reception from other philosophers of biology. 
+[[Peter J. Bowler]] described it as an important and controversial book on the status of evolutionism.<ref name=Amundson>{{cite journal |last1=Amundson |first1=Ron |title=Reviewed Work: Monad to Man: The Concept of Progress in Evolutionary Biology by Michael Ruse |journal=The British Journal for the Philosophy of Science|date=September 1998 |volume=49 |issue=3 |pages=515–521 |jstor=688089 |doi=10.1093/bjps/49.3.515}}</ref> 
+Ron Amundson called Ruse an analytic and empiricist philosopher, but found Ruse's handling of [[structuralism (biology)|structuralism]] "less satisfactory" than of the [[adaptation]]ist, Darwinian traditions.<ref name=Amundson/> He called Ruse's writing style "bluff, unselfconscious, and opinionated" and finds Ruse sarcastic, "scarcely a neutral observer".<ref name=Amundson/> [[Michael Ghiselin]] criticised Ruse as a "politically correct" "academic bigot", disagreed with Ruse's narrative about phylogenetics, and accused him of "completely ignor[ing] recent work such as by [[Carl Woese]], "neglect[ing] data" that contradict his thesis. Ironically, in Ghiselin's view, Ruse's own epistemological ideal for science relied on the idea of Progress.<ref name="Ghiselin1997">{{cite journal |last1=Ghiselin |first1=Michael T. |author-link=Michael Ghiselin |title=Monad to Man: The Concept of Progress in Evolutionary Biology. Michael Ruse |journal=The Quarterly Review of Biology |volume=72 |issue=4 |year=1997 |pages=452 |doi=10.1086/419959}}</ref>
+
+Ruse delivered some of the 2001 [[Gifford Lectures]] in Natural Theology at the [[University of Glasgow]]. His lectures on Evolutionary Naturalism, "A Darwinian Understanding of Epistemology" and "A Darwinian Understanding of Ethics," are collected in ''The Nature and Limits of Human Understanding'' (ed. Anthony Sanford, T & T Clark, 2003). Ruse debated regularly with [[William A. Dembski]], a proponent of [[intelligent design]].<ref>{{cite book| last=Stewart| first=R.B.| title=Intelligent Design: William A. Dembski & Michael Ruse in Dialogue| publisher=[[Fortress Press]]| location=New York| year=2007}}</ref> Ruse takes the position that it is possible to reconcile the Christian faith with evolutionary theory.<ref>{{cite book| title=Can a Darwinian be a Christian?| last=Ruse| first=Michael| publisher=Cambridge University Press| location=Cambridge| year=2000}}</ref> Ruse founded the journal ''[[Biology and Philosophy]]'', of which he was Emeritus Editor,<ref>{{cite journal| title=Editorial Board| journal=Biology and Philosophy| url=https://www.springer.com/philosophy/epistemology+and+philosophy+of+science/journal/10539?detailsPage=editorialBoard| publisher=[[Springer Netherlands]]| issn=0169-3867}}</ref> and had published numerous books and articles. He cited the influence of his late colleague [[Ernan McMullin]].<ref>{{cite journal |doi=10.1111/j.1467-9744.2012.01287.x | volume=47 | title=Science and Values: My debt to Ernan McMullin | journal=Zygon | pages=666–685 | last1=Ruse | first1=Michael| issue=4 | year=2012 }}</ref>
+
+From 2013, Ruse was listed on the Advisory Council of the [[National Center for Science Education]].<ref>{{cite web |url=https://ncse.com/about/advisory-council |title=Advisory Council |website=ncse.com |publisher=[[National Center for Science Education]] |archive-url=https://web.archive.org/web/20130810112828/https://ncse.com/about/advisory-council |archive-date=10 August 2013 |access-date=30 October 2018}}</ref>
+
+In 2014, Ruse was named the [[Bertrand Russell Society]]'s award winner for his dedication to science and reason.<ref name="FSU">[http://artsandsciences.fsu.edu/article/philosophy-professor-honored-bertrand-russell-society-dedication-science-and-reason Philosophy professor honored by Bertrand Russell Society for dedication to science and reason]; [[Florida State University]] Arts and Sciences; 20 May 2014</ref>
+
+Ruse sought to reconcile science and religion, a position which brought him into conflict with [[Richard Dawkins]] and [[Pharyngula (blog)|''Pharyngula'' science blogger]] [[PZ Myers]].<ref>{{cite web |last1=Ruse|first1=Michael|title=A Scientific Defense of the Templeton Foundation |url=http://www.huffingtonpost.com/michael-ruse/a-scientific-defense-of-t_b_523416.html|publisher=Huffington Post |access-date=14 November 2014 |date=2 June 2010}}</ref><ref name=RuseBiologosBeliefnet>{{cite web |last1=Ruse |first1=Michael |title=Why I Think the New Atheists are a Bloody Disaster |url=http://www.beliefnet.com/columnists/scienceandthesacred/2009/08/why-i-think-the-new-atheists-are-a-bloody-disaster.html |website=Beliefnet |publisher=The BioLogos Foundation as a columnist of Beliefnet |access-date=19 August 2015 |date=August 2009 |quote=… the new atheists do the side of science a grave disservice … these people do a disservice to scholarship … Richard Dawkins in ''[[The God Delusion]]'' would fail any introductory philosophy or religion course. Proudly he criticizes that whereof he knows nothing … the poor quality of the argumentation in Dawkins, Dennett, Hitchens, and all of the others in that group … the new atheists are doing terrible political damage to the cause of Creationism fighting. Americans are religious people … They want to be science-friendly, although it is certainly true that many have been seduced by the Creationists. We evolutionists have got to speak to these people. We have got to show them that Darwinism is their friend not their enemy. We have got to get them onside when it comes to science in the classroom. And criticizing good men like Francis Collins, accusing them of fanaticism, is just not going to do the job. Nor is criticizing everyone, like me, who wants to build a bridge to believers – not accepting the beliefs, but willing to respect someone who does have them … ''The God Delusion'' makes me ashamed to be an atheist … They are a bloody disaster …}}</ref> Ruse had engaged in heated exchanges with [[new atheists]].<ref name=RuseBiologosBeliefnet /><ref name=DoughertyGage>{{cite book |author1=Dougherty, T|author2=Gage, LP |editor1-last=Oppy |editor1-first=Graham |title=The Routledge Handbook of Contemporary Philosophy of Religion |date=2015 |publisher=Routledge |isbn=9781844658312 |pages=52–53|chapter=4/ New Atheist Approaches to Religion, pp. 51-62 |quote=Michael Ruse (2009) claimed that Dawkins in ''The God Delusion'' would fail 'any philosophy or religion course'; and for this reason Ruse says ''The God Delusion'' made him 'ashamed to be an atheist'}}</ref> According to Ruse in 2009, "Richard Dawkins, in his best selling ''[[The God Delusion]]'', likens me to [[Neville Chamberlain]], the pusillanimous appeaser of Hitler at Munich. [[Jerry Coyne]] reviewed one of my books (Can a Darwinian be a Christian?) using the Orwellian quote that only an intellectual could believe the nonsense I believe in. And non-stop blogger [[P. Z. Myers]] has referred to me as a 'clueless gobshite.'"  Ruse said new atheists do the side of science a "grave disservice", a "disservice to scholarship", and that "Dawkins in ''The God Delusion'' would fail any introductory philosophy or religion course",<ref name=RuseBiologosBeliefnet /><ref name=DoughertyGage /> and that ''The God Delusion'' makes him "ashamed to be an atheist".  Ruse concluded, saying "I am proud to be the focus of the invective of the new atheists. They are a bloody disaster".<ref name=RuseBiologosBeliefnet /><ref name=DoughertyGage />
+
+==Personal life and death==
+Ruse had two children from his first marriage, and was married to his second wife from 1985, with whom he had three children. Ruse was an atheist. He rejected the [[New Atheism]] movement.<ref name=RuseBiologosBeliefnet />
+
+Ruse died on 1 November 2024, at the age of 84.<ref>{{cite web |title=In Memoriam: Michael Ruse (1940–2024) |url=https://leiterreports.typepad.com/blog/2024/11/in-memoriam-michael-ruse-1940-2024.html |website=Leiter Reports |access-date=2 November 2024}}</ref><ref>{{Cite news|url=https://www.legacy.com/ca/obituaries/theglobeandmail/name/michael-ruse-obituary?id=56689886|title=Michael Ruse Obituary (2024)| newspaper=The Globe and Mail|via=Legacy.com| access-date=4 November 2024}}</ref>
+
+==Selected works==
+*''The Darwinian revolution'' (1979) {{ISBN|0-226-73164-2}}
+*''Is science sexist? and other problems in the biomedical sciences'' (1981) {{ISBN|90-277-1250-6}}
+*''Darwinism defended, a guide to the evolution controversies'' (1982) {{ISBN|0-201-06273-9}}
+*''Sociobiology, sense or nonsense?'' (1st ed. 1979, 2nd ed. 1985) {{ISBN|90-277-1798-2}}
+*''Taking Darwin seriously: a naturalistic approach to philosophy'' (1986) {{ISBN|0-631-13542-1}}
+*''[[Homosexuality: A Philosophical Inquiry]]'' (1988) {{ISBN|0-631-17553-9}}
+*''The Philosophy of biology today'' (1988) {{ISBN|0-88706-911-8}}
+*''The Darwinian paradigm: essays on its history, philosophy and religious implications'' (1989) {{ISBN|0-415-08951-4}}
+* ''Evolution: The First Four Billion Years''. (edited with Michael Travis) (2009) {{ISBN|978-0-674-03175-3}}
+*''Evolutionary naturalism: selected essays'' (1995) {{ISBN|0-415-08997-2}}
+*''[[Monad to man: the concept of progress in evolutionary biology]]'' (1996) {{ISBN|0-674-58220-9}}
+*''But is it science? the philosophical question in the creation/evolution controversy'' (1996) (ed.) {{ISBN|0-87975-439-7}}
+*''Mystery of mysteries: is evolution a social construction?'' (1999) {{ISBN|0-674-00543-0}}
+*''Biology and the foundation of ethics'' (1999) {{ISBN|0-521-55923-5}}
+*''Can a Darwinian be a Christian? the relationship between science and religion'' (2001) {{ISBN|0-521-63716-3}}
+*''The evolution wars: a guide to the debates'' (2003) {{ISBN|1-57607-185-5}}
+*''Darwin and Design: Does evolution have a purpose?'' (2003) {{ISBN|0-674-01631-9}}
+*''Darwinian Heresies'' (edited with Abigail Lustig and [[Robert J. Richards]]) (2004) {{ISBN|0521815169}}
+*''The Evolution-Creation Struggle'' (2005) {{ISBN|0-674-01687-4}}
+*''Darwinism and its Discontents'' (2006) {{ISBN|0-521-82947-X}}
+*''Cambridge Companion to the Origin of Species'' (edited with [[Robert J. Richards]]) (2008) {{ISBN|978-0-521-87079-5}}
+*''Philosophy after Darwin'' (2009) {{ISBN|0-691-13553-3}}
+*''Defining Darwin: Essays on the History and Philosophy of Evolutionary Biology'' (2009) {{ISBN|1-59102-725-X}}
+*''Science and Spirituality: Making room for faith in the age of science'' (2010) {{ISBN|0-521-75594-8}}
+*''The Philosophy of Human Evolution'' (2012) {{ISBN|0-521-11793-3}}
+*''The Gaia Hypothesis: Science on a Pagan Planet'' (2013) {{ISBN|978-0226731704}}
+*''Atheism: What Everyone Needs to Know'' (2015) {{ISBN|0-199-33458-7}}
+*''Darwinism as Religion: What Literature Tells Us about Evolution'' (2016) Oxford University Press
+*''On Purpose'' (2018) Princeton University Press
+*''Why We Hate: Understanding the Roots of Human Conflict'' (2022) Oxford University Press {{ISBN|0-197-62128-7}}
+*''Understanding the Christianity–Evolution Relationship (Understanding Life)'' (2023) Cambridge University Press {{ASIN|B0C5Y2KHRP}}
+
+==References==
+{{Reflist|30em}}
+
+==Sources==
+* {{cite book |last=Ruse |first=Michael |author-link=Michael Ruse |date=1996 |title=Monad to man: the Concept of Progress in Evolutionary Biology |url=https://archive.org/details/monadtomanconcep0000ruse |url-access=registration |publisher=Harvard University Press |isbn=978-0-674-03248-4 }}
+
+==External links==
+*{{Internet Archive author |sname = Michael Ruse}}
+*[http://philosophy.fsu.edu/people/faculty/michael-ruse Michael Ruse's Homepage at Florida State]
+*[http://hps.fsu.edu/Faculty-and-Staff/Core-Faculty/Michael-Ruse Michael Ruse's page at FSU's History and Philosophy of Science site] {{Webarchive|url=https://web.archive.org/web/20210211030302/https://hps.fsu.edu/faculty-and-staff/core-faculty/michael-ruse |date=11 February 2021 }}
+*[https://archive.today/20170104001647/http://simplycharly.com/people/charles-darwin/read/interviews/michael-ruse-on-charles-darwin-evolution-is-no-monkey-business Michael Ruse on Charles Darwin: Evolution Is No Monkey Business]
+*[https://web.archive.org/web/20160304032402/https://www.faraday.st-edmunds.cam.ac.uk/Multimedia.php?Mode=Add&ItemID=186 Can a Christian be a Darwinian? Lecture given in 2007 at] The [[Faraday Institute for Science and Religion]]
+*[http://www.leaderu.com/orgs/arn/orpages/or151/mr93tran.htm Speech by Michael Ruse 1993 to American Association for the Advancement of Science]
+*[http://www.giffordlectures.org/Author.asp?AuthorID=248 Biography and summary of Gifford Lectures] (2001, [[University of Glasgow]]), by Dr Brannon Hancock
+*[http://www.whatisitliketobeaphilosopher.com/#/michaelruse/ An autobiographical interview with Michael Ruse at What Is It Like to Be a Philosopher?]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ruse, Michael}}
+[[Category:1940 births]]
+[[Category:2024 deaths]]
+[[Category:British emigrants to Canada]]
+[[Category:Canadian atheists]]
+[[Category:Charles Darwin biographers]]
+[[Category:Critics of creationism]]
+[[Category:People educated at Bootham School]]
+[[Category:Canadian skeptics]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:Florida State University faculty]]
+[[Category:People from Birmingham, West Midlands]]
+[[Category:Canadian philosophers of science]]
+[[Category:McMaster University alumni]]
+[[Category:Philosophers of biology]]
+[[Category:Philosophers of sexuality]]
+[[Category:Canadian expatriates in the United States]]
+[[Category:Critics of New Atheism]]

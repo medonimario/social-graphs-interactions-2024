@@ -1,0 +1,75 @@
+{{Short description|German philosopher and educator (1846–1908)}}
+[[File:Paulsen.1907.jpg|thumb|Friedrich Paulsen.]] 
+'''Friedrich Paulsen''' ({{IPA|de|ˈpaʊlzən|lang}}; July 16, 1846 – August 14, 1908) was a German [[Neo-Kantian]] [[philosopher]] and [[educator]].
+
+==Biography==
+He was born at [[Langenhorn (Nordfriesland)|Langenhorn]] ([[Schleswig]]) and educated at the [[Gymnasium Christianeum]], the [[University of Erlangen]], and the [[University of Berlin]]. He completed his [[doctoral thesis]] under [[Friedrich Adolf Trendelenburg]] at Berlin in 1871, he [[Habilitation|habilitated]] there in 1875, and he became extraordinary professor of [[philosophy]] and [[pedagogy]] there in 1878. In 1896 he succeeded [[Eduard Zeller]] as professor of [[moral philosophy]] at Berlin.{{sfn|Chisholm|1911}}
+
+He was the greatest of the pupils of [[Gustav Theodor Fechner]], to whose doctrine of [[panpsychism]] he gave great prominence by his ''Einleitung in die Philosophie'' (1892; 7th ed., 1900; Eng. trans., 1895). He went, however, considerably beyond Fechner in attempting to give an [[epistemological]] account of the knowledge of the [[Psychophysics|psychophysical]]. Admitting [[Immanuel Kant]]'s hypothesis that by inner sense we are conscious of [[mental states]] only, he holds that this consciousness constitutes a knowledge of the [[thing-in-itself]] which Kant denies. Soul is, therefore, a practical reality which Paulsen, with [[Arthur Schopenhauer]], regards as known by the act of [[Will (philosophy)|will]]. But this will is neither [[rational]] [[desire]], [[Unconsciousness|unconscious]] [[irrational]] will, nor [[conscious]] [[intelligent]] will, but an [[instinct]], a will to live (''Zielstrebigkeit''), often [[subconscious]], pursuing [[Telos|ends]], indeed, but without [[reasoning]] as to [[Instrumental and intrinsic value|means]]. This conception of will, though consistent and convenient to the main thesis, must be rigidly distinguished from the ordinary significance of will, i.e. rational desire.<ref>Concerning [[Will (sociology)|will]], he did influence namely his student and later friend, the German founder of [[sociology]], [[Ferdinand Tönnies]].</ref>{{sfn|Chisholm|1911}}
+
+Paulsen was a proponent of [[hylozoism]], stating it is “a conception which almost irresistibly forces itself upon modern biology."<ref>{{cite book |title=Panpsychism in the West |date=2017 |publisher=MIT Press |page=13 |author = [[David Skrbina]]}}</ref>
+
+Paulsen is almost better known for his educational writings than as a pure philosopher, including his ''German Education, Past and Present'' (Eng. trans., by I. Lorenz, 1907).{{sfn|Chisholm|1911}}
+
+==Works==
+Among his other works are: 
+*''Versuch einer Entwickelunggeschichte der Kantischen Erkenntnistheorie'' (Leipzig, 1875)
+*''Im. Kant'' (1898, 1899)
+*{{Cite journal|title=Gründung, Organisation und Lebensordnungen der deutschen Universitäten im Mittelalter|journal=Sybels Histor. Zeitschrift|volume=xlv|year=1881}}
+* ''Geschichte des gelehrten Unterrichts auf den deutschen Schulen und Universitäten'' (1885, 1896)
+* ''[[System der Ethik]]'' (1889, 1899; Eng. trans. [partial] 1899)
+* ''Das Realgymnasium u. d. humanist. Bildung'' (1889)
+* ''Kant d. Philos. d. Protestantismus'' (1899)
+* ''Schopenhauer, Hamlet u. Mephistopheles'' (1900)
+* ''Philosophia militans'' (1900, 1901)
+* ''Parteipolitik u. Moral'' (1900){{sfn|Chisholm|1911}}
+
+==See also==
+* [[German new humanism]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{EB1911|wstitle=Paulsen, Friedrich|volume=20|page=963}}
+
+==External links==
+* {{wikisource author-inline}}
+* [http://www.fps-niebuell.de/subpages/friedrichpaulsen.htm fps-niebuell.de] {{Webarchive|url=https://web.archive.org/web/20110719021642/http://www.fps-niebuell.de/subpages/friedrichpaulsen.htm |date=2011-07-19 }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Paulsen, Friedrich}}
+[[Category:1846 births]]
+[[Category:1908 deaths]]
+[[Category:19th-century German educators]]
+[[Category:19th-century German essayists]]
+[[Category:19th-century German male writers]]
+[[Category:19th-century German philosophers]]
+[[Category:20th-century German educators]]
+[[Category:20th-century German essayists]]
+[[Category:20th-century German male writers]]
+[[Category:20th-century German philosophers]]
+[[Category:Action theorists]]
+[[Category:German consciousness researchers and theorists]]
+[[Category:Continental philosophers]]
+[[Category:German epistemologists]]
+[[Category:German ethicists]]
+[[Category:German humanists]]
+[[Category:German male essayists]]
+[[Category:German male non-fiction writers]]
+[[Category:Humboldt University of Berlin alumni]]
+[[Category:Academic staff of the Humboldt University of Berlin]]
+[[Category:Kantian philosophers]]
+[[Category:Metaphysics writers]]
+[[Category:Ontologists]]
+[[Category:Panpsychism]]
+[[Category:German philosophers of education]]
+[[Category:19th-century German educational theorists]]
+[[Category:Philosophers of literature]]
+[[Category:German philosophers of mind]]
+[[Category:Philosophers of war]]
+[[Category:German philosophy academics]]
+[[Category:German political philosophers]]
+[[Category:Rationalists]]
+[[Category:People educated at the Gymnasium Christianeum]]

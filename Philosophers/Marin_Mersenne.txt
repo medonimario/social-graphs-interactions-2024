@@ -1,0 +1,168 @@
+{{Short description|French polymath (1588–1648)}}
+{{Use dmy dates|date=December 2014}}
+{{Infobox scientist
+| honorific_prefix  = [[The Reverend]]
+| name              = Marin Mersenne
+| image             = Marin mersenne.jpg
+| birth_date        = {{birth date|df=yes|1588|9|8}}
+| birth_place       = [[Oizé]], [[Kingdom of France]]
+| death_date        = {{death date and age|df=yes|1648|9|1|1588|9|8}}
+| death_place       = [[Paris]], Kingdom of France
+| other_names       = Marinus Mersennus
+| fields            = [[Mathematics]], [[physics]]
+| known_for         = [[Mersenne primes]]<br>[[Mersenne conjectures|Mersenne's conjecture]]<br>[[Mersenne's laws]]<br>[[Acoustics]]
+| honorific_suffix  = [[Minims (religious order)|OM]]
+}}
+
+'''Marin Mersenne''', [[Minims (religious order)|OM]] (also known as '''Marinus Mersennus''' or '''''le Père'' Mersenne'''; {{IPA|fr|maʁɛ̃ mɛʁsɛn|lang}}; 8 September 1588 – 1 September 1648) was a French [[polymath]] whose works touched a wide variety of fields.  He is perhaps best known today among mathematicians for [[Mersenne prime]] numbers, those written in the form {{math|''M<sub>n</sub>'' {{=}} 2<sup>''n''</sup> − 1}} for some [[integer]] {{math|''n''}}.  He also developed [[Mersenne's laws]], which describe the harmonics of a vibrating string (such as may be found on [[guitar]]s and [[piano]]s), and his seminal work on [[music theory]], ''[[Harmonie universelle]]'', for which he is referred to as the "father of [[acoustics]]".<ref>{{Cite journal|last1=Bohn|first1=Dennis A.|year=1988|title=Environmental Effects on the Speed of Sound|journal=Journal of the Audio Engineering Society|pages=223–231|volume=36|issue=4|url=http://ise.iqcatalogs.com/AVCat/images/documents/pdfs/eespeed.pdf|access-date=23 June 2014|archive-url=https://web.archive.org/web/20140801042557/http://ise.iqcatalogs.com/AVCat/images/documents/pdfs/eespeed.pdf|archive-date=1 August 2014|url-status=dead}}</ref><ref>Simmons, George F. (1992/2007). ''Calculus Gems: Brief Lives and Memorable Mathematics'', p. 94. [[Mathematical Association of America|MAA]]. {{isbn|9780883855614}}.</ref> Mersenne, an ordained [[Catholic priest]], had many contacts in the scientific world and has been called "the center of the world of science and mathematics during the first half of the 1600s"<ref name=Bernstein>{{cite book | last = Bernstein | first = Peter L. | title = Against the Gods: The Remarkable Story of Risk | publisher = John Wiley & Sons | year = 1996 | page = [https://archive.org/details/againstgodsremar00pete_0/page/59 59] | isbn = 978-0-471-12104-6 | url-access = registration | url = https://archive.org/details/againstgodsremar00pete_0/page/59 }}</ref> and, because of his ability to make connections between people and ideas, "the post-box of Europe".<ref>{{Cite book|url=https://books.google.com/books?id=3kurDQAAQBAJ&q=%22the+post+box+of+europe%22&pg=PT80|title=The Vitality Imperative: How Connected Leaders and Their Teams Achieve More with Less Time, Money, and Stress|last1=Connolly|first1=Mickey|last2=Motroni|first2=Jim|last3=McDonald|first3=Richard|date=2016-10-25|publisher=RDA Press|isbn=9781937832926|language=en}}</ref>  He was also a member of the ascetical [[Minim (religious order)|Minim]] religious order and wrote and lectured on [[theology]] and [[philosophy]].
+
+==Life==
+Mersenne was born of Jeanne Moulière, wife of Julien Mersenne, peasants who lived near [[Oizé]], [[Maine (province)|County of Maine]] (present-day [[Sarthe]], France).<ref>{{Cite book|url=https://books.google.com/books?id=loWjSLNDtBoC&q=Mersenne+321|title=Histoire littéraire du Maine|volume=1|last=Hauréau|first=Barthélemy|editor=A. Lanier|year=1852|page=321|language=fr}}</ref> He was educated at [[Le Mans]] and at the [[Jesuit College of La Flèche]]. On 17 July 1611, he joined the [[Minim (religious order)|Minim Friars]] and, after studying theology and [[Hebrew language|Hebrew]] in Paris, was ordained a priest in 1613.
+
+Between 1614 and 1618, he taught theology and philosophy at [[Nevers]], but he returned to Paris and settled at the convent of [[Annunciation|L'Annonciade]] in 1620. There he studied mathematics and music and met with other kindred spirits such as [[René Descartes]], [[Étienne Pascal]], [[Pierre Petit (engineer)|Pierre Petit]], [[Gilles de Roberval]], [[Thomas Hobbes]], and [[Nicolas-Claude Fabri de Peiresc]]. He corresponded with [[Giovanni Doni]], [[Jacques Alexandre Le Tenneur]], [[Constantijn Huygens]], [[Galileo Galilei]], and other scholars in Italy, England and the [[Dutch Republic]]. He was a staunch defender of Galileo, assisting him in translations of some of his mechanical works.
+
+For four years, Mersenne devoted himself entirely to philosophic and theological writing, and published ''Quaestiones celeberrimae in Genesim'' (''Celebrated Questions on the Book of Genesis'') (1623); ''L'Impieté des déistes'' (''The Impiety of the [[Deist]]s'') (1624); ''La Vérité des sciences'' (''Truth of the Sciences Against the Sceptics'', 1624). It is sometimes incorrectly stated that he was a [[Jesuit]]. He was educated by Jesuits, but he never joined the [[Society of Jesus]]. He taught theology and philosophy at Nevers and Paris.
+
+In 1635 he set up the informal ''Académie Parisienne'' (Academia Parisiensis), which had nearly 140 correspondents, including astronomers and philosophers as well as mathematicians, and was the precursor of the [[Académie des sciences]] established by [[Jean-Baptiste Colbert]] in 1666.{{efn|name=AcaPar}} He was not afraid to cause disputes among his learned friends in order to compare their views, notable among which were disputes between Descartes, [[Pierre de Fermat]], and [[Jean de Beaugrand]].<ref>
+{{cite journal|title=Mersenne l'Animateur|first=Pierre|last=Sergescu|year=1948|journal=Revue de l'Histoire des Sciences et Leur Applications|volume=2|issue=2–1|pages=5–12|doi=10.3406/rhs.1948.2726|url=http://www.persee.fr/web/revues/home/prescript/article/rhs_0048-7996_1948_num_2_1_2726}}
+</ref> [[Peter L. Bernstein]], in his book ''Against the Gods: The Remarkable Story of Risk'', wrote, "The Académie des Sciences in Paris and the Royal Society in London, which were founded about twenty years after Mersenne's death, were direct descendants of Mersenne's activities."{{sfn|Bernstein |1996|p= 59}}
+
+In 1635 Mersenne met with [[Tommaso Campanella]] but concluded that he could "teach nothing in the sciences ... but still he has a good memory and a fertile imagination." Mersenne asked if Descartes wanted Campanella to come to Holland to meet him, but Descartes declined. He visited Italy fifteen times, in 1640, 1641 and 1645. In 1643–1644 Mersenne also corresponded with the German Socinian [[Marcin Ruar]] concerning the Copernican ideas of [[Pierre Gassendi]], finding Ruar already a supporter of Gassendi's position.<ref>Murr, Sylvia, ed. (1997). ''Gassendi et l'Europe'' (in French). Paris: Vrin. {{isbn|978-2-7116-1306-9}}.</ref> Among his correspondents were Descartes, Galileo, Roberval, [[Blaise Pascal|Pascal]], [[Isaac Beeckman|Beeckman]] and other scientists.
+
+He died on 1 September 1648 of complications arising from a [[lung abscess]].
+
+=== Work ===
+
+''Quaestiones celeberrimae in Genesim'' was written as a commentary on the [[Book of Genesis]] and comprises uneven sections headed by verses from the first three chapters of that book. At first sight the book appears to be a collection of treatises on various miscellaneous topics. However Robert Lenoble has shown<ref>{{cite book |last1=Lenoble |first1=Robert |title=Mersenne ou la naissance du mécanisme |date=1943 |publisher=Vrin |location=Paris}}</ref> that the principle of unity in the work is a polemic against [[magic (paranormal)|magic]]al and [[divination|divinatory]] arts, [[Christian Kabbalah|cabalism]], and [[Animism|animistic]] and [[pantheism|pantheistic]] philosophies.
+
+Mersenne was concerned with the teachings of some Italian [[naturalists]] that all things happened naturally and determined astrologically; for example, the [[Determinism#Nomological_determinism|nomological determinism]] of [[Lucilio_Vanini#Thought|Lucilio Vanini]] ("God acts on sublunary beings (humans) using the sky as a tool"), and [[Gerolamo Cardano]]'s idea that martyrs and heretic were compelled to self-harm by the stars;<ref>{{Cite journal|last=Regier|first=Jonathan|date=2019|title=Reading Cardano with the Roman Inquisition: Astrology, Celestial Physics, and the Force of Heresy|url=https://biblio.ugent.be/publication/8608904/file/8651154.pdf|journal=Isis|volume=110|issue=4|pages=661–679|doi=10.1086/706783|hdl=1854/LU-8608904|s2cid=201272821}}</ref> Historian of science William Ashworth<ref>{{cite web |title=William B Ashworth Jr |url=https://scholar.google.com/citations?user=ebdG_2kAAAAJ&hl=en |website=scholar.google.com}}</ref> explains "Miracles, for example, were endangered by the naturalists, because in a world filled with sympathies and occult forces—with what Lenoble calls a "spontanéité indéfinie"—anything could happen naturally"<ref>"Italian naturalism was considered dangerous to religion because it confused the natural with the supernatural and physics with metaphysics; essentially, it eliminated the boundaries between science and faith." {{cite journal |last1=Ashworth |first1=William B. |title=5. Catholicism and Early Modern Science |journal=God and Nature |date=31 December 1986 |pages=136–166 |doi=10.1525/9780520908031-007|isbn=978-0-520-90803-1 }}</ref>{{rp|138}} 
+
+Mersenne mentions [[Martin Del Rio]]'s ''Investigations into Magic'' and criticises [[Marsilio Ficino]] for claiming power for images and characters. He condemns astral magic and [[astrology]] and the ''[[anima mundi]]'', a concept popular amongst [[Renaissance]] [[neo-platonism|neo-platonists]]. Whilst allowing for a mystical interpretation of the Cabala, he wholeheartedly condemned its magical application, particularly [[angelology]]. He also criticises [[Pico della Mirandola]], [[Cornelius Agrippa]], [[Francesco Giorgio]] and [[Robert Fludd]], his main target.
+
+''Harmonie universelle'' is perhaps Mersenne's most influential work.  It is one of the earliest comprehensive works on music theory, touching on a wide range of musical concepts, and especially the mathematical relationships involved in music.  The work contains the earliest formulation of what has become known as [[Mersenne's laws]], which describe the frequency of oscillation of a stretched string. This frequency is:
+# Inversely proportional to the length of the string (this was known to the ancients; it is usually credited to [[Pythagoras]])
+# Proportional to the square root of the stretching force, and
+# Inversely proportional to the square root of the mass per unit length.
+
+The formula for the lowest frequency is
+
+:<math> f=\frac{1}{2L}\sqrt{\frac{F}{\mu}}, </math>
+
+where ''f'' is the frequency [Hz], ''L'' is the length [m], ''F'' is the force [N] and μ is the mass per unit length [kg/m].
+
+In this book, Mersenne also introduced several innovative concepts that can be considered the basis of modern reflecting telescopes:
+* Much earlier than [[Laurent Cassegrain]], he found the fundamental arrangement of the two-mirror telescope combination, a concave primary mirror associated with a convex secondary mirror, and discovered the telephoto effect that is critical in reflecting telescopes, although he was far from having understood all the implications of that discovery. 
+* Mersenne invented the [[Afocal system|afocal]] telescope and the beam compressor that is useful in many multiple-mirror telescope designs.<ref>{{citation|title=Reflecting Telescope Optics I: Basic Design Theory and its Historical Development|first=Todd|last=Wilson|publisher=Springer|year=2007|isbn=9783540765813|page=4|url=https://books.google.com/books?id=PuN7l2A2uzQC&pg=PA4}}.</ref>
+* He recognized also that he could correct the [[spherical aberration]] of the telescope by using aspherical mirrors and that in the particular case of the afocal arrangement he could do this correction by using two parabolic mirrors, though a [[hyperboloid]] is required.<ref>
+{{cite book|title=Mirror Mirror: A History of the Human Love Affair with Reflection| first=Mark|last= Pendergrast| author-link=Mark Pendergrast| year=2003|pages=88–89|publisher=Basic Books|url=https://books.google.com/books?id=T4-GErgSbU0C&pg=PA88|isbn=0786729902}}</ref>
+
+Because of criticism that he encountered, especially from Descartes, Mersenne made no attempt to build a telescope of his own.
+
+Mersenne is also remembered today thanks to his association with the [[Mersenne prime]]s. The [[Mersenne Twister]], named for Mersenne primes, is frequently used in computer engineering and in related fields such as cryptography.
+
+However, Mersenne was not primarily a mathematician; he wrote about [[music theory]] and other subjects. He edited works of [[Euclid]], [[Apollonius of Perga|Apollonius]], [[Archimedes]], and other [[Chronology of ancient Greek mathematicians|Greek mathematicians]]. But perhaps his most important contribution to the advance of learning was his extensive correspondence (in [[Latin]]) with mathematicians and other scientists in many countries. At a time when the [[scientific journal]] had not yet come into being, Mersenne was the centre of a network for exchange of information.
+
+It has been argued that Mersenne used his lack of mathematical specialty, his ties to the print world, his legal acumen, and his friendship with the French mathematician and philosopher René Descartes (1596–1650) to manifest his international network of mathematicians.<ref>{{cite journal|author=Grosslight, Justin |year=2013|title=Small Skills, Big Networks: Marin Mersenne as Mathematical Intelligencer|journal=History of Science|volume= 51|issue=3|pages=337–374|doi=10.1177/007327531305100304 |bibcode=2013HisSc..51..337G|s2cid=143320489}}</ref>
+
+Mersenne's philosophical works are characterized by wide scholarship and the narrowest theological orthodoxy. His greatest service to philosophy was his enthusiastic defence of Descartes, whose agent he was in Paris and whom he visited in exile in the [[Netherlands]]. He submitted to various eminent Parisian thinkers a manuscript copy of the ''[[Meditations on First Philosophy]]'', and defended its orthodoxy against numerous clerical critics.
+
+In later life, he gave up speculative thought and turned to scientific research, especially in mathematics, physics and astronomy. In this connection, his best known work is ''[[Harmonie universelle]]'' of 1636, dealing with the [[music theory|theory of music]] and [[musical instrument]]s. It is regarded as a source of information on 17th-century music, especially French music and musicians, to rival even the works of [[Pietro Cerone]].
+
+One of his many contributions to [[musical tuning]] theory was the suggestion of
+: <math>\sqrt[4]{\frac{2}{3-\sqrt{2}}}</math>
+as the [[ratio]] for an [[equal temperament|equally-tempered]] [[semitone]] (<math>\sqrt[12]{2}</math>). It was more accurate (0.44 [[cent (music)|cent]]s sharp) than [[Vincenzo Galilei]]'s 18/17 (1.05 cents flat), and could be constructed using [[straightedge and compass]]. Mersenne's description in the 1636 ''Harmonie universelle'' of the first absolute determination of the frequency of an audible tone (at 84&nbsp;Hz) implies that he had already demonstrated that the absolute-frequency ratio of two vibrating strings, radiating a musical tone and its [[octave]], is 1&nbsp;:&nbsp;2. The perceived harmony ([[consonance and dissonance|consonance]]) of two such notes would be explained if the ratio of the air oscillation frequencies is also 1&nbsp;:&nbsp;2, which in turn is consistent with the source-air-motion-frequency-equivalence hypothesis.
+
+He also performed extensive experiments to determine the acceleration of falling objects by comparing them with the swing of [[pendulum]]s, reported in his ''Cogitata Physico-Mathematica'' in 1644. He was the first to measure the length of the [[seconds pendulum]], that is a pendulum whose swing takes one second, and the first to observe that a pendulum's swings are not [[isochronous]] as Galileo thought, but that large swings take longer than small swings.<ref>{{cite book
+  | last = Koyre  | first = Alexander | title = Metaphysics and Measurement | publisher = Taylor & Francis | year = 1992 | page = 100 | url = https://books.google.com/books?id=rJLQyZ4ccMgC&pg=PA100 | isbn = 2-88124-575-7}}</ref>
+
+===Battles with occult and mystical thinkers===
+Two German pamphlets that circulated around Europe in 1614–15, ''[[Fama fraternitatis]]'' and ''[[Confessio Fraternitatis]]'', claimed to be manifestos of a highly select, secret society of alchemists and sages called the Brotherhood of [[Rosicrucianism|Rosicrucians]]. The books were allegories, but were obviously written by a small group who were reasonably knowledgeable about the sciences of the day,{{citation needed|date=July 2022}} and their main theme was to promote educational reform (they were anti-Aristotelian). These pamphlets also promoted an occult view of science{{citation needed|date=July 2022}} containing elements of [[Paracelsus|Paracelsian philosophy]], [[Neoplatonism|neo-Platonism]], [[Christian Cabala]] and [[Hermeticism]]. In effect, they sought to establish a new form of scientific religion with some pre-Christian elements.{{citation needed|date=July 2022}}
+
+Mersenne led the fight against acceptance of these ideas, particularly those of Rosicrucian promoter [[Robert Fludd]], who had a lifelong battle of words with [[Johannes Kepler]]. Fludd responded with ''Sophia cum moria certamen'' (1626), wherein he discusses his involvement with the [[Rosicrucian]]s. The anonymous ''Summum bonum'' (1629), another critique of Mersenne, is a Rosicrucian-themed text. The cabalist [[Jacques Gaffarel]] joined Fludd's side, while [[Pierre Gassendi]] defended Mersenne.
+
+The Rosicrucian ideas were defended by many prominent men of learning, and some members of the European scholarly community boosted their own prestige by claiming to be among the selected members of the Brotherhood.{{citation needed|date=July 2022}} However, it is now generally agreed among historians that there is no evidence that an order of Rosicrucians existed at the time, with later Rosicrucian Orders drawing on the name, with no relation to the writers of the Rosicrucian Manifestoes.<ref name="Debus 2013 p. ">{{cite book | last=Debus | first=A.G. | title=The Chemical Philosophy | publisher=Dover Publications | series=Dover Books on Chemistry | year=2013 | isbn=978-0-486-15021-5 | url=https://books.google.com/books?id=TjLDAgAAQBAJ |page=}}</ref>
+
+During the mid-1630s Mersenne gave up the search for physical causes in the [[Natural philosophy|Aristotelian]] sense (rejecting the idea of ''essences'', which were still favoured by the [[Scholasticism|scholastic philosophers]]) and taught that true physics could be only a descriptive science of motions (''Mécanisme''), which was the direction set by [[Galileo Galilei]].  Mersenne had been a regular correspondent with Galileo and had extended the work on vibrating strings originally developed by his father, [[Vincenzo Galilei]].<ref>{{cite book|last=Heilbron|first= J. L. |date=1979|url=https://books.google.com/books?id=UlTLRUn1sy8C|title=Electricity in the 17th and 18th Centuries: A Study of Early Modern Physics|publisher=University of California Press|isbn= 9780520034785 }}</ref>
+
+===Music===
+An [[Air (music)|air]] attributed to Mersenne was used by [[Ottorino Respighi]] in his second suite of ''[[Ancient Airs and Dances]]''
+
+== List of works ==
+[[File:Mersenne, Marin – Tractatus mechanicus theoricus et practicus, 1644 – BEIC 8719810.jpg|thumb|''Tractatus mechanicus theoricus et practicus'', 1644]]
+* ''Euclidis elementorum libri'', etc. (Paris, 1626)
+* ''Les Mécaniques de Galilée'' (Paris, 1634)
+*  ''Questions inouies ou récréation des savants'' (1634)
+* ''Questions théologiques, physiques'', etc. (1634)
+* ''Harmonie universelle'' [http://gallica.bnf.fr/ark:/12148/bpt6k5471093v First edition online] from [[Bibliothèque nationale de France#Gallica|Gallica]] (Paris, 1636). Translation to English by Roger E. Chapman (The Hague, 1957)
+* ''Nouvelles découvertes de Galilée'' (1639)
+* ''Cogitata physico-mathematica'' (1644)
+* ''Universae geometriae synopsis'' (1644)
+* {{Cite book|title=Tractatus mechanicus theoricus et practicus|volume=|publisher=Antoine Bertier|location=Paris|year=1644|language=la|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=8719810}}
+
+==See also==
+*[[Cassegrain reflector]]
+*[[Catalan–Mersenne number]]/Catalan's Mersenne conjecture
+*[[Cycloid]]
+*[[Equal temperament]]
+*[[Euler's factorization method]]
+*[[List of Roman Catholic scientist-clerics]]
+*[[Renaissance skepticism]]
+*[[Seconds pendulum]]
+
+==References==
+=== Explanatory notes ===
+{{notelist|refs=
+{{efn|name=AcaPar|For a summary description  of all members of the Academia Parisiensis from its creation until 1648, see {{harvnb | De la Croix | Duchêne|2021 | pp=7–12}} }}
+}}
+
+===Citations===
+{{Reflist}}
+
+=== General and cited sources ===
+{{Refbegin}}
+* {{EB1911|wstitle=Mersenne, Marin}}
+* {{cite journal | last1=De la Croix | first1=David|author1-link =David de la Croix| last2=Duchêne | first2=Julie | title=Scholars and Literati at the "Mersenne" Academy (1635–1648) | journal=Repertorium Eruditorum Totius Europae | publisher=Universite Catholique de Louvain | volume=2 | date=2021 | issn=2736-4119 | doi=10.14428/rete.v2i0/mersenne | pages=7–12|url=https://ojs.uclouvain.be/index.php/RETE/index| doi-access=free }}
+{{Refend}}
+
+== Further reading ==
+{{Refbegin|30em|indent=yes}}
+* [[Adrien Baillet|Baillet, Adrien]] (1691). ''Vie de Descartes''.
+* Dear, Peter Robert (1988). ''Mersenne and the Learning of the Schools'' Ithaca: Cornell University Press.
+* Gehring, F. (1922) “Mersennus, Marin (le Père Mersenne)”. ''[[Grove's Dictionary of Music and Musicians]]'' (ed. J. A. Fuller Maitland).
+* Grosslight, Justin (2013). "Small Skills, Big Networks: Marin Mersenne as Mathematical Intelligencer". ''History of Science'' 51:337–374.
+* Moreau, Roger (2012). ''Marin Mersenne et la naissance de l'esprit scientifique''. Editions Anagrammes, Perros Guirec. ({{isbn|978-2-84719-089-2}}).
+* Poté, J. (1816). ''Éloge de Mersenne''. Le Mans.
+{{Refend}}
+
+==External links==
+{{Commons category}}
+* [http://imslp.org/wiki/Category:Mersenne,_Marin IMSLP] Traité de l'''Harmonie Universelle''.
+* [http://emlo.bodleian.ox.ac.uk/blog/?catalogue=marin-mersenne The Correspondence of Marin Mersenne] in [http://emlo.bodleian.ox.ac.uk/home EMLO]
+* {{SEP|mersenne|Marin Mersenne|Philippe Hamou|June 13, 2022}}
+* {{MacTutor Biography|id=Mersenne}}
+* {{CathEncy|wstitle=Marin Mersenne}}
+* [http://genealogy.math.ndsu.nodak.edu/id.php?id=125434 "Marin Mersenne"], ''[[Mathematics Genealogy Project]]''.
+* [http://www.estudiosminimos.eu/minimospedia/mersenne,%20marin.html Minimospedia "Marin Mersenne"] especially for bibliography
+* [https://ojs.uclouvain.be/index.php/RETE/article/view/60163/56383 Scholars and Literati at the "Mersenne" Academy (1635–1800)], in [https://ojs.uclouvain.be/index.php/RETE/index Repertorium Eruditorum Totius Europae/RETE] .
+
+; Documentaries
+* [https://vimeo.com/99434544 ''Marin Mersenne—The Birth of Modern Geometry''] (UK [[Open University]] TV documentary made in 1986 and transmitted on [[BBC2]])
+
+{{Mersenne}}
+{{Acoustics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mersenne, Marin}}
+[[Category:1588 births]]
+[[Category:1648 deaths]]
+[[Category:17th-century French male writers]]
+[[Category:17th-century French mathematicians]]
+[[Category:Catholic clergy scientists]]
+[[Category:Deaths from lung abscess]]
+[[Category:French male non-fiction writers]]
+[[Category:French mathematicians]]
+[[Category:French music theorists]]
+[[Category:17th-century French Roman Catholic priests]]
+[[Category:Minims (religious order)]]
+[[Category:French number theorists]]
+[[Category:People from Sarthe]]

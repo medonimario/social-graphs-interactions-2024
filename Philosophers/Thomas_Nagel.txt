@@ -1,0 +1,271 @@
+{{short description|American philosopher (born 1937)}}
+{{use mdy dates|date=August 2023}}
+{{Infobox philosopher
+| name = Thomas Nagel
+| image = Thomas Nagel (cropped).jpg
+| alt = 
+| caption = Nagel in 1978
+| birth_date = {{birth date and age|mf=yes|1937|07|04}}
+| birth_place = [[Belgrade]], [[Yugoslavia]] (now [[Serbia]])
+| death_date = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place = 
+| nationality = American
+| spouse = {{ubl | {{marriage|Doris G. Blum|1958|1973|end=div}} | {{marriage|[[Anne Hollander]]|1979|2014|end=died}}}}
+| awards = {{ubl | [[Balzan Prize]] (2008) | [[Rolf Schock Prize]] (2008)}}
+| thesis_title = Altruism
+| thesis_year = 1963
+| school_tradition = [[Analytic philosophy]]
+| doctoral_advisor = [[John Rawls]]
+| academic_advisors = [[J.&nbsp;L. Austin]]
+| influences = <!--must be referenced from a third-party source-->
+| era = 
+| discipline = [[Philosophy]]
+| sub_discipline = {{hlist | [[Epistemology]] | [[ethics]] | [[legal philosophy]] | [[philosophy of mind]] | [[political philosophy]]}}
+| workplaces = {{ubl | [[New York University]] | [[Princeton University]] | [[University of California, Berkeley]]}}
+| doctoral_students = {{flatlist|
+* {{ill|Marcelo Alegre|es}}
+* [[Rebecca Goldstein]]
+* [[Shelly Kagan]]
+* [[Samuel Scheffler]]
+* [[Susan Wolf]]
+}}
+| notable_students = 
+| main_interests = 
+| notable_works = {{ubl | "[[What Is It Like to Be a Bat?]]" (1974) | ''[[The View from Nowhere]]'' (1986) |   ''[[Mind and Cosmos]]'' (2012)}}
+| notable_ideas = {{hlist | [[Panpsychism]]<ref>Nagel, Thomas, 1979, "Panpsychism", in {{cite book | last = Nagel | first = Thomas | title = Mortal questions | publisher = Canto | location = London | year = 1979 | pages = 181–195}}</ref><ref>{{cite journal |last1=Coleman |first1=Sam |title=The Evolution of Nagel's Panpsychism |journal=Klesis |date=2018 |volume=41 |url=https://www.revue-klesis.org/pdf/Klesis-41-Nagel-08-Sam-Coleman-The-Evolution-of-Nagel-s-Panpsychism.pdf |access-date=19 September 2019}}</ref> | [[subjective character of experience]] | [[What Is It Like to Be a Bat?|what is it like to be a something]]}}
+| influenced = <!--must be referenced from a third-party source-->
+| signature = 
+| signature_alt = 
+| education = {{ubl | [[Cornell University]] ([[B. A.|BA]])| [[Corpus Christi College, Oxford]] ([[BPhil]])| [[Harvard University]] ([[PhD]])}}
+}}
+'''Thomas Nagel''' ({{IPAc-en|ˈ|n|ei|g|əl}}; born July 4, 1937) is an American philosopher. He is the University Professor of Philosophy and Law Emeritus at [[New York University]],<ref>{{cite web |title=Thomas Nagel |url=https://as.nyu.edu/content/nyu-as/as/faculty/thomas-nagel.html |website=as.nyu.edu |access-date=19 August 2019}}</ref> where he taught from 1980 until his retirement in 2016.<ref name=degreesin/> His main areas of philosophical interest are [[political philosophy]], [[ethics]] and [[philosophy of mind]].<ref>{{cite web |title=Thomas Nagel - Overview {{!}} NYU School of Law |url=https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=20156 |website=its.law.nyu.edu |access-date=19 August 2019}}</ref>
+
+Nagel is known for his critique of [[Materialism|material]] [[reductionist]] accounts of the mind, particularly in his essay "[[What Is It Like to Be a Bat?]]" (1974), and for his contributions to liberal moral and political theory in ''The Possibility of Altruism'' (1970) and subsequent writings. He continued the critique of reductionism in ''[[Mind and Cosmos]]'' (2012), in which he argues against the [[neo-Darwinian]] view of the emergence of [[consciousness]].
+
+==Life and career==
+[[File:Thomas_Nagel_teaching_Ethics.JPG|thumb|upright=1.15|Nagel in 2008, teaching ethics]]
+Nagel was born on July 4, 1937, in [[Belgrade]], Yugoslavia (now Serbia), to German [[Jewish]] refugees Carolyn (Baer) and Walter Nagel.<ref name=":1" /><ref name=":0">{{Cite web|url=https://www.thejc.com/comment/comment/jewniversity-corner-what-makes-life-worthwhile-what-is-the-meaning-of-life-thomas-nagel-1.460387|title=jewniversity-corner-what-makes-life-worthwhile-what-is-the-meaning-of-life-thomas-nagel-1.460387|website=www.thejc.com|access-date=2018-07-04}}</ref> He arrived in the US in 1939, and was raised in and around New York.<ref name=":0" /> He had no religious upbringing, but regards himself as a [[Jew]].<ref>{{cite web| url = https://www.thejc.com/comment/comment/jewniversity-corner-what-makes-life-worthwhile-what-is-the-meaning-of-life-thomas-nagel-1.460387| url-status = dead| archive-url = https://web.archive.org/web/20180705003053/https://www.thejc.com/comment/comment/jewniversity-corner-what-makes-life-worthwhile-what-is-the-meaning-of-life-thomas-nagel-1.460387| archive-date = 2018-07-05| title = Jewniversity corner: What makes life worthwhile? - The Jewish Chronicle}} </ref>
+
+Nagel received a [[Bachelor of Arts]] degree in philosophy from [[Cornell University]] in 1958, where he was a member of the [[Telluride House]] and was introduced to the philosophy of [[Ludwig Wittgenstein]]. He then attended the [[University of Oxford]] on a [[Fulbright Scholarship]] and received a [[Bachelor of Philosophy|BPhil]] in philosophy in 1960; there, he studied with [[J. L. Austin]] and [[Paul Grice]]. He received his [[Doctor of Philosophy]] degree in philosophy from [[Harvard University]] in 1963.<ref name=degreesin>{{Cite web| title = Thomas Nagel {{endash}} Biography| publisher = [[NYU School of Law]]| access-date = March 7, 2017| url = https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.biography&personid=20156}}</ref><ref name=specifics>{{Cite journal| volume = 26| issue = 1| last = Nagel| first = Thomas| title = Analytic Philosophy and Human Life| journal = Economia Politica| date = 2009}}</ref> At Harvard, Nagel studied under [[John Rawls]], whom Nagel later called "the most important political philosopher of the twentieth century."<ref>{{Cite book| publisher = Oxford University Press| isbn = 978-0-19-513636-4| last = Pogge| first = Thomas Winfried Menko| title = John Rawls: His Life and Theory of Justice| date = 2007}}</ref>
+
+Nagel taught at the [[University of California, Berkeley]] (from 1963 to 1966) and at [[Princeton University]] (from 1966 to 1980), where he trained many well-known philosophers, including [[Susan Wolf]], [[Shelly Kagan]], and [[Samuel Scheffler]], the last of whom is now his colleague at [[New York University]].
+
+Nagel is a fellow of the [[American Academy of Arts and Sciences]] and a corresponding fellow of the [[British Academy]], and in 2006 was elected a member of the [[American Philosophical Society]].<ref name="Nagel">{{cite web|url=http://www.nyu.edu/gsas/dept/philo/faculty/nagel/nagelcv.pdf|title=Nagel's CV at NYU|publisher=Myu.edu|access-date=31 October 2014}}</ref> He has held fellowships from the [[John Simon Guggenheim Memorial Foundation|Guggenheim Foundation]], the [[National Science Foundation]], and the [[National Endowment for the Humanities]].<ref name="Nagel"/> In 2008 he was awarded a [[Rolf Schock Prize]] for his work in philosophy,<ref>{{cite web| url = http://www.kva.se/KVA_Root/swe/_news/detail.asp?NewsId=1061&br=ns&ver=6up | title = The Rolf Schock Prizes 2008 | access-date = 2008-09-20 | date = 2008-05-12 |archive-url=https://web.archive.org/web/20080929061938/http://www.kva.se/KVA_Root/swe/_news/detail.asp?NewsId=1061&br=ns&ver=6up |archive-date=2008-09-29}}</ref> the [[Balzan prize]],<ref>{{cite web| url = http://www.apaonline.org/news/Balzan.aspx| title = Balzan Prize 2008 (1 Million Swiss Francs) Awarded for Moral Philosophy| publisher = Apaonline.org| access-date = 2008-09-30}}{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> and the honorary degree of [[Doctor of Letters]] from the University of Oxford.<ref>{{cite web|url=http://www.ox.ac.uk/gazette/2007-8/supps/1_4850.htm#4Ref|title=Oxford University Gazette, 20 June 2008: Encaenia 2008|publisher=Ox.ac.uk|access-date=31 October 2014}}</ref>
+
+==Philosophical work==
+
+{{BLP sources section|date=March 2020}}
+
+===Overview===
+Nagel began to publish philosophy at age 22; his career now spans over 60 years of publication. He thinks that each person, owing to their capacity to reason, instinctively seeks a unified world view, but if this aspiration leads one to believe that there is only one way to understand our intellectual commitments, whether about the external world, knowledge, or what our practical and moral reasons ought to be, one errs. For contingent, limited and finite creatures, no such unified world view is possible, because ways of understanding are not always better when they are more objective.
+
+Like the British philosopher [[Bernard Williams]], Nagel believes that the rise of modern science has permanently changed how people think of the world and our place in it. A modern scientific understanding is one way of thinking about the world and our place in it that is more objective than the commonsense view it replaces. It is more objective because it is less dependent on our peculiarities as the kinds of thinkers that people are. Our modern scientific understanding involves the mathematicized understanding of the world represented by modern [[physics]]. Understanding this bleached-out view of the world draws on our capacities as purely rational thinkers and fails to account for the specific nature of our perceptual sensibility. Nagel repeatedly returns to the distinction between "primary" and "secondary" qualities—that is, between primary qualities of objects like mass and shape, which are mathematically and structurally describable independent of our sensory apparatuses, and secondary qualities like taste and color, which depend on our sensory apparatuses.
+
+Despite what may seem like skepticism about the objective claims of science, Nagel does not dispute that science describes the world that exists independently of us. His contention, rather, is that a given way of understanding a subject matter should not be regarded as better simply for being more objective. He argues that scientific understanding's attempt at an objective viewpoint—a "view from nowhere"—necessarily leaves out something essential when applied to the mind, which inherently has a subjective point of view. As such, objective science is fundamentally unable to help people fully understand themselves. In "[[What Is It Like to Be a Bat?]]" and elsewhere, he writes that science cannot describe what it is like ''to be'' a thinker who conceives of the world from a particular subjective perspective.
+
+Nagel argues that some [[phenomena]] are not best grasped from a more objective perspective. The standpoint of the thinker does not present itself to the thinker: they ''are'' that standpoint. One learns and uses mental concepts by being directly acquainted with one's own mind, whereas any attempt to think more objectively about mentality would abstract away from this fact. It would, of its nature, leave out what it is to be a thinker, and that, Nagel believes, would be a falsely objectifying view. Being a thinker is to have a subjective perspective on the world; if one abstracts away from this perspective one leaves out what he sought to explain.
+
+Nagel thinks that philosophers, over-impressed by the paradigm of the kind of objective understanding represented by modern science, tend to produce [[Philosophy of mind|theories of the mind]] that are falsely objectifying in precisely this kind of way. They are right to be impressed—modern science really is objective—but wrong to take modern science to be the only paradigm of objectivity. The kind of understanding that science represents does not apply to everything people would like to understand.
+
+As a philosophical [[Rationalism|rationalist]], Nagel believes that a proper understanding of the place of [[mental properties]] in nature will involve a revolution in our understanding of both the physical and the mental, and that this is a reasonable prospect that people can anticipate in the near future. A plausible science of the mind will give an account of the stuff that underpins mental and physical properties in such a way that people will simply be able to see that it necessitates both of these aspects. Now, it seems to people that the mental and the physical are irreducibly distinct, but that is not a metaphysical insight, or an acknowledgment of an irreducible explanatory gap, but simply where people are at their present stage of understanding.
+
+Nagel's rationalism and tendency to present human nature as composite, structured around our capacity to reason, explains why he thinks that [[Therapeutic approach|therapeutic]] or [[Deflationary theory of truth|deflationary]] accounts of philosophy are complacent and that [[radical skepticism]] is, strictly speaking, irrefutable.{{clarify|date=April 2017}} The therapeutic or deflationary philosopher, influenced by Wittgenstein's later philosophy, reconciles people to the dependence of our worldview on our "form of life". Nagel accuses Wittgenstein and American philosopher of mind and language [[Donald Davidson (philosopher)|Donald Davidson]] of [[philosophical idealism]].<ref>Nagel, Thomas. 1986, ''The View from Nowhere''. Oxford: Oxford University Press, Chapter VI.</ref> Both ask people to take up an interpretative perspective to making sense of other speakers in the context of a shared, objective world. This, for Nagel, elevates contingent conditions of our makeup into criteria for what is real. The result "cuts the world down to size" and makes what there is dependent on what there can be interpreted to be. Nagel claims this is no better than more orthodox forms of idealism in which reality is claimed to be made up of mental items or constitutively dependent on a form supplied by the mind.
+
+===Philosophy of mind===
+
+====What is it like to be a something====
+{{further|What Is It Like to Be a Bat?}}
+Nagel is probably most widely known in [[philosophy of mind]] as an advocate of the idea that [[consciousness]] and [[subjective experience]] cannot, at least with the contemporary understanding of [[physicalism]], be satisfactorily explained with the concepts of physics. This position was primarily discussed by Nagel in one of his most famous articles: "What Is It Like to Be a Bat?" (1974). The article's title question, though often attributed to Nagel, was originally asked by [[Timothy Sprigge]]. The article was originally published in 1974 in ''[[The Philosophical Review]]'', and has been reprinted several times, including in ''[[The Mind's I]]'' (edited by [[Daniel Dennett]] and [[Douglas Hofstadter]]), ''Readings in the Philosophy of Psychology'' (edited by Ned Block), Nagel's ''Mortal Questions'' (1979), ''[[The Nature of Mind]]'' (edited by [[David M. Rosenthal (philosopher)|David M. Rosenthal]]), and ''Philosophy of Mind: Classical and Contemporary Readings'' (edited by [[David J. Chalmers]]).
+
+In "What Is It Like to Be a Bat?", Nagel argues that consciousness has essential to it a ''subjective character,'' a ''what it is like'' aspect. He writes, "an organism has conscious mental states if and only if there is something that it is like to ''be'' that organism—something it is like ''for'' the organism."<ref>Nagel, "What Is It Like to Be a Bat?" (1974), p. 436.</ref> In the 50th-anniversary republication of his article in book form, Nagel writes that he "tried to show that the irreducible subjectivity of consciousness is an obstacle to many proposed solutions to the mind-body problem."<ref>Nagel, Thomas (2024). ''What Is It Like to Be a Bat?'' Oxford University Press, p. vii.</ref> His critics{{who|date=March 2017}} have objected to what they see as a misguided attempt to argue from a fact about how one represents the world (trivially, one can only do so from one's point of view) to a false claim about the world, that it somehow has first-personal perspectives built into it. On that understanding, Nagel is a conventional [[Dualism (philosophy of mind)|dualist]] about the physical and the mental. This is, however, a misunderstanding{{according to|date=March 2017}}: Nagel's point is that there is a constraint on what it is to possess the concept of a mental state, namely, that one be directly acquainted with it. Concepts of mental states are only made available to a thinker who can be acquainted with their own states; clearly, the possession and use of physical concepts has no corresponding constraint.
+
+Part of the puzzlement here is because of the limitations of imagination: influenced by his [[Princeton University|Princeton]] colleague [[Saul Kripke]], Nagel believes that any [[Type physicalism|type identity]] statement that identifies a physical state type with a [[mental state]] type would be, if true, [[logical truth|necessarily true]]. But Kripke argues that one can easily imagine a situation where, for example, one's [[Group C nerve fiber|C-fibres]] are stimulated but one is not in pain and so refute any such psychophysical identity from the armchair. (A parallel argument does not hold for genuine [[Identity (philosophy)|theoretical identities]].) This argument that there will always be an explanatory gap between an identification of a state in mental and physical terms is compounded, Nagel argues, by the fact that imagination operates in two distinct ways. When asked to imagine ''sensorily'', one imagines C-fibres being stimulated; if asked to imagine ''sympathetically'', one puts oneself in a conscious state resembling pain. These two ways of imagining the two terms of the identity statement are so different that there will always seem to be an explanatory gap, whether or not this is the case. (Some philosophers of mind{{who|date=October 2018}} have taken these arguments as helpful for [[physicalism]] on the grounds that it exposes a limitation that makes the existence of an explanatory gap seem compelling, while others{{who|date=October 2018}} have argued that this makes the case for physicalism even more impossible as it cannot be defended even in principle.)
+
+Nagel is not a physicalist because he does not believe that an internal understanding of mental concepts shows them to have the kind of hidden [[essence]] that underpins a scientific identity in, say, chemistry. But his skepticism is about ''current'' physics: he envisages in his most recent work that people may be close to a scientific breakthrough in identifying an underlying essence that is neither physical (as people currently think of the physical), nor [[Functionalism (philosophy of mind)|functional]], nor mental, but such that it necessitates all three of these ways in which the mind "appears" to us. The difference between the kind of explanation he rejects and the kind he accepts depends on his understanding of transparency: from his earliest work to his most recent Nagel has always insisted that a prior context is required to make identity statements plausible, intelligible and transparent.
+
+====Natural selection and consciousness====
+{{further|Mind and Cosmos}}
+In his 2012 book ''Mind and Cosmos'', Nagel argues against a [[Materialism|materialist]] view of the emergence of life and consciousness, writing that the standard [[Neo-Darwinism|neo-Darwinian]] view flies in the face of common sense.<ref name="Nagel 2012"/>{{rp|5–6}} He writes that mind is a basic aspect of nature, and that any philosophy of nature that cannot account for it is fundamentally misguided.<ref name="Nagel 2012"/>{{rp|16ff}} He argues that the principles that account for the emergence of life may be [[teleological]], rather than materialist or mechanistic.<ref name="Nagel 2012"/>{{rp|10}} Despite Nagel's being an atheist and not a proponent of [[intelligent design]] (ID), his book was "praised by [[creationists]]", according to the ''[[New York Times]]''.<ref name=degreesin/> Nagel writes in ''Mind and Cosmos'' that he disagrees with both ID defenders and their opponents, who argue that the only naturalistic alternative to ID is the current reductionist neo-Darwinian model.<ref name="Nagel 2012"/>{{rp|12}}
+
+Nagel has argued that ID should not be rejected as non-scientific, for instance writing in 2008 that "ID is very different from [[creation science]]," and that the debate about ID "is clearly a scientific disagreement, not a disagreement between science and something else."<ref>Nagel, Thomas. (2008). "Public education and intelligent design," ''Philosophy & Public Affairs'', 36(2), pp. 187–205</ref> In 2009, he recommended ''[[Signature in the Cell]]'' by the philosopher and ID proponent [[Stephen C. Meyer]] in ''The Times Literary Supplement'' as one of his "Best Books of the Year."<ref>{{cite web|url=http://www.the-tls.co.uk/tls/public/article706973.ece|title=Arguments: Thomas Nagel and Stephen C. Meyer's Signature in the Cell - TLS|publisher=The-tls.co.uk|access-date=31 October 2014}}</ref> Nagel does not accept Meyer's conclusions but endorsed Meyer's approach, and argued in ''Mind and Cosmos'' that Meyer and other ID proponents, [[David Berlinski]] and [[Michael Behe]], "do not deserve the scorn with which they are commonly met."<ref name="Nagel 2012"/>{{rp|10}}
+
+===Ethics===
+
+====Nagel's Rawlsian approach====
+Nagel has been highly influential in the related fields of moral and [[political philosophy]]. Supervised by [[John Rawls]], he has been a longstanding proponent of a [[Kantian]] and [[rationalist]] approach to [[moral philosophy]]. His distinctive ideas were first presented in the short monograph ''The Possibility of Altruism,'' published in 1970. That book seeks by reflection on the nature of [[practical reasoning]] to uncover the formal principles that underlie reason in practice and the related general beliefs about the self that are necessary for those principles to be truly applicable to us. Nagel defends motivated desire theory about the motivation of moral action. According to motivated desire theory, when a person is motivated to moral action it is indeed true that such actions are motivated, like all intentional actions, by a belief and a desire. But it is important to get the justificatory relations right: when a person accepts a moral judgment they are necessarily motivated to act. But it is the reason that does the justificatory work of justifying both the action and the desire. Nagel contrasts this view with a rival view which believes that a moral agent can only accept that they have a reason to act if the desire to carry out the action has an independent justification. An account based on presupposing sympathy would be of this kind.<ref>{{cite journal |last1=Pyka |first1=Marek |title=Thomas Nagel on Mind, Morality, and Political Theory |journal=American Journal of Theology & Philosophy |date=2005 |volume=26 |issue=1/2 |pages=85–95 |issn=0194-3448|jstor=27944340 }}</ref>
+
+The most striking claim of the book is that there is a very close parallel between prudential reasoning in one's own interests and moral reasons to act to further the interests of another person. When one reasons prudentially, for example about the future reasons that one will have, one allows the reason in the future to justify one's current action without reference to the strength of one's current desires. If a hurricane were to destroy someone's car next year, at that point they will want their insurance company to pay them to replace it: that future reason gives them a reason to take out insurance now. The strength of the reason ought not to be hostage to the strength of one's current desires. The denial of this view of prudence, Nagel argues, means that one does not really believe that one is one and the same person through time. One is dissolving oneself into distinct person-stages.<ref>{{cite journal |last1=Liu |first1=JeeLoo |title=Moral Reason, Moral Sentiments and the Realization of Altruism: A Motivational Theory of Altruism |journal=Asian Philosophy |date=May 2012 |volume=22 |issue=2 |pages=93–119 |doi=10.1080/09552367.2012.692534|s2cid=11457496 |url=https://philpapers.org/rec/LIUMRM-2 }}</ref>
+
+====Altruistic action====
+This is the basis of his analogy between prudential actions and moral actions: in cases of [[altruistic]] action for another person's good that person's reasons quite literally become reasons for one if they are timeless and intrinsic reasons. Genuine reasons are reasons for anyone. Like the 19th-century moral philosopher [[Henry Sidgwick]], Nagel believes that one must conceive of one's good as an impersonal good and one's reasons as objective reasons. That means, practically, that a timeless and intrinsic value generates reasons for anyone. A person who denies the truth of this claim is committed, as in the case of a similar mistake about prudence, to a false view of themself. In this case the false view is that one's reasons are irreducibly theirs, in a way that does not allow them to be reasons for anyone: Nagel argues this commits such a person to the view that they cannot make the same judgments about their own reasons third-personally that they can make first-personally. Nagel calls this "[[Dissociation (psychology)|dissociation]]" and considers it a practical analogue of [[solipsism]] (the philosophical idea that only one's own mind is sure to exist). Once again, a false view of what is involved in reasoning properly is refuted by showing that it leads to a false view of people's nature.
+
+====Subjective and objective reasons====
+Nagel's later work on ethics ceases to place as much weight on the distinction between a person's personal or "[[Subjectivity|subjective]]" reasons and their "[[Objectivity (philosophy)|objective]]" reasons. Earlier, in ''The Possibility of Altruism,'' he took the stance that if one's reasons really are about intrinsic and timeless values then, ''qua'' subjective reason, one can only take them to be the guise of the reasons that there really are: the objective ones. In later discussions, Nagel treats his former view as an incomplete attempt to convey the fact that there are distinct classes of reasons and values, and speaks instead of "agent-relative" and "agent-neutral" reasons. In the case of agent-relative reasons (the successor to subjective reasons), specifying the content of the reason makes essential reference back to the agent for whom it is a reason. An example of this might be: "Anyone has a reason to honor his or her parents." By contrast, in the case of agent-neutral reasons (the successor to objective reasons) specifying the content of the reason does not make any essential reference back to the person for whom it is a reason. An example of this might be: "Anyone has a reason to promote the good of parenthood."
+
+====Objective reasons====
+The different classes of reasons and values (i.e., agent-relative and agent-neutral) emphasized in Nagel's later work are situated within a Sidgwickian model in which one's moral commitments are thought of objectively, such that one's personal reasons and values are simply incomplete parts of an impersonal whole. The structure of Nagel's later ethical view is that all reasons must be brought into relation to this objective view of oneself. Reasons and values that withstand detached critical scrutiny are objective, but more subjective reasons and values can nevertheless be objectively tolerated. However, the most striking part of the earlier argument and of Sidgwick's view is preserved: agent-neutral reasons are literally reasons for anyone, so all objectifiable reasons become individually possessed no matter whose they are. Thinking reflectively about ethics from this standpoint, one must take every other agent's standpoint on value as seriously as one's own, since one's own perspective is just a subjective take on an inter-subjective whole; one's personal set of reasons is thus swamped by the objective reasons of all others.
+
+====World agent views====
+This is similar to "world agent" [[consequentialist]] views in which one takes up the standpoint of a collective subject whose reasons are those of everyone. But Nagel remains an [[individualist]] who believes in the separateness of persons, so his task is to explain why this objective viewpoint does not swallow up the individual standpoint of each of us. He provides an extended rationale for the importance to people of their personal point of view. The result is a hybrid ethical theory of the kind defended by Nagel's Princeton PhD student [[Samuel Scheffler]] in ''The Rejection of Consequentialism''. The objective standpoint and its demands have to be balanced with the subjective personal point of view of each person and its demands. One can always be maximally objective, but one does not have to be. One can legitimately "cap" the demands placed on oneself by the objective reasons of others. In addition, in his later work, Nagel finds a rationale for so-called [[deontic]] constraints in a way Scheffler could not. Following Warren Quinn and Frances Kamm, Nagel grounds them on the [[inviolability]] of persons.
+
+====Political philosophy====
+The extent to which one can lead a good life as an individual while respecting the demands of others leads inevitably to political philosophy. In the Locke lectures published as the book ''Equality and Partiality'', Nagel exposes [[John Rawls]]'s [[A Theory of Justice|theory of justice]] to detailed scrutiny. Once again, Nagel places such weight on the objective point of view and its requirements that he finds Rawls's view of liberal equality not demanding enough. Rawls's aim to redress, not remove, the inequalities that arise from class and talent seems to Nagel to lead to a view that does not sufficiently respect the needs of others. He recommends a gradual move to much more demanding conceptions of equality, motivated by the special nature of political responsibility. Normally, people draw a distinction between what people do and what people fail to bring about, but this thesis, true of individuals, does not apply to the state, which is a collective agent. A Rawlsian state permits intolerable inequalities and people need to develop a more ambitious view of equality to do justice to the demands of the objective recognition of the reasons of others. For Nagel, honoring the objective point of view demands nothing less.
+
+===Atheism===
+In ''Mind and Cosmos'', Nagel writes that he is an [[atheist]]: "I lack the ''[[sensus divinitatis]]'' that enables{{emdash}}indeed compels{{emdash}}so many people to see in the world the expression of divine purpose as naturally as they see in a smiling face the expression of human feeling."<ref name="Nagel 2012">{{cite book|last=Nagel|first=Thomas|title=Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False|year=2012|publisher=Oxford University Press|location=Oxford|isbn=978-0-19-991975-8}}</ref> In ''The Last Word'', he wrote, "I want atheism to be true and am made uneasy by the fact that some of the most intelligent and well-informed people I know are religious believers. It isn't just that I don't believe in God and, naturally, hope that I'm right in my belief. It’s that I hope there is no God! I don’t want there to be a God; I don’t want the universe to be like that."<ref>Nagel, Thomas, ''The Last Word'', Oxford University Press, 1997, P. 130</ref>
+
+===Experience itself as a good===
+Nagel has said, "There are elements which, if added to one's experience, make life better; there are other elements which if added to one's experience, make life worse. But what remains when these are set aside is not merely neutral: it is emphatically positive.&nbsp;... The additional positive weight is supplied by experience itself, rather than by any of its consequences."<ref>The full quotation is "...&nbsp;the natural view that death is an evil because it brings to an end all the goods that life contains. We need not give an account of these goods here, except to observe that some of them, like perception, desire, activity, and thought, are so general as to be constitutive of human life. They are widely regarded as formidable benefits in themselves, despite the fact that they are conditions of misery as well as of happiness, and that a sufficient quantity of more particular evils can perhaps outweigh them. That is what is meant, I think by the allegation that it is good simply to be alive, even if one is undergoing terrible experiences. The situation is roughly this: There are elements which, it added to one's experience, make life better; there are other elements which if added to one's experience, make life worse. But what remains when these are set aside is not merely neutral: it is emphatically positive. Therefore life is worth living even when the bad elements of experience are plentiful, and the good ones too meager to outweigh the bad ones on their own. The additional positive weight is supplied by experience itself, rather than by any of its consequences." 'Death' (essay), Thomas Nagel, CUP, 1979 http://dbanach.com/death.htm  Note that the paragraph in the earlier 1970 version of the essay published in Nous; Death Author(s): Thomas Nagel Source: Noûs, Vol. 4, No. 1 (Feb ...
+static1.1.sqspcdn.com/static/f/1011404/27295252/.../Nagel_Death.pdf?token... https://faculty.arts.ubc.ca/maydede/mind/Nagel_Death.pdf ends at "perhaps outweigh them."</ref><ref>Rhys Southan explains such ordinary experiences as having value "...&nbsp;because of the almost unbelievable fact that there is a world at all, and that we're conscious beings who get to be in it, feelings its sensations, and interacting with it and other similarly improbable existers." http://www.oxonianreview.org/wp/the-vise-side-of-life/</ref>
+
+==Personal life==
+Nagel married Doris Blum in 1954, divorcing in 1973. In 1979, he married [[Anne Hollander]], who died in 2014.<ref name=":1">{{Cite web|date=2021-11-24|title=Nagel, Thomas 1937-|url=https://www.encyclopedia.com/arts/educational-magazines/nagel-thomas-1937|access-date=2021-12-06|website=Encyclopedia.com}}</ref>
+
+==Awards==
+Nagel received the 1996 [[PEN/Diamonstein-Spielvogel Award for the Art of the Essay]] for ''Other Minds'' (1995). He has also been awarded the [[Balzan Prize]] in Moral Philosophy (2008), the [[Rolf Schock Prizes|Rolf Schock Prize]] in Logic and Philosophy of the [[Royal Swedish Academy of Sciences]] (2008) and the  Distinguished Achievement Award of the [[Mellon Foundation]] (2006).<ref name=degreesin/>
+
+==Selected publications==
+
+===Books===
+* {{cite book | last = Nagel | first = Thomas | title = The possibility of altruism | publisher = Oxford University Press | location = Princeton, N.J | year = 1970 | isbn = 9780691020020 }} ([https://books.google.com/books/about/The_Possibility_of_Altruism.html?id=6zQhBHvcpxAC Reprinted in 1978], Princeton University Press.)
+* {{cite book | last1 = Nagel | first1 = Thomas | last2 = Held | first2 = Virginia | last3 = Morgenbesser | first3 = Sidney | author-link2 = Virginia Held | author-link3 = Sidney Morgenbesser | title = Philosophy, morality, and international affairs: essays edited for the Society for Philosophy and Public Affairs | publisher = Oxford University Press | location = New York | year = 1974 | isbn = 9780195017595 | url-access = registration | url = https://archive.org/details/philosophymorali0000unse }}
+* {{cite book | last = Nagel | first = Thomas | title = Mortal questions | publisher = Canto | location = London | year = 1979 | isbn = 9780521406765 | url=https://books.google.com/books?id=fBGPBRX3JsQC}}
+* {{cite book | last = Nagel | first = Thomas | title = The view from nowhere | publisher = Oxford University Press | location = New York | year = 1986 | isbn = 9780195056440 | url=https://books.google.com/books?id=5cryOCGb2nEC}}
+* {{cite book | last = Nagel | first = Thomas | title = What does it all mean?: a very short introduction to philosophy | publisher = Oxford University Press | location = Oxford | year = 1987 | isbn = 9780195174373 | url = https://books.google.com/books?id=Nz_XMrjBQEUC}}
+* {{cite book | last = Nagel | first = Thomas | title = Equality and partiality | url = https://archive.org/details/equalit_nag_1991_00_9364 | url-access = registration | publisher = Oxford University Press | location = New York | year = 1991 | isbn = 9780195098396 }}
+* {{cite book | last = Nagel | first = Thomas | title = The last word | publisher = Oxford University Press | location = New York | year = 1997 | isbn = 9780195149838 | url = https://books.google.com/books?id=COkPRvqFL7oC}}<ref>{{cite journal|author=Larmore, Charles|author-link=Charles Larmore|title=Review: ''The Last Word'' by Thomas Nagel|journal=[[Ethics (journal)|Ethics]]|date=October 1998|volume=109|issue=1|pages=166–168|jstor=10.1086/233878|doi=10.1086/233878|s2cid=171277680}}</ref>
+* {{cite book | last = Nagel | first = Thomas | title = Other minds: critical essays, 1969–1994 | publisher = Oxford University Press | location = New York Oxford | year = 1999 | isbn = 9780195132465 | url = https://books.google.com/books?id=t5jS2YRQE2sC}}
+* {{cite book | last1 = Nagel | first1 = Thomas | last2 = Murphy | first2 = Liam | title = The myth of ownership : taxes and justice | url = https://archive.org/details/mythofownershipt00murp | url-access = registration | publisher = Oxford University Press | location = Oxford New York | year = 2002 | isbn = 9780195176568 }}
+* {{cite book | last = Nagel | first = Thomas | title = Concealment and exposure: and other essays | publisher = Oxford University Press | location = Oxford New York | year = 2002 | isbn = 9780195152937 }}
+* {{cite book | last = Nagel | first = Thomas | title = Secular philosophy and the religious temperament: essays 2002–2008 | publisher = Oxford University Press | location = Oxford New York, N.Y | year = 2010 | isbn = 9780195394115 }}
+* Nagel, Thomas (2012).  ''[[Mind and Cosmos|Mind and Cosmos: why the materialist neo-Darwinian conception of nature is almost certainly false.]]'' Oxford New York: Oxford University Press, {{ISBN|9780199919758}}
+
+===Articles===
+* 1959, "Hobbes's Concept of Obligation", ''Philosophical Review'', pp.&nbsp;68–83.
+* 1959, "Dreaming", ''Analysis'', pp.&nbsp;112–6.
+* 1965, "Physicalism", ''Philosophical Review'', pp.&nbsp;339–56.
+* 1969, "Sexual Perversion", ''Journal of Philosophy'', pp.&nbsp;5–17 (repr. in ''Mortal Questions'').
+* 1969, "The Boundaries of Inner Space", ''Journal of Philosophy'', pp.&nbsp;452–8.
+* 1970, "Death", ''Nous'', pp.&nbsp;73–80 (repr. in ''Mortal Questions'').
+* 1970, "Armstrong on the Mind", ''Philosophical Review'', pp.&nbsp;394–403 (a discussion review of ''A Materialist Theory of the Mind'' by [[D. M. Armstrong]]).
+* 1971, "Brain Bisection and the Unity of Consciousness", ''Synthese'', pp.&nbsp;396–413 (repr. in ''Mortal Questions'').
+* 1971, "The Absurd", ''Journal of Philosophy'', pp.&nbsp;716–27 (repr. in ''Mortal Questions'').
+* 1972, "War and Massacre", ''Philosophy & Public Affairs'', vol. 1, pp.&nbsp;123–44 (repr. in ''Mortal Questions'').
+* 1973, "Rawls on Justice", ''Philosophical Review'', pp.&nbsp;220–34 (a discussion review of ''[[A Theory of Justice]]'' by John Rawls).
+* 1973, "Equal Treatment and Compensatory Discrimination", ''Philosophy & Public Affairs'', vol. 2, pp.&nbsp;348–62.
+* 1974, "[[What Is it Like to Be a Bat?]]", ''Philosophical Review'', pp.&nbsp;435–50 (repr. in ''Mortal Questions''). [https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf Online text]
+* 1976, "Moral Luck", Proceedings of the Aristotelian Society Supplementary vol. 50, pp.&nbsp;137–55 (repr. in ''Mortal Questions'').
+* 1979, "The Meaning of Equality", ''Washington University Law Quarterly'', pp.&nbsp;25–31.
+* 1981, "Tactical Nuclear Weapons and the Ethics of Conflict", ''Parameters: Journal of the U.S. Army War College'', pp.&nbsp;327–8.
+* 1983, "The Objective Self", in Carl Ginet and Sydney Shoemaker (eds.), ''Knowledge and Mind'', Oxford University Press, pp.&nbsp;211–232.
+* 1987, "Moral Conflict and Political Legitimacy", ''Philosophy & Public Affairs'', pp.&nbsp;215–240.
+* 1994, "Consciousness and Objective Reality", in R. Warner and T. Szubka (eds.), ''The Mind-Body Problem'', Blackwell.
+* 1995, "Personal Rights and Public Space", ''Philosophy & Public Affairs'', vol. 24, no. 2, pp.&nbsp;83–107.
+* 1997, "Assisted Suicide: The Philosophers' Brief" (with R. Dworkin, R. Nozick, J. Rawls, T. Scanlon, and J. J. Thomson), ''New York Review of Books'', March 27, 1997.
+* 1998, "Reductionism and Antireductionism", in ''The Limits of Reductionism in Biology'', Novartis Symposium 213, John Wiley & Sons, pp.&nbsp;3–10.
+* 1998, "Concealment and Exposure", ''Philosophy & Public Affairs'', vol. 27, no. 1, pp.&nbsp;3–30. [http://www.nyu.edu/gsas/dept/philo/faculty/nagel/papers/exposure.html Online text]
+* 1998, "Conceiving the Impossible and the Mind-Body Problem", ''Philosophy'', vol. 73, no. 285, pp.&nbsp;337–352. [http://philosophy.fas.nyu.edu/docs/IO/1172/conceiving.pdf Online PDF] {{Webarchive|url=https://web.archive.org/web/20060901094402/http://philosophy.fas.nyu.edu/docs/IO/1172/conceiving.pdf |date=2006-09-01 }}
+* 2000, "The Psychophysical Nexus", in Paul Boghossian and Christopher Peacocke (eds.) ''New Essays on the A Priori'', Oxford: Clarendon Press, pp.&nbsp;432–471. [http://philosophy.fas.nyu.edu/docs/IO/1172/nexus.pdf Online PDF] {{Webarchive|url=https://web.archive.org/web/20060901094405/http://philosophy.fas.nyu.edu/docs/IO/1172/nexus.pdf |date=2006-09-01 }}
+* 2003, "Rawls and Liberalism", in Samuel Freeman (ed.) ''The Cambridge Companion to Rawls'', Cambridge University Press, pp.&nbsp;62–85.
+* 2003, "John Rawls and Affirmative Action", ''The Journal of Blacks in Higher Education'', no. 39, pp.&nbsp;82–4.
+* 2008, "Public Education and Intelligent Design", ''Philosophy and Public Affairs''
+* 2009, "The I in Me", a review article of ''Selves: An Essay in Revisionary Metaphysics'' by Galen Strawson, Oxford, 448 pp, {{ISBN|0-19-825006-1}}, [http://www.lrb.co.uk/v31/n21/thomas-nagel/the-i-in-me lrb.co.uk]
+* 2021, Thomas Nagel, "Types of Intuition: Thomas Nagel on human rights and moral knowledge", ''[[London Review of Books]]'', vol. 43, no. 11 (3 June 2021), pp.&nbsp;3, 5–6, 8. [[Deontology]], [[consequentialism]], [[utilitarianism]].
+* 2023: "Leader of the Martians" (review of [[M.W. Rowe]], ''J.L. Austin: Philosopher and D-Day Intelligence Officer'', Oxford, May 2023, {{ISBN|978 0 19 870758 5}}, 660 pp.), ''[[London Review of Books]]'', vol. 45, no. 17 (7 September 2023), pp. 9–10. "I [the reviewer, Thomas Nagel] was one of Austin's last students..." (p. 10.) A quotation from [[J.L. Austin]]: "Is it not possible that the next century may see the birth... of a true and comprehensive ''[[science]] of [[language]]''? Then we shall have rid ourselves of one more part of [[philosophy]]... in the only way we ever can get rid of philosophy, by kicking it upstairs." (p. 10.)
+
+==See also==
+* [[American philosophy]]
+* [[List of American philosophers]]
+* [[New York University Department of Philosophy]]
+* [[David Chalmers]]
+* [[Frank Cameron Jackson|Frank Jackson]]
+* [[Galen Strawson]]
+* [[Hard problem of consciousness]]
+* [[Knowledge argument]]
+* [[Phenomenology (philosophy)|Phenomenology]]
+* [[Neutral monism]]
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{Citation |year=2015 |title=Thomas Nagel |first=Alan |last=Thomas |publisher=Routledge }}.
+
+==External links==
+{{sisterlinks|d=Q350239|b=no|v=no|voy=no|s=no|n=no|wikt=no|m=no|mw=no|commons=Category:Thomas Nagel}}
+* {{cite web |url= http://www.nyu.edu/gsas/dept/philo/faculty/nagel/ |title= Thomas Nagel |series= Dpt of Philosophy |website= [[New York University|NYU]] }}
+* {{cite web |url= http://www.nyu.edu/gsas/dept/philo/faculty/nagel/nagelcv.pdf |title= Nagel's CV |website= NYU }}
+* {{cite journal |author-link= Thomas Nagel |display-authors= 0 |
+first= Thomas|last= Nagel |url= http://www.philosopher.eu/others-writings/nagel-what-is-it-like-to-be-a-bat/ |title= What is it like to be a bat? |journal= Philosophical Review |volume= LXXXIII |issue= 4 |date= Oct 1974 |pages= 435–450 |doi= 10.2307/2183914 |jstor= 2183914 }}
+* {{cite web |url= http://www.nybooks.com/authors/654 |title= Thomas Nagel |website= The New York Review of Books }}
+
+{{s-start}}
+{{s-aca}}
+{{s-new|office}}
+{{s-ttl|title=[[Tanner Lectures on Human Values|Tanner Lecturer on Human Values]]<br />at [[Stanford University]]|years=1977–1978}}
+{{s-aft|after=[[Amartya Sen]]}}
+{{s-bef|before=[[Michael Dummett]]}}
+{{s-ttl|title=[[Howison Lectures in Philosophy|Howison Lecturer in Philosophy]]|years=1987}}
+{{s-aft|after=[[Bernard Williams]]}}
+{{s-vac|last=[[Barry Stroud]]}}
+{{s-ttl|title=[[John Locke Lectures|John Locke Lecturer]]|years=1989–1990}}
+{{s-aft|after=[[John McDowell]]}}
+{{s-ach|aw}}
+{{s-bef|before=[[J.&nbsp;B. Jackson]]}}
+{{s-ttl|title=[[PEN/Diamonstein-Spielvogel Award for the Art of the Essay|PEN/Diamonstein-Spielvogel Award<br />for the Art of the Essay]]|years=1996}}
+{{s-aft|after=[[Cynthia Ozick]]}}
+{{s-bef|before=[[Bruce Beutler]]}}
+{{s-ttl|title=[[Balzan Prize]]|years=2008|with=[[Wallace S. Broecker]],<br />[[Maurizio Calvesi]], and [[Ian Frazer]]|rows=6}}
+{{s-aft|after=[[Terence Cave]]}}
+{{s-bef|before=[[Karlheinz Böhm]]}}
+{{s-aft|after=[[Michael Grätzel]]}}
+{{s-bef|before=[[Rosalyn Higgins, Baroness Higgins|The Lady Higgins]]}}
+{{s-aft|after=[[Brenda Milner]]|rows=2}}
+{{s-bef|before=[[Jules A. Hoffmann]]}}
+{{s-bef|before=[[Sumio Iijima]]}}
+{{s-aft|after=[[Paolo Rossi Monti]]|rows=2}}
+{{s-bef|before=[[Michel Zink]]}}
+{{s-bef|before=[[Jaakko Hintikka]]}}
+{{s-ttl|title=[[Rolf Schock Prizes|Rolf Schock Prize]] for Logic and Philosophy|years=2008}}
+{{s-aft|after=[[Hilary Putnam]]}}
+{{s-end}}
+
+{{Analytic philosophy}}
+{{Ethics}}
+{{Consciousness}}
+{{Schock Prize laureates}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nagel, Thomas}}
+[[Category:1937 births]]
+[[Category:Living people]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:American atheists]]
+[[Category:American consciousness researchers and theorists]]
+[[Category:American people of German-Jewish descent]]
+[[Category:Analytic philosophers]]
+[[Category:Atheist philosophers]]
+[[Category:Cornell University alumni]]
+[[Category:Corresponding fellows of the British Academy]]
+[[Category:American critics of postmodernism]]
+[[Category:Harvard University alumni]]
+[[Category:Jewish American atheists]]
+[[Category:Jewish philosophers]]
+[[Category:Kantian philosophers]]
+[[Category:Members of the American Philosophical Society]]
+[[Category:Members of the European Academy of Sciences and Arts]]
+[[Category:New York University faculty]]
+[[Category:New York University School of Law faculty]]
+[[Category:Non-Darwinian evolution]]
+[[Category:PEN/Diamonstein-Spielvogel Award winners]]
+[[Category:People from Belgrade]]
+[[Category:American philosophers of mind]]
+[[Category:Princeton University faculty]]
+[[Category:Rolf Schock Prize laureates]]
+[[Category:Serbian atheists]]
+[[Category:21st-century Serbian Jews]]
+[[Category:Serbian people of German descent]]
+[[Category:Yugoslav emigrants to the United States]]

@@ -1,0 +1,95 @@
+{{short description|Italian philosopher and theologian}}
+{{Infobox philosopher
+| region = [[Western philosophy]]
+| era = [[Medieval philosophy]]
+| image = Portret van de Augustijn Gregorius Ariminensis, RP-P-1910-4307.jpg
+| caption = 
+| name = Gregory of Rimini
+| birth_date  = c. 1300
+| birth_place = [[Rimini]]
+| death_date  = {{death year|1358}}
+| death_place = [[Vienna]], [[Duchy of Austria]], [[Holy Roman Empire]]
+| school_tradition = [[Scholasticism]]<br />[[Augustinianism]]
+| education      = [[University of Paris]]
+| main_interests = [[Theology]], [[metaphysics]], [[epistemology]], [[economics]]
+| influences = [[Augustine of Hippo|Augustine]], [[William of Ockham]], [[Petrus Aureolus]]
+| influenced = [[James of Eltville]], [[Pierre d'Ailly]], [[Henry of Langenstein]], [[Hugolino of Orvieto]], [[Pierre Ceffons]], [[Marsilius of Inghen]], [[Pope Alexander V]], [[Martin Luther]]
+| notable_ideas = [[Predestination]], [[nominalism]]
+}}
+
+'''Gregory of Rimini''' (c. 1300 – November 1358), also called '''Gregorius de Arimino''' or '''Ariminensis''', was one of the great [[Scholasticism|scholastic philosophers]] and theologians of the [[Middle Ages]].  He was the first scholastic writer to unite the Oxonian and Parisian traditions in 14th-century philosophy, and his work had a lasting influence in the [[Late Middle Ages]] and [[Protestant Reformation|Reformation]].  His [[scholastic nickname]]s were ''Doctor acutus'' and ''Doctor authenticus''.
+
+His views strongly influenced some of the [[Protestant Reformers]].<ref>{{Cite web|title=Gregory Of Rimini {{!}} Italian philosopher {{!}} Britannica|url=https://www.britannica.com/biography/Gregory-of-Rimini|access-date=2022-01-03|website=www.britannica.com|language=en}}</ref>
+
+==Life==
+Gregory was born in [[Rimini]] around 1300.  He joined the [[Hermits of Saint Augustine|Order of the Hermits of Saint Augustine]] before studying [[theology]] in the 1320s at the [[University of Paris]], where he encountered the ideas of the late [[Franciscan]] [[Peter Auriol]].  In the 1330s he taught at Augustinian schools in [[Bologna]], [[Padua]] and [[Perugia]], where he became familiar with the recent work of Oxford thinkers such as [[Adam Wodeham]], [[William Ockham]], and [[Walter Chatton]].  He returned to Paris in 1342 to prepare his lectures on [[Peter Lombard|Peter Lombard's]] [[Sentences]], which he delivered in 1342–1344.  Because of his familiarity with English philosophy during this time, he effectively transmitted contemporary Oxford ideas—with an Augustinian tinge—to Paris.  He became a Master of Theology in 1345 and subsequently taught at schools in [[Padua]] and [[Rimini]].  Gregory died in [[Vienna]] in 1358 shortly after being named General of his Order.
+
+==Philosophy==
+In his lifetime, Gregory composed a number of philosophical works including analytical tables to accompany his own lectures, tables on Saint Augustine's works, and a few governmental letters.  Yet, his most important works are the lectures on Books I and II of Peter Lombard's ''Sentences''.  (This should have been on the four books, but books III and IV seem to have been lost, or were never written).
+
+Many later scholastics copied long passages from his works. Those who borrowed from him or were influenced by him include the [[Cistercian]] [[James of Eltville]], [[Pierre d'Ailly]], and [[Henry of Langenstein]].
+
+===Augustinianism===
+The most significant influence in Gregory's thought was [[St Augustine]]. Gregory studied Augustine more carefully and extensively than his predecessors, allowing him to critique [[Peter Auriol|Auriol]] for his misquotations, as well as for his [[Semipelagianism]]. Gregory was strongly shaped by [[Augustinian soteriology]],{{sfn|Sammons|2020|p=56}} which and implied [[double predestination]].{{sfn|James|1998|p=103|ps=. "If one asks, whether double predestination is a logical implication or development of Augustine's doctrine, the answer must be in the affirmative."}} He argued for double predestination, asserting that God's punishment was rooted in human [[sin]] but also decreed [[reprobation]] independently of individual sin.{{sfn|Sammons|2020|p=56}}{{sfn|James|1998|p=147}} Gregory adhered to Augustine's teachings on [[predestination]] and famously condemned unbaptized infants to [[Hell]], earning him the nickname ''Infantium Tortor'' (torturer of infants).{{sfn|James|1998|p=148}} He also supported the doctrine of [[limited atonement]].<ref>{{cite web|last=Clark|first=R. Scott|author-link=R. Scott Clark|year=2011|title=Limited Atonement|url=http://clark.wscal.edu/atonement.php|archive-url=https://web.archive.org/web/20131021023147/http://clark.wscal.edu/atonement.php|archive-date=21 October 2013|access-date=30 August 2013|work=Westminster Seminary California}}</ref>
+
+===Theory of sentences===
+Initially, with the intention of defining theology and natural sciences, Rimini developed a theory of sentences to describe scientific knowledge.  He believed sentences neither to be extra-mental nor [[propositional]]; in this theory, sentences signify something exclusively by the make-up of their terms, but are neither reducible to individual terms nor are "mental sentences" identifiable.  Defenders of this view claim that beliefs about the world are too complicated to correspond to specific language structures and thus, cannot serve as objects of scientific knowledge.
+
+===Nominalism===
+Gregory Rimini had a unique take on traditional [[nominalist]] views.  He thought that to contrive understanding in physical reality by incorporating abstract objects was nonsensical, due to his belief that [[mental objects]] are used strictly for convenient social conventions and nothing else.  With this divide between complex thought and physical reality, Rimini also believed statements describing infinitely many points, infinitely many lines, infinitely many planes, etc. are all false.  Since these are all mental, abstract objects, they only exist in the minds of people who think about them.  Thus, the notion of physical infinity is not applicable.  Furthermore, God was always in close relation to these abstract objects, too.  Rimini's nominalist view claims that God has the ability to distinguish abstract objects but has no need to manipulate them.  To Rimini, God has no need to manipulate mathematical propositions because he exists outside of time and thus, has no need to think deductively about the individual abstract objects anyway.
+
+== Works ==
+[[File:Gregorio da Rimini – De imprestanciis venetorum, 1508 – BEIC 13700206.jpg|thumb|''De imprestanciis venetorum'' (''De usura''), 1508]]
+* ''Gregorii Ariminensis OESA Lectura super Primum et Secundum Sententiarum'' edited by A. Trapp et al., Berlin and New York: Walter de Gruyter.
+** ''Tomus I: Super Primum (Dist. 1-6)'', 1981.
+** ''Tomus II: Super Primum (Dist. 17-17)'', 1982.
+** ''Tomus III: Super Primum (Dist. 19-48)'', 1984.
+** ''Tomus IV: Super Secundum (Dist. 1-5)'', 1979.
+** ''Tomus V: Super Secundum (Dist. 6-18)'', 1979.
+** ''Tomus VI: Super Secundum (Dist. 24-44)'', 1980.
+** ''Tomus VII: Indices'', 1987.
+**Old editions:
+*** ''Gregorii Ariminiensis...super Primum et Secundum Sententiarum'', Saint Bonaventure, NY:  Franciscan Institute, 1955 [reprint of 1494 edition].
+*** ''Gregorij Ariminiensis Ordonis Hermitaru[m] Diui Augustini ac Sacri Pagine Magistri in Secundo Sententiar[um] Admiranda Expositio'', Milan, 1494.
+
+* ''De usura''
+** {{Cite book|title=De imprestanciis venetorum... et de usura|publisher=Lodovico Mazzali|location=Reggio nell'Emilia|year=1508|language=la|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=13700206}}
+* ''De quatuor virtutibus cardinalibus''
+* ''De intentione et remissione formarum''
+
+==See also==
+* [[Augustinian soteriology]]
+
+==References==
+===Citations===
+{{reflist}}
+
+===Sources===
+* {{cite book |language=en |last=James |first=Frank A. |title=Peter Martyr Vermigli and Predestination: The Augustinian Inheritance of an Italian Reformer |publisher=Clarendon |location=Oxford |year=1998}}
+* {{cite book |language=en |last=Sammons |first=Peter |title=Reprobation: from Augustine to the Synod of Dort: The Historical Development of the Reformed Doctrine of Reprobation |location=Gottingen |publisher=Vandenhoeck & Ruprecht |date=2020}}
+
+==Further reading==
+* Pascal Bermon, ''L'assentiment et son objet chez Grégoire de Rimini'', Paris: Vrin, 2007.
+* Hubert Elie, ''Le signifiable par complexe. La proposition et son objet. Grégoire de Rimini, Meinong, Russell'', Paris: Vrin 2002 (new edition of "Le complexe significabile", published in 1936).  
+* Heiko Oberman, (ed.), ''Gregor von Rimini:  Werk und Wirkung bis zur Reformation'', Berlin and New York: Walter de Gruyter, 1981.
+* Robert Pasnau, "Philosopher Biography: Gregory of Rimini", in Robert Pasnau (ed.), ''The Cambridge History of Medieval Philosophy'', Cambridge: Cambridge University Press, 2010.
+* Jack Zupko, "Gregory of Rimini", in Jorge J.E. Garcia and Timothy B. Noone (eds.), ''A Companion to Philosophy in the Middle Ages'', Malden: Blackwell, 2003.
+
+==External links==
+* {{cite SEP |url-id=gregory-rimini |title=Gregory of Rimini |last=Schabel |first=Christopher}}
+* {{DBI |title= GREGORIO da Rimini |url=https://www.treccani.it/enciclopedia/gregorio-da-rimini_(Dizionario-Biografico)|last1= Lambertini|first1= Roberto|last2= Tabarroni|first2= A.|last3= Conti|first3= Alessandro|volume= 59}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gregory of Rimini}}
+[[Category:1300s births]]
+[[Category:Year of birth uncertain]]
+[[Category:1358 deaths]]
+[[Category:Augustinian philosophers]]
+[[Category:14th-century Christian theologians]]
+[[Category:University of Paris alumni]]
+[[Category:Augustinian friars]]
+[[Category:Scholastic philosophers]]
+[[Category:14th-century writers in Latin]]
+[[Category:14th-century Italian philosophers]]
+[[Category:Italian expatriates in France]]

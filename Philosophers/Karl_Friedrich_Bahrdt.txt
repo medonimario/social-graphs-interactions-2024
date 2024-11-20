@@ -1,0 +1,152 @@
+{{Use dmy dates|date=November 2022}}
+{{short description|Unorthodox German Protestant biblical scholar, theologian, and polemicist}}
+{{confused|text=[[Karl Barth]], a 20th-century Swiss theologian}}
+{{Use shortened footnotes|date=November 2022}}
+{{Infobox person
+| honorific_prefix   = 
+| name               = Karl Friedrich Bahrdt <!-- use common name/article title -->
+| honorific_suffix   = 
+| image              = Karl Friedrich Bahrdt 1741-1792.jpg <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| image_upright      = 
+| landscape          = <!-- yes, if wide image, otherwise leave blank -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = Karl Friedrich Bahrdt
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = {{IPA|de|kaʁl ˈfʁiːdʁɪç ˈbaːɐ̯t}}
+| birth_name         = <!-- only use if different from name -->
+| birth_date         = 25 August 1741
+| birth_place        = 
+| baptised           = <!-- will not display if birth_date is entered -->
+| disappeared_date   = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  = 
+| disappeared_status = 
+| death_date         = {{Death date and age|1792|4|23|1741|8|25|df=y}}
+| death_place        = 
+| death_cause        = <!--should only be included when the cause of death has significance for the subject's notability-->
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place       = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| nationality        = <!-- use only when necessary per [[WP:INFONAT]] -->
+| other_names        = 
+| siglum             = 
+| citizenship        = <!-- use only when necessary per [[WP:INFONAT]] -->
+| education          = 
+| alma_mater         = 
+| occupation         = Biblical scholar, theologian, and polemicist
+| years_active       = 
+| era                = 
+| employer           = 
+| organization       = 
+| agent              = <!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source -->
+| known_for          = 
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
+| television         = 
+| title              = <!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
+| term               = 
+| predecessor        = 
+| successor          = 
+| party              = 
+| movement           = 
+| opponents          = 
+| boards             = 
+| criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   = 
+| criminal_status    = 
+| spouse             = <!-- Use article title or common name -->
+| partner            = <!-- (unmarried long-term partner) -->
+| children           = 
+| parents            = <!-- overrides mother and father parameters -->
+| mother             = <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| father             = <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| relatives          = 
+| family             = 
+| callsign           = 
+| awards             = 
+| website            = <!-- {{URL|example.com}} -->
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
+
+'''Karl Friedrich Bahrdt'''{{sfnp|''EB''|1878}}{{sfnp|''BBKD''|1990}} ({{IPA|de|kaʁl ˈfʁiːdʁɪç ˈbaːɐ̯t}}; 25 August 1741&nbsp;– 23 April 1792), also spelled '''Carl Friedrich Bahrdt''',{{sfnp|''ADB''|1875}}{{sfnp|''NDB''|1953}} was an unorthodox [[German people|German]] [[Protestant]] biblical scholar, theologian, and polemicist. Controversial during his day, he is sometimes considered an "enfant terrible"{{sfnp|''BBKD''|1990}} and one of the most immoral characters in German learning.{{sfnp|Flygt|1963}}
+
+==Life==
+Bahrdt was born on 25 August 1741 in [[Bischofswerda]], [[Upper Lusatia]],{{sfnp|''BBKD''|1990}} where his father was pastor of the local church.{{sfnp|''EB''|1878}} The elder Bahrdt was later a professor,{{sfnp|''EB''|1878}} canon, and general superintendent at [[Leipzig]].{{sfnp|''EB''|1911}} He received his early education at the celebrated school of [[Pforta]],{{sfnp|''EB''|1878}} but some commenters have found his training to have been grossly neglected.{{sfnp|''EB''|1911}}
+
+At sixteen,{{sfnp|''EB''|1911}} he enrolled in the [[University of Leipzig]], where he studied under [[Christian August Crusius]],{{sfnp|''EB''|1878}} who was then head of the theological faculty. The boy varied the monotony of his studies by pranks which revealed his unbalanced character, including an attempt to raise spirits with the aid of ''[[Faust|Dr Faust]]'s {{Interlanguage link multi|Höllenzwang|de}}''.{{sfnp|''EB''|1911}}
+
+After graduation, he lectured on [[biblical exegesis]] for a time as an adjunct to his father{{sfnp|''EB''|1878}} before becoming a [[catechist]] (''{{lang|de|Katechet}}'') at the church of {{nowrap|St Peter}}. He proved an eloquent and popular preacher and returned to the university as a visiting professor (''{{lang|la|professor extraordinarius}}'') of biblical [[philology]].{{sfnp|''EB''|1911}} He published a popular book of devotions, ''The Christian in Solitude'', but was required to resign his positions and leave the Leipzig in 1768 on account of his irregular conduct.{{sfnp|''EB''|1878}}
+
+[[Christian Adolph Klotz]] was then able to secure him the chair in [[Biblical archaeology|biblical antiquities]] at the [[University of Erfurt]]. As the post was unpaid and Bahrdt was now married, he made his actual living as an [[inn-keeper]] and from private tutoring. Once he completed his doctorate of theology at [[University of Erlangen|Erlangen]], he was able to persuade the faculty at Erfurt to appoint him professor designate of theology and began reading lectures. His orthodoxy had by this time completely vanished: Bahrdt was now an extreme rationalist and determined to popularize the position.{{sfnp|''EB''|1878}} He was not dismissed on this account, however, but left Erfurt in 1771 on account of his debts{{sfnp|''EB''|1911}} and the personal and professional quarrels he had become embroiled in with his colleagues.{{sfnp|''EB''|1878}}
+
+He left for a post as professor of theology and preacher at the [[University of Giessen]]. His personal behavior was no less or more objectionable than elsewhere, but his publication of ''God's Recent Revelations in Letters and Stories'' (''{{lang|de|Neueste Offenbarungen Gottes in Briefen und Erzählungen}}'') between 1773 and 1775 made plain his departure from official doctrine. The work—a "model version" of the [[New Testament]] in modern German—occasioned a memorably scornful attack on its poor taste by [[Johann Wolfgang von Goethe|Goethe]]{{sfnp|''EB''|1911}} and prompted Bahrdt to again resign his position and relocate.{{sfnp|''EB''|1878}}
+
+He then served as the director of the educational institution (''{{lang|de|philanthropin}}'') established by [[Carl Ulisses von Salis-Marschlins]] at his [[Marschlins Castle|Château de Marschlins]].{{sfnp|''EB''|1878}} It had languished since {{Interlanguage link multi|Martin Planta|de}}'s death in 1772, but Bahrdt disliked the strict discipline maintained by von Salis, resigned in 1777, and prompted the closing of the school.{{sfnp|''EB''|1911}}
+
+Bahrdt next served as general superintendent at [[Bad Dürkheim|Dürkheim-on-the-Hardt]] at the invitation of the count of [[House of Leiningen|Leiningen-Dagsburg]].{{sfnp|''EB''|1911}} He also attempted to establish a new school at [[Heidesheim]].{{sfnp|''EB''|1878}} His luckless translation of the Bible followed him, however, and a 1778 decision of the [[Court Council of the Empire]] prohibited him from holding any professorial office, lecturing in any capacity, or publishing any work on theology.{{sfnp|''EB''|1878}} He again fled from his creditors and was imprisoned for a short period in [[Dienheim]].{{sfnp|Robison|2014|pp=195–196}}
+
+In 1779, he took refuge in [[Halle, Saxony-Anhalt|Halle]], now in dire poverty. There, he kept a tavern with a [[billiard table]]{{sfnp|''EB''|1911}} near the town gate.{{sfnp|''EB''|1878}} In spite of senate and theological opposition, he obtained permission from the [[Kingdom of Prussia|Prussian]] minister [[Karl Abraham Zedlitz|Karl Abraham von Zedlitz]] to lecture on subjects other than theology.{{sfnp|''EB''|1911}} He would lecture in the morning on moral philosophy and then retire for the afternoon to his public house, which was largely patronized by students.{{sfnp|''EB''|1878}} He repudiated his wife and lived with his mistress and their daughters.{{sfnp|''EB''|1911}}
+
+Compelled to write to earn additional income, he developed an astounding literary activity,{{sfnp|''EB''|1911}} although most of his works are now considered comparatively worthless or even a caricature of [[Age of Enlightenment|Enlightenment]] rationalism.{{sfnp|''EB''|1878}} He directed all his efforts at the development of a "moral system" intended to replace [[miracle|supernatural]] Christianity.{{sfnp|''EB''|1911}} Having become a [[Freemason]] at some point, Bahrdt founded a secret society to that purpose in 1787 called the German Union of the Two and Twenty, from its original number of members.{{sfnp|Mackey|1912|p=92}}{{refn|group=n|The society was intended to "diffuse intellectual light", "annihilate superstition", and "perfect the human race". It was divided into six degrees: The Adolescent, The Man, The Old Man, The Mesopolite, The Diocesan, and The Superior. The latter three grades selected the rules of the society.{{sfnp|Mackey|1912|p=295}}}} To make time for more writing, he gave up his lectures, although he opened a new inn at [[Weinberg bei Halle|Weinberg]] near Halle.{{sfnp|''EB''|1911}}
+
+In 1789, he was arrested partly on account of a [[pasquinade]] he had written concerning a religious edict passed by Prussia{{sfnp|''EB''|1878}} the year before, owing to the religious reaction that set in upon the death of [[Frederick the Great]].{{sfnp|''EB''|1911}} The king reduced the term to one year, which Bahrdt devoted to writing his autobiography,{{sfnp|''EB''|1878}} "a mixture of lies, hypocrisy, and self-prostitution", along with indecent stories and coarse polemics.{{sfnp|''EB''|1911}} The German Union was dissolved upon his arrest{{sfnp|Mackey|1912|p=92 & 295}} and publicly exposed by [[Johann Joachim Christoph Bode]]'s{{sfnp|''EB''|1911}} ''More Notes than Text'' (''{{lang|de|Mehr Noten als Text}}'').{{sfnp|Mackey|1912|p=295}} Most of its members went on to join the [[Illuminati]].{{sfnp|Mackey|1912|p=295}}
+
+Bahrdt died of a severe illness{{sfnp|''EB''|1878}} in [[Nietleben]] near [[Halle (Saale)|Halle]] on 23 April 1792.{{sfnp|''BBKD''|1990}}
+
+==Works==
+* [https://openlibrary.org/a/OL4277244A/Karl_Friedrich_Bahrdt Books by Karl Friedrich Bahrdt] at [[Open Library]]
+* {{DNB portal|11850598X|TYP=}}
+* {{citation |last=Bahrdt |first=Karl Friedrich  |contribution=On Freedom of the Press and its Limits |editor-first=John Christen |editor-last=Laursen |title=Early French and German Defenses of Freedom of the Press |publisher=Brill |series=''Brill's Studies in Intellectual History'', No. 113 |date=2003 |isbn=978-90-04-13017-3|ref=none}}
+
+==See also==
+* [[Heinrich Paulus]] – another rationalist theologian (1761–1851)
+* [[Hermann Samuel Reimarus]] – another rationalist theologian (1694–1768)
+
+==Notes==
+{{reflist|group=n}}
+{{Reflist|30em}}
+
+==References==
+{{commons category}}
+* {{cite ADB|1|772|774|Carl Friedrich Bahrdt|Frank, Gustav|ADB:Bahrdt, Carl Friedrich|ref={{harvid|''ADB''|1875}} }}
+* {{cite NDB|1|542|543|Carl Friedrich Bahrdt|Strobel, Wolf|11850598X|ref={{harvid|''NDB''|1953}} }}
+* {{citation |last=Bautz |first=Friedrich Wilhelm  |contribution=Karl Friedrich Bahrdt |title=Biographisch-Bibliographisches Kirchenlexikon ''[''Biographical and Bibliographical Church Dictionary''], Vol. I'' |date=1990 |pages=346–347 |url=http://bbkl.de/ |location=Nordhausen |publisher=Bautz |ref={{harvid|''BBKD''|1990}} |language=de}}; {{subscription required}}
+* {{cite EB9 |mode=cs2 |wstitle=Karl Friedrich Bahrdt |volume=3  |ref={{harvid|''EB''|1878}} |page=240 }}
+* {{citation |first=Sten Gunnar |last=Flygt |title=The Notorious Dr. Bahrdt |location=Nashville |publisher=Vanderbilt University Press |date=1963 }}
+* {{citation |contribution=Karl Friedrich Bahrdt" and "German Union of Two and Twenty|url=https://archive.org/details/encyclopdiaoffre00mack/page/n8 |title=An Encyclopedia of Freemasonry and its Kindred Sciences |volume=1 |first=Albert Gallatin |last=Mackey  |date=1912 |accessdate=6 February 2013 |pages=[https://archive.org/stream/anencyclopediaf02hughgoog#page/n116/mode/2up 92] & [https://archive.org/stream/anencyclopediaf02hughgoog#page/n336/mode/2up 295] }}
+* {{citation |url=https://issuu.com/neoplasmsix/docs/proofsofaconspiracys|first=John|publisher=George Forman|last=Robison|isbn=978-1502306388|title=Proofs of a Conspiracy: Against All The Religions & Governments Of Europe, Carried On In The Secret Meetings of Freemasons, Illuminati, & Reading Societies|date=2014|place=New York|orig-year=1798|accessdate=19 July 2019}}
+
+'''Attribution:'''
+* {{EB1911 |mode=cs2 |wstitle=Bahrdt, Karl Friedrich |volume=3 |ref={{harvid|''EB''|1911}} |pages=211–212 }}
+
+{{Illuminati}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bahrdt, Karl Friedrich}}
+[[Category:1741 births]]
+[[Category:1792 deaths]]
+[[Category:People from Bischofswerda]]
+[[Category:People from the Electorate of Saxony]]
+[[Category:German Lutheran theologians]]
+[[Category:German philologists]]
+[[Category:Academic staff of the University of Erfurt]]
+[[Category:Academic staff of the University of Giessen]]
+[[Category:Academic staff of the University of Halle]]
+[[Category:Leipzig University alumni]]
+[[Category:Academic staff of Leipzig University]]
+[[Category:18th-century German Protestant theologians]]
+[[Category:German male non-fiction writers]]
+[[Category:18th-century German male writers]]

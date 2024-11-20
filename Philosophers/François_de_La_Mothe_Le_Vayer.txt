@@ -1,0 +1,42 @@
+{{Short description|French philosopher and writer (1588–1672)}}
+[[Image:François de La Mothe Le Vayer - Versailles MV 2901.jpg|thumb|220px|François de La Mothe Le Vayer]]
+{{French literature sidebar}}
+'''François de La Mothe Le Vayer''' ({{IPA|fr|də la mɔt lə veje|lang}}, August 1588{{snd}}9 May 1672), was a French writer who was known to use the pseudonym '''Orosius Tubero'''. He was admitted to the [[Académie française]] in 1639, and was the tutor of [[Louis XIV]].
+
+==Early years==
+Le Vayer was born and died in [[Paris]], a member of a noble family of [[Maine (province of France)|Maine]]. His father was an avocat at the [[parlement]] of Paris and author of a curious treatise on the functions of ambassadors, entitled ''Legatus, seu De legatorum privilegiis, officio et munere libellus'' (1579) and illustrated mainly from ancient history. Francois succeeded his father at the parlement, but gave up his post about 1647 and devoted himself to travel and ''[[belles lettres]]''.{{sfn|Chisholm|1911}}
+
+==Literary career==
+His ''Considérations sur l'éloquence française'' (1638) procured him admission to the [[Académie française]], and his ''De l'instruction de Mgr. le Dauphin'' (1640) attracted the attention of [[Cardinal Richelieu|Richelieu]]. In 1649 [[Anne of Austria]] entrusted him with the education of her second son and subsequently with the completion of [[Louis XIV of France|Louis XIV]]'s education, which had been very much neglected. The outcome of his pedagogic labors was a series of books comprising the ''Géographie, Rhétorique, Morale, Economique, Politique, Logique, and Physique du prince'' (1651–1658).  
+The king rewarded his tutor by appointing him historiographer of France and councillor of state. La Mothe Le Vayer inherited of [[Marie de Gournay]]'s library, itself transmitted from [[Michel de Montaigne]].{{sfn|Chisholm|1911}}
+
+Modest, sceptical, and occasionally obscene in his Latin pieces and in his verses, he made himself a persona grata at the French court, where [[libertinism]] in ideas and morals was hailed with relish. Besides his educational works, he wrote ''Jugement sur les anciens et principaux historiens grecs et latins'' (1646); a treatise entitled ''Du peu de certitude qu'il y a en histoire'' (1668), which in a sense marks the beginning of historical criticism in France; and sceptical ''Dialogues'', published posthumously under the pseudonym of Orasius Tubero. An incomplete edition of his works was published at Dresden in 1756–1759.{{sfn|Chisholm|1911}}
+He was instrumental is popularizing [[Skepticism]] and [[Sextus Empiricus]] in particular whom he called "the divine Sexte" (a near blasphemy in Catholic France at the time of the Sun-King, which cost him a higher office of State).{{Citation needed|date=August 2017}}
+
+[[Molière]] was his close friend and it is rumored that much of the iconoclastic satire of his plays were inspired by Le Vayer's erudite and savage (if carefully hidden) criticism of religious hypocrisy - as expressed in the second version of his masterpiece ''[[Tartuffe]]'' (1667) — which (according to Robert McBride) La Mothe Le Vayer defended in a caustic and anonymous ''Lettre sur la comédie de l'Imposteur'' (1667) against the religious faction at Louis XIV's court.<ref>McBride, ''Moliere Et Son Premier Tartuffe'' (Manchester University Press, 2005), {{ISBN|0907310575}}</ref> [[Michel Foucault]] used this work as an important material in his famous essay "[[Governmentality]]."{{Citation needed|date=August 2017}}
+
+==Notes==
+{{More citations needed|date=August 2017}}
+{{Reflist}}
+
+==References==
+*{{EB1911|wstitle=La Mothe le Vayer, François de|volume=16|page=131}} 
+'''Recent edition of selected critical treatises:'''
+* ''De la patrie et des étrangers et autres petits traités sceptiques'', ed. [[Philippe-Joseph Salazar]], Paris: Desjonquères, 2003.
+* Robert McBride, ''Lettre sur la comedie de l'Imposteur'', attributed to Le Vayer. Durham: University of Durham Press, 1994.
+
+==External links==
+* {{Gutenberg author |id=40736| name=François de la Mothe le Vayer}}
+* {{Internet Archive author |sname=François de La Mothe Le Vayer |sopt=w}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:La Mothe-Le-Vayer, Francois De}}
+[[Category:1588 births]]
+[[Category:1672 deaths]]
+[[Category:Writers from Paris]]
+[[Category:17th-century French philosophers]]
+[[Category:17th-century French writers]]
+[[Category:17th-century French male writers]]
+[[Category:Members of the Académie Française]]
+[[Category:French male non-fiction writers]]

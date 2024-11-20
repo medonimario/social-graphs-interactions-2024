@@ -1,0 +1,306 @@
+{{Short description|English scientist and theologian (1794 – 1866)}}
+{{redirect|Whewell}}
+{{Use dmy dates|date=September 2020}}
+{{Use British English|date=March 2012}}
+{{Infobox officeholder
+| honorific_prefix  = [[The Reverend]]
+| name              = William Whewell
+| honorific_suffix  = {{post-nominals|country=GBR|FRS|FGS|FRSE|size=100%}}
+| image             = Portrait of W. Whewell; stipple engraving Wellcome L0014766.jpg
+| image_size        = 
+| office = [[List of masters of Trinity College, Cambridge|Master of Trinity College]]
+| term_start = 1841
+| term_end = 1866
+| predecessor = [[Christopher Wordsworth (divine)|Christopher Wordsworth]]
+| successor = [[William Hepworth Thompson]]
+| birth_date        = {{birth date|1794|05|24|df=y}}
+| birth_place       = [[Lancaster, England|Lancaster]], [[Lancashire]], [[England]]
+| death_date        = {{death date and age|1866|03|06|1794|05|24|df=y}}
+| death_place       = [[Cambridge]], [[Cambridgeshire]], England
+| known_for         = Coining the words ''[[Scientist#19th century|scientist]]'' and ''[[physicist]]''<br>[[Consilience]]
+| module = {{infobox scientist
+| embed             = yes
+| field             = [[Polymath]], [[philosopher]], [[theologian]]
+| work_institutions = [[Trinity College, Cambridge]]
+| alma_mater        = [[Trinity College, Cambridge]]
+| doctoral_advisor  =
+| doctoral_students = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| prizes            = [[Smith's Prize]] <small>(1816)</small><br>[[Royal Medal]] {{small|(1837)}}
+| footnotes         =  
+}}
+}}
+'''William Whewell''' {{post-nominals|country=GBR|FRS|FGS|FRSE}} ({{IPAc-en|ˈ|h|juː|əl}} {{respell|HEW|əl}}; 24 May 1794{{snd}}6 March 1866) was an [[English people|English]] [[polymath]], [[scientist]], [[Anglican]] [[priest]], [[philosopher]], [[theologian]], and [[History of science|historian of science]]. He was Master at [[Trinity College, Cambridge]].  In his time as a student there, he achieved distinction in both [[poetry]] and [[mathematics]].
+
+The breadth of Whewell's endeavours is his most remarkable feature.   In a time of increasing specialization, Whewell belonged in an earlier era when [[natural philosophers]] investigated widely. He published work in [[mechanics]], [[physics]], [[geology]], [[astronomy]], and [[economics]], while also composing [[poetry]], writing a [[Bridgewater Treatise]], translating the works of [[Goethe]], and writing [[sermon]]s and [[Theology|theological]] tracts.  In [[mathematics]], Whewell introduced what is now called the [[Whewell equation]], defining the shape of a curve without reference to an arbitrarily chosen coordinate system. He also organized thousands of volunteers internationally to study [[ocean tides]], in what is now considered one of the first [[citizen science]] projects. He received the [[Royal Medal]] for this work in 1837.<ref name="Cooper">{{Cite book|last1=Cooper|first1=Caren|url=https://books.google.com/books?id=7wCxDQAAQBAJ&pg=PP3|title=Citizen Science: How Ordinary People are Changing the Face of Discovery|date=20 December 2016|isbn=9781468314144|pages=3–8|publisher=Overlook Press |author-link=Caren Cooper}}</ref>
+
+One of Whewell's greatest gifts to science was his word-smithing. He corresponded with many in his field and helped them come up with [[neologism]]s for their discoveries. Whewell coined, among other terms, [[scientist]],<ref>{{Cite book |last=Lewis |first=Christopher |title=Heat and Thermodynamics: A Historical Perspective |publisher=Greenwood Press|year=2007|isbn=978-0-313-33332-3|location=United States of America|pages=95|chapter=Chapter 5: Energy and Entropy: The Birth of Thermodynamics}}</ref> [[physicist]], [[linguistics]], [[consilience]], [[catastrophism]], [[Uniformitarianism (science)|uniformitarianism]], and [[astigmatism]];<ref>{{cite journal|year=2013|title=Evolution and impact of eye and vision terms in written English |url=http://oculistmd.wordpress.com/article/evolution-and-impact-of-eye-and-vision-terms-in-written-english/|journal=[[JAMA Ophthalmol.|JAMA Ophthalmology]]|volume=131|issue=12|pages=1625–31|doi=10.1001/jamaophthalmol.2013.917|pmid=24337558|vauthors=Leffler CT, Schwartz SG, Stackhouse R, Davenport B, Spetzler K|url-status=live|archive-url=https://web.archive.org/web/20141223122215/http://oculistmd.wordpress.com/article/evolution-and-impact-of-eye-and-vision-terms-in-written-english/|archive-date=2014-12-23}}</ref> he suggested to [[Michael Faraday]] the terms [[electrode]], [[ion]], [[dielectric]], [[anode]], and [[cathode]].<ref>{{cite web|url=http://chimie.scola.ac-paris.fr/sitedechimie/hist_chi/text_origin/faraday/Faraday-electrochem.htm |title=On Electrical Decomposition |year=1834 |access-date=2010-01-17 |publisher=Philosophical Transactions of the Royal Society |archive-url=https://web.archive.org/web/20110720203405/http://chimie.scola.ac-paris.fr/sitedechimie/hist_chi/text_origin/faraday/Faraday-electrochem.htm |archive-date=2011-07-20 |url-status=dead |last=Faraday |first=Michael }} In this article Faraday coins the words ''electrode'', ''[[anode]]'', ''[[cathode]]'', ''[[anion]]'', ''[[cation]]'', ''[[electrolyte]]'', and ''[[electrolyze]]''.</ref><ref name=":0">{{Cite book|last=Baigrie|first=Brian|title=Electricity and Magnetism: A Historical Perspective |publisher=Greenwood Press |year=2007 |isbn=978-0-313-33358-3 |location=United States of America|pages=86|chapter=Chapter 8: Forces and Fields}}</ref>
+
+Whewell died in Cambridge in 1866 as a result of a fall from his horse.
+
+==Early life, education and marriages==
+
+Whewell was born in [[Lancaster, Lancashire|Lancaster]], the son of John Whewell and his wife, Elizabeth Bennison.<ref>{{cite book|title=Biographical Index of Former Fellows of the Royal Society of Edinburgh 1783–2002|date=July 2006|publisher=The Royal Society of Edinburgh|isbn=978-0-902198-84-5|url=https://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp2.pdf|access-date=8 April 2019|archive-date=4 March 2016|archive-url=https://web.archive.org/web/20160304074135/https://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp2.pdf|url-status=dead}}</ref>
+His father was a master [[carpenter]], and wished him to follow his trade, but William's success in [[mathematics]] at [[Lancaster Royal Grammar School]] and [[Heversham Grammar School|Heversham]] [[grammar school]] won him an [[exhibition (scholarship)|exhibition]] (a type of scholarship) at [[Trinity College, Cambridge]] in 1812. He was the eldest of seven children having three brothers and three sisters born after him. Two brothers died as infants; the third died in 1812. Two of his sisters married; he corresponded with them in his career as a student and then a professor. His mother died in 1807, when Whewell was 13 years old. His father died in 1816, the year Whewell received his bachelor degree at Trinity College, but before his most significant professional accomplishments.<ref name=Douglas1881 />
+
+Whewell married, firstly, in 1841, Cordelia Marshall, daughter of [[John Marshall (industrialist)|John Marshall]]. Within days of his marriage, Whewell was recommended to be master of Trinity College in Cambridge, following [[Christopher Wordsworth (divine)|Christopher Wordsworth]]. Cordelia died in 1855. In 1858 he married again, to Everina Frances (née Ellis), widow of [[Affleck baronets|Sir Gilbert Affleck, 5th Baronet]] who had died in 1854.<ref>{{cite ODNB |id=29200|first=Richard|last=Yeo|title=Whewell, William}}</ref> He had no children.
+
+==Career==
+[[File:W Whewell slnsw.jpg|thumb|Portrait of William Whewell, c. 1863]]
+In 1814 he was awarded the [[Chancellor's Gold Medal]] for poetry.<ref>{{Citation|title=A Complete Collection of the English Poems which Have Obtained the Chancellor's Gold Medal in the University of Cambridge |publisher=W. Metcalfe |location=Cambridge|url=https://books.google.com/books?id=Gw6GyHofIIAC|author=University of Cambridge|year=1859}}</ref> He was [[Second Wrangler]] in 1816, President of the [[Cambridge Union Society]] in 1817, became fellow and tutor of his college.
+
+He was professor of [[mineralogy]] from 1828 to 1832 and [[Knightbridge Professor of Philosophy]] (then called "moral theology and casuistical divinity") from 1838 to 1855.<ref>{{acad|id=WHWL811W|name=Whewell, William}}</ref><ref name="EB1911">{{EB1911|inline=y|wstitle=Whewell, William|volume=28|page=587}}</ref> During the years as professor of philosophy, in 1841, Whewell succeeded [[Christopher Wordsworth (Trinity)|Christopher Wordsworth]] as master.
+
+Whewell influenced the syllabus of the [[Mathematical Tripos]] at Cambridge, which undergraduates studied. He was a proponent of 'mixed mathematics': [[applied mathematics]], [[descriptive geometry]] and [[mathematical physics]], in contrast with [[pure mathematics]]. Under Whewell, analytic topics such as [[elliptical integrals]] were replaced by physical studies of electricity, heat and magnetism. He believed an intuitive geometrical understanding of mathematics, based on Euclid and Newton, was most appropriate.<ref name="Maths Today">{{cite magazine|title=The Venn Behind the Diagram|last=Verburgt|first=Lukas M.|volume=59|issue=2|date=April 2023|pages=53–55|magazine=Mathematics Today|publisher=[[Institute of Mathematics and its Applications]]}}</ref>
+
+==Death and legacy==
+Whewell died in Cambridge in 1866 as a result of a fall from his horse.<ref>GRO Register of Deaths: MAR 1866 3b 353 CAMBRIDGE – William Whewell, aged 71</ref> He was buried in the chapel of Trinity College, Cambridge, whilst his wives are buried together in the [[Mill Road Cemetery, Cambridge]]. A window dedicated to Lady Affleck, his second wife, was installed in her memory in the chancel of [[All Saints' Church, Cambridge]] and made by [[Morris & Co.]]
+
+A list of his writings was prepared after his death by [[Isaac Todhunter]] in two volumes, the first being an index of the names of persons with whom Whewell corresponded.<ref>{{cite book |first=Isaac |last=Todhunter |author-link=Isaac Todhunter |title=William Whewell: An Account of his Writings, with a selection from his literary and scientific correspondence |location=London |publisher=Macmillan |year=1876 |url=https://archive.org/stream/williamwhewelld01whewgoog#page/n6/mode/2up |volume=1 }}</ref><ref>{{cite book |first=Isaac |last=Todhunter |title=William Whewell: An Account of his Writings, with a selection from his literary and scientific correspondence |location =London |publisher=Macmillan |year=1876 |url=https://archive.org/stream/williamwhewelld03whewgoog#page/n6/mode/2up |volume=2 }}</ref> Another book was published five years later, as a biography of Whewell's life interspersed with his letters to his father, his sisters, and other correspondence, written and compiled by his niece by marriage, Janet Mary Douglas, called Mrs Stair Douglas on the book's title page.<ref name=Douglas1881>{{cite book |first=Janet Mary |last=Douglas |title=The Life and Selections from the Correspondence of William Whewell, D.D. |location=London |publisher=C. Kegan Paul & Co. |year=1881 |url=https://archive.org/stream/lifeselectionsfr00dougrich#page/n7/mode/2up }}</ref> These books are available online in their entirety as part of the Internet Archive.
+
+==Endeavours==
+
+===History and development of science===
+[[File:William Whewell.jpg|thumb|right|William Whewell, {{circa|1860s}}]]
+In 1826 and 1828, Whewell was engaged with [[George Biddell Airy|George Airy]] in conducting experiments in [[Dolcoath mine]] in [[Cornwall]], in order to determine the [[density]] of the earth. Their united labours were unsuccessful, and Whewell did little more in the way of [[experimental science]]. He was the author, however, of an ''Essay on Mineralogical Classification'', published in 1828, and carried out extensive work on the tides.<ref>{{cite book |last = Whewell |first= William |title= Essay on Mineralogical Classification and Nomenclature; with tables with the Orders and Species of Minerals |place= Cambridge |publisher= Printed by J. Smith, Printer to the University |year= 1828 |url= https://books.google.com/books?id=dloPAAAAYAAJ&pg=PP11 |via= Google Books |accessdate= 21 July 2023}}</ref><ref name="EB1911"/>
+
+When Whewell started his work on [[tides]], there was a theory explaining the forces causing the tides, based on the work of [[Isaac Newton|Newton]], [[Daniel Bernoulli|Bernoulli]], and [[Pierre-Simon Laplace|Laplace]]. But this explained the forces, not how tides actually propagated in oceans bounded by continents. There was a series of tidal observations for a few ports, such as [[Port of London|London]] and [[Port of Liverpool|Liverpool]], which allowed tide tables to be produced for these ports. However the methods used to create such tables, and in some cases the observations, were closely guarded trade secrets. [[Sir John Lubbock, 3rd Baronet|John Lubbock]], a former student of Whewell's, had analysed the available historic data (covering up to 25 years) for several ports to allow tables to be generated on a theoretical basis, publishing the methodology.<ref>{{cite journal |last1=Lubbock |first1=John William |title=On the tides in the Port of London |journal=Philosophical Transactions of the Royal Society of London |date=1831 |volume=121 |pages=379–415 |url=https://archive.org/details/lubbock-1831-philosophicaltra-1221roya}}</ref><ref>{{cite journal |last1=Lubbock |first1=John William |title=On the tides |journal=Philosophical Transactions of the Royal Society of London |date=1837 |volume=127 |pages=97–140 |url=https://archive.org/details/jstor-108092}}</ref> This work was supported by [[Francis Beaufort]], [[Hydrographer of the Navy]], and contributed to the publication of the ''Admiralty Tide Tables'' starting in 1833.<ref name="Friendly">{{cite book |last1=Friendly |first1=Alfred |title=Beaufort of the Admiralty. The life of Sir Francis Beaufort 1774–1857 |date=1977 |publisher=Random House |location=New York |isbn=0-394-41760-7 |pages=294–295}}</ref>
+
+Whewell built on Lubbock's work to develop an understanding of tidal patterns around the world that could be used to generate predictions for many locations without the need for long series of tidal observations at each port. This required extensive new observations, initially obtained through an informal network, and later through formal projects enabled by Beaufort at the Admiralty. In the first of these, in June 1834, every Coast Guard station in the United Kingdom recorded the tides every fifteen minutes for two weeks.<ref name="Reidy">{{cite book |last1=Reidy |first1=M.S. |title=Tides of History: Ocean Science and Her Majesty's Navy |date=2009 |publisher=University of Chicago Press |isbn=9780226709338}}</ref>{{rp|169–173}} The second, in June 1835, was an international collaboration, involving Admiralty Surveyors, other Royal Navy and British observers, as well as those from the [[United States]], [[France]], [[Spain]], [[Portugal]], [[Belgium]], [[Denmark]], [[Norway]], and the [[Netherlands]]. Islands, such as the [[Channel Islands]], were particularly interesting, adding important detail of the progress of the tides through the ocean. The Admiralty also provided the resources for data analysis, and J.F. Dessiou, an expert calculator on the Admiralty staff, was in charge of the calculations.{{r|"Reidy"|pages=175–182}}
+
+[[File:Whewell tidal chart Britain and Ireland 1836 amphidromic point southern North Sea.jpg|thumb|Part of Whewell's cotidal chart of 1836 showing the predicted no-tide area in the southern North Sea<ref name="Whewell1836">{{cite journal |last1=Whewell |first1=William |title=Researches on the tides, sixth series. On the results of an extensive system of tide observations made on the coasts of Europe and America in June 1835 |journal=Philosophical Transactions of the Royal Society of London |date=1836 |volume=126 |pages=289–341 |url=https://archive.org/details/jstor-108036}}</ref>]]Whewell made extensive use of graphical methods, and these became not just ways of displaying results, but tools in the analysis of data.{{r|"Reidy"|page=182}} He published a number of maps showing [[cotidal line]]s (a term coined by Lubbock) – lines joining points where high tide occurred at the same time. These allowed a graphical representation of the progression of tidal waves through the ocean. From this, Whewell predicted that there should be a place where there was no tidal rise or fall in the southern part of the North Sea.<ref name="Whewell1836"/> Such a "no-tide zone" is now called an [[amphidromic point]]. In 1840, the naval surveyor [[William Hewett (died 1840)|William Hewett]] confirmed Whewell's prediction. This involved anchoring his ship, HMS ''Fairy'', and taking repeated soundings at the same location with [[Depth sounding|lead and line]], precautions being needed to allow for irregularities in the sea bed, and the effects of tidal flow. The data showed a rise of no more than {{convert|1|foot|m}}.<ref>{{cite journal |last1=Hewett |first1=William |title=Tide observations in the North Sea |journal=The Nautical Magazine |date=1841 |pages=180–183 |url=https://archive.org/details/199-1841-hewett-fairy-the-nautical-magazine-1841}}</ref><ref name="Cartwright2000">{{cite book | first1 = David Edgar |last1=Cartwright | date = 17 August 2000 | title = Tides: A Scientific History | edition =  | publisher = Cambridge University Press | pages = | isbn = 978-0-521-79746-7 | oclc = 1001932580 }}</ref>  
+
+Whewell published about 20 papers over a period of 20 years on his tidal researches. This was his major scientific achievement, and was an important source for his understanding of the process of scientific enquiry, the subject of one of his major works ''Philosophy of the Inductive Sciences''.
+
+His best-known works are two voluminous books that attempt to systematize the development of the sciences, ''History of the Inductive Sciences'' (1837) and ''The Philosophy of the Inductive Sciences, Founded Upon Their History'' (1840, 1847, 1858–60).  While the ''History'' traced how each branch of the sciences had evolved since antiquity, Whewell viewed the ''Philosophy'' as the "Moral" of the previous work as it sought to extract a [[Universal (metaphysics)|universal]] [[theory of knowledge]] through history.
+
+In the latter, he attempted to follow [[Francis Bacon (philosopher)|Francis Bacon]]'s plan for discovery. He examined ideas ("explication of conceptions") and by the "colligation of facts" endeavored to unite these ideas with the facts and so construct science.<ref name="EB1911"/> This colligation is an "act of thought", a mental operation consisting of bringing together a number of empirical facts by "superinducing" upon them a conception which unites the facts and renders them capable of being expressed in general laws.<ref>L.J. Snyder, entry: "W. Whewell" in "Stanford Encyclopedia of Philosophy".</ref> Whewell refers to as an example [[Johannes Kepler|Kepler]] and the discovery of the elliptical orbit: the orbit's points were ''colligated'' by the ''conception'' of the ellipse, not by the discovery of new facts. These conceptions are not "innate" (as in Kant), but being the fruits of the "progress of scientific thought (history) are unfolded in clearness and distinctness".<ref>W. Whewell "The Philosophy of the Inductive Sciences, Founded Upon Their History" (1860, 373), London J.W. Parker.</ref>
+
+===Whewell's three steps of induction===
+Whewell analyzed [[inductive reasoning]] into three steps:
+* The selection of the (fundamental) idea, such as space, number, cause, or likeness (resemblance);
+* The formation of the conception, or more special modification of those ideas, as a circle, a uniform force, etc.; and,
+* The determination of magnitudes.<ref name="EB1911"/>
+
+Upon these follow special methods of induction applicable to quantity: the method of curves, the method of means, the method of least squares and the method of residues, and special methods depending on resemblance (to which the transition is made through the law of continuity), such as the method of gradation and the method of natural classification.<ref name="EB1911"/> In ''Philosophy of the Inductive Sciences'' Whewell was the first to use the term "[[consilience]]" to discuss the unification of knowledge between the different branches of learning.
+
+===Opponent of English empiricism===
+Here, as in his [[ethics|ethical]] doctrine, Whewell was moved by opposition to contemporary [[Empiricism|English empiricism]]. Following [[Immanuel Kant]], he asserted against [[John Stuart Mill]] the ''[[A priori and a posteriori|a priori]]'' nature of [[Logical truth|necessary truth]], and by his rules for the construction of conceptions he dispensed with the [[Mill's Methods|inductive methods of Mill]].<ref name="EB1911"/> Yet, according to [[Laura J. Snyder]], "surprisingly, the received view of Whewell's methodology in the 20th century has tended to describe him as an anti-inductivist in the [[Popperian]] mold, that is it is claimed that Whewell endorses a 'conjectures and refutations' view of scientific discovery. Whewell explicitly rejects the hypothetico-deductive claim that hypotheses discovered by non-rational guesswork can be confirmed by [[consequentialist]] testing. Whewell explained that new hypotheses are 'collected from the facts' (Philosophy of Inductive Sciences, 1849, 17)".<ref>L.J. Snyder, entry: "Whewell" in "Stanford Encyclopedia of Philosophy".</ref> In sum, the [[scientific discovery]] is a partly [[Empirical evidence|empirical]] and partly [[Rationality|rational]] process; the "discovery of the conceptions is neither guesswork nor merely a matter of observations", we infer more than we see.<ref>W. Whewell "The History of Scientific Ideas", 1858, I, 46, two volumes, London: John W. Parker.</ref>
+
+===Whewell's neologisms===
+One of Whewell's greatest gifts to science was his wordsmithing. He often corresponded with many in his field and helped them come up with [[neologism|new terms]] for their discoveries.  In fact, Whewell came up with the term ''[[scientist]]'' itself in 1833, and it was first published in Whewell's anonymous 1834 review of [[Mary Somerville]]'s ''[[On the Connexion of the Physical Sciences]]'' published in the ''[[Quarterly Review]]''.<ref name=Ross1962>{{Cite journal| author = Ross, Sydney | year = 1962 | title = Scientist: The story of a word | journal = [[Annals of Science]] | volume = 18 | issue = 2 | pages = 65–85 | doi = 10.1080/00033796200202722| doi-access = free }} To be exact, the person coined the term ''scientist'' was referred to in Whewell 1834 only as "some ingenious gentleman". Ross added a comment that this "some ingenious gentleman" was Whewell himself, without giving the reason for the identification. Ross 1962, p.72.</ref> (They had previously been known as "natural philosophers" or "men of science").
+
+==Work in college administration==
+[[File:Statue of William Whewell at Trinity College, Cambridge.jpg|thumb|Statue of Whewell by [[Thomas Woolner]] in [[Trinity College Chapel, Cambridge]] ]]
+Whewell was prominent not only in scientific research and philosophy but also in [[university]] and college administration. His first work, ''An Elementary Treatise on Mechanics'' (1819), cooperated with those of [[George Peacock (mathematician)|George Peacock]] and [[John Herschel]] in reforming the Cambridge method of mathematical teaching. His work and publications also helped influence the recognition of the moral and natural sciences as an integral part of the Cambridge curriculum.<ref name="EB1911"/>
+
+In general, however, especially in later years, he opposed reform: he defended the [[tutorial system]], and in a controversy with [[Connop Thirlwall]] (1834), opposed the admission of [[Dissenter]]s; he upheld the clerical fellowship system, the privileged class of "fellow-commoners", and the authority of heads of colleges in university affairs.<ref name="EB1911"/>
+
+He opposed the appointment of the University Commission (1850) and wrote two pamphlets (''Remarks'') against the reform of the university (1855). He stood against the scheme of entrusting elections to the members of the senate and instead, advocated the use of college funds and the [[subvention]] of scientific and professorial work.<ref name="EB1911"/>
+
+He was elected [[Master of Trinity College]], Cambridge in 1841, and retained that position until his death in 1866.
+
+The [[Whewell Professorship of International Law]] and the Whewell Scholarships were established through the provisions of his will.<ref>{{cite book |title=Statutes and Ordinances of the University of Cambridge |publisher=Cambridge University Press |year=2009 |pages=49–50 |url=https://books.google.com/books?id=JSi0S7aH320C&pg=PA49 |isbn=9780521137454}}</ref><ref>William Whewell laid in his will: "an earnest and express injunction on the occupant of this chair that he should make it his aim in all parts of his treatment of the subject, to lay down such rules and suggest such measures as might tend to diminish the evils of war and finally to extinguish war among nations. See {{cite book |title= Whewell Lectures, International Law, A Series of Lectures Delivered before the University of Cambridge, 1887   |last=Maine   |first=Henry Sumner |year= 1888 |publisher=John Murray  |location=London |edition=1 |page=1 |url=https://archive.org/stream/internationallaw00mainiala#page/n13/mode/2up}} via Internet Archive</ref>
+
+==Whewell's interests in architecture==
+Aside from Science, Whewell was also interested in the [[history of architecture]] throughout his life.  He is best known for his writings on [[Gothic architecture]], specifically his book, ''Architectural Notes on German Churches'' (first published in 1830).  In this work, Whewell established a strict nomenclature for German Gothic churches and came up with a theory of stylistic development.  His work is associated with the "scientific trend" of architectural writers, along with [[Thomas Rickman]] and [[Robert Willis (architect)|Robert Willis]].
+
+He paid from his own resources for the construction of two new courts of rooms at Trinity College, [[Cambridge]], built in a [[Gothic style]].  The two courts were completed in 1860 and (posthumously) in 1868, and are now collectively named [[Trinity College, Cambridge#Other courts|Whewell's Court]] (in the singular).
+
+==Whewell's works in philosophy and morals==
+[[File:William Whewell portrait.jpg|thumb|180px|Portrait by [[James Lonsdale (painter)|James Lonsdale]]]]
+Between 1835 and 1861 Whewell produced various works on the philosophy of [[moral]]s and [[politics]], the chief of which, ''Elements of Morality'', including ''Polity'', was published in 1845. The peculiarity of this work—written from what is known as the [[Intuition (knowledge)|intuitional point of view]]—is its fivefold division of the springs of action and of their objects, of the primary and [[Natural rights and legal rights|universal rights of man]] (personal security, property, contract, family rights, and government), and of the cardinal virtues ([[wikt:benevolence|benevolence]], [[justice]], [[truth]], [[wiktionary:Purity|purity]] and [[Social order|order]]).<ref name="EB1911"/>
+
+Among Whewell's other works—too numerous to mention—were popular writings such as:  
+* the third ''[[Bridgewater Treatise]]'', ''Astronomy and General Physics considered with reference to Natural Theology''  (1833),
+* the two volumes treatise ''The Philosophy of the Inductive Sciences: Founded Upon Their History'' (1840),<ref>''The Philosophy of the Inductive Sciences: Founded Upon Their History'', [https://books.google.com/books?id=Fe8TAAAAQAAJ&pg=PR1 Volume 1]</ref><ref>''The Philosophy of the Inductive Sciences: Founded Upon Their History'', [https://books.google.com/books?id=Ujg6AAAAMAAJ&pg=PR1 Volume 2]</ref> 
+* the essay ''Of the Plurality of Worlds'' (1853), in which he argued against the [[probability]] of [[Extraterrestrial life|life on other planets]], 
+* the ''[[Plato]]nic Dialogues for English Readers'' (1850–1861), 
+* the ''Lectures on the History of Moral Philosophy in England'' (1852), 
+* the essay, ''Of a Liberal Education in General, with particular reference to the Leading Studies of the University of Cambridge'' (1845), 
+* the important edition and abridged translation of [[Hugo Grotius]], ''[[De jure belli ac pacis]]'' (1853),<ref>''Grotius on the Right of War and Peace, An Abridged Translation by William Whewell'', Cambridge: At the University Press, 1853 [https://archive.org/stream/onrightsofwarpea00grotuoft#page/n7/mode/2up at Internet Archive]</ref> and 
+* the edition of the ''Mathematical Works'' of [[Isaac Barrow]] (1860).<ref>''The Mathematical Works of Isaac Barrow, D.D., edited for Trinity College by W. Whewell'', Cambridge: At University Press, 1860, [https://archive.org/stream/mathematicalwor00whewgoog#page/n4/mode/2up at Internet Archive]</ref><ref name="EB1911"/>
+
+Whewell was one of the Cambridge [[University don|don]]s whom [[Charles Darwin]] met during [[Charles Darwin's education|his education there]], and when Darwin returned from [[Second voyage of HMS Beagle|the ''Beagle'' voyage]] he was directly influenced by Whewell, who persuaded Darwin to become secretary of the [[Geological Society of London]]. The title pages of ''[[On the Origin of Species]]'' open with a quotation from Whewell's ''Bridgewater Treatise'' about science founded on a [[natural theology]] of a creator establishing laws:<ref>{{Citation
+ | surname     = Darwin
+ | given       = Charles
+ | author-link  = Charles Darwin
+ | year        = 1859
+ | title       = On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life
+ | publisher   = London: John Murray
+ | url         = http://darwin-online.org.uk/content/frameset?itemID=F373&viewtype=text&pageseq=7 }} ([[The Origin of Species]] page ii.) Retrieved on 5 January 2007</ref>
+
+<blockquote>But with regard to the material world, we can at least go so far as this—we can perceive that events are brought about not by insulated interpositions of Divine power, exerted in each particular case, but by the establishment of general laws.</blockquote>
+
+Though Darwin used the concepts of Whewell as he made and tested his hypotheses regarding the [[theory of evolution]], Whewell did not support Darwin's theory itself.
+
+"Whewell also famously opposed the idea of evolution. First he published a new book, ''Indications of the Creator'', 1845, composed of extracts from his earlier works to counteract the popular anonymous evolutionary work ''Vestiges of the Natural History of Creation''. Later Whewell opposed Darwin's theories of evolution."<ref>{{cite web |url=https://victorianweb.org/science/whewell.html |title=William Whewell (1794–1866) gentleman of science |first=John |last=van Wyhe |author-link=John van Wyhe |work=Victorian Web |access-date=21 September 2021 }}</ref>
+
+===Works by Whewell===
+
+* (1830) {{cite book |title=Architectural Notes on German Churches: With Remarks on the Origin of Gothic Architecture |year=1830 |place=Cambridge |publisher= J. & J.J. Deighton |url=https://archive.org/details/whewell-1830-architectural-notes-on-german-churches}} [https://archive.org/details/architecturalnot00whewrich New edition 1835.] [https://archive.org/details/architecturalnot00whew_0 Third edition 1842.]
+* (1831) {{cite journal|title=Review of J. Herschel's ''Preliminary discourse on the study of Natural Philosophy''|date=July 1831|journal=The Quarterly Review|volume=45|issue=90|pages=374–407|url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112067688009;view=1up;seq=330}}
+* (1833) [https://archive.org/details/bridgewatertreat03whewuoft ''Astronomy and general physics considered with reference to Natural Theology''] (Bridgewater Treatise). Cambridge.
+* (1836) [https://archive.org/stream/elementarytreati00whew#page/n5/mode/2up Elementary Treatise on Mechanics, 5th edition], first edition 1819.
+* (1837) [https://catalog.hathitrust.org/Record/009728861 ''History of the Inductive Sciences, from the Earliest to the Present Times'']. 3 vols, London. [https://archive.org/details/historyinductiv24whewgoog Volume 1], [https://archive.org/details/historyinductiv31whewgoog/page/ volume 2], [https://archive.org/details/historyinductiv22whewgoog volume 3]. 2nd ed 1847 (2 vols). 3rd ed 1857 (2 vols). 1st German ed 1840–41.
+* (1837) [https://catalog.hathitrust.org/Record/001733760 ''On the Principles of English University Education'']. London, 1837.<ref>{{cite journal|title=Review of ''On the Principles of English University Education'' by William Whewell|journal=The Quarterly Review|date=October 1837|volume=59|pages=439–483|url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015074711311;view=1up;seq=449}}</ref>
+* (1840) ''[https://archive.org/details/philosophyinduc00goog The Philosophy of the Inductive Sciences, founded upon their history]''. 2 vols, London. 2nd ed 1847. [https://books.google.com/books?id=um85AAAAcAAJ Volume 1]. [https://archive.org/details/philosophyinduc02whewgoog Volume 2].
+* (1845) ''The Elements of Morality, including polity''. 2 vols, London. [https://archive.org/details/elementsofmorali01whewuoft Volume 1]   [https://archive.org/details/elementsofmorali02whewuoft Volume 2].
+* (1845) ''Indications of the Creator, Extracts bearing upon Theology from The History and Philosophy of the Inductive Sciences,'' London'','' 1st Ed, 1845.
+* (1846) ''Lectures on systematic Morality''. London.
+* (1849) [https://archive.org/details/inductionwithes00whewgoog ''Of Induction, with especial reference to Mr. J. Stuart Mill's System of Logic''. London.]
+* (1850) Mathematical exposition of some doctrines of political economy: a second memoir. ''Transactions of the Cambridge Philosophical Society'' '''9''':128–49.
+* (1852) [https://archive.org/details/lecturesonhisto00whewgoog ''Lectures on the history of Moral Philosophy'']. Cambridge: Cambridge University Press.
+* (1853) ''Hugonis Grotii de jure belli et pacis libri tres : accompanied by an abridged translation by William Whewell'', London: John W. Parker, [https://archive.org/details/hugonisgrotiide00barbgoog volume 1], [https://archive.org/details/dejurebellietpac02grotuoft volume 2], [https://archive.org/details/dejurebellietpac03grotuoft volume 3].
+* (1853) ''Of the Plurality of Worlds.'' London.
+* (1857) Spedding's complete edition of the works of Bacon. ''Edinburgh Review'' '''106''':287–322.
+* (1858a) ''The history of scientific ideas''. 2 vols, London.
+* (1858b) ''Novum Organon renovatum'', London.
+* (1860a) [https://archive.org/details/in.ernet.dli.2015.96365 ''On the philosophy of discovery: chapters historical and critical'']. London.
+* (1861) ''Plato's Republic'' (translation). Cambridge.
+* (1862) [https://archive.org/stream/sixlecturesonpol00whewuoft#page/n5/mode/2up ''Six Lectures on Political Economy'', Cambridge.]
+* (1862) [https://books.google.com/books?id=PM4GAAAAcAAJ ''Additional Lectures on the History of Moral Philosophy''], Cambridge.
+* (1866) Comte and Positivism. [https://archive.org/details/macmillansmagazi13macmuoft ''Macmillan's Magazine'' '''13''']:353–62.
+
+==Honors and recognitions==
+
+*Foreign Honorary Member of the [[American Academy of Arts and Sciences]] (1847)<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter W|url=http://www.amacad.org/publications/BookofMembers/ChapterW.pdf|publisher=American Academy of Arts and Sciences}}</ref>
+* The debating society at [[Lancaster Royal Grammar School]] is named the Whewell Society in honor of Whewell being an Old Lancastrian.
+* The crater [[Whewell (crater)|Whewell]] on the [[Moon]]
+* The [[Gothic architecture|Gothic]] buildings known as Whewell's Court in [[Trinity College, Cambridge]]
+* The Whewell Mineral Gallery in the [[Sedgwick Museum of Earth Sciences]], Cambridge<ref>{{Cite web | url=http://www.sedgwickmuseum.org/index.php?page=whewell-mineral-gallery |title = Sedgwick Museum of Earth Sciences – Whewell Mineral Gallery}}</ref>
+* The mineral [[whewellite]]
+
+==In fiction==
+In the 1857 novel ''[[Barchester Towers]]''  Charlotte Stanhope uses the topic of the theological arguments, concerning the possibility of intelligent life on other planets, between Whewell and [[David Brewster]] in an attempt to start up a conversation between her impecunious brother and the wealthy young widow Eleanor Bold.<ref>{{cite book|editor1-last=Bowen|editor1-first=John|title=Barchester Towers|date=2014|publisher=Oxford University Press|page=452|chapter=Explanatory notes|isbn=9780199665860}}</ref>
+
+==See also==
+* [[Catastrophism]]
+* [[Uniformitarianism]]
+* [[Francis Henry Egerton, 8th Earl of Bridgewater|Earl of Bridgewater]] for other ''Bridgewater Treatise''
+* [[Law of three stages]] for Whewell's opposition to Auguste Comte's [[positivism]]
+* [[Michael Faraday]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{Citation|pmid = 11832919|last=Heilbron|first=J. L.|publication-date=7 February 2002|year=2002|title=Coming to terms|volume=415|issue=6872|periodical=[[Nature (journal)|Nature]]|pages=585|doi = 10.1038/415585a|s2cid=5407465|doi-access=free}}
+*{{Citation|pmid = 11615935|last=Losee|first=J.|publication-date=Jun 1983|year=1983|title=Whewell and Mill on the relation between philosophy of science and history of science|volume=14|issue=2|periodical=Studies in History and Philosophy of Science|pages=113–126|doi = 10.1016/0039-3681(83)90016-X|bibcode=1983SHPSA..14..113L}}
+*Fisch, M. (1991), ''William Whewell Philosopher of Science,'' Oxford: Oxford University Press.
+*Fisch, M. and Schaffer S. J. (eds.) (1991), ''William Whewell: A Composite Portrait,'' Oxford: Oxford University Press.
+*{{cite book |last=Henderson |first=James P. |title=Early Mathematical Economics: William Whewell and the British Case |location=Lanham |publisher=Rowman & Littlefield |year=1996 |isbn=978-0-8476-8201-0 }}
+*{{Citation|pmid = 11622706|last=Metcalfe|first=J. F.|publication-date=Mar 1991|year=1991|title=Whewell's developmental psychologism: a Victorian account of scientific progress|volume=22|issue=1|periodical=Studies in History and Philosophy of Science|pages=117–139|doi = 10.1016/0039-3681(91)90017-M|bibcode=1991SHPSA..22..117M}}
+*{{Citation|last=Morrison|first=M.|year=1997|title=Whewell on the ultimate problem of philosophy|volume=28|issue=3|periodical=Studies in History and Philosophy of Science Part A|pages=417–437|doi = 10.1016/S0039-3681(96)00028-3|bibcode=1997SHPSA..28..417M}}
+*{{Citation|pmid = 11615591|last=Ruse|first=M.|publication-date=Jun 1975|year=1975|title=Darwin's debt to philosophy: an examination of the influence of the philosophical ideas of John F. W. Herschel and William Whewell on the development of Charles Darwin's theory of evolution|volume=6|issue=2|periodical=Studies in History and Philosophy of Science|pages=159–181|doi = 10.1016/0039-3681(75)90019-9|bibcode=1975SHPSA...6..159R}}
+*{{Citation|last=Sandoz|first=R.|year=2016|title=Whewell on the classification of the sciences|volume=60|periodical=Studies in History and Philosophy of Science Part A|pages=48–54|doi = 10.1016/j.shpsa.2016.10.001|pmid=27938721|bibcode=2016SHPSA..60...48S|url=https://zenodo.org/record/896550|doi-access=free}}
+*{{Citation|last=Schipper|first=F.|year=1988|title=William Whewell's conception of scientific revolutions|volume=19|issue=1|periodical=Studies in History and Philosophy of Science Part A|pages=43–53|doi = 10.1016/0039-3681(88)90019-2|bibcode=1988SHPSA..19...43S}}
+*{{Citation|last=Snyder|first=Laura J.|year=2006|title=Reforming Philosophy: A Victorian Debate on Science and Society|publisher=The University of Chicago Press|location=Chicago}}. Includes an extensive bibliography.
+*{{Citation|last=Snyder|first=Laura J.|year=2011|title=The Philosophical Breakfast Club|publisher=Broadway Books|location=New York}}.
+* Whewell, W., ''Astronomy and General Physics Considered with Reference to Natural Theology''; Bridgewater Treatises, W. Pickering, 1833 (reissued by [[Cambridge University Press]], 2009; {{ISBN|978-1-108-00012-3}})
+* Whewell, W., ''Of the Plurality of Worlds. An Essay''; J. W. Parker and son, 1853 (reissued by [[Cambridge University Press]], 2009; {{ISBN|978-1-108-00018-5}})
+*{{cite ODNB|first=Richard|last= Yeo|title=Whewell, William (1794–1866)|id=29200}}
+*Yeo, R. (1991), ''Defining Science: William Whewell, Natural Knowledge and Public Debate in Early Victorian Britain,'' Cambridge: Cambridge University Press.
+*[[:pl:Stefan Zamecki|Zamecki, Stefan]], ''Komentarze do naukoznawczych poglądów Williama Whewella (1794–1866):  studium historyczno-metodologiczne'' [Commentaries to the [[logology (science of science)|Logological]] Views of William Whewell (1794–1866):  A Historical-Methodological Study], Warsaw, Wydawnictwa IHN PAN, 2012, {{ISBN|978-83-86062-09-6}}, English-language summary: pp.&nbsp;741–43.
+
+==External links==
+{{wikiquote}}
+{{commons category|William Whewell}}
+*[https://archive.org/details/philosinductsci01wewrich The philosophy of the inductive sciences, founded upon their history (1847) – Complete Text]
+*[https://www.rep.routledge.com/articles/whewell-william-1794-1886 William Whewell (1794–1866)] by [[Menachem Fisch]], from [https://www.rep.routledge.com/ The Routledge Encyclopedia of Philosophy]
+*[http://plato.stanford.edu/archives/sum2004/entries/whewell/ William Whewell] by [[Laura J. Snyder]], from [http://plato.stanford.edu/index.html Stanford Encyclopedia of Philosophy]
+*[http://www.ecn.bris.ac.uk/het/whewell/contents.htm Six Lectures] {{Webarchive|url=https://web.archive.org/web/20070205004526/http://www.ecn.bris.ac.uk/het/whewell/contents.htm |date=5 February 2007 }} from [https://web.archive.org/web/20050324032215/http://socserv2.socsci.mcmaster.ca/~econ/ugcm/3ll3/index.html Archive for the History of Economic Thought] – papers on mathematical economics as well as a set of introductory lectures
+*[https://web.archive.org/web/20050307063107/http://cepa.newschool.edu/het/profiles/whewell.htm William Whewell] from [https://web.archive.org/web/20050403173945/http://cepa.newschool.edu/het/index.htm History of Economic Thought]
+*[http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0016%2FWHEWELL Papers of William Whewell] {{Webarchive|url=https://web.archive.org/web/20190317235042/https://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0016%2FWHEWELL |date=17 March 2019 }}
+*[http://www.trin.cam.ac.uk/index.php?pageid=172 The Master of Trinity] at [[Trinity College, Cambridge]]
+*[http://www-history.mcs.st-andrews.ac.uk/history/Biographies/Whewell.html "William Whewell" at The MacTutor History of Mathematics archive]
+* {{cite episode |url=http://www.abc.net.au/radionational/programs/scienceshow/william-whewell---coined-osmosis,-conductivity,-ion-and-scient/9836922 |title=William Whewell – coined osmosis, conductivity, ion and scientist! |series=The Science Show |network=[[ABC News (Australia)]] |date=23 June 2018 |host=Sharon Carleton |type=mp3 podcast}}
+* {{Gutenberg author | id=38180}}
+* {{Internet Archive author |sname=William Whewell}}
+* {{NPG name}}
+* {{Find a Grave |id=  	21199 }}
+{{s-start}}
+{{s-aca}}
+{{succession box |
+  before=[[Christopher Wordsworth (Trinity)|Christopher Wordsworth]] |
+  title=[[List of masters of Trinity College, Cambridge|Master of Trinity College, Cambridge]] |
+  years=1841–1866 |
+  after=[[William Hepworth Thompson]]
+}}
+{{S-end}}
+{{philosophy of science}}
+{{philosophy of religion}}
+{{GLS Presidents}}
+{{Masters of Trinity College, Cambridge}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Whewell, William}}
+[[Category:1794 births]]
+[[Category:1866 deaths]]
+[[Category:19th-century British economists]]
+[[Category:19th-century English Anglican priests]]
+[[Category:19th-century English male writers]]
+[[Category:19th-century English essayists]]
+[[Category:19th-century English historians]]
+[[Category:19th-century British linguists]]
+[[Category:19th-century English mathematicians]]
+[[Category:19th-century English philosophers]]
+[[Category:19th-century English poets]]
+[[Category:19th-century English theologians]]
+[[Category:Action theorists]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Anglican philosophers]]
+[[Category:Architectural theoreticians]]
+[[Category:Deaths by horse-riding accident in England]]
+[[Category:English economists]]
+[[Category:English essayists]]
+[[Category:English historical school of economics]]
+[[Category:English logicians]]
+[[Category:English male writers]]
+[[Category:English philosophers]]
+[[Category:English theologians]]
+[[Category:Epistemologists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Historians of science]]
+[[Category:Masters of Trinity College, Cambridge]]
+[[Category:Metaphilosophers]]
+[[Category:Metaphysicians]]
+[[Category:Metaphysics writers]]
+[[Category:Ontologists]]
+[[Category:People educated at Heversham Grammar School]]
+[[Category:People educated at Lancaster Royal Grammar School]]
+[[Category:People from Lancaster, Lancashire]]
+[[Category:Philosophers of culture]]
+[[Category:Philosophers of economics]]
+[[Category:British philosophers of education]]
+[[Category:Philosophers of history]]
+[[Category:Philosophers of language]]
+[[Category:Philosophers of literature]]
+[[Category:Philosophers of logic]]
+[[Category:Philosophers of mathematics]]
+[[Category:Philosophers of mind]]
+[[Category:Philosophers of psychology]]
+[[Category:Philosophers of religion]]
+[[Category:Philosophers of science]]
+[[Category:Philosophers of social science]]
+[[Category:English political philosophers]]
+[[Category:Presidents of the Cambridge Union]]
+[[Category:Presidents of the Geological Society of London]]
+[[Category:Probability theorists]]
+[[Category:Rationalists]]
+[[Category:Royal Medal winners]]
+[[Category:Scientists from Lancashire]]
+[[Category:Second Wranglers]]
+[[Category:Social philosophers]]
+[[Category:Theorists on Western civilization]]
+[[Category:Vice-chancellors of the University of Cambridge]]
+[[Category:Writers about activism and social change]]
+[[Category:Writers about religion and science]]
+[[Category:Writers from Lancashire]]
+[[Category:Knightbridge Professors of Philosophy]]
+[[Category:Professors of Mineralogy (Cambridge)]]
+[[Category:Authors of the Bridgewater Treatises]]
+[[Category:Presidents of the Cambridge Philosophical Society]]

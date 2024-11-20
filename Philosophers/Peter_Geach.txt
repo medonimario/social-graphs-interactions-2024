@@ -1,0 +1,301 @@
+{{Short description|British philosopher (1916–2013)}}
+{{Use dmy dates|date=December 2013}}
+{{Use British English|date=August 2012}}
+{{Infobox philosopher
+| region = [[Western philosophy]]
+| era    = [[20th-century philosophy]]
+| name               = Peter Geach
+| honorific_suffix   = {{post-nominals|country=GBR|FBA|size=100%}}
+| image              = Philosopher_Peter_Geach_in_1990.jpg
+| alt                = 
+| caption            = Geach in 1990
+| birth_name         = Peter Thomas Geach
+| birth_date         = {{birth date|df=yes|1916|3|29}}
+| birth_place        = [[Metropolitan Borough of Chelsea|Chelsea]], [[County of London|London]], England
+| death_date         = {{death date and age|df=y|2013|12|21|1916|3|29}}
+| death_place        = [[Cambridge]], England
+| spouse             = {{marriage|[[G.&nbsp;E.&nbsp;M. Anscombe]]|1941|2001|reason=died}}{{sfn|Haldane|2000|p=1019}}
+| awards             = <!--notable national-level awards only-->
+| alma_mater         = [[Balliol College, Oxford]]
+| thesis_title       = 
+| thesis_url         =
+| thesis_year        = 
+| school_tradition   = [[Analytical Thomism]]
+| doctoral_advisor   = 
+| academic_advisors  = 
+| main_interests     = {{ubl | [[History of philosophy]] | [[Philosophical logic]] | [[Philosophy of religion]]}}
+| institutions       = {{ubl | [[University of Birmingham]] | [[University of Leeds]]}}
+| doctoral_students  = <!--only those with WP articles-->
+| notable_students   = <!--only those with WP articles-->
+| notable_works      = 
+| notable_ideas      = {{hlist | [[Analytical Thomism]] | [[Cambridge change]] | [[Frege–Geach problem]] | [[omnipotence paradox]]}}
+}}
+
+'''Peter Thomas Geach'''{{efn|Pronounced {{IPAc-en|ɡ|iː|tʃ}}}} {{post-nominals|country=GBR|FBA}} (29 March 1916 – 21 December 2013) was a British philosopher who was Professor of [[Logic]] at the [[University of Leeds]]. His areas of interest were [[philosophical logic]], [[ethics]], [[history of philosophy]], [[philosophy of religion]] and the theory of [[Identity (philosophy)|identity]].
+
+==Early life==
+Peter Geach was born in [[Metropolitan Borough of Chelsea|Chelsea]], [[County of London|London]], on 29 March 1916.{{sfnm |1a1=Geach |1y=1991 |1p=1 |2a1=Teichmann|2y=2017}} He was the only son of George Hender Geach and his wife Eleonora Frederyka Adolfina ''[[née]]'' Sgonina.{{sfnm |1a1=Geach |1y=1991 |2a1=Kenny |2y=2015}} His father, who was employed in the [[Indian Education Service|Indian Educational Service]], would go on to work as a professor of philosophy in [[Lahore]] and later as the principal of a teacher-training college in [[Peshawar District|Peshawar]].<ref name=":0">{{Cite news|last=O'Grady|first=Jane|date=2013-12-26|title=Peter Geach obituary|language=en-GB|work=The Guardian|url=https://www.theguardian.com/education/2013/dec/26/peter-geach|access-date=2020-11-02|issn=0261-3077}}</ref>{{sfn|Geach|1991}}
+
+His parents' marriage was unhappy and quickly broke up.{{sfn|Geach|1991|p=1}} Until the age of four, he lived with his maternal grandparents, who were [[Polish people|Polish]] immigrants, in [[Cardiff]].{{sfn|Geach|1991|p=1}} After this time he was placed in the care of a guardian (until his father returned to Britain) and contact with his mother and her parents ceased.{{sfn|Geach|1991|p=1}} He attended [[The Cathedral School, Llandaff|Llandaff Cathedral School]] in Cardiff and, later, [[Clifton College]].{{sfn|Muirhead|1948|p=448}}
+
+His father, who had studied with [[Bertrand Russell]] and [[G. E. Moore]] at Cambridge, taught him philosophy starting with logic.<ref>{{cite book|url=https://books.google.com/books?id=zTmcEAAAQBAJ&pg=PA44|page=44|title=The Creation of Wittgenstein: Understanding the Roles of Rush Rhees, Elizabeth Anscombe and Georg Henrik Von Wright|author=Thomas H. Wallgreen|publisher=[[Bloomsbury Publishing]]|year=2023|isbn=9781350121119}}</ref>
+
+In 1934 Geach won a scholarship to [[Balliol College, Oxford]], graduating in 1938 with [[first-class honours]] in ''[[literae humaniores]]''.<ref name="leeds2" />{{sfn|Kenny|2015|p=186}} At Oxford, he increasingly engaged in intellectual clashes with Catholics, through which he discovered the Catholic faith, later converting to the [[Roman Catholic Church]].{{sfnm |1a1=Geach |1y=1991 |1p=7 |2a1=Kenny |2y=2015 |2p=186}} He later described it:
+{{blockquote|I was certainly cleverer than they, but they had the immeasurable advantage that they were right—an advantage that they did not throw away by resorting to the bad philosophy and apologetics then sometimes taught in Catholic schools. One day my defences quite suddenly collapsed: I knew that if I were to remain an honest man I must seek instruction in the Catholic Religion. I was received into the Catholic Church on May 31, 1938.<ref>[https://www.commonwealmagazine.org/peter-geach-rip Schwenkler, John, "Peter Geach, R.I.P., Commonweal, December 24, 2013]</ref>}}
+
+==Academic career==
+Geach spent a year (1938–39)<ref name="leeds2" /> as a Gladstone Research Student, based at [[Gladstone's Library|St Deiniol's Library]], Hawarden.{{sfn|Kenny|2015|p=188}}
+
+Geach refused to join the British Army in the [[Second World War]] and, as a [[conscientious objector]], was employed in the war years in timber production.<ref>[https://www.thebritishacademy.ac.uk/documents/1529/09_Geach_1820.pdf The British Academy, Peter Thomas Geach by Anthony Kenny, page 188]</ref>  Though Geach himself recounts that he did later try, unsuccessfully, to join the [[Free Polish Army]].{{sfn|Geach|1991|p=12}}
+
+Following the end of the war in 1945, he undertook further research at [[University of Cambridge|Cambridge]].
+
+In 1951, Geach was appointed to his first substantive academic post, as assistant lecturer at the [[University of Birmingham]], going on to become [[Reader (academic rank)|Reader]] in Logic.  In 1966 Geach resigned in protest at the University’s decision to create an Institute of Contemporary Culture. In his resignation letter he said he had no wish to stay at a university which "preferred Pop Art to Logic".<ref>[https://www.thebritishacademy.ac.uk/documents/1529/09_Geach_1820.pdf The British Academy, Peter Thomas Geach by Anthony Kenny, page 195]</ref>   In the same year he was appointed Professor of Logic in the Department of [[Philosophy]] at the [[University of Leeds]].<ref name="leeds2" /><ref name=anscombe/> Geach retired from his Leeds chair in 1981 with the title [[Emeritus]] Professor of Logic.<ref name="leeds">{{cite web |title=Emeritus Professors |url=http://www.leeds.ac.uk/calendar/emeritus.htm |url-status=dead |location=Leeds |publisher=University of Leeds |archive-url=https://web.archive.org/web/20120926134723/http://www.leeds.ac.uk/calendar/emeritus.htm |archive-date=26 September 2012 |access-date=11 November 2017}}</ref>
+
+At various times Geach held [[visiting scholar|visiting professorships]] at the universities of [[Cornell University|Cornell]], [[University of Chicago|Chicago]], [[University of Michigan|Michigan]], [[University of Pennsylvania|Pennsylvania]], and [[University of Warsaw|Warsaw]].<ref name="leeds2">{{cite web |year=2014 |title=Emeritus Professor Peter T Geach, MA, FBA |url=https://www.leeds.ac.uk/secretariat/obituaries/2014/geach_peter.html |location=Leeds |publisher=University of Leeds |access-date=11 November 2017}}</ref>
+
+==Philosophical work==
+His early work includes the classic texts ''Mental Acts'' and ''Reference and Generality'', the latter defending an essentially modern conception of [[reference]] against medieval theories of supposition. His Catholic perspective was integral to his philosophy. He was perhaps the founder of [[analytical Thomism]] (though the current of thought running through his and [[G. E. M. Anscombe|Elizabeth Anscombe]]'s work to the present day was only ostensibly so named forty years later by [[John Haldane (philosopher)|John Haldane]]), the aim of which is to synthesise Thomistic and analytic approaches. Geach was a student and an early follower of [[Ludwig Wittgenstein]] whilst at the [[University of Cambridge]].<ref>{{cite magazine |last=Roberts |first=Sue |year=2014 |title=News |url=http://philosophynow.org/issues/100/News_January_February_2014 |url-access=limited |magazine=Philosophy Now |issue=100 |access-date=27 July 2020}}</ref>
+
+Geach defends the Thomistic position that human beings are essentially [[rationalism|rational]] animals, each one miraculously created. He dismissed [[Darwinistic]] attempts to regard reason as inessential to humanity, as "mere sophistry, laughable, or pitiable." He repudiated any capacity for [[Animal language|language in animals]] as mere "association of manual signs with things or performances."{{sfn|Murray|2002}}
+
+Geach dismissed both pragmatic and epistemic conceptions of truth, commending a version of the [[correspondence theory of truth|correspondence theory]] proposed by [[Thomas Aquinas]]. He argues that there is one reality rooted in God himself, who is the ultimate truthmaker. God, according to Geach, ''is'' truth. While they lived, he saw [[Willard Van Orman Quine|W.&nbsp;V. Quine]] and [[Arthur Prior]] as his allies, in that they held three truths: that there are no non-existent beings; that a proposition can occur in discourse without being there asserted; and that the sense of a term does not depend on the truth of the proposition in which it occurs. He is said to have invented the famous ethical example of the stuck potholer,<ref name=":0" /> when arguing against the idea that it might be right to kill a child to save their mother.
+
+In [[metaethics]], a debate developed in the 1960s and 1970s as to whether it was possible to logically derive categorical 'ought' statements from 'is' statements. The debate famously involved [[R. M. Hare|Richard Hare]], [[Max Black]], [[Philippa Foot]] and [[John Searle]] among others. Geach made a notable contribution to this debate with a paper published in 1977, which purported to derive one categorical 'ought' from purely factual premises.<ref>{{cite journal |last=Geach |first=Peter |year=1977 |title=Again the Logic of 'Ought' |url=https://www.jstor.org/stable/3749546 |journal=Philosophy |volume=52 |issue=211 |pages=473–476 |doi=10.1017/S0031819100028953 |jstor=3749546 |s2cid=170494772 |url-access=registration |access-date=21 August 2021}}</ref><ref>{{cite journal |last=Hurka |first=Thomas |year=1980 |title=Geach on Deriving Categorical 'Oughts' |url=https://www.jstor.org/stable/3750979 |journal=Philosophy |volume=55 |issue=211 |pages=101–104 |doi=10.1017/S0031819100063786 |jstor=3750979 |s2cid=170323838 |url-access=registration |access-date=21 August 2021}}</ref>
+
+Geach has famously argued that the notion of [[Identity (philosophy)|absolute identity]] should be abandoned, to be replaced with relative identity predicates.<ref name="oxford"/><ref>https://plato.stanford.edu/entries/identity/</ref>
+
+==Honours==
+Geach was elected a [[Fellow of the British Academy]] (FBA) in 1965.{{sfn|Kenny|2015|p=200}} He was elected an [[honorary fellow]] of Balliol College in 1979.{{sfn|Kenny|2015|p=200}} He was awarded the papal cross ''[[Pro Ecclesia et Pontifice]]'' by the [[Holy See]] in 1999{{sfn|Kenny|2015|p=201}} for his philosophical work.
+
+==Marriage and children==
+His wife and occasional collaborator was the philosopher [[G. E. M. Anscombe|Elizabeth Anscombe]].<ref name=anscombe/> Both converts to [[Catholic Church|Catholicism]], they were married at [[Brompton Oratory]] in 1941 and went on to have seven children.<ref name=telegraph/> They co-authored the 1961 book ''Three Philosophers'', with Anscombe contributing a section on [[Aristotle]] and Geach one each on Aquinas and [[Gottlob Frege]].<ref name=anscombe/> For a quarter century they were leading figures in the Philosophical Enquiry Group, an annual confluence of Catholic philosophers held at Spode House in Staffordshire that was established by [[Columba Ryan]] in 1954.<ref name=times/>
+
+==Death==
+Peter Geach died on 21 December 2013{{sfn|Kenny|2015|p=203}} at [[Addenbrooke's Hospital]] in Cambridge and is buried in the same grave as his wife in (what is now) the [[Ascension Parish Burial Ground]].
+
+==Works==
+{{Incomplete list|date=July 2016}}
+*{{cite book |editor1=Geach, Peter |editor2=Black, Max |url-access=registration |url=https://archive.org/details/translationsfrom0000pete |title=Translations from the philosophical writings of Gottlob Frege |edition=1st |location=Oxford |publisher=Basil Blackwell |year=1952 <!--isbn=-->}} 2nd ed. (1960), 3rd ed. (1980)
+*''[[iarchive:philosophicalwri0000desc_b8k7|Descartes: Philosophical Writings]]''  (with G.E.M. Anscombe) (1954)  Introduction by [[Alexandre Koyré|Alexandre Koyre]]
+*"Good and Evil," ''Analysis'' (1956), Reprinted in [[Philippa Foot|Foot, Philippa]] (<abbr>ed.</abbr>) ''[[iarchive:theoriesofethics0000unse s7o0/page/64/mode/1up|Theories of Ethics]]'' (1967).  United States: Oxford University Press. pp.&nbsp;64–73.
+* ''[[iarchive:in.ernet.dli.2015.223704|Mental Acts: Their Content and Their Objects]]'', 1957/1997
+* ''[[iarchive:three-philosophers-by-peter-thomas-geach-gertrude-elizabeth-margaret-anscombe|Three Philosophers: Aristotle; Aquinas; Frege]]'' (with G.E.M. Anscombe), 1961
+* ''[[iarchive:referencegeneral00geac 1|Reference and Generality: An Examination of Some Medieval and Modern Theories]]'', 1962
+* "Ascriptivism." ''Philosophical Review'' 69 (2):221-225, 1960, reprinted in [[Richard Rorty]] (ed.)  ''[[iarchive:linguisticturn0000rich|The Linguistic Turn]]'' (1967)
+* '[https://studylib.net/doc/8115846/plato-s--euthyphro---an-analysis-and-commentary|PLATO'S "PLATO'S EUTHYPHRO": An Analysis and Commentary''<nowiki/>'''], ''[[The Monist]]'' Vol. 50, No. 3, July, 1966
+* [https://web.archive.org/web/20210618115827/https://www.thebritishacademy.ac.uk/documents/2105/51p321.pdf "Some Problems about Time"] ''Proceedings of the British Academy 51, 1965'' ,1966
+* ''[[iarchive:historyofcorrupt0000geac|History of the Corruptions of Logic]]'', inaugural lecture, University of Leeds, 1968
+* [[iarchive:aquinascollectio00kenn/page/29|"Form and Existence"]] In: [[Anthony Kenny|Kenny, A.]] (eds) ''[[iarchive:aquinascollectio00kenn|Aquinas. Modern Studies in Philosophy]]''. Palgrave Macmillan, London.  {{doi|10.1007/978-1-349-15356-5_3}} (1969)
+* [[iarchive:aquinascollectio00kenn/page/139/mode/1up|"Nominalism"]] In: Kenny, A. (eds) ''[[iarchive:aquinascollectio00kenn|Aquinas. Modern Studies in Philosophy]]''. Palgrave Macmillan, London. {{doi|10.1007/978-1-349-15356-5_6}} (1969)
+* ''[[iarchive:godsoul0000geac|God and the Soul]]'', 1969/2001
+* "A Program for Syntax" (1970). ''Synthèse'' 22:3-17. reprinted in: [[Donald Davidson (philosopher)|Davidson]] & [[Gilbert Harman|Harman]] (edc.) ''[[iarchive:semanticsofnatur00davi|Semantics of natural language]]'' (1972) 
+* [[iarchive:logicmatters0000geac|''Logic Matters'']], 1972
+* ''[[iarchive:reasonargument0000geac|Reason and Argument]]'', 1976
+*[http://michaeljohnsonphilosophy.com/wp-content/uploads/2019/01/Geach-Saying-and-Showing-in-Frege-and-Wittgenstein.pdf "Saying and Showing in Frege and Wittgenstein,"] ''Acta Philosophica Fennica'' 28 (1976): 54–70
+* ''[[iarchive:providenceevil0000geac|Providence and Evil: The Stanton Lectures 1971-2]]'', 1977
+* ''[[iarchive:trent 0116301857813|The Virtues: The Stanton Lectures 1973-4]]'', 1977
+* ''[[iarchive:truthloveimmorta0000geac|Truth, Love, and Immortality: An Introduction to McTaggart's Philosophy]]'', 1979
+*"Truth and God," ''[[Proceedings of the Aristotelian Society]],'' Supplementary Volume LVI, 1982, republished in [https://web.archive.org/web/20231212152903/https://academic.oup.com/DocumentLibrary/Aristotelian/2013%20AS%20Virtual%20Issue.pdf ''Proceedings'' Virtual Issue No. 1, 2013]
+* (edited) ''Wittgenstein's Lectures on Philosophical Psychology, 1946–47: Notes by P.T. Geach, K.J. Shah, and A.C. Jackson'', 1989
+* "Whatever Happened to Deontic Logic" reprinted in ''[[iarchive:logicethics0000unse|Logic and Ethics]]'' (edited by Geach with Jacek Holowka), 1990
+* ''[[iarchive:truthhopefurstfr0000geac|Truth and Hope: The Furst Franz Josef und Furstin Gina Lectures Delivered at the International Academy of Philosophy in the Principality of Liechtenstein, 1998]]'' 2001 ({{ISBN|0-268-04215-2}})
+For more complete publication details see [https://link.springer.com/content/pdf/bbm%3A978-94-015-7885-1%2F1.pdf "Bibliography of works of P.T. Geach"] (1991) by Harry A. Lewis.<ref>{{Cite book |url=https://archive.org/details/petergeachphilos0000unse |title=Peter Geach: Philosophical Encounters |date=1991 |publisher=Springer Netherlands |isbn=978-90-481-4072-5 |editor-last=Lewis |editor-first=Harry A. |location=Dordrecht |language=en |doi=10.1007/978-94-015-7885-1 |url-access=registration}}</ref>
+
+===Festschriften===
+*{{cite book|editor=Gormally|editor-first=Luke|title=Moral Truth and Moral Tradition: Essays in Honour of Peter Geach and Elizabeth Anscombe|location=Dublin|publisher=[[Four Courts Press]]|year=1994|isbn= <!--isbn=1851821589-->}}
+*Lewis, Harry A., ed. (1991). ''[[iarchive:petergeachphilos0000unse|Peter Geach: Philosophical Encounters]]''.  Dordrecht. {{ISBN|978-94-015-7885-1}} {{doi|10.1007/978-94-015-7885-1}}
+
+==See also==
+* {{section link|Omnipotence paradox|Types of omnipotence}}
+
+==Notes==
+{{notelist}}
+
+==References==
+===Footnotes===
+{{reflist|22em|refs=
+<ref name=anscombe>{{cite news |last=Boxer |first=Sarah |date=13 January 2001 |title=G.&nbsp;E.&nbsp;M. Anscombe, 81, British Philosopher |url=https://www.nytimes.com/2001/01/13/world/g-e-m-anscombe-81-british-philosopher.html |work=The New York Times |page=B8 |archive-url=https://web.archive.org/web/20130518061817/https://www.nytimes.com/2001/01/13/world/g-e-m-anscombe-81-british-philosopher.html |archive-date=18 May 2013 |access-date=24 January 2010}}</ref>
+<ref name=times>{{cite news |date=19 August 2009 |title=Father Columba Ryan: Priest, Teacher and University Chaplain |url=http://www.timesonline.co.uk/tol/comment/obituaries/article6800925.ece?print=yes&randnum=1151003209000 |work=The Times |location=London |archive-url=https://web.archive.org/web/20100602074527/http://www.timesonline.co.uk/tol/comment/obituaries/article6800925.ece?print=yes&randnum=1151003209000 |archive-date=2 June 2010 |access-date=24 January 2010}}</ref>
+<ref name=telegraph>{{cite news |date=6 January 2001 |title=Professor G&nbsp;E&nbsp;M Anscombe |url=https://www.telegraph.co.uk/news/obituaries/1313382/Professor-G-E-M-Anscombe.html |work=The Telegraph |location=London |archive-url=https://web.archive.org/web/20110605033421/http://www.telegraph.co.uk/news/obituaries/1313382/Professor-G-E-M-Anscombe.html |archive-date=5 June 2011 |access-date=27 July 2020}}</ref> <ref name=oxford>{{cite book |last= |first= |author-link= |date= |title=The Oxford Handbook of Metaphysics |url= |location= |publisher= |page=111-112 |isbn=}}</ref>
+}}
+
+===Works cited===
+{{refbegin|35em|indent=yes}}
+* {{cite book
+|last=Dummett
+|first=Michael
+|author-link=Michael Dummett
+|year=1981
+|title=The Interpretation of Frege's Philosophy
+|publisher=Duckworth
+}}
+* {{cite book
+|last=Geach
+|first=Peter
+|year=1991
+|chapter=A Philosophical Autobiography
+|editor-last=Lewis
+|editor-first=Harry A.
+|title=[[iarchive:petergeachphilos0000unse|Peter Geach: Philosophical Encounters]]
+|series=Synthese Library
+|location=Dordrecht, Netherlands
+|publisher=Springer
+|pages=1–25
+|doi=10.1007/978-94-015-7885-1_1
+|isbn=978-94-015-7885-1
+}}
+* {{cite journal
+|last=Haldane
+|first=John
+|author-link=John Haldane (philosopher)
+|year=2000
+|title=In Memoriam: G.&nbsp;E.&nbsp;M. Anscombe (1919–2001)
+|journal=The Review of Metaphysics
+|volume=53
+|issue=4
+|pages=1019–1021
+|issn=2154-1302
+|jstor=20131480
+}}
+* {{cite book
+|last=Kenny
+|first=Anthony
+|author-link=Anthony Kenny
+|year=2015
+|chapter=Peter Thomas Geach, 1916–2013
+|chapter-url=https://www.thebritishacademy.ac.uk/sites/default/files/09%20Geach%201820.pdf
+|title=Biographical Memoirs of Fellows of the British Academy
+|volume=14
+|location=Oxford
+|publisher=Oxford University Press
+|pages=185–203
+|access-date=27 July 2020
+}}
+* {{cite journal
+|last=Kerr
+|first=Fergus
+|author-link=Fergus Kerr
+|year=2002
+|title=Review of ''Truth and Hope'', by Peter Geach
+|url=http://www.arsdisputandi.org/index.html?http://www.arsdisputandi.org/publish/articles/000034/index.html
+|url-status=live
+|journal=Ars Disputandi
+|volume=2
+|issn=1566-5399
+|archive-url=https://archive.today/20120731053724/http://www.arsdisputandi.org/index.html?http://www.arsdisputandi.org/publish/articles/000034/index.html
+|archive-date=31 July 2012
+|access-date=27 July 2020
+}}
+* {{cite journal
+|last=MacIntyre
+|first=Alasdair
+|author-link=Alasdair MacIntyre
+|year=2002
+|title=Virtues in Foot and Geach
+|journal=The Philosophical Quarterly
+|volume=52
+|issue=209
+|pages=621–631
+|doi=10.1111/1467-9213.00289
+|issn=1467-9213
+|jstor=3542725
+}}
+* {{cite book
+|year=1948
+|editor-last=Muirhead
+|editor-first=J.&nbsp;A.&nbsp;O.
+|title=Clifton College Register
+|location=Bristol, England
+|publisher=J.&nbsp;W. Arrowsmith
+}}
+* {{cite journal
+|last=Murray
+|first=Michael J.
+|year=2002
+|title=Review of ''Truth and Hope: The Furst Franz Josef und Furstin Gina Lectures Delivered at the International Academy of Philosophy, 1998'', by Peter Geach
+|url=https://ndpr.nd.edu/news/truth-and-hope-the-furst-franz-josef-und-furstin-gina-lectures-delivered-at-the-international-academy-of-philosophy-1998/
+|journal=Notre Dame Philosophical Reviews
+|issn=1538-1617
+|access-date=27 July 2020
+}}
+* {{cite encyclopedia
+|last=Teichmann
+|first=Roger
+|title=Geach, Peter Thomas (1916–2013)
+|encyclopedia=Oxford Dictionary of National Biography
+|year=2017
+|edition=online
+|location=Oxford
+|publisher=Oxford University Press
+|doi=10.1093/ref:odnb/107582
+}}
+* {{cite book
+|last=Todd
+|first=Patrick
+|year=2011
+|chapter=Geachianism
+|chapter-url=https://philpapers.org/archive/TODG.pdf
+|editor-last=Kvanvig
+|editor-first=Jonathan L.
+|editor-link=Jonathan Kvanvig
+|title=Oxford Studies in Philosophy of Religion
+|volume=3
+|location=Oxford
+|publisher=Oxford University Press
+|pages=222–251
+|doi=10.1093/acprof:oso/9780199603213.001.0001
+|isbn=978-0-19-960321-3
+|archive-url=https://web.archive.org/web/20240117183214/https://philpapers.org/archive/TODG.pdf
+|archive-date=17 January 2024
+}}
+{{refend}}
+
+==External links==
+* {{Find a Grave|151438210}}
+*[https://www.theguardian.com/education/2013/dec/26/peter-geach Peter Geach obituary] in ''[[The Guardian]]''
+*[https://web.archive.org/web/20210323232522/https://www.telegraph.co.uk/news/obituaries/10572088/Peter-Geach-obituary.html Peter Geach - obituary] in ''[[The Daily Telegraph]]'' (Archived by [[Wayback Machine]])
+
+{{s-start}}
+{{s-aca}}
+{{s-bef|before=[[H.&nbsp;H. Price]]}}
+{{s-ttl|title={{nowrap|[[Howison Lectures in Philosophy|Howison Lecturer in Philosophy]]}}|years=1963}}
+{{s-aft|after=[[G.&nbsp;E.&nbsp;M. Anscombe]]}}
+{{s-end}}
+
+{{Analytic philosophy}}
+{{Philosophy of religion}}
+{{Ludwig Wittgenstein}}
+{{portal bar|Biography|Catholicism|England|Philosophy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Geach, Peter}}
+[[Category:1916 births]]
+[[Category:2013 deaths]]
+[[Category:20th-century English philosophers]]
+[[Category:20th-century Roman Catholics]]
+[[Category:21st-century English philosophers]]
+[[Category:21st-century Roman Catholics]]
+[[Category:Academics of the University of Birmingham]]
+[[Category:Academics of the University of Leeds]]
+[[Category:Alumni of Balliol College, Oxford]]
+[[Category:Analytic philosophers]]  
+[[Category:Analytic theologians]]
+[[Category:Catholic philosophers]]
+[[Category:Cambridge University Moral Sciences Club]]
+[[Category:Converts to Roman Catholicism]]
+[[Category:English logicians]]
+[[Category:English Roman Catholics]]
+[[Category:Fellows of Balliol College, Oxford]]
+[[Category:Fellows of the British Academy]]
+[[Category:British historians of philosophy]]
+[[Category:British metaphysicians]]
+[[Category:People educated at Clifton College]]
+[[Category:British philosophers of language]]
+[[Category:British philosophers of mind]]
+[[Category:British philosophers of religion]]
+[[Category:Analytical Thomists]]
+[[Category:Wittgensteinian philosophers]]
+[[Category:British logicians]]
+[[Category:British conscientious objectors]]
+[[Category:English people of Polish descent]]

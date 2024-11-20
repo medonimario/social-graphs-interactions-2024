@@ -1,0 +1,128 @@
+{{short description|American philosopher (born 1935)}}
+{{about|the American philosopher|Australian sociologist and university administrator|Sandra Harding (sociologist)}}
+{{use mdy dates |date=April 2024}}
+{{BLP sources|date=February 2016}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[20th-century philosophy]]
+| caption          = Portrait of Sandra G. Harding
+| name             = Sandra G. Harding
+| birth_date       = {{birth date and age|1935|03|29}}
+| death_date       =
+| school_tradition = [[Feminist philosophy]], [[post-colonialism]]
+| main_interests   = [[Epistemology]], [[philosophy of science]], [[standpoint theory]]
+| influences       =
+| influenced       =
+| notable_ideas    = [[Strong objectivity]], [[feminist epistemology]]
+}}
+'''Sandra G. Harding''' (born 1935) is an American philosopher of [[Feminist philosophy|feminist]] and [[postcolonial]] theory, [[epistemology]], research methodology, and [[philosophy of science]]. She directed the [[UCLA Center for the Study of Women]] from 1996 to 2000, and co-edited ''[[Signs: Journal of Women in Culture and Society]]'' from 2000 to 2005.  She is currently a Distinguished Professor Emeritus of Education<ref name="Sandra Harding's GSEIS Profile" /> and Gender Studies<ref name=":0">{{Cite web|title=Sandra G. Harding papers 1971 – 2016|url=https://www.riamco.org/render?eadid=US-RPB-ms2017.002&view=title|access-date=10 April 2024|website=Rhode Island Archival and Manuscript Collections Online |publisher=Brown University Archives and Manuscripts}}</ref><ref>{{Cite web | url=https://gender.ucla.edu/person/sandra-harding/ | title=Sandra Harding |website=UCLA College of Gender Studies |access-date=10 April 2024}}</ref> at [[University of California, Los Angeles|UCLA]] and a Distinguished Affiliate Professor of Philosophy at [[Michigan State University]].<ref>{{Cite web | url=http://www.philosophy.msu.edu/people/faculty/sandraharding/ |title =Sandra Harding |website= Michigan State University Department of Philosophy |archive-url=http://web.archive.org/web/20180706194226/http://www.philosophy.msu.edu/people/faculty/sandraharding/ |archive-date=6 July 2018}}</ref> In 2013 she was awarded the [[John Desmond Bernal Prize]] by the [[Society for the Social Studies of Science]] (4S).
+
+== Education and career ==
+Sandra Harding received her undergraduate degree from [[Douglass Residential College|Douglass College]] of Rutgers University in 1956. After 12 years working as legal researcher, editor, and fifth-grade math teacher in New York City and Poughkeepsie, N.Y., she returned to graduate school and earned a doctorate from the Department of Philosophy at [[New York University]] in 1973.<ref name="Sandra Harding's GSEIS Profile" />
+
+Harding's first university teaching job was at The Allen Center of the [[University at Albany, SUNY|State University of New York at Albany]], an experimental critical social sciences college which was "defunded" by the state of New York in 1976. She then joined the Department of Philosophy at the [[University of Delaware]], with a joint appointment to the Women's Studies Program. She was promoted to Associate Professor in 1979, and to full Professor in 1986. From 1981 until she left Delaware in 1996, she held a Joint Appointment to the Department of Sociology. She was Director of the Women's Studies Program at Delaware 1985–1991 and 1992–1993.<ref name="Sandra Harding's GSEIS Profile" />
+
+From 1994 to 1996 she was Adjunct Professor of Philosophy and Women's Studies at [[University of California, Los Angeles|UCLA]] on a half-time basis. In 1996 she was appointed Director of the UCLA Center for the Study of Women, which is a research institute. She held that position until 2000. Meanwhile, since 1996 she has been a Professor in the Graduate Department of Education and the Department of Gender Studies at UCLA. In 2012 she was appointed Distinguished Professor of Education and Gender Studies. From 2000 to 2005 she also was co-editor of ''[[Signs (journal)|Signs: Journal of Women in Culture and Society]]''.<ref name="Sandra Harding's GSEIS Profile" />
+
+Harding has held Visiting Professor appointments at the [[University of Amsterdam]] (1987), [[University of Costa Rica]] (1990), the [[Swiss Federal Institute of Technology Zurich]] (ETH) (1987), and the [[Asian Institute of Technology]], Bangkok (1994).  In 2011 she was appointed a Distinguished Affiliate Professor in the Department of Philosophy at [[Michigan State University]], East Lansing.<ref name="Sandra Harding's GSEIS Profile" />
+
+She has been a consultant to several United Nations organizations including the U.N. [[Commission on Science and Technology for Development]], the [[Pan American Health Organization]], [[UNESCO]], and the [[United Nations Development Fund for Women|U.N. Development Fund for Women]]. She was invited to co-edit a chapter of UNESCO's World Science Report 1996 on "The Gender Dimension of Science and Technology".<ref>{{cite web |url=https://unesdoc.unesco.org/ark:/48223/pf0000102819 |title=World science report |date=1996 |publisher=UNESCO |access-date=10 April 2024}}</ref> This 56-page account was the first such attempt to bring gender issues in science and technology to such a global-scale and prestigious context. She was invited to contribute a chapter to UNESCO's World Social Science Report 2010 on "Standpoint Methodologies and Epistemologies: a Logic of Scientific Inquiry for People."<ref>{{cite book |url=https://unesdoc.unesco.org/ark:/48223/pf0000188333 |title=WOrld Social Science Report: Knowledge Divides |isbn=978-92-3-104131-0 |date=2010 |publisher=UNESCO |editor-first=Françoise |editor-last=Caillods |chapter=Standpoint Methodologies and Epistemologies: a Logic of Scientific Inquiry for People |pages=173–175}}</ref><ref name="Sandra Harding's GSEIS Profile" />
+
+Harding has served on the editorial boards of numerous journals in the fields of philosophy, women's studies, science studies, social research methodology, and African philosophy. [[Phi Beta Kappa Society|Phi Beta Kappa]] selected her as a national lecturer in 2007. She has lectured at more than 300 colleges, universities, and conferences in North America as well as in Central America, Europe, Africa and Asia. Her books, essays and book chapters have been translated into dozens of languages and reprinted in hundreds of anthologies.<ref name="Sandra Harding's GSEIS Profile" />
+
+== Research and criticism ==
+Harding developed the research standard of "[[strong objectivity]]," and contributed to the articulation of [[standpoint theory|standpoint methodology]]. This kind of research process starts off from questions that arise in the daily lives of people in oppressed groups. To answer such questions, it "studies up", examining the principles, practices and cultures of dominant institutions, from the design and management of which oppressed groups have been excluded. She has also contributed to the development of feminist, anti-racist, multicultural, and postcolonial studies of the natural and social sciences, asking the extent to which paradigms like [[feminist empiricism]] are useful for promoting to goals of feminist inquiry. She is the author or editor of many books and essays on these topics, and was one of the founders of the field of [[feminist epistemology]]. This work has been influential in the [[social science]]s and in [[women's studies|women]]/[[gender studies]] across the disciplines. It has helped to create new kinds of discussions about how best to relink scientific research to pro-democratic goals.
+
+In her 1986 book ''The Science Question in Feminism'', Harding touched on the pervasiveness of rape and torture metaphors for the [[scientific method]] in the writings of [[Francis Bacon]] and others. In the book, she questioned why it would not be as illuminating and honest to refer to [[Newton's laws]] as "Newton's rape manual" rather than "Newtonian mechanics". Harding later said she regretted the statement.<ref name="nemecek_1997">{{cite journal |last1=Nemecek |first1=S. |title=The Furor over Feminist Science |journal=Scientific American |date=January 1997 |volume=276 |issue=62 |pages=99–100 |jstor=24993570 |url=https://www.jstor.org/stable/24993570}}</ref> This statement, among others, caused Harding's work to be controversial within certain scholarly circles.<ref name="Steiner">{{citation|last=Steiner|first=Linda|title=Philosophical profiles in the theory of communication|pages=261–289|year=2014|postscript=.|editor-last=Hannan|editor-first=Jason|contribution=Sandra Harding: the less false accounts of feminist standpoint epistemology|location=New York|publisher=Peter Lang|isbn=9781433126345|author-link=Linda Steiner}}</ref> During the [[Science Wars]], a debate regarding the value-neutrality of the sciences of the 1990s, her work became a main target of critics of feminist and sociological approaches.
+
+She was criticized by mathematicians Michael Sullivan,<ref name="sullivan_1996">{{cite journal |last=Sullivan |first=M.C. |date=1996 |title=A Mathematician Reads ''Social Text'' |journal=[[Notices of the American Mathematical Society|AMS Notices]] |volume=43 |issue=10 |pages=1127–1131 |url=https://www.ams.org/journals/notices/199610/comm-sullivan.pdf}}</ref> [[Mary W. Gray|Mary Gray]],<ref>{{cite book |first=Mary |last=Gray |chapter=Gender and mathematics: Mythology and Misogyny |editor-link=Gila Hanna |editor-first=Gila |editor-last=Hanna |title=Towards Gender Equity in Mathematics Education: An ICMI Study |series=New ICMI Study Series |publisher=Kluwer Academic Publishers |date=1996 |volume=3 |chapter-url=https://link.springer.com/chapter/10.1007/0-306-47205-8_3 |pages=27–38 |doi=10.1007/0-306-47205-8_3 |isbn=978-0-7923-3921-2}}</ref> and [[Lenore Blum]],<ref>{{cite book |first=Lenore |last=Blum |chapter=AWM's first twenty years: The presidents' perspectives |editor-first1=Bettye Anne |editor-last1=Case |editor-first2=Anne M. |editor-last2=Leggett |title=[[Complexities: Women in Mathematics]] |publisher=Princeton University Press |date=2005 |pages=94–95 |chapter-url=https://books.google.com/books?id=926YDwAAQBAJ&dq=AWM%27s+first+twenty+years%3A+The+presidents%27+perspectives&pg=PA80 |isbn=9780691171098}}</ref> and by the historian of science [[Ann Hibner Koblitz]].<ref>{{cite journal |first=Ann Hibner |last=Koblitz |title=A historian looks at gender and science |journal=International Journal of Science Education |volume=9 |issue=3 |date=1987 |pages=399–407 |doi=10.1080/0950069870090318}}</ref> Historian [[Garrett G. Fagan]] criticizes her for uncritically endorsing [[Afrocentrism|Afrocentric]] [[pseudohistory]].<ref>{{Cite book |last=Fagan |first=Garrett G. |url=https://books.google.com/books?id=sIYpx9mzd4gC |title=Archaeological Fantasies: How Pseudoarchaeology Misrepresents the Past and Misleads the Public |date=2006 |publisher=Psychology Press |isbn=978-0-415-30592-1 |pages=338 |language=en}}</ref> Her essay on "Science is 'Good to Think With'"<ref name="Science is Good">{{cite book |last=Harding |first=Sandra |chapter=Science is 'Good to Think With' |title=The Science Wars |editor-first=Andrew |editor-last=Ross |location=Durham, N.C. |publisher=Duke University Press |date=1994 |pages=15–28 |doi=10.2307/466841|jstor=466841 }}</ref> was the lead article in the issue of the journal ''[[Social Text]]'' that also included the [[Sokal Affair|Sokal Hoax]], which focused on her work among others. Her work was also a main target of [[Paul R. Gross|Paul Gross]] and [[Norman Levitt|Norman Levitt's]] ''[[Higher Superstition]]''.<ref name="Gross">{{cite book |last1=Gross |first1=Paul |first2=Norman |last2=Levitt |title=Higher Superstition: The Academic Left and Its Quarrels with Science |location=Baltimore, Md. |publisher=Johns Hopkins University Press |date=1994 |isbn=9780801857072}}</ref><ref name="Hart">{{cite book |last=Hart|first=Roger|chapter=The Flight From Reason: Higher Superstition and the Refutation of Science Studies |title=Science Wars |editor-first=Andrew |editor-last=Ross |location=Durham, N.C. |publisher=Duke University Press |date=1996 |isbn=9780822318712}}</ref>
+
+== Awards, honors, and fellowships ==
+*2013.  Awarded [[John Desmond Bernal Prize]] of Society for the Social Studies of Science (4S).<ref name="Sandra Harding's GSEIS Profile">{{cite web |url=https://gseis.ucla.edu/directory/sandra-harding/ |title=Sandra Harding's |website=UCLA Faculty Directory |archive-url=http://web.archive.org/web/20170715231258/https://gseis.ucla.edu/directory/sandra-harding/ |archive-date=15 July 2017}}</ref>
+*2012.  Appointed Distinguished Professor of Education and Gender Studies.  UCLA
+*2011.  Appointed Distinguished Affiliate Professor of Philosophy, Michigan State University, East Lansing
+*2009. Received [[American Education Research Association]] (AERA)  Award for Distinguished Contributions to Gender Equity in Education Research.
+*2007–08. Appointed as a [[Phi Beta Kappa Society|Phi Beta Kappa]] National Lecturer.
+*2007. Awarded The Douglass (College) Society Membership.
+*2000–05 Co-editor of [[Signs (journal)|Signs: Journal of Women in Culture and Society]].
+*1990 Woman Philosopher of the Year, Eastern Division Society for Women in Philosophy.
+*1989. Elected to membership in [[Sigma Xi]].
+
+==Selected works==
+
+===Books===
+* ''The Science Question in Feminism'', 1986.
+*''Whose Science? Whose Knowledge?: Thinking from Women's Lives'', 1991.
+* ''Is Science Multicultural? Postcolonialisms, Feminisms, and Epistemologies'',  1998.
+* ''Science and Social Inequality: Feminist and Postcolonial Issues'', 2006.
+* ''Sciences From Below: Feminisms, Postcolonialities, and Modernities'', 2008.
+* ''Objectivity and Diversity: Another Logic of Scientific Research'', 2015.
+
+=== Articles ===
+* 1973. "Feminism: Reform or Revolution?" ''Philosophical Forum'' (Boston) 5, 271–284
+* 1979. "The Social Function of the Empiricist Conception of Mind," ''Metaphilosophy'' 10 (Jan 1), 38–47
+* 1979. "Is the Equality of Opportunity Principle Democratic?" ''Philosophical Forum'' (Boston) 10 (Dec 1), 206–22
+* 1982. "Is Gender a Variable in Conceptions of Rationality: A Survey of Issues," ''Dialectica'', 36 (Jan 1): 225–42
+* 1983. "Why Has the Sex/Gender System Become Visible Only Now," in ''Discovering Reality'', ed. Sandra Harding and Merrill Hintikka
+* 1987. "The Method Question," ''Hypatia: A Journal of Feminist Philosophy'' 2, 19–35
+* 1987. "The Curious Coincidence of Feminine and African Moralities," ''Women and Moral Theory'', ed. Eva Feder Kittay and Diana Meyers 
+* 1990. "Starting Thought From Women's Lives: Eight Resources for Maximizing Objectivity," ''Journal of Social Philosophy'' 21(2–3), 140–49
+* 1990. "Feminism, Science, and the Anti-Enlightenment Critiques," in ''Feminism/Postmodernism'', ed. Linda Nicholson, 83–106
+* 1992. "After Eurocentrism? Challenges for the Philosophy of Science," ''PSA 1992'' Vol. 2, 311–319
+* 1993. "Rethinking Standpoint Epistemology: What Is 'Strong Objectivity'?" in ''Feminist Epistemologies'', ed. Linda Alcoff and Elizabeth Potter
+* 1995. "'Strong Objectivity': A Response to the New Objectivity Question," ''Synthese'', Vol. 104, No. 3, pp.&nbsp;331–349
+* 1998. "Women, Science, and Society," ''Science'', New Series, Vol. 281, No. 5383 (Sep 11 1998), 1599–1600
+* 2002. "Must the Advance of Science Advance Global Inequality?" ''International Studies Review'', Vol. 4, No. 2 (Summer), 87–105
+* 2003. "How Standpoint Methodology Informs Philosophy of Social Science," in ''Blackwell Guide to the Philosophy of the Social Sciences''
+* 2004. "A Socially Relevant Philosophy of Science? Resources from Standpoint Theory's Controversiality," ''Hypatia'', Vol. 19, No. 1, 25–47
+* 2005. "'Science and Democracy:' Replayed or Redesigned?" ''Social Epistemology'', Vol.  19, No. 1, 5–18
+* 2006. "Two Influential Theories of Ignorance and Philosophy's Interests in Ignoring Them," ''Hypatia'', Vol. 21, No. 3 (Summer), 20–36
+* 2007. "Modernity, Science, and Democracy," in ''Social Philosophy Today'', Volume 22. Philosophy Documentation Center
+* 2008. "How Many Epistemologies Should Guide the Production of Scientific Knowledge?" ''Hypatia'', Vol. 23, No. 4, 212–219 
+* 2009. "Postcolonial and Feminist Philosophies of Science and Technology," ''Postcolonial Studies'', Vol. 12, No. 4, p.&nbsp;410–429
+* 2010. "Standpoint Methodologies and Epistemologies:  A Logic of Scientific Inquiry for People," ''World Social Science Report 2010'', 173–5
+* 2012. "Objectivity and Diversity," in ''Encyclopedia of Diversity in Education,'' ed. James Banks
+* 2017. "Latin American Decolonial Studies: Feminist Issues," ''Feminist Studies'', Vol. 43, No. 3, 624–636 
+* and Kathryn Norberg, 2005. "New Feminist Approaches to Social Science Methodologies: An Introduction," ''Signs'', Vol. 30, No. 4, 2009–15
+
+==See also==
+* [[American philosophy]]
+* [[List of American philosophers]]
+* [[Standpoint theory]]
+* [[Standpoint feminism]]
+
+== References ==
+{{reflist}}
+
+==Further reading==
+*Callahan, Joan and Nancy Tuana. "[http://rockethics.psu.edu/initiatives/ethics-education/programs/oral-feminist-philosophers Feminist Philosophy Interview Project: Feminist Philosophers In Their Own Words]"
+*Harding, Sandra. 2002.  "Philosophy as Work and Politics," in The Philosophical I: Personal Reflections on Life in Philosophy, ed. George Yancy.  Lanham Mass: Rowman & Littlefield Publishers. 23–42
+*Hinterberger, Amy. 2013.  "Curating postcolonial critique", Social Studies of Science 43(4) 619–627. (Review of The Postcolonial Science and Technology Studies Reader.)
+*Hirsch, Elizabeth and Gary A. Olson "Starting From Marginalized Lives A Conversation with Sandra Harding," JAC 15:2. (1995).
+*Marsan, Loren. 2008. "Thinking from Women's Lives: Sandra Harding, Standpoint, and Science." [http://women.ucla.edu/faculty/hammer/cm178/08F/ThinkingFromWomenLives_%20Sandra.html Video].
+*[[Sarah S. Richardson|Richardson, Sarah S.]] 2010. "Feminist philosophy of science: history, contributions, and challenges," Synthese 177:337–362.
+*Rooney, Phyllis. 2007. "The Marginalization of Feminist Epistemology and What That Reveals About Epistemology 'Proper'".  In Feminist Epistemology and Philosophy of Science Power in Knowledge., ed. Heidi Grasswick.  Dordrecht: Springer.
+* {{citation | last = Steiner | first = Linda | author-link = Linda Steiner | contribution = Sandra Harding: the less false accounts of feminist standpoint epistemology | editor-last = Hannan | editor-first = Jason | title = Philosophical profiles in the theory of communication | pages = 261–289 | publisher = Peter Lang | location = New York | year = 2014 | isbn = 9781433126345 }}
+
+==External links==
+*[http://www.jaconlinejournal.com/archives/vol15.2/hirsch-starting.pdf "Starting from Marginalized Lives: A Conversation with Sandra Harding"] {{Webarchive|url=https://web.archive.org/web/20130319123018/http://jaconlinejournal.com/archives/vol15.2/hirsch-starting.pdf |date=2013-03-19 }} by Elizabeth Hirsh and Gary A. Olson ''JAC'' 15.2, Spring 1995.
+*[http://www.sciencemag.org/cgi/content/full/281/5383/1599 "Women, Science, and Society"] by Sandra Harding, ''[[Science (journal)|Science]]'', September 11, 1998.
+* [https://library.brown.edu/collatoz/info.php?id=519/ Sandra G. Harding Papers] – Pembroke Center Archives, Brown University
+
+{{Feminist theory}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Harding, Sandra}}
+[[Category:1935 births]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:Living people]]
+[[Category:Social epistemologists]]
+[[Category:University of California, Los Angeles faculty]]
+[[Category:Scholars of feminist philosophy]]
+[[Category:American philosophers of science]]
+[[Category:Postcolonial theorists]]
+[[Category:Poststructuralists]]
+[[Category:American women philosophers]]
+[[Category:21st-century American women]]

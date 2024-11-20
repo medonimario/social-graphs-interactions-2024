@@ -1,0 +1,98 @@
+{{Short description|British Marxist philosopher}}
+{{EngvarB|date=October 2017}}
+{{Use dmy dates|date=October 2017}}
+{{refimprove|date=January 2017}}
+
+{{Infobox philosopher
+ | honorific_prefix = 
+ | name             =  Maurice C. Cornforth
+ | honorific_suffix = 
+ | image            =  <!-- filename only, i.e. without the File: (or Image:) prefix or enclosing [[brackets]] --> 
+ | image_size       = 
+ | alt              = 
+ | caption          = 
+ | other_names      = 
+ | birth_name       = <!-- only use if different from name -->
+ | birth_date       = {{birth date|df=yes|1909|10|28}}
+ | birth_place      = [[Willesden]], London
+ | death_date       = {{death date and age|df=yes|1980|12|31|1909|10|28}}
+ | death_place      = [[Islington]], London
+ | death_cause      = 
+ | residence        = 
+ | nationality      =
+ | ethnicity        =
+ | religion         = 
+ | spouse           = Kitty Klugmann (died 1965); Kathleen Elliott
+ | education        = 
+ | alma_mater       = [[University College London]]<br/>[[Trinity College, Cambridge]]
+ | notable_works    = <!-- use "notable_works" in place of "books" parameter (deprecated) -->
+ | awards           = 
+ | signature        = 
+ | signature_size   = 
+ | signature_alt    = 
+ | era              = 
+ | region           = 
+ | school_tradition = [[Marxism]]
+ | institutions     = 
+ | main_interests   = 
+ | notable_ideas    = 
+ | influences       = 
+ | influenced       = 
+ | website          = <!-- {{URL|example.com}} -->
+}}
+
+'''Maurice Campbell Cornforth''' (28 October 1909 – 31 December 1980) was a British [[Marxism|Marxist]] philosopher.
+
+==Life==
+Cornforth was born in [[Willesden]], London, in 1909, and educated at [[University College School]],<ref name="TimesObit">{{cite news|author1=ALM|author2=NMJ|title=Mr Maurice Cornforth|url=http://find.galegroup.com/ttda/infomark.do?&source=gale&prodId=TTDA&userGroupName=oxford&tabID=T003&docPage=article&searchType=BasicSearchForm&docId=CS220563496&type=multipage&contentSet=LTO&version=1.0|accessdate=2 September 2016|work=The Times|issue=60820|date=8 January 1981|page=13}}</ref> where he was friends with [[Stephen Spender]].<ref name="c20phil">{{cite book|editor1-last=Brown|editor1-first=Stuart|title=The Dictionary of Twentieth-Century British Philosophers|date=2005|publisher=A&C Black|isbn=184371096X|page=198}}</ref> In 1925 he went up to [[University College London]], graduating in 1929, and then went on as an affiliated student to read Part II of the Moral Sciences [[Tripos]] at [[Trinity College, Cambridge]], where he was the only student on a specialised course in logic, taught by [[G. E. Moore|Moore]], [[R. B. Braithwaite|Braithwaite]], and [[Ludwig Wittgenstein|Wittgenstein]].<ref name="TimesObit" /><ref name="c20phil" /><ref>{{cite book|last1=Roberts|first1=Edwin A.|title=The Anglo-Marxists: A Study in Ideology and Culture|date=1997|publisher=Rowman & Littlefield|isbn=0847683966|page=211}}</ref><ref>"University News", ''The Times'', 17 June 1931, p. 16.</ref> In 1931, after graduating, Cornforth was awarded a three-year research scholarship at Trinity.<ref name="TimesObit" /><ref name="c20phil" /> In the summer of the same year he joined the [[Communist Party of Great Britain|Communist Party]], setting up the party's first organisation at [[Cambridge]] with fellow students such as [[David Guest (communist)|David Guest]];<ref>{{Cite book |last=Brown |first=Andrew |title=J. D. Bernal: the sage of science |date=2005 |publisher=Oxford Univ. Press |isbn=978-0-19-851544-9 |edition= |location=Oxford |pages=108}}</ref> and in the autumn married a fellow Cambridge student, Kitty Klugmann, sister of [[James Klugmann|James]].<ref>{{cite book|last1=Andrews|first1=Geoff|title=The Shadow Man: At the Heart of the Cambridge Spy Circle|date=2015|publisher=I.B.Tauris|isbn=978-1784531669|pages=32–33}}</ref> From 1933 Cornforth worked full-time for the Communist Party in East Anglia.<ref name="TimesObit" /><ref name="c20phil" /> 
+
+Rejected for military service on medical grounds, during the [[Second World War]] Cornforth worked as a farm labourer.<ref name="TimesObit" /><ref name="c20phil" /> He published his first work, ''Science Versus Idealism'', in 1946.<ref name="TimesObit" /> In 1950 he was appointed as managing director of [[Lawrence & Wishart]], a post he held until 1975, during which period he was responsible for the publishing of [[Karl Marx|Marx]]'s and [[Friedrich Engels|Engels]]'s ''Collected Works''.<ref name="TimesObit" /> 
+
+Cornforth died aged 71 in [[Islington]],<ref name="c20phil" /> London, in 1980, leaving a widow, Kathleen Elliott, his second wife.<ref name="TimesObit" />
+
+==Philosophy==
+When Cornforth began his career in philosophy in the early 1930s, he was a follower of [[Ludwig Wittgenstein]], writing in the then current style of [[analytic philosophy]]. Cornforth later became a leading ideologist of the [[Communist Party of Great Britain]]. He was critical of the aesthetic theories of fellow Marxist [[Christopher Caudwell]].
+
+''In Defense of Philosophy'' attacks [[empiricist]] philosophies of many kinds, such as those of [[Rudolf Carnap]] ([[linguistic analysis]]) and [[William James]] ([[pragmatism]]), on the [[dialectical materialism|materialist]] grounds that they divorce science and scientific investigation from the search for truer understanding of the really existing universe.{{clarify|date=October 2013}} In this book there is a combination of Marxism with deep insights into the interrelations of the various sciences and the philosophical conundrums produced by the empiricist attempt to reduce science to the collection and correlation of data. Both the insights are based on the theory of the primacy of physical work and tools (thus, "materialism") in the development of specifically human traits such as [[language]], abstract thought, and [[social organisation]], and the essential role of the external world in the increasingly complex development of forms of life.{{citation needed|date=October 2013}}
+
+Cornforth's multi-volume book ''Dialectical Materialism'' was originally published in 1953 by the International Publishers, Co., Inc. The first US edition of this work was printed in 1971. The text originated from lectures that Cornforth received funding for from the London District Committee of the Communist Party of Great Britain in 1950.{{citation needed|date=October 2013}}
+
+The first volume, ''Materialism and the Dialectical Method'', provides a good introduction to several important sociological principles: [[idealism]], [[metaphysics]], [[materialism]], mechanical materialism, and [[dialectical materialism]], in addition to Marxist philosophy. Volume 2 of this text is entitled ''Historical Materialism'', and Volume 3 is ''Theory of Knowledge''.
+
+==Works==
+* ''Food and Farming for Victory'', Communist Party Pamphlet (1942)
+* ''Science Versus Idealism: An Examination of "Pure Empiricism" and Modern Logic'' (1946)
+* ''Dialectical Materialism and Science'' (1949)
+* ''In Defense of Philosophy – Against Positivism and Pragmatism'' (1950)
+* ''Science for Peace and Socialism'' (c.1950) with [[J. D. Bernal]]
+* [https://archive.org/details/MaterialismDialecticalMethod ''Dialectical Materialism'' ''Vol. 1: Materialism & the Dialectical Method''], [https://archive.org/details/HistoricalMaterialismCornforth ''Vol. 2: Historical Materialism''], ''[https://archive.org/details/CornforthTheoryOfKnowledge Vol 3: Theory of Knowledge]'', and later editions
+* ''Readers' Guide to the Marxist Classics'' (1952)
+* [https://archive.org/details/RumanianSummer ''Rumanian Summer: A View of the Rumanian People's Republic''] (1953) with [[Jack Lindsay (writer)|Jack Lindsay]]
+* ''[https://archive.org/details/scienceversusidealismcornforth Science Versus Idealism: In Defense of Philosophy against Positivism and Pragmatism]'' (1955)
+* ''Philosophy for Socialists'' (1959)
+* ''Marxism and the Linguistic Philosophy'' (1965) {{ISBN|0853151199}}
+* ''[https://archive.org/details/CornforthOpenPhil The Open Philosophy and the Open Society: A Reply to Dr. Karl Popper's Refutations of Marxism]'' (1968) {{ISBN|0853153841}}
+* ''Communism and Human Values'' (1972) {{ISBN|0717803783}}
+* ''Rebels and Their Causes: Essays in honour of [[A. L. Morton]]'' (1978) editor {{ISBN|0853154805}}
+* ''Communism & Philosophy: Contemporary Dogmas and Revisions of Marxism'' (1980) {{ISBN|0853154309}}
+
+==See also==
+*[[Dialectical materialism]]
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cornforth, Maurice}}
+[[Category:1909 births]]
+[[Category:1980 deaths]]
+[[Category:People from Willesden]]
+[[Category:Communist Party of Great Britain members]]
+[[Category:British Marxists]]
+[[Category:British philosophers]]
+[[Category:20th-century British philosophers]]
+[[Category:Dialectical materialism]]
+[[Category:Alumni of University College London]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:People educated at University College School]]

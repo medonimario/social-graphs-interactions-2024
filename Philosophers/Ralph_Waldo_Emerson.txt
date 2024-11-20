@@ -1,0 +1,576 @@
+{{Short description|American philosopher (1803–1882)}}
+{{Redirect|Ralph Emerson}}
+{{Use American English|date = September 2019}}
+{{Use mdy dates|date=January 2021}}
+{{Infobox philosopher
+| name             = Ralph Waldo Emerson
+| image            = Ralph Waldo Emerson by Josiah Johnson Hawes 1857.jpg
+| caption          = Emerson {{circa}} 1857
+| birth_date       = {{birth date|1803|5|25|mf=y}}
+| birth_place      = {{nowrap|[[Boston]], Massachusetts, U.S.}}
+| death_date       = {{death date and age|mf=yes|1882|4|27|1803|5|25}}
+| death_place      = {{nowrap|[[Concord, Massachusetts]], U.S.}}
+| alma_mater       = [[Harvard Divinity School|Harvard University]]
+| era              = [[19th-century philosophy]]
+| region           = [[American philosophy]]
+| school_tradition = [[Transcendentalism]]
+| institutions     = [[Harvard College]]
+|module         = {{Infobox clergy 
+ |child          = yes
+ |religion       = [[Christianity]]
+ |church         = [[Unitarianism]]
+ |ordained       = 11 January 1829
+ |laicized       = 1832
+}}
+| spouse           = {{Marriage|Ellen Louisa Tucker|1829|1831|end=died}}<ref>[[#Richardson|Richardson]], p. 92.</ref><br />{{Marriage|[[Lidian Jackson Emerson|Lidian Jackson]]|1835<!--Year of end omitted when marriage ends with death of article subject-->}}
+| main_interests   = [[Individualism]], [[nature]], [[divinity]], [[cultural critic]]ism
+| notable_ideas    = [[Self-Reliance|Self-reliance]], [[transparent eyeball]], [[double consciousness]], stream of thought
+| signature        = Appletons' Emerson Ralph Waldo signature.svg
+}}
+'''Ralph Waldo Emerson''' (May 25, 1803{{spaced ndash}}April 27, 1882),<ref>{{Britannica|185770}}</ref> who went by his middle name Waldo,<ref name="namechoice" /> was an American essayist, lecturer, philosopher, [[abolitionism|abolitionist]], and poet who led the [[Transcendentalism|Transcendentalist]] movement of the mid-19th century. He was seen as a champion of [[individualism]] and critical thinking, as well as a prescient critic of the countervailing pressures of society and [[conformity]]. [[Friedrich Nietzsche]] thought he was "the most gifted of the Americans," and [[Walt Whitman]] called Emerson his "master".
+
+Emerson gradually moved away from the religious and social beliefs of his contemporaries, formulating and expressing the philosophy of Transcendentalism in his 1836 essay, "[[Nature (Emerson)|Nature]]". Following this work, he gave a speech entitled "[[The American Scholar]]," in 1837, which [[Oliver Wendell Holmes Sr.]] considered to be America's "intellectual Declaration of Independence".<ref name="Richardson, 263">Richardson, p. 263.</ref>
+
+Emerson wrote most of [[Essays (Emerson)|his important essays]] as lectures, first, and then, revised them for print. His first two collections of essays, ''[[Essays: First Series]]'' (1841) and ''[[Essays: Second Series]]'' (1844), represent the core of his thinking. They include the well-known essays "[[Self-Reliance]]",<ref>{{cite book |last1=Emerson |first1=Ralph Waldo |editor=[[Charles William Eliot]] |title=Essays and English Traits |chapter=Self-Reliance |date=1841 |publisher=P.F.Collier & Son Corporation |location=New York |pages=59–69 |edition=56th printing, 1965 |language=en |series=Harvard Classics |volume=5, with introduction and notes. |quote=It is for want of self-culture that the idol of Travelling, the idol of Italy, of England, of Egypt, remains for all educated Americans. They who made England, Italy, or Greece venerable in the imagination, did so not by rambling round creation as a moth round a lamp, but by sticking fast where they were, like an axis of the earth. ... The soul is no traveller: the wise man stays at home with the soul, and when his necessities, his duties, on any occasion call him from his house, or into foreign lands, he is at home still and is not gadding abroad from himself. p. 78}}</ref> "[[The Over-Soul]]," "[[Circles (Ralph Waldo Emerson)|Circles]]," "[[The Poet (Ralph Waldo Emerson)|The Poet]]," and "[[Experience (Emerson)|Experience]]". Together, with "Nature",<ref>{{cite web|url=http://www.transcendentalists.com/emerson_essays.htm|title=Ralph Waldo Emerson – Essays|last=Lewis|first=Jone Johnson|website=Transcendentalists.com|access-date=August 10, 2017}}</ref> these essays made the decade from the mid-1830s to the mid-1840s Emerson's most fertile period. Emerson wrote on a number of subjects, never espousing fixed philosophical [[wikt:tenet|tenets]], but rather, by developing certain ideas, such as [[Individualism|individuality]], [[Liberty|freedom]], the ability for mankind to realize almost anything, and the relationship between the soul and the surrounding world. Emerson's "nature" was more philosophical than [[Naturalism (philosophy)|naturalistic]]: "Philosophically considered, the universe is composed of Nature and the Soul." Emerson is one of several figures who "took a more [[Pantheism|pantheist]] or [[Pandeism|pandeist]] approach, by rejecting views of God as separate from the world".<ref>{{Cite book |title = American Philosophy: An Encyclopedia |author= Lachs, John |author2=Talisse, Robert |year = 2007 |isbn = 978-0-415-93926-3 |page = 310 |publisher= Routledge |author-link= John Lachs |author2-link= Robert Talisse }}</ref>
+
+He remains among the [[linchpin]]s of the American romantic movement,<ref>{{cite book|url=https://books.google.com/books?id=PsbsX2eycI0C&q=Emerson+-+linchpin&pg=PR21|title=The Emerson Dilemma|access-date=June 29, 2015|isbn=978-0-8203-2241-4|last1=Gregory Garvey|first1=T.|date=January 2001|publisher=University of Georgia Press }}</ref> and his work has greatly influenced the thinkers, writers, and poets that followed him. "In all my lectures," he wrote, "I have taught one doctrine, namely, the infinitude of the private man."<ref>Journal, April 7, 1840.</ref> Emerson is also well-known as a mentor and friend of [[Henry David Thoreau]], a fellow Transcendentalist.<ref>{{cite web|url=http://www.wisdomportal.com/Emerson/Emerson-Thoreau.html |title=Emerson & Thoreau |website=Wisdomportal.com |date=June 6, 2000 |access-date=October 26, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120203143708/http://www.wisdomportal.com/Emerson/Emerson-Thoreau.html |archive-date=February 3, 2012}}</ref>
+
+==Early life, family, and education==
+Emerson was born in [[Boston]], [[Massachusetts]], on May 25, 1803,<ref>Richardson, p. 18.</ref> to Ruth Haskins and the [[Rev. William Emerson]], a [[Unitarianism|Unitarian]] minister. He was named after his mother's brother Ralph and his father's great-grandmother Rebecca Waldo.<ref>Allen, p. 5.</ref> Ralph Waldo was the second of five sons who survived into adulthood; the others were William, Edward, Robert Bulkeley, and Charles.<ref name="Baker, 3">Baker, p. 3.</ref> Three other children—Phoebe, John Clarke, and Mary Caroline—died in childhood.<ref name="Baker, 3"/> Emerson was of English ancestry, and his family had been in [[New England]] since the early colonial period,<ref>Cooke, George Willis. ''Ralph Waldo Emerson''. pp. 1, 2.</ref> with Emerson being a seventh-generation descendant of ''[[Mayflower]]'' voyagers [[John Howland]] and [[Elizabeth Tilley]] through their daughter Hope.<ref>{{cite web |url = http://mayflowerhistory.com/famous-descendants/ |title = Notable Descendants |website = MayflowerHistory.com|archive-url = https://web.archive.org/web/20161019051635/http://mayflowerhistory.com/famous-descendants/ |archive-date = 2016-10-19 }}</ref>
+
+Emerson's father died from stomach cancer on May 12, 1811, less than two weeks before Emerson's eighth birthday.<ref>McAleer, p. 40.</ref> Emerson was raised by his mother, with the help of the other women in the family; his aunt [[Mary Moody Emerson]] in particular had a profound effect on him.<ref>Richardson, pp. 22–23.</ref> She lived with the family off and on and maintained a constant correspondence with Emerson until her death in 1863.<ref>Baker, p. 35.</ref>
+
+Emerson's formal schooling began at the [[Boston Latin School]] in 1812, when he was nine.<ref>McAleer, p. 44.</ref> In October 1817, at age 14, Emerson went to [[Harvard College]] and was appointed freshman messenger for the president, requiring Emerson to fetch delinquent students and send messages to faculty.<ref>McAleer, p. 52.</ref> Midway through his junior year, Emerson began keeping a list of books he had read and started a journal in a series of notebooks that would be called "Wide World".<ref>Richardson, p. 11.</ref> He took outside jobs to cover his school expenses, including as a waiter for the Junior Commons and as an occasional teacher working with his uncle Samuel and aunt [[Sarah Bradford Ripley|Sarah Ripley]] in [[Waltham, Massachusetts]].<ref>McAleer, p. 53.</ref> By his senior year, Emerson decided to go by his middle name, Waldo.<ref name="namechoice">Richardson, p. 6.</ref> Emerson served as Class Poet; as was custom, he presented an original poem on Harvard's Class Day, a month before his official graduation on August 29, 1821, when he was 18.<ref>McAleer, p. 61.</ref> He did not stand out as a student and graduated in the exact middle of his class of 59 people.<ref>[[#Buell|Buell]], p. 13.</ref> In the early 1820s, Emerson was a teacher at the School for Young Ladies (which was run by his brother William). He next spent two years living in a cabin in the Canterbury section of [[Roxbury, Massachusetts]], where he wrote and studied nature. In his honor, this area is now called Schoolmaster Hill in Boston's [[Franklin Park (Boston)|Franklin Park]].<ref>{{cite web|url=https://www.franklinparkcoalition.org/wp-content/uploads/2018/01/Ralph-Waldo-Emerson-The-Schoolmaster-of-Franklin-Park.pdf|website=Franklinparkcoalition.org|title=Ralph Waldo Emerson : The Schoolmaster of Franklin Park|access-date=2022-02-28}}</ref>
+
+In 1826, faced with poor health, Emerson went to seek a warmer climate. He first went to [[Charleston, South Carolina]], but found the weather was still too cold.<ref>[[#Richardson|Richardson]], p. 72.</ref> He then went farther south to [[St. Augustine, Florida]], where he took long walks on the beach and began writing poetry. While in St. Augustine he made the acquaintance of [[Prince Achille Murat]], the nephew of [[Napoleon Bonaparte]]. Murat was two years his senior; they became good friends and enjoyed each other's company. The two engaged in enlightening discussions of religion, society, philosophy, and government. Emerson considered Murat an important figure in his intellectual education.<ref>Field, Peter S. (2003). ''Ralph Waldo Emerson: The Making of a Democratic Intellectual''. Rowman & Littlefield. {{ISBN|978-0-8476-8843-2}}.</ref>
+
+While in St. Augustine, Emerson had his first encounter with [[slavery]]. At one point, he attended a meeting of the Bible Society while a slave auction was taking place in the yard outside. He wrote, "One ear therefore heard the glad tidings of great joy, whilst the other was regaled with 'Going, gentlemen, going!{{'"}}{{2px}}<ref>[[#Richardson|Richardson]], p. 76.</ref>
+
+==Early career==
+[[File:Emerson3 cropped.jpg|thumb|left|upright|Engraved drawing, 1878]]
+
+After Harvard, Emerson assisted his brother William<ref>Richardson, p. 29.</ref> in a school for young women<ref>McAleer, p. 66.</ref> established in their mother's house, after he had established his own school in [[Chelmsford, Massachusetts]]; when his brother William<ref>Richardson, p. 35.</ref> went to [[Göttingen]] to study law in mid-1824, Ralph Waldo closed the school but continued to teach in [[Cambridge, Massachusetts]], until early 1825.<ref name=schoolmaster>{{cite book|url=https://www.franklinparkcoalition.org/wp-content/uploads/2018/01/Ralph-Waldo-Emerson-The-Schoolmaster-of-Franklin-Park.pdf|title=Ralph Waldo Emerson: The Schoolmaster of Franklin Park (pdf format)|date=May 1980|author=Franklin Park Coalition|publisher=Boston Parks and Recreation Department|access-date=July 11, 2018}}</ref> Emerson was accepted into the [[Harvard Divinity School]] in late 1824,<ref name=schoolmaster /> and was inducted into [[Phi Beta Kappa]] in 1828.<ref>{{cite book |url=https://books.google.com/books?id=S586AQAAMAAJ&pg=PA18 |title=Catalogue of the Harvard Chapter of Phi Beta Kappa, Alpha of Massachusetts |author=Phi Beta Kappa. Massachusetts Alpha |date=1912 |page=20 |access-date=September 11, 2017 |publisher=Harvard University |via=Google Books}}</ref> Emerson's brother Edward,<ref>Richardson, pp. 36–37.</ref> two years younger than he, entered the office of the lawyer [[Daniel Webster]], after graduating from Harvard first in his class. Edward's physical health began to deteriorate, and he soon suffered a mental collapse as well; he was taken to McLean Asylum in June 1828 at age 25. Although he recovered his mental equilibrium, he died in 1834, apparently from long-standing [[tuberculosis]].<ref>Richardson, p. 37.</ref> Another of Emerson's bright and promising younger brothers, Charles, born in 1808, died in 1836, also of tuberculosis,<ref>Richardson, pp. 38–40.</ref> making him the third young person in Emerson's innermost circle to die in a period of a few years.
+
+Emerson met his first wife, Ellen Louisa Tucker, in Concord, New Hampshire, on Christmas Day, 1827, and married her when she was 18 two years later.<ref>Richardson, p. 92.</ref> The couple moved to Boston, with Emerson's mother, Ruth, moving with them to help take care of Ellen, who was already ill with tuberculosis.<ref>McAleer, p. 105.</ref> Less than two years after that, on February 8, 1831, Ellen died, at age 20, after uttering her last words, "I have not forgotten the peace and joy."<ref>Richardson, p. 108.</ref> Emerson was strongly affected by her death and visited her grave in Roxbury daily.<ref>Richardson, p. 116.</ref> In a journal entry dated March 29, 1832, he wrote, "I visited Ellen's tomb & opened the coffin."<ref>''Journals and Miscellaneous Notebooks of Ralph Waldo Emerson''. Volume I. p. 7.</ref>
+
+Boston's [[Second Church, Boston|Second Church]] invited Emerson to serve as its junior pastor, and he was ordained on January 11, 1829.<ref>Richardson, p. 88.</ref> His initial salary was $1,200 per year ({{inflation|US|1200|1829|fmt=eq}}{{inflation-fn|US}}), increasing to $1,400 in July,<ref>Richardson, p. 90.</ref> but with his church role he took on other responsibilities: he was the [[chaplain]] of the [[Massachusetts Legislature]] and a member of the [[Boston School Committee]]. His church activities kept him busy, though during this period, and facing the imminent death of his wife, he began to doubt his own beliefs.<ref>{{Cite web |date=2023-08-11 |title=Ralph Waldo Emerson {{!}} Biography, Poems, Books, Nature, Self-Reliance, & Facts {{!}} Britannica |url=https://www.britannica.com/biography/Ralph-Waldo-Emerson |access-date=2023-09-11 |website=www.britannica.com |language=en |quote=In 1829 he also married Ellen Louisa Tucker. When she died of tuberculosis in 1831, his grief drove him to question his beliefs and his profession.}}</ref>
+
+After his wife's death, he began to disagree with the church's methods, writing in his journal in June 1832, "I have sometimes thought that, in order to be a good minister, it was necessary to leave the ministry. The profession is antiquated. In an altered age, we worship in the dead forms of our forefathers."<ref>Sullivan, p. 6.</ref> His disagreements with church officials over the administration of the [[Eucharist|Communion]] service and misgivings about public prayer eventually led to his resignation in 1832. As he wrote, "This mode of commemorating Christ is not suitable to me. That is reason enough why I should abandon it."<ref>Packer, p. 39.</ref><ref>Emerson, Ralph Waldo (1832). [http://www.emersoncentral.com/lordsupper.htm "The Lord's Supper"]. ''Uncollected Prose''.</ref> As one Emerson scholar has pointed out, "Doffing the decent black of the pastor, he was free to choose the gown of the lecturer and teacher, of the thinker not confined within the limits of an institution or a tradition."<ref>Ferguson, Alfred R. (1964). "Introduction". ''The Journals and Miscellaneous Notebooks of Ralph Waldo Emerson''. Volume IV. Cambridge, Massachusetts: Belknap Press, p. xi.</ref>
+{{external media | width = 210px | float = right | headerimage= | video1 = [https://www.c-span.org/video/?66144-1/emerson-mind-fire ''Booknotes'' interview with Robert D. Richardson on ''Emerson: The Mind on Fire'', August 13, 1995], [[C-SPAN]]}}
+
+Emerson toured Europe in 1833 and later wrote of his travels in ''English Traits'' (1856).<ref>McAleer, p. 132.</ref> He left aboard the brig ''Jasper'' on Christmas Day, 1832, sailing first to [[Malta]].<ref>Baker, p. 23.</ref> During his European trip, he spent several months in Italy, visiting Rome, Florence and Venice, among other cities. When in Rome, he met with [[John Stuart Mill]], who gave him a letter of recommendation to meet [[Thomas Carlyle]]. He went to Switzerland and had to be dragged by fellow passengers to visit [[Voltaire]]'s home in Ferney, "protesting all the way upon the unworthiness of his memory".<ref name="Richardson, p. 138">Richardson, p. 138.</ref> He then went on to Paris, a "loud modern New York of a place",<ref name="Richardson, p. 138"/> where he visited the [[Jardin des Plantes]]. He was greatly moved by the organization of plants according to [[Antoine Laurent de Jussieu|Jussieu]]'s system of classification, and the way all such objects were related and connected. As [[Robert D. Richardson]] says, "Emerson's moment of insight into the interconnectedness of things in the Jardin des Plantes was a moment of almost visionary intensity that pointed him away from theology and toward science."<ref>Richardson, p. 143.</ref>
+
+Moving north to England, Emerson met [[William Wordsworth]], [[Samuel Taylor Coleridge]], and [[Thomas Carlyle]]. Carlyle in particular was a strong influence on him; Emerson would later serve as an unofficial literary agent in the United States for Carlyle, and in March 1835, he tried to persuade Carlyle to come to America to lecture.<ref>Richardson, p. 200.</ref> The two maintained [[Carlyle–Emerson correspondence|a correspondence]] until Carlyle's death in 1881.<ref>[[#Packer|Packer]], p. 40.</ref>
+[[File:Daguerreotype Lydia Jackson Emerson and Edward Waldo Emerson 1840.jpeg|thumb|[[Daguerreotype]] of [[Lidian Jackson Emerson]] and her son [[Edward Waldo Emerson]], {{c.|1850}}]]
+
+Emerson returned to the United States on October 9, 1833, and lived with his mother in [[Newton, Massachusetts]]. In October 1834, he moved to [[Concord, Massachusetts]], to live with his step-grandfather, Dr. [[Ezra Ripley]], at what was later named [[The Old Manse]].<ref>Richardson, p. 182.</ref> Given the budding [[Lyceum movement]], which provided lectures on all sorts of topics, Emerson saw a possible career as a lecturer. On November 5, 1833, he made the first of what would eventually be some 1,500 lectures, "The Uses of Natural History", in Boston. This was an expanded account of his experience in Paris.<ref>Richardson, p. 154.</ref> In this lecture, he set out some of his important beliefs and the ideas he would later develop in his first published essay, "Nature":
+
+{{blockquote|Nature is a language and every new fact one learns is a new word; but it is not a language taken to pieces and dead in the dictionary, but the language put together into a most significant and universal sense. I wish to learn this language, not that I may know a new grammar, but that I may read the great book that is written in that tongue.<ref>Emerson, Ralph Waldo (1959). ''Early Lectures 1833–36''. Stephen Whicher, ed. Cambridge, Massachusetts: Harvard University Press. {{ISBN|978-0-674-22150-5}}.</ref>}}
+
+On January 24, 1835, Emerson wrote a letter to [[Lidian Jackson Emerson|Lydia Jackson]] proposing marriage.<ref>Richardson, p, 190.</ref> Her acceptance reached him by mail on the 28th. In July 1835, he bought a house on the [[Cambridge and Concord Turnpike]] in Concord, Massachusetts, which he named Bush; it is now open to the public as the [[Ralph Waldo Emerson House]].<ref>Wilson, Susan (2000). ''Literary Trail of Greater Boston''. Boston: Houghton Mifflin. p. 127. {{ISBN|0-618-05013-2}}.</ref> Emerson quickly became one of the leading citizens in the town. He gave a lecture to commemorate the 200th anniversary of the town of Concord on September 12, 1835.<ref>Richardson, p. 206.</ref> Two days later, he married Jackson in her hometown of Plymouth, Massachusetts,<ref>Lydia (Jackson) Emerson was a descendant of Abraham Jackson, one of the original proprietors of Plymouth, who married the daughter of [[Nathaniel Morton]], the longtime Secretary of the [[Plymouth Colony]].</ref> and moved to the new home in Concord together with Emerson's mother on September 15.<ref>Richardson, pp. 207–208.</ref>
+
+Emerson quickly changed his wife's name to Lidian, and would call her Queenie,<ref>{{cite web|url=http://www.vcu.edu/engweb/transcendentalism/ideas/lydiasbible.html |title=Ideas and Thought |publisher=Vcu.edu |access-date=October 26, 2012}}</ref> and sometimes Asia,<ref>Richardson, p. 193.</ref> and she called him Mr. Emerson.<ref>Richardson, p. 192.</ref> Their children were Waldo, Ellen, Edith, and [[Edward Waldo Emerson]]. Edward Waldo Emerson was the father of [[Raymond Emerson]]. Ellen was named for his first wife, at Lidian's suggestion.<ref>Baker, p. 86.</ref> He hired [[Sophia Foord]] to educate his children.<ref>{{cite book | title = Dedham: Historic and Heroic Tales From Shiretown | first = James L. | last = Parr | publisher = The History Press | year = 2009 | isbn = 978-1-59629-750-0 |page=73}}</ref>
+
+Emerson was poor when he was at Harvard,<ref name="Richardson, 9">Richardson, p. 9.</ref> but was later able to support his family for much of his life.<ref name="Richardson, 91">Richardson, p. 91.</ref><ref name="Richardson, 175">Richardson, 175</ref> He inherited a fair amount of money after his first wife's death, though he had to file a lawsuit against the Tucker family in 1836 to get it.<ref name="Richardson, 175"/> He received $11,600 in May 1834 ({{inflation|US|11600|1834|fmt=eq}}),<ref>von Frank, p. 91.</ref>{{inflation-fn|US}} and a further $11,674.49 in July 1837 ({{inflation|US|11674|1837|fmt=eq}}).<ref>von Frank, p. 125.</ref>{{inflation-fn|US}} In 1834, he considered that he had an income of $1,200 a year from the initial payment of the estate,<ref name="Richardson, 91"/> equivalent to what he had earned as a pastor.
+
+==Literary career and Transcendentalism==
+[[File:RWEmerson1859.jpg|thumb|left|upright|Emerson in 1859]]
+On September 8, 1836, the day before the publication of ''[[Nature (book)|Nature]]'', Emerson met with [[Frederic Henry Hedge]], [[George Palmer Putnam|George Putnam]], and [[George Ripley (transcendentalist)|George Ripley]] to plan periodic gatherings of other like-minded intellectuals.<ref>Richardson, p. 245.</ref> This was the beginning of the [[Transcendental Club]], which served as a center for the movement. Its first official meeting was held on September 19, 1836.<ref>Baker, p. 53.</ref> On September 1, 1837, women attended a meeting of the Transcendental Club for the first time. Emerson invited [[Margaret Fuller]], Elizabeth Hoar, and Sarah Ripley for dinner at his home before the meeting to ensure that they would be present for the evening get-together.<ref>Richardson, p. 266.</ref> Fuller would prove to be an important figure in Transcendentalism. 
+ 
+Emerson anonymously sent his first essay, "Nature", to James Munroe and Company to be published on September 9, 1836. A year later, on August 31, 1837, he delivered his now-famous [[Phi Beta Kappa Society|Phi Beta Kappa]] address, "[[The American Scholar]]",<ref>Sullivan, p. 13.</ref> then entitled "An Oration, Delivered before the Phi Beta Kappa Society at Cambridge"; it was renamed for a collection of essays (which included the first general publication of "Nature") in 1849.<ref>Buell, p. 45.</ref> Friends urged him to publish the talk, and he did so at his own expense, in an edition of 500 copies, which sold out in a month.<ref name="Richardson, 263" /> In the speech, Emerson declared literary independence in the United States and urged Americans to create a writing style all their own, free from Europe.<ref>Watson, Peter (2005). ''Ideas: A History of Thought and Invention, from Fire to Freud''. New York: Harper Perennial. p. 688. {{ISBN|978-0-06-093564-1}}.</ref> [[James Russell Lowell]], who was a student at Harvard at the time, called it "an event without former parallel on our literary annals".<ref>Mowat, R. B. (1995). ''The Victorian Age''. London: Senate. p. 83. {{ISBN|1-85958-161-7}}.</ref> Another member of the audience, Reverend John Pierce, called it "an apparently incoherent and unintelligible address".<ref>[[Louis Menand|Menand, Louis]] (2001). ''[[The Metaphysical Club: A Story of Ideas in America]]''. New York: Farrar, Straus and Giroux. p. 18. {{ISBN|0-374-19963-9}}.</ref>
+
+In 1837, Emerson befriended [[Henry David Thoreau]]. Though they had likely met as early as 1835, in the fall of 1837, Emerson asked Thoreau, "Do you keep a journal?" The question went on to be a lifelong inspiration for Thoreau.<ref name=Buell121>Buell, p. 121.</ref> Emerson's own journal was published in 16 large volumes, in the definitive Harvard University Press edition issued between 1960 and 1982. Some scholars consider the journal to be Emerson's key literary work.<ref name=Rosenwald>Rosenwald</ref>{{page needed|date=August 2020}}
+
+In March 1837, Emerson gave a series of lectures on the [[philosophy of history]] at the [[Masonic Temple]] in Boston. This was the first time he managed a lecture series on his own, and it was the beginning of his career as a lecturer.<ref>Richardson, p. 257.</ref> The profits from this series of lectures were much larger than when he was paid by an organization to talk, and he continued to manage his own lectures often throughout his lifetime. He eventually gave as many as 80 lectures a year, traveling across the northern United States as far as St. Louis, Des Moines, Minneapolis, and California.<ref>Richardson, pp. 418–422.</ref>
+
+On July 15, 1838,<ref>Packer, p. 73.</ref> Emerson was invited to [[Divinity Hall, Harvard Divinity School]], to deliver the school's graduation address, which came to be known as the "[[Divinity School Address]]". Emerson discounted biblical miracles and proclaimed that, while Jesus was a great man, he was not God: historical Christianity, he said, had turned Jesus into a "demigod, as the Orientals or the Greeks would describe Osiris or Apollo".<ref name=Buell161>Buell, p. 161.</ref> His comments outraged the establishment and the general Protestant community. He was denounced as an [[atheism|atheist]]<ref name=Buell161/> and a poisoner of young men's minds. Despite the roar of critics, he made no reply, leaving others to put forward a defense. He was not invited back to speak at Harvard for another thirty years.<ref>Sullivan, p. 14.</ref>
+
+The Transcendental group began to publish its flagship journal, ''[[The Dial]]'', in July 1840.<ref>Gura, p. 129.</ref> They planned the journal as early as October 1839, but did not begin work on it until the first week of 1840.<ref>Von Mehren, p. 120.</ref> [[Unitarianism|Unitarian]] minister [[George Ripley (transcendentalist)|George Ripley]] was the managing editor.<ref>Slater, Abby (1978). ''In Search of Margaret Fuller''. New York: Delacorte Press. pp. 61–62. {{ISBN|0-440-03944-4}}.</ref> Margaret Fuller was the first editor, having been approached by Emerson after several others had declined the role.<ref>Gura, pp. 128–129.</ref> Fuller stayed on for about two years, when Emerson took over, using the journal to promote talented young writers including [[William Ellery Channing (poet)|Ellery Channing]] and Thoreau.<ref name=Buell121/>
+
+In 1841 Emerson published ''Essays'', his second book, which included the famous essay "Self-Reliance".<ref name="emersoncentral">{{cite web|url=http://www.emersoncentral.com/essays1.htm|title=Essays: First Series (1841) |publisher=emersoncentral.com|access-date=August 25, 2015}}</ref> His aunt called it a "strange medley of atheism and false independence", but it gained favorable reviews in London and Paris. This book, and its popular reception, more than any of Emerson's contributions to date laid the groundwork for his international fame.<ref>Rubel, David, ed. (2008). ''The Bedside Baccalaureate'', Sterling. p. 153.</ref>
+
+In January 1842 Emerson's first son, Waldo, died of [[Group A streptococcal infection|scarlet fever]].<ref>Cheever, p. 93.</ref> Emerson wrote of his grief in the poem "[[Threnody]]" ("For this losing is true dying"),<ref>McAleer, p. 313.</ref> and the essay "Experience". In the same month, [[William James]] was born, and Emerson agreed to be his [[godparent|godfather]].
+
+[[Amos Bronson Alcott|Bronson Alcott]] announced his plans in November 1842 to find "a farm of a hundred acres in excellent condition with good buildings, a good orchard and grounds".<ref>Baker, p. 218.</ref> [[Charles Lane (transcendentalist)|Charles Lane]] purchased a {{convert|90|acre|ha|adj=on}} farm in Harvard, Massachusetts, in May 1843 for what would become [[Fruitlands (transcendental center)|Fruitlands]], a community based on Utopian ideals inspired in part by Transcendentalism.<ref>Packer, p. 148.</ref> The farm would run based on a communal effort, using no animals for labor; its participants would eat no meat and use no wool or leather.<ref>Richardson, p. 381.</ref> Emerson said he felt "sad at heart" for not engaging in the experiment himself.<ref>Baker, p. 219.</ref> Even so, he did not feel Fruitlands would be a success. "Their whole doctrine is spiritual", he wrote, "but they always end with saying, Give us much land and money".<ref name=Packer150>Packer, p. 150.</ref> Even Alcott admitted he was not prepared for the difficulty in operating Fruitlands. "None of us were prepared to actualize practically the ideal life of which we dreamed. So we fell apart", he wrote.<ref name=Baker221>Baker, p. 221.</ref> After its failure, Emerson helped buy a farm for Alcott's family in Concord<ref name=Packer150/> which Alcott named "[[The Wayside|Hillside]]".<ref name=Baker221/>
+
+''The Dial'' ceased publication in April 1844; [[Horace Greeley]] reported it as an end to the "most original and thoughtful periodical ever published in this country".<ref>Gura, p. 130.  An unrelated magazine of the same name was published during several periods through 1929.</ref>
+
+In 1844, Emerson published his second collection of essays, ''Essays: Second Series''. This collection included "The Poet", "Experience", "Gifts", and an essay entitled "Nature", a different work from the 1836 essay of the same name.
+
+Emerson made a living as a popular lecturer in [[New England]] and much of the rest of the country. He had begun lecturing in 1833; by the 1850s he was giving as many as 80 lectures per year.<ref>Richardson, p. 418.</ref> He addressed the [[Boston Society for the Diffusion of Useful Knowledge]] and the [[Gloucester Lyceum]], among others. Emerson spoke on a wide variety of subjects, and many of his essays grew out of his lectures. He charged between $10 and $50 for each appearance, bringing him as much as $2,000 in a typical winter lecture season. This was more than his earnings from other sources. In some years, he earned as much as $900 for a series of six lectures, and in another, for a winter series of talks in Boston, he netted $1,600.<ref>Wilson, R. Jackson (1999). "Emerson as Lecturer". ''The Cambridge Companion to Ralph Waldo Emerson''. Cambridge University Press.</ref> He eventually gave some 1,500 lectures in his lifetime. His earnings allowed him to expand his property, buying {{convert|11|acre|ha}} of land by [[Walden Pond]] and a few more acres in a neighboring pine grove. He wrote that he was "landlord and water lord of 14 acres, more or less".<ref name=Packer150/>
+
+Emerson was introduced to Indian philosophy through the works of the French philosopher [[Victor Cousin]].<ref>Richardson, p. 114.</ref> In 1845, Emerson's journals show he was reading the ''[[Bhagavad Gita]]'' and [[Henry Thomas Colebrooke]]'s ''Essays on the Vedas''.<ref>Pradhan, Sachin N. (1996). ''India in the United States: Contribution of India and Indians in the United States of America''. Bethesda, Maryland: SP Press International. p. 12.</ref> He was strongly influenced by [[Vedanta]], and much of his writing has strong shades of [[Nonduality (spirituality)|nondualism]]. One of the clearest examples of this can be found in his essay "[[Over-soul|The Over-soul]]":
+{{blockquote|We live in succession, in division, in parts, in particles. Meantime within man is the soul of the whole; the wise silence; the universal beauty, to which every part and particle is equally related, the eternal ONE. And this deep power in which we exist and whose beatitude is all accessible to us, is not only self-sufficing and perfect in every hour, but the act of seeing and the thing seen, the seer and the spectacle, the subject and the object, are one. We see the world piece by piece, as the sun, the moon, the animal, the tree; but the whole, of which these are shining parts, is the soul.<ref>Emerson, Ralph Waldo (1841). "The Over-Soul". ''Essays: First Series''.</ref>}}
+
+The central message Emerson drew from his Asian studies was that "the purpose of life was spiritual transformation and direct experience of divine power, here and now on earth."<ref>{{Cite book|title=Emerson and the light of India : an intellectual history|last=Gordon, Robert C. (Robert Cartwright)|date=2007|publisher=National Book Trust, India|isbn=978-8123749341|edition=1st|location=New Delhi|oclc=196264051}}</ref><ref>{{Cite book|title=American Veda : from Emerson and the Beatles to yoga and meditation—how Indian spirituality changed the West|last=Goldberg, Philip|year=2013|isbn=978-0385521352|edition=First paperback|location=New York|oclc=808413359}}</ref>
+
+In 1847–48, he toured the British Isles.<ref>Buell, p. 31.</ref> He also visited Paris between the [[French Revolution of 1848]] and the bloody [[June Days Uprising|June Days]]. When he arrived, he saw the stumps of trees that had been cut down to form barricades in the February riots. On May 21, he stood on the Champ de Mars in the midst of mass celebrations for concord, peace and labor. He wrote in his journal, "At the end of the year we shall take account, & see if the Revolution was worth the trees."<ref>Allen, Gay Wilson (1982). ''Waldo Emerson''. New York: Penguin Books. pp. 512–514.</ref> The trip left an important imprint on Emerson's later work. His 1856 book ''English Traits'' is based largely on observations recorded in his travel journals and notebooks. Emerson later came to see the American Civil War as a "revolution" that shared common ground with the European revolutions of 1848.<ref>{{cite book|last=Koch|first=Daniel|title=Ralph Waldo Emerson in Europe: Class, Race and Revolution in the Making of an American Thinker|url=https://books.google.com/books?id=yiG3uwlifN0C|year=2012|publisher=I.B.Tauris|isbn=978-1-84885-946-3|pages=181–195}}</ref>
+
+In a speech in [[Concord, Massachusetts]], on May 3, 1851, Emerson denounced the [[Fugitive Slave Act]]:
+{{blockquote|The act of Congress is a law which every one of you will break on the earliest occasion{{mdash}}a law which no man can obey, or abet the obeying, without loss of self-respect and forfeiture of the name of gentleman.<ref>{{cite web|url=http://www.bartleby.com/90/1106.html|title=VI. The Fugitive Slave Law – Address at Concord. Ralph Waldo Emerson. 1904. The Complete Works|website=Bartleby.com|date=October 11, 2022 }}</ref>}}
+
+That summer, he wrote in his diary:
+{{blockquote|This filthy enactment was made in the nineteenth century by people who could read and write. I will not obey it.<ref>{{cite web|url=http://score.rims.k12.ca.us/score_lessons/impact/|title=Impact of the Fugitive Slave Law of 1850|website=score.rims.k12.ca.us|access-date=February 18, 2017|archive-date=January 5, 2019|archive-url=https://web.archive.org/web/20190105030212/http://score.rims.k12.ca.us/score_lessons/impact/|url-status=dead}}</ref>}}
+
+In February 1852 Emerson, [[James Freeman Clarke]], and [[William Henry Channing]] edited an edition of the works and letters of [[Margaret Fuller]], who had died in 1850.<ref>Baker, p. 321.</ref> Within a week of her death, her New York editor, [[Horace Greeley]], suggested to Emerson that a biography of Fuller, to be called ''Margaret and Her Friends'', be prepared quickly "before the interest excited by her sad decease has passed away".<ref>Von Mehren, p. 340.</ref> Published under the title ''The Memoirs of Margaret Fuller Ossoli'',<ref name=VonMehren343>Von Mehren, p. 343.</ref> Fuller's words were heavily censored or rewritten.<ref>Blanchard, Paula (1987). ''Margaret Fuller: From Transcendentalism to Revolution''. Reading, Massachusetts: Addison-Wesley. p. 339. {{ISBN|0-201-10458-X}}.</ref> The three editors were not concerned about accuracy; they believed public interest in Fuller was temporary and that she would not survive as a historical figure.<ref>Von Mehren, p. 342.</ref> Even so, it was the best-selling biography of the decade and went through thirteen editions before the end of the century.<ref name=VonMehren343/>
+
+[[Walt Whitman]] published the innovative poetry collection ''[[Leaves of Grass]]'' in 1855 and sent a copy to Emerson for his opinion. Emerson responded positively, sending Whitman a flattering five-page letter in response.<ref>Kaplan, p. 203.</ref> Emerson's approval helped the first edition of ''Leaves of Grass'' stir up significant interest<ref>Callow, Philip (1992). ''From Noon to Starry Night: A Life of Walt Whitman''. Chicago: Ivan R. Dee. p. 232. {{ISBN|0-929587-95-2}}.</ref> and convinced Whitman to issue a second edition shortly thereafter.<ref>Miller, James E. Jr. (1962). ''Walt Whitman''. New York: Twayne Publishers. p. 27.</ref> This edition quoted a phrase from Emerson's letter, printed in [[Metal leaf#Gold Leaf|gold leaf]] on the cover: "I Greet You at the Beginning of a Great Career".<ref>[[Reynolds, David S.]] (1995). ''Walt Whitman's America: A Cultural Biography''. New York: Vintage Books. p. 352. {{ISBN|0-679-76709-6}}.</ref> Emerson took offense that this letter was made public<ref>Callow, Philip (1992). ''From Noon to Starry Night: A Life of Walt Whitman''. Chicago: Ivan R. Dee. p. 236. {{ISBN|0-929587-95-2}}.</ref> and later was more critical of the work.<ref>Reynolds, David S. (1995). ''Walt Whitman's America: A Cultural Biography''. New York: Vintage Books. p. 343. {{ISBN|0-679-76709-6}}.</ref>
+
+==Philosophers Camp==
+
+In summer 1858, Emerson camped at Follensbee Pond in the [[Adirondack Mountains]] in upstate New York with nine others: [[Louis Agassiz]], [[James Russell Lowell]], John Holmes, [[Horatio Woodman]], [[Ebenezer Rockwood Hoar]], [[Jeffries Wyman]], [[Estes Howe]], [[Amos Binney]], and [[William James Stillman]]. Invited, but unable to make the trip, were [[Oliver Wendell Holmes Sr.|Oliver Wendell Holmes]], [[Henry Wadsworth Longfellow]], and [[Charles Eliot Norton]], all members of the [[Saturday Club (Boston, Massachusetts)]].<ref>{{Cite book|title=The Early Years of the Saturday Club 1855–1870|last=Emerson|first=Edward|publisher=Houghton Mifflin|year=1918}}</ref>
+
+This social club was mostly a literary membership that met the last Saturday of the month at the Boston Parker House Hotel ([[Omni Parker House]]). [[William James Stillman]] was a painter and founding editor of an art journal called the Crayon. Stillman was born and grew up in Schenectady which was just south of the Adirondack mountains. He later traveled there to paint the wilderness landscape and to fish and hunt. He shared his experiences in this wilderness to the members of the Saturday Club, raising their interest in this unknown region.
+
+James Russell Lowell<ref>{{Cite book|title=Letters of James Russel Lowell|last=Norton|first=Charles|publisher=Harper & Brothers|year=1894|location=Houghton Library, Harvard University}}</ref> and William Stillman led the effort to organize a trip to the Adirondacks. They began their journey on August 2, 1858, traveling by train, steamboat, [[stagecoach]], and canoe guide boats. News that these cultured men were living like "Sacs and Sioux" in the wilderness appeared in newspapers across the nation. This became known as the "''Philosophers Camp''".<ref>{{Cite book|title=A Not Too Greatly Changed Eden – The Story of the Philosophers Camp in the Adirondacks|last=Schlett|first=James|publisher=Cornell University Press|year=2015|isbn=978-0-8014-5352-6|url=https://archive.org/details/nottoogreatlycha00schl}}</ref>
+
+This event was a landmark in the nineteenth-century intellectual movement, linking nature with art and literature.
+
+Although much has been written over many years by scholars and biographers of Emerson's life, little has been written of what has become known as the "Philosophers Camp" at Follensbee Pond. Yet, his epic poem "Adirondac"<ref>{{Cite book|title=May-Day and Other Pieces|last=Emerson|first=Ralph Waldo|publisher=Ticknor and Fields|year=1867|url=https://en.wikisource.org/wiki/May-day_and_other_pieces}}</ref> reads like a journal of his day-to-day detailed description of adventures in the wilderness with his fellow members of the Saturday Club. This two-week camping excursion (1858 in the Adirondacks) brought him face to face with a true wilderness, something he spoke of in his essay "[[Nature (essay)|Nature]]", published in 1836. He said, "in the wilderness I find something more dear and connate than in streets or villages".<ref>{{Cite book|url=https://books.google.com/books?id=TfRDAQAAMAAJ|title=Nature|last=Emerson|first=Ralph Waldo|publisher=The Roycrofters|year=1905|pages=16–17}}</ref>
+
+==Civil War years==
+Emerson was staunchly opposed to slavery, but he did not appreciate being in the public limelight and was hesitant about lecturing on the subject. In the years leading up to the Civil War, he did give a number of lectures, however, beginning as early as November 1837.<ref>Gougeon, p. 38.</ref> A number of his friends and family members were more active [[Abolitionism in the United States|abolitionists]] than he, at first, but from 1844 on he more actively opposed slavery. He gave a number of speeches and lectures, and welcomed [[John Brown (abolitionist)|John Brown]] to his home during Brown's visits to Concord.<ref>Gougeon</ref>{{page needed|date=August 2020}} He voted for [[Abraham Lincoln]] [[1860 United States presidential election|in 1860]], but was disappointed that Lincoln was more concerned about preserving the Union than eliminating slavery outright.<ref>McAleer, pp. 569–570.</ref> Once the American Civil War broke out, Emerson made it clear that he believed in immediate emancipation of the slaves.<ref>Richardson, p. 547.</ref>
+
+Around this time, in 1860, Emerson published ''[[The Conduct of Life]]'', his seventh collection of essays. It "grappled with some of the thorniest issues of the moment," and "his experience in the abolition ranks is a telling influence in his conclusions."<ref>Gougeon, p. 260.</ref> In these essays Emerson strongly [[The Conduct of Life#Civil War|embraced the idea of war]] as a means of national rebirth: "Civil war, national bankruptcy, or revolution, [are] more rich in the central tones than languid years of prosperity."<ref>Emerson, Ralph Waldo (1860). ''The Conduct of Life''. Boston: Ticknor & Fields. p.  230.</ref>
+
+Emerson visited Washington, D.C., at the end of January 1862. He gave a public lecture at the Smithsonian on January 31, 1862, and declared, "The South calls slavery an institution ... I call it destitution ... Emancipation is the demand of civilization".<ref>Baker, p. 433.</ref> The next day, February 1, his friend [[Charles Sumner]] took him to meet Lincoln at the [[White House]]. Lincoln was familiar with Emerson's work, having previously seen him lecture.<ref name=oliver/> Emerson's misgivings about Lincoln began to soften after this meeting.<ref>McAleer, p. 570.</ref> In 1865, he spoke at a memorial service held for Lincoln in Concord: "Old as history is, and manifold as are its tragedies, I doubt if any death has caused so much pain as this has caused, or will have caused, on its announcement."<ref name=oliver>{{cite book |title=The Essential Writings of Ralph Waldo Emerson |last=Brooks |first=Atkinson |author2=Mary Oliver  |year=2000 |publisher=Modern Library |isbn=978-0-679-78322-0 |pages=827, 829}}</ref> Emerson also met a number of high-ranking government officials, including Salmon P. Chase, the secretary of the treasury; Edward Bates, the attorney general; Edwin M. Stanton, the secretary of war; Gideon Welles, the secretary of the navy; and William Seward, the secretary of state.<ref>Gougeon, p. 276.</ref>
+
+On May 6, 1862, Emerson's protégé Henry David Thoreau died of tuberculosis at the age of 44. Emerson delivered his eulogy. He often referred to Thoreau as his best friend,<ref>Richardson, p. 548.</ref> despite a falling-out that began in 1849 after Thoreau published ''[[A Week on the Concord and Merrimack Rivers]]''.<ref>Packer, p. 193.</ref> Another friend, [[Nathaniel Hawthorne]], died two years after Thoreau, in 1864. Emerson served as a pallbearer when Hawthorne was buried in Concord, as Emerson wrote, "in a pomp of sunshine and verdure".<ref>Baker, p. 448.</ref>
+
+He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1864.<ref name=AAAS>{{cite web |title=E |work=Members of the American Academy of Arts & Sciences: 1780–2012 |page=162 |url=http://www.amacad.org/publications/BookofMembers/ChapterE.pdf |publisher=American Academy of Arts and Sciences |access-date=April 6, 2011 |archive-url=https://web.archive.org/web/20181021082014/http://www.amacad.org/publications/BookofMembers/ChapterE.pdf |archive-date=October 21, 2018}}</ref> In 1867, he was elected as a member to the [[American Philosophical Society]].<ref>{{cite web|title=APS Member History|url=https://search.amphilsoc.org/memhist/search?creator=&title=&subject=&subdiv=&mem=&year=1867&year-max=1867&dead=&keyword=&smode=advanced|access-date=2021-04-21|website=search.amphilsoc.org}}</ref>
+
+==Final years and death==
+[[File:RWEmerson.jpg|thumb|upright|Emerson in later years]]
+Starting in 1867, Emerson's health began declining; he wrote much less in his journals.<ref>Gougeon, p. 325.</ref> Beginning as early as the summer of 1871 or in the spring of 1872, he started experiencing memory problems<ref>Baker, p. 502.</ref> and suffered from [[aphasia]].<ref name=Richardson569>Richardson, p. 569.</ref> By the end of the decade, he forgot his own name at times and, if asked how he felt, would respond "Quite well; I have lost my mental faculties, but am perfectly well".<ref name=McAleer629>McAleer, p. 629.</ref>
+
+In the spring of 1871, Emerson took a trip on the [[First transcontinental railroad|transcontinental railroad]], barely two years after its completion. Along the way and in California he met a number of dignitaries, including [[Brigham Young]] during a stopover in Salt Lake City. Part of his California visit included a trip to [[Yosemite]], and while there he met a young and unknown [[John Muir]], a signature event in Muir's career.<ref>{{cite book |last=Thayer |first=James Bradley |title=A Western Journey with Mr. Emerson |url=https://archive.org/details/awesternjourney00thaygoog |access-date=August 1, 2014 |year=1884 |publisher=Little, Brown, and Company |location=Boston}}</ref><ref>{{cite book |last=Wilson |first=Brian C. |title=The California Days of Ralph Waldo Emerson |year=2022 |publisher=University of Massachusetts Press |location=Amherst, MA |isbn=978-1625346438}}</ref>
+
+Emerson's Concord home caught fire on July 24, 1872. He called for help from neighbors and, giving up on putting out the flames, all tried to save as many objects as possible.<ref>Richardson, p. 566.</ref> The fire was put out by Ephraim Bull Jr., the one-armed son of [[Ephraim Wales Bull]].<ref>Baker, p. 504.</ref> Donations were collected by friends to help the Emersons rebuild, including $5,000 gathered by [[Francis Cabot Lowell (judge)|Francis Cabot Lowell]], another $10,000 collected by [[LeBaron Russell Briggs]], and a personal donation of $1,000 from [[George Bancroft]].<ref>Baker, p. 506.</ref> Support for shelter was offered as well; though the Emersons ended up staying with family at the Old Manse, invitations came from [[Anne Lynch Botta]], [[James Elliot Cabot]], [[James T. Fields]] and [[Annie Adams Fields]].<ref>McAleer, p. 613.</ref> The fire marked an end to Emerson's serious lecturing career; from then on, he would lecture only on special occasions and only in front of familiar audiences.<ref>Richardson, p. 567.</ref>
+
+While the house was being rebuilt, Emerson took a trip to England, continental Europe, and Egypt. He left on October 23, 1872, along with his daughter Ellen,<ref>Richardson, p. 568.</ref> while his wife Lidian spent time at the Old Manse and with friends.<ref>Baker, p. 507.</ref> Emerson and his daughter Ellen returned to the United States on the ship ''Olympus'' along with friend [[Charles Eliot Norton]] on April 15, 1873.<ref>McAleer, p. 618.</ref> Emerson's return to Concord was celebrated by the town, and school was canceled that day.<ref name=Richardson569/>
+
+[[File:Emersons grave.jpg|thumb|right|Emerson's grave – [[Sleepy Hollow Cemetery (Concord, Massachusetts)|Sleepy Hollow Cemetery]], Concord, Massachusetts]]
+[[File:Close up of Ralph Waldo Emerson's grave.jpeg|thumb|Emerson's grave marker]]
+In late 1874, Emerson published an anthology of poetry entitled ''Parnassus'',<ref>{{Cite book|url=https://books.google.com/books?id=hckauAdkix0C&q=In+late+1874,+Emerson+published+an+anthology+of+poetry+called+Parnassus&pg=PA212|title=Encyclopedia of Transcendentalism|last=Wayne|first=Tiffany K.|year= 2014|publisher=Infobase Publishing|isbn=978-1438109169|language=en}}</ref><ref>{{cite web |url=http://www.bartleby.com/371/ |editor=Ralph Waldo Emerson |date=1880 |title=Parnassus: An Anthology of Poetry |website=Bartleby.com |access-date=January 26, 2018}}</ref> which included poems by [[Anna Laetitia Barbauld]], [[Julia Caroline Dorr]], [[Jean Ingelow]], [[Lucy Larcom]], [[Jones Very]], as well as Thoreau and several others.<ref>Richardson, p. 570.</ref> Originally, the anthology had been prepared as early as the fall of 1871, but it was delayed when the publishers asked for revisions.<ref>Baker, p. 497.</ref>
+
+The problems with his memory had become embarrassing to Emerson and he ceased his public appearances by 1879. In reply to an invitation to a retirement celebration for [[Octavius B. Frothingham]], he wrote, ''"I am not in condition to make visits, or take any part in conversation. Old age has rushed on me in the last year, and tied my tongue, and hid my memory, and thus made it a duty to stay at home."'' The ''New York Times'' quoted his reply and noted that his regrets were read aloud at the celebration.<ref>The New York Times, p. 1, April 23, 1879</ref> Holmes wrote of the problem saying, "Emerson is afraid to trust himself in society much, on account of the failure of his memory and the great difficulty he finds in getting the words he wants. It is painful to witness his embarrassment at times".<ref name=McAleer629/>
+
+On April 21, 1882, Emerson was found to be suffering from [[pneumonia]].<ref name="Richardson, 572">Richardson, p. 572.</ref> He died six days later. Emerson is buried in [[Sleepy Hollow Cemetery, Concord]], Massachusetts.<ref>Sullivan, p. 25.</ref> He was placed in his coffin wearing a white robe given by the American sculptor [[Daniel Chester French]].<ref>McAleer, p. 662.</ref>
+
+==Lifestyle and beliefs==
+{{Individualism sidebar}}
+Emerson's religious views were often considered radical at the time. He believed that all things are connected to God and, therefore, all things are divine.<ref>Richardson, p. 538.</ref> Critics believed that Emerson was removing the central God figure; as [[Henry Ware Jr.]] said, Emerson was in danger of taking away "the Father of the Universe" and leaving "but a company of children in an orphan asylum".<ref>Buell, p. 165.</ref> Emerson was partly influenced by German philosophy and [[Biblical criticism]].<ref>Packer, p. 23.</ref> His views, the basis of [[Transcendentalism]], suggested that God does not have to reveal the truth, but that the truth could be intuitively experienced directly from nature.<ref>Hankins, Barry (2004). ''The Second Great Awakening and the Transcendentalists''. Westport, Connecticut: Greenwood Press. p. 136. {{ISBN|0-313-31848-4}}.</ref> When asked his religious belief, Emerson stated, "I am more of a [[Quakers|Quaker]] than anything else. I believe in the 'still, small voice', and that voice is Christ within us."<ref>Emerson, Ralph Waldo (1932). ''Uncollected Lectures''. Clarence Gohdes, ed. New York. p. 57.</ref>
+
+Emerson was a supporter of the spread of community libraries in the 19th century, having this to say of them: "Consider what you have in the smallest chosen library. A company of the wisest and wittiest men that could be picked out of all civil countries, in a thousand years, have set in best order the results of their learning and wisdom."<ref>{{cite book|last1=Murray|first1=Stuart A. P.|url=https://archive.org/details/libraryillustrat0000murr|title=The Library: An Illustrated History|date=2009|publisher=[[Skyhorse Pub.]]|isbn=978-1602397064|location=New York|url-access=registration}}</ref>
+
+Emerson had romantic interest in various women throughout his life,<ref name="Richardson, 9" /> including Anna Barker<ref>Richardson, p. 326.</ref> and [[Caroline Sturgis Tappan|Caroline Sturgis]].<ref>Richardson, p. 327.</ref>
+
+=== Race and slavery ===
+Emerson did not become an ardent abolitionist until 1844, though his journals show he was concerned with slavery beginning in his youth, even dreaming about helping to free slaves. In June 1856, shortly after [[Charles Sumner]], a [[United States Senator]], was [[Caning of Charles Sumner|beaten for his staunch abolitionist views]], Emerson lamented that he himself was not as committed to the cause. He wrote, "There are men who as soon as they are born take a bee-line to the axe of the inquisitor. ... Wonderful the way in which we are saved by this unfailing supply of the moral element".<ref name=McAleer531>McAleer, p. 531.</ref> After Sumner's attack, Emerson began to speak out about slavery. "I think we must get rid of slavery, or we must get rid of freedom", he said at a meeting at Concord that summer.<ref>Packer, p. 232.</ref> Emerson used slavery as an example of a human injustice, especially in his role as a minister. In early 1838, provoked by the murder of an abolitionist publisher from [[Alton, Illinois]], named [[Elijah Parish Lovejoy]], Emerson gave his first public antislavery address. As he said, "It is but the other day that the brave Lovejoy gave his breast to the bullets of a mob, for the rights of free speech and opinion, and died when it was better not to live".<ref name=McAleer531/> [[John Quincy Adams]] said the mob-murder of Lovejoy "sent a shock as of any earthquake throughout this continent".<ref>Richardson, p. 269.</ref> However, Emerson maintained that reform would be achieved through moral agreement rather than by militant action. By August 1, 1844, at a lecture in Concord, he stated more clearly his support for the abolitionist movement: "We are indebted mainly to this movement, and to the continuers of it, for the popular discussion of every point of practical ethics".<ref>{{cite book | last=Lowance | first=Mason | title=Against Slavery: An Abolitionist Reader | pages=301–302 | publisher=Penguin Classics | year=2000 | isbn=0-14-043758-4}}</ref>
+
+Emerson is often known as one of the most [[Liberal democracy|liberal democratic]] thinkers of his time who believed that through the democratic process, slavery should be abolished. While being an avid abolitionist who was known for his criticism of the legality of slavery, Emerson struggled with the implications of race.<ref name="Field, Peter S 2001">Field, Peter S. (2001). "The Strange Career of Emerson and Race." ''American Nineteenth Century History'' 2.1.</ref> His usual liberal leanings did not clearly translate when it came to believing that all races had equal capability or function, which was a common conception for the period in which he lived.<ref name="Field, Peter S 2001"/> Many critics believe that it was his views on race that inhibited him from becoming an abolitionist earlier in his life and also inhibited him from being more active in the antislavery movement.<ref name="Turner, Jack 2008">Turner, Jack (2008). "Emerson, Slavery, and Citizenship." ''Raritan'' 28.2:127–146.</ref> Much of his early life, he was silent on the topic of race and slavery. Not until he was well into his 30s did Emerson begin to publish writings on race and slavery, and not until he was in his late 40s and 50s did he become known as an antislavery activist.<ref name="Field, Peter S 2001"/>
+
+During his early life, Emerson seemed to develop a hierarchy of races based on faculty to reason or rather, whether African slaves were distinguishably equal to white men based on their ability to reason.<ref name="Field, Peter S 2001"/> In a journal entry written in 1822, Emerson wrote about a personal observation: "It can hardly be true that the difference lies in the attribute of reason. I saw ten, twenty, a hundred large lipped, lowbrowed black men in the streets who, except in the mere matter of language, did not exceed the sagacity of the elephant. Now is it true that these were created superior to this wise animal, and designed to control it? And in comparison with the highest orders of men, the Africans will stand so low as to make the difference which subsists between themselves & the sagacious beasts inconsiderable."<ref name="Emerson, Ralph Waldo 1982">Emerson, Ralph Waldo (1982). ''The Journals and Miscellaneous Notebooks of Ralph Waldo Emerson''. William H. Gilman, ed. Cambridge, Mass.: Belknap.</ref>
+
+As with many supporters of slavery, during his early years, Emerson seems to have thought that the faculties of African slaves were not equal to those of white slave-owners. But this belief in racial inferiorities did not make Emerson a supporter of slavery.<ref name="Field, Peter S 2001"/> Emerson wrote later that year that "No ingenious sophistry can ever reconcile the unperverted mind to the pardon of Slavery; nothing but tremendous familiarity, and the bias of private interest".<ref name="Emerson, Ralph Waldo 1982"/> Emerson saw the removal of people from their homeland, the treatment of slaves, and the self-seeking benefactors of slaves as gross injustices.<ref name="Turner, Jack 2008"/> For Emerson, slavery was a moral issue, while superiority of the races was an issue he tried to analyze from a scientific perspective based on what he believed to be inherited traits.<ref name="Finseth, Ian 2005">Finseth, Ian (2005). "Evolution, Cosmopolitanism, and Emerson's Antislavery Politics." ''American Literature'' 77.4:729–760.</ref>
+
+Emerson saw himself as a man of "Saxon descent". In a speech given in 1835 titled "Permanent Traits of the English National Genius", he said, "The inhabitants of the United States, especially of the Northern portion, are descended from the people of England and have inherited the traits of their national character".<ref name="The Early Lectures of Ralph Waldo Emerson By Ralph Waldo Emerson and edited by Stephen E. Whicher">Emerson, Ralph Waldo (1959). ''The Early Lectures of Ralph Waldo Emerson''. Harvard University Press. p. 233.</ref> He saw direct ties between race based on national identity and the inherent nature of the human being. White Americans who were native-born in the United States and of English ancestry were categorized by him as a separate "race", which he thought had a position of being superior to other nations. His idea of race was based on a shared culture, environment, and history. He believed that native-born Americans of English descent were superior to European immigrants, including the Irish, French, and Germans, and also as being superior to English people from England, whom he considered a close second and the only really comparable group.<ref name="Field, Peter S 2001"/>
+
+Later in his life, Emerson's ideas on race changed when he became more involved in the abolitionist movement while at the same time, he began to more thoroughly analyze the philosophical implications of race and racial hierarchies. His beliefs shifted focus to the potential outcomes of racial conflicts. Emerson's racial views were closely related to his views on nationalism and national superiority, which was a common view in the United States at that time. Emerson used contemporary theories of race and natural science to support a theory of race development.<ref name="Finseth, Ian 2005"/> He believed that the current political battle and the current enslavement of other races was an inevitable racial struggle, one that would result in the inevitable union of the United States. Such conflicts were necessary for the dialectic of change that would eventually allow the progress of the nation.<ref name="Finseth, Ian 2005"/> In much of his later work, Emerson seems to allow the notion that different European races will eventually mix in America. This hybridization process would lead to a superior race that would be to the advantage of the superiority of the United States.<ref>Field, p. 9.</ref>
+
+==Legacy==
+[[File:Ralph Waldo Emerson 1940 Issue-3c.jpg|thumb|right|upright|{{center|Emerson postage stamp, [[Postage stamps and postal history of the United States#Famous Americans Series of 1940|issue of 1940]]}}]]
+
+As a lecturer and orator, Emerson—nicknamed the Sage of Concord—became the leading voice of intellectual culture in the United States.<ref>Buell, p. 34.</ref> [[James Russell Lowell]], editor of the ''[[Atlantic Monthly]]'' and the ''[[North American Review]]'', commented in his book ''My Study Windows'' (1871), that Emerson was not only the "most steadily attractive lecturer in America," but also "one of the pioneers of the lecturing system."<ref>Bosco and Myerson. ''Emerson in His Own Time''. p. 54</ref> [[Herman Melville]], who had met Emerson in 1849, originally thought he had "a defect in the region of the heart" and a "self-conceit so intensely intellectual that at first one hesitates to call it by its right name", though he later admitted Emerson was "a great man".<ref>Sullivan, p. 123.</ref> [[Theodore Parker]], a minister and Transcendentalist, noted Emerson's ability to influence and inspire others: "the brilliant genius of Emerson rose in the winter nights, and hung over Boston, drawing the eyes of ingenuous young people to look up to that great new star, a beauty and a mystery, which charmed for the moment, while it gave also perennial inspiration, as it led them forward along new paths, and towards new hopes".<ref>Baker, p. 201.</ref>
+
+Emerson's work not only influenced his contemporaries, such as Walt Whitman and Henry David Thoreau, but would continue to influence thinkers and writers in the United States and around the world down to the present.<ref>{{Cite book|url=https://books.google.com/books?id=xmgbAgAAQBAJ&pg=PT17|title=Delphi Complete Works of Ralph Waldo Emerson (Illustrated)|last=Emerson|first=Ralph Waldo|date=2013|publisher=Delphi Classics|isbn=978-1-909496-86-6|page=17|language=en}}</ref> Notable thinkers who recognize Emerson's influence include [[Nietzsche]] and [[William James]], Emerson's godson. There is little disagreement that Emerson was the most influential writer of 19th-century America, though these days he is largely the concern of scholars.{{citation needed|date=October 2021}} [[Walt Whitman]], [[Henry David Thoreau]] and William James were all positive Emersonians, while [[Herman Melville]], [[Nathaniel Hawthorne]] and [[Henry James]] were Emersonians in denial—while they set themselves in opposition to the sage, there was no escaping his influence. To [[T. S. Eliot]], Emerson's essays were an "encumbrance".{{citation needed|date=January 2019}} Waldo the Sage was eclipsed from 1914 until 1965, when he returned to shine, after surviving in the work of major American poets like [[Robert Frost]], [[Wallace Stevens]] and [[Hart Crane]].<ref>New York ''Times'', October 12, 2008.</ref>
+
+In his book ''The American Religion'', [[Harold Bloom]] repeatedly refers to Emerson as "The [[prophet]] of the American Religion", which in the context of the book refers to indigenously American religions such as [[Mormonism]] and [[Christian Science]], which arose largely in Emerson's lifetime, but also to [[mainline Protestant]] churches that Bloom says have become in the United States more [[gnostic]] than their European counterparts. In ''The Western Canon'', Bloom compares Emerson to [[Michel de Montaigne]]: "The only equivalent reading experience that I know is to reread endlessly in the notebooks and journals of Ralph Waldo Emerson, the American version of Montaigne."<ref>Bloom, Harold. ''The Western Canon''. London: Papermac. pp. 147–148.</ref> Several of Emerson's poems were included in Bloom's ''The Best Poems of the English Language'', although he wrote that none of the poems are as outstanding as the best of Emerson's essays, which Bloom listed as "Self-Reliance", "Circles", "Experience", and "nearly all of ''Conduct of Life''". In his belief that line lengths, rhythms, and phrases are determined by breath, Emerson's poetry foreshadowed the theories of [[Charles Olson]].<ref>Schmidt, Michael (1999). ''The Lives of the Poets''. London: Weidenfeld & Nicolson. {{ISBN|978-0753807453}}</ref>
+
+==Namesakes==
+
+The following were named after or in honor of Emerson:
+
+
+*Emerson college (various campuses, https://emerson.edu/)
+
+* Harvard's philosophy department is housed in [https://harvardplanning.emuseum.com/sites/319/emerson-hall Emerson Hall] (1900).<ref>[https://www.thecrimson.com/article/1906/1/3/emerson-hall-opened-pemerson-hall-the/ "Emerson Hall Opened"] – ''[[The Harvard Crimson]]'', January 3, 1906</ref>
+* In May 2006, 168 years after Emerson delivered his "Divinity School Address", Harvard Divinity School announced the establishment of the Emerson Unitarian Universalist Association Professorship.<ref>{{cite press release | url = http://www.hds.harvard.edu/news/pr/emerson_uu.html | title = Emerson Unitarian Universalist Association Professorship Established at Harvard Divinity School | publisher=Harvard Divinity School | date=May 2006 | access-date=February 22, 2007 | url-status=dead | archive-url= https://web.archive.org/web/20070208200456/http://www.hds.harvard.edu/news/pr/emerson_uu.html | archive-date = February 8, 2007 }}</ref>
+* Author [[Ralph Waldo Ellison]]
+* Stephen Emerson Whicher, one of the leading Emerson scholars of the 20th century
+* The [[Emerson String Quartet]], formed in 1976<ref>{{cite web|url=http://www.emersonquartet.com/artist.php?view=bio |title=Full Biography 2012–2013 &#124; Emerson String Quartet |publisher=Emersonquartet.com |access-date=October 26, 2012}}</ref>
+* The Ralph Waldo Emerson Prize is awarded annually to high school students for essays on historical subjects.<ref>{{cite web|url=http://www.tcr.org/tcr/emerson.htm |title=Varsity Academics: Home of the Concord Review, the National Writing Board, and the National History Club |publisher=Tcr.org |date=April 22, 2011 |access-date=October 26, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120630000450/http://www.tcr.org/tcr/emerson.htm |archive-date=June 30, 2012 }}</ref>
+* The [[Emerson Collective]], a company devoted to social change<ref>{{cite news|title= The Quest of Laurene Powell Jobs |url=https://www.washingtonpost.com/news/style/wp/2018/06/11/feature/the-quest-of-laurene-powell-jobs/|newspaper=[[Washington Post]]|access-date=August 31, 2018}}</ref>
+* Emerson Street in [[Napier, New Zealand]]<ref>{{Cite web |title=Arches gave Napier 33 illuminating years |url=https://www.nzherald.co.nz/hawkes-bay-today/news/fowler-arches-meant-to-last-months-gave-napier-33-illuminating-years/MVAZMVYL2INNDYSICU7EJYLUCE/ |access-date=2023-04-28 |website=NZ Herald |date=June 15, 2018 |language=en-NZ}}</ref>
+* The town of [[Emerson, New Jersey]]<ref>{{Cite web |last=Levin |first=Jay |date=October 5, 2022 |title=Emerson, N.J.: A Small, Manageable, 'Family Town |url=https://www.nytimes.com/2022/10/05/realestate/bergen-county-emerson-nj.html |website=NY Times}}</ref>
+* The [[Carleton College]] track runner [https://www.tfrrs.org/athletes/8233214/Carleton/Emerson_Lange.html Emerson Lange]
+
+
+==Selected works==
+{{category see also|Works by Ralph Waldo Emerson}}
+[[File:Representative Men 1850.jpg|thumb|upright|''Representative Men'' (1850)]]
+'''Collections'''
+* ''[[Essays: First Series]]'' (1841)
+* ''[[Essays: Second Series]]'' (1844)
+* [https://archive.org/details/poems02emergoog ''Poems''] (1847)
+* ''[[s:Nature, Addresses and Lectures|Nature, Addresses and Lectures]]'' (1849)
+* ''[[Representative Men]]'' (1850)<ref>{{cite book |url=https://archive.org/details/00representmen00emerrich |title=Representative men |last=Emerson |first=Ralph Waldo |via=Internet Archive |publisher=H. ALtemus |place=Philadelphia |date= |access-date=2022-02-28}}</ref>
+* [https://archive.org/details/englishtraits04emergoog ''English Traits''] (1856)
+* ''[[The Conduct of Life]]'' (1860)<ref>{{cite book |url=https://archive.org/details/conductlife00emerrich |title=The conduct of life |last=Emerson |first=Ralph Waldo |via=Internet Archive |publisher=Ticknor and Fields |place=Boston |date=1860 |access-date=2022-02-28}}</ref>
+* [https://archive.org/details/maydayandotherp01emergoog ''May-Day and Other Pieces''] (1867)
+* [https://archive.org/details/societyandsolit09emergoog ''Society and Solitude''] (1870)
+* [https://www.waldorflibrary.org/images/stories/articles/gabriel_emerson.pdf ''Natural History of the Intellect: the last lectures of Ralph Waldo Emerson''] {{Webarchive|url=https://web.archive.org/web/20200930095722/https://www.waldorflibrary.org/images/stories/articles/gabriel_emerson.pdf |date=September 30, 2020 }} (1871)<ref>{{cite book|editor1-last= York|editor1-first= Maurice|editor2-last= Spaulding|editor2-first= Rick|date= 2008|title= Natural History of the Intellect: The Last Lectures of Ralph Waldo Emerson|url= https://www.waldorflibrary.org/images/stories/articles/gabriel_emerson.pdf|location= Chicago|publisher= Wrightwood Press|isbn= 978-0980119015|access-date= March 15, 2019|archive-date= September 30, 2020|archive-url= https://web.archive.org/web/20200930095722/https://www.waldorflibrary.org/images/stories/articles/gabriel_emerson.pdf|url-status= dead}}</ref>
+* [https://archive.org/details/lettersandsocia06emergoog ''Letters and Social Aims''] (1875)
+
+'''Individual essays'''
+* "[[Nature (essay)|Nature]]" (1836)
+* "[[Self-Reliance]]" (''[[Essays: First Series]]'')
+* "[[Compensation (essay)|Compensation]]" (''First Series'')
+* "[[Over-soul|The Over-Soul]]" (''First Series'')
+* "[[Circles (Ralph Waldo Emerson)|Circles]]" (''First Series'')
+* "[[The Poet (Ralph Waldo Emerson)|The Poet]]" (''[[Essays: Second Series]]'')
+* "[[Experience (Emerson)|Experience]]" (''Essays: Second Series'')
+* "[[Politics (essay)|Politics]]" (''Second Series'')
+* "Saadi" in the Atlantic Monthly (1864)
+* "[[The American Scholar]]"
+* "[[New England Reformers]]"
+* "History"
+* "Fate"
+
+'''Poems'''
+* "[[Concord Hymn]]"
+* "[[The Rhodora]]"
+* "[[Brahma (poem)|Brahma]]"
+* "[[Uriel (poem)|Uriel]]"
+* "[[Merlin]]"<ref>{{cite web |url=https://archive.vcu.edu/english/engweb/transcendentalism/authors/emerson/poems/merlin.html |title=Merlin, by Ralph Waldo Emerson}}</ref><ref>{{cite book|editor=Baym, Nina|title=The Norton Anthology American Literature, Shorter Seventh Edition Volume 1, Beginnings to 1865|date=2008 |isbn=9780393930566|page=566|publisher=W.W. Norton }}</ref>
+
+'''Letters'''
+* [[Emerson's letter to Martin Van Buren|Letter to Martin Van Buren]]
+* ''[[The Correspondence of Thomas Carlyle and Ralph Waldo Emerson]], 1834–72''<ref>{{cite book|editor=Norton, Charles Eliot|editor-link=Charles Eliot Norton|title=The Correspondence of Thomas Carlyle and Ralph Waldo Emerson, 1834–72|series=Correspondence.Selections|location=Boston|publisher=James R. Osgood & Company|year=1883|url=https://catalog.hathitrust.org/Record/001417522}}</ref><ref>{{cite journal|author=Ireland, Alexander|author-link=Alexander Ireland (journalist)|title=Review of ''The Correspondence of Thomas Carlyle and Ralph Waldo Emerson, 1834–72''|journal=The Academy|date=April 7, 1883|volume=23|issue=570|pages=231–233|url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112045747141;view=1up;seq=337}}</ref>
+
+== Musical settings ==
+
+* Emerson's "[[Concord Hymn]]", written for Concord's [[Independence Day (United States)|Independence Day]] celebration on July 4, 1837, was on this occasion both read and sung as a hymn by a local choir, using the then-familiar tune "[[Old 100th|Old Hundredth]]".
+* [[Charles Ives]] has set a fragment from Emerson's poem "Voluntaries" (a tribute to the soldiers fighting for the [[Union (American Civil War)|Union]]<ref>{{Cite web |last=Emerson |first=Ralph Waldo |date=2011-11-23 |title=Voluntaries |url=https://www.theatlantic.com/magazine/archive/2012/02/voluntaries/308825/ |access-date=2023-12-18 |website=The Atlantic |language=en}}</ref>) as a song entitled ''Duty'', included in his collection for voice and piano ''114 Songs'' (1919–24).<ref>{{Cite web |title=114 Songs (Ives, Charles) - IMSLP |url=https://imslp.org/wiki/114_Songs_(Ives,_Charles) |access-date=2023-12-18 |website=imslp.org}}</ref>
+* [[Ernst Toch]] has set Emerson's poem "Good-Bye" as the sixth and final movement of his work ''The Inner Circle'', for [[mixed chorus]] a cappella (1945, revised 1953).<ref>{{Cite book |last=Zach |first=Miriam Susan |url=https://ufdcimages.uflib.ufl.edu/AA/00/03/00/15/00001/choralmusicofern00zach.pdf |title=The Choral Music of Ernst Toch |publisher=University of Florida, PhD Thesis |year=1993}}</ref>
+
+* Three fragments from Emerson's essay ''Spiritual Laws'' (in ''[[Essays: First Series]]'', 1841) form the backbone of [[Kaija Saariaho]]'s ''[[True Fire]]'' for baritone and orchestra (2014), a work that collages texts from various sources. The work's title is taken from the essay's final sentence, that concludes also the setting: "We know the authentic effects of the true fire through every one of its million disguises."<ref>{{Cite web |title=True Fire {{!}} Kaija Saariaho |url=https://www.wisemusicclassical.com/work/52026/True-Fire--Kaija-Saariaho/ |access-date=2023-12-17 |website=www.wisemusicclassical.com |language=en}}</ref>
+
+==See also==
+{{Portal|Poetry|Biography}}
+* [[American philosophy]]
+* [[Fireside poets]]
+* [[List of American philosophers]]
+{{clear}}
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite book
+|ref=Allen
+|author=Allen, Gay Wilson
+|title=Waldo Emerson
+|location=New York
+|publisher=Viking Press
+|year=1981
+|isbn=0-670-74866-8
+|url=https://archive.org/details/waldoemerson00gayw
+}}
+* {{cite book
+|ref=Baker
+|author=Baker, Carlos
+|title=Emerson Among the Eccentrics: A Group Portrait
+|location=New York
+|publisher=Viking Press
+|year=1996
+|isbn=0-670-86675-X
+|url=https://archive.org/details/emersonamongecce00bake
+}}
+* {{cite book|ref=Bosco
+|author1=Bosco, Ronald A. |author2=Myerson, Joel |title=Emerson Bicentennial Essays
+|location=Boston |publisher=Massachusetts Historical Society |year=2006
+|isbn=093490989X
+}}
+* {{cite book|ref=Bosco
+|author1=Bosco, Ronald A. |author2=Myerson, Joel |title=The Emerson Brothers: A Fraternal Biography in Letters
+|location=Oxford |publisher=Oxford University Press |year=2006
+|isbn=978-0195140361
+}}
+* {{cite book|ref=Bosco
+|author1=Bosco, Ronald A. |author2=Myerson, Joel |title=Emerson in His Own Time
+|location=Iowa City |publisher=University of Iowa Press |year=2003
+|isbn=0-87745-842-1
+}}
+* {{cite book|ref=Bosco
+|author1=Bosco, Ronald A. |author2=Myerson, Joel |title=Ralph Waldo Emerson: A Documentary Volume
+|location=Detroit |publisher=Cengage Learning |year=2010
+|isbn=978-0787681692
+}}
+* {{cite book
+|ref=Buell
+|author=Buell, Lawrence
+|title=Emerson
+|location=Cambridge, Massachusetts
+|publisher=Belknap Press of Harvard University Press
+|year=2003
+|isbn=0-674-01139-2
+|url=https://archive.org/details/emerson00buel
+}}
+* {{cite book|ref=Emerson
+|author=Emerson, Ralph Waldo
+|title=Essays and Lectures
+|location=New York |publisher=Library of America |year=1983
+|isbn=0-940450-15-1
+}}
+* {{cite book
+|ref=Emerson
+|author=Emerson, Ralph Waldo
+|title=Collected Poems and Translations
+|location=New York
+|publisher=Library of America
+|year=1994
+|isbn=0-940450-28-3
+|url-access=registration
+|url=https://archive.org/details/collectedpoemstr0000emer
+}}
+* {{cite book|ref=Emerson
+|author=Emerson, Ralph Waldo
+|title=Selected Journals: 1820–1842
+|location=New York |publisher=Library of America |year=2010
+|isbn=978-1-59853-067-4
+}}
+* {{cite book|ref=Emerson
+|author=Emerson, Ralph Waldo
+|title=Selected Journals: 1841–1877
+|location=New York |publisher=Library of America |year=2010
+|isbn=978-1-59853-068-1
+}}
+* {{cite book|ref=Gougeon
+|author=Gougeon, Len
+|title=Virtue's Hero: Emerson, Antislavery, and Reform
+|location=Athens |publisher=University of Georgia Press |year=2010
+|isbn=978-0-8203-3469-1
+}}
+* {{cite book
+|ref=Gura
+|author=Gura, Philip F.
+|title=American Transcendentalism: A History
+|location=New York
+|publisher=Hill and Wang
+|year=2007
+|isbn=978-0-8090-3477-2
+|url=https://archive.org/details/americantranscen00gura
+}}
+* {{cite book
+|ref=Kaplan
+|author=Kaplan, Justin
+|title=Walt Whitman: A Life
+|location=New York
+|publisher=Simon and Schuster
+|year=1979
+|isbn=0-671-22542-1
+|url=https://archive.org/details/waltwhitmanlife00kapl
+}}
+* {{cite book|ref=Koch
+|author=Koch, Daniel R.
+|title= Ralph Waldo Emerson in Europe: Class, Race and Revolution in the Making of an American Thinker
+|location=London |publisher= I. B. Tauris |year=2012
+}}
+* {{cite book
+|ref=McAleer
+|author=McAleer, John
+|title=Ralph Waldo Emerson: Days of Encounter
+|location=Boston
+|publisher=Little, Brown
+|year=1984
+|isbn=0-316-55341-7
+|url=https://archive.org/details/ralphwaldoemerso00mcal
+}}
+* {{cite book|ref=Makarushka
+|author=Makarushka, Irena S. M.
+|title=Religious Imagination and Language in Emerson and Nietzsche
+|location=London |publisher=Macmillan |year=1994
+|isbn=0-333-56976-8
+}}
+* Mudge, Jean McClure (ed.) (2015). ''Mr. Emerson's Revolution.'' Cambridge, MA: Open Book.
+* {{cite book|ref=Myerson
+|author=Myerson, Joel
+|title=A Historical Guide to Ralph Waldo Emerson
+|location=New York |publisher=Oxford University Press |year=2000
+|isbn=0-19-512094-9
+}}
+* {{cite book|ref=Myerson
+|editor=Myerson, Joel |editor2=Petrolionus, Sandra Herbert |editor3=Walls, Laura Dassaw
+|title= The Oxford Handbook of Transcendentalism
+|location=New York |publisher=Oxford University Press |year=2010
+|isbn= 978-0-19-533103-5
+}}
+* {{cite book|ref=Packer
+|author=Packer, Barbara L.
+|title=The Transcendentalists
+|location=Athens |publisher=University of Georgia Press |year=2007
+|isbn=978-0-8203-2958-1
+}}
+* {{cite journal|ref=Paolucci
+|author=Paolucci, Stefano
+|title=Emerson Writes to Clough. A Lost Letter Found in Italy
+|journal=Emerson Society Papers
+|volume=19
+|issue=1
+|pages=1, 4–5
+|url=https://www.academia.edu/14212652
+|year=2008
+}}
+* {{cite book
+|ref=Porte & Morris
+|editor=Porte, Joel
+|editor2=Morris, Saundra
+|title=The Cambridge Companion to Ralph Waldo Emerson
+|location=Cambridge
+|publisher=Cambridge University Press
+|year=1999
+|isbn=0-521-49946-1
+|url-access=registration
+|url=https://archive.org/details/cambridgecompani0000unse_b7y0
+}}
+* {{cite book
+|ref=Richardson
+|author=Richardson, Robert D. Jr.
+|title=Emerson: The Mind on Fire
+|location=Berkeley
+|publisher=University of California Press
+|year=1995
+|isbn=0-520-08808-5
+|url-access=registration
+|url=https://archive.org/details/emersonmindonfir0000rich
+}}
+* {{cite book|ref=Rosenwald
+|author=Rosenwald, Lawrence
+|title=Emerson and the Art of the Diary
+|location=New York |publisher=Oxford University Press |year=1988
+|isbn=0-19-505333-8
+}}
+* {{cite book|ref=Rusk
+|author=Rusk, Ralph Leslie
+|title=The Life of Ralph Waldo Emerson
+|location=New York |publisher=Columbia University Press |year=1957
+}}
+* Slater, Joseph (ed.) (1964). ''The Correspondence of Emerson and Carlyle''. New York: Columbia University Press.
+* {{cite book|last=Stephen|first=Leslie |author-link=Leslie Stephen|title=Studies of a Biographer|year=1902|publisher=Duckworth|location=London|pages=130–167|chapter=[[s:Studies of a Biographer/Emerson|Emerson]]}}
+* {{cite book
+|ref=Sullivan
+|author=Sullivan, Wilson
+|title=New England Men of Letters
+|location=New York
+|publisher=Macmillan
+|year=1972
+|isbn=0-02-788680-8
+|url-access=registration
+|url=https://archive.org/details/newenglandmenofl0000sull
+}}
+* {{cite book|ref=von Frank
+|author=von Frank, Albert J.
+|title=An Emerson Chronology
+|location=New York |publisher=G. K. Hall |year=1994
+|isbn=0-8161-7266-8
+}}
+* {{cite book
+|ref=VonMehren
+|author=Von Mehren, Joan
+|title=Minerva and the Muse: A Life of Margaret Fuller
+|location=Amherst
+|publisher=University of Massachusetts Press
+|year=1994
+|isbn=1-55849-015-9
+|url=https://archive.org/details/minervamuse00joan
+}}
+
+==Further reading==
+* {{cite encyclopedia |last=Long |first=Roderick |editor-first=Ronald |editor-last=Hamowy |editor-link=Ronald Hamowy |encyclopedia=The Encyclopedia of Libertarianism |chapter= Emerson, Ralph Waldo (1803–1882) |url= https://books.google.com/books?id=yxNgXs3TkJYC|year=2008 |publisher= [[SAGE Publishing|Sage]]; [[Cato Institute]] |location= Thousand Oaks, CA |doi=10.4135/9781412965811.n89 |isbn= 978-1412965804 |oclc=750831024| lccn = 2008009151 |pages= 142–143 }}
+* [[Kenneth Sacks|Sacks, Kenneth S.]] (2003). ''Understanding Emerson: "The American Scholar" and His Struggle for Self-Reliance''. Princeton: Princeton University Press. {{ISBN|978-0691099828}}
+
+===Archival sources===
+* [https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_4078735 Ralph Waldo Emerson papers, 1814–1867] (25 boxes) are housed at the Rare Book and Manuscript Library at [[Columbia University]]
+* [https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_4078734 Finding aid to Ralph Waldo Emerson letters at Columbia University. Rare Book & Manuscript Library.]
+* Ralph Waldo Emerson additional papers, 1852–1898 (.5 linear feet) are housed at [[Houghton Library]] at [[Harvard University]].
+* Ralph Waldo Emerson lectures and sermons, c. 1831–1882 (10 linear feet) are housed at Houghton Library at Harvard University.
+* Ralph Waldo Emerson letters to Charles King Newcomb, 1842 March 18 – 1, 858 July 25 (22 items) are housed at the Concord Public Library.
+
+==External links==
+{{sister project links|d=Q48226|s=Author:Ralph Waldo Emerson|c=Category:Ralph Waldo Emerson|n=no|b=no|v=no|voy=no|m=no|mw=no|wikt=no|species=no}}
+{{Library resources box|by=yes|onlinebooks=yes}}
+* [http://www.hup.harvard.edu/results-list.php?collection=1163 The Collected Works of Ralph Waldo Emerson, Harvard University Press, Ronald A. Bosco, General Editor; Joel Myerson, Textual Editor]
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/ralph-waldo-emerson}}
+* {{Gutenberg author |id=1071| name=Ralph Waldo Emerson}}
+* {{Internet Archive author |sname=Ralph Waldo Emerson}}
+* {{Librivox author |id=1159}}
+* [http://www.rwe.org The Works of Ralph Waldo Emerson at RWE.org] {{Webarchive|url=https://web.archive.org/web/20190905193541/http://www.rwe.org/ |date=September 5, 2019 }}
+* [http://www.readingemerson.com/ Reading Ralph Waldo Emerson, a blog featuring excerpts from Emerson's journals] {{Webarchive|url=https://web.archive.org/web/20201128080610/http://www.readingemerson.com/ |date=November 28, 2020 }}
+* [http://xroads.virginia.edu/~HYPER/EMERSON/repmen.html Representative Men] {{Webarchive|url=https://web.archive.org/web/20100214032034/http://xroads.virginia.edu/~HYPER/EMERSON/repmen.html |date=February 14, 2010 }} from American Studies at the University of Virginia.
+* [https://wayback.archive-it.org/all/20171020012657/http://www.shapell.org/manuscript/mark-twain-on-ralph-waldo-emerson Mark Twain on Ralph Waldo Emerson] Shapell Manuscript Foundation
+* [http://www.harvardsquarelibrary.org/cambridge-harvard/enduring-significance-divinity-school-address/ The Enduring Significance of Emerson's Divinity School Address]"&nbsp;– by John Haynes Holmes
+* [http://harvardsquarelibrary.org/emerson/ The Living Legacy of Ralph Waldo Emerson] {{Webarchive|url=https://web.archive.org/web/20100304221640/http://harvardsquarelibrary.org/emerson/ |date=March 4, 2010 }} by Rev. Schulman and R. Richardson
+* [http://www.rwemerson.eu/ A Tribute to Ralph Waldo Emerson]&nbsp;– a hypertext guide, in English and in Italian
+* [http://www.hti.umich.edu/e/emerson/ Ralph Waldo Emerson] complete Works at the [[University of Michigan]]
+* [[Stanford Encyclopedia of Philosophy]]: "[http://plato.stanford.edu/entries/emerson/  Ralph Waldo Emerson]"&nbsp;– by Russell Goodman
+* [[Internet Encyclopedia of Philosophy]]: "[http://www.iep.utm.edu/e/emerson.htm Ralph Waldo Emerson]"&nbsp;– by Vince Brewton
+* [https://www.nytimes.com/slideshow/2010/09/15/garden/0916emerson-slideshow.html?ref=multimedia Life in the Ralph Waldo Emerson House]&nbsp;– slideshow by ''[[The New York Times]]''
+* [https://web.archive.org/web/20101230132632/http://www.rwe.org/biography/bibliography A bibliography of books about Emerson]
+* [http://www.c-span.org/video/?164015-1/writings-emerson-thoreau "Writings of Emerson and Thoreau"] from [[C-SPAN]]'s ''[[American Writers: A Journey Through History]]''
+* [http://digital.lib.lehigh.edu/remain/search.php?CISOSTART=6&searchletters=Ralph%20Waldo%20Emerson;0;0;0 Ralph Waldo Emerson letters and manuscript]. Available online through [[Lehigh University]]'s [http://digital.lib.lehigh.edu/remain/index.html I Remain: A Digital Archive of Letters, Manuscripts, and Ephemera].
+
+{{Ralph Waldo Emerson|state=expanded}}
+{{Navboxes
+|title=Articles related to Ralph Waldo Emerson
+|list=
+{{Romanticism}}
+{{Hall of Fame for Great Americans}}
+{{Social and political philosophy}}
+{{Liberalism}}
+{{Modern Hindu writers}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Emerson, Ralph Waldo}}
+[[Category:Ralph Waldo Emerson| ]]
+[[Category:1803 births]]
+[[Category:1882 deaths]]
+[[Category:19th-century American philosophers]]
+[[Category:19th-century American poets]]
+[[Category:19th-century mystics]]
+[[Category:19th-century American theologians]]
+[[Category:Abolitionists from Boston]]
+[[Category:19th-century American diarists]]
+[[Category:American essayists]]
+[[Category:American male non-fiction writers]]
+[[Category:American male poets]]
+[[Category:American people of English descent]]
+[[Category:American political philosophers]]
+[[Category:American spiritual writers]]
+[[Category:American Unitarians]]
+[[Category:Boston Latin School alumni]]
+[[Category:Boston School Committee members]]
+[[Category:Burials at Sleepy Hollow Cemetery (Concord, Massachusetts)]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Furness family]]
+[[Category:Hall of Fame for Great Americans inductees]]
+[[Category:Harvard College alumni]]
+[[Category:Harvard Divinity School alumni]]
+[[Category:Individualism]]
+[[Category:American lecturers]]
+[[Category:Members of the Transcendental Club]]
+[[Category:Natural philosophers]]
+[[Category:Neo-Vedanta]]
+[[Category:Panentheists]]
+[[Category:People from Concord, Massachusetts]]
+[[Category:Philosophers from Massachusetts]]
+[[Category:American philosophers of culture]]
+[[Category:Philosophers of history]]
+[[Category:Philosophers of literature]]
+[[Category:American philosophers of mind]]
+[[Category:American philosophers of religion]]
+[[Category:Poets from Massachusetts]]
+[[Category:Transcendentalism]]
+[[Category:Writers from Boston]]

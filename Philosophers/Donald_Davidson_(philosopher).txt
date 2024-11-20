@@ -1,0 +1,137 @@
+{{Short description|American philosopher (1917–2003)}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[20th-century philosophy]]
+|image       = Davidson pyke.jpg
+|caption     = Portrait by photographer [[Steve Pyke]] in 1990
+|name             = Donald Davidson
+|birth_name       = Donald Herbert Davidson
+|birth_date       = {{Birth date|1917|3|6|df=yes}}
+|birth_place      = [[Springfield, Massachusetts]], U.S.
+|death_date       = {{Death date and age|2003|8|30|1917|3|6|df=yes}}
+|death_place      = [[Berkeley, California]], U.S.
+|education        = [[Harvard University]] ([[B. A.|BA]], [[PhD]])
+|school_tradition = [[Analytic philosophy|Analytic]]<br>[[Neopragmatism]]<ref>[https://www.iep.utm.edu/pragmati/ Pragmatism – Internet Encyclopedia of Philosophy]</ref>
+|main_interests   = [[Philosophy of language]], [[philosophy of action]], [[philosophy of mind]], [[epistemology]], [[ontology]]
+|notable_ideas    = [[Radical interpretation]], [[anomalous monism]], [[truth-conditional semantics]], [[principle of charity]], [[slingshot argument]], reasons as causes, understanding as translation, [[swampman]], [[Event (philosophy)|event]]s, Davidson's translation argument against alternative conceptual schemes<ref>Malpas, Jeffrey. [http://plato.stanford.edu/entries/davidson/ "Donald Davidson,"] ''[[Stanford Encyclopedia of Philosophy]]'', 2005.</ref><ref>Davidson, Donald. "On the Very Idea of a Conceptual Scheme." ''Proceedings and Addresses of the American Philosophical Association'' '''47'''(1) (1973–1974): 5–20.</ref> (the third dogma of empiricism){{efn|[[W. V. O. Quine]] elaborated the first two dogmas in his paper "[[Two Dogmas of Empiricism]]."}} 
+|influences       = [[Willard Van Orman Quine|Quine]], [[Alfred Tarski|Tarski]], [[Ludwig Wittgenstein|Wittgenstein]], [[Bertrand Russell|Russell]], [[Gottlob Frege|Frege]], [[Immanuel Kant|Kant]], [[Nelson Goodman|Goodman]], [[Herbert Feigl|Feigl]]
+|influenced       = [[Colin McGinn]], [[Ernest Lepore]], [[Kirk Ludwig]], [[Richard Rorty]], [[John McDowell]], [[Robert Brandom]], [[Jeff Malpas]], [[Tyler Burge]], [[Mark Bevir]], [[Michael Dummett]]<ref>[[Michael Dummett]], ''The Interpretation of Frege's Philosophy'', Duckworth, 1981, p. xv.</ref>
+|thesis_title      = Plato's 'Philebus'
+|thesis_url        = https://philpapers.org/rec/DAVPP-2
+|thesis_year       = 1949
+|doctoral_advisor  = [[Raphael Demos]]<br>[[Donald Cary Williams]]
+|academic_advisors = [[Willard Van Orman Quine]]
+|doctoral_students = [[Akeel Bilgrami]]<br>[[Michael Bratman]]<br>[[Kirk Ludwig]]<br>[[Claudine Verheggen]]<br>[[Stephen Yablo]]
+}}
+'''Donald Herbert Davidson''' (March 6, 1917&nbsp;– August 30, 2003) was an American [[philosopher]]. He served as Slusser Professor of Philosophy at the [[University of California, Berkeley]], from 1981 to 2003 after having also held teaching appointments at [[Stanford University]], [[Rockefeller University]], [[Princeton University]], and the [[University of Chicago]]. Davidson was known for his charismatic personality and the depth and difficulty of his thought.<ref>McGinn, Colin. "[http://www.lrb.co.uk/v15/n16/colin-mcginn/cooling-it Cooling it]". ''London Review of Books''. 19 August 1993. Accessed 28 October 2010.</ref> His work exerted considerable influence in many areas of philosophy from the 1960s onward, particularly in [[philosophy of mind]], [[philosophy of language]], and [[Action theory (philosophy)|action theory]]. While Davidson was an [[analytic philosophy|analytic philosopher]], and most of his influence lies in that tradition, his work has attracted attention in [[continental philosophy]] as well, particularly in [[literary theory]] and related areas.<ref>Dasenbrock, Reed Way, ed. ''[https://books.google.com/books?id=VkpR25ji4-wC Literary Theory After Davidson]''. Penn State Press, 1989.</ref>
+
+==Personal life==
+Davidson was married three times. His first wife was the artist Virginia Davidson, with whom he had his only child, a daughter, Elizabeth (Davidson) Boyer.<ref>Baghramian, Maria, ed. ''[https://books.google.com/books?id=vSzaAAAAQBAJ Donald Davidson: Life and Words]''. Routledge, 2013.</ref> Following his divorce from Virginia Davidson, he married for the second time to Nancy Hirschberg, Professor of Psychology at the University of Illinois at Urbana-Champaign and later at Chicago Circle. She died in 1979.<ref>"[http://www.bhsclass1955.info/BHS/Hirschberg_Nancy_Grayscale_Full.htm Nancy Ann Hirschberg, In Memoriam, 1937 - 1979]"</ref> In 1984, Davidson married for the third and last time, to philosopher Marcia Cavell.<ref>"[http://senate.universityofcalifornia.edu/inmemoriam/donalddavidson.htm In Memoriam: Donald Davidson] {{Webarchive|url=https://web.archive.org/web/20150226092834/http://senate.universityofcalifornia.edu/inmemoriam/donalddavidson.htm |date=2015-02-26 }}"</ref>
+
+== Swampman ==
+Swampman is the subject of a [[philosophy|philosophical]] [[thought experiment]] introduced by Donald Davidson in his 1987 paper "Knowing One's Own Mind". In the experiment, Davidson is struck by lightning in a swamp and disintegrated; simultaneously, an exact copy of Davidson, the Swampman, is made from a nearby tree and proceeds through life exactly as Davidson would have, indistinguishable from Davidson. The experiment is used by Davidson to claim that thought and meaning cannot exist in a vacuum; they are dependent on their interconnections to the world. Therefore, despite being physically identical to himself, Davidson states that the Swampman does not have thoughts nor meaningful language, as it has no causal history to base them on.<ref>{{Citation|last=Malpas|first=Jeff|title=Donald Davidson|date=2019|url=https://plato.stanford.edu/archives/fall2019/entries/davidson/|encyclopedia=The Stanford Encyclopedia of Philosophy|editor-last=Zalta|editor-first=Edward N.|edition=Fall 2019|publisher=Metaphysics Research Lab, Stanford University|access-date=2020-07-29}}</ref>
+
+The experiment runs as follows:<ref>{{Cite journal|last=Davidson|first=Donald|date=1987|title=Knowing One's Own Mind|url=http://www.jstor.org/stable/3131782|journal=Proceedings and Addresses of the American Philosophical Association|volume=60|issue=3|pages=441–458|doi=10.2307/3131782|jstor=3131782 |issn=0065-972X}}</ref>
+
+{{Quote|text=Suppose lightning strikes a dead tree in a swamp; I am standing nearby. My body is reduced to its elements, while entirely by coincidence (and out of different molecules) the tree is turned into my physical replica. My replica, The Swampman, moves exactly as I did; according to its nature it departs the swamp, encounters and seems to recognize my friends, and appears to return their greetings in English. It moves into my house and seems to write articles on radical interpretation. No one can tell the difference.
+But there ''is'' a difference. My replica can't recognize my friends; it can't ''re''cognize anything, since it never cognized anything in the first place. It can't know my friends' names (though of course it seems to), it can't remember my house. It can't mean what I do by the word 'house', for example, since the sound 'house' it makes was not learned in a context that would give it the right meaning—or any meaning at all. Indeed, I don't see how my replica can be said to mean anything by the sounds it makes, nor to have any thoughts.|author=Donald Davidson|source=''Knowing One's Own Mind''}}
+
+==Awards==
+*[[Jean Nicod Prize]] (1995)
+
+==Bibliography==
+* ''Decision-Making: An Experimental Approach'', co-authored with [[Patrick Suppes]] and [[Sidney Siegel]]. Stanford: [[Stanford University Press]]. 1957.
+* "Actions, Reasons, and Causes," ''Journal of Philosophy'', 60, 1963. (Reprinted in Davidson, 2001a.)
+* "Truth and Meaning," ''Synthese'', 17, 1967. (Reprinted in Davidson, 2001b.)
+* "Mental Events," in ''Experience and Theory'', Foster and Swanson (eds.). London: Duckworth. 1970. (Reprinted in Davidson, 2001a).
+* "Agency," in ''Agent, Action, and Reason'', Binkley, Bronaugh, and Marras (eds.), Toronto: University of Toronto Press. 1971. (Reprinted in Davidson, 2001a.)
+* "Radical Interpretation," ''Dialectica'', 27, 1973, 313–328. (Reprinted in Davidson, 2001b.)
+* ''Semantics of Natural Languages'', Davidson, Donald and Gilbert Harman (eds.), 2nd ed. New York: Springer. 1973.
+* ''Plato's ‘Philebus’'', New York: Garland Publishing. 1990.
+* ''Essays on Actions and Events'', 2nd ed. Oxford: [[Oxford University Press]]. 2001a.
+* ''Inquiries into Truth and Interpretation'', 2nd ed. Oxford: Oxford University Press. 2001b.
+* ''Subjective, Intersubjective, Objective''. Oxford: Oxford University Press. 2001c.
+* ''Problems of Rationality'', Oxford: Oxford University Press. 2004.
+* ''Truth, Language, and History: Philosophical Essays'', Oxford: Oxford University Press. 2005.
+* ''Truth and Predication''.  Cambridge, Mass.: [[Harvard University Press]]. 2005. {{ISBN|978-0-674-01525-8}}
+* ''The Essential Davidson''. Oxford: Oxford University Press. 2006.
+
+==Filmography==
+* Rudolf Fara (host), ''In conversation: Donald Davidson'' (19 videocassettes), Philosophy International, Centre for Philosophy of the Natural and Social Sciences, London School of Economics, 1997.<ref>{{cite web |last1=Crane |first1=Tim |last2=Davidson |first2=Donald |last3=Fara |first3=Rudolf |title=In conversation Donald Davidson |url=https://research.ceu.edu/en/publications/in-conversation-donald-davidson |date=1997}}</ref>
+
+==See also==
+* [[Jean Nicod Prize|List of Jean Nicod Prize laureates]]
+* [[List of American philosophers]]
+* [[Swamp Thing]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Dasenbrock, Reed Way (ed.). ''Literary Theory After Davidson''. University Park: Pennsylvania University Press. 1993.
+* Hahn, Lewis Edwin (ed.).  ''The Philosophy of Donald Davidson, Library of Living Philosophers'' XXVII. Chicago: Open Court. 1999.
+* Kotatko, Petr, Peter Pagin and Gabriel Segal (eds.). ''Interpreting Davidson''. Stanford: CSLI Publications. 2001.
+* Evnine, Simon. ''Donald Davidson''. Stanford: Stanford University Press. 1991.
+* Kalugin, Vladimir. "Donald Davidson (1917–2003)," ''[[Internet Encyclopedia of Philosophy]]'', 2006. ([http://www.utm.edu/research/iep/d/davidson.htm link])
+* Lepore, Ernest and Brian McLaughlin (eds.). ''Actions and Events: Perspectives on the Philosophy of Donald Davidson''. Oxford: Basil Blackwell. 1985.
+* Lepore, Ernest (ed.). ''Truth and Interpretation: Perspectives on the Philosophy of Donald Davidson''. Oxford: Basil Blackwell. 1986.
+* Lepore, Ernest and Kirk Ludwig. "Donald Davidson," ''Midwest Studies in Philosophy'', September 2004, vol. 28, pp.&nbsp;309–333.
+* Lepore, Ernest and Kirk Ludwig. ''Donald Davidson: Meaning, Truth, Language and Reality''. Oxford: Oxford University Press. 2005.
+* Lepore, Ernest and Kirk Ludwig. ''Donald Davidson's Truth-Theoretic Semantics''. Oxford: Oxford University Press. 2007.
+* Ludwig, Kirk (ed.). ''Donald Davidson''. Cambridge: Cambridge University Press. 2003.
+* Ludwig, Kirk. "Donald Davidson: ''Essays on Actions and Events''." In ''Classics of Western Philosophy: The Twentieth Century: Quine and After'', vol. 5., John Shand (ed.), Acumen Press, 2006, pp.&nbsp;146–165.
+* Malpas, Jeffrey. ''Donald Davidson and the Mirror of Meaning: Holism, Truth, Interpretation''. Cambridge: Cambridge University Press. 1992.
+* Mou, Bo (ed.). ''Davidson's Philosophy and Chinese Philosophy: Constructive Engagement''. Leiden & Boston: Brill. 2006.
+* Preyer, Gerhard, Frank Siebelt, and Alexander Ulfig (eds.). ''Language, Mind and Epistemology: On Donald Davidson's Philosophy''. Dordrecht: Kluwer Academic Publishers. 1994.
+* Ramberg, Bjorn. ''Donald Davidson's Philosophy of Language: An Introduction''. Oxford: Basil Blackwell. 1989.
+* Romaneczko, Marta E. ''The Role of Metalanguage in  Radical Interpretation''. Journal of Consciousness Studies. 2007.
+* Stoecker, Ralf (ed.). ''Reflecting Davidson''. Berlin: W. de Gruyter. 1993.
+* Uzunova, Boryana. [https://web.archive.org/web/20161110214227/http://philosophy-e.com/boryana-uzunova-the-world-of-donald-davidson-some-remarks-on-the-concept The ‘World’ of Donald Davidson: Some Remarks on the Concept]. In: Philosophia: E-Journal of Philosophy and Culture – 1/2012.
+* Vermazen, B., and Hintikka, M. ''Essays on Davidson: Actions and Events''. Oxford: Clarendon Press. 1985.
+* Zeglen, Ursula M. (ed.). ''Donald Davidson: Truth, Meaning and Knowledge''. London: Routledge. 1991.
+
+==External links==
+{{wikiquote}}
+* {{cite IEP |url-id=dav-lang |title=Davidson's Philosophy of Language}}
+* {{cite IEP |url-id=davidson |title=Donald Davidson}}
+* [http://plato.stanford.edu/entries/davidson/ "Donald Davidson"] – by Jeff Malpas, ''Stanford Encyclopedia of Philosophy'', 2005.
+* [http://www.utm.edu/research/iep/d/davidson.htm "Donald Davidson (1917–2003)"] by Vladimir Kalugin, ''Internet Encyclopedia of Philosophy'', 2006.
+* [http://www.oac.cdlib.org/findaid/ark:/13030/kt9n39r8bg/ Guide to the Donald Davidson Papers] at [[The Bancroft Library]]
+
+{{Navboxes
+|list=
+{{analytic philosophy}}
+{{metaphysics}}
+{{philosophy of language}}
+{{philosophy of mind}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Davidson, Donald}}
+[[Category:1917 births]]
+[[Category:2003 deaths]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:Action theorists]]
+[[Category:American male essayists]]
+[[Category:American male non-fiction writers]]
+[[Category:American philosophy academics]]
+[[Category:Analytic philosophers]]
+[[Category:Pragmatists]]
+[[Category:Harvard University alumni]]
+[[Category:Jean Nicod Prize laureates]]
+[[Category:People from Springfield, Massachusetts]]
+[[Category:People from Staten Island]]
+[[Category:American philosophers of language]]
+[[Category:Philosophy writers]]
+[[Category:Princeton University faculty]]
+[[Category:Rockefeller University faculty]]
+[[Category:Stanford University Department of Philosophy faculty]]
+[[Category:Staten Island Academy alumni]]
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:University of Chicago faculty]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]

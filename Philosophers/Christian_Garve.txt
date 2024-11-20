@@ -1,0 +1,62 @@
+{{Infobox philosopher
+|region = [[Western philosophy]]
+|era = [[18th-century philosophy]]
+|image = Christian Garve.jpg
+|name = Christian Garve
+|birth_date = {{birth date|df=y|1742|1|7}}
+|birth_place = [[Breslau]], [[Habsburg monarchy]]<!--Austria ceded Silesia to Prussia on 11 June 1742--> (now Wrocław, [[Poland]])
+|death_date = {{Death date and age|df=y|1798|12|1|1742|1|7}}
+|death_place = Breslau, [[Kingdom of Prussia]]
+|school_tradition = [[Age of Enlightenment]]
+|main_interests = [[Moral philosophy]]
+|notable_ideas =
+|influences =
+|influenced =
+|signature =
+}}
+'''Christian Garve''' (7 January 1742 – 1 December 1798) was one of the best-known philosophers of the late [[Age of Enlightenment|Enlightenment]] along with [[Immanuel Kant]] and [[Moses Mendelssohn]].
+
+==Life==
+Christian Garve was born into a family of manual workers and died aged 56 in his parental home. He studied in [[Frankfurt an der Oder]] and [[Halle (Saale)]]. In 1766 he gained his master's degree in philosophy. From 1770 until 1772 he was [[extraordinary professor]] of [[mathematics]] and [[logic]] in [[Leipzig]]. From 1772 he was in Breslau, where he was active as a bookseller. The greatest part of his life was however spent staying with his mother in Breslau. In this city he also became a member of the [[Masonic Lodge]] "Friedrich zum goldenen Zepter" ("Frederick of the Golden Scepter").
+
+Garve became well-known particularly for his intensive activity as a translator (producing versions of, e.g., [[Cicero]]'s ''[[De Officiis]]'' (1783) and [[Adam Smith]]'s ''[[Wealth of Nations]]''). His translation of Cicero's work was done at the request of [[Frederick II of Prussia|Frederick II]], who bestowed upon him a pension of 200 thalers. Garve eulogized Frederick in the ''Fragmente zur Schilderung des Geistes, Charakters and der Regierung Friedrichs II.'' (1798).
+
+He composed psychological, moral and economic texts and reviews for the ''Neue Bibliothek der schönen Wissenschaften und der freyen Künste'' ("New Library of the Beautiful Sciences and Free Arts"). He was strongly marked by the influence of the [[English Enlightenment|English]] and [[Scottish Enlightenment]] as well as [[Stoicism|Stoic]] ethics. He never formulated his essentially empirical philosophy in terms of a system, publishing his thought in the form of remarks and essays. As a result, he was reproached for being merely a shallow ''Popularphilosoph'' (popular philosopher), a reputation he has retained, and his writings did much toward the popularization of philosophy in Germany.
+
+Of interest is his engagement with Immanuel Kant, which was initiated by a review of Kant's ''Critique of Pure Reason'' in the ''Göttinger Gelehrten Anzeigen'' ("Göttingen Learned Advertiser") which had been shortened by the Göttingen philosopher [[Johann Georg Heinrich Feder]]. Kant felt himself to have been misunderstood, and complained bitterly about the review in the Appendix to his Prolegomena to Any Future Metaphysics that Will Henceforth Come Forward as a Science. When the original, longer review was published by Garve in the ''Allgemeine Deutsche Bibliothek'' ("General German Library"), it still attracted Kant's censure. Kant consequently wrote his own ''Anti-Garve''. This program in time expanded into Kant's ''[[Groundwork of the Metaphysics of Morals]]''. The intellectual engagement between Kant and Garve extended up to Garve's death of cancer<ref>"In his letter to Kant, September 1798 [819], Garve movingly depicts his agonizing illness, a malignant tumor of the face, and expresses his astonishment that he is still living and thinking." ''Kant: Philosophical Correspondence 1759-99'', Edited and translated by Arnulf Zweig, University of Chicago Press, 1967, p. 250, note 2.</ref> in 1798.
+
+==Edition of Garve's works==
+* ''Gesammelte Werke'', ed. K. Wölfel, 15 vols. completed, 1985-
+
+===Works translated by Garve===
+* [[Edmund Burke]], ''Über den Ursprung unserer Begriffe vom Erhabenen und Schönen'' [''[[A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful]]''], Riga, 1773
+* [[Adam Ferguson]], ''Grundsätze der Moralphilosophie'' [''Institutes of Moral Philosophy''], Leipzig 1772
+* [[Aristotle]], Ἠθικά [Ethics] (1798-1801)
+* [[Aristotle]], Πολιτικά [Politics] (1799-1802)
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{NIE|wstitle=Garve, Christian|year=1906}}
+
+==External links==
+* {{DNB portal|118537636|TYP=}}
+* [https://web.archive.org/web/20070608042436/http://www.bbaw.de/archivbbaw/archivbestaende/abtsammlungen/list_g_portrait.html Profilansicht Garves]
+* [https://web.archive.org/web/20070610185341/http://www.uni-hamburg.de/Wiss/FB/09/VolkskuI/Texte/Platt/garve.html ''Popularphilosophie und Volkskunde. Christian Garve (1742-1798)'']
+* ''[https://web.archive.org/web/20050116161156/http://dlib.stanford.edu:6520/text1/dd-ill/bauern.pdf Über den Charakter der Bauern und ihr Verhältniss gegen die Gutsherrn und gegen die Regierung]'', Frankfurt 1790 (PDF)
+
+{{Illuminati}}
+{{Authority control}}
+
+{{DEFAULTSORT:Garve, Christian}}
+[[Category:1742 births]]
+[[Category:1798 deaths]]
+[[Category:18th-century German philosophers]]
+[[Category:Businesspeople from Wrocław]]
+[[Category:People from the Province of Silesia]]
+[[Category:University of Halle alumni]]
+[[Category:European University Viadrina alumni]]
+[[Category:Academic staff of Leipzig University]]
+[[Category:German male writers]]
+[[Category:Writers from Wrocław]]

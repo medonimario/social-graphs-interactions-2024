@@ -1,0 +1,104 @@
+{{Short description|3rd-century BC Greek philosopher}}
+{{about|the Stoic philosopher|the ancient painter|Cleanthes (artist)}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[Hellenistic philosophy]]
+| image       = Cleanthes from L. Annaei Senecae philosophi Opera, 1605, title page detail.png
+| caption     = Cleanthes, engraving from 1605
+| name             = Cleanthes
+| birth_date       = c. 330 BC
+| birth_place      = [[Assos]]<br />(now [[Ayvacık, Çanakkale|Ayvacık]], [[Çanakkale Province|Çanakkale]], [[Turkey]])
+| death_date       = c. 230 BC
+| death_place      = [[Athens]]
+| school_tradition = [[Stoicism]]
+| main_interests   = [[Natural philosophy|Physics]], [[ethics]]
+| notable_ideas    =
+| influences       = [[Zeno of Citium]]
+| influenced       = [[Chrysippus]], [[Sphaerus]]
+}}
+'''Cleanthes''' ({{IPAc-en|k|l|i|ˈ|æ|n|θ|iː|z}}; {{lang-grc-gre|Κλεάνθης}}; c. 330 BC – c. 230 BC), of [[Assos]], was a [[Greeks|Greek]] [[Stoicism|Stoic philosopher]] and [[Ancient Greek boxing|boxer]] who was the successor to [[Zeno of Citium]] as the second head (''[[scholarch]]'') of the Stoic school in [[Athens]]. Originally a boxer, he came to Athens where he took up philosophy, listening to Zeno's lectures. He supported himself by working as a water-carrier at night. After the death of Zeno, c. 262 BC, he became the head of the school, a post he held for the next 32 years. Cleanthes successfully preserved and developed Zeno's doctrines. He originated new ideas in [[Stoic physics]], and developed Stoicism in accordance with the principles of [[materialism]] and [[pantheism]]. Among the fragments of Cleanthes' writings which have come down to us, the largest is a ''Hymn to Zeus''. His pupil was [[Chrysippus]] who became one of the most important Stoic thinkers.
+
+==Life==
+Cleanthes was born in [[Assos]] in the [[Troad]], about 330 BC.{{efn|name="age1"|According to [[Apollodorus of Athens|Apollodorus]] as quoted by [[Philodemus]], Cleanthes was born in Aristophanes' archonship (331/0 BC) and died in Jason's Archonship (230/29 BC). [[Pseudo-Lucian]], [[Valerius Maximus]], and [[Censorinus]] say that Cleanthes lived to the age of 99 (although [[Diogenes Laërtius]] says he died at the age of 80.<ref>"until his death at the same age as Zeno according to some authorities" {{harv|Laërtius|1925|loc=§ 168–176}}.</ref>) Dorandi prefers an age of 101. For more information see
+{{harvnb|Dorandi|1999|p=38}}.}} According to [[Diogenes Laërtius]],<ref name="diog1">{{harvnb|Laërtius|1925|loc=§ 168–176}}</ref> he was the son of Phanias, and early in life he was a successful [[Ancient Greek boxing|boxer]].  With but four [[Ancient drachma|drachma]]e in his possession he came to [[Athens]], where he took up philosophy, listening first to the lectures of [[Crates of Thebes|Crates]] the [[Cynicism (philosophy)|Cynic]],<ref>Suda, ''Cleanthes''</ref> and then to those of [[Zeno of Citium|Zeno]], the Stoic. In order to support himself, he worked all night as water-carrier to a gardener (hence his nickname ''the Well-Water-Collector'', {{langx|el|Φρεάντλης}}).  As he spent the whole day in studying philosophy with no visible means of support, he was summoned before the [[Areopagus]] to account for his way of living. The judges were so delighted by the evidence of work which he produced, that they voted him ten [[mina (unit)|minae]], though Zeno would not permit him to accept them. His power of patient endurance, or perhaps his slowness, earned him the title of "''the Ass''" from his fellow students, a name which he was said to have rejoiced in, as it implied that his back was strong enough to bear whatever Zeno put upon it.
+
+Such was the esteem awakened by his high moral qualities that, on the death of Zeno in 262 BC, he became the leader of the school. He continued, however, to support himself by the labour of his own hands. Among his pupils were his successor, [[Chrysippus]], and [[Antigonus II Gonatas]], from whom he accepted 3000 minae. He died at the age of 99, c. 230 BC.{{efn|name="age1"}} We are told that a dangerous [[Peptic ulcer|ulcer]] had compelled him to fast for a time. Subsequently he continued his abstinence, saying that, as he was already half-way on the road to death, he would not trouble to retrace his steps.<ref name="diog1"/>
+
+[[Simplicius of Cilicia|Simplicius]], writing in the 6th century AD, mentions that a statue of Cleanthes was still visible at Assos, which had been erected by the [[Roman Senate]].<ref>Simplicius, ''Commentary on the Enchiridion of Epictetus''.</ref>
+
+==Philosophy==
+Cleanthes was an important figure in the development of Stoicism, and stamped his personality on the physical speculations of the school, and by his [[materialism]] gave a unity to the Stoic system.<ref>{{Harvnb|Davidson|1907|p=27}}</ref>
+He wrote some fifty works, of which only fragments have survived preserved by writers such as [[Diogenes Laërtius]], [[Stobaeus]], [[Cicero]], [[Seneca the Younger|Seneca]] and [[Plutarch]].
+
+===Physics===
+Cleanthes revolutionized [[Stoic physics]] by the theory of tension (''tonos'') which distinguished Stoic materialism from all conception of matter as dead and inert.<ref>{{Harvnb|Hicks|1910|p=7}}</ref> He developed Stoic [[pantheism]], and applied his materialistic views to [[logic]] and [[ethics]].<ref>{{Harvnb|Davidson|1907|p=28}}</ref> Thus he argued that the [[Soul (spirit)|soul]] was a material substance, and that this was proved (a) by the circumstance that not only bodily qualities, but also mental capacity, are transmitted by ordinary generation from parent to child; and (b) by the sympathy of the soul with the body seen in the fact that, when the body is struck or cut, the soul is pained; and when the soul is torn by anxiety or depressed by care, the body is correspondingly affected.<ref>{{Harvnb|Davidson|1907|p=95}}</ref> Cleanthes also taught that souls live on after death, but that the intensity of its existence would vary according to the strength or weakness of the particular soul.<ref>Plutarch, ''Plac. Phil.'' iv. 7.</ref>
+
+Cleanthes regarded the [[Sun]] as being [[Divinity|divine]];<ref>Cicero, ''De Natura Deorum'', ii. 15.</ref> because the Sun sustains all living things, it resembled the divine fire which (in Stoic physics) animated all living beings, hence it too must be part of the vivifying fire or aether of the universe. Some maintain that he accused [[Aristarchus of Samos|Aristarchus]] of impiety for daring to put into motion "the hearth of the universe" (i.e. the [[Earth]]); this interpretation depends on an emendation of the received text,<ref>Plutarch, ''On the face of the orb of the Moon'', 922F–923A</ref> since in the manuscripts it is Aristarchus that did the accusing.{{sfn|Russo|Medaglia|1996|pp=113–121}} The largest surviving fragment of Cleanthes is the portion of the ''Hymn to Zeus'',<ref>{{harvnb|Ellery|1976}}; {{harvnb|Rolleston|1890|pp=1–2, 129}}</ref> which has been preserved in [[Stobaeus]], in which he declares praise and honour of [[Zeus]] to be the highest privilege of all rational beings.<ref>{{Harvnb|Hicks|1910|pp=96–97}}</ref>
+
+===Ethics===
+Cleanthes maintained that pleasure is not only not a good, but is "contrary to nature" and "worthless."<ref name="davidson148">{{Harvnb|Davidson|1907|p=148}}</ref> It was his opinion that the [[Stoic passions|passions]] (love, fear, grief) are weaknesses: they lack the strain or tension which he persistently emphasized, and on which the strength of the soul, no less than that of the body, depends, and which constitutes in human beings self-control, and moral strength, and also conditions every virtue.<ref name="davidson148"/> He said in a striking passage: "People walk in wickedness all their lives or, at any rate, for the greater part of it. If they ever attain to virtue, it is late and at the very sunset of their days."<ref>{{Harvnb|Hicks|1910|p=89}}</ref>
+
+Zeno had said that the goal of life was "to live consistently," the implication being that no life but the passionless life of reason could ultimately be consistent with itself. Cleanthes is credited with having added the words "with nature," thus completing the well-known Stoic formula that the goal is "to live consistently with nature."<ref>{{Harvnb|Stock|1908|p=7}}</ref> For Cleanthes, this meant, in the first place, living conformably to the course of the universe; for the universe is under the governance of reason, and everyone has it as their privilege to know or become acquainted with the world-course, to recognize it as rational and cheerfully to conform to it.<ref name="davidson143">{{Harvnb|Davidson|1907|p=143}}</ref> This, according to him, is true freedom of will not acting without motive, or apart from set purpose, or capriciously, but humbly acquiescing in the universal order, and, therefore, in everything that befalls one.<ref name="davidson143"/> The direction to follow [[Logos|Universal Nature]] can be traced in his famous prayer:
+{{poemquote|Lead me, [[Zeus]], and you too, [[Destiny]],
+To wherever your decrees have assigned me.
+I follow readily, but if I choose not,
+Wretched though I am, I must follow still.
+Fate guides the willing, but drags the unwilling.<ref>Epictetus, ''Enchiridion'', 53; Seneca, ''Epistles'', cvii, 11. The fifth line is not found in Epictetus.</ref>}}
+
+==Modern influence==
+Most notably, a fictionalized version of Cleanthes appears as one of the three main interlocutors in [[David Hume]]'s ''[[Dialogues Concerning Natural Religion]]'', where he defends the view that ''a posteriori'' knowledge of the existence and nature of God is possible for us.<ref>{{Cite book |last=Hume |first=David|year=1779 |title=  Dialogues Concerning Natural Religion |publisher=Penguin Books |place=London }}</ref>
+
+Cleanthes also appears in [[José Enrique Rodó]]'s essay ''Ariel'', in which he is depicted as meditating on the teachings of [[Zeno of Citium|Zeno]] as he carried water all through the night.
+
+==See also==
+* [[Acts 17:28]]
+
+==Notes==
+{{notelist}}
+{{Reflist|2}}
+
+==References==
+* {{Citation |last=Dorandi |first=Tiziano |chapter=Chapter 2: Chronology |editor-last=Algra |editor-first=Keimpe |display-editors=etal |year=1999 |title=The Cambridge History of Hellenistic Philosophy |page=38 |location=Cambridge |publisher=Cambridge University Press |isbn=978-0521250283 }}
+* {{Citation |last=Davidson |first=William Leslie |year=1907 |title=The Stoic Creed |url=https://archive.org/details/thestoiccreed00daviuoft |publisher=Clark }}
+* {{citation |translator-last=Ellery |translator-first=M. |year=1976 |url=http://www.utexas.edu/courses/citylife/readings/cleanthes_hymn.html |title=Cleanthes' Hymn to Zeus |ref={{harvid|Ellery|1976}} |url-status=dead |archive-url=https://web.archive.org/web/20071224143142/http://www.utexas.edu/courses/citylife/readings/cleanthes_hymn.html |archive-date=2007-12-24 }}
+* {{Citation |last=Hicks |first=Robert Drew |author-link=Robert Drew Hicks |year=1910 |title=Stoic and Epicurean |url=https://archive.org/details/stoicandepicurea00colluoft |publisher=C. Scribner }}
+* {{cite LotEP |chapter=Cleanthes |§=168–176 |mode=cs2 }}
+* {{citation |translator-last=Rolleston |translator-first=Thomas William |year=1890 |chapter='Cleanthes' Hymn to Zeus  |title=The Teaching of Epictetus: Being the 'Encheiridion of Epictetus', with Selections from the 'Dissertations' and 'Fragments' |edition=2nd  |location=London |publisher=Walter Scott, Ltd. |chapter-url=https://archive.org/details/teachingofepicte00epicuoft |pages=[https://archive.org/stream/teachingofepicte00epicuoft#page/1/mode/1up/search/Hymn 1]–192, note 1 on p. [https://archive.org/stream/teachingofepicte00epicuoft#page/192/mode/1up 192] |ref={{harvid|Rolleston|1890}} }}
+* {{citation |last1=Russo |first1=Lucio |last2=Medaglia |first2=Silvio M. |title=Sulla presunta accusa di empietà ad Aristarco di Samo |journal=Quaderni Urbinati di Cultura Classica |volume=53 |issue=2 |pages=113 |series=New Series |publisher=Fabrizio Serra Editore |doi=10.2307/20547344|jstor=20547344 |year=1996 }}
+* {{Citation |last=Stock |first=St. George William Joseph |year=1908 |title=Stoicism |url=https://archive.org/details/stoicism00stocuoft |publisher=Constable }}
+
+==Further reading==
+* {{cite book |last1=Holiday |first1=Ryan |author1-link=Ryan Holiday|last2=Hanselman |first2=Stephen |title=Lives of the Stoics |date=2020 |publisher=Portfolio/Penguin |location=New York |isbn=978-0525541875 |pages=12–25 |chapter=Cleanthes the Apostle}}
+* [[David Hume|Hume, David]], ''[[Dialogues Concerning Natural Religion]]'', in which "''Cleanthes''" is a character
+* Meijer P. A., (2008), ''Stoic theology. Proofs for the existence of the cosmic god and of the traditional gods. Including a commentary on Cleanthes' Hymn on Zeus''. Delft, Eburon.
+* Pearson, A., (1891), [https://archive.org/details/thefragmentsofze00zenouoft ''Fragments of Zeno and Cleanthes''].  Greek/Latin fragments with English commentary.
+* Thom, J., (2005), ''Cleanthes' Hymn to Zeus: Text, Translation, and Commentary''. Mohr Siebeck.  {{ISBN|3161486609}}.
+
+==External links==
+{{wikisource author}}
+{{Commons category|Cleanthes}}
+{{cite EB1911|wstitle=Cleanthes |short=x}}
+* {{Internet Archive author |sname=Cleanthes}}
+* {{Librivox author |id=8194}}
+* [https://sites.google.com/site/hellenisticbibliography/hellenistic/cleanthes "Bibliography for Cleanthes"] at [https://sites.google.com/site/hellenisticbibliography/ "A Hellenistic Bibliography"], compiled by Martine Cuypers, Trinity College Dublin.
+* The New von Arnim Project, Dir. Christian Vassallo, University of Turin, https://sites.google.com/unito.it/newvonarnim-apathes/home-page
+
+{{s-start}}
+{{s-bef|before=[[Zeno of Citium]]}}
+{{s-ttl|title=Leader of the Stoic school
+       |years=262–230 BC}}
+{{s-aft|after=[[Chrysippus]]}}
+{{s-end}}
+
+{{Stoicism}}
+
+{{Authority control}}
+
+[[Category:230s BC deaths]]
+[[Category:3rd-century BC Greek philosophers]]
+[[Category:Suicides in Ancient Greece]]
+[[Category:Stoic philosophers]]
+[[Category:Ancient Greek boxers]]
+[[Category:Hellenistic-era philosophers from Anatolia]]
+[[Category:330s BC births]]
+[[Category:People from Çanakkale Province]]

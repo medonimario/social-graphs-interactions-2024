@@ -1,0 +1,169 @@
+{{Short description|Austrian philosopher}}
+{{Use dmy dates|date=August 2018}}
+{{more footnotes needed|date=September 2014}}
+
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[20th-century philosophy]]
+|caption          = Gorz (to the right) and his wife, Dorine
+|name             = André Gorz
+|other_names      = Gérard Horst, Michel Bosquet
+|birth_name       = Gerhart Hirsch
+|birth_date       = 9 February 1923
+|birth_place      = [[Vienna]], [[First Austrian Republic|Austria]]
+|death_date       = {{death date and age|df=yes|2007|9|22|1923|2|9}}
+|death_place      = [[Vosnon]], France
+|school_tradition = 
+|main_interests   = 
+|notable_ideas    = 
+|influences       = 
+|image=File:Dorine et Gérard Horst, alias André Gorz.jpg}}
+
+'''Gérard Horst''' ({{IPA|fr|ʒeʁaʁ ɔʁst|pron}}; {{né|'''Gerhart Hirsch'''}}, {{IPA|de|ˈɡeːɐ̯haʁt ˈhɪʁʃ|lang}}; 9 February 1923 – 22 September 2007), more commonly known by his [[pen name]]s '''André Gorz''' ({{IPA|fr|ɑ̃dʁe ɡɔʁts|lang}}) and '''Michel Bosquet''' ({{IPA|fr|miʃɛl bɔskɛ|pron}}), was an Austrian and French [[Social philosophy|social philosopher]] and journalist and [[Critique of work|critic of work]].<ref>{{Cite web |date=2007-09-26 |title=Andre Gorz — RIP {{!}} MR Online |url=https://mronline.org/2007/09/26/andre-gorz-rip/ |access-date=2022-03-14 |website=mronline.org |language=en-US}}</ref><ref name="Verso">{{Cite web |title=Verso |url=https://www.versobooks.com/authors/746-andre-gorz |access-date=2022-03-14 |website=www.versobooks.com}}</ref><ref>{{Cite web |title=Questioning the Centrality of Work with André Gorz |url=https://www.greeneuropeanjournal.eu/questioning-the-centrality-of-work-with-andre-gorz/ |access-date=2022-04-03 |website=Green European Journal |language=en-US}}</ref><ref>{{cite web|url=https://www.theguardian.com/news/2007/nov/07/guardianobituaries.obituaries|author=Chris Turner|title=André Gorz: French philosopher who pioneered ideas of political ecology|website=The Guardian|date=7 November 2007}}</ref> He co-founded ''[[Le Nouvel Observateur]]'' weekly in 1964. A supporter of [[Jean-Paul Sartre]]'s [[existentialist]] version of [[Marxism]] after the Second World War, he became in the aftermath of the [[May '68]] student riots more concerned with [[political ecology]].<ref name="jacobinmag.com">{{Cite web |title=André Gorz's Non-Reformist Reforms Show How We Can Transform the World Today |url=https://jacobinmag.com/2021/07/andre-gorz-non-reformist-reforms-revolution-political-theory |access-date=2022-03-14 |website=jacobinmag.com |language=en-US}}</ref>
+
+In the 1960s and 1970s, he was a main theorist in the [[New Left]] movement and coined the concept of [[non-reformist reform]].<ref name="jacobinmag.com"/> His central theme was [[wage labour]] issues such as liberation from work, the just distribution of work, [[social alienation]], and a [[basic income|guaranteed basic income]].<ref>André Gorz, [http://societal.org/docs/55.htm Pour un revenu inconditionnel suffisant] {{Webarchive|url=https://web.archive.org/web/20200426145421/http://societal.org/docs/55.htm |date=26 April 2020 }}, published in TRANSVERSALES/SCIENCE-CULTURE (n° 3, 3e trimestre 2002) {{in lang|fr}}</ref>
+
+==Early life==
+Born in [[Vienna]] as Gerhart Hirsch, he was the son of a [[Jewish]] wood-salesman and a [[Catholic]] mother, who came from a cultivated background and worked as a secretary. Although his parents did not have any strong sense of national or religious identity, the rising [[anti-Semitism]] led his father to convert to Catholicism in 1930. At the outbreak of [[World War II]] in 1939, his mother sent him to an institution in [[Switzerland]] to avoid his mobilization into the [[Wehrmacht]]. Thereafter, Hirsch was a [[stateless person]] until 12 April 1957,<ref>Willy Gianinazzi, ''André Gorz. Une vie'', La Découverte, 2016, p. 69.</ref> when he became [[naturalization|naturalized]] as [[French citizen]] because of [[Pierre Mendès-France]]'s support.<ref name="ML">[[Michel Contat]], [http://multitudes.samizdat.net/article2724.html André Gorz, le philosophe et sa femme], ''[[Le Monde|Le Monde des livres]]'', 26 October 2006, mirrored by ''Multitudes'' {{in lang|fr}}</ref> He graduated from the École polytechnique at [[University of Lausanne]], now [[École Polytechnique Fédérale de Lausanne|EPFL]], in [[chemical engineering]] in 1945.
+
+Working at first as a [[translator]] of American short stories published by a Swiss editor, he then published his first articles in a [[co-operative]] journal. In 1946, he met [[Jean-Paul Sartre]], and they became close. Gorz was then influenced mainly by [[existentialism]] and [[phenomenology (philosophy)|phenomenology]]. He contributed to the journals ''[[Les Temps modernes]]'' ([[Paris]]), ''New Left Review'', ''Technologie und Politik'' ([[Reinbek]]).<ref name="Verso"/> In June 1949, he moved to [[Paris]], where he worked first at the international secretariat of the ''Mouvement des {{Interlanguage link multi|Citoyens du Monde|fr|3=Citoyens du Monde (association)}}'', then as private secretary of a [[military attaché]] of the embassy of India. He then entered ''[[Paris-Presse]]'' as a journalist and took the pseudonym of ''Michel Bosquet''. There, he met with [[Jean-Jacques Servan-Schreiber]], who in 1955 recruited him as an economist journalist for ''[[L'Express (France)|L'Express]]''.
+
+Alongside his journalistic activities, Gorz worked closely with Sartre and adopted an [[existentialist]] approach to [[Marxism]], which led Gorz to emphasize the questions of [[Marx's theory of alienation|alienation]] and of [[liberty|liberation]] in the framework of existential experience and an analysis of social systems from the viewpoint of individual experience. That intellectual framework formed the basis of his first books, ''Le Traître'' (Le Seuil, 1958, prefaced by Sartre<ref name=Figob>[http://www.lefigaro.fr/culture/20070925.FIG000000166_le_philosophe_andre_gorz_et_sa_femme_se_sont_suicides.html Le philosophe André Gorz et sa femme se sont suicidés], ''[[Le Figaro]]'', 25 September 2007 {{in lang|fr}}
+</ref>), ''La Morale de l'histoire'' (Le Seuil, 1959) and the ''Fondements pour une morale'' (Galilée, 1977, published fifteen years later), which he signed for the first time as André Gorz, from the German name of the now-Italian city ''([[Gorizia|Görz]])'', where the eyeglasses that were given to his father by the Austrian Army had been made.
+
+==1960s–1980s==
+Gorz also was a main theorist in the [[New Left]] movement, inspired by the [[young Marx]], discussions of humanism and [[Marx's theory of alienation|alienation]] and the liberation of humanity. Gorz was also influenced by the [[Frankfurt School]] since he was a friend of [[Herbert Marcuse]]. Other friends of his included [[Rossana Rossanda]], founder of ''[[Il Manifesto]]'' newspaper, the photographer [[William Klein (photographer)|William Klein]], younger intellectuals such as [[Marc Kravetz]] or [[Tiennot Grumbach]],<ref name=ML/> and [[Ronald Fraser (historian)|Ronald Fraser]] of the ''[[New Left Review]]''.
+
+He strongly criticised [[structuralism]] because of its criticisms of the subject and of subjectivity. He called himself a "revolutionary-reformist", a [[democratic socialist]] who wanted to see system-changing reforms. In 1961, he entered the editorial committee of ''Les Temps Modernes'' and introduced to French thought the Italian [[Sergio Garavini|Garavini]], the [[neo-Keynesianism|neo-Keynesian]] and communist [[Bruno Trentin]] and the [[anarcho-syndicalist]] [[Vittorio Foa]].<ref>On the relationship between Bruno Trentin and André Gorz, see W. Gianinazzi, ''op. cit.''</ref> Imposing himself as the "intellectual leader of the 'Italian' tendency of the [[New Left]]",<ref>Michel Contat, « Illustres inconnus et inconnus illustres : André Gorz », in ''[[Le Débat]]'', n° 50, p. 243.</ref>) he influenced activists of the [[Union Nationale des Étudiants de France|UNEF]] students' union and the [[CFDT]] (in particular, [[Jean Auger]], [[Michel Rolant]] and [[Fredo Krumnow]]) as a theorist of [[workers' self-management]], which has been recently embraced by the CFDT.{{Citation needed|date= May 2015}} His term "non-reformist reform" refers to proposed programs of change that base their demands on human needs, rather than those of the current economic system.<ref name="BondWise2013">{{cite book|author1= Julian Bond|author2= Leah Wise|author3= Henry Durham|author4= Howard Romaine |author5= Robert Sherrill |author6= Derek Shearer|title= Military and the South|url= https://books.google.com/books?id=CwFHAgAAQBAJ&pg=PA39|date= 30 January 2013|page= 39}}</ref>
+
+He directly addressed himself to trade unions in ''Stratégie ouvrière et néocapitalisme'' (Le Seuil, 1964) in which he criticized [[capitalist]] [[economic growth]] and expounded on the various strategies open to trade unions. The same year, he quit ''L'Express'', along with Serge Lafaurie, Jacques-Laurent Bost, K.S. Karol and [[Jean Daniel]], to found ''[[Le Nouvel Observateur]]'' weekly and used the pseudonym Michel Bosquet.
+
+Deeply affected by [[May 1968]], Gorz saw in the events a confirmation of his existential Marxist posture, which joined the students' criticisms towards institutional and state organisations: state, school, family, firm etc. [[Ivan Illich]]'s ideas on education, medicine and the abolition of [[wage labour]] then became the focus of his attention. Gorz published one of Illich's speeches in ''Les Temps Modernes'' in 1961 and met him in 1971 in ''Le Nouvel Observateur'' at the publishing of ''Deschooling Society'' (''Une Société sans école''). Gorz later published a summary of Illich's ''[[Tools for Conviviality]]'' (1973) under the title ''Libérer l'avenir'' (Free Future). His links with Illich was strengthened after a trip to [[California]] in 1974, and he wrote several articles for ''Le Nouvel Observateur'' to discuss Illich's thesis.<ref>[[Thierry Paquot]], [http://mondediplo.com/2003/01/15illich The Non-Conformist], ''[[Le Monde diplomatique]]'', January 2003 {{in lang|en}} ([http://www.monde-diplomatique.fr/2003/01/PAQUOT/9866 French version freely-available], and Portuguese and Esperanto translations available)</ref>
+
+Gorz's evolution and political and philosophical stances led to some tensions with his colleagues on ''Les Temps Modernes'' for which he had assumed the chief editorial responsibilities in 1969. In April 1970, his article ''Destroy the University'' (''Détruire l'Université'') provoked the resignations of [[Jean-Bertrand Pontalis]] and [[Bernard Pingaud]]. Gorz also criticised a [[Maoist]] tendency that had been in the journal since 1971 and supported by Sartre. In 1974, Gorz finally resigned as editor after a disagreement on an article about the Italian [[autonomist]] group ''[[Lotta Continua]]''. He was also forced to the periphery of ''Le Nouvel Observateur'' since he was replaced by more classically oriented economists, and he supported a campaign against nuclear industry to which [[Électricité de France|EDF]], the state electricity firm, replied by withdrawing advertisements from the weekly. After it refused to let him publish a special issue on the nuclear issue, he published it in the ''Que Choisir?'' consumers' magazine.
+
+Gorz was becoming a leading figure of [[political ecology]], with his ideas being popularised particularly by the ecologist monthly ''Le Sauvage'', which had been founded by [[Alain Hervé]], the founder of the French section of the [[Friends of the Earth]]. In 1975, Gorz published ''Ecologie et politique'' (Galilée, 1975), which included the essay ''Ecologie et liberté'', "one of the foundational texts of the ecologic problematic".<ref>Françoise Gollain, ''Pensée écologique et critique du travail dans une perspective gorzienne'', Orléans, Ph.D. en economic sciences, 1999, p. 113</ref>
+
+Gorz was also influenced by [[Louis Dumont]] in considering Marxism and [[liberalism]] to be two versions of economist thought. Gorz then opposed [[hedonist]] [[individualism]] and [[utilitarianism]] and materialist and productivist [[Collectivism and individualism|collectivism]]. He supported a humanist version of ecology similar to [[social ecology (theory)|social ecology]] that opposes [[deep ecology]]. Gorz's ecologism, however, remained linked to a critique of capitalism, as he called for an "ecological, social and cultural revolution that abolishes the constraints of capitalism".<ref>[[French language|French]]: ''« révolution écologique, sociale et culturelle qui abolisse les contraintes du capitalisme''», quoted by Françoise Gollain, ''op. cit.'', p. 13</ref>
+
+== 1980s–2000s==
+A year before the [[1981 French presidential election|election of the left's candidate]], [[François Mitterrand]], to the French presidency in 1981, Gorz published ''Adieux au prolétariat'' (Galilée, 1980 – "Farewell to the Proletariat") in which he criticized the cult of the [[proletarian]] class in [[Marxism]]. He argued that changes in science and technology had made it impossible for the working class to be the sole or even the main revolutionary agent. Although the book was not well received among the [[French left]], it received attention from younger readers.
+
+Soon after Sartre's death that year, Gorz left the editorial board of ''Les Temps Modernes''. In ''Les Chemins du paradis'' (Galilée, 1983) Gorz remained critical of the Marxist orthodoxy of the time, and he used Marx's own analysis in the ''Grundrisse'' to argue for the need of the political left to embrace the liberatory potential that the increasing automation of factories and services offered as a central part of the socialist project. In 1983, he fell out with [[pacifist]] movements by refusing to oppose the deployment of [[Pershing II]] missiles by the [[United States]] in [[West Germany]]. The same year, he resigned from ''Le Nouvel Observateur''.
+
+In the 1990s and the 2000s, the journals ''Multitudes'' and ''[[EcoRev']]'' published his last article in French, ''La fin du capitalisme a déjà commencé'' ("The End of Capitalism Has Already Begun"),<ref>{{Cite web|url=http://ecorev.org/spip.php?article641|title=Le travail dans la sortie du capitalisme - Revue Critique d'Ecologie Politique|website=ecorev.org}}</ref>
+and ''Entropia'' published his articles.
+
+Gorz also opposed the [[post-structuralism]] and the [[postmodernism]] of thinkers like [[Antonio Negri]]. Gorz's point of view was rooted in the thought of early [[Marxist humanism]]. Liberation from [[wage slavery]] and [[social alienation]] remained some of his goals, even in his later works.<ref>{{Cite journal |last=Räterlinck |first=Lennart E. H. |date=2011 |title=Review of Arbetssamhället: Hur arbetet överlevde teknologin |url=https://www.jstor.org/stable/41203052 |journal=Sociologisk Forskning |volume=48 |issue=1 |pages=68–70 |jstor=41203052 |issn=0038-0342}}</ref>
+
+He never became an abstract theorist since his reasoning usually concluded with proposals for how to act to make changes. In ''Métamorphoses du travail'' (Galilée, 1988 – "Metamorphosis of Labour"), Gorz argued that capitalism used personal investments from the worker that were not paid back. As such, he became an advocate of a [[guaranteed basic income]] independent from work. He made such a proposal in his book, ''[[Critique of Economic Reason]]'' in 1989 and argued:
+
+<blockquote>
+"From the point where it takes only 1,000 hours per year or 20,000 to 30,000 hours per lifetime to create an amount of wealth equal to or greater than the amount we create at the present time in 1,600 hours per year or 40,000 to 50,000 hours in a working life, we must all be able to obtain a real income equal to or higher than our current salaries in exchange for a greatly reduced quantity of work. In practice, this means that in the future we must receive our full monthly income every month even if we work full-time only one month in every two or six months in a year or even two years out of four, so as to complete a personal, family or community project, or experiment with different lifestyles, just as we now receive our full salaries during paid holidays, training courses, possibly during periods of sabbatical leave, and so forth...".<ref>{{Cite book|title=Critic of Economic Reason|last=Gorz|first=André|publisher=Verso|year=1989|isbn=978-1-84467-667-5|location=London - New-York|pages=240}}</ref>
+</blockquote>
+
+He pointed out that in
+
+<blockquote>
+"contrast to the guaranteed social minimum granted by the state to those unable to find regular paid work, our regular monthly income will be the normal remuneration we have earned by performing the normal amount of labour the economy requires each individual to supply. The fact that the amount of labour required is so low that work can become intermittent and constitute an activity amongst a number of others, should not be an obstacle to its being remunerated by a full monthly income throughout one's life. This income corresponds to the portion of socially produced wealth to which each individual is entitled by virtue to their participation in the social process of production. It is, however, no longer a true salary, since it is not dependent on the amount of labour supplied (in the month or year) and is not intended to remunerate individuals as workers".<ref>{{Cite book|title=Critique of Economic Reason|last=Gorz|first=André|publisher=Verso|year=1989|isbn=978-1-84467-667-5|location=London - New-York|pages=241}}</ref>
+</blockquote>
+
+== Death ==
+Gorz and his wife, Dorine, committed suicide by [[lethal injection]] together in their home in [[Vosnon]], [[Aube]]. His wife had been diagnosed with a terminal illness, and they had already said that neither wanted to survive the other's death.<ref name="jacobinmag.com"/> Their bodies were found on 24 September 2007 by a friend.<ref name=Figob/><ref>
+[[Agence France Press|AFP]], "French philosopher commits suicide with wife," 25 September 2007 [http://afp.google.com/article/ALeqM5gjWhcNZrlESesEMdHb_hDiVUXltQ on-line] {{webarchive|url=https://web.archive.org/web/20130703014627/http://afp.google.com/article/ALeqM5gjWhcNZrlESesEMdHb_hDiVUXltQ |date=3 July 2013 }} {{in lang|en}}
+</ref>
+
+His book ''Lettre à D. Histoire d'un amour'' (Galilée, 2006) was dedicated to his wife and was in fact a way for him to tell of his love for her.<ref name="jacobinmag.com"/>
+
+== Bibliography ==
+=== Books ===
+* ''La morale de l'histoire'' (Seuil, 1959)
+* ''Stratégie ouvrière et néocapitalisme'' (Seuil, 1964)
+* ''Socialism and Revolution'' (first published, Seuil, 1967, as ''Le socialisme difficile'')
+* ''Réforme et révolution'' (Seuil, 1969)
+* ''Critique du capitalisme quotidien'' (Galilée, 1973)
+* ''Critique de la division du travail'' (Seuil, 1973. Collective work)
+* ''Ecology as Politics'' (South End Press, 1979, first published, Galilée, 1978)
+* ''Écologie et liberté'' (Galilée, 1977)
+* ''Fondements pour une morale'' (Galilée, 1977)
+* ''The Traitor'' (1960, first published, Seuil, 1958)
+* ''Farewell to the Working Class'' (1980 – Galilée, 1980, and Le Seuil, 1981, as ''Adieux au Prolétariat'')
+* ''Paths to Paradise'' (1985 – Galilée, 1983)
+* ''Critique of Economic Reason'' (Verso, 1989, first published, Galilée, 1988, as ''Métamorphoses du travail, quête du sens'')
+* ''Capitalism, Socialism, Ecology'' (1994 – Galilée, 1991)
+* ''Reclaiming Work: Beyond the Wage-Based Society'' (1999, first published, Galilée 1997 as ''Misères du présent, richesse du possible'')
+* ''The Immaterial: Knowledge, Value and Capital'' (Seagull Books, 2010, first published, Galilée, 2003)
+* ''Letter to D : A Love Letter'' (Polity, 2009, first published 2006 – [http://www.psychologies.com/cfml/article/c_article.cfm?id=6421 extract on-line] {{Webarchive|url=https://web.archive.org/web/20071214025516/http://www.psychologies.com/cfml/article/c_article.cfm?id=6421 |date=14 December 2007 }})
+* ''Ecologica'' (Galilée, 2008)
+* ''Le fil rouge de l'écologie. Entretiens inédits en français'', Willy Gianinazzi (ed.) (Ed. de l'EHESS, 2015)
+* ''Leur écologie et la nôtre. Anthologie d'écologie politique'', Françoise Gollain & Willy Gianinazzi (eds.) (Seuil, 2020)
+
+=== Essays ===
+* [[:fr:Willy_Gianinazzi|Willy Gianinazzi]], ''André Gorz: A life'', London: Seagull Books, 2022.
+* [[Finn Bowring]], ''André Gorz and the Sartrean Legacy: Arguments for a person-centred social theory'', London: MacMillan, 2000.
+* [[Conrad Lodziak]], [[Jeremy Tatman]], ''André Gorz: A critical introduction'', London: Pluto Press, 1997.
+*''[https://unevenearth.org/2018/08/the-social-ideology-of-the-motorcar/ The Social Ideology of the Motorcar]'', ''Le Sauvage'' September–October 1973
+
+=== Audio ===
+* An hommage to the thought of André Gorz broadcast on [[France Culture]]: [https://web.archive.org/web/20091003135351/http://sites.radiofrance.fr/chaines/france-culture2/emissions/vendredis/fichedoc.php?diffusion_id=56144&dos=2007%2Fgorz ''Philosophie en situations : André Gorz, philosophe d'avenir'']
+* A portrait of André Gorz was broadcast on [[France Culture]] on 20 December 2006, on the radio show ''Surpris par la nuit''.
+
+=== Interviews ===
+*[http://www.3sat.de/dynamic/mediathek/mediathek.php?obj=6041 Interview with Andre Gorz (video in German)], [[3sat]], 5 September 2007
+*[http://breadlover.egloos.com/4012200 Interview with Gorz 1983-Farewell to the Proletariat (text in English)]
+*[http://www.verds-alternativaverda.org/upload/AGorz%20entrevistes.pdf Entrevistas a Andre Gorz : Clarín y Michel Zlotowski, 1999. Traducción de Cristina Sardoy (in Spanish) – Les périphériques vous parlent, printemps 1998 (in French)]
+
+=== Documentary ===
+* Charline Guillaume, Victor Tortora, Julien Tortora and Pierre-Jean Perrin, ''Letter to G., Rethinking our society with André Gorz'',<ref>{{Cite web|title=" Il faut vouloir autre chose, mais quoi ? " : avoir 20 ans et écrire à André Gorz|url=https://www.nouvelobs.com/idees/20190927.OBS19023/il-faut-vouloir-autre-chose-mais-quoi-avoir-20-ans-et-ecrire-a-andre-gorz.html|access-date=2020-09-04|website=L'Obs|date=27 September 2019 |language=fr}}</ref><ref>{{Cite web|title=Letter to G., the film - Rethinking our society with André Gorz|url=https://andregorz.fr/en/|access-date=2020-09-04|website=Letter to G.|language=en-GB}}</ref> autoproduction.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.antenna.nl/~waterman/gorz.html Appendix to Critique of Economic Reason: Summary for Trade Union and Other Left Activists]
+* [http://socialistregister.com/index.php/srv/article/view/5272 Reform and Revolution], Socialist Register, 1968
+* [http://tmtm.free.fr/www.lesperipheriques.org/ancien-site/journal/10/fr1043.html « Oser l'exode » de la société de travail] dans ''Les périphériques vous parlent'' n° 10, printemps 1998, pp.&nbsp;43–49 {{in lang|fr}}
+*[http://mrzine.monthlyreview.org/2007/sitas260907.html Andre Gorz – RIP], Monthly Review
+*[http://www.wsws.org/articles/2007/oct2007/gorz-o09.shtml Social theorist André Gorz dies, aged 84], World Socialist
+*[http://multitudes.samizdat.net/auteur254.html Page dedicated to André Gorz] on ''Multitudes'' 
+*[http://multitudes.samizdat.net/spip.php?article1145 « L'immatériel » d'André Gorz], by [[Yann Moulier-Boutang]], ''[[EcoRev']]'', 2003 {{in lang|fr}}
+*[http://ecorev.org/spip.php?article5 Extract of an article] published in March 1974 in ''[[Les Temps Modernes]]'' {{in lang|fr}}
+*[https://web.archive.org/web/20121101102809/http://www.streifzuege.org/navi/gorz-andre Articles] in the journal ''Streifzüge'' {{in lang|de}}
+*[http://ecorev.org/spip.php?mot41 Articles] in the journal [[EcoRev']] {{in lang|fr}}
+*[http://www.keimform.de/2007/09/24/andre-gorz-tot/ Blog entry] concerning the death of Andre Gorz and his wife {{in lang|de}}
+*[http://www.radicalphilosophy.com/obituary/andre-gorz-1923%E2%80%932007 Finn Bowring, "The Writer's Malady: André Gorz, 1923–2007"] Obituary published in ''[[Radical Philosophy]]'' (March/April 2008)
+*[http://www.geocities.com/Athens/Forum/8886/gorz.html El suicidio de André Gorz y su mujer] ([https://web.archive.org/web/20091027101357/http://geocities.com/Athens/Forum/8886/gorz.html Archived] 2009-10-25) (Spanish) artículo del escritor colombiano {{ill|Germán Uribe|es|vertical-align=sup}}
+*[https://web.archive.org/web/20090615190653/http://www.revue1900.org/revue/dossiers/dossiers.php?id_dossier=493 André Gorz and the Syndicalism] in ''Mil neuf cent'', 2008 {{in lang|fr}}
+*[http://ecorev.org/spip.php?article705 Thinking after capitalism with André Gorz] in [[EcoRev']], autumn 2009
+* [http://www.czechfocus.cz/2010/9/2/art54238.html ''Kurzarbeit'', "living-dead capitalism," and the future of the left] article summarizing Gorz's ''Paths to Paradise''
+{{Critique of work}}{{Critique of political economy}}{{Basic income}}
+{{Authority control}}
+
+{{DEFAULTSORT:Gorz, Andre}}
+[[Category:1923 births]]
+[[Category:2007 suicides]]
+[[Category:Austrian economists]]
+[[Category:Writers from Vienna]]
+[[Category:Austrian philosophers]]
+[[Category:Austrian socialists]]
+[[Category:Universal basic income writers]]
+[[Category:Critics of work and the work ethic]]
+[[Category:Degrowth advocates]]
+[[Category:École Polytechnique Fédérale de Lausanne alumni]]
+[[Category:French economists]]
+[[Category:French expatriates in Switzerland]]
+[[Category:French journalists]]
+[[Category:Marxist humanists]]
+[[Category:French socialists]]
+[[Category:French male writers]]
+[[Category:Joint suicides]]
+[[Category:Political ecologists]]
+[[Category:Refusal of work]]
+[[Category:Social philosophers]]
+[[Category:Anti-consumerists]]
+[[Category:Suicides in France]]
+[[Category:20th-century Austrian journalists]]
+[[Category:20th-century French philosophers]]
+[[Category:2007 deaths]]
+[[Category:Philosophers of technology]]
+[[Category:Austrian emigrants to France]]

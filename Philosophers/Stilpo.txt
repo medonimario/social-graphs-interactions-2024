@@ -1,0 +1,71 @@
+{{Short description|Greek Megarian school philosopher (c.360–c. 280 BC)}}
+{{For|the insect genus|Stilpon (fly)}}{{Primary sources|date=October 2022}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[Ancient philosophy]]
+| image       = Stilpo Nuremberg Chronicle.jpg
+| caption    = Stilpo, depicted as a medieval scholar  in the ''[[Nuremberg Chronicle]]'', where he is called "Silphon".<ref>[http://de.wikisource.org/wiki/Die_Schedelsche_Weltchronik_(deutsch):083 ''Die Schedelsche Weltchronik, 083'']</ref>
+| name             = Stilpo of Megara
+| birth_date       = c. 360 BC
+| birth_place      = [[Megara]]
+| death_date       = c. 280 BC
+| death_place      = 
+| school_tradition = [[Megarian school]]
+| main_interests   = [[Logic]], [[dialectic]], [[ethics]]
+| notable_ideas    = The [[Universal (metaphysics)|universal]] is fundamentally separated from the individual and concrete
+| influences       = [[Euclid of Megara]], [[Thrasymachus of Corinth]], [[Pasicles of Thebes]], [[Diodorus Cronus]]
+| influenced       = [[Crates of Thebes]], [[Zeno of Citium]], [[Nicarete of Megara]], [[Menedemus]], [[Asclepiades of Phlius|Asclepiades]]
+}}
+
+'''Stilpo''' or '''Stilpon''' ({{lang-grc-gre|Στίλπων}}, ''Stílpōn''; c. 360 – c. 280 BC),{{sfn|Dorandi|1999|p=52}} in [[Latin]] sources also '''Stilbo''' or '''Stilbon''',<ref>For example, [[Seneca the Younger|Seneca]] uses ''Stilbon''; see {{harvnb|Baraz|2016|p=163}}.</ref> was a [[Greek philosophy|Greek philosopher]] of the [[Megarian school]]. He was a contemporary of [[Theophrastus]], [[Diodorus Cronus]], and [[Crates of Thebes]]. None of his writings survive, but he is described in the writings of others as being interested in [[logic]] and [[dialectic]], and he argued that the [[Universal (metaphysics)|universal]] is fundamentally separated from the individual and concrete. His [[ethical]] teachings approached that of the [[Cynicism (philosophy)|Cynics]] and [[Stoics]]. His most important followers were [[Pyrrho]], the founder of [[Pyrrhonism]], and [[Zeno of Citium]], the founder of [[Stoicism]].
+
+==Life==
+He was a native of [[Megara]]. He probably lived after the time of [[Euclid of Megara]], which makes it unlikely that he was a pupil of Euclid, as stated by some;<ref>Diog. Laërt.2.113 ''Stilp''.; Suda, ''Stilpo''</ref> and others state that he was the pupil of [[Thrasymachus of Corinth]],{{sfn|Laërtius|1925|loc=§  113}} or of [[Pasicles of Thebes|Pasicles]], the brother of [[Crates of Thebes]].<ref>Suda, ''Stilpo''; cf. Diogenes Laërtius, vi. 89</ref> According to one account, he engaged in dialectic encounters with [[Diodorus Cronus]] at the court of [[Ptolemy I Soter|Ptolemy Soter]]; according to another, he did not comply with the invitation of the king, to go to [[Alexandria]]. We are further told that [[Demetrius I of Macedon|Demetrius]], the son of [[Antigonus I Monophthalmus|Antigonus]], honoured him no less, spared his house at the capture of Megara, and offered him indemnity for the injury which it had received, which, however, Stilpo declined.<ref>Plut. ''Demetr.'' 9.5-6; Diog. Laërt. 2.115 ''Stilp.''; etc.</ref> Uniting elevated sentiment with gentleness and patience, he, as [[Plutarch]] says,<ref>Plutarch, ''Colot.'' c. 22</ref> was an ornament to his country and friends, and had his acquaintance sought by kings. His original propensity to wine and voluptuousness he is said to have entirely overcome;<ref>Cicero, ''de Fato'', 5.10</ref> in inventive power and dialectic art to have surpassed his contemporaries, and to have inspired almost all Greece with a devotion to [[Megarian school|Megarian]] philosophy. A number of distinguished men too are named, whom he is said to have drawn away from [[Theophrastus]], [[Aristotle of Cyrene]], and others, and attached to himself;<ref>Diog. Laërt. 2.113, 119, 120 Stilpo</ref> among others [[Crates of Thebes|Crates the Cynic]], and [[Zeno of Citium|Zeno]], the founder of the [[Stoicism|Stoic]] school.{{sfn|Laërtius|1925|loc=§ 113}} Among his followers were [[Menedemus]] and [[Asclepiades of Phlius|Asclepiades]], the leaders of the [[Eretrian school]] of philosophy. One of his pupils, [[Nicarete of Megara|Nicarete]], was also said to have been his mistress.<ref>Athenaeus, xiii. 596e; {{harvnb|Laërtius|1925|loc=§ 114}}.</ref> Stilpo was praised for his political wisdom, his simple, straightforward disposition, and the equanimity with which he tolerated his rebellious daughter.<ref>{{harvnb|Laërtius|1925|loc=§ 114}}; comp. Plutarch, ''de tranqu. animi,'' c. 6</ref> [[Cicero]] relates that Stilpo's friends had described him as "vehemently addicted to wine and women",{{sfn|Cicero|1878|p=268}} but that his philosophy eliminated his inclinations.<ref>Cicero, ''De Fato'', 5</ref>
+
+==Philosophy==
+Of the dialogues ascribed to him, we know only the titles. He belonged to the [[Megarian school]] of philosophy, but we learn only a little about his doctrines in the few fragments and sayings of his which are quoted.
+
+===Logic===
+Stilpo argued that the [[genus]], the [[Universal (metaphysics)|universal]], is not contained in the individual and concrete. "Whoever speaks of any person, speaks of no-one, for he neither speaks of this one nor that. For why should it rather be of this one than that? Hence it is not of this one".{{sfn|Laërtius|1925|loc=§ 119}} One of his examples was that "the [[vegetable]] is not what is here shown. For a vegetable existed ten thousand years ago, therefore this here is not a vegetable".{{sfn|Laërtius|1925|loc=§ 119}} According to [[Simplicius of Cilicia|Simplicius]], "the so-called Megarians took it as ascertained that what has different determinations is different, and that the diverse are separated one from the other, they seemed to prove that each thing is separated from itself. Hence since the musical [[Socrates]] is another determination from the wise Socrates, Socrates was separated from himself."<ref>Simplicius, in ''Phys. Ausc.'' f. 26, quoted by {{harvnb|Hegel|1805|p={{page needed|date=March 2016}} }}</ref>
+
+Thus one thing cannot be predicated of another, that is, the essence of things cannot be reached by means of [[wikt:predicate|predicates]]. [[Plutarch]] quotes Stilpo as arguing: 
+<blockquote>
+To be a [[horse]] differs from to be running. For being asked the definition of the one and of the other, we do not give the same for them both; and therefore those err who predicate the one of the other. For if good is the same with people, and to run the same with a horse, how is good affirmed also of food and medicine, and again (by Jupiter) to run of a lion and a dog? But if the predicate is different, then we do not rightly say that a person is good, and a horse runs.<ref>Plutarch, ''adv. Colot.'' 22, 23</ref></blockquote>
+Plutarch remarks here that [[Colotes]] attacked Stilpo in a bombastic manner as though he ignored common life: "for how shall we live, if we cannot style a man good, nor a man a captain, but must separately name a man a man, good good, and a captain a captain." But Plutarch, in turn, replied, "but what man lived any the worse for this? Is there any man who hears this said, and who does not understand it to be the speech of a man who rallies gallantly, and proposes to others this logical question to exercise their mind?"
+
+===Ethics===
+Stilpo seems to have been interested in [[Virtue]],{{sfn|Laërtius|1925|loc=§ 118}} and its self-sufficiency. He maintained that the wise man ought not only to overcome every evil, but not even to be affected by any, not even to feel it,<ref>Seneca, ''Epistles,'' ix. 1, 18; comp. Plutarch ''de Tranqu. animi'', 6, {{harvnb|Laërtius|1925|loc=§ 114}}.</ref> showing, perhaps, how closely allied Stilpo was to the contemporary [[Cynicism (philosophy)|Cynics]]:
+{{quote|For Stilbo, after his country was captured and his children and his wife lost, as he emerged from the general desolation alone and yet happy, spoke as follows to [[Demetrius I of Macedon|Demetrius]], called ''Sacker of Cities'' because of the destruction he brought upon them, in answer to the question whether he had lost anything: "I have all my goods with me!"|Seneca, {{ws|[[s:Moral letters to Lucilius/Letter 9|''Epistles'', 9.18]]}}}}
+This story was an inspiration for [[Friedrich Maximilian Klinger|Friedrich Klinger]]'s [[Sturm und Drang]] play ''Stilpo und seine Kinder'' (''Stilpo and his Children'') written in 1777 and published in 1780.{{sfn|Garland|1997|p=470}}
+
+A one-page fragment or paraphrase from a work concerning [[exile]] is preserved in the writings of [[Teles of Megara]], a 3rd-century BC [[Cynicism (philosophy)|Cynic]]. In this fragment, Stilpo divides the good into three parts: goods of the soul, goods of the body, and external goods. He then argues that exile does not deprive a person of any of these three goods.{{sfn|Teles of Megara|1977|p=21}}
+
+==Notes==
+{{reflist|2}}
+
+==Sources==
+*{{cite book|last1=Baraz|first1=Yelena|date=2016|chapter=True Greatness of Soul in Seneca's De constantia sapientis|editor1-last=Williams|editor1-first=Gareth D.|editor2-last=Volk|editor2-first=Katharina|title=Roman Reflections: Studies in Latin Philosophy|location=New York|publisher=Oxford University Press|pages=157–171|isbn=9780199999767|url=https://books.google.com/books?hl=en&id=RhppCgAAQBAJ&pg=PA163|doi=10.1093/acprof:oso/9780199999767.003.0008}}
+*{{citation |last=Cicero |first= Marcus Tullius |author-link=Cicero, Marcus Tullius |year=1878 |translator-first=Charles Duke |translator-last=Yonge |translator-link=Charles Duke Yonge |url=https://archive.org/details/treatisesofcicer00ciceuoft |title=The treatises of M.T. Cicero: On the nature of the gods; On divination; On fate; On the republic; On the laws; and On standing for the consulship |page=268 |location=London |publisher=G. Bell }}
+*{{citation |last=Dorandi  |first=Tiziano |chapter=Chapter 2: Chronology |editor-last=Algra |editor-first=Keimpe |display-editors=etal |year=1999 |title=The Cambridge History of Hellenistic Philosophy |page=52 |location=Cambridge |publisher=Cambridge University Press |isbn=9780521250283}}
+*{{citation|author=Hegel |author-link=Hegel |year=1805 |chapter-url=http://www.marxists.org/reference/archive/hegel/works/hp/hpsocratics.htm |chapter=The Philosophy of the Socratics |title=[[Lectures on the History of Philosophy]]}}
+*{{cite LotEP |chapter=Stilpo |mode=cs2}}
+*{{citation |last=Garland |first=Mary |year=1997 |title=The Oxford companion to German literature |page=470 |publisher=Oxford University Press}}
+*{{citation |author=Teles of Megara |author-link=Teles of Megara  |year=1977 |chapter=''Discourse'' 3, "On Exile" |editor-first=Edward |editor-last=O'Neil |title=Teles the Cynic Teacher |page=21 |publisher=Scholars Press}}
+
+'''Attribution:'''
+*{{SmithDGRBM|mode=cs2}}
+
+==External links==
+*[http://stilpo.netne.net/index.php?page=Main+page Stilpo References] - Primary Sources
+
+{{Megarian philosophy}}
+
+{{Authority control}}
+{{DEFAULTSORT:Stilpo}}
+[[Category:4th-century BC Greek philosophers]]
+[[Category:Hellenistic-era philosophers]]
+[[Category:Ancient Megarians]]
+[[Category:Megarian philosophers]]
+[[Category:Year of birth missing]]
+[[Category:Year of death missing]]
+[[Category:Classical Greek philosophers]]

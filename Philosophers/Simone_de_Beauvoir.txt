@@ -1,0 +1,338 @@
+{{Short description|French philosopher, social theorist and activist (1908–1986)}}
+{{Redirect|La Beauvoir||Beauvoir (disambiguation)}}{{Not to be confused with|Simón Bolívar}}
+{{Use dmy dates|date=June 2020}}
+{{Infobox philosopher
+| name          = Simone de Beauvoir
+| image         = Simone de Beauvoir2.png
+| alt           =
+| caption       = Beauvoir in 1967
+| birth_name    = Simone Lucie Ernestine Marie Bertrand de Beauvoir
+| birth_date    = {{Birth date|1908|1|9|df=yes}}
+| birth_place   = Paris, France
+| death_date    = {{Death date and age|1986|4|14|1908|1|9|df=yes}}
+| death_place   = Paris, France
+| resting_place = [[Montparnasse Cemetery]], Paris
+| education     = [[University of Paris]] ([[Bachelor of Arts|BA]], [[Master of Arts|MA]])
+| occupation    = {{hlist|Philosopher|writer|social theorist|activist}}
+| years_active  =
+| notable_works = ''[[The Second Sex]]'' (1949)
+| partner       = {{plainlist|
+* {{nowrap|[[Jean-Paul Sartre]]}} (1929–1980; his death)
+* [[Nelson Algren]] (1947–1964)
+* [[Claude Lanzmann]] (1952–1959)
+}}
+| module        = {{Infobox philosopher|embed=yes
+ | era              = [[20th-century philosophy]]
+ | region           = [[Western philosophy]]
+ | school_tradition = {{ublist |[[Continental philosophy]] |[[Existentialism]] |[[Existential phenomenology]]<ref>O'Brien, Wendy, and Lester Embree (eds), ''The Existential Phenomenology of Simone de Beauvoir'', Springer, 2013, p. 40.</ref> |[[French feminism]] |[[Western Marxism]]}}
+ | main_interests   = {{hlist|[[Political philosophy]]|[[existential phenomenology]]}}
+ | notable_ideas    = {{ublist |"[[The Ethics of Ambiguity|Ethics of ambiguity]]" |[[Feminist ethics]] |[[Existential feminism]]}}
+}}
+| signature     = Simone de Beauvoir (signature).jpg
+| signature_alt =
+}}
+{{Feminist philosophy sidebar}}
+
+'''Simone Lucie Ernestine Marie Bertrand de Beauvoir'''{{family name footnote|Beauvoir|lang=French}} ({{IPAc-en|UK|d|ə|_|ˈ|b|oʊ|v|w|ɑːr}}, {{IPAc-en|US|d|ə|_|b|oʊ|ˈ|v|w|ɑːr}};<ref>{{cite LPD|3}}</ref><ref>{{cite EPD|18}}</ref> {{IPA|fr|simɔn də bovwaʁ|lang|Fr-Simone de Beauvoir.ogg}}; 9 January 1908 – 14 April 1986) was a French [[Existentialism|existentialist]] philosopher, writer, [[social theorist]], and [[Feminism|feminist]] activist. Though she did not consider herself a philosopher, nor was she considered one at the time of her death,<ref>{{Cite journal |last=Pardina |first=María Teresa López |title=Simone de Beauvoir as Philosopher |date=1994 |url=https://www.jstor.org/stable/45173538 |journal=Simone de Beauvoir Studies |volume=11 |pages=5–12 |doi=10.1163/25897616-01101002 |jstor=45173538 |issn=1063-2042}}</ref><ref>{{Cite web |last1=Bergoffen |first1=Debra |title=Simone de Beauvoir |date=2021 |url=https://plato.stanford.edu/archives/win2021/entries/beauvoir/ |website=The Stanford Encyclopedia of Philosophy |editor-last=Zalta |editor-first=Edward N. |edition=Winter 2021 |publisher=Metaphysics Research Lab, Stanford University |access-date=2022-04-09 |last2=Burke |first2=Megan}}</ref><ref>{{Cite news |last=Cohen |first=Patricia |date=1998-09-26 |title=Beauvoir Emerges From Sartre's Shadow; Some Even Dare to Call Her a . . . Philosopher |language=en-US |work=The New York Times |url=https://www.nytimes.com/1998/09/26/books/beauvoir-emerges-from-sartre-s-shadow-some-even-dare-to-call-her-a-philosopher.html |access-date=2022-04-09 |issn=0362-4331}}</ref> she had a significant influence on both [[feminist existentialism]] and [[feminist theory]].<ref name="SEP-Bergoffen-2010">{{cite web |last=Bergoffen |first=Debra |title=Simone de Beauvoir |date=16 August 2010 |url=https://plato.stanford.edu/archives/fall2010/entries/beauvoir/ |website=Stanford Encyclopedia of Philosophy |editor-last=Zalta |editor-first=Edward |edition=2010 |publisher=Stanford University |issn=1095-5054 |access-date=11 June 2021}}</ref>
+
+Beauvoir wrote novels, essays, biographies, autobiographies, and monographs on philosophy, politics, and social issues. She was best known for her "trailblazing work in feminist philosophy",<ref name=":0">{{cite book | chapter-url=https://plato.stanford.edu/entries/beauvoir/ | title=The Stanford Encyclopedia of Philosophy | chapter=Simone de Beauvoir | year=2023 | publisher=Metaphysics Research Lab, Stanford University }}</ref> ''[[The Second Sex]]'' (1949), a detailed analysis of women's oppression and a foundational tract of contemporary [[feminism]]. She was also known for her novels, the most famous of which were ''[[She Came to Stay]]'' (1943) and ''[[The Mandarins]]'' (1954). 
+
+Her most enduring contribution to literature are her memoirs, notably the first volume, ''Mémoires d'une jeune fille rangée''<ref>{{Cite web |title=Mémoires d'une jeune fille rangée - Simone de Beauvoir |url=https://www.babelio.com/livres/Beauvoir-Memoires-dune-jeune-fille-rangee/1364335 |access-date=2023-03-02 |website=Babelio |language=fr}}</ref> (1958).<ref>{{Cite book|last=Norwich|first=John Julius|url=https://www.worldcat.org/oclc/11814265|title=Oxford illustrated encyclopedia|date=1985–1993|publisher=Oxford University Press|others=Judge, Harry George., Toyne, Anthony.|isbn=0-19-869129-7|location=Oxford [England]|pages=40|oclc=11814265}}</ref> She received the 1954 [[Prix Goncourt]], the 1975 [[Jerusalem Prize]], and the 1978 [[Austrian State Prize for European Literature]]. She was also nominated for the [[Nobel Prize in Literature]] in [[1961 Nobel Prize in Literature|1961]], [[1969 Nobel Prize in Literature|1969]] and [[1973 Nobel Prize in Literature|1973]].<ref>[https://www.nobelprize.org/nomination/archive/show_people.php?id=12602 Nomination archive – Simone Lucie Ernestine Marie B de Beauvoir] nobelprize.org</ref> However, Beauvoir generated controversy when she briefly lost her teaching job after being accused of sexually abusing some of her students. She and her long-time lover, [[Jean-Paul Sartre]], along with numerous other French intellectuals, campaigned for the release of people convicted of child sex offenses and signed a petition which advocated [[French petition against age of consent laws|the abolition of age of consent laws in France]].<ref name="Henley">{{cite news |author=Henley, Jon |date=23 February 2001 |title=Calls for legal child sex rebound on luminaries of May 68 |newspaper=The Guardian |url=https://www.theguardian.com/world/2001/feb/24/jonhenley |access-date=28 December 2017}}</ref>
+
+==Personal life==
+
+=== Early years ===
+Beauvoir was born on 9 January 1908,<ref>{{cite news|url= https://www.upi.com/Top_News/2020/01/09/UPI-Almanac-for-Thursday-Jan-9-2020/6871578415895/|title= UPI Almanac for Thursday, Jan. 9, 2020|work= [[United Press International]] | date= 9 January 2020|access-date=16 January 2020 |archive-date= 15 January 2020|archive-url= https://archive.today/20200115192229/https://www.upi.com/Top_News/2020/01/09/UPI-Almanac-for-Thursday-Jan-9-2020/6871578415895/|url-status=live|quote=...French novelist Simone de Beauvoir in 1908}}</ref> into a [[bourgeois]] [[Paris]]ian family in the [[6th arrondissement of Paris|6th arrondissement]].<ref>{{cite news|url=https://www.theguardian.com/books/1999/jun/06/classics.simonedebeauvoir |title=Still the second sex|first=Maureen|last=Freely|author-link=Maureen Freely|date=6 June 1999|access-date=6 January 2019|work=[[The Guardian]]|location=UK|archive-date=13 April 2019|archive-url= https://web.archive.org/web/20190413171557/https://www.theguardian.com/books/1999/jun/06/classics.simonedebeauvoir| url-status=live}}</ref><ref>{{cite news|url=https://www.theguardian.com/books/2008/jan/08/top10s.debeauvoir |title=Lisa Appignanesi's top 10 books by and about Simone de Beauvoir|work=The Guardian|location=UK|date=8 January 2008|access-date=6 January 2019|archive-date=13 April 2019|archive-url= https://web.archive.org/web/20190413154026/https://www.theguardian.com/books/2008/jan/08/top10s.debeauvoir|url-status=live}}</ref><ref>{{cite magazine|url=https://newrepublic.com/article/118617/anne-hollander-reviews-simone-de-beauvoir-biography-deidre-bair |title=The Open Marriage of True Minds|first=Anne|last=Hollander|date=11 June 1990|magazine=[[The New Republic]]|access-date=6 January 2019|archive-date=12 September 2015 |archive-url= https://web.archive.org/web/20150912233548/https://newrepublic.com/article/118617/anne-hollander-reviews-simone-de-beauvoir-biography-deidre-bair|url-status=live}}</ref> Her parents were Georges Bertrand de Beauvoir, a lawyer who once aspired to be an actor,<ref name = "IEP Biography">Mussett, Shannon. [http://www.iep.utm.edu/beauvoir/#H1 Simone de Beauvoir Biography on the Internet Encyclopedia of Philosophy]. Retrieved 11 April 2010.</ref> and Françoise Beauvoir (née Brasseur), a wealthy banker's daughter and devout [[Catholic]]. Simone had a sister, [[Hélène de Beauvoir|Hélène]], who was born two years later, on June 6, 1910. The family struggled to maintain their bourgeois status after losing much of their fortune shortly after [[World War I]], and Françoise insisted the two daughters be sent to a prestigious convent school.
+
+Beauvoir was intellectually precocious, fueled by her father's encouragement; he reportedly would boast, "Simone thinks like a man!"<ref>Bair, p. 60</ref> Because of her family's straitened circumstances, she could no longer rely on her [[dowry]], and like other middle-class girls of her age, her marriage opportunities were put at risk. She took this opportunity to take steps towards earning a living for herself.<ref name="oxfordreference.com">{{Cite book|url=http://www.oxfordreference.com/view/10.1093/acref/9780195148909.001.0001/acref-9780195148909-e-90|isbn = 978-0-19-514890-9|title = The Oxford Encyclopedia Women in World History|chapter = Beauvoir, Simone de|date = January 2008|publisher = Oxford University Press| doi=10.1093/acref/9780195148909.001.0001 }}</ref>
+
+She first worked with [[Maurice Merleau-Ponty]] and [[Claude Lévi-Strauss]], when all three completed their practice teaching requirements at the same secondary school. Although not officially enrolled, she sat in on courses at the [[École Normale Supérieure]] in preparation for the ''[[agrégation]]'' in philosophy, a highly competitive postgraduate examination that serves as a national ranking of students. It was while studying for it that she met ''École Normale'' students [[Jean-Paul Sartre]], [[Paul Nizan]], and [[René Maheu]] (who gave her the lasting nickname "''Castor''", or "beaver").<ref name = "IEP Biography" /> The jury for the ''agrégation'' narrowly awarded Sartre first place instead of Beauvoir, who placed second and, at age 21, was the youngest person ever to pass the exam.<ref>Menand, Louis. [http://www.newYorker.com/archive/2005/09/26/050926crbo_books?currentPage=all "Stand By Your Man"]. ''The New Yorker'', 26 September 2005. Retrieved 11 May 2010.</ref> Additionally, Beauvoir finished an exam for the certificate of "General Philosophy and Logic" second to [[Simone Weil]]. Her success as the eighth woman to pass the ''agrégation'' solidified her economic independence and furthered her feminist ideology.<ref name=":0" />
+
+Writing of her youth in ''Memoirs of a Dutiful Daughter,'' she said:
+"...my father's individualism and pagan ethical standards were in complete contrast to the rigidly moral conventionalism of my mother's teaching. This disequilibrium, which made my life a kind of endless disputation, is the main reason why I became an intellectual."<ref>''Memoirs of a Dutiful Daughter'', Book One</ref>
+
+==== Education ====
+Beauvoir pursued post-secondary education after completing her high school years at {{Interlanguage link multi|Cours Desir|fr}}.<ref>{{Cite web |title=Paris: sur les traces de Simone de Beauvoir |trans-title=Paris: On the trail of Simone de Beauvoir |url= https://www.en-vols.com/inspirations/culture/paris-simone-de-beauvoir/ |website=en-vols.com |date=22 November 2022 |access-date=31 July 2023 |language=fr}}</ref> After passing baccalaureate exams in mathematics and philosophy at the age of seventeen in 1925, she studied mathematics at the [[Institut Catholique de Paris]] and literature/languages at the {{Interlanguage link multi|Institut Sainte-Marie|fr}}. She then studied philosophy at the [[University of Paris|Sorbonne]] and after completing her degree in 1928, wrote her ''{{Interlanguage link multi|Diplôme d'Études Supérieures Spécialisées|fr}}'' (roughly equivalent to an [[Master of Arts|M.A.]] thesis) on [[Gottfried Wilhelm Leibniz|Leibniz]] for [[Léon Brunschvicg]] (the topic was "Le concept chez Leibniz" ["The Concept in Leibniz"]).<ref>Margaret A. Simons (ed.), ''Feminist Interpretations of Simone de Beauvoir'', Penn State Press, 1 November 2010, p. 3.</ref> Her studies of political philosophy through university influenced her to start thinking of societal concerns.{{Citation needed|date=April 2021}}
+
+==== Religious upbringing ====
+Beauvoir was raised in a Catholic household. In her youth, she was sent to convent schools. She was deeply religious as a child, at one point intending to become a nun. At age 14, Beauvoir questioned her faith as she saw many changes in the world after witnessing tragedies throughout her life.<ref name="auto">{{Cite web|title=Simone de Beauvoir|url=https://www.biography.com/scholar/simone-de-beauvoir|access-date=2021-03-04|website=Biography|date=9 July 2020 |language=en-us}}</ref> Consequently, she abandoned her faith in her early teens and remained an [[atheism|atheist]] for the rest of her life.<ref name="Thurman">Thurman, Judith. [https://www.nytimes.com/2010/05/30/books/excerpt-introduction-second-sex.html Introduction to Simone de Beauvoir's ''The Second Sex'']. Excerpt published in ''The New York Times'' 27 May 2010. Retrieved 11 April 2010.</ref> To explain her atheist beliefs, Beauvoir stated, "Faith allows an evasion of those difficulties which the atheist confronts honestly. And to crown all, the believer derives a sense of great superiority from this very cowardice itself."<ref>{{Cite book|last=Bertrand de Beauvoir|first=Simone|title=All Said and Done|publisher=G. P. Putnam's & Sons|year=1974|isbn=9780399112515|location=New York|pages=478|translator-last=O'Brian|translator-first=Patrick}}</ref>
+
+=== Middle years ===
+[[File:Sartre and de Beauvoir at Balzac Memorial.jpg|thumb|upright|Jean-Paul Sartre and Simone de Beauvoir at the Balzac Memorial]]
+From 1929 through 1943, Beauvoir taught at the [[lycée]] level until she could support herself solely on the earnings of her writings. She taught at the {{Interlanguage link multi|Lycée Montgrand|fr}} ([[Marseille]]), the {{Interlanguage link multi|Lycée Jeanne-d'Arc (Rouen)|fr}}, and the {{Interlanguage link multi|Lycée Molière (Paris)|fr}} (1936–39).<ref>Kelly Oliver (ed.), ''French Feminism Reader'', Rowman & Littlefield Publishers, 2000, p. 1; ''Bulletin 2006 de l'Association amicale des anciens et anciennes élèves du lycée Molière'', 2006, p. 22.</ref>
+
+During the trial of [[Robert Brasillach]] Beauvoir was among a small number of prominent intellectuals advocating for his execution for 'intellectual crimes'. She defended this decision in her 1946 essay "An Eye for an Eye".<ref>David Newcastle, [https://tikhanovlibrary.com/the-rise-and-fall-of-pierre-drieu-la-rochelle/ ''The Rise and Fall of Pierre Drieu la Rochlle''], Gilles, Tikhanov Library, 2024, preface</ref><ref>[https://academic.oup.com/book/11006/chapter-abstract/159332034?redirectedFrom=fulltext “An Eye for an Eye”: The Question of Revenge] Sonia Kirks</ref>
+
+==== Jean-Paul Sartre ====
+Beauvoir and Jean-Paul Sartre met during her college years. Intrigued by her determination as an educator, he intended to make their relationship romantic. However, she had no interest in doing so.<ref name="auto" /> She later changed her mind, and in October 1929, [[Jean-Paul Sartre]] and Beauvoir became a couple for the next 51 years, until his death in 1980.<ref>Seymour-Jones 2008, back cover.</ref> After they were confronted by her father, Sartre asked her to marry him on a provisional basis. One day while they were sitting on a bench outside the Louvre, he said, "Let's sign a two-year lease".<ref>Bair, p. 155-7</ref> Though Beauvoir wrote, "Marriage was impossible. I had no dowry", scholars point out that her ideal relationships described in ''The Second Sex'' and elsewhere bore little resemblance to the marriage standards of the day.<ref>{{cite journal |last1=Ward |first1=Julie K. |title=Reciprocity and Friendship in Beauvoir's Thought |journal=Hypatia |date=November 1999 |volume=14 |issue=4 |pages=36–49 |doi=10.1111/j.1527-2001.1999.tb01251.x|s2cid=146561354 }}</ref>
+<blockquote>I think marriage is a very alienating institution, for men as well as for women. I think it's a very dangerous institution—dangerous for men, who find themselves trapped, saddled with a wife and children to support; dangerous for women, who aren't financially independent and end up by depending on men who can throw them out when they are 40; and very dangerous for children, because their parents vent all their frustrations and mutual hatred on them. The very words 'conjugal rights' are dreadful. Any institution which solders one person to another, obliging people to sleep together who no longer want to is a bad one.<ref>{{Cite news|title=A talk with Simone de Beauvoir |date=2 June 1974 |last=Moorehead |first=Caroline |work=The New York Times |url=https://www.nytimes.com/1974/06/02/archives/a-talk-with-simone-de-beauvoirr-marriage-is-an-alienating.html |access-date=30 August 2023}}</ref>
+</blockquote>
+
+Instead, she and Sartre entered into a lifelong "soul partnership", which was sexual but not exclusive, nor did it involve living together.<ref>{{cite news| url=https://www.theguardian.com/world/2005/jun/10/gender.politicsphilosophyandsociety |location=London |work=The Guardian  | first=Lisa | last=Appignanesi | title=Our relationship was the greatest achievement of my life | date=10 June 2005}}</ref> She chose never to marry and never had children. This gave her the time to advance her education and engage in political causes, write and teach, and take lovers.<ref name="Schneir">{{cite book |author=Schneir, Miriam |url=https://archive.org/details/feminisminourtim0000unse/page/5 |title=Feminism in Our Time |publisher=Vintage Books |year=1994 |isbn=0-679-74508-4 |page=[https://archive.org/details/feminisminourtim0000unse/page/5 5]}}</ref> Unfortunately, Beauvoir's prominent open relationships at times overshadowed her substantial academic reputation. A scholar who was lecturing with her<ref>Beauvoir, ''The Prime of Life,'' p. 363.</ref> chastised their "distinguished [Harvard] audience [because] every question asked about Sartre concerned his work, while all those asked about Beauvoir concerned her personal life."<ref>Thurman, Judith. Introduction to ''The Second Sex'', 2009.</ref>
+
+Sartre and Beauvoir always read each other's work. Debate continues about the extent to which they influenced each other in their existentialist works, such as Sartre's ''[[Being and Nothingness]]'' and Beauvoir's ''She Came to Stay'' and "Phenomenology and Intent".<ref>{{Cite book|last=Kirkpatrick|first=Kate|url=https://www.worldcat.org/oclc/1097366004|title=Becoming Beauvoir: A Life|date=22 August 2019|isbn=978-1-350-04717-4|location=London|publisher=Bloomsbury Academic|oclc=1097366004}}</ref> However, recent studies of Beauvoir's work focus on influences other than Sartre, including [[G. W. F. Hegel|Hegel]] and Leibniz.<ref name="SEP-Bergoffen-2010" /> The [[Neo-Hegelianism|Neo-Hegelian]] revival led by [[Alexandre Kojève]] and [[Jean Hyppolite]] in the 1930s inspired a whole generation of French thinkers, including Sartre, to discover Hegel's ''[[Phenomenology of Spirit]]''.<ref>Ursula Tidd, ''Simone de Beauvoir'', Psychology Press, p. 19.</ref><ref>Nancy Bauer, ''Simone de Beauvoir: Philosophy, and Feminism'', Columbia University Press, 2012, p. 86.</ref>  However, Beauvoir, reading Hegel in German during the war, produced an original critique of his dialectic of consciousness.
+
+==== Allegations of sexual abuse ====
+Beauvoir was [[Bisexuality|bisexual]], and her relationships with young women were controversial.<ref name="Lise1">{{cite book |author=Rodgers |title=Philosophers Behaving Badly |author2=Thompson |publisher=London: [[Peter Owen Publishers]] |year=2004 |isbn=072061368X |pages=186–187 |author-link1=Nigel Rodgers |author-link2=Mel Thompson (writer)}}</ref> French author [[Bianca Lamblin]] (originally Bianca Bienenfeld) wrote in her book ''Mémoires d'une jeune fille dérangée'' (Memoirs of a deranged girl, published in English under the title ''A Disgraceful Affair'') that, while a student at Lycée Molière, she was sexually exploited by her teacher Beauvoir, who was in her 30s.<ref>''Mémoires d'une jeune fille dérangée'' (1994, LGF – Livre de Poche; {{ISBN|978-2-253-13593-7}}/2006, Balland; {{ISBN|978-2-7158-0994-9}}).</ref> Sartre and Beauvoir both groomed and sexually abused Lamblin.<ref>{{cite web |last1=Riding |first1=Alan |date=14 April 1996 |title=The Odd Couple |url=https://www.nytimes.com/1996/04/14/books/the-odd-couple.html |access-date=9 November 2021 |website=New York Times |quote=Beauvoir duly seduced her and, the following year, introduced her to Sartre, then 33, who also took her to bed. By 1939, now studying under Sartre at the Sorbonne, Bianca was convinced that she was the key figure in an idealized love triangle.}}</ref> Bianca wrote her ''Mémoires'' in response to the posthumous 1990 publication of Jean-Paul Sartre's ''Lettres au Castor et à quelques autres: 1926-1963'' (Letters to Castor and other friends), in which she noted that she was referred to by the pseudonym Louise Védrine.<ref>{{Cite news |date=14 July 2023 |title=Jean-Paul Sartre, Simone de Beauvoir: Bianca, leur jouet sexuel |language=fr |trans-title=Sartre, Beauvoir: Bianca, their sexual toy |work=[[Gala (magazine)|Gala]] |url=https://www.gala.fr/l_actu/news_de_stars/jean-paul-sartresimonedebeauvoirbiancaleurjouetsexuel_346146 |access-date=1 August 2023}}</ref>
+
+In 1943, Beauvoir was suspended again from her teaching position when she was accused of seducing her 17-year-old lycée pupil [[Natalie Sorokin]]e in 1939.<ref>''Tête-à-tête: Simone de Beauvoir and Jean-Paul Sartre'', Hazel Rowley, HarperCollins, 2005, pp. 130–135, {{ISBN|0-06-052059-0}}; {{ISBN|978-0-06-052059-5}}.</ref> Sorokine's parents laid formal charges against Beauvoir for debauching a minor (the age of consent in France at the time was 13 until 1945, when it became 15)<ref>{{Cite web |title=Légifrance - Publications officielles - Journal officiel - JORF n° 0155 du 03/07/1945 (accès protégé) |trans-title=Official publications - Official gazette (secure access) |url=https://www.legifrance.gouv.fr/download/securePrint?token=82FDKZHeL@XiHAyZj@$ |access-date=29 July 2023 |language=fr}}</ref><ref>{{Cite web |title=The Age(s) of Consent: Gay Activism and the Sexuality of Minors in France and Quebec (1970-1980) |url=https://www.cairn-int.info/load_pdf.php?ID_ARTICLE=E_CLIO1_042_0099&download=1 |access-date=29 July 2023}}</ref> and Beauvoir's licence to teach in France was revoked, although it was subsequently reinstated.<ref>''Intellectuals: From Marx and Tolstoy to Sartre and Chomsky'', Paul Johnson, Harper Perennial, 1988, pp. 238–38, {{ISBN|978-0-06-125317-1}}.</ref>
+
+Beauvoir described in ''La Force de l'âge'' (''The Prime of Life'') a relationship of simple friendship with Nathalie Sorokine<ref>{{Cite book |last=de Beauvoir |first=Simone |title=La Force de l'âge |publisher=Gallimard |location=Paris |page=617 |language=fr |trans-title=The Prime of Life}}</ref> (in the book referred to as "Lise Oblanoff").<ref>{{Cite journal |last=Evans |first=Christine Anne |date=10 September 1995 |title="La Charmante Vermine": Simone de Beauvoir and the Women in Her Life |url=https://www.jstor.org/stable/45186669 |journal=Simone de Beauvoir Studies |language=en |volume=12 |pages=26–32 |doi=10.1163/25897616-01201006 |jstor=45186669 |access-date=29 August 2023}}</ref>
+
+Natalie Sorokine, along with Bianca Lamblin and [[Olga Kosakiewicz]], later stated that their relationships with de Beauvoir damaged them psychologically.<ref name="Lise1" />
+
+=== Later years ===
+[[File:Núñez-Beauvoir-Sartre-Che Guevara.jpg|thumb| [[Antonio Núñez Jiménez]], Beauvoir, [[Sartre]] and [[Che Guevara]] in Cuba, 1960.]]
+[[File:President Nasser-Sagan-Sartre.jpg|thumb|[[Egypt|Egypt's]] President [[Gamal Abdel Nasser]], Beauvoir, [[Sartre]] in Cairo, 1967.]]
+
+Beauvoir wrote popular travel diaries about time spent in the United States<ref>de Beauvoir, "America Day by Day", Carol Cosman (Translator) and Douglas Brinkley (Foreword), Berkeley: University of California Press, 1999. {{ISBN|9780520210677}}.</ref> and China and published essays and fiction rigorously, especially throughout the 1950s and 1960s. Her 1955 travels in China were the basis of her 1957 travelogue ''The Long March'', in which she praised the efforts of the Chinese communists to [[Feminism in Chinese communism|emancipate women]].<ref name="Crean">{{Cite book |last=Crean |first=Jeffrey |title=The Fear of Chinese Power: an International History |date=2024 |publisher=[[Bloomsbury Academic]] |isbn=978-1-350-23394-2 |edition= |series=New Approaches to International History series |location=London, UK |pages=93}}</ref>
+
+She published several volumes of short stories, including ''The Woman Destroyed'', which, like some of her other later work, deals with aging.
+She lived with [[Claude Lanzmann]] from 1952 to 1959,<ref>{{cite news |author=Menand, Louis |date=26 September 2005 |title=Stand By Your Man |magazine=The New Yorker |publisher=Condé Nast |url=https://www.newyorker.com/magazine/2005/09/26/stand-by-your-man |access-date=28 December 2017}}</ref> but perhaps her most famous lover was American author [[Nelson Algren]]. Beauvoir met Algren in Chicago in 1947, while she was on a four-month "exploration" trip of the United States using various means of transport: automobile, train, and [[Greyhound Lines|Greyhound]]. She kept a detailed diary of the trip, which was published in France in 1948 with the title ''America Day by Day''.<ref>Algren was her guide through the Chicago underworld, among drug addicts and petty thieves. {{Cite book |last=De Beauvoir |first=Simone |url=https://archive.org/details/americadaybyday0000beau |title=America Day by Day |date=1999 |publisher=University of California Press |isbn=9780520209794 |location=Berkeley |access-date=29 July 2023}}</ref> She wrote to him across the Atlantic as "my beloved husband."<ref>{{Cite news |last=Drew |first=Bettina |date=27 September 1998 |title=Simone de Beauvoir's Love Letters to Nelson Algren |work=Chicago Tribune |url=https://www.chicagotribune.com/1998/09/27/simone-de-beauvoirs-love-letters-to-nelson-algren/}}</ref> Algren won the National Book Award for ''[[The Man with the Golden Arm (novel)|The Man with the Golden Arm]]'' in 1950, and in 1954, Beauvoir won France's [[Prix Goncourt|most prestigious literary prize]] for ''[[The Mandarins]],'' in which Algren is the character Lewis Brogan. Algren vociferously objected to their intimacy becoming public. Years after they separated, she was buried wearing his gift of a silver ring.<ref>{{cite news |author=Le Bon-de Beauvoir, Sylvie |author-link=Sylvie Le Bon-de Beauvoir |year=1997 |title=Preface: A Transatlantic Love Affair |newspaper=The New York Times |url=https://www.nytimes.com/books/first/d/debeauvoir-love.html |access-date=28 December 2017}}</ref>
+[[File:Nelson Algren NYWTS.jpg|thumb|upright|alt=Waist high portrait of middle aged man reading|Algren in 1956]]
+
+When Beauvoir visited Algren in Chicago, [[Art Shay]] took well-known nude and portrait photos of Beauvoir. Shay also wrote a play based on Algren, Beauvoir, and Sartre's triangular relationship. The play was stage read in 1999 in Chicago.
+
+Beauvoir also wrote a four-volume autobiography, consisting of ''Memoirs of a Dutiful Daughter'', ''The Prime of Life'', ''Force of Circumstance'' (sometimes published in two volumes in English translation: ''After the War'' and ''Hard Times''), and ''All Said and Done''.<ref name="iep.utm.edu" /> In 1964 Beauvoir published a novella-length autobiography, ''A Very Easy Death'', covering the time she spent visiting her aging mother, who was dying of cancer. The novella brings up questions of ethical concerns with truth-telling in doctor-patient relationships.<ref>{{Cite web |last=Willms |first=Janice |date=1997-12-18 |title=A Very Easy Death |url=http://medhum.med.nyu.edu/view/417 |access-date=2019-04-23 |website=NYU Langone Health}}</ref>
+
+Her 1970 long essay [[La Vieillesse]] (''The Coming of Age'') is a rare instance of an intellectual meditation on the decline and solitude all humans experience if they do not die before about the age of 60.<ref>{{Cite journal |last=Woodward |first=Kathleen |date=1993 |title=Simone de Beauvoir: Prospects for the Future of Older Women |journal=Generations |volume=17 |issue=2 |pages=23}}</ref>
+
+In the 1970s Beauvoir became active in France's [[women's liberation movement]]. She wrote and signed the [[Manifesto of the 343]] in 1971, a manifesto that included a list of famous women who claimed to have had an abortion, then illegal in France. Signatories were diverse{{clarify|date=February 2019}} as [[Catherine Deneuve]], [[Delphine Seyrig]], and Beauvoir's sister Hélène. In 1974, abortion was legalized in France.
+
+When asked in a 1975 interview with [[Betty Friedan]] if she would support a minimum wage for women who do housework, Beauvoir answered: "No, we don’t believe that any woman should have this choice. No woman should be authorized to stay at home and raise her children. Society should be different. Women should not have that choice, precisely because if there is such a choice, too many women will make that one. It is a way of forcing women in a certain direction", further stating that motherhood "should be a choice, and not a result of conditioning”.<ref>"Sex, Society, and the Female Dilemma". Interview with Betty Friedan, ''The Saturday Review'' (pp. 12-21), June 14, 1975.</ref><ref>Betty Friedan, 1998, “It changed my life: Writings on the woman’s movement”, p. 397-398. ISBN 9780674468856</ref>
+
+In about 1976, Beauvoir and [[Sylvie Le Bon-de Beauvoir|Sylvie Le Bon]] made a trip to New York City in the United States to visit [[Kate Millett]] on her farm.<ref>Appignanesi 2005, p. 160.</ref>{{clarify|date=February 2019|reason=what makes this noteworthy?}}
+
+In 1977, Beauvoir signed a [[French petition against age of consent laws|petition]] along with other French intellectuals that supported the freeing of three arrested [[paedophile]]s.<ref name="Krizman">"''Sexual Morality and the Law''", Chapter 16 of ''Politics, Philosophy, Culture: Interviews and Other Writings 1977-1984''. Edited by Lawrence D. Krizman. New York/London: 1990, Routledge, {{ISBN|0-415-90149-9}}, p. 275.</ref><ref name="Henley" /> The petition  explicitly addresses the 'Affaire de Versailles', where three adult men, Dejager (age 45), Gallien (age 43), and Burckhardt (age 39) had sexual relations with minors of both sexes aged 12–13.<ref>{{cite news |date=26 January 1977 |title=À Propos d'un Procès |newspaper=Le Monde.fr |url=https://www.lemonde.fr/archives/article/1977/01/26/a-propos-d-un-proces_2854399_1819218.html}}</ref><ref>{{cite web |title=Matzneff : Les signataires d'une pétition pro-pédophilie de 1977 ont-ils émis des regrets ? |url=https://www.liberation.fr/checknews/2020/01/02/matzneff-les-signataires-d-une-petition-pro-pedophilie-de-1977-ont-ils-emis-des-regrets_1771174/}}</ref>
+
+''[[When Things of the Spirit Come First]]'', a set of short stories Beauvoir had written decades previously but had not considered worth publishing, was released in 1980.<ref name="iep.utm.edu" />
+[[File:Sartre+Beauvoir grave.JPG|right|thumb|Beauvoir's and Sartre's grave at the [[Cimetière du Montparnasse]].]]
+
+In 1981 she wrote ''La Cérémonie des adieux'' (''A Farewell to Sartre''), a painful account of Sartre's last years. In the opening of ''Adieux'', Beauvoir notes that it is the only major published work of hers which Sartre did not read before its publication.{{cn|date=February 2024}}|
+
+She contributed the piece "Feminism - Alive, Well, and in Constant Danger" to the 1984 anthology ''[[Sisterhood Is Global: The International Women's Movement Anthology]]'', edited by [[Robin Morgan]].<ref name="global">{{cite web |title=Table of Contents: Sisterhood is global |url=https://catalog.vsc.edu/lscfind/Record/154795/TOC#tabnav |url-status=dead |archive-url=https://web.archive.org/web/20151208065459/https://catalog.vsc.edu/lscfind/Record/154795/TOC#tabnav |archive-date=8 December 2015 |access-date=2015-10-15 |publisher=Catalog.vsc.edu}}</ref>
+
+After Sartre died in 1980, Beauvoir published his letters to her with edits to spare the feelings of people in their circle who were still living. After Beauvoir's death, Sartre's adopted daughter and literary heir [[Arlette Elkaïm-Sartre|Arlette Elkaïm]] would not let many of Sartre's letters be published in unedited form. Most of Sartre's letters available today have Beauvoir's edits, which include a few omissions but mostly the use of pseudonyms. Beauvoir's adopted daughter and literary heir [[Sylvie Le Bon-de Beauvoir|Sylvie Le Bon]], unlike Elkaïm, published Beauvoir's unedited letters to both Sartre and Algren.
+
+==== Sylvie Le Bon-de Beauvoir ====
+[[Sylvie Le Bon-de Beauvoir]] and Simone de Beauvoir met in the 1960s, when Beauvoir was in her fifties and Sylvie was a teenager. In 1980, Beauvoir, 72, legally adopted Sylvie, who was in her late thirties, by which point they had already been in an intimate relationship for decades. Although Beauvoir rejected the institution of marriage her entire life, this adoption was like a marriage for her. Some scholars argue that this adoption was not to secure a literary heir for Beauvoir, but as a form of resistance to the bio-heteronormative family unit.<ref>{{Cite journal |last=Latchford |first=Frances J. |date=2020 |title=Heterodox Love and the Girl Maverick: Simone de Beauvoir, Sylvie le Bon, and Their Confounding Family Romance |url=https://muse.jhu.edu/article/782290 |journal=Adoption & Culture |language=en |volume=8 |issue=2 |pages=194–209 |doi=10.1353/ado.2020.0009 |s2cid=232040473 |issn=2574-2523}}</ref>
+
+==== Death ====
+Beauvoir died of [[pneumonia]] on 14 April 1986 in Paris, aged 78.<ref>{{cite web |title=Encyclopędia Britannica's Guide to Women's History |url=http://www.britannica.com/women/article-9014010 |url-status=dead |archive-url=https://web.archive.org/web/20111213135908/http://www.britannica.com/women/article-9014010 |archive-date=13 December 2011 |access-date=2012-07-16}}</ref> She is buried next to Sartre at the [[Montparnasse Cemetery]] in Paris.<ref>{{Cite web |last=Traub |first=Courtney |date=2019-05-22 |title=Montparnasse Cemetery in Paris: Walking Paths & Famous Graves |url=https://www.parisunlocked.com/best-of-paris/parks-and-gardens/a-stroll-through-montparnasse-cemetery-in-paris/ |access-date=2021-01-02 |website=Paris Unlocked |language=en-US}}</ref> She was honored as a figure at the forefront of the struggle for women's rights around the time of her passing.<ref name="Bergoffen">{{Cite journal |last=Bergoffen |first=Debra |date=2018-07-10 |editor1-last=Zahavi |editor1-first=Dan |title=Simone de Beauvoir |url=http://dx.doi.org/10.1093/oxfordhb/9780198755340.013.21 |journal=Oxford Handbooks Online |doi=10.1093/oxfordhb/9780198755340.013.21}}</ref>
+
+==''The Second Sex''==
+[[File:Le deuxième sexe.jpg|thumb|''[[The Second Sex]]'']]''[[The Second Sex]]'', first published in 1949 in French as ''Le Deuxième Sexe'', turns the existentialist mantra that ''[[existence precedes essence]]'' into a feminist one: "One is not born but becomes a woman" (French: "On ne naît pas femme, on le devient").<ref>Beauvoir, ''The Second Sex'', 267.</ref> With this famous phrase, Beauvoir first articulated what has come to be known as the [[sex-gender distinction]], that is, the distinction between biological sex and the social and historical construction of gender and its attendant stereotypes.<ref>{{cite book |last=Mikkola |first=Mari |url=https://plato.stanford.edu/archives/win2017/entries/feminism-gender/ |title=The Stanford Encyclopedia of Philosophy |date=3 January 2018 |publisher=Metaphysics Research Lab, Stanford University |editor-last=Zalta |editor-first=Edward N. |chapter=Feminist Perspectives on Sex and Gender |via=Stanford Encyclopedia of Philosophy}}</ref> Beauvoir argues that "the fundamental source of women's oppression is its [femininity's] historical and social construction as the quintessential" Other.<ref>{{Cite book |last=Bergoffen |first=Debra |url=https://plato.stanford.edu/archives/fall2015/entries/beauvoir/ |title=The Stanford Encyclopedia of Philosophy |date=2015 |publisher=Metaphysics Research Lab, Stanford University |editor-last=Zalta |editor-first=Edward N. |edition=Fall 2015}}</ref>
+
+Beauvoir defines women as the "second sex" because women are defined as inferior to men. She pointed out that [[Aristotle]] argued women are "female by virtue of a certain lack of qualities", while [[Thomas Aquinas]] referred to women as "imperfect men" and the "incidental" being.<ref name="marxists.org">{{cite web |last=Beauvoir |first=Simone de |title=Simone de Beauvoir The Second Sex, Woman as Other 1949 |url=https://www.marxists.org/reference/subject/ethics/de-beauvoir/2nd-sex/introduction.htm |website=marxists.org}}</ref> She quotes "In itself, homosexuality is as limiting as heterosexuality: the ideal should be to be capable of loving a woman or a man; either, a human being, without feeling fear, restraint, or obligation."<ref>{{Cite book |last=Beauvoir |first=Simone |title=The Second Sex}}</ref>
+
+Beauvoir asserted that women are as capable of choice as men, and thus can choose to elevate themselves, moving beyond the "[[immanence]]" to which they were previously resigned and reaching "[[transcendence (philosophy)|transcendence]]", a position in which one takes responsibility for oneself and the world, where one chooses one's freedom.<ref>{{Cite book |author=Beauvoir, Simone de |url=http://worldcat.org/oclc/907794335 |title=The second sex |date=2 March 2015 |publisher=Vintage Books |isbn=978-0-09-959573-1 |oclc=907794335}}</ref>
+
+Chapters of ''The Second Sex'' were originally published in ''Les Temps modernes'',<ref>Appignanesi 2005, p. 82</ref> in June 1949. The second volume came a few months after the first in France.<ref>Appignanesi 2005, p. 89</ref> It was published soon after in America due to the quick translation by [[Howard Parshley]], as prompted by [[Blanche Knopf]], wife of publisher [[Alfred A. Knopf Sr.|Alfred A. Knopf]]. Because Parshley had only a basic familiarity with the French language, and a minimal understanding of philosophy (he was a professor of biology at [[Smith College]]), much of Beauvoir's book was mistranslated or inappropriately cut, distorting her intended message.<ref name="Moi, Toril 2002">Moi, Toril "While We Wait: The English Translation of 'The Second Sex'" in ''Signs'' 27(4) (Summer, 2002), pp. 1005–35.</ref> For years, Knopf prevented the introduction of a more accurate retranslation of Beauvoir's work, declining all proposals despite the efforts of existentialist scholars.<ref name="Moi, Toril 2002" />
+
+Only in 2009 was there a second translation, to mark the 60th anniversary of the original publication. Constance Borde and Sheila Malovany-Chevallier produced the first integral translation in 2010, reinstating a third of the original work.<ref>{{cite web |title=Review: The Second Sex, by Simone de Beauvoir |url=https://www.theglobeandmail.com/books/review-the-second-sex-by-simone-de-beauvoir/article1615327 |via=The Globe and Mail}}</ref>
+
+In the chapter "Woman: Myth and Reality" of ''The Second Sex'',<ref>Beauvoir, Simone de. "Woman: Myth and Reality".<br />** in Jacobus, Lee A. (ed.). ''A World of Ideas''. Boston: Bedford/St. Martins, 2006. 780–95.<br />** in Prince, Althea, and Susan Silva Wayne. ''Feminisms and Womanisms: A Women's Studies Reader''. Women's Press, Toronto 2004 p.&nbsp;59–65.</ref> Beauvoir argued that men had made women the "Other" in society by the application of a false aura of "mystery" around them. She argued that men used this as an excuse not to understand women or their problems and not to help them, and that this stereotyping was always done in societies by the group higher in the hierarchy to the group lower in the hierarchy. She wrote that a similar kind of oppression by hierarchy also happened in other categories of identity, such as race, class, and religion, but she claimed that it was nowhere more true than with gender in which men stereotyped women and used it as an excuse to organize society into a [[patriarchy]].{{Citation needed|date=April 2021}}
+
+Despite her contributions to the feminist movement, especially the French women's liberation movement, and her beliefs in women's economic independence and equal education, Beauvoir was initially reluctant to call herself a feminist.<ref name="oxfordreference.com" /> However, after observing the resurgence of the feminist movement in the late 1960s and early 1970s, Beauvoir stated she no longer believed a [[Revolutionary socialism|socialist revolution]] to be enough to bring about women's liberation. She publicly declared herself a feminist in 1972 in an interview with ''[[Le Nouvel Observateur]]''.<ref>{{cite book |last=Fallaize |first=Elizabeth |title=Simone de Beauvoir: A critical reader |publisher=Routledge |year=1998 |isbn=978-0415147033 |edition=Digital print |location=London |page=6}}</ref>
+
+In 2018, the manuscript pages of ''Le Deuxième Sexe'' were published.<ref>{{Cite news |last1=Christensen |first1=Lauren |date=29 June 2018 |title=Revisiting Simone de Beauvoir's ''The Second Sex'' as a Work in Progress |language=en |newspaper=The New York Times |url=https://www.nytimes.com/2018/06/29/books/review/simone-de-beauvoir-second-sex-manuscript.html |access-date=2018-07-26}}</ref>
+
+==Other notable works==
+
+===''She Came to Stay''===
+{{Main|She Came to Stay}}
+
+Beauvoir published her first novel ''She Came to Stay'' in 1943.<ref>{{Cite web|url=http://www.iep.utm.edu/beauvoir/|title=Beauvoir, Simone de {{!}} Internet Encyclopedia of Philosophy|website=www.iep.utm.edu|language=en-US|access-date=2018-01-03}}</ref> It has been assumed that it is inspired by her and Sartre's sexual relationship with [[Olga Kosakiewicz]] and [[Wanda Kosakiewicz]]. Olga was one of her students in the Rouen secondary school where Beauvoir taught during the early 1930s. She grew fond of Olga. Sartre tried to pursue Olga but she rejected him, so he began a relationship with her sister Wanda. Upon his death, Sartre was still supporting Wanda. He also supported Olga for years, until she met and married [[Jacques-Laurent Bost]], a lover of Beauvoir. However, the main thrust of the novel is philosophical, a scene in which to situate Beauvoir's abiding philosophical pre-occupation – the relationship between the self and the other.{{Citation needed|date=April 2021}}
+
+In the novel, set just before the outbreak of [[World War II]], Beauvoir creates one character from the complex relationships of Olga and Wanda. The fictionalised versions of Beauvoir and Sartre have a [[ménage à trois]] with the young woman. The novel also delves into Beauvoir and Sartre's complex relationship and how it was affected by the ménage à trois.{{Citation needed|date=April 2021}}
+
+''She Came to Stay'' was followed by many others, including ''[[The Blood of Others]]'', which explores the nature of individual responsibility, telling a love story between two young French students participating in the [[French Resistance|Resistance]] in World War II.<ref name="iep.utm.edu">{{Cite web |title=Beauvoir, Simone de {{!}} Internet Encyclopedia of Philosophy |url=https://iep.utm.edu/simone-de-beauvoir/ |access-date=2022-07-20 |language=en-US}}</ref>
+
+===Existentialist ethics===
+[[File:Simone de Beauvoir & Jean-Paul Sartre in Beijing 1955.jpg|thumb|Simone de Beauvoir and Jean-Paul Sartre in [[Beijing]], 1955]]
+
+In 1944, Beauvoir wrote her first philosophical essay, ''Pyrrhus et Cinéas'', a discussion on existentialist ethics. She continued her exploration of existentialism through her second essay ''[[The Ethics of Ambiguity]]'' (1947); it is perhaps the most accessible entry into [[Existentialism|French existentialism]]. In the essay, Beauvoir clears up some inconsistencies that many, Sartre included, have found in major existentialist works such as ''Being and Nothingness''. In ''The Ethics of Ambiguity'', Beauvoir confronts the existentialist dilemma of absolute freedom vs. the constraints of circumstance.<ref name="SEP-Bergoffen-2010" />
+
+===''Les Temps Modernes''===
+{{Main|Les Temps modernes}}At the end of World War II, Beauvoir and Sartre edited ''[[Les Temps Modernes]]'', a political journal that Sartre founded along with [[Maurice Merleau-Ponty]] and others.<ref>{{Cite web |date=2019-05-25 |title=Les Temps Modernes: Paris mourns passing of the intellectual left's bible |url=http://www.theguardian.com/world/2019/may/25/les-temps-modernes-closed-paris-mourns-de-beauvoir-journal |access-date=2022-04-08 |newspaper=[[The Observer]]|first=Agnès |last=Poirier|language=en}}</ref> Beauvoir used ''Les Temps Modernes'' to promote her own work and explore her ideas on a small scale before fashioning essays and books. Beauvoir remained an editor until her death. However, [[Sartre]] and [[Merleau-Ponty]] had a longstanding feud, which led Merleau-Ponty to leave ''Les Temps modernes''. Beauvoir sided with Sartre and ceased to associate with Merleau-Ponty. In Beauvoir's later years, she hosted the journal's editorial meetings in her flat and contributed more than Sartre, whom she often had to force{{clarify|date=February 2019}} to offer his opinions.{{citation needed|date=February 2019}}
+
+===''The Mandarins''===
+{{main|The Mandarins}}
+[[File:Algren house Miller.jpg|thumb|Dunes cottage where Algren and Beauvoir summered in [[Miller Beach]], Indiana]]
+
+Published in 1954, ''The Mandarins'' won France's highest literary prize, the ''[[Prix Goncourt]]''.<ref>{{cite web |last1=Constant |first1=Paule |title=Simone de Beauvoir, l'engagée |url=https://www.lexpress.fr/culture/livre/les-mandarins_818917.html |website=L'Express |access-date=10 November 2021 |language=French |date=10 July 2003}}</ref> It is a [[roman à clef]] set after the end of World War II and follows the personal lives of philosophers and friends among Sartre's and Beauvoir's intimate circle, including her relationship with American writer [[Nelson Algren]], to whom the book is dedicated.<ref name="lrb_rogin">{{cite journal |last1=Rogin |first1=Michael |title=More than ever, and for ever |url=https://www.lrb.co.uk/the-paper/v20/n18/michael-rogin/more-than-ever-and-for-ever |journal=London Review of Books |access-date=10 November 2021 |date=17 September 1998|volume=20 |issue=18 }}</ref>
+
+Algren was outraged by the frank way Beauvoir described their sexual experiences in both ''The Mandarins'' and her autobiographies.<ref name="lrb_rogin" /> Algren vented his outrage when reviewing American translations of Beauvoir's work. Much material bearing on this episode in Beauvoir's life, including her love letters to Algren, entered the public domain only after her death.<ref>{{cite web |title=A Transatlantic Love Affair: Letters to Nelson Algren |url=https://www.kirkusreviews.com/book-reviews/simone-de-beauvoir/a-transatlantic-love-affair/ |website=Kirkus Reviews |access-date=10 November 2021 |date=1 September 1998}}</ref>
+
+===''Les Inséparables''===
+Beauvoir's early novel ''Les Inséparables'', long suppressed, was published in French in 2020 and two different English translations in 2021, by Sandra Smith in the US and [[Lauren Elkin]] in the UK.<ref>Reviewed 23 Aug. 2021 by Merve Emre in ''The New Yorker'' https://www.newyorker.com/magazine/2021/08/30/simone-de-beauvoirs-lost-novel-of-early-love</ref> Written in 1954, the book describes her first love, a classmate named Elisabeth Lacoin ("Zaza") who died before age 22 of [[viral encephalitis]], and had as a teenager a "passionate and tragic" relationship with Beauvoir and Merleau-Ponty, then teaching at the same school. According to [[Sylvie Le Bon-de Beauvoir]], Beauvoir never forgave Madame Lacoin for what happened, believing that Elisabeth-Zaza was murdered by the oppressive socio-cultural environment in which she had been raised.<ref>{{Cite book |title=Les inséparables |last=Beauvoir |first=Simone de |publisher=[[L'Herne]] |date=2020 |location=Paris |isbn=979-1031902746 |language=fr}} Introduction.</ref> Disapproved by Sartre, the novel was deemed "too intimate" to be published during Beauvoir's lifetime.
+
+==Legacy==
+Simone de Beauvoir's ''[[The Second Sex]]'' is considered a foundational work in the history of feminism. Beauvoir had denied being feminist multiple times but ultimately admitted that she was one after ''The Second Sex'' became crucial in the world of feminism.<ref name="Bergoffen"/> The work has had a profound influence, opening the way for [[second-wave feminism]] in the [[Second wave feminism in the United States|United States]], [[Second wave feminism in Canada|Canada]], [[Second wave feminism in Australia|Australia]], and around the world.<ref name="SEP-Bergoffen-2010" /> Although Beauvoir has been quoted as saying "There is a certain unreasonable demand that I find a little stupid because it would enclose me, immobilize me completely in a sort of feminist concrete block," her works on feminism have paved the way for all future feminists.<ref name="Simone de Beauvoir: An Interview">{{Cite journal |last1=Simons |first1=Margaret A. |last2=Benjamin |first2=Jessica |last3=de Beauvoir |first3=Simone |date=1979 |title=Simone de Beauvoir: An Interview |url=https://www.jstor.org/stable/3177599 |journal=Feminist Studies |volume=5 |issue=2 |pages=330 |doi=10.2307/3177599 |jstor=3177599|hdl=2027/spo.0499697.0005.209 |hdl-access=free }}</ref> The founders of the second-wave read ''The Second Sex'' in translation, including [[Kate Millett]], [[Shulamith Firestone]], [[Juliet Mitchell]], [[Ann Oakley]] and [[Germaine Greer]].  All acknowledged their profound debt to Beauvoir, including visiting her in France, consulting with her at crucial moments, and dedicating works to her.<ref name="Fallaize-1998" />  [[Betty Friedan]], whose 1963 book ''[[The Feminine Mystique]]'' is often regarded as the opening salvo of second-wave feminism in the United States, later said that reading ''The Second Sex'' in the early 1950s<ref name="Fallaize-1998">{{cite book |last=Fallaize |first=Elizabeth |title=Simone de Beauvoir: A Critical Reader |url=https://books.google.com/books?id=HU71rmuh7rgC&pg=PA9 |year=2007 |publisher=Routledge |location=London |isbn=978-0-415-14703-3 |pages=9 |oclc=600674472 |orig-year=1st pub. 1998}}</ref> "led me to whatever original analysis of women's existence I have been able to contribute to the Women's movement and its unique politics. I looked to Simone de Beauvoir for a philosophical and intellectual authority."<ref name="Friedan-1975">{{cite magazine |last= |first= |date=14 June 1975 |title=Sex, Society, and the Female Dilemma: A Dialogue between Simone de Beauvoir and Betty Friedan |url= |magazine=Saturday Review |publisher= |page=16}} as quoted in {{sfnlink|Fallaize|2007|p=9}}.</ref>
+
+At one point in the early 1970s, Beauvoir also aligned herself with the French League for Women's Rights as a means to campaign and fight against sexism in French society.<ref name="Simone de Beauvoir: An Interview"/> Beauvoir's influence goes beyond just her impact on second-wave founders, and extends to numerous aspects of feminism, including literary criticism, history, philosophy, theology, criticism of scientific discourse, and [[psychotherapy]].<ref name="SEP-Bergoffen-2010" /> When Beauvoir first became involved with the feminism movement, one of her objectives was legalizing abortion.<ref name="Simone de Beauvoir: An Interview"/> [[Donna Haraway]] wrote that, "despite important differences, all the modern feminist meanings of gender have roots in Simone de Beauvoir's claim that 'one is not born a woman [one becomes one].'"<ref name="SEP-Bergoffen-2010" /> This "most famous feminist sentence ever written"<ref name="Mann-2017">{{cite book |last=Mann |first=Bonnie |title=On ne naît pas femme : on le devient: The Life of a Sentence |date=20 July 2017 |publisher=Oxford University Press |isbn=978-0-19-067801-2 |editor1=Bonnie Mann |pages=11 |chapter=Introduction |quote=...the sentence in question is '''On ne naît pas femme : on le devient'''—in other words, the most famous feminist sentence ever written... Surely if any sentence deserves a biography, or multiple biographies, it is this sentence that has inspired generations of women. |editor2=Martina Ferrari |chapter-url=https://books.google.com/books?id=KYstDwAAQBAJ&pg=PT11}}</ref> is echoed in the title of [[Monique Wittig]]'s 1981 essay ''One Is Not Born a Woman''.<ref name="Fallaize-1998" />{{sfn|Butler|1990|p=112|ps=&nbsp; 'One is not born a woman.' Monique Wittig echoed that phrase in an article by the same name, published in ''Feminist Issues'' (1:1).}}<ref name="McCann-Kim-2003">{{cite book |title=Feminist Theory Reader: Local and Global Perspectives |publisher=Psychology Press |year=2003 |isbn=978-0-415-93153-3 |editor1-last=McCann |editor1-first=Carole Ruth |pages=249 |chapter=25 One Is Not Born a Woman |oclc=465003710 |quote=As individuals as well we question 'woman', which for us, as for Simone de Beauvoir, is only a myth. She said: 'One is not born, but becomes a woman.' |editor2-last=Kim |editor2-first=Seung-Kyung |chapter-url=https://books.google.com/books?id=5uCeWIzdFwkC&pg=PA249}}</ref> [[Judith Butler]] took the concept a step further, arguing that Beauvoir's choice of the verb ''to become'' suggests that [[gender performativity|gender is a process]], constantly being renewed in an ongoing interaction between the surrounding culture and individual choice.<ref name="Fallaize-1998" /><ref name="Bell-1999">{{cite book |last=Bell |first=Vikki |url=https://books.google.com/books?id=zZJ7bfoPSksC&pg=PA135 |title=Performativity & Belonging |date=25 October 1999 |publisher=SAGE Publications |isbn=978-0-7619-6523-7 |series=Theory, Culture & Society |location=London |page=135 |oclc=796008155 |quote=Moreover, Beauvoir's use of the term 'becoming' leads Butler to wonder further that '<span style="color:darkgreen;font-family:Times New Roman, serif">...if gender is something that one becomes – but can never be – then gender itself is a kind of becoming or activity, and that gender ought not to be conceived as a noun or a substantial thing or a static cultural marker, but rather as an incessant and repeated action of some sort.</span>' {{sfnlink|Butler|1990|p=12}}.}}</ref>
+
+In Paris, [[Place Jean-Paul-Sartre-et-Simone-de-Beauvoir]] is a square where Beauvoir's legacy lives on. It is one of the few squares in Paris to be officially named after a couple. The pair lived close to the square at 42 [[rue Bonaparte]].
+
+==Prizes==
+* [[Prix Goncourt]], 1954
+* [[Jerusalem Prize]], 1975
+* [[Austrian State Prize for European Literature]], 1978
+
+==Works==
+===List of publications (non-exhaustive)===
+* ''L'Invitée'' (1943) (English – ''[[She Came to Stay]]'') [novel]
+* ''[[Pyrrhus and Cineas|Pyrrhus et Cinéas]]'' (1944) [nonfiction]
+* ''Le Sang des autres'' (1945) (English – ''[[The Blood of Others]]'') [novel]
+* ''Les Bouches inutiles'' (1945) (English - [[Who Shall Die]]?) [drama]
+* ''Tous les hommes sont mortels'' (1946) (English: ''[[All Men Are Mortal]]'') [novel]
+* ''Pour une morale de l'ambiguïté'' (1947) (English: ''[[The Ethics of Ambiguity]]'') [nonfiction]
+* ''America Day by Day'' (1948) (English, 1999): Carol Cosman (Translator) and Douglas Brinkley (Foreword) [nonfiction]
+* ''Le Deuxième Sexe'' (1949) (English: ''[[The Second Sex]]'') [nonfiction]
+* ''L'Amérique au jour le jour'' (1954) (English: ''America Day by Day'')
+* ''Les Mandarins''  (1954) (English: ''[[The Mandarins]]'') [novel]
+* ''Must We Burn Sade?'' (1955)
+* ''The Long March'' (1957) [nonfiction]
+* ''Memoirs of a Dutiful Daughter'' (1958)
+* ''The Prime of Life'' (1960)
+* ''Force of Circumstance'' (1963)
+* ''A Very Easy Death'' (1964) (French: ''Une Mort Tres Douce'')
+* ''Misunderstanding in Moscow'' (1966) [novel]
+* ''Les Belles Images'' (1966) [novel]
+* ''The Woman Destroyed'' (1967) [short stories] (French: ''La Femme Rompue'')
+* ''[[The Coming of Age (book)|The Coming of Age]]'' (1970) [nonfiction]
+* ''All Said and Done'' (1972)
+* ''Old Age'' (1972) [nonfiction]
+* ''[[When Things of the Spirit Come First]]'' (1979) [novel]
+* ''Adieux: A Farewell to Sartre'' (1981)
+* ''Letters to Sartre'' (1990)
+* ''A Transatlantic Love Affair: Letters to Nelson Algren'' (1998)
+* ''[https://cyberdandy.org/wp-content/uploads/2020/10/Simone%20de%20Beauvoir_%20Philosophical%20Writings.pdf Philosophical Writings]'' (2004)
+* ''Journal de guerre, Sept 1939 – Jan 1941'' (1990); English – ''Wartime Diary'' (2009)
+* ''Diary of a Philosophy Student, 1926–27'' (2006)
+* ''Cahiers de jeunesse, 1926–1930'' (2008)
+* ''[https://www.goodreads.com/en/book/show/56197486 Inseparable]'' (2020)
+===Biographies/Other works===
+* '''Beauvoir and Sartre''' by Christine Daigle (Editor); Jacob Golomb (Editor)
+* '''Becoming Beauvoir''' by Kate Kirkpatrick
+* '''The Cambridge Companion to Simone de Beauvoir''' by Claudia Card (Editor)
+* '''Découvrir Beauvoir''' by Alexandre Feron
+* '''Differences''' by Emily Anne Parker (Editor); Anne van Leeuwen (Editor)
+* '''The Existential Phenomenology of Simone de Beauvoir''' by Wendy O'Brien (Editor); Lester E. Embree (Editor)
+* '''Identity without selfhood : Simone de Beauvoir and bisexuality''' by Mariam Fraser
+* '''Mémoires / Simone de Beauvoir''' by édition publiée sous la direction de Jean-Louis Jeannelle et d'Éliane Lecarme-Tabone ; chronologie par Sylvie Le Bon de Beauvoir
+* '''The prime of life : the autobiography of Simone de Beauvoir''' by Simone de Beauvoir; Peter Green (Translator); Toril Moi (Introduction by)
+* '''Sex, Love, and Letters''' by Judith G. Coffin
+* '''Simone de Beauvoir''' by Deirdre Bair
+* '''Simone de Beauvoir's Philosophy of Age''' by Silvia Stoller (Editor)
+* '''Tête-à-Tête''' by Hazel Rowley
+* '''We Are Not Born Submissive''' by Manon Garcia
+
+===Selected translations===
+* [[Patrick O'Brian]] was Beauvoir's principal English translator, until he attained commercial success as a [[aubrey–Maturin series|novelist]].
+* {{citation | last = Beauvoir | first = Simone | contribution = "Introduction" to The Second Sex | editor-last1 = Nicholson | editor-first1 = Linda | title = The second wave: a reader in feminist theory | pages = 11–18 | publisher = Routledge | location = New York | year = 1997 | isbn = 9780415917612 | postscript = .}}
+* ''Philosophical Writings'' (Urbana: University of Illinois Press, 2004, edited by Margaret A. Simons et al.) contains a selection of essays by Beauvoir translated for the first time into English. Among those are: "Pyrrhus and Cineas", discussing the futility or utility of action, two previously unpublished chapters from her novel ''She Came to Stay'' and an introduction to ''The Ethics of Ambiguity''.
+
+==See also==
+* [[List of women's rights activists]]
+* [[Feminism in France]]
+* ''[[Femmes solidaires]]''
+
+==References==
+{{notelist}}
+{{Reflist}}
+
+==Further reading==
+* [[Lisa Appignanesi|Appignanesi, Lisa]], 2005, ''Simone de Beauvoir'', London: Haus, {{ISBN|1-904950-09-4}}.
+* {{cite book |last=Butler |first=Judith |title=Gender Trouble: Feminism and the Subversion of Identity |url=https://books.google.com/books?id=kuztAAAAMAAJ&pg=PA12 |series=Thinking gender |year=1990 |publisher=Routledge |isbn=978-0-415-90042-3 |page=12 |oclc=318223176}}.
+* [[Deirdre Bair|Bair, Deirdre]], 1990. ''Simone de Beauvoir: A Biography.'' New York: Summit Books, {{ISBN|0-671-60681-6}}.
+* [[Hazel Rowley|Rowley, Hazel]], 2005. ''Tête-a-Tête: Simone de Beauvoir and Jean-Paul Sartre.'' New York: HarperCollins.
+* [[Suzanne Lilar]], 1969. ''Le Malentendu du Deuxième Sexe'' (with collaboration of Prof. Dreyfus). Paris, [[University Presses of France]] (''Presses Universitaires de France'').
+* Fraser, M., 1999. ''Identity Without Selfhood: Simone de Beauvoir and Bisexuality'', Cambridge and New York: Cambridge University Press.
+* Axel Madsen, ''Hearts and Minds: The Common Journey of Simone de Beauvoir and Jean-Paul Sartre'', William Morrow & Co, 1977.
+* Hélène Rouch, 2001–2002, Trois conceptions du sexe: Simone de Beauvoir entre Adrienne Sahuqué et [[Suzanne Lilar]], ''Simone de Beauvoir Studies'', n° 18, pp.&nbsp;49–60.
+* {{cite book|author=Seymour-Jones, Carole|title=A Dangerous Liaison|year=2008|publisher=Arrow Books|isbn=978-0-09-948169-0|author-link=Carole Seymour-Jones}}.
+* Simone de Beauvoir, [[Marguerite Yourcenar]], [[Nathalie Sarraute]], 2002. Conférence [[Élisabeth Badinter]], Jacques Lassalle & Lucette Finas, {{ISBN|2717722203}}.
+* {{citation | last = Beauvoir | first =Simone de| contribution = Introduction from ''The Second Sex'' | editor-last1 = Cudd | editor-first1 = Ann E. | editor-last2 = Andreasen | editor-first2 = Robin O. | editor-link1 = Ann Cudd | title = Feminist Theory: A Philosophical Anthology | pages = 27–36 | publisher = Wiley-Blackwell | location = Oxford, UK Malden, Massachusetts | year = 2005 | isbn = 9781405116619 | postscript = .}}
+* Coffin, Judith G. [https://books.google.com/books?id=xOO8DwAAQBAJ ''Love, and Letters: Writing Simone de Beauvoir'']. Ithaca and London: Cornell University Press. 2020. {{ISBN|9781501750540}}.
+* Francis, Claude. ''Simone de Beauvoir: A Life, A Love Story''. Lisa Nesselson (translator). New York: St. Martin's, 1987. {{ISBN|0312001894}}.
+* Green, Karen (2022). [[doi:10.1017/9781009026802|Simone de Beauvoir.]] Cambridge University Press.
+* [[Toril Moi|Moi, Toril]]. ''Feminist Theory and Simone de Beauvoir'' by , 1990.
+* Okely, Judith. ''Simone de Beauvoir''. New York: Pantheon. 1986. {{ISBN|0394747658}}.
+
+==External links==
+{{Sisterlinks|auto=y}}
+* {{cite SEP |url-id=beauvoir |title=Simone de Beauvoir |last=Bergoffen |first=Debra}}
+* {{cite IEP |url-id=beauvoir |title=Simone de Beauvoir |last=Mussett |first=Shannon}}
+* {{Internet Archive author |sname=Simone de Beauvoir}}
+* {{cite journal| url=http://www.theparisreview.org/interviews/4444/the-art-of-fiction-no-35-simone-de-beauvoir| title=Simone de Beauvoir, The Art of Fiction No. 35| journal=Paris Review| date=Spring–Summer 1965| author=Madeleine Gobeil | volume=Spring-Summer 1965| issue=34}}
+* [http://books.guardian.co.uk/authors/author/0,5917,-51,00.html Guardian Books "Author Page"], with profile and links to further articles.
+* {{Books and Writers |id=beauvoir |name=Simone de Beauvoir}}
+* [http://sounds.bl.uk/View.aspx?item=024M-C0095X0532XX-0100V0.xml Victoria Brittain et al. discuss Simone de Beauvoir's lasting influence, ICA 1989] {{Webarchive|url=https://web.archive.org/web/20200122152344/https://sounds.bl.uk/Arts-literature-and-performance/ICA-talks/024M-C0095X0532XX-0100V0 |date=22 January 2020 }}
+* {{cite web|author=Mim Udovitch |date=6 December 1988 |work=The New York Times |url=https://www.nytimes.com/books/98/12/06/reviews/981206.06udovitt.html |title=Hot and Epistolary: 'Letters to Nelson Algren', by Simone de Beauvoir |access-date=9 June 2012}}
+* {{cite web|author=Louis Menand|date=26 September 2005|work=newyorker.com|url=https://www.newyorker.com/archive/2005/09/26/050926crbo_books?currentPage=all|title=Stand By Your Man: The strange liaison of Sartre and Beauvoir (Book review of the republished ''The Second Sex'' by Simone de Beauvoir)|access-date=9 June 2012}}
+* {{cite web |last=Murray |first=Jenni |author-link=Jenni Murray |title=Simone de Beauvoir |work=[[Woman's Hour]] |publisher=[[BBC Radio 4]] |date=22 January 2008 |url=http://www.bbc.co.uk/radio4/womanshour/01/2008_04_tue.shtml}}
+* [http://www.bbc.co.uk/programmes/b010dp15 "Simone de Beauvoir"], ''Great Lives'', BBC Radio 4, 22 April 2011
+* Kate Kirkpatrick. (6 November 2017) [https://iai.tv/articles/what-is-authentic-love-a-view-from-simone-de-beauvoir-auid-918 "What is authentic love? A View from Simone de Beauvoir"] . ''IAI News''.
+
+{{Simone de Beauvoir}}
+{{Continental philosophy}}
+{{Feminist theory}}
+{{Existentialism}}
+{{Social and political philosophy}}
+{{Austrian State Prize for European Literature}}
+{{Sonning Prize laureates}}
+{{Prix Goncourt}}
+{{Jean-Paul Sartre}}
+{{Women honored with statues at the 2024 Summer Olympics}}
+{{Authority control}}
+
+{{DEFAULTSORT:de Beauvoir, Simone}}
+[[Category:Simone de Beauvoir| ]]
+[[Category:1908 births]]
+[[Category:1986 deaths]]
+[[Category:20th-century French novelists]]
+[[Category:20th-century French philosophers]]
+[[Category:20th-century French women writers]]
+[[Category:20th-century French memoirists]]
+[[Category:Atheist feminists]]
+[[Category:Atheist philosophers]]
+[[Category:Bisexual feminists]]
+[[Category:Bisexual women writers]]
+[[Category:Bisexual memoirists]]
+[[Category:Bisexual novelists]]
+[[Category:Burials at Montparnasse Cemetery]]
+[[Category:Communist women writers]]
+[[Category:Deaths from pneumonia in France]]
+[[Category:Existentialists]]
+[[Category:Scholars of feminist philosophy]]
+[[Category:Feminist studies scholars]]
+[[Category:Feminist theorists]]
+[[Category:Former Roman Catholics]]
+[[Category:French anti-war activists]]
+[[Category:French atheists]]
+[[Category:French communists]]
+[[Category:French feminist writers]]
+[[Category:French feminists]]
+[[Category:French literary critics]]
+[[Category:French Marxists]]
+[[Category:French political philosophers]]
+[[Category:French abortion-rights activists]]
+[[Category:French women novelists]]
+[[Category:French women philosophers]]
+[[Category:Jerusalem Prize recipients]]
+[[Category:French bisexual women]]
+[[Category:French bisexual writers]]
+[[Category:French LGBTQ novelists]]
+[[Category:Marxist feminists]]
+[[Category:Marxist writers]]
+[[Category:Materialist feminists]]
+[[Category:French philosophers of art]]
+[[Category:French philosophers of education]]
+[[Category:Philosophers of sexuality]]
+[[Category:Prix Goncourt winners]]
+[[Category:Socialist feminists]]
+[[Category:University of Paris alumni]]
+[[Category:Women critics]]
+[[Category:French women memoirists]]
+[[Category:Writers from Paris]]

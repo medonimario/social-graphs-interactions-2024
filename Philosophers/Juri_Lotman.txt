@@ -1,0 +1,117 @@
+{{Short description|Estonian-Russian semiotician, literary scholar}}
+
+{{Infobox philosopher
+|region       = [[Western philosophy]]
+|era          = [[20th-century philosophy]]
+|image        = Yuri Lotman. Portrait. 1980.jpg
+|caption      = Bust of Juri Lotman by Lev Razumovsky, 1980
+|signature    = 
+|name         = Juri Lotman
+|birth_date   = {{birth date|1922|02|28|df=y}}
+|birth_place  = [[Saint Petersburg|Petrograd]], [[Russian Soviet Federative Socialist Republic]]
+|death_date   = {{Death date and age|1993|10|28|1922|02|28|df=y}}
+|death_place  = [[Tartu]], [[Estonia]]
+|education    = [[Leningrad State University]]
+|nationality  = 
+|institutions = [[University of Tartu]]
+|school_tradition = [[Tartu–Moscow Semiotic School]]
+|main_interests   = [[Semiotics]]
+|notable_ideas    =  
+|influences       = 
+|influenced       =
+}}
+{{Semiotics}}
+
+'''Juri Lotman''' ({{langx|ru|Ю́рий Миха́йлович Ло́тман}}; 28 February 1922 – 28 October 1993), a prominent Russian-Estonian literary scholar, [[semiotician]], and [[cultural history|historian]] of [[Culture of Russia|Russian culture]], worked at the [[University of Tartu]]. He was elected a member of the [[British Academy]] (1977), the [[Norwegian Academy of Science and Letters]] (1987), the [[Royal Swedish Academy of Sciences]] (1989) and the [[Estonian Academy of Sciences]] (1990). He was a founder of the [[Tartu–Moscow Semiotic School]]. The number of his printed works exceeds 800 titles. His extensive archive (now kept at the [[University of Tallinn]] and at the [[Tartu University Library]]) includes his correspondence with a number of Russian and Western intellectuals.
+
+==Biography==
+Juri Lotman was born in the [[Jewish]] intellectual family of lawyer Mikhail Lotman and [[University of Paris|Sorbonne]]-educated dentist Aleksandra Lotman in [[Petrograd]], [[Russian SFSR|Russia]]. His elder sister Inna Obraztsova graduated from [[Saint Petersburg Conservatory|Leningrad Conservatory]] and became a composer and lecturer of musical theory, his younger sister Victoria Lotman was a prominent cardiologist, and his third sister Lidia Lotman was a scholar of Russian literature of the second half of the 19th century on staff at the Institute for Russian Literature of the [[Russian Academy of Science]] ([[Pushkin House]]) (she lived in Saint-Petersburg).
+
+Lotman graduated from the secondary school in 1939 with excellent marks and was admitted to [[Leningrad State University]] without having to pass any exams. There he studied philology, which was a choice he made due to Lidia Lotman's university friends (actually he attended university lectures in philology whilst he was still at secondary school).{{cn|date=December 2023}} His professors at university were the renowned lecturers and academicians [[Grigory Gukovsky|Gukovsky]], [[Mark Azadovsky|Azadovsky]], [[Boris Tomashevsky|Tomashevsky]] and [[Vladimir Propp|Propp]]. He was drafted in 1940 and  during [[World War II]] served as a radio operator in the artillery. Demobilized from the army in 1946, he returned to his studies in the university and received his diploma with distinction in 1950. His first published research papers focused on Russian literary and social thought of the 18th and 19th century.{{cn|date=December 2023}}
+
+Lotman moved to the [[Estonian SSR]] in 1950, where he started teaching Russian literature while working on his dissertation ([[aspirantura]]), which he defended at the [[Saint Petersburg State University|Leningrad State University]] in 1952.<ref>{{cite web | url=https://ruslit.ut.ee/history/jml/cv.php | title=Кафедра русской литературы Тартуского университета }}</ref><ref>{{cite web | url=https://www.ruthenia.ru/lotman/bio.html | title=Lotmaniana Tartuensia: Биографические материалы }}</ref> In 1954 he was appointed [[docent]] in the Department of Russian literature of [[Tartu University]], eventually becoming head of the department. In 1961 he defended his [[doktor nauk|doctoral]] dissertation, also at the Leningrad State University,<ref>{{cite journal |last1=Хушбоков |first1=О. У. |date=2021 |title=Лотман Ю. М. и его творчество |journal=Вестник науки |volume=36 |issue=3 |pages=30}}</ref> and the following year achieved the rank of [[professor]].<ref>{{cite web | url=https://ruslit.ut.ee/history/jml/cv.php | title=Кафедра русской литературы Тартуского университета }}</ref>
+
+In the early '60s Lotman established academic contacts with a group of structuralist linguists in Moscow, and invited them in the first Summer School on Secondary Modeling Systems, that took place in [[Kääriku]] from 19th to 29 August 1964.<ref>{{Cite book|url=http://mobile.dspace.ut.ee/handle/10062/17420|title=Программа и тезисы докладов в летней школе по вторичным моделирующим системам : 19–29 авг. 1964 г. [Programme and proceedings of the summer school on secondary modeling systems: 19–29 August 1964]|publisher=Tartu University|year=1964|editor-last=Lotman|editor-first=Juri|location=Tartu}}{{Dead link|date=April 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The group gathered at the first summer school later developed into what is now known as the [[Tartu–Moscow Semiotic School]]. Among participants of the summer school, and later members of the Tartu–Moscow school, were such names as [[Boris Uspensky]], [[Vyacheslav Ivanov (philologist)|Vyacheslav Ivanov]], [[Vladimir Toporov]], [[Mikhail Gasparov]], [[Alexander Piatigorsky]], [[Isaak I. Revzin]] and Georgii Lesskis. As a result of their collective work, they established a theoretical framework for the study of the [[semiotics of culture]].
+
+This school has been widely known for its journal ''[[Sign Systems Studies]]'', published by [[Tartu University Press]] ("Труды по знаковым системам") and currently the oldest semiotics journal in the world (established in 1964). Lotman studied the [[theory of culture]], Russian literature, history, [[semiotics]] and [[semiology]] (general theories of signs and sign systems), semiotics of cinema, arts, literature, robotics, etc. In these fields, Lotman has been one of the most widely cited authors. His major study in Russian literature was dedicated to [[Pushkin]]; among his most influential works in semiotics and structuralism are ''Semiotics of Cinema'', ''Analysis of the Poetic Text'' and ''The Structure of the Artistic Text''. In 1984, Lotman coined the term [[semiosphere]].
+In 1991 he received the Gold Medal of Philology, the highest award for a philological scholar.<ref>{{Cite web|url=http://insop.org/index.php?p=1_8_Ancient-Medal-Winners|title=Ancient Medal Winners » International Society of Philology – Votre Slogan ici|access-date=2015-09-12|archive-date=2016-03-03|archive-url=https://web.archive.org/web/20160303171535/http://insop.org/index.php?p=1_8_Ancient-Medal-Winners|url-status=dead}}</ref>
+
+Juri Lotman's wife [[Zara Mints]] was also a well-known scholar of Russian literature and  Tartu professor. They have three sons:
+*[[Mihhail Lotman]] (born 1952) is professor of semiotics and literary theory at [[Tartu University]], is active in politics and has served as a member of the [[Riigikogu]] (Estonian Parliament) as a member of the conservative [[Res Publica Party]].
+*Grigori Lotman (born 1953) is an artist.
+*[[Aleksei Lotman]] (born 1960) is a biologist, since 2006 he has also been a politician and a member of parliament for the [[Estonian Greens]] party (2007–2011).
+
+==Bibliography==
+* 1975. Lotman Jurij M.; Uspenskij B.A.; Ivanov, V.V.; Toporov, V.N. and Pjatigorskij, A.M. 1975. "Theses on the Semiotic Study of Cultures (as Applied to Slavic Texts)". In: Sebeok Thomas A. (ed.), ''The Tell-Tale Sign: A Survey of Semiotics''. Lisse (Netherlands): Peter de Ridder, 57–84. {{ISBN|978-90-316-0030-4}}
+* 1976. ''Analysis of the Poetic Text''. (Translated by D. Barton Johnson.) Ann Arbor (Mich.): Ardis. {{ISBN|978-0-88233-106-5}}
+* 1976. "The content and structure of the concept of "literature". PTL: A Journal for Descriptive Poetics and Theory of Literature 1(2): 339–356.
+* 1976. ''Semiotics of Cinema''. (Transl. by Mark Suino.) (Michigan Slavic Contributions.) Ann Arbor: University of Michigan Press, [http://www.kulichki.com/moshkow/CINEMA/kinolit/LOTMAN/kinoestetika.txt Семиотика кино и проблемы киноэстетики] {{in lang|ru}} {{ISBN|978-0-930042-13-4}}
+* 1977. ''The Structure of the Artistic Text''. Translated from the Russian by Gail Lenhoff and Ronald Vroon. (Michigan Slavic Contributions 7.) Ann Arbor: University of Michigan, Department of Slavic Languages and Literatures. {{ISBN|978-0-930042-15-8}}
+* 1979. [http://www.zbi.ee/~kalevi/LotmanPlot.htm "The origin of plot in the light of typology"]. ''Poetics Today'' 1(1–2), 161–184.
+* 1990. ''Universe of the Mind: A Semiotic Theory of Culture''. (Translated by Ann Shukman, introduction by [[Umberto Eco]].) London & New York: I. B. Tauris & Co Ltd. xiii+288 p. {{ISBN|978-1-85043-375-0}}
+* 2005. [https://ojs.utlib.ee/index.php/sss/article/view/SSS.2005.33.1.09 "On the semiosphere"]. (Translated by Wilma Clark) ''[[Sign Systems Studies]]'', 33(1): 205–229.
+* 2009. ''Culture and Explosion. (Semiotics, Communication and Cognition 1.)'' Translated by Wilma Clark, edited by Marina Grishakova.[[De Gruyter Mouton]]. {{ISBN|978-3-11-021845-9}}
+* 2014. ''Non-Memoirs''. Translated and annotated by Caroline Lemak Brickman, edited by Evgenii Bershtein, with an afterword by Caroline Lemak Brickman and Evgenii Bershtein. Dalkey Archive Press: Champaign, London, Dublin. {{ISBN|978-1564789969}}.
+
+==See also==
+* [[Philosophy in the Soviet Union]]
+* [[Semiotics]]
+* [[Formalism (literature)|Literary formalism]]
+* [[Semiosphere]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*Andrews, Edna 2003. ''Conversations with Lotman: Cultural Semiotics in Language, Literature, and Cognition''. Toronto: University of Toronto Press.
+*Andrews, Edna 2003. [https://ojs.utlib.ee/index.php/sss/article/view/SSS.2015.43.2-3.10 The importance of Lotmanian semiotics to sign theory and the cognitive neurosciences].	 ''Sign Systems Studies'' 43(2/3): 347–364.
+*Elkouch, Hassib 2016. [http://www.sss.ut.ee/index.php/sss/article/view/SSS.2016.44.3.08 Juri Lotman in Arabic: A bibliography]. ''Sign Systems Studies'' 44(3): 452–455.
+* Grishakova, Marina. 2009. Around ''Culture and Explosion'': J. Lotman and the Tartu-Moscow School in the 1980s-90s. In: J. Lotman. ''Culture and Explosion'' (175−187), ed. by M. Grishakova, transl. by Wilma Clark. Berlin - New York: De Gruyter.
+* Grishakova, Marina. Complexity, Entropy, and Noise in Sciences and Art (Lotman, Prigogine, Serres). In: A. Duprat and A. James (Ed.). ''Figures of Chance II. Chance in Theory and Practice.'' (67−77). London-New York: Routledge, 2024.
+*Grishakova, Marina, and Silvi Salupere 2015. ''Theoretical Schools and Circles in the Twentieth-Century Humanities: Literary Theory, History, Philosophy.'' Routledge. 
+*Kull, Kalevi 1999. [https://www.researchgate.net/publication/228954901_Towards_biosemiotics_with_Yuri_Lotman Towards biosemiotics with Yuri Lotman]. ''Semiotica'' 127(1/4): 115–131.
+*Kull, Kalevi 2011. Juri Lotman in English: Bibliography. ''Sign Systems Studies'' 39(2/4): 343–356. [https://www.academia.edu/5423325/Juri_Lotman_in_English_Bibliography See.]
+*Kull, Kalevi; Gramigna, Remo 2014. [http://www.sss.ut.ee/index.php/sss/article/view/SSS.2014.42.4.07 Juri Lotman in English: Updates to bibliography]. ''Sign Systems Studies'' 42(4): 549–552.
+*with [[Timo Maran]] 2022. [https://www.academia.edu/69256326/Juri_Lotman_and_life_sciences Juri Lotman and life sciences]. In Marek Tamm & [[Peeter Torop]] (eds.), ''The Companion to Juri Lotman: A Semiotic Theory of Culture''. Bloomsbury, 461–475.
+*Lepik, Peet 2008. ''Universals in the Context of Juri Lotman’s Semiotics''. (Tartu Semiotics Library 7.) Tartu: Tartu University Press.
+*Mandelker, Amy 1994. Semiotizing the sphere: Organicist theory in Lotman, Bakhtin, and Vernadsky. ''Publications of the Modern Language Association'' 109(3): 385–396.
+*Shukman, Ann 1977. ''Literature and Semiotics: A Study of the Writings of Ju. M. Lotman''. Amsterdam: North Holland.
+*Waldstein, Maxim 2008. ''The Soviet Empire of Signs: A History of the Tartu School of Semiotics''. Saarbrücken: VDM Verlag Dr. Müller.
+
+==External links==
+{{commons category}}
+*[http://www.flfi.ut.ee/en/department-semiotics/juri-lotman Juri Lotman page at the Semiotics Department of the University of Tartu] {{Webarchive|url=https://web.archive.org/web/20190628202148/https://www.flfi.ut.ee/en/department-semiotics/juri-lotman |date=2019-06-28 }}
+*[https://ojs.utlib.ee/index.php/sss/article/view/SSS.2011.39.2-4.14 Bibliography of English translated works] and [https://www.academia.edu/10471872/Juri_Lotman_in_English_Updates_to_bibliography updates to bibliography]
+*[http://www.ut.ee/lotman/ Lotmaniana Tartuensia – biography, bibliography of works in Russian and Estonian] {{in lang|ru}}''',''' {{in lang|et}}
+*[http://www.elkost.com/authors/lotman ELKOST Intl. literary agency] – translation rights in all Lotman's writings
+*[http://www.ruhr-uni-bochum.de/lirsk Homepage of the Lotman Institute for Russian and Soviet Culture] {{Webarchive|url=https://web.archive.org/web/20181005085110/http://www.ruhr-uni-bochum.de/lirsk |date=2018-10-05 }} at the [[University of Bochum]]
+*[http://www.isfp.co.uk/russian_thinkers/yury_lotman.html Intellectual Biography of Juri Lotman] at the Gallery of Russian Thinkers (International Society for Philosophers)
+*[https://filsem.ut.ee/et/sisu/juri-lotman-scholarship Lotman foundation and scholarship]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lotman, Juri}}
+[[Category:1922 births]]
+[[Category:1993 deaths]]
+[[Category:Russian philologists]]
+[[Category:Estonian scholars]]
+[[Category:Linguists from Estonia]]
+[[Category:Writers from Saint Petersburg]]
+[[Category:Russian Jews]]
+[[Category:Linguists of Slavic languages]]
+[[Category:Academic staff of the University of Tartu]]
+[[Category:Members of the Estonian Academy of Sciences]]
+[[Category:Estonian semioticians]]
+[[Category:20th-century Estonian philosophers]]
+[[Category:20th-century Estonian writers]]
+[[Category:Burials at Raadi cemetery]]
+[[Category:Soviet literary historians]]
+[[Category:Soviet male writers]]
+[[Category:Estonian non-fiction writers]]
+[[Category:20th-century linguists]]
+[[Category:20th-century philologists]]
+[[Category:Male non-fiction writers]]
+[[Category:Film theorists]]
+[[Category:Corresponding fellows of the British Academy]]
+[[Category:Russian scientists]]
+[[Category:20th-century Estonian Jews]]

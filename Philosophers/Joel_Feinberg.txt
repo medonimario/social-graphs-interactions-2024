@@ -1,0 +1,136 @@
+{{Short description|American legal philosopher (1926–2004)}}
+{{Infobox philosopher
+| name             =  Joel Feinberg
+| honorific_suffix = 
+| image            =  <!-- filename only, i.e. without the File: (or Image:) prefix or enclosing [[brackets]] -->
+| image_size       = 
+| alt              = 
+| caption          = 
+| other_names      = 
+| birth_name       = 
+| birth_date       = {{birth date|1926|10|19}}
+| birth_place      = [[Detroit, Michigan]], U.S.
+| death_date       = {{death date and age|2004|3|29|1926|10|19}}
+| death_place      = [[Tucson, Arizona]], U.S.
+| death_cause      = 
+| residence        = 
+| nationality      = 
+| religion         = 
+| alma_mater       = [[University of Michigan]]
+| notable_works    = <!-- use "notable_works" in place of "books" parameter (deprecated) -->
+| awards           = 
+| signature        = 
+| signature_size   = 
+| signature_alt    = 
+| era              = 
+| region           = 
+| school_tradition = [[Analytic Philosophy]]
+| institutions     = [[University of Arizona]]
+| main_interests   = [[Political philosophy]], [[Philosophy of law]]
+| notable_ideas    = Offense principle
+| influences       = [[Ralph Barton Perry]], [[H.L.A. Hart]], [[John Stuart Mill]]
+| influenced       = [[Jules Coleman]]
+| website          = <!-- {{URL|example.com}} -->
+}}
+
+'''Joel Feinberg''' (October 19, 1926 – March 29, 2004) was an American political and legal [[philosopher]]. He is known for his work in the fields of [[ethics]], [[Action theory (philosophy)|action theory]], [[philosophy of law]], and [[political philosophy]]<ref>Honderich T. ''The Oxford Companion to Philosophy.'' Oxford, UK: Oxford Univ. Press, 1995: 270. {{ISBN|0-19-866132-0}}</ref> as well as individual rights and the authority of the state.<ref>NEW YORK TIMES Monday April 5, 2004</ref> Feinberg was one of the most influential figures in American jurisprudence of the last fifty years.<ref>Jeff Harrison, 'In Memoriam: Joel Feinberg'', University of Arizona News, March 31, 2004</ref>
+
+==Education and career==
+
+Feinberg studied at the [[University of Michigan]], writing his dissertation on the philosophy of the Harvard professor [[Ralph Barton Perry]] under the supervision of [[Charles Stevenson (philosopher)|Charles Stevenson]]. He taught at [[Brown University]], [[Princeton University]], [[UCLA]] and [[Rockefeller University]], and, from 1977, at the [[University of Arizona]], where he retired in 1994 as Regents Professor of Philosophy and Law.
+
+Feinberg was internationally distinguished for his research in [[ethics|moral]], [[social philosophy|social]] and [[legal philosophy]]. His major four-volume work, ''The Moral Limits of the Criminal Law'', was published between 1984 and 1988. Feinberg held many major fellowships during his career and lectured by invitation at universities around the world. He was an esteemed and highly successful teacher, and many of his students are now prominent scholars and professors at universities across the US.  His former students include [[Jules Coleman]], [[Russ Shafer-Landau]], and [[Clark Wolf]].
+
+==Philosophical work==
+
+===''The Moral Limits of the Criminal Law''===
+
+Feinberg's most important contribution to legal philosophy is his four-volume book, ''The Moral Limits of the Criminal Law'' (1984-1988), a work that is frequently characterized as "magisterial."<ref>For example by Dale Jamieson, ''Reason in a Dark Time: Why the Struggle against Climate'' ''Change Failed--and What It Means for Our Future'' (New York: Oxford University Press, 2014), p. 168; R. A. Duff, "Symposium on Criminalization," ''Criminal Law and Philosophy'' (2014), vol. 8, p. 147; Alan Werthheimer, "Liberty, Coercion, and the Limits of the State," in Robert L. Simon, ed., ''The Blackwell Guide to Social and Political Philosophy'' (Malden, MA: Blackwell Publishers, 2002), p. 43.</ref> Feinberg's goal in the book is to answer the question: What sorts of conduct may the state rightly make criminal? [[John Stuart Mill]], in ''[[On Liberty]]'' (1859), gives a staunchly liberal answer, that the only kind of conduct that the state may rightly criminalize is conduct that causes harm to others. Though Feinberg, who had read and re-read Mill's classic text many times,<ref>*[https://philosophy.princeton.edu/content/john-stuart-mills-liberty-underlining-highlighting-and-marginalia-joel-feinberg-now Joel Feinberg’s heavily annotated copy of Mill’s On Liberty can be seen online at the Princeton University Digital Library.]</ref> shared Mill's liberal leanings, he postulated that liberals can and should admit that certain kinds of non-harmful but profoundly offensive conduct can also properly be prohibited by law. In ''The Moral Limits of the Criminal Law'', Feinberg sought to develop and defend a broadly Millian view of the limits of state power over the individual. In the process, he defended standard liberal positions on topics such as suicide, obscenity, pornography, hate speech, and euthanasia. He also analyzed nonmaterial concepts such as harm, offense, wrong, autonomy, responsibility, paternalism, coercion, and exploitation, conceding in the conclusion to the final volume that liberalism may not be fully defensible<ref>Joel Feinberg, ''The'' ''Moral Limits of the Criminal Law: Harmless Wrongdoing''. New York: Oxford University Press, 1988, p. 319.</ref> and that liberals ought to concede that there are rare cases where certain kinds of moral harms and harmless immoralities should be outlawed.<ref>Joel Feinberg, ''The'' ''Moral Limits of the Criminal Law: Harmless Wrongdoing''. New York: Oxford University Press, 1988, p. 324.</ref>
+
+====A ride on the bus====
+
+In ''Offense to Others'', the second volume of ''The Moral Limits of the Criminal Law'', Feinberg offers one of the most famous thought-experiments in recent philosophy: a series of imaginary scenarios he calls "a ride on the bus." Feinberg invites us to imagine a bus ride in which you, a passenger rushing to an important appointment, are confronted by a series of deeply offensive but harmless acts. Some of the acts involve affronts to the senses (e.g., a man scratching his fingernails across a slate). Others involve acts that are deeply disgusting or revolting (e.g., eating various kinds of nauseatingly repulsive things). Still others involve affronts to our religious, moral, or patriotic sensibilities (e.g., overt acts of flag desecration); shocks to our sense of shame or embarrassment (such as acts of public sex); and a wide range of offensive conduct based on fear, anger, humiliation, boredom or frustration. The thought experiment is designed to test the limits of our tolerance for harmless but deeply offensive forms of behavior. More precisely, it raises the question "whether there are any human experiences that are harmless in themselves yet so unpleasant that we can rightly demand legal protection from them even at the cost of other persons' liberties."<ref>Joel Feinberg, ''The Moral Limits of the Criminal Law: Offense to Others''. New York: Oxford University Press, 1985, p. 10.</ref> Feinberg argues that even left-leaning, highly tolerant liberals must recognize that some forms of harmless but profoundly offensive conduct can properly be criminalized.
+
+==="Psychological Egoism"===
+In a paper prepared in 1958 for the benefit of students at Brown, Feinberg seeks to refute the philosophical theory of [[psychological egoism]], which in his opinion is fallacious.  So far as he can tell, there are four primary arguments for it:
+
+#"Every action of mine is prompted by motives or desires or impulses which are ''my'' motives and not somebody else's."<ref>Duncan-Jones 1952, p. 96.</ref>
+#"[W]hen a person gets what he wants, he characteristically feels pleasure."<ref name=":0">Feinberg 2008, p. 521.</ref>
+#"Often we deceive ourselves into thinking that we desire something fine or noble when what we really want is to be thought well of by others or to be able to congratulate ourselves, or to be able to enjoy the pleasures of a good conscience [...].  Indeed, it is a simple matter to explain away all allegedly unselfish motives [....]"<ref name=":0" />  He quotes [[Lucius F. C. Garvin]] to this effect: "Once the conviction that selfishness is universal finds root in a person's mind, it is very likely to burgeon out in a thousand corroborating generalizations.  It will be discovered that a friendly smile is really only an attempt to win an approving nod from a more or less gullible recording angel; that a charitable deed is, for its performer, only an opportunity to congratulate himself on the good fortune or the cleverness that enables him to be charitable; that a public benefaction is just plain good business advertising.  It will emerge that gods are worshipped only because they indulge men's selfish fears, or tastes, or hopes; that the "golden rule" is no more than an eminently sound success formula; that social and political codes are created and subscribed to only because they serve to restrain other men's egoism as much as one's own, morality being only a special sort of "racket" or intrigue using weapons of persuasion in place of bombs and machine guns.  Under this interpretation of human nature, the categories of commercialism replace those of disinterested service and the spirit of the horse trader broods over the face of the earth."<ref>Garvin 1953, p. 512f.</ref>
+#"Psychological egoists often notice that moral education and the inculcation of manners usually utilise what [[Jeremy Bentham|Bentham]] calls the 'sanctions of pleasure and pain.'  Children are made to acquire the civilising virtues only by the method of enticing rewards and painful punishments.  Much the same is true of the history of the race.  People in general have been inclined to behave well only when it is made plain to them that there is 'something in it for them.'  Is it not then highly probable that just such a mechanism of human motivation as Bentham describes must be presupposed by our methods of moral education?"<ref name=":1">Feinberg 2008, p. 522.</ref>
+
+Feinberg observes that such arguments for psychological egoism are rarely mounted on the basis of empirical proof when, being psychological, they very well ought to.  The opening argument he dubs a [[tautology (logic)|tautology]]<ref>To his mind, it says nothing more than that all of one's motives and desires are motives and desires, which, while true, is not especially significant.</ref> from which "nothing whatever concerning the nature of my motives or the objective of my desires can possibly follow [...].  It is not the genesis of an action or the ''origin'' of its motives which makes it a 'selfish' one, but rather the 'purpose' of the act or the ''objective'' of its motives; ''not where the motive comes from'' (in voluntary actions it always comes from the agent) but ''what it aims at'' determines whether or not it is selfish."<ref name=":1" />
+
+Similarly flawed in Feinberg's opinion is the second argument.  Just because all successful endeavour engenders pleasure does not necessarily entail that pleasure is the sole objective of all endeavour.  He uses [[William James]]'s analogy to illustrate this fallacy: although an ocean liner always consumes coal on its trans-Atlantic voyages, it is unlikely that the sole purpose of these voyages is coal consumption.
+
+The third argument, unlike the first two, contains no ''[[non sequitur (logic)|non sequitur]]'' that Feinberg can see.  He nevertheless adjudges that such a sweeping generalisation is unlikely to be true.
+
+In the final argument, Feinberg sees a paradox.  The only way to achieve happiness, he believes, is to forget about it, but psychological egoists hold that all human endeavour, even that which achieves happiness, is geared towards happiness.  Feinberg poses a [[thought experiment]] in which a character named Jones is apathetic about all but the pursuit of his own happiness.  Because he has no means to achieve that end, however, "[i]t takes little imagination [...] to see that Jones's one desire is bound to be frustrated."<ref>Feinberg 2008, p. 525.</ref>  To pursue only happiness, then, is to fail utterly to achieve it.
+
+==="The Rights of Animals and Future Generations"===
+In a 1974 paper, Feinberg addresses the possibility of legal rights for [[animal rights|animals]] and [[future generations]].<ref name="legal_rights">[https://iseethics.files.wordpress.com/2013/02/feinberg-joel-the-rights-of-animals-and-unborn-generations1.pdf] "The Rights of Animals and Future Generations". In William Blackstone (ed.), ''Philosophy and Environmental Crisis''. Athens, Georgia: University of Georgia Press, 1974. {{ISBN|0-8203-0343-7}}.</ref>
+
+He begins by analyzing rights as "claims ''to'' something and ''against'' someone" which are recognized by legal rules. For instance, a worker's legal right to a living wage is a claim ''to'' some amount of money and ''against'' an employer. Having clarified the nature of rights, Feinberg seeks to answer the question: What sort of entities can bear rights?
+
+Feinberg adopts an [https://plato.stanford.edu/entries/legal-rights/#ConcAnalLegaRigh interest theory of rights], according to which a right can be had by any entity with interests. In formulaic terms, some entity S ''can'' have some right R if and only if R protects some interest of S's. Interests here are defined as products of mental states such as desires, beliefs, wants, plans, urges, and so on.
+
+On this account, contrary to other theorists who adopt a [https://plato.stanford.edu/entries/legal-rights/#ConcAnalLegaRigh will theory of rights], animals can be legitimately given rights. The question, then, is whether they ought to be given rights. In other words, given that some entity S ''can'' have some right R, is it the case that the interests which R functions to protect morally ought to be protected? Feinberg argues that our commonsense moral duties concerning animals are really duties ''towards'' animals (i.e., they are duties for the sake of the animals, not for the sake of some indirect effects), and so justice demands that animal interests be protected by rights.
+
+Feinberg spends the rest of the paper applying his interest theory to other entities, including plants, species, corporations, severely mentally disabled humans, dead humans, fetuses, and future generations. He argues that:
+
+* Plants cannot have rights, since they cannot be properly said to have interests. One might think that claims such as "Water is good for a plant" and "A plant needs sunshine" imply the existence of plant interests, but Feinberg maintains that this (and other errors) are due to linguistic confusions. He analyzes the claims that "X is good for A" or that "A needs X," highlighting an ambiguity between two possible meanings:
+*# X helps A to achieve some goal, or to carry out some function (e.g., oil is good for a car, and a car needs oil, only in the sense that oil helps a car to perform as desired).
+*# X benefits A, and an absence of X harms A (e.g., food is good for a dog, and a dog needs food).
+* Feinberg maintains that only the second interpretation makes sense for our claims about plants, since morally relevant benefits and harms require mental states such as desires, plans, goals, dreams, and so on.
+* Likewise, Feinberg denies the possibility of rights for species ''as such'' , since there is no entity called "the species" which has the mental states necessary for legitimate interests. This suggests that any laws affecting a species must be grounded in the interests of individual species members, in the interests of humans (who may have some aesthetic preference for the species), or in the interests of future generations (who may benefit from the preservation of the species).
+* On the other hand, Feinberg claims that the notion of rights for corporations, countries, and other similar entities is entirely legitimate, since we can ground these in the interests of ''real people'' acting in their official capacities.
+* Severely mentally disabled humans may or may not be legitimate right-holders, depending on the severity of their conditions. So long as they have the mental states necessary for the attribution of legitimate interests, then they may have rights.
+* Dead humans may not have rights since they lack any mental capacities, and so ''a fortiori'' lack the mental capacities necessary for interests. Feinberg thus grounds any laws regulating our actions with respect to the dead (such as acts of defamation) in one of two places: (i) they may be grounded in the interests of the dead person's surviving friends and family, or (ii) they may be grounded in the future-oriented interests that the now dead person possessed prior to death. Thus Feinberg maintains that interests may be temporally extended, and so one's rights can still be operative even once one has deceased.
+* Similarly, Feinberg argues that interests may be intertemporal in the reverse direction. That is, he maintains that beings who have not yet been born can have rights grounded in the interests they will come to hold in the future once they are born. Importantly, however, this constrains the possibility of fetus rights to rights concerning quality of life, ruling out a right to ''be born'', since (i) rights can only be granted to a fetus on the basis of the interests they will come to hold in the future once they are born, and (ii) these interests only exist contingent on the fetus being born. Thus a right to be born would seek to secure the very thing which is required for the notion of rights to apply—a circularity.
+* Finally, Feinberg addresses the possibility of rights for future generations. By parity with the case of fetuses, the possibility of intertemporal interests can ground the existence of rights for future generations even though they have not yet come into existence.
+
+==Bibliography==
+* ''Reason and Responsibility: Readings in Some Basic Problems of Philosophy''.  Cengage Learning, 1965.
+* ''Doing and Deserving: Essays in the Theory of Responsibility''.  Princeton: Princeton University Press, 1970.
+* ''Social Philosophy'', Prentice-Hall Inc., 1973.
+* "[http://www.animal-rights-library.com/texts-m/feinberg01.htm The Rights of Animals and Future Generations]". In William Blackstone (ed.), ''Philosophy and Environmental Crisis''. Athens, Georgia: University of Georgia Press, 1974. {{ISBN|0-8203-0343-7}}.
+* ''Rights, Justice, and the Bounds of Liberty: Essays in Social Philosophy''.  Princeton: Princeton University Press, 1980.
+* ''The Moral Limits of the Criminal Law.  Vol. 1, Harm to Others''.  New York: Oxford University Press, 1984.
+* ''The Moral Limits of the Criminal Law.  Vol. 2, Offense to Others''.  New York: Oxford University Press, 1985.
+* ''The Moral Limits of the Criminal Law.  Vol. 3, Harm to Self''.  New York: Oxford University Press, 1986.
+* ''The Moral Limits of the Criminal Law.  Vol. 4, Harmless Wrongdoing''.  New York: Oxford University Press, 1988.
+* ''Freedom and Fulfillment: Philosophical Essays''.  Princeton: Princeton University Press, 1992.
+* ''Problems at the Roots of Law: Essays in Legal and Political Theory''.  Oxford: Oxford University Press, 2003.
+
+==See also==
+*[[American philosophy]]
+*[[List of American philosophers]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+*Duncan-Jones, Austin. ''Butler's Moral Philosophy''. [[London]]: [[Penguin Books|Penguin]], [[1952 in literature|1952]].
+*Feinberg, Joel. "Psychological Egoism." In ''Reason & Responsibility: Readings in Some Basic Problems of Philosophy'', edited by Joel Feinberg and [[Russ Shafer-Landau]], 520-532. [[California]]: [[The Thomson Corporation|Thomson Wadsworth]], [[2008 in literature|2008]].
+*[[Lucius F. C. Garvin|Garvin, Lucius F. C.]] ''A Modern Introduction to Ethics''. [[Boston]]: [[Houghton Mifflin]], [[1953 in literature|1953]].
+
+==External links==
+*[http://works.bepress.com/bryan_druzin/6/ [http://works.bepress.com/bryan_druzin/6/ Bryan Druzin, and Jessica Li, The Criminalization of Lying: Under what Circumstances, if any, should Lies be made Criminal?, 101 JOURNAL OF CRIMINAL LAW AND CRIMINOLOGY (Northwestern University) (forthcoming 2011).]
+
+{{Animal rights|advocates}}
+{{jurisprudence}}
+{{authority control}}
+
+{{DEFAULTSORT:Feinberg, Joel}}
+[[Category:1926 births]]
+[[Category:2004 deaths]]
+[[Category:20th-century American philosophers]]
+[[Category:American animal rights scholars]]
+[[Category:American political philosophers]]
+[[Category:Brown University faculty]]
+[[Category:People from Detroit]]
+[[Category:American philosophers of law]]
+[[Category:Princeton University faculty]]
+[[Category:American social philosophers]]
+[[Category:University of Michigan alumni]]
+[[Category:University of Arizona faculty]]

@@ -1,0 +1,311 @@
+{{Short description|French writer and thinker}}
+{{Use dmy dates|date=April 2024}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[Contemporary philosophy]]
+|image            = Hélène Cixous par Claude Truong-Ngoc 2011.jpg
+|caption          = Hélène Cixous, Sept. 2011.
+|name             = Hélène Cixous
+|birth_date       = {{Birth date and age|df=yes|1937|6|5}}
+|birth_place      = [[Oran]], [[French Algeria]]
+|alma_mater       =
+|school_tradition = [[Continental philosophy]]<br>[[French feminism]]<ref>Kelly Ives, ''Cixous, Irigaray, Kristeva: The Jouissance of French Feminism'', Crescent Moon Publishing, 2016.</ref>
+|main_interests   = [[Literary criticism]]
+|notable_ideas    =
+|institutions     = [[University of Paris VIII]]<br>[[European Graduate School]]<br>[[Cornell University]]
+|influences       = [[Jacques Derrida]], [[Maurice Blanchot]], [[Sigmund Freud]], [[Jacques Lacan]]
+|influenced       = [[Avital Ronell]], [[Jacques Derrida]]
+|doctoral_students = [[Frédéric Regard]]
+}}
+{{Feminist philosophy sidebar}}
+'''Hélène Cixous''' ({{IPAc-en|s|ɪ|k|ˈ|s|uː}}; {{IPA|fr|siksu|lang}}; born 5 June 1937) is a French [[writer]], [[playwright]] and [[Literary criticism|literary critic]].<ref>{{cite encyclopedia|url=https://www.britannica.com/biography/Helene-Cixous |title=Hélène Cixous |encyclopedia=Encyclopædia Britannica |access-date=2018-11-02}}</ref> During her academic career, she was primarily associated with the Centre universitaire de Vincennes (today's [[University of Paris VIII]]), which she co-founded in 1969 and where she created the first centre of [[women's studies]] at a European university.<ref>{{cite web |url=http://www.arte.tv/guide/fr/059529-000-A/vincennes-l-universite-perdue |title=VINCENNES, L'UNIVERSITÉ PERDUE |access-date=2016-06-10 |url-status=dead |archive-url=https://web.archive.org/web/20160608050554/http://www.arte.tv/guide/fr/059529-000-A/vincennes-l-universite-perdue |archive-date=8 June 2016 |df=dmy-all }}</ref> Known for her experimental writing style and great versatility as a writer and thinker, she has written more than seventy books dealing with multiple [[literary genre|genres]]: theatre, literary and feminist theory, art criticism, autobiography and poetic fiction.<ref name=jwa />
+
+She first gained attention in 1969 with her first work of fiction, ''Dedans'' (''Inside''), a semi-autobiographical novel which won the [[Prix Médicis]] and explored the themes of identity, memory, death and writing. She is perhaps best known for her 1976 article "[[The Laugh of the Medusa]]",<ref name=Cixous>{{cite journal
+ | last1 = Cixous
+ | first1 = Hélène
+ | last2 = Cohen
+ | first2 = Keith
+ | last3 = Cohen
+ | first3 = Paula
+ | title = The Laugh of the Medusa
+ | journal = Signs
+ | volume = 1
+ | issue = 4
+ | pages = 875–893
+ | publisher = The University of Chicago Press
+ | year = 1976
+ | url = https://artandobjecthood.files.wordpress.com/2012/06/cixous_the_laugh_of_the_medusa.pdf
+ | doi=10.1086/493306
+ | s2cid = 144836586
+ }}</ref> which established her as one of the early thinkers in [[post-structural feminism]]. She has collaborated with several artists and directors, such as [[Adel Abdessemed]], [[Pierre Alechinsky]], [[Simone Benmussa]], [[Jacques Derrida]], [[Simon Hantaï]], [[Daniel Mesguich]] and [[Ariane Mnouchkine]]. She is considered a strong contender for the [[Nobel Prize in Literature]].<ref>{{cite web|url=https://forward.com/culture/477505/helene-cixous-jewish-nobel-prize-winner-bob-dylan-philip-roth-louise-gluck/%3famp=1|title=Will this woman be the next Jewish winner of the Nobel Prize for literature?|date=4 November 2021|website=forward.com|access-date=1 April 2023|author=Benjamin Ivry}}</ref><ref>{{cite magazine|url=https://newrepublic.com/article/167921/will-win-2022-nobel-prize-literature|title=Who Will Win the 2022 Nobel Prize in Literature?|date=3 October 2022|magazine=The New Republic|access-date=1 April 2023|author=Alex Shepherd}}</ref>
+
+==Life and career==
+
+=== Personal life ===
+Cixous was born in [[Oran]], [[French Algeria]], to Jewish parents, Eve Cixous, née Klein, (1910–2013) and Georges Cixous (1909–1948).<ref name=jwa>{{cite web|url=http://jwa.org/encyclopedia/article/cixous-helene |title=Hélène Cixous |publisher=Jewish Women's Archive |access-date=2014-01-17}}</ref> Georges Cixous, a physician who had written his dissertation on tuberculosis, died of the disease in 1948. Eve Cixous became a midwife in [[Algiers]] following his death, "until her expulsion with the last French doctors and midwives in 1971."<ref name=jwa /> Cixous' brother, Pierre, "a medical student and a supporter of [[Algerian independence]]" was condemned to death in 1961 by the [[Organisation armée secrète]], and joined Cixous in Bordeaux. Her mother and brother returned to Algeria following the country's independence in 1962. They were arrested, and Cixous "obtained their release with the help of [[Ahmed Ben Bella]]'s lawyer."<ref name=jwa />
+
+Cixous married Guy Berger in 1955, with whom she had three children, Anne-Emmanuelle (b. 1958), Stéphane (1960–1961), and Pierre-François (b. 1961). Cixous and Berger divorced in 1964.<ref name=jwa />
+
+=== Academic career ===
+Cixous earned her [[agrégation]] in English in 1959<ref name=PoetryFoundation>{{cite web | url = https://www.poetryfoundation.org/poets/helene-cixous | title = Hélène Cixous | publisher = Poetry Foundation | access-date = 2 November 2018 }}</ref> and her ''[[Doctorate|Doctorat ès lettres]]'' in 1968. Her main focus, at this time, was [[English literature]] and the works of [[James Joyce]]. Cixous became ''assistante'' at the [[University of Bordeaux]] in 1962, served as ''maître assistante'' at [[University of Paris|the Sorbonne]] from 1965 to 1967, and was appointed ''maître de conférence'' at [[Paris Nanterre University]] in 1967.<ref name=Conley >{{Citation  | last = Conley | first = Verena A. | editor-last = Sartori | editor-first = Eva M. | editor2-last = Zimmerman  | editor2-first = Dorothy W. | title = French Women Writers | publisher = University of Nebraska Press | series = Bison Book | date = 1 January 1994 | chapter = Hélène Cixous | pages = 66–77 | isbn = 978-0803292246 }}</ref>
+
+In 1968, following the [[May 1968 events in France|French student riots]], Cixous was charged with founding the [[University of Paris VIII]], "created to serve as an alternative to the traditional French academic environment."<ref name=Crockett>{{cite web  | url = https://lareviewofbooks.org/article/peaking-behind-the-curtains-of-adieux/#! | title = Peaking Behind the Curtains of Adieux | last = Crockett | first = Benjamin | date = 12 August 2015 | website = Los Angeles Review of Books | access-date = 2 November 2018 }}</ref> Cixous would, in 1974, found the University's centre for [[women's studies]], the first in Europe.<ref name=PoetryFoundation /> Cixous is a professor at the University of Paris VIII and at the [[European Graduate School]] in [[Saas-Fee]], [[Switzerland]].<ref>{{cite web  | url = http://egs.edu/faculty/helene-cixous | title = Hélène Cixous | publisher = The European Graduate School  | access-date = 2 November 2018 }}</ref>
+
+=== Publications ===
+In 1968, Cixous published her doctoral dissertation ''L'Exil de James Joyce ou l'Art du remplacement'' (''The Exile of James Joyce, or the Art of Displacement'') and the following year she published her first novel, ''Dedans'' (''Inside''), a semi-autobiographical work that won the [[Prix Médicis]].<ref name=PoetryFoundation />
+
+She has published widely, including twenty-three volumes of poems, six books of essays, five plays, and numerous influential articles. She published ''Voiles'' (''Veils'') with [[Jacques Derrida]] and her work is often considered [[Deconstruction|deconstructive]]. In introducing her Wellek Lecture, subsequently published as ''Three Steps on the Ladder of Writing'', Derrida referred to her as the greatest living writer in his language (French).<ref>{{cite book  | last = Cixous | first = Hélène | title = Three Steps on the Ladder of Writing | publisher = Columbia University Press | date = 15 April 1994 | location = New York City | isbn = 978-0231076593 }}</ref> Cixous wrote a book on Derrida titled ''Portrait de Jacques Derrida en jeune saint juif'' (''Portrait of Jacques Derrida as a Young Jewish Saint''). Her reading of Derrida finds additional layers of meaning at a [[Phoneme|phonemic]] rather than strictly [[Lexicon|lexical]] level.<ref>Not the same as [[pun]]s, which play on the varied means of a word or phrase or the [[homonym]]s thereof.</ref> In addition to Derrida and Joyce, she has written [[monograph]]s on the work of the Brazilian writer [[Clarice Lispector]], on [[Maurice Blanchot]], [[Franz Kafka]], [[Heinrich von Kleist]], [[Michel de Montaigne]], [[Ingeborg Bachmann]], [[Thomas Bernhard]], and the Russian poet [[Marina Tsvetaeva]]. Cixous is also the author of essays on artists, including [[Simon Hantaï]], [[Pierre Alechinsky]] and [[Adel Abdessemed]] to whom she has devoted two books.
+
+Along with [[Luce Irigaray]] and [[Julia Kristeva]], Cixous is considered one of the mothers of [[Post-structuralism|poststructuralist]] [[feminist theory]].<ref>{{cite news
+| title = How many of these great female thinkers have you heard of?
+| work = Daily Post (Liverpool)
+| page = 12
+| date = 11 December 2007
+}}</ref>
+In the 1970s, Cixous began writing about the relationship between [[human sexuality|sexuality]] and language. Like other poststructuralist feminist theorists, Cixous believes that our sexuality is directly tied to how we communicate in society. In 1975, Cixous published her most influential article "Le rire de la méduse" ("The Laugh of the Medusa"), which was revised by her, translated into English by Paula Cohen and Keith Cohen, and released in English in 1976.<ref name=Cixous /> She has published over 70 works; her fiction, dramatic writing, and poetry, however, are not often read in English.<!--Unencyclopedic?: The difficulty of translating her work may be minimally exemplified even by examining the title just discussed.-->
+
+=== Film ===
+Hélène Cixous is featured in [[Olivier Morel (filmmaker)|Olivier Morel]]'s 118-minute film ''[https://www.amazon.com/Ever-Reve-Shaghayegh-Beheshti/dp/B0CMCXCNRK Ever, Rêve, Hélène Cixous]'' (France, USA, 2018).<ref>{{Cite web|url=https://www.evercixousmovie.com/?lang=en|title=Evercixousmovie|date=2019|website=www.evercixousmovie.com|access-date=March 13, 2019}}</ref>
+
+===Accolades and awards===
+Cixous holds honorary degrees from [[Queen's University at Kingston|Queen's University]] and the [[University of Alberta]] in Canada; [[University College Dublin]] in Ireland; the [[University of York]] and [[University College London]] in the UK; and [[Georgetown University]], [[Northwestern University]], and the [[University of Wisconsin–Madison]] in the USA. In 2008 she was appointed as A.D. White Professor-at-Large at [[Cornell University]] until June 2014.<ref>{{cite news
+ | url = http://news.cornell.edu/stories/2008/08/three-named-ad-white-professors-large
+ | title = French writer, German scholar and British poet named A.D. White Professors-at-Large
+ | last = Aloi
+ | first = Daniel
+ | date = 13 August 2008
+ | newspaper = Cornell Chronicle
+ | access-date = 1 November 2008
+ }}</ref>
+
+==Influences on Cixous' writing==
+Some of the most notable influences on her writings have been [[Jacques Derrida]], [[Sigmund Freud]], [[Jacques Lacan]] and [[Arthur Rimbaud]]. <!--Unencyclopedic: In order to truly understand all the layers that exist within Cixous writings, we must understand the fundamental principles that she is drawing on, or more importantly attempting to destroy.-->
+
+===Sigmund Freud===
+[[Psychoanalysis|Psychoanalyst]] Sigmund Freud established the initial theories that would serve as a basis for some of Cixous' arguments in developmental psychology. Freud's analysis of gender roles and sexual identity concluded with separate paths for boys and girls through the Oedipus complex and Electra complex, theories of which Cixous was particularly critical.{{citation needed|date=December 2018}} She joined other scholars in positing [[The Freudian Coverup]].
+
+===Jacques Derrida===
+Contemporaries, lifelong friends, and intellectuals, [[Jacques Derrida]] and Cixous both grew up as French Jews in Algeria and share a "belonging constituted of exclusion and nonbelonging"—not Algerian, rejected by France, their Jewishness concealed or acculturated. In Derrida's family, "one never said 'circumcision' but 'baptism,' not 'Bar Mitzvah' but 'communion.'" Judaism cloaked in Catholicism is one example of the undecidability of identity that influenced the thinker whom Cixous calls a "Jewish Saint".<ref>{{Cite book |url=https://archive.org/details/portraitofjacque00cixo_0 |title=Portrait of Jacques Derrida as a Young Jewish Saint – Description of Cixous's ''Portrait of Jacques Derrida as a Young Jewish Saint'' |publisher=Columbia University Press |access-date=4 September 2014 |isbn=9780231128247 |date=February 2004 |last1=Cixous |first1=Hélène }}</ref> Her book ''Portrait of Jacques Derrida as a Young Jewish Saint'' addresses these matters.
+
+Through [[deconstruction]], Derrida employed the term ''[[logocentrism]]'' (which was not his coinage). This is the concept that explains how language relies on a [[Hierarchy|hierarchical]] system that values the spoken word over the written word in [[Western culture]]. The idea of [[binary opposition]] is essential to Cixous' position on language. <!--Explain: The binary oppositions must have a term with more value in culture than the other.-->
+
+Cixous and [[Luce Irigaray]] combined Derrida's logocentric idea and Lacan's symbol for desire, creating the term ''[[phallogocentrism]]''. This term focuses on Derrida's social structure of speech and binary opposition as the centre of reference for language, with the phallic being privileged and how women are only defined by what they lack; not A vs. B, but, rather A vs. ¬A ([[Negation|not]]-A).
+
+In a dialogue between Derrida and Cixous, Derrida said about Cixous: "Helene's texts are translated across the world, but they remain untranslatable. We are two French writers who cultivate a strange relationship, or a strangely familiar relationship with the French language – at once more translated and more untranslatable than many a French author. We are more rooted in the French language than those with ancestral roots in this culture and this land."<ref>{{cite journal | title = From the Word to Life: A Dialogue between Jacques Derrida and Hélène Cixous | journal = New Literary History: Hélène Cixous: When the Word is a Stag | date = Winter 2006 | first = Jacques | last = Derrida |author2=Hélène Cixous |author3=Aliette Armel |author4=Ashley Thompson | volume = 37 | issue = 1 | pages = 1–13 | jstor = 20057924 }}<!--| access-date = 8 May 2013--></ref>
+
+==Major works==
+===''The Laugh of the Medusa'' (1975)===
+{{main|The Laugh of the Medusa}}
+Cixous' critical feminist essay "The Laugh of the Medusa", originally written in French as ''Le Rire de la Méduse'' in 1975, was (after she revised it) translated into English by Paula Cohen and Keith Cohen in 1976.<ref name=Cixous /> It is considered a foundational essay, particularly because it announces what Cixous called ''[[écriture féminine]]'', a distinctive mode of writing by women and for women.<ref name="Le Rire de la Méduse">{{cite book |last1=Cixous |first1=Hélène |last2=trans. Cohen |first2=Keith and Paula |chapter=The Laugh of the Medusa |title=Signs |date=Summer 1976 |publisher=The University of Chicago Press |location=Chicago, IL |volume=1 No. 4 |issue=4 |pages=875–893 |jstor=3173239 |url=https://www.jstor.org/stable/3173239 }}</ref>
+
+==Bibliography==
+
+===Published in English===
+====Selected books====
+* {{cite book |translator-last1=Sally |translator-first1=A.J. |date=1972 |title=The Exile of James Joyce |publisher=New York:David Lewis; London:John Calder|isbn=978-0-912-01212-4|oclc=988992987}}
+* {{cite book |translator-last1=Liddel |translator-first1=Ann |translator-last2=Cornell |translator-first2=Sarah |date=1979 |title=To Live the Orange |publisher=Des Femmes |isbn=978-2-721-00158-0|oclc=461745151}}
+* {{cite book |translator-last1=Levy |translator-first1=Jo |date=1985 |title=Angst |publisher=London: Calder; New York: Riverrun|isbn=978-0-714-53905-8|oclc=993300655}}
+* {{cite book |translator-last1=Barko |translator-first1=Carol |date=1986 |title=Inside |location=New York |publisher=Schocken Books |isbn=978-0-805-24019-1 |oclc=13395846 |url=https://archive.org/details/inside00cixo_0 }}
+* {{cite book|translator-last1=Wing|translator-first1=Betsy|date=1986|title=The Newly Born Woman|location=Minneapolis|publisher=University of Minnesota Press|isbn=978-0-816-61466-0|oclc=949556909|url-access=registration|url=https://archive.org/details/newlybornwoman0000cixo}}
+* {{cite book |translator-last1=Birden |translator-first1=Loren |date=1988 |title=Neutre|publisher=M.A. Thesis, University of Massachusetts at Amherst|isbn=978-2-721-00476-5|oclc=246612241}}
+* {{cite book |translator-last1=Conley |translator-first1=Verna |date=1990 |title=Reading with Clarice Lispector (seminar 1980-1985)|location=London|publisher=Harvester Wheatsheaf|isbn=978-0-745-00915-5}}
+* {{cite book|translator-last1=Wing|translator-first1=Betsy|date=1991|title=The Book of Promethea|location=Lincoln|publisher=University of Nebraska Press|isbn=978-0-803-26343-7|oclc=317400193|url=https://archive.org/details/bookofprometheal00cixo}}
+* {{cite book |translator-last1=Cornell|translator-first1=Sarah |translator-last2=Jenson|translator-first2=Deborah |date=1991 |title='Coming to Writing' and Other Essays|location=Cambridge, MA|publisher=Harvard University Press|isbn=978-0-674-14436-1|oclc=805722597}}
+* {{cite book |translator-last1=Conley|translator-first1=Verena |date=1992 |title=Readings: the poetics of Blanchot, Joyce, Kafka, Lispector, Tsvetaeva (seminar 1982-1984)|location=London|publisher=Harvester Wheatsheaf|isbn=978-0-745-01149-3|oclc=916735267}}
+* {{cite book |translator-last1=Cornell|translator-first1=Sarah |translator-last2=Sellers|translator-first2=Susan|date=1993|title=Three Steps on the Ladder of Writing, The Welleck Library Lecture Series, University of California, Irvine (June 1990)|location=New York|publisher=Columbia University Press|isbn=978-023-1-07659-3|oclc=877287969}}
+* {{cite book|translator-last1=Flower MacCannell|translator-first1=Juliet|translator-last2=Pike|translator-first2=Judith|translator-last3=Groth|translator-first3=Lollie|date=1994|title=The Terrible but Unfinished Story of Norodom Sihanouk, King of Cambodia|location=Lincoln|publisher=University of Nebraska Press|isbn=978-0-803-26361-1|oclc=832510454|url-access=registration|url=https://archive.org/details/terriblebutunfin0000cixo}}
+* {{cite book|translator-last1=A.F.|translator-first1=Catherine|date=1994|title=Manna, for the Mandelstams for the Mandelas|location=Minneapolis|publisher=University of Minnesota Press|isbn=978-0-816-62114-9|oclc=476451353|url=https://archive.org/details/mannaformandelst00cixo}}
+* {{cite book |translator-last1=Sellers|translator-first1=Susan |date=1994|title=The Hélène Cixous Reader|location=London|publisher=Routledge|isbn=978-0-415-04929-0|oclc=777321141}}
+* {{cite book |translator-last1=Prenowitz|translator-first1=Eric |date=1997|title=Rootprints: Memory and Life Writing|location=London and New York|publisher=Routledge|isbn=978-0-203-44359-0|oclc=314390075}}
+* {{cite book |translator-last1=MacGillivray |translator-first1=Catherine A.F. |date=1998 |title=First Days of the Year |location=Minneapolis |publisher=University of Minneapolis Press |isbn=978-0-816-62117-0 |oclc=925291649}}
+* {{cite book |translator-last1=Cohen|translator-first1=Keith|date=1999|title=The Third Body|location=Evanston, Ill|publisher=Hydra Books/Northwestern University|isbn=978-0-810-11687-0|oclc=41119060}}
+* {{cite book |date=2002|title=Veils|location=Cambridge|publisher=Cambridge University Press|isbn=978-0-804-73795-1|oclc=48195251}} co-authored with Jacques Derrida.
+* {{cite book |date=2003|title=Selected Plays of Hélène Cixous|trans-title=in translation |location=New York, N.Y.|publisher=Routledge|isbn=978-0-415-23668-3|oclc=1004589125}}
+* {{cite book |translator-last1=Brahic|translator-first1=Beverley Bie|date=2004|title=Portrait of Jacques Derrida as a Young Jewish Saint|url=https://archive.org/details/portraitofjacque00cixo_0|url-access=registration|location=New York|publisher=Columbia University Press|isbn=978-0-231-12825-4|oclc=52623579}}
+* {{cite book |translator-last1=Sellers|translator-first1=Susan|date=2004|title=The writing notebooks of Hélène Cixous|location=New York|publisher=Continuum|isbn=978-1-441-18494-8|oclc=978530581}}
+* {{cite book |date=2005|title=Stigmata: Escaping Texts|location=London|publisher=Routledge|isbn=978-0-203-02366-2|oclc=826516507}} Foreword by Jacques Derrida.
+* {{cite book |date=2005|title=Vera's Room: The Art of Maria Chevska|location=London|publisher=Black Dog|oclc=645932288}}
+* {{cite book |translator-last1=Brahic|translator-first1=Beverley Bie|date=2006|title=Dream I Tell You|location=Edinburgh|publisher=Edinburgh University Press|isbn=978-0-748-62132-3|oclc=474721880}}
+* {{cite book |translator-last1=Bie Brahic|translator-first1=Beverley|date=2006|title=Reveries of the Wild Woman: Primal Scenes|location=Evanston, Ill|publisher=Northwestern University Press|isbn=978-0-810-12363-2|oclc=62857806}}
+* {{cite book |translator-last1=Pignon-Ernest|date=2007|title=Insister of Jacques Derrida|location=Edinburgh|publisher=Edinburgh University Press|oclc=929635178}}
+* {{cite book |translator-last1=Brahic|translator-first1=Beverly Bie|date=2007|title=Manhattan: letters from prehistory|trans-title=Manhattan: lettres de la prehistorie|location=New York|publisher=Fordham University Press|isbn=978-0-823-22775-4|oclc=740804455}}
+* {{cite book |translator-last1=Kaufman|translator-first1=Peggy |date=2008|title=Love Itself: In the Letter Box|location=Cambridge|publisher=Polity Press|isbn=978-0-745-63989-5|oclc=530404932}}
+* {{cite book |translator-last1=Brahic|translator-first1=Beverley Bie|date=2009|title=Hyperdream|location=Cambridge, UK; Malden, MA|publisher=Polity|isbn=978-0-745-64300-7|oclc=488268287}}
+* {{cite book |date=2009|title=So Close|location=Cambridge|publisher=Polity Press|isbn=978-0-745-64435-6|oclc=759676449}}
+* {{cite book |translator-last1=Milesi|translator-first1=Laurent|date=2010|title=Zero's Neighbor:Sam Beckett|location=Cambridge, UK|publisher=Polity|isbn=978-0-745-64416-5}}
+* {{cite book |translator-last1=Milesi|translator-first1=Laurent|date=2011|title=Philippines|location=Cambridge|publisher=Polity|isbn=978-0-745-64815-6|oclc=972865912}}
+* {{cite book |translator-last1=Brahic|translator-first1=Beverley Bie|date=2011|title=Hemlock: old women in bloom|location=Cambridge, UK; Malden, MA|publisher=Polity|oclc=851339267}}
+* {{cite book |translator-last1=Sellers|translator-first1=Susan|date=2014|title=White Ink: Interviews on Sex, Text and Politics|location=Hoboken|publisher=Taylor and Francis|isbn=978-1-317-49274-0|oclc=898104202}}
+* {{cite book |date=2016|title=Death shall be dethroned: Los, a chapter, the journal|location=Cambridge|publisher=Polity Press|isbn=978-1-509-50065-9|oclc=944312591}}
+* ''Well-Kept Ruins''. Translation by Beverley Bie Brahic, Seagull Books, 2022 ISBN 9781 80309 059 7
+* {{cite book |translator-last1=Bie Brahic |translator-first1=Beverley |date=2024 |title=Rêvoir |location=Kolkata |publisher=Seagull Books |isbn=978-1-803-09387-1}}
+
+====Plays====
+* "The Conquest of the School at Madhubai," trans. Carpenter, Deborah. 1986.
+* "The Name of Oedipus," trans. Christiane Makward & Miller, Judith. In: ''Out of Bounds: Women's Theatre in French.'' Ann Arbor: University of Michigan Press.  1992.
+* "The Terrible but Unfinished Story of Norodom Sihanouk, King of Cambodia," trans. Juliet Flower MacCannell, Judith Pike, and Lollie Groth. University of Nebraska Press, 1994.
+
+===Published in French===
+====Criticism====
+* ''L'Exil de James Joyce ou l'Art du remplacement'' (The Exile of James Joyce, or the Art of Displacement). 1969 (1985).
+* {{cite book |date=1974 |title=Prénoms du personne |publisher=Seuil }}
+* {{cite book |date=1974 |title=Un K. incompréhensible: Pierre Goldman|publisher=Christian Bourgois }}
+* {{cite book |date=1974 |title=La jeune née|publisher=U.G.E. Collection 10/18 }}
+* {{cite book |date=1977 |title=La venue à l'écriture|publisher=U.G.E. Collection 10/18}}
+* {{cite book |date=1986 |title=Entre l'écriture|publisher=Des femmes}}
+* {{cite book |date=1989 |title=L'heure de Clarice Lispector, précédé de Vivre l'Orange |publisher=Des femmes}}
+* {{cite book |date=1994 |title=Hélène Cixous, Photos de Racines|publisher=Des femmes}}
+* {{cite book |date=2001 |title=Portrait de Jacques Derrida en jeune saint juif|trans-title=Portrait of Jacques Derrida as a Young Jewish Saint |location=Paris |publisher=Galilée|isbn=978-2-718-60556-2}}
+
+====Books====
+* {{cite book |date=1967 |title=Le Prénom de Dieu |publisher=Bernard Grasset }}
+* {{cite book |date=1969 |title=Dedans |location=Paris |publisher=Grasset |isbn= 978-2-721-00298-3}}
+* {{cite book |date=1970 |title=Le Troisième Corps |publisher=Grasset |isbn=978-2-721-00479-6}}
+* {{cite book |date=1970 |title=Les Commencements |publisher=Grasset |isbn=978-2-721-00481-9}}
+* {{cite book |date=1971 |title=Un vrai jardin |publisher=L'Herne |isbn=978-2-721-00473-4}}
+* {{cite book |date=1972 |title=Neutre |publisher=Grasset |isbn=978-2-721-00476-5}}
+* {{cite book |date=1973 |title=Tombe |publisher=Le Seuil }}
+* {{cite book |date=1973 |title=Portrait du Soleil |publisher=Denoël|isbn=978-2-020-96635-1}}
+* {{cite book |date=1975 |title=Révolutions pour plus d'un Faust |publisher=Le Seuil}}
+* {{cite book |date=1975 |title=Souffles |publisher=Des femmes|isbn=978-2-721-00029-3}}
+* {{cite book |date=1976 |title=La |publisher=Gallimard}}
+* {{cite book |date=1976 |title=Partie |publisher=Des femmes|isbn=978-2-721-00051-4}}
+* {{cite book |date=1977 |title=Angst |publisher=Des femmes|isbn=978-0-714-53905-8}}
+* {{cite book |date=1978 |title=Préparatifs de noces au-delà de l'abîme |publisher=Des femmes|isbn=978-2-721-00117-7}}
+* {{cite book |date=1979 |title=Vivre l'orange |trans-title=To live the orange |publisher=Des femmes|isbn=978-2-721-00158-0}}
+* {{cite book |date=1979 |title=Ananké |publisher=Des femmes|isbn=978-2-721-00157-3}}
+* {{cite book |date=1980 |title=Illa |url=https://archive.org/details/illa0000cixo|url-access=registration|publisher=Des femmes|isbn=978-2-721-00180-1}}
+* {{cite book |date=1981 |title=With ou l'Art de l'innocence |publisher=Des femmes|isbn=978-2-721-002136-}}
+* {{cite book |date=1982 |title=Limonade tout était si infini |publisher=Des femmes |isbn=978-2-721-00230-3 |url=https://archive.org/details/limonadetoutetai0000cixo }}
+* {{cite book |date=1983 |title=Le Livre de Promethea |trans-title=The Book of Promethea |location=Paris |publisher=Gallimard|isbn=978-2-070-70010-3}}.
+* {{cite book |date=1986 |title=La Bataille d'Arcachon: un conte |location=Québec |publisher=Laval: Éd. Trois |isbn=978-2-980-05352-8 |url=https://archive.org/details/labatailledarcac0000cixo }}
+* {{cite book |date=1988|title=Manne|publisher=Des femmes|isbn=978-2-721-00369-0}}
+* {{cite book |date=1990 |title=Jours de l'an |trans-title=First days of the year |publisher=Des Femmes |isbn=978-2-721-00394-2 |url=https://archive.org/details/joursdelan0000cixo }}
+* {{cite book |date=1991 |title=L'Ange au secret|publisher=Des femmes|isbn=978-2-721-00412-3}}
+* {{cite book |date=1992 |title=Déluge|publisher=Des femmes|isbn=978-2-721-00431-4}}
+* {{cite book |date=1993 |title=Beethoven à jamais, ou l'éxistence de Dieu'|publisher=Des femmes|isbn=978-2-721-00446-8}}
+* {{cite book |date=1995 |title=La Fiancée Juive: de la tentation|publisher=Des femmes|isbn=978-2-721-004581-}}
+* {{cite book |date=1997 |title=Or: Les lettres de mon père|publisher=Des femmes|isbn=978-2-721-00466-6}}
+* {{cite book |date=1998 |title=Voiles (with Jacques Derrida)|publisher=Des femmes|isbn=978-2-718-60504-3}}
+* {{cite book |date=1999 |title=Osnabrück|publisher=Des femmes|isbn=978-2-721-00477-2}}
+* {{cite book |date=2000 |title=Les Rêveries de la femme sauvage. Scènes primitives|publisher=Galilée}}
+* {{cite book |date=2000 |title=Le Jour où je n'étais pas là|publisher=Galilée}}
+* {{cite book |date=2001 |title=Benjamin à Montaigne. Il ne faut pas le dire|publisher=Galilée}}
+* {{cite book |date=2002 |title=Manhattan. Lettres de la préhistoire|publisher=Galilée}}
+* {{cite book |date=2003 |title=Rêve je te dis|publisher=Galilée}}
+* {{cite book |date=2003 |title=L'Amour du loup et autres remords|publisher=Galilée}}
+* {{cite book |date=2004 |title=Tours promises|publisher=Galilée}}
+* {{cite book |date=2005 |title=L'amour même dans la boîte aux lettres|publisher=Galilée}}
+* {{cite book |date=2006 |title=Hyperrêve|publisher=Galilée}}
+* {{cite book |date=2007 |title=Si près|publisher=Galilée}}
+* {{cite book |date=2008 |title=Cigüe: vieilles femmes en fleurs|publisher=Galilée}}
+* {{cite book |date=2009 |title=Philippines: prédelles|publisher=Galilée}}
+* {{cite book |date=2009 |title=Ève s'évade: la ruine et la vie|publisher=Galilée}}
+* {{cite book |translator-last1=Garnier |translator-first1=Lucy |translator-last2=Dow |translator-first2=Suzanne |date=2010 |title=Double Oubli de l'Orang-Outang |trans-title=Double Oblivion of the Ourang-Outang |publisher=Galilée}}
+* ''Ruines bien rangées'' published by [[Éditions Gallimard]], 2020
+* {{cite book |date=2021 |title=Rêvoir |publisher=[[Éditions Gallimard| Gallimard]] |isbn=978-2-072-95233-3}}
+
+====Theatre====
+* ''La Pupulle'', Cahiers Renaud-Barrault, [[Éditions Gallimard|Gallimard]], 1971.
+* ''Portrait de Dora'', Des femmes, 1976.
+* ''Le Nom d'Oedipe. Chant du corps interdit'', Des femmes, 1978.
+* ''La Prise de l'école de Madhubaï'', Avant-scène du Théâtre, 1984.
+* ''L'Histoire terrible mais inachevée de Norodom Sihanouk, roi du Cambodge'', [[Théâtre du Soleil]], 1985.
+* ''Théâtre'', Des femmes, 1986.
+* ''L'Indiade, ou l'Inde de leurs rêves'', Théâtre du Soleil, 1987.
+* ''On ne part pas, on ne revient pas'', Des femmes, 1991.
+* ''Les Euménides d'Eschyle'' (traduction), Théâtre du Soleil, 1992.
+* ''L'Histoire (qu'on ne connaîtra jamais)'', Des femmes, 1994.
+* "''Voile Noire Voile Blanche'' / Black Sail White Sail", bilingual, trad. Catherine A.F. MacGillivray, New Literary History 25, 2 (Spring), Minnesota University Press, 1994.
+* ''La Ville parjure ou le Réveil des Érinyes'', Théâtre du Soleil, 1994.
+* ''Jokasta'', libretto to the opera of Ruth Schönthal, 1997.
+* ''Tambours sur la digue'', Théâtre du Soleil, 1999.
+* ''Rouen, la Trentième Nuit de Mai '31'', Galilée, 2001.
+* ''Le Dernier Caravansérail'', Théâtre du Soleil, 2003.
+* ''Les Naufragés du Fol Espoir'', Théâtre du Soleil, 2010.
+
+====Selected essays====
+* ''L'Exil de James Joyce ou l'Art du remplacement'' (doctoral thesis), Grasset, 1969.
+* ''Prénoms de personne'', Le Seuil, 1974.
+* ''The Exile of James Joyce or the Art of Replacement'' (translation by [[Sally Purcell]] of ''L'exil de James Joyce ou l'Art du remplacement''). New York: David Lewis, 1980.
+* ''Un K. Incompréhensible : Pierre Goldman'', Christian Bourgois, 1975.
+* ''La Jeune Née'', with Catherine Clément, 10/18, 1975.
+* ''La Venue à l'écriture'', with [[Madeleine Gagnon]] and Annie Leclerc, 10/18, 1977.
+* ''Entre l'écriture'', Des femmes, 1986.
+* ''L'Heure de Clarice Lispector'', Des femmes, 1989.
+* ''Photos de racines'', with Mireille Calle-Gruber, Des femmes, 1994.
+* ''Lettre à Zohra Drif'', 1998
+* ''Portrait de Jacques Derrida en Jeune Saint Juif'', Galilée, 2001.
+* ''Rencontre terrestre'', with Frédéric-Yves Jeannet, Galilée, 2005.
+* ''Le Tablier de Simon Hantaï'', 2005.
+* ''Insister''. À Jacques Derrida, Galilée, 2006.
+* ''Le Voisin de zéro : Sam Beckett'', Galilée, 2007
+* ''Défions l'augure'' (on the quote 'we defy augury' from [[Hamlet]]), Galilée, 2018
+
+==See also==
+* [[Antinarcissism]]
+* [[List of deconstructionists]]
+* [[Jean-Louis de Rambures]], "Comment travaillent les écrivains", Paris 1978 (interview with H. Cixous)
+* [[Phallic monism]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite book | last1 = Blyth | first1 = Ian | last2 = Sellars | first2 = Susan | title = Hélène Cixous : live theory | publisher = Continuum | location = New York London | year = 2004 | isbn = 9780826466808 }}
+* {{cite book | last = Conley | first = Verena Andermatt | title = Hélène Cixous: writing the feminine | publisher = University of Nebraska Press | location = Lincoln | year = 1984 | isbn = 9780803214248 }}
+* {{Cite journal | last1 = Dawson | first1 = Mark | last2 = Hanrahan | first2 = Mairéad | last3 = Prenowitz | first3 = Eric | title = Cixous, Derrida, Psychoanalysis | journal = Paragraph | volume = 36 | issue = 2 | pages = 155–160 | doi = 10.3366/para.2013.0085 | date = July 2013 }}
+* {{cite book | last1 = Garnier | first1 = Marie-Dominique | last2 = Masó | first2 = Joana | title = Cixous sous X: d'un coup le nom | publisher = Presses universitaires de Vincennes | location = Saint-Denis | year = 2010 | isbn = 9782842922405 }}
+* {{cite book | last = Ives | first = Kelly | title = Cixous, Irigaray, Kristeva: the Jouissance of French feminism | publisher = Crescent Moon | location = Kidderminster | year = 1996 | isbn = 9781871846881 }}
+* {{cite book | last = Penrod | first = Lynn | title = Hélène Cixous | publisher = Twayne Publishers | location = New York | year = 1996 | isbn = 9780805782844 | url = https://archive.org/details/helenecixous00penr }}
+* {{cite book | last = Puri | first = Tara | contribution = Cixous and the play of language | editor-last1 = Dillet | editor-first1 = Benoît | editor-last2 = Mackenzie | editor-first2 = Iain M. | editor-last3 = Porter | editor-first3 = Robert | title = The Edinburgh companion to poststructuralism | pages = 270–290 | publisher = Edinburgh University Press | location = Edinburgh | year = 2013 | isbn = 9780748653713 }}
+* {{cite book | last1 = Williams | first1 = Linda R. | last2 = Wilcox | first2 = Helen | last3 = McWatters | first3 = Keith | last4 = Ann | first4 = Thompson | author-link1 = Linda Ruth Williams | title = The body and the text: Hélène Cixous: reading and teaching | publisher = St. Martin's Press | location = New York | year = 1990 | isbn = 9780312057695 }}
+* {{cite book | last = Wortmann | first = Simon | title = The concept of ecriture feminine in Helene Cixous's "The laugh of the Medusa | publisher = GRIN Verlag GmbH | location = Munich | year = 2012 | isbn = 9783656409229 }}
+
+==External links==
+* [https://artandobjecthood.files.wordpress.com/2012/06/cixous_the_laugh_of_the_medusa.pdf "The Laugh of the Medusa", by Hélène Cixous, translated into English by Keith Cohen and Paula Cohen]
+* {{YouTube|8k91WwJIhl8|Avital Ronell, Judith Butler, Hélène Cixous}} approach the notion of affinity through a discussion of "Disruptive Kinship," co-sponsored by Villa Gillet and the School of Writing at The New School for Public Engagement.
+* [https://web.archive.org/web/20040409090818/http://www.engl.niu.edu/wac/cixous_intro.html Julie Jaskin: ''An introduction to Cixous'']
+* [http://prelectur.stanford.edu/lecturers/cixous/ Mary Jane Parrine: Stanford Presidential Lectures' Cixous page]
+* [http://jwa.org/encyclopedia/article/cixous-helene Carola Hilfrich: Hélène Cixous Biography at ''Jewish Women: A Comprehensive Historical Encyclopedia'']
+* [http://prelectur.stanford.edu/lecturers/cixous/conley.html Stanford Presidential Lectures and Symposia in the Humanities and Arts]
+
+{{Feminist theory}}
+{{Prix Médicis}}
+{{Authority control}}
+
+<!--As per the BLP rules, please leave off LGBT categories unless she publicly self-identifies as such, and it is relevant to her public life, and there is a citation.-->
+
+{{DEFAULTSORT:Cixous, Helene}}
+[[Category:1937 births]]
+[[Category:Living people]]
+[[Category:People from Oran]]
+[[Category:Cornell University faculty]]
+[[Category:Academic staff of the University of Paris]]
+[[Category:Academic staff of European Graduate School]]
+[[Category:French literary critics]]
+[[Category:Women literary critics]]
+[[Category:French literary theorists]]
+[[Category:French feminists]]
+[[Category:20th-century French Jews]]
+[[Category:Jewish feminists]]
+[[Category:Jewish philosophers]]
+[[Category:Jewish women writers]]
+[[Category:Philosophers of sexuality]]
+[[Category:Postmodern feminists]]
+[[Category:Feminist studies scholars]]
+[[Category:Rhetoricians]]
+[[Category:Deconstruction]]
+[[Category:Women philosophers]]
+[[Category:French women philosophers]]
+[[Category:Poststructuralists]]
+[[Category:20th-century French philosophers]]
+[[Category:21st-century French philosophers]]
+[[Category:20th-century French women writers]]
+[[Category:21st-century French women writers]]
+[[Category:Prix Médicis winners]]
+[[Category:Feminist theorists]]
+[[Category:20th-century Algerian women writers]]
+[[Category:Algerian writers]]
+[[Category:Commandeurs of the Ordre des Arts et des Lettres]]
+[[Category:French women novelists]]

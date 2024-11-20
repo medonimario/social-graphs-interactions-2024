@@ -1,0 +1,390 @@
+{{short description|Swiss psychiatrist}}
+{{Infobox scientist
+| name              = Ludwig Binswanger
+| image             = Kirchner - Dr Ludwig Binswanger.jpg
+| image_size        =
+| caption           = Portrait of Dr. Ludwig Binswanger by [[Ernst Ludwig Kirchner]]
+| birth_date        = 13 April 1881
+| birth_place       = [[Kreuzlingen]], Switzerland
+| death_date        = {{death-date and age|5 February 1966|13 April 1881}}
+| death_place       = Kreuzlingen, Switzerland
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| ethnicity         = 
+| field             = [[Psychiatry]]
+| work_institutions = 
+| alma_mater        = 
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = [[Daseinsanalysis]]
+| prizes            = 
+| religion          = 
+| footnotes         = 
+| signature         =  
+}}
+
+'''Ludwig Binswanger''' ({{IPAc-en|ˈ|b|ɪ|n|z|w|æ|ŋ|ər}}; {{IPA|de|ˈbɪnsvaŋɐ|lang}}; 13 April 1881 &ndash; 5 February 1966) was a [[Swiss people|Swiss]] [[psychiatrist]] and pioneer in the field of [[existential psychology]]. His parents were Robert Johann Binswanger (1850–1910) and Bertha Hasenclever (1847–1896). Robert's [[German-Jewish]]<ref>Klaus Hoffmann, "The Burghölzli School: Bleuler, Jung, Spielrein, Binswanger and others" in Yrjö O. Alanen, Manuel González de Chávez, Ann-Louise S. Silver, Brian Martindale (ed.), ''Psychotherapeutic Approaches to Schizophrenic Psychoses: Past, Present and Future'', Routledge (2009), p. 44</ref> father Ludwig "Elieser" Binswanger (1820–1880) was founder, in 1857, of the Bellevue Sanatorium in [[Kreuzlingen]]. Robert's brother [[Otto Binswanger]] (1852–1929) was a professor of [[psychiatry]] at the [[University of Jena]].
+
+Ludwig Binswanger is the most prominent [[Phenomenological psychology|phenomenological psychologist]] and the most influential in making the concepts of existential psychology known in [[Europe]] and the [[United States]].<ref>Todd May, 'Foucault's Relation to Phenomenology', in Gary Gutting ed., ''The Cambridge Companion to Foucault'' (2007) p. 287</ref>
+
+==Life and career==
+In 1907 Binswanger received his medical degree from the [[University of Zurich]]. As a young man he worked and studied with some of the greatest psychiatrists of the era, such as [[Carl Jung]], [[Eugen Bleuler]] and [[Sigmund Freud]]. He visited Freud (who had cited his uncle Otto's work on [[neurasthenia]])<ref>Sigmund Freud, ''Civilization, Society and Religion'' (PFL 12) p. 36</ref> in 1907 alongside Jung, approvingly noting his host's "distaste for all formality and etiquette, his personal charm, his simplicity, casual openness and goodness".<ref>Quoted in Peter Gay, ''Freud: A Life for Our Time'' (1988) p. 203</ref> The two men became lifelong friends, Freud finding Binswanger's 1912 illness "particularly painful", and Binswanger offering Freud a refuge in [[Switzerland]] in 1938.<ref>Gay, p. 229 and p. 789</ref>
+
+Binswanger became a member of the early 'Freud Group' Jung led in Switzerland;<ref>Ernest Jones, ''The Life and Work of Sigmund Freud'' (1961) p. 331</ref> but nevertheless wrestled throughout his life over the place of psychoanalysis in his thinking<ref>Gay, p. 242–243</ref> – his 1921 article on ''Psychoanalysis and clinical Psychiatry''<ref>Otto Fenichel, ''The Psychoanalytic Theory of Neorosis'' (London 1946) p. 416 and p. 598</ref> being only one landmark of that lifelong struggle.<ref>Herbert Spiegelberg, ''Phenomenology in Psychology and Psychiatry'' (1972) p. 197</ref>
+
+Binswanger was also influenced by [[Existentialism|existential]] [[philosophy]], particularly after World War I,<ref>Spiegelberg, p. 198–202</ref> through the works of [[Martin Heidegger]], [[Edmund Husserl]], and [[Martin Buber]], eventually evolving his own distinctive brand of existential-phenomenological psychology.
+
+From 1911 to 1956, Binswanger was medical director of the sanatorium in Kreuzlingen.
+
+==Thinking and influence==
+Binswanger is considered the first physician to combine [[psychotherapy]] with existential and phenomenological ideas, a concept he expounds in his 1942 book; ''Grundformen und Erkenntnis menschlichen [[Dasein]]s'' (''Basic Forms and Knowledge of Human Existence''). In this work, he explains existential analysis as an empirical science that involves an [[anthropological]] approach to the individual essential character of being human.<ref>[http://www.answers.com/topic/binswanger-ludwig Answers.com] Ludwig Binswanger</ref>
+
+Binswanger saw Husserl's concept of [[lifeworld]] as a key to understanding the subjective experiences of his patients, considering that "in the mental diseases we face modifications of the fundamental structure and of the structural links of being-in-the-world".<ref>Quoted by May, p. 288</ref> For Binswanger, mental illness involved the remaking of a world - including alterations in the lived experience of time, space, body sense and social relationships.<ref>May, p. 295</ref> Where for example the psychoanalyst might only see "an overly strong 'pre-[[Oedipus complex|oedipal]]' tie to the mother", Binswanger would point out that "such overly strong filial tie is only possible on the premise of a world-design exclusively based on connectedness, cohesiveness, continuity".<ref>Quoted by May, p. 289</ref>
+
+Binswanger's ''Dream and Existence'' — which was translated from German into French by [[Michel Foucault]] who added a substantial essay-introduction — highlighted in similar fashion the necessity of "steeping oneself in the [[Content (Freudian dream analysis)|manifest content of the dream]] - which, since Freud's epoch-making postulate concerning the reconstruction of latent thoughts, has in modern times receded all to[o] far into the background".<ref>Quoted in May, p. 289</ref> [[Eugène Minkowski]] had earlier introduced Binswanger's ideas into France, influencing thereby among others the early work of [[Jacques Lacan]].<ref>Elisabeth Roudinesco, ''Jacques Lacan'' (2005) p. 45</ref>
+
+In his study of existentialism, his most famous subject was [[Ellen West]], a deeply troubled patient whose case-study was translated into English for the 1958 volume ''Existence''.<ref>Eugene Taylor, ''The Mysteries of Personality'' (2009) p. 81</ref> Binswanger ascribed [[schizophrenia]] to her, and her case is included in his 1957 book ''Schizophrenie''. But few contemporary psychiatrists would accept this diagnosis. [[Anorexia nervosa]] is also misplaced. She felt an extreme urge for weight loss.
+
+Through his adoption from Buber of the importance of the concept of dialogue, Binswanger can also be seen as an ancestor to [[Intersubjectivity|intersubjective]] approaches to therapy.<ref>Donna M. Orange, ''Thinking for Clinicians'' (nd) p. 3</ref> Binswanger emphasised the importance of mutual recognition, as opposed to the [[counterdependency]] of destructive [[narcissism]], as described by [[Herbert Rosenfeld]] for example.<ref>[http://www.isps-us.org/koehler/binswanger.htm Brian Koehler, 'Ludwig Binswanger: Contributions to an Intersubjective Approach to Psychosis'] {{webarchive|url=https://web.archive.org/web/20060420165347/http://www.isps-us.org/koehler/binswanger.htm |date=2006-04-20 }}</ref>
+
+== Binswanger on existence ==
+Ludwig Binswanger contributed much to the idea of existence in the school of [[existential psychology]]. He believed that human existence was complex in that one has control over how one exists. He described humans as having the choice of "being a hunter, of being romantic, of being in business, and thus (we are) free to design (ourselves) toward the most different potentialities of being." He held that such an existence "transcends the being," making the being accessible to itself in numerous different outcomes in life based on the existential path one chooses.<ref name= May1958>{{cite book|last=May|first=Rollo|title=Existence|year=1958|publisher=The Rowman and Littlefield Publishing Group, Inc.|location=Oxford|pages=191–213}}</ref> Binswanger also thought that it is only possible to observe one's existence and/or unique personality by looking at it [[Holism|holistically]], emphasized in this quote from Binswanger:
+
+<blockquote>
+"''It is a question of attempting to understand and to explain the human being in the totality of his/her existence. But that is possible only from the perspective of our total existence: in other words, only when we reflect on and articulate our total existence, the "essence" and "form" of being human.''"<ref name= Frie1997>{{cite book|last=Frie|first=Roger|title=Subjectivity and Intersubjectivity in Modern Philosophy and Psychoanalysis|url=https://books.google.com/books?id=6GhDDaUOqisC&q=Frie,+Roger+(1997).+Subjectivity+and+Intersubjectivity+in+Modern+Philosophy+and+Psychoanalysis.+Lanham,+Maryland:+Rowman+and+Littlefield+Publishers|year=1997|publisher=Rowman and Littlefield Publishers, Inc.|location=Lanhman, Maryland|pages=22–23|access-date=10 December 2014|isbn=9780847684168}}</ref>
+</blockquote>.
+
+=== Modes of existence ===
+Binswanger argued that there are certain modes of existence. These modes of existence, he believed, allow humans and non-human animals to be separated based on this concept. These modes include:
+ 
+* the ''Umwelt'' (the "around world")
+* the ''Mitwelt'' (the "with world")
+* the ''Eigenwelt'' (the "own world")<ref>{{cite book|last=Hergenhahn|first=B. R.|title=An Introduction to the History of Psychology|year=2009|publisher=Cengage Learning|location=Belmont, CA|pages=575–576}}</ref>
+
+The ''Umwelt'' can apply to both non-human animals and humans. It is the relationship between the organism and its environment. However, according to Binswanger, non-human animal cannot possess the world as humans do. Non-human animals "can neither design world nor open up world nor decide independently in and for a situation". As for humans, they do possess the world in the way that they can transcend their being above the level of non-human animals by "climbing above it (the world) in care and of swinging beyond it in love."<ref name=May1958 />
+
+The ''Mitwelt'' refers to the mode of existence involved in inter-species relations and applies mainly to humans in the sense of human interaction. It also refers to the "shared world" that we have with other people, i.e., viewing our lives according to our relationships with other humans.<ref>{{cite journal|last=Lindemann|first=Gesa|author2=Millay Hyatt |title=The Lived Human Body from the Perspective of the Shared World (Mitwelt)|journal=The Journal of Speculative Psychology|year=2010|volume=24|issue=3|pages=275–291|doi=10.1353/jsp.2010.0012|s2cid=143450599}}</ref>
+
+The ''Eigenwelt'' refers to a person's own subjective experience, or the "self world." In other words, it is the relationship that one has with oneself. This mode of existence is the most difficult to grasp because of its vague definition.<ref>{{cite web|last=de Avila|first=Diana Teresa|title=Existential Psychology, Logotherapy & the Will to Meaning|url=http://www.dotcomtoo.com/exist.html|access-date=10 December 2014|url-status=dead|archive-url=https://web.archive.org/web/20120925064235/http://www.dotcomtoo.com/exist.html|archive-date=25 September 2012}}</ref>
+
+Binswanger believed that to fully understand a person, the specificities of all three modes of existence must be taken into account.<ref name= Frie1997 />
+
+=== Weltanschauung ===
+[[Weltanschauung]] (world-view) also applies to one's existence. Individuals experience the world through their own ''Weltanschauung'', or world-view. A person's world-view is essentially how they see and open up to the surrounding world. This concept also is related to the modes of existence, as Binswanger points out:
+
+<blockquote>
+"''The world-view''"..."''is by no means confined to the environment of the world of things, nor to the universe in general, but refers equally to the world of one's fellow men (''Mitwelt'') and to the self world (''Eigenwelt'')".<ref name= May1958 />
+</blockquote>
+
+=== Being-in-the world vs. being-beyond-the-world ===
+Two other concepts structure Binswanger's view on existence, relating to the relationship between humans and the world or objects around them. ''Being-in-the-world'' is "the normal and lawful interaction with the real-world environment that is considered primary to our way of existing in the world". It explains how we interact with our environment and the impact of that relationship. When "being-in-the-world," there are three general steps of assessment:
+
+# Identify the situation in reference to known objects and their properties.
+# Assign general rules to that situation according to those objects and properties.
+# Use logical rules in the situation and draw conclusions as to what must be done.<ref>{{cite journal|last=Zahorik|first=Pavel|author2=Rick L. Jenison |title=Presence as Being-in-the-World|journal=Presence|year=1998|volume=7|issue=1|pages=78–89|doi=10.1162/105474698565541|s2cid=12150291}}</ref>
+
+''Being-beyond-the-world'' is the second concept and refers to how people can change their circumstances in the world by using free will. Similar to the concept of ''being-in-the-world'', people are transcended and able to transform their world following their own motivations. Binswanger relates this idea to love, believing that, "it (love) takes us beyond the world of one's own self to the world of we-hood".<ref>{{cite journal|last=Popovic|first=Nash|title=Existential Anxiety and Existential Joy|journal=Practical Philosophy|date=Autumn 2002|page=36}}</ref>
+
+==Criticism==
+[[R. D. Laing]] criticised Binswanger's phenomenology of space for insufficiently realizing the extent to which one's sense of space is structured by ''others''.<ref>R. D. Laing, ''Self and Others''(1969) p. 135</ref>
+
+[[Fritz Perls]] criticized Binswanger's existential therapy for leaning too heavily upon psychoanalysis.<ref>Fritz Perls, ''Gestalt Therapy Verbatim'' (1972) p. 16-17</ref>
+
+== Works ==
+* 1907: ''Über das Verhalten des psychogalvanischen Phänomens beim Assoziationsexperiment. Diagnostische Assoziationsstudien.'' (On the behavior of the psycho-galvanic phenomenon in association experiments. Diagnostic association studies).
+* 1910: ''Über Entstehung und Verhütung geistiger Störungen''. (Origin and prevention of mental disorders).
+* 1922: ''Einführung in die Probleme der allgemeinen Psychologie'' (Introduction to the problems of general psychology), Berlin. 
+* 1928: ''Wandlungen in der Auffassung und Deutung des Traumes'' (Transformations in the view and interpretation of the dream), Berlin. 
+* 1930: ''Traum und Existenz'' (Dream and existence). 
+* 1932: ''Zur Geschichte der Heilanstalt Bellevue. Kreuzlingen 1857–1932'' (The history of the Bellevue sanatorium. Kreuzlingen, from 1857 to 1932).
+* 1933: ''Über Ideenflucht'' (On "flight of ideas"), Zurich.
+* 1936: ''Freuds Auffassung des Menschen im Lichte der Anthropologie. Erweiterter Festvortrag gehalten zur Feier des 80. Geburtstags von Sigmund Freud im Akademischen Verein für medizinische Psychologie'' (Freud's conception of man in the light of anthropology. Extended lecture held to celebrate the 80th Birthday of Sigmund Freud in the Academic Association for Medical Psychology).
+* 1942: ''Grundformen und Erkenntnis menschlichen Daseins'' (Basic forms and knowledge of human existence), Zurich (3rd edition, [[Munich]]/[[Basel|Basle]], 1962). 
+* 1946: ''Über Sprache und Denken'' (On language and thinking), Basle.
+* 1947: ''Ausgewählte Aufsätze und Vorträge, Bd. 1: Zur phänomenologischen Anthropologie'' (Selected essays and lectures, Volume 1: On phenomenological anthropology), [[Bern]].
+* 1949: ''Henrik Ibsen und das Problem der Selbstrealisation in der Kunst'' ([[Henrik Ibsen]] and the problem of self-realization in art), [[Heidelberg]]. 
+* 1949: ''Die Bedeutung der Daseinsanalytik Martin Heideggers für das Selbstverständnis der Psychiatrie'' (The meaning of [[Martin Heidegger]]'s [[Daseinsanalysis|analysis of Dasein]] for the self-understanding of psychiatry). 
+* 1954: ''Über Martin Heidegger und die Psychiatrie. Festschrift zur Feier des 350jährigen Bestehens des Heinrich-Suso-Gymnasium zu Konstanz'' (Martin Heidegger and psychiatry. [[Festschrift]] to celebrate the 350th anniversary of the Heinrich Suso Gymnasium in [[Konstanz]]). 
+* 1955: ''Ausgewählte Vorträge und Aufsätze, Bd. II: Zur Problematik der psychiatrischen Forschung und zum Problem der Psychiatrie'' (Selected lectures and essays, Volume II: On the problematics of psychiatric research and the problem of psychiatry) Bern.
+* 1956: ''Erinnerungen an Sigmund Freud'' (Memories of Sigmund Freud), Berne. 
+* 1956: ''Drei Formen missglückten Daseins: Verstiegenheit, Verschrobenheit, Manieriertheit'' (Three forms of failed existence: On extravagance, crankiness, affectation), [[Tübingen]]. 
+* 1957: ''Schizophrenie'' ([[Schizophrenia]]), [[Pfullingen]]. 
+* 1957: ''Der Mensch in der Psychiatrie'' (Man in psychiatry), Pfullingen. 
+* 1960: ''Melancholie und Manie: Phänomenologische Studien'' (Melancholy and mania: [[phenomenology (psychology)|Phenomenological]] studies), Pfullingen.
+* 1961: ''Geleitwort zu Hans Häfners "Psychopathien". Monographien aus dem Gesamtgebiet der Neurologie und Psychiatrie.'' (Foreword to Hans Häfner's "Psychopathias". Monographs from the overall field of [[neurology]] and psychiatry), Berlin.
+* 1962: ''Der Musische Mensch. Vorwort zu "Musische Erziehung"'' (Man in arts. Preface to "Education in arts"), [[Amriswil]].
+* 1965: ''Wahn. Beiträge zu seiner phänomenologischen und daseinsanalytischen Erforschung'' (Delusion. Contributions to its phenomenological and analytical investigation), [[Pfullingen]].
+* 1992: ''Traum und Existenz'' (Dream and existence), introduction by [[Michel Foucault]]. Gachnang & Springer, Bern/Berlin. {{ISBN|978-3-906127-31-6}}
+* 2007: ''Aby Warburg: La guarigione infinita. Storia clinica di Aby Warburg'' (The endless cure. Aby Warburg's clinical history.) Edited by Davide Stimilli. Vicenza 2005
+
+=== German editions of selected works ===
+* ''Ausgewählte Werke'' in 4 volumes. Roland Asanger, Heidelberg 1992–1994
+** Band 1: ''Formen missglückten Daseins'', ed. Max Herzog, 1992, {{ISBN|3-89334-206-0}}
+** Band 2: ''Grundformen und Erkenntnis menschlichen Daseins'', ed. Max Herzog and Hans-Jürg Braun, 1993, {{ISBN|3-89334-203-6}} bzw. {{ISBN|3-89334-207-9}}
+** Band 3: ''Vorträge und Aufsätze'', ed. Max Herzog, 1994, {{ISBN|3-89334-204-4}} bzw. {{ISBN|3-89334-208-7}}
+** Band 4: ''Der Mensch in der Psychiatrie'', ed. Alixe Holzhey-Kunz, 1994, {{ISBN|3-89334-205-2}} bzw. {{ISBN|3-89334-209-5}}
+
+==See also==
+{{Columns-list|colwidth=30em|
+*[[Gestalt therapy]]
+*[[Henri Ellenberger]]
+*[[Maurice Merleau-Ponty]]
+*[[Rollo May]]
+* Szondi Schicksalsanalyse (fate analysis) and the [[Szondi test]]
+}}
+
+== References ==
+{{Reflist|colwidth=40em}}
+
+==Further reading==
+* {{Citation
+|pmid = 15106398
+|last=Bühler
+|first=Karl-Ernst
+|publication-date=2004
+|year=2004
+|title=Existential analysis and psychoanalysis: specific differences and personal relationship between Ludwig Binswanger and Sigmund Freud.
+|volume=58
+|issue=1
+|periodical=American Journal of Psychotherapy
+|pages=34–50
+|doi=10.1176/appi.psychotherapy.2004.58.1.34
+|doi-access=free
+}}
+* {{Citation
+|pmid = 14621641
+|last=Reppen
+|first=Joseph
+|publication-date=Jun 2003
+|year=2003
+|title=Ludwig Binswanger and Sigmund Freud: portrait of a friendship.
+|volume=90
+|issue=3
+|periodical=Psychoanalytic Review
+|pages=281–91
+|doi = 10.1521/prev.90.3.281.23619
+}}
+* {{Citation
+|pmid = 12587404
+|last1=Wittern
+|first1=Ursula
+|last2=Hirschmüller
+|first2=Albrecht
+|publication-date=2002
+|year=2002
+|title=[Drug therapy of psychiatric patients in the middle of the 19th century: the drug armamentarium of Ludwig Binswanger sen. in his "Asyl Bellevue"]
+|volume=59
+|issue=3–4
+|periodical=Gesnerus
+|pages=198–223
+}}
+* {{Citation
+|pmid = 12164205
+|last=Hoffman
+|first=Klaus
+|publication-date=2002
+|year=2002
+|title=[Historical essays on Ludwig Binswanger and psychoanalysis]
+|volume=15
+|issue=29
+|periodical=Luzifer-Amor : Zeitschrift zur Geschichte der Psychoanalyse
+|pages=1–189
+}}
+* {{Citation
+|pmid = 11291191
+|last=Ghaemi
+|first=S N
+|publication-date=2001
+|year=2001
+|title=Rediscovering existential psychotherapy: the contribution of Ludwig Binswanger
+|volume=55
+|issue=1
+|periodical=American Journal of Psychotherapy
+|pages=51–64
+|doi=10.1176/appi.psychotherapy.2001.55.1.51
+|doi-access=free
+}}
+* {{Citation
+|pmid = 1581699
+|publication-date=Mar 1992
+|year=1992
+|title=[Sigmund Freud / Ludwig Binswanger. Correspondence]
+|volume=46
+|issue=3
+|periodical=Psyche
+|pages=221–44
+}}
+* {{Citation
+|pmid = 394913
+|last=Pivnicki
+|first=D
+|publication-date=1979
+|year=1979
+|title=Paradoxes of psychotherapy. In honor and memory of Ludwig Binswanger
+|volume=22
+|issue=4
+|periodical=Confinia Psychiatrica. Borderland of Psychiatry. Grenzgebiete der Psychiatrie. Les Confins de la Psychiatrie
+|pages=197–203
+}}
+* {{Citation
+|pmid = 4576200
+|last=Kuhn
+|first=R
+|publication-date=1972
+|year=1972
+|title=[Current importance of the work of Ludwig Binswanger]
+|volume=20
+|issue=4
+|periodical=Zeitschrift für klinische Psychologie und Psychotherapie
+|pages=311–21
+}}
+* {{Citation
+|pmid = 4883993
+|last=Kuhn
+|first=R
+|publication-date=Nov 1968
+|year=1968
+|title=[Ludwig Binswanger, April 13, 1881 - February 5, 1966]
+|periodical=Bulletin der Schweizerischen Akademie der Medizinischen Wissenschaften
+|pages=Suppl 24:99+
+}}
+* {{Citation
+|pmid = 4877375
+|last=Vanderpool
+|first=J P
+|publication-date=1968
+|year=1968
+|title=The existential approach to psychiatry (Ludwig Binswanger), (Viktor Frankl)
+|volume=26
+|issue=2
+|periodical=Tex. Rep. Biol. Med.
+|pages=163–71
+}}
+* {{Citation
+|pmid = 4881552
+|last=Delgado
+|first=H
+|publication-date=Jun 1967
+|year=1967
+|title=[Necrology. Ludwig Binswanger]
+|volume=30
+|issue=2
+|periodical=Revista de neuro-psiquiatría
+|pages=216–7
+}}
+* {{Citation
+|pmid = 4873391
+|last=Colpe
+|first=C
+|publication-date=Feb 28, 1967
+|year=1967
+|title=[A physician in a dialogue. Reminiscences of Ludwig Binswanger, died on 5 February 1966]
+|volume=43
+|issue=6
+|periodical=Der Landarzt
+|pages=277–83
+}}
+* {{Citation
+|pmid = 5339997
+|last=Kuhn
+|first=R
+|publication-date=1967
+|year=1967
+|title=[Ludwig Binswanger (1881-1966)]
+|volume=99
+|issue=1
+|periodical=Schweizer Archiv für Neurologie, Neurochirurgie und Psychiatrie = Archives suisses de neurologie, neurochirurgie et de psychiatrie
+|pages=113–7
+}}
+* {{Citation
+|pmid = 4861043
+|last=Straus
+|first=E
+|publication-date=Dec 1966
+|year=1966
+|title=[To the memory of Ludwig Binswanger 1881-1966]
+|volume=37
+|issue=12
+|periodical=Der Nervenarzt
+|pages=529–31
+}}
+* {{Citation
+|pmid = 5329204
+|last=Cargnello
+|first=D
+|title=[Ludwig Binswanger) 1881-1966)]
+|volume=27
+|issue=2
+|periodical=Archivio di Psicologia, Neurologia e Psichiatria
+|pages=106–10
+|year=1966
+}}
+* {{Citation
+|pmid = 5342183
+|last=Holt
+|first=H
+|publication-date=1966
+|year=1966
+|title=Ludwig binswanger (1881-1966): a tribute
+|volume=6
+|issue=25
+|periodical=Journal of Existentialism
+|pages=93–6
+}}
+* {{Citation
+|pmid = 13787004
+|last=WYRSCH
+|first=J
+|publication-date=Apr 1961
+|year=1961
+|title=[To Ludwig BINSWANGER on his 80th birthday.]
+|volume=141
+|periodical=Psychiatria et Neurologia
+|pages=229–33
+}}
+* {{Citation
+|pmid = 14863527
+|last=STRAUS
+|first=E W
+|publication-date=Jul 20, 1951
+|year=1951
+|title=[On the 70th birthday of Ludwig Binswanger.]
+|volume=22
+|issue=7
+|periodical=Der Nervenarzt
+|pages=269–70
+}}
+* {{Citation
+|pmid = 14865927
+|publication-date=1951
+|year=1951
+|title=[To Ludwig Binswanger on his 70th birthday.]
+|volume=67
+|issue=1
+|periodical=Schweizer Archiv für Neurologie und Psychiatrie. Archives suisses de neurologie et de psychiatrie. Archivio svizzero di neurologia e psichiatria
+|pages=1–4
+}}
+
+== External links ==
+{{Library resources box
+  |viaf=59079086}}
+* {{Internet Archive author |sname=Ludwig Binswanger}}
+* [http://www.patersonmarsh.co.uk/rights.asp?title=TP003333 Binswanger/Freud Correspondence]{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+* [http://www.ship.edu/~cgboeree/binswanger.html Existential Psychology by Dr. C. George Boeree]
+* [http://www.encyclopedia.com/doc/1O87-EllenWest.html Ellen West]
+
+{{Psychotherapy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Binswanger, Ludwig}}
+[[Category:Swiss psychiatrists]]
+[[Category:Swiss people of Jewish descent]]
+[[Category:People from Kreuzlingen]]
+[[Category:Psychotherapists]]
+[[Category:Existential therapists]]
+[[Category:Daseinsanalysis]]
+[[Category:1881 births]]
+[[Category:1966 deaths]]
+[[Category:Members of the Vienna Psychoanalytic Society]]

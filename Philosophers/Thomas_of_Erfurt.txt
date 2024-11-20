@@ -1,0 +1,26 @@
+'''Thomas of Erfurt''' ({{floruit|{{circa|1300}}}}) was a German philosopher, the most important of the so-called ''[[Modistae]]''. He was probably a native of [[Erfurt]]. He had some connection to the [[University of Paris]] as a teacher or student. He later taught at [[St Severus' Church, Erfurt|St Severus' Church]] and the [[Schottenkirche, Erfurt|Schottenkirche]] in Erfurt.{{sfn|Zupko|2019}}
+
+Thomas wrote at least six works.{{sfn|Zupko|2019}} His major work, ''Tractatus de modis significandi seu Grammatica speculativa'', was often misattributed to [[John Duns Scotus]] until 1922.{{sfn|Beuchot|2002}} All the early manuscript evidence supports its attribution to Thomas. It was written before 1310. Attributed to Scotus, it was one of the subjects of [[Martin Heidegger]]'s 1916 doctoral thesis.{{sfn|Zupko|2019}} [[Charles Sanders Peirce]] borrowed the name of the first branch of his system of logic, "speculative grammar", from Thomas.{{sfn|Bellucci|2018|p=6}} The ''Grammatica speculativa'' has been published with English translation and commentary by Godfrey Bursill-Hall (Longman, 1972).
+
+Thomas' other works include commentaries on [[Porphyry (philosopher)|Porphyry]]'s ''[[Isagoge]]'', [[Aristotle]]'s ''[[Categories (Aristotle)|Categories]]'' and ''[[On Interpretation]]'', and the anonymous ''[[Liber sex principiorum]]''. He also wrote a pedagogical poem on grammar, ''Commentarius in carmen ‘Fundamentum puerorum’''.{{sfn|Zupko|2019}}
+
+==Notes==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+*{{cite book |first=Francesco |last=Bellucci |title=Peirce's Speculative Grammar: Logic as Semiotics |publisher=Routledge |year=2018}}
+*{{cite encyclopedia |first=Mauricio |last=Beuchot |author-link=:es:Mauricio Beuchot |title=Thomas of Erfurt |encyclopedia=Companion to Philosophy in the Middle Ages |editor1=J. J. E. Gracia |editor-link1=Jorge J. E. Gracia |editor2=T. N. Noone |year=2002 |publisher=Blackwell Publishing |pages=662–663}}
+*{{cite encyclopedia |first=Jack |last=Zupko |title=Thomas of Erfurt |editor=E. N. Zalta |editor-link=Edward N. Zalta |url=https://plato.stanford.edu/entries/erfurt/ |year=2019 |encyclopedia=[[Stanford Encyclopedia of Philosophy]]}}
+{{refend}}
+
+==External links==
+*[https://www.manuscriptorium.com/apps/index.php?direct=record&pid=AIPDIG-NKCR__X_F_19______123G2PB-cs Prague, National Library of the Czech Republic, X.F.19] – digitized manuscript of ''De modis significandi''
+
+{{Authority control}}
+
+[[Category:People from Erfurt]]
+[[Category:13th-century births]]
+[[Category:14th-century deaths]]
+[[Category:14th-century philosophers]]
+[[Category:14th-century writers in Latin]]

@@ -1,0 +1,356 @@
+{{Short description|German-Israeli philosopher (1878–1965)}}
+{{distinguish|Martin Bucer}}
+{{Use American English|date=February 2022}}
+{{Use mdy dates|date=February 2022}}
+{{Infobox philosopher
+|region = [[Western philosophy]]
+|era = [[20th-century philosophy]]
+|image = Martin Buber portrait.jpg
+|name = Martin Buber
+|birth_date = February 8, 1878
+|birth_place = [[Vienna]], [[Austria-Hungary]]
+|death_date = {{Death date and age|mf=yes|1965|06|13|1878|02|08}}
+|death_place = [[Jerusalem, Israel]]
+|school_tradition = [[Continental philosophy]]<br>[[Existentialism]]<br>[[Neo-Hasidism]]
+|main_interests = {{hlist | [[Ontology]] | [[philosophical anthropology]]}}
+|notable_ideas = ''Ich-Du'' (I–Thou) and ''Ich-Es'' (I–It)<br>[[philosophy of dialogue]]
+|education=[[University of Vienna]]
+| signature         = Martin_Buber_Signature_from_Goldman_Collection.png
+}}
+
+'''Martin Buber''' ({{langx|he|מרטין בובר}}; {{langx|de|Martin Buber}}, {{IPA|de|ˈmaʁtiːn̩ ˈbuːbɐ|pron|De-Martin Buber.ogg}}; {{langx|yi|מארטין בובער}}; February 8, 1878 – June 13, 1965) was an Austrian-Israeli [[philosopher]] best known for his [[philosophy of dialogue]], a form of [[existentialism]] centered on the distinction between the [[I and Thou|I–Thou]] relationship and the I–It relationship.<ref>{{Cite web|url=http://www.roberthsarkissian.com/iof/BUBER.HTM|title=Island of Freedom - Martin Buber|website=Roberthsarkissian.com}}</ref> Born in [[Vienna]], Buber came from a family of observant Jews, but broke with Jewish custom to pursue secular studies in [[philosophy]]. He produced writings about Zionism and worked with various bodies within the Zionist movement extensively over a nearly 50-year period spanning his time in Europe and the Near East. In 1923, Buber wrote his famous essay on existence, ''[[I and Thou|Ich und Du]]'' (later translated into English as ''I and Thou''),<ref name=":0" /> and in 1925 he began translating the [[Hebrew Bible]] into the [[German language]].
+
+He was nominated for the [[Nobel Prize in Literature]] ten times, and the [[Nobel Peace Prize]] seven times.<ref>{{cite web|url=https://www.nobelprize.org/nomination/archive/show_people.php?id=1421|title=Nomination Database|website=Nobelprize.org|access-date=2017-01-24}}</ref>
+
+[[Image: Martin Buber 1963.jpg|thumb|right|200px|Buber in 1963]]
+
+== Biography ==
+Martin ([[Hebrew language|Hebrew]] name: ''מָרְדֳּכַי,'' ''Mordechai'') Buber was born in [[Vienna]] to an Orthodox Jewish family. Buber was a direct descendant of the 16th-century rabbi [[Meir ben Isaac Katzenellenbogen|Meir Katzenellenbogen]], known as the Maharam (מהר"ם), the Hebrew acronym for “'''M'''ordechai, '''H'''a'''R'''av (the Rabbi), '''M'''eir”, of [[Padua]]. [[Karl Marx]] is another notable relative.<ref name="unbroken" /> After the divorce of his parents when he was three years old, he was raised by his grandfather in Lemberg (now [[Lviv]] in Ukraine).<ref name="unbroken">{{Citation | last = Rosenstein | first = Neil | title = The Unbroken Chain: Biographical Sketches and Genealogy of Illustrious Jewish Families from the 15th–20th Century | volume = 1, 2 | edition = revised | publisher = CIS | place = New York | year = 1990 | isbn = 0-9610578-4-X}}</ref> His grandfather, [[Solomon Buber]], was a scholar of [[Midrash]] and [[Rabbinic Literature]]. At home, Buber spoke [[Yiddish language|Yiddish]] and German. In 1892, Buber returned to his father's house in [[Lemberg]].
+
+Despite Buber's putative connection to the [[Davidic line]] as a descendant of Katzenellenbogen, a personal religious crisis led him to break with Jewish [[Halakha|religious customs]]. He began reading [[Immanuel Kant]], [[Søren Kierkegaard]], and [[Friedrich Nietzsche]].<ref name="Wood1969">{{cite book| first =Robert E | last = Wood|title=Martin Buber's Ontology: An Analysis of I and Thou |url=https://archive.org/details/martinbubersonto0000wood| url-access =registration |date=1 December 1969|publisher= Northwestern University Press|isbn = 978-0-8101-0650-5 | page =[https://archive.org/details/martinbubersonto0000wood/page/5 5]}}</ref> The latter two, in particular, inspired him to pursue studies in philosophy. In 1896, Buber went to study in Vienna (philosophy, [[art history]], German studies, [[philology]]).
+
+In 1898, he joined the [[Zionism|Zionist]] movement, participating in congresses and organizational work. In 1899, while studying in [[Zürich]], Buber met his future wife, [[Paula Winkler]], a "brilliant Catholic writer from a Bavarian peasant family"<ref>The Pity of It All: A History of Jews in Germany 1743–1933. p. 238. (2002) {{ISBN|0-8050-5964-4}}</ref> who in 1901 left the Catholic Church and in 1907 [[Conversion to Judaism|converted to Judaism]].<ref>{{cite web| url = http://www.tameri.com/csw/exist/buber.shtml |title=The Existential Primer |publisher=Tameri |access-date=August 28, 2011}}</ref>
+
+Buber, initially, supported and celebrated the Great War as a "world historical mission" for Germany along with Jewish intellectuals to civilize the Near East.<ref>Elon, Amos. (2002). The Pity of It All: A History of Jews in Germany, 1743{{ndash}}1933. New York: Metropolitan Books. Henry Holt and Company.  pp. 318–319. {{ISBN|0-8050-5964-4}}.</ref> Some researchers believe that while in Vienna during and after World War I, he was influenced by the writings of [[Jacob L. Moreno]], particularly the use of the term ‘encounter’.<ref>{{cite web|url=https://psykodramainstitutt.no/uf/90000_99999/97040/a25ec6c0cf0b2d0496ee4f634e0fb344.pdf|title=Jacob Levy Moreno's encounter term: a part of a social drama|website=Psykodramainstitutt.no|access-date=9 August 2019|pages=9–10|archive-date=March 10, 2017|archive-url=https://web.archive.org/web/20170310223129/http://psykodramainstitutt.no/uf/90000_99999/97040/a25ec6c0cf0b2d0496ee4f634e0fb344.pdf|url-status=dead}}</ref><ref>{{Cite web|url=https://www.blatner.com/adam/pdntbk/BuberMoreno.html|title=Moreno's Influence on Martin Buber's Dialogical Philosophy|website=Blatner.com|access-date=9 August 2019}}</ref>
+
+In 1930, Buber became an honorary professor at the [[Johann Wolfgang Goethe University Frankfurt am Main|University of Frankfurt am Main]], but resigned from his professorship in protest immediately after [[Adolf Hitler]] came to power in 1933. He then founded the Central Office for Jewish Adult Education, which became an increasingly important body as the German government forbade Jews from public education. In 1938, Buber left Germany and settled in [[Jerusalem]], [[Mandatory Palestine]], receiving a professorship at [[Hebrew University]] and lecturing in [[anthropology]] and introductory [[sociology]]. In 1947, he was forced to flee his home in [[Abu Tor]], Jerusalem, due to the advance of the [[Arab Liberation Army]].<ref>Paul Mendes-Flohr, ''Martin Buber: A Life of Faith and Dissent'', p.252</ref> After the creation of the [[1948 in Israel|state of Israel in 1948]], Buber became the best known Israeli philosopher. After 1948, Buber lived in [[Edward Said|Edward Said's]] family home in Jerusalem.<ref>{{cite book|editor=Jack Jacobs|title=Jews and Leftist Politics|date=March 24, 2017 |url=https://books.google.com/books?id=6eJsDgAAQBAJ&pg=PA|publisher=Cambridge University Press |isbn=978-1-108-10757-0}}</ref>
+
+Buber and Paula had two children: a son, Rafael Buber, and a daughter, Eva Strauss-Steinitz. They helped raise their granddaughters [[Barbara Goldschmidt]] (1921–2013) and [[Judith Buber Agassi]] (1924–2018), born by their son Rafael's marriage to [[Margarete Buber-Neumann]].
+Buber's wife Paula Winkler died in 1958 in Venice, and he died at his home in the [[Talbiya]] neighborhood of Jerusalem on June 13, 1965.
+ 
+Buber was a [[Vegetarianism|vegetarian]].<ref>Rosen, Steven. (1987). ''Food for the Spirit: Vegetarianism and the World Religions''. Bala Books. p. 45. {{ISBN|9780896470224}}</ref>
+
+== Major themes ==
+{{Peshischa}}
+Buber's evocative, sometimes poetic, writing style marked the major themes in his work: the retelling of [[Hasidism|Hasidic]] and Chinese tales, [[bible|Biblical]] commentary, and [[metaphysics|metaphysical]] dialogue. A [[Cultural Zionism|cultural Zionist]], Buber was active in the Jewish and educational communities of Germany and [[Israel]].{{Sfn | Buber | 1996 | p = 92}} He was also a staunch supporter of a [[binational solution]] in [[Palestine (region)|Palestine]], and, after the establishment of the Jewish state of Israel, of a regional federation of Israel and Arab states. His influence extends across the humanities, particularly in the fields of [[social psychology]], [[social philosophy]], and [[existentialism|religious existentialism]].{{Sfn | Buber | 1996 | p = 34}}
+
+Buber's attitude toward [[Zionism]] was tied to his desire to promote a vision of "Hebrew humanism".<ref>{{cite book| last= Schaeder| first= Grete| title= The Hebrew humanism of Martin Buber| year= 1973| publisher= Wayne State University Press| location= Detroit| isbn= 0-8143-1483-X| page= [https://archive.org/details/hebrewhumanismof00scha/page/11 11]| url= https://archive.org/details/hebrewhumanismof00scha/page/11}}</ref> According to Laurence J. Silberstein, the terminology of "Hebrew humanism" was coined to "distinguish [Buber's] form of [[nationalism]] from that of the official Zionist movement" and to point to how "Israel's problem was but a distinct form of the universal human problem. Accordingly, the task of Israel as a distinct nation was inexorably linked to the task of humanity in general".<ref>{{cite book|last= Silberstein|first= Laurence J | title= Martin Buber's Social and Religious Thought: Alienation and the quest for meaning | year = 1989 | publisher =New York University Press|location=New York|isbn=0-8147-7886-0|page = 100}}</ref>
+
+== Zionist views ==
+
+=== Pre-1915: Early engagement with Zionism ===
+[[File:אגודת_הסטודנטים_היהודיים_בלייפציג_-_תצלום_החברים_(_1899)_באמצע_(_במדים)_-_י._-PHG-1016402.png|alt=The Jewish Student Association in Leipzig, with Buber in the center surrounded by other members (1899)|thumb|The Jewish Student Association in Leipzig with Buber in the center (1899)]]
+Approaching Zionism from his own personal viewpoint, a young Buber disagreed with [[Theodor Herzl]] about their respective positions on Zionism. Herzl did not envision Zionism as a movement with religious objectives. In contrast, Buber believed the potential of Zionism was for social and spiritual enrichment. For example, Buber argued that following the formation of the Israeli state, there would need to be reforms to Judaism: "We need someone who would do for Judaism what [[Pope John XXIII]] has [[Second Vatican Council|done for the Catholic Church]]".<ref>{{Cite book |last=Hodes |first=Aubrey |url=https://archive.org/details/martinbuberintim00hode/page/174 |title=Martin Buber: An Intimate Portrait |year=1971 |isbn=0-670-45904-6 |page=[https://archive.org/details/martinbuberintim00hode/page/174 174]}}</ref> Herzl and Buber would continue, in mutual respect and disagreement, to work towards their respective goals for the rest of their lives. In 1902, Buber became the editor of the weekly ''[[Die Welt (Herzl)|Die Welt]]'', the central organ of the Zionist movement. However, a year later he became involved with the Jewish [[Hasidic Judaism|Hasidic]] movement. Buber admired how the Hasidic communities actualized their religion in daily life and culture. In stark contrast to the busy Zionist organizations, which were always mulling political concerns, the Hasidim were focused on the values which Buber had long advocated for Zionism to adopt. In 1904, he withdrew from much of his Zionist organizational work, and devoted himself to study and writing, as in that same year, he published his thesis, ''Beiträge zur Geschichte des Individuationsproblems'', on [[Jakob Böhme]] and [[Nicholas of Cusa|Nikolaus Cusanus]].<ref name="Stewart20112">{{cite book |last=Stewart |first=Jon |url=https://books.google.com/books?id=UFQWBkpEbwsC |title=Kierkegaard and Existentialism |date=1 May 2011 |publisher=Ashgate |isbn=978-1-4094-2641-7 |page=34}}</ref>
+
+In a 1910 essay entitled "He and We," Buber established himself and Herzl (who had died in 1904) as diametrically opposed in their perspectives on Zionism. Buber described Herzl by saying, "The impulse of the elementally active person (Elementaraktiver) to act is so strong that it prevents him from acquiring knowledge for the sake of knowledge," and, according to Buber, when a person like Herzl is aware of his Jewishness, "In him awakens the will to help the Jews to whom he belongs, to lead the where they can experience freedom and security. Now he does what his will tells He does not see anything else."<ref name="Schmidt 2000 18–26">{{Cite journal |last=Schmidt |first=Gilya G. |date=2000 |title=Martin Buber's Conception of the Relative and the Absolute Life |url=https://www.jstor.org/stable/42943022 |journal=Shofar |volume=18 |issue=2 |pages=18–26 |jstor=42943022 |issn=0882-8539}}</ref> In that same essay, Buber would draw a parallel between Herzl and [[Baal Shem Tov]], the founder of Hasidism, arguing that both seek to reinstate the Jewish people, the difference coming in their approaches; Herzl affecting change indirectly via history whereas Baal Shem Tov sought to achieve improvement directly through religion.<ref name="Schmidt 2000 18–26"/>
+
+=== 1915–38: Further development ===
+[[File:ירושלים_-_מר_יצחק_בן_צבי_פרופסור_מרטין_בובר_ומר_ליאו_הרמן-JNF039458.jpeg|alt=Martin Buber, Yitzhak Ben Zvi, and Leo Herman in Jerusalem (1915)|thumb|270x270px|Martin Buber, Yitzhak Ben Zvi, and Leo Herman in Jerusalem (1915)]]
+Buber produced multiple writings on Zionism and nationalism during this time period, expanding upon broader ideas related to Zionism. In light of the outbreak of WWI, Buber engaged in debates with fellow German philosopher [[Hermann Cohen]] in 1915 on the nature of nationalism and Zionism.<ref>{{Citation |last=Barash |first=Jeffrey Andrew |title=Dialogue as a Trans-disciplinary Concept |chapter=Politics and Theology: The Debate on Zionism between Hermann Cohen and Martin Buber |date=2015-06-16 |chapter-url=https://www.degruyter.com/document/doi/10.1515/9783110402223-004/html?lang=en |pages=49–60 |access-date=2023-03-15 |publisher=De Gruyter |language=en |doi=10.1515/9783110402223-004 |isbn=978-3-11-040222-3}}</ref> Whereas Cohen, whose argument was based in messianic principles, believed that a Jewish minority was essential to a broader German national identity, Buber argued that, "Judaism may well be taken up in messianic humanity, to be melted into it; we do not, however, consider that the Jewish people must disappear among contemporary humanity so that a messianic humanity might arise."<ref>{{Citation |last=Barash |first=Jeffrey Andrew |title=Dialogue as a Trans-disciplinary Concept |chapter=Politics and Theology: The Debate on Zionism between Hermann Cohen and Martin Buber |date=2015-06-16 |chapter-url=https://www.degruyter.com/document/doi/10.1515/9783110402223-004/html?lang=en |pages=56–57 |access-date=2023-05-05 |publisher=De Gruyter |language=en |doi=10.1515/9783110402223-004 |isbn=978-3-11-040222-3}}</ref>
+
+Buber continued to explore and develop his views on Zionism in these years. One such notable piece of writing is a letter to a professor entitled "Concepts and Reality" in 1916. In this letter, Buber addresses the issues of nationalism, Messianism, and Hebrew within the Zionist movement of the period.<ref name=":02">{{Cite book |last=Buber |first=Martin |url=https://www.worldcat.org/oclc/48877750 |title=The Martin Buber reader : essential writings |date=2002 |publisher=Palgrave Macmillan |others=Asher D. Biemann |isbn=0-312-24051-1 |edition=1st |location=New York |pages=261–267 |oclc=48877750}}</ref>  Buber argued that nationalism is not a natural phenomenon, and that Zionism is a movement centered around religiosity, not nationalism.<ref>{{Cite web |title=The Martin Buber reader : essential writings {{!}} WorldCat.org |url=https://www.worldcat.org/title/48877750 |access-date=2023-05-10 |website=www.worldcat.org |page=264 |language=en}}</ref> However, according to Buber, the messianic movement within Zionism is obscured by those in liberal Jewish and anti-Zionist circles, who argue that Messianism necessitates a diaspora.<ref>{{Cite web |title=The Martin Buber reader : essential writings {{!}} WorldCat.org |url=https://www.worldcat.org/title/48877750 |access-date=2023-05-10 |website=www.worldcat.org |pages=265–266 |language=en}}</ref> On the importance of the Hebrew language, Buber believed, "Hebrew is not first and foremost a vernacular but the single language that can fully absorb and express the sublime values of Judaism."<ref>{{Cite web |title=The Martin Buber reader : essential writings {{!}} WorldCat.org |url=https://www.worldcat.org/title/48877750 |access-date=2023-05-10 |website=www.worldcat.org |page=266 |language=en}}</ref>
+
+In the early 1920s, Martin Buber started advocating a [[Binational solution|binational]] Jewish-Arab state, stating that the Jewish people should proclaim "its desire to live in peace and brotherhood with the Arab people, and to develop the common homeland into a republic in which both peoples will have the possibility of free development."<ref name=":1">{{cite web |date=May 15, 2005 |title=Jewish Zionist Education |url=http://www.jafi.org.il/education/100/people/bios/buber.html |url-status=dead |archive-url=https://web.archive.org/web/20091222163127/http://www.jafi.org.il/education/100/people/BIOS/buber.html |archive-date=December 22, 2009 |access-date=August 28, 2011 |publisher=Jafi |place=[[Israel|IL]]}}</ref>
+
+Buber rejected the idea of Zionism as just another [[Nationalism|national movement]], and wanted instead to see the creation of an exemplary society; a society which would not be characterized by Jewish domination of the Arabs. It was necessary for the Zionist movement to reach a consensus with the Arabs even at the cost of the Jews remaining a minority in the country. In 1925, he was involved in the creation of the organization [[Brit Shalom (political organization)|Brit Shalom]] (Covenant of Peace), which advocated the creation of a binational state, and throughout the rest of his life, he hoped and believed that Jews and Arabs one day would live in peace in a joint nation.
+
+In a 1929 essay entitled "The National Home and National Policy in Palestine," Buber explores Jewish right to the land of Israel before engaging with the question of Jewish-Arab relations.<ref>{{Cite web |title=The Martin Buber reader : essential writings {{!}} WorldCat.org |url=https://www.worldcat.org/title/48877750 |access-date=2023-05-10 |website=www.worldcat.org |pages=280–288 |language=en}}</ref> According to Buber, the Zionist right to establish a country in Israel originates from their ancient, ancestral connection to the land, the fact that Jews have worked to cultivate the land in recent years, and the future prospect that a Jewish state offers as both a cultural center for Judaism and a model for creating a new social organization, referencing the emergence of [[kibbutz]]im.<ref>{{Cite web |title=The Martin Buber reader : essential writings {{!}} WorldCat.org |url=https://www.worldcat.org/title/48877750 |access-date=2023-05-10 |website=www.worldcat.org |pages=282–283 |language=en}}</ref> Buber goes on to discuss, broadly, the necessity for injustice in order to survive, and focuses it to the Zionist perspective by writing, "It is indeed true that there can be no life without injustice. The fact that there is no living creature that can live and thrive without destroying another existing organism has a symbolic significance as regards our human life. But the human aspect of life begins the moment we say to ourselves: We will not do more injustice to others than we are forced to do to exist."<ref>{{Cite web |title=The Martin Buber reader : essential writings {{!}} WorldCat.org |url=https://www.worldcat.org/title/48877750 |access-date=2023-05-10 |website=www.worldcat.org |pages=283–284 |language=en}}</ref> Buber then uses this perspective to argue in favor of [[Binationalism]] as means to establish a combination of potential coexistence and national independence.<ref>{{Cite web |title=The Martin Buber reader : essential writings {{!}} WorldCat.org |url=https://www.worldcat.org/title/48877750 |access-date=2023-05-11 |website=www.worldcat.org |pages=284–288 |language=en}}</ref>
+
+=== Post 1938: Zionist views from Israel and post-Independence Zionism ===
+[[File:Martin_Buber_(997009326773305171).jpg|alt=Martin Buber in Israel (1962)|thumb|Martin Buber in Israel (1962)]]
+Living and writing in Jerusalem, Buber increased his political involvement, and continued to develop his ideas on Zionism. In 1942, he co‑founded the [[Ihud]] party, which advocated a bi-nationalist program. Nevertheless, he was connected with decades of friendship to Zionists and philosophers such as [[Chaim Weizmann]], [[Max Brod]], [[Hugo Bergmann]], and [[Felix Weltsch]], who were close friends of his from old European times in [[Prague]], [[Berlin]], and Vienna to the Jerusalem of the 1940s through the 1960s.
+
+Buber evaluated the competing strains of cultural and political Zionism from a somewhat teleological perspective in a 1948 piece "Zionism and Zionism".<ref>{{Cite web |title=The Martin Buber reader : essential writings {{!}} WorldCat.org |url=https://www.worldcat.org/title/48877750 |access-date=2023-05-10 |website=www.worldcat.org |pages=289–292 |language=en}}</ref> He summarizes these two competing perspectives as, on the one hand, "returning and restoring the true Israel, whose spirit and life would once again no longer exist beside each other," and, on the other hand, as a process of "normalization," and that to be "normal," a "nation needs a land, a language, and independence. Thus, one must only go and acquire those commodities, and the rest will take care of itself."<ref name=":2">{{Cite web |title=The Martin Buber reader : essential writings {{!}} WorldCat.org |url=https://www.worldcat.org/title/48877750 |access-date=2023-05-10 |website=www.worldcat.org |page=289 |language=en}}</ref> According Buber, as Jews and Israel succeed at being a "normal nation," the drive for a spiritual and cultural rebirth is lost, and the war being waged over political structure threatens to become a war for survival.<ref name=":2" /> After the establishment of [[Israel]] in 1948, Buber advocated Israel's participation in a federation of "[[Near East]]" states wider than just Palestine.<ref>{{cite book |last=Buber |first=Martin |url=https://archive.org/details/landoftwopeoples00mart |title=A Land of Two Peoples |publisher=[[University of Chicago]] |year=2005 |isbn=0-226-07802-7 |editor-last=Mendes-Flohr |editor-first=Paul |editor-link=Paul Mendes-Flohr |chapter=We Need The Arabs, They Need Us! |orig-year=1954}}</ref> Buber outlines this concept in "Zionism and Zionism". For Buber, Israel has the potential to  serve as an example for the "Near East" as, in his Binationalist perspective, two independent nations, could each maintain their own cultural identity, "but both united in the enterprise of developing their common homeland and in the federal management of shared matters. On the strength of that covenant we wish to return once more to the union of Near Eastern nations, to build an economy integrated in that of the Near East, to carry out policies in the framework of the life of the Near East, and, God willing, to send the "living idea" forth to the world from the Near East once again."<ref>{{Cite web |title=The Martin Buber reader : essential writings {{!}} WorldCat.org |url=https://www.worldcat.org/title/48877750 |access-date=2023-05-10 |website=www.worldcat.org |page=290 |language=en}}</ref> During this same time period Buber remained critical of many policies and leaders of the new Israeli government. He was particularly vocal about the treatment of Arab refugees, and was unafraid to criticize top leadership like [[David Ben-Gurion]], the first Prime Minister.<ref>{{Cite magazine |last=Adam |first=Kirst |date=2019-04-26 |title=Modernity, Faith, and Martin Buber |url=https://www.newyorker.com/magazine/2019/05/06/modernity-faith-and-martin-buber |access-date=2023-05-10 |magazine=The New Yorker |language=en-US}}</ref>
+
+== Literary and academic career ==
+[[File:Martin-Buber-Haus Heppenheim.JPG|thumb|Martin Buber's house (1916–38) in [[Heppenheim]], Germany. Now the headquarters of the [[International Council of Christians and Jews|ICCJ]].]]
+[[File:Martin Buber and Rabbi Binyamin.jpg|thumb|Martin Buber and Rabbi Binyamin in Palestine (1920–30)]]
+[[File:Magnes and Buber testifying before the Anglo-American Committee of Inquiry.jpg|thumb |Buber (left) and [[Judah Leon Magnes]] testifying before the [[Anglo-American Committee of Inquiry]] in Jerusalem (1946)]]
+[[File:Martin Buber.jpg|thumb|Buber in the [[Jewish Quarter (Jerusalem)|Jewish Quarter]] in Jerusalem, prior to 1948]]
+
+From 1905 he worked for the publishing house Rütten & Loening as a lecturer; there he initiated and supervised the completion of the social psychological monograph series ''{{ill|Die Gesellschaft (series)|de|Die Gesellschaft (Schriftenreihe)|lt=Die Gesellschaft}}''.
+
+From 1906 until 1914, Buber published editions of Hasidic, mystical, and mythic texts from Jewish and world sources. In 1916, he moved from Berlin to [[Heppenheim]].
+
+During [[World War I]], he helped establish the [[Jewish National Committee]]<ref>{{cite web|url=https://www.jewishvirtuallibrary.org/jsource/biography/Buber.html|title=Martin Buber|website=Jewishvirtuallibrary.org|access-date=9 August 2019}}</ref> to improve the condition of [[Eastern Europe]]an Jews. During that period he became the editor of ''[[Der Jude (magazine)|Der Jude]]'' (German for "The Jew"), a Jewish monthly (until 1924). In 1921, Buber began his close relationship with [[Franz Rosenzweig]]. In 1922, he and Rosenzweig co-operated in Rosenzweig's [[House of Jewish Learning]], known in Germany as ''[[Lehrhaus]]''.<ref name = "Zank2006">{{cite book | first =Michael | last = Zank|title=New perspectives on Martin Buber|url= https://books.google.com/books?id=HRjAUsonXGwC|year=2006|publisher=Mohr Siebeck|isbn=978-3-16-148998-3|page= 20}}</ref>
+
+In 1923, Buber wrote his famous essay on existence, ''[[I and Thou|Ich und Du]]'' (later translated into English as ''I and Thou''). Though he edited the work later in his life, he refused to make substantial changes. In 1925, he began, in conjunction with Franz Rosenzweig, translating the [[Hebrew Bible]] into German (''Die Schrift''). He himself called this translation ''Verdeutschung'' ("Germanification"), since it does not always use literary German language, but instead attempts to find new dynamic (often newly invented) equivalent phrasing to respect the multivalent Hebrew original. Between 1926 and 1930, Buber co-edited the quarterly ''Die Kreatur'' ("The Creature").<ref name = "BuberBiemann2002">{{cite book| first1= Martin | last1 = Buber| first2= Asher D | last2 = Biemann|title= The Martin Buber reader: essential writings | url =https://books.google.com/books?id=BTzPiYZUIPwC|year= 2002|publisher= Palgrave Macmillan|isbn= 978-0-312-29290-4|page = 7}}</ref>
+
+In 1930, Buber became an honorary professor at the [[Johann Wolfgang Goethe University Frankfurt am Main|University of Frankfurt am Main]]. He resigned in protest from his professorship immediately after [[Adolf Hitler]] came to power in 1933. On October 4, 1933, the [[Nazism|Nazi]] authorities forbade him to lecture. In 1935, he was expelled from the ''Reichsschrifttumskammer'' (the National Socialist authors' association). He then founded the [[Central Office for Jewish Adult Education]], which became an increasingly important body, as the German government forbade Jews to attend public education.<ref name="BuberMendes-Flohr2005">{{cite book| first = Martin | last = Buber| editor-first =Paul R | editor-last = Mendes-Flohr|title=A land of two peoples: Martin Buber on Jews and Arabs|url = https://archive.org/details/landoftwopeoples00mart| url-access = registration |year=2005|publisher= University of Chicago Press|isbn= 978-0-226-07802-1}}</ref> The Nazi administration increasingly obstructed this body.
+
+Finally, in 1938, Buber left Germany, and settled in [[Jerusalem]], then capital of [[Mandatory Palestine|Mandate Palestine]]. He received a professorship at [[Hebrew University]], there lecturing in [[anthropology]] and introductory [[sociology]]. The lectures he gave during the first semester were published in the book ''The problem of man'' (''Das Problem des Menschen'');<ref name = "Schaeder1991">{{Citation | editor-last = Schaeder | editor-first = Grete | contribution = Martin Buber: A Biographical Sketch | first = Martin | last = Buber | year = 1991 | title = The letters of Martin Buber: a life of dialogue | isbn= 978-0-8156-0420-4|url = https://books.google.com/books?id=tGi6968aQSoC&pg=PA52 | page = 52| publisher = Syracuse University Press }}</ref><ref>{{Cite book| first = Martin | last = Buber | editor-first = Asher D | editor-last = Biemann | url = https://books.google.com/books?id=BTzPiYZUIPwC&pg=PA12 | title = The Martin Buber reader: essential writings | year=2002 | page = 12| publisher = Palgrave Macmillan | isbn = 9780312292904 }}</ref> in these lectures he discusses how the question "What is Man?" became the central one in [[philosophical anthropology]].<ref>{{Citation | last = Schaeder | first = Grete | year = 1973 | url = https://books.google.com/books?id=A7e4AAAAIAAJ | title = The Hebrew humanism of Martin Buber | page = 29| publisher = Wayne State University Press | isbn = 9780814314838 }}</ref> He participated in the discussion of the Jews' problems in [[Palestine (region)|Palestine]] and of the Arab question – working out of his Biblical, philosophic, and Hasidic work.
+
+He became a member of the group ''[[Ihud]]'', which aimed at a [[Binational solution|bi-national]] state for [[Arab]]s and Jews in Palestine. Such a binational confederation was viewed by Buber as a more proper fulfillment of Zionism than a solely Jewish state. In 1949, he published his work ''[[Paths in Utopia]]'',<ref name = "Paths">{{cite book| first =Martín | last = Buber|title=Paths in Utopia|url= https://books.google.com/books?id=MXGSnCcRaUwC|year=1996|publisher= Syracuse University Press|isbn= 978-0-8156-0421-1}}</ref> in which he detailed his [[communitarian]] [[socialist]] views and his theory of the "dialogical community" founded upon interpersonal "dialogical relationships".
+
+After [[World War II]], Buber began lecture tours in Europe and the United States. In 1952, he argued with [[Jung]] over the existence of God.<ref>{{Citation | last = Schneider | first = Herbert W | contribution = The historical significance of Buber's philosophy | title = The philosophy of Martin Buber | page = 471 | quote = ...the retort he actually made, namely, that a scientist should not make judgments beyond his science. Such an insistence on hard and fast boundaries among sciences is not in the spirit of Buber's empiricism}}</ref>
+
+== Philosophy ==
+{{Jewish philosophy}}
+Buber is famous for his thesis of dialogical existence, as he described in the book ''I and Thou''.<ref name=":0">{{Cite book|last=Buber|first=Martin|title=I and Thou|publisher=Charles Scribner's Sons|year=1970|isbn=978-0684717258|location=US}}</ref> However, his work dealt with a range of issues including religious consciousness, modernity, the concept of evil, ethics, education, and Biblical hermeneutics.<ref name = "Friedman1996">{{cite book | first = Maurice S | last = Friedman | title =Martin Buber and the human sciences|url=https://books.google.com/books?id=WFoU5LdDu6cC|date=July 1996|publisher= SUNY Press | isbn = 978-0-7914-2876-4 |page= 186}}</ref>
+
+Buber rejected the label of "philosopher" or "theologian", claiming he was not interested in ideas, only personal experience, and could not discuss God, but only relationships to God.<ref>{{cite book|last=Vermes|first=Pamela|title=Buber|year=1988|publisher=Peter Hablan |location=London|isbn=1-870015-08-8|page = vii}}</ref>
+
+Politically, Buber's social philosophy on points of [[prefigurative politics|prefiguration]] aligns with that of anarchism, though Buber explicitly disavowed the affiliation in his lifetime and justified the existence of a state under limited conditions.<ref name="Brody2018">{{cite book|last=Brody|first=Samuel Hayim|chapter=The True Front: Buber and Landauer on Anarchism and Revolution|title=Martin Buber's Theopolitics|chapter-url=https://books.google.com/books?id=Db5QDwAAQBAJ&pg=PT37|year=2018|publisher=Indiana University Press|isbn=978-0-253-03537-0|pages=37–40}}</ref><ref name="Silberstein1990">{{cite book|last=Silberstein|first=Laurence J.|title=Martin Buber's Social and Religious Thought: Alienation and the Quest for Meaning|url=https://books.google.com/books?id=PhsUCgAAQBAJ&pg=PA281|year=1990|publisher=NYU Press|isbn=978-0-8147-7910-1|page=281}}</ref>
+
+=== Dialogue and existence ===
+In ''I and Thou'',<ref name=":0" /> Buber introduced his thesis on human existence. Inspired by [[Ludwig Feuerbach|Feuerbach]]'s ''[[The Essence of Christianity]]'' and [[Søren Kierkegaard|Kierkegaard]]'s ''Single One'', Buber worked upon the premise of existence as encounter.<ref>{{cite book| last =Buber | first = Martin|url= https://books.google.com/books?id=6fPU5xfv4SMC&pg=PA228 | title = Between Man and Man| publisher = Routledge | orig-year = 1947 | year = 2002|pages=250–51| isbn = 9780415278263}}</ref> He explained this philosophy using the word pairs of ''Ich-Du'' and ''Ich-Es'' to categorize the modes of consciousness, interaction, and [[being]] through which an individual engages with other individuals, inanimate objects, and all reality in general. Theologically, he associated the first with the Jewish Jesus and the second with the apostle Paul (formerly Saul of Tarsus, a Jew).<ref>{{cite book|last1=Langton|first1=Daniel|title=The Apostle Paul in the Jewish Imagination|date=2010|publisher=Cambridge University Press|pages=67–71}}</ref> Philosophically, these word pairs express complex ideas about modes of being—particularly how a person exists and actualizes that existence. As Buber argues in ''I and Thou'', a person is at all times engaged with the world in one of these modes.
+
+The generic motif Buber employs to describe the dual modes of being is one of dialogue (''Ich-Du'') and monologue (''Ich-Es'').<ref name = "KramerGawlick2003">{{cite book | first1 = Kenneth | last1 = Kramer| first2= Mechthild | last2 = Gawlick| title= Martin Buber's I and thou: practicing living dialogue | url = https://books.google.com/books?id=VgvSa1_l0BEC |date=November 2003|publisher=Paulist Press|isbn= 978-0-8091-4158-6| page = 39}}</ref> The concept of communication, particularly language-oriented communication, is used both in describing dialogue/monologue through metaphors and expressing the interpersonal nature of human existence.
+
+==== ''Ich-Du'' ====
+''Ich‑Du'' ("I‑Thou" or "I‑You" – 'you' in a very personal, connected sense. 'Du' in German means 'you', but is generally only used to a closely-connected person, such as a close relative) is a relationship that stresses the mutual, holistic existence of two beings. It is a concrete encounter, because these beings meet one another in their authentic existence, without any qualification or objectification of one another. Even imagination and ideas do not play a role in this relation. In an I–Thou encounter, infinity and universality are made actual (rather than being merely concepts).<ref name = "KramerGawlick2003" /> Buber stressed that an ''Ich‑Du'' relationship lacks any composition (e. g., structure) and communicates no content (e. g., information). Despite the fact that ''Ich‑Du'' cannot be proven to happen as an event (e. g., it cannot be measured), Buber stressed that it is real and perceivable. A variety of examples are used to illustrate ''Ich‑Du'' relationships in daily life—two lovers, an observer and a cat, the author and a tree, and two strangers on a train. Common English words used to describe the ''Ich‑Du'' relationship include encounter, meeting, dialogue, mutuality, and exchange.
+
+One key ''Ich‑Du'' relationship Buber identified was that which can exist between a human being and God. Buber argued that this is the only way in which it is possible to interact with God, and that an ''Ich‑Du'' relationship with anything or anyone connects in some way with the eternal relation to God.
+
+To create this I–Thou relationship with God, a person has to be open to the idea of such a relationship, but not actively pursue it. The pursuit of such a relation creates qualities associated with It‑ness, and so would prevent an I‑You relation, limiting it to I‑It. Buber claims that if we are open to the I–Thou, God eventually comes to us in response to our welcome. Also, because the God Buber describes is completely devoid of qualities, this I–Thou relationship lasts as long as the individual wills it. When the individual finally returns to the I‑It way of relating, this acts as a barrier to deeper relationship and community.
+
+==== ''Ich-Es'' ====
+The ''Ich-Es'' ("I‑It") relationship is nearly the opposite of ''Ich‑Du''.<ref name="KramerGawlick2003"/> Whereas in ''Ich‑Du'' the two beings encounter one another, in an ''Ich‑Es'' relationship the beings do not actually meet. Instead, the "I" confronts and qualifies an idea, or conceptualization, of the being in its presence and treats that being as an object. All such objects are considered merely mental representations, created and sustained by the individual mind. This is based partly on Kant's theory of [[phenomenon]], in that these objects reside in the cognitive agent's mind, existing only as thoughts. Therefore, the ''Ich‑Es'' relationship is in fact a relationship with oneself; it is not a dialogue, but a monologue.
+
+In the ''Ich-Es'' relationship, an individual treats other things, people, etc., as objects to be used and experienced. Essentially, this form of objectivity relates to the world in terms of the self – how an object can serve the individual's interest.
+
+Buber argued that human life consists of an oscillation between ''Ich‑Du'' and ''Ich‑Es'', and that in fact ''Ich‑Du'' experiences are rather few and far between. In diagnosing the various perceived ills of [[modernity]] (e. g., isolation, dehumanization, etc.), Buber believed that the expansion of a purely analytic, material view of existence was at heart an advocation of ''Ich‑Es'' relations - even between human beings. Buber argued that this paradigm devalued not only existents, but the meaning of all existence.
+
+== Students and colleagues ==
+Buber was a sort of mentor figure in the lives of [[Gershom Scholem]] and [[Walter Benjamin]], the 'Kabbalist of the Holy City' and the 'Marxist Rabbi' of Berlin during the era leading up to, overlapping with proceeding after the Holocaust (Benjamin died during his escape from Europe, but Buber retained contact with Scholem after the war).<ref name=":3">{{Cite book |last=Scholem |first=Gershom |title=Walter Benjamin: The Story of a Friendship |publisher=JPS |year=1981 |pages=7, 13, 25–29, 88, 105, 110, 116, 118, 127, 138, 186}}</ref><ref name="How I Came to the Kabbalah">{{Cite web |date=1980-05-01 |title=How I Came to the Kabbalah |url=https://www.commentary.org/articles/gershom-scholem/how-i-came-to-the-kabbalah/ |access-date=2024-05-04 |website=Commentary Magazine |language=en-US}}</ref>
+
+While his relationship with these two was sometimes unilaterally contentious (with the students occasionally attacking or critiquing their patron somewhat viciously) Buber acted as an impresario, publisher and by various means as one of the great sponsors of their careers and growing reputations. Scholem was to be amongst the friends and interested parties who helped attend to and orchestrate Buber's eventual emigration to Palestine from the very beginning stages of that discussion during the rise of Hitler.<ref name=":3" /><ref name="How I Came to the Kabbalah"/> They corresponded also in regards to their work with [[Brit Shalom (political organization)|Brit Shalom]], an early think-tank that was tasked with figuring out the dynamics of two-state solution to be brokered between Israel and Palestine more than twenty years before Israel became a nation state—and also about a great many issues regarding their shared interest in ancient, sacred and often mystical Jewish literature whilst keeping tabs likewise on mutual acquaintances and important publications in their fields of interest.<ref>{{Cite book |last=Scholem |first=Gershom |title=A Life In Letters}}</ref> Scholem dedicated his bibliography of the Zohar to Buber.<ref name=":3" />
+
+== Hasidism and mysticism ==
+Buber was a scholar, interpreter, and translator of Hasidic lore. He viewed Hasidism as a source of cultural renewal for Judaism, frequently citing examples from the Hasidic tradition that emphasized community, interpersonal life, and meaning in common activities (e. g., a worker's relation to his tools). The Hasidic ideal, according to Buber, emphasized a life lived in the unconditional presence of God, where there was no distinct separation between daily habits and religious experience. This was a major influence on Buber's philosophy of anthropology, which considered the basis of human existence as dialogical.
+
+In 1906, Buber published ''Die Geschichten des Rabbi Nachman'', a collection of the tales of the [[Rabbi]] [[Nachman of Breslov]], a renowned Hasidic ''[[rebbe]]'', as interpreted and retold in a [[Neo‐Hasidism|Neo-Hasidic]] fashion by Buber. Two years later, Buber published ''Die Legende des Baalschem'' (stories of the [[Baal Shem Tov]]), the founder of Hasidism.<ref name="Zank2006" />
+
+== Awards and recognition ==
+* In 1951, Buber received the [[Johann Wolfgang von Goethe|Goethe]] award of the [[University of Hamburg]].
+* In 1953, he received the [[Peace Prize of the German Book Trade]].
+* In 1958, he was awarded the [[Israel Prize]] in the humanities.<ref>{{cite web|url=http://cms.education.gov.il/EducationCMS/Units/PrasIsrael/Tashyag/Tashkab_Tashyag_Rikuz.htm?DictionaryKey=Tashyah |title=Recipients |year=1958 |language=he |publisher=Israel Prize |archive-url=https://web.archive.org/web/20120208115723/http://cms.education.gov.il/EducationCMS/Units/PrasIsrael/Tashyag/Tashkab_Tashyag_Rikuz.htm?DictionaryKey=Tashyah |archive-date=February 8, 2012 |url-status=dead }}</ref>
+* In 1961, he was awarded the [[Bialik Prize]] for Jewish thought.<ref name=bialik>{{cite web|title=List of Bialik Prize recipients 1933–2004 |language=he |publisher=Tel Aviv Municipality |url=http://www.tel-aviv.gov.il/Hebrew/_MultimediaServer/Documents/12516738.pdf |url-status=dead |archive-url=https://web.archive.org/web/20071217143811/http://www.tel-aviv.gov.il/Hebrew/_MultimediaServer/Documents/12516738.pdf |archive-date=2007-12-17 }}</ref>
+* In 1963, he won the [[Erasmus Prize]] in [[Amsterdam]].<ref>{{cite book | url=https://books.google.com/books?id=j-qKDwAAQBAJ&pg=PA313 | title=Martin Buber | isbn=978-0-300-15304-0 | last1=Mendes-Flohr | first1=Paul | date=January 2019 | publisher=Yale University Press }}</ref>
+
+== Published works ==
+
+=== In English ===
+
+*1937, I and Thou, transl. by Ronald Gregor Smith, Edinburgh: T. and T. Clark. 2nd Edition New York: Scribners, 1958. 1st Scribner Classics ed. New York, NY: Scribner, 2000, c1986
+*1952, Eclipse of God, New York: Harper and Bros. 2nd Edition Westport, Conn.: Greenwood Press, 1977.
+*1952, Good & Evil, New York: Scribner 
+*1957, Pointing the Way, transl. Maurice Friedman, New York: Harper, 1957, 2nd Edition New York: Schocken, 1974.
+*1960, The Origin and Meaning of Hasidism, transl. M. Friedman, New York: Horizon Press.
+*1964, Daniel: Dialogues on Realization, New York, Holt, Rinehart and Winston.
+*1965, The Knowledge of Man, transl. Ronald Gregor Smith and Maurice Friedman, New York: Harper & Row. 2nd Edition New York, 1966.
+*1966, The Way of Response: Martin Buber; Selections from his Writings, edited by N. N. Glatzer. New York: Schocken Books.
+*1967a, A Believing Humanism: My Testament, translation of Nachlese (Heidelberg 1965) by M. Friedman, New York: Simon and Schuster.
+*1967b, On Judaism, edited by Nahum Glatzer and transl. by Eva Jospe and others, New York: Schocken Books.
+*1968, On the Bible: Eighteen Studies, edited by Nahum Glatzer, New York: Schocken Books.
+*1970a, I and Thou, a new translation with a prologue “I and you” and notes by Walter Kaufmann, New York: Scribner's Sons.
+*1970b, Mamre: Essays in Religion, translated by [[Greta Hort]], Westport, Conn.: Greenwood Press.
+*1970c, Martin Buber and the Theater, Including Martin Buber's “Mystery Play” Elijah, edited and translated with three introductory essays by Maurice Friedman, New York, Funk &Wagnalls.
+*1972, Encounter: Autobiographical Fragments. La Salle, Ill.: Open Court.
+*1973a, On Zion: the History of an Idea, with a new foreword by Nahum N. Glatzer, Translated from the German by Stanley Godman, New York: Schocken Books.
+*1973b, Meetings, edited with an introduction and bibliography by Maurice Friedman, La Salle, Ill.: Open Court Pub. Co. 3rd ed. London, New York: Routledge, 2002.
+*1983, A Land of Two Peoples: Martin Buber on Jews and Arabs, edited with commentary by Paul R. Mendes-Flohr, New York: Oxford University Press. 2nd Edition Gloucester, Mass.: *Peter Smith, 1994
+*1985, Ecstatic Confessions, edited by Paul Mendes-Flohr, translated by Esther Cameron, San Francisco: Harper & Row.
+*1991a, Chinese Tales: Zhuangzi, Sayings and Parables and Chinese Ghost and Love stories, translated by Alex Page, with an introduction by Irene Eber, Atlantic Highlands, N.J.: Humanities Press International.
+*1991b, Tales of the Hasidim, foreword by Chaim Potok, New York: Schocken Books, distributed by Pantheon.
+*1992, On Intersubjectivity and Cultural Creativity, edited and with an introduction by S.N. Eisenstadt, Chicago: University of Chicago Press.
+*1994, Scripture and Translation, Martin Buber and Franz Rosenzweig, translated by Lawrence Rosenwald with Everett Fox. Bloomington: Indiana University Press.
+*1996, Paths in Utopia, translated by R.F. Hull. Syracuse: Syracuse University Press.
+*1999a, The First Buber: Youthful Zionist Writings of Martin Buber, edited and translated from the German by Gilya G. Schmidt, Syracuse, N.Y.: Syracuse University Press.
+*1999b, Martin Buber on Psychology and Psychotherapy: Essays, Letters, and Dialogue, edited by Judith Buber Agassi, with a foreword by Paul Roazin, New York: Syracuse University Press.
+*1999c, Gog and Magog: A Novel, translated from the German by Ludwig Lewisohn, Syracuse, NY: Syracuse University Press.
+*2002a, The Legend of the Baal-Shem, translated by Maurice Friedman, London: Routledge.
+*2002b, Between Man and Man, translated by Ronald Gregor-Smith, with an introduction by Maurice Friedman, London, New York: Routledge.
+*2002c, The Way of Man: According to the Teaching of Hasidim, London: Routledge.
+*2002d, The Martin Buber Reader: Essential Writings, edited by Asher D. Biemann, New York: Palgrave Macmillan.
+*2002e, Ten Rungs: Collected Hasidic Sayings, translated by Olga Marx, London: Routledge.
+*2003, Two Types of Faith, translated by Norman P. Goldhawk with an afterword by David Flusser, Syracuse, N.Y.: Syracuse University Press.
+
+=== Original writings (German) ===
+{{Div col}}
+* ''Die Geschichten des Rabbi Nachman'' (1906)
+* ''Die fünfzigste Pforte'' (1907)
+* ''Die Legende des Baalschem'' (1908)
+* ''Ekstatische Konfessionen'' (1909)
+* ''Chinesische Geister- und Liebesgeschichten'' (1911)
+* ''Daniel – Gespräche von der Verwirklichung'' (1913)
+* ''Die jüdische Bewegung – gesammelte Aufsätze und Ansprachen 1900–1915'' (1916)
+* ''Vom Geist des Judentums – Reden und Geleitworte'' (1916)
+* ''Die Rede, die Lehre und das Lied – drei Beispiele'' (1917)
+* ''Ereignisse und Begegnungen'' (1917)
+* ''Der grosse Maggid und seine Nachfolge'' (1922)
+* ''Reden über das Judentum'' (1923)
+* ''[[I and Thou|Ich und Du]]'' (1923)
+** Translation: ''[[I and Thou]]'' by [[Walter Kaufmann (philosopher)|Walter Kaufmann]] (Touchstone: 1970)
+* ''Das Verborgene Licht'' (1924)
+* ''Die chassidischen Bücher'' (1928)
+* ''Aus unbekannten Schriften'' (1928)
+* ''Zwiesprache'' (1932)
+* ''Kampf um Israel – Reden und Schriften 1921–1932'' (1933)
+* ''Hundert chassidische Geschichten'' (1933)
+* ''Die Troestung Israels : aus Jeschajahu, Kapitel 40 bis 55'' (1933); with Franz Rosenzweig
+* ''Erzählungen von Engeln, Geistern und Dämonen'' (1934)
+* ''Das Buch der Preisungen'' (1935); with Franz Rosenzweig
+* ''Deutung des Chassidismus – drei Versuche'' (1935)
+* ''Die Josefslegende in aquarellierten Zeichnungen eines unbekannten russischen Juden der Biedermeierzeit'' (1935)
+* ''Die Schrift und ihre Verdeutschung'' (1936); with Franz Rosenzweig
+* ''Aus Tiefen rufe ich Dich – dreiundzwanzig Psalmen in der Urschrift'' (1936)
+* ''Das Kommende : Untersuchungen zur Entstehungsgeschichte des Messianischen Glaubens – 1. Königtum Gottes'' (1936 ?)
+* ''Die Stunde und die Erkenntnis – Reden und Aufsätze 1933–1935'' (1936)
+* ''Zion als Ziel und als Aufgabe – Gedanken aus drei Jahrzehnten – mit einer Rede über Nationalismus als Anhang'' (1936)
+* ''Worte an die Jugend'' (1938)
+* ''Moseh'' (1945)
+* ''Dialogisches Leben – gesammelte philosophische und pädagogische Schriften'' (1947)
+* ''Der Weg des Menschen : nach der chassidischen Lehre'' (1948)
+* ''Das Problem des Menschen'' (1948, Hebrew text 1942)
+* ''Die Erzählungen der Chassidim'' (1949)
+* ''Gog und Magog – eine Chronik'' (1949, Hebrew text 1943)
+* ''Israel und Palästina – zur Geschichte einer Idee'' (1950, Hebrew text 1944)
+* ''Der Glaube der Propheten'' (1950)
+* ''Pfade in Utopia'' (1950)
+* ''Zwei Glaubensweisen'' (1950)
+* ''Urdistanz und Beziehung'' (1951)
+* ''Der utopische Sozialismus'' (1952)
+* ''Bilder von Gut und Böse'' (1952)
+* ''Die Chassidische Botschaft'' (1952)
+* ''Recht und Unrecht – Deutung einiger Psalmen'' (1952)
+* ''An der Wende – Reden über das Judentum'' (1952)
+* ''Zwischen Gesellschaft und Staat'' (1952)
+* ''Das echte Gespräch und die Möglichkeiten des Friedens'' (1953)
+* ''Einsichten : aus den Schriften gesammelt'' (1953)
+* ''Reden über Erziehung'' (1953)
+* ''Gottesfinsternis – Betrachtungen zur Beziehung zwischen Religion und Philosophie'' (1953)
+** Translation ''Eclipse of God: Studies in the Relation Between Religion and Philosophy'' (Harper and Row: 1952)
+* ''Hinweise – gesammelte Essays'' (1953)
+* ''Die fünf Bücher der Weisung – Zu einer neuen Verdeutschung der Schrift'' (1954); with [[Franz Rosenzweig]]
+* ''Die Schriften über das dialogische Prinzip'' (''Ich und Du'', ''Zwiesprache'', ''Die Frage an den Einzelnen'', ''Elemente des Zwischenmenschlichen'') (1954)
+* ''Sehertum – Anfang und Ausgang'' (1955)
+* ''Der Mensch und sein Gebild'' (1955)
+* ''Schuld und Schuldgefühle'' (1958)
+* ''Begegnung – autobiographische Fragmente'' (1960)
+* ''Logos : zwei Reden'' (1962)
+* ''Nachlese'' (1965)
+{{Div col end}}
+
+<!--This source says this Martin Buber's birthdate and death is 1878 to 1965 so it has to be the same person-->''Chinesische Geister- und Liebesgeschichten'' included the first German translation ever made of ''[[Strange Stories from a Chinese Studio]]''. Alex Page translated the ''Chinesische Geister- und Liebesgeschichten'' as "Chinese Tales", published in 1991 by [[Humanities Press]].<ref>Chiang, Lydia Sing-Chen. ''Collecting The Self: Body And Identity In Strange Tale Collections Of Late Imperial China'' (''Volume 67 of Sinica Leidensia''). [[Brill Publishers|BRILL]], 2005. {{ISBN|9004142037}}, 9789004142039. p. [https://books.google.com/books?id=lgSqRGTP7UoC&pg=PA62 62].</ref>
+
+===Collected works===
+''Werke'' 3 volumes (1962–1964)
+* I ''Schriften zur Philosophie'' (1962)
+* II ''Schriften zur Bibel'' (1964)
+* III ''Schriften zum Chassidismus'' (1963)
+
+''Martin Buber Werkausgabe'' (MBW). Berliner Akademie der Wissenschaften / Israel Academy of Sciences and Humanities, ed. Paul Mendes-Flohr & Peter Schäfer with Martina Urban; 21 volumes planned (2001–)
+
+===Correspondence===
+''Briefwechsel aus sieben Jahrzehnten 1897–1965'' (1972–1975)
+* I : ''1897–1918'' (1972)
+* II : ''1918–1938'' (1973)
+* III : ''1938–1965'' (1975)
+
+Several of his original writings, including his personal archives, are preserved in the [[National Library of Israel]], formerly the Jewish National and University Library, located on the campus of the [[Hebrew University of Jerusalem]]<ref>{{cite web|url=https://www.uibk.ac.at/brenner-archiv/projekte/jerusalem/links/jnul.pdf|title=Archivbestände in der Jewish National and University Library|website=Uibk.ac.at|access-date=9 August 2019}}</ref>
+
+== See also ==
+{{Div col}}
+* [[Existential therapy]]
+* [[Guilt (emotion)|Guilt]]
+* [[Humanistic psychology]]
+* [[Intersubjectivity]]
+* [[Contextual therapy]]
+* [[André Neher]]
+* [[List of Israel Prize recipients]]
+* [[Bialik Prize|List of Bialik Prize recipients]]
+* [[Jewish existentialism]]
+ {{Div col end}}
+
+== References ==
+{{Reflist}}
+
+==Sources==
+;Biographies
+* {{Citation | first = Wolfgang | last = Zink | title = Martin Buber – 1878/1978 | year = 1978}}
+* {{Citation | first = Clara Levi | last = Coen | title = Martin Buber | year = 1991}}
+* {{Citation | first = Maurice | last = Friedman | title = Martin Buber's Life and Work: The Early Years, 1878–1923 | year = 1981}}
+* {{Citation | first = Maurice | last = Friedman | title = Martin Buber's Life and Work: The Middle Years, 1923–1945 | year = 1983}}
+* {{Citation | first = Maurice | last = Friedman | title = Martin Buber's Life and Work: The Later Years, 1945–1965 | year = 1984}}
+* {{Citation | first = Dominique | last = Bourel | title = Martin Buber: Sentinelle de l'humanité | year = 2015}}
+* {{Citation | first = Paul| last = Mendes-Flohr | title = Martin Buber: A Life of Faith and Dissent |url=https://books.google.com/books?id=XQ-LDwAAQBAJ&q=Paul+mendes+flohr| year = 2019| publisher = Yale University Press | isbn = 9780300245233 }}
+
+== Further reading ==
+* {{Citation | first1 = Paul Arthur | last1 = Schilpp | first2 = Maurice | last2 = Friedman | title = The philosophy of Martin Buber | year = 1967}}.
+* {{Citation | first = Rivka | last = Horwitz | title = Buber's way to "I and thou" – an historical analysis and the first publication of Martin Buber's lectures "Religion als Gegenwart" | year = 1978}}.
+* {{Citation | first1 = Margot | last1 = Cohn | first2 = Rafael | last2 = Buber | title = Martin Buber – a bibliography of his writings, 1897–1978 | year = 1980}}.
+* {{Citation | first = Joachim | last = Israel | title = Martin Buber – Dialogphilosophie in Theorie und Praxis | year = 2010}}.
+* {{Citation | first = Hune | last = Margulies | title= Will and Grace: Meditations on the Dialogical Philosophy of Martin Buber. | year = 2017}}
+* Morgan, W. John and Guilherme, Alexandre (2014), ''Buber and Education: Dialogue as Conflict Resolution '', Routledge, Taylor and Francis, London and New York, {{ISBN|978-0-415-81692-2}}.
+* Nelson, Eric S. (2017). [https://books.google.com/books?id=SXUpDwAAQBAJ&q=chineSe+buddhist+german ''Chinese and Buddhist Philosophy in Early Twentieth-Century German Thought''] London: Bloomsbury. {{ISBN|9781350002555}}.
+* Mendes-Flohr, Paul. [2019] ‘’Martin Buber - A Life of Faith and Dissent’’, Yale, New Haven & London
+* Margulies, Hune (2022) "Martin Buber and Eastern Wisdom Teachings: The Recovery of the Spiritual Imagination", Cambridge Scholars Publishers, UK.
+
+== External links ==
+{{sister project links|d=Q84423|commons=Category:Martin Buber|voy=no|species=no|mw=no|n=no|wikt=no|b=no|s=no|v=no}}
+* [http://sammlungen.ub.uni-frankfurt.de/judaica/search/quick?query=Buber%2C+martin Literature by and about Martin Buber in University Library JCS Frankfurt am Main: Digital Collections Judaica]
+* [http://www.buber.de/en/ Martin Buber Homepage] {{Webarchive|url=https://web.archive.org/web/20110718204259/http://buber.de/en/ |date=2011-07-18 }}
+* [http://www.iep.utm.edu/buber/ Martin Buber&nbsp;– The Internet Encyclopedia of Philosophy article by Sarah Scott]
+* {{cite SEP |url-id=buber |title=Martin Buber |last=Zank|first=Michael}}
+* [http://martinbuberinstitute.dialogicalecology.org The Martin Buber Institute for Dialogical Ecology]
+*[https://search.cjh.org/primo-explore/search?query=creator,contains,Martin%20Buber,AND&tab=default_tab&search_scope=LBI&vid=lbi&facet=tlevel,include,online_resources&facet=creator,include,Buber,%20M&mode=advanced&offset=0 Digitized works by Martin Buber] at the [[Leo Baeck Institute, New York]]
+
+{{philosophy of religion}}
+{{Authority control}}
+
+{{DEFAULTSORT:Buber, Martin}}
+[[Category:1878 births]]
+[[Category:1965 deaths]]
+[[Category:Jews from Galicia (Eastern Europe)]]
+[[Category:20th-century Israeli Jews]]
+[[Category:Austrian emigrants to Israel]]
+[[Category:Writers from Vienna]]
+[[Category:Academic staff of Goethe University Frankfurt]]
+[[Category:Academic staff of the Hebrew University of Jerusalem]]
+[[Category:Israel Prize in humanities recipients]]
+[[Category:Israel Prize in humanities recipients who were philosophers]]
+[[Category:Members of the Israel Academy of Sciences and Humanities]]
+[[Category:People from Innere Stadt]]
+[[Category:Relational ethics]]
+[[Category:Translation scholars]]
+[[Category:Translators of the Bible into German]]
+[[Category:Hasidic Judaism]]
+[[Category:20th-century Austrian philosophers]]
+[[Category:Philosophers of Judaism]]
+[[Category:Austrian socialists]]
+[[Category:Austrian pacifists]]
+[[Category:Austrian Jewish theologians]]
+[[Category:19th-century Austrian theologians]]
+[[Category:Austrian Zionists]]
+[[Category:Israeli socialists]]
+[[Category:Israeli pacifists]]
+[[Category:20th-century Israeli philosophers]]
+[[Category:Judaic scholars]]
+[[Category:Existentialist theologians]]
+[[Category:Jewish existentialists]]
+[[Category:Jewish pacifists]]
+[[Category:Jewish philosophers]]
+[[Category:Jewish socialists]]
+[[Category:Utopian socialists]]
+[[Category:Presidents of the Israel Academy of Sciences and Humanities]]
+[[Category:Jewish translators of the Bible]]
+[[Category:20th-century Austrian translators]]
+[[Category:Jewish emigrants from Nazi Germany]]
+[[Category:20th-century Jewish theologians]]
+[[Category:20th-century Austrian theologians]]
+[[Category:Burials at Har HaMenuchot]]
+[[Category:20th-century Austrian Jews]]
+[[Category:20th-century Austrian male writers]]
+[[Category:Immigrants of the Fifth Aliyah]]
+[[Category:Bialik Prize recipients]]

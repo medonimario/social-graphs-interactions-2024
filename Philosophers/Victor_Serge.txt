@@ -1,0 +1,125 @@
+{{short description|Russian revolutionary and French-language author (1890–1947)}}
+{{Expand French|topic=bio|Victor Serge|date=April 2024}}
+{{Use American English|date=August 2022}}
+{{Use mdy dates|date=August 2022}}
+{{Infobox person
+| name=Victor Serge
+| image       = Victor serge.jpg
+| caption     =
+| birth_date  = {{birth date text|December 30, 1890}} 
+| birth_place = [[Brussels]], Belgium
+| death_date  = {{death-date and age|November 17, 1947|December 30, 1890}} 
+| death_place = [[Mexico City]], Mexico
+| nationality = {{hlist|[[Belgians|Belgian]]|[[Russians|Russian]]}}
+| party       = {{plainlist|
+* [[Belgian Labour Party|Socialist Young Guards]] {{small|(1905–1909)}} 
+* [[Communist Party of the Soviet Union#Name|Russian Communist Party]] {{small|(1919–1928)}}
+* [[POUM]] {{small|(1937)}}
+}}
+| partner     = [[Laurette Séjourné]]
+| spouse      = Liuba Russakova 
+| children    = 2, including [[Vlady Kibalchich Rusakov|Vlady]] 
+| signature = Victor Serge signature.svg
+}}
+'''Victor Serge''' ({{IPA|fr|viktɔʁ sɛʁʒ|lang}}; December 30, 1890 – November 17, 1947), born '''Victor Lvovich Kibalchich''' ({{langx|ru|Ви́ктор Льво́вич Киба́льчич}}), was a Russian writer, poet, [[Marxist]] revolutionary and historian. Originally an [[anarchist]], he joined the [[Bolsheviks]] five months after arriving in [[Petrograd]] in January 1919 and later worked for the [[Comintern]] as a journalist, editor and translator. He was critical of the [[Stalinist]] regime and remained a revolutionary Marxist until his death. He was a close supporter of the [[Left Opposition]] and associate of [[Leon Trotsky]].<ref>{{cite book |last1=Weissman |first1=Susan |title=Victor Serge: A Political Biography |date=15 April 2014 |publisher=Verso Books |isbn=978-1-78168-957-8 |pages=1–30 |url=https://books.google.com/books?id=Cm3nDwAAQBAJ&q=victor+serge+left+opposition |language=en}}</ref> According to [[William Giraldi]], Serge's novels may be "read like an alloy of" [[George Orwell]] and [[Franz Kafka]]: "the uncommon political acuity of Orwell and the absurdist comedy of Kafka, a comedy with the damning squint of satire, except the satire is real."<ref>{{cite web | author-first=William | author-last=Giraldi | website=[[The Baffler]] | url=https://thebaffler.com/latest/victor-serge-unconquered | title=Victor Serge, the Unconquered | date=May 25, 2015 }}</ref> In his studies of Serge, [[Richard Greeman]] described him as a [[Literary modernism|Modernist]] writer influenced by [[James Joyce]], [[Andrei Bely]] and Freud; Greeman also believed that Serge, although writing in French, continued the experiments of such Russian Soviet writers as [[Isaac Babel]], [[Osip Mandelstam]] and [[Boris Pilnyak]] and poets [[Vladimir Mayakovsky]] and [[Sergei Yesenin]].<ref>{{cite journal |id={{Project MUSE|427121}} |last1=Greeman |first1=Richard |title=Victor Serge's The Case of Comrade Tulayev |journal=Minnesota Review |date=1980 |volume=15 |issue=1 |pages=61–79 }}</ref> He is remembered as the author of novels and other prose works, memoirs (e.g. ''[[Memoirs of a Revolutionary]]'') and poetry. Among his novels chronicling the lives of Soviet people and revolutionaries and of the first half of the 20th century, the best-known is ''The Case of Comrade Tulayev'' ({{langx|fr|L'affaire Toulaev}}). [[Nicholas Lezard]] calls the novel " of the great 20th-century Russian novels" that follows the traditions of "[[Nikolai Gogol|Gogolian]] absurdity".<ref>{{cite news | url=https://www.theguardian.com/books/2004/sep/18/featuresreviews.guardianreview25 | title=Run over by history | newspaper=The Guardian | date=September 18, 2004 | last1=Lezard | first1=Nicholas }}</ref>
+
+==Early life==
+Serge was born in Belgium to Russian revolutionaries in exile. He had little formal schooling and left home in his teens. He lived in a French mining village, worked as a typesetter, and went to Paris. While in Paris he became an anarchist and editor of one of the movement's newspapers.<ref name=Hochschild>{{cite book|first=Adam|last=Hochschild |title=Finding the Trapdoor: Essays, Portraits, Travels|publisher=Syracuse University Press|year=1997|page=65-87|chapter="Two Russians,"}} Excerpted in NYRB edition of Memoirs of a Revolutionary</ref>
+
+During that time he was caught up in the trial of the [[Bonnot Gang]] with his then-wife [[Rirette Maîtrejean]] and others. Some of the accused were executed, the women were acquitted and Serge was sentenced to five years imprisonment for refusing to testify. He was 22 years old at the time of his sentencing and was released in 1917.<ref name=Bonnot>{{cite book|first=Richard|last=Parry|title=The Bonnot Gang|publisher=Rebel Press|year=1987|isbn=978-0-946061-04-4}}</ref><ref name=Hochschild />
+
+In 1919 he arrived in revolutionary Russia during the civil war between the Red (revolutionary) and White (counter-revolutionary) armies. While concerned that the Bolsheviks were repressing opposition to their left, he later wrote, "Even if there was only one chance in a hundred for the regeneration of the revolution and its workers' democracy, that chance had to be taken".<ref name=Hochschild />
+
+== Works available in English ==
+=== Fiction ===
+* ''The Long Dusk'' (1946) Translator: [[Ralph Manheim]]; New York : The Dial Press. Translation of ''Les derniers temps'', Montreal 1946.
+* ''The Case of Comrade Tulayev'' (1967) Translator: Willard R. Trask; New York : New York Review of Books Classics. Translation of ''L'Affaire Toulaev''. Paris 1949.
+* ''Birth of our Power'' (1967) Translator: Richard Greeman; New York : Doubleday. Translation of ''Naissance de notre force'', Paris 1931.
+* ''Men in Prison'' (1969) Translator: Richard Greeman; Garden City, NY: Doubleday. Translation of ''Les hommes dans le prison'', Paris 1930.
+* {{cite book|first=Victor|last=Serge|title=Conquered City|isbn=978-1-59017-366-4 |publication-date=2011|translator-first=Richard|translator-last=Greeman|location=New York City |publisher=[[NYRB Classics]]|trans-title=Ville conquise|language=fr|date=1932}}
+* {{cite book|first=Victor|last=Serge|title=Midnight in the Century|isbn=9781590177709 |publication-date=2014|translator-first=Richard|translator-last=Greeman|location=New York City|publisher=[[NYRB Classics]]|trans-title=S'il est minuit dans le siècle|language=fr|date=1939}}
+* {{cite book|first=Victor|last=Serge|title=Unforgiving Years|isbn=978-1-59017-247-6 |publication-date=2008|translator-first=Richard|translator-last=Greeman|location=New York City|publisher=[[NYRB Classics]]|trans-title=Les Années sans pardon|language=fr|date=1971}}
+* {{cite book|first=Victor|last=Serge|title=Last Times|isbn=9781681375144 |publication-date=2022|translator-first=Ralph|translator-last=Manheim|editor-first=Richard|editor-last=Greeman|location=New York City|publisher=[[NYRB Classics]]}} (revised edition of ''The Long Dusk'')
+
+=== Poems ===
+* ''Resistance'' (1989) Translator: James Brooks; San Francisco: City Lights. Translation of ''Résistance'', Paris 1938.
+
+=== Non-fiction: books ===
+* ''[https://www.marxists.org/archive/serge/1937/FromLeninToStalin-BW-T144.pdf From Lenin to Stalin]'' (1937) Translator: Ralph Manheim; New York: Pioneer Publishers. Translation of ''De Lénine à Staline'', Paris 1937.
+* ''Russia Twenty Years After'' (1937) Translator: Max Shachtman; New York: Pioneer Publishers. Translation of ''Destin d'une révolution'', Paris 1937. Also published as ''Destiny of a Revolution''.
+* ''[[Memoirs of a Revolutionary, 1901–1941]]'' (2012) Translator: Peter Sedgwick with George Paizis; New York: New York Review of Books Classics. Translation of ''Mémoires d'un révolutionnaire, 1901–1941'', Paris 1951.
+* ''[http://www.marxists.org/archive/serge/1930/year-one/index.htm Year One of the Russian Revolution]'' (1972) Translator: Peter Sedgwick; London: Allen Lane. Translation of ''L'An 1 de la révolution russe'', Paris 1930.
+* ''The Life and Death of Leon Trotsky'' (1973) (with [[Natalia Sedova|Natalia Sedova Trotsky]]) Translator: [[Arnold J. Pomerans]]; Garden City, NY: Doubleday. Translation of: ''Vie et mort de Leon Trotsky'', Paris 1951.
+* ''What Everyone Should Know About State Repression'' (1979) Translator: Judith White; London: New Park Publications. Translation of ''Les Coulisses d'une Sûreté générale. Ce que tout révolutionnaire devrait savoir sur la répression'', Paris 1926.
+* {{cite book|first=Victor|last=Serge|title=Notebooks 1936-1947|isbn=9781681372709 |publication-date=2008|translator-first2=Richard|translator-last2=Greeman|translator-first1=Mitchell|translator-last1=Abidor|location=New York City|publisher=[[NYRB Classics]]|editor-first1=Claudio|editor-last1=Albertani|editor-first2=Claude|editor-last2=Rioux}}
+=== Non-fiction: collections of essays and articles ===
+* ''The Century of the Unexpected – Essays on Revolution and Counter-Revolution'' (1994) Editor: [[Al Richardson (historian)|Al Richardson]]; special issue of ''[[Revolutionary History]]'', Vol.5 No.3.
+* ''The Serge-Trotsky Papers'' (1994) Editor: D.J. Cotterill; London: Pluto.
+* ''Revolution in Danger – Writings from Russia 1919–1921'' (1997) Translator: [[Ian Birchall]]; London: Redwords.
+* ''The Ideas of Victor Serge: A Life as a Work of Art'' (1997), Edited by Susan Weissman, London: Merlin Press.
+* ''Witness to the German Revolution'' (2000) Translator: Ian Birchall; London: Redwords.
+* ''Collected Writings on Literature and Revolution'' (2004) Translator and editor: [[Al Richardson (historian)|Al Richardson]]; London: Francis Boutle.
+
+=== Non-fiction: pamphlet ===
+* ''Kronstadt '21'' (1975) Translator: not named; London: Solidarity.
+
+'''Sources:''' British Library Catalogue and Catalog of the Library of Congress.
+
+== See also ==
+* [[Anarchism in France]]
+* [[Anti-Stalinist left]]
+* ''[[Transatlantic (TV series)|Transatlantic]]'' (portrayal in 2023 TV series)
+
+== References ==
+{{reflist}}
+
+== Sources ==
+* {{cite book|first=Susan |last=Weissman |title=Victor Serge: The Course is Set on Hope |publisher=[[Verso Books]] |location=London |date=2001}}
+* Adam Hochschild ''Finding the Trapdoor: Essays, Portraits, Travels'' (Syracuse University Press, 1997), "Two Russians," pp.&nbsp;65–87.
+
+== Further reading ==
+* {{cite news|url=https://www.theguardian.com/books/2012/aug/17/memoirs-revolutionary-victor-serge-review |work=[[The Guardian]] |date=17 August 2012 |title=Memoirs of a Revolutionary by Victor Serge – review |first=Sheila |last=Fitzpatrick}}
+* {{cite journal|first=Julián|last=Gorkin|year=1994|url=https://www.marxists.org/history/etol/revhist/backiss/vol5/no3/gorkin.html|title=The Last Years of Victor Serge, 1941–1947|journal=Revolutionary History|volume=5|issue=3}}
+* {{cite journal|first=Richard|last=Greeman|url=https://www.marxists.org/history/etol/newspape/isj2/1993/isj2-058/greeman.html|title=The return of Comrade Tulayev: Victor Serge and the tragic vision of Stalinism|journal=International Socialism|issue=58|year=1993}}
+* {{cite book|first=Peter|last=Sedgwick|chapter-url=http://www.marxists.org/archive/sedgwick/1963/xx/memoirs.htm|chapter=Introduction|editor-first=Victor|editor-last=Serge|title=Memoirs of a Revolutionary|title-link=Memoirs of a Revolutionary, 1901–1941|year=1978|orig-year=1963|publisher=[[Oxford University Press]]|isbn=0-19-281037-5|pages=ix-xxiv}}
+* {{cite journal|first=Peter|last=Sedgwick|url=https://www.marxists.org/archive/sedgwick/1984/xx/serge.htm|title=The Unhappy Elitist: Victor Serge's Early Bolshevism|journal=History Workshop Journal|issue=17|year=1984|volume=17 |pages=150–156 |doi=10.1093/hwj/17.1.150 }}
+* {{cite journal|editor-first=Susan|editor-last=Weissman|archive-url=https://web.archive.org/web/20050212230912/http://www.critiquejournal.net/c28.htm|url=http://www.critiquejournal.net/c28.htm|archive-date=12 February 2005|title=Introduction|journal=Critique|volume=28/29|access-date=14 March 2007}}
+* {{cite book|first=Susan|last=Weissman|title=Victor Serge. A Political Biography|location=[[London]]|publisher=[[Verso Books]]|edition=2nd|year=2013|isbn=9781844678877}}
+* {{cite book|first=Paul |last=Gordon |title=Vagabond Witness: Victor Serge and the politics of hope|location=UK |publisher=Zero Books|date=2013-05-31 |isbn=978-1-78099-327-0}}
+
+== External links ==
+{{Wikiquote}}
+* [http://www.marxists.org/archive/serge/index.htm Victor Serge Internet Archive] in the [[Marxists Internet Archive]]
+* Bulletin of the Russian Opposition: [http://www.marxists.org/history/etol/document/fi/serge.htm "Victor Serge and the IVth International"]. Statement criticising Serge by the editors of the Bulletin of the Russian Opposition, writing in ''Quatrième Internationale'', April 1939. Source: Victor Serge & Leon Trotsky, ''La Lutte Contre le Stalinisme''. Maspero, Paris, 1977. Translated for Marxist Internet Archive by Mitch Abidor in 2005. Retrieved April 28, 2005.
+* [[hdl:10079/fa/beinecke.serge|Victor Serge Papers]]. General Collection, Beinecke Rare Book and Manuscript Library.
+*[https://www.nybooks.com/articles/2023/01/19/the-faces-of-victor-serge-ben-lerner/ An essay] on Serge by [[Ben Lerner]] in ''The New York Review of Books''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Serge, Victor}}
+[[Category:1890 births]]
+[[Category:1947 deaths]]
+[[Category:Writers from Brussels]]
+[[Category:Anarcho-communists]]
+[[Category:Illegalists]]
+[[Category:Comintern people]]
+[[Category:Belgian people of Russian descent]]
+[[Category:Marxist journalists]]
+[[Category:Russian–French translators]]
+[[Category:Individualist anarchists]]
+[[Category:Russian anarchists]]
+[[Category:Russian communists]]
+[[Category:Russian socialists]]
+[[Category:20th-century Russian historians]]
+[[Category:Russian revolutionaries]]
+[[Category:Russian people of Polish descent]]
+[[Category:Soviet expellees]]
+[[Category:Soviet anarchists]]
+[[Category:Soviet Trotskyists]]
+[[Category:Communist writers]]
+[[Category:Russian Marxist writers]]
+[[Category:Soviet emigrants to France]]
+[[Category:Soviet emigrants to Belgium]]
+[[Category:Soviet emigrants to Mexico]]
+[[Category:Left Opposition]]
+[[Category:Modernist writers]]

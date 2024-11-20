@@ -1,0 +1,42 @@
+{{Short description|German philosopher and Protestant theologian (1716-1775)}}
+[[File:Christian August Crusius.jpg|thumb|Christian August Crusius]]  
+'''Christian August Crusius''' (10 January 1715 &ndash; 18 October 1775) was a German [[philosopher]] and [[protestantism|Protestant]] [[theology|theologian]].
+
+==Biography==
+Crusius was born in [[Leuna]] in the [[Electorate of Saxony]]. He was educated at the [[University of Leipzig]], and became professor of theology there in 1750, and principal in 1773.<ref name=EB1911/>
+
+Crusius first came to notice as an opponent of the philosophy of [[Gottfried Leibniz]] and [[Christian Wolff (philosopher)|Christian Wolff]] from the standpoint of religious orthodoxy. He attacked it mainly on the grounds of the [[moral]] evils that must flow from any system of [[determinism]], and attempted to vindicate the [[free will|freedom of the will]]. The most important works of this period of his life are ''Anweisung, vernünftig zu leben'' [Guide to Rational Living] (1744), ''Entwurf der nothwendigen Vernunftwahrheiten wiefern sie den zufälligen entgegengesetzt werden'' [Outline of the [[Principle of sufficient reason|Necessary Truths]] of Reason, in so far as they are Opposed to Contingent Truths] (1745), ''Weg zur Gewissheit und Zuverlässigkeit der menschlichen Erkenntniss'' [Path to Certainty and Reliability in Human Knowledge] (1747), and ''Anleitung, über natürliche Begebenheiten ordentlich und vorsichtig nachzudenken'' [Instruction on How to Reflect Correctly and Cautiously on Natural Events] (1749). Crusius' philosophical books had a great but short-lived popularity. His criticism of Wolff influenced [[Immanuel Kant]] at the time when his system was forming; and his ethical,<ref name=EB1911/> as well as epistemological, doctrines are cited in his [[habilitation thesis]] and the ''[[Critique of Practical Reason]]''.  Kant was both "deeply influenced by Crusius"<ref>I. Kant, ''Theoretical Philosophy: 1755&ndash;1770'', Cambridge University Press, p. 496</ref> and also explicitly refuted Crusius' characterization of Spirit in a footnote of his [[Prolegomena to Any Future Metaphysics]]: "Crusius alone thought of a  compromise: that a Spirit, who can neither err nor deceive, implanted these laws in us  originally. But since false principles often intrude themselves, as indeed the very  system of this man shows in not a few examples, we are involved in difficulties as to  the use of such a principle in the absence of sure criteria to distinguish the genuine  origin from the spurious, as we never can know certainly what the Spirit of truth or  the father of lies may have instilled into us."<ref>{{Cite web |title=Kant's Prolegomena |url=https://www.gutenberg.org/files/52821/52821-h/52821-h.htm |access-date=2023-07-21 |website=www.gutenberg.org |at=§36}}</ref> Kant also owned ''Anweisung'', ''Entwurf'', and ''Anleitung.''
+
+Crusius's later life was devoted to theology. He led the party in the university which became known as the "Crusianer" as opposed to the "Ernestianer," the followers of [[Johann August Ernesti|JA Ernesti]]. The two professors adopted opposite methods of exegesis. Ernesti wished to subject the Scripture in the same way as other ancient books; Crusius held firmly to orthodox ecclesiastical tradition.<ref name=EB1911/>
+
+He died in [[Leipzig]].
+
+==Philosophical work==
+Crusius's chief theological works are ''Hypomnemata ad theologiam propheticam'' (1764–78), and ''Kurzer Entwurf den Moraltheologie'' (''Short Outline of Moral Theology''; 1772–73); his most important philosophical work is ''Entwurf der notwendingen Venunftwahrheiten'' reprinted Darmstadt: Wissenschaftliche Buchgesellschaft, 1963. He opposed innovation in such matters as the accepted authorship of canonical writings, verbal inspiration, and the treatment of persons and events in the [[Old Testament]] as types of the [[New Testament|New]]. His views have influenced later evangelical students of the [[Old Testament]], such as [[Ernst Wilhelm Hengstenberg|EW Hengstenberg]] and [[Franz Delitzsch]].<ref name=EB1911/>
+
+There is a full notice of Crusius in Ersch and Gruber's ''Allgemeine Encyclopädie''. See also [[Johann Eduard Erdmann|JE Erdmann]]'s ''History of Philosophy''; [[Anton Marquardt]], ''Kant und Crusius''; and article in Herzog-Hauck, ''Realencyklopädie'' (1898).<ref name=EB1911>{{EB1911|wstitle=Crusius, Christian August|volume=7|page=552|inline=1}}</ref>
+
+==Notes==
+{{Reflist}}
+
+==References==
+* Crusius, Christian August.''Die philosophische Hauptwerke'', edited by Giorgio Tonelli, Hildesheim: Georg Olms, 1964 (four volumes).
+* Tonelli, Giorgio. "Crusius, Christian August" in Paul Edwards, ''The Encyclopedia of Philosophy'', New York: Macmillan, 1967, vol. 2, pp.&nbsp;268–271.
+
+==External links==
+* [http://www.ontology.co/biblio/history-continental-authors-2.htm The Birth of Ontology. A selection of Ontologists from 1560 to 1770]
+* [https://books.google.com/books?id=PsEAAAAAcAAJ ''Entwurf der nothwendigen Vernunftwahrheiten'' 3rd edition (1766)]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Crusius, Christian August}}
+[[Category:1715 births]]
+[[Category:1775 deaths]]
+[[Category:People from Leuna]]
+[[Category:People from the Electorate of Saxony]]
+[[Category:18th-century German Protestant theologians]]
+[[Category:18th-century German philosophers]]
+[[Category:Leipzig University alumni]]
+[[Category:Academic staff of Leipzig University]]
+[[Category:German male non-fiction writers]]
+[[Category:18th-century German male writers]]

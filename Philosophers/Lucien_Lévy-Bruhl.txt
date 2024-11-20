@@ -1,0 +1,77 @@
+{{Short description|French philosopher and anthropologist}}
+{{Expand French|topic=bio|Lucien Lévy-Bruhl|date=November 2014}}
+{{Use dmy dates|date=June 2022}}
+{{Infobox scientist
+| name              = Lucien Lévy-Bruhl
+| image             = 1923 Lucien Lévy-Bruhl.jpg
+| image_size        = 
+| caption           = [[Autochrome]] by Georges Chevalier, 1923
+| birth_date        = {{Birth date|1857|4|10|df=y}}
+| birth_place       = [[Paris]], France
+| death_date        = {{Death date and age|1939|3|13|1857|4|10|df=y}}
+| death_place       = Paris, France
+| residence         = 
+| citizenship       = 
+| nationality       = French
+| ethnicity         = 
+| field             = [[philosophy]], [[sociology]], [[ethnology]]
+| work_institutions = 
+| alma_mater        = [[École normale supérieure (Paris)|École normale supérieure]]
+| doctoral_advisor  = 
+| doctoral_students = [[Alice Voinescu]]
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| prizes            = 
+| religion          = 
+| footnotes         = 
+| signature         = 
+}}
+'''Lucien Lévy-Bruhl''' (10 April 1857 – 13 March 1939) was a French scholar trained in [[philosophy]] who furthered [[anthropology]] with his contributions to the budding fields of [[sociology]] and [[ethnology]]. His primary field interest was ways of thinking.
+
+Born in Paris, Lévy-Bruhl wrote about the mind in his work ''How Natives Think'' (1910), where he posited, as the two basic mindsets of mankind, the "primitive" and the "modern". The primitive mind does not differentiate the supernatural from reality but uses "mystical participation" to manipulate the world. According to Lévy-Bruhl, the primitive mind does not address contradictions. The modern mind, by contrast, uses reflection and [[logic]].
+
+Lévy-Bruhl did not necessarily believe in a historical and evolutionary [[teleology]] leading from the primitive mind to the modern, but this is often assumed because his work is rarely read in full; rather, his thought is more dynamic, as shown by his later ''Notebooks on Primitive Mentality'', where he admits that non-logical thought is common in modern societies, such as in gambling practices. Sociologist [[Stanislav Andreski]]<ref>{{cite book|last=Andreski|first=Stanislav |author-link=Stanislav Andreski|year=1972 |title=Social Sciences as Sorcery |location=London |publisher=Andre Deutsch}}{{page needed|date=June 2022}}</ref> argued that despite its flaws,{{which|date=March 2017}} Lévy-Bruhl's ''How Natives Think'' was an accurate and valuable contribution to anthropology, perhaps even more so than better-known work by [[Claude Lévi-Strauss]].
+
+Lévy-Bruhl's work, especially the concepts of ''[[collective representations]]''<ref>{{cite book|last=Jung|first=C. G.|author-link=Carl Jung|year=1971 |title=Les racines de la conscience : études sur l'archétype |language=fr |location=Paris|publisher=Buchet/Chastel |page=14}}</ref> and ''[[participation mystique]]'', influenced the psychological theory of [[Carl Jung]].
+
+His thought also plays a large part in the work of [[Norman O. Brown]].
+
+==Works==
+*''History of Modern Philosophy in France'' (1899)
+*''La philosophie d'Auguste Comte'' (1900), translated as {{cite book | title = The Philosophy of Auguste Comte | year = 1903 | url = https://www.gutenberg.org/ebooks/56517 | via=[[Project Gutenberg]]}}
+*''Les fonctions mentales dans les sociétés inférieures'' (1910), translated as ''How Natives Think'' (1926)
+*''La mentalité primitive'' (1922), translated as ''Primitive Mentality'' (1923)
+*''L'âme primitive'' (1927), translated as ''The "Soul" of the Primitive'' (1928, reedited in 1965 with a foreword by [[E. E. Evans-Pritchard]])
+*''Le surnaturel et la nature dans la mentalité primitive'' (1931), translated as ''Primitives and the Supernatural'' (1936)
+*''La mythologie primitive'' (''Primitive Mythology'', 1935)
+*''L'expérience mystique et les symboles chez les primitifs'' (''The Mystic Experience and Primitive Symbolism'', 1938)
+*''Les carnets de Lucien Lévy-Bruhl'' (''Notebooks of Lucien Lévy-Bruhl'', published posthumously in 1949)
+
+==References==
+<references/>
+
+== External links ==
+{{wikiquote}}
+{{wikiversity}}
+* {{Gutenberg author|id=48898}}
+* [http://www.bookrags.com/biography-lucien-levy-bruhl/index.html Biography of Lucien Lévy-Bruhl]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Levy-Bruhl, Lucien}}
+[[Category:1857 births]]
+[[Category:1939 deaths]]
+[[Category:19th-century French anthropologists]]
+[[Category:20th-century anthropologists]]
+[[Category:Anthropologists of religion]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:French male non-fiction writers]]
+[[Category:19th-century French philosophers]]
+[[Category:20th-century French philosophers]]
+[[Category:Levites]]
+[[Category:Writers from Paris]]
+
+
+{{reli-anthropologist-stub}}
+{{france-philosopher-stub}}

@@ -1,0 +1,143 @@
+{{Short description|German theoretician and political philosopher (1886–1961)}}
+{{More citations needed|date=March 2010}}
+{{Expand German}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[20th-century philosophy]]
+|image            = Korsch-karl.jpg
+|caption          = Karl Korsch
+|name             = Karl Korsch
+|birth_date       = 15 August 1886
+|birth_place      = [[Tostedt]], [[Province of Hanover]], [[Kingdom of Prussia|Prussia]], [[German Empire]]
+|death_date       = {{death date and age|1961|10|21|1886|8|15|df=y}}
+|death_place      = [[Belmont, Massachusetts]], USA
+|alma_mater       = [[University of Jena]] (Dr.jur., 1910)
+|school_tradition = [[Western Marxism]]
+|main_interests   = [[Politics]], [[economics]], [[law]]
+<!--|influences       = [[Fabian Society]], [[Immanuel Kant]], [[Georg Wilhelm Friedrich Hegel]], [[Karl Marx]], [[Friedrich Engels]], [[Vladimir Lenin]], [[Mikhail Bakunin]]
+|influenced       = [[Frankfurt School]], [[New Left]], [[Bertolt Brecht]], [[Douglas Kellner]], [[Felix Weil]], [[C.L.R. James]]-->
+|notable_ideas    = The principle of historical specification (comprehending all things social in terms of a definite historical epoch)
+}}
+{{Marxism}}
+
+'''Karl Korsch''' ({{IPA|de|ˈkaɐ̯l ˈkɔɐ̯ʃ|lang}}; August 15, 1886 – October 21, 1961) was a German [[Marxist]] [[Theoretician (Marxism)|theoretician]] and political philosopher.<ref>{{Cite journal|last=Devlin|first=Nicholas|date=2021|title=Karl Korsch and Marxism's interwar moment, 1917–1933|journal=History of European Ideas|volume=48 |issue=5 |pages=574–593 |doi=10.1080/01916599.2021.1975149|issn=0191-6599|doi-access=free}}</ref> He is recognized as one of the "[[dissident]]s" that challenged the [[Marxism]] of the [[Second International]] of [[Karl Kautsky]], [[Georgi Plekhanov]] and [[Vladimir Lenin|Lenin]].{{sfnp|Renton|2004|pp=60–63}} Along with [[György Lukács]], Korsch is considered to be one of the major figures responsible for laying the groundwork for [[Western Marxism]] in the 1920s.{{sfnp|Jacoby|1983|pp=523}}
+
+==Early years==
+Karl Korsch was born in the small rural village of [[Tostedt]] (near [[Hamburg]]) to [[Lutheranism|Lutheran]] parents, Carl August Korsch and his wife Therese (''née'' Raikowski) on August 15, 1886.{{sfnp|Goode|1983}}<ref>{{Cite web|title=Korsch, Karl| last = Weber | first = Hermann | website = Deutsche Biographie|url=https://www.deutsche-biographie.de/pnd118565567.html|access-date=2021-10-29|language=de | archive-url = https://web.archive.org/web/20191023000003/https://www.deutsche-biographie.de/pnd118565567.html | archive-date = 2019-10-23 | url-status = live }}</ref> Although Karl's father worked as a secretary in a city hall bureau, he was deeply devoted to studying the philosophy of [[Leibniz]] in his private life. He wrote an unpublished book covering the development of Leibnitz's theories of the monads.{{sfnp|Mulhern|2011|pp=15}} Always longing for something more urban and intellectual, Carl August made the decision to relocate his family west to a village just outside [[Meiningen]] in the [[Thuringia|Thuringen]] region when Karl was eleven years old.{{sfnp|Kellner|1977|pp=6–7}} The move not only allowed the elder Korsch to obtain employment at a local bank (where he eventually rose to the position of vice president), it also gave his children the opportunity to receive a better education. Karl, who showed great intellectual promise at a young age, excelled as a student during his years of schooling at Meiningen.
+
+Beginning in 1906, Korsch successively attended universities in [[Munich]], [[Geneva]], and [[Berlin]], studying various subjects such as philosophy and humanities in preparation for a more concentrated study in the field of law.{{sfnp|Kellner|1977|pp=6–7}} Korsch then entered the [[University of Jena]] (incidentally, the same university that awarded [[Karl Marx]] his doctorate in philosophy in 1841) to begin working on his law degree in 1908. When he was not occupied with his studies, Korsch was extremely active in the ''Freie Studenten'', a left-of-center student group which pushed for further liberalization of the school's code of behavior.{{sfnp|Kellner|1977|pp=6–7}} Korsch also found time to become editor of the student newspaper, to which he also contributed articles. In addition, Korsch organized and participated in lectures that featured prominent socialist speakers such as [[Eduard Bernstein]] and [[Karl Liebknecht]]. The extent of his extracurricular activities did not seem to have the slightest detrimental effect on Korsch's academic performance since he managed to earn his [[doctor of law]] from the University of Jena's in 1910. His thesis title was ''Die Anwendung der Beweislastregeln im Zivilprozess und das qualifizierte Geständnis'' (The application of the [[Burden of proof (law)|burden of proof]] in [[civil cases]] and the qualified confession). It was around this time that Korsch met [[Hedda Korsch|Hedda Gagliardi]], whom he would eventually marry in 1913.
+
+==First World War==
+Korsch received a grant in 1912 to travel to England and work on translating and writing a commentary to a legal text by Sir Ernest Schuster.{{sfnp|Kellner|1977|pp=6–7}} During this time, Korsch became a member of the [[Fabian Society]], a reformist socialist organization. In 1913 he married [[Hedda Korsch|Hedda Gagliardi]], who came from a [[bourgeois]] family.{{sfnp|Mulhern|2011|pp=14}} She was a grandchild of feminist [[Hedwig Dohm]], who would be closely involved in his theoretical work. Hedda Korsch from 1916 was a teacher at the [[Wickersdorf Free School Community]]. Korsch's stay in England came to an end in the summer of 1914 when he received orders to report to his military regiment at [[Meiningen]] for maneuvers. Despite being opposed to a war that he knew was on the horizon, Korsch nevertheless made the decision to return to his native country because in the words of his wife: “He wanted to be with the masses, and they would be in the army.” At the start of the war, Korsch initially held the rank of lieutenant but was quickly demoted to sergeant for daring to voice his objections to the [[German invasion of Belgium (1914)|German Army's invasion of neutral Belgium]]. However, these disciplinary measures did little to shake Korsch of his pacifist convictions; throughout the war, he refused to carry any sort of weapon into battle.{{sfnp|Renton|2004|p=64}} According to Hedda Korsch, Karl's rationale for going into combat unarmed was “that it made no difference, since you were just as safe with or without a weapon: the point was that you were safe neither way.” Instead of fighting, Korsch made it his personal mission to save as many lives as he could. As the conflict wore on, Korsch was decorated several times and was even re-promoted to the rank of captain. He was awarded the Iron Cross twice for his bravery under fire.{{sfnp|Renton|2004|p=64}} More important than these official accolades, Korsch's strong moral character and reputation for bravery under fire helped him garner the respect of many of the men in his company. An account cited that he had to change his North German accent to be understood by the soldiers and the common people.{{sfnp|Mulhern|2011|pp=15–16}}
+
+In 1917, he joined the [[Independent Social Democratic Party of Germany]] (USPD), which had broken away from the [[Social Democratic Party of Germany]] over the later's support for the war. When [[German Revolution of 1918–19|widespread unrest began to sweep through the German military in 1917]], this company established a soldiers' soviet with Korsch being elected by his fellow soldiers to serve as one of this soviet's delegates. This "red company" was one of the last to be demobilized, a process which occurred in January 1919.
+
+==Political activism in Germany, 1917–1933==
+Korsch's wartime experiences in Germany had radicalised him, especially the ferment within the leftwing parties of Germany following the [[Russian Revolution of 1917|Russian Revolution]]. Korsch focused his studies and writings on working-out a replacement economic system for [[workers' councils]] to implement across Germany, published under the title ''What is Socialization?'' in March 1919. Korsch  was part of the USPD faction which joined the [[German Communist Party]] in 1920. This was despite his misgivings about the [[twenty-one Conditions]] required for adherence to the [[Comintern]].<ref name="M&P intro">{{cite book|last1=Korsch|first1=Karl|editor1-last=Halliday|editor1-first=Fred|editor1-link=Fred Halliday|title=Marxism and Philosophy|isbn=0902308505|date=1970|publisher=Monthly Review Press|location=New York|url-access=registration|url=https://archive.org/details/marxismphilosoph0000kors}}</ref> He became Communist Minister of Justice in the regional [[Thuringia]]n government in October 1923.
+
+Korsch attributed the failure of the German revolution to the lack of ideological preparation and leadership of the working class. Accordingly, he turned his focus to developing workers' organisations into bodies subjectively capable of realizing revolutionary opportunities. In contrast to what seemed to him a [[materialist]] [[fatalism]], he thought it would be possible to galvanize workers' organisations into bolder political action if more effort was put into educating workers in the deeper theory of [[Marxism]].
+
+In 1926 he formed the [[Entschiedene Linke]] (Determined Left) with [[Ernst Schwarz (politician)|Ernst Schwarz]]. It initially attracted 7,000 members,<ref>[http://www.left-dis.nl/d/dhlinke3.pdf Die Entstehung der GIK, 1927-1933], accessed 13 July 2010</ref> before joining the [[Communist Workers Party of Germany]] in June 1927.
+
+==Exile==
+Having been active in left-wing politics in Germany from 1917 to 1933, he left his country of birth on 27 February 1933, the night of the [[Reichstag fire]]. At first he stayed in [[England]] and [[Denmark]].
+
+===The deaths of Dora Fabian and Mathilde Wurm===
+The bodies of [[Dora Fabian]] and [[Mathilde Wurm]] were found in a locked bedroom in London on 4 April 1935. In the subsequent [[coroner's inquest]] Korsch was to play a significant role. Fabian had been working with Dr. (Anton) Roy Ganz of the Swiss Police to investigate the activities of [[Hans Wesemann]], a former Social Democrat journalist who had become a Nazi agent.<ref>{{Cite book|url=https://books.google.com/books?id=eRSDDQAAQBAJ&q=Dr.&pg=PT37|title=A Matter of Intelligence: MI5 and the surveillance of anti-Nazi refugees, 1933-50|first1=Charmian|last1=Brinson|first2=Richard|last2=Dove|date=May 16, 2016|publisher=Manchester University Press|isbn=9781526110466 |accessdate=Feb 1, 2023|via=Google Books}}</ref> In fact Korsch had attended an interview with Ganz at which Inspector Jempson of the [[Special Branch (Metropolitan Police)|Special Branch]] had been present, but without Korsch being aware of his identity. Korsch later claimed that Ganz had encouraged him to reveal his revolutionary sentiments in front of the policeman and suggested that this was a factor in the expulsion of Korsch from Britain a few months later.
+
+===Life in the United States===
+In 1936, he settled in the United States with his wife, teaching at Tulane University, [[New Orleans]], and working at the International [[Institute for Social Research]], [[New York City]]. Korsch died in [[Belmont, Massachusetts]], on October 21, 1961.<ref>{{cite book|title=Thinkers of the Twentieth Century: A Biographical, Bibliographical, and Critical Dictionary|publisher=Gale Research Company|year=1983|page=300}}</ref>
+
+In his later work, he rejected [[orthodox Marxism]] as historically outmoded, wanted to adapt Marxism to a new historical situation, and wrote in his ''Ten Theses'' (1950) that "the first step in re-establishing a revolutionary theory and practice consists in breaking with that Marxism which claims to monopolize revolutionary initiative as well as theoretical and practical direction" and that "today, all attempts to re-establish the Marxist doctrine as a whole in its original function as a theory of the working classes social revolution are reactionary utopias."<ref>{{Cite web|url=https://www.marxists.org/archive/korsch/1950/ten-theses.htm|title=Ten Theses on Marxism Today by Karl Korsch (1950)|website=www.marxists.org|accessdate=Feb 1, 2023}}</ref>
+
+==Philosophical work==
+Korsch was especially concerned that Marxist theory was losing its precision and validity – in the words of the day, becoming "vulgarized" – within the upper echelons of the various socialist organizations. His masterwork, ''Marxism and Philosophy'', is an attempt to re-establish the historic character of Marxism as the heir to [[Georg Wilhelm Friedrich Hegel|Hegel]]. It commences with a quote from [[Vladimir Lenin]]'s ''On the Significance of Militant Materialism'': "We must organize a systematic study of the Hegelian dialectic from a materialist standpoint." Korsch's critique of traditional bourgeois concept of progress in his work ''Karl Marx'' stressed that the development of material productive sources is not a natural result or a result of independent economic evolution and can be changed by man.<ref>{{Cite book|last=Korsch|first=Karl|title=Karl Marx|publisher=BRILL|year=2016|isbn=978-90-04-19395-6|location=Leiden|pages=151}}</ref> He maintained that the revolutionary transformation of the mode of production and labor is essential to realize a proletarian revolution.<ref>{{Cite book|last=Piccone|first=Paul|title=Italian Marxism|publisher=Univ of California Press|year=1983|isbn=0-520-04798-2|location=Berkeley|pages=187}}</ref>
+
+In Korsch's formulation, Hegel represented at the level of ideas the real, material progressiveness of the [[bourgeoisie]]. Alongside the extinction of 'Hegelianism' around 1848, the bourgeoisie lost its claim to that progressive role in society, ceasing to be the [[universal class]]. Marx, in taking Hegel and transforming that philosophy into something new, in which the workers would be the progressive class, himself represented the moment at which the revolutionary baton materially passed from bourgeoisie to workers. To Korsch, the central idea of Marxian theory was what he termed "the principle of historical specification". This means to "comprehend all things social in terms of a definite historical epoch". (Korsch, ''Karl Marx'', p.&nbsp;24)  He emphasizes that Marx "deals with all categories of his economic and socio-historical research in that specific form and in that specific connection in which they appear in modern bourgeois society. He does not treat them as eternal categories." (op. cit., p.&nbsp;29f.) He was also noted for claiming that socialism must not confine itself to the "socialization of the means of production" and, instead, construct useful formula for the socialistic organization of the national economy.<ref>{{Cite book|last=Schmelzer|first=Albert|title=THE THREEFOLDING MOVEMENT, 1919: A History. Rudolf Steiner's Campaign For A Self-Governing, Self-Managing, Self-Educating Society|publisher=Rudolf Steiner Press|year=2017|isbn=978-1-85584-541-1|location=Forest Row|pages=25|language=en}}</ref>
+
+Korsch's stance had ramifications which were unpalatable to the official Communist Party structure – not least, casting the Party's own ideological weaknesses as the only material explanation for the failure of the revolution. Published in 1923, ''Marxism and Philosophy'' was strongly opposed by Party faithful and other left-wing figures, including [[Karl Kautsky]] and [[Grigory Zinoviev]].<ref name=Kolakowski>{{cite book | last = Kołakowski | first = Leszek | author-link = Leszek Kołakowski | title = Main Currents of Marxism | publisher = W. W. Norton & Company| location = London | date = 2005  | page = 1034 | isbn = 978-0-393-32943-8 | ref=i harv }}</ref>  Zinoviev famously said of Korsch and his fellow critic Lukács, "If we get a few more of these Professors spinning out their theories, we shall be lost." Over the subsequent five years, the German Communist Party gradually purged all such dissenting voices. Korsch survived within a current known as the Resolute Lefts, until his expulsion in April 1926.<ref name=Kolakowski /> He remained a communist deputy to the Reichstag.
+
+==Influence==
+Korsch is an oft-neglected figure within twentieth century [[political theory]].{{sfnp|Kellner|1977|pp=3}} While his critique was not accepted into the official [[Marxism–Leninism|Marxist–Leninist]] doctrine of the [[Third International]], it remained influential amongst communist dissenters and academics for several decades. Within those currents, particularly in Germany, Britain, Hungary and Italy, his influence varies from group to group, but became more significant with the brief revival of revolutionary politics in the late 1960s and early 1970s. Korsch taught and befriended [[Bertolt Brecht]], the Marxian playwright, who said he picked Korsch to instruct him in Marxism due to his independence from the Communist Party. It was through Brecht, moreover, that Korsch made the acquaintance of [[Walter Benjamin]], who had also been active in the ''Freie Studenten'' and who had attended the Wickersdorf Free School Community, where Korsch's wife, [[Hedda Korsch|Hedda Gagliardi]], had been a teacher.<ref>Kellner. “Korsch's Road to Marxian Socialism,” 14</ref> Korsch's book, ''Karl Marx'', which Benjamin read in manuscript form, is cited extensively in the convolute devoted to Marx in the ''[[Arcades Project]]''. According to Howard Eiland and Michael W. Jennings, the text was “one of Benjamin’s main sources [on]… Marxism,” introduced him “to an advanced understanding of Marxism.<ref>{{Cite book | last = Eiland | first = Howard | title = Walter Benjamin : A Critical Life.| location = Cambridge Mass | publisher = Belknap Press of Harvard University Press | date = 2016 |page = 465}}</ref><ref>{{Cite book | last = See also Nguyen | first = Duy Lap | title = Walter Benjamin and the Critique of Political Economy.| location = London | publisher = Bloomsbury academic | date = 2022 |pages = 142–159}}</ref>
+
+Korsch also instructed [[Felix Weil]], the founder of the [[Institute for Social Research]], from which the highly influential [[Frankfurt School]] was to emerge. He also influenced the German Marxist historian [[Arthur Rosenberg]]. Indirect disciples include [[Franz Jakubowski]] and [[Nildo Viana]]. [[Sidney Hook]] attended Korsch lectures in Berlin in 1928.
+
+== Works ==
+* 1923: 'Marxism and Philosophy'. English publication by NLB (New Left Books), 1970 (trans. [[Fred Halliday]]), reprinted by Verso, 2012, {{ISBN|978-1781680278}}.
+* 1931: "The Crisis of Marxism." Unpublished essay; first published in 1971 in ''Die materialistische Geschichtsauffassung'' (in German).<ref name=crisis>"The Crisis of Marxism" (1931): [https://www.marxists.org/archive/korsch/1931/crisis-marxism.htm English text online] on [[Marxists Internet Archive|marxists.org]].</ref>
+* 1932: 'Geleitwort zu ''Kapital''<nowiki>'</nowiki>. Berlin ('Introduction to ''Capital''<nowiki>'</nowiki>); reprinted 1971 in ''Three Essays on Marxism''.
+* 1935: 'Why I am a Marxist'. In: ''[[Modern Quarterly (American magazine)|Modern Quarterly]]'', Vol. IX no. 2, April 1935, p.&nbsp;88 - 95 (part of a symposium with other contributions ''Why I am Not a Marxist'' by Alexander Goldenweiser, George Santayana and H. G. Wells, and ''Why I am a Marxist'' by Harold Laski); reprinted 1971 in ''Three Essays on Marxism''.
+* 1937: 'Leading principles of Marxism: a Restatement'. In: ''Marxist Quarterly'' (published by the American Marxist Association), Vol 1/3, Oct-Dec 1937, p.&nbsp;356 - 378; reprinted 1971 in ''Three Essays on Marxism''.
+* {{cite book 
+| last = Korsch | first = Karl | author-link = Karl Korsch | author-mask = 0
+| date = 1938
+| title = Karl Marx
+| location = London / New York
+| publisher = Chapman & Hall / John Wiley & Sons
+}}
+* 1938: ''Karl Marx'', London: Chapman & Hall / New York: John Wiley & Sons.<ref name=karlmarx1936>Korsch 1938: {{OCLC|2952443|show=all}} According to WorldCat there has been a publication in 1936 (London); but we may suppose that's a mistake. [https://archive.org/details/karlmarx0000davi Reissue 1963] at Internet Archive.</ref> Originally published as part of a series "Modern Sociologists". Published in original German version 1967. Translated in Italian, French, Spanish and Greek. Many times reissued.
+* 1971: ''Three essays on Marxism'', introduction by Paul Breines, New York: Monthly Review Press (This contains the essays 'Why I am a Marxist', 'Introduction to ''Capital''<nowiki>'</nowiki> and 'Leading Principles of Marxism: a Restatement'). Also published in London 1971 by Pluto Press.
+*''Revolutionary Theory'', edited by Douglas Kellner, Austin: University of Texas Press, 1977 (A good collection, with a 60-page introductory essay on Korsch's life and work by Kellner).
+*''Ten Theses on Marxism Today'', at [http://www.marxists.org/archive/korsch/1950/ten-theses.htm Ten Theses on Marxism Today by Karl Korsch (1950)]. Published in [http://www.telospress.com ''Telos''] 26 (Winter 1975–76). New York: Telos Press.A Gesamtausgabe (Complete Works) in German is edited by Offizin Verlag, Hanover, Germany.
+
+== Sources ==
+* {{cite book |editor1-last=Bottomore |editor1-first=Tom |editor1-link=Tom Bottomore |editor2-last=Harris |editor2-first=Laurence | editor3-last=Kiernan |editor3-first=V.G. | editor3-link=V. G. Kiernan | editor4-last=Miliband |editor4-first=Ralph |editor4-link=Ralph Miliband |title = The Dictionary of Marxist Thought| date=1983 | publisher=Blackwell Publishers Ltd. | isbn=0-674-20525-1 | url =https://archive.org/details/dictionaryofmarx0000unse}} herein:
+** {{cite encyclopedia |last=Goode |first=Patrick | editor1-last=Bottomore |editor1-first=Tom |editor1-link=Tom Bottomore |editor2-last=Harris |editor2-first=Laurence | editor3-last=Kiernan |editor3-first=V.G. | editor3-link=V. G. Kiernan | editor4-last=Miliband |editor4-first=Ralph |editor4-link=Ralph Miliband |encyclopedia=The Dictionary of Marxist Thought |title=Karl Korsch | date=1983 | publisher=Blackwell Publishers Ltd. | pages=263–264 | url = https://archive.org/details/dictionaryofmarx0000unse/page/263/mode/1up}}
+** {{cite encyclopedia |last=Jacoby |first=Russell| author-link=Russell Jacoby |editor1-last=Bottomore |editor1-first=Tom |editor1-link=Tom Bottomore |editor2-last=Harris |editor2-first=Laurence | editor3-last=Kiernan |editor3-first=V.G. | editor3-link=V. G. Kiernan | editor4-last=Miliband |editor4-first=Ralph |editor4-link=Ralph Miliband |encyclopedia=The Dictionary of Marxist Thought |title=Western Marxism | date=1983 | pages=523–526 | url = https://archive.org/details/dictionaryofmarx0000unse/page/523/mode/1up}}
+* {{Cite book|last=Korsch|first=Karl|title=Karl Korsch: Revolutionary Theory|publisher=University of Texas Press|year=1977|isbn=9780292757400|editor-last=Kellner|editor-first=Douglas|location=Austin, TX
+|url = https://www.gseis.ucla.edu/faculty/kellner/Korsch.pdf}} {{OCLC|219839492}}. herein:
+** {{cite book 
+|last=Kellner | first= Douglas 
+|chapter = Korsch's Revolutionary Marxism
+|title=Karl Korsch: Revolutionary Theory|publisher=University of Texas Press|year=1977|editor-last=Kellner|editor-first=Douglas|location=Austin, TX|pages=3–113}}
+* {{cite book
+| editor-last = Mulhern | editor-first = Francis | editor-link = Francis Mulhern
+| date = 2011
+| title = Lives on the Left: A Group Portrait
+| location = London / New York
+| publisher = verso
+| isbn =  978-1-84467-699-6
+| oclc = 859846151
+| chapter = interview with Hedda Korsch: Memories of Karl Korsch (1972)
+| pages = 14–26
+| chapter-url = https://archive.org/details/livesonleftgroup0000unse/page/15/mode/1up
+}}<ref name=IntHedda>'Memories of Karl Korsch' (1972) also online available at [https://www.marxists.org/archive/korsch/memories-korsch.htm Marxists.org].</ref>
+* {{Cite book|last=Renton|first=David | author-link = Dave Renton
+| year = 2004
+|title=Dissident Marxism: Past Voices for Present Times|publisher=Zed Books Ltd.|isbn=1-84277-292-9|location=London etc.
+| chapter = Chapter 3:Karl Korsch, Marxism and philosophy
+| pages = 60–81
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [http://libcom.org/tags/karl-korsch Karl Korsch] Libertarian Communist Library
+* [http://www.revoltlib.com/?id=9105 RevoltLib Karl Korsch Archive Library]
+* [http://www.marxists.org/archive/korsch/ Karl Korsch] Marxist Internet Archive (Biography, interview and photographs)
+* [https://web.archive.org/web/20070814072051/http://www.dkrenton.co.uk/korsch_challenge.html Karl Korsch's challenge to Marxism] (Commentary)
+* [https://web.archive.org/web/20070927030640/http://www.dkrenton.co.uk/research/korsch.html Karl Korsch's Marxism] (Commentary)
+* [[Paul Mattick|Mattick, Paul]]. [http://www.marxists.org/archive/mattick-paul/1962/korsch.htm Karl Korsch: His Contribution to Revolutionary Marxism] (Commentary)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Korsch, Karl}}
+[[Category:1886 births]]
+[[Category:1961 deaths]]
+[[Category:People from Harburg (district)]]
+[[Category:People from the Province of Hanover]]
+[[Category:Independent Social Democratic Party politicians]]
+[[Category:Communist Party of Germany politicians]]
+[[Category:Members of the Reichstag 1924]]
+[[Category:Members of the Reichstag 1924–1928]]
+[[Category:Marxist theorists]]
+[[Category:German Marxists]]
+[[Category:German male writers]]
+[[Category:German male essayists]]
+[[Category:Former Marxists]]
+[[Category:20th-century German essayists]]
+[[Category:20th-century German philosophers]]
+[[Category:University of Jena alumni]]
+[[Category:University of Geneva alumni]]

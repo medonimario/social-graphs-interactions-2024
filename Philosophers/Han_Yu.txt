@@ -1,0 +1,172 @@
+{{Short description|Ancient Chinese writer, essayist and poet (768–824)}}
+{{Other people}}
+{{family name hatnote|[[Han (Chinese surname)|Han]]|lang=Chinese}}
+{{Infobox royalty
+|name=Han Yu
+|image=Han Yu.jpg
+|image_size=185px
+|full name=[[Family name]]: Hán 韓<br />[[Given name]]: Yù 愈<br />[[Courtesy name]]: Tuìzhī 退之
+|posthumous name = 韓文公
+|birth_date=768
+|birth_place=Heyang (now [[Mengzhou]], [[Henan]])
+|death_date={{Death year and age|824|768}}
+|occupation =  Essayist, philosopher, poet, politician
+}}
+{{Infobox Chinese
+|t=韓愈
+|s=韩愈
+|p=Hán Yù
+|w=Han<sup>2</sup> Yü<sup>4</sup>
+|mi={{IPAc-cmn|h|an|2|-|yu|4}}
+|gr=Harn Yuh
+|j=Hon<sup>4</sup> Jyu<sup>6</sup>
+|y=Hòhn Yuh
+|ci={{IPAc-yue|h|on|4|-|j|yu|6}}
+|tl=Hân Jú
+}}
+
+'''Han Yu''' ({{zh|t=韓愈}}; 768{{snd}}25 December 824), [[courtesy name]] '''Tuizhi''' ({{zh|t=退之}}), and commonly known by his [[posthumous name]] '''Han Wengong''' (韓文公), was an essayist, Confucian scholar, poet, and government official during the [[Tang dynasty]] who significantly influenced the development of [[Neo-Confucianism]].<ref>{{cite book|first=Charles |last=Hartman |title=Routledge Encyclopedia of Philosophy: Volume 1|url={{Google Books |5m5z_ca-qDkC|page=221|plain-url=yes}}|date=1998|isbn=978-81-7833-093-8|pages=221&ndash;222 |via=Google Books}}</ref> Described as "comparable in stature to [[Dante]], [[Shakespeare]] or [[Goethe]]" for his influence on the Chinese literary tradition,<ref name="indiana">{{cite book |url=https://books.google.com/books?id=KZ0lJDL_1nsC&pg=PA397 |title= The Indiana Companion to Traditional Chinese Literature |editor= William H. Nienhauser Jr. |pages=397–399 |publisher= Indiana University Press|year= 1986 |isbn=0-253-32983-3 }}</ref>  Han Yu stood for strong central authority in [[politics]] and [[orthodoxy]] in cultural matters.
+
+He is often considered to be among China's finest prose writers.<ref>{{cite book |title=Poetry and prose of the Tang and Song |page=63|author=Gladys Yang |year=1984 |isbn=978-0-8351-1164-5|url=https://books.google.com/books?id=ITKCAAAAIAAJ }}</ref> [[Ming dynasty]] scholar Mao Kun ({{lang|zh|茅坤}}) ranked him first among the "[[Eight Great Prose Masters of the Tang and Song]]".<ref>{{cite book |url=https://books.google.com/books?id=PvlthkbFU1UC&pg=PA1083 |title=History of Humanity: From the seventh to the sixteenth century|year=1994|editor =Sigfried J. de Laet |page=1083 |isbn=978-92-3-102813-7}}</ref>
+
+==Biography==
+Han Yu was born in 768,{{sfnm|1a1=Ueki et al.|1y=1999|1p=115}} in Heyang (河陽, present day [[Mengzhou]]) in [[Henan]] to a family of noble lineage.<ref name="pollard">{{cite book |url = https://books.google.com/books?id=1QkljPvYOe4C&pg=PA31 |title=The Chinese Essay |editor= David E. Pollard |page = 31 |publisher=C Hurst & Co Publishers Ltd |date=28 June 2000|isbn= 978-1-85065-537-4 }}</ref> His father worked as a minor official but died when Han Yu was two. He was then raised in the family of his older brother, Han Hui ({{lang|zh-hant|韓會}}).<ref name="indiana" /> He was a student of philosophical writings and Confucian thought. His family moved to [[Chang'an]] in 774 but was banished to [[Southern China]] in 777 because of its association with disgraced minister Yuan Zai. Han Hui died in 781 while serving as a prefect in [[Guangdong]] province.<ref name="pollard" /> In 792, after four attempts, Han Yu passed the ''[[jinshi]]'' [[imperial examination]]. In 796, after failing to secure a position in the civil service at the capital, he went into the service of the provincial military governor of [[Bianzhou]] until 799,<ref name="indiana" /> and then of the military governor of [[Xuzhou]].<ref name="barnstone" /> He gained his first central government position in 802 on the recommendation of the military governor. However, he was soon exiled for several possible reasons: for failing to support the heir apparent's faction, his criticism of the misbehavior of the emperor's servants, or his request for reduction of taxes during a famine.
+
+From 807 to 819 he held a series of government posts, first in [[Luoyang]] and then in Chang'an. During these years, he was a strong advocate of reimposing central control over separatist northeastern provinces. This period of service came to an end when he wrote his famous [[Memorial on Bone-relics of the Buddha]] ({{lang|zh-hant|諫迎佛骨表}}) presented to [[Emperor Xianzong]]. The memorial is a strongly worded protest against [[Buddhist]] influence on the country.  The Emperor, offended by Han Yu's criticism, ordered his execution.  He was however saved by his friends at the court, and was thusly demoted and exiled to [[Chaozhou]] instead.<ref name="liu">{{cite book |url=https://books.google.com/books?id=MUqrApIdoWAC&pg=PA126 |title=An Introduction to Chinese Literature |author= Liu Wu-Chi |pages=126–127 |publisher= Praeger |year= 1990 |isbn=978-0-313-26703-1 }}</ref>  After Han Yu offered a formal apology to the Emperor a few months later, he was transferred to a province nearer to the capital. Emperor Xianzong died within a year, and his successor [[Emperor Muzong of Tang|Emperor Muzong]] brought Han Yu back to the capital where he worked in the War Office.<ref>{{cite book |url=https://books.google.com/books?id=blBTHAY_A4wC&pg=PA73 |title=Buddhism, Diplomacy, and Trade: The Realignment of Sino-Indian Relations, 600–1400 |author= Tansen Sen |page= 73 |publisher=Manohar Publishers and Distributors |year= 2004 |isbn=978-81-7304-581-3 }}</ref> He was then appointed to a high-ranking position after he successfully completed a mission to persuade a rebellious military commander to return to the fold.<ref name="pollard"/>
+
+Han Yu held a number of other distinguished government posts such as the rector of the [[Guozijian|Imperial university]]. At the age of fifty-six, Han Yu died in Chang'an on December 25, 824 and was buried on April 21, 825 in the ancestral cemetery at Heyang.<ref name=barnstone/><ref>{{cite book |url=https://books.google.com/books?id=fbv_AwAAQBAJ&pg=PA1115 |title=Han Yu and the T'ang Search for Unity |author= Charles Hartman |page=115 |publisher=Princeton University Press |year=2014 |isbn=978-0-691-61093-1 }}</ref>
+
+== Thoughts and beliefs ==
+Although generally not considered a philosopher,<ref name=cua>{{cite book |url=https://books.google.com/books?id=yTv_AQAAQBAJ&pg=PA288 |title=Encyclopedia of Chinese Philosophy|date=5 November 2013|editor= Antonio S. Cua|pages=288&ndash;291 |isbn=978-0-415-93913-3 |publisher=Routledge }}</ref>  Han Yu was an important Confucian intellectual who influenced later generations of Confucian thinkers and Confucian philosophy. He also sponsored many literary figures of the turn of the ninth century. He led a revolt against ''[[pianwen]]'' ({{lang|zh|駢文}}), a formal, richly ornamented literary style, advocating a return to a classical, simple, logical, and exact style.<ref name="barnstone">{{cite book |url=https://books.google.com/books?id=aoH11JVHs4AC&pg=PA158 |title=The Anchor Book of Chinese Poetry: From Ancient to Contemporary, The Full 3000-Year Tradition |editor= by Tony Barnstone, Chou Pin |pages=157–158 |publisher=Anchor |year=2005 |isbn=978-0-385-72198-1 }}</ref> He felt that this classical style of writing—called ''guwen'' ({{lang|zh|古文}}), literally, "ancient writing"—would be appropriate for the restoration of Confucianism.<ref>{{cite book |url=https://books.google.com/books?id=626CZk84adAC&pg=PA8 |title=The End of the Chinese 'Middle Ages': Essays in Mid-Tang Literary Culture |author= Stephen Owen |page=8 |publisher=Stanford University Press|year= 1996 |isbn= 978-0-8047-2667-2 }}</ref>
+
+Han Yu promoted Confucianism but was also deeply opposed to Buddhism, a religion that was then popular at the Tang court. In 819, he sent a letter, "Memorial on Bone-relics of the Buddha", to the emperor in which he denounced "the elaborate preparations being made by the state to receive the Buddha's fingerbone, which he called 'a filthy object' and which he said should be 'handed over to the proper officials for destruction by water and fire to eradicate forever its origin'.<ref name="liu"/>  Han Yu contrasted the Chinese civilization and barbarism where people were "like birds and wild beast or like the barbarians".  He considered Buddhism to be of [[Four Barbarians|barbarian]] ({{lang|zh|夷狄}}) origin, therefore an unsuitable religion for the Chinese people.<ref name="abramson">{{cite book |url= https://books.google.com/books?id=-GLGnRspmcAC&pg=PA65 |title=Ethnic Identity in Tang China |author= Marc S. Abramson |pages=65–68 |publisher=University of Pennsylvania Press |year= 2007 |isbn= 978-0-8122-4052-8 }}</ref><ref>{{cite web |url=http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/hanyu.html |title=Chinese Cultural Studies: Han Yu - Memorial on Buddhism (819 CE) |access-date=2013-12-12 |archive-url=https://web.archive.org/web/20130514043957/http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/hanyu.html |archive-date=2013-05-14 }}</ref>
+
+Again from Han Yu's letter, "Memorial on Bone-relics of the Buddha": 
+
+"Your servant begs leave to say that Buddhism is no more than a cult of the barbarian peoples which
+spread to China. It did not exist here in ancient times.
+Now I hear that Your Majesty has ordered the community of monks to go to greet the finger bone of the
+Buddha [a relic from India], and that Your Majesty will ascend a tower to watch the procession as this
+relic is brought into the palace. [...]
+The Buddha was a man of the barbarians who did not speak Chinese and who wore clothes of a different
+fashion. The Buddha’s sayings contain nothing about our ancient kings and the Buddha’s manner of
+dress did not conform to our laws; he understood neither the duties that bind sovereign and subject,
+not the affections of father and son. If the Buddha were still alive today and came to our court, Your
+Majesty might condescend to receive him, but he would then be escorted to the borders of the nation,
+dismissed, and not allowed to delude the masses. How then, when he has long been dead, could the
+Buddha’s rotten bones, the foul and unlucky remains of his body, be rightly admitted to the palace?
+Confucius said: “Respect ghosts and spirits, but keep them at a distance!” Your servant is deeply
+ashamed and begs that this bone from the Buddha be given to the proper authorities to be cast into fire
+and water, that this evil be rooted out, and later generations spared this delusion."
+
+Han Yu was also critical of [[Taoism]], which he considered to be a harmful accretion to Chinese culture. He nevertheless made the distinction between Taoism, a homegrown religion, and Buddhism, a foreign faith.<ref name="abramson"/> In "The Origin of Dao" (原道, ''Yuandao''), he argued that the monasticism of both Buddhism and Taoism to be economically nonproductive, creating economic and social dislocation. He also criticized both of these beliefs for being unable to deal with social problems.<ref name="cawley">{{cite book |url=https://books.google.com/books?id=2UAlDwAAQBAJ&pg=PA274 |title=Encyclopedia of Chinese History |editor= Michael Dillon |author=Kevin Cawley |date=December 2016 |pages=273–274 |publisher= Taylor & Francis Ltd|isbn= 978-1-317-81716-1}}</ref> He considered Confucianism to be distinct from these two beliefs in linking the private, moral life of the individual with the public welfare of the state.  He emphasized [[Mencius]]'s method of assuring public morality and social order,<ref name="cawley"/> and his concept of the expression of Confucian spirituality through political action would later form the intellectual basis for neo-Confucianism.<ref name="de bary">{{cite book |url=https://books.google.com/books?id=IYh9-Yl3cTkC&pg=PA301 |title= Sources of East Asian Tradition: Premodern Asia, Volume 1 |author = William Theodore De Bary |pages=301–305 |publisher=Columbia University Press |year= 2008|isbn= 978-0-231-14305-9 }}| Here "Origin of Dao" is translated as "Essentials of the Moral Way"</ref>  Han introduced the ideas of the succession of the Way (道統, ''daotong''), as well as the concept of the "teacher" (師, ''shi'') who embodies the Way as expressed in "Discourse on Teachers" (師說, ''Shishuo'').<ref name=cua /><ref>{{cite book |url=https://books.google.com/books?id=iKjsm-JUbD0C&pg=PA38 |title=Confucian Ethics in Retrospect and Prospect |editor1= Qingsong Shen |editor2=Kwong-loi Shun |isbn=978-1-56518-245-5 |series=Cultural Heritage and Contemporary Change Series III Volume 27|year=2008 }}</ref> Although Han Yu attacked Buddhism and Taoism, some of his ideas have Buddhist and/or Taoist roots; for example, the succession of the Way was inspired by the Buddhist idea of transmission of the ''[[dharma]]'', while his concept of the "teacher" originated from the Buddhist and Taoist idea of religious mentor.<ref name=cua />
+
+In his "Discourse on Teachers" (師說, ''Shishuo''), Han Yu discussed the necessity and principles of learning from teachers, and criticized the phenomenon of "shame to learn from the teacher" in the society at that time.<ref>{{Cite book|last=Liu|first=Qingwen|title=Prose Appreciation – Eight Masters of the Tang and Song|publisher=Beijing Education Publishing House|year=2013|page=19|translator-last=Han}}</ref> He stated that "a disciple need not be necessarily inferior to the teacher, [while] the teacher need not be necessarily more virtuous than the disciple. The only fact is that [one may] acquire ''Dao'' earlier or later [than the others], [and there may be] specific field that one specialized in."<ref>{{Cite web |last=Lee Ming Zhi|first=Thomas|date=2017|title=Title: A Translation of the Shi Shuo (Discourse on Teacher) by Hanyu |website=Academia |url=https://www.academia.edu/35903850}} Original text: 圣人无常师。孔子师郯子（tán）、苌弘、师襄、老聃（dān）。郯子之徒，其贤不及孔子。孔子曰：三人行，则必有我师。是故弟子不必不如师，师不必贤于弟子，闻道有先后，术业有专攻，如是而已</ref>
+
+==Literary works==
+
+===Prose===
+Han Yu is often considered the greatest master of classical prose in the Tang.  He was listed first among the "Eight Great Prose Masters of the Tang and Song" by Ming Dynasty scholar Mao Kun.  Together with [[Liu Zongyuan]] he headed the [[Classical Prose Movement]] to return to the unornamented prose of the Han Dynasty.<ref>{{cite book |url=https://books.google.com/books?id=PvlthkbFU1UC&pg=PA1082 |title=History of Humanity: From the seventh to the sixteenth century|year=1994|editor =Sigfried J. de Laet |page=1082 |isbn=978-92-3-102813-7}}</ref> He considered the classical "old style prose" (古文, ''guwen'') to be the kind of writing more suited to argumentation and the expression of ideas.<ref name=barnstone/>  Han Yu's ''guwen'' however was not an imitation of ancient prose, but a new style based on the ancient ideals of clarity, concision, and utility.<ref name="indiana"/> Han Yu wrote in many modes, often with discursiveness and daring experimentation.
+
+Among his most renowned essays are his polemics against Buddhism and Taoism and support for Confucianism, such as "Buddhism Memorial on Bone-relics of the Buddha" and "The Origin of Dao".  Other notable works include "Text for the Crocodiles" ({{lang|zh-hant|祭鱷魚文}}) in which he declares that crocodiles be formally banished from Chaozhou,<ref>{{cite book |url=https://books.google.com/books?id=626CZk84adAC&pg=PA57 |title=The End of the Chinese 'Middle Ages': Essays in Mid-Tang Literary Culture |author= Stephen Owen |pages=57–60 |publisher=Stanford University Press|year= 1996 |isbn= 978-0-8047-2667-2 }}</ref> and "Goodbye to Penury" ({{lang|zh-hant|送窮文}}) that describes his failed attempt to rid himself of the ghost of poverty.<ref>{{cite book |url=https://books.google.com/books?id=1QkljPvYOe4C&pg=PA35 |title=The Chinese Essay |editor= David E. Pollard |pages=35–37 |publisher=C Hurst & Co Publishers Ltd |date=28 June 2000|isbn= 978-1-85065-537-4 }}</ref>
+
+===Poetry===
+Han Yu also wrote poetry. However, while Han Yu's essays are highly regarded, his poetry is not considered exceptional.  According to ''[[A History of Chinese Literature]]'' by [[Herbert Giles]], Han Yu "wrote a large quantity of verse, frequently playful, on an immense variety of subjects, and under his touch the commonplace was often transmuted into wit. Among other pieces there is one on his teeth, which seemed to drop out at regular intervals, so that he could calculate roughly what span of life remained to him.  Altogether, his poetry cannot be classed with that of the highest order, unlike his prose writings".{{sfnb|Giles|1901| p = 161-162}}
+
+The poem where Han Yu ruminated on getting old by recounting how he lost his own teeth is "Losing Teeth" ({{lang|zh|落齒}}).<ref>{{cite book |url=https://books.google.com/books?id=BztKfrD57s8C&pg=PA172 |title=Sunflower Splendour: Three Thousand Years of Chinese Poetry 葵曄集: 大漢歌聲: 中國三千年詩選 |editor1= Wuji Liu |editor2=Irving Yucheng Lo |page=172&ndash;173 |publisher=John Wiley & Sons |date= 1990|isbn= 978-0-253-35580-5}}</ref>
+
+==Significance and assessment==
+
+Han Yu ranks among the most important personalities in the history of traditional Chinese culture. His works not only become classics in Chinese literature, but his writings redefined and changed the course of the tradition itself. He was a stylistic innovator in the many genres he wrote in, and was a major influence on the literary and intellectual life of his time as well as later dynasties.<ref name="indiana"/>  The writings of Han Yu were influential to Song Dynasty writers and poets, in particular [[Ouyang Xiu]] who popularized the use of ''guwen'' as advocated by Han Yu, a style that would stay as the model for Chinese prose until the revolution in Chinese literature of modern China.<ref>{{cite book |url=https://books.google.com/books?id=PvlthkbFU1UC&pg=PA1083 |title=History of Humanity: From the seventh to the sixteenth century |editor= Sigfried J. de Laet |page=1083 |publisher=Routledge  |year=1994 |isbn=978-92-3-102813-7 }}</ref> In an inscription for a shrine to Han Yu, [[Song Dynasty]] [[poet]] [[Su Shi]] praised Han Yu:<ref>{{cite web |url=http://www.gushiwen.org/GuShiWen_2656ef481d.aspx |title=潮州韩文公庙碑 }}</ref>
+
+{{quote|{{lang|zh|文起八代之衰，而道濟天下之溺；忠犯人主之怒，而勇奪三軍之帥。}}<br />His prose reversed the literary decline of eight dynasties, his teachings aided the misguided throughout the world, his loyalty led him to risk the wrath of his master, his courage surpassed the generals of three armies.|Su Shi|Inscription on Stele for Han Yu's Temple in Chaozhou}}
+
+All the major accounts of Han Yu's life agree that he had an open and forthright character, which manifested itself in his unswerving loyalty to his friends. According to [[Li Ao (philosopher)|Li Ao]], Han Yu was a great conversationalist and an inspired teacher: "His teaching and his efforts to mold his students were unrelenting, fearing they would not be perfect. Yet he amused them with jokes and with the chanting of poems, so that they were enraptured with his teaching and forgot about returning home".<ref>{{cite book |url=https://books.google.com/books?id=fbv_AwAAQBAJ&pg=PA118 |title=Han Yu and the T'ang Search for Unity |author= Charles Hartman |page=118 |publisher=Princeton University Press |year=2014 |isbn=978-0-691-61093-1 }}</ref> The sense of humor that is so obvious in his writing was also important in his life. Herbert Giles judged that it was "due to his calm and dignified patriotism that the Chinese still keep his memory green".{{sfnb|Giles|1901| p = 161-162}}
+
+Han Yu led a defense of Confucianism at a time when Confucian doctrine was in decline, and attacked both Buddhism and Taoism which were then the dominant belief systems. His writings would have a significant influence on Neo-Confucians of later eras, such as the Song dynasty scholars [[Cheng Yi (philosopher)|Cheng Yi]] and [[Zhu Xi]].<ref name="cawley"/> Although usually not considered a philosopher, he introduced a new intellectual direction for Confucianism as well as influential ideas to later Confucians.<ref name=cua /> However, he was criticized by Song Confucians for being much more of a stylist than a moralist.<ref>{{cite book |url=https://books.google.com/books?id=1QkljPvYOe4C&pg=PA34 |title=The Chinese Essay |editor= David E. Pollard |page=34 |publisher=C Hurst & Co Publishers Ltd |date=28 June 2000|isbn= 978-1-85065-537-4 }}</ref>
+
+Most modern scholarship, although content to assign to Han Yu a secure place in the history of Chinese literature, has been embarrassed by the violence of his Confucian passions.<ref name=hartman>{{cite book |url=https://books.google.com/books?id=fbv_AwAAQBAJ&pg=PA3 |title=Han Yu and the T'ang Search for Unity |author= Charles Hartman |pages=3–4 |publisher=Princeton University Press |year=2014 |isbn=978-0-691-61093-1 }}</ref>
+
+==Memorial==
+[[File:Chaozhou Hanwengong Ci 2013.10.27 09-14-50.jpg|250px|thumb|right|Han Yu's Temple in Chaozhou]]
+In honor of Han's contribution to [[Chaoshan]] when he was exiled to Chaozhou, the [[Han River (Guangdong)|Han River]] flowing through Chaozhou is named after him. Han Yu Temple ({{lang|zh-hant|韓文公祠}}) in Chaozhou was established since the [[Song dynasty]] at the riverside of Mount Han, which also named after him.<ref>{{cite web|url=http://www.xinhuanet.com/shuhua/2016-04/22/c_128920664.htm|archive-url=https://web.archive.org/web/20180409171442/http://www.xinhuanet.com/shuhua/2016-04/22/c_128920664.htm|archive-date=April 9, 2018|title=专家视点：韩江是一条什么江？|publisher=Xinhua Net|date=2016-04-22|access-date=2018-05-04|language=zh}}</ref> Due to his dealings with crocodiles in South China, the extinct gharial ''[[Hanyusuchus]]'' was named after him in 2022.<ref name=Type>{{cite journal | vauthors = Iijima M, Qiao Y, Lin W, Peng Y, Yoneda M, Liu J |year=2022 | title = An intermediate crocodylian linking two extant gharials from the Bronze Age of China and its human-induced extinction |journal=Proceedings of the Royal Society B: Biological Sciences |volume=289 |issue=1970 |pages=Article ID 20220085 |doi=10.1098/rspb.2022.0085 |pmid=35259993 |pmc=8905159 }}</ref>
+
+==Studies==
+[[Erwin von Zach]] wrote ''Han Yüs poetische Werke'', a German language study. ''The Poetry of Meng Chiao and Han Yü'', a book by Stephen Owen published by the [[Yale University Press]], was the first substantial English-language study of Han Yu. It was published 13 years after Zach's book.<ref>Leung, p. 715.</ref>
+
+==Modern references==
+In an essay on [[Kafka]], the Argentinian writer [[Jorge Luis Borges]], in making the argument that "each writer creates his own precursors", placed Han Yu as one of the antecedents of Kafka due to some resemblance between them.<ref>{{cite book |url = https://books.google.com/books?id=3IY67Ck-TFQC&pg=PA189 |title = Unthinking Thinking: Jorge Luis Borges, Mathematics, and the New Physics |author=Floyd Merrell Purdue University Press |date=December 31, 1991 |isbn= 978-1-55753-011-0 }}</ref>
+
+==Descendants==
+Han Yu's descendants held the title of "Wujing boshi" ([[w:zh:五經博士|五經博士]]; Wǔjīng bóshì).<ref name="BrunnertHagelstrom2013">{{cite book|author1=H.S. Brunnert|author2=V.V. Hagelstrom|title=Present Day Political Organization of China |url = https://books.google.com/books?id=s0wrdzMXPZ8C&pg=PA494 |date=15 April 2013|publisher=Routledge|isbn=978-1-135-79795-9|pages=494–}}</ref><ref>{{cite web |url = https://archive.org/stream/presentdaypoliti00brun#page/494/mode/2up |title=Present day political organization of China |publisher=Paragon Books |date=1911 |vauthors=Brunnert IS, Gagelstrom VV, Kolesov NF, Bielchenko AT, Moran EE}}</ref>
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+; Works cited
+{{refbegin}}
+* Barnstone, Tony; Chou, Ping (eds.) (2005).  ''The Anchor Book of Chinese Poetry.'' , New York: Random House.
+* Birch, Cyril (ed.) (1965). ''Anthology of Chinese Literature.'' New York: Grove Press, Inc.
+* {{cite book |first = Herbert A. |last = Giles |title = [[A History of Chinese Literature]] |year = 1901 |publisher = Appleton |location = New York and London }} Available online at: [https://books.google.com/books?id=EyFMAAAAMAAJ Google Books]; [https://archive.org/details/historyofchinese00gileiala A History of Chinese Literature] [[Internet Archive]]; [http://www.gutenberg.org/ebooks/43711  A History of Chinese Literature] [[Project Gutenberg]].
+* Leung, K. C. "The Poetry of Meng Chiao and Han Yü" (book review). ''[[Books Abroad]]'', ISSN 0006-7431, 07/1976, Volume 50, Issue 3, p.&nbsp;715. 
+* Hartman, Charles (1986). ''Han Yu and the T'ang Search for Unity.'' New Jersey: Princeton University Press.
+* Owen, Stephen (ed.) (1996). ''An Anthology of Chinese Literature.'' New York: W. W. Norton & Company, Inc.
+* {{cite encyclopedia
+ |editor-last  = Matsuura
+ |editor-first = Tomohisa
+ |last1        = Ueki
+ |first1       = Hisayuki
+ |last2        = Uno
+ |first2       = Naoto
+ |last3        = Matsubara
+ |first3       = Akira
+ |chapter      = Shijin to Shi no Shōgai (Kan Yu)
+ |pages        = 115–116
+ |title        = Kanshi no Jiten
+ |script-title = ja:漢詩の事典
+ |language     = ja
+ |year         = 1999
+ |location     = Tokyo
+ |publisher    = Taishūkan Shoten
+ |ref          = {{SfnRef|Ueki et al.|1999}}
+ |oclc         = 41025662
+}}
+{{refend}}
+
+== External links ==
+* {{Internet Archive author |sname = Han Yu }}
+* {{Librivox author |id = 8411 }}
+* [http://www.silkqin.com/09hist/other/hanyu.htm John Thompson on Han Yu and the guqin]
+* Books of the ''[[Quan Tangshi]]'' that include collected poems of Han Yu at the [[Chinese Text Project]]: [http://ctext.org/quantangshi/336 Book 336], [http://ctext.org/quantangshi/337 Book 337], [http://ctext.org/quantangshi/338 Book 338], [http://ctext.org/quantangshi/339 Book 339], [http://ctext.org/quantangshi/340 Book 340], [http://ctext.org/quantangshi/341 Book 341], [http://ctext.org/quantangshi/342 Book 342], [http://ctext.org/quantangshi/343 Book 343], [http://ctext.org/quantangshi/344 Book 344], [http://ctext.org/quantangshi/345 Book 345]
+
+{{-}}
+
+{{Eight Great Literati of Tang and Song}}
+{{Chinese philosophy}}
+{{Tang Dynasty historians}}
+{{Tang dynasty topics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Han, Yu}}
+[[Category:768 births]]
+[[Category:824 deaths]]
+[[Category:8th-century Chinese historians]]
+[[Category:8th-century Chinese philosophers]]
+[[Category:8th-century Chinese poets]]
+[[Category:9th-century Chinese historians]]
+[[Category:9th-century Chinese philosophers]]
+[[Category:9th-century Chinese poets]]
+[[Category:Chinese Confucianists]]
+[[Category:Critics of Buddhism]]
+[[Category:Critics of Taoism]]
+[[Category:Historians from Henan]]
+[[Category:Poets from Henan]]
+[[Category:Politicians from Nanyang, Henan]]
+[[Category:Tang dynasty historians]]
+[[Category:Tang dynasty philosophers]]
+[[Category:Tang dynasty government officials]]
+[[Category:Three Hundred Tang Poems poets]]
+[[Category:Writers from Nanyang, Henan]]
+[[Category:9th-century Confucianists]]

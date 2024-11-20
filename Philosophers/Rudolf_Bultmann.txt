@@ -1,0 +1,713 @@
+{{Short description|German theologian (1884–1976)}}
+{{Infobox academic
+| name = Rudolf Bultmann
+| image = Rudolf Bultmann als Porträtbüste von Michael Mohns.JPG
+| image_size = 200px
+| caption = Rudolf Bultmann in bust by Michael Mohns (2022)
+| birth_name = Rudolf Karl Bultmann
+| birth_date = {{birth date|1884|8|20|df=y}}
+| birth_place = {{nowrap|[[Wiefelstede]], [[Grand Duchy of Oldenburg|Oldenburg]], [[German Empire]]}}
+| death_date = {{death date and age|1976|7|30|1884|8|20|df=y}}
+| death_place = [[Marburg]], Hesse, [[West Germany]]
+| death_cause = 
+| residence = 
+| occupation = 
+| spouse = {{marriage|Helene Feldmann|1917|1973|end=died}}
+| children = 
+| parents = 
+| relatives = 
+| awards = <!--notable national level awards only-->
+| thesis_title = {{lang|de|Der Stil der paulinischen Predigt und die kynisch-stoische Diatribe}}{{sfnm |1a1=Bultmann |1y=1910 |2a1=Porter |2y=2015|2p=58}}
+| thesis_year = 1910
+| school_tradition = [[Dialectical theology]]
+| doctoral_advisor = [[Johannes Weiss]]
+| academic_advisors = 
+| influences = {{hlist | [[Karl Barth]]{{sfnm |1a1=Congdon |1y=2015b |1p=315 |2a1=Wildman |2y=2018}} | [[Hermann Gunkel]]{{sfn|Hobbs|1985|p=63}} | [[Adolf von Harnack]]{{sfn|Hobbs|1985|p=63}} | [[Martin Heidegger]] | [[Wilhelm Herrmann]]{{sfn|Hobbs|1985|p=63}} | [[Wilhelm Heitmüller]]{{sfn|Wildman|2018}} | [[Adolf Jülicher]]{{sfn|Hobbs|1985|p=63}} | [[Martin Kähler]]{{sfnm |1a1=Congdon |1y=2015a |1p=89 |2a1=Dorrien |2y=2003 |2p=49 |3a1=McKnight |3y=2005 |3p=271}} | [[Rudolf Otto]]{{sfn|Wildman|2018}} | [[Friedrich Schleiermacher]]{{sfn|Jensen|2014|pp=136–138}} | [[Johannes Weiss]]{{sfnm |1a1=Hobbs |1y=1985 |1p=63 |2a1=Wildman |2y=2018}}}}
+| era = 
+| discipline = {{hlist | [[Theology]] | [[biblical studies]]}}
+| sub_discipline = <!--academic discipline specialist area – e.g. Sub-atomic research, 20th Century Danish specialist, Pauline research, Arcadian and Ugaritic specialist-->
+| workplaces = [[University of Marburg]]
+| doctoral_students = {{hlist | [[Günther Bornkamm]] | [[Ernst Fuchs (theologian)|Ernst Fuchs]] | [[Hans Jonas]] | [[Ernst Käsemann]] | [[Helmut Koester]]}}
+| notable_students = <!--only those with WP articles-->
+| main_interests = 
+| notable_works = 
+| notable_ideas = 
+| influenced = {{hlist | {{interlanguage link|Herbert Braun|de}}{{sfn|Pagliarino|2018}} | [[Uta Ranke-Heinemann]]{{sfn|Pagliarino|2018}} | [[John Robinson (bishop of Woolwich)|John Robinson]]<ref>{{cite web |last=Geering |first=Lloyd |author-link=Lloyd Geering |year=2013 |title=Theology before and after Bishop Robinson's ''Honest to God'' |url=http://www.sof.org.nz/2013geeringkeynote.pdf |publisher=Sea of Faith Network |access-date=4 April 2018}}</ref> | [[Heinrich Schlier]]{{sfn|Pagliarino|2018}} | [[John Shelby Spong]]{{sfn|Monk|2011}}}}
+| education = [[University of Marburg]]
+| signature = [[File:Rudolf Bultmann. Signatur 1958.jpg|200px]]
+}}
+{{Neo-orthodoxy}}
+{{Lutheranism}}
+
+'''Rudolf Karl Bultmann''' ({{IPAc-en|ˈ|b|ʊ|l|t|m|ɑː|n}};<ref>[http://dictionary.reference.com/browse/bultmann "Bultmann"]. ''[[Random House Webster's Unabridged Dictionary]]''.</ref> {{IPA|de|ˈbʊltman|lang}}; 20 August 1884 – 30 July 1976) was a German [[Lutheran theologian]] and professor of the [[New Testament]] at the [[University of Marburg]]. He was one of the major figures of early 20th-century [[biblical studies]]. A prominent critic of [[liberal theology]], Bultmann instead argued for an [[existentialism|existentialist]] interpretation of the New Testament. His [[hermeneutics|hermeneutical]] approach to the New Testament led him to be a proponent of [[Neo-orthodoxy|dialectical theology]].
+
+Bultmann is known for his belief that the historical analysis of the New Testament is both futile and unnecessary, given that the earliest [[Christian literature]] showed little interest in specific locations.{{sfn|Broadhead|2011|pp=1170–1172}} Bultmann argued that all that matters is the "thatness," not the "whatness" of Jesus,{{efn|For a similar epistemological comparison, see [[haeccity]] and [[quiddity]].}} i.e. only ''that'' Jesus existed, preached, and died by crucifixion matters, not what happened throughout his life.{{sfnm |1a1=Borg |1y=1994 |1p=187 |2a1=Broadhead |2y=2011 |2pp=1170–1172}}
+
+Bultmann relied on [[demythologization]], an approach interpreting the [[mythology|mythological]] elements in the New Testament existentially. Bultmann contended that only faith in the [[kerygma]], or proclamation, of the New Testament was necessary for Christian faith, not any particular facts regarding the [[historical Jesus]].{{sfnm |1a1=Bultmann |1y=1991 |1pp=94–95 |2a1=Cross |2a2=Livingstone |2y=2005 |2p=252}}
+
+==Background==
+Bultmann was born on 20 August 1884 in [[Wiefelstede]], [[Grand Duchy of Oldenburg|Oldenburg]], the son of Arthur Kennedy Bultmann, a Lutheran minister.{{sfn|Dennison|2008|pp=7, 14}} He did his ''[[Abitur]]'' at the Altes Gymnasium in the city of [[Oldenburg (city)|Oldenburg]], and studied [[theology]] at [[University of Tübingen|Tübingen]]. After three terms Bultmann went to the [[Humboldt University of Berlin|University of Berlin]] for two terms, and finally to [[University of Marburg|Marburg]] for two more terms. He received his degree in 1910{{sfn|Wildman|2018}} from Marburg with a dissertation on the [[Epistles of St Paul]] written under the supervision of [[Johannes Weiss]].{{sfnm |1a1=Porter |1y=2015 |1p=58 |2a1=Watson |2a2=Hauser |2y=1994 |2p=104}} He also studied under [[Hermann Gunkel]] and [[Wilhelm Heitmüller]].{{sfn|Cross|Livingstone|2005|p=252}} After submitting a [[habilitation]] two years later, he became a lecturer on the [[New Testament]] at Marburg.
+
+Bultmann married Helene Feldmann on 6 August 1917.{{sfn|Dennison|2008|p=101}} The couple had three daughters.{{sfn|Meier|2011|p=3}}<!-- "Seit 1917 war Rudolf Bultmann, mit Helene (1892–1973), geb. Feldmann verheiratet und hatte mit ihr drei Töchter." [From 1917 Rudolf Bultmann was married to Helene née Feldman (1892–1973) and had three daughters with her.] --> Bultmann's wife died in 1973.{{sfn|Dennison|2008|p=101}}
+
+After brief lectureships at [[Breslau]] and [[Giessen]], Bultmann returned to Marburg in 1921 as a full professor, and stayed there until his retirement in 1951. His doctoral students included [[Hans Jonas]],{{sfnm |1a1=Jonas |1y=1982 |1pp=1–2 |2a1=Markschies |2y=2014 |2p=23}} [[Ernst Käsemann]],{{sfn|Zetterholm|2009|p=78}} [[Günther Bornkamm]],{{sfn|Schild|2016|p=89}} [[Helmut Koester]],{{sfn|Busse|2014|p=44}} and [[Ernst Fuchs (theologian)|Ernst Fuchs]]. He also taught [[Hannah Arendt]]. From autumn 1944 until the end of the [[Second World War]] in 1945 he took into his family [[Uta Ranke-Heinemann]], who had fled the bombs and destruction in Essen.
+
+Bultmann became friends with [[Martin Heidegger]] who taught at Marburg for five years. Heidegger's views on [[existentialism]] had an influence on Bultmann's thinking.{{sfn|Wood|2005|p=113}} What arose from this friendship was a "sort of comradery" grounded on an active and open dialogue between Bultmann and Heidegger from 1923 to 1928.{{sfn|Woodson|2018|p=61}} However, Bultmann himself stated that his views could not simply be reduced to thinking in Heideggerian categories, in that "the New Testament is not a doctrine about our nature, about our authentic existence as human beings, but a proclamation of this liberating act of God."{{sfn|Labron|2011|pp=43–44}}
+
+He was critical of [[Nazism]] from the beginning and his career between 1933 and 1941 was marked by a series of struggles with Nazis regarding their influence upon the universities and the Protestant Church. As a Lutheran who held that the Church could not expect the Nazi State to be Christian, he did not directly denounce its [[anti-Semitism]]. But he objected to its claim to have authority over all aspects of German life including the universities and the Protestant church{{sfn|Hammann|2013|loc=kindle 6295}} and believed it was his responsibility to preach that it was unChristian, especially after Heidegger gave his pro-Nazi rectorial address in 1933.{{sfn|Hammann|2013|loc=kindle 6268}} He particularly rejected the [[Aryan paragraph]] that disenfranchised all people racially Jewish from civic organizations and many professions including clergy, entailing defrocking any Christian clergy with Jewish ancestry.{{sfn|Hammann|2013|loc=kindle 6354}} He stated that the Aryan paragraph was "incompatible with the essence of the Christian church",{{sfn|Hammann|2013|loc=kindle 6647}} since the church made no distinction between Jew and Gentile.   He joined the [[Confessing Church]],{{sfn|Kelley|2002|p=155}} a Protestant movement in Nazi Germany that arose in opposition to government-sponsored efforts to unify all Protestant churches into a single pro-Nazi Reich Church.<ref>{{cite web|url=http://berkleycenter.georgetown.edu/resources/countries/germany|title=Germany|publisher=[[Berkley Center for Religion, Peace, and World Affairs]]|access-date=29 December 2011|archive-url=https://web.archive.org/web/20131012004817/http://berkleycenter.georgetown.edu/resources/countries/germany|archive-date=12 October 2013|url-status=dead}} See drop-down essay on "Unification, World Wars, and Nazism"</ref>{{sfn | Ericksen | 2012 | p= 28}}
+
+Bultmann received many honors during and after his career, including honorary doctorates from many universities and elections to honorary societies.{{sfn|Hammann|2013|loc=kindle 11731}} In 1974, the Federal Republic granted him the highest level of the Order of Merit.
+
+He died on 30 July 1976 in [[Marburg]].<ref name="Britannica" />
+
+== Theological approaches ==
+Bultmann's ''[[History of the Synoptic Tradition]]'' (1921) remains highly influential as a tool for biblical research, even among scholars{{which|date=May 2016}} who reject his analyses of the conventional rhetorical [[pericopes]] (narrative units) which comprise the [[gospel]]s, and the historically-oriented principles of "[[form criticism]]" of which Bultmann was the most influential exponent.
+
+<blockquote>
+According to Bultmann's definition, "[t]he aim of form-criticism [''sic''] is to determine the original form of a piece of narrative, a dominical saying or a parable. In the process we learn to distinguish secondary additions and forms, and these in turn lead to important results for the history of the tradition."{{sfn|Mournet|2005|p=56}}
+</blockquote>
+
+In 1941 Bultmann applied [[form criticism]]{{efn|"Form criticism" in this instance is a tenet of [[Dialectic#Hegelian dialectic|Hegelian dialectics]] of which Bultmann applied to theology. The dialectic of Form and Content is explained by Hegel using an example of a book: a book's Form (whether or not it was handwritten, or a hardback copy, etc.), can neither determine nor influence its inner Content, yet, at the same time, that Content requires a form to be read.<ref name="hegel">{{cite book |last1=Hegel |first1=Georg Wilhelm Friedrich |editor1-last=Miller |editor1-first=Arthur V. |title=The Science of Logic |date=1969 |publisher=George Allen & Unwin |location=London |page=3 § 989 |url=https://www.marxists.org/reference/archive/hegel/works/hl/hl444.htm#HL2_447 |access-date=16 April 2019}}</ref>}} to the [[Gospel of John]], in which he distinguished the presence of a lost [[Signs Gospel]] on which John—alone of the evangelists—depended. His monograph, ''Das Evangelium des Johannes'', highly controversial at the time, became{{when|date=May 2016}} a milestone in [[quest for the historical Jesus|research into the historical Jesus]]. The same year his lecture ''[[New Testament and Mythology|New Testament and Mythology: The Problem of Demythologizing the New Testament Message]]'' called on interpreters to [[Demythology|demythologize]] the New Testament; in particular he argued for replacing [[supernatural]] biblical interpretations with temporal and existential categorizations. His argument, in many ways, reflected a hermeneutical adaption of the existentialist thought of his colleague at the time, the philosopher Martin Heidegger - but also the hermeneutic procedures developed by [[Hans Jonas]], a student of [[Heidegger]] and an exile from [[Nazi Germany]].<ref>Sariel, Aviram. "Jonasian Gnosticism." Harvard Theological Review 116.1 (2023): 91-122.</ref> This approach led Bultmann to reject doctrines such as the [[pre-existence of Christ]].{{sfn|Bultmann|2004|p=328}} Bultmann believed his endeavors in this regard would make accessible to modern audiences — already immersed in  science and technology — the significance (or existential quality) of Jesus' teachings. Bultmann thus thought of his endeavor of "demythologizing the New Testament proclamation" as fundamentally an [[evangelical|evangelism]] task, clarifying the ''[[kerygma]]'', or gospel proclamation, by stripping it of elements of the first-century "mythical world picture" that had potential to alienate modern people from Christian faith:
+<blockquote>
+It is impossible to repristinate a past world picture by sheer resolve, especially a ''mythical'' world picture, now that all of our thinking is irrevocably formed by science. A blind acceptance of New Testament mythology would be simply arbitrariness; to make such acceptance a demand of faith would be to reduce faith to a work.{{sfn|Bultmann|1984|p=3}}
+</blockquote>
+
+Bultmann saw theology in existential terms, and maintained that the New Testament was a radical text, worthy of understanding yet questioned in his time because of the prevailing Protestant conviction in a supernatural interpretation. In both the boasting of [[Legalism (theology)|legalists]] "who are faithful to the law" and the boasting of the philosophers "who are proud of their wisdom", Bultmann finds a "basic human attitude" of "highhandedness that tries to bring within our own power even the submission that we know to be our authentic being".{{sfn|Bultmann|1984|p=28}} Standing against all human high-handedness is the New Testament, "which claims that we can in no way free ourselves from our factual fallenness in the world but are freed from it only by an act of God&nbsp;... the salvation occurrence that is realized in Christ."{{sfn|Bultmann|1984|p=26}} Bultmann remained convinced that the narratives of the life of Jesus offered [[theology]] in [[narrative|story]] form, teaching lessons in the familiar language of [[myth]]. They were not to be excluded, but given explanation so they could be understood for today. Bultmann thought faith should become a present-day reality. To Bultmann, the people of the world appeared to be always in disappointment and turmoil. Faith must be a determined vital act of will, not a culling and extolling of "ancient proofs". Bultmann said about salvation and eternity: "As from now on there are only believers and unbelievers, so there are also now only saved and lost, those who have life and those who are in death."{{sfn|Bultmann|1971|p=155}}
+
+{{anchor|Called value into}}{{^|The preceding anchor (was or) is linked to from the Biblical inspiration article}}Bultmann carried [[form criticism]] so far as to call the [[Historical reliability of the Gospels|historical value of the gospels]] into serious question.{{sfn|Cross|Livingstone|2005|p=252}} Despite that, Bultmann was an outspoken opponent of the [[Christ myth theory]]. In his book ''Jesus and the Word'', he wrote:<blockquote>"Of course the doubt as to whether Jesus really existed is unfounded and not worth refutation. No sane person can doubt that Jesus stands as founder behind the historical movement whose first distinct stage is represented by the oldest Palestinian community"<ref>{{Cite book|last=Bultmann|first=Rudolf|url=https://books.google.com/books?id=aQ8XAAAAIAAJ|title=Jesus and the Word|date=1958|publisher=Scribner|isbn=978-0-684-14390-3|pages=17|language=en}}</ref></blockquote>
+
+Concerning the relationship between body, soul, and Spirit, he affirmed a [[Christian anthropology#One part (Monism)|monistic]] point of view.<ref>{{cite book|url=https://biblicalstudies.org.uk/PDF/ejt/27-2_147.pdf|page=154|author=Martine C.L. Oldhoff|title=The Soul in the Bible: Monism in Biblical Scholarship? Analysing Biblical Studies from a Systematic Point of View|year=2018|access-date=20 January 2023|archive-date=20 January 2023|archive-url=https://web.archive.org/web/20230120143812/https://biblicalstudies.org.uk/pdf/ejt/27-2_147.pdf|url-status=dead}}</ref>
+
+== Legacy and criticism ==
+Bultmann was an outstanding teacher, and he encouraged independence of mind among his students. The result was two major developments within the “Bultmann school.” In 1954 [[Ernst Käsemann]] raised “the question of the historical Jesus” (i.e., the question of the significance of knowledge of the [[historical Jesus]] for Christian faith), and a number of Bultmann’s pupils developed a position independent of their teacher’s on the matter. Then [[Ernst Fuchs (theologian)|Ernst Fuchs]] and [[Gerhard Ebeling]], building on Bultmann’s existentialist analysis, developed a method of interpreting the New Testament that emphasized the linguistic mode of human existence, giving birth to the so-called [[new hermeneutic]]. Bultmann himself took part in these discussions along with his pupils for as long as his health permitted, later living quietly in [[Marburg]], where he died in 1976.<ref name="Britannica">{{Cite web|title=Rudolf Bultmann {{!}} German theologian|url=https://www.britannica.com/biography/Rudolf-Bultmann|access-date=7 September 2021|website=Encyclopedia Britannica|language=en}}</ref>
+
+Posthumously, Bultmann’s approach to the New Testament has been subject to increasing criticism, which has led modern scholars to overcome his theorems.<ref>{{Cite book|last1=Longenecker|first1=Bruce W.|url=https://books.google.com/books?id=tzv-oAEACAAJ|title=Beyond Bultmann: Reckoning a New Testament Theology|last2=Parsons|first2=Mikeal Carl|date=2014|publisher=Baylor University Press|isbn=978-1-4813-0041-4|language=en}}</ref> According to the theologian and historian of Christianity [[Larry Hurtado]], Bultmann  "approached the ancient Christian texts with a theological criterion, a particular formulation of ''justification by faith'', which he used to judge whether the writings were valid or not."<ref>{{Cite book|last1=Longenecker|first1=Bruce W.|url=https://books.google.com/books?id=tzv-oAEACAAJ|title=Beyond Bultmann: Reckoning a New Testament Theology|last2=Parsons|first2=Mikeal Carl|date=2014|publisher=Baylor University Press|isbn=978-1-4813-0041-4|language=en}}</ref> [[John P. Meier]] believes that Bultmann had a "disconcerting way of solving problems with a few evasive sentences, his arguments do not hold up, despite having been handed down for generations."<ref>{{Cite book|last=Meier|first=John P.|url=https://books.google.com/books?id=ydE6zCLww-YC&q=a+marginal+jew|title=A Marginal Jew: Mentor, message, and miracles|date=1991|publisher=Doubleday|isbn=978-0-385-46992-0|page=9|language=en}}</ref> [[Bart D. Ehrman]], while agreeing with some of Bultmann's positions, underlines that "among our ranks there are no more [[Form criticism|form critics]] that agree with the theories of Bultmann, the pioneer of this interpretation".<ref>{{Cite book|last=Ehrman|first=Bart D.|url=https://books.google.com/books?id=hf5Rj8EtsPkC&q=did+jesus+exist+ehrman|title=Did Jesus Exist?: The Historical Argument for Jesus of Nazareth|date=20 March 2012|publisher=Harper Collins|isbn=978-0-06-208994-6|page=86|language=en}}</ref> According to Werner H. Kelber, "Today it is no exaggeration to claim that a whole spectrum of main assumptions underlying Bultmann's ''Synoptic Tradition'' must be considered suspect."<ref name=":0">Kelber, W. H. (1997). ''The Oral and Written Gospel: The Hermeneutics of Speaking and Writing in the Synoptic Tradition, Mark, Paul, and Q.'' Bloomington: Indiana University Press. p. 8.</ref>
+
+Bultmann's skeptical approach to the New Testament has received criticism from conservative biblical scholars like [[Klaus Berger (theologian)|Klaus Berger]] and [[Craig Blomberg]].<ref>{{Cite book|last=Berger|first=Klaus|url=https://books.google.com/books?id=vYbiAwAAQBAJ&q=Die+Bibelf%C3%A4lscher|title=Die Bibelfälscher: Wie wir um die Wahrheit betrogen werden|date=26 April 2013|publisher=Pattloch eBook|isbn=978-3-629-32004-9|language=de}}</ref><ref>{{Cite book|last=Blomberg|first=Craig L.|url=https://books.google.com/books?id=bQjdCwAAQBAJ|title=The Historical Reliability of the Gospels|date=6 May 2014|publisher=InterVarsity Press|isbn=978-0-8308-9809-1|language=en}}</ref> Form criticism, in particular, has been challenged in recent years by [[Martin Hengel]], [[Richard Bauckham]] and [[Brant J. Pitre]], who have reasserted the traditional theory that the Gospels were written by eyewitnesses.<ref>{{Cite book|last=Richard|first=Bauckham|url=https://books.google.com/books?id=tE8xDwAAQBAJ|title=Jesus and the Eyewitnesses, 2d ed.|date=2017|publisher=Wm. B. Eerdmans Publishing|isbn=978-0-8028-7431-3|language=en}}</ref><ref>{{Cite book|last=Hengel|first=Martin|url=https://books.google.com/books?id=-1kRAQAAIAAJ|title=The Four Gospels and the One Gospel of Jesus Christ: An Investigation of the Collection and Origin of the Canonical Gospels|date=2000|publisher=SCM Press|isbn=978-0-334-02759-1|language=en}}</ref><ref>{{Cite book|last=Pitre|first=Brant|url=https://books.google.com/books?id=i9LvCAAAQBAJ|title=The Case for Jesus: The Biblical and Historical Evidence for Christ|date=2 February 2016|publisher=Crown Publishing Group|isbn=978-0-7704-3549-3|language=en}}</ref>
+
+==Selected works==
+*{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |title=Die Geschichte der synoptischen Tradition |date=1921 |ref=none}} - German original
+**{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=History of the Synoptic Tradition |location=San Francisco, CA |publisher=Harper San Francisco |date=1976 |isbn=0-06-061172-3 |ref=none}} (seminal work on form criticism)
+*{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=Jesus |date=1926 |ref=none}} - German original
+**{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=Jesus and the Word |series=Hudson River editions |location=New York & London |publisher=Scribner |date=1934 |isbn=978-0-684-17596-6 |oclc=20362687  |ref=none}}<ref>{{cite web|title=Jesus and the Word - online|url=http://www.religion-online.org/showbook.asp?title=426 |archive-url = https://web.archive.org/web/20070302235855/http://www.religion-online.org/showbook.asp?title=426|access-date=11 April 2019|archive-date = 2 March 2007 |ref=none}}</ref>
+*{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=Neues Testament und Mythologie |date=1941 |ref=none}} - German original
+**{{cite book |author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=Kerygma and Myth: A Theological Debate |location=London |publisher=SPCK |date=1953 |oclc=878330612 |ref=none}}<ref>{{cite web|url=http://www.religion-online.org/book/kerygma-and-myth/ |title=Kerygma and Myth: a theological debate |access-date=11 April 2019 |ref=none}}</ref> - (contains the essay "The New Testament and Mythology" with critical analyses and Bultmann's response)
+**{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=The New Testament and Mythology and Other Basic Writings |publisher=Augsburg Fortress Press |date=1984 |isbn=978-0-8006-0727-2 |oclc=10948632 |title-link=New Testament and Mythology  |ref=none}}
+*{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=Das Evangelium des Johannes |date=1941 |ref=none}} - German original
+**{{cite book |author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=The Gospel of John: A Commentary |location=Philadelphia, PA |publisher=Westminster John Knox Press |date=1971 |isbn=978-0-664-20893-6 |oclc=136267 |url=https://archive.org/details/gospelofjohnco00bult  |ref=none}}
+*{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=Theologie des Neuen Testaments |date=1948 |ref=none}} - German original
+**{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=Theology of the New Testament |location=London |publisher=SCM Press |date=1961 |oclc=1069331668  |ref=none}}
+**{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=Theology of the New Testament: Complete in One Volume |location=London |publisher=SCM Press |date=1970 |isbn=978-0-684-41190-3 |oclc=715928440  |ref=none}}
+*{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=Das Urchristentum im Rahmen der Antiken Religionen |date=1949 |ref=none}} - German original
+**{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=Primitive Christianity in its Contemporary Setting |url=https://archive.org/details/primitivechristi0000bult_s6e0 |url-access=registration |location=New York |publisher=Meridian Books|date=1956 |oclc=280803  |ref=none}}
+*{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=Die Frage der Entmythologisierung |date=1954 |ref=none}} - German original
+**{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |author2-last=Jaspers |author2-first=Karl |author2-link=Karl Jaspers |title=Myth & Christianity: An Inquiry Into The Possibility Of Religion Without Myth |url=https://archive.org/details/mythchristianity0000jasp |url-access=registration |location=New York |publisher=Noonday Press |date=1958 |oclc=186641  |ref=none}} - In this dialogue with philosopher Jaspers, Jaspers first makes the case that Christianity can not be understood apart from its mythical framework, and that myth is a necessary form of communication through symbol. Bultmann responds that modern scientific analysis of the text is required to separate the genuine from the miraculous claims, thereby revealing the true message.
+*{{cite book|author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=History and Eschatology: The Presence of Eternity (1954–55 Gifford Lectures) |location=Edinburgh |publisher=University Press |date=1957 |isbn=978-0-85224-103-5 |oclc=752549  |ref=none}}
+*{{cite book |author1-last=Bultmann |author1-first=Rudolf K. |author1-mask=3 |title=Jesus Christ and Mythology (Cole lectures, Vanderbilt University, Kent Shaffer memorial lectures) |series=Scribner Library (series) - Lyceum editions |volume=SL73 |location=New York & London |publisher=Scribner |date=1958 |isbn=978-0-684-71727-2 |oclc=383108 |url=https://archive.org/details/jesuschristmytho00rudo  |ref=none}}
+
+==Notes==
+{{notelist}}
+
+==References==
+===Footnotes===
+{{reflist|22em}}
+
+===Sources===
+{{refbegin|35em|indent=yes}}
+* {{cite book
+|last=Blomberg
+|first=Craig L.
+|author-link=Craig Blomberg
+|year=1987
+|title=The Historical Reliability of the Gospels
+|location=Leicester, England
+|publisher=Inter-Varsity Press
+|isbn=978-0-87784-992-6
+}}
+* {{cite book
+|last=Borg
+|first=Marcus J.
+|author-link=Marcus Borg
+|year=1994
+|title=Jesus in Contemporary Scholarship
+|publisher=A&C Black
+|isbn=978-1-56338-094-5
+|url=https://archive.org/details/jesusincontempor00borg
+}}
+* {{cite book
+|last=Broadhead
+|first=Edwin K.
+|year=2011
+|chapter=Implicit Christology and the Historical Jesus
+|editor1-last=Holmén
+|editor1-first=Tom
+|editor2-last=Porter
+|editor2-first=Stanley E.
+|editor2-link=Stanley E. Porter
+|title=Handbook for the Study of the Historical Jesus
+|volume=2
+|location=Leiden, Netherlands
+|publisher=Brill
+|pages=1169–1182
+|isbn=978-90-04-17092-6
+}}
+* {{cite book
+|last=Bultmann
+|first=Rudolf
+|year=1910
+|title=Der Stil der paulinischen Predigt und die kynisch-stoische Diatribe
+|url=https://archive.org/details/derstilderpaulin00bultuoft
+|language=de
+|location=Göttingen, Germany
+|publisher=Vandenhoeck & Ruprecht
+|access-date=3 April 2018
+}}
+* {{cite book
+|last=Bultmann
+|first=Rudolf
+|author-mask={{long dash}}
+|year=1971
+|title=The Gospel of John: A Commentary
+}}
+* {{cite book
+|last=Bultmann
+|first=Rudolf
+|author-mask={{long dash}}
+|year=1984
+|orig-year=1941
+|chapter=New Testament and Mythology
+|editor-last=Ogden
+|editor-first=Schubert M.
+|editor-link=Schubert M. Ogden
+|title=New Testament and Mythology and Other Basic Writings
+|location=Philadelphia
+|publisher=Fortress Press
+|publication-date=1989
+|pages=[https://archive.org/details/newtestamentmyth00rudo/page/1 1–43]
+|isbn=978-0-8006-2442-2
+|chapter-url=https://archive.org/details/newtestamentmyth00rudo
+|url=https://archive.org/details/newtestamentmyth00rudo/page/1
+}}
+* {{cite book
+|last=Bultmann
+|first=Rudolf
+|author-mask={{long dash}}
+|year=1991
+|chapter=Jesus and the Eschatological Kingdom
+|editor-last=Johnson
+|editor-first=Roger A.
+|title=Rudolf Bultmann: Interpreting Faith for the Modern Era
+|location=Minneapolis, Minnesota
+|publisher=Fortress Press
+|pages=91–102
+|isbn=978-0-8006-3402-5
+}}
+* {{cite book
+|last=Bultmann
+|first=Rudolf
+|author-mask={{long dash}}
+|year=2004
+|chapter=New Testament and Mythology: The Mythological Element in the Message of the New Testament and the Problem of Its Re-Interpretation
+|editor-last=Evans
+|editor-first=Craig A.
+|title=The Historical Jesus: Critical Concepts in Religious Studies. Volume I: The History of the Quest: Classical Studies and Critical Questions
+|location=London
+|publisher=Routledge
+|pages=323–358
+|isbn=978-0-415-32751-0
+}}
+* {{cite book
+|last=Busse
+|first=Roger S.
+|year=2014
+|title=To Be Near the Fire: Demonic Possession, Risk Analysis, and Jesus' War on Satan
+|location=Eugene, Oregon
+|publisher=Resource Publications
+|isbn=978-1-62564-811-2
+}}
+* {{cite book
+|last=Congdon
+|first=David W.
+|year=2015a
+|title=Rudolf Bultmann: A Companion to His Theology
+|location=Eugene, Oregon
+|publisher=Cascade Books
+|isbn=978-1-62564-748-1
+}}
+* {{cite book
+|last=Congdon
+|first=David W.
+|author-mask={{long dash}}
+|year=2015b
+|title=The Mission of Demythologizing: Rudolf Bultmann's Dialectical Theology
+|location=Minneapolis, Minnesota
+|publisher=Fortress Press
+|isbn=978-1-4514-8792-3
+}}
+* {{cite book
+|year=2005
+|editor1-last=Cross
+|editor1-first=F.&nbsp;L.
+|editor1-link=Frank Leslie Cross
+|editor2-last=Livingstone
+|editor2-first=E.&nbsp;A.
+|title=The Oxford Dictionary of the Christian Church
+|edition=rev. 3rd
+|location=Oxford
+|publisher=Oxford University Press
+|isbn=978-0-19-280290-3
+}}
+* {{cite book
+|last=Dennison
+|first=William D.
+|year=2008
+|title=The Young Bultmann: Context for His Understanding of God, 1884–1925
+|series=American University Studies VII: Theology and Religion
+|volume=241
+|location=New York
+|publisher=Peter Lang
+|isbn=978-0-8204-8113-5
+|issn=0740-0446
+}}
+* {{cite book
+|last=Dorrien
+|first=Gary
+|author-link=Gary Dorrien
+|year=2003
+|title=The Making of American Liberal Theology: Idealism, Realism, and Modernity, 1900–1950
+|location=Louisville, Kentucky
+|publisher=Westminster John Knox Press
+|isbn=978-0-664-22355-7
+}}
+*{{cite book 
+| last=Ericksen 
+| first=Robert
+| title=Complicity in the Holocaust : churches and universities in Nazi Germany  
+| publisher=Cambridge University Press 
+| location=New York 
+| year=2012 
+| isbn=978-1-107-01591-3 
+}}
+* {{cite book
+|year=1985
+|editor-last=Hobbs
+|editor-first=Edward C.
+|title=Bultmann, Retrospect and Prospect: The Centenary Symposium at Wellesley
+|publisher=Fortress Press
+|isbn=978-0-8006-7075-7
+}}
+* {{cite book 
+|last=Hammann 
+|first=Konrad 
+|date=2013 
+|title=Rudolf Bultmann: A Biography 
+|location=Salem, Oregon 
+|publisher=Polebridge Press 
+|isbn=978-1-59815-118-3}}
+* {{cite book
+|last=Jensen
+|first=Alexander S.
+|year=2014
+|title=Divine Providence and Human Agency: Trinity, Creation and Freedom
+|location=Farnham, England
+|publisher=Ashgate Publishing
+|isbn=978-1-4094-3530-3
+}}
+* {{cite journal
+|last=Jonas
+|first=Hans
+|author-link=Hans Jonas
+|year=1982
+|title=Is Faith Still Possible? Memories of Rudolf Bultmann and Reflections on the Philosophical Aspects of His Work
+|journal=Harvard Theological Review
+|volume=75
+|issue=1
+|pages=1–23
+|doi=10.1017/S0017816000018186
+|issn=1475-4517
+|jstor=1509661
+|s2cid=162531107
+}}
+* {{cite book
+|last=Kelley
+|first=Shawn
+|year=2002
+|title=Racializing Jesus: Race, Ideology and the Formation of Modern Biblical Scholarship
+|location=London
+|publisher=Routledge
+|isbn=978-0-415-15402-4
+}}
+* {{cite book
+|last=Labron
+|first=Tim
+|year=2011
+|title=Bultmann Unlocked
+|location=London
+|publisher=T&T Clark
+|isbn=978-0-567-03153-2
+}}
+* {{cite book
+|last=Markschies
+|first=Christoph
+|year=2014
+|chapter=Individuality in Some Gnostic Authors, with a Few Remarks on the Interpretation of Ptolemy's ''Epistula ad Florum''
+|editor1-last=Torrance
+|editor1-first=Alexis
+|editor2-last=Zachhuber
+|editor2-first=Johannes
+|title=Individuality in Late Antiquity
+|location=Abingdon, England
+|publisher=Routledge
+|publication-date=2016
+|pages=11–28
+|isbn=978-1-315-58841-4
+}}
+* {{cite book
+|last=McKnight
+|first=Scot
+|author-link=Scot McKnight
+|year=2005
+|chapter=Jesus: Who Was He?: Introduction
+|editor1-last=Dunn
+|editor1-first=James D.&nbsp;G.
+|editor1-link=James Dunn (theologian)
+|editor2-last=McKnight
+|editor2-first=Scot
+|editor2-link=Scot McKnight
+|title=The Historical Jesus in Recent Research
+|series=Sources for Biblical and Theological Study
+|volume=10
+|location=Winona Lake, Indiana
+|publisher=Eisenbrauns
+|pages=271–274
+|isbn=978-1-57506-100-9
+}}
+* {{cite book
+|last=Meier
+|first=Holger
+|year=2011
+|title=Rudolf Bultmann und sein hermeneutischer Ansatz der Entmythologisierung als existentiale Interpretation
+|trans-title=Rudopf Bultmann and His Hermeneutic Approach to De-Mythologization as Existential Interpretation
+|language=de
+|location=Munich
+|publisher=GRIN Verlag
+|isbn=978-3-656-09464-7
+}}{{self-published source|date=April 2018}}
+* {{cite journal
+|last=Monk
+|first=Stephanie D.
+|year=2011
+|title=An Examination of the Theology of Bishop John Shelby Spong
+|url=http://www.globaljournalct.com/wp-content/uploads/2014/08/Stephanie-Monk-vol-9-no-1.pdf
+|journal=Global Journal of Classic Theology
+|volume=9
+|issue=1
+|issn=1521-6055
+|access-date=4 April 2018
+}}
+* {{cite book
+|last=Mournet
+|first=Terence C.
+|year=2005
+|title=Oral Tradition and Literary Dependency: Variability and Stability in the Synoptic Tradition and Q
+|journal=Wissenschaftliche Untersuchungen zum Neuen Testament. 2. Reihe
+|series=Wissenschaftliche Untersuchungen zum Neuen Testament
+|volume=195
+|location=Tübingen, Germany
+|publisher=Mohr Siebeck
+|isbn=978-3-16-148454-4
+|issn=0340-9570
+}}
+* {{cite book
+|last=Pagliarino
+|first=Guido
+|year=2018
+|orig-year=2015
+|title=Diavolo e Demòni (un approccio storico)
+|language=it
+|publisher=Tektime
+|isbn=978-88-7304-437-6
+}}
+* {{cite book
+|last=Porter
+|first=Stanley E.
+|date=2015
+|author-link=Stanley E. Porter
+|title=When Paul Met Jesus: How an Idea Got Lost in History
+|location=New York
+|publisher=Cambridge University Press
+|doi=10.1017/CBO9781316422786
+|isbn=978-1-107-12796-8
+}}
+* {{cite book |author1-last=Raupp |author1-first=Werner |title=Bultmann. Rudolf (Karl): Biographisch-Bibliographisches Kirchenlexikon (BBKL) |volume=21 |location=Nordhausen |publisher=Bautz |date=2003 |isbn=3-88309-110-3 |pages=174–233 }} - (with compact introduction and detailed bibliography)
+*{{cite journal |last=Schild
+|first=Maurice E.
+|year=2016
+|title=Review of ''Rudolf Bultmann / Günther Bornkamm: Briefwechsel, 1926–1976'' Edited by Werner Zager
+|journal=Lutheran Theological Review
+|volume=50
+|issue=1
+|pages=89–90
+|issn=0024-7553
+}}
+* {{cite book
+|last1=Watson
+|first1=Duane F.
+|last2=Hauser
+|first2=Alan J.
+|year=1994
+|title=Rhetorical Criticism of the Bible: A Comprehensive Bibliography with Notes on History and Method
+|series=Biblical Interpretation Series
+|volume=4
+|location=Leiden, Netherlands
+|publisher=Brill
+|isbn=978-90-04-09903-6
+|issn=0928-0731
+}}
+* {{cite encyclopedia
+|year=2018
+|editor-last=Wildman
+|editor-first=Wesley
+|editor-link=Wesley Wildman
+|title=Rudolf Bultmann (1884–1976)
+|url=http://people.bu.edu/wwildman/bce/mwt_themes_760_bultmann.htm
+|encyclopedia=Boston Collaborative Encyclopedia of Western Theology
+|location=Boston
+|publisher=Boston University
+|access-date=3 April 2018
+}}
+* {{cite book
+|last=Wood
+|first=Lawrence W.
+|year=2005
+|title=Theology as History and Hermeneutics: A Post-Critical Conversation with Contemporary Theology
+|location=Lexington, Kentucky
+|publisher=Emeth Press
+|isbn=978-0-9755435-5-9
+}}
+* {{cite book
+|last=Woodson
+|first=Hue
+|year=2018
+|title=Heideggerian Theologies: The Pathmarks of John Macquarrie, Rudolf Bultmann, Paul Tillich, and Karl Rahner
+|location=Eugene, Oregon
+|publisher=Wipf and Stock
+|isbn=978-1-5326-4775-8
+}}
+* {{cite book
+|last=Zetterholm
+|first=Magnus
+|year=2009
+|title=Approaches to Paul: A Student's Guide to Recent Scholarship
+|location=Minneapolis, Minnesota
+|publisher=Fortress Press
+|isbn=978-0-8006-6337-7
+}}
+{{refend}}
+
+==Further reading==
+{{refbegin|35em|indent=yes}}
+* {{cite book
+|year=1961
+|editor-last=Bartsch
+|editor-first=Hans Werner
+|title=Kerygma and Myth: A Theological Debate
+|url=http://www.religion-online.org/showbook.asp?title=431
+|location=New York
+|publisher=Harper Torchbooks
+|archive-url=https://web.archive.org/web/20060530060721/http://www.religion-online.org/showbook.asp?title=431
+|archive-date=30 May 2006
+|access-date=3 April 2018
+|via=Religion Online
+|ref=none}}
+* {{cite book
+|last=Bultmann
+|first=Rudolf
+|year=1958
+|orig-year=1934
+|title=Jesus and the Word
+|url=http://www.religion-online.org/showbook.asp?title=426
+|translator1-last=Smith
+|translator1-first=Louise Pettibone
+|translator2-last=Lantero
+|translator2-first=Erminie Huntress
+|location=New York
+|publisher=Charles Scribner's Sons
+|archive-url=https://web.archive.org/web/20070302235855/http://www.religion-online.org/showbook.asp?title=426
+|archive-date=2 March 2007
+|access-date=3 April 2018
+|via=Religion Online
+|translator1-link=Louise Pettibone Smith
+|ref=none}}
+* {{cite book
+|last=Bultmann
+|first=Rudolf
+|author-mask={{long dash}}
+|year=1960
+|title=Existence and Faith: Shorter Writings of Rudolf Bultmann
+|url=https://archive.org/details/existencefaithsh00bult
+|url-access=limited
+|location=New York
+|publisher=Meridian Books
+|lccn=60006774
+|access-date=3 April 2018
+|ref=none}}
+* {{cite book
+|last=Bultmann
+|first=Rudolf
+|author-mask={{long dash}}
+|year=1962
+|orig-year=1955
+|title=History and Eschatology: The Presence of Eternity
+|url=https://www.giffordlectures.org/lectures/history-and-eschatology
+|location=New York
+|publisher=Harper Torchbooks
+|access-date=3 April 2018
+|via=Gifford Lectures
+|ref=none}}
+* {{cite magazine
+|last=Edwards
+|first=David L.
+|author-link=David Edwards (priest)
+|year=1976
+|title=Rudolf Bultmann: Scholar of Faith
+|url=http://www.religion-online.org/article/rudolf-bultmann-scholar-of-faith/
+|magazine=The Christian Century
+|volume=93
+|issue=27
+|location=Chicago
+|pages=728–730
+|issn=0009-5281
+|access-date=3 April 2018
+|via=Religion Online
+|ref=none}}
+* {{cite book
+|last=Fergusson
+|first=David
+|year=1992
+|title=Bultmann
+|location=London
+|publisher=G. Chapman
+|isbn=978-0-225-66626-7
+|ref=none}}
+* {{cite book
+|last=Fries
+|first=Heinrich
+|year=1967
+|title=Bultmann-Barth and Catholic Theology
+|url=http://global-dialogue.com/swidlerbooks/bultmann-barth.htm
+|translator-last=Swidler
+|translator-first=Leonard
+|translator-link=Leonard Swidler
+|location=Pittsburgh, Pennsylvania
+|publisher=Duquesne University Press
+|archive-url=https://web.archive.org/web/20060101011707/http://global-dialogue.com/swidlerbooks/bultmann-barth.htm
+|archive-date=1 January 2006
+|access-date=3 April 2018
+|ref=none}}
+* {{cite book
+|last=Fuller
+|first=Reginald H.
+|author-link=Reginald H. Fuller
+|year=1965
+|title=The Foundations of New Testament Christology
+|url=https://archive.org/details/foundationsofnew00full
+|url-access=limited
+|location=New York
+|publisher=Charles Scribner's Sons
+|access-date=3 April 2018
+|ref=none}}
+* {{cite book
+|last=Hammann
+|first=Konrad
+|year=2013
+|title=Rudolf Bultmann: A Biography
+|translator-last=Devenish
+|translator-first=Philip E.
+|location=Salem, Oregon
+|publisher=Polebridge Press
+|isbn=978-1-59815-118-3
+|ref=none}}
+* {{cite book
+|last1=Kselman
+|first1=John S.
+|last2=Witherup
+|first2=Ronald D.
+|year=1990
+|chapter=Modern New Testament Criticism
+|editor1-last=Brown
+|editor1-first=Raymond E.
+|editor1-link=Raymond E. Brown
+|editor2-last=Fitzmyer
+|editor2-first=Joseph A.
+|editor2-link=Joseph Fitzmyer
+|editor3-last=Murphy
+|editor3-first=Roland E.
+|title=The New Jerome Biblical Commentary
+|location=Englewood Cliffs, New Jersey
+|publisher=Prentice Hall
+|pages=[https://archive.org/details/newjeromebiblica0000unse/page/1130 1130–1145]
+|isbn=978-0-13-614934-7
+|title-link=The New Jerome Biblical Commentary
+|ref=none}}
+* {{cite book
+|last=McKnight
+|first=Edgar V.
+|year=1969
+|title=What Is Form Criticism?
+|series=Guides to Biblical Scholarship: New Testament Series
+|location=Philadelphia
+|publisher=Fortress Press
+|oclc=714991891
+|ref=none}}
+* {{cite encyclopedia
+|last=Moran
+|first=Seán Farrell
+|title=Rudolph Bultmann
+|encyclopedia=The Encyclopedia of Historians and Historical Writing
+|volume=1
+|ref=none}}
+* {{cite web
+|last=Smith
+|first=Mahlon H.
+|year=2018
+|title=Rudolf Karl Bultmann
+|url=http://virtualreligion.net/primer/bultmann.html
+|website=A Synoptic Gospels Primer: Parallel Texts in Matthew, Mark & Luke
+|oclc=60769417
+|access-date=3 April 2018
+|ref=none}}
+{{refend}}
+
+{{Philosophy of religion|state=collapsed}}
+{{Subject bar |portal1=Bible |portal2=Biography |portal3=Christianity |commons=yes |commons-search=Category:Rudolf Bultmann |q=yes |d=yes |d-search=Q76327}}
+{{Authority control}}
+
+{{Use British English Oxford spelling|date=April 2018}}
+{{Use dmy dates|date=August 2024}}
+
+{{DEFAULTSORT:Bultmann, Rudolf}}
+[[Category:1884 births]]
+[[Category:1976 deaths]]
+[[Category:20th-century German Protestant theologians]]
+[[Category:Christian existentialists]]
+[[Category:Existentialist theologians]]
+[[Category:German biblical scholars]]
+[[Category:German Lutheran theologians]]
+[[Category:German male non-fiction writers]]
+[[Category:Grand Crosses with Star and Sash of the Order of Merit of the Federal Republic of Germany]]
+[[Category:Recipients of the Pour le Mérite (civil class)]]
+[[Category:Hermeneutists]]
+[[Category:Humboldt University of Berlin alumni]]
+[[Category:New Testament scholars]]
+[[Category:People from Ammerland]]
+[[Category:People from Oldenburg (state)]]
+[[Category:Religious naturalists]]
+[[Category:University of Marburg alumni]]
+[[Category:Academic staff of the University of Marburg]]
+[[Category:University of Tübingen alumni]]
+[[Category:Lay theologians]]
+[[Category:Lutheran biblical scholars]]
+[[Category:Protestants in the German Resistance]]
+[[Category:20th-century Lutherans]]
+[[Category:Scholars of Mandaeism]]

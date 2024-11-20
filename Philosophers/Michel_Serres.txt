@@ -1,0 +1,161 @@
+{{Short description|French philosopher (1930–2019)}}
+{{distinguish|Michel Serre}}
+{{Use dmy dates|date=December 2023}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[Contemporary philosophy]]
+|image            = Michel Serres - Espace des sciences - 15-02-2011.JPG
+|caption          = Serres in 2011
+|birth_date       = {{birth date|df=yes|1930|9|1}}
+|birth_place      = [[Agen]], [[Lot-et-Garonne]], France
+|death_date       = {{death date and age|df=yes|2019|6|1|1930|9|1|}}
+|death_place      = [[Paris]], France
+|alma_mater       = [[École Navale]]<br />[[École Normale Supérieure]]<br />[[University of Paris]]
+|institutions     = [[University of Paris I]]<br />[[Stanford University]]
+|school_tradition = [[Continental philosophy]]<br />[[French epistemology]]<ref>''Conversations on Science, Culture, and Time: Michel Serres Interviewed by [[Bruno Latour]]'', University of Michigan Press, 1995, p. 8.</ref>
+|main_interests   = [[Epistemology]]<br />[[Philosophy of science]]
+|notable_ideas    = [[Hermes]], the messenger of the gods, as standing for the communication that takes place between science and the arts<ref>Schrift (2006), p. 181.</ref>
+|influences       = [[Baruch Spinoza]], [[Gaston Bachelard]]<ref>M. Serres, "La réforme et les sept péchés," ''L'Arc'', 42: "Bachelard special issue" (1970).</ref><ref>Schrift (2006), p. 180.</ref>
+|influenced       = [[Bruno Latour]], [[Steven Connor]], [[Pierre Lévy (philosopher)|Pierre Lévy]], [[Isabelle Stengers]], [[Ilya Prigogine]], [[Réda Benkirane]]
+}}
+
+'''Michel Serres''' ({{IPA|fr|miʃɛl sɛʁ|lang}}; 1 September 1930 – 1 June 2019) was a French [[philosopher]], theorist and writer. His works explore themes of science, time and death, and later incorporated [[prose]].
+
+==Life and career==
+The son of a bargeman, Serres entered France's naval academy, the [[École Navale]], in 1949 and the [[École Normale Supérieure]] in 1952. He [[Agrégation|aggregated]] in 1955, having studied [[philosophy]]. He spent the next few years as a naval officer before finally receiving his [[doctorate]] ([[doctorat ès lettres]]) in 1968 from the [[University of Paris]] (with a thesis titled ''Le Système de Leibniz et ses modèles mathématiques''), and began teaching in 1969 at the [[University of Paris I]].
+
+As a child, Serres witnessed firsthand the violence and devastation of war. "I was six for my first dead bodies," he told [[Bruno Latour]].<ref>''Conversations on Science, Culture, and Time: Michel Serres Interviewed by [[Bruno Latour]]'', University of Michigan Press, 1995, p. 2.</ref> These formative experiences led him consistently to eschew [[scholarship]] based upon models of war, suspicion, and [[criticism]].
+
+Serres served as a professor of French at [[Stanford University]].<ref>{{Cite web|url=http://www.stanford.edu/dept/DLCL/cgi-bin/web/people/faculty|title=Stanford faculty|access-date=20 January 2012|archive-date=17 February 2014|archive-url=https://web.archive.org/web/20140217123311/http://www.stanford.edu/dept/DLCL/cgi-bin/web/people/faculty|url-status=dead}}</ref><ref>{{Cite web|url=http://www.stanford.edu/dept/DLCL/cgi-bin/web/people/michel-serres|title=Stanford faculty webpage|access-date=20 January 2012|archive-date=16 January 2014|archive-url=https://web.archive.org/web/20140116134852/http://www.stanford.edu/dept/DLCL/cgi-bin/web/people/michel-serres|url-status=dead}}</ref> He earned a reputation as a spell-binding lecturer and as the author of remarkably beautiful and enigmatic prose so reliant on the sonorities of French that it is considered practically untranslatable.{{cn|date=May 2024}} He took as his subjects such diverse topics as the mythical [[Northwest Passage]], the concept of the [[parasite]], and the [[Space Shuttle Challenger disaster|explosion of the Space Shuttle Challenger]]. More generally Serres was interested in developing a [[philosophy of science]] which does not rely on a [[metalanguage]] in which a single account of science is privileged and regarded as accurate. To do this he relied on the concept of [[translation]] between accounts rather than settling on one as authoritative. For this reason, Serres has relied on the figure of [[Hermes]] (in his earlier works) and [[angel]]s (in more recent studies) as messengers who translate (or map) back and forth between domains (i.e., between maps).{{cn|date=May 2024}}
+
+He was an influence on intellectuals such as [[Bruno Latour]], [[Robert Pogue Harrison]], and [[Jonathan Bate]]. Perhaps his most enduring book is ''Le contrat naturel'' (1990), a prescient work addressing the need for philosophy to address the climate crisis. 
+
+In an interview with [[Hans Ulrich Obrist]], Serres expressed interest in the [[emergence]] of a new [[political philosophy]] that addresses the [[digital content|digital]] context of the 21st century, "I think that out of this place of no law that is the Internet there will soon emerge a new law, completely different from that which organized our old metric space."<ref>{{cite web|url=http://032c.com/2014/michel-serres/|title=MICHEL SERRES|last=032c.com|access-date=17 July 2014|archive-date=23 July 2014|archive-url=https://web.archive.org/web/20140723233035/http://032c.com/2014/michel-serres/|url-status=live}}</ref>
+
+Serres was a vocal enthusiast for [[free access|freely accessible]] knowledge, especially [[Wikipedia]].<ref>{{Cite web|url=https://framablog.org/2007/02/27/wikipedia/|title=Quand l'académicien Michel Serres valide Wikipédia|first=Alexis|last=Kauffmann|date=27 February 2007|website=Framablog|access-date=8 March 2024|archive-date=3 December 2012|archive-url=https://web.archive.org/web/20121203044634/http://www.framablog.org/index.php/post/2006/10/19/wikipedia|url-status=live}}</ref>
+
+He died on 1 June 2019, at the age of 88.<ref>{{Cite news|url = https://www.lemonde.fr/disparitions/article/2019/06/01/le-philosophe-et-academicien-michel-serres-est-mort_5470322_3382.html|title = Le philosophe et académicien Michel Serres est mort|newspaper = Le Monde.fr|date = June 2019|access-date = 1 June 2019|archive-date = 5 June 2019|archive-url = https://archive.today/20190605082721/https://www.lemonde.fr/disparitions/article/2019/06/01/le-philosophe-et-academicien-michel-serres-est-mort_5470322_3382.html|url-status = live}}</ref>
+
+==Honours and recognition==
+In 1990, Serres was elected to the [[Académie française]], in recognition of his position as one of France's most prominent intellectuals. 
+
+In 2012, Serres was awarded the [[Meister Eckhart Prize]] and in 2013 he was awarded the [[Dan David Prize]].
+
+== Publications ==
+{{div col}}
+* 1968: ''Le Système de Leibniz et ses modèles mathématiques'', [[Presses universitaires de France]], rééd. 1982 
+* 1969: ''Hermès I, la communication'', [[Éditions de Minuit]], reprint. 1984
+* 1972: ''Hermès II, l'interférence'', Éditions de Minuit
+* 1974: ''Hermès III, la traduction'', Éditions de Minuit
+* 1974: ''Jouvences. Sur Jules Verne'', Éditions de Minuit
+* 1975: ''Auguste Comte. Leçons de philosophie positive'', (in collaboration), tome I, [[Éditions Hermann]]
+* 1975: ''Esthétiques sur Carpaccio'', Hermann
+* 1975: ''Feux et signaux de brume. Zola'', [[Éditions Grasset|Grasset]], {{ISBN|2-246-00258-3}}
+* 1977: ''Hermès IV, La distribution'', Éditions de Minuit, reprint. 1981
+* 1977: ''La Naissance de la physique dans le texte de Lucrèce'', Éditions de Minuit
+* 1980: ''Hermès V, Le passage du Nord-ouest'', Éditions de Minuit, Paris
+* 1980: ''Le Parasite'', Grasset
+* 1982: ''Genèse'', Grasset
+* 1983: ''Détachement'', [[Groupe Flammarion|Flammarion]]
+* 1983: ''Rome. Le livre des fondations'', Grasset
+* 1985: ''[[Les Cinq Sens (essai)|Les Cinq Sens]]'', Grasset; reprint. [[Fayard]], 2014
+* 1987: ''L'Hermaphrodite'', Flammarion
+* 1987: ''Statues'', [[François Bourin]]
+* 1989: ''Éléments d'histoire des sciences'', (in collaboration), [[Éditions Bordas|Bordas]]
+* 1990: ''Le Contrat naturel'', François Bourin, Paris (''The Natural Contract'' (1995), [[University of Michigan Press]] (English translation by Elizabeth MacArthur and William Paulson)<ref name=natural />
+* 1991: ''Le Tiers-instruit'', François Bourin
+* 1991: ''Discours de réception de Michel Serres à l'Académie française et réponse de Bertrand Poirot-Delpech'', François Bourin
+* 1992: ''Éclaircissements'', (interviews with [[Bruno Latour]]), François Bourin
+* 1993: ''La Légende des Anges'', Flammarion
+* 1993: ''Les Origines de la géométrie'', Flammarion
+* 1994: ''Atlas'', Julliard
+* 1995: ''Éloge de la philosophie en langue française'', Fayard
+* 1997: ''Nouvelles du monde'', Flammarion
+* 1997: ''Le trésor. Dictionnaire des sciences'', (in collaboration), Flammarion, Paris
+* 1997: ''À visage différent'', (in collaboration), Hermann
+* 1999: ''Paysages des sciences'', (in collaboration), [[Le Pommier]]
+* 2000: ''Hergé, mon ami'', [[Éditions Moulinsart]]
+* 2001: ''Hominescence'', Le Pommier
+* 2002: ''Variations sur le corps'', Le Pommier, 1999; édition texte seul, Le Pommier
+* 2002: ''Conversations, Jules Verne, la science et l'homme contemporain, 1re version'', [[Revue Jules Verne]] 13/14, [[Centre international Jules-Verne]], Amiens
+* 2003: ''L'Incandescent'', Le Pommier
+* 2003: ''Jules Verne, la science et l'homme contemporain'', Le Pommier
+* 2004: ''Rameaux'', Le Pommier
+* 2006: ''Récits d'humanisme'', Le Pommier
+* 2006: ''Petites chroniques du dimanche soir'', Le Pommier
+* 2006: ''L'Art des ponts : homo pontifex'', Le Pommier
+* 2007: ''Le Tragique et la Pitié. Discours de réception de René Girard à l'Académie française et réponse de Michel Serres'', Le Pommier
+* 2007: ''Petites chroniques du dimanche soir 2'', Le Pommier
+* 2007: ''Carpaccio, les esclaves libérés'', Le Pommier
+* 2008: ''Le Mal propre : polluer pour s'approprier ?'', Le Pommier, coll. « Manifestes »
+* 2008: ''La Guerre mondiale'', Le Pommier
+* 2009: ''Écrivains, savants et philosophes font le tour du monde'', Le Pommier, coll. « Les Essais »
+* 2009: ''Temps des crises'', Le Pommier, coll. « Manifestes », {{ISBN|978-2746505926}}
+* 2009: ''Van Cleef et Arpels, Le Temps poétique'', with Franco Cologni and Jean-Claude Sabrier, Cercle d'Art, coll. « La collection »
+* 2009: Petites chroniques ''du dimanche soir 3'', Le Pommier
+* 2010: Biogée, Éditions-dialogues.fr/Le Pommier
+* 2011: ''Musique'', Éditions Le Pommier {{ISBN|978-2746505452}}
+* 2012: ''[[Petite Poucette (Michel Serres)|Petite Poucette]]'', Éditions Le Pommier {{ISBN|978-2746506053}}
+* 2012: ''Andromaque, veuve noire'', Éditions de l’Herne
+* 2013: ''Les Temps nouveaux ''(coffret), Le Pommier
+* 2014: ''Pantopie, de Hermès à Petite Poucette ''(avec Martin Legros et Sven Ortoli), Le Pommier
+* 2014: ''Petites Chroniques du dimanche'' tome VI, Le Pommier
+* 2014: ''Yeux'', Le Pommier {{ISBN|978-2746507791}}
+* 2015: ''Le gaucher boiteux : puissance de la pensée'', Le Pommier
+* 2015: ''Écrivains, savants et philosophes font le tour du monde'', Le Pommier
+* 2015: ''Du bonheur, aujourd'hui'' (with Michel Polacco), Le Pommier
+* 2015: ''Solitude. Dialogue sur l'engagement'' (with Jean-François Serres), Le Pommier
+* 2016: ''De l'impertinence, aujourd'hui'' (with Michel Polacco), Le Pommier
+* 2016 : ''Darwin, Bonaparte et le Samaritain : une philosophie de l'histoire'', Paris, Le Pommier
+* 2017 :  ''De l'Amitié, aujourd'hui'' (avec Michel Polacco), Paris, Le Pommier
+* 2017 : ''C'était mieux avant !'', Paris, Le Pommier
+* 2018 : ''Défense et illustration de la langue française aujourd'hui'', (avec Michel Polacco), Paris, Le Pommier
+* 2019 : ''Morales espiègles'', Paris, Le Pommier
+{{div col end}}
+
+==Notes==
+{{reflist|2|refs=
+<ref name=natural>{{cite journal|title=The Natural Contract|url=https://www.press.umich.edu/9725/natural_contract|journal=[[University of Michigan Press]]|access-date=6 March 2015|archive-date=18 March 2015|archive-url=https://web.archive.org/web/20150318054534/https://www.press.umich.edu/9725/natural_contract|url-status=live}}</ref>
+}}
+
+==References==
+* Alan D. Schrift (2006), ''Twentieth-Century French Philosophy: Key Themes and Thinkers'', Blackwell Publishing.
+
+==External links==
+* {{Commons category-inline|Michel Serres}}
+* {{webarchive |url=http://harikunzru.com/michel-serres-interview-1995 |archive-url=https://web.archive.org/web/20120227004158/http://www.harikunzru.com/michel-serres-interview-1995 |title=Interview by Hari Kunzru}} Includes a brief exchange on the relationship of Serres to Deleuze.
+* [http://www.stevenconnor.com/ Steven Connor's website, with links to his writing on Serres]
+* {{in lang|fr}} [http://www.stanford.edu/dept/fren-ital/opinions/serres.html Radio Interview] {{Webarchive|url=https://web.archive.org/web/20140613125812/http://www.stanford.edu/dept/fren-ital/opinions/serres.html |date=13 June 2014 }} by [[Robert P. Harrison]]
+* {{in lang|fr}} [http://www.academie-francaise.fr/immortels/index.html L'Académie française]
+* [https://en.unesco.org/courier/december-1993/michel-serres-talks-francois-bernard-huyghe Michel Serres talks to François-Bernard Huyghe in the Unesco Courier]
+* {{in lang|fr}} [http://framablog.org/index.php/post/2006/10/19/wikipedia Serres speaking about wikipedia very enthusiastically]
+* [https://web.archive.org/web/20110725103842/http://news.stanford.edu/news/2009/may27/serres-052709 Michel Serres, one of France's 'immortels,' tells the 'grand récit' at Stanford] by [[Cynthia Haven]], Stanford Report, 27 May 2009.
+* [http://issuu.com/randisi issuu.com]
+*[https://www.radicalphilosophy.com/obituary/michel-serres-1930-2019 Obituary in Radical Philosophy] Autumn 2019 by Lucie Kim-Chi Mercier
+
+{{Continental philosophy}}
+{{Académie française Seat 18}}
+{{Authority control}}
+
+{{DEFAULTSORT:Serres, Michel}}
+[[Category:1930 births]]
+[[Category:2019 deaths]]
+[[Category:20th-century French philosophers]]
+[[Category:21st-century French philosophers]]
+[[Category:Continental philosophers]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:University of Paris alumni]]
+[[Category:Members of the Académie Française]]
+[[Category:Members of the European Academy of Sciences and Arts]]
+[[Category:People from Agen]]
+[[Category:People from Vincennes]]
+[[Category:French philosophers of science]]
+[[Category:French philosophers of technology]]
+[[Category:Stanford University Department of French and Italian faculty]]
+[[Category:Academic staff of Pantheon-Sorbonne University]]
+[[Category:French male non-fiction writers]]
+[[Category:Winners of the Prix Broquette-Gonin (literature)]]
+[[Category:Prix Médicis essai winners]]
+[[Category:Grand Officers of the Legion of Honour]]
+[[Category:Grand Cross of the Ordre national du Mérite]]
+[[Category:École Navale alumni]]

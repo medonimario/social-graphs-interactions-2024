@@ -1,0 +1,35 @@
+{{Short description|English theologian, philosopher and poet}}
+{{other people||John Norris (disambiguation)}}
+{{Use British English|date=December 2019}}
+{{Use dmy dates|date=December 2019}}
+'''John Norris''', sometimes called '''John Norris of Bemerton''' (1657–1712), was an English [[theologian]], [[philosopher]] and [[poet]] associated with the [[Cambridge Platonists]].
+
+==Life==
+
+John Norris was born at [[Collingbourne Kingston]], [[Wiltshire]].  He was educated at [[Winchester School]], and [[Exeter College, Oxford]], gaining a B.A. in 1680. He was later appointed a fellow of [[All Souls College, Oxford]] (M.A. 1684). He lived a quiet life as a country parson and thinker at [[Fugglestone St Peter]] with [[Bemerton]], Wiltshire, from 1692 until his death early in 1712.<ref>{{cite ODNB|first=Richard|last=Acworth|title=Norris, John (1657–1712)|year=2004|edition=Online|url=http://www.oxforddnb.com/view/article/20277|accessdate=2015-10-05|doi=10.1093/ref:odnb/20277}} </ref>
+
+==Works==
+In philosophy he was a [[Platonist]] and [[mysticism|mystic]]. He became an early opponent of [[John Locke]], whose ''[[An Essay Concerning Human Understanding]]'' (1690) he attacked in ''Christian Blessedness or Discourses upon the Beatitudes'' in the same year; he also combatted Locke's theories in his ''Essay toward the Theory of the Ideal or Intelligible World'' (1701–4).  He attacked religious schism in ''Christian Blessedness'' and ''The Charge of Schism, Continued.'' 
+ 
+Others among his 23 works are ''An Idea of Happiness'' (1683), ''Miscellanies'' (1687), ''Theory and Regulation of Love'' (1688), and a ''Discourse concerning the Immortality of the Soul'' (1708). His most popular work is ''A Collection of Miscellanies, consisting of Poems, Essays, Discourses and Letters'' (1687).
+
+His frequently-cited poem ''The Resignation'' was often published during the first half of the eighteenth century. [[Samuel Richardson]] quoted it to [[Andrew Millar]] (a prominent London bookseller) on the death of Millar's son, possibly from the then most recent edition, ''A Collection of Miscellanies'' (London: E. Parker, 1740).<ref>{{Cite web|url=http://www.millar-project.ed.ac.uk/manuscripts/html_output/8.html|title=The manuscripts, Letter from Samuel Richardson to Andrew Millar, 8 August, 1750. Andrew Millar Project. University of Edinburgh.|website=www.millar-project.ed.ac.uk|access-date=2016-06-02}}</ref>
+
+==References==
+{{reflist}}
+* Acworth, Richard (1979). ''The philosophy of John Norris of Bemerton: (1657-1712)'' (Studien und Materialien zur Geschichte der Philosophie : Kleine Reihe ; Bd. 6) 
+* Selections from the Worlds Devotional Classics.
+* {{A Short Biographical Dictionary of English Literature}}
+
+==External links==
+{{wikiquote|John Norris}}
+*{{cite EB1911|wstitle=Norris, John |volume=19|page=765|short=x}}
+*Yang, June. "John Norris". ''The Stanford Encyclopedia of Philosophy'' (Fall 2008 ed.), Edward N. Zalta (ed.), http://plato.stanford.edu/archives/fall2008/entries/john-norris/.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Norris, John}}
+[[Category:1657 births]]
+[[Category:1712 deaths]]
+[[Category:Cambridge Platonists]]
+[[Category:English male poets]]

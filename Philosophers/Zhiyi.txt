@@ -1,0 +1,169 @@
+{{Short description|Chinese Buddhist founder of Tiantai}}
+{{for|the given name|Zhiyi (given name)}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox religious biography
+| honorific-prefix   = 
+| name               = Zhiyi
+| honorific-suffix   = 
+| native_name        = 智顗
+| native_name_lang   = zh
+| image              = Sramana Zhiyi.jpeg
+| caption            = Painting of Śramaṇa Zhiyi.
+| religion           = [[Buddhism]]
+| school             = [[Tiantai]]
+| lineage            = 4th generation
+| temple             = Waguan Temple<br>[[Guoqing Temple]]
+| alma_mater         = 
+| other_names        = Chen De'an ({{zh|s=|t=陳德安|labels=no}}), Master Tiantai (天台大師), Master Zhizhe (智者大師)
+| dharma_names       = Zhiyi
+| pen_name           = 
+| posthumous_name    = 
+| nationality        = Chinese
+| birth_name         = 
+| birth_date         = 16 February 538
+| birth_place        = [[Gong'an County]], [[Hubei]], China
+| death_date         = {{death date and age|df=yes|597|08|03|538|02|16}}
+| death_place        = [[Tiantai County]], [[Zhejiang]], China
+| education          = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|latitude|longitude|type:landmark|display=inline,title}} -->
+| spouse             = 
+| children           = 
+| parents            = 
+| title              = 
+| period             = 
+| predecessor        = 
+| successor          = 
+| rank               = 
+| teacher            = Faxu ({{zh|s=|t=法緒|labels=no}})<br>Huikuang ({{zh|s=|t=慧曠|labels=no}})<br>[[Nanyue Huisi]]
+| students           = 
+| works              = 
+| website            = <!-- {{URL|example.com}} -->
+| background         = #FFD068
+}}
+{{infobox Chinese
+|t=智顗
+|s=智𫖮
+|p=Zhìyǐ
+|w=Chih<sup>4</sup>-i<sup>3</sup>
+|mi={{IPAc-cmn|zhi|4|.|yi|3}}
+|j=Zi3-ngai5
+|y=Ji-ngáih
+|ci={{IPAc-yue|z|i|3|.|ng|ai|5}}
+|hangul=지의
+|rr=Chigi
+|kanji=智顗
+|romaji=Chigi
+}}
+{{Buddhism and China}}
+'''Zhiyi''' ({{CJKV|c=智顗 |p=Zhìyǐ|w=Chih-i|r=Chigi|k=지의}}; 538–597 CE) also '''Chen De'an''' (陳德安), was the fourth patriarch of the [[Tiantai]] tradition of [[Buddhism in China]]. His standard title was [[Śramaṇa]] Zhiyi (沙門智顗), linking him to the broad tradition of Indian asceticism. Zhiyi is famous for being the first in the history of [[Chinese Buddhism]] to elaborate a complete, critical and systematic classification of the Buddhist teachings. He is also regarded as the first major figure to make a significant break from the Indian tradition, to form an indigenous Chinese system.
+
+According to David W. Chappell, Zhiyi "has been ranked with [[Thomas Aquinas]] and [[al-Ghazali]] as one of the great systematizers of religious thought and practice in world history."<ref>{{cite book | last=Swanson | first=Paul L. | title=Foundations of Tʻien-Tʻai philosophy : the flowering of the two truths theory in Chinese Buddhism | publisher=Asian Humanities Press | publication-place=Berkeley, Calif. | date=1989 | isbn=0-89581-918-X | oclc=19270856}}</ref>
+
+==Biography==
+Born with the [[Chinese surname|surname]] Chen ({{lang|zh-Hant|陳}}) in [[Huarong District]], Jing Prefecture (now [[Hubei]]), Zhiyi left home to become a monk at eighteen, after the loss of his parents and his hometown Jiangling that fell to the Western Wei army when Zhiyi was seventeen. At 23, he received his most important influences from his first teacher, [[Nanyue Huisi]] (515&ndash;577 CE), a [[Dhyāna in Buddhism|meditation]] master who would later be listed as Zhiyi's predecessor in the Tiantai lineage. After a period of study with Huisi (560&ndash;567), he spent some time working in the southern capital of [[Jiankang]].<ref>{{cite book|editor1-last=Buswell|editor1-first=Robert Jr|editor2-last=Lopez|editor2-first=Donald S. Jr.|editor1-link=Robert Buswell Jr.|editor2-link=Donald S. Lopez, Jr.|title="Tiantai Zhiyi", in Princeton Dictionary of Buddhism.|year=2013 |publisher=Princeton University Press |location=Princeton, NJ|page=911 |isbn=9780691157863}}</ref> Then in 575 he went to Tiantai mountain for intensive study and practice with a group of disciples. Here he worked on adapting the Indian meditation principles of [[samatha|śamatha]] and [[vipassana|vipaśyanā]] (translated as "zhi" and "guan") into a complex system of self-cultivation practice that incorporated the Traditional Indian Buddhist Ayurvedic medicine, Taoism and elements of worship from Chinese folk religions that  particularly included devotional rituals and confession/repentance rites forming a Buddhist medical cultural system that was based on the theory of Traditional Chinese medicine specifically designed and tailored  for the Chinese culture and society.<ref>{{Cite journal |last=Li |first=Silong |date=2019 |title=Zhiyi's Concept of Diseases and the Interaction Between Buddhism and Taoism[ |journal=Journal of Peking University (Philosophy and Social Sciences) |volume=56 |issue=2 |pages=62–71}}</ref><ref>{{Cite book |last=Liyanaratne |first=Jinadasa |title=Buddhism and traditional medicine in Sri Lanka |date=1999 |publisher=Kelaniya University Press |isbn=978-955-9044-35-2 |series=Kelaniya University anniversary series |location=Kelaniya |pages=201}}</ref> Then in 585 he returned to Jinling, where he completed his monumental commentarial works on the [[Lotus Sutra]], the Fahua wenzhu (587 CE), and the Fahua xuanyi (593 CE).
+
+[[David W. Chappell|Chappell]] holds that Zhiyi: "...provided a religious framework which seemed suited to adapt to other cultures, to evolve new practices, and to universalize Buddhism."<ref>{{cite journal |author=Chappell, David W. |date=1987 |title=Is Tendai Buddhism Relevant to the Modern World? |journal=Japanese Journal of Religious Studies |volume=14 |issue=2–3 |archive-url=https://web.archive.org/web/20131024104831/http://enlight.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag30243.pdf |archive-date=2013-10-24 |url=http://enlight.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag30243.pdf |access-date=16 August 2008 |page=247|doi=10.18874/jjrs.14.2-3.1987.247-266 }}</ref>
+
+==Important works==
+Zhiyi's ''Xiao Zhiguan'' ({{Lang-zh|s=小止观|t=小止觀|p=Xiǎo Zhǐguān|w=Hsiao chih-kuan}}; lit "''Small'' ''Treatise on Concentration and Insight''") was probably the first practical manual of meditation in China.<ref>Sekiguchi, Shindai, Tendai sho shikan no kenkyu, Tōkyō: Sankibō Busshorin (1954; repr. 1961)</ref> With its direct influence on the [[Tso-chan-i]] was very influential in the development of [[Zazen|Chan meditation]].<ref>Gregory, Peter N (1986), Ch 'ang-lu Tsung-tse and Zen Meditation; in 'Traditions of Meditation in Chinese Buddhism', Honolulu: University of Hawaii Press</ref>
+
+Rujun Wu identifies the [[Mohe Zhiguan]] ([[Traditional Chinese characters|Traditional Chinese]]: 摩訶止觀; [[Simplified Chinese characters|Simplified Chinese]]: 摩诃止观; [[pinyin]]: ''Móhē Zhǐguān''; lit "''Great treatise on Concentration and Insight''") of Zhiyi as the seminal text of the Tiantai school.<ref>Rujun Wu (1993). ''T'ien-T'ai Buddhism and early Mādhyamika''. National Foreign Language Center Technical Reports. Buddhist studies program, University of Hawaii Press, p.&nbsp;1.
+{{ISBN|0-8248-1561-0}}, {{ISBN|978-0-8248-1561-5}}. Source: [https://books.google.com/books?id=Q79b8T3inIMC&q=T'ien-T'ai] (accessed: Thursday 22 April 2010)</ref> Among Zhiyi's many important works are the ''Liumiao Famen'', {{Nihongo|''Words and Phrases of the Lotus Sutra''|法華文句|Fahua Wenju}}, and {{Nihongo|''Profound Meaning of the Lotus Sutra''|法華玄義|Fahua Xuanyi}}. Of the works attributed to him (although many may have been written by his disciples), about thirty are extant.
+
+== Teaching ==
+
+=== View on śamatha-vipaśyanā ===
+
+Zhiyi's ''Xiao Zhiguan'' offers an exposition of the practice of [[Samatha|śamatha]] (calming or cessation) and [[Vipassanā|vipaśyanā]] (wise seeing or contemplation). Zhiyi's ''Xiao Zhiguan'' states:<ref>{{cite conference |author=Swanson, Paul L. |date=2002 |title=Ch'an and Chih-kuan: T'ien-t'ai Chih-i's View of "Zen" and the Practice of the Lotus Sutra |conference=International Lotus Sutra Conference on the theme "The Lotus Sutra and Zen", 11–16 July 2002 |url=http://www.nanzan-u.ac.jp/~pswanson/mhck/Chih-i%20on%20Zen%20and%20Chih-kuan%208-2003.pdf |archive-date=10 July 2007 |archive-url=https://web.archive.org/web/20070710064157/http://www.nanzan-u.ac.jp/~pswanson/mhck/Chih-i%20on%20Zen%20and%20Chih-kuan%208-2003.pdf |page=}}{{page needed|date=October 2023}}</ref><blockquote>There are many ways to enter the true reality of nirvana, but none that is more essential or that goes beyond the twofold method of cessation-and-contemplation. The reason is that "cessation" is the preliminary gate for overcoming the bonds [of passionate afflictions]; "contemplation" is the proper requisite for severing delusions. "Cessation" provides good nourishment for nurturing the mind; "contemplation" is the sublime technique for arousing spiritual understanding. "Cessation" is the preeminent cause for [attaining] dhyanic concentration; "contemplation" is the basis [for the accumulation of] of wisdom. If one perfects the twofold aspects of concentration (samadhi) and wisdom, then one is fully endowed with the aspects of both benefiting oneself and benefiting others.</blockquote>Zhiyi also notes that it’s necessary to have a balance between śamatha and vipaśyanā:<ref>{{cite conference |author=Swanson, Paul L. |date=2002 |title=Ch'an and Chih-kuan: T'ien-t'ai Chih-i's View of "Zen" and the Practice of the Lotus Sutra |conference=International Lotus Sutra Conference on the theme "The Lotus Sutra and Zen", 11–16 July 2002 |url=http://www.nanzan-u.ac.jp/~pswanson/mhck/Chih-i%20on%20Zen%20and%20Chih-kuan%208-2003.pdf |archive-date=10 July 2007 |archive-url=https://web.archive.org/web/20070710064157/http://www.nanzan-u.ac.jp/~pswanson/mhck/Chih-i%20on%20Zen%20and%20Chih-kuan%208-2003.pdf |page=}}{{page needed|date=October 2023}}</ref><blockquote>It should be known that these two aspects are like the two wheels of a cart, or the two wings of a bird; if one side is cultivated disproportionately, then one falls prey to mistaken excess.</blockquote>
+
+=== The Four Samadhis ===
+{{Asian philosophy sidebar}}
+Zhiyi developed a curriculum of practice which was distilled into the 'Four Samadhis' (Chinese: 四種三昧;<ref name=Swanson-5>{{cite conference |author=Swanson, Paul L. |date=2002 |title=Ch'an and Chih-kuan: T'ien-t'ai Chih-i's View of "Zen" and the Practice of the Lotus Sutra |conference=International Lotus Sutra Conference on the theme "The Lotus Sutra and Zen", 11–16 July 2002 |url=http://www.nanzan-u.ac.jp/~pswanson/mhck/Chih-i%20on%20Zen%20and%20Chih-kuan%208-2003.pdf |access-date=10 July 2007 |archive-url=https://web.archive.org/web/20070710064157/http://www.nanzan-u.ac.jp/~pswanson/mhck/Chih-i%20on%20Zen%20and%20Chih-kuan%208-2003.pdf |archive-date=10 July 2007 |page=5}}</ref> pinyin: sizhong sanmei).<ref>{{cite journal |author=Chappell, David W. |date=1987 |title=Is Tendai Buddhism Relevant to the Modern World? |journal=Japanese Journal of Religious Studies |volume=14 |issue=2–3 |archive-url=https://web.archive.org/web/20131024104831/http://enlight.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag30243.pdf |archive-date=2013-10-24 |url=http://enlight.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag30243.pdf |access-date=16 August 2008 |page=249|doi=10.18874/jjrs.14.2-3.1987.247-266 }}</ref> These Four Samadhi were expounded in Zhiyi's '''Mohe Zhiguan''<nowiki/>'.<ref name="Dumoulin 2005 p.311">{{cite book |author=[[Heinrich Dumoulin|Dumoulin, Heinrich]] |translator1=Heisig, James W. |translator2=Knitter, Paul |year=2005 |title=Zen Buddhism: A History. Volume 1: India and China |publisher=World Wisdom |isbn=978-0-941532-89-1 |page=311}}</ref> The ''Mohe Zhiguan'' is the [[masterpiece|magnum opus]] of Zhiyi's maturity and is held to be a "grand summary" of the Buddhist Tradition according to his experience and understanding at that time.<ref>{{cite conference |author=Swanson, Paul L. |date=2002 |title=Ch'an and Chih-kuan: T'ien-t'ai Chih-i's View of "Zen" and the Practice of the Lotus Sutra |conference=International Lotus Sutra Conference on the theme "The Lotus Sutra and Zen", 11–16 July 2002 |url=http://www.nanzan-u.ac.jp/~pswanson/mhck/Chih-i%20on%20Zen%20and%20Chih-kuan%208-2003.pdf |access-date=10 July 2007 |archive-url=https://web.archive.org/web/20070710064157/http://www.nanzan-u.ac.jp/~pswanson/mhck/Chih-i%20on%20Zen%20and%20Chih-kuan%208-2003.pdf |archive-date=10 July 2007 |page=2}}</ref> The text of the ''Mohe Zhiguan'' was refined from lectures Zhiyi gave in 594 in the capital city of [[Jinling]] and was the sum of his experience at Mount Tiantai c.585 and inquiry thus far.<ref name=Swanson-5/> Parsing the title, 'zhi' refers to "ch’an meditation and the concentrated and quiescent state attained thereby"  and 'guan' refers to "contemplation and the wisdom attained thereby".<ref name="Swanson, Paul L. 2002 p.4">{{cite conference |author=Swanson, Paul L. |date=2002 |title=Ch'an and Chih-kuan: T'ien-t'ai Chih-i's View of "Zen" and the Practice of the Lotus Sutra |conference=International Lotus Sutra Conference on the theme "The Lotus Sutra and Zen", 11–16 July 2002 |url=http://www.nanzan-u.ac.jp/~pswanson/mhck/Chih-i%20on%20Zen%20and%20Chih-kuan%208-2003.pdf |access-date=10 July 2007 |archive-url=https://web.archive.org/web/20070710064157/http://www.nanzan-u.ac.jp/~pswanson/mhck/Chih-i%20on%20Zen%20and%20Chih-kuan%208-2003.pdf |archive-date=10 July 2007 |page=4}}</ref> Swanson reports that Zhiyi held that there are two modes of zhi-guan: that of sitting in meditation 坐, and that of "responding to objects in accordance with conditions" 歷緣對境, which is further refined as abiding in the natural state of a calm and insightful mind under any and all activities and conditions.<ref name="Swanson, Paul L. 2002 p.4" />
+
+Swanson states that Zhiyi in the ''Mohe Zhiguan'':
+<blockquote>
+...is critical of an unbalanced emphasis on "meditation alone", portraying it as a possible "extreme" view and practice, and offering instead the binome zhi-guan 止觀 (calming/cessation and insight/contemplation, śamatha-vipaśyanā) as a more comprehensive term for Buddhist practice.<ref>{{cite conference |author=Swanson, Paul L. |date=2002 |title=Ch'an and Chih-kuan: T'ien-t'ai Chih-i's View of "Zen" and the Practice of the Lotus Sutra |conference=International Lotus Sutra Conference on the theme "The Lotus Sutra and Zen", 11–16 July 2002 |url=http://www.nanzan-u.ac.jp/~pswanson/mhck/Chih-i%20on%20Zen%20and%20Chih-kuan%208-2003.pdf |access-date=10 July 2007 |archive-url=https://web.archive.org/web/20070710064157/http://www.nanzan-u.ac.jp/~pswanson/mhck/Chih-i%20on%20Zen%20and%20Chih-kuan%208-2003.pdf |archive-date=10 July 2007 |page=1}}</ref>
+</blockquote>
+
+The "Samadhi of One Practice" ([[Sanskrit|Skt]]. ''Ekavyūha Samādhi''; Ch. 一行三昧) which is also known as the "samadhi of oneness" or the "calmness in which one realizes that all dharmas are the same" (''Wing-tsit Chan''), is one of the ''Four Samadhi'' that both refine, mark the passage to, and qualify the state of perfect enlightenment expounded in the ''Mohe Zhiguan''.<ref name="Dumoulin 2005 p.311"/> The term "Samadhi of Oneness" was subsequently used by [[Daoxin]].<ref>{{cite journal |author=Sheng-Yen (聖嚴法師) |date=October 1988 |title=Tso-Ch'an |url=http://ccbs.ntu.edu.tw/FULLTEXT/JR-BJ001/02_10.htm |access-date=16 February 2012 |journal=中華佛學學報 |trans-journal=Journal of Chinese Buddhist Studies |issue=2 |archive-url=https://web.archive.org/web/20120216074414/http://ccbs.ntu.edu.tw/FULLTEXT/JR-BJ001/02_10.htm |archive-date=16 February 2012 |url-status=live |page=364}}</ref>
+
+The Four Samadhis are:<ref name=Qing>{{cite conference |author=Fa Qing |archive-url=https://web.archive.org/web/20150524090134/http://elibrary.ibc.ac.th/files/public/2013seminabook.pdf |title=The Śamatha and Vipaśyanā in Tian Tai] |conference=Poh Ming Tse Symposium 2013: One Master Three Meditative Traditions. Singapore, August 30, 2013 |pages=30–47 |url=http://elibrary.ibc.ac.th/files/public/2013seminabook.pdf |archive-date=2015-05-24}}</ref><ref>{{cite web|title=天台宗の法要| language=ja| url=http://www.tendai.or.jp/houyou/| access-date = 2018-07-01}}</ref>
+*"Constantly Seated Samādhi" (''chángzuò sānmèi'' 常坐三昧) - 90 days of motionless sitting, leaving the seat only for reasons of natural need.
+*"Constantly Walking Samādhi" (''chángxíng sānmèi'' 常行三昧) - 90 days of mindful walking and meditating on [[Amitābha|Amitabha]].
+*"Half-Walking Half-Seated Samādhi" (''bànxíng bànzuò sānmèi'' 半行半坐三昧) - Includes various practices such as chanting, contemplation of the emptiness of all dharmas and the "Lotus samādhi" which includes penance, prayer, worship of the Buddhas, and reciting the [[Lotus sutra]]. 
+*"Neither Walking nor Sitting Samādhi" (''fēixíng fēizuò sānmèi'' 非行非坐三昧) - This includes "the awareness of [[Mental factors (Buddhism)|mental factors]]" as they arise in the mind. One is to contemplate them as "not moving, not originated, not extinguished, not coming, not going".
+
+=== The Five Periods and Eight Teachings ===
+In order to provide a comprehensive framework for Buddhist doctrine, Zhiyi classified the various Buddhist sutras into the Five Periods and Eight Teachings ({{zh | t=五時八教| s=五时八教| p=wǔshí bājiào| w=| first=t}}). These were also known as ''goji hakkyō'' in Japanese and ''osi palgyo'' (오시팔교) in Korean.  According to Zhiyi, the five periods of the Buddha's teachings were as follows:<ref name="buswell">{{cite book |last1=Buswell |first1=Robert E. |last2=Lopez |first2=Donald S. |chapter=Wushi" and "Wushi bajiao |title=The Princeton Dictionary of Buddhism |publisher=Princeton University Press |year=2013 |isbn=978-0691157863 |page=1003}}</ref><ref>{{Cite book |last=English Buddhist Dictionary Committee |chapter=Five Periods |title=The Soka Gakkai Dictionary of Buddhism |publisher=Motilal Banarsidass |year=2009 |location=Delhi |isbn=9788120833340 |url=http://www.nichirenlibrary.org/en/dic/Content/F/75 |url-status=dead |archive-url=https://web.archive.org/web/20160226210224/http://www.nichirenlibrary.org/en/dic/Content/F/75 |archive-date=2016-02-26}}</ref><ref>The five periods were based on quotations from various sutras. cf {{cite journal |author=林志欽 |year=2001 |script-title=zh:天台智顗教觀思想體系 |journal=Chung-Hwa Buddhist Studies |issue=5 |language=zh |trans-title=Tiantai Zhiyi's System of Teachings |pages=210–211}}</ref>
+
+# '''The Flower Garland period''' – taught immediately after the Buddha attained Enlightenment, lasting 3 weeks.  The teachings at this time were incomprehensible to all but advanced bodhisattvas, and thus Shakyamuni Buddha started over with more basic (the Agama) teachings.
+# '''The Agama Period''' – taught at Deer Park, and lasting 12 years.  These consisted of the most elementary teachings of the Buddha including karma, rebirth, the Four Noble Truths, etc.
+# '''The Correct and Equal Period''' – lasting 8 years.  This marks the Buddha's teachings that begin to transition from so-called "[[Hinayana]]" teachings to [[Mahayana]] ones.
+# '''The Wisdom Period''' – lasting 22 years.  The teachings here consist of the [[Perfection of Wisdom]] teachings among others.  Here, the teachings were intended to demonstrate that the classifications of Hinayana and Mahayana were expedient only, and that were ultimately empty.
+# '''The Lotus and Nirvana Period''' – lasting 8 years. The teachings of this final period mark the most "perfect" teachings, namely the [[Lotus Sutra]] and the Mahayana [[Nirvana Sutra]], which encompass the Buddha's original intention.
+
+These were compared in order to the five stages of milk: fresh milk, cream, curds, butter and [[ghee]] (clarified butter).<ref name="buswell" />
+
+Further. the teachings of the Buddha were organized into four types based on the capacity of listener:<ref name="buswell" />
+* Sudden teachings
+* Gradual teachings
+* Indeterminate teachings
+* Secret or "esoteric" teachings.
+
+and four types of sources:
+* Hinayana
+* Mahayana
+* Teachings found in both
+* Teachings that transcend both (e.g. Lotus Sutra)
+
+Together these were the Eight Teachings of the Buddha attributed to Zhiyi.
+
+=== Three Thousand Realms in a Single Moment ===
+Zhiyi taught the principle of Three Thousand Realms in a Single Thought Moment ([[Chinese language|Chinese]]: {{lang|zh|一念三千}}; [[Pinyin]]: ''Yīniàn Sānqiān'') in his 'Great Concentration and Insight', based on the [[Lotus Sutra]]. The number 'Three Thousand' is derived from the Ten Worlds, multiplied by ten [because of the Mutual Possession of the Ten Worlds], which gives 100, multiplied by ten [the [[Ten suchnesses|Ten Factors]] listed in Ch. 2 of the [[Lotus Sutra]] which gives 1,000. 1,000 multiplied by 3 [the Three Realms of Existence: Self, Other, and Environment] which gives 3,000.<ref name="ReferenceB">Soka Gakkai Dictionary of Buddhism, Soka Gakkai, "Three Thousand Realms in a Single Moment of Life"</ref>
+
+Volume 5 of Great Concentration and Insight states: {{blockquote|Life at each moment is endowed with the Ten Worlds. At the same time, each of the Ten Worlds is endowed with all Ten Worlds, so that an entity of life actually possesses one hundred worlds. Each of these worlds in turn possesses thirty realms, which means that in the one hundred worlds there are three thousand realms. The three thousand realms of existence are all possessed by life in a single moment. If there is no life, that is the end of the matter. But if there is the slightest bit of life, it contains all the three thousand realms.... This is what we mean when we speak of the 'region of the unfathomable'.<ref name="ReferenceB"/>}}
+
+==See also==
+*[[Guoqing Temple]]
+*[[Zhou Jichang]]
+
+==Notes==
+{{Reflist}}
+
+==Works==
+* Dharmamitra (trans.): The Essentials of Buddhist Meditation by Shramana Zhiyi, Kalavinka Press 2008, {{ISBN|978-1-935413-00-4}}
+* Donner, Neal & Daniel B. Stevenson (1993). ''The Great Calming and Contemplation''. Honolulu: University of Hawai‘i Press.
+* Shen, Haiyan. The Profound Meaning of the Lotus Sutra: T’ien-t’ai Philosophy of Buddhism volumes I and II. Delhi: Originals, 2005. {{ISBN|8188629413}}
+* Swanson, Paul L.; trans. (2004). The Great Cessation and Contemplation (Mo-ho Chih-kuan, Chapter 1-6), CD-ROM, Tokyo: Kosei Publishing Co.
+* Tam, Wai Lun (1986). [https://web.archive.org/web/20150524081433/https://macsphere.mcmaster.ca/bitstream/11375/13706/1/fulltext.pdf A Study and Translation on the Kuan-hsin-lun of Chih-i (538-597) and its Commentary by Kuan-Ting], Hamilton, Ontario: McMaster University
+* Thich Tien Tam, trans.  (1992). [https://web.archive.org/web/20140201122403/http://enlight.lib.ntu.edu.tw/FULLTEXT/JR-MISC/misc140025.pdf Ten Doubt about Pure Land] by Dharma Master Chi-I (T. 47 No. 1961).  In: Pure Land Buddhism - Dialogues with Ancient Masters, NY: Sutra Translation Committee of the United States and Canada & Buddha Dharma Education Association, pp.&nbsp;19–51.
+
+==Secondary sources==
+* Chappell, David W. (1987). [https://web.archive.org/web/20131024104831/http://enlight.lib.ntu.edu.tw/FULLTEXT/JR-MAG/mag30243.pdf 'Is Tendai Buddhism Relevant to the Modern World?'], ''Japanese Journal of Religious Studies'' 14/2-3, 247–266. 
+* Dumoulin, Heinrich (1993). [https://web.archive.org/web/20090304064306/http://www.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/387.pdf "Early Chinese Zen Reexamined ~ A Supplement to 'Zen Buddhism: A History'"], ''Japanese Journal of Religious Studies'' 1993 20/1.  
+* [[Heinrich Dumoulin|Dumoulin, Heinrich]] (author); Heisig, James W. (trans.) & Knitter, Paul, trans. (2005). ''Zen Buddhism: A History. Volume 1: India and China''. World Wisdom. {{ISBN|978-0-941532-89-1}}
+* Hurvitz, Leon (1962). ''Chih-i (538–597): An Introduction to the Life and Ideas of a Chinese Buddhist Monk''. Mélanges Chinois et Bouddhiques XII, Bruxelles: Institut Belge des Hautes Études Chinoises.
+*Kantor, Hans-Rudolf (2002). [https://nirc.nanzan-u.ac.jp/nfile/3448 Contemplation: Practice, Doctrine and Wisdom in the Teaching of Zhiyi (538-597)], Inter-Religio 42, 21-37
+* Rhodes, Robert (2012). [https://web.archive.org/web/20150517150131/http://tac.hfu.edu.tw/files/archive/38_2efb8a95.pdf The Development of Zhiyi´s Three Contemplations and its Relation to the Three Truths Theory]. In Conference Papers: Tiantai Buddhist Thought and Practice, Taipei: Huafan University, pp.&nbsp;312–357
+*Stevenson, Daniel B. (1986). The Four Kinds of Samādhi in Early T'ien-t'ai Buddhism. In: Peter N. Gregory: Traditions of Meditation in Chinese Buddhism Vol. 1, Honolulu: University of Hawaii Press, pp.&nbsp; 45–98. {{ISBN|0-8248-1088-0}}.
+* {{cite journal | last1=Shen | first1=Haiyan | last2=Nasoraia | first2=Brikha H. S. | author-link2=Brikha Nasoraia | title=On Tiantai Zhiyi's Theory of the Three Categories of Dharma | journal=Fudan Journal of the Humanities and Social Sciences | publisher=Springer Science and Business Media LLC | volume=11 | issue=2 | date=2017-06-17 | issn=1674-0750 | doi=10.1007/s40647-017-0183-x | pages=237–256| s2cid=256393493 }}
+
+==External links==
+{{wikiquote}}
+
+{{Buddhism topics}}
+{{Authority control}}
+
+[[Category:538 births]]
+[[Category:597 deaths]]
+[[Category:Chinese scholars of Buddhism]]
+[[Category:Northern Wei Buddhists]]
+[[Category:Northern Qi Buddhists]]
+[[Category:Sui dynasty Buddhist monks]]
+[[Category:Tiantai Buddhists]]
+[[Category:People from Ezhou]]
+[[Category:6th-century Chinese people]]
+[[Category:Chen dynasty Buddhists]]
+[[Category:Northern and Southern dynasties Buddhist monks]]
+[[Category:Liang dynasty Buddhists]]

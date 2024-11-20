@@ -1,0 +1,118 @@
+{{Short description|Israeli philosopher (1939–2022)}}
+{{more footnotes|date=April 2014}}
+{{Use dmy dates|date=May 2022}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[Contemporary philosophy]]
+|image            = Joseph Raz - 20090224.jpg
+|caption          = Raz in 2009
+|name             = Joseph Raz
+|honorific_suffix = {{post-nominals|country=GBR|FBA|size=100}}
+|birth_date       = {{birth date|1939|03|21|df=y}}
+|birth_place      = [[Haifa]], [[Mandatory Palestine]]
+|death_date       = {{death date and age|2022|5|2|1939|3|21|df=y}}
+|death_place      = [[London]], England
+|alma_mater       = [[Hebrew University of Jerusalem]] ([[MJur]])<br>[[Balliol College, Oxford]] ([[DPhil]])
+|school_tradition = [[Legal positivism]]<br>[[Perfectionist liberalism]]
+|main_interests   = [[Legal philosophy|Legal]] and [[political philosophy]]
+|notable_ideas    = [[Perfectionist liberalism]]
+|signature        =
+|signature_alt    =
+|birth_name=Joseph Zaltsman|doctoral_advisor=[[H. L. A. Hart]]|thesis_title=The Concept of Legal System|thesis_url=https://solo.bodleian.ox.ac.uk/permalink/f/89vilt/ORA4d08288b-43d8-473f-9f01-84a1f9e24fdb|thesis_year=1967|institutions=[[Hebrew University]]<br />[[University of Oxford]]<br />[[Columbia University]]<br />[[King's College London]]|awards=[[Tang Prize]] (2018)}}
+
+'''Joseph Raz''' {{post-nominals|country=GBR|FBA}} ({{IPAc-en|r|ɑː|z}}; {{langx|he|יוסף רז}}; born '''Joseph Zaltsman'''; 21 March 1939{{snd}}2 May 2022) was an Israeli [[Legal philosophy|legal]], [[Moral philosophy|moral]] and [[political philosopher]]. He was an advocate of [[legal positivism]] and is known for his conception of [[perfectionist liberalism]]. Raz spent most of his career as a [[professor]] of [[philosophy of law]] at [[Balliol College, Oxford]], and was latterly a part-time professor of law at [[Columbia University Law School]] and a part-time professor at [[King's College London]].<ref name=":0">{{cite web|url=http://josephnraz.googlepages.com/home|title=josephnraz|access-date=3 February 2017}}</ref>  He received the [[Tang Prize]] in Rule of Law in 2018. 
+
+==Life and career==
+Joseph Zaltsman was born on 21 March 1939 in [[Haifa]] (then in [[Mandatory Palestine]]) to Sonya and Shmuel Zaltsman.<ref name="conauth">{{Cite book |chapter=Raz, Joseph 1939– |chapter-url=https://www.encyclopedia.com/arts/educational-magazines/raz-joseph-1939 |title=Contemporary Authors |title-link=Contemporary Authors |publisher=[[Gale (publisher)|Gale]] |year=1989 |isbn=0-8103-1950-0 |issn=0010-7468 |editor-last=May |editor-first=Hal |volume=125 |page=[[iarchive:contemporaryauth125halm/page/381/mode/1up|381]] |oclc=36105927 |editor-last2=Trosky |editor-first2=Susan M.}}</ref> He graduated in 1963 from the [[Hebrew University of Jerusalem]] with a [[Magister Juris]], ''[[summa cum laude]]''. Also in 1963, he changed his surname to Raz.<ref name="conauth" /> Later, with funds provided by the Hebrew University, Raz pursued a [[doctorate]] at the [[University of Oxford]] under the supervision of [[H. L. A. Hart]]. Raz had met Hart earlier at a conference in Israel, impressing him by pointing out a flaw in his reasoning that had previously eluded him; Hart encouraged him to go to Oxford for further study. Raz studied at [[Balliol College, Oxford|Balliol College]] and completed his [[DPhil|Doctor of Philosophy]] in 1967.
+
+After completing his PhD, Raz returned to Israel to teach at the Hebrew University as a lecturer in the faculty of law and department of philosophy. In 1971, he was given tenure and promoted to senior lecturer. In 1972, he returned to Balliol as a fellow and tutor in law, becoming a professor of philosophy of law, Oxford University, from 1985 to 2006, and then a research professor from 2006 to 2009. In 2002, he also became a professor at [[Columbia Law School]] in New York and starting in 2011 was a research professor of law at [[King's College London]].<ref name=":0"/><ref>{{cite web|url=https://dailynous.com/2022/05/02/joseph-raz-1939-2022/|last=Weinberg|first=Justin|title=Joseph Raz (1939-2022)|website=Daily Nous|date=2 May 2022|access-date=5 May 2022}}</ref>
+
+Raz died on 2 May 2022 at Charing Cross Hospital in his sleep. The Oxford Law Faculty called him "one of the last remaining giants of jurisprudence and philosophy".<ref>{{cite web|url=https://www.philosophy.ox.ac.uk/article/memoriam-jospeh-raz-1931-2022|title=In Memoriam: Joseph Raz|website=Faculty of Philosophy, University of Oxford|date=2 May 2022|access-date=5 May 2022}}</ref><ref>{{cite web|url=https://www.law.ox.ac.uk/news/2022-05-04-joseph-raz-1939-2022|title=Joseph Raz 1939-2002|website=Faculty of Law, University of Oxford|date=4 May 2022|access-date=5 May 2022}}</ref>
+
+==Philosophical work==
+
+=== Political philosophy ===
+Raz's first book, ''The Concept of a Legal System'', was based on his doctoral thesis.  A later book, ''The Morality of Freedom'', won two prizes: the 1987 W. J. M. Mackenzie Book Prize from the Political Studies Association of the United Kingdom, awarded to the best book in political science each calendar year; and the 1988 Elaine and David Spitz Book Prize from the Conference for the Study of Political Thought, New York, awarded annually for the best book in liberal and/or democratic theory that had been published two years earlier. The book develops a conception of [[perfectionist liberalism]].
+
+In defending his conception of perfectionist liberalism, Raz argues that political institutions are justified by virtue of their contribution to persons' [[well-being]]. He argues that a person's well-being depends on ability to pursue personal goals.{{Sfn|McCabe|2001|pp=496–497}} However, in Raz's view, well-being does not occur upon achievement of any self-set goal. Rather, in David McCabe's words, "successful pursuit of objectively valuable goals" produces well-being according to Raz.{{Sfn|McCabe|2001|p=498}}
+
+Raz's argument for perfectionist liberalism follows from this view of well-being combined with two other premises. First, that human goals{{mdash}}and, therefore, human well-being{{mdash}}are conceived through, and depend on, what McCabe calls "social forms". Social forms are ways of being and acting that are developed socially and make sense only in the context of a given society. For example, one can only understand the social roles of a [[physician]], [[Friendship|friend]], or [[parent]] by considering the rights and obligations that attach to that role in a social context.{{Sfn|McCabe|2001|pp=497–498}}
+
+The second premise of the argument is that people need [[autonomy]] to occupy many social forms in liberal societies and achieve the goals that these social forms set out. Thus, a person must be autonomous to achieve the goals set by the social forms in a liberal society. Combined with Raz's view that political institutions are justified by virtue of their contribution to well-being and his argument that well-being, for humans, depends on social forms, his claim about autonomy shows that autonomy is necessary for well-being wherever social forms require autonomy. If liberal societies' social forms require autonomy, then liberal societies should support autonomy.{{Sfn|McCabe|2001|pp=499–500}}
+
+=== Philosophy of law ===
+A pupil of [[H. L. A. Hart]], Raz was important in continuing the development of legal positivism both before and since Hart's death. Raz was also co-editor of a second edition of Hart's ''[[The Concept of Law]]'' with a postscript including Hart's responses to other philosophers' criticisms of his work.
+
+Raz argued for a distinctive understanding of legal commands as exclusionary reasons for action and for the "service conception" of authority, according to which those subject to an authority "can benefit by its decisions only if they can establish their existence and content in ways which do not depend on raising the very same issues which the authority is there to settle".<ref name="plato.stanford.edu">{{cite book|url=https://plato.stanford.edu/archives/win2012/entries/legal-obligation/|title=The Stanford Encyclopedia of Philosophy|first=Leslie|last=Green|editor-first=Edward N.|editor-last=Zalta|date=1 January 2012|publisher=Metaphysics Research Lab, Stanford University|access-date=3 February 2017|via=Stanford Encyclopedia of Philosophy}}</ref> This, in turn, supports Raz's argument for legal positivism{{mdash}}in particular "the sources thesis", "the idea that an adequate test for the existence and content of law must be based only on social facts, and not on moral arguments".<ref name="plato.stanford.edu" />
+
+== Influence ==
+Raz was acknowledged by his contemporaries as being one of the most important legal philosophers of his generation. He authored and edited twelve books, namely ''The Concept of a Legal System'' (1970), ''Practical Reason and Norms'' (1975), ''The Authority of Law'' (1979), ''The Morality of Freedom'' (1986), ''Authority'' (1990), ''Ethics in the Public Domain'' (1994), ''Engaging Reason'' (1999), ''Value, Respect and Attachment'' (2001), ''The Practice of Value'' (2003), ''Between Authority and Interpretation'' (2009), ''From Normativity to Responsibility'' (2011) and ''The Roots of Normativity'' (2022). His most recent work deals less with legal theory and more with political philosophy and practical reasoning. In moral theory, Raz defended [[value pluralism]] and the idea that various values are [[commensurability (ethics)|incommensurable]].
+
+Raz's work has been cited by the [[Supreme Court of Canada]] in such cases as ''[[British Columbia v Imperial Tobacco Canada Ltd]]'' and ''[[Sauvé v Canada (Chief Electoral Officer)]]''.
+
+Several of Raz's students became legal and moral philosophers, including two current professors in jurisprudence at Oxford, [[Leslie Green (philosopher)|Leslie Green]] and [[Timothy Endicott]], and the former professor of jurisprudence [[John Gardner (legal philosopher)|John Gardner]].
+
+==Honors and awards==
+Raz was elected a fellow of the [[British Academy]] in 1987<ref name="The British Academy_2020-09-03">{{Citation | url=https://www.thebritishacademy.ac.uk/fellows/joseph-raz-FBA/| title=Professor Joseph Raz FBA| newspaper=The British Academy| access-date=3 September 2020}}</ref> and of the [[American Academy of Arts & Sciences]] in 1992.<ref>{{cite web|url=https://sites.google.com/site/josephnraz/cv|title=cv – josephnraz|access-date=3 February 2017}}</ref> He was awarded honorary doctorates by the [[Catholic University of Brussels]], 1993, by [[King's College London]], 2009, and by Hebrew University, 2014. In 2005 he received the International Prize for Legal Research 'Hector Fix-Zamudio' from the [[National Autonomous University of Mexico]], and in 2009 a Vice-Presidency Award from the Law Society of [[University College Dublin]]. In 2018 he received the [[Tang Prize|Tang Prize in Rule of Law]] from Taiwan.<ref name="Tang-prize.org_2020-09-03">{{Citation | url=https://www.tang-prize.org/en/owner_detail.php?cat=13&id=928| title=Tang Prize in Rule of Law, 2018| newspaper=Tang-prize.org| access-date=3 September 2020}}</ref>
+
+In 2000–2001, he gave the [[Tanner Lectures on Human Values]] on "The Practice of Value" at the [[University of California, Berkeley]].<ref name="Berkeley">{{Cite web|url=https://grad.berkeley.edu/tanner/past.shtml |title=Past Lectures |publisher=The Tanner Lectures on Human Values at University of California Berkeley |access-date=5 April 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140407093910/https://grad.berkeley.edu/tanner/past.shtml |archive-date= 7 April 2014 }}</ref>
+
+==Books==
+* {{Cite book|title=The Concept of a Legal System: An Introduction to the Theory of Legal System|publisher=Oxford University Press|year=1980|isbn=0198251890|edition=2|orig-date=1970}}
+* {{Cite book|title=Practical Reason and Norms|publisher=Princeton University Press|year=1990|isbn=0691078513|edition=2|orig-date=1975}}
+* {{Cite book|title=The Authority of Law: Essays on Law and Morality|publisher=Oxford University Press|year=2009|isbn=9780199573561|edition=2|orig-date=1979}}
+* {{Cite book|title=The Morality of Freedom|publisher=Clarendon Press|year=1986|isbn=0198247729|location=Oxford}}
+* {{Cite book|title=Ethics in the Public Domain: Essays in the Morality of Law and Politics|publisher=Clarendon Press|year=1996|isbn=0198260695|edition=Rev.|orig-date=1994}}
+* {{Cite book|title=Engaging Reason: On the Theory of Value and Action|publisher=Oxford University Press|year=1999|isbn=9780199248001}}
+* {{Cite book|title=Value, Respect and Attachment|publisher=Cambridge University Press|year=2001|isbn=052180180X}}
+* {{Cite book|title=The Practice of Value|publisher=Oxford University Press|year=2003|isbn=0199261474|editor-last=|editor-first=}}
+* {{Cite book|title=Between Authority and Interpretation: On the Theory of Law and Practical Reason|publisher=Oxford University Press|year=2009|isbn=9780199562688}}
+* {{Cite book|title=From Normativity to Responsibility|publisher=Oxford University Press|year=2011|isbn=9780199693818}}
+* {{Cite book|title=The Roots of Normativity|publisher=Oxford University Press|year=2022|isbn=9780192847003}}
+
+==See also==
+* [[Philosophy of law]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* {{cite journal |year= 1988–1989|title= Symposium: The Works of Joseph Raz|journal= Southern California Law Review|volume= 62|issue= 3|pages= 731–1235}} Including a response by Raz.
+* Lukas H. Meyer ''et al.'' (eds.),  ''Rights, Culture and the Law: Themes from the Legal and Political Philosophy of Joseph Raz'', Oxford: Oxford University Press, 2003.
+* {{Cite journal |last=McCabe |first=David |date=April 2001 |title=Joseph Raz and the Contextual Argument for Liberal Perfectionism |journal=[[Ethics (journal)|Ethics]] |language=en |volume=111 |issue=3 |pages=493–522 |doi=10.1086/233524 |jstor=10.1086/233524 |s2cid=144106466 |issn=0014-1704}}
+* [[R. Jay Wallace]] ''et al.'' (eds.), ''Reason and Value: Themes from the Moral Philosophy of Joseph Raz'', Oxford: Clarendon Press, 2004.
+
+==External links==
+{{Commons category}}
+* [https://web.archive.org/web/20060225071622/http://www.law.ox.ac.uk/jurisprudence/raz.shtml Page at Oxford University]
+* [http://www.law.columbia.edu/faculty/full_time_fac?&main.find=R, Page at Columbia University] {{Webarchive|url=https://web.archive.org/web/20090120200911/http://www.law.columbia.edu/faculty/full_time_fac?&main.find=R, |date=20 January 2009 }}
+* [http://www.kcl.ac.uk/law/people/academic/jraz.aspx Page at King's College London]
+* [http://josephnraz.googlepages.com/home Personal page]
+* [http://website2.net/razeuthanasia.html A summary of Raz on the right to euthanasia]
+* [http://website2.net/raznumbers.html A summary of Raz on number problems in morality]
+* [http://philosophicaldisquisitions.blogspot.co.uk/2013/05/raz-and-argument-from-authority-part-one.html A blog summary of Raz's argument for the sources thesis, part one]
+*  [http://philosophicaldisquisitions.blogspot.co.uk/2013/05/raz-and-argument-from-authority-part-two.html A blog summary of Raz's argument for the sources thesis, part two]
+
+{{Tang Prize winners}}
+{{Jurisprudence}}
+{{Authority control}}
+
+{{DEFAULTSORT:Raz, Joseph}}
+[[Category:1939 births]]
+[[Category:2022 deaths]]
+[[Category:Alumni of Balliol College, Oxford]]
+[[Category:Fellows of Balliol College, Oxford]]
+[[Category:Analytic philosophers]]
+[[Category:Philosophers of law]]
+[[Category:Jewish philosophers]]
+[[Category:Political philosophers]]
+[[Category:Israeli political philosophers]]
+[[Category:Jewish Israeli writers]]
+[[Category:Columbia University faculty]]
+[[Category:Hebrew University of Jerusalem Faculty of Law alumni]]
+[[Category:Columbia Law School faculty]]
+[[Category:Legal scholars of the University of Oxford]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:20th-century Israeli philosophers]]
+[[Category:21st-century Israeli philosophers]]
+[[Category:Fellows of the British Academy]]

@@ -1,0 +1,33 @@
+{{Short description|Spanish theologian}}
+{{about||the mining specialist|Bartolomé de Medina (mining specialist)}}
+{{no footnotes|date=April 2014}}
+[[File:Retrato de Fr. Bartolomé Medina-Anónimo flamenco. Siglo XVII.jpg|thumb|Fray Bartolomé de Medina]]
+'''Bartolomé de Medina, [[Dominican Order|O.P.]]''' (1527-1580) was a Spanish [[theologian]] born in [[Medina de Rioseco]], [[Spain]]. A member of the [[Dominican Order]] and a student of [[Francisco de Vitoria]], he was professor of theology at the [[University of Salamanca]] and a member of the [[School of Salamanca]]. He is best known as the originator of the doctrine of [[probabilism]] in [[Christian ethics|moral theology]], which holds that one may follow a course of action that has some probability, even if the opposite is more probable.
+
+== Biography ==
+Medina studied theology at the University of Salamanca under the celebrated professor [[Francisco de Vitoria]]. His life was devoted almost entirely to teaching theology at Salamanca, first in the chair of Durandus, afterwards as principal professor. He was appointed to the "cathedra primaria" after a successful concursus, in public, against the learned [[Augustinians|Augustinian]] scholar Juan de Guevara (1518-1600). He died at Salamanca in 1581.
+
+Although he was well versed in [[Ancient Greek|Greek]] and [[Hebrew language|Hebrew]], devoted his life almost entirely to teaching theology, and all his writings preserved are theological, being principally commentaries on the ''[[Summa Theologica]]'' of St. Thomas.
+
+== Works ==
+Medina's principal works are commentaries on [[Thomas Aquinas]]. He was the first prominent exponent (and possibly the first exponent) of the doctrine of probabilism, which he sets out in his commentary on the ‘Prima secundae’ of Thomas Aquinas (1572). Medina's probabilist doctrine consisted of the contention that if two opinions are probable in unequal degree, the less probable may be followed (''Si est opinio probabilis, licitum est eam sequi, licet opposita probabilior sit''); in [[moral theology]], the consequence of probabilism is that if the licitness of an action is in doubt, it is lawful to choose a probable opinion favouring liberty rather than a more probable opinion favouring the law. This doctrine was soon adopted by other Dominicans, notably [[Domingo Báñez]], and the notion of the probable was elaborated by [[Jesuits]] as well as Dominicans; eventually Jesuits became the principal proponents of the doctrine and Dominicans its principal opponents.
+
+==References==
+* {{CE1913|wstitle=Bartholomew Medina}}
+* {{cite book |last=Franklin |first=James |author-link=James Franklin (philosopher) |date=2001 |title=The Science of Conjecture: Evidence and Probability Before Pascal |url=https://books.google.com/books?id=1zDECQAAQBAJ |location=Baltimore |publisher=Johns Hopkins University Press |page=74-76 |isbn=0-8018-6569-7}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Medina, Bartolome de}}
+[[Category:1527 births]]
+[[Category:1581 deaths]]
+[[Category:People from Medina de Rioseco]]
+[[Category:Spanish Dominicans]]
+[[Category:16th-century Spanish Roman Catholic theologians]]
+[[Category:University of Salamanca alumni]]
+[[Category:Academic staff of the University of Salamanca]]
+[[Category:16th-century Spanish philosophers]]
+[[Category:School of Salamanca]]
+
+
+{{RC-clergy-stub}}

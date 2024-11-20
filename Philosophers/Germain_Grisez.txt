@@ -1,0 +1,29 @@
+{{Short description|American Roman Catholic theologian (1929–2018)}}
+'''Germain Gabriel Grisez''' (September 30, 1929 – February 1, 2018) was a [[French-American]] philosopher.<ref>{{Cite web|title=The Making of a Moral Theologian {{!}} EWTN|url=https://www.ewtn.com/catholicism/library/making-of-a-moral-theologian-10811|access-date=2021-10-10|website=EWTN Global Catholic Television Network|language=en}}</ref>  Grisez's development of ideas from [[Thomas Aquinas]] has redirected [[Roman Catholic theology|Catholic]] thought and changed the way it has engaged with secular moral philosophy. In 'The First Principle of Practical Reason: A Commentary on the ''Summa Theologiae'', I-II, Q. 94, A. 2' (1965), Grisez attacked the neo-scholastic interpretation of Aquinas as holding that moral norms are derived from methodologically antecedent knowledge of [[human nature]]. Grisez defended the idea of [[libertarianism (metaphysics)|metaphysical free choice]] and proposed a natural law theory of practical reasoning and moral judgment which, although broadly [[Thomism|Thomistic]], departs from Aquinas on significant points.<ref>{{cite book |author=George, Robert P. |editor=Honderich, Ted |title=The Oxford Companion to Philosophy |publisher=Oxford University Press |location=Oxford |year=1995 |page=[https://archive.org/details/oxfordcompaniont00hond/page/328 328] |isbn=0-19-866132-0 |url-access=registration |url=https://archive.org/details/oxfordcompaniont00hond/page/328 }}</ref>
+
+Grisez was Professor of Christian Ethics at [[Mount St. Mary's University]] in Emmitsburg, MD<ref>[https://www.catholicnewsagency.com/news/22151/new-documents-reveal-inner-workings-of-papal-birth-control-commission New documents reveal inner workings of papal birth control commission]</ref> from 1979 to his retirement in 2009.
+
+==See also==
+* [[John Finnis]]
+* [[Robert P. George]]
+* [[Pontifical Commission on Birth Control#Minority report]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.twotlj.org/ The Way of the Lord Jesus] Complete text of the three volumes and additional material
+* [http://www.ewtn.com/library/HOMELIBR/GRISEZ.TXT The Making of a Moral Theologian], Russell Shaw. 1996 article on Grisez's personal and professional life, including his work for Cardinal O'Boyle of the Diocese of Washington D.C.
+* [https://web.archive.org/web/20161220122139/http://www.catholicsocialscientists.org/CSSR/Archival/2002/Article--Lund-Molfese.pdf Biotechnology and Human Dignity in the Thought of Germain Grisez], Nicholas C. Lund-Molfese.  Describes the necessity of the Christian virtue of [[hope]] in choosing the good of the human person in so-called "hard cases".
+* [https://web.archive.org/web/20110303180533/http://www.ts.mu.edu/content/47/47.1/47.1.8.pdf INFALLIBILITY AND CONTRACEPTION: A REPLY TO GARTH HALLETT] (PDF)
+
+{{jurisprudence}}
+
+{{Authority control}}
+{{DEFAULTSORT:Grisez, Germain}}
+[[Category:1929 births]]
+[[Category:2018 deaths]]
+[[Category:American people of French descent]]
+[[Category:Catholic philosophers]]
+[[Category:21st-century American Roman Catholic theologians]]
+[[Category:Natural law ethicists]]

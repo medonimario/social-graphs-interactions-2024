@@ -1,0 +1,212 @@
+{{Short description|2nd century Christian Gnostic religious teacher}}
+{{other uses}}
+{{Gnosticism}}
+'''Basilides''' ([[Greek language|Greek]]: Βασιλείδης) was an [[Gnosticism#Origins|early Christian Gnostic]] religious teacher in [[Alexandria, Egypt]]<ref>{{harvnb|Hort|1911}} cites Iren. p. 100 Mass.; followed by Eus. ''H. E.'' iv. 7; Epiph. ''Haer.'' xxiv. 1, p. 68 c; cf. xxiii. 1, p. 62 {{small-caps|B}}; Theod. ''Haer. Fab.'' i. 2.</ref> who taught from 117 to 138 AD,<ref group="*">{{harvnb|Hort|1911}} notes that to prove that the heretical sects were "later than the catholic Church," Clement of Alexandria ([http://www.newadvent.org/fathers/02107.htm ''Stromata'', vii. 17]) assigns Christ's own teaching to the reigns of Augustus and Tiberius; that of the apostles <!--, of at least, -->ends, he says, in the time of Nero; whereas "the authors of the sects arose later, about the times of the emperor Hadrian, and continued quite as late as the age of the elder Antoninus." He gives as examples Basilides, [[Valentinus (Gnostic)|Valentinus]], and (if the text is sound) [[Marcion]]. Yet his language about [[Carpocrates]] a few lines further on suggests a doubt whether he had any better evidence than a fallacious inference from their order in Irenaeus.{{Citation needed|date=April 2010}} He was acquainted with the refutation of Basilides by Agrippa Castor; but it is not clear, as is sometimes assumed, that he meant to assign both writers to the same reign. His chronicle (Armenian) at the year 17 of Hadrian ({{small-caps|a.d.}}133) has the note "The heresiarch Basilides appeared at these times". Earliest of all, but vaguest, is the testimony of Justin Martyr. The probable inference that the other great heresiarchs, including Basilides, were by this time dead receives some confirmation from a passage in his ''Dialogue against Trypho'' (135 AD).</ref> and claimed to have inherited his teachings from the apostle [[Saint Matthias]].<ref>[https://www.biblicaltraining.org/library/gospel-basilides Gospel of Basilides]</ref><ref>[http://www.newadvent.org/cathen/02326a.htm Basilides]</ref> He was a pupil of either the [[Simonians|Simonian]] teacher [[Menander (gnostic)|Menander]],<ref name=Eusebius4-7/> or a supposed disciple of [[St. Peter|Peter]] named Glaucias.<ref>[[s:Ante-Nicene Fathers/Volume II/CLEMENT OF ALEXANDRIA/The Stromata, or Miscellanies/Book VII/Chapter XVII.|St. Clement of Alexandria, ''Stromata'' Book vii. Chapter xvii.]] Gnostic scholar [[Bentley Layton]] accepts the Glaukias connection". Pearson 2008, 4.</ref> The ''Acts of the Disputation with Manes'' state that for a time he taught among the [[Ancient Persia|Persians]].<ref>Archelaus, ''Acts of the Disputation with Manes'' Chapter lv.{{Verify source|date=April 2011}}</ref> According to [[Agapius of Hierapolis]] he appeared in the 15th year of [[Trajan]] reign (113 AD).<ref>Agapius of Menbij, Universal History, Year 15 of Trajan [113].</ref> He is believed to have written over two dozen books of commentary on the Christian [[Gospel]] (now all lost) entitled ''Exegetica'',<ref name=Eusebius4-7/> making him one of the earliest Gospel commentators.
+
+The followers of Basilides, the [[Basilideans]], formed a movement that persisted for at least two centuries after him<ref>{{harvnb|Hort|1911}} states that "It is a singular testimony to the impression created at the outset by Basilides and his system that he remained for centuries one of the eponymi of heresy".</ref> – [[Epiphanius of Salamis]], at the end of the 4th century, recognized a persistent Basilidian presence over the [[Nile Delta]] in  [[Egypt]].<ref name=":0">{{Cite web |title=CATHOLIC ENCYCLOPEDIA: Basilides |url=https://www.newadvent.org/cathen/02326a.htm |access-date=2023-06-04 |website=www.newadvent.org}}</ref> It is probable, however, that the school melded into the mainstream of [[Gnosticism]] by the latter half of the 2nd century.<ref>Mead 1900, 253 f.</ref>
+
+==Doctrine==
+{{Main|Basilidians}}
+{{essay-like|reason=[[WP:IS]]|date=November 2022}}
+The diverse and sometimes contradictory descriptions of Basilides' system by primary sources pose challenges. [[Irenaeus|St. Irenæus]] portrayed Basilides as a [[Dualism in cosmology|dualist]] and [[Emanationism|emanationist]] in his ''[[Adversus Haereses]]'',<ref>Kurt Rudolph, '<nowiki/>'''Gnosis: The Nature & History of Gnosticism'''', page 310 (T & T Clark Ltd, second and revised and expanded edition, 1980). {{ISBN|0-567-08640-2}}</ref> while [[Hippolytus of Rome|Hippolytus]] painted him in his ''[[Refutation of All Heresies|Philosophumena]]'' as a [[Pantheism|pantheistic]] evolutionist.<ref name=":0" />
+
+From Irenaeus' perspective, Basilides proposed a hierarchy of emanations from an Unborn Father ([[Abraxas]]), resulting in multiple heavenly realms and angelic powers, with the Jewish God identified as one of these angels. He introduced [[Jesus|Christ]] as a savior from the angelic rule, implying a replacement of Christ with [[Simon of Cyrene]] during the crucifixion.
+
+Epiphanius and [[Pseudo-Tertullian]] contribute to this portrayal by associating Basilides with the mystical name Abraxas and contempt for material reality. They indicate that Basilides considered suffering and martyrdom as meaningless and attached to the physical world.
+
+On the other hand, Hippolytus presented Basilides' teachings as proposing a state of nonexistence prior to creation, brought into existence by a desireless and passionless Not-Being God, who generated the seed of the world. Basilides negated both emanation and the eternity of matter, associating creation with a divine command rather than material processes.
+
+In this view, Basilides described three ''Filiations'' within the world seed, representing different elements of existence, each striving towards the Not-Being God through different means. He envisaged a divine hierarchy with [[Archon (Gnosticism)|Archons]] ruling different heavenly spheres, with the highest being Abraxas.
+
+In the context of [[History of Christianity|Christian history]], Basilides constructed an elaborate metaphysical system which, among other features, attributed distinct eras to varying Archons, or rulers of the cosmos. These Archons, according to Basilides, each had dominion over specific epochs. This chronology culminated in what Basilides referred to as the reign of the Gospel, a period where spiritual enlightenment through the teachings of Jesus Christ becomes paramount, marking a significant shift from the previously held dominion of the Archons.
+
+[[Redemption (theology)|Redemption]], as conceived by Basilides, constitutes a return to the primordial state of being, a reversion to the original state of existence before the creation of the world. In this process, each constituent part of existence reverts to its original condition. Material elements, which Basilides associated with the physical world and its inherent imperfections, return to a state of primal chaos. The psychic element, linked with the soul and consciousness, returns to the [[Archon (Gnosticism)#Hebdomad|Hebdomad]], a term that in Basilides' system may refer to the realm governed by the second Archon.
+
+The spiritual element, seen as the highest form of existence, is believed to return to what Basilides cryptically referred to as the Not-Being God, a divine entity that, paradoxically, exists beyond existence itself. This spiritual return signifies a transcendence beyond the physical and psychic realms, a reunification with absolute divinity.
+
+The final state in Basilides' metaphysical system is known as the Restoration of all things. In this state, Basilides envisions a divine blissful Ignorance being poured over all existence. This doesn't denote ignorance in the common understanding as a lack of knowledge or understanding, but rather, a state of divine tranquility and peace, an absence of desire or striving. This state signifies an end to the dualistic conflicts and the cessation of all suffering, a state of perfect unity and harmony. Basilides' idea of a divine blissful Ignorance, thus, suggests a kind of heavenly serenity, marking the final stage of the cosmic journey towards ultimate redemption.
+
+Ethically, Basilides seems to have assigned [[faith]] as a natural trait rather than a conscious choice, and viewed [[sin]] and [[suffering]] as intrinsic to existence. He conceived [[evil]] as an inherent principle, making even Christ a sinful man.
+
+Later interpretations criticized Basilides' system for potential immorality, though it's likely that these accusations did not apply to Basilides himself. Nevertheless, it's clear that some forms of Gnosticism, including Basilidianism, led to morally questionable practices over time. Extracts from Basilides' son and successor suggest indulgence in sensual desires for spiritual peace, possibly corroborating accusations of immorality among Gnostics.
+
+Isidore, the son of Basilides, played a crucial role in the continuation and elaboration of Basilidian Gnosticism. He maintained his father's core ideas while also introducing additional elements, some of which seem to have derived from [[Stoicism|Stoic philosophy]] and popular superstition. Isidore purportedly developed a more ethically balanced approach, emphasizing the need to abstain from worldly desires in order to achieve the purifying knowledge ([[Gnosis]]).
+
+The Basilidian tradition is believed to have survived until the fourth century AD, primarily in Egypt, before eventually fading out due to a combination of external pressure and internal conflicts. The establishment of the [[Nicene Creed]] in 325 AD heavily marginalized Gnostic sects, including Basilidianism.
+
+However, the influence of Basilides' teachings has permeated through history and has been rekindled in the modern era due to increased interest in [[List of Gnostic texts|Gnostic texts]]. The recovery of the [[Nag Hammadi library]] in the mid-20th century, a collection of Gnostic texts, has offered new insights into Gnosticism, including potentially Basilidian beliefs. Despite its demise, Basilidianism has left a lasting impact on religious thought, particularly in terms of its challenge to orthodoxy and its innovative approach to issues of the divine, the [[cosmos]], and the nature of humanity.
+
+While interpreting these historical sources, we must bear in mind that most of these accounts were written by individuals who were opposed to Gnosticism, and therefore, their portrayals are not objective. Interpretations of Basilides' philosophy are thus subject to ongoing debate among scholars.
+
+===Creation===
+His view of creation, according to the orthodox heresiologists, was likely similar to that of [[Valentinus (Gnostic)|Valentinus]], whom he rivaled, being based on a ''doctrine of emanations'' proceeding from an uncreated, ineffable [[Pleroma]]. Like his rival, Basilides taught that matter, and the material universe, are evil, and that the God of the Old Testament, who was responsible for creation, is a misguided ''archon'' or lesser deity.<ref>Louis P. Pojman, "Basilides," in ''The Cambridge Dictionary of Philosophy'', 3rd ed., ed. Robert Audi.</ref>
+
+Historians, such as Philip Shaff, have the opinion that: "Irenaeus described a form of Basilideanism which was not the original, but a later corruption of the system. On the other hand, Clement of Alexandria surely, and Hippolytus, in the fuller account of his ''Philosophumena'', probably drew their knowledge of the system directly from Basilides' own work, the ''Exegetica'', and hence represent the form of doctrine taught by Basilides himself".<ref>''Nicene and Post-Nicene Fathers, Second Series'' volume=? page 178, note 7. {{Verify source|date=April 2011}}<!--This is a 14 volume book! http://www.amazon.com/Nicene-Post-Nicene-Fathers-Second-Volumes/dp/1565631161--></ref>
+
+===Faith and Election===
+Like other gnostics, Basilides taught that salvation comes through knowledge and not faith.<ref>Louis P. Pojman, "Basilides," in ''The Cambridge Dictionary of Philosophy," 3rd ed., ed. Robert Audi.</ref> This knowledge, or ''gnosis'', was considered esoteric, a revelation to human beings by the divine [[Aeon (Gnosticism)|being]], Jesus Christ. Faith played no part in salvation. Indeed, Basilides believed faith was merely "an assent of the soul to any of the things which do not excite sensation, because they are not present". He also believed faith was a matter of "nature," not of conscious choice, so that men would "discover doctrines without demonstration by an intellective apprehension".<ref>[[s:Ante-Nicene Fathers/Volume II/CLEMENT OF ALEXANDRIA/The Stromata, or Miscellanies/Book II/Chapter III.|St. Clement of Alexandria, ''Stromata'' Book ii. Chapter iii.]]</ref> Basilides also appears to have accumulated forms of dignity in accordance with ones' faith.<ref>[[s:Ante-Nicene Fathers/Volume II/CLEMENT OF ALEXANDRIA/The Stromata, or Miscellanies/Book V/Chap. I.|St. Clement of Alexandria ''Stromata'' Book v. Chapter i.]]</ref>
+
+Because Basilides believed faith was a matter of nature, doubtlessly he pushed election so far as to sever a portion of mankind from the rest, as alone entitled by Divine decree to receive a higher enlightenment. In this sense it must have been that he called "the elect a stranger to the world, as being by nature supermundane".<ref>[[s:Ante-Nicene Fathers/Volume II/CLEMENT OF ALEXANDRIA/The Stromata, or Miscellanies/Book IV/Chapter XXIII.|St. Clement of Alexandria, ''Stromata'' Book iv. Chapter xxvi.]]</ref>
+
+===Biblical canon===
+The canon of Basilides had its own [[Gospel of Basilides|Gospel]] alongside the [[Gospel of John]],<ref>{{cite wikisource | wslink = Ante-Nicene Fathers / Volume V / Hippolytus / The Refutation of All Heresies / Book VII / Part 11 | The Refutation of All Heresies, Book VII | author = Hippolytus | translator = John Henry MacMahon}}</ref> rejected the [[Epistle of Titus]]<ref>{{cite wikisource | wslink = Nicene and Post-Nicene Fathers: Series II/Volume VI/Prefaces/Prefaces to Commentaries/Titus|Commentaries to Titus| author = Jerome | translator = Philip Schaff}}</ref> and selectively included only specific writings from the [[Pauline epistles]]. This canon also contained other unique texts, which are believed to have been penned by Basilides himself or his immediate followers, including the ''Interpretations of the Gospels'' and the ''Exegetica''.<ref>{{Cite book |last1=Layton |first1=Bentley |title=The Gnostic Scriptures |last2=Brakke |first2=David |author-link2=David Brakke| date=2021 |publisher=Yale University Press |year=2021 |isbn=978-0-300-20854-2 |edition=2nd |location=New Haven (Conn.) London |language=English}}</ref> Unlike the standard Christian canon, it did not include the [[Synoptic Gospels]]—Matthew, Mark, and Luke—as these were considered inconsistent with the Gnostic perspective.<ref>{{Cite book |last=King |first=Karen L. |title=What is gnosticism? |date=2005 |publisher=Belknap Press |year=2005 |isbn=978-0-674-01762-7 |location=Cambridge, Massachusetts}}</ref> Basilides further eschewed mainstream Christian works he perceived as failing to reflect his Gnostic interpretation of Christianity, viewing such texts as distorting the true nature of the divine.<ref>{{Cite book |last=Brakke |first=David |author-link=David Brakke |title=The Gnostics: myth, ritual, and diversity in early Christianity |publisher=Harvard University Press |year=2012 |isbn=978-0-674-04684-9 |location=Cambridge, Massachusetts}}</ref> As such, the canon of Basilides provides a distinct example of early Christian diversity and the varied textual traditions that existed within the nascent Christian community.<ref>{{Cite book |last=Ehrman |first=Bart D. |title=Lost christianities: the battles for scripture and the faiths we never knew |date=2005 |publisher=Oxford University Press |isbn=978-0-19-518249-1 |edition=Oxford Univ. Press paperback |location=Oxford}}</ref>
+
+===Metempsychosis===
+Basilides likewise brought in the notion of sin in a past stage of existence suffering its penalty here, "the elect soul" suffering "honourably through martyrdom, and the soul of another kind being cleansed by an appropriate punishment." To this doctrine of metempsychosis the Basilidians are likewise said to have referred the language of the Lord about requital to the third and fourth generations;<ref>{{harvnb|Hort|1911}} cites ''Exc. Theod.'' 976.</ref> Origen states that Basilides himself interpreted {{bibleverse||Romans|7:9}} in this sense,{{sfn|Hort|1911}}
+{{blockquote|The Apostle said, 'I lived without a law once,' that is, before I came into this body, I lived in such a form of body as was not under a law, that of a beast namely, or a bird.<ref>{{harvnb|Hort|1911}} cites ''Com. in Rom.'' iv. 549, Ru.</ref>}}
+
+However, if there be any who suffers without previous sin, it will not be "by the design of an [adverse] power", but as suffers the babe who appears to have committed no sin. The infant is said to receive a benefit when it is subjected to suffering, "gaining" many hardships.{{sfn|Hort|1911}}
+
+===Hell===
+Origen complained that Basilides deprived men of a salutary fear by teaching that transmigrations are the only punishments after death.<ref>{{harvnb|Hort|1911}} cites ''Com. in Matt. l.c.''</ref>
+
+===Martyrdom===
+Because Basilides held to a fatalistic view of metempsychosis, he believed the [[Christian martyrs]] were being punished not for being Christians, but for sins they had committed in the past.<ref name=Martyrdom>[[s:Ante-Nicene Fathers/Volume II/CLEMENT OF ALEXANDRIA/The Stromata, or Miscellanies/Book IV./Chapter XII.|St. Clement of Alexandria, ''Stromata'' Book iv. Chapter xii.]]</ref> This is why Origen says that he depreciated the martyrs.<ref>{{harvnb|Hort|1911}} cites ''Com. in Matt.'' iii. 856 Ru.</ref>
+
+===Passions===
+The Basilideans were accustomed to call the passions ''Appendages'', stating that these are certain spirits that append (προσηρτημένα) themselves to rational souls in a certain primitive turmoil and confusion. Then, they imitate the actions of those they are appended to, and not only acquire the impulses of the irrational animals, but even imitate the movements and beauties of plants. These Appendages can also have characteristics of habit [derived from stones], as the hardness of a [[diamond]].<ref>[[s:Ante-Nicene Fathers/Volume II/CLEMENT OF ALEXANDRIA/The Stromata, or Miscellanies/Book II/Chapter XX.|St. Clement of Alexandria, ''Stromata'' Book ii. Chapter xx.]]</ref>
+
+It is impossible to determine the precise origin of this singular theory, but it was probably connected with the doctrine of ''metempsychosis'', which seemed to find support in [[Plato]]'s ''[[Timaeus (dialogue)|Timaeus]]''.<ref>''[[Timaeus (dialogue)|Timaeus]]'' [https://www.perseus.tufts.edu/hopper/text?doc=Plat.+Tim.+42&fromdoc=Perseus%3Atext%3A1999.01.0180 42], [https://www.perseus.tufts.edu/hopper/text?doc=Plat.+Tim.+90&fromdoc=Perseus%3Atext%3A1999.01.0180 90 f].</ref> St. Clement of Alexandria stated that the plurality of souls makes the body a [[Trojan horse]].{{sfn|Hort|1911}}
+
+==Practices==
+
+===Marriage===
+Reciting the views of different heretics on marriage, Clement<ref>{{harvnb|Hort|1911}} cites ''Strom.'' iii. 508 ff.</ref> gives specimens of the teaching of Basilides and his son Isidore, by way of rebuke to the immorality of the later Basilidians. He first reports the exposition of {{bibleverse|Matthew|19:12}} (or a similar evangelic passage), in which there is nothing specially to note except the interpretation of the last class of eunuchs as those who remain in celibacy to avoid the distracting cares of providing a livelihood. He goes on to the paraphrase of {{bibleverse|1|Corinthians|7:9}}, interposing in the midst an illustrative sentence from Isidore, and transcribes the language used about the class above mentioned. 
+{{blockquote|But suppose a young man either poor or depressed, and in accordance with the word [in the Gospel] unwilling to marry, let him not separate from his brother; let him say 'I have entered into the holy place, nothing can befall me'; but if he have a suspicion, let him say, 'Brother, lay thy hand on me, that I may sin not,' and he shall receive help both to mind and to senses; let him only have the will to carry out completely what is good, and he shall succeed. But sometimes we say with the lips, 'We will not sin,' while our thoughts are turned towards sinning: such as one abstains by reason of fear from doing what he wills, lest the punishment be reckoned to his account. But the estate of mankind has only certain things at once necessary and natural, clothing being necessary and natural, but sexual intercourse natural, yet not necessary.<ref>{{harvnb|Hort|1911}} cites Cf. Plut. ''Mor.'' 989.</ref>}}
+
+===Epiphany===
+Although we have no evidence that Basilides, like some others, regarded [[Baptism of Jesus|Jesus's Baptism]] as the time when a Divine being first was joined to Jesus of Nazareth, it seems clear that he attached some unusual significance to the event. St. Hippolytus of Rome implied that Basilides regarded the Baptism as the occasion when Jesus received "the Gospel" by a Divine illumination.<ref>[[s:Ante-Nicene Fathers/Volume V/Hippolytus/The Refutation of All Heresies/Book VII/Part 14|St. Hippolytus of Rome, ''Philosophumena'' Book vii.]]</ref>
+
+"They of Basilides," says Clement,<ref>''Strom.'' i. 146, p. 408.</ref> "celebrate the day of His Baptism by a preliminary night-service of [Scripture] readings." The Venice MS. states that the Basilideans celebrated the night before the Epiphany singing and flute-playing in a heathen temple at Alexandria: so that probably the Basilidian rite was a modification of an old local custom.<ref>{{harvnb|Hort|1911}} cites Venice MS. ii. 483 Dind.: iii. 632 Oehler.</ref>
+
+===Meat offered to idols and apostasy===
+Eusebius of Caesarea is quoting Agrippa Castor, when he states that Basilides: "taught also that the eating of meat offered to idols and the unguarded renunciation of the faith in times of persecution were matters of indifference".<ref name=Eusebius4-7/> However, from St. Clement of Alexandria's Stromata, it appears that Agrippa Castor misunderstood the purpose of Basilides's argument, partly from the actual doctrine and practices of later Basilidians; but it may also have had some justification in incidental words which have not been preserved.{{citation needed|date=April 2011}} It appears as if Basilides was actually saying that the eating of meat offered to idols and apostasy weren't condemned for immorality, but were punishments because of immorality.<ref name=Martyrdom/>
+
+===Silence===
+According to Agrippa Castor, Basilides "in Pythagorean fashion" prescribed a silence of five years to his disciples.<ref name=Eusebius4-7>[[s:Nicene and Post-Nicene Fathers: Series II/Volume I/Church History of Eusebius/Book IV/Chapter 7|Eusebius of Caesarea, ''Ecclesiastical History'' Book iv. Chapter vii.]]</ref>
+
+===Prophets===
+Agrippa Castor stated that Basilides "invented prophets for himself named Barcabbas and Barcoph, and others that had no existence".<ref name=Eusebius4-7/> The alleged prophecies apparently belonged to the apocryphal Zoroastrian literature popular with various Gnostics.{{sfn|Hort|1911}}
+
+===''Traditions of Matthias''===
+According to Basilides and Isidore, Matthias spoke to them mystical doctrines which he heard in private teaching from the Saviour.<ref name=Matthias>[[s:Ante-Nicene Fathers/Volume V/Hippolytus/The Refutation of All Heresies/Book VII/Part 9|St. Hippolytus of Rome, ''Philosophumena'' Book vii. Chapter viii.]]</ref><ref>''Strom.'' vii. 900. {{Verify source|date=April 2011}}</ref> Origen also<ref>{{harvnb|Hort|1911}} cites ''Hom. in Luc.'' i. t. iii p. 933.</ref> and after him Eusebius refer to a "Gospel" of or according to Matthias.<ref>{{harvnb|Hort|1911}} cites ''H. E.'' iii. 25, 6.</ref> The true name was apparently the ''Traditions of Matthias''.<ref>{{harvnb|Hort|1911}} cites ''Strom.'' ii. 452; iii. 523 (copied by [[s:Nicene and Post-Nicene Fathers: Series II/Volume I/Church History of Eusebius/Book III/Chapter 29|Eusebius, ''H. E.'' iii. 29. 4]]); vii. 882.</ref>
+
+== ''Acts of the Disputation with Manes'' ==
+The writer of ''Acts'' held Basilides responsible for dualism, yet his language on this point is loose, as if he were not sure of his ground; and the quotation which he gives by no means bears him out. It is quite conceivable that his understanding of Basilides came from the dualistic Basilidians of his day, who have given a wrong interpretation to genuine words of their master.<ref>Cf. Uhlhorn, 52 f. {{Verify source|date=April 2011}}</ref> Indeed the description of evil as a ''[[supervenient]]'' nature ''without root'', reads almost as if it were directed against Persian doctrine, and may be fairly interpreted by Basilides's comparison of pain and fear to the rust of iron as natural accidents.{{citation needed|date=April 2011}}<!--for the whole paragraph-->
+
+The identity of the Basilides of the Acts with the Alexandrian has been denied by [[Gieseler]] with some show of reason. It is at least strange that our Basilides should be described simply as a "preacher among the Persians," a character in which he is otherwise unknown; and all the more since he has been previously mentioned with Marcion and [[Valentinus (Gnostic)|Valentinus]] as a heretic of familiar name.<ref>{{harvnb|Hort|1911}} cites Routh, ''Rell. Sac.'' c. 38, p. 138.</ref> On the other hand, it has been justly urged that the two passages are addressed to different persons. The correspondence is likewise remarkable between the "treatises" in at least thirteen books, with an interpretation of a parable among their contents, and the "twenty-four books on the Gospel" mentioned by Agrippa Castor, called ''Exegetica'' by Clement. Thus the evidence for the identity of the two writers may on the whole be treated as preponderating. But the ambiguity of interpretation remains; and it would be impossible to rank Basilides confidently among dualists, even if the passage in the Acts stood alone: much more to use it as a standard by which to force a dualistic interpretation upon other clearer statements of his doctrine.{{sfn|Hort|1911}}
+
+==Isidorus==
+Hippolytus<ref name=Matthias/> couples with Basilides "his true child and disciple" Isidore. He is there referring to the use which they made of the ''Traditions of Matthias''; but in the next sentence he treats them as jointly responsible for the doctrines which he recites. Our only other authority respecting Isidore is Clement (copied by Theodoret), who calls him in like manner "at once son and disciple" of Basilides.<ref>{{harvnb|Hort|1911}} cites ''Strom.'' vi. 767.</ref>
+
+===''Expositions of the Prophet Parchor''===
+Isidore's ''Expositions of the Prophet Parchor'' taught the higher thoughts of heathen philosophers and mythologers were derived from Jewish sources.{{sfn|Hort|1911}} So, by quoting the philosopher [[Pherecydes of Syros|Pherecydes]], who had probably a peculiar interest for Isidore as the earliest promulgator of the doctrine of metempsychosis known to tradition,<ref>{{harvnb|Hort|1911}} cites Cf. Zeller, ''Philos. d. Griechen'', i. 55 f. ed. 3.</ref> Isidore was proving his validity as a descendant of the prophets.{{sfn|Hort|1911}}
+
+Isidore's allegation that Pherecydes followed "the prophecy of [[Ham (son of Noah)|Ham]]" was also used to claim that the apocryphal Zoroastrian books had quasi-biblical sanctity as proceeding from Zoroaster, a son of Noah; so Isidore gladly accepted the theory as evidence for his argument.{{sfn|Hort|1911}}
+
+===''On an Adherent Soul''===
+In his book ''On an Adherent Soul'', Isidore appears to have argued against his father's teaching on "Appendages".<ref>{{harvnb|Hort|1911}} cites ''Strom.'' ii. 488.</ref> He insists on the unity of the soul, and maintains that bad men will find "no common excuse" in the violence of the "appendages" for pleading that their evil acts were involuntary: "our duty is", he says, "by overcoming the inferior creation within us through the reasoning faculty, to show ourselves to have the mastery".{{sfn|Hort|1911}}
+
+===''Ethics''===
+A passage from Isidore's ''Ethics'' says: "Abstain, then, from a quarrelsome woman lest you are distracted from the grace of God. But when you have rejected the fire of the seed, then pray with an undisturbed conscience. And when your prayer of thanksgiving," he says, "descends to a prayer of request, and your request is not that in future you may do right, but that you may do no wrong, then marry."<ref>{{harvnb|Hort|1911}} cites ''Strom.'' iii. 510.</ref>
+
+==Legacy==
+Gnosticism was throughout eclectic, and Basilides superadded an eclecticism of his own. Antecedent Gnosticism, Greek philosophy, and the Christian faith and Scriptures all exercised a powerful and immediate influence over his mind. It is evident at a glance that his system is far removed from any known form of Syrian or original Gnosticism. Like that of Valentinus, it has been remoulded in a Greek spirit, but much more completely.{{sfn|Hort|1911}}
+
+Ancient writers usually name Basilides before Valentinus; but there is little doubt that they were at least approximately contemporaries, and it is not unlikely that Valentinus was best known personally from his sojourn at Rome, which was probably<ref>{{harvnb|Hort|1911}} cites Lipsius, ''Quellen d. ält. Ketzergeschichte'', 256.</ref> the last of the recorded stages of his life. There is at all events no serious chronological difficulty in supposing that the Valentinian system was the starting-point from which Basilides proceeded to construct by contrast his own theory, and this is the view which a comparison of doctrines suggests.{{sfn|Hort|1911}}
+
+In no point, unless it be the retention of the widely spread term ''archon'', is Basilides nearer than Valentinus to the older Gnosticism, while several leading Gnostic forms or ideas which he discards or even repudiates are held fast by Valentinus.{{sfn|Hort|1911}} Such are descent from above,<ref>See a passage at the end of Hippolytus, ''Philos.'' vii. 22.{{Verify source|date=April 2011}}</ref> putting forth or pullulation, syzygies of male and female powers, and the deposition of faith to a lower level than knowledge. Further, the unique name given by Basilides to the Holy Spirit, "the Limitary (μεθόριον) Spirit," together with the place assigned to it, can hardly be anything else than a transformation of the strange Valentinian "[[Valentinianism#Horos|Limit]]".<ref>{{harvnb|Hort|1911}} cites Baur in ''Theol. Jahrb.'' for 1856, 156 f.</ref>
+
+The same softening of oppositions which retain much of their force even with Valentinus shows itself in other instances, as of matter and spirit, creation and redemption, the Jewish age and the Christian age, the earthly and the heavenly elements in the Person of Jesus. The strongest impulse in this direction probably came from Christian ideas.{{sfn|Hort|1911}}
+
+An antecedent matter was expressly repudiated, the words of {{bibleverse||Genesis|1:3}} eagerly appropriated, and a Divine counsel represented as foreordaining all future growths and processes; yet the chaotic nullity out of which the developed universe was to spring was attributed with equal boldness to its Maker: Creator and creation were not confused, but they melted away in the distance together.{{sfn|Hort|1911}} Nature was accepted not only as prescribing the conditions of the lower life, but as practically the supreme and permanent arbiter of destiny. Thus though faith regained its rights, it remained an energy of the understanding, confined to those who had the requisite inborn capacity; while the dealings of God with man were shut up within the lines of mechanical justice.{{sfn|Hort|1911}}
+
+===Popularity===
+Basilides had to all appearance no eminent disciple except his own son. Although Basilides is mentioned by all the Church Fathers as one of the chiefs of Gnosticism, the system of Valentinus seems to have been much more popular and wider spread,{{sfn|Hort|1911}} as was also [[Marcionism]].{{citation needed|date=April 2011}}
+
+===Influence===
+20th-century [[psychoanalysis|psychoanalyst]] [[Carl Jung]] wrote his [[Seven Sermons to the Dead]] and attributed them to Basilides.{{citation needed|date=April 2011}} The Argentine writer [[Jorge Luis Borges]] was interested in Irenaeus' account of Basilides' Gnostic doctrine and wrote an essay on the subject:  "A Vindication of the False Basilides" (1932).<ref>Borges J.L., ''Discusión'', (1932), p.48</ref> Basilides' Gnostic Gospel is one of the books mentioned in Borges's short story "The Library of Babel" (1941).{{citation needed|date=April 2011}} Basilides also appears in Borges' "Three Versions of Judas" (1944), which opens with the striking passage: "In [[Asia Minor]] or in Alexandria, in the second century of our faith, when Basilides published that the Cosmos was a reckless or evil improvisation by deficient [[angel]]s...".{{citation needed|date=April 2011}}
+
+==Sources==
+
+===Church Fathers===
+Historians know of Basilides and his teachings mainly through the writings of his detractors, and it is impossible to determine how reliable these accounts are.{{citation needed|date=April 2011}} The oldest refutation of the teachings of Basilides, by [[Agrippa Castor]], is lost,{{citation needed|date=April 2011}} and we are dependent upon the later accounts of:<ref name=Arendzen>Arendzen 1913.</ref>
+*[[Eusebius of Caesarea]], ''[[Church History (Eusebius)|Ecclesiastical History]]'', [[s:Nicene and Post-Nicene Fathers: Series II/Volume I/Church History of Eusebius/Book IV/Chapter 7|Book IV, Chapter vii]], written around the 4th century.
+*[[St. Clement of Alexandria]], ''[[Stromata]]'', Book I, Chapter xxi; Book II, Chapters vi, viii, and xx; Book IV, Chapters xi, xii, and xxv; Book V, Chapter I, etc., written between 208 and 210, and the so-called ''Excerpta ex Theodoto'' perhaps from the same hand.
+*[[St. Hippolytus of Rome]], ''[[Philosophumena]]'', Book VII, written about 225.
+*Pseudo-Tertullian, ''Against All Heresies'', a little treatise usually attached to [[Tertullian]]'s ''De Praescriptionibus'', but really by another hand, perhaps by Victorinus of Pettau, written about 240 and based upon a non-extant "Compendium" of St. Hippolytus.
+*[[St. Epiphanius of Salamis]], ''[[Panarion]]'', Book I, Sect xxiv.
+*[[Theodoret of Cyrus]], ''Compendium of Heretical Accounts'', Book I, Chapter iv.
+
+===Writings of Basilides===
+Nearly everything Basilides wrote has been lost, but the names of three of his works and fragments are available in the present day:{{citation needed|date=April 2011}}<!--needed for the list-->
+*Fragments of the Exegetica are available from St. Clement of Alexandria in his ''Stromata'', Book IV, Chapter 12, and from Archelaus in his ''Acts of the Disputation with Manes'', Chapter 55, and probably also from [[Origen]] in his ''Commentary on Romans V'', Book I.
+*Origen states that  "Basilides had even the audacity to write a [[Gospel of Basilides|Gospel according to Basilides]]",<ref>{{harvnb|Hort|1911}} cites Origen, ''Homilies on Luke'' 1.1.</ref> and both [[St. Jerome]]<ref>{{harvnb|Hort|1911}} cites St. Jerome, ''Commentary on the Gospel of Matthew'' Prologue</ref> and [[St. Ambrose]]<ref>{{harvnb|Hort|1911}} cites Ambrose, ''Expositio, Euangelii,'' Lucae i.2.</ref> repeat Origen. Yet no trace of a Gospel by Basilides exists elsewhere; and it is possible either that Origen misunderstood the nature of the ''Exegetica,'' or that the Gospel was known under another name.<ref>{{harvnb|Hort|1911}} cites Cf. Hilgenfeld, ''Clem. Rec. u. Hom.'' 123 ff.</ref>
+*Origen in a note on Job, xxi, 1 sqq.,{{citation needed|date=April 2011}} speaks of "Odes" of Basilides.{{sfn|Hort|1911}}
+
+===Other works===
+Some fragments are known through the work of Clement of Alexandria:{{citation needed|date=April 2011}}
+* The Octet of Subsistent Entities (Fragment A)
+* The Uniqueness of the World (Fragment B)
+* Election Naturally Entails Faith and Virtue (Fragment C)
+* The State of Virtue (Fragment D)
+* The Elect Transcend the World (Fragment E)
+* Reincarnation (Fragment F)
+* Human Suffering and the Goodness of Providence (Fragment G)
+* Forgivable Sins (Fragment H)
+
+A book called ''Acts of the Disputation with Manes'', which was written during the close of the 3rd century or later, speaks about the Basilidean origins of [[Manichaeism]].{{sfn|Hort|1911}}
+
+===Artifacts===
+*Artistic remains of Gnosticism such as [[Abrasax]] gems, and literary remains like the ''[[Pistis Sophia]]'', the latter part of which probably dates back to the end of the 2nd century and, though not strictly Basilidian, yet illustrates early Alexandrian Gnosticism.{{citation needed|date=April 2011}}
+
+== Notes ==
+{{reflist|group="*"}}
+
+==References==
+{{reflist|2}}
+
+==Bibliography==
+;Attribution
+*{{DCBL|first= Fenton John Anthony |last=Hort|wstitle=Basilides, Gnostic sect founder}}
+*{{Schaff-Herzog|title=Basilides}}
+
+;Primary sources
+*{{cite book|url=https://books.google.com/books?id=j0UmWBivNJgC&q=St.%20Jerome%20Commentary%20on%20Matthew&pg=PA51|author=St. Jerome|title= Commentary on Matthew| pages=50–51|year=2008|others=Trans. Thomas P. Scheck|isbn= 978-0-8132-0117-7|publisher=Catholic University of America Press}}
+*{{cite book|url=https://books.google.com/books?id=sUCQS0X1BLMC&q=Origen%20Homilies%20on%20Luke&pg=PA6|author=Origen|title= Homilies on Luke | page=6|year=1996|others=Trans. Joseph T. Lienhard |isbn= 978-0-8132-0094-1 |publisher=Catholic University of America Press}}
+* {{cite book|last=Williams|first=Frank|title=The Panarion of Epiphanius of Salamis|year=1987|publisher=E.J. Brill|location=Leiden; New York; København; Köln|volume=1|isbn= 978-90-04-07926-7|page=70 ff|url=https://books.google.com/books?id=s9-utOHPLfEC&q=Epiphanius+of+Salamis+Panarion&pg=PA70}}
+*{{cite book|url=https://archive.org/stream/philosophumenaor02hipp#page/78/mode/2up|author=St. Hippolytus of Rome|title=Philosophumena|pages=73–74, 78| year= 1921 |others=Trans. Francis Legge|publisher= The Macmillan Company|location= New York}}
+
+;Secondary sources
+*{{cite book|first=Birger A.|last=Pearson|title=A Companion to Second-Century Christian "Heretics"|chapter=Basilides the Gnostic|year=2008|publisher=Brill|location=Leiden|isbn= 978-90-04-17038-4|editor1-first= Antti |editor1-last=Marjanen|editor2-first=Petri|editor2-last=Luomanen}}
+*{{Cite Catholic Encyclopedia|wstitle=Basilides (1)|first=John Peter|last=Arendzen}}
+*{{Cite EB1911|wstitle=Basilides}}
+* Biondi, Graziano, ''Basilide. La filosofia del Dio inesistente'', Roma 2005, pp.384
+*Buonaiuti, ''Lo Gnosticismo'' (Rome, 1907)
+*Duchesne, ''Hist. ancienne de l'Eglise'' (3d ed., Paris, 1907), I, xi, s.v. ''La Gnose et le Marcionisme''
+*Bareille in ''Dict. de theol. Cath.,'' s. vv. ''Abrasax, Basilide''
+*Leclercq, ''Dict. d'arch. Chret.'', s.v. ''Abrasax''
+*Bardenhewer, ''Gesch. der altkirch. Lit.'' (Freiburg, 1902), I
+*{{cite book|url=http://www.gnosis.org/library/grs-mead/fragments_faith_forgotten/fff40.htm|year=1900|first=G.R.S. |last=Mead|chapter=The Basilidian Gnosis|title=Fragments of Faith Forgotten| location=London|publisher=The Theosophical Publishing Society}}
+*{{cite book|first=C.W. |last=King|title=The Gnostics and their Remains|year=1887|url=http://www.sacred-texts.com/gno/gar/index.htm|publisher=David Nutt|location=London|orig-year=1864}}
+*Mansel, ''Gnostic Heresies''
+*De Groot, ''Basilides als erster Zeuge fur das N. T.'' (Leipzig, 1868)
+*Urlhorn, ''Das Basilidianische System'' (Göttingen, 1855).
+
+
+==External links==
+{{Wikisourcepar|The Seven Sermons to the Dead}}
+*[https://sabazius.oto-usa.org/basilides/ "Basilides" by T. Apiryon]
+*[http://www.gnosis.org/library/basilide.htm Fragments of Basilides]
+*[http://www.earlychristianwritings.com/text/isidore.html Fragments of his son Isidore]
+*[http://www.newadvent.org/fathers/02104.htm St. Clement of Alexandria's Stromata, Book iv]
+*[http://www.newadvent.org/fathers/0616.htm Archelaus' Acts of the Disputation with Manes] see Chapter 55.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Basilides}}
+[[Category:Gnostics]]
+[[Category:2nd-century Egyptian people]]
+[[Category:2nd-century Christian theologians]]
+[[Category:Egyptian Christians]]
+[[Category:Denial of the crucifixion of Jesus]]

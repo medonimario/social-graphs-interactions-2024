@@ -1,0 +1,315 @@
+{{Short description|Italian theologian (1221–1274)}}
+{{About|the Italian medieval theologian|other uses|Bonaventure (disambiguation)}}
+{{Use dmy dates|date=February 2021}}
+{{Use British English|date=June 2013}}
+{{Infobox saint
+|honorific_prefix=[[Saint]]
+|name=Bonaventure
+|honorific_suffix= {{post-nominals|post-noms=[[Order of Friars Minor|OFM]]|size=100%}}
+|birth_name= Giovanni di Fidanza
+|birth_date= 1221
+|death_date= {{death date and age|df=y|1274|7|15|1221}} 
+|feast_day= 15 July, Some are celebrated every 14th of July
+|venerated_in= [[Catholic Church]]<br/>[[Church of England]]
+|image=François, Claude (dit Frère Luc) - Saint Bonaventure.jpg
+|caption= 17th-century portrait of Bonaventure by French painter and [[friar]] [[Claude François (painter)|Claude François]]
+|birth_place=[[Civita di Bagnoregio]], [[Latium]], [[Papal States]]
+|death_place=[[Lyon]], [[Lyonnais]], [[Kingdom of Burgundy-Arles]]
+|titles=[[Friar]]<br/>[[Cardinal Bishop of Albano]]<br/>[[Doctor of the Church]]<br/>Seraphic Doctor<br/>Teacher of the Faith
+|beatified_date=
+|beatified_place=
+|beatified_by=
+|canonized_date=14 April 1482
+|canonized_place=[[Rome]]
+|canonized_by=[[Pope Sixtus IV]]
+|attributes= [[Cardinal (Catholicism)|Cardinal]]'s hat on a bush; [[Ciborium (container)|ciborium]]; [[Holy Communion]]; cardinal in Franciscan robes, usually reading or writing
+|module=
+{{Infobox philosopher
+| embed             = yes
+| region           = [[Western philosophy]]
+| era              = [[Medieval philosophy]]
+| name             = Bonaventure
+| other_names      = {{lang|la|Doctor Seraphicus}} ("Seraphic Doctor")
+| alma_mater       = [[University of Paris]]
+| institutions     = [[University of Paris]]
+| school_tradition = [[Scholasticism]]<br/>[[Augustinianism]]<br/>[[Neoplatonism]]<ref>{{Cite web|url= https://www.wilmingtonfavs.com/medieval-philosophy-2/bonaventure-on-the-neoplatonic-hierarchy-of-virtues.html|title=Bonaventure on the Neoplatonic Hierarchy of Virtues - Medieval Philosophy|date=17 December 2020 |website= Wilmington For Christ}}</ref><ref>{{Cite web|url= https://www.rep.routledge.com/articles/biographical/bonaventure-c-1217-74/v-1|title= Bonaventure (c.1217–74) - Routledge Encyclopedia of Philosophy|website=www.rep.routledge.com}}</ref><br/>[[Philosophical realism]]<br/>[[Medieval realism]] ([[moderate realism]])
+| main_interests   = [[Metaphysics]]
+| notable_ideas    = Bonaventure's version of [[Anselm of Canterbury]]'s [[ontological argument]]<br/>Exemplarism<br/>[[Divine illumination|Illuminationism]]
+| influences       = {{hlist|[[Alexander of Hales]]|[[Aristotle]]|[[Augustine of Hippo]]|[[Pseudo-Dionysius]]|[[Anselm of Canterbury]]<ref>{{citation |last= Sadler |first= Greg |display-authors= 0 |ref= {{harvid|''IEP''|2006}} |date= 2006 |contribution= Anselm of Canterbury (1033–1109) |title=[[Internet Encyclopedia of Philosophy]] |contribution-url= http://www.iep.utm.edu/anselm/ |access-date= 10 November 2017 }}</ref>|[[Avicebron]]|[[Francis of Assisi]]|[[Stoicism]] (through [[Cicero]])}}
+| influenced       = {{hlist|[[Peter John Olivi]]|[[Dante Alighieri]]||[[Duns Scotus]]|[[Nicholas of Cusa]]|[[John of the Cross]]|[[Louis de Montfort]]|[[Edmund Burke]]|[[Joseph De Maistre]]|[[Joseph Ratzinger]]|[[Hans Urs von Balthasar]]|[[Maurice Blondel]]|[[Jean-Luc Marion]]|[[Søren Kierkegaard]]|[[Martin Heidegger]]<ref>{{Cite web|url= http://bartholomew.stanford.edu/onbeingbonaventure/introtext.html|title=Bonaventure - On the Necessity of Being - Introduction|website=bartholomew.stanford.edu}}</ref>}}
+| module           = {{Infobox clergy 
+| child=yes
+| religion         = [[Catholic Church|Catholicism]]
+| church           = [[Latin Church]]
+| ordained         =
+| offices_held     = [[Cardinal-Bishop of Albano]]
+}}
+{{Ordination
+| denomination          = Catholic Church
+| embed                 = yes
+| consecrated by        = [[Pope Gregory X]]
+| date of consecration = 11 November 1273
+| place of consecration = [[Lyon]], [[Archdiocese of Lyon]], [[France]]
+| elevated by           = [[Pope Gregory X]]
+| date of elevation     = 3 June 1273
+| sources               = <ref>{{Cite web|url=http://www.catholic-hierarchy.org/bishop/bbnvnt.html|title = St. Bonaventura (Giovanni) Cardinal &#91;Catholic-Hierarchy&#93;}}</ref>
+}}
+}}
+}}
+{{scholasticism}}
+
+'''Bonaventure''' {{post-nominals|list= [[Order of Friars Minor|OFM]]}} ({{IPAc-en|ˈ|b|ɒ|n|ə|v|ɛ|n|tʃ|ər|,_|ˌ|b|ɒ|n|ə|ˈ|v|ɛ|n|tʃ|ər}} {{respell|BON|ə|ven|chər|,_|-|VEN|-}}; {{langx|it| Bonaventura da Bagnoregio}} {{IPA|it|ˌbɔnavenˈtuːra da (b)baɲɲoˈrɛːdʒo|}}; {{langx|la| Bonaventura de Balneoregio}}; born '''Giovanni di Fidanza'''; 1221&nbsp;– 15 July 1274)<ref name=walsh>{{cite book |editor=M. Walsh|title=Butler's Lives of the Saints|url= https://archive.org/details/butlerslivesofsa00butl|location=New York|publisher=HarperCollins|year=1991|page=[https://archive.org/details/butlerslivesofsa00butl/page/216 216]|isbn=9780060692995}}</ref> was an Italian Catholic [[Franciscan]] [[bishop]], [[Cardinal (Catholic Church)|cardinal]], [[Scholasticism|scholastic]] [[theologian]] and [[philosopher]].
+
+The seventh [[Minister General (Franciscan)|Minister General of the Order of Friars Minor]], he also served for a time as [[Roman Catholic Suburbicarian Diocese of Albano|Bishop of Albano]]. He was [[canonised]] on 14 April 1482 by [[Pope Sixtus IV]] and declared a [[Doctor of the Church]] in 1588 by [[Pope Sixtus V]], becoming known as the "Seraphic Doctor" ({{langx|la| Doctor Seraphicus|links=no}}). His [[Calendar of saints|feast day]] is 15 July.
+
+Many writings from the [[Middle Ages]] once attributed to him have been subsequently re-classified under the name "[[Pseudo-Bonaventure]]".
+
+==Life==
+He was born at [[Civita di Bagnoregio]], not far from [[Viterbo]], then part of the [[Papal States]]. Almost nothing is known of his childhood, other than the names of his parents, Giovanni di Fidanza and Maria di Ritella.<ref>Robinson, Paschal (1907). "[[wikisource:Catholic Encyclopedia (1913)/St. Bonaventure|St. Bonaventure"]]. In ''Catholic Encyclopedia''. '''2'''. New York: Robert Appleton Company.</ref><ref>{{cite book|last1=Hammond|first1=Jay M.|editor1-last=Marthaler|editor1-first=Bernard L.|title=[[New Catholic Encyclopedia]]|date=2003|publisher=Thomson/Gale in association with the [[Catholic University of America]]|location=Detroit|isbn=0-7876-4006-9|volume=2|page=479|edition=2nd.|chapter=Bonaventure, St.}}</ref> Bonaventure reports that in his youth he was saved from an untimely death by the prayers of [[Francis of Assisi]], which is the primary motivation for Bonaventure's writing the ''vita''.<ref>{{cite book |last1=Bonaventure |title=The Life of Saint Francis |url=https://archive.org/details/lifesaintfranci02bonagoog |date=1904 |publisher=J. M. Dent and Co. |location=London |page=prol. 3}}</ref>
+
+He entered the [[Franciscan Order]] in 1243 and studied at the [[University of Paris]], possibly under [[Alexander of Hales]], and certainly under Alexander's successor, [[John of Rochelle]].<ref name="EB1911">Adamson, Robert (1911). "[[wikisource:1911 Encyclopædia Britannica/Bonaventura, Saint|Bonaventura, Saint]]". In Chisholm, Hugh (ed.). ''Encyclopædia Britannica''. '''4.''' (11th ed.). Cambridge University Press. pp. 197-198.</ref> In 1253 he held the Franciscan chair at Paris. A dispute between seculars and mendicants delayed his reception as Master until 1257, where his degree was taken in company with [[Thomas Aquinas]].<ref name=Medieval999>{{cite book|last=Knowles|first=David|title=The Evolution of Medieval Thought|edition=2nd|publisher=Longman Group|location=Edinburgh Gate|year=1988|isbn=978-0-394-70246-9|url=https://archive.org/details/isbn_0394702468}}</ref> Three years earlier his fame had earned him the position of lecturer on ''[[Sentences|The Four Books of Sentences]]''—a book of theology written by [[Peter Lombard]] in the twelfth century—and in 1255 he received the degree of master, the medieval equivalent of doctor.<ref name=EB1911/>
+
+After having successfully defended his order against the reproaches of the anti-[[Mendicant orders|mendicant]] party, he was elected Minister General of the Franciscan Order. On 24 November 1265, he was selected for the post of [[Archbishop of York]]; however, he was never [[consecrated]] and resigned the appointment in October 1266.<ref name=Handbook282>{{cite book |author1=Fryde, E. B. |author2=Greenway, D. E. |author3=Porter, S. |author4=Roy, I. |title=Handbook of British Chronology|edition=3rd|publisher=Cambridge University Press |location=Cambridge |year=1996 |isbn=0-521-56350-X|pages=282 }}</ref>
+
+During his tenure, the General Chapter of Narbonne, held in 1260, promulgated a decree prohibiting the publication of any work out of the order without permission from superiors. This prohibition has induced modern writers to pass severe judgment upon [[Roger Bacon]]'s superiors, who were assumed to be envious of Bacon's abilities. However, the prohibition enjoined on Bacon was a general one, which extended to the whole order. Its promulgation was not directed against him, but rather against [[Gerard of Borgo San Donnino]]. In 1254 Gerard had published without permission a work, ''Introductorius in Evangelium æternum'' (''An Introduction to the Eternal Gospel'') that was judged heretical within a year. Thereupon the General Chapter of Narbonne promulgated their decree, identical with the "constitutio gravis in contrarium" Bacon speaks of. The prohibition was rescinded in Roger's favor unexpectedly in 1266.<ref name=witzel>{{cite encyclopedia |url=http://www.newadvent.org/cathen/13111b.htm |last=Witzel |first=Theophilus |title=Roger Bacon |encyclopedia=The Catholic Encyclopedia|volume=13 |location=New York |publisher=Robert Appleton Company |year=1912 |access-date=12 February 2014}}</ref>
+
+[[File:Coat of arms of Saint Bonvanture.svg|200px|thumb|right|Bonaventure's coat of arms of Cardinal Bishop of Albano]]
+
+Bonaventure was instrumental in procuring the election of [[Pope Gregory X]], who rewarded him with the title of [[Cardinal Bishop]] of [[Roman Catholic Suburbicarian Diocese of Albano|Albano]], and insisted on his presence at the great [[Second Council of Lyon]] in 1274.<ref name=EB1911/> There, after his significant contributions led to a union of the Greek and Latin churches, Bonaventure died suddenly and under suspicious circumstances. The 1913 edition of the ''[[Catholic Encyclopedia]]'' has citations that suggest he was poisoned, but no mention is made of this in the 2003 second edition of the [[New Catholic Encyclopedia]].
+
+He steered the Franciscans on a moderate and intellectual course that made them the most prominent order in the Catholic Church until the coming of the Jesuits. His theology was marked by an attempt completely to integrate faith and reason. He thought of Christ as the "one true master" who offers humans knowledge that begins in faith, is developed through rational understanding, and is perfected by mystical union with God.<ref name=noone>{{Cite web|url=https://plato.stanford.edu/archives/win2010/entries/bonaventure/|title=Saint Bonaventure|first1=Tim|last1=Noone|first2=R. E.|last2=Houser|website=plato.stanford.edu|date=2010 }}</ref>
+
+===Relics===
+In the year 1434, 160 years after his death, his body was moved to a new church that was considered more fitting. Upon doing so, the head was found to be entirely incorrupt. "The hair, lips, teeth, and tongue were perfectly preserved and retained their natural colour. The people of Lyon were profoundly affected by this miracle, and they chose Bonaventure for the patron of their city. The movement, already afoot, to obtain his canonization received thereby a new and powerful impetus."  However, a century later in 1562, the city of Lyon was captured by [[Huguenots]], who burned Bonaventure's body in the public square. In the 19th century, during the "[[dechristianization of France during the French Revolution|dechristianization of France]]" during the French Revolution, the urn containing the incorrupt head was hidden, after which the church was razed to the ground. The urn has never been recovered.<ref>{{cite web |last1=Costelloe |first1=Laurence |title=Saint Bonaventure |url=https://www.gutenberg.org/files/33448/33448-h/33448-h.htm |website=Project Gutenberg |access-date=15 July 2021}}</ref> The only extant relic of Bonaventure is the arm and hand with which he wrote his ''Commentary on the Sentences'', which is now conserved at Bagnoregio, in the parish church of St. Nicholas.<ref>{{cite book |author=Laurence Costelloe |publisher=Longmans, Green & Company |year=1911 |url=https://archive.org/details/saintbonaventur00costgoog |page=[https://archive.org/details/saintbonaventur00costgoog/page/n76 54] |title=Saint Bonaventure: The Seraphic Doctor, Minister-general of the Franciscan Order, Cardinal Bishop of Albano}}</ref>
+
+==Theology and works==
+[[File:Bonaventura - Legenda maior, MCCCCLXXVII adi VI del mese de februario e stata impressa questa opera - 2360911 ib00890000 Scan00008.jpg|thumb|Legenda maior, 1477]]
+
+===Writings===
+Bonaventure was formally [[canonised]] in 1482 by the Franciscan [[Pope Sixtus IV]], and ranked along with Thomas Aquinas as the greatest of the [[Doctors of the Church]] by another Franciscan, [[Pope Sixtus V]], in 1587. Bonaventure was regarded as one of the greatest philosophers of the Middle Ages.<ref name=robinson>{{cite encyclopedia |url=http://www.newadvent.org/cathen/02648c.htm |last=Robinson |first=Paschal |title=St. Bonaventure |encyclopedia=The Catholic Encyclopedia |volume=2 |location=New York |publisher=Robert Appleton Company |year=1907 |access-date=5 January 2013}}</ref> His works, as arranged in the most recent Critical Edition by the Quaracchi Fathers ([[Collegio S. Bonaventura]]), consist of a ''Commentary on the Sentences of Lombard'', in four volumes, and eight other volumes, including a ''Commentary on the Gospel of St Luke'' and a number of smaller works; the most famous of which are ''The Mind's Road to God'' (''Itinerarium mentis in Deum''), an outline of his theology or ''Brief Reading'' (''Breviloquium''), ''Reduction of the Arts to Theology'' (''De reductione artium ad theologiam''), and Soliloquy on the Four Spiritual Exercises (''Soliloquium de quatuor mentalibus exercitiis''), ''The Tree of Life'' (''Lignum vitae''), and ''The Triple Way'' (''De Triplici via''), the latter three written for the spiritual direction of his fellow Franciscans.{{citation needed|date=November 2022}}
+
+The German philosopher Dieter Hattrup denies that ''Reduction of the Arts to Theology'' was written by Bonaventure, claiming that the style of thinking does not match Bonaventure's original style.<ref>{{cite book |first=Dieter |last=Hattrup|title=Ekstatik der Geschichte. Die Entwicklung der christologischen Erkenntnistheorie Bonaventuras|location=Paderborn|publisher= Schöningh|year= 1993|isbn=3-506-76273-7|language=de}}</ref> His position is no longer tenable given recent research: the text remains "indubitably authentic".<ref>{{cite book|last1=Schlosser|first1=Marianne|page=12. n.7|chapter=Bonaventure: Life and Works|quote=This treatise has always been recognized as indubitably authentic. A few years ago, Dieter Hattrup voiced his doubts: 'Bonaventura zwischen Mystik und Mystifikation. Wer ist der Autor von De reductione?' ''Theologie und Glaube'' 87 (1997): 541–562. However, the recent research of Joshua Benson indicates the text's authenticity: 'Identifying the Literary Genre of the De reductione artium ad theologiam: Bonaventure's Inaugural Lecture at Paris', ''Franciscan Studies'' 67 (2009): 149–178.|editor1-last=Hammond|editor1-first=Jay M.|editor2-last=Hellmann|editor2-first=J. A. Wayne|editor3-last=Goff|editor3-first=Jared|title=A Companion to Bonaventure|series=Brill's Companions to the Christian Tradition|date=2013|publisher=Brill|location=Boston|isbn=978-90-04-26072-6}}</ref><ref>{{cite journal|title=Identifying the Literary Genre of the "De reductione artium ad theologiam": Bonaventure's Inaugural Lecture at Paris|journal=Franciscan Studies|date=2009|volume=67|pages=149–178|jstor=i40092600 |publisher=Franciscan Institute Publications|doi=10.1353/frc.0.0031|s2cid=191451067|last1=Benson|first1=Joshua C.|issue=1 }}</ref>
+
+A work that for many years was falsely attributed to Bonaventure, ''De septem itineribus aeternitatis'', was actually written by [[Rudolf von Biberach]] ({{Circa|1270}} – 1329).<ref>{{cite journal|last1=Hindsley|first1=Leonard P.|title=Reviewed Work: De septem itinerabus aeternitatis. Mystik in Geschichte und Gegenwart, Abteilung I, Christliche Mystik Band 1 & 2 by Rudolf von Biberach, edited and translated by Margot Schmidt|journal=Mystics Quarterly|date=March 1990|volume=16|issue=1|pages=48–50|jstor=20716971|publisher=Penn State University Press}}</ref>
+
+For [[Isabelle of France (saint)|Isabelle of France]], the sister of King [[Louis IX of France]], and her monastery of [[Poor Clares]] at Longchamps, Bonaventure wrote the treatise ''Concerning the Perfection of Life''.<ref name=walsh/>
+
+The ''Commentary on the'' ''Sentences'', written at the command of his superiors when he was twenty-seven,<ref name=robinson/> is Bonaventure's major work and most of his other theological and philosophical writings are in some way dependent on it. However, some of Bonaventure's later works, such as the ''[[Collationes in Hexaemeron|Lectures on the Six Days of Creation]]'', show substantial developments beyond the ''Sentences''.<ref>Ratzinger, J. (1971) ''Theology of History in St. Bonaventure'', trans. Zachary Hayes, Chicago: Franciscan Herald Press</ref><ref>{{cite journal|author=White, J.|title=St. Bonaventure and the problem of doctrinal development|date=2011|journal=American Catholic Philosophical Quarterly|volume=85|number=1|pages=177–202|doi=10.5840/acpq201185110|url=https://www.academia.edu/2150520}}</ref>
+
+===Philosophy===
+{{Catholic philosophy}}
+Bonaventure wrote on almost every subject treated by the Scholastics (see [[Scholasticism]]) and his writings are substantial. A great number of them deal with faith in Christ, God and theology. No work of Bonaventure's is exclusively philosophical, a striking illustration of the mutual interpenetration of philosophy and theology that is a distinguishing mark of the Scholastic period.<ref name=robinson/>
+
+Much of Bonaventure's philosophical thought shows a considerable influence by [[Augustine of Hippo]], so much so that De Wulf considers him the best medieval representative of [[Augustinianism]]. Bonaventure adds Aristotelian principles to the Augustinian doctrine, especially in connection with the illumination of the intellect and the composition of [[human being]]s and other living creatures in terms of matter and form.<ref>{{Cite web |url=http://www.franciscan-sfo.org/bonavent.htm |title=Brother John Raymond, "The Theory of Illumination in St. Bonaventure" |access-date=2013-01-04 |archive-url=https://web.archive.org/web/20150224134712/http://www.franciscan-sfo.org/bonavent.htm |archive-date=2015-02-24 |url-status=dead }}</ref> Augustine, who had introduced into the west many of the doctrines that would define scholastic philosophy, was a critically important source of Bonaventure's Platonism. The mystic [[pseudo-Dionysius the Areopagite]] was another notable influence.
+
+In philosophy, Bonaventure presents a marked contrast to his contemporaries, [[Roger Bacon]], [[Albert the Great]], and [[Thomas Aquinas]]. While these may be taken as representing, respectively, physical science yet in its infancy, and [[Aristotle|Aristotelian]] scholasticism in its most perfect form, Bonaventure presents the mystical and [[Plato]]nizing mode of speculation that had already, to some extent, found expression in [[Hugh of St Victor|Hugo]] and [[Richard of St. Victor]], [[Alexander of Hales]], and in [[Bernard of Clairvaux]]. To him, the purely intellectual element, though never absent, is of inferior interest when compared with the living power of the affections or the heart.<ref name=EB1911/>
+
+[[File:Francisco de Zurbarán 012.jpg|thumb|right|Bonaventure receives the envoys of the [[Byzantine Emperor]] at the [[Second Council of Lyon]].]]
+
+Like Thomas Aquinas, with whom he shared numerous profound agreements in matters theological and philosophical, he combated the Aristotelian notion of the eternity of the world vigorously (though he disagreed with Aquinas about the abstract possibility of an eternal universe). Bonaventure accepts the general Christian Neoplatonic doctrine, found in Augustine and pseudo-Dionysius, that "forms" do not exist as subsistent entities, but as ideals, predefinitions, archetypes, or in Bonaventure's words: "exemplars", in the mind of God, according to which actual things were formed. This conception has no slight influence upon his philosophy. Physicist and philosopher [[Max Bernhard Weinstein]] described  Bonaventure as a "half-mystic" and wrote that he showed "strong [[Pandeism|pandeistic]] inclinations".<ref>Max Bernhard Weinsten, ''Welt- und Lebensanschauungen, Hervorgegangen aus Religion, Philosophie und Naturerkenntnis'' (''World and Life Views, Emerging from Religion, Philosophy and Perception of Nature'') (1910), page 303: "Andere Ganz- oder Halbmystiker, wie den Alanus (gegen 1200), seinerzeit ein großes Kirchenlicht und für die unseligen Waldenser von verhängnisvoller Bedeutung, den Bonaventura (1221 im Kirchenstaate geboren), der eine Reise des Geistes zu Gott geschrieben hat und stark pandeistische Neigungen zeigt, den Franzosen Johann Gersan (zu Gersan bei Rheims 1363 geboren) usf., übergehen wir, es kommt Neues nicht zum Vorschein."</ref>
+
+===Theology===
+Emanationism, exemplarism, and consummation are explicitly listed by Bonaventure as the core principles of theology, all of which are heavily Platonic themes and carry equally Platonic subtopics and discussions but yet are all rooted in the second Person of the Trinity, the Son, incarnate as Jesus Christ, who is the 'principio' of divine exemplars, from which creation emanates and by which creation is made intelligible and which creation finds as its goal.<ref>{{Cite book|last=Cullen|first=Christopher M.|url=https://worldcat.org/identities/lccn-n79043613|title=Bonaventure|date=2006|publisher=Oxford University Press|isbn=0-19-514925-4|location=Oxford|pages=60|chapter=4. Natural Philosophy}}</ref> Creation is two-fold, expressing the divine truth, the divine exemplar in the Word of God; it "speaks" of that which it is the likeness and subsists in itself and in the Son.<ref>(St. Bonaventure, In I Sent., d. 39 a. I q. I ad 3)</ref> Bonaventure's mature work, the [[Collationes in Hexaemeron]], takes exemplarism, drawn out from his transformation of Platonic Realism, as the basis for vital points of Christian theological dogma: God's love of creation, God's foreknowledge, providence and divine governance, the unconstrained but perfect will of God, divine justice and the devil, the immortality of and uniqueness of human soul, and the goodness and beauty of creation. This also serves as his repudiation of Arab peripatetic necessitarianism and pure Aristotelian identified by the Greek Fathers, if left uncorrected by Plato and Revelation which teach the same thing under different modes.<ref>St. Bonaventure - Collationes in Hexaemeron, Collatio VI. De Visione Prima, Tractatio Tertia, 1-8</ref><blockquote>Upon [rejection of exemplarism], there follows another [error], that is, that God has neither foreknowledge nor providence, since He does not have within Himself a rational justification of things by which He could know them. They also say that there are no truths concerning the future except that of necessary things. And from this it follows that all things come about either by chance or by necessity. And since it is impossible that things come about by chance, the Arabs conclude to absolute necessity, that is, that these substances that move the globe are the necessary causes of all things. From this it follows that truth is hidden, that is, the truth of government of worldly things in terms of pain and glory. If, indeed, these substances are inerrant movers, nothing is supposed concerning hell or the existence of the devil: neither did Aristotle ever suppose the existence of the devil, nor happiness after this life, as it appears. Here, then, there is a threefold error: a concealment of exemplarity, of divine providence and of world government.<ref>St. Bonaventure - Collationes in Hexaemeron, Collatio VI. De Visione Prima, Tractatio Tertia, 2</ref></blockquote>Like all the great scholastic doctors, Bonaventure  starts with the discussion of the relations between reason and faith. All the sciences are but the handmaids of theology; reason can discover some of the moral truths that form the groundwork of the Christian system, but other truths can only be received and apprehended through divine illumination. To obtain this illumination, the soul must employ the proper means, which are prayer; the exercise of the [[virtue]]s, whereby it is rendered fit to accept the divine light; and meditation that may rise even to ecstatic union with [[God]]. The supreme end of life is a union in [[contemplation]] or intellect or intense absorbing [[love]]; but it cannot be entirely reached in this life, and remains as a [[hope]] for the future.<ref name=EB1911/>
+
+Like Aquinas and other notable thirteenth-century philosophers and theologians, Bonaventure believed that it is possible to logically prove the existence of God and the immortality of the soul. In fact, unlike Aquinas, Bonaventure holds that reason can demonstrate the beginning of the world.<ref>{{cite book | chapter-url=https://plato.stanford.edu/entries/cosmological-argument/#HistOver | title=The Stanford Encyclopedia of Philosophy | chapter=Cosmological Argument | year=2022 | publisher=Metaphysics Research Lab, Stanford University }}</ref><ref>{{cite journal | url=https://www.pdcnet.org/acpq/content/acpq_1996_0070_0003_0361_0380 | doi=10.5840/acpq199670335 | title=Bonaventure and the Arguments for the Impossibility of an Infinite Temporal Regression | journal=American Catholic Philosophical Quarterly | date=August 1996 | volume=70 | issue=3 | pages=361–380 | last1=Davis | first1=Richard }}</ref> He offers several arguments for the existence of God, including versions of [[Anselm of Canterbury]]'s [[ontological argument]] and Augustine's argument from eternal truths. His main argument for the immortality of the soul appeals to humans' natural desire for perfect happiness, and is reflected in [[C.S. Lewis]]'s [[argument from desire]]. Contrary to Aquinas, Bonaventure did not believe that philosophy was an autonomous discipline that could be pursued successfully independently of theology. Any philosopher is bound to fall into serious error, he believed, who lacks the light of faith.<ref>Frederick Copleston, ''A History of Philosophy'', vol. 2 (Westminster, MD: Newman Press, 1950), p. 248.</ref>
+
+A master of the memorable phrase, Bonaventure held that philosophy opens the mind to at least three different routes humans can take on their journey to God. Non-intellectual material creatures he conceived as shadows and vestiges (literally, footprints) of God, understood as the ultimate cause of a world that philosophical reason can prove was created at a first moment in time. Intellectual creatures he conceived of as images and likenesses of God, the workings of the human mind and will leading us to God understood as illuminator of knowledge and donor of grace and virtue. The final route to God is the route of being, in which Bonaventure brought [[Anselm of Canterbury|Anselm]]'s argument together with Aristotelian and [[Neoplatonism|Neoplatonic]] [[metaphysics]] to view God as the absolutely perfect being whose essence entails its existence, an absolutely simple being that causes all other, composite beings to exist.<ref name=noone/>
+
+Bonaventure's thoughts on our ability to see the [[Trinity]] in creation, lost or hampered in [[Fall of man|the Fall]],<ref>Bonaventure, ''Disputed Questions on the Mystery of the Trinity'', 1, 2 concl.</ref> are recorded and praised by [[Pope Francis]] in his [[encyclical letter]], ''[[Laudato si']]'':{{quote|Saint Bonaventure went so far as to say that human beings, before sin, were able to see how each creature "testifies that God is three". The reflection of the Trinity was there to be recognized in nature "when that book was open to man and our eyes had not yet become darkened". [Bonaventure] teaches us that each creature bears in itself a specifically Trinitarian structure, so real that it could be readily contemplated if only the human gaze were not so partial, dark and fragile. In this way, he points out to us the challenge of trying to read reality in a Trinitarian key.<ref>Pope Francis, [https://www.vatican.va/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si_en.pdf Laudato si'], paragraph 239, published 24 May 2015, accessed 27 May 2024</ref>}}
+
+Bonaventure, however, is not only a meditative thinker, whose works may form good manuals of devotion; he is a [[Dogmatic theology|dogmatic theologian]] of high rank, and on all the disputed questions of scholastic thought, such as [[Universal (metaphysics)|universals]], matter, seminal reasons, the principle of individuation, or the [[intellectus agens]], he gives weighty and well-reasoned decisions. He agrees with [[Albertus Magnus|Albert the Great]] in regarding theology as a practical science; its truths, according to his view, are peculiarly adapted to influence the affections. He discusses very carefully the nature and meaning of the divine attributes; considers universals to be the ideal forms pre-existing in the divine mind according to which things were shaped; holds matter to be pure potentiality that receives individual being and determinateness from the formative power of God, acting according to the ideas; and finally maintains that the agent intellect has no separate existence. On these and on many other points of scholastic philosophy the "Seraphic Doctor" exhibits a combination of subtlety and moderation, which makes his works particularly valuable.<ref name=EB1911/>
+
+In form and intent the work of Bonaventure is always the work of a theologian; he writes as one for whom the only angle of vision and the proximate criterion of truth is the Christian faith. This fact affects his importance as a philosopher; when coupled with his style, it makes Bonaventure perhaps the least accessible of the major figures of the thirteenth century. This is true because philosophy interests him largely as a ''praeparatio evangelica'', as something to be interpreted as a foreshadow of or deviation from what God has revealed.<ref>http://maritain.nd.edu/jmc/etext/hwp219.htm McInerny, Ralph, ''A History of Western Philosophy'', Vol.II, Chapter 5, "St. Bonaventure: the Man and His Work", Jacques Maritain Center, Notre Dame University.</ref>
+
+==Canonisation==
+Bonaventure's feast day was included in the [[General Roman Calendar]] immediately upon his canonisation in 1482. It was at first celebrated on the second Sunday in July, but was moved in 1568 to 14 July, since 15 July, the anniversary of his death, was at that time taken up with the feast of [[Henry II, Holy Roman Emperor|Saint Henry]]. It remained on that date, with the rank of "double", until 1960, when it was reclassified as a feast of the third class. In 1969 it was classified as an obligatory [[Memorial (liturgy)|memorial]] and assigned to the date of his death, 15 July.<ref>{{cite book |title=Calendarium Romanum|publisher=Libreria Editrice Vaticana|year=1969|pages=97, 130}}</ref>
+
+He is the patron saint of [[Gastrointestinal tract#Lower gastrointestinal tract|bowel]] disorders.<ref>{{cite web | last=Online | first=Catholic | title=Patron Saints A-Z - Saints & Angels | website=Catholic Online | url=https://www.catholic.org/saints/patron.php | access-date=2019-11-12}}</ref><ref>{{cite book | last=Craughwell | first=T.J. | title=Heaven Help Us: 300 Patron Saints to Call Upon for Every Occasion | publisher=Book Sales | year=2016 | isbn=978-0-7858-3465-6 | url=https://books.google.com/books?id=dyS-DQAAQBAJ&pg=PA72 | access-date=2019-11-12 | page=72}}</ref>
+
+Bonaventure is [[Calendar of saints (Church of England)|remembered]] in the [[Church of England]] with a [[Commemoration (Anglicanism)|commemoration]] on [[July 15|15 July]].<ref>{{Cite web|title=The Calendar|url=https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/calendar|access-date=2021-03-27|website=The Church of England|language=en}}</ref>
+
+==Places, churches, and schools named in his honour==
+===United States===
+*[[St. Bonaventure University]], a Franciscan university, in [[Allegany, New York|Allegany]], [[New York (state)|New York]]
+*[[Mission San Buenaventura]] and the City of [[Ventura, California]], officially named ''San Buenaventura''
+*[[St. Bonaventure High School]] in [[Ventura, California]], United States
+*St. Bonaventure Catholic Church in Chicago, Illinois
+*[[St. Bonaventure Monastery]], a complex of religious buildings, built for the [[Order of Friars Minor Capuchin]], located in Detroit, Michigan. [[Solanus Casey]] served here as the monastery [[porter (doorkeeper)|porter]] from 1924 to 1946, meeting visitors at the friary door. The site is a popular [[pilgrimage]] site for [[Metro Detroit]] [[Catholics]].
+*Bonaventure Hall, in Sacred Heart Parish Catholic School, in [[Patterson, California]], [[United States]]
+*Bonaventure Residence Hall, in Viterbo University, in [[La Crosse, Wisconsin]], [[United States]]
+*Buenaventura Boulevard in [[Redding, California]]
+*St. Bonaventure Parish in Huntington Beach, [[California]]
+*San Buenaventura de los Tres Arrollos, a lost settlement in the far NE of [[Custer County, Colorado]]
+*San Buenaventura de Cochiti built in 1628 in [Pueblo de Cochiti, New Mexico] who remains the patron saint for Native American Village who celebrate on 14 July
+*[http://stbonaventure-stbenedictthemoor-queens.org/ St. Bonaventure-St. Benedict the Moor (combined) parish, Jamaica, New York]
+*[http://stbonspaterson.org/  St. Bonaventure Church], in [[Paterson, New Jersey]].
+*San Jose St. Bonaventure Hospital, a fictional hospital that serves as a setting in American TV show ''[[The Good Doctor (American TV series)|The Good Doctor]]''
+*[http://stbonaventurechurch.com/  St. Bonaventure Catholic Church, Davie, Florida]
+*St. Bonaventure Catholic Church, elementary school, and cemetery, [[Columbus, Nebraska]]
+*St. Bonaventure Church, in [[Allegany, New York]]
+*St. Bonaventure Church, in [[Glenshaw, Pennsylvania]]
+*St. Bonaventure Catholic Community and Church, in [[Bloomington, Minnesota]]
+*St. Bonaventure Catholic Parish and School, in [[Huntington Beach, California]]
+*St. Bonaventure Catholic Church in [[Concord, California]]
+
+===Canada===
+*The town of [[Bonaventure, Quebec|Bonaventure]], [[Quebec]], [[Canada]]
+*[[Quebec Autoroute 10|Bonaventure Highway]] in Quebec
+*[[Place Bonaventure]] and the adjacent [[Bonaventure (Montreal Metro)|Bonaventure Metro Station]] in [[Montreal]], Quebec
+*[[Bonaventure Island]] and the [[Bonaventure River]] in the [[Gaspé Peninsula]] Region of Quebec
+*[[St. Bonaventure's College]], a private Roman Catholic school, in [[Newfoundland and Labrador]], Canada
+*St Bonaventure Catholic School, at [[Edwards Gardens]], [[Toronto]], [[Ontario]], Canada
+*St. Bonaventure School, [[Calgary|Calgary, Alberta]], Canada
+*St. Bonaventure Parish, [[Calgary|Calgary, Alberta]], Canada
+*Lake Bonaventure, in the community of [[Lake Bonavista]], [[Calgary|Calgary, Alberta]], Canada
+*St. Bonaventure Parish, Tracadie Cross, in [[Prince Edward Island]], Canada
+Bonaventure Drive/Bonaventure public school, in London, Ontario, Canada
+*Bonaventure Place, Debert Nova Scotia
+
+===Philippines===
+* St. Bonaventure Parish, Mauban, Quezon is the oldest settlement in the Philippines to have been placed under the protection of El Serafico Padre Doctor San Buenaventura in 1599. In 1647, an image of St. Bonaventure was miraculously found on a branch of a Malauban tree. In this same year, the priest formally recognized San Buenaventura as Patron del Pueblo de Mauban. It is recorded in the writings of Fray Huertas that in 1759 an unknown man wearing the colors of San Buenaventura defended the town from a moro attack. The people of Mauban have since regarded this as a miracle of their Santo Patron. The largest bell in Mauban that was recast in 1843 is named after San Buenaventura and is rung during the Consecration, Angelus and Plegaria.
+* St. Bonaventure chapel or Capilla de San Buenaventura in St. John the Baptist Parish, Liliw, Laguna, Philippines, erected in honor of the Seraphic Doctor, San Buenaventura because of the 1664 miracle were tears of blood were seen flowing from the eyes of the venerated image, which was witnessed by the Cura Parroco, Padre Juan Pastor and 120 witnesses; in recognition of this miracle, the first major bell in the church of Lilio was dedicated in honor of San Buenaventura
+* Barangay San Buenaventura, a village in San Pablo City, Philippines. Three small chapels can be found within the village in honour of Saint Bonaventura. The oldest chapel and the original image of Saint Bonaventura is located in Purok-3 Chapel
+* St. Bonaventure Parish, Balangkayan Eastern Samar, Philippines
+* San Buenaventura, barangay in the Municipality of Buhi, Camarines Sur, Philippines. Has a chapel dedicated to the namesake saint.
+* St. Bonaventure Chapel in Barangay San Buenaventura, Luisiana, Laguna.
+* St. Bonaventure Chapel in Barangay San Bueno, Sampaloc, Quezon.
+* St. Bonaventure Parish, Talavera, Toledo City, Cebu
+
+===United Kingdom===
+*[[St Bonaventure's Catholic School]], in [[Forest Gate]], [[London]], England
+*St Bonaventure's Catholic Church, and Primary School in [[Bishopston, Bristol]].
+*St Bonaventure's Catholic Church, in [[Welwyn Garden City]], England
+*St Bonaventure’s Local Missionary Area (the Catholic Parishes of Wythenshawe) in [[Wythenshawe]], England
+
+===Latin America===
+*The Municipality of [[Buenaventura, Colombia|Buenaventura]] on the Pacific Coast of [[Colombia]]
+*The cities of [[San Buenaventura, Chihuahua|San Buenaventura]] in [[Chihuahua (state)|Chihuahua]], [[San Buenaventura, Coahuila|San Buenaventura]] in [[Coahuila]], and [[San Buenaventura, State of Mexico|San Buenaventura]] in the [[state of Mexico]], all in [[Mexico]]
+
+===Southern Asia===
+*St. Bonaventure's Church, a 16th-century Portuguese church is situated on the beach in [[Madh Island|Erangal]] near Mumbai. The annual Erangal Feast held on second Sunday of January, celebrating the Feast day of St. Bonaventure, attracts thousands of people of all faiths to this scenic spot. The Feast day of St. Bonaventure is celebrated on 15 July every year.
+*[[St Bonaventure's High School]], a school in Hyderabad, Pakistan
+
+===Europe===
+Bonaventura College is a Catholic high school in [[Leiden]] in the [[Netherlands]].
+
+==Works==
+* Bonaventure Texts in Translation Series, St. Bonaventure, NY, Franciscan Institute Publications (15 volumes):
+** ''On the Reduction of the Arts to Theology'', Translation, Introduction and Commentary by [[Zachary Hayes (theologian)|Zachary Hayes]], OFM, vol. 1, 1996.
+** ''Journey of the Soul into God - Itinerarium Mentis in Deum'' translation and Introduction by Zachary Hayes, OFM, and Philotheus Boehner, OFM, vol. 2, 2002. {{ISBN|978-1-57659-044-7}}
+** ''Disputed Questions on the Mystery of the Trinity'', translated by Zachary Hayes, vol. 3, 1979. {{ISBN|978-1-57659-045-4}}.
+** ''Disputed Questions on the Knowledge of Christ'', translated by Zachary Hayes, vol. 4, 1992.
+** ''Writings Concerning the Franciscan Order'', translated by Dominic V. Monti, OFM, vol. 5, 1994.
+** ''Collations on the Ten Commandments'', translated by Paul Spaeth, vol. 6, 1995.
+** ''Commentary on Ecclesiastes'', translated by Campion Murray and Robert J. Karris, vol. 7, 2005.
+** ''Commentary on the Gospel of Luke'', translated by Robert J. Karris (3 vols), vol. 8, 2001–4.
+** ''Breviloquium'', translated by Dominic V. Monti, OFM, vol. 9, 2005.
+** ''Writings on the Spiritual Life'', [includes translations of ''The Threefold Way, On the Perfection of Life, On Governing the Soul'', and ''The Soliloquium: A Dialogue on the Four Spiritual Exercises'', the prologue to the ''Commentary on Book II of the Sentences of Peter Lombard'' and three short sermons: ''On the Way of Life, On Holy Saturday'', and ''On the Monday after Palm Sunday'', vol. 10, 2006.]
+** ''Commentary on the Gospel of John'', translated by Robert J. Karris, vol. 11, 2007.
+** ''The Sunday sermons of St. Bonaventure'', edited and translated by Timothy J. Johnson, vol. 12, 2008.
+** ''Disputed questions on evangelical perfection'', edited and translated by Thomas Reist and Robert J. Karris, vol. 13, 2008.
+** ''Collations on the seven gifts of the Holy Spirit'', introduced and translated by Zachary Hayes, vol. 14, 2008.
+** ''Defense of the mendicants'', translated by Jose de Vinck and Robert J. Karris, vol. 15, 2010.
+*''[http://catalog.hathitrust.org/Record/009034055 The Life of Christ]'' translated and edited by William Henry Hutchings, 1881.
+* {{cite book|title=The Journey of the Mind into God|trans-title=Itinerarium mentis in Deum|location=Indianapolis|publisher=Hackett|year=1993|isbn=978-0-8722-0200-9}}
+* ''On the Reduction of the Arts to Theology (De Reductione Artium ad Theologiam)'', translated by Zachary Hayes, Saint Bonaventure, NY: Franciscan Institute, 1996. {{ISBN|978-1-57659-043-0}}
+* ''Bringing forth Christ: five feasts of the child Jesus'', translated by Eric Doyle, Oxford: SLG Press, 1984.
+* {{cite book |title=The soul's journey into God; The tree of life; The life of St. Francis|url=https://archive.org/details/soulsjourneyinto00bona|translator-first1=Ewert |translator-last1=Cousins |edition=The Classics of Western Spirituality |year=1978 |publisher=Paulist Press |location=Mahwah, New Jersey |isbn= 0-8091-2121-2}}
+* ''The Mystical Vine: a Treatise on the Passion of Our Lord'', translated by a friar of SSF, London: Mowbray, 1955.
+* ''Life of St Francis of Assisi'', [[TAN Books]], 2010. {{ISBN|978-0-89555-151-1}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite encyclopedia
+ |title= Bonaventure, St. (C. 1217–1274)
+ |encyclopedia= [[The Encyclopedia of Philosophy]]
+ |year= 1967
+ |last= Wolter
+ |first= Allan B.
+ |publisher= MacMillan
+ |location= New York
+ |editor= [[Paul Edwards (philosopher)|Paul Edwards]]
+ |volume= I
+ |url= https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/bonaventure-st-c-1217-1274
+ |access-date= 19 July 2024
+}}
+* {{cite encyclopedia|last1=Hammond|first1=Jay M.|editor1-last=Marthaler|editor1-first=Bernard L.|encyclopedia=[[New Catholic Encyclopedia]]|date=2003|publisher=Thomson/Gale in association with the [[Catholic University of America]]|location=Detroit|isbn=0-7876-4006-9|volume=2|pages=479–493|edition=2nd.|title=Bonaventure, St.|url=https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/bonaventure-st}}
+* {{cite book|editor1-last=Hammond|editor1-first=Jay M.|editor2-last=Hellmann|editor2-first=J.A. Wayne|editor3-last=Goff|editor3-first=Jared|title=A Companion to Bonaventure|series=Brill's Companions to the Christian Tradition|date=2013|publisher=Brill|location=Boston|isbn=978-90-04-26072-6}}
+* LaNave, Gregory F. "Bonaventure", in Paul L. Gavrilyuk and [[Sarah Coakley]] (eds.), ''The Spiritual Senses: Perceiving God in Western Christianity'', Cambridge: Cambridge, University of Cambridge, 2011, 159–173.
+* {{cite book|last=Quinn|first=John Francis|title=The Historical Constitution of St. Bonaventure's Philosophy|date=1973|publisher=Pontificial Institute of Mediaeval Studies|location=Toronto}}
+* [[George Tavard|Tavard, George Henry]]. ''From Bonaventure to the Reformers'', Milwaukee: Marquette University Press, 2005 (Marquette Studies in Theology). {{ISBN|0-87462-695-1}} {{ISBN|9780874626957}}.
+* Tim Noone and R. E. Houser, "Saint Bonaventure." ''Stanford Encyclopedia of Philosophy''. [https://plato.stanford.edu/entries/bonaventure/ The Stanford Encyclopedia of Philosophy].
+* {{cite book|last=Dales|first=D. J.|title=Divine Remaking: St Bonaventure & the Gospel of Luke|date=2017|publisher=James Clarke & Co.|location=Cambridge|isbn=978-0227176535}}
+* {{cite book|last=Dales|first=D. J.|title=Way back to God: the Spiritual Theology of St Bonaventure|date=2019|publisher=James Clarke & Co.|location=Cambridge|isbn=978-0227176931}}
+*[in Italian] [https://www.doctorseraphicus.it/index.php/indice-delle-annate General index of the academic journal ''Doctor Seraphicus'' from 1954 to 2019]
+
+==External links==
+{{wikisource|Catholic Encyclopedia (1913)/St. Bonaventure|Bonaventure}}
+{{commons category|Bonaventura|Bonaventure}}
+{{wikisourcelang|la|Scriptor:Bonaventura}}
+{{wikiquote}}
+* {{DBI|title=BONAVENTURA da Bagnoregio, santo|first=Raoul|last=Manselli|volume=11|url=https://www.treccani.it/enciclopedia/bonaventura-da-bagnoregio-santo_(Dizionario-Biografico)}}
+* {{Britannica|72743|author=John Francis Quinn}}
+* [http://www.iep.utm.edu/bonaventure/ Bonaventure], ''[[Internet Encyclopedia of Philosophy]]''
+* [http://openn.library.upenn.edu/Data/0028/html/ms_002_003.html MS 2/3 Meditationes super Genesim; Novella materia super septem peccatis capitalibus at OPenn]
+* {{cite SEP |url-id=bonaventure |title=Saint Bonaventure |first=Tim |last=Noone |first2=R. E. |last2=Houser}}
+* {{Cite EB1911|wstitle= Bonaventura, Saint | volume= 4 |last1= Adamson |first1= Robert |author1-link= Robert Adamson (philosopher) | pages = 197&ndash;198 |short=1}}
+* [http://www.franciscan-archive.org/bonaventura/index.html ''St Bonaventure''] from the Franciscan Archive.
+* [http://www.documentacatholicaomnia.eu/20_50_1221-1274-_Bonaventura_Bagnoregis,_Sanctus.html S Bonaventura: Opera Omnia Peltiero Edente] (Latin original texts).
+* [http://www.stpetersbasilica.info/Exterior/Colonnades/Saints/St%20Bonaventure-71/StBonaventure.htm Colonnade Statue St Peter's Square]
+* {{Librivox author |id=12314}}
+*[https://permalinkbnd.bnportugal.gov.pt/records/?refine%5BCreator%5D%5B%5D=Boaventura%2C+Santo%2C+1221-1274 Works of Boaventura (Saint) at the National Library of Portugal] 
+
+{{s-start}}
+{{s-rel|ca}}
+{{s-bef |before= [[John of Parma]]}}
+{{s-ttl|title = [[Minister General of the Order of Friars Minor]]|years=1257–1274}}
+{{s-aft|after=[[Jerome of Ascoli]]}}
+{{s-bef | before=[[William Langton]] }}
+{{s-ttl| title=[[Archbishop of York]]| years=1265–1266}}
+{{s-aft | after=[[Walter Giffard]] }}
+{{s-end}}
+
+{{Archbishops of York}}
+{{Navboxes
+|list=
+{{Catholic philosophy footer}}
+{{Medieval Philosophy}}
+{{Platonists}}
+{{Catholic saints}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bonaventure}}
+[[Category:1221 births]]
+[[Category:1274 deaths]]
+[[Category:Augustinian philosophers]]
+[[Category:People from the Province of Viterbo]]
+[[Category:Italian Friars Minor]]
+[[Category:Catholic philosophers]]
+[[Category:Scholastic philosophers]]
+[[Category:Academic staff of the University of Paris]]
+[[Category:13th-century Italian philosophers]]
+[[Category:13th-century writers in Latin]]
+[[Category:13th-century Italian Roman Catholic theologians]]
+[[Category:13th-century Christian mystics]]
+[[Category:Rationalists]]
+[[Category:Cardinal-bishops of Albano]]
+[[Category:Italian Roman Catholic saints]]
+[[Category:13th-century Christian saints]]
+[[Category:Franciscan mystics]]
+[[Category:Franciscan bishops]]
+[[Category:Franciscan cardinals]]
+[[Category:Franciscan saints]]
+[[Category:Franciscan scholars]]
+[[Category:Franciscan spirituality]]
+[[Category:Franciscan theologians]]
+[[Category:Franciscan Doctors of the Church]]
+[[Category:Ministers General of the Order of Friars Minor]]
+[[Category:Neoplatonists]]
+[[Category:13th-century English Roman Catholic archbishops]]
+[[Category:Anglican saints]]
+[[Category:Systematic theologians]]
+[[Category:University of Paris alumni]]

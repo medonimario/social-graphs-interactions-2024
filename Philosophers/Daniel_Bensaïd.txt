@@ -1,0 +1,94 @@
+{{Short description|French philosopher (1946–2010)}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[20th-century philosophy]]
+|image            = DanielBensaïd abr08 copia.jpg
+|image_size       = 
+|caption          = Bensaïd at a conference in [[Barcelona]] in April 2008
+|name             = Daniel Bensaïd
+|birth_date       = {{birth date|1946|03|25|df=y}}
+|birth_place      = [[Toulouse]], France
+|death_date       = {{death date and age|2010|01|12|1946|03|25|df=y}}
+|death_place      = [[10th arrondissement of Paris]]
+|school_tradition = [[Trotskyism]]
+|alma_mater       = [[École normale supérieure de Saint-Cloud]]
+|main_interests   = 
+|notable_ideas    = 
+|influences       = {{hlist|[[Leon Trotsky]]|[[Marx]]|[[Auguste Blanqui]]<ref name="Versobooks" />|[[Georges Sorel]]<ref name="Versobooks" />|[[Charles Péguy]]<ref name="Versobooks"|[[Walter Benjamin]]<ref name="Versobooks" />|[[Nietzsche]]<ref name="Versobooks" />|[[Che Guevara]]<ref name="Versobooks" />}}  
+|signature        = 
+}}
+
+'''Daniel Bensaïd''' (25 March 1946 – 12 January 2010<ref name="liberation" />) was a [[philosopher]] and a leader of the [[Trotskyist]] movement in France. He became a leading figure in the student revolt of 1968, while studying at the [[Paris Nanterre University|University of Paris X: Nanterre]].
+
+== Life and career ==
+Bensaïd was born in [[Toulouse]], France, to a father who was a [[Sephardic Jew]] from [[Algeria]], and who had moved from [[Oran]], where he met Bensaïd's mother, to [[Vichy France|Vichy]] Toulouse.<ref name="guardianobit" /> In response to the [[Torture during the Algerian War#The 8 February 1962 Charonne massacre|8 February 1962 Charonne massacre]] of Algerians in [[Paris]], Bensaïd joined the [[Union of Communist Students]]. Irritated by the party orthodoxy he swiftly became part of a left opposition within the union, and was among the dissidents expelled from the party in 1966.<ref name="guardianobit" />
+
+In 1966, Bensaïd began studying at the [[École normale supérieure de Saint-Cloud]], where he helped found the ''Jeunesse Communiste Révolutionnaire'', which became the [[Revolutionary Communist League (France)|Ligue Communiste Révolutionnaire]] (LCR).<ref name="guardianobit" /> With [[Daniel Cohn-Bendit]] he helped to found the [[Movement of 22 March|Mouvement du 22 Mars]] (Movement of 22 March), which was involved in the protests of [[May 68|May 1968 in France]].<ref name="guardianobit" />
+
+Bensaïd became a leading theorist of the LCR and the [[United Secretariat of the Fourth International]], and a professor of philosophy at the [[University of Paris-VIII]]. He was also a Fellow at the [[International Institute for Research and Education]]. Upon his death, [[Tariq Ali]] described him as "France's leading Marxist public intellectual, much in demand on talkshows and writing essays and reviews in ''[[Le Monde]]'' and ''[[Libération]]''."<ref name="guardianobit" /> Bensaïd was known for his studies of [[Walter Benjamin]] and [[Karl Marx]], and a recent analysis of French [[postmodernism]].
+
+He died of [[cancer]] on 12 January 2010 at the age of 63, arising from the side effects of drugs used to treat [[HIV/AIDS|AIDS]], which he had had for the previous 16 years.<ref name="guardianobit" />
+
+== Criticism and debate ==
+Bensaïd and the current of Trotskyism represented by the Unified Secretariat of the Fourth International have come under attack from more orthodox Trotskyists for the strategy they have advanced of entering the "new social movements"; in particular, for seeing reform and revolution as a [[false dichotomy]], and proposing the formation of "broad parties," rather than forming parties of the traditional Leninist type. In one such critique, Luke Cooper criticised Bensaïd for arguing that—in certain specific circumstances—it maybe permissible to enter a capitalist government, and seek to use the existing state as an instrument of revolutionary transformation.<ref name="fifthinternational" /> Bensaïd also debated revolutionary strategy with other Fourth International members, and the British [[Socialist Workers Party (UK)|Socialist Workers Party]]'s International Secretary [[Alex Callinicos]].<ref name="internationalviewpoint" />
+
+== Bibliography ==
+* with [[Henri Weber]] : ''Mai 1968: Une répétition générale'' ([[François Maspero]], 1968, [https://gallica.bnf.fr/ark:/12148/bpt6k4803099s/f11.image.texteImage online edition])
+* ''La revolution et le pouvoir'' (Penser, 1976, {{ISBN|9782234005525}})
+* "In Memory of a Rebel". ''Telos'' 44, Summer 1980 ({{doi|10.3817/0680044193}}).
+* ''Walter Benjamin: sentinelle messianique'' (Plon, 1990, {{ISBN|9782350960432}})
+* ''La discordance des temps: essais sur les crises, les classes, l'histoire'' (Editions de la Passion, 1995, {{ISBN|9782906229266}})
+* ''Marx l'intempestif: Grandeurs et misères d'une aventure critique'' (Fayard, 1995, {{ISBN|9782213595047}}); English translation: ''A Marx for Our Times: Adventures and Misadventures of a Critique'' (Verso, 2002, {{ISBN|9781859847121}}) 
+* ''Le pari mélancolique'' (Fayard, 1997, {{ISBN|9782213599274}})
+* ''Qui est le juge?'' (Fayard, 1999, {{ISBN|9782213603506}})
+* ''Contes et légendes de la guerre éthique'' (Textuel, 1999, {{ISBN|9782909317939}})
+* ''Eloge de la résistance à l'air du temps'' (Textuel, 1999, {{ISBN|9782909317779}})
+* ''Le sourire du spectre'' (Michalon, 2000, {{ISBN|9782841861248}})
+* ''Les irréductibles'' (Textuel, 2001, {{ISBN|9782845970137}})
+* ''Une lente impatience'' (Stock, 2004, {{ISBN|9782234056596}}) - his autobiography; English translation: ''An Impatient Life: A Memoir'' (Verso, 2014, {{ISBN|9781781681084}}) 
+* ''Fragments mécréants. Mythes identitaires et république imaginaire'' (2005, {{ISBN|9782849380413}})
+
+== References ==
+{{reflist|refs=
+<ref name="guardianobit">Tariq Ali, [https://www.theguardian.com/world/2010/jan/14/daniel-bensaid-obituary "Daniel Bensaïd obituary"], ''[[The Guardian]]'', 14 January 2010.</ref>
+<ref name="Versobooks">{{Cite web|website=Versobooks|url=https://www.versobooks.com/en-gb/blogs/news/4135-an-open-history-blanqui-and-bensaid|title=An open history: Blanqui and Bensaid|language=en-US|access-date=2023-06-15}}</ref>
+<ref name="liberation">Laure Equy, "[http://www.liberation.fr/politiques/0101613356-le-theoricien-de-la-lcr-daniel-bensaid-est-mort Le théoricien de la LCR, Daniel Bensaïd, est mort] {{Webarchive|url=https://web.archive.org/web/20130419050917/http://www.liberation.fr/politiques/0101613356-le-theoricien-de-la-lcr-daniel-bensaid-est-mort |date=2013-04-19}}", ''[[Libération]]'', 12 January 2010.</ref>
+<ref name="fifthinternational">[http://www.fifthinternational.org/content/daniel-bensa%C3%AFd-and-%E2%80%9Creturn-strategy%E2%80%9D Daniel Bensaïd and the “Return of Strategy”]</ref>
+<ref name="internationalviewpoint">[http://www.internationalviewpoint.org/spip.php?article1349 "Hegemony and the United Front"]; [http://www.isj.org.uk/index.php4?id=287&issue=113 "The Return of Strategy".]</ref>
+}}
+
+== External links ==
+* [http://www.danielbensaid.org Daniel Bensaïd website - Multilingual website with articles, books, audio and video recordings by and of Daniel Bensaïd] {{Webarchive|url=https://web.archive.org/web/20130205035613/http://www.danielbensaid.org/ |date=2013-02-05 }}
+* [http://www.marxists.org/archive/bensaid/index.htm Daniel Bensaïd Archive at marxists.org]
+* [http://www.preavis.org/breche-numerique/auteur13.html All Daniel Bensaïd's articles (french language) on ''La Brèche Numérique'']
+* [http://www.internationalviewpoint.org/spip.php?auteur14 Daniel Bensaïd's articles in International Viewpoint]
+* {{cite news |title = Socialists from France speak out (Interviews with Daniel Bensaid and Alexandre Gaudillière) |newspaper=[[Socialist Worker]]|date=4 May 2002 |url=http://socialistworker.co.uk/art/5611/Socialists+from+France+speak+out |access-date=28 May 2015}}
+* [[Tariq Ali]], [https://www.theguardian.com/world/2010/jan/14/daniel-bensaid-obituary "Daniel Bensaïd obituary"], ''The Guardian'', 14 January 2010
+* [[Alex Callinicos]], [http://www.swp.org.uk/13/01/2010/daniel-bensaid-obituary "Daniel Bensaid Obituary"], SWP Online, 12 January 2010
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bensaid, Daniel}}
+[[Category:1946 births]]
+[[Category:2010 deaths]]
+[[Category:Deaths from cancer in France]]
+[[Category:AIDS-related deaths in France]]
+[[Category:Burials at Père Lachaise Cemetery]]
+[[Category:Critics of postmodernism]]
+[[Category:ENS Fontenay-Saint-Cloud-Lyon alumni]]
+[[Category:20th-century French Sephardi Jews]]
+[[Category:French male writers]]
+[[Category:French Marxists]]
+[[Category:French people of Algerian-Jewish descent]]
+[[Category:20th-century French philosophers]]
+[[Category:Atheist philosophers]]
+[[Category:Jewish atheists]]
+[[Category:Jewish philosophers]]
+[[Category:Jewish socialists]]
+[[Category:Marxist theorists]]
+[[Category:Marxist writers]]
+[[Category:May 1968 events in France]]
+[[Category:New Anticapitalist Party politicians]]
+[[Category:Politicians from Toulouse]]
+[[Category:Revolutionary Communist League (France) politicians]]
+[[Category:Academic staff of Paris 8 University Vincennes-Saint-Denis]]

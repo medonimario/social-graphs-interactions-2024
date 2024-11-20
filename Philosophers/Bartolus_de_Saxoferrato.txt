@@ -1,0 +1,113 @@
+{{Short description|Italian law professor}}
+{{Infobox person
+| name             = Bartolus de Saxoferrato
+| native_name      = Bartolo de Sassoferrato
+| native_name_lang = ita
+| image       = Portret van Bartolus de Saxoferrato Bartolus de Saxo Ferratio (titel op object), RP-P-1909-4351.jpg
+| image_size  = 220
+| alt         = 
+| caption     = 
+| birth_name  = 
+| birth_date  = 1313
+| birth_place = Venatura, [[Marche]], Italy
+| death_date  = 13 July 1357
+| death_place = [[Perugia]], Italy
+| nationality = Italian
+| other_names = 
+| occupation  = Law professor
+| alma_mater  = [[University of Perugia]] [[University of Bologna]]
+| known_for   = 
+}}
+
+'''Bartolus de Saxoferrato''' (Italian: ''Bartolo da Sassoferrato''; 1313{{snd}}13 July 1357) was an Italian law professor and one of the most prominent continental jurists of [[Medieval Roman Law]]. He belonged to the school known as the commentators or [[postglossator]]s. The admiration of later generations of civil lawyers is shown by the adage ''nemo bonus íurista nisi bartolista'' &mdash; no one is a good lawyer unless he is a Bartolist (i.e. a follower of Bartolus).
+
+==Life and works==
+Bartolus was born in the village of Venatura, near [[Sassoferrato]], in the Italian region of [[Marche]]. His father was Franciscus Severi, and his mother was of the Alfani family. He read civil law at the [[University of Perugia]] under [[Cino da Pistoia|Cinus]], and in the [[University of Bologna]] under [[Oldradus de Ponte|Oldradus]] and [[Jacobus de Belviso|Belviso]], and graduated to doctor of law in 1334. In 1339 he started teaching first in [[Pisa]], then in [[Perugia]]. He raised the character of Perugia's law school to a level with that of [[Bologna]], and this city made him an honorary citizen in 1348. In 1355, Emperor [[Charles IV, Holy Roman Emperor|Charles IV]] appointed him as his ''consiliarius''. In Perugia [[Baldus de Ubaldis]] and his brothers Angelus and Petrus became pupils of Bartolus. Bartolus died in Perugia at the age of 43, and was interred in the church of San Francisco with a monument inscribed with "Ossa Bartoli".<ref>{{Cite EB1911|wstitle=Bartolus|volume=3|pages=451-452}}</ref>
+[[File:Bartolo da Sassoferrato – Consilia, quaestiones et tractatus, 1547 – BEIC 6493497.jpg|thumb|upright|''Consilia, quaestiones et tractatus'', 1547]]
+
+Despite his short life, Bartolus left an extraordinary number of works. He wrote commentaries on all parts of the [[Corpus Juris Civilis]]. He is also the author of a large number of treatises on specific subjects. Among these treatises is his famous book on the law relating to rivers (''[[De fluminibus seu Tyberiadis]]''). There are also almost 400 legal opinions (''consilia'') written at the request of judges or private parties seeking legal advice.
+
+Bartolus developed many novel legal concepts, which became part of the civil law tradition. Among his most important contributions were those to the area of conflict of laws – a field of great importance in 14th century Italy, where every [[city-state]] had its own statutes and customs. Bartolus also dealt with a variety of [[constitutional law]] issues. In his treatise ''[[De insigniis et armis]]'' he discussed not only the [[law of Arms]] but also some problems of [[trademark]] law.
+
+Bartolus also wrote on political issues, including the legitimacy of [[Local government|city government]]s, partisan divisions and the regimes of Italy's petty tyrants.  His political thought balanced respect for the [[Holy Roman Empire|Empire]] with defense of the legitimacy of local Italian governments.
+
+Bartolus is believed to be the first theorist of [[international law]].<ref name="Nefff_2018">{{cite book|first1=Stephen|last1=C Neff|title=International Law|chapter-url=|chapter=A short history of international law|page=7|oclc=1052766069|isbn=9780198791836|publisher=Oxford University Press|year=2018|doi=10.1093/he/9780198791836.003.0001|access-date=May 21, 2021|archive-date=December 19, 2022|url-status=dead|url=https://www.academia.edu/42071394|archive-url=https://web.archive.org/web/20221219012617/https://www.academia.edu/42071394}}</ref> He and his disciple [[Baldus de Ubaldis|Baldus of Ubaldis]] defined a set of norms which enforced the reciprocal [[Independent city|independency]] and [[Autonomous area|autonomy]] of the city-states of northern Italy, but into the cornerstone of a common discipline established by the Empire.<ref name="Nefff_2018" /> While the city-states were internally self-governing, their mutual relationships were governed by the [[Holy Roman Emperor]].
+
+==Legacy==
+Already famous in his lifetime, Bartolus was later regarded as the greatest jurist after the renaissance of [[Roman law]]. 
+This is evident not only from the above-quoted saying, but also from the fact that statutes in [[Spain]] 1427/1433 and [[Portugal]] 1446 provided that his opinions should be followed where the Roman source texts and the [[Accursius|Accursian]] gloss were silent. 
+[[Lorenzo Valla]] was driven out of the [[University of Pavia]] in 1431 for his critique of Bartolus' Latin style.  
+Even in England, where the [[civil law (legal system)|civil law]] he had worked on was not applicable, Bartolus was held in high esteem. 
+He influenced civilian writers such as [[Alberico Gentili]] and [[Richard Zouch]].
+
+Due to Bartolus' fame, his name was used for the character of a lawyer in many Italian plays and other works, for example Dr. Bartolo in [[Pierre Beaumarchais]]' ''[[The Barber of Seville (play)]]'', and hence [[Gioachino Rossini]]'s opera ''[[The Barber of Seville]]'' and [[Wolfgang Amadeus Mozart|Mozart's]] ''[[The Marriage of Figaro]]''.
+
+== Works ==
+* {{Cite book|title=Consilia, quaestiones et tractatus|publisher=Thomas Berthelier|location=Lyon|year=1547|language=la|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=6493497}}
+* {{Cite book|title=De fluminibus seu Tyberiadis|volume=|publisher=|location=|year=|language=la|url=}}
+** {{Cite book|title=La Tiberiade di Bartole da Sasferrato del modo di diuidere l'alluuioni, l'isole, & gl'aluei|publisher=eredi Giovanni Gigliotti |location=Rome| year=1587|language=it |url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=4617927}}
+
+<gallery>
+File:Bartolo da Sassoferrato – De fluminibus, 1587 – BEIC 4617927.jpg|1587 edition in Italian of ''De fluminibus''
+File:Benvenutus-Straccha-De-mercatura-decisiones MG 1244.tif|Bartolus de Saxoferrato at the left on the title page of Benvenutus Straccha ([[Republic of Ancona#Commercial law|Benvenuto Stracca]]) : De mercatura decisiones, 1671
+File:Bartolus de Saxoferrato - Opera omnia, 1581 - 038.tif|''Opera omnia'', 1581 (Milano, Fondazione Mansutti)
+</gallery>
+
+===Catalogs of manuscripts===
+Catalogs:
+*Casamassima, Emanuele, ''Codices operum Bartoli a Saxoferrato recensiti'' 1, ''Iter Germanicum'' (Firenze: Olschki, 1971).
+*Dolezalek, Gero, ''Verzeichnis der Handschriften zum römischen Recht bis 1600'', 4 vols. (Frankfurt: Max-Planck-Institut für europäische Rechtsgeschichte, 1972).
+* García y García, Antonio, ''Codices operum Bartoli a Saxoferrato recensiti'' 2, ''Iter Hispanicum'' (Firenze: Olschki, 1973).
+* Izbicki, Thomas M., and Patrick Lally, "Texts Attributed to Bartolus de Saxoferrato in North American Manuscript Collections," ''Manuscripta'' 35 (1991): 146–155.
+* Izbicki, Thomas M., "Additional Texts Attributed to Bartolus de Saxoferrato in North American Manuscript Collections," ''Manuscripta'' 55 (2011): 146–155.
+* Izbicki, Thomas M., "Manuscript Works of Bartolus de Saxoferrato in the Vatican Library," ''Rivista Internazionale di Diritto Comune'' 23 (2012): 147-210. 
+*[[Krafzik, Sebastian]]: ''Die Herrschereinsetzung aus der Sicht des Bartolus von Sassoferato'' In: Journal on European History of Law, London: STS Science Centre, Vol. 1, No. 2, pp.&nbsp;39–43, (ISSN 2042-6402).
+*Kuttner,  Stephan, and Reinhard Elze, ''A Catalogue of Canon and Roman Law Manuscripts in the Vatican Library'', 2 vols. (Città del Vaticano: Biblioteca Apostolica Vaticana, 1986–1987).  Volume 1: Codices Vaticani latini 541-2299; volume 2: Codices Vaticani latini 2300-2746.
+
+==References==
+{{reflist}}
+
+==Sources==
+;Primary sources
+* Diego Quaglioni, ''Politica e diritto nel trecento italiano. Il "De tyranno" di Bartolo da Sassoferrato (1314–1357). Con l'edizione critica dei trattati "De Guelphis et Gebellinis", "De regimine civitatis", e "De tyranno"'', Olschki, Firenze, 1983.
+
+;Secondary sources
+* Maria Ada Benedetto (1958). ''Bartolo da Sassoferrato''. In ''Novissimo Digesto Italiano. Vol 2''. {{ISBN|88-02-01797-2}}. pp.&nbsp;279–280.
+* [[Friedrich Carl von Savigny]] (1850). ''Geschichte des römischen Rechts im Mittelalter. Vol. 6''. pp.&nbsp;137–184.
+* Walter Ullmann (1962). ''Bartolus and English Jurisprudence''. In ''Bartolo da Sassoferrato. Studi e Documenti per il VI centenario. Vol. 1''. pp.&nbsp;47–73.
+* [[Ephraim Emerton]], ''Humanism and Tyranny'' (Gloucester, Mass., P. Smith, 1964 [c1925]). Includes translations of Bartolus, "De tyrannia" and "De [[Guelphs and Ghibellines|Guelphis et Gebellinis]]".
+* Osvaldo Cavallar et al., ''A grammar of signs: Bartolo da Sassoferrato's Tract on insignia and coats of arms'' (Berkeley, CA: Robbins Collection, University of California at Berkeley, 1994).
+* Osvaldo Cavallar,"River of Law," in ''A Renaissance of conflicts: visions and revisions of law and society in Italy and Spain'', ed. John A Marino and Thomas Kuehn (Toronto, Ont.: Centre for Reformation and Renaissance Studies, 2004), pp.&nbsp;31–129. (Includes editions of parts of the ''Tyberiadis'' and of a ''consilium''.)
+*Anna T. Sheedy,  ''Bartolus on Social Conditions in the Fourteenth Century'' (New York: Columbia University Press, 1942).
+* C. N. S. Woolf, Bartolus of Sassoferrato: His Position in the History of Medieval Political Thought (Cambridge, 1913).
+
+==External links==
+* {{cite book |last= Rattigan |first= William |author-link= William Henry Rattigan |chapter= BARTOLUS |editor1= Macdonell, John  |editor1-link = John Macdonell (judge)|editor2= Manson, Edward William Donoghue  |title= Great Jurists of the World |place= London |publisher=  John Murray |year=  1913 |pages= [https://archive.org/details/in.ernet.dli.2015.13326/page/n58 45]-57 |url=https://archive.org/details/in.ernet.dli.2015.13326|access-date= 9 March 2019  |via= Internet Archive}}
+* {{DBI |title= BARTOLO da Sassoferrato |url=https://www.treccani.it/enciclopedia/bartolo-da-sassoferrato_(Dizionario-Biografico)|last= Calasso|first= Francesco|volume= 6}}
+*[http://cujasweb.univ-paris1.fr/book/app/resource/0607002939/#page/1/mode/2up ''In primam, secundam Codicis partem commentaria'']
+*[http://cujasweb.univ-paris1.fr/book/app/resource/0607003004/#page/1/mode/2up ''In primam, secundam Infortiati partem commentaria'']
+*[http://www.heraldica.org/topics/bartolo.htm Bartolo's ''De Insigniis et Armis'']
+*[https://web.archive.org/web/20070606211754/http://www.historia.unimi.it/scripts/diglib/diglib3.php?cod=19674 Commentary on Digestum Vetus part 1]
+*[https://web.archive.org/web/20070606220252/http://www.historia.unimi.it/scripts/diglib/diglib3.php?cod=19698 Commentary on Digestum Vetus, part 2]
+*[https://web.archive.org/web/20070606212721/http://www.historia.unimi.it/scripts/diglib/diglib3.php?cod=19700 Commentary on Digestum Novum, part 1]
+*[https://web.archive.org/web/20070606223905/http://www.historia.unimi.it/scripts/diglib/diglib3.php?cod=19705 Commentary on Digestum Novum, part 2]
+*[https://web.archive.org/web/20070606210025/http://www.historia.unimi.it/scripts/diglib/diglib3.php?cod=20835 Commentary on three books of Codex]
+*[https://web.archive.org/web/20070606225130/http://www.historia.unimi.it/scripts/diglib/diglib3.php?cod=19706 Commentary on Codex, part 1]
+*[https://web.archive.org/web/20070606222020/http://www.historia.unimi.it/scripts/diglib/diglib3.php?cod=19667 Commentary on Codex, part 2]
+*[http://individual.utoronto.ca/jwrobinson/#Translations Translations of his tracts ''On Guelphs and Ghibellines'' and ''On the Government of a City'']
+*[https://www.paralipomenaiuris.com/direito-comum-ii-comentadores Complete works by Bartolus at ParalipomenaIuris]
+
+{{Social and political philosophy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bartolus de Saxoferrato}}
+[[Category:1313 births]]
+[[Category:1357 deaths]]
+[[Category:People from the Province of Ancona]]
+[[Category:14th-century Italian jurists]]
+[[Category:Italian heraldists]]
+[[Category:14th-century writers in Latin]]
+[[Category:University of Perugia alumni]]
+[[Category:University of Bologna alumni]]
+[[Category:Academic staff of the University of Pisa]]
+[[Category:Academic staff of the University of Perugia]]

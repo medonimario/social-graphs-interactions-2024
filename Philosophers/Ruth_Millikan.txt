@@ -1,0 +1,90 @@
+{{Short description|American philosopher}}
+{{Use mdy dates|date=July 2023}} 
+{{Infobox philosopher
+| name             = Ruth Millikan
+| image            =
+| caption          =
+| birth_date       = 1933
+| birth_place      = Philadelphia
+| death_date       =
+| death_place      =
+| era              = [[Contemporary philosophy]]
+| region           = [[Western philosophy]]
+| school_tradition = [[Analytic philosophy|Analytic]]
+| main_interests   = [[Philosophy of biology]], [[philosophy of psychology]], [[philosophy of language]]
+| notable_ideas    = [[Biosemantics]]
+| signature        =
+}}
+'''Ruth Garrett Millikan''' (born 1933) is a leading [[United States|American]] [[philosopher]] of [[philosophy of biology|biology]], [[philosophy of psychology|psychology]], and [[philosophy of language|language]]. Millikan has spent most of her career at the [[University of Connecticut]], where she is now professor emerita of Philosophy.
+
+==Education and career==
+
+Millikan earned her BA from [[Oberlin College]] in 1955. At [[Yale University]] she studied under [[Wilfrid Sellars]]. Although W. Sellars  left for the [[University of Pittsburgh]] midway through Millikan's doctorate, she stayed at Yale and earned her PhD in 1969.  She and [[Paul Churchland]] are often considered leading proponents of "right wing" (i.e., who emphasize Sellars's scientific realism) Sellarsianism.
+
+Millikan taught half-time at [[Berea College]] from 1969 to 1972, Two-thirds time at [[Western Michigan University]] from 1972 to 1973, half-time at the [[University of Michigan]] from 1993 to 1996,<ref name="auto">[http://philosophy.uconn.edu/wp-content/uploads/sites/365/2014/02/Millikan-cv.pdf Millikan CV] uconn.edu</ref> but otherwise spent her entire career at the [[University of Connecticut]], where she is now [[professor emerita]]. She is married to American psychologist and cognitive scientist [[Donald Shankweiler]].<ref name="auto"/>
+
+She was awarded the [[Jean Nicod Prize]] and gave the ''Jean Nicod Lectures'' in [[Paris]] in 2002.<ref>{{Cite web|url=http://www.institutnicod.org/seminaires-colloques/conferences-et-prix-jean-nicod/archives/?lang=fr|title = Archives - INSTITUT JEAN NICOD}}</ref>  She was elected to the [[American Academy of Arts and Sciences]] in 2014.<ref>{{Cite web|url=https://www.amacad.org/multimedia/pdfs/alphalist2014.pdf|title=American Academy of Arts and Sciences 2014 fellows|accessdate=14 July 2023}}</ref> In 2017, she received both the [[Nicholas Rescher Prize for Systematic Philosophy]] from the [[University of Pittsburgh]]<ref>{{cite web |url=http://www.pitt.edu/~rescher/Rescher%20Prize.htm |title = Rescher Prize}}</ref> and the [[Rolf Schock Prize]] in Logic and Philosophy.<ref>{{cite web |url=http://www.rolfschockprizes.se/en-GB/pristagare2017/logikochfilosofi.55.html |url-status=dead |archive-url=https://web.archive.org/web/20170316024447/http://www.rolfschockprizes.se/en-GB/pristagare2017/logikochfilosofi.55.html |archive-date=2017-03-16 |title=Logic and Philosophy - RSP}}</ref>
+
+==Philosophical work==
+Millikan is most famous for the view which, in her 1989 paper of the same name, she refers to as "biosemantics".<ref>[http://philosophy.uconn.edu/wp-content/uploads/sites/365/2014/02/Biosemantics-Oxford-Handbook.pdf Biosemantics] Oxford Handbook</ref>  Biosemantics is a theory about something philosophers often refer to as "[[intentionality]]".  Intentionality is the phenomenon of things being 'about' other things, paradigm cases being thoughts and sentences.  A belief of mine that you will do my chores for me, for example, is about you and about my chores.  The same is true of a corresponding desire, intention or spoken or written command.
+
+In general, the goal of a theory of intentionality is to explain the phenomenon – things being 'about' other things – in other, more informative, terms.  Such a theory aims to give an account of what this 'aboutness' consists in.  Just as chemistry offers the claim "Water is H2O" as a theory of what water consists in, so biosemantics aims for a constitutive account of intentionality.  Such an account, Millikan stresses, must deal adequately with such hallmarks of mentality as error, confusion, and what looks like standing in a relation (the 'aboutness' relation) to something that doesn't exist.  For example:  one 'sees' the stick is bent, but realizes otherwise after pulling it from the water; the inexperienced prospector thinks he's struck it rich, but he's holding a lump of pyrite ("fool's gold"); the field marshal thinks about the next day's battle, the child wants to ride a unicorn, and the phrase "the greatest prime" is somehow 'about' a number that cannot possibly exist (there's a simple proof for this).
+
+As the name hints, Millikan's theory explains intentionality in terms that are broadly 'biological' or [[teleological]]. Specifically, she explains intentionality using the explanatory resources of natural selection:  what thoughts and sentences and desires are 'about' is ultimately elucidated by reference to what has been selected and what it has been selected for (i.e., what advantage it conferred on ancestors who possessed it). Where this selection is non-intentional, then what it is for is its 'proper function'.<ref>Millikan, Ruth Garrett, Language: A Biological Model, Oxford, 2005, 228pp, $29.95 (pbk), {{ISBN|0199284776}}.</ref>
+
+Equally important is what might be called the co-evolution of producer-mechanisms and consumer-mechanisms.  Millikan refers to the intertwined selection histories of these mechanisms to explain the hallmarks of mentality and to offer a wide range of positions on various matters of dispute in the philosophy of mind and language.
+
+In her article "Naturalist Reflections on Knowledge", Millikan defends the position that the justification of true beliefs through an explanation in accordance with evolution constitutes knowledge.
+
+== Publications ==
+
+===Books===
+
+* (1984) ''Language, Thought and Other Biological Categories'' ({{ISBN|978-0262631150}})
+* (1993) ''White Queen Psychology and Other Essays for Alice'' ({{ISBN|978-0262631624}})
+* (2000) ''On Clear and Confused Ideas'' [https://web.archive.org/web/20090218134905/http://philosophy.uconn.edu/department/millikan/clearct.htm pdf] ({{ISBN|978-0521625531}})
+* (2004) ''Varieties of Meaning: The 2002 Jean Nicod Lectures'' [https://web.archive.org/web/20090524091100/http://www.philosophy.uconn.edu/department/millikan/contents.htm pdf] ({{ISBN|978-0262633420}})
+* (2005) ''Language: A Biological Model'' [https://web.archive.org/web/20090510110424/http://www.philosophy.uconn.edu/department/millikan/langct.htm pdf] ({{ISBN|978-0199284771}})
+* (2012) ''Biosemantik Sprachphilosophische Aufsätze'', six essays with a foreword, translated by Alex Burri, Surkamp Verlag ({{ISBN|9783518295793}})
+* (2017) ''Beyond Concepts: Unicepts, Language, and Natural Information'' ({{ISBN|978-0198717195}})
+
+Note: the 1993, 2005 and 2012 books are collections of papers.
+
+===Other works===
+
+Millikan has also published many articles, many of which are listed and available [https://philosophy.uconn.edu/wp-content/uploads/sites/365/2020/06/CV-and-papers.pdf here].
+
+==See also==
+* [[Jean Nicod Prize|List of Jean Nicod Prize laureates]]
+* [[American philosophy]]
+* [[List of American philosophers]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://philosophy.uconn.edu/person/ruth-millikan/ Ruth Millikan's homepage at the University of Connecticut]
+
+{{Schock Prize laureates|state=uncollapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Millikan, Ruth}}
+[[Category:1933 births]]
+[[Category:Living people]]
+[[Category:20th-century American philosophers]]
+[[Category:21st-century American philosophers]]
+[[Category:Analytic philosophers]]
+[[Category:American women philosophers]]
+[[Category:American philosophers of language]]
+[[Category:American philosophers of mind]]
+[[Category:Jean Nicod Prize laureates]]
+[[Category:Yale University alumni]]
+[[Category:University of Connecticut faculty]]
+[[Category:Philosophers of biology]]
+[[Category:Philosophers of psychology]]
+[[Category:American philosophers of science]]
+[[Category:University of Michigan faculty]]
+[[Category:20th-century American women]]
+[[Category:21st-century American women]]
+[[Category:Oberlin College alumni]]

@@ -1,0 +1,107 @@
+{{Short description|English academic philosopher (born 1944)}}
+{{EngvarB|date=November 2017}}
+{{Use dmy dates|date=November 2017}}
+{{Infobox philosopher
+| image            = Simon Blackburn.jpg
+| caption          = Blackburn in 2017
+| region           = [[Western philosophy]]
+| era              = [[Contemporary philosophy]]
+| name             = Simon Blackburn
+| honorific_suffix = {{post-nominals|country=GBR|FBA|size=100%}}
+| birth_date       = {{birth date and age|df=y|1944|07|12}}
+| birth_place      = [[Chipping Sodbury]], [[Gloucestershire]], England
+| alma_mater       = {{unbulleted list | [[Trinity College, Cambridge]] | [[Churchill College, Cambridge]]}}
+| institutions     = {{unbulleted list | [[Trinity College, Cambridge]] | [[Pembroke College, Oxford]] | [[University of North Carolina at Chapel Hill]] | [[New College of the Humanities]]}}
+| school_tradition = [[Analytic philosophy]]
+| main_interests   = {{hlist| [[Ethics]] | [[Truth theory]] | [[Philosophy of language]]}}
+| academic_advisors = [[Casimir Lewy]]
+| doctoral_students = {{unbulleted list | [[E. J. Lowe (philosopher)|E. J. Lowe]] | [[Michael A. Smith (philosopher)|Michael A. Smith]]}}
+| notable_ideas    = [[Quasi-realism]]
+}}
+{{Listen|filename=Simon Blackburn BBC Radio4 In Our Time 10 Mar 2011 b015brn8.flac|title={{center|Simon Blackburn's voice}}|type=speech|description={{center|[[:File:Simon Blackburn BBC Radio4 In Our Time 10 Mar 2011 b015brn8.flac|Recorded March 2011]] from the BBC Radio 4 programme ''[[In Our Time (BBC Radio 4)|In Our Time]]''}}}}
+
+'''Simon Walter Blackburn''' {{post-nominals|country=GBR|FBA}} (born 12 July 1944) is an English academic philosopher known for his work in [[Meta-ethics|metaethics]], where he defends [[quasi-realism]], and in the [[philosophy of language]]. More recently, he has gained a large general audience from his efforts to popularise [[philosophy]].  He has appeared in multiple episodes of the documentary series ''[[Closer to Truth]]''.  During his long career, he has taught at [[Oxford University]], [[Cambridge University]], and [[University of North Carolina, Chapel Hill]].
+
+==Life and career==
+Blackburn was born on 12 July 1944 in [[Chipping Sodbury]], England. He attended [[Clifton College]] and went on to receive his bachelor's degree in philosophy in 1965 from [[Trinity College, Cambridge]]. He obtained his doctorate in 1969 from [[Churchill College, Cambridge]].<ref>{{cite web |last1= |title=Professor Simon Blackburn FBA |url=https://www.chu.cam.ac.uk/fellows/simon-blackburn-2/ |website=Churchill College Cambridge |access-date=23 September 2022 |quote=He was a slightly younger contemporary of Edward Craig as a Philosophy undergraduate at Trinity College (Cambridge), and he obtained his first position as a professional philosopher at Churchill College in 1967 when he became a Junior Research Fellow. Simon left Churchill for Oxford two years later.}}</ref>
+
+He retired as the professor of philosophy at the [[University of Cambridge]] in 2011, but remains a distinguished research professor of philosophy at the [[University of North Carolina at Chapel Hill]], teaching every fall semester. He is also a [[Oxbridge Fellow|Fellow]] of [[Trinity College, Cambridge]], and a member of the professoriate of [[New College of the Humanities]].<ref>{{cite web |url=https://www.nchum.org/faculty/professor-simon-blackburn |title=Professor Simon Blackburn &#124; NCH |access-date=2015-07-26 |url-status=dead |archive-url=https://archive.today/20150125184840/https://www.nchum.org/faculty/professor-simon-blackburn |archive-date=25 January 2015 |df=dmy-all }}</ref> He was previously a Fellow of [[Pembroke College, Oxford]] and has also taught full-time at the University of North Carolina as an Edna J. Koury Professor. He is a former president of the [[Aristotelian Society]], having served the 2009–2010 term. In 2004, he delivered the [[Gifford Lectures]] on ''Reason's Empire'' at the [[University of Glasgow]].<ref>{{cite web |title=The Glasgow Gifford Lectures |url=https://www.gla.ac.uk/events/lectures/gifford/ |website=gla.ac.uk |publisher=University of Glasgow}}</ref> He was elected a Fellow of the [[British Academy]] in 2002<ref>{{cite web |url=http://www.britac.ac.uk/fellowship/sections/index.cfm?member=4362 |title=Sections - British Academy |access-date=2015-07-27 |url-status=dead |archive-url=https://web.archive.org/web/20160304062531/http://www.britac.ac.uk/fellowship/sections/index.cfm?member=4362 |archive-date=4 March 2016 |df=dmy-all }}</ref> and a Foreign Honorary Fellow of the [[American Academy of Arts & Sciences]] in 2008.<ref>{{cite web|url=http://www.cam.ac.uk/news/cambridge-academics-elected-to-american-academy-of-arts-sciences|title=Cambridge academics elected to American Academy of Arts & Sciences|date=30 April 2008|website=cam.ac.uk|access-date=10 February 2018}}</ref>
+
+He is a former editor of the journal ''[[Mind (journal)|Mind]]''.<ref>{{cite journal |title=CHANGE OF EDITOR |journal=Mind |date=1 October 1984 |volume=XCIII |issue=372 |page=640 |url=https://academic.oup.com/mind/article-abstract/XCIII/372/640-a/994226 |access-date=23 September 2022}}</ref>
+
+==Philosophical work==
+In philosophy, he is best known as the proponent of [[quasi-realism]] in [[meta-ethics]]<ref name="plato.stanford.edu">{{Cite web |url=https://plato.stanford.edu/entries/moral-anti-realism/projectivism-quasi-realism.html |title=Moral Anti-Realism > Projectivism and Quasi-realism (Stanford Encyclopedia of Philosophy) |access-date=27 October 2019 |archive-date=1 May 2020 |archive-url=https://web.archive.org/web/20200501120536/https://plato.stanford.edu/entries/moral-anti-realism/projectivism-quasi-realism.html |url-status=dead }}</ref> and as a defender of neo-[[Humeanism#Metaethics|Humean]] views on a variety of topics. "The quasi-realist is someone who endorses an anti-realist metaphysical stance but who seeks, through philosophical maneuvering, to earn the right for moral discourse to enjoy all the trappings of realist talk."<ref name="plato.stanford.edu"/>
+
+In 2008 ''[[The Oxford Dictionary of Philosophy]]'', which was authored by Blackburn, was published.
+
+In 2014 Blackburn published ''Mirror, Mirror: The Uses and Abuses of Self-Love'', focusing on different philosophical aspects of self-love, discussing modern forms and manifestations of pride, amour-propre, integrity or self-esteem through various philosophical frameworks and ideas.<ref>{{Cite journal|author-link=Lorraine Besser-Jones|last=Besser-Jones|first=Lorraine|date=2014-09-01|title=Review of Mirror, Mirror: The Uses and Abuses of Self-Love|url=https://ndpr.nd.edu/news/mirror-mirror-the-uses-and-abuses-of-self-love/|journal=Notre Dame Philosophical Reviews|issn=1538-1617}}</ref>
+
+==Public philosophy==
+
+He makes occasional appearances in the British media, such as on [[BBC Radio 4]]'s ''[[The Moral Maze]]''.
+
+He is a patron of [[Humanists UK]] (formerly the British Humanist Association), and when asked to define his atheism, he said he prefers the label ''infidel'' over ''atheist'':
+{{blockquote|Being an infidel, that is, just having no faith, I do not have to prove anything. I have no faith in the Loch Ness Monster, but do not go about trying to prove that it does not exist, although there are certainly overwhelming arguments that it does not.<ref name="here">Philosophy Now's interview with Simon Blackburn, November 2013, accessible [http://philosophynow.org/issues/99/Simon_Blackburn here]</ref>}}
+
+He was one of 55 public figures to sign an open letter published in ''The Guardian'' in September 2010, stating their opposition to [[Pope Benedict XVI]]'s state visit to the UK,<ref>{{cite news|url=https://www.theguardian.com/world/2010/sep/15/harsh-judgments-on-pope-religion|title=Letters: Harsh judgments on the pope and religion|work=The Guardian|access-date=16 September 2010 | location=London | date=15 September 2010}}</ref> and has argued that "religionists" should have less influence in political affairs.<ref name="here"/>
+
+He was one of 240 academics to sign a letter to the Equality and Human Rights Commission opposing 'radical gender orthodoxy', published in The Sunday Times.<ref>{{Cite news|url=https://www.thetimes.co.uk/article/we-will-not-bow-to-trans-activist-bullies-on-campus-5hb6sjxc6|title=We will not bow to trans activist bullies on campus}}</ref>
+
+In a televised debate, Blackburn argued against the position of the author and podcaster [[Sam Harris]] that morality can be derived straightforwardly from science.<ref>{{cite web|url=https://www.youtube.com/watch?v=qtH3Q54T-M8| archive-url=https://web.archive.org/web/20130315012235/http://www.youtube.com/watch?v=qtH3Q54T-M8&gl=US&hl=en| archive-date=2013-03-15 | url-status=dead|title=The Great Debate - Can Science Tell Us Right From Wrong? (FULL)|last=Timothy Havener|date=27 April 2012|access-date=10 February 2018|via=YouTube}}</ref>
+
+== Books ==
+*''Reason and Prediction'' (1973). {{ISBN|0-521-08742-2}}.
+*''Spreading the Word'' (1984) – a text. {{ISBN|0-19-824650-1}}.
+*''Essays in [[Quasi-realism]]'' (1993). – a defence of quasi-realism as applied to ethicsISBN 0-19-508041-6 and {{ISBN|0-19-508224-9}}.
+*''[[The Oxford Dictionary of Philosophy]]'' ([1994] 2015), 3rd ed. {{ISBN|0-19-211694-0}}.
+*''Ruling Passions'' (1998) A defence of a NeoHumean theory of reasons and moral motivation. {{ISBN|0-19-824785-0}}.
+*''Truth'' (1999) (edited with Keith Simmons) – from Oxford Readings in Philosophy series. {{ISBN|0-19-875250-4}}.
+*''[[Think: A Compelling Introduction to Philosophy]]''. (1999) {{ISBN|0-19-210024-6}} and {{ISBN|0-19-969087-1}}.
+*''Being Good'' (2001) – an introduction to ethics. {{ISBN|0-19-210052-1}}.
+** Reprinted as ''Ethics: A Very Short Introduction'' in [[Oxford University Press]]' Very Short Introductions series. {{ISBN|0-19-280442-1}}.
+*''Lust'' (2004) – one of an [[Oxford University Press]] series covering the [[Seven Deadly Sins]]. {{ISBN|0-19-516200-5}}.
+*''Truth: A Guide'' (2005). {{ISBN|0-19-516824-0}}.
+*''Plato's Republic: A Biography'' (2006) – from Atlantic Books' Books That Shook the World series. {{ISBN|1-84354-350-8}}.
+*''How to read Hume'' (2008) – Granta Publications. {{ISBN|978-1-84708-033-2}}.
+*"What do we really know? -The Big Questions of Philosophy" – (2009) from Quercus. {{ISBN|978-1-78087-587-3}}.
+* {{cite book | year = 2001 | title = Ethics: A Very Short Introduction | place = Oxford | publisher = Oxford University Press | isbn = 978-0-19-280442-6 }}
+*''Mirror, Mirror: The Uses and Abuses of Self-Love'' (Princeton, NJ: [[Princeton University Press]], 2014)
+*''On Truth'' (2018) {{ISBN|978-0190867218}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{wikiquote}}
+* [http://www.phil.cam.ac.uk/~swb24/ Personal website]
+* [http://www.thoughtcast.org/philosophy/faith-and-philosophy-with-harvey-cox-and-simon-blackburn/ Simon Blackburn talks with Jenny Attiyeh on] Thoughtcast
+* [http://news.bbc.co.uk/1/hi/uk/3387169.stm BBC News story]
+* [https://web.archive.org/web/20040603013025/http://www.newstatesman.co.uk/aldaily/2003121502.htm Blackburn Essay 'In defence of lust' in The New Statesman]
+* [http://www.salon.com/news/feature/2007/06/25/plato_neocons/ Blackburn discusses Plato's Republic]
+* [http://colinmarshall.libsyn.com/index.php?post_id=408968 An interview with Simon Blackburn on ''The Marketplace of Ideas'']
+* [https://www.sms.cam.ac.uk/media/1113399 Interviewed by Alan Macfarlane 21 April 2009 (video)]
+* {{IMDb name|nm11647219}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Blackburn, Simon}}
+[[Category:1944 births]]
+[[Category:20th-century English philosophers]]
+[[Category:21st-century English philosophers]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Analytic philosophers]]
+[[Category:Cambridge University Moral Sciences Club]]
+[[Category:English humanists]]
+[[Category:Fellows of Pembroke College, Oxford]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of Churchill College, Cambridge]]
+[[Category:Alumni of Churchill College, Cambridge]]
+[[Category:Fellows of Trinity College, Cambridge]]
+[[Category:Living people]]
+[[Category:People educated at Clifton College]]
+[[Category:Bertrand Russell Professors of Philosophy]]
+[[Category:Presidents of the Aristotelian Society]]
+[[Category:University of North Carolina at Chapel Hill faculty]]
+[[Category:Mind (journal) editors]]
+[[Category:English monarchists]]

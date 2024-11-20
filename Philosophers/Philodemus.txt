@@ -1,0 +1,141 @@
+{{Short description|1st-century BC Greek Epicurean philosopher and poet}}
+{{Other uses|Philodemus (mythology)}}{{Infobox philosopher
+| name = Philodemus
+| region = [[Western philosophy]]
+| era = [[Hellenistic philosophy]]
+| image = 
+| caption = 
+| birth_date = {{circa|110 BC}}
+| birth_place = [[Gadara]], [[Coele-Syria]]
+| death_date = {{circa|40}} or 35 BC
+| death_place = [[Herculaneum]]
+| school_tradition = [[Epicureanism]]
+| main_interests =[[Atomism]], [[ethics]], [[history]], [[poetry]], [[rhetoric]]
+| notable_ideas = 
+| influences = [[Epicurus]], [[Zeno of Sidon]]
+| influenced = [[Virgil]], [[Horace]]
+}}
+'''Philodemus of Gadara''' ({{lang-grc-gre|Φιλόδημος ὁ Γαδαρεύς}}, ''Philodēmos'', "love of the people"; {{circa|110}} – prob. {{circa|40}} or 35 BC) was an [[Epicurean]] [[philosopher]]<ref>{{Cite book|last=Fitzgerald|first=John|url=https://books.google.com/books?id=weZ5DwAAQBAJ&q=the+Syrian+Epicurean+Philodemus+oxford&pg=PA21|title=Friendship, Flattery, and Frankness of Speech: Studies on Friendship in the New Testament World|date=1996-02-01|publisher=BRILL|isbn=978-90-04-26728-2|language=en}}</ref> and [[poet]]. He studied under [[Zeno of Sidon]] in [[Athens]], before moving to [[Rome]], and then to [[Herculaneum]]. He was once known chiefly for his poetry preserved in the ''[[Greek Anthology]]'', but since the 18th century, many writings of his have been discovered among the charred papyrus rolls at the [[Villa of the Papyri]] at [[Herculaneum]]. The task of excavating and deciphering these rolls is difficult, and work continues to this day. The works of Philodemus so far discovered include writings on [[ethics]], [[theology]], [[rhetoric]], [[music]], [[poetry]], and the history of various [[hellenistic philosophy|philosophical schools]]. Ethel Ross Barker suggested in 1908 that he was owner of the Villa of the Papyri Library.<ref name="Barker">{{cite web|url=https://archive.org/stream/buriedherculaneu00barkuoft#page/82/mode/2up|title=Buried Herculaneum|author=Ethel Ross Barker|year=1908}}</ref>
+
+==Life==
+Philodemus was born {{circa|110 BC}}, in [[Gadara]], [[Coele-Syria]] (in present-day [[Jordan]]).<ref name=Blank2019>Blank, David, [https://plato.stanford.edu/archives/spr2019/entries/philodemus/ "Philodemus"], The Stanford Encyclopedia of Philosophy (Spring 2019 Edition), Edward N. Zalta (ed.), accessed 3 June 2020.</ref> He studied under the Epicurean Phoenician philosopher, [[Zeno of Sidon]], the head ([[scholarch]]) of the [[Epicurean]] school, in Athens, before settling in [[Rome]] about 80 BC. He was a follower of Zeno, but an innovative thinker in the area of [[aesthetics]], in which conservative Epicureans had little to contribute. He was a friend of [[Lucius Calpurnius Piso Caesoninus (consul 58 BC)|Lucius Calpurnius Piso Caesoninus]], and was implicated in Piso's profligacy by [[Cicero]],<ref>[[Cicero]], ''In Pisonem'', 68–72</ref> who, however, praises Philodemus warmly for his philosophic views and for the ''elegans lascivia'' of his poems.<ref>cf. [[Horace]], ''Satires'', i. 2. 120</ref> Philodemus was an influence on Horace's ''[[Ars Poetica (Horace)|Ars Poetica]]''. The [[Greek anthology]] contains thirty-four of his [[epigram]]s, most of them love poems.
+
+==The Villa of the Papyri==
+There was an extensive library at the [[Villa of the Papyri]] at [[Herculaneum]], a significant part of which was formed by a library of Epicurean texts, some of which were present in more than one copy, suggesting the possibility that this section of the library was Philodemus' own. The contents of the villa were buried in the [[Eruption of Mount Vesuvius in 79 AD|eruption]] of [[Mount Vesuvius|Vesuvius]], 79 CE, and the papyri were carbonized and flattened but preserved.
+
+During the 18th-century exploration of the Villa by tunnelling, from 1752 to 1754 there were recovered carbonized [[Papyri from Herculaneum|papyrus]] rolls containing thirty-six treatises attributed to Philodemus. These works deal with music, rhetoric, ethics, signs, virtues and vices, the good king, and defend the Epicurean standpoint against the [[Stoicism|Stoics]] and the [[Peripatetic school|Peripatetic]]s. The first fragments of Philodemus from Herculaneum were published in 1824. In 2019, a scroll on the history of [[Plato]]'s [[Platonic Academy|Academy]], which had been unrolled and glued to cardboard in 1795, was analyzed using shortwave-infrared [[hyperspectral imaging]]. This not only revealed what was written on the back of the scroll, but also illuminated 150 new words on the front.<ref>{{cite web |last1=Kennedy |first1=Merrit |title=Ancient Greek Scroll's Hidden Contents Revealed Through Infrared Imaging |url=https://www.npr.org/2019/10/04/767309531/ancient-greek-scrolls-hidden-contents-revealed-through-infrared-imaging |website=NPR.org |access-date=October 5, 2019 |date=October 4, 2019}}</ref>
+
+"The difficulties involved in unrolling, reading, and interpreting these texts were formidable. Naples was not a particularly hospitable destination for classical scholars. Finally, the philosophies of the Hellenistic schools were neither well-known nor highly regarded until quite recently. These factors combined to cripple scholarly interest in and use of the Herculaneum papyri. Recently, however, in part due to the efforts of the International Center for the Study of the Herculaneum Papyri, these rolls have been the object of renewed scholarly work and have yielded many findings indispensable for the study of Hellenistic philosophy."<ref>[http://www.classics.ucla.edu/index.php/philodemus The Philodemus Project] {{webarchive|url=https://web.archive.org/web/20100813233936/http://www.classics.ucla.edu/index.php/philodemus |date=2010-08-13 }}</ref> Today researchers work from digitally enhanced photographs, infra-red and multiple-imaging photography, and 18th-century transcriptions of the documents, which were being destroyed as they were being unrolled and transcribed. The actual papyri are in the National Library, Naples.
+
+Named for the philosopher-poet, the '''Philodemus Project''' is an international effort, supported by a major grant from the [[National Endowment for the Humanities]] and by contributions of individuals and participating universities, to reconstruct new texts of Philodemus' works on Poetics, Rhetoric, and Music. These texts will be edited and translated and published in a series of volumes by Oxford University Press.
+
+''Philodemus: On Poems. I'', edited with Introduction, Translation, and Commentary by [[Richard Janko]], appeared in 2001 and won the Charles J. Goodwin Award of Merit. "Philodemus’ ''On Poems'', in particular, opens a window onto a lost age of scholarship—the period between [[Poetics (Aristotle)|Aristotle's Poetics]] and [[Ars Poetica (Horace)|Horace's Art of Poetry]], the works which define classicism for the ancient and modern worlds", Janko has written.<ref>{{cite web|url=http://www.oup.co.uk/academic/humanities/classical_studies/viewpoint/janko/|title=Richard Janko on Philodemus|last=Janko|first=Richard|publisher=OUP|access-date=28 July 2011|archive-url=https://web.archive.org/web/20070418062900/http://www.oup.co.uk/academic/humanities/classical_studies/viewpoint/janko/|archive-date=2007-04-18}}</ref>
+
+The Project's next volumes are scheduled to be:
+*''On Poems'' V, edited and translated by David Armstrong, James Porter, Jeffrey Fish, and Cecilia Mangoni
+*''On Rhetoric'' I-II, edited and translated by David Blank
+*''On Rhetoric'' III, edited and translated by [[Dirk Obbink]] and Juergen Hammerstaedt.
+
+==Inductive reasoning==
+In ''On Methods of Inference'', Philodemus comments on the [[problem of induction]], doubting the reliability of [[inductive reasoning]] from the observed to the unobserved. One problem is the existence of unique events that could never be guessed from what happens elsewhere. "There are also in our experience some infrequent occurrences, as for example the man in Alexandria half a cubit high, with a colossal head that could be beaten with a hammer, who used to be exhibited by the embalmers; the person in Epidaurus who was married as a young woman and then become a man."<ref>Philodemus, ''On Methods of Inference'', ed. P. De Lacy and E. De Lacy (Naples, 1978), pp. 92-3.</ref> Induction is also unreliable if it extrapolates far beyond our experience: "We shall not, therefore, use the [inference] that since the men among us are mortal the men in Libya would also be mortal, much less the inference that since the living beings among us are mortal, if there are any living beings in Britain, they would be mortal."<ref>Philodemus, ''On Methods of Inference'', pp. 96-99; J. Franklin, ''The Science of Conjecture: Evidence and Probability Before Pascal'' (Baltimore, 2001), pp. 201-2.</ref>
+The fourth book of Philodemus' On Death (PHerc. 1050) is an important text that sheds light on various aspects of the well-known Epicurean claim that "death is nothing to us".<ref>''Daniel Delattre, Philodème de Gadara. Sur la Mort: book IV. Paris: Les Belles Lettres''  2022. Pp. clxiii, 192.</ref>
+
+==List of Philodemus' works==
+This is a list of the major works of Philodemus found so far at Herculaneum.
+
+===Historical works===
+*''Index Stoicorum'' (PHerc. 1018)
+*''Index Academicorum'' (PHerc. 164, [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.66 1021])
+*''On the Stoics'' (PHerc. [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.10 155], [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.35 339])
+*''On Epicurus'' (PHerc. [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.85 1232], [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.86 1289])
+*''Works on the Records of Epicurus and some others'' (PHerc. [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.93 1418], [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.32 310])
+*''To Friends of the School'' (PHerc. [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.57 1005])
+
+===Scientific works===
+*''On Phenomena and Inferences'' (PHerc. [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.77 1065])
+
+===Theological writings===
+*''On Piety'' ([http://papyri.info/dclp/62400 P.Herc. 229, 242, 243, 247, 248, 433, 437, 1077, 1088, 1098, 1114, 1428, 1609, 1610, 1648, 1788])
+*''On the Gods'' (PHerc. [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.2 26])
+*''On the Way of Life of the Gods'' (PHerc. [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.7 152], 157)
+
+===Ethics===
+*''On Vices and Virtues, book 7 (On Flattery)'' (PHerc. 222, 223, 1082, 1089, 1457, [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.112 1675])
+*''On Vices and Virtues, book 9 (On Household Management)'' (PHerc. [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.96 1424])
+*''On Vices and Virtues, book 10 (On Arrogance)'' (PHerc. [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.60 1008])
+*''Comparetti Ethics'' (named after its first editor; PHerc. 1251)
+*''On Death'' (PHerc. [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.73 1050])
+*''On Frank Criticism'' (PHerc. 1471)
+*''On Anger'' (PHerc. [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.14 182])
+
+===On rhetoric, music, and poetry===
+*''On Rhetoric'' (on many papyri)
+*''On Music'' (PHerc. [http://163.1.169.40/cgi-bin/library?e=d-000-00---0PHerc--00-0-0--0prompt-10---4------0-1l--1-en-50---20-about---00031-001-1-0utfZz-8-00&a=d&c=PHerc&cl=CL5.1.105 1497])
+*''On Poems'' (on many papyri)
+*''On the Good King according to Homer'' (PHerc. 1507)
+
+=== Unpublished fragments ===
+* [[PHerc. Paris. 4]]
+
+===Editions===
+*{{cite book |last1=Fleischer |first1=Kilian Josef |title=Philodem, Geschichte der Akademie: Einführung, Ausgabe, Kommentar |date=2023 |publisher=Brill |location=Leiden; Boston |isbn=9789004546530}}
+===English translations===
+*Philodemus: ''On Anger''. (2020), David Armstrong & Michael McOsker. SBL. {{ISBN|1628372699}}
+*Philodemus: ''On Death''. (2009), W. Benjamin Henry. SBL. {{ISBN|1-58983-446-1}}
+*Philodemus: ''On Frank Criticism''. (1998), [[David Konstan]], Diskin Clay, Clarence, E. Glad. SBL. {{ISBN|1-58983-292-2}}
+*Philodemus: ''On Methods of Inference''. 2nd edition. (1978). Phillip Howard De Lacy, Estelle Allen De Lacy. Bibliopolis.
+*Philodemus, ''On Piety'', Part 1. (1996). Critical Text with Commentary by [[Dirk Obbink]]. Oxford University Press. {{ISBN|0-19-815008-3}}
+*Philodemus, ''On Poems, Book 1''. (2001). Edited with Introduction, Translation, and Commentary by [[Richard Janko]]. Oxford University Press. {{ISBN|0-19-815041-5}}
+*Philodemus, ''On Poems, Book 2, with the fragments of Heracleodorus and Pausimachus''. (2020). Edited with Introduction, Translation, and Commentary by Richard Janko. Oxford University Press. {{ISBN|9780198835080}}
+*Philodemus, ''On Poems, Books 3-4, with the Fragments of [[Aristotle]], On Poets''. (2010). Edited with Introduction, Translation, and Commentary by Richard Janko. Oxford University Press. {{ISBN|0-19-957207-0}}
+*Philodemus, ''On Property Management''. (2013), Voula Tsouna. SBL. {{ISBN|1-58983-667-7}}
+*Philodemus, ''On Rhetoric'' Books 1 and 2: Translation and Exegetical Essays. (2005). Clive Chandler (editor). Routledge. {{ISBN|0-415-97611-1}}
+*David Sider, (1997), ''The Epigrams of Philodemos. Introduction, Text, and Commentary''. Oxford University Press. {{ISBN|0-19-509982-6}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Armstrong, David, Jeffrey Fish, Patricia A. Johnson, and Marylin B. Skinner, eds. 2004. ''Vergil, Philodemus, and the Augustans.'' Austin: Univ. of Texas Press.
+* Fitzgerald, John T., Dirk Obbink, and Glenn S. Holland, eds. 2004. ''Philodemus and the New Testament World.'' Leiden, The Netherlands, and Boston: Brill.
+* Gigante, Marcello. 2002. ''Philodemus in Italy: The Books from Herculaneum''. Translated by D. Obbink. Ann Arbor: Univ. of Michigan Press.
+* Glad, Clarence E. 2010. ''Paul and Philodemus. Adaptability in Epicurean and Early Christian Psychagogy.'' Atlanta: Society of Biblical Literature.
+* Hajdú, Péter. 2014. "The Mad Poet in Horace’s Ars Poetica." ''Canadian Review of Comparative Literature = Revue Canadienne de Littérature Comparée.'' 41.1: 28-42.
+* Halliwell, Stephen. 2011. ''Between Ecstasy and Truth. Interpretations of Greek Poetics from Homer to Longinus''.   Oxford; New York:  Oxford University Press. 
+* Kemp, Jerome. 2010. "Flattery and Frankness in Horace and Philodemus." Greece & Rome 57.1: 65-76.
+* {{cite book |last1=Nijs |first1=Wim |title=The Epicurean sage in the Ethics of Philodemus |date=2024 |publisher=Brill |location=Leiden ; Boston |isbn=9789004684805}}
+* Obbink, Dirk, ed. 1995. ''Philodemus and Poetry.'' New York and Oxford: Oxford Univ. Press.
+* Pearcy, Lee T. 2012. "Does Dying Hurt?: Philodemus of Gadara, De Morte and Asclepiades of Bithynia." ''Classical Quarterly'' 62.1: 211-222.
+* Sider, David. 1997. ''The Epigrams of Philodemos.'' New York and Oxford: Oxford Univ. Press.
+* Sider, David. 2005. ''The Library of the Villa dei Papyri at Herculaneum.'' Los Angeles: J. Paul Getty Museum.
+* Tsakiropoulou-Summers, Anastasia. 1998. "Horace, Philodemus and the Epicureans at Herculaneum." ''Mnemosyne'' 51.1: 20-29.
+* Tsouna, Voula. 2011. "Philodemus, Seneca, and Plutarch on Anger." In ''Epicurus and the Epicurean Tradition.'' Edited by Jeffery Fish, 183-210. Cambridge; New York : Cambridge University Press.
+* Tsouna, Voula. 2007. ''The Ethics of Philodemus.'' Oxford: Oxford Univ. Press.
+
+==External links==
+{{Library resources box |by=yes |onlinebooks=yes |others=yes |about=yes |label=Philodemus 
+  |viaf= |lccn= |lcheading= |wikititle= }}
+*[https://web.archive.org/web/20100813233936/http://www.classics.ucla.edu/index.php/philodemus Philodemus Project]
+*{{cite SEP |url-id=philodemus |title=Philodemus |last=Blank |first=David}}
+* [http://www.litpap.info/dispatch/search?AUTHOR=Philodemus Philodemus] at the [[Digital Corpus of Literary Papyri]].
+* [https://web.archive.org/web/20160303225841/http://bsa.biblio.univ-lille3.fr/philodemus.html Philodemus: une bibliographie], annotated bibliography by Annick Monet
+* [http://www.attalus.org/poetry/philodemus.html Philodemus: translation of all surviving epigrams] at ''attalus.org''; adapted from W.R.Paton (1916–18)
+*David Armstrong, Jeffrey Fish, Patricia A. Johnston, and Marilyn B. Skinner, eds., 2003, [https://utpress.utexas.edu/9780292722118/vergil-philodemus-and-the-augustans/ ''Vergil, Philodemus, and the Augustans'']; condensed introduction on-line
+*Philodemus' writings (Greek texts): ''Rhetorica'', ed. Sudhaus, [https://web.archive.org/web/20160305011219/http://collections.stanford.edu/publicdomain/bin/detail?fileID=544280267X vol. 1], [https://web.archive.org/web/20160304115046/http://collections.stanford.edu/publicdomain/bin/detail?fileID=541529676X vol. 2]; [https://books.google.com/books?id=yu4YAAAAMAAJ ''Academica''], ed. Mekler; [https://archive.org/details/demusicalibrorum00philuoft ''De Musica''], ed. Kemke
+*Harry M. Hubbel: [https://www.biodiversitylibrary.org/item/32303#page/292/mode/1up The Rhetorica of Philodemus]. Translation and Commentary, Transactions of the Connecticut Academy of Arts and Sciences 23, 1920, 243-382
+
+{{Epicureanism}}
+
+{{Authority control}}
+
+[[Category:Hellenistic-era philosophers from Syria]]
+[[Category:Roman-era Epicurean philosophers]]
+[[Category:Classical humanists]]
+[[Category:110s BC births]]
+[[Category:30s BC deaths]]
+[[Category:Epigrammatists of the Greek Anthology]]
+[[Category:Roman-era philosophers in Rome]]
+[[Category:Roman-era students in Athens]]
+[[Category:1st-century BC Greek poets]]
+[[Category:1st-century BC Greek philosophers]]
+[[Category:Ancient Greek philosophers of art]]

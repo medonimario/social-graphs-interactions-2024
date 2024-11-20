@@ -1,0 +1,53 @@
+{{Short description|Spanish Jewish philosopher and rabbi (c.1050–1120)}}
+{{Distinguish|Bahya ben Asher}}
+{{Jewish philosophy|expanded=Medieval}}
+{{Eras of the Halakha}}
+'''Bahyā ibn Pāqudā''' ('''Bahya ben Joseph ibn Pakuda''', '''Pekudah''', '''Bakuda'''; {{langx|jrb|בחיי אבן פקודה}}, {{langx|ar|بهية بن فاقودا}}), c. 1050–1120,<ref>Menahem Mansoor, "Arabic sources on Ibn Pakuda's ''Duties of the Heart''", Proceedings of the World Congress of Jewish Studies, Volume III, Division C, p. 81 (1973)</ref> was a [[Jewish philosopher]] and [[rabbi]] who lived in the [[Taifa of Zaragoza]] in [[al-Andalus]] (now [[Spain]]). He was one of two people now known as '''Rabbeinu Behaye''', the other being the Bible commentator [[Bahya ben Asher]].
+
+==Life and works==
+He was the author of the first Jewish system of [[ethics]], written around 1080.<ref>Diana Lobel, ''A Sufi-Jewish Dialogue: Philosophy and Mysticism in Bahya ibn Paquda's "Duties of the Heart"'', Introduction, text: "The Hidāya was written in Judeo-Arabic around 1080."</ref> ''[[Chovot HaLevavot|Guidance to the Duties of the Heart]]'' It was translated into Hebrew by [[Judah ben Saul ibn Tibbon]] in the years 1161-80 under the title {{langx|he|חובות הלבבות|Ḥoḇoṯ hal-Leḇāḇoṯ|The Duties of the Heart|links=no}}.
+
+Little is known of his life except that he bore the title of [[dayan (rabbinic judge)|dayan]] "judge" at the [[beth din]]. Bahya was thoroughly familiar with Jewish [[rabbinic literature]] and philosophical and scientific Arabic, Greek, and Roman literature, frequently quoting from the works of non-Jewish moral philosophers in his work.
+
+In the introduction to ''Duties of the Heart'', Bahya says that he wished to fill a great need in Jewish literature; he felt that neither the rabbis of the [[Talmud]] nor subsequent rabbis adequately brought all the ethical teachings of Judaism into a coherent system.
+
+Bahya felt that many Jews paid attention only to the outward observance of [[halakha]], "the duties to be performed by the parts of the body" ("Hovot HaEvarim"), without regard to the inner ideas and sentiments that should be embodied in the Jewish way of life, "the duties of the heart" ("Hovot HaLev"). He also felt that many disregarded all duties incumbent upon them, whether outward observances or inner moral obligations.
+
+In his view, most people acted according to selfish, worldly motives. Bahya, therefore, felt compelled to attempt to present the Jewish faith as a great spiritual truth founded on reason, revelation (especially regarding the [[Torah]]), and Jewish tradition. He stressed the willingness and the joyful readiness of the God-loving heart to perform life's duties. He wrote, "It is impossible to think that the nations would recognize us as being wise and understanding if we were not to provide infallible proofs and explanations for the truths of the Torah and our faith."<ref>Duties of the Heart (Feldman 1996)</ref>
+Many Jewish writers familiar with his work consider him an original thinker of high rank. According to ''[[The Jewish Encyclopedia]]'':
+{{quote|text=Bahya combined in a rare degree great depth of emotion, a vivid poetic imagination, the power of eloquence, and beauty of diction with a penetrating intellect; and he was therefore well fitted to write a work the main object of which was not to argue about and defend the doctrines of Judaism, but to appeal to the sentiments and to stir and elevate the hearts of the people.}}
+''Duties of the Heart'' became a popular book among the Jews worldwide, and parts of it were once recited for devotional purposes during the days before [[Rosh Hashanah]], the Jewish New Year.
+
+Ibn Paquda's works inspired and shaped many later Jewish writers, including [[Berechiah ha-Nakdan]] in his encyclopedic philosophical work ''Sefer HaHibbur'', "The Book of Compilation."
+
+==Neoplatonism==
+He often followed the method of the anonymously-authored "[[Encyclopedia of the Brethren of Purity]]'" ({{langx|ar|رسائل إخوان الصفاء وخلان الوفاء|Rasā'il Ikhwān al-Ṣafā}}).
+
+Bahya, inclined to contemplative mysticism and asceticism, eliminated from his system every element that he felt might obscure monotheism or interfere with halakha. He wanted to present a religious system that was at once lofty and pure and in full accord with reason.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikisource1911Enc|Baḥya, Ibn Paquda}}
+* [https://store.kehotonline.com/mobile/prodinfo.asp?number=EO-SHAAH Shaar HaBitachon - Gate of Trust] (English translation of the original Shaar HaBitachon from Chovot HaLevavot, [[Kehot Publication Society|Kehot]] 2021) 
+*[http://www.sacred-texts.com/jud/doth/index.htm The Duties of the Heart] (partial translation) at sacred-texts.com 
+* [http://dafyomireview.com/article.php?docid=384 Duties of the Heart / Chovot HaLevavot - free complete English translation]
+* [http://jewishencyclopedia.com/view.jsp?artid=134&letter=B&search=Bahya Bahya Ben Joseph ibn Pakuda], jewishencyclopedia.com article written by [[Kaufmann Kohler]] & [[Isaac Broydé]].
+* [https://web.archive.org/web/20050519043122/http://www.ou.org/about/judaism/rabbis/pakuda.htm Rabbi Bachaya Ibn Pakuda], at OU.org
+* The Book of Direction to the Duties of the Heart, from the Original Arabic Version of Bahya Ben Joseph Ibn Pakuda's al-Hidaya ila Fara'id al-Qulub by Menahem Mansoor (the only English translation from the original Arabic)
+* ''Interiority and Law: Bahya ibn Paquda and the Concept of Inner Commandments,'' Omer Michaelis, Stanford University Press 2024
+* ''A Sufi-Jewish Dialogue: Philosophy and Mysticism in Bahya ibn Paquda's Duties of the Heart'', Diana Lobel
+* {{cite book  | last = ibn Pakuda  | first = Bachya  |author2=Yaakov Feldman  | title = Duties of the Heart| publisher=Jason Aronson| year = 1996  | location = Northvale, NJ  | pages = 20–21}}
+
+{{Rishonim}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bahya Ibn Paquda}}
+[[Category:Philosophers of Judaism|Ibn Paquda, Bahya]]
+[[Category:12th-century rabbis in al-Andalus]]
+[[Category:11th-century rabbis in al-Andalus]]
+[[Category:Writers of Musar literature]]
+[[Category:Jewish ethicists]]
+[[Category:Medieval Jewish philosophers]]
+[[Category:Burials at the Old Jewish Cemetery, Safed]]

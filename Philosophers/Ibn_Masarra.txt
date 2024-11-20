@@ -1,0 +1,55 @@
+{{Short description|Andalusian Muslim scholar and philosopher}}
+{{Infobox religious biography
+| name          = Ibn Masarra
+| image         = 
+| caption       = 
+| birth_name    = Abu 'Abd Allah Muhammad ibn 'Abd Allah ibn Masarra ibn Najih al-Jabali
+| birth_date    = April 19, 883
+| birth_place   = Córdoba, Al-Andalus
+| death_date    = 931
+| death_place   = Córdoba, Al-Andalus
+| resting_place = 
+| nationality   = Andalusian
+| occupation    = Ascetic, Scholar, Philosopher
+| notable_works = ''Risālat al-Iʿtibār'', ''Kitāb Ḫawāṣṣ al-ḥurūf''
+| influences    = 
+}}
+
+'''Abu 'Abd Allah Muhammad ibn 'Abd Allah ibn Masarra ibn Najih al-Jabali'''<ref>{{Langx|ar| أبو عبد الله محمد بن عبد الله بن مسرة بن نجيح الجبلي}}</ref> (883–931) was an [[Al-Andalus|Andalusian]] Muslim [[asceticism|ascetic]] and scholar.<ref name="İÂ">{{cite book |last1=Çağrici |first1=Mustafa |title=İBN MESERRE - An article published in Turkish Encyclopedia of Islam |date=1999 |publisher=[[İslâm Ansiklopedisi|TDV Encyclopedia of Islam]] |isbn=9789753894470 |pages=188–193 |volume=20 (Ibn Haldun - Ibnu'l Cezeri) |url=https://islamansiklopedisi.org.tr/ibn-meserre |lang=tr}}</ref> He is considered one of the first [[Sufism|Sufis]] as well as one of the first [[Islamic philosophy|philosophers]] of [[al-Andalus]].<ref>{{cite journal | url=https://www.uco.es/ucopress/ojs/index.php/mediterranea/article/view/14152/12856 | doi=10.21071/mijtk.v7i.14152 | title=Review of: Sarah Stroumsa, Andalus and Sefarad: On Philosophy and Its History in Islamic Spain, Princeton University Press, Princeton–Oxford 2019 (Jews, Christians, and Muslims from the Ancient to the Modern World, 3), XXI + 220 pp., {{text|ISBN:}} 9780691176437 | year=2022 | last1=De Callataÿ | first1=Godefroid | journal=Mediterranea. International Journal on the Transfer of Knowledge | volume=7 | pages=647–649 | s2cid=247928983 | doi-access=free }}</ref>
+
+Ibn Masarra was born in [[Córdoba, Spain|Córdoba]] in 883.<ref name=ME>Michael Ebstein, ''Mysticism and Philosophy in al-Andalus: Ibn Masarra, Ibn al-ʿArabī and the Ismāʿīlī Tradition'' (Brill, 2014), pp. 8–9.</ref> He is believed to have been [[Muwallad]].<ref>{{Cite book|url=https://books.google.com/books?id=PvlthkbFU1UC&q=Ibn+Masarra+&pg=PA878|title=History of Humanity: From the seventh to the sixteenth century|last=Laet|first=Sigfried J. de|date=1994|publisher=UNESCO|isbn=9789231028137|language=en}}</ref> In his youth, he travelled to [[Kairouan]] and [[Mecca]] before settling in the [[Sierra Morena]] near his home town. This is the origin of his nickname, ''al-Jabali'' ('the mountain-dweller'). After his death in 931, his followers were accused of heresy and forced to publicly recant his teachings by the [[Caliphate of Córdoba|Umayyad]] authorities. In at least one case, his books were burnt.<ref name=ME/>
+
+==References==
+{{Reflist}}
+
+==Sources==
+*Arnaldez, R. (1979) ''The Encyclopaedia of Islam,'' iii, pp. 868 - 872, Leiden: Brill.  {{ISBN|90-04-08118-6}}.
+*[[Miguel Asín Palacios|Asín Palacios, M.]] (1972) The Mystical Philosophy of Ibn Masarra and His Followers, trans. E.H. Douglas and H.W. Yoder, Leiden: Brill.
+*Asín Palacios, M. (in Spanish, 1914) ''[https://archive.org/details/abenmassarraysue00asin/page/n5 Abenmassarra y su escuela : origenes de la filosofia Hispano-Musulmana.]'' Madrid: Imprenta Iberica.
+*Chopra, R.M., "SUFISM", 2016, Anuradha Prakashan, New Delhi. {{ISBN|978-93-85083-52-5}}.
+*Rossi, Caterina A. ''Il trono - Ibn Masarrah di Cordoba (883-931), il proto-filosofo arabo d'Andalusia'', 2012, Moro Editore
+*Seyyed Hossein Nasr, Oliver Leaman, ''History of Islamic philosophy'', Routledge, 1996, Chapter 20, p.&nbsp;277-293 [https://books.google.com/books?id=Oo8sPFkxpowC&pg=PA277] retrieved on 23-07-2010
+
+==External links==
+*[http://www.muslimphilosophy.com/ip/rep/H032 Ibn-Masarra] at ''muslimphilosophy.com''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ibn Masarra}}
+[[Category:883 births]]
+[[Category:931 deaths]]
+[[Category:9th-century people from al-Andalus]]
+[[Category:10th-century writers from al-Andalus]]
+[[Category:People from Córdoba, Spain]]
+[[Category:Islamic philosophers]]
+[[Category:Sufis from al-Andalus]]
+[[Category:Scholars from the Caliphate of Córdoba]]
+[[Category:Philosophers from al-Andalus]]
+[[Category:10th-century Spanish philosophers]]
+[[Category:Muwallads]]
+[[Category:Maliki scholars from al-Andalus]]
+
+
+{{philosopher-stub}}
+{{Islam-bio-stub}}
+{{Al-Andalus-bio-stub}}

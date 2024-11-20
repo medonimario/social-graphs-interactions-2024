@@ -1,0 +1,102 @@
+{{Short description|Cynic philosopher}}
+{{Infobox philosopher
+| name             = Crates of Thebes
+| native_name      = Κράτης
+| image       = Crates of Thebes Villa Farnesina.jpg
+| caption     = Crates of Thebes. Detail from a Roman wall painting in the [[Villa Farnesina]] in [[Rome]].
+| birth_date       = c. 365 BC
+| birth_place      = [[Thebes, Greece|Thebes]]
+| death_date       = c. 285 BC (aged 80)
+| death_place      = [[Boeotia]]
+| spouse           = [[Hipparchia of Maroneia]]
+| region           = [[Western philosophy]]
+| era              = [[Hellenistic philosophy]]
+| school_tradition = [[Cynicism (philosophy)|Cynicism]]
+| main_interests   = [[Cynicism (philosophy)|Cynicism]], [[Asceticism]]
+| notable_ideas    = 
+| influences       = [[Diogenes of Sinope]]
+| influenced       = [[Hipparchia of Maroneia|Hipparchia]], [[Metrocles]], [[Zeno of Citium]]
+}}
+
+'''Crates''' ({{lang-grc-gre|Κράτης ὁ Θηβαῖος}}; c. 365&nbsp;– c. 285&nbsp;BC{{sfn|Dorandi|1999|p=52}}) of [[Thebes, Greece|Thebes]] was a [[Ancient Greece|Greek]] [[Cynicism (philosophy)|Cynic]] philosopher,<ref name=":0">{{Cite web|title=Crates of Thebes|url=https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095646134|access-date=2021-07-22|website=Oxford Reference|language=en}}</ref> the principal pupil of [[Diogenes|Diogenes of Sinope]]<ref name=":0" /> and the husband of [[Hipparchia of Maroneia]] who lived in the same manner as him.<ref>{{Cite web|title=Diogenes Laertius, Lives of Eminent Philosophers, BOOK VI|url=http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0258:book=6|access-date=2021-07-22|website=www.perseus.tufts.edu}}</ref> Crates gave away his money to live a life of poverty on the streets of [[Athens]]. Respected by the people of Athens, he is remembered for being the teacher of [[Zeno of Citium]], the founder of [[Stoicism]].<ref name="EB1911"/> Various fragments of Crates' teachings survive, including his description of the ideal Cynic [[Sovereign state|state]].
+
+==Life==
+Crates was born c. 365&nbsp;BC<ref>His year of birth is uncertain.  He flourished c. 328–5 BC ([[Olympiad]] 113) according to Diogenes {{harvnb|Laërtius|1925c|loc=§ 87}}, 365 BC is a reasonable guess for his year of birth.</ref> in [[Thebes, Greece|Thebes]]. He was the son of Ascondus, and was the heir to a large fortune, which he is said to have renounced to live a life of Cynic poverty in [[Athens]]. [[Diogenes Laërtius]]{{sfn|Laërtius|1925c|loc=§ 87–88}} preserves several different accounts of this story; one of them has Crates giving his money away to the citizens of Thebes, apparently after seeing the beggar king [[Telephus]] in a tragedy; whereas another account has him placing his money in the hands of a banker, with the agreement that he should deliver it to his sons, unless they too became philosophers, in which case he should distribute it among the poor.<ref name="EB1911">{{Cite EB1911|wstitle=Crates (philosophers)|display=Crates|volume=7|page=381}}</ref>
+
+He moved to Athens where tradition says he became a pupil of [[Diogenes of Sinope]]; the precise relationship between Crates and Diogenes is uncertain, but there is one apparent reference to Crates referring to himself as "a fellow-citizen of Diogenes, who defied all the plots of envy".{{sfn|Laërtius|1925c|loc=§ 93}} Crates is also described as being the student of [[Bryson of Achaea|Bryson the Achaean]],{{sfn|Laërtius|1925c|loc=§ 85}} and of [[Stilpo]].<ref>Seneca, ''Epistles'', 10.1</ref>  He lived a life of cheerful simplicity, and [[Plutarch]], who wrote a detailed biography of Crates which does not survive, records what sort of man Crates was:
+{{blockquote|But Crates with only his wallet and tattered cloak laughed out his life jocosely, as if he had been always at a festival.<ref name="plut1">Plutarch, ''Moralia: On the Tranquillity of the Mind''.</ref>}}
+He is said to have been deformed with a lame leg and hunched shoulders.<ref>Julian, ''Orations'', 6.201b.</ref> He was nicknamed the Door-Opener ({{langx|el|θυρεπανοίκτης}})<ref>Plutarch, ''Symposiacs'', 2.1.</ref> because he would enter any house and people would receive him gladly and with honour:
+{{blockquote|He used to enter the houses of his friends, without being invited or otherwise called, in order to reconcile members of a family, even if it was apparent that they were deeply at odds. He would not reprove them harshly, but in a soothing way, in a manner which was non-accusatory towards those whom he was correcting, because he wished to be of service to them as well as to those who were just listening.<ref>{{cite book |contributor=Julian |contribution=Orations, 6.201b |first=G. |last=Reale |year=1980 |title=The Concept of First Philosophy and the Unity of the Metaphysics of Aristotle |page=34 |publisher=Suny Press}}. See also Apuleius, ''Florida'', xiv, who makes a similar statement.</ref>}}
+
+[[Image:Crates and Hipparchia Villa Farnesina.jpg|thumb|Roman wall painting of Crates and Hipparchia from the [[Villa Farnesina]], [[Rome]]. Crates is shown with a staff and satchel, being approached by Hipparchia bearing her possessions in the manner of a potential bride.<ref>Diskin Clay, ''Picturing Diogenes'', in R. Bracht Branham, Marie-Odile Goulet-Cazé, (2000), ''The Cynics: The Cynic Movement in Antiquity and Its Legacy'', pp. 372–73.</ref>]]
+He attracted the attentions of [[Hipparchia of Maroneia]], the sister of one of Crates' students, [[Metrocles]]. Hipparchia is said to have fallen in love with Crates and with his life and teachings, and thus rejecting her wealthy upbringing in a manner similar to Crates, she married him. The marriage was remarkable (for ancient Athens) for being based on mutual respect and equality between the couple.  Stories about Hipparchia appearing in public everywhere with Crates are mentioned precisely because respectable women did not behave in that way, and as part of Cynic shamelessness, they had sexual intercourse in public.<ref>[[Sextus Empiricus]] ''Outlines of Pyrrhonism'' Book I section 153</ref>  They had at least two children, a girl, and a boy named Pasicles.  We learn that Crates is supposed to have initiated his son into sex by taking him to a brothel,{{sfn|Laërtius|1925c|loc=§ 88}} and he allowed his daughter a month's trial marriage to potential suitors.{{sfn|Laërtius|1925c|loc=§ 93}}
+
+He was the teacher of [[Zeno of Citium]] in the last years of the century,<ref>{{harvnb|Laërtius|1925|loc=§ 15}}; {{harvnb|Laërtius|1925d|loc=§ 105}}; {{harvnb|Laërtius|1925e|loc=§ 2}}, etc.</ref> and was undoubtedly the biggest influence on Zeno in his development of [[Stoicism|Stoic]] philosophy.  Zeno always regarded Crates with the greatest respect, and some of the accounts we have of Crates have probably come down to us via Zeno's writings.{{sfn|Laërtius|1925c|loc=§ 91}} His other pupils included [[Metrocles]],{{sfn|Laërtius|1925c|loc=§ 94}} [[Monimus]],{{sfn|Laërtius|1925b|loc=§ 82}} [[Menippus]],<ref name="pupils">{{harvnb|Laërtius|1925c|loc=§ 95}}  The list of pupils at vi. 95 are at the end of the Life of Metrocles, but probably refer to Crates. Cf. R. Bracht Branham, Marie-Odile Goulet-Cazé, (2000), ''The Cynics: The Cynic Movement in Antiquity and Its Legacy'', pp. 392, 398; pointing out that, Diogenes {{harvnb|Laërtius|1925c|loc=§ 98}}, also returns to the biography of Crates.</ref> [[Cleomenes the Cynic|Cleomenes]],<ref name="pupils"/> [[Theombrotus]],<ref name="pupils"/> and Crates' brother [[Pasicles of Thebes|Pasicles]].<ref>Suda, ''Stilpo''</ref> He may also have taught [[Cleanthes]],<ref>The ''[[Suda]]'' (''Cleanthes'') is the only source for this claim.</ref> Zeno's successor as head of the Stoic school.
+
+Crates was, apparently, in Thebes in 307&nbsp;BC, when [[Demetrius Phalereus]] was exiled there.<ref>Plutarch, ''Moralia: How to know a Flatterer from a Friend''.</ref> He is said to have died at a great age (c. 285&nbsp;BC), and was buried in [[Boeotia]].{{sfn|Laërtius|1925c|loc=§ 98}}
+
+==Philosophy==
+According to Diogenes Laërtius, Crates wrote a book of letters on philosophical subjects, the style of which Diogenes compares to that of [[Plato]];.{{sfn|Laërtius|1925c|loc=§ 98}} There are 36 surviving ''[[Cynic epistles]]'' attributed to Crates, but these are later, 1st-century, compositions.<ref name="malherbe">{{cite book|first=Abraham J. |last=Malherbe |year=1977 |title=The Cynic Epistles: A Study Edition |publisher=SBL |page=10}}</ref>
+
+Crates was also the author of some philosophical tragedies, and some smaller poems apparently called ''Games'' ({{langx|grc|Παίγνια|translit=Paignia}}).
+
+[[File:Ms297-folio99recto - Diogène et Crates.jpg|right|thumb|"Diogenes in his barrel and Crates of Thebes who gives up wealth for virtue." 15th-century manuscript.]]
+Several fragments of his thought survive.  He taught a simple asceticism, which seems to have been milder than that of his predecessor [[Diogenes of Sinope|Diogenes]]:
+{{blockquote|And therefore Crates replied to the man who asked, "What will be in it for me after I become a philosopher?" "You will be able," he said, "to open your wallet easily and with your hand scoop out and dispense lavishly instead of, as you do now, squirming and hesitating and trembling like those with paralyzed hands.  Rather, if the wallet is full, that is how you will view it; and if you see that it is empty, you will not be distressed. And once you have elected to use the money, you will easily be able to do so; and if you have none, you will not yearn for it, but you will live satisfied with what you have, not desiring what you do not have nor displeased with whatever comes your way."<ref>{{cite book|contributor=Teles |contribution=Fragment 4a |first=E. |last=O'Neill |year=1977 |title=Teles: The Cynic Teacher |publisher=Missoula}}</ref>}}
+
+Some of his philosophical writings were infused with humour, in the form of [[spoudaiogeloion]].  He urged people not to prefer anything but [[lentils]] in their meals, because luxury and extravagance were the chief causes of seditions and insurrections in a city.<ref>Plutarch, ''Moralia: Rules for the Preservation of Health''.</ref>  This jest would later be the cause of much satire, as in book 4 of [[Athenaeus]]' ''[[Deipnosophistae]]'' where a group of Cynics sit down for a meal and are served course after course of lentil soup.<ref>Athenaeus, [http://digicoll.library.wisc.edu/Literature/subcollections/DeipnoSubAbout.shtml ''Deipnosophists''] iv. 157</ref>
+
+One of his poems parodied a famous hymn to the [[Muses]] written by [[Solon]].  But whereas Solon wished for prosperity, reputation, and "justly acquired possessions", Crates had typically Cynic desires:
+{{blockquote|Glorious children of [[Mnemosyne|Memory]] and Olympian [[Zeus]],<br/>
+[[Muses]] of [[Pierian Mountains|Pieria]], listen to my prayer!<br/>
+Give me without ceasing food for my belly<br/>
+Which had always made my life frugal and free from slavery. . . .<br/>
+Make me useful to my friends, rather than agreeable.<br/>
+As for money, I do not wish to amass conspicuous wealth,<br/>
+But only seek the wealth of the beetle or the maintenance of the ant;<br/>
+Nay, I desire to possess justice and to collect riches<br/>
+That are easily carried, easily acquired, and are of great avail to virtue.<br/>
+If I may but win these, I will propitiate [[Hermes]] and the holy Muses,<br/>
+Not with costly dainties, but with pious virtues.<ref>{{cite book |contributor=Julian |contribution=Orations, 6.199d-200a |first=L. |last=Navia |year=1996 |title=Classical Cynicism: A Critical Study |publisher=Greenwood Press}}</ref>}}
+
+[[File:Pavimento di siena, allegoria del colle della sapienza (pinturicchio) 03 cratete.jpg|right|thumb|Crates disposes of his wealth. From the ''Allegory of the Hill of Wisdom'', [[Siena Cathedral]]. Floor mosaic by [[Pinturicchio]] (c. 1505).]]
+There are also several fragments surviving of a poem Crates wrote describing the ideal Cynic state which begins by parodying [[Homer]]'s description of [[Crete]].<ref>Homer, ''Odyssey'' 19.172–74</ref> Crates' city is called ''Pera'', which in Greek refers to the beggar's wallet which every Cynic carried:
+{{blockquote|There is a city ''Pera'' in the midst of wine-dark ''Tuphos'',<br/>
+Fair and fruitful, filthy all about, possessing nothing,<br/>
+Into which no foolish parasite ever sails,<br/>
+Nor any playboy who delights in a whore's ass,<br/>
+But it produces thyme, garlic, figs, and bread,<br/>
+For which the citizens do not war with each other,<br/>
+Nor do they possess arms, to get cash or fame.<ref>{{cite book |contributor=Crates |contribution=Fragment 6  |first=K. |last=Gutzwiller |year=2007 |title=Guide to Hellenistic Literature |url=https://archive.org/details/guidetohellenist00gutz_636 |url-access=limited |page=[https://archive.org/details/guidetohellenist00gutz_636/page/n153 136] |publisher=Blackwell Publishing}}</ref>
+}}
+The word ''tuphos'' ({{langx|el|τῦφος}}) in the first line, is one of the first known Cynic uses of a word which literally means mist or smoke. It was used by the Cynics to describe the mental confusion which most people are wrapped-up in.  The Cynics sought to clear away this fog and to see the world as it really is.
+
+==Later cultural references==
+The relationship between Crates and Hipparchia became the subject of a number of fictional accounts, such as the play {{Lang|it|Spozalizio d' Ipparchia filosofa}}, written by Italian nun Clemenza Ninci in the 17th century, or [[Christoph Martin Wieland]]'s novel ''Krates und Hipparchia'' (1804). A fictional biography of Crates was written by French author [[Marcel Schwob]] in his 1896 work {{Lang|fr|Vies imaginaires}}.
+
+==References==
+{{Reflist}}
+
+==Sources==
+*{{cite book |last=Dorandi  |first=Tiziano |chapter=Chapter 2: Chronology |editor-last=Algra |editor-first=Keimpe |display-editors=etal |year=1999 |title=The Cambridge History of Hellenistic Philosophy |url=https://archive.org/details/cambridgehistory00algr  |url-access=limited  |page=[https://archive.org/details/cambridgehistory00algr/page/n71 52] |location=Cambridge |publisher=Cambridge University Press |isbn=9780521250283 }}
+*{{cite LotEP|year=1925 |chapter=Prologue|§=1–21 }}
+*{{cite LotEP|year=1925b|chapter=Monimus|§=81–83 }}
+*[[Diogenes Laërtius|Laërtius, Diogenes]] (1925c). "[[s:Lives of the Eminent Philosophers/Book VI#Crates|The Cynics: Crates]]". ''[[Lives of the Eminent Philosophers]]''. Translated by [[Robert Drew Hicks|Hicks, Robert Drew]] (Two volume ed.). Loeb Classical Library. §85–93
+*{{cite LotEP|year=1925d|chapter=Menedemus (book vi)|§=102–105}}
+*{{cite LotEP|year=1925e|chapter=Zeno|§=1–160 }}
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20141109153434/http://lucianofsamosata.info/wiki/doku.php?id=crates_of_thebes:crates_and_hipparchia_cynic_handbook Crates and Hipparchia Handbook]
+
+{{Cynics}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Crates Of Thebes}}
+[[Category:4th-century BC Greek philosophers]]
+[[Category:Ancient Greek political philosophers]]
+[[Category:Ancient Thebans]]
+[[Category:Cynic philosophers]]
+[[Category:Hellenistic-era philosophers in Athens]]
+[[Category:Metic philosophers in Classical Athens]]

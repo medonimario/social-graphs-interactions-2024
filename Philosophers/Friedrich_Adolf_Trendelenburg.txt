@@ -1,0 +1,112 @@
+{{Short description|German philosopher and philologist (1802–1872)}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[19th-century philosophy]]
+|image       = Trendelenburg.jpg
+|caption     =
+|name             = Friedrich Adolf Trendelenburg
+|birth_date       = {{birth date|1802|11|30|df=y}}
+|birth_place      = [[Eutin]], [[Prince-Bishopric of Lübeck|Lübeck]], [[Holy Roman Empire]]
+|death_date       = {{death date and age|1872|1|24|1802|11|30|df=y}}
+|death_place      = Berlin, [[Province of Brandenburg|Brandenburg]], [[Kingdom of Prussia|Prussia]], [[German Empire]]
+|education        = [[University of Kiel]]<br>[[Leipzig University]]<br>[[University of Berlin]] ([[PhD]], 1826)
+|institutions     = [[Humboldt University of Berlin|University of Berlin]] 
+|school_tradition = [[German idealism]]<br>[[Aristotelianism]]<br>[[Aristotelianism|Aristotelian]] [[idealism]]<ref name=R78/>
+|main_interests   = [[Logic]], [[metaphysics]]
+|notable_ideas    = Trendelenburg's gap, motion as the fundamental fact common to being and thought<br>Putting the organic/[[teleological]] view of the world on a modern foundation<ref>Beiser 2013, p. 122.</ref>
+|influences       = [[Aristotle]], [[Immanuel Kant]], [[Karl Leonhard Reinhold]], [[Georg Wilhelm Friedrich Hegel]], [[Friedrich Schleiermacher]],<ref name=:0>Beiser 2013, p. 20.</ref> {{Interlanguage link multi|Johann Erich von Berger|de}}
+|influenced       = [[Franz Brentano]],<ref>{{cite book | chapter-url=https://doi.org/10.1007%2F978-1-4020-8582-6_10 | doi=10.1007/978-1-4020-8582-6_10 | chapter=Toward the Rebirth of Aristotelian Psychology: Trendelenburg and Brentano | title=Psychology and Philosophy | series=Studies in the History of Philosophy of Mind | year=2009 | last1=Fugali | first1=Edoardo | volume=8 | pages=179–202 | isbn=978-1-4020-8581-9 }}</ref> [[Hermann Cohen]], [[Friedrich Paulsen]], [[Ernst Laas]], [[Rudolf Christoph Eucken]], [[Gottlob Frege]],<ref>"Frege's Technical Concepts", in [https://books.google.com/books?id=DwxUZZF21mQC ''Frege Synthesized: Essays on the Philosophical and Foundational Work of G. Frege''], [[Leila Haaparanta|L. Haaparanta]] and J. Hintikka, Synthese Library, D. Reidel, 1986, pp. 253–295</ref> [[Søren Kierkegaard]],<ref>Richard Purkarthofer, ''Traces of a Profound and Sober Thinker in Kierkegaard's Postscript''. Kierkegaard Studies Yearbook, 2005, pp. 192–207</ref><ref>[https://revistas.pucsp.br/index.php/cognitiofilosofia/article/view/18375] Gabriel Ferreira, "Kierkegaard Descends to the Underworld: Some remarks on the Kierkegaardian appropriation of an argument by F. A. Trendelenburg". Cognitio, 2013, pp. 235-246</ref>[[Wilhelm Dilthey]],<ref>Joachim Wach, ''Die Typenlehre Trendelenburgs und ihr Einfluss auf Dilthey : eine philosophie- und geistesgeschichtliche Studie'' (1917)</ref><ref>Rudolf A. Makkreel, ''Dilthey: Philosopher of the Human Studies'', Princeton University Press, 1975, p. 48.</ref> [[George Sylvester Morris|G. S. Morris]]<ref name=R78>Steven Rockefeller, ''John Dewey: Religious Faith and Democratic Humanism'', Columbia University Press, 1994, p. 78: "[Morris's] studies with Trendelenburg left him with the lasting conviction that philosophy must be grounded in scientific methods of truth, but Trendelenburg guided him away from British empiricism to an Aristotelian idealism."</ref>
+|thesis_title = Platonis de ideis et numeris doctrina ex Aristotele illustrata (On Plato's Doctrine of Ideas and Numbers as Illustrated by Aristotle)
+|thesis_url   = https://archive.org/details/platonisdeideis00trengoog 
+|thesis_year  = 1826
+|doctoral_advisor  = 
+|academic_advisors = [[Karl Leonhard Reinhold]]<ref>Beiser 2013, p. 17.</ref><br>[[August Boeckh]]<ref name=:0/><br>[[Friedrich Schleiermacher]]<ref name=:0/><br>{{Interlanguage link multi|Georg Ludwig König|de}}
+|doctoral_students = [[Rudolf Christoph Eucken]]<br>[[Friedrich Paulsen]]
+|notable_students  = [[Franz Brentano]]<br>[[Wilhelm Dilthey]]<br>[[Ernst Laas]]
+}}
+
+'''Friedrich Adolf Trendelenburg''' (30 November 1802 – 24 January 1872) was a [[Germans|German]] [[philosopher]] and [[philologist]].
+
+==Life==
+He was born at [[Eutin]], near [[Lübeck]]. He was placed in a [[Gymnasium (Germany)|gymnasium]] in [[Eutin]], which was under the direction of {{Interlanguage link multi|Georg Ludwig König|de}},<ref>Morris 1874, p. 289.</ref> a philologist influenced by [[Immanuel Kant]].
+
+He was educated at the universities of [[University of Kiel|Kiel]], [[Leipzig University|Leipzig]], [[Humboldt University of Berlin|Berlin]]. He became more and more attracted to the study of [[Plato]] and [[Aristotle]], and his 1826 doctoral dissertation, ''Platonis de ideis et numeris doctrina ex Aristotele illustrata'' (''On Plato's Doctrine of Ideas and Numbers as Illustrated by Aristotle''), was an attempt to reach through [[Plato#Criticism|Aristotle's criticisms]] a more accurate knowledge of the [[Platonic philosophy]].{{sfn|Chisholm|1911|p=246}}
+
+He declined the offer of a classical chair at Kiel, and accepted a post as tutor to the son of an intimate friend of [[Karl vom Stein zum Altenstein]], the [[Prussia]]n minister of education. He held this position for seven years (1826–1833), occupying his leisure time with the preparation of a critical edition of Aristotle's ''[[De anima]]'' (1833; 2nd ed. by Christian Belger, 1877). In 1833 Altenstein appointed Trendelenburg extraordinary professor in Berlin, and four years later he was advanced to an ordinary professorship.{{sfn|Chisholm|1911|p=246}}
+
+==Teaching==
+For nearly 40 years, he proved himself markedly successful as a teacher, during the greater part of which time he had to examine in [[philosophy]] and [[pedagogics]] all candidates for the [[wikt:scholastic|scholastic]] profession in Prussia. His teaching method was highly regarded by [[Søren Kierkegaard]] who called him "one of the most sober philosophical philologists I know."<ref>''Søren Kierkegaard's Journals and Papers'', V A 98, 1844</ref> He was elected a Foreign Honorary Member of the [[American Academy of Arts and Sciences]] in 1861.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter T|url=http://www.amacad.org/publications/BookofMembers/ChapterT.pdf|publisher=American Academy of Arts and Sciences|access-date=23 September 2016}}</ref> Two of his prominent students were [[Franz Brentano]] and [[Wilhelm Dilthey]].
+
+==Philosophical work==
+
+===Defense of teleology===
+Trendelenburg's philosophizing is conditioned throughout by his loving study of Plato and Aristotle, whom he regards not as opponents but as building jointly on the broad basis of [[idealism]]. His own standpoint may be called a modern version of [[Aristotelianism]]. While denying the possibility of an absolute method and an absolute philosophy, as contended for by [[Georg Wilhelm Friedrich Hegel|Hegel]] and others, Trendelenburg was emphatically an idealist in the ancient or Platonic sense; his whole work was devoted to the demonstration of the ideal in [[The Real|the real]]. But he maintained that the procedure of philosophy must be [[Philosophical analysis|analytic]], rising from the particular facts to the universal in which we find them explained. We divine the system of the whole from the part we know, but the process of reconstruction must remain approximative. Our position forbids the possibility of a final system. Instead, therefore, of constantly beginning afresh in speculation, it should be our duty to attach ourselves to what may be considered the permanent results of historic developments.{{sfn|Chisholm|1911|p=246}}
+
+The classical expression of these results Trendelenburg finds mainly in the Platonico-Aristotelian system. The philosophical question is stated thus: How are thought and being united in knowledge? How does thought get at being? And how does being enter into thought? Proceeding on the principle that like can only be known by like, Trendelenburg next reaches a doctrine peculiar to himself (though based upon Aristotle) that plays a central part in his speculations. Motion is the fundamental fact common to being and thought; the ''actual motion'' of the external world has its counterpart in the ''constructive motion'' involved in every instance of perception or thought. From motion he proceeds to deduce time, space and the categories of mechanics and natural science. These, being thus derived, are at once subjective and objective in their scope. It is true that matter can never be completely resolved into motion, but the irreducible remainder may be treated, like Aristotle, as an abstraction we asymptotically approach but never reach.{{sfn|Chisholm|1911|p=246}}
+
+The facts of existence, however, are not adequately explained by the mechanical categories. The ultimate interpretation of the universe can only be found in the higher category of End or [[Four causes#Final cause|final cause]]. Here Trendelenburg finds the dividing line, between philosophical systems. On the one side stand those that acknowledge none but efficient causes, which make force prior to thought, and explain the universe, as it were, ''a tergo'' ("from the back"). This may be called, typically, [[Democritus|Democritism]]. On the other side stands the organic or [[teleological]] view of the world, which interprets the parts through the idea of the whole, and sees in the efficient causes only the vehicle of ideal ends. This may be called in a wide sense [[Platonism]]. Systems like [[Spinozism]], which seem to form a third class, neither sacrificing [[force]] to [[thought]] nor thought to force, yet by their denial of final causes inevitably fall back into the Democritic or essentially materialistic standpoint, leaving us with the great antagonism of the mechanical and the organic systems of philosophy. The latter view, which receives its first support in the facts of life, or organic nature as such, finds its culmination and ultimate verification in the ethical world, which essentially consists in the [[Telos|realization of ends]].
+
+Trendelenburg's ''Naturrecht'' [the right of nature] may, therefore, be taken as in a manner the completion of his system, his working out of the ideal as present in the real. The ethical end is taken to be the idea of humanity, not in the abstract as formulated by [[Immanuel Kant]], but in the context of the state and of history. Law is treated throughout as the vehicle of ethical requirements. In Trendelenburg's treatment of the [[State (polity)|state]], as the ethical organism in which the individual (the potential man) may be said first to emerge into actuality, we may trace his nurture on the best ideas of Hellenic antiquity.{{sfn|Chisholm|1911|p=246}}
+
+===Fischer–Trendelenburg debate<!--'Fischer–Trendelenburg debate' and 'Fischer-Trendelenburg debate' redirect here-->===
+In 1865 he became involved in an acrimonious controversy on the interpretation of [[Immanuel Kant|Kant]]'s doctrine of space with [[Kuno Fischer]], whom he attacked in ''Kuno Fischer und sein Kant'' (1869), which drew forth the reply ''Anti-Trendelenburg'' (1870).{{sfn|Chisholm|1911|p=246}} The controversy became known in the history of philosophy as the '''Fischer–Trendelenburg debate'''<!--boldface per WP:R#PLA-->.
+
+Trendelenburg's position on the debate (the position that "Kant may establish that space and time are ''[[A priori and a posteriori|a priori]]'' and intuitive conditions for experience in the "[[Critique of Pure Reason|Transcendental Aesthetic]]," but this in no way entails that space and time have nothing to do with the objects outside of possible experience") has been variously dubbed as "Neglected Alternative," "Trendelenburg's gap" [''die trendelenburgische Lücke''], "Pistorius's gap [''die pistorische Lücke'']" (named after [[Hermann Andreas Pistorius]]), or "third possibility" [''die dritte Möglichkeit''].<ref>Andrew F. Specht, [http://surface.syr.edu/cgi/viewcontent.cgi?article=1183&context=etd "Kant and the Neglected Alternative"], December 2014, p. 4.</ref>
+
+==Family==
+His son, [[Friedrich Trendelenburg]], was a prominent surgeon; several medical techniques and matters are named for him.
+
+==Works (selection)==
+Trendelenburg was also the author of the following:{{sfn|Chisholm|1911|pp=246–247}}
+
+*''Elementa Logices Aristotelicae'' (1836; 9th ed., 1892; Eng. trans. 1881), a selection of passages from the ''[[Organon]]'' with Latin translation and notes, containing the substance of Aristotle's logical doctrine, supplemented by ''Erlauterungen zu den Elementen der Aristotelischen Logik'' (1842; 3rd ed., 1876).
+*''Logische Untersuchungen (Logical Investigations)'', 2 vols. (1840; 3rd ed. 1870), and ''Die logische Frage in Hegels System'' (1843), important factors in the reaction against Hegel.
+*''Historische Beiträge zur Philosophie'' (1846–1867), in three volumes, the first of which (''Geschichte der Kategorienlehre'') contains a history of the doctrine of the Categories.
+*''Geschichte der Kategorienlehre'' I: Aristotle Kategorienlehre; II: Die Kategorienlehre in der Geschichte der Philosophie (1846, reprint: Hildesheim, Olms, 1979).
+*''Des Naturrecht aufdem Grunde der Ethik'' (1860).
+*''Lücken im Völkerrecht'' (1870), a treatise on the defects of international law, occasioned by the war of 1870.
+*''[[Kleine Schriften]]'' (1871), papers dealing with non-philosophical, chiefly national and educational subjects.
+* [https://www.gleichsatz.de/b-u-t/trad/trendel/enburg-person.html ''Zur Geschichte des Wortes Person''], Kant-Studien, Bd. 13, Berlin 1908
+*''Ethische Untersuchungen: Genetisch-kritische Fragmentedition''. Edited by Christian Biehl. ''Exempla critica'' 5. De Gruyter, Berlin/Boston 2022
+
+===Translations===
+* [https://archive.org/stream/themonist20hegeuoft#page/336/mode/2up ''A Contribution to the History of the Word Person: A Posthumous Treatise''], Open Court Pub. Co., 1910.
+* [https://archive.org/details/outlineslogican00trengoog ''Outlines of Logic: An English Translation of Trendelenburg's Elementa''], 1898.
+
+==Notes==
+{{reflist}}
+
+'''Attribution:'''
+*{{EB1911|wstitle=Trendelenburg, Friedrich Adolf|volume=27|pages=246–247}}
+
+==References==
+* [[Frederick Beiser]], [https://books.google.com/books?id=GQmxAAAAQBAJ&dq=trendelenburg+philosophy&pg=front ''Late German Idealism: Trendelenburg and Lotze''], Oxford University Press, 2013 [Currently the most complete discussion of Trendelenburg's philosophy.]
+* Graham Bird, [https://books.google.com/books?id=dawt-CKADHwC&dq=anti-trendelenburg&pg=PA486 ''A Companion to Kant''], John Wiley and Sons, 2009 p.&nbsp;486ff has an article about Trendelenburg's dispute with Fisher over [[Immanuel Kant|Kant]]'s definition of [[space]]
+* [[Hermann Bonitz]], ''Zur Erinnering an Friedrich Adolf Trendelenburg'' (Berlin, 1872)
+* {{cite book |title=Die ethischen Grundgedanken Friedrich Adolf Trendelenburgs |last=Buchholtz |first=Georg |year=1904 |publisher=Schlimper |location=Blankenhain}}
+* Ernst Bratuschek, ''Adolf Trendelenburg'' (Berlin, 1873) [The first complete intellectual biography of Trendelenburg.]
+* [[George Sylvester Morris]], ''Friedrich Adolf Trendelenburg'' (1874).
+* [[Paul Kleinert]], ''Grabrede'' (Berlin, 1872)
+* [[Carl von Prantl]], ''Gedächtnisrede'' (Munich, 1873)
+
+==External links==
+* {{MathGenealogy|60803}}
+
+{{Authority control}}
+{{DEFAULTSORT:Trendelenburg, Friedrich Adolf}}
+[[Category:Aristotelian philosophers]]
+[[Category:1802 births]]
+[[Category:1872 deaths]]
+[[Category:19th-century German philosophers]]
+[[Category:People from Eutin]]
+[[Category:People from Oldenburg (state)]]
+[[Category:University of Kiel alumni]]
+[[Category:Leipzig University alumni]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Recipients of the Pour le Mérite (civil class)]]
+[[Category:Humboldt University of Berlin alumni]]
+[[Category:Academic staff of the Humboldt University of Berlin]]
+[[Category:German logicians]]
+[[Category:Metaphysicians]]
+[[Category:German male writers]]
+[[Category:German idealists]]

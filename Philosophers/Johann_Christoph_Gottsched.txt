@@ -1,0 +1,73 @@
+{{Short description|German philosopher (1700–1766)}}
+{{Use dmy dates|date=December 2022}}
+{{Infobox philosopher
+|name=Johann Christoph Gottsched
+|image=Johann Christoph Gottsched.jpg
+|caption=Portrait by Leonhard Schorer, 1744
+|birth_date={{birth date|1700|2|2|df=y}}
+|birth_place=[[Mendeleyevo, Kaliningrad, Kaliningrad Oblast|Juditten]], [[Brandenburg-Prussia]]
+|death_date={{death date and age|1766|12|12|1700|2|2|df=y}}
+|death_place=[[Leipzig]], [[Electorate of Saxony|Saxony]]
+|alma_mater=[[University of Königsberg]]
+|influences=
+|influenced=
+|school_tradition=
+|main_interests=
+|notable_ideas= 
+}}
+
+'''Johann Christoph Gottsched''' (2 February 1700 – 12 December 1766) was a German philosopher, author and critic of the [[Age of Enlightenment|Enlightenment]].{{clarify|date=March 2024}}<!--In what sense was he 'a critic of the Enlightenment? Was he a critic that flourished during the period of the Enlightenment, or did he criticise the Enlightenment?-->
+
+==Biography==
+[[File:Gottschedin.jpg|thumb|''Die Gottschedin'', his first wife, [[Luise Gottsched|Luise Adelgunde Victorie Gottsched (born Kulmus)]] in an oil portrait by [[Elias Gottlob Haussmann]] c.1750]]
+
+=== Early life ===
+He was born at [[Mendeleyevo, Kaliningrad, Kaliningrad Oblast|Juditten]] (renamed Mendeleyevo in 1947) near [[Königsberg]] (Kaliningrad), [[Brandenburg-Prussia]], the son of a [[Lutheran]] clergyman, and was baptised in [[Juditten Church|St. Mary's Church]]. He studied philosophy and history at the [[University of Königsberg]], but immediately on taking the degree of ''Magister'' in 1723, he fled to [[Leipzig]] to avoid being drafted into the [[Prussian army]]. In Leipzig, he enjoyed the protection of Johann Burckhardt Mencke, who, under the name of "Philander von der Linde", was a well-known poet and president of the ''Deutschübende poetische Gesellschaft'' in Leipzig. Of this society, Gottsched was elected "Senior" in 1726, and in the next year reorganised it under the title of the ''Deutsche Gesellschaft''.<ref name=EB1911/>
+
+=== Career ===
+As editor of the weeklies ''Die vernünftigen Tadlerinnen'' (1725–26) and ''Der Biedermann'' (1727), Gottsched started a lifelong career of untiring critical activity. Directing his criticism at first chiefly at the bombast and absurd affectations of the Second Silesian School, he proceeded to lay down strict laws for the composition of poetry.<ref name=nie>{{NIE|wstitle=Gottsched, Johann Christoph|year=1905|inline=1}}</ref> He insisted [[German literature]] be subordinated to the laws of [[French classicism]]. He enunciated rules by which the playwright must be bound (such as the ''[[Ständeklausel]]''), and abolished bombast and buffoonery from the serious stage.<ref name=EB1911/> He insisted on the observance of the [[dramatic unities]].
+
+In his efforts toward the reformation of the German drama, Gottsched was aided by his wife, [[Luise Gottsched|Luise]], a prolific writer and translator, and had the cooperation of the theatrical manager Johann Neuber and his wife, [[Friederike Caroline Neuber|Caroline]]. They succeeded in bringing about a considerable change in the condition of the German stage by substituting for the prevailing operatic performances translations of French dramas and original plays, and by banishing from it the coarse buffooneries of [[Hanswurst]] (Jack Pudding).<ref name=nie/>
+
+In 1730, Gottsched was appointed an extraordinary professor of poetry, and, in 1734, ordinary professor of [[logic]] and [[metaphysics]] at the [[University of Leipzig]].<ref name=EB1911/> He was also a corresponding member of the first [[learned society]] of the [[Habsburg monarchy]], the ''[[Societas eruditorum incognitorum in terris Austriacis|Societas eruditorum incognitorum]]'' in [[Olomouc|Olmütz]] (Olomouc), and was published in the Society's journal, which was the first scientific journal in the Habsburg monarchy.
+
+Eventually, Gottsched went too far in his criticism. He refused to recognise the work of [[Klopstock]] and [[Gotthold Ephraim Lessing|Lessing]].<ref name=eb9>{{Cite EB9|wstitle=Gottsched, Johann Christoph|volume=10}}</ref> In 1740, he came into conflict with the Swiss writers [[Johann Jakob Bodmer]] and [[Johann Jakob Breitinger]], who, under the influence of Addison and contemporary Italian critics, demanded that the poetic imagination should not be hampered by artificial rules. As examples, they pointed to English poets, especially [[John Milton|Milton]]. Gottsched, although not blind to the beauties of the English writers, clung tenaciously to his principle that poetry must be the product of rules and, in the fierce controversy which for a time raged between Leipzig and [[Zürich]], he was ultimately defeated.<ref name=EB1911/>
+
+In 1741, he fell out with Caroline Neuber regarding practical stage matters, and even placed himself in opposition to his wife.<ref name=nie/> His influence speedily declined, and before his death his name became proverbial for pedantic folly.<ref name=EB1911/> He died in Leipzig on 12 December 1766.<ref>{{cite book | last=Konzett | first=M. | title=Encyclopedia of German Literature | publisher=Taylor & Francis | year=2015 | isbn=978-1-135-94122-2 | url=https://books.google.com/books?id=5uE4CQAAQBAJ&pg=PA358 |page=358 | access-date=10 December 2022}}</ref>
+
+==Works==
+[[File:Gottsched, Johann Christoph – Gedichte – BEIC 4186339.jpg|thumb|''Gedichte'']]
+
+Gottsched's chief work was his ''[[Versuch einer kritischen Dichtkunst für die Deutschen]]'' (1730), the first systematic treatise in German on the art of poetry from the standpoint of [[Nicolas Boileau-Despréaux|Boileau]]. His ''Ausführliche Redekunst'' (1728) and his ''Grundlegung einer deutschen Sprachkunst'' (1748) were of importance for the development of German style and the purification of the language. He wrote several plays, of which ''Der sterbende Cato'' (1732), an adaptation of [[Joseph Addison]]'s [[tragedy]] and a French play on the same theme, was long popular on the stage. His ''Deutsche Schaubühne'' (6 volumes, 1740–45) contained mainly translations from the French,<ref name=EB1911/> but also some works written by himself, his wife, and others.<ref name=eb9/> With this, he provided the German stage with a classical repertory. His bibliography of the German drama, ''Nötiger Vorrat zur Geschichte der deutschen dramatischen Dichtkunst'' (1757–65), intended to contain an account of all previous German plays, though not complete is still valuable.<ref name=eb9/> He was also the editor of several journals devoted to literary criticism.<ref name=EB1911>{{EB1911|wstitle=Gottsched, Johann Christoph|inline=1|volume=12|pages=279–280}}</ref>
+
+Gottsched wrote the texts of two [[List of secular cantatas by Johann Sebastian Bach|secular cantatas]] by [[Johann Sebastian Bach]]: ''[[Laß, Fürstin, laß noch einen Strahl]]'' ([[BWV]]&nbsp;198) and ''[[Willkommen! Ihr herrschenden Götter der Erden]]'' (BWV&nbsp;Anh.&nbsp;13, music lost).
+
+==Family==
+{{Unreferenced section |date=March 2024}}
+His first wife, [[Luise Gottsched|Luise Kulmus]], was also a prominent author. She died in 1762. After a three-year mourning period, in 1765 in [[Camburg]], [[Saale]], Gottsched married his 19-year-old second wife, Ernestine Susanne Katharina Neunes (1746–1811).
+
+==Notes==
+{{Reflist}}
+
+==External links==
+* {{Internet Archive author |sname=Johann Christoph Gottsched}}
+* {{Cite book|publisher=Gottsched-Verlag|last= Gottsched|first=  Johann Christoph|title= Biedermann. 1 |place= Berlin|year= 1903|url= https://gutenberg.beic.it/webclient/DeliveryManager?pid=4185297}}
+* {{Cite book|publisher=Gottsched-Verlag|last= Gottsched|first=  Johann Christoph|title= Biedermann. 2 |place= Berlin|year= 1903|url= https://gutenberg.beic.it/webclient/DeliveryManager?pid=4185800}}
+* {{Cite book|publisher=Gottsched-Verlag|last= Gottsched|first=  Johann Christoph|title= Gedichte |place= Berlin|year= 1906|url= https://gutenberg.beic.it/webclient/DeliveryManager?pid=4186339}}
+* {{Cite book|publisher=Gottsched-Verlag|last= Gottsched|first=  Johann Christoph|title= Gesammelte Reden |place= Berlin|year= 1905|url= https://gutenberg.beic.it/webclient/DeliveryManager?pid=4186958}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gottsched, Johann Christoph}}
+[[Category:1700 births]]
+[[Category:1766 deaths]]
+[[Category:18th-century German writers]]
+[[Category:18th-century Lutherans]]
+[[Category:18th-century Prussian people]]
+[[Category:Linguists of German]]
+[[Category:18th-century German philosophers]]
+[[Category:Writers from Königsberg]]
+[[Category:University of Königsberg alumni]]
+[[Category:Academic staff of Leipzig University]]
+[[Category:18th-century German male writers]]
+[[Category:French–German translators]]

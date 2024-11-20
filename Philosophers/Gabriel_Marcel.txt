@@ -1,0 +1,175 @@
+{{Short description|French philosopher, playwright and music critic (1889–1973)}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[20th-century philosophy]]
+|image            = Gabriel Marcel (c. 1951).jpg
+|name             = Gabriel Marcel
+|birth_name       = Gabriel Honoré Marcel
+|birth_date       = {{birth date|1889|12|7|df=yes}}
+|birth_place      = [[Paris]], France
+|death_date       = {{death date and age|1973|10|8|1889|12|7|df=yes}}
+|death_place      = Paris, France
+|relatives        = [[Henry Marcel]] (father)
+|alma_mater       = [[University of Paris]]
+|notable_works    = ''[[The Mystery of Being]]'' (1951)
+|school_tradition = {{hlist | [[Christian existentialism]] | [[Existential phenomenology]]<ref>Paul T. Brockelman, ''Existential Phenomenology and the World of Ordinary Experience: An Introduction'', University Press of America, 1980, p. 3.</ref> | [[Hermeneutic phenomenology]] | [[Personalism]]}}
+|main_interests   = {{hlist | [[Ontology]] | [[subjectivity]] | [[ethics]]}}
+|notable_ideas    = [[Other (philosophy)|"The Other"]] (''autrui''), concrete philosophy (''philosophie concrète''), being vs. having as opposing ways of defining the human person
+|signature=Gabriel Marcel signature.jpg}}{{Conservatism in France|Intellectuals}}
+
+'''Gabriel Honoré Marcel'''{{efn|Pronounced {{IPAc-en|m|ɑːr|ˈ|s|ɛ|l}} {{respell|mar|SEL}}; French: {{IPA|fr|ɡabʁijɛl ɔnɔʁe maʁsɛl|}}.}} (7 December 1889 – 8 October 1973) was a [[French philosopher]], [[playwright]], [[music critic]] and leading [[Christian existentialism|Christian existentialist]]. The author of over a dozen books and at least thirty plays, Marcel's work focused on the modern individual's struggle in a technologically dehumanizing society. Though often regarded as the first French existentialist, he dissociated himself from figures such as [[Jean-Paul Sartre]], preferring the term ''philosophy of existence'' or ''neo-Socrateanism'' to define his own thought. ''[[The Mystery of Being]]'' is a well-known two-volume work authored by Marcel.
+
+==Early life and education==
+Marcel was born on 7 December 1889 in [[Paris]], France. His mother Laure Meyer, who was [[Jewish]], died when he was young and he was brought up by his aunt and father, [[Henry Marcel]].  When he was eight he moved for a year where his father was [[envoy (title)|minister plenipotentiary]].<ref name="citadel" />
+
+Marcel completed his DES thesis{{efn|The title of his 1910 thesis was ''Coleridge et Schelling'' (''[[Samuel Taylor Coleridge|Coleridge]] and [[Friedrich Wilhelm Joseph Schelling|Schelling]]''). It was published in 1971 (see Jeanne Parain-Vial, ''Gabriel Marcel: un veilleur et un éveilleur'', L'Âge d'Homme, 1989, p. 12).}} (''{{Interlanguage link|diplôme d'études supérieures|fr}}'', roughly equivalent to an [[Master of Arts|MA]] thesis) and obtained the ''[[agrégation]]'' in philosophy from the [[University of Paris|Sorbonne]] in 1910, at the unusually young age of 20.  During the First World War he worked as head of the Information Service, organized by the [[Red Cross]] to convey news of injured soldiers to their families.<ref name="citadel" /> He taught in secondary schools, was a drama critic for various literary journals, and worked as an editor for [[Plon (publisher)|Plon]], the major French Catholic publisher.<ref name="stanford">[http://plato.stanford.edu/entries/marcel/ Gabriel (-Honoré) Marcel], ''[[Stanford Encyclopedia of Philosophy]]'</ref>
+
+Marcel was the son of an [[agnostic]],<ref name="citadel">{{cite book | title=The Philosophy of Existentialism | publisher=Citadel Press | author=Marcel, Gabriel | year=1947 | location=Paris | isbn=0-8065-0901-5 | others=[[Manya Harari]] | url-access=registration | url=https://archive.org/details/philosophyofexis0000marc }}</ref> and was himself not a member of any organized religion until his conversion to [[Catholicism]] in 1929. Marcel was opposed to [[anti-Semitism]] and supported reaching out to non-Catholics.
+
+He died 8 October 1973 in Paris.
+
+==Existential themes==
+He is often classified as one of the earliest [[existentialism|existentialists]], although he dreaded being placed in the same category as [[Jean-Paul Sartre]]; Marcel came to prefer the label ''neo-[[Socrates|Socratic]]'' (possibly because of [[Søren Kierkegaard]], the father of [[Christian existentialism]], who was a neo-Socratic thinker himself). While Marcel recognized that human interaction often involved objective characterisation of "the other", he still asserted the possibility of "communion"&nbsp;– a state where both individuals can perceive each other's subjectivity.
+
+In ''The Existential Background of Human Dignity'', Marcel refers to a play he had written in 1913 entitled ''Le Palais de Sable'', in order to provide an example of a person who was unable to treat others as subjects.
+
+<blockquote>Roger Moirans, the central character of the play, is a politician, a conservative who is dedicated to defending the rights of Catholicism against free thought. He has set himself up as the champion of traditional monarchy and has just achieved a great success in the city council where he has attacked the secularism of public schools. It is natural enough that he should be opposed to the divorce of his daughter Therese, who wants to leave her unfaithful husband and start her life afresh. In this instance he proves himself virtually heartless; all his tenderness goes out to his second daughter, Clarisse, whom he takes to be spiritually very much like himself. But now Clarisse tells him that she has decided to take the veil and become a Carmelite. Moirans is horrified by the idea that this creature, so lovely, intelligent, and full of life, might go and bury herself in a convent and he decides to do his utmost to make her give up her intention... Clarisse is deeply shocked; her father now appears to her as an impostor, virtually as a deliberate fraud...<ref>''The Existential Background of Human Dignity'', pp. 31–32.</ref></blockquote>
+
+In this case, Moirans is unable to treat either of his daughters as a subject, instead rejecting both because each does not conform to her objectified image in his mind. Marcel notes that such objectification "does no less than denude its object of the one thing which he has which is of value, and so it degrades him effectively."<ref>''Homo Viator'', p. 23.</ref>
+
+Another related major thread in Marcel was the struggle to protect one's subjectivity from annihilation by modern [[materialism]] and a [[technology|technologically]] driven society. Marcel argued that scientific egoism replaces the "mystery" of being with a false scenario of human life composed of technical "problems" and "solutions". For Marcel, the human subject cannot exist in the technological world, instead being replaced by a human object. As he points out in ''Man Against Mass Society'' and other works, technology has a privileged authority with which it persuades the subject to accept his place as "he" in the internal dialogue of science; and as a result, man is convinced by science to rejoice in his own annihilation.<ref>{{Cite book
+|first=Edward G.
+|last=Ballard
+|contribution=Gabriel Marcel: The Mystery of Being
+|editor-first=George Alfred Jr.
+|editor-last=Schrader
+|title=Existential Philosophers: Kierkegaard to Merleau-Ponty
+|location=Toronto
+|publisher=McGraw-Hill
+|date=1967
+|pages=227
+}}</ref>
+
+==Influence==
+[[File:Plaque Gabriel Marcel, 21 rue de Tournon, Paris 6.jpg|thumb|left|Plaque at the home where Marcel resided from 1933 until his death.]]
+For many years, Marcel hosted a weekly philosophy discussion group through which he met and influenced important younger French philosophers like [[Jean Wahl]], [[Paul Ricœur]], [[Emmanuel Levinas]], and [[Jean-Paul Sartre]]. Marcel was puzzled and disappointed that his reputation was almost entirely based on his philosophical treatises and not on his plays, which he wrote in the hope of appealing to a wider lay audience. He also influenced [[phenomenology (philosophy)|phenomenologist]] and [[Thomism|Thomistic]] philosopher Karol Wojtyla (later [[Pope John Paul II]]), who drew on Marcel's distinction between "being" and "having" in his critique of technological change.<ref>{{Citation |last=Jeffreys |first=Derek S. |title=The Legacy of John Paul II: An Evangelical Assessment |pages=37–56 |year=2007 |editor-last=Perry |editor-first=Tim |contribution='A Deep Amazement at Man's Worth and Dignity': Technology and the Person in ''Redemptor hominis'' |publisher=[[InterVarsity Press]]}}.</ref>
+
+===Main works===
+Marcel's major books are the ''Metaphysical Journal'' (1927), ''Being and Having'' (1933), ''Homo Viator'' (1945), and ''Man Against Mass Society'' (1955). He gave the [[Gifford Lectures]] at the [[University of Aberdeen]] between 1949 and 1950, which were published as ''[[The Mystery of Being]]'' (1951). He also gave the [[William James]] Lectures at [[Harvard]] in 1961–1962, which were subsequently published as ''The Existential Background of Human Dignity''.
+
+== Works in English translation ==
+* 1948. ''The Philosophy of Existence.'' [[Manya Harari]], trans. London: The Harvill Press. Later editions were titled ''The Philosophy of Existentialism''.
+* 1949. ''Being and Having.'' Katherine Farrer, trans. Westminster, London: Dacre Press.
+* 1950. ''The Metaphysical Journal.'' Bernard Wall, trans. Chicago: Henry Regnery Company.
+* 1951. ''[[The Mystery of Being]]'', Vol. 1, ''Reflection and Mystery''  trans. [[G. S. Fraser]]; Vol. 2, ''Faith and Reality.''  trans. René Hague  London: The Harvill Press.
+* 1956. ''[[Josiah Royce|Royce]]'s Metaphysics.'' Virginia and Gordon Ringer, trans. Chicago: Henry Regnery Company.
+* 1962. ''Man Against Mass Society.'' G. S. Fraser, trans. Chicago: Henry Regnery Company.
+* 1962. ''Homo Viator: Introduction to a Metaphysic of Hope.'' Emma Craufurd, trans. Harper & Brothers.
+* 1963. ''The Existential Background of Human Dignity.'' Harvard University Press.
+* 1964. ''Creative Fidelity.'' Translated, with an introduction, by Robert Rosthal. Farrar, Straus and Company.
+* 1967. ''Presence and Immortality.'' Michael A. Machado, trans. Pittsburgh: Duquesne University Press.
+* 1967. ''Problematic Man.'' Brian Thompson, trans. New York: Herder and Herder.
+* 1973. ''Tragic Wisdom and Beyond.'' Stephen Jolin and Peter McCormick, trans. Publication of the Northwestern University Studies in Phenomenology and Existential Philosophy, ed. [[John Daniel Wild|John Wild]]. Northwestern University Press.
+* 1984. " An Autobiographical Essay," and "Replies," in ''The Philosophy of Gabriel Marcel'' ([[Library of Living Philosophers]]). [[Paul Arthur Schilpp]] and Lewis Edwin Hahn, eds. La Salle, IL: Open Court.
+* 1998. ''Gabriel Marcel's Perspectives on The Broken World: The Broken World, a Four-Act Play, Followed by Concrete Approaches to Investigating the Ontological Mystery.''  Katharine Rose Hanley, trans.  Milwaukee: Marquette University Press.
+* 2002. ''Awakenings.'' Peter Rogers, trans. Milwaukee: Marquette University Press.
+* 2004. ''Ghostly Mysteries: Existential Drama: A Mystery of Love & The Posthumous Joke.'' Katharine Rose Hanley, trans. Milwaukee: Marquette University Press.
+* 2008. ''A Path to Peace: Fresh Hope for the World. Dramatic Explorations: Five Plays by Gabriel Marcel: The Heart of Others/Dot the I/The Double Expertise/The Lantern/Colombyre or The Torch of Peace.'' Katharine Rose Hanley, trans. Milwaukee: Marquette University Press.
+* 2009. ''Thou Shall Not Die.'' Compiled by Anne Marcel. Katharine Rose Hanley, trans. South Bank: St Augustine's Press.
+* 2019. ''The Invisible Threshold: Two Plays by Gabriel Marcel.'' Brendan Sweetman, Maria Traub, Geoffrey Karabin, eds. Maria Traub, trans. South Bank: St Augustine's Press.
+*2021. ''Thirst.'' Michial Farmer, trans. Providence, RI: Cluny Media.
+
+==Bibliography==
+=== Philosophical works ===
+* ''Existence et Objectivité'' (1914).
+* ''Journal métaphysique'' (1914-1923), [[Paris]], [[Gallimard]], 1927.
+* ''Être et avoir'' (1918-1933). Paris, Aubier, 1935.
+* ''Du refus à l'invocation'', Paris, [[Gallimard]], 1940. (Republished in 1967 under the title Essai de philosophie concrète, Paris, NRF/Gallimard, 1967)
+* ''Homo viator. Prolégomènes à une métaphysique de l'espérance.'' Paris, Aubier, 1945
+* ''La Métaphysique de [[Josiah Royce|Royce]].'' Paris, Aubier, 1945
+* ''Position et Approches concrètes du mystère ontologique'', introduction by Marcel de Corte. Louvain, E. Nauwelaerts; Paris, Librairie philosophique J. Vrin, 1949
+* ''Le Mystère de l'être''. Paris, Aubier, 1951, 2 volumes.
+* ''Les Hommes contre l'humain'', Paris, La Colombe, 1951, Republished: Fayard, 1968
+* ''Le Déclin de la sagesse.'' Paris, Plon, 1954
+* ''L'Homme problématique.'' Paris, Aubier, 1955
+* ''Théâtre et Religion.'' [[Lyon]], Éditions E. Vitte, 1958
+* ''Présence et Immortalité.'' Paris, Flammarion, 1959
+* ''La Dignité humaine et ses assises existentielles.'' Paris, Aubier, 1964
+* ''Entretiens Paul Ricœur, Gabriel Marcel.'' Paris, Aubier, 1968, Republished: présence de Gabriel Marcel, 1999
+* ''Pour une sagesse tragique et son au-delà.'' Paris, Plon, 1968
+* ''En chemin, vers quel éveil?'' Paris, Gallimard, 1971
+* ''[[Samuel Taylor Coleridge|Coleridge]] et [[Friedrich Wilhelm Joseph von Schelling|Schelling]]''. Paris, Aubier, 1971
+* ''Plus décisif que la violence.'' Paris, Plon, 1971
+* ''Percées vers un ailleurs.'' Fayard, 1973
+* ''Gabriel Marcel interrogé par Pierre Boutang'' suivi de ''Position et approches concrètes du mystère ontologique.'' Paris, J.-M. Place Éditeur, 1977
+* ''Tu ne mourras pas'', textes choisis et présentés by Anne Marcel, preface by [[Xavier Tilliette]], éditions Arfuyen, 2005.
+
+===Theater===
+* ''Le Cœur des autres.'' Paris, [[Éditions Grasset & Fasquelle|Grasset]], 1921
+* ''L'Iconoclaste.'' Paris, [[Stock (publishing house)|Stock]], 1923
+* ''Un homme de Dieu.'' Paris, Grasset, 1925
+* ''La Chapelle ardente'' (1925), directed by [[Gaston Baty]], [[Théâtre du Vieux-Colombier]].
+* ''Le Monde cassé'' suivi de ''Position et approches concrètes du mystère ontologique.'' Paris, Desclée de Brouwer, 1933.
+* ''Chemin de Crète'', Paris, Grasset, 1936 - Prix Paul-Hervieu of the [[Académie française]] .
+* ''Le Dard.'' Paris, Plon, 1936
+* ''Le Fanal.'' Paris, Stock, 1936
+* ''La Soif.'' Paris, Desclée de Brouwer, 1938, republished under the title of ''Les cœurs avides'', La Table Ronde, 1952
+* ''Théâtre comique:'' Colombyre ou le brasier de la paix - La double expertise - Les points sur les i - Le divertissement posthume. Paris, Albin Michel, 1947
+* ''Vers un autre Royaume:'' L'émissaire - Le signe de la croix. Paris, Plon, 1949
+* ''Rome n'est plus dans Rome'', Paris, La Table Ronde, 1951
+* ''Croissez et multipliez.'' Paris, [[Plon (publisher)|Plon]], 1955
+* ''Mon temps n'est pas le vôtre.'' Paris, Plon, 1955
+* ''La Dimension Florestan'' suivi de la conférence ''Le Crépuscule du sens commun.'' Paris, Plon, 1958
+
+=== Literary and dramatic criticism ===
+
+*[http://www.bredafrancoise.ro/index.php?option=com_content&view=article&id=86%3A-la-critique-litteraire-et-dramatique-de-gabriel-marcel-francois-mauriac-et-gabriel-marcel&catid=34%3Akoenyveim&Itemid=54&lang=ro ''Gabriel Marcel et François Mauriac''.]{{Dead link|date=September 2023 |bot=InternetArchiveBot |fix-attempted=yes }} In : [[François Bréda]], ''Ca critique littéraire et dramatique de Gabriel Marcel'', Les Éditions Grinta, [[Cluj-Napoca]], 2004.
+*''Regards sur le théâtre de Claudel'', [[éditions Beauchesne]], 1964
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+* [[Emmanuel Levinas]], [[Paul Ricœur]] and [[Xavier Tilliette]], ''Jean Wahl et Gabriel Marcel'', Beauchesne, 1976, 96 p., {{ISBN|2-7010-0240-0}}
+* Paul Marcus, ''In Search of the Spiritual: Gabriel Marcel, Psychoanalysis, and the Sacred'' (London: Karnac), 2012. {{ISBN|1780490542}}
+
+== External links ==
+{{wikiquote}}
+* [https://web.archive.org/web/20150924091721/http://www.rockhurst.edu/gabriel-marcel-society/overview/ The Gabriel Marcel Society]
+* [https://norman.hrc.utexas.edu/fasearch/findingAid.cfm?eadID=00084 Gabriel Marcel Collection] at the [[Harry Ransom Center]]
+* [[Internet Encyclopedia of Philosophy]]: [http://www.iep.utm.edu/marcel/ Gabriel Marcel] – by Jill Graper Hernandez.
+* [[Stanford Encyclopedia of Philosophy]]: [http://plato.stanford.edu/entries/marcel/ Gabriel (-Honoré) Marcel] – by Brian Treanor.
+* [https://web.archive.org/web/20110723102658/http://www.metapsychique.org/Hommage-a-Gabriel-Marcel.html Homage to Gabriel Marcel] (Article from the "''Revue Métapsychique''" (no. 14, June 1969, pp.&nbsp;41–52)
+
+{{continental philosophy}}
+{{History of Catholic theology}}
+{{Portal bar|Biography|Catholicism|France|Philosophy|Technology|Theatre}}
+{{Authority control}}
+
+{{Use Oxford spelling|date=November 2018}}
+{{Use dmy dates|date=November 2018}}
+
+{{DEFAULTSORT:Marcel, Gabriel}}
+[[Category:1889 births]]
+[[Category:1973 deaths]]
+[[Category:Writers from Paris]]
+[[Category:20th-century French dramatists and playwrights]]
+[[Category:20th-century French philosophers]]
+[[Category:French music critics]]
+[[Category:French Roman Catholics]]
+[[Category:French Roman Catholic writers]]
+[[Category:Catholic philosophers]]
+[[Category:French people of Jewish descent]]
+[[Category:Phenomenologists]]
+[[Category:Existentialist theologians]]
+[[Category:Christian existentialists]]
+[[Category:Writers on antisemitism]]
+[[Category:Converts to Roman Catholicism from atheism or agnosticism]]
+[[Category:Members of the Académie des sciences morales et politiques]]
+[[Category:Critics of atheism]]
+[[Category:Ontologists]]
+[[Category:Ethicists]]
+[[Category:University of Paris alumni]]

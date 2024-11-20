@@ -1,0 +1,62 @@
+{{Short description|German scholar of ancient philosophy (1940–2007)}}
+{{Use dmy dates|date=August 2017}}
+{{Infobox philosopher
+|region           = Western philosophy
+|era              = [[Contemporary philosophy]]
+|image       = 
+|caption     = 
+|name        = Michael Frede
+| birth_date  = {{Birth date|1940|5|31|df=y}}
+| birth_place = [[Berlin]], [[Nazi Germany|Germany]]
+| death_date  = {{death date and age|2007|8|11|1940|5|31|df=y}}
+| death_place = [[Agios Minas]], [[Greece]]
+|school_tradition = 
+|main_interests   = [[Ancient philosophy]]
+|notable_ideas    = 
+|influences       = {{ill|Günther Patzig|de||et||}}
+|influenced       = [[Michael Forster (philosopher)|Michael Forster]]
+|signature        = 
+}}
+
+'''Michael Frede''' ({{IPA|de|ˈfʁeːdə|lang}}; 31 May 1940 – 11 August 2007) was a prominent [[scholar]] of [[ancient philosophy]], described by ''[[The Daily Telegraph|The Telegraph]]'' as "one of the most important and adventurous scholars of ancient philosophy of recent times."<ref name=":0">{{cite web|url=https://www.telegraph.co.uk/news/obituaries/1566166/Professor-Michael-Frede.html |title=Professor Michael Frede |website=The Daily Telegraph |date=15 October 2007 |accessdate=8 August 2017}}</ref>
+
+== Education and career ==
+Frede earned his [[Doctor of Philosophy|Ph.D.]] at the [[University of Göttingen]] in 1966 and worked there as an assistant ({{lang|de|Wissenschaftlicher Assistent}}) from 1966 to 1971.<ref name=":0" />
+
+He joined the faculty of the philosophy department at [[University of California, Berkeley]]<ref>{{Cite web |url=http://philosophy.berkeley.edu/ |title=UC Berkeley - Department of Philosophy |access-date=2 April 2020 |archive-url=https://web.archive.org/web/20081218133210/http://philosophy.berkeley.edu/ |archive-date=18 December 2008 |url-status=dead }}</ref> as an assistant professor (1971) and quickly rose to the status of full professor. From 1976 to 1991, he was a professor at the [[Princeton University]] Philosophy Department.<ref>[http://philosophy.princeton.edu Princeton University Department of Philosophy - Home]</ref>
+
+He returned to Europe in 1991 and took the chair in the history of philosophy at the [[University of Oxford]].<ref>[http://www.classics.ox.ac.uk/faculty/directory/buscard.asp?IDno=276 Faculty of Classics, University of Oxford]</ref> In 1997-8 he returned to Berkeley to lecture on [[free will]] as the 84th visiting Sather Professor of Classical Literature; the resulting book was published posthumously.<ref>{{cite web|url=http://classics.berkeley.edu/news/articles/story.php?id=18 |title=Death of Former Sather Professor Michael Frede - UC Berkeley Department of Classics |accessdate=1 September 2007 |url-status=dead |archiveurl=https://web.archive.org/web/20070826080521/http://classics.berkeley.edu/news/articles/story.php?id=18 |archivedate=26 August 2007 }}</ref> He retired from Oxford in 2005 and lived in [[Athens, Greece]], until his death in a drowning accident in 2007.<ref name=":0" />
+
+He was a Member of the Göttingen Academy of Sciences and a Fellow of both the British Academy (elected 1994)<ref>{{cite web |url=http://www.britac.ac.uk/fellowship/directory/dec.cfm?member=2920 |title=Deceased Fellows - British Academy |website=www.britac.ac.uk |access-date=17 January 2022 |archive-url=https://web.archive.org/web/20150716005709/http://www.britac.ac.uk/fellowship/directory/dec.cfm?member=2920 |archive-date=16 July 2015 |url-status=dead}}</ref> and the American Academy of Arts and Sciences.
+
+== Selected works ==
+*''Pradikation und Existenzaussage: Platons Gebrauch von "...ist..." und "...ist nicht..." im Sophistes'', 1967<ref name=":0" />
+*''Die Stoische Logik'', 1974<ref name=":0" />
+*''Galen. Three Treatises on the Nature of Science'' (co-edited with [[Richard Walzer]]), 1985
+*''Essays in Ancient Philosophy'', 1987<ref name=":0" />
+*''Aristoteles 'Metaphysik Z': Text, Übersetzung und Kommentar'', 2 vols (with Günther Patzig), 1988<ref name=":0" />
+*''The Original Sceptics: A Controversy'' (co-edited with [[Myles Burnyeat]]), 1997
+*''Rationality in Greek Thought'' (co-edited with [[Gisela Striker]]), 1999<ref name=":0" />
+*''Pagan Monotheism in Late Antiquity'' (co-edited with Polymnia Athanassiadi), 2001<ref name=":0" />
+*''Aristotle's Metaphysics Book Lambda'' (co-edited with [[David Charles (philosopher)|David Charles]]), 2001<ref>{{Cite journal |last=Shields |first=Christopher |date=2002-05-11 |title=Review of Aristotle's Metaphysics Book Lambda |url=https://ndpr.nd.edu/reviews/aristotle-s-metaphysics-book-lambda/ |language=en |issn=1538-1617}}</ref>
+*''A Free Will: origins of the notion in ancient thought'' (edited by [[A. A. Long]] with a foreword by [[David Sedley]]), 2011
+*''The Pseudo-Platonic Seventh Letter (Uehiro Series in Practical Ethics)'', (co-author with [[Myles Burnyeat]]) Oxford University Press 2015<ref>{{Cite journal |last=Price |first=A. W. |date=July 2016 |title=The Pseudo-Platonic Seventh Letter By Myles Burnyeat and Michael Frede (ed. Dominic Scott) Oxford University Press, 2015, pp. xv + 224, £30 ISBN 978-0-19-873365-2 |url=https://eprints.bbk.ac.uk/id/eprint/14579/3/14579.pdf |journal=Philosophy |language=en |volume=91 |issue=3 |pages=450–453 |doi=10.1017/S0031819116000188 |s2cid=171010874 |issn=0031-8191}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://hrcak.srce.hr/file/33741 Obituary in ''Prolegomena'', April 2008]
+* [http://schmidhauser.us/2007-bib.frede.pdf A full bibliography of Michael Frede's works (1962–2011)]
+{{Authority control}}
+
+{{DEFAULTSORT:Frede, Michael}}
+[[Category:Princeton University faculty]]
+[[Category:Academics of the University of Oxford]]
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:1940 births]]
+[[Category:2007 deaths]]
+[[Category:University of Göttingen alumni]]
+[[Category:German scholars of ancient Greek philosophy]]
+[[Category:German male writers]]
+[[Category:20th-century German philosophers]]

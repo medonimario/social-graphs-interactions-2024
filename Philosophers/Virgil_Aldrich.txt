@@ -1,0 +1,112 @@
+{{short description| American philosopher of art, language, and religion}}
+{{Use dmy dates|date=July 2018}}
+{{Use Indian English|date=July 2018}}
+{{more citations needed|date=July 2018}}
+{{Infobox philosopher
+| name = Virgil Charles Aldrich
+| birth_date = 13 September 1903
+| birth_place = Narsinghpur, India
+| death_date = 28 May 1998
+| death_place = Salt Lake City, Utah, United States
+| nationality = American
+| alma_mater = Ohio Wesleyan University, Oxford University, Sorbonne, University of California, Berkeley
+| era = 20th century
+| region = Western philosophy
+| school_tradition = Analytic philosophy, Philosophy of art
+| main_interests = Philosophy of art, language, religion
+| notable_ideas = Definitions of vagueness, the distinction between vagueness of symbols and senses
+| spouse = Louise Hafliger
+| children = David Virgil Aldrich
+| notable_works = ''Philosophy of Art'', ''The Body of a Person''
+| awards = L.H.D. from Ohio Wesleyan University and Kenyon College}}
+'''Virgil Charles Aldrich''' (13 September 1903 in [[Narsinghpur]], [[British India|India]] – 28 May 1998 in [[Salt Lake City]], [[Utah]]), was an American [[philosopher of art]], [[Philosophy of language|language]], and [[Philosophy of religion|religion]].
+
+==Early life and education==
+The son of Floyd Clement Aldrich and his wife Ann Hanley, Virgil Aldrich earned his [[Bachelor of Arts]] degree at [[Ohio Wesleyan University]] in 1925. He studied at [[Oxford University]] in 1927 and then went on to earn a ''[[Diplôme d'Études Supérieures]] de Philosophie'' at the [[University of Paris|Sorbonne]] in 1928 before completing his [[Ph.D.]] at the [[University of California Berkeley]] in 1931. He married Louise Hafliger on 3 September 1927, and they had one son, David Virgil Aldrich.
+
+==Academic career==
+Aldrich's first academic appointment was his appointment as an [[professor|instructor]] in [[philosophy]] at [[Rice University]] in 1931 and Sterling Fellow at [[Yale University]] in 1931-32. Promoted to [[assistant professor]], he remained at Rice until 1942, when he was appointed visiting professor at [[Columbia University]] from 1942 to 1946. Appointed [[professor]] of philosophy at [[Kenyon College]] in 1946, he remained there until 1965, serving as a visiting professor at [[Brown University]] in 1962-63. In 1965, he became a professor of philosophy at the [[University of North Carolina at Chapel Hill]], where he remained until his retirement in 1972.  On his retirement, he moved to [[Salt Lake City, Utah]], where he became an adjunct professor at the [[University of Utah]].
+
+Aldrich served as Director of the [[Kyoto American Studies Institute]] in [[Japan]]<ref>{{cite journal |last1=Hull |first1=Richard T. |title=Biography: Virgil Charles Aldrich |url=https://www.pdcnet.org/apapa/content/apapa_2013_0455_0457_475?file_type=pdf |website=The American Philosophical Association Centennial Series |series=American Philosophical Association Centennial Series |access-date=8 August 2023 |pages=455–457 |language=en |doi=10.5840/apapa2013475 |date=1 January 2013}}</ref> and for short periods was visiting professor at [[Harvard University]], the [[University of Michigan]], and [[the University of Texas]].  He served as trustee and president of the [[American Society of Aesthetics]]<ref>{{cite journal |title=Front Matter |journal=The Journal of Aesthetics and Art Criticism |date=1971 |volume=29 |issue=3 |jstor=428972 |url=https://www.jstor.org/stable/428972 |access-date=8 August 2023 |issn=0021-8529}}</ref> and president of [[American Philosophical Association]].
+
+=="Some Meanings of Vague" (1937)==
+
+In his article "Some Meanings of Vague",<ref>''Analysis'', Vol. 4, No. 6 (Aug. 1937), pp. 89–95, Published by: Blackwell Publishing on behalf of The Analysis Committee.</ref> Aldrich puts forth a series of definitions of [[vagueness|vague]] objects and [[sensum]] and then argues that any empiricist must account for vague sensum every bit as much as clear sensum, without skirting the issue.  He takes there to be many kinds of vagueness—importantly, there is the vagueness of symbols and vagueness of senses.  Here, symbols are anything that is used to refer to, including verbal words, signs, pictures, and more.  Vagueness regarding symbols can be the same as the vagueness which regards the senses.  There can, additionally, be vagueness of the practices surrounding the use of the symbol to refer.  These, he suggests, should be avoided.
+
+==Honors==
+* [[Doctor of Humane Letters|L.H.D.]], [[Ohio Wesleyan University]], 1963
+* [[Doctor of Humane Letters|L.H.D.]], [[Kenyon College]], 1972
+
+==Writings==
+'''Books''':
+* ''Language and philosophy'' ([Kyoto]: Kyoto American Studies Seminar, 1955)
+* ''Philosophy of Art'', (Englewood Cliffs, N.J., Prentice-Hall, 1963)
+* ''The Body of a Person'', (Lanham, MD: University Press of America, 1988)
+* ''My Century'', Nantucket, Massachusetts, EditAndPublishYourBook.com/Lulu, 20 November 2010
+* ''Philosophical Reflections'', Nantucket, Massachusetts, EditAndPublishYourBook.com/Lulu, 
+11 December 2010
+
+'''Contributions''':
+* ''Readings in Philosophical Analysis'' (1951)
+* ''Reflections on Art'' (1958)
+* ''Religious Experience and Truth'' (1961)
+* ''Faith and the Philosophers'' (1962)
+* ''World Perspectives on Philosophy'' (1967)
+* [http://www.compilerpress.atfreeweb.com/Anno%20Aldrich%20Design,%20Composition,%20and%20Symbol%20JAAC%201969.htm "Design, Composition, and Symbol"], ''The Journal of Aesthetics and Art Criticism'' (Vol. 27, No. 4, Summer, 1969), pp.&nbsp;379–388.
+* ''Studies in philosophy: a symposium on Gilbert Ryle'', Edited by Konstantin Kolenda. (Houston, Tex. : William Marsh Rice University, 1972)
+* "Pictures and Persons" in ''Review of Metaphysics'' (1975)
+* "Description and expression: Physicalism restricted," ''Inquiry'' vol. 20 (1977), pp.&nbsp;149–164.
+* ''Falling in love with wisdom: American philosophers talk about their calling,'' edited by David D. Karnos, Robert G. Shoemaker. (New York : Oxford University Press, 1993
+
+'''Festschrift'''
+* ''Body, mind, and method: essays in honor of Virgil C. Aldrich'' edited by Donald F. Gustafson and Bangs L. Tapscott. (Dordrecht and Boston: D. Reidel Pub. Co., 1979)
+
+==See also==
+*[[American philosophy]]
+*[[List of American philosophers]]
+
+==References==
+
+{{reflist}}
+
+==Sources==
+* University of Utah Library
+* ''[[Marquis Who's Who]]''
+
+==External links==
+*[https://web.archive.org/web/20051212013924/http://www1.kenyon.edu/publications/bulletin/21_3/deaths.htm Kenyon College Obituary]
+*[https://archive.today/20121212123715/http://content.lib.utah.edu/u?/UU_EAD,950   Inventory of the Vigil Aldrich Papers, Marriott Library, University of Utah]
+*[https://books.google.com/books?id=JGAOWprxkoYC Body, Mind and Method available at Google Books]
+*[https://www.jstor.org/pss/2107304 Entry for Virgil Aldrich at JSTOR]
+*[https://web.archive.org/web/20110607174912/http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.jsl%2F1183732576 Review at the Journal of Symbolic Logic]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Aldrich, Virgil}}
+[[Category:1903 births]]
+[[Category:1998 deaths]]
+[[Category:20th-century American philosophers]]
+[[Category:Alumni of the University of Oxford]]
+[[Category:Indian emigrants to the United States]]
+[[Category:Philosophers from Texas]]
+[[Category:Philosophers from New York (state)]]
+[[Category:American philosophers of language]]
+[[Category:Ohio Wesleyan University alumni]]
+[[Category:University of Paris alumni]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Philosophers from Utah]]
+[[Category:Philosophers from North Carolina]]
+[[Category:Rice University faculty]]
+[[Category:Columbia University faculty]]
+[[Category:University of Utah faculty]]
+[[Category:Kenyon College faculty]]
+[[Category:University of North Carolina at Chapel Hill faculty]]
+[[Category:American philosophers of art]]
+[[Category:People from Narsinghpur]]
+[[Category:University of Michigan faculty]]
+[[Category:American male writers of Indian descent]]
+[[Category:American expatriates in France]]
+[[Category:Philosophers from Ohio]]
+[[Category:American male non-fiction writers]]
+[[Category:20th-century American male writers]]
+[[Category:American expatriates in England]]

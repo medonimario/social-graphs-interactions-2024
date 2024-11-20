@@ -1,0 +1,431 @@
+{{short description|64th Bishop of Rome, Head of the Roman Catholic Church from 590 to 604}}
+{{Redirect|Saint Gregory}}
+{{Use dmy dates|date=November 2024}}
+{{Infobox Christian leader
+| type = Pope
+| honorific_prefix = [[Pope Saint]]
+| name = Gregory I
+| title = [[Bishop of Rome]]
+| image = Gregory the Great with the Holy Spirit.jpg
+| image_size = 
+| caption = Miniature of Gregory the Great writing, in a 12th-century copy of his Dialogues, [[British Library]], [[London]].
+| church = [[Chalcedonian Christianity]]
+| term_start = 3 September 590
+| term_end = 12 March 604
+| predecessor = [[Pelagius II]]
+| successor = [[Pope Sabinian|Sabinian]]
+| consecration = 3 September 590
+| birth_name = Gregorius Anicius
+| birth_date = {{circa|540}}
+| birth_place = Rome, [[Eastern Roman Empire]]
+| death_date = {{death date and age|df=y|604|3|12|540}}
+| death_place = Rome, Eastern Roman Empire
+| buried = [[St. Peter's Basilica]] (1606)
+| religion = 
+| residence = Rome
+| parents = Gordianus and [[Saint Silvia|Silvia]]
+<!---------- Sainthood ---------->
+| feast_day = {{unbulleted list|3 September ([[Latin Church]])|12 March ([[Eastern Orthodox Church]], [[Latin Church]] pre-1969, [[Eastern Christianity|Eastern Churches]], [[Anglicanism]], [[Lutheranism]])}}
+| venerated = {{unbulleted list|[[Catholic Church]]|[[Eastern Orthodox Church]]|[[Anglicanism]]|[[Lutheranism]]}}
+| saint_title = 
+| beatified_date = 
+| beatified_place = 
+| beatified_by = 
+| canonized_date = 
+| canonized_place = 
+| canonized_by = 
+| attributes = {{ublist|[[Papal tiara]]|[[Papal vestments]]|[[Papal cross]]|[[book]]|[[quill]]}}
+| patronage = Musicians, singers, students, and teachers
+| shrine = 
+| suppressed_date = 
+| other = Gregory
+}}
+'''Pope Gregory I''' ({{langx|la|Gregorius I}}; {{circa|540}} – 12 March 604), commonly known as '''Saint Gregory the Great''', was the 64th [[Bishop of Rome]] from 3 September 590 to his death.{{sfn|Huddleston|1909}}{{efn|name=TheGreat}} He is known for instituting the first recorded large-scale mission from Rome, the [[Gregorian mission]], to convert the then largely [[pagan]] Anglo-Saxons to Christianity.{{sfn|Flechner|2015|p= 47}} Gregory is also well known for his writings, which were more prolific than those of any of his predecessors as pope.<ref>Ekonomou, 2007, p. 22.</ref> The epithet '''Saint Gregory the Dialogist''' has been attached to him in [[Eastern Christianity]] because of his ''[[Dialogues (Pope Gregory)|Dialogues]]''. English translations of Eastern texts sometimes list him as Gregory "Dialogos" from the Greek {{lang|el|διάλογος}} (''dialogos'', conversation), or the Anglo-Latinate equivalent "Dialogus".<ref name="OCA">{{Cite web|url=https://oca.org/saints/lives/0216/03/12/100789-st-gregory-dialogus-the-pope-of-rome|title=St. Gregory Dialogus, the Pope of Rome|website=oca.org, [[Orthodox Church in America]]|language=en|access-date=20 April 2018}}</ref>
+
+A [[Roman senator]]'s son and himself the [[prefect of Rome]] at 30, Gregory lived in a [[monastery]] that he established on his family estate before becoming a papal ambassador and then pope. Before becoming Pope, he challenged the theological views of [[Patriarch Eutychius of Constantinople]] before the emperor [[Tiberius II]]. Although he was the first pope from a [[monastic]] background, his prior political experiences may have helped him to be a talented administrator. During his papacy, his administration greatly surpassed that of the emperors in improving the welfare of the people of Rome. Gregory regained papal authority in [[Catholic Church in Spain|Spain]] and [[Catholic Church in France|France]] and sent missionaries to [[Catholic Church in England|England]], including [[Augustine of Canterbury]] and [[Paulinus of York]]. The realignment of barbarian allegiance to Rome from their [[Arianism|Arian]] Christian alliances shaped medieval Europe. Gregory saw [[Franks]], [[Lombards]], and [[Visigoths]] align with Rome in religion. He also combated the [[Donatist]] heresy, popular particularly in North Africa at the time.<ref name=OCA />
+
+Throughout the Middle Ages, he was known as "the Father of Christian Worship" because of his exceptional efforts in revising the Roman worship of his day.{{sfn|Ellard|1948|p=125}} His contributions to the development of the [[Divine Liturgy of the Presanctified Gifts]], still in use in the [[Byzantine Rite]], were so significant that he is generally recognized as its ''de facto'' author.
+
+Gregory is one of the [[Latin Fathers]] and a [[Doctor of the Church]].{{sfn|Livingstone|1997|p=415}} He is considered a [[saint]] in the [[Catholic Church]], [[Eastern Orthodox Church]], [[Anglican Communion]], various [[Lutheran]] denominations, and other [[Protestant]] denominations. Immediately after his death, Gregory was canonized by popular acclaim.{{sfn|Cross|Livingstone|2005|p=710}} The Protestant reformer [[John Calvin]] admired Gregory greatly and declared in his [[Institutes of the Christian Religion|''Institutes'']] that Gregory was the last good pope.{{sfn|Calvin|1845|p=125|loc=Bk IV, Ch. 7}}{{sfn|Little|1963|pp=145–157}} He is the [[patron saint]] of musicians and teachers.<ref name=scborromeo.org />
+
+==Early life==
+Gregory was born around 540{{efn|name=Totila}} in [[Rome]], then recently [[Gothic War (535-554)|reconquered]] by the [[Eastern Roman Empire]] from the [[Ostrogothic Kingdom|Ostrogoths]]. His parents named him ''Gregorius'', which according to [[Ælfric of Eynsham]] in ''An Homily on the Birth-Day of S. Gregory,'' "is a Greek Name, which signifies in the Latin Tongue, ''Vigilantius'', that is in English, Watchful".{{sfn|Ælfric|1709|p=4}} The medieval writer who provided this etymology{{efn|name=translator}} did not hesitate to apply it to the life of Gregory. Ælfric states, "He was very diligent in God's Commandments."{{efn|name=grēgorein}}
+
+Gregory was born into a wealthy noble Roman family with close connections to the church. His father, Gordianus, a patrician{{sfn|Huddleston|1909}} who served as a senator and for a time was the Prefect of the City of Rome,<ref name=Thornton>Thornton, pp 163–8</ref> also held the position of [[Regionarius]] in the church, though nothing further is known about that position. Gregory's mother, [[Saint Silvia|Silvia]], was well-born, and had a married sister, Pateria, in [[Sicily]]. His mother and two paternal aunts, [[Trasilla and Emiliana]], are honored by Catholic and Orthodox churches as saints.<ref name=Thornton /><ref name=OCA /> Gregory's great-grandfather had been [[Pope Felix III]].{{efn|name=IIIorIV}}<ref name=" Dud4">Dudden (1905), page 4.</ref> Gregory's election to the throne of St. Peter made his family the most distinguished clerical dynasty of the period.{{sfn|Richards|1980|p=}}
+
+The family owned and resided in a ''[[villa suburbana]]'' on the [[Clivus Scauri]] on the [[Caelian Hill]], (now the Via di San Gregorio). It branched from the road having the former palaces of the Roman emperors on the [[Palatine Hill]] opposite. The north of the street runs into the [[Colosseum]]; the south, the [[Circus Maximus]]. In Gregory's day the ancient buildings were in ruins and were privately owned.<ref>Dudden (1905), pages 11–15.</ref> Villas covered the area. Gregory's family also owned working estates in [[Sicily]]<ref>Dudden (1905), pages 106–107.</ref> and around Rome.{{sfn|Richards|1980|p=25}} Gregory later had portraits of his parents frescoed in their former home on the Caelian and these were described 300 years later by [[Johannes Hymonides|John the Deacon]]. Gordianus was tall with a long face and light eyes. He wore a beard. [[Saint Silvia|Silvia]] was tall, had a round face, blue eyes and a cheerful look. They had another son whose name and fate are unknown.<ref>Dudden (1905), pages 7–8.</ref>
+
+Gregory was born into a period of upheaval in Italy. From 542 the so-called [[Plague of Justinian]] swept through the provinces of the empire, including Italy. The plague caused famine, panic, and sometimes rioting. In some parts of the country, over a third of the population was wiped out or destroyed, with heavy spiritual and emotional effects on the people of the empire.{{sfn|Markus|1997|pp=4–5}} Politically, although the [[Western Roman Empire]] had long since vanished in favor of the Gothic kings of Italy, during the 540s [[Italy in the Middle Ages|Italy]] was gradually retaken from the [[Goths]] by [[Justinian I]], emperor of the [[Byzantine Empire|Eastern Roman Empire]] ruling from [[Constantinople]]. As the fighting was mainly in the north, the young Gregory probably saw little of it. [[Totila]] [[Sack of Rome (546)|sacked and vacated Rome]] in 546, destroying most of its population, but in 549 he invited those who were still alive to return to the empty and ruined streets. It has been hypothesized that young Gregory and his parents retired during that intermission to their Sicilian estates, to return in 549.<ref>Dudden (1905), pages 36–37.</ref> The [[Gothic War (535–554)|war]] was over in Rome by 552, and a subsequent invasion of the [[Franks]] was defeated in 554.
+
+Like most young men of his position in Roman society, Gregory was well educated, learning grammar, rhetoric, the sciences, literature, and law; he excelled in all these fields.<ref name=Thornton /> [[Gregory of Tours]] reported that "in grammar, dialectic and rhetoric ... he was second to none".{{sfn|Richards|1980|p=26}} He wrote correct Latin but did not read or write Greek. He knew Latin authors, natural science, history, mathematics and music and had such a "fluency with imperial law" that he may have trained in it "as a preparation for a career in public life".{{sfn|Richards|1980|p=26}} Indeed, he became a government official, advancing quickly in rank to become, like his father, Prefect of Rome, the highest civil office in the city, when only thirty-three years old.<ref name=Thornton />
+
+The monks of the [[Monastery of Saint Andrew|Monastery of St. Andrew]], established by Gregory at the ancestral home on the Caelian, had a portrait of him made after his death, which John the Deacon also saw in the 9th century. He reports the picture of a man who was "rather bald" and had a "tawny" beard like his father's and a face that was intermediate in shape between his mother's and father's. The hair that he had on the sides was long and carefully curled. His nose was "thin and straight" and "slightly aquiline". "His forehead was high." He had thick, "subdivided" lips and a chin "of a comely prominence" and "beautiful hands".{{sfn|Richards|1980|p=44}}
+
+In the modern era, Gregory is often depicted as a man at the border, poised between the Roman and Germanic worlds, between East and West, and above all, perhaps, between the ancient and medieval epochs.<ref>Leyser pg 132</ref>
+
+==Monastic years==
+
+On his father's death, Gregory converted his family ''villa'' into a [[monastery]] dedicated to [[Andrew the Apostle]] (after his death it was rededicated as [[San Gregorio Magno al Celio]]). In his life of contemplation, Gregory concluded that "in that silence of the heart, while we keep watch within through contemplation, we are as if asleep to all things that are without."<ref>Cavadini pg 155</ref>
+
+Gregory had a deep respect for the monastic life and particularly the vow of poverty. Thus, when it came to light that a monk lying on his death bed had stolen three gold pieces, Gregory, as a remedial punishment, forced the monk to die alone, then threw his body and coins on a manure heap to rot with a condemnation, "Take your money with you to perdition." Gregory believed that punishment of sins can begin, even in this life before death.<ref>Straw pg 47</ref> However, in time, after the monk's death, Gregory had 30 Masses offered for the man to [[Prayer for the dead|assist his soul]] before the [[final judgment]]. He viewed being a monk as the "ardent quest for the vision of our Creator."{{sfn|Markus|1997|p=69}} His three paternal aunts were nuns renowned for their sanctity. However, after the eldest two, [[Trasilla and Emiliana]], died after seeing a vision of their ancestor [[Pope Felix III]], the youngest soon abandoned the religious life and married the steward of her estate. Gregory's response to this family scandal was that "many are called but few are chosen."{{sfn|Richards|1980|p=26}} Gregory's mother, [[Saint Silvia|Silvia]], is herself a [[saint]]. 
+
+Eventually, [[Pope Pelagius II]] ordained Gregory a [[deacon]] and solicited his help in trying to heal the [[schism of the Three Chapters]] in [[northern Italy]]. However, this schism was not healed until well after Gregory was gone.{{sfn|Markus|1997|p=3}}
+
+==Apocrisiariate (579–585)==
+[[File:Moralia in Job MS dragonslayer.jpg|thumb|upright|Illumination in a 12th-century [[manuscript]] of a letter of Gregory's to [[Leander of Seville|Leander]], [[bishop of Seville]] (Bibl. Municipale, MS 2, [[Dijon]])]]
+
+In 579, Pelagius II chose Gregory as his ''[[apocrisiarius]]'' (ambassador to the imperial court in [[Constantinople]]), a post Gregory would hold until 586.<ref>Ekonomou, 2007, p. 8.</ref> Gregory was part of the Roman delegation (both lay and clerical) that arrived in Constantinople in 578 to ask the emperor for military aid against the [[Lombards]].<ref name="e9">Ekonomou, 2007, p. 9.</ref> With the Byzantine military [[Byzantine–Sassanid War of 572–591|focused on the East]], these entreaties proved unsuccessful; in 584, Pelagius II wrote to Gregory as ''apocrisiarius'', detailing the hardships that Rome was experiencing under the Lombards and asking him to ask [[Emperor Maurice]] to send a relief force.<ref name="e9"/> Maurice, however, had long ago determined to limit his efforts against the Lombards to intrigue and diplomacy, pitting the [[Franks]] against them.<ref name="e9"/> It soon became obvious to Gregory that the Byzantine emperors were unlikely to send such a force, given their more immediate difficulties with the Persians in the East and the [[Pannonian Avars|Avars]] and [[Slavs]] to the North.<ref name="e10">Ekonomou, 2007, p. 10.</ref>
+
+According to Ekonomou, "if Gregory's principal task was to plead Rome's cause before the emperor, there seems to have been little left for him to do once imperial policy toward Italy became evident. Papal representatives who pressed their claims with excessive vigor could quickly become a nuisance and find themselves excluded from the imperial presence altogether".<ref name="e10"/> Gregory had already drawn an imperial rebuke for his lengthy canonical writings on the subject of the legitimacy of [[John III Scholasticus]], who had occupied the Patriarchate of Constantinople for twelve years prior to the return of [[Patriarch Eutychius of Constantinople|Eutychius]] (who had been driven out by Justinian).<ref name="e10"/> Gregory turned to cultivating connections with the Byzantine elite of the city, where he became extremely popular with the city's upper class, "especially aristocratic women".<ref name="e10"/> Ekonomou surmises that "while Gregory may have become spiritual father to a large and important segment of Constantinople's aristocracy, this relationship did not significantly advance the interests of Rome before the emperor".<ref name="e10"/> Although the writings of John the Deacon claim that Gregory "labored diligently for the relief of Italy", there is no evidence that his tenure accomplished much towards any of the objectives of Pelagius II.<ref>Ekonomou, 2007, pp. 10–11.</ref>
+
+Gregory's theological disputes with Patriarch Eutychius would leave a "bitter taste for the theological speculation of the East" with Gregory that continued to influence him well into his own papacy.<ref name="e11">Ekonomou, 2007, p. 11.</ref> According to Western sources, Gregory's very public debate with Eutychius culminated in an exchange before [[Tiberius II]] where Gregory cited a biblical passage{{efn|name=Palpate}} in support of the view that Christ was corporeal and palpable after his Resurrection; allegedly as a result of this exchange, Tiberius II ordered Eutychius's writings burned.<ref name="e11"/> Ekonomou views this argument, though exaggerated in Western sources, as Gregory's "one achievement of an otherwise fruitless ''apokrisiariat''".<ref name="e12">Ekonomou, 2007, p. 12.</ref> In reality, Gregory was forced to rely on Scripture because he could not read the untranslated Greek authoritative works.<ref name="e12"/>
+
+Gregory left Constantinople for Rome in 585, returning to his monastery on the [[Caelian Hill]].<ref name="e13">Ekonomou, 2007, p. 13.</ref> Gregory was elected by [[acclamation]] to succeed Pelagius II in 590, when the latter died of the [[Plague (disease)|plague]] spreading through the city.<ref name="e13"/> Gregory was approved by an Imperial ''[[iussio]]'' from Constantinople the following September (as was the norm during the [[Byzantine Papacy]]).<ref name="e13"/>
+
+===Controversy with Eutychius===
+In Constantinople, Gregory took issue with the aged [[Patriarch Eutychius of Constantinople]], who had recently published a treatise, now lost, on the [[Resurrection of the dead|General Resurrection]]. Eutychius maintained that the resurrected body "will be more subtle than air, and no longer palpable".{{sfn|Smith|Wace|1880|p=415}}{{efn|The dictionary account is apparently based on [[Bede]], Book II, Chapter 1, who used the expression "...impalpable, of finer texture than wind and air."}} Gregory opposed and used the palpability of the risen Christ in Luke 24:39 as evidence.<ref>{{bibleverse||Luke|24:39|KJV}}</ref> As the dispute could not be settled, the [[Byzantine emperor]], [[Tiberius II Constantine]], undertook to arbitrate. He decided in favor of palpability and ordered Eutychius' book to be [[book burning|burned]]. Shortly after both Gregory and Eutychius became ill; Gregory recovered, but Eutychius died on 5 April 582, at age 70. On his deathbed Eutychius recanted impalpability and Gregory dropped the matter.
+
+==Papacy==
+[[File:Pictures of English History Plate V - Saint Augustine and the Saxons.jpg|thumb|[[Augustine of Canterbury]] on [[Gregorian mission|his mission]] to [[Anglo Saxon England|Anglo-Saxon England]]]]
+Gregory was more inclined to remain retired into the monastic lifestyle of contemplation.<ref>Straw p. 25</ref> In texts of all genres, especially those produced in his first year as pope, Gregory bemoaned the burden of office and mourned the loss of the undisturbed life of prayer he had once enjoyed as a monk.<ref>Cavadini p. 39</ref>
+When he became pope in 590, among his first acts was writing a series of letters disavowing any ambition to the throne of Peter and praising the contemplative life of the monks. At that time, for various reasons, the [[Holy See]] had not exerted effective leadership in the West since the pontificate of [[Pope Gelasius I|Gelasius I]]. The episcopacy in [[Gaul]] was drawn from the great territorial families, and identified with them: the parochial horizon of Gregory's contemporary, [[Gregory of Tours]], may be considered typical; in [[Visigoths|Visigothic]] Spain the bishops had little contact with Rome; in Italy the territories which had ''de facto'' fallen under the administration of the papacy were beset by the violent [[Lombards|Lombard]] dukes and the rivalry of the Byzantines in the [[Exarchate of Ravenna]] and in the south.
+
+Pope Gregory had strong convictions on missions: "Almighty God places good men in authority that He may impart through them the gifts of His mercy to their subjects. And this we find to be the case with the British over whom you have been appointed to rule, that through the blessings bestowed on you the blessings of heaven might be bestowed on your people also."<ref>Dudden p. 124</ref> He is credited with re-energizing the Church's missionary work among the non-Christian peoples of northern Europe. He is most famous for sending a mission, often called the [[Gregorian mission]], under [[Augustine of Canterbury]], prior of Saint Andrew's, where he had perhaps succeeded Gregory, to evangelize the pagan [[Anglo-Saxons]] of Britain. It seems that the pope had never forgotten the Anglo-Saxon slaves whom he had once seen in the Roman Forum.<ref>Dudden p. 99</ref> The mission was successful, and it was from England that missionaries later set out for the Netherlands and Germany. The preaching of non-heretical Christian faith and the elimination of all deviations from it was a key element in Gregory's worldview, and it constituted one of the major continuing policies of his pontificate.{{sfn|Richards|1980|p=228}} Pope Gregory the Great urged his followers on the [[Hygiene in Christianity|value of bathing]] as a bodily need.{{sfn|Squatriti|2002|p=54}}
+
+It is said he was [[canonization|declared a saint]] immediately after his death by "popular acclamation".{{sfn|Huddleston|1909}}
+
+In his official documents, Gregory was the first to make extensive use of the term "[[Servant of the Servants of God]]" ({{lang|la|servus servorum Dei}}) as a papal title, thus initiating a practice that was to be followed by most subsequent popes.{{sfn|Meehan|1912}}
+
+===Alms===
+The Church had a practice from early times of passing on a large portion of the donations it received from its members as [[alms]]. Gregory is known for his extensive administrative system of charitable relief of the poor at Rome. The poor were predominantly refugees from the incursions of the [[Lombards]]. The philosophy under which he devised this system is that the wealth belonged to the poor and the church was only its steward. He received lavish donations from the wealthy families of Rome, who, following his own example, were eager, by doing so, to expiate their sins. He gave alms equally as lavishly both individually and en masse. He wrote in letters:<ref>Dudden (1905) page 316.</ref> "I have frequently charged you&nbsp;... to act as my representative&nbsp;... to relieve the poor in their distress" and "I hold the office of steward to the property of the poor".
+
+In Gregory's time, the Church in Rome received donations of many different kinds: [[consumables]] such as food and clothing; investment property: real estate and works of art; and [[capital goods]], or [[revenue]]-generating property, such as the [[Sicily|Sicilian]] [[latifundia]], or agricultural estates. The Church already had a system for circulating the consumables to the poor: associated with each of the main city churches was a [[deacon]]. He was given a building from which the poor could apply for assistance at any time.{{efn|name=Later}}{{sfn|Smith|Cheetham |1875|p=549}}
+
+The circumstances in which Gregory became pope in 590 were of ruination. The Lombards held the greater part of Italy. Their depredations had brought the economy to a standstill. They camped nearly at the gates of Rome. The city itself was crowded with refugees from all walks of life, who lived in the streets and had few of the necessities of life. The seat of government was far from Rome in [[Constantinople]] and appeared unable to undertake the relief of Italy. 
+[[File:Mass_of_St._Gregory,_c._1490,_attributed_to_Diego_de_la_Cruz,_oil_and_gold_on_panel_(Philadelphia_Museum_of_Art).jpg|left|upright|thumb|''[[Mass of St. Gregory]]'', {{c.|1490|lk=no}}, attributed to Diego de la Cruz, oil and gold on panel ([[Philadelphia Museum of Art]])]]
+In 590, Gregory could wait for Constantinople no longer. He organized the resources of the church into an administration for general relief. In doing so he evidenced a talent for and intuitive understanding of the principles of accounting, which was not to be invented for centuries. The church already had basic accounting documents: every [[expense]] was recorded in [[double-entry bookkeeping system|journals]] called ''regesta'', "lists" of amounts, recipients and circumstances. Revenue was recorded in ''polyptici'', "[[Bookkeeping|books]]". Many of these polyptici were [[ledger]]s recording the operating expenses of the church and the [[asset]]s, the ''patrimonia''. A central papal administration, the ''notarii'', under a chief, the ''primicerius notariorum'', kept the ledgers and issued ''brevia patrimonii'', or lists of property for which each ''[[Rector (ecclesiastical)|rector]]'' was responsible.{{sfn|Mann|1914|p=322}}
+
+Gregory began by aggressively requiring his churchmen to seek out and relieve needy persons and reprimanded them if they did not. In a letter to a subordinate in [[Sicily]] he wrote: "I asked you most of all to take care of the poor. And if you knew of people in poverty, you should have pointed them out&nbsp;... I desire that you give the woman, Pateria, forty [[Solidus (coin)|solidi]] for the children's shoes and forty bushels of grain".{{sfn|Ambrosini|Willis|1996|pp=66–67}} Soon he was replacing administrators who would not cooperate with those who would and at the same time adding more in a build-up to a great plan that he had in mind. He understood that expenses must be matched by income. To pay for his increased expenses he liquidated the investment property and paid the expenses in cash according to a budget recorded in the polyptici. The churchmen were paid four times a year and also personally given a golden coin for their trouble.<ref name=dud248>Dudden (1905) pp. 248–249.</ref>
+
+Money, however, was no substitute for food in a city that was on the brink of famine. The church now owned between {{convert|1300|and|1800|sqmi|km2}} of revenue-generating farmland divided into large sections called {{lang|la|patrimonia}}. It produced goods of all kinds, which were sold, but Gregory intervened and had the goods shipped to Rome for distribution in the {{lang|la|diaconia}}. He gave orders to step up production, set quotas and put an administrative structure in place to carry it out. At the bottom was the {{lang|la|rusticus}} who produced the goods. Some {{lang|la|rustici}} were or owned slaves. He turned over part of his produce to a {{lang|la|conductor}} from whom he leased the land. The latter reported to an {{lang|la|actionarius}}, who reported to a {{lang|la|defensor}}, who reported to a {{lang|la|rector}}. Grain, wine, cheese, meat, fish, and oil began to arrive at Rome in large quantities, where it was given away for nothing as alms.{{sfn|Deanesly|1969|p=22–24}}
+
+Distributions to qualified persons were monthly. However, a certain proportion of the population lived in the streets or were too ill or infirm to pick up their monthly food supply. To them Gregory sent out a small army of charitable persons, mainly monks, every morning with prepared food. It is said that he would not dine until the indigent were fed. When he did dine he shared the family table, which he had saved (and which still exists), with 12 indigent guests. To the needy living in wealthy homes he sent meals he had cooked with his own hands as gifts to spare them the indignity of receiving charity. Hearing of the death of an indigent in a back room he was depressed for days, entertaining for a time the conceit that he had failed in his duty and was a murderer.<ref name=dud248/>
+
+These and other good deeds and charitable frame of mind completely won the hearts and minds of the Roman people. They now looked to the papacy for government, ignoring the state at Constantinople. The office of urban prefect went without candidates. 
+
+==Works==
+===Liturgical reforms===
+John the Deacon wrote that Pope Gregory I made a general revision of the liturgy of the [[Pre-Tridentine Mass]], "removing many things, changing a few, adding some". In his own letters, Gregory remarks that he moved the ''[[Pater Noster]]'' (Our Father) to immediately after the [[Roman Canon]] and immediately before the [[Fraction (religion)|Fraction]].{{sfn|Eden|2004|p=487}} This position is still maintained today in the Roman Liturgy. The pre-Gregorian position is evident in the [[Ambrosian Rite]]. Gregory added material to the ''[[Roman Canon#Hanc Igitur|Hanc Igitur]]'' of the Roman Canon and established the nine ''[[Kyrie]]s'' (a vestigial remnant of the [[litany]] which was originally at that place) at the beginning of [[Mass (Catholic Church)|Mass]]. He forbade deacons to perform any of the musical portions of the Mass other than singing the Gospel.{{sfn|Huddleston|1909}}
+
+[[Sacramentary|Sacramentaries]] directly influenced by Gregorian reforms are referred to as ''Sacrementaria Gregoriana''. Roman and other [[Latin liturgical rites|Western liturgies]] since this era have a number of prayers that change to reflect the feast or liturgical season; these variations are visible in the [[collect]]s and [[Preface (liturgy)|preface]]s as well as in the Roman Canon itself.<ref>[http://www.newadvent.org/cathen/09296a.htm Fortescue, Adrian. "Liturgical Books." The Catholic Encyclopedia] Vol. 9. New York: Robert Appleton Company, 1910</ref>
+
+====Divine Liturgy of the Presanctified Gifts====
+In the [[Eastern Orthodox Church]] and [[Eastern Catholic Churches]], Gregory is credited as the primary influence in constructing the more penitential [[Divine Liturgy of the Presanctified Gifts]], a fully separate form of the [[Divine Liturgy]] in the [[Byzantine Rite]] adapted to the needs of the season of [[Great Lent]]. Its [[Roman Rite]] equivalent is the [[Mass of the Presanctified]] used only on [[Good Friday]]. The [[Syriac Christianity|Syriac]] Liturgy of the Presanctified Gifts continues to be used in the [[Malankara Rite]], a variant of the [[West Syrian Rite]] historically practiced in the [[Malankara Church]] of [[India]], and now practiced by the several churches that descended from it and at some occasions in the [[Assyrian Church of the East]].{{sfn|Chupungco|1997|p=17}}
+
+====Gregorian chant====
+{{main|Gregorian chant}}
+[[File:Gregory I - Antiphonary of Hartker of Sankt Gallen.jpg|thumb|upright|[[Antiphonary]] of Hartker of the monastery of Saint Gall]]
+The mainstream form of Western [[plainchant]], standardized in the late 9th century,{{sfn|Levy|1998|p=7}} was attributed to Pope Gregory I and so took the name of Gregorian chant. The earliest such attribution is in John the Deacon's 873 biography of Gregory, almost three centuries after the pope's death, and the chant that bears his name "is the result of the fusion of Roman and Frankish elements which took place in the Franco-German empire under [[Pepin the Short|Pepin]], [[Charlemagne]] and their successors".{{sfn|Murray|1963|pp=3-4}}
+
+===Writings===
+[[File:Window, Gregory the Great, Church of the Good Shepherd.jpg|thumb|right|upright|St. Gregory the Great window, Episcopal [[Church of the Good Shepherd (Rosemont, Pennsylvania)]] US]]
+Gregory is commonly credited with founding the medieval papacy and so many attribute the beginning of medieval spirituality to him.<ref>Straw pg 4</ref>
+Gregory is the only pope between the fifth and the eleventh centuries whose correspondence and writings have survived enough to form a comprehensive corpus. Some of his writings are:
+
+* {{lang|la|[[Moralia in Job]]}}. This is one of the longest patristic works. It was possibly finished as early as 591. It is based on talks Gregory gave on the Book of Job to his 'brethren' who accompanied him to Constantinople. The work as we have it is the result of Gregory's revision and completion of it soon after his accession to the papal office.{{sfn|Markus|1997|p=15}}
+* ''[[Pastoral Care]]'' ({{lang|la|Liber regulae pastoralis}}), in which he contrasted the role of bishops as pastors of their flock with their position as nobles of the church: the definitive statement of the nature of the episcopal office. This was probably begun before his election as pope and finished in 591.
+* ''[[Dialogues (Pope Gregory)|Dialogues]]'', a collection of four books of miracles, signs, wonders, and healings done by the holy men, mostly monastic, of sixth-century Italy, with the second book entirely devoted to a popular life of [[Benedict of Nursia|Saint Benedict]].{{sfn|Gardner|1911|p=}}
+* [[Sermons]], including:
+** The 22 {{lang|la|Homilae in Hiezechielem}} (''Homilies on Ezekiel''), dealing with Ezekiel 1.1–4.3 in Book One, and Ezekiel 40 in Book 2. These were preached during 592–593, the years that the Lombards besieged Rome, and contain some of Gregory's most profound mystical teachings. They were revised eight years later.
+** The {{lang|la|Homilae xl in Evangelia}} (''Forty Homilies on the Gospels'') for the liturgical year, delivered during 591 and 592, which were seemingly finished by 593. A papyrus fragment from this codex survives in the [[British Museum]], London, UK.<ref name=britishlibrary />
+** {{lang|la|Expositio in Canticis Canticorum}}. Only two of these sermons on the Song of Songs survive, discussing the text up to Song 1.9.
+* {{lang|la|In Librum primum regum expositio}} (''Commentary on 1 Kings''), which scholars now think that this is a work by 12th century monk, [[Peter of Cava]], who used no longer extant Gregorian material.
+* Copies of some 854 letters have survived. During Gregory's time, copies of papal letters were made by scribes into a {{lang|la|Registrum}} (''Register''), which was then kept in the {{lang|la|scrinium}}. It is known that in the 9th century, when John the Deacon composed his ''Life'' of Gregory, the {{lang|la|Registrum}} of Gregory's letters was formed of 14 papyrus rolls (though it is difficult to estimate how many letters this may have represented). Though these original rolls are now lost, the 854 letters have survived in copies made at various later times, the largest single batch of 686 letters being made by order of [[Adrian I]] (772–795).{{sfn|Markus|1997|p=15}} The majority of the copies, dating from the 10th to the 15th century, are stored in the [[Vatican Library]].{{sfn|Ambrosini|Willis|1996|pp=63–64}}
+
+Gregory wrote over 850 letters in the last 13 years of his life (590–604) that give us an accurate picture of his work.{{sfn|Markus|1997|p=i}} A truly autobiographical presentation is nearly impossible for Gregory. The development of his mind and personality remains purely speculative in nature.{{sfn|Markus|1997|p=2}}
+
+Opinions of the writings of Gregory vary. "His character strikes us as an ambiguous and enigmatic one,"  historian [[Norman F. Cantor|Norman Cantor]] observed. "On the one hand he was an able and determined administrator, a skilled and clever diplomat, a leader of the greatest sophistication and vision; but on the other hand, he appears in his writings as a superstitious and credulous [[monk]], hostile to learning, crudely limited as a theologian, and excessively devoted to saints, [[miracle]]s, and [[relic]]s".<ref>Cantor (1993) page 157.</ref>
+
+===Identification of three figures in the Gospels===
+Gregory was among those who identified [[Mary Magdalene]] with [[Mary of Bethany]], whom John 12:1-8 recounts as having [[anointing of Jesus|anointed Jesus]] with precious ointment,<ref>{{bibleverse||John|12:1–8|ESV}}</ref> an event that some interpret as being the same as the [[Parable of the Two Debtors|anointing of Jesus]] performed by a woman that Luke (alone among the [[synoptic Gospels]]) recounts as a sinner.<ref>{{bibleref2|Luke|7:36–50|ESV}}; {{bibleref2|Matthew|26:6–13|ESV}}; {{bibleref2|Mark|14:3–9}}</ref> Preaching on the passage in the [[Gospel of Luke]], Gregory remarked: "This woman, whom Luke calls a sinner<ref>{{bibleref2||Luke|7:37|ESV}}</ref> and John calls Mary,<ref>{{bibleref2||John|12:3}}</ref> I think is the Mary from whom Mark reports<ref>{{bibleref2|Mark|16:9|ESV}}</ref> that seven demons were cast out."{{efn|name=HancVero}} Modern biblical scholars{{who|date=February 2021}} distinguish these as three separate figures/persons.<ref>{{Cite book |last=Schenk |first=Christine |title=Crispina and her sisters: women and authority in early Christianity |date=2017 |publisher=Fortress press |isbn=978-1-5064-1188-0 |location=Minneapolis (Minn.) |pages=11}}</ref> However, within the general populace they are still believed to refer to the same person.{{sfn|Maisch|1998|p=156|loc=Ch.10}}
+
+==Iconography==
+[[File:Gregorythegreat.jpg|thumb|left|upright|''Saint Gregory the Great'' by [[José de Ribera]]]]
+
+In art Gregory is usually shown in full pontifical robes with the [[papal tiara|tiara]] and [[patriarchal cross|double cross]], despite his actual habit of dress. Earlier depictions are more likely to show a monastic [[tonsure]] and plainer dress. Orthodox [[icons]] traditionally show St. Gregory vested as a bishop holding a [[Gospel Book]] and blessing with his right hand. It is recorded that he permitted his depiction with a [[square halo]], then used for the living.{{sfn|Gietmann|1911|}} A dove is his [[emblem|attribute]], from the well-known story attributed to his friend Peter the Deacon,{{efn|name=Colgrave}} who tells that when the pope was dictating his homilies on [[Ezechiel]] a curtain was drawn between his secretary and himself. As, however, the pope remained silent for long periods at a time, the servant made a hole in the curtain and, looking through, beheld a dove seated upon Gregory's head with its beak between his lips. When the dove withdrew its beak the pope spoke and the secretary took down his words; but when he became silent the servant again applied his eye to the hole and saw the dove had replaced its beak between his lips.{{sfn|Huddleston|1909}}
+
+Ribera's oil painting of ''Saint Gregory the Great'' ({{c.|1614|lk=no}}) is from the Giustiniani collection. The painting is conserved in the [[Galleria Nazionale d'Arte Antica]], Rome. The face of Gregory is a caricature of the features described by John the Deacon: total baldness, outthrust chin, beak-like nose, whereas John had described partial baldness, a mildly protruding chin, slightly aquiline nose and strikingly good looks. In this picture also Gregory has his monastic back on the world, which the real Gregory, despite his reclusive intent, was seldom allowed to have.
+
+This scene is shown as a version of the traditional [[Evangelist portrait]] (where the [[Evangelist symbols|Evangelists' symbols]] are also sometimes shown dictating) from the tenth century onwards. An early example is the [[dedication miniature]] from an eleventh-century manuscript of Gregory's ''Moralia in Job''.<ref>[[Bamberg State Library]], Msc.Bibl.84</ref> The miniature shows the scribe, Bebo of [[Seeon Abbey]], presenting the manuscript to the [[Holy Roman Emperor]], [[Henry II, Holy Roman Emperor|Henry II]]. In the upper left the author is seen writing the text under divine inspiration. Usually the dove is shown whispering in Gregory's ear for a clearer composition.
+
+[[File:Mass of Saint Gregory (1440) by Robert Campin.jpg|thumb|upright|The ''[[Mass of St. Gregory]]'', by [[Robert Campin]], 15th century]]
+
+The late medieval subject of the [[Mass of St. Gregory]] shows a version of a 7th-century story that was elaborated in later [[hagiography]]. Gregory is shown saying Mass when Christ as the [[Man of Sorrows]] appears on the altar. The subject was most common in the 15th and 16th centuries, and reflected growing emphasis on the [[Real Presence]], and after the [[Protestant Reformation]] was an assertion of the doctrine against Protestant theology.{{sfn|Rubin|1991|p=308}}
+
+==Famous quotes and anecdotes==
+[[File:Westminster Cathedral Non Angli sed Angeli si Christiani.jpg|thumb|upright|19th-century [[mosaic]] in [[Westminster Cathedral]], ''Non Angli sed Angeli'']]
+* ''Non {{strong|Angli}}, sed {{strong|angeli}}, si forent Christiani.''– "They are not [[Angles (tribe)|Angles]], but [[angel]]s, if they were Christian".{{sfn|Zuckermann|2003|p=117}} [[Aphorism]], summarizing words reported to have been spoken by Gregory when he first encountered pale-skinned English boys at a [[slave market]], sparking his dispatch of [[Augustine of Canterbury|St. Augustine of Canterbury]] to England to convert the English, according to [[Bede]].{{sfn|Bede|1999|loc=Book II Ch. I}} He said: "Well named, for they have angelic faces and ought to be co-heirs with the angels in heaven."{{sfn|Hunt|Poole|1905|p=115}} Discovering that their province was [[Deira]], he went on to add that they would be rescued ''de ira'', "from the wrath", and that their king was named [[Ælla of Deira|Aella]], ''Alleluia'', he said.{{efn|name=Earliest}}
+* ''Locusta'', literally, "[[locust]]". However, the word sounds very much like "''loco sta''", meaning, "Stay in place!" Gregory himself wanted to go to England as a missionary and started out for there. On the fourth day of the journey, as they stopped for lunch, a locust landed on the edge of the Bible which Gregory was reading. He exclaimed, ''locusta!'' (locust). Reflecting on it, he understood it as a sign from Heaven whereby God wanted him to ''loco sta'', that is, remain in his own place. Within the hour an emissary of the pope{{efn|name=BenPel}} arrived to recall him.<ref>''Vita'' by the "anonymous monk of Whitby", Chapter 9; see Colgrave's edition below; Colgrave, Bertram, "The Earliest Life of St Gregory the Great, written by a Whitby Monk", in ''Celt and Saxon'', 1964, Cambridge UP, [https://books.google.com/books?id=X_w8AAAAIAAJ&pg=PA124 pp 123-124</ref>{{sfn|Hunt|Poole|1905|p=115}}
+* "I beg that you will not take the present amiss. For anything, however trifling, which is offered from the prosperity of St. Peter should be regarded as a great blessing, seeing that he will have power both to bestow on you greater things, and to hold out to you eternal benefits with Almighty God."{{cite quote|date=October 2022}}
+* ''Pro cuius amore in eius eloquio nec mihi parco'' – "For the love of whom (God) I do not spare myself from His Word."<ref>Dudden pg 317</ref>{{sfn|Gregory|n.d.|loc=Cod. Sang. 211}} The sense is that since the creator of the human race and redeemer of him unworthy gave him the power of the tongue so that he could witness, what kind of a witness would he be if he did not use it but preferred to speak infirmly?
+* "For the place of heretics is very pride itself...for the place of the wicked is pride just as conversely humility is the place of the good."{{sfn|Richards|1980|p=228}}
+* "Whoever calls himself universal bishop, or desires this title, is, by his pride, the precursor to the Antichrist."<ref>Letter of Pope Gregory I to John the Faster.</ref>
+* ''Non enim pro locis res, sed pro bonis rebus loca amanda sunt'' – "Things are not to be loved for the sake of a place, but places are to be loved for the sake of their good things." When Augustine asked whether to use [[Roman Rite|Roman]] or [[Gallican Rite|Gallican]] customs in the Mass in England, Gregory said, in paraphrase, that it was not the place that imparted goodness but good things that graced the place, and it was more important to be pleasing to the Almighty. They should pick out what was "pia", "religiosa" and "recta" from any church whatever and set that down before the English minds as practice.{{sfn|Bede|1999|loc=Book I section 27 part II}}
+* "For the rule of justice and reason suggests that one who desires his own orders to be observed by his successors should undoubtedly keep the will and ordinances of his predecessor."<ref>Gregory the Great. ''The Letters of Gregory the Great''. Trans. John R. C. Martyn. 3 vols. (2004). Book VI, Epistle XII.</ref> In his letters, Gregory often emphasized the importance of giving proper deference to last wills and testaments, and of respecting property rights.
+* "Compassion should be shown first to the faithful and afterwards to the enemies of the church."{{sfn|Richards|1980|p=232}}
+* "At length being anxious to avoid all these inconveniences, I sought the haven of the monastery... For as the vessel that is negligently moored, is very often (when the storm waxes violent) tossed by the water out of its shelter on the safest shore, so under the cloak of the Ecclesiastical office, I found myself plunged on a sudden in a sea of secular matters, and because I had not held fast the tranquillity of the monastery when in possession, I learnt by losing it, how closely it should have been held."<ref>Pope Gregory I, ''Moralia, sive Expositio in Job'', published by Nicolaus Kessler Basel, 1496.</ref> In ''Moralia, sive Expositio in Job'' ("Commentary on Job," also known as ''Magna Moralia''), Gregory describes to the Bishop Leander the circumstances under which he became a monk.
+* "Illiterate men can contemplate in the lines of a picture what they cannot learn by means of the written word."{{sfn|Barasch|2013|p=}}
+*''Age quod agis'' (Do what you are doing).<ref>H. Ev. 2.37.9; Dial. 4.58.1</ref> Through the centuries, this would become a repeated maxim of Catholic mystics and spiritual directors encouraging one to keep focus on what one is doing in trying to serve the Lord.
+*"Repentance is weeping for what one has done and not doing what one weeps for."<ref>H. Ev. 2.34.15</ref>
+
+==Memorials==
+
+===Relics===
+[[File:Roma 2010 (5047768606).jpg|thumb|upright|Altar of Saint Gregory in [[St. Peter's Basilica]], which contains the remains of Pope Gregory. ]]
+The relics of Saint Gregory are enshrined in [[St. Peter's Basilica]] in Rome.<ref>{{Cite book|last=Reardon|first=Wendy J.|url=https://archive.org/details/deathsofpopes00wend|title=The Deaths of the Popes|publisher=McFarland & Company, Inc., Publishers|year=2004|isbn=978-0-7864-1527-4|location=Jefferson, NC|pages=46–48}}</ref>
+
+===Lives===
+In Britain, appreciation for Gregory remained strong even after his death, with him being called ''Gregorius noster'' ("our Gregory") by the British.{{sfn|Champ|2000|p=ix}} It was in Britain, at a monastery in [[Whitby Abbey|Whitby]], that the first full-length [[hagiography|life]] of Gregory was written, {{c.|713|lk=no}}, by a monk or, possibly, a nun.{{sfn|Anonymous Monk of Whitby|1985|p=}} Appreciation of Gregory in Rome and Italy itself, however, did not come until later. The first ''vita'' of Gregory written in Italy was not produced until [[Johannes Hymonides]] (aka John the Deacon) in the 9th century.<ref>[http://www.treccani.it/enciclopedia/giovanni-diacono_%28Dizionario-Biografico%29/ P. Chiesa, Giovanni Diacono, ''Dizionaria Biografico degli Italiani'', vol. 56 (2001, Rome), 4-7.]</ref>
+
+===Monuments===
+The namesake church of [[San Gregorio al Celio]] (largely rebuilt from the original edifices during the 17th and 18th centuries) remembers his work. One of the three oratories annexed, the oratory of Saint Silvia, is said to lie over the tomb of Gregory's mother.
+
+In England, Gregory, along with [[Augustine of Canterbury]], is revered as the apostle of the land and the source of the nation's conversion.{{sfn|Richards|1980|p=260}}
+
+=== Throne ===
+[[File:San Gregorio al Celio throne of st gregory.jpg|alt=Throne of Pope Gregory the Great|thumb|224x224px|Throne of Pope Gregory the Great in [[San Gregorio Magno al Celio]]]]
+An ancient marble chair, which is believed to be the chair of Pope Gregory the Great, is kept in the church [[San Gregorio Magno al Celio]] in Rome.<ref>{{Cite web |title=Anglican and Catholic bishops at Ecumenical Summit prepare to travel to Canterbury |url=https://www.anglicannews.org/news/2024/01/anglican-and-catholic-bishops-at-ecumenical-summit-prepare-to-travel-to-canterbury.aspx |access-date=2 February 2024 |website=AnglicanNews.org}}</ref><ref>{{Cite web |date=26 March 2021 |title=Virtually visit the Basilica of Santo Stefano al Celio, tribute to martyrs |url=https://aleteia.org/2021/03/26/virtually-visit-the-basilica-of-santo-stefano-al-celio-tribute-to-martyrs/ |access-date=2 February 2024 |website=Aleteia |language=en}}</ref>
+
+===Music===
+Italian composer [[Ottorino Respighi]] composed a piece named ''St. Gregory the Great'' ''(San Gregorio Magno)'' that features as the fourth and final part of his ''Church Windows'' (''Vetrate di Chiesa'') works, written in 1925.<ref>{{cite web |title=Ottorino Respighi |url=https://www.eclassical.com/shop/17115/art97/4815697-407e9f-095115244524.pdf |website=eClassical |access-date=12 September 2024 |page=9}}</ref><ref>{{cite web |last1=Wolf |first1=Chris |title=Intermezzo at 1 p.m.: The music of Ottorino Respighi |url=https://classic107.com/articles/intermezzo-at-1-pm-the-music-of-ottorino-respighi- |access-date=12 September 2024 |date=8 July 2024}}</ref>
+
+===Feast day===
+
+The current [[General Roman Calendar]], revised in 1969 as instructed by the [[Second Vatican Council]],<ref name=vatican.va /> celebrates Saint Gregory the Great on 3 September. Before that, it assigned his feast day to 12 March, the day of his death in 604. Following the imposition of [[Pope John XXIII]]'s [[Code of Rubrics]] in 1961, celebration of Saint Gregory's feast day was made practically impossible, as John XXIII's reforms forbade the full observance of most feasts during Lent, during which 12 March invariably falls. For this reason, Saint Gregory's feast day was moved to 3 September, the day of his episcopal [[consecration]] in 590,<ref>Calendarium Romanum (Libreria Editrice Vaticana 1969), pp. 100 and 118</ref> as part of the liturgical reforms of [[Pope Paul VI]].
+The [[Eastern Orthodox Church]] and those [[Eastern Catholic Churches]] which follow the [[Byzantine Rite]] continue to commemorate Saint Gregory on 12 March which is during [[Great Lent]], the only time when the [[Divine Liturgy of the Presanctified Gifts]], which names Saint Gregory as its author, is used.{{citation needed|date=September 2020}}
+
+Other churches also honour Gregory the Great:
+
+* The [[Lutheran Church–Missouri Synod]] [[Calendar of saints (Lutheran)|remember]] him with a [[wikt:commemoration|commemoration]] on 3 September,<ref>{{Cite web|title=Commemorations - Church Year - The Lutheran Church—Missouri Synod|url=https://www.lcms.org/worship/church-year/commemorations|access-date=9 April 2021|website=www.lcms.org}}</ref>
+* The [[Evangelical Lutheran Church in America]] [[Calendar of saints (Lutheran)|remember]] him with a commemoration on 12 March,<ref>{{Cite web|title=Lutheran - Religious calendar 2021 - Calendar.sk|url=https://calendar.zoznam.sk/church_nameday-enlut.php|access-date=9 April 2021|website=calendar.zoznam.sk}}</ref>
+* The [[Calendar of saints (Episcopal Church)|Episcopal Church of the United States]] honors him on 12 March<ref>{{Cite book |url=https://books.google.com/books?id=W3e7DwAAQBAJ |title=Lesser Feasts and Fasts 2018 |date=1 December 2019 |publisher=Church Publishing, Inc. |isbn=978-1-64065-234-7 |language=en}}</ref> 
+* The [[Anglican Church of Canada]] [[Calendar of saints (Anglican Church of Canada)|remember]] him with a [[Memorial (liturgy)|Memorial]] on 3 September.<ref name="prayerbook.ca" /><ref>{{Cite web|title=For All the Saints|url=https://www.anglican.ca/wp-content/uploads/ForAlltheSaints.pdf |archive-url=https://ghostarchive.org/archive/20221009/https://www.anglican.ca/wp-content/uploads/ForAlltheSaints.pdf |archive-date=9 October 2022 |url-status=live}}</ref>
+* Gregory the Great is [[Calendar of saints (Church of England)|remembered]] in the [[Church of England]] with a [[Lesser Festival (Anglicanism)|Lesser Festival]] on 3 September.<ref>{{Cite web|title=The Calendar|url=https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/calendar|access-date=27 March 2021|website=The Church of England|language=en}}</ref>
+
+A traditional [[procession]] is held in [[Żejtun]], [[Malta]], in honour of Saint Gregory (San Girgor) on Easter Wednesday, which most often falls in April, the range of possible dates being 25 March to 28 April.<ref>{{Cite web |title=The Date of Easter |url=https://aa.usno.navy.mil/faq/easter |access-date=22 June 2024 |website=aa.usno.navy.mil}}</ref>
+The feast day of Saint Gregory also serves as a commemorative day for the former pupils of [[Downside School]], called Old Gregorians. Traditionally, OG ties are worn by all of the society's members on this day.{{citation needed|date=September 2020}}
+
+==Written works==
+{{refbegin}}
+*{{cite book|author=Gregory|date=n.d.|publisher=St. Gallen, Abbey Library|chapter= Cod. Sang. 211|title= Homiliae in Ezechielem I-XXII|doi=10.5076/e-codices-csg-0211}}
+{{refend}}
+
+===Modern editions===
+{{refbegin}}
+*''Homiliae in Hiezechihelem prophetam'', ed. Marcus Adriaen, CCSL 142 (Turnhout: Brepols, 1971)
+*''Dialogorum libri quattuor seu De miraculis patrum italicorum: Grégoire le Grand, Dialogues'', ed. Adalbert de Vogüé, 3 vols., Sources crétiennes 251, 260, 265 (Paris, 1978–1980) – also available via the Brepols Library of Latin Texts online database at [http://www.brepols.net/Pages/BrowseBySeries.aspx?TreeSeries=LLT-O Library of Latin Texts – online (LLT-O)]
+{{refend}}
+*''Moralia in Iob'', ed. Marcus Adriaen, 3 vols. CCSL 143, 143A, 143B (Turnhout: Brepols, 1979-1985)
+
+===Translations===
+{{refbegin}}
+*''The Dialogues of Saint Gregory the Great'', trans. Edmund G. Gardner (London & Boston, 1911).
+*''[[Pastoral Care]]'', trans. Henry Davis, ACW 11 (Newman Press, 1950).
+*''[https://books.google.com/books?id=jbKkzWquzWsC The Book of Pastoral Rule]'', trans. with intro and notes by George E. Demacopoulos ([[Crestwood, Yonkers|Crestwood, New York]]: [[Saint Vladimir's Orthodox Theological Seminary|St. Vladimir's Seminary Press]], 2007).
+*''Reading the Gospels with Gregory the Great: Homilies on the Gospels, 21–26'', trans. Santha Bhattacharji (Petersham, Massachusetts, 2001) (translations of the 6 ''Homilies'' covering Easter Day to the Sunday after Easter).
+*''The Letters of Gregory the Great'', trans. with intro and notes by John R. C. Martyn (Toronto: Pontifical Institute of Mediaeval Studies, 2004). (3 volume translation of the ''Registrum epistularum''.)
+*''Gregory the Great: On the Song of Songs'', CS244 (Collegeville, Minnesota, 2012).
+{{refend}}
+
+==See also==
+{{Portal|Biography|Christianity|History}}
+*[[:Category:Documents of Pope Gregory I]]
+*''[[Libellus responsionum]]''
+*[[List of popes]]
+*[[Portal:Catholicism/Patron Archive/September 3|Pope Saint Gregory I, patron saint archive]]
+*''[[The Holy Sinner]]'', a German novel written by [[Thomas Mann]]
+
+==References==
+===Notes===
+{{notelist|refs=
+
+{{efn|name=TheGreat|Gregory had come to be known as 'the Great' by the late ninth century, a title which is still applied to him. See {{harvnb|Moorhead|2005|p=1}} }}
+
+{{efn|name=IIIorIV|Whether III or IV depends on whether [[Antipope Felix II]] is to be considered pope.}}
+
+{{efn|name=Later|Later these deacons became cardinals and from the oratories attached to the buildings grew churches}}
+
+{{efn|name=Earliest|The earliest life written a generation earlier than Bede at Whitby relates the same story but in it the English are merely visitors to Rome questioned by Gregory (see Holloway, who translates from the manuscript kept at [[Abbey library of St. Gallen|St. Gallen]]). The earlier story is not necessarily the more accurate, as Gregory is known to have instructed presbyter Candidus in [[Gaul]] by letter to buy young English slaves for placement in monasteries. These were intended for missionary work in England: See {{harvnb|Ambrosini|Willis|1996|p=71}} }}
+
+{{efn|name=Totila|Gregory mentions in Dialogue 3.2 that he was alive when [[Totila]] attempted to murder Carbonius, Bishop of [[Populonia]], probably in 546. In a letter of 598 (''Register'', Book 9, Letter 1) he rebukes Bishop Januarius of [[Cagliari]], Sardinia, excusing himself for not observing 1 Timothy 5.1, which cautions against rebuking elders. Timothy 5.9 defines elderly women to be 60 and over, which would probably apply to all. Gregory appears not to consider himself an elder, limiting his birth to no earlier than 539, but 540 is the typical selection. See {{harvnb|Dudden|1905|pp= 3, notes 1–3}} The presumption of 540 has continued in modern times – see for example {{harvnb|Richards|1980|p=}} }}
+
+{{efn|name=translator|The translator goes on to state that "[[Paul the Deacon|Paulus Diaconus]], who first writ the life of St. Gregory, and is followed by all the after Writers on that subject, observes that ''ex Greco eloquio in nostra lingua ... invigilator, seu vigilant sonnet.''" However, Paul the deacon is too late for the first ''vita'', or life.}}
+
+{{efn|name=HancVero|"Hanc vero quam Lucas peccatricem mulierem, Ioannes Mariam nominat, illam esse Mariam credimus de qua Marcus septem daemonia eiecta fuisse testatur" (''Patrologia Latina'' 76:1239)}}
+
+{{efn|name=grēgorein|The name is biblical, derived from [[New Testament]] contexts: grēgorein is a present, continuous aspect, meaning to be watchful of forsaking Christ. It is derived from a more ancient perfect, egrēgora, "roused from sleep", of egeirein, "to awaken someone." see {{harvnb|Thayer|1962|p=}} }}
+
+{{efn|name=Colgrave|For the various literary accounts, see {{harvnb|Anonymous Monk of Whitby|1985|p=157|loc=n. 110}} }}
+
+{{efn|name=BenPel|[[Pope Benedict I|Benedict I]] or [[Pelagius II]].}}
+
+{{efn|name=Palpate|"''Palpate et videte, quia spiritus carnem et ossa non-habet, sicut me videtis habere'', or "touch me, and look; a spirit has not flesh and bones, as you see that I have." - {{bibleref2|Luke|24:39}} }}
+
+}}
+
+===Citations===
+{{Reflist|refs=
+
+<ref name=scborromeo.org>{{cite web |url=http://www.scborromeo.org/saints/gregory.htm|title=St. Gregory the Great|publisher=Web site of Saint Charles Borromeo Catholic Church|access-date=14 November 2009}}</ref>
+
+<ref name=britishlibrary>{{Cite web | url = http://britishlibrary.typepad.co.uk/digitisedmanuscripts/2014/02/a-papyrus-puzzle-and-some-purple-parchment.html | title = A Papyrus Puzzle and Some Purple Parchment | date = 12 February 2014 | publisher = [[British Museum]] | access-date = 24 March 2014}}</ref>
+
+<ref name=vatican.va>{{cite web|url=https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html|title=Sacrosanctum concilium|website=www.vatican.va}}</ref>
+
+<ref name=prayerbook.ca>{{cite web|url=http://prayerbook.ca/resources/bcponline/calendar/|title=The Calendar|date=16 October 2013|access-date=12 March 2016|archive-date=22 October 2019|archive-url=https://web.archive.org/web/20191022221459/http://prayerbook.ca/resources/bcponline/calendar/|url-status=dead}}</ref>
+
+}}
+
+===Sources===
+{{refbegin|30em|indent=yes}}
+<!-- A -->
+*{{cite book |author=Ælfric|author-link=Ælfric of Abingdon |translator-last=Elstob |translator-first=Elizabeth |translator-link=Elizabeth Elstob |title=An English-Saxon Homily on the Birth-day of St. Gregory: Anciently Used in the English-Saxon Church, Giving an Account of the Conversion of the English from Paganism to Christianity|url=https://archive.org/details/anenglishsaxonh01elstgoog/page/n79|date=1709|publisher = W. Bowyer|location=London}}
+*{{cite book|author=Anonymous Monk of Whitby|editor=Bertram Colgrave |title=The Earliest Life of Gregory the Great|url=https://books.google.com/books?id=8RhH0dliZLwC&pg=PA157|year=1985|publisher=Cambridge University Press|isbn=978-0-521-31384-1}}
+*{{cite book |url=https://archive.org/details/secretarchivesof00ambr/page/63 |title=The Secret Archives of the Vatican|first1=Maria Luisa|last1=Ambrosini|first2=Mary |last2=Willis|publisher=Barnes & Noble |year=1996|isbn=9780760701256}}
+<!-- B -->
+*{{cite book|last=Barasch|first=Moshe |title=Theories of Art: 1. From Plato to Winckelmann|url=https://books.google.com/books?id=9fnZAAAAQBAJ|year=2013|publisher=Taylor & Francis|isbn=978-1-135-19979-1}}
+*{{cite book|title=The Ecclesiastical History of the English People: The Greater Chronicle; Bede's Letter to Egbert|author=Bede|editor-first1=Judith|editor-last1=McClure|publisher=Oxford University Press|year=1999|isbn=9780192838667|url-access=registration|url=https://archive.org/details/ecclesiasticalhi00bede_1}}
+<!-- C -->
+*{{cite book|last=Calvin|first=John|translator=Henry Beveridge|url=https://archive.org/details/institutesofchrbeve03calv/page/124/mode/2up|title=Institutes of the Christian Religion|date=1845|location=Edinburgh|volume=Third|publisher=Calvin Translation Society}}
+*{{cite book |first=Norman F.|last=Cantor|author-link=Norman Cantor|title=The Civilization of the Middle Ages|url=https://archive.org/details/civilizationofmi00cant|url-access=registration|location=New York|publisher=Harper|year=1993|isbn=9780060170332}}
+*{{cite book |editor-last=Cavadini|editor-first=John|title=Gregory the Great: A Symposium|location=Notre Dame|publisher=University of Notre Dame Press|year=1995}}
+*{{cite book|last=Champ|first=Judith F. |title=The English Pilgrimage to Rome: A Dwelling for the Soul|url=https://books.google.com/books?id=Qh1no5VRd-cC&pg=PR9|year=2000|publisher=Gracewing |isbn=978-0-85244-373-6}}
+*{{cite book|last=Chupungco|first=Anscar J. |title=Handbook for Liturgical Studies: Introduction to the liturgy|url=https://books.google.com/books?id=MG1f9kuVBz0C&pg=PA17|year=1997|publisher=Liturgical Press|isbn=978-0-8146-6161-1}}
+* {{cite journal |last=Clark|first =Francis |title=St. Gregory the Great, Theologian of Christian Experience |journal=American Benedictine Review |date=1988 |volume=39|issue=3 |pages=261–276}}
+*{{cite book|last1=Cross|first1=Frank Leslie |author-link1=Frank Leslie Cross|last2=Livingstone|first2=Elizabeth A. |title=The Oxford Dictionary of the Christian Church|chapter-url=https://books.google.com/books?id=fUqcAQAAQBAJ&pg=PA710|year=2005|publisher=Oxford University Press|isbn=978-0-19-280290-3|chapter=Gregory I}}
+<!-- D -->
+* {{Cite book |last=Dagens|first=Claud|title=Saint Grégoire le Grand: Culture et expérience chrétiennes|location=Paris|publisher=Études augustiniennes|isbn=978-2851210166|year=1977}}
+*{{cite book|last=Deanesly|first=Margaret |author-link=Margaret Deanesly |title=A History of the Medieval Church, 590-1500|url=https://books.google.com/books?id=bveVVnZ3vA4C|year=1969|publisher=Routledge|isbn=978-0-415-03959-8}}
+*{{cite book|first=Adolphe Napoléon |last=Didron|title=Christian Iconography: Comprising the History of the Nimbus, the Aureole, and the Glory, the History of God the Father, the Son, and the Holy Ghost|url=https://books.google.com/books?id=peUYAAAAYAAJ|year=1851|publisher=Henry G. Bohn|isbn=9780790580258}}
+*{{cite book |last=Demacopoulos|first=George E.|title=Gregory the Great: Ascetic, Pastor, and First Man of Rome|location=Notre Dame|publisher=University of Notre Dame Press|isbn=978-0268026219|year=2015}}
+*{{cite book |last=Dudden|first=Frederick Holmes|author-link= Frederick Homes Dudden|title=Gregory the Great: His Place in History and Thought (In Two Volumes)|url=https://books.google.com/books?id=VDg-AAAAYAAJ&q=dudden+Gregory+the+Great.&pg=PA276|publisher=Longmans, Green, and Co|oclc=  502650100|location=London|year=1905|isbn=9780837079363}}
+<!-- E -->
+*{{cite book|last=Eden|first=Bradford L.|editor=Christopher Kleinhenz|title=Medieval Italy: An Encyclopedia|chapter-url=https://books.google.com/books?id=E2CTAgAAQBAJ&pg=PT487|year=2004|publisher=Routledge|isbn=978-1-135-94880-1|chapter=Gregory I, Pope}}
+*{{cite book |last= Ekonomou |first=Andrew J.|title=Byzantine Rome and the Greek Popes: Eastern influences on Rome and the papacy from Gregory the Great to Zacharias, A.D. 590–752|publisher=Lexington Books|year=2007}}
+*{{cite book|last=Ellard|first=Gerald |title=Christian Life and Worship|url=https://books.google.com/books?id=PmFgHy8KwMEC&pg=PA125|year=1948|publisher=Arno|isbn=978-0-405-10819-8}}
+<!-- F -->
+*{{cite book|chapter=Pope Gregory and the British: Mission as a Canonical Problem|first= Roy |last=Flechner |editor1= Hélène Bouget |editor2= Magali Coumert |title= En Marge, Histoires des Bretagnes 5 |location=Brest|date= 2015| pages=47–65|publisher= Université de Bretagne occidentale |hdl=10197/7383|isbn= 9791092331219 }}
+* {{Cite book |editor-last=Fontaine|editor-first=Jacques|title=Grégoire le Grand: Chantilly, Centre culturel Les Fontaines, 15–19 septembre 1982 : actes (Colloques internationaux du Centre national de la recherche scientifique)|location=Paris|publisher=Editions du Centre national de la recherche scientifique |isbn=978-2222039143|year=1986}}
+<!-- G -->
+*{{cite book|editor-first=Edmund G.|editor-last= Gardner|title=The Dialogues of Saint Gregory the Great: Re-edited with an Introduction and Notes|url=https://archive.org/details/dialoguesofsaint00greg/page/n9/mode/2up|year=1911|publisher=P. L. Warner|location=London}}
+*{{Cite CE1913| last =Gietmann| first =G.| wstitle =Nimbus|volume =11}}
+<!-- H -->
+*{{cite CE1913|wstitle=Pope St. Gregory I ("the Great")|volume=6|last=Huddleston|first= Gilbert}}
+*{{cite book|last1=Hunt|first1=William |last2=Poole|first2=Reginald Lane |title=The Political History of England ...: The history of England from the accession of Richard II to the death of Richard III, 1377-1485|url=https://archive.org/details/politicalhistor00poolgoog/page/n132/mode/2up|year=1905|publisher=Longmans, Green & Co}}
+<!-- L -->
+*{{cite book|last=Levy|first=Kenneth |title=Gregorian Chant and the Carolingians|url=https://books.google.com/books?id=Dlhhy74e6ugC&pg=PA7|year=1998|publisher=Princeton University Press|isbn=0-691-01733-6}}
+*{{cite book |last=Leyser|first=Conrad|title=Authority and Asceticism from Augustine to Gregory the Great|publisher=Clarendon Press|location=Oxford|year=2000}}
+*{{cite journal|last1=Little|first1=Lester K.|title=Calvin's Appreciation of Gregory the Great|journal=Harvard Theological Review|volume=56|issue=2|year=1963|jstor=1508681|pages=145–157|issn=0017-8160|doi=10.1017/S0017816000021738|s2cid=164097334 }}
+*{{cite book|last=Livingstone|first=Elizabeth A. |title=Studia Patristica|url=https://books.google.com/books?id=gfVOuifv6xIC&pg=PA415|year=1997|publisher=Peeters |isbn=978-90-6831-868-5}}
+<!-- M -->
+*{{cite book|last=Maisch|first=Ingrid |title=Mary Magdalene: The Image of a Woman Through the Centuries|url=https://books.google.com/books?id=Co8R1h7Te-cC&pg=PA156|year=1998|publisher=Liturgical Press|isbn=978-0-8146-2471-5}}
+*{{cite book|last=Mann|first=Horace Kinder |title=The Lives of the Popes in the Early Middle Ages|url=https://archive.org/details/livespopesinear00manngoog/page/n364/mode/2up|volume=X|year=1914|publisher=K. Paul, Trench, Trübner}}
+*{{cite book |last=Markus|first=R.A.|title=Gregory the Great and His World|location=Cambridge|publisher=University Press|year=1997}}
+* {{Cite book |last=McGinn|first=Bernard|title=The Growth of Mysticism: Gregory the Great Through the 12 Century (The Presence of God) (v. 2)|location=New York|publisher=Crossroad|isbn=978-0824516284|year=1996}}
+* {{Cite book |last=McGinn Bernard|first=& McGinn Patricia Ferris|title=Early Christian Mystics: The Divine Vision of the Spiritual Masters|location=New York|publisher=Crossroad|isbn=978-0-8245-2106-6|year=2003}}
+*{{cite CE1913|wstitle=Servus servorum Dei|volume=13|first=Andrew B.|last=Meehan}}
+* {{Cite book|last=Meyendorff|first=John|author-link=John Meyendorff|year=1989|title=Imperial unity and Christian divisions: The Church 450–680 A.D.|series=The Church in history|volume=2|location=Crestwood, NY|publisher=St. Vladimir's Seminary Press|isbn=978-0-88-141056-3|url=https://books.google.com/books?id=6J_YAAAAMAAJ}}
+* {{Cite book |last=Moorhead|first=John|title=Gregory the Great |series=The Early Church Fathers|edition=1st |location=New York|publisher=Routledge|isbn=978-0415233903|year=2005}}
+*{{cite book|url=https://archive.org/details/gregorianchantte0000klar/page/3|first=Gregory |last=Murray|title=Gregorian Chant According to the Manuscripts|publisher=L. J. Cary & Co.|date= 1963}}
+<!-- R -->
+*{{cite book |first=Cristina|last=Ricci|title=Mysterium dispensationis. Tracce di una teologia della storia in Gregorio Magno|location=Rome|publisher=Centro Studi S. Anselmo|year=2002|language=it}}. Studia Anselmiana, volume 135.
+*{{cite book |last=Richards|first=Jeffrey|author-link=Jeffrey Richards|title=Consul of God|publisher=Routelege & Keatland Paul|location=London|year=1980}}
+*{{cite book|last=Rubin|first=Miri |title=Corpus Christi: The Eucharist in Late Medieval Culture|url=https://books.google.com/books?id=MysXfB2ZdCAC&pg=PA308|year=1991|publisher=Cambridge University Press|isbn=978-0-521-43805-6}}
+<!-- S -->
+* {{cite journal|author=Schreiner, Susan E. |title='Where Shall Wisdom Be Found?': Gregory's Interpretation of Job |journal=American Benedictine Review |date=1988 |volume=39 |issue=3 |pages=321–342}}
+*{{cite book |url=https://archive.org/details/dictionaryofchri01smit/page/549 |title=A dictionary of Christian antiquities: Comprising the History, Institutions, and Antiquities of the Christian Church, from the Time of the Apostles to the Age of Charlemagne|first1=William|last1=Smith|author1-link=William Smith (lexicographer)|first2=Samuel |last2=Cheetham |author2-link=Samuel Cheetham (priest) |publisher=J. Murray|year=1875}}
+*{{cite book|last1=Smith|first1=William |last2=Wace|first2=Henry |title=A Dictionary of Christian Biography: Literature, Sects and Doctrines|url=https://books.google.com/books?id=7OU5AQAAMAAJ&pg=PA415|volume=II Eaba – Hermocrates|year=1880|publisher=Little, Brown and Company|location=Boston}}
+*{{cite book|last=Squatriti|first=Paolo |title=Water and Society in Early Medieval Italy, AD 400-1000|url=https://books.google.com/books?id=KKrhJ9BbMkkC&pg=PA54|year=2002|publisher=Cambridge University Press|isbn=978-0-521-52206-9}}
+*{{cite book |last=Straw|first=Carole E.|author-link=Carole E. Straw|title=Gregory the Great: Perfection in Imperfection|publisher=University of California Press|location=Berkeley|year=1988}}
+<!--T -->
+*{{cite book |first=Joseph Henry|last=Thayer|title=Greek-English Lexicon of the New Testament being Grimm's Wilke's Clavis Novi Testamenti Translated Revised and Enlarged|date=1962 |publisher=Zondervan |location=Grand Rapids, Michigan}}
+* {{cite book |last=Thornton|first=Father James|title=Made Perfect in Faith|publisher=Center for Traditionalist Orthodox Studies|location=Etna, California, US|year=2006|isbn=978-0-911165-60-9}}
+<!-- W -->
+* {{cite book |last=Weber|first=Leonhard|title=Hauptfragen der Moraltheologie Gregors des Grossen: Ein Bild Altchristlicher Lebensführung|publisher=Pauluscruckerei|location=Freiburg in der Schweiz|year=1947}}
+* {{cite journal|author=Wilken, Robert Louis |title=Interpreting Job Allegorically: The ''Moralia'' of Gregory the Great |journal=Pro Ecclesia |date=2001 |volume=10 |issue=2 |pages=213–226|doi=10.1177/106385120101000206 |s2cid=211965328 }}
+*{{cite book|last=Zuckermann|first=G. |author-link=Ghil'ad Zuckermann|title=Language Contact and Lexical Enrichment in Israeli Hebrew|url=https://books.google.com/books?id=DteHDAAAQBAJ&pg=PA117|date= 2003|publisher=Palgrave Macmillan|isbn=978-1-4039-3869-5}}
+{{refend}}
+
+==External links==
+* {{Librivox author |id=15905}}
+{{Commons}}
+{{Wikiquote}}
+{{wikisource author}}
+*{{cite web |url=http://www.documentacatholicaomnia.eu/01_01_0590-0604-_Gregorius_I,_Magnus,_Sanctus.html|title=Documenta Catholica Omnia: Gregorius I Magnus|year=2006|publisher=Cooperatorum Veritatis Societas|access-date=10 August 2008|language=la}} Index of 70 downloadable .pdf files containing the texts of Gregory I.
+*{{cite web|url=http://www.lectionarycentral.com/GregoryMoraliaIndex.html|title=Complete English translation of Gregory's Moralia in Job|access-date=2 April 2011|archive-date=5 January 2019|archive-url=https://web.archive.org/web/20190105104908/http://www.lectionarycentral.com/gregorymoraliaindex.html|url-status=dead}} Found on the website: Lectionary Central.
+*{{cite web |url=http://nbn-resolving.de/urn:nbn:de:bvb:22-dtl-0000004987|title=Moralia in Iob (book 1–35) (Msc.Bibl.41)|language=la}} Digitized by the Staatsbibliothek Bamberg.
+*{{cite web |url=http://ocafs.oca.org/FeastSaintsViewer.asp?SID=4&ID=1&FSID=100789|title=St Gregory Dialogus, the Pope of Rome|publisher=[[Orthodox Church in America]]|access-date=10 August 2008}} Orthodox [[icon]] and [[synaxarion]].
+* [https://pub.uni-bielefeld.de/download/1860018/2907190 Noch ein Höhlengleichnis. Zu einem metaphorischen Argument bei Gregor dem Großen] by Meinolf Schumacher (in German).
+*[https://web.archive.org/web/20161221012054/https://epistolae.ccnmtl.columbia.edu/woman/136.html ''Women's Biography: Barbara and Antonina''], contains two of his letters.
+*[http://www.colecciondeverda.com/2012/11/san-gregorio-magno-en-su-estudio.html St. Gregory engraved by Anton Wierix from the De Verda Collection]
+*[http://www.christianiconography.info/gregory.html Saint Gregory the Great] at the [http://www.christianiconography.info Christian Iconography] website
+*[http://www.christianiconography.info/goldenLegend/gregory.htm Of St. Gregory the Pope] from Caxon's translation of the Golden Legend
+*[http://openn.library.upenn.edu/Data/0028/html/ms_484_021.html MS 484/21 Dialogorum ... libri quatuor de miraculis at OPenn]
+
+{{S-start}}
+{{S-rel|ca}}
+{{S-bef|before=[[Pope Pelagius II|Pelagius II]]}}
+{{s-ttl|title=Pope|years=590–604}}
+{{S-aft|after=[[Pope Sabinian|Sabinian]]}}
+{{S-end}}
+
+{{Popes}}
+{{Navboxes
+|list=
+{{Medieval music}}
+{{Seven Deadly Sins}}
+{{Catholic saints}}
+{{Latin Church footer}}
+{{Catholicism}}
+{{History of the Catholic Church}}
+{{History of Catholic theology}}
+{{History of Christianity}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gregory 01}}
+[[Category:Pope Gregory I| ]]
+[[Category:540 births]]
+[[Category:604 deaths]]
+[[Category:6th-century Christian mystics]]
+[[Category:6th-century Christian theologians]]
+[[Category:6th-century Italian writers]]
+[[Category:6th-century writers in Latin]]
+[[Category:6th-century popes]]
+[[Category:7th-century archbishops]]
+[[Category:7th-century Christian mystics]]
+[[Category:7th-century Christian saints]]
+[[Category:7th-century Christian theologians]]
+[[Category:7th-century Italian writers]]
+[[Category:7th-century writers in Latin]]
+[[Category:7th-century popes]]
+[[Category:Anicii]]
+[[Category:Angelic visionaries]]
+[[Category:Church Fathers]]
+[[Category:Doctors of the Church]]
+[[Category:Gregorian mission]]
+[[Category:Italian Christian mystics]]
+[[Category:Italian popes]]
+[[Category:Last of the Romans]]
+[[Category:Medieval Italian saints]]
+[[Category:Medieval Italian theologians]]
+[[Category:Papal Apocrisiarii to Constantinople]]
+[[Category:Papal saints]]
+[[Category:Patristic mystics]]
+[[Category:Popes]]
+[[Category:Popes of the Byzantine Papacy]]
+[[Category:Pre-Reformation saints of the Lutheran liturgical calendar]]
+[[Category:Urban prefects of Rome]]
+[[Category:Anglican saints]]
+[[Category:Burials at St. Peter's Basilica]]

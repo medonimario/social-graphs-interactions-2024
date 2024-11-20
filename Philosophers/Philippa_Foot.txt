@@ -1,0 +1,137 @@
+{{Short description|English philosopher (1920–2010)}}
+{{Multiple issues|
+{{More citations needed|date=August 2023}}
+{{Essay-like|date=August 2023}}
+}}
+{{Use dmy dates|date=August 2021}}
+{{Use British English|date=September 2012}}
+{{Infobox philosopher 
+|region = [[Western philosophy]]
+|era = [[20th-century philosophy]]
+|image = PhilippaFoot1939.jpg
+|image_size = 200px
+|caption = Philippa Foot (1939)
+|birth_name = Philippa Ruth Bosanquet
+|name = Philippa Foot
+|honorific_suffix = {{post-nominals|country=GBR|FBA|size=100%}}
+|birth_date = {{birth date|df=yes|1920|10|3}}
+|birth_place = [[Owston Ferry]], England
+|death_date = {{death date and age|df=yes|2010|10|3|1920|10|3}}
+|death_place = [[Oxford]], England
+|alma_mater = [[Somerville College, Oxford]]
+|institutions = [[Somerville College, Oxford]]<br/>[[UCLA]]
+|school_tradition = [[Analytic philosophy]]<br/>[[Aretaic turn]]<br/>[[Aristotelianism]]
+|main_interests = [[Ethics]], [[aesthetics]]
+|notable_ideas = [[Trolley problem]], modern revival of [[virtue ethics]]|
+}}
+'''Philippa Ruth Foot''' {{post-nominals|country=GBR|FBA}} ({{née|'''Bosanquet'''}}; 3 October 1920 – 3 October 2010) was an English philosopher and one of the founders of contemporary [[virtue ethics]]. Her work was inspired by [[Aristotelian ethics]]. Along with [[Judith Jarvis Thomson]], she is credited with inventing the [[trolley problem]].<ref name="Philippa Foot 1978">Philippa Foot, ''[https://web.archive.org/web/20240712123155/https://www2.econ.iastate.edu/classes/econ362/Hallam/Readings/FootDoubleEffect.pdf The Problem of Abortion and the Doctrine of the Double Effect] {{Webarchive |url=https://web.archive.org/web/20190824083120/http://www2.econ.iastate.edu/classes/econ362/hallam/Readings/FootDoubleEffect.pdf |date=24 August 2019 }}'' in ''Virtues and Vices'' (Oxford: Basil Blackwell, 1978) (originally in the ''Oxford Review'', No. 5, 1967).</ref><ref>{{Cite book |last1=Edmonds |first1=Dave |title=Would You Kill the Fat Man? The Trolley Problem and What Your Answer Tells Us about Right and Wrong |publisher=Princeton University Press |year=2013 |page=35| isbn=9780691154022}} "Philippa Foot set Trolleyology going, but it was Judith Jarvis Thomson, a philosopher at the Massachusetts Institute of Technology, who delivered its most high-voltage jolt. Struck by Foot's thought experiment she responded with not one but two influential articles on what she labelled ''The Trolley Problem.''"</ref> She was elected a member of the [[American Philosophical Society]]. She was a granddaughter of the U.S. President [[Grover Cleveland]].{{rp|354}}
+
+==Biography==
+Born Philippa Ruth Bosanquet in [[Owston Ferry]], [[North Lincolnshire]], she was the daughter of [[Esther Cleveland]] (1893–1980) and Captain William Sidney Bence Bosanquet (1893–1966) of the [[Coldstream Guards]] of the [[British Army]]. Her paternal grandfather was barrister and judge Sir [[Frederick Albert Bosanquet]], [[Common Serjeant of London]] from 1900 to 1917. Her maternal grandfather was the [[List of Presidents of the United States|22nd and 24th]] President of the United States, [[Grover Cleveland]].<ref>{{Cite news |url=https://www.theguardian.com/world/2010/oct/05/philippa-foot-obituary |title=''The Guardian'': Philippa Foot. |newspaper=The Guardian |date=5 October 2010 |access-date=17 December 2016 |archive-date=4 November 2019 |archive-url=https://web.archive.org/web/20191104202554/https://www.theguardian.com/world/2010/oct/05/philippa-foot-obituary |url-status=live |last1=O'Grady |first1=Jane }}</ref><ref>[[Naomi Zack|Zack, N.]], ''The Handy Philosophy Answer Book'' ([[Canton, Michigan|Canton, MI]]: [[Visible Ink Press]], 2010), [https://books.google.com/books?id=lSgf2OuCpcoC&pg=PA354 p. 354].</ref>
+
+Foot was educated privately and at [[Somerville College, Oxford]], 1939–1942, where she attained a first-class degree in [[philosophy, politics, and economics]]. Her association with Somerville, interrupted only by government service as an economist from 1942 to 1947, continued for the rest of her life. She was a lecturer in philosophy, 1947–1950; fellow and tutor, 1950–1969; senior research fellow, 1969–1988; and honorary fellow, 1988–2010. She spent many hours there in debate with [[G. E. M. Anscombe]] and learnt from her about Wittgenstein's analytic philosophy and a new moral perspective: Foot said "I learned every thing from her".<ref>{{Cite journal |last=Ortiz Millán |first=Gustavo |date=2023-06-28 |title=Benjamin J.B. Lipscomb, The Women Are up to Something. How Elizabeth Anscombe, Philippa Foot, Mary Midgley, and Iris Murdoch Revolutionized Ethics |url=https://critica.filosoficas.unam.mx/index.php/critica/article/view/1430 |journal=Crítica (México D. F. En línea) |volume=55 |issue=164 |pages=99–107 |doi=10.22201/iifs.18704905e.2023.1430 |issn=1870-4905 |doi-access=free |access-date=26 November 2023 |archive-date=10 December 2023 |archive-url=https://web.archive.org/web/20231210112814/https://critica.filosoficas.unam.mx/index.php/critica/article/view/1430 |url-status=live }}</ref><ref>{{Cite encyclopedia | last= Hacker-Wright | first= John | title= Philippa Foot | encyclopedia= The Stanford Encyclopedia of Philosophy | editor-last= Zalta | editor-first= Edward N. | url= https://plato.stanford.edu/archives/win2021/entries/philippa-foot | access-date= 26 November 2023 | archive-date= 11 January 2024 | archive-url= https://web.archive.org/web/20240111123233/https://plato.stanford.edu/archives/win2021/entries/philippa-foot/ | url-status= live }}</ref>
+
+In the 1960s and 1970s, Foot held a number of visiting professorships in the United States, including at [[Cornell University|Cornell]], [[MIT]], [[University of California, Berkeley|Berkeley]], and [[City University of New York]]. She was appointed Griffin Professor of Philosophy at the [[University of California, Los Angeles]] in 1976 and taught there until 1991, dividing her time between the United States and Britain.<ref name="Hursthouse 2012">{{Cite book |author=Hursthouse, Rosalind |chapter=Philippa Ruth Foot, 1920–2010 |chapter-url=https://www.thebritishacademy.ac.uk/publications/memoirs/foot-philippa-ruth-1920-2010 |archive-url=https://web.archive.org/web/20161205034855/http://www.britac.ac.uk/sites/default/files/11_07-Philippa_Foot.pdf |archive-date=5 December 2016 |title=Biographical Memoirs of Fellows of the British Academy |volume=XI |isbn=9780197265307 |date=28 November 2012 |pages=179–196 |publisher=OUP/British Academy |language=en}}</ref>
+
+Contrary to common belief, Foot was not a founder of [[Oxfam]]. She joined the organization about six years after its foundation. She was an [[atheist]].<ref name="The Harvard Review of Philosophy 2003, pp. 34–35">{{Cite journal |author=Voorhoeve, Alex |title=The Grammar of Good. An Interview with Philippa Foot |url=http://www.hcs.harvard.edu/~hrp/issues/2003/Foot.pdf |journal=The Harvard Review of Philosophy |volume=XI |date=2003 |pages=32–44 |issn=2153-9154 |oclc=25557273 |language=en |access-date=1 February 2007 |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303205350/http://www.hcs.harvard.edu/~hrp/issues/2003/Foot.pdf |url-status=live }}</ref> She was once married to the historian [[M. R. D. Foot]],<ref>{{Cite journal |last=Eilenberg |first=Susan |title=With A, then B, then C |journal=London Review of Books |volume=24 |issue=17 |date=5 September 2002 |pages=3–8}}</ref> and at one time shared a flat with the philosopher and novelist [[Iris Murdoch]].<ref>{{Cite news |last=Grimes |first=William |title=Philippa Foot, Renowned Philosopher, Dies at 90 |url=https://www.nytimes.com/2010/10/10/us/10foot.html?_r=0 |access-date=25 April 2014 |newspaper=The New York Times |date=9 October 2010 |archive-date=28 November 2018 |archive-url=https://web.archive.org/web/20181128105029/https://www.nytimes.com/2010/10/10/us/10foot.html?_r=0 |url-status=live }}</ref> She died in 2010 on her 90th birthday.<ref>{{Cite news |url=https://www.theguardian.com/world/2010/oct/05/philippa-foot-obituary |title=Philippa Foot obituary |work=[[The Guardian]] |date=5 October 2010 |access-date=17 December 2016 |archive-date=4 November 2019 |archive-url=https://web.archive.org/web/20191104202554/https://www.theguardian.com/world/2010/oct/05/philippa-foot-obituary |url-status=live }}</ref> She lived at 15 [[Walton Street, Oxford|Walton Street]] from 1972 until 2010, and is commemorated by an [[Oxfordshire Blue Plaques Board|Oxfordshire Blue Plaque]] on the house.<ref>{{Cite web |url=http://www.oxonblueplaques.org.uk/plaques/foot.html |title=Philippa FOOT (1920–2010): Moral Philosopher – 15 Walton Street, Oxford | publisher=[[Oxfordshire Blue Plaques Board]] | location=UK |access-date=27 May 2023 |archive-date=27 May 2023 |archive-url=https://web.archive.org/web/20230527084646/http://www.oxonblueplaques.org.uk/plaques/foot.html |url-status=live }}</ref>
+
+==Critique of non-cognitivism==
+Foot's work in the 1950s and 1960s sought to revive [[Aristotelianism|Aristotelian]] ethics in modernity, competing with its major rivals, modern [[deontology]] and [[consequentialism]] (the latter a term dubbed by Anscombe). Some of her work was crucial to a re-emergence of [[normative ethics]] within [[analytic philosophy]], notably her critiques of [[consequentialism]], non-cognitivism, and [[Friedrich Nietzsche|Nietzsche]]. Foot's approach was influenced by the later work of [[Wittgenstein]], although she seldom dealt explicitly with his materials. She had the opportunity to listen to Wittgenstein lecture once or twice.<ref>{{cite web |last1=Foot |first1=Philippa |title=Moral Skepticism |url=https://www.youtube.com/watch?v=MJ44bqhPjG0 |website=Philosophy Overdose |date=March 2023 |access-date=25 May 2023 |archive-date=25 May 2023 |archive-url=https://web.archive.org/web/20230525101443/https://www.youtube.com/watch?v=MJ44bqhPjG0 |url-status=live }}</ref>
+
+In her earlier career, Foot's works were [[meta-ethics|meta-ethical]] in character, pertaining to the nature and status of moral judgment and language. Her essays "Moral Arguments" and "Moral Beliefs" were significant in dethroning non-cognitivism as the dominant meta-ethical theory of preceding decades.{{cn|date=August 2023}}
+
+Though non-cognitivism may be traced back to [[David Hume|Hume]]'s ''[[Is–ought problem]]'', its most explicit formulations are found in the works of [[Alfred Ayer|A. J. Ayer]], [[C. L. Stevenson]], and [[R. M. Hare]], who focused on abstract or "thin" ethical concepts such as good/bad and right/wrong. They argued that moral judgments do not express propositions, i.e., that they are not truth-apt, but express emotions or imperatives. Thus, fact and value are independent of each other.{{cn|date=August 2023}}
+
+This analysis of abstract or "thin" ethical concepts was contrasted with more concrete or "thick" concepts, such as cowardice, cruelty, and gluttony. Such attributes do not swing free of the facts, yet they carry the same "practicality" that "bad" or "wrong" do. They were intended to combine the particular, non-cognitive "evaluative" element championed by the theory with the descriptive element. One could detach the evaluative force by employing them in an "inverted commas sense", as one does in attempting to articulate thoughts in a system one opposes, for example by putting "unmanly" or "unladylike" in quotation marks. That leaves purely descriptive expressions that apply to actions, whereas employing such expressions without the quotation marks would add the non-cognitive extra of "and such action is ''bad''".{{cn|date=August 2023}}
+
+Foot objected to this distinction and its underlying account of thin concepts. Her defense of the cognitive and truth-evaluable character of moral judgment made the essays crucial in bringing the question of the [[rationality]] of [[morality]] to the fore.{{cn|date=August 2023}}
+
+Practical considerations involving "thick" ethical concepts – "but it would be cruel", "it would be cowardly", "it's for her to do", or "I promised her I wouldn't do it" – move people to act one way rather than another, but remain as purely descriptive as any other judgment pertaining to human life. They differ from thoughts such as "it would be done on a Tuesday" or "it would take about three gallons of paint" not by admixing what she considers a non-factual, attitude-expressing, "moral" element, but simply by the fact that people have reason not to do things that are cowardly or cruel. Her lifelong devotion to the question is apparent in all periods of her work.{{cn|date=August 2023}}
+
+==Morality and reasons==
+It is on the "why be moral?" question (which for her may be said to divide into the questions "why be just?", "why be temperate?", etc.) that her doctrine underwent a series of reversals.{{fact|date=May 2024}}
+
+==="Why be moral?" – early work===
+In "Moral Beliefs", Foot argued that the received virtues – courage, temperance, justice, and so on – are typically good for their bearer. They make people stronger, so to speak, and condition to happiness. This holds only typically, since the courage of a soldier, for instance, might happen to be precisely his downfall, yet is in some sense essential: possession of sound arms and legs is good as well. However, damaged legs may happen to exclude someone from conscription that assigns contemporaries to their deaths. So people have reason to act in line with the canons of these virtues and avoid cowardly, gluttonous, and unjust action. Parents and guardians who want the best for children will steer them accordingly.{{cn|date=August 2023}}
+
+The "thick" ethical concepts that she emphasized in her defense of moral judgment's cognitive character were precisely those associated with such "profitable" traits, i. e., virtues; this is how such descriptions differ from randomly chosen descriptions of action. The crucial point was that the difference between "just action" and "action performed on Tuesday" (for example) was not a matter of superadded "emotive" meaning, as in [[A. J. Ayer|Ayer]] and [[Charles Stevenson (philosopher)|Stevenson]], nor a latent imperative feature, as in [[R. M. Hare|Hare]]. It is just that ''justice'' makes its bearer strong, which gives us a reason to cultivate it in ourselves and our loved ones by keeping to the corresponding actions.{{cn|date=August 2023}}
+
+So Foot's philosophy must address Nietzsche and the Platonic immoralists: perhaps the received ostensible virtues in fact warp or damaged the bearer. She suggests that modern and contemporary philosophers (other than Nietzsche) fear to pose this range of questions because they are blinded by an emphasis on a "particular just act" or a particular courageous act, rather than the traits that issue from them. It seems that an agent might come out the loser by such act. The underlying putative virtue is the object to consider.{{cn|date=August 2023}}
+
+==="Why be moral?" – middle work===
+Fifteen years later, in the essay "Morality as a System of Hypothetical Imperatives", she reversed this when it came to justice and benevolence, that is, the virtues that especially regard other people. Although everyone has reason to cultivate courage, temperance and prudence, whatever the person desires or values, still, the rationality of just and benevolent acts must, she thought, turn on contingent motivations.  Although many found the thesis shocking, on her (then) account, it is meant to be, in a certain respect, inspiring: in a famous reinterpretation of a remark of Kant,<ref>[[Critique of Practical Reason]], [[s:Critique of Practical Reason#CHAPTER III. Of the Motives of Pure Practical Reason|Book 1, Chapter 3]], "[W]e pretend with fanciful pride to set ourselves above the thought of duty, like volunteers.... [B]ut yet we are subjects in it, not the sovereign,"</ref> she says that "we are not conscripts in the army of virtue, but volunteers";<ref>''Virtues and Vices'', [https://books.google.com/books?id=E4GFUsscp5EC&pg=PT170 p. 170].</ref>{{rp|170}} the fact that we have nothing to say in proof of the irrationality of at least some unjust people should not alarm us in our own defence and cultivation of justice and benevolence: "it did not strike the citizens of Leningrad that their devotion to the city and its people during the terrible years of the siege was contingent".{{cn|date=August 2023}}
+
+==="Why be moral?" – later work===
+Foot's book ''Natural Goodness'' attempts a different line. The question that we have most reason to do ties into the good working of practical reason. This in turn is tied to the idea of the species of an animal providing a measure of good and bad in the operations of its parts and faculties. Just as one has to know what kind of animal is meant, for instance to decide whether its eyesight is good or bad, the question of whether a subject's practical reason is well developed depends on the kind of animal it is. This idea is developed in the light of a concept of animal kinds or species as implicitly containing "evaluative" content, which may be criticized on contemporary biological grounds. However, it is arguable even on that basis that it is deeply entrenched in human cognition. In this case, what makes for a well-constituted practical reason depends on us being human beings marked by certain possibilities of emotion and desire, a certain anatomy, neurological organization, and so forth.{{cn|date=August 2023}}
+
+Once this step is taken, it becomes possible to argue in a new way for the rationality of moral considerations. Humans begin with the conviction that justice is a genuine virtue. So a conviction that well-constituted human practical reason operates with considerations of justice means that ''taking account of other people in that sort of way'' is "how human beings live together." (The thought that this is how they live must be understood in a sense compatible with the fact that actual individuals often do not – just as dentists understand the thought that "human beings have ''n'' teeth" in a way that is compatible with many people having fewer.) There is nothing incoherent in the thought that [[practical reason]]ing that takes account of others and their good might characterize some kind of rational and social animal.{{cn|date=August 2023}}
+
+Similarly, there is nothing incoherent in the idea of a form of rational life. Such considerations are alien, where they can only be imposed by damaging and disturbing the individual. There is nothing analytical about the rationality of justice and benevolence. Human conviction that justice is a virtue and that considerations of justice are genuine reasons for action assumes that the kind of rational being we are, namely human beings, is of the first type. There is no reason to think such a rational animality is impossible, and so none to suspect that considerations of justice are frauds.{{cn|date=August 2023}}
+
+It might be suggested that this is precisely not the case, that human beings are of the second kind, thus that the justice and benevolence we esteem are artificial and false. Foot would hold that [[machismo]] and ladylikeness considerations are artificial and false; they are matters of "mere convention", which tend to put one off the main things. As far as justice is concerned, that was the position of the "immoralists" [[Callicles]] and [[Thrasymachus]] in [[Plato]]'s [[Socratic dialogue|dialogues]], and as far as benevolence is concerned, that was the view of [[Friedrich Nietzsche]].{{cn|date=August 2023}}
+
+With Callicles and Nietzsche, this is apparently to be shown by claiming that justice and benevolence respectively can be inculcated only by warping the emotional apparatus of the individual. Foot's book ends by attempting to defuse the evidence Nietzsche brings against what might be called the common-sense position. She proceeds by accepting his basic premise that a way of life inculcated by damaging the individual's passions, filling one with remorse, [[Ressentiment|resentment]] and so forth, is wrong. She employs exactly the Nietzschean form of argument against some forms of femininity, for example, or exaggerated forms of etiquette acceptance. However, she claims that justice and benevolence "suit" human beings and there is no reason to accept Callicles' or Nietzsche's critiques in this case.{{cn|date=August 2023}}
+
+==Ethics, aesthetics and political philosophy==
+Nearly all Foot's published work relates to normative or meta-ethics. Only once did she move into [[aesthetics]] – in her 1970 British Academy Hertz Memorial Lecture, "Morality and Art", in which certain contrasts are drawn between moral and aesthetic judgements.{{cn|date=August 2023}}
+
+Foot appears never to have taken a professional interest in [[political philosophy]].{{fact|date=May 2024}} Geoffrey Thomas of [[Birkbeck College]], London, recalls approaching Foot in 1968, when he was a postgraduate at [[Trinity College, Oxford]], to ask if she would read a draft paper on the relation of ethics to politics. "I've never found political philosophy interesting," she said, adding, "One's bound to interest oneself in the things people around one are talking about," so implying correctly that political philosophy was largely out of favour with Oxford philosophers in the 1950s and 1960s. She still agreed to read the paper, but Thomas never sent it.<ref>J. Hacker-Wright, ''Philippa Foot's Moral Thought'' (London: [[Bloomsbury Publishing]], 2013), [https://books.google.com/books?id=PRdMAQAAQBAJ&lpg=PP1&hl=de&pg=PA31 pp. 31–58].</ref>{{rp|31–58}}
+
+==Selected works==
+*''Virtues and Vices and Other Essays in Moral Philosophy'', Berkeley: [[University of California Press]]/Oxford: [[Blackwell Publishing|Blackwell]], 1978 (there are more recent editions)
+*''Natural Goodness''. Oxford: [[Clarendon Press]], 2001
+*''Moral Dilemmas: And Other Topics in Moral Philosophy'', Oxford: Clarendon Press, 2002
+*''[http://publications.thebritishacademy.ac.uk/pubs/proc/files/56p131.pdf Morality and Art],'' [[The British Academy]], read 20 May 1970, copyright 1971.
+*Warren Quinn, ''Morality and Action'', ed. Philippa Foot (Introduction, ix–xii), Cambridge: [[Cambridge University Press]], 1993
+
+==See also==
+*[[Judith Jarvis Thomson]]
+*[[G. E. M. Anscombe]]
+*[[Rosalind Hursthouse]]
+*[[Thought experiment]]
+*[[Trolley problem]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{wikiquote}}
+*[https://web.archive.org/web/20140327234312/http://www.britac.ac.uk/memoirs/11.cfm Links to biographical memoirs of fellows of the British Academy, including Philippa Foot]
+*[[Iris Murdoch]]: [http://fass.kingston.ac.uk/downloads/iris-murdoch-newsletter-14.pdf Memoir of Philippa Foot]
+*[http://www.philosophynow.org/issue41/41foot.htm  Interview with Philippa Foot] in [[Philosophy Now]] magazine, 2001.
+*[http://www.hcs.harvard.edu/~hrp/issues/2003/Foot.pdf  Interview with Foot by Alex Voorhoeve] A revised and slightly expanded version of this interview appears in [http://personal.lse.ac.uk/voorhoev/voorhoeve_cover_hb.pdf Alex Voorhoeve, ''Conversations on Ethics.'' Oxford University Press, 2009.]
+*[http://previous.lib.uci.edu/about/publications/philosophy/foot.html A bibliography of Foot's works through 1996]
+*[https://www.nytimes.com/2010/10/10/us/10foot.html?_r=1&scp=1&sq=phillipa%20foot&st=cse  "Philippa Foot, Renowned Philosopher, Dies at 90," by WILLIAM GRIMES, ''The New York Times'', 9 October 2010]
+*[https://www.findagrave.com/memorial/182515403/philippa-ruth-foot "Phillipa Ruth Foot"] in ''Find a Grave''.
+
+{{ethics}}
+{{Aristotelianism}}
+{{Grover Cleveland}}
+{{Authority control}}
+
+{{DEFAULTSORT:Foot, Philippa}}
+[[Category:1920 births]]
+[[Category:2010 deaths]]
+[[Category:20th-century English philosophers]]
+[[Category:21st-century English philosophers]]
+[[Category:Alumni of Somerville College, Oxford]]
+[[Category:Analytic philosophers]]
+[[Category:Aristotelian philosophers]]
+[[Category:Atheism in the United Kingdom]]
+[[Category:Atheist philosophers]]
+[[Category:British atheists]]
+[[Category:Cornell family]]
+[[Category:English atheists]]
+[[Category:English people of American descent]]
+[[Category:English women philosophers]]
+[[Category:Fellows of Somerville College, Oxford]]
+[[Category:Fellows of the British Academy]]
+[[Category:Family of Grover Cleveland]]
+[[Category:Moral realists]]
+[[Category:People from the Borough of North East Lincolnshire]]
+[[Category:Philosophers of love]]
+[[Category:Philosophy writers]]
+[[Category:University of California, Los Angeles faculty]]
+[[Category:Virtue ethicists]]
+[[Category:Wittgensteinian philosophers]]
+[[Category:Women ethicists]]

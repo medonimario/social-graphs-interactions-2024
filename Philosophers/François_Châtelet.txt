@@ -1,0 +1,102 @@
+{{Short description|French philosopher}}
+{{about||the mathematician|François Châtelet (mathematician)|the French Olympic athlete|François Châtelet (athlete)}}
+{{More citations needed|date=December 2009}}
+{{Infobox philosopher
+| era              = [[20th-century French philosophy]]
+| image         = François Châtelet.png
+| name             = François Châtelet
+| birth_date       = 27 April 1925
+| birth_place      = [[Paris|Paris, France]]
+| death_date       = 26 December 1985
+| death_place      = Paris, France
+| school_tradition = [[Post-structuralism]]
+| main_interests   ={{hlist|[[History of philosophy]]|[[Political philosophy]]|[[Marxism]]|[[Athenian democracy]]|[[Platonism]]|[[Kantianism]]|[[Hegelianism]]|[[Reason]]|[[Statism]]}}
+| notable_works    =
+{{Flatlist}}
+* ''Périclès et son siècle''
+* ''Platon''
+* ''Hegel''
+* ''La philosophie des professeurs''
+* ''Histoire de la philosophie''
+* ''Une histoire de la raison''
+* "Classical Greece, Reason, and the State"
+{{Endflatlist}}
+| notable_ideas    =
+
+{{Flatlist}}
+* [[History of philosophy]]
+* Politics of Philosophy
+* The State<ref name="Foster" />
+* [[Rationalism]]<ref name="Deleuze Pericles">{{cite journal |last1=Deleuze |first1=Gilles |translator1-last=Wolfe |translator1-first=Charles T. |title=Pericles and Verdi: The Philosophy of Francois Chatelet |journal=The Opera Quarterly |date=2005 |volume=21 |issue=4 |page=716 |url=https://muse.jhu.edu/article/203843/pdf |access-date=2 May 2024}}</ref>
+* [[Pericles|Periclean Democracy]]
+* [[Immanuel Kant|Anti-Kantianism]]
+* [[Platonism|Anti-Platonism]]<ref name="Foster" />
+
+{{Endflatlist}}}}
+'''Michel François Jacques Châtelet''' (27 April 1925 – 26 December 1985) was a historian of [[philosophy]] and [[political philosophy]], [[philosopher]] and professor in the [[Socrates|socratic tradition]]. He was the husband of philosopher [[Noëlle Châtelet]].<ref name="Deleuze Seminars">{{cite web |title=Francois Chatelet |url=https://deleuze.cla.purdue.edu/people/francois-chatelet/ |website=The Deleuze Seminars |access-date=30 April 2024}}</ref> Châtelet was also a co-founder of the influential French [[political philosophy]] [[Academic journal|journal]] ''Arguments.''<ref name="BNF" />
+
+==Biography==
+Châtelet was born in [[Paris]] on April 27, 1925. The son of a [[tram|tram operator]] for the ''Société des transports parisiens,'' (which would later become the [[Compagnie du chemin de fer métropolitain de Paris]] and subsequently the [[RATP Group|RATP]]), Châtelet characterized his upbringing as "[[petite bourgeoisie]]". After studying at the [[Lycée Janson-de-Sailly]] and subsequently the [[Lycée Claude-Bernard]],<ref name="Le Maitron">{{cite web |last1=Gallisot |first1=René |title=notice CHÂTELET François [CHÂTELET Michel, François, Jacques] |url=https://maitron.fr/spip.php?article19612 |website=Le Maitron |publisher=Le Maitron |access-date=2 May 2024}}</ref> he relocated to [[Lille]] to complete his secondary studies. After graduating with his [[Baccalauréat]] in 1943, he returned to Paris to enroll at the [[Sorbonne University|Sorbonne]], where he was a student of the philosopher [[Gaston Bachelard]]. It was during this time that he became acquainted with the works of [[Karl Marx]], and the [[Vietnamese philosophy|Vietnamese]] [[Marxism|Marxist]] philosopher and [[Phenomenology (philosophy)|phenomenologist]] [[Tran Duc Thao]]. Finding further inspiration in [[Jean-Paul Sartre]]'s ''[[The Imaginary (Sartre)|L'Imaginaire]]'', Châtelet entered a period of what he referred to as "[[Georg Wilhelm Friedrich Hegel|Hegelo]]-Marxist [[Existentialism]]."<ref name="Le Maitron" /> In 1948, he passed the ''aggrégation de philosophie'', a competitive exam used for the recruitment of philosophy teachers and professors in the [[French education system]].<ref name="BNF" /> Following his graduation, Châtelet and his fiancée, Janine Marie Mathon, moved to [[Algeria]], where he taught at the ''Lycée Lamoricière'' in [[Oran]] while Mathon taught at the affiliated girls lycée. In 1951, Châtelet took a post at the Lycée Carnot in [[Tunis]], teaching the [[Khâgne|hypokhâgne]], before returning to Paris in 1954 to teach at the Lycée d'Amiens.<ref name="Le Maitron" /> He subsequently became a hypokhâgne teacher at the prestigious [[Lycée Fénelon, Paris|Lycée Fénelon]] in Paris.<ref name="La Procure" />
+
+In 1950, he began his doctoral studies under [[Jean Hyppolite]], initially wishing to complete a thesis titled "Histoire et signification de l'idée de Révolution," (History and Meaning of the Idea of Revolution). Ultimately, his doctoral thesis was titled "La formation de la pensée historienne dans la philosophie de la Grèce classique de la fin des guerres médiques à la bataille de Chéronée" (The formation of historical thought in Classical Greek philosophy from the end of the [[Greco-Persian Wars]] to the [[Battle of Chaeronea (338 BC)|Battle of Chaeronea]]).<ref name="Le Maitron" /> Completing his thesis in 1959<ref name="imec" /> Châtelet was awarded a [[Doctor of Letters]] in 1961, when his complimentary thesis, ''Logos et praxis: Recherches sur la signification théorique du marxisme'' (Logos and Praxis: Research on the Theoretical Significance of Marxism) was published by [[Les Éditions de Minuit]].<ref name="BNF">{{cite web |title=Notice d'autorité personne |url=https://catalogue.bnf.fr/ark:/12148/cb119935553.public |website=BnF Catalogue générale |publisher=Bibliothèque nationale du France |access-date=2 May 2024}}</ref><ref name="Le Maitron" />
+
+From a young age, Châtelet was actively engaged in current affairs,<ref name="La Procure">{{cite web |title=François Châtelet |url=https://www.laprocure.com/post/4866/francois-chatelet |website=La Procure |publisher=La Procure |access-date=2 May 2024}}</ref> putting up posters and distributing leaflets – some of which had [[Trotskyism|Trotskyist]] undertones – around the Lycées at which he studied.<ref name="Le Maitron" /> He was deeply influenced by the thought of [[Alexandre Kojève]] and [[Éric Weil]], who he considered his mentors.<ref name="imec">{{cite web |title=Notice descriptive Châtelet, François (1925-1985) |url=https://collections.imec-archives.com/ark:/29414/a011454487326iWWupR |website=Institut mémoires de l'édition contemporaine |publisher=Institut mémoires de l'édition contemporaine |access-date=2 May 2024}}</ref> A member of the [[Communist Party of France]], he withdrew from the party in 1956 in response to the [[Hungarian Revolution of 1956|Soviet invasion of Hungary]], and actively campaigned for the decolonization of the [[Maghreb]] during his time teaching there.
+
+Along with [[Michel Foucault]] and [[Gilles Deleuze]], he is one of the founders of the department of philosophy at [[Paris 8 University Vincennes-Saint-Denis|The University of Paris, Vincennes]], which was established in the aftermath of the [[May 68|May, 1968 student protests across France]], and was later relocated from [[Vincennes]] to the northern [[Paris]]ian [[Communes of France|commune]] of [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]].<ref name="Deleuze Seminars" /><ref name="Foster">{{Cite journal |last=Foster |first=Adam E. |date=2023 |title=The State, Philosophy, and the Tyranny of the Logos: An Introduction to François Châtelet's 'Classical Greece, Reason, and the State.' |url=https://parrhesiajournal.org/wp-content/uploads/2024/01/01.-Adam-Foster-The-State-Philosophy-and-the-Tyranny-of-the-Logos-An-Introduction-to-Chatelet.pdf |journal=Parrhesia: A Journal of Critical Philosophy |issue=38 |pages=1-20}}</ref> Along with [[Jean-Pierre Vernant]], he and joined the department of philosophy at the [[University of São Paulo]] in 1971 as a form of protest to [[Brazilian military government]]'s imprisonment of most of the department's faculty.<ref>{{cite web |url=http://www.fflch.usp.br/df/site/index.php?pg=hom_jpv.html |title=Filosofia - USP |accessdate=2012-05-11 |url-status=dead |archiveurl=https://web.archive.org/web/20110921020142/http://www.fflch.usp.br/df/site/index.php?pg=hom_jpv.html |archivedate=2011-09-21 }} Official Webpage of the Faculty of Philosophy (University of São Paulo) {{in lang|pt}}</ref> In 1983, he co-founded the [[Collège international de philosophie]] (International College of Philosophy), which is described as being at "the forefront of militant and engaged critical thinking," and has sought to "relocate philosophy at the intersection of science, politics, psychoanalysis, art and literature, jurisprudence, and economy."<ref name="Foster" /><ref name="Campana">{{cite journal |last1=Campana |first1=Alessandra |title=From Pericles and Verdi (and Backward) |journal=The Opera Quarterly |date=2005 |volume=21 |issue=4 |pages=713–715 |url=https://muse.jhu.edu/article/203840 |access-date=30 April 2024}}</ref> Châtelet's philosophy links thought and action, engaging in a restless combat with his contemporaries. <!-- awkward see French for my source --> He also taught in high schools and pre-university classes throughout his career,<ref name="Verignioux">{{cite journal |last1=Verignioux |first1=Alain |title=La philosophie de François Châtelet |journal=Le Télémaque |volume=47 |issue=1 |pages=9–16 |url=https://www.cairn.info/revue-le-telemaque-2015-1-page-9.htm |access-date=30 April 2024}}</ref> and occasionally participated in the seminars of [[Gilles Deleuze]], with whom he was close friends.<ref name="Deleuze Seminars" />
+
+Châtelet's conception of philosophy makes him more of a historian of philosophy than a philosopher. At the same time, his work demonstrates that the history of philosophy is always a ''politics'' of philosophy and history of ''politics'' as well.<ref name="Foster" /> Châtelet argues in ''La philosophie des professeurs'' (which can be translated as either "The Philosophy of Teachers" or "The Philosophy of Professors") that the practice of philosophy can never be separated from how it is taught. Instead, he asserts the two are always intimately connected.<ref name="Verignioux" /> In ''Une histoire de la raison'' (A History of Reason), he shows the role of philosophy in the constitution of modern Western rationality. His work ''Platon'' ([[Plato]]) is a formidable invitation-initiation to the thought of the [[Ancient Greece|ancient Greek]] philosopher.
+
+In 1982, Châtelet was diagnosed with [[lung cancer]], receiving a [[tracheotomy]] the following year. His illness left him debilitated and Châtelet remained homebound until his death in 1985. During this period, Deleuze and his wife Fanny visited Châtelet weekly. The latter's illness had a profound impact on his friend. In 1995, Deleuze wrote a letter to his friend, painter and performance art organizer [[Jean-Jacques Lebel]], stating that he "didn't want to live through what François had lived through." Deleuze would take his own life several weeks later.<ref name="Deleuze Seminars" /><ref name="Dosse">{{cite book |last=Dosse |first=Françoise |translator-last=Glassman |translator-first=Deborah |title=Intersecting Lives |date=2010 |publisher=Columbia University Press |location=New York |page=497}}</ref>
+
+In 2023, his work appeared in English translation for the first time with a translation of his "Classical Greece, Reason, and the State" by Adam E. Foster in volume 38 of [[Parrhesia (journal)|''Parrhesia: A Journal of Critical Philosophy.'']]<ref name="Foster" /><ref name="Classical Greece">{{cite journal |last=Châtelet |first=François |translator-last=Foster |translator-first=Adam E. |title=Classical Greece, Reason, and the State |journal=Parrhesia: A Journal of Critical Philosophy |date=2023 |issue=38 |pages=21–43 |url=https://parrhesiajournal.org/wp-content/uploads/2024/01/02.-Francois-Chatelet-Classical-Greece-Reason-and-the-State.-trans.-Adam-E.-Foster.pdf |access-date=30 April 2024}}</ref>
+
+== Personal life ==
+
+François Châtelet married his first wife, Janine Marie Mathon, in 1948 while living in Oran. The two divorced in June, 1957.
+
+In December, 1968, he married Noëlle Jospin, whose brother [[Lionel Jospin]] would serve as [[Prime Minister of France]] between [[1997]] and [[2002]] during the [[President of France|presidency]] of [[Jacques Chirac]]. The two remained married for the rest of Châtelet's life. Together, they had a son, Antoine.<ref name="Le Maitron" />
+
+==Works==
+* ''Périclès et son siècle'' (Pericles and his age) (1960)
+* ''La naissance de l'histoire : la formation de la pensée historienne en Grèce'', (The birth of history: the formation of historical thought in Greece) (1961)
+* ''Logos et praxis: recherches sur la signification théorique du marxisme'' (Logos and praxis: research on the theoretical significance of [[Marxism]]) (1962)
+* ''Platon'' (Plato) (1965)
+* ''Hegel'' (1968)
+* ''La philosophie des professeurs'' (The Philosophy of Professors) (1970)
+* ''Histoire de la philosophie'' (History of Philosophy) (1972–1973) — 8 volumes
+* ''Profil d'une œuvre : « Le Capital » (livre 2)'' (Profile of a work: [[Das Kapital, Volume II|''Das Capital'' (book 2)]]) (1976)
+* ''Les Années de démolition'' (The Demolition Years) (1976)
+* ''Questions, objections'' (Questions, objections) (1979)
+* ''Une histoire de la raison'' (A History of Reason) (1992)
+* ''Logos et Praxis'' (Logos and Praxis) (2006)
+
+=== English Translations ===
+* "Classical Greece, Reason, and the State," trans. Adam E. Foster, ''Parrhesia: A Journal of Critical Philosophy'' 38 (2023): 21-43.<ref name="Classical Greece" />
+
+=== Co-authored Works ===
+* ''La Révolution sans modèle'' (Revolution without a model) (1974), with [[Gilles Lapouge]] and Oliver Revault d'Allones.
+* ''Les marxistes et la politique'' (Marxists and the political) (1975), with [[Évelyne Pisier]] and Jean-Marie Vincent.
+* ''Chronique des idées perdues'' (The chronicle of lost ideas) (1977), with André Akoun.
+* ''Les conceptions politiques du <abbr>xx<sup>e</sup></abbr> siècle'' (Political conceptions of the 20th century) (1982), with Évelyne Pisier.
+* ''Histoire des conceptions politiques'' (History of political conceptions) (1982), with Éveline Pisier and [[Olivier Duhamel]].
+* ''Dictionnaire des œuvres politiques'' (Dictionary of political works) (1986), with Éveline Pisier and Olivier Duhamel.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{commons category-inline}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chatelet, Francois}}
+[[Category:1925 births]]
+[[Category:1985 deaths]]
+[[Category:Writers from Paris]]
+[[Category:French historians of philosophy]]
+[[Category:Academic staff of Paris 8 University Vincennes-Saint-Denis]]
+[[Category:Academic staff of the University of São Paulo]]
+[[Category:20th-century French historians]]
+[[Category:French male non-fiction writers]]
+[[Category:20th-century French philosophers]]
+[[Category:20th-century French male writers]]

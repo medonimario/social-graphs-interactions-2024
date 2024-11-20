@@ -1,0 +1,35 @@
+{{Short description|2nd-century Greek philosopher}}
+'''Alcinous''' ([[Ancient Greek|Greek]]: {{lang|grc|Ἀλκίνοος}} ''Alkinoos'') was a [[Middle Platonist]] [[Philosophy|philosopher]].  He probably lived in the 2nd century AD,<ref name="date">"Alcinous fits most comfortably into a period bounded by the writings of [[Plutarch]] on the one hand, and [[Galen]] and [[Alexander of Aphrodisias]] on the other, with [[Apuleius]], [[Albinus (philosopher)|Albinus]], [[Atticus (c. 175)|Atticus]], [[Numenius of Apamea|Numenius]], the Peripatetic [[Aspasius]], ... and [[Maximus of Tyre]] as approximate contemporaries." John Dillon, 1993, ''Alcinous, The Handbook of Platonism'', page xiii. Oxford.</ref> although nothing is known about his life.<ref name="DGRBM">{{cite encyclopedia|last=Schmitz |first=Leonhard  |title=Alcinous (3) |editor=William Smith |editor-link=William Smith (lexicographer) |encyclopedia=[[Dictionary of Greek and Roman Biography and Mythology]] |volume=1 |pages=102–103 |publisher=[[Little, Brown and Company]] |location=Boston |year=1867 |url=http://www.ancientlibrary.com/smith-bio/0111.html |url-status=dead |archiveurl=https://web.archive.org/web/20071028160524/http://www.ancientlibrary.com/smith-bio/0111.html |archivedate=2007-10-28 }}</ref> He is the author of ''The Handbook of Platonism'', an epitome of [[Middle Platonism]] intended as a manual for teachers. He has, at times, been identified by some scholars with the 2nd century Middle Platonist [[Albinus (philosopher)|Albinus]].
+
+==Writings==
+Alcinous is the author of work called ''The Handbook of Platonism'' ({{lang|grc|Ἐπιτομὴ τῶν Πλάτωνος δογμάτων}}, also {{lang|grc|Διδασκαλικὸς τῶν Πλάτωνος δογμάτων}}; {{langx|la|De doctrina Platonis}}), one of the few surviving works from the [[Middle Platonism|Middle Platonist]] period (c. 90 BC &ndash; 250 AD).  The book contains 36 chapters which cover topics ranging from logic to physics to ethics.  It is thought to have been intended as a manual, not for students of Platonism, but for its teachers.  The treatise is written in the esoteric manner typical of the [[Corpus Aristotelicum]], and it often appropriates popular concepts from other philosophical schools—in particular the [[Peripatetic school|Peripatetic]] and [[Stoicism|Stoic]] schools—which could be seen as having been prefigured in the works of Plato.
+
+Alcinous's handbook has been dated to the middle of the 2nd century AD.<ref name="date"/> In 1879 the German scholar [[Jacob Freudenthal]] argued that Alcinous was really the philosopher [[Albinus (philosopher)|Albinus]], the teacher of [[Galen]] the physician. This theory remained largely unchallenged until 1974, when John Whittaker made a fresh case convincingly reaffirming Alcinous's authenticity.<ref>John Whittaker, (1974), ''Parisinus Graecus 1962 and the Writings of Albinus'', Phoenix 28, 320–354, 450–456.</ref><ref>{{Cite web |url=http://ccat.sas.upenn.edu/bmcr/1994/94.10.14.html |title=Bryn Mawr Classical Review 94.10.14 |access-date=2007-10-10 |archive-url=https://web.archive.org/web/20010504080418/http://ccat.sas.upenn.edu/bmcr/1994/94.10.14.html |archive-date=2001-05-04 |url-status=dead }}</ref>
+
+Alcinous held the world and its animating soul to be eternal.<ref name="Alcinous, Handbook, 14.3">Alcinous, ''Handbook'', 14.3.</ref> This soul of the universe was not created by [[God]], but, to use the image of Alcinous, it was awakened by him as from a profound sleep, and turned towards himself, "that it might look out upon intellectual things and receive forms and ideas from the divine mind."<ref name="Alcinous, Handbook, 14.3"/> It was the first of a succession of intermediate beings between God and man.<ref>Alcinous, ''Handbook'', 14.6–7, 15.1.</ref> The ''[[Theory of forms|idea]]'' proceeded immediately from the mind of God, and were the highest object of our intellect; the "form" of matter, the types of sensible things, having a real being in themselves.<ref>Alcinous, ''Handbook'', 9.1.</ref>  He differed from the earlier Platonists in confining the ''ideas'' to general laws: it seemed an unworthy notion that God could conceive an ''idea'' of things artificial or unnatural, or of individuals or particulars, or of any thing relative.<ref>Alcinous, ''Handbook'', 9.2.</ref> He seems to have aimed at harmonizing the views of Plato and Aristotle on the ''ideas'', as he distinguished them from the ''eidos'', forms of things, which he allowed were inseparable: a view which seems necessarily connected with the doctrine of the eternity and self-existence of matter.<ref>Alcinous, ''Handbook'', 9.3.</ref> God, the first fountain of the ''ideas'', could not be known as he is: it is but a faint notion of him we obtain from negations and analogies: his nature is equally beyond our power of expression or conception.<ref>Alcinous, ''Handbook'', 10.4–6.</ref> Below him are a series of beings (''[[Daemon (mythology)|daimones]]'')<ref>Alcinous, ''Handbook'', 15.1.</ref> who superintend the production of all living things, and hold intercourse with men. The human soul passes through various transmigrations, thus connecting the series with the lower classes of being, until it is finally purified and rendered acceptable to God.<ref>Alcinous, ''Handbook'', 16.1–2.</ref> His system is understood as a synthesis of Plato and Aristotle, with some elements borrowed from the East, and perhaps derived from a study of the [[Pythagoreanism|Pythagorean system]], which experienced a [[Neopythagoreanism|revival]] of sorts concomitant to that which produced Middle Platonism.
+
+== References ==
+{{Reflist}}
+
+== Sources ==
+* [[John M. Dillon]], ''Alcinous, The Handbook of Platonism'', 1993, Oxford. {{ISBN|0-19-823607-7}}
+*Dirk Baltzly, "''The Virtues and 'Becoming Like God': Alcinous to Proclus''", in ''Oxford Studies in Ancient Philosophy, Volume XXVI'', David Sedley (ed), (Oxford: 2004).
+*John Whittaker, "''Numenius and Alcinous on the First Principle''", Phoenix 32: 144–154 (1978).
+*{{SmithDGRBM|title= Alcinous (3)}}
+
+== External links ==
+*[https://archive.org/details/WorksOfPlatoV6 ''The Introduction of Alcinous to the Doctrines of Plato''] translated by George Burges
+*[https://archive.org/details/alcinous Free public domain audiobook version of ''The Introduction of Alcinous to the Doctrines of Plato''] translated by George Burges
+* {{librivox book | title=Apocrypha | author=Plato}}. Collection includes Alcinous. [[George Burges]], translator (1855).
+
+{{Platonists}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Alcinous}}
+[[Category:2nd-century Romans]]
+[[Category:2nd-century Greek philosophers]]
+[[Category:Deist philosophers]]
+[[Category:Middle Platonists]]
+[[Category:Year of birth unknown]]
+[[Category:Year of death unknown]]

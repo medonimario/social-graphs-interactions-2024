@@ -1,0 +1,58 @@
+'''Adam of Wodeham''',<ref>Also known as "Adam of Wodeham," "Adam Wodeham," "Adam Goddam," and "Adam Woodham."  John T. Slotemaker and Jeffrey C. Witt (2012), "Adam de Wodeham", ''Stanford Encyclopedia of Philosophy'', http://plato.stanford.edu .  Accessed 2019 February 12.</ref> [[Franciscan|OFM]] (1298–1358) was a philosopher and theologian.<ref>{{cite book|last=Courtenay|first=William J.|title=Adam Wodeham: An Introduction to His Life and Writings|year=1978|publisher=Leiden|location=London|pages=160}}</ref> Currently, Wodeham is best known for having been a secretary of [[William Ockham]]<ref>[[Sum of Logic|''Summa Logicae'' (c. 1323)]], [http://www.pvspade.com/Logic/docs/ockham.pdf Prefatory Letter, as translated by Paul Vincent Spade (1995)].</ref> and for his interpretations of [[John Duns Scotus]].<ref>{{cite journal|last=Brower-Toland|first=Susan|title=Facts vs. Things: Adam Wodeham and the Later Medieval Debate About Objects of Judgment|journal=The Review of Metaphysics|date=Dec 2006|volume=60|issue=3|pages=598}}</ref> But Wodeham was also an influential thinker in his own right who made valuable philosophical contributions during his life.
+
+== Early life and education ==
+Wodeham was born near [[Southampton]], England, in 1298.
+
+Apart from his association with Scotus and Ockham, very little is known about Wodeham’s early upbringing and education. The information that is available seems to be based upon what scholars know from other sources about education in England at the beginning of the 14th century. Since contemporary scholars know that Wodeham was a part of the Franciscan intellectual tradition, several assumptions can be made about Wodeham’s education. To begin with, Wodeham most likely began his education in England by entering the Franciscan Order sometime between the ages of 14 and 18.<ref>{{cite book|last=Courtenay|title=Adam Wodeham|pages=45}}</ref> After having begun his education, Wodeham would have studied philosophy and theology in various stages for about 13 years.<ref>{{cite book|last=Courtenay|title=Adam Wodeham|pages=50}}</ref>
+
+According to William J. Courtenay, Wodeham met William Ockham sometime between 1320-1324.<ref>{{cite book|last=Courtenay|title=Adam Wodeham|pages=161–163}}</ref> During this period of his life, Wodeham was finishing his studies in philosophy. In light of the fact that much of Wodeham’s work supported Ockham’s thought, it seems that Wodeham’s views were greatly influenced by his interactions with Ockham.<ref>{{cite book|last=Courtenay|first=William J.|title=Ockham and Ockhamism: Studies in the Dissemination and Impact of His Thought|year=2008|publisher=Leiden|location=Boston|pages=351}}</ref> The works Wodeham produced in support of Ockham were partly responsible for Ockham’s prominence.<ref>{{cite book|last=Wodeham|first=Adam de|title=Lectura Secunda in Librum Primum Sententiarum. Vol. I.|year=1990|publisher=Franciscan Institute Publications|location=New York|pages=5*|editor=Rega Wood}}</ref>
+
+Following this portion of his life, Wodeham studied theology at Oxford between 1326 and 1329.<ref>{{cite book|last=Courtenay|title=Adam Wodeham|pages=164}}</ref> Although Wodeham did not produce much original work during this portion of his life, he appears to have gained the confidence to develop his own views and to think outside of the current paradigm. At the pinnacle of his career, Wodeham’s willingness to be original resulted in many of his views being regarded as controversial.<ref>{{cite book|last=Wodeham|title=Lectura Secunda|pages=5–6*}}</ref>
+
+Susan Brower-Toland gives one important example of this point. She argues that when Wodeham introduced the notion commonly referred to as "complexe significabile," or “something that can be signified [only] by a propositional expression,” he was introducing a new and important idea. According to Brower-Toland, Wodeham’s introduction of this term signified “a fairly radical departure from the standard medieval-Aristotelian substance-accident framework.”<ref>{{cite journal|last=Brower-Toland|title=Facts vs. Things|pages=599–600}}</ref>
+
+== Career ==
+
+Between the years 1329 and 1332, Wodeham’s work became much more widespread and accessible as a result of lectures he gave at Norwich on Peter Lombard’s “Sentences.”<ref>{{cite book|last=Gracia|first=Jorge J.E.|title=A Companion to Philosophy in the Middle Ages|year=2006|publisher=Blackwell|location=Malden, MA|pages=77|author2=Timothy B. Noone}}</ref> The topics at the Norwich lectures were quite diverse. Themes included everything from biblical interpretation to physics.<ref>{{cite book|last=Gracia|title=A Companion to Philosophy in the Middle Ages|pages=77–80}}</ref> It is important to note that Wodeham gave lectures at Norwich, London, and Oxford. At this point in time, the order and relationship of these lectures appears to be a matter of controversy.<ref>{{cite book|last=Wodeham|title=Lectura Secunda|pages=30–38*}}</ref>
+
+Following these lectures at Norwich, sometime immediately after 1330, Wodeham’s career advanced and he began to lecture at Oxford.<ref>{{cite book|last=Courtenay|title=Adam Wodeham|pages=165}}</ref> During this portion of his life, Wodeham lectured on theological topics.<ref>{{cite book|last=Courtenay|title=Adam Wodeham|pages=180}}</ref> It is believed that Wodeham elaborated and built upon his Norwich lectures during this time.<ref>{{cite book|title=The Cambridge History of Medieval Philosophy|url=https://archive.org/details/cambridgehistory02pasn|url-access=limited|year=2010|publisher=Cambridge University Press|location=Cambridge|pages=[https://archive.org/details/cambridgehistory02pasn/page/n311 840]|editor=Robert Pasnau}}</ref> These lectures became available in Latin only in 1990. Currently, these lectures are the primary work available of Wodeham’s.<ref>{{cite book|last=Gracia|title=A Companion to Philosophy in the Middle Ages|pages=77}}</ref> This stage of Wodeham’s life at Oxford reached its completion just prior to 1340.<ref>{{cite book|last=Courtenay|title=Adam Wodeham|pages=180}}</ref>
+
+It was during Wodeham’s time at Oxford that he became most intellectually influential. Apart from the obvious interactions and dialogues that Wodeham had with his colleagues at Oxford, he also became well known in Paris during his Oxford years.<ref>{{cite book|last=Courtenay|title=Adam Wodeham|pages=123}}</ref> As Courtenay points out in his biography on Wodeham, “[A]lmost all Parisian authors between 1342 and 1345 cite Wodeham.”<ref>{{cite book|last=Courtenay|title=Adam Wodeham|pages=123}}</ref> Wodeham's work continued to be influential into the beginning of the 16th century.<ref>{{cite book|last=Gracia|title=A Companion to Philosophy in the Middle Ages|pages=84}}</ref>
+
+== Death ==
+
+Sometime around 1340 Wodeham left both Oxford and England. During this time away from England, Wodeham traveled for an undocumented period of time.<ref>{{cite book|last=Courtenay|title=Adam Wodeham|pages=181}}</ref> Eventually Wodeham came back to England and died, possibly from the plague, at Babwell Convent in 1358.<ref>{{cite book|last=Wodeham|title=Lectura Secunda|pages=5*}}</ref> Not much is known about Wodeham’s life after he left Oxford.
+
+==Works==
+* Adam de Wodeham, ''Foreword'', in William of Ockham, ''[[Sum of Logic|Summa Logicae]]'', edited by [[Philotheus Boehner]], Gedeon Gál, and Stephen Brown, Saint Bonaventure, NY: Franciscan Institute, 1974
+* Adam de Wodeham, ''Lectura secunda in librum primum sententiarum'' (3 vols.), 1: Prologus et distinctio prima; 2: Distinctiones II-VII; 3: Distinctiones VIII-XXVI edited by Rega Wood and Gedeon Gál, St. Bonaventure, NY: St. Bonaventure University, 1990.
+* Adam de Wodeham, ''Tractatus de Indivisibilibus'', edited and translated by Rega Wood, Dordrecht: Reidel, 1988.
+
+==See also==
+* [[John Major (philosopher)|John Mair]]
+* [[Henry of Oyta]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* Brower-Toland, Susan. “Facts vs. Things: Adam Wodeham and the Later Medieval Debate About Objects of Judgment.” ''The Review Of Metaphysics'' 60, no. 3 (Dec. 2006): 597-642. 
+* Courtenay, William J.. ''Adam Wodeham: An Introduction to His Life and Writings''. London: Leiden, 1978.
+* Courtenay, William J.. ''Ockham and Ockhamism: Studies in the Dissemination and Impact of His Thought''. Boston: Leiden, 2008
+* Gracia, Jorge J.E. and Timothy B. Noone (eds.). ''A Companion to Philosophy in the Middle Ages''. Malden, MA: Blackwell, 2006.
+* Pasnau, Robert, (ed.). ''The Cambridge History of Medieval Philosophy''. Cambridge: Cambridge University Press, 2010.
+
+==External links==
+* [http://adamwodeham.org Adam Wodeham] website which is progressively publishing the critical edition of Wodeham's ''Oxford Commentary on the Sentences of Peter Lombard''.
+* {{cite SEP |url-id=wodeham |title=Adam de Wodeham |last=Slotemaker |first=John T. |last2=Witt |first2=Jeffrey C.}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Wodeham, Adam de}}
+[[Category:1358 deaths]]
+[[Category:14th-century philosophers]]
+[[Category:Scholastic philosophers]]
+[[Category:English Friars Minor]]
+[[Category:Year of birth uncertain]]
+[[Category:14th-century English writers]]
+[[Category:14th-century writers in Latin]]

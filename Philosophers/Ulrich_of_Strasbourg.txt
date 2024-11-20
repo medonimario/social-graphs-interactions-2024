@@ -1,0 +1,26 @@
+'''Ulrich of Strasbourg''' (c. 1225–1277)<ref>{{Cite book|url=https://plato.stanford.edu/archives/fall2020/entries/dietrich-freiberg/|title=The Stanford Encyclopedia of Philosophy|first=Markus|last=Führer|editor-first=Edward N.|editor-last=Zalta|date=December 28, 2020|publisher=Metaphysics Research Lab, Stanford University|via=Stanford Encyclopedia of Philosophy}}</ref> was a German [[Dominican Order|Dominican]] theologian and [[scholastic philosopher]] from [[Strasbourg]], [[Alsace]]. A disciple of [[Albertus Magnus]], he is known for his ''De summo bono'', written 1265 to 1272.<ref>{{Cite web|url=https://www.newadvent.org/cathen/12354c.htm|title=CATHOLIC ENCYCLOPEDIA: Order of Preachers|website=www.newadvent.org}}</ref>
+
+==Works==
+* Ulricus de Argentina, ''De summo bono'', I–IV, edited by A. Beccarisi et al., Corpus philosophorum teutonicorum medii aevi I, vols 1–4, Hamburgh, Meiner, 1987-2008.
+
+==References==
+*[[Jorge J. E. Gracia]], Timothy B. Noone (2005), ''A Companion to Philosophy in the Middle Ages''
+*{{BBKL|u/ulrich_v_str|band=12|autor= Thomas Gandlau |artikel= Ulrich von Straßburg, auch Ulrich Engelberti |spalten=898-900}}
+* Irene Zavattero, "Ulrich of Strasbourg", in Henrik Lagerlund (ed.), ''Encyclopedia of Medieval Philosophy: Philosophy Between 500 and 1500'', Dordrecht, Springer, pp. 1351-1353.
+
+==Notes==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ulrich of Strasbourg}}
+[[Category:1220s births]]
+[[Category:1277 deaths]]
+[[Category:Year of birth uncertain]]
+[[Category:German Dominicans]]
+[[Category:13th-century German Catholic theologians]]
+[[Category:Scholastic philosophers]]
+[[Category:Dominican theologians]]
+[[Category:Writers from Strasbourg]]
+[[Category:13th-century writers in Latin]]
+[[Category:13th-century German philosophers]]

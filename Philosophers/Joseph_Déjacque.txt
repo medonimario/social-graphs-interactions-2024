@@ -1,0 +1,252 @@
+{{Short description|French writer (1821–1864)}}
+{{good article}}
+{{Use dmy dates|date=May 2024}}
+{{Infobox person
+| honorific_prefix   =
+| name               = Joseph Déjacque
+| honorific_suffix   =
+| image              = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| image_upright      =
+| landscape          = <!-- yes, if wide image, otherwise leave blank -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            =
+| native_name        =
+| native_name_lang   =
+| pronunciation      =
+| birth_name         = <!-- only use if different from name -->
+| birth_date         = {{birth date|1821|12|27|df=y}}
+| birth_place        = [[Paris]], France
+| baptised           = <!-- will not display if birth_date is entered -->
+| disappeared_date   = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  =
+| disappeared_status =
+| death_date         = {{death date and age|1865|11|18|1821|12|27|df=y}}
+| death_place        = [[Paris]], France
+| death_cause        = <!-- should only be included when the cause of death has significance for the subject's notability -->
+| body_discovered    =
+| resting_place      =
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place       = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          =
+| other_names        =
+| siglum             =
+| citizenship        = <!-- use only when necessary per [[WP:INFONAT]] -->
+| education          =
+| alma_mater         =
+| occupation         = [[House painter and decorator|House painter]], [[journalist]], [[poet]]
+| years_active       = 1848–1861
+| era                = [[Late modern period]]
+| employer           =
+| organization       =
+| agent              = <!-- discouraged in most cases, specifically when promotional, and requiring a reliable source -->
+| known_for          =
+| notable_works      = ''[[Le Libertaire]]''
+| style              =
+| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
+| television         =
+| title              = <!-- formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
+| term               =
+| predecessor        =
+| successor          =
+| party              =
+| otherparty         =
+| movement           = [[Anarchist communism]], [[libertarianism]]
+| opponents          =
+| boards             =
+| criminal_charges   = <!-- criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   =
+| criminal_status    =
+| spouse             = <!-- use article title or common name -->
+| partner            = <!-- (unmarried long-term partner) -->
+| children           =
+| parents            = <!-- overrides mother and father parameters -->
+| mother             = <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| father             = <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| relatives          =
+| family             =
+| callsign           = <!-- amateur radio, use if relevant -->
+| awards             =
+| website            = <!-- {{URL|example.com}} -->
+| module             =
+| module2            =
+| module3            =
+| module4            =
+| module5            =
+| module6            =
+| signature          =
+| signature_type     =
+| signature_size     =
+| signature_alt      =
+| footnotes          =
+}}
+{{Anarchist communism sidebar|people}}
+'''Joseph Déjacque''' ({{IPA|fr|deʒak|lang}}; 27 December 1821 – 18 November 1865) was a French [[Political journalism|political journalist]] and poet. A [[House painter and decorator|house painter]] by trade, during the 1840s, he became involved in the [[Labour movement in France|French labour movement]] and taught himself how to write poetry. He was an active participant in the [[French Revolution of 1848]], fighting on the barricades during the [[June Days uprising]], for which he was arrested and imprisoned. He quickly became a target for political repression by [[Napoleon III|Louis Napoleon Bonaparte]]'s government, which imprisoned him for his poetry and forced him to flee into exile. His experiences radicalised him towards [[anarchism]] and he regularly criticised republican politicians for their anti-worker sentiment.
+
+After spending time in [[London]] and [[Jersey]], he emigrated to the [[United States]], developing a reputation as a controversial firebrand in [[New York City]]. There he became active in organising radical [[Émigré|émigrés]], helping to establish the [[International Association (1855)|International Association]] in 1855. He then moved to [[New Orleans]], where he agitated for the [[abolitionism in the United States|abolition of slavery]] through [[social revolution]], while also publishing essays that criticised [[Bonapartism|Bonapartist]] figures and defended [[gender equality]]. Unable to find a publisher due to his abolitionist remarks, he returned to New York. There he established ''[[Le Libertaire]]'', the first non-English-language anarchist newspaper in the United States, in which he printed his [[utopian and dystopian fiction|utopian fiction]] novel ''[[L'humanisphère]]''. After Bonaparte's government extended an [[amnesty]] to exiled radicals, he returned to France, where he died in obscurity in the mid-1860s.
+
+Today he is remembered as an early forerunner of [[anarchist communism]] and particularly for coining the political definition of the word "[[libertarianism|libertarian]]" ({{langx|fr|libertaire}}).
+
+==Biography==
+Joseph Déjacque was born in 1821.{{Sfnm|1a1=Graham|1y=2005|1p=60|2a1=Hartman|2a2=Lause|2y=2012|2p=4|3a1=Long|3y=2017|3p=285}} His father died while he was an infant and his mother worked as a [[washerwoman]], paying for him to go to school in [[Faubourg Saint-Antoine]], where he witnessed the [[July Revolution]] of 1830.{{Sfn|Hartman|Lause|2012|pp=4&ndash;5}} In 1834, he left school to work as a paper hanger, going on to sell [[wallpaper]] on [[Boulevard des Capucines]].{{Sfn|Hartman|Lause|2012|p=5}} He found the work boring and decided to join the [[French Navy]] in 1841, but was quickly put off by [[military discipline]] and the [[hierarchy]] of life at sea.{{Sfn|Hartman|Lause|2012|pp=5–6}} He returned to selling wallpaper in [[Paris]] and by 1847 was self-employed as a [[House painter and decorator|house painter]]. At this time, he became involved with the radical workers' group that published the [[Christian socialism|Christian socialist]] publication ''{{ill|L'Atelier (1840–1850){{!}}L'Atelier|fr|L'Atelier (1840–1850)}}''.{{Sfn|Hartman|Lause|2012|p=6}} During this time, Déjacque [[Autodidacticism|taught himself]] how to write what he called "[[social poetry]]".{{Sfnm|1a1=Stone|1y=2014|1pp=12&ndash;13|2a1=Woodcock|2y=1962|2p=281}}
+
+===Revolutionary activities (1848–1851)===
+[[File:Honoré Daumier - The Uprising (L'Emeute) - Google Art Project.jpg|thumb|right|alt=Painting of a woman raising her fist in a crowd|[[Jeanne Deroin]], depicted as leading the [[French Revolution of 1848]], in ''The Uprising'' (L'Emeute) by [[Honoré Daumier]]]]
+Together with [[Ernest Cœurderoy]],{{Sfnm|1a1=Marshall|1y=2008|1p=434|2a1=Woodcock|2y=1962|2p=278}} Déjacque was an active participant in the [[French Revolution of 1848]],{{Sfnm|1a1=Graham|1y=2005|1p=60|2a1=Hartman|2a2=Lause|2y=2012|2pp=6&ndash;7|3a1=Marshall|3y=2008|3p=434|4a1=Woodcock|4y=1962|4p=278}} which deposed the [[July Monarchy]] and established the [[French Second Republic]]. Following the revolution, Déjacque joined the [[socialist feminism|socialist feminist]] circles of [[Jeanne Deroin]] and [[Pauline Roland]], becoming a keen supporter of [[women's rights]] and beginning his career as a [[Citizen journalism|revolutionary journalist]].{{Sfn|Hartman|Lause|2012|pp=6&ndash;7}}
+
+Despite the [[regime change]] brought by the revolution, [[unemployment]] and [[poverty]] was still rife, forcing the newly-established [[French Provisional Government of 1848|provisional government]] to make concessions to [[Louis Blanc]]'s socialist faction.{{Sfn|Hartman|Lause|2012|pp=7&ndash;8}} The provisional government established [[National Workshops]] to employ Parisian workers, with Déjacque himself enrolling in the programme on 10 May. But within the month, the subsequent government of the [[French Executive Commission of 1848|Executive Commission]] shut down the Workshops and arrested a number of socialist leaders, which brought thousands of workers out into the streets in what became the [[June Days uprising]].{{Sfn|Hartman|Lause|2012|p=8}} Déjacque fought on the barricades against the government,{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1p=8|2a1=Woodcock|2y=1962|2pp=278&ndash;279}} but the uprising was violently suppressed by the [[French Army]] and Déjacque was among the thousands that were arrested.{{Sfnm|1a1=Graham|1y=2005|1p=60|2a1=Hartman|2a2=Lause|2y=2012|2p=8|3a1=Woodcock|3y=1962|3pp=278&ndash;279}} Over 15,000 workers were deported, Déjacque himself was imprisoned at [[Cherbourg]].{{Sfn|Hartman|Lause|2012|p=8}}
+
+When [[Napoleon III|Louis Napoleon Bonaparte]] was [[1848 French presidential election|elected]] as [[President of France]] in December 1848, his government suppressed [[freedom of association]] and banned the remaining socialist clubs.{{Sfn|Hartman|Lause|2012|pp=8&ndash;9}} Déjacque was released from prison in March 1849,{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1p=8|2a1=Woodcock|2y=1962|2p=279}} but he continued to find himself in trouble with the authorities.{{Sfn|Hartman|Lause|2012|p=9}} Following the [[1849 French legislative election|election]] of a [[Second cabinet of Odilon Barrot|conservative government]] in June 1849, he and Cœurderoy joined [[The Mountain (1849)|The Mountain]]'s {{ill|13 June 1849 uprising{{!}}uprising|fr|Journée du 13 juin 1849}} against the administration. When this too was suppressed, Cœurderoy fled to [[Switzerland]].{{Sfn|Woodcock|1962|p=279}} Déjacque sought to justify the June events through his poetry, penning a collection of [[romantic poetry]] that depicted issues of [[class conflict]], [[social injustice]] and the [[authoritarianism]] of [[Catholic Church in France|religious]] and [[Politics of France|political]] [[institution]]s. This collection was published in August 1851 as ''Les Lazaréenes, Fables et Poesies Sociales'' ({{langx|en|The Lazarenes, Fables and Social Poetry|italic=yes}}); by October 1851, Déjacque found himself charged with [[incitement]] over the [[anti-authoritarianism|anti-authoritarian themes]] he had expressed in the book,{{Sfn|Hartman|Lause|2012|pp=9&ndash;10}} for which he was sentenced to two years in prison.{{Sfnm|1a1=Graham|1y=2005|1p=60|2a1=Hartman|2a2=Lause|2y=2012|2pp=9&ndash;10|3a1=Stone|3y=2014|3p=13|4a1=Woodcock|4y=1962|4p=279}}
+
+===Exile and radicalisation (1851–1854)===
+During the "[[reactionary]] period" of the [[Second French Empire]] (1851–1871), the socialist press was [[Gag order|suppressed]], but French anarchist thought continued to develop abroad.{{Sfn|Kropotkin|1911|p=916}} Together with [[Anselme Bellegarrigue]], {{ill|Claude Pelletier|fr}} and Ernest Cœurderoy,{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1p=24–25|2a1=Kropotkin|2y=1911|2p=916|3a1=Marshall|3y=2008|3p=434|4a1=Woodcock|4y=1962|4p=285}} Déjacque became one of the period's most prominent French anarchist voices,{{Sfnm|1a1=Graham|1y=2019|1p=326|2a1=Hartman|2a2=Lause|2y=2012|2p=24–25|3a1=Kropotkin|3y=1911|3p=916|4a1=Marshall|4y=2008|4p=434}} helping to popularise the works of the anarchist thinker [[Pierre-Joseph Proudhon]].{{Sfn|Hartman|Lause|2012|pp=24&ndash;25}}
+
+[[File:Lefrançais 1871.png|thumb|right|alt=Portrait photograph of Gustave Lefrançais, wearing a beard and a neat suit|[[Gustave Lefrançais]], a French anarchist with whom Déjacque lived during their exile in London]]
+By the time of the [[1851 French coup d'état]], Déjacque had fled into exile,{{Sfnm|1a1=Graham|1y=2005|1p=60|2a1=Hartman|2a2=Lause|2y=2012|2p=10|3a1=Woodcock|3y=1962|3p=279}} making his way to [[Brussels]] and then on to [[London]].{{Sfn|Hartman|Lause|2012|p=10}} Upon arrival in the British capital, he was reunited with fellow French anarchist [[Gustave Lefrançais]], who informed him of the situation of their exiled compatriots.{{Sfn|Hartman|Lause|2012|p=11}} Déjacque complained to Lefrançais about the [[moral disengagement]] of the [[Republicanism|republican]] exiles led by [[Alexandre Auguste Ledru-Rollin]] and the [[cult of personality]] around factional leaders such as [[Louis Auguste Blanqui]], finding himself disillusioned by the complete lack of [[rapport]] between the rival émigré factions.{{Sfn|Hartman|Lause|2012|pp=11&ndash;12}}
+
+At the funeral of an exiled French worker, when republican leaders turned to leave prematurely, Déjacque forced himself to the front, demanding to speak and be heard.{{Sfn|Hartman|Lause|2012|pp=12&ndash;13}} He fiercely criticised the "[[Bourgeoisie|bourgeois]] republicans" and declared himself an enemy of "all who, in London and Paris, dream of governing to better guarantee their [[Social privilege|social privileges]] against [[Proletariat|proletarian]] demands, one in the name of [[Empire]], the other in the name of the [[Republic]]."{{Sfnm|1a1=Graham|1y=2019|1p=326|2a1=Hartman|2a2=Lause|2y=2012|2p=13}} Some of the exiled French workers, including Déjacque and Lefrançais, found themselves living in poverty in [[Soho]], subsisting only on meagre rations.{{Sfn|Hartman|Lause|2012|pp=13&ndash;14}} They were sent relief funds by sympathetic workers in France, but the distribution of this money was controlled by the exiled political leaders, with their [[Benefit society|mutual aid societies]] sitting on much of the money that they collected.{{Sfn|Hartman|Lause|2012|p=14}}
+
+By 1853, Déjacque had moved to the Channel island of [[Jersey]].{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1p=14|2a1=Woodcock|2y=1962|2p=281}} There he started to vocally advocate for violence against the state{{Sfn|Marshall|2008|p=434}} and began penning an essay, "The Revolutionary Question",{{Sfnm|1a1=Marshall|1y=2008|1pp=434&ndash;435|2a1=Woodcock|2y=1962|2p=281}} inspired by the example of [[Armand Barbès]].{{Sfn|Hartman|Lause|2012|pp=33&ndash;34}} He also attended the funeral of the French revolutionary poet [[Louise Julien]], where he protested the appointment of [[Victor Hugo]] as the "sole speaker" at the burial.{{Sfn|Hartman|Lause|2012|pp=14&ndash;15}} Such continued radical outbursts ended up isolating Déjacque from the rest of the French exiles, spurring him to move to the [[United States]] the following year.{{Sfn|Hartman|Lause|2012|p=15}}
+
+===Émigré organising in New York (1854–1855)===
+[[File:Karl_Marx,_May_1861.jpg|thumb|right|alt=Photograph of Karl Marx standing over a chair, wearing a dinner jacket with neatly combed hair and beard|[[Karl Marx]], whose German communist followers would make up the largest part of Déjacque's  [[International Association (1855)|International Association]]]]
+Upon arrival in [[New York City]], Déjacque returned to work painting houses and became involved with the French radical emigres in the city. Having earned fame for his romantic poetry, in June 1854, he was invited to speak at a republican society, where he presented his essay, "The Revolutionary Question", for the first time.{{Sfn|Hartman|Lause|2012|pp=15&ndash;16}} In his speech, he called for a "war on civilization by criminal means",{{Sfnm|1a1=Marshall|1y=2008|1pp=434&ndash;435|2a1=Woodcock|2y=1962|2p=281}} advocating for small [[Clandestine cell system|revolutionary cells]] to carry out [[direct action]] against traditional institutions, such as the [[Catholic Church|Church]], [[State (polity)|state]], [[private property]] and even the [[Nuclear family|family]].{{Sfn|Woodcock|1962|p=282}} Although it was largely poorly received by its audience, he gained enough support to publish the essay the following month.{{Sfn|Woodcock|1962|pp=279, 281&ndash;282}}
+
+Having recognised the international character of the [[Revolutions of 1848]] and that the [[counterrevolutionary]] repression had brought together revolutionaries of different nationalities, Déjacque began to advocate for workers to set aside [[bourgeois nationalism]] and instead practice [[proletarian internationalism]].{{Sfn|Hartman|Lause|2012|pp=23&ndash;24}} In February 1855, Déjacque participated in the establishment of the [[International Association (1855)|International Association]] (IA).{{Sfn|Hartman|Lause|2012|p=16}} The organisation was formed by a coalition of: [[Chartism|British Chartists]];{{Sfn|Hartman|Lause|2012|p=16}} [[communism|German communists]], veterans of [[Wilhelm Weitling]]'s [[League of the Just]] and [[Karl Marx]]'s [[Communist League]];{{Sfn|Hartman|Lause|2012|pp=16&ndash;17}} Americans of the [[National Reform Association (1844)|National Reform Association]];{{Sfn|Hartman|Lause|2012|pp=17&ndash;18}} and French socialists of the [[Revolutionary Commune]], a French revolutionary organisation established in London in 1852 by [[Félix Pyat]].{{Sfn|Hartman|Lause|2012|p=18}} Despite the international character of the organisation, Déjacque mostly kept to the French community; there is no evidence that he ever spoke [[English language|English]] during his time in the United States.{{Sfn|Hartman|Lause|2012|p=19}} By 1858, the IA had dissolved due to internal differences over [[revolutionary nationalism]].{{Sfn|Hartman|Lause|2012|pp=24, 30}}
+
+===Activism in New Orleans (1855–1858)===
+[[File:John_Brown_portrait,_1859.png|thumb|right|alt=Photograph of John Brown, wearing a suit and a large bushy beard|[[John Brown (abolitionist)|John Brown]], a radical abolitionist whom Déjacque praised during his time in New Orleans]]
+Not long after the founding of the International Association, Déjacque moved to [[New Orleans]], a relatively cosmopolitan southern city where French radicalism had taken already root, although its followers chose to defer the pressing question of [[Abolitionism in the United States|abolition]].{{Sfn|Hartman|Lause|2012|pp=19&ndash;20}} While his fellow émigrés respected these boundaries of American republicanism, Déjacque himself made no pretence towards respectability.{{Sfnm|1a1=Gordon|1y=2017|1p=199|2a1=Hartman|2a2=Lause|2y=2012|2p=20}} In 1856, he gave a public address at a [[Bar (establishment)|bar]] in [[Royal Street, New Orleans|Royal Street]], calling on slaves to arm themselves and rise up against the United States.{{Sfn|Hartman|Lause|2012|p=20}} He praised the actions of the radical abolitionist [[John Brown (abolitionist)|John Brown]]{{Sfnm|1a1=Gordon|1y=2017|1p=199|2a1=Hartman|2a2=Lause|2y=2012|2pp=34&ndash;35|3a1=Stone|3y=2014|3p=13}} and advocated for a [[united front]] between the [[Working class in the United States#Political role of the white working class|white working class]] and [[Atlantic slave trade|black slaves]], which he believed could together overthrow the United States in a [[social revolution]] and bring about a [[post-racial America]].{{Sfnm|1a1=Gordon|1y=2017|1p=199|2a1=Hartman|2a2=Lause|2y=2012|2pp=31&ndash;32}} He was not able to find a publisher for his abolitionist remarks.{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1p=20|2a1=Stone|2y=2014|2p=13}}
+
+He nevertheless continued to publish his radical writings, including a polemic against the Bonapartist [[Pierre-Jean de Béranger]] and an open letter on [[gender equality]] addressed to [[Pierre-Joseph Proudhon]], the latter of which he included in an expanded second edition of ''Les Lazaréenes''.{{Sfn|Hartman|Lause|2012|pp=20&ndash;21}} In the open letter, he criticised Proudhon for his [[antifeminism]], which he saw as inconsistent with [[anarchism]];{{Sfnm|1a1=Graham|1y=2005|1p=68|2a1=Stone|2y=2014|2p=13}} Déjacque declared that he refused to "establish hierarchic distinctions between the sexes and races," saying that to him "humanity is humanity".{{Sfn|Hartman|Lause|2012|p=31}} He also became the first person to use the term "libertarian" ({{langx|fr|libertaire}}) in a political sense, defining it synonymously with "anarchist".{{Sfnm|1a1=Graham|1y=2005|1p=60|2a1=Long|2y=2017|2p=285|3a1=Stone|3y=2014|3p=12}}
+
+He also attempted to publish a work of [[utopian and dystopian fiction|utopian fiction]], but was not able to secure enough subscriptions to cover the cost of printing.{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1pp=20&ndash;21|2a1=Stone|2y=2014|2p=13}} By February 1858, the failure of Déjacque's publishing efforts left him disillusioned with New Orleans and he returned to New York.{{Sfn|Hartman|Lause|2012|pp=21&ndash;22}}
+
+===Publishing in New York (1858–1861)===
+[[File:Le_libertaire_25.png|thumb|alt=Newspaper front page of Le Libertaire|Front page of ''[[Le Libertaire]]'', the newspaper established by Déjacque in New York]]
+Upon his return, Déjacque found himself living in poverty;{{Sfn|Graham|2005|p=60}} in order to fund his publishing efforts, he returned to work painting houses and solicited donations from sympathisers.{{Sfn|Hartman|Lause|2012|p=22}} In June 1858, he established the newspaper ''[[Le Libertaire#Le Libertaire (New York: 1858–1861)|Le Libertaire, journal d'un mouvement social]]''.{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1pp=21&ndash;22|2a1=Stone|2y=2014|2p=13|3a1=Woodcock|3y=1962|3p=281}} Published on a shoestring budget and with Déjacque as its main contributor, the paper ran 27 issues between 1858 and 1861.{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1p=22|2a1=Stone|2y=2014|2p=13}} With this, Déjacque became the first publisher of a non-English-language anarchist newspaper in the United States, although this limited its reach to French émigrés.{{Sfn|Hartman|Lause|2012|pp=25&ndash;26}}
+
+During this period, he finally published his utopian novel, ''[[L'Humanisphere|L'humanisphère]]'', which he serialised in ''Le Libertaire''.{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1p=27|2a1=Stone|2y=2014|2p=13|3a1=Woodcock|3y=1962|3p=281}} Set in the year 2858,{{Sfnm|1a1=Stone|1y=2014|1p=13|2a1=Woodcock|2y=1962|2p=282}} ''L'humanisphère'' depicted the kind of society that Déjacque hoped would eventually arise after the abolition of [[capitalism]].{{Sfn|Hartman|Lause|2012|p=27}} Inspired by the work of [[Charles Fourier]],{{Sfn|Stone|2014|pp=13&ndash;14}} Déjacque formulated a radical form of [[communism]] distinct from the [[authoritarian socialism|authoritarian model]]s advocated by many of his peers.{{Sfnm|1a1=Pengam|1y=1987|1p=63|2a1=Stone|2y=2014|2p=13}} His society had no [[government]] or [[religion]]; instead, [[self-ownership|sovereign individuals]] governed themselves and participated directly in all [[group decision-making]].{{Sfnm|1a1=Marshall|1y=2008|1pp=434&ndash;435|2a1=Pengam|2y=1987|2p=63|3a1=Stone|3y=2014|3p=14|4a1=Woodcock|4y=1962|4pp=283&ndash;284}}
+
+In an attempt to go further than any previous works of utopian fiction, he depicted ''L'humanisphère'' as a world in which every individual was able to [[Human potential|achieve their potential]], as they lived in conditions of [[post-scarcity]], without any form of poverty.{{Sfn|Stone|2014|p=13}} In this future society, "[[commerce]], [the] scourge of the 19th century," had been eliminated; nothing was being bought or sold. In order to achieve this, Déjacque proposed the abolition of all [[private property]], [[exchange value]]s and [[state (polity)|states]], and their replacement with [[anarchy]].{{Sfn|Pengam|1987|pp=63&ndash;64}} He considered a worker's right to be the satisfaction of their needs, rather than the product of their own labour, as he felt the latter would inevitably lead to [[capital accumulation]].{{Sfn|Pengam|1987|p=64}} He thus advocated for "unlimited freedom of production and consumption",{{Sfn|Pengam|1987|pp=64&ndash;65}} subordinated only to the [[authority]] of the "statistics book".{{Sfnm|1a1=Pengam|1y=1987|1pp=64&ndash;65|2a1=Woodcock|2y=1962|2p=284}} In order to guarantee the universal satisfaction of needs, Déjacque saw the need for the abolition of [[forced labour]] through [[workers' self-management]], which he figured would replace "[[Critique of work|arduous work]]" with "attractive work".{{Sfn|Pengam|1987|p=65}}
+
+Déjacque's [[creative writing|imaginative writing]] in ''L'humanisphère'' has been described as a "series of anarchic dreams of marvelous textures and wondrous designs", going beyond [[rationality]] and constructing an entirely alternate reality.{{Sfn|Stone|2014|p=14}} It has been cited as a literary form of [[Neo-Impressionism]], with art historian [[Robyn Roslack]] highlighting the following passage: "Just as orbs [atoms and molecules] circulate anarchically in universality, so men must circulate anarchically in humanity, under the sole impulse of sympathies and aversions, of reciprocal attractions and repulsions. Harmony can only exist through anarchy. There is the whole solution to the social problem."{{Sfn|Antliff|2017|p=41}} Although it anticipated the utopian society depicted by [[H. G. Wells]] in ''[[Men Like Gods]]'',{{Sfn|Woodcock|1962|p=282}} ''L'humanisphère'' is often overlooked in studies of utopian fiction, which neglect it in favour of focusing on more well-known examples, like [[Plato]]'s ''[[Republic (Plato)|Republic]]'', [[Thomas More]]'s ''[[Utopia (More book)|Utopia]]'' and [[Étienne Cabet]]'s ''[[The Voyage to Icaria]]''.{{Sfn|Hartman|Lause|2012|p=27}}
+
+===Final years (1861–{{circa}}1864)===
+With the outbreak of the [[Second Italian War of Independence|Franco-Austrian War]] in 1859, Louis Napoleon Bonaparte moved to mend ties with the previously repressed [[Secularism in France|French secularists]] and offered amnesty to all exiled radicals.{{Sfn|Hartman|Lause|2012|p=23}} Shortly before the outbreak of the [[American Civil War]],{{Sfn|Hartman|Lause|2012|p=23}} in February 1861, ''Le Libertaire'' ran its final issue{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1pp=30&ndash;31|2a1=Marshall|2y=2008|2pp=434&ndash;435|3a1=Woodcock|3y=1962|3p=281}} and Déjacque finally returned to Paris.{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1p=23|2a1=Woodcock|2y=1962|2p=279}}
+
+Déjacque lived out his final years in obscurity, which has led to differing accounts over the cause and time of his death.{{Sfn|Woodcock|1962|p=279}} According to Gustave Lefrançais, Déjacque died in 1864, reportedly having succumbed to [[mental illness]].{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1p=23|2a1=Maitron|2a2=Pichon|2a3=Veyron|2y=2014}} According to hospital records, he was admitted to [[Bicêtre Hospital]] on 22 April 1864 and died from [[paralysis]] on 18 November 1865.{{Sfn|Maitron|Pichon|Veyron|2014}} Other sources allege that he committed [[suicide]] in 1867, or died much later of natural causes after experiencing a [[religious conversion]].{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1p=23n23|2a1=Woodcock|2y=1962|2p=279}}
+
+==Legacy==
+===Anarchist communism===
+[[File:Luigi_Gallean2.jpg|thumb|right|[[Luigi Galleani]], an [[insurrectionary anarchism|insurrectionary]] [[anarchist communist]], who took up Déjacque's advocacy of "[[propaganda of the deed]]"]]
+Around the time that Déjacque died, in 1864, the [[history of socialism|socialist movement]] experienced a revival with the foundation of the [[International Workingmen's Association]] (IWA),{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1pp=32&ndash;33|2a1=Kropotkin|2y=1911|2p=916|3a1=Pengam|3y=1987|3p=67}} established by a coalition of British [[Chartism|Chartists]]{{Sfn|Hartman|Lause|2012|pp=32&ndash;33}} and French [[mutualism (economic theory)|mutualists]].{{Sfn|Kropotkin|1911|p=916}} As time went on, anarchists in the International increasingly gravitated away from Proudhon's mutualism and towards the [[anarchist communism]] favoured by Déjacque.{{Sfn|Wilbur|2019|pp=217&ndash;218}} Parts of his programme were implemented during the [[Paris Commune]] in 1871.{{Sfn|Pengam|1987|p=66}}
+
+Déjacque's advocacy of violence also anticipated later [[insurrectionary anarchism|insurrectionary anarchists]]' conception of "[[propaganda of the deed]]", as well as the [[Russian nihilist movement|nihilism]] of [[Sergey Nechayev]]. Embarrassed by this violent temperament, when [[Jean Grave]] re-published ''L'humanisphère'' in 1899, he cut out parts that could have been read as [[incitement]].{{Sfn|Woodcock|1962|pp=281&ndash;282}} Nevertheless, this reprint exposed Déjacque's conception of communism to a new generation.{{Sfn|Woodcock|1962|p=284}} Déjacque's "iconoclastic" anarchist communism, with both its utopian and insurrectionary dimensions, was soon taken up by [[Peter Kropotkin]] and [[Luigi Galleani]].{{Sfn|Pengam|1987|pp=66&ndash;67}} By the turn of the 20th century, anarchist historians [[Max Nettlau]] and [[Gustav Landauer]] were beginning to characterise Déjacque as a "vital forerunner" of anarchist communism.{{Sfn|Hartman|Lause|2012|p=37}}
+
+===Libertarianism===
+[[File:Benjamin_Tucker.jpg|thumb|right|alt=Portrait photograph of Benjamin Tucker, wearing a beard|[[Benjamin Tucker]], one of the first people to adopt the term "[[libertarianism|libertarian]]" from Déjacque]]
+Before Déjacque, "[[Libertarianism (metaphysics)|libertarianism]]" had referred to a [[Metaphysics|metaphysical philosophy]] that upheld the notion of [[free will]].{{Sfn|Marshall|2008|p=641}} Over time, Déjacque's [[libertarianism]] was developed into a [[political philosophy]] that upholds [[liberty]].{{Sfnm|1a1=Long|1y=2017|1p=285|2a1=Marshall|2y=2008|2p=641}} It was first adopted in the 1880s by [[individualist anarchism in the United States|American individualist anarchists]] such as [[Benjamin Tucker]];{{Sfn|Long|2017|p=285}} and then in the 1890s by [[Anarchism in France|French anarchists]] such as [[Sébastien Faure]],{{Sfnm|1a1=Marshall|1y=2008|1p=641|2a1=Woodcock|2y=1962|2p=281}} in order to distinguish anarchism from [[authoritarian socialism]].{{Sfn|Marshall|2008|p=641}}
+
+During the 20th century, figures of the [[New Left]] began to refer to themselves as "[[libertarian socialism|libertarian socialists]]"; with anarchists such as [[Daniel Guérin]] using the term to avoid the negative connotations of "anarchism", while [[Marxism|Marxists]] such as [[E. P. Thompson]] used it to distance themselves from [[Marxism-Leninism]].{{Sfn|Marshall|2008|p=641}} By this time, the term also gained popularity among [[right-libertarianism|proponents]] of [[laissez-faire]] and [[free market]] economics,{{Sfnm|1a1=Long|1y=2017|1p=285|2a1=Marshall|2y=2008|2pp=641&ndash;642}} such as [[Robert Nozick]], [[David D. Friedman|David Friedman]] and [[Murray Rothbard]].{{Sfn|Marshall|2008|pp=641–642}} This re-definition of libertarianism is largely used in the [[English-speaking world]]; in the contemporary [[French language]], this latter form is today referred to by the word "libertarien", while the term "libertaire" has retained its [[social anarchism|left-wing anarchist]] definition.{{Sfn|Long|2017|p=285}}
+
+Over one hundred years after his death, Déjacque's work has been slowly rediscovered, with the [[protests of 1968]] and later [[dissolution of the Soviet Union]] spurring fresh interest in his vision of libertarian socialism.{{Sfn|Hartman|Lause|2012|pp=37&ndash;38}} His works have recently developed an "underground reputation", due in part to the English language translations carried out by Shawn Wilbur.{{Sfn|Stone|2014|p=12}}
+
+==Selected works==
+'''Essays'''
+{{refbegin}}
+*{{cite magazine|last=Déjacque|first=Joseph|date=2 July 1854|title=The Revolutionary Question|url=https://www.libertarian-labyrinth.org/working-translations/joseph-dejacque-the-revolutionary-question/|magazine=Le Républicain|translator-first=Shawn P.|translator-last=Wilbur|via=Libertarian Labyrinth}}{{Sfnm|1a1=Graham|1y=2005|1pp=60&ndash;63|2a1=Hartman|2a2=Lause|2y=2012|2pp=15&ndash;16|3a1=Marshall|3y=2008|3pp=434&ndash;435|4a1=Pengam|4y=1987|4pp=79&ndash;80|5a1=Stone|5y=2014|5pp=15&ndash;17}}
+*{{cite magazine|last=Déjacque|first=Joseph|author-mask=9|date=May 1857|title=On the Human Being, Male and Female|url=https://www.libertarian-labyrinth.org/from-the-archives/joseph-dejacque-the-human-being-i/|magazine={{ill|Les Temps nouveaux (newspaper){{!}}Les Temps nouveaux|fr|Les Temps nouveaux (journal)}}|translator-first=Jonathan|translator-last=Mayo Crane|via=Libertarian Labyrinth}}{{Sfnm|1a1=Graham|1y=2005|1pp=68&ndash;71|2a1=Hartman|2a2=Lause|2y=2012|2pp=20&ndash;21|3a1=Long|3y=2017|3p=285n1|4a1=Pengam|4y=1987|4p=79}}
+*{{cite magazine|last=Déjacque|first=Joseph|author-mask=9|date=2 August 1858|title=Scandal|url=https://www.libertarian-labyrinth.org/working-translations/joseph-dejacque-scandal-1858/|magazine=[[Le Libertaire]]|issue=4|translator-first=Shawn P.|translator-last=Wilbur|via=Libertarian Labyrinth}}{{Sfn|Stone|2014|pp=19&ndash;21}}
+*{{cite magazine|last=Déjacque|first=Joseph|author-mask=9|date=21 September 1858|title=On Exchange|url=https://www.libertarian-labyrinth.org/working-translations/joseph-dejacque-on-exchange/|magazine=[[Le Libertaire]]|issue=6|translator-first=Shawn P.|translator-last=Wilbur|via=Libertarian Labyrinth}}{{Sfn|Pengam|1987|pp=64&ndash;65, 79n16}}
+*{{cite magazine|last=Déjacque|first=Joseph|author-mask=9|date=7 April 1859|title=Down with the Bosses!|url=https://www.libertarian-labyrinth.org/contrun/down-with-the-bosses/|magazine=[[Le Libertaire]]|issue=12|translator-first=Shawn P.|translator-last=Wilbur|via=Libertarian Labyrinth}}{{Sfnm|1a1=Marshall|1y=2008|1p=779|2a1=Pengam|2y=1987|2p=79}}
+*{{cite magazine|last=Déjacque|first=Joseph|author-mask=9|date=26 October 1859|title=The Servile War|url=https://www.libertarian-labyrinth.org/working-translations/joseph-dejacque-the-servile-war/|magazine=[[Le Libertaire]]|issue=18|translator-first=Shawn P.|translator-last=Wilbur|via=Libertarian Labyrinth}}{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1pp=31&ndash;32|2a1=Stone|2y=2014|2pp=21&ndash;24}}
+{{refend}}
+
+'''Novels'''
+{{refbegin}}
+*{{cite book|last=Déjacque|first=Joseph|author-mask=9|year=1859|title=The Humanisphere: Anarchic Utopia|url=https://www.libertarian-labyrinth.org/working-translations/joseph-dejacque-the-humanisphere-1858/|publisher=[[Le Libertaire]]|translator-first=Shawn P.|translator-last=Wilbur|via=Libertarian Labyrinth}}{{Sfnm|1a1=Gordon|1y=2017|1p=199n11|2a1=Hartman|2a2=Lause|2y=2012|2p=27|3a1=Kropotkin|3y=1911|3p=916|4a1=Marshall|4y=2008|4pp=434&ndash;435, 779|5a1=Pengam|5y=1987|5p=79|6a1=Stone|6y=2014|6pp=12&ndash;14|7a1=Woodcock|7y=1962|7p=482}}
+{{refend}}
+
+'''Poetry'''
+{{refbegin}}
+*{{cite book|last=Déjacque|first=Joseph|author-mask=9|year=1851|title=Les Lazaréenes, fables et poésies sociales|location=[[Paris]]|publisher=Chez l’Auteur|language=fr}}{{Sfnm|1a1=Hartman|1a2=Lause|1y=2012|1pp=9&ndash;10|2a1=Woodcock|2y=1962|2p=281}}
+{{refend}}
+
+== References ==
+{{reflist|2}}
+
+== Bibliography ==
+{{refbegin|2}}
+* {{cite book|chapter=Anarchism and Aesthetics|first=Allan|last=Antliff|year=2017|location=[[Leiden]]|publisher=[[Brill Publishers|Brill]]|editor-first=Nathan|editor-last=Jun|title=Brill's Companion to Anarchism and Philosophy|isbn=978-90-04-35689-4|pages=39–50|doi=10.1163/9789004356894_003|url=https://brill.com/view/title/35861}} <!-- p. 41 -->
+* {{cite book|chapter=Anarchism and Nationalism|first=Uri|last=Gordon|year=2017|location=[[Leiden]]|publisher=[[Brill Publishers|Brill]]|editor-first=Nathan|editor-last=Jun|title=Brill's Companion to Anarchism and Philosophy|isbn=978-90-04-35689-4|pages=196–215|doi=10.1163/9789004356894_009|url=https://brill.com/view/title/35861}}
+* {{cite book|editor-last=Graham|editor-first=Robert|editor-link=Robert Graham (historian)|chapter=Revolutionary Ideas And Action|title=[[Anarchism: A Documentary History of Libertarian Ideas]]|volume=1|year=2005|location=[[Montreal]]|publisher=Black Rose Books|pages=43–71|isbn=1-55164-251-4}}
+* {{cite book|last=Graham|first=Robert|date=2019 |chapter=Anarchism and the First International|editor-last1=Adams|editor-first1=Matthew S.|editor-last2=Levy|editor-first2=Carl|title=The Palgrave Handbook of Anarchism|location=London|publisher=Palgrave Macmillan|isbn=978-3319756196|pages=325–342|doi=10.1007/978-3-319-75620-2_19|s2cid=158605651 }}
+* {{cite book |chapter=Joseph Déjacque: Émigré Journalist|url=https://drc.libraries.uc.edu/server/api/core/bitstreams/d32e8d93-3951-4120-809e-852a7ae85c66/content |year=2012 |title=In the Sphere of Humanity: Joseph Déjacque, Slavery, and the Struggle for Freedom |first1=Janine C. |last1=Hartman |first2=Mark A. |last2=Lause |publisher=[[University of Cincinnati]] |pages=4–39}}
+* {{EB1911|noprescript=1|last=Kropotkin|first=Peter|author-link=Peter Kropotkin|wstitle=Anarchism|volume=1|pp=914&ndash;919}}
+* {{cite book|chapter=Anarchism and Libertarianism|last=Long|first=Roderick T.|year=2017|location=[[Leiden]]|publisher=[[Brill Publishers|Brill]]|editor-first=Nathan|editor-last=Jun|title=Brill's Companion to Anarchism and Philosophy|isbn=978-90-04-35689-4|pages=285–317|doi=10.1163/9789004356894_012|url=https://brill.com/view/title/35861}}
+* {{cite encyclopedia|last1=Maitron|first1=Jean|last2=Pichon|first2=Karine|last3=Veyron|first3=Franck|year=2014|title=DÉJACQUE Joseph|url=https://maitron.fr/spip.php?article154757|encyclopedia=Dictionnaire des anarchistes|location=[[Paris]]|publisher=[[Éditions de l'Atelier]]|oclc=1158613719|access-date=7 November 2023|language=fr}}
+* {{cite book|first=Peter H.|last = Marshall|author-link=Peter Marshall (author)|title=[[Demanding the Impossible|Demanding the Impossible: A History of Anarchism]]|year=2008|orig-year=1992|location=[[London]]|publisher=[[Harper Perennial]]|isbn=978-0-00-686245-1|oclc=218212571}}
+* {{Cite book|last=Pengam|first=Alain|chapter=Anarcho-Communism|editor-last1=Ribel|editor-first1=Maximilien|editor-last2=Crump|editor-first2=John|year=1987|title=Non-Market Socialism in the Nineteenth and Twentieth Centuries|publisher=Palgrave Macmillan|chapter-url=https://books.google.com/books?id=dqmvCwAAQBAJ&q=anarcho-communism+stateless+communism&pg=PA60|pages=60–82|doi=10.1007/978-1-349-18775-1_4|isbn=978-1-349-18775-1}}<!-- pp. 61-67 -->
+* {{cite book|editor-last=Stone|editor-first=Vincent|year=2014|chapter=Joseph Déjacque (1821-1864)|title=Disruptive Elements: The Extremes of French Anarchism|url=https://archive.org/details/DisruptiveElements|publisher=Ardent Press|pages=12–24|oclc=908851863}}
+* {{cite book|last=Wilbur|first=Shawn P.|date=2019 |chapter=Mutualism|editor-last1=Adams|editor-first1=Matthew S.|editor-last2=Levy|editor-first2=Carl|title=The Palgrave Handbook of Anarchism|location=London|publisher=Palgrave Macmillan|isbn=978-3319756196|pages=213–224|doi=10.1007/978-3-319-75620-2_11|s2cid=242074567 }}
+*{{cite book|first=George|last=Woodcock|author-link=George Woodcock|year=1962|chapter=Anarchism in France|title=Anarchism: A History Of Libertarian Ideas And Movements|publisher=[[World Publishing Company]]|lccn=62-12355|pages=275–326}} <!-- pp. 278-285 -->
+{{refend}}
+
+== Further reading ==
+{{refbegin|2}}
+* {{cite book|editor-last1=Bouchet|editor-first1=Thomas|editor-last2=Samzun|editor-first2=Patrick|year=2019|url=https://books.openedition.org/pufc/18302|title=Libertaire! essais sur l'écriture, la pensée et la vie de Joseph Déjacque (1821–1865)|location=[[Besançon]]|publisher=[[University of Franche-Comté|Presses universitaires de Franche-Comté]]|series=Cahiers de la Maison des sciences de l'homme Ledoux|volume=38|isbn=978-2-84867-669-2|doi=10.4000/books.pufc.18302|s2cid=213132632 |language=fr}}
+* {{cite book|last1=Jarrige|first1=François|last2=Lauricella|first2=Marie|year=2015|chapter=Un forum pour la classe ouvrière. L’expérience de L’Atelier|chapter-url=https://www.cairn.info/quand-les-socialistes-inventaient-l-avenir--9782707185914-page-226.htm|editor-first1=Thomas|editor-last1=Bouchet|editor-first2=Vincent|editor-last2=Bourdeau|editor-first3=Edward|editor-last3=Castleton|editor-first4=Ludovic|editor-last4=Frobert|editor-first5=François|editor-last5=Jarrige|title=Dans Quand les socialistes inventaient l'avenir|location=[[Paris]]|publisher=La Découverte|isbn=9782707185914|doi=10.3917/dec.bouch.2015.01.0226|language=fr|pages=226–238}} 
+* {{cite journal|last=Lehning|first=Arthur Mueller|year=1938|title=The International Association (1855-1859): a Contribution to the Preliminary History of the First International|journal=[[International Review of Social History|International Review for Social History]]|volume=3|pages=185–284|issn=	0020-8590|doi=10.1017/S187308410000032X|url=http://name.umdl.umich.edu/BAC8387-1417CATH-78 }}
+* {{cite magazine|url=https://anarchism.pageabode.com/blog/150-years-of-libertarian/|last=McKay|first=Iain|year=2008|title=150 years of Libertarian|magazine=[[Freedom (British newspaper)|Freedom]]|volume=69|issue=23–4|issn=0016-0504}}
+* {{cite web|last=McKay|first=Iain|date=17 May 2017|url=https://anarchism.pageabode.com/blog/160-years-of-libertarian/|title=160 Years of Libertarian|website=Anarchist Writers}}
+* {{cite book|last=Nemeth|first=Luc|year=2016|title=Les mêmes droits: face à la misogynie proudhonienne|url=https://www.academia.edu/39000398|trans-title=The same rights: facing proudhonian misogyny|language=fr|location=[[Paris]]|publisher=Nemeth|isbn=9782953737226|oclc=946649064}}
+* {{cite thesis|last=Nemeth|first=Luc|year=2019|title=Joseph Déjacque, ou : une radicalité qui faisait peur|url=https://www.academia.edu/44316118|language=fr}}
+* {{cite book|title=A Short History of Anarchism|first=Max|last=Nettlau|author-link=Max Nettlau|publisher=[[Freedom Press]]|year=1996|isbn=978-0900384899|oclc=37529250}} <!-- pp. 75-76, 145, 162 -->
+* {{cite book|last=Perrot|first=Nicole|year=1994|chapter=À la recherche d’une patrie des droits de l’homme: Joseph Déjacque prolétaire anarchiste|chapter-url=http://www.theyliewedie.org/ressources/biblio/fr/Riffaut_Perrot_Nicole_-_Joseph_Dejacque.html|editor-last=Creagh|editor-first=Ronald|editor-link=Ronald Creagh|title=Les Français des États-Unis d'hier à aujourd'hui|location=[[Montpellier]]|publisher=[[Paul Valéry University Montpellier 3|University Montpellier 3]]|pages=281–295|language=fr|isbn=9782907293143|oclc=33155389}}
+* {{cite encyclopedia|last=Pichon|first=Karine|year=2002|title=Déjacque Joseph|editor-last=Cordillot|editor-first=Michel|encyclopedia=La Sociale en Amérique. Dictionnaire biographique du mouvement social francophone aux États-Unis|location=[[Paris]]|publisher=[[Éditions de l'Atelier]]|isbn=2-7082-3543-5|url=https://books.google.com/books?id=srm9p8X8GIoC&pg=PA141|pages=141–144|language=fr}}
+* {{cite book|editor-last=Van|editor-first=Ngo|editor-link=Ngo Van|year=2011|chapter=Déjacque ou la passion anarchiste|chapter-url=http://mutineseditions.free.fr/introdejacque.pdf|trans-chapter=Déjacque or the anarchist passion|title=Joseph Déjacque: Autour de La question révolutionnaire (1852–1861)|trans-title=Joseph Déjacque: Around The Revolutionary Question (1852–1861)|publisher=Mutines Séditions|oclc=943968627|pages=5–32|language=fr}}
+{{refend}}
+
+== External links ==
+{{wikiquote}}
+* [http://www.revoltlib.com/?id=3596 Joseph Déjacque : Anarchist and Inventor of the Term "Libertarianism"], archive at RevoltLib
+* [http://joseph.dejacque.free.fr/ Works in French]
+* [https://web.archive.org/web/20051027172639/http://recollectionbooks.com/bleed/Encyclopedia/DejacqueJoseph.htm Joseph Déjacque page] from the Anarchist Encyclopedia
+* [https://www.libertarian-labyrinth.org/tag/joseph-dejacque/ Joseph Déjacque page] at Libertarian Labyrinth
+
+{{Portal bar|Anarchism|Libertarianism|Politics|Socialism}}
+{{Authority control}}
+
+{{DEFAULTSORT:Dejacque, Joseph}}
+[[Category:1821 births]]
+[[Category:1864 deaths]]
+[[Category:19th-century French journalists]]
+[[Category:19th-century French newspaper founders]]
+[[Category:19th-century French newspaper publishers (people)]]
+[[Category:19th-century French poets]]
+[[Category:Anarchist theorists]]
+[[Category:Anarcho-communists]]
+[[Category:French abolitionists]]
+[[Category:French anarchists]]
+[[Category:French anti-capitalists]]
+[[Category:French communists]]
+[[Category:French emigrants to the United States]]
+[[Category:French feminist writers]]
+[[Category:French libertarians]]
+[[Category:French male journalists]]
+[[Category:French male poets]]
+[[Category:French male writers]]
+[[Category:French people of the Revolutions of 1848]]
+[[Category:French political journalists]]
+[[Category:French political writers]]
+[[Category:French prisoners and detainees]]
+[[Category:French revolutionaries]]
+[[Category:French socialist feminists]]
+[[Category:History of libertarianism]]
+[[Category:Journalists from Paris]]
+[[Category:Libertarian socialists]]
+[[Category:Libertarian theorists]]
+[[Category:Male feminists]]
+[[Category:Poets from Paris]]
+[[Category:Writers from Paris]]

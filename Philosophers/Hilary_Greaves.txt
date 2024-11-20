@@ -1,0 +1,109 @@
+{{short description|British philosopher (born 1978)}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox philosopher
+| honorific_prefix  = 
+| name              = Hilary Greaves
+| native_name       = <!-- add name in the philosopher's language or script if different from the English name -->
+| honorific_suffix  = 
+| image             = Hilary Greaves (20613169345).jpg 
+| image_size        = 
+| alt               = 
+| caption           = Greaves in 2015
+| other_names       = 
+| birth_name        = <!-- only use if different from name -->
+| birth_date        = {{Birth year and age|1978}}
+| birth_place       = [[Cardiff]], [[Wales]]
+| death_date        = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place       = 
+| death_cause       = 
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| spouse            =
+| partner           =
+| children          =
+| family            =
+| relatives         = 
+| education         = {{Plainlist|
+* [[University of Oxford]] ([[Bachelor of Arts|BA]], 2003)
+* [[Rutgers University]] ([[PhD]], 2008)
+}}
+| alma_mater        = 
+| occupation        = 
+| notable_works     = <!-- use "notable_works" in place of "books" parameter (deprecated) -->
+| awards            = 
+| signature         = 
+| signature_size    = 
+| signature_alt     = 
+| era               = [[Contemporary philosophy]]
+| region            = [[Western philosophy]]
+| school_tradition  = 
+| institutions      = {{Plainlist|
+* [[Merton College, Oxford]]
+* [[Somerville College, Oxford]]
+}}
+| thesis_title      = Spacetime Symmetries and the CPT Theorem
+| thesis_url        = https://rucore.libraries.rutgers.edu/rutgers-lib/24390/
+| thesis_year       = 2008
+| doctoral_advisor  = Frank Arntzenius
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| language          = 
+| main_interests    = {{Hlist|[[Effective altruism]]|[[moral philosophy]]|[[formal epistemology]]}}
+| notable_ideas     = 
+| influences        = <!-- only add entries which are explained and cited in the body of the article (or cited here)-->
+| influenced        = <!-- only add entries which are explained and cited in the body of the article (or cited here)-->
+| website           = {{URL|https://users.ox.ac.uk/~mert2255/}}
+}}
+
+'''Hilary Greaves''' (born 1978) is a British [[philosopher]], currently serving as professor of philosophy at the [[University of Oxford]].<ref>{{cite web | title =  Faculty of Philosophy, University of Oxford| url = https://www.philosophy.ox.ac.uk/faculty-members | access-date = 2019-09-10}}</ref> From 2017 to 2022, she was the founding director of the [[Global Priorities Institute]], a research centre for [[effective altruism]] at the university supported by the [[Open Philanthropy Project]].<ref>{{cite web | title = Global Priorities Institute opens at Oxford | url = https://www.campaign.ox.ac.uk/news/new-global-priorities-institute-opens | access-date = 7 November 2019}}</ref><ref>{{cite web |title=People, Global Priorities Institute |url=https://globalprioritiesinstitute.org/people/ |access-date=2023-08-13}}</ref>
+
+==Education==
+Greaves earned a [[Bachelor of Arts|BA]] in [[philosophy]] and physics from the University of Oxford in 2003, and a [[PhD]] in philosophy from Rutgers in 2008.<ref name="cv">{{cite web | title = Curriculum vitae: Hilary Greaves | url = http://users.ox.ac.uk/~mert2255/cv.pdf | access-date = 2019-09-10}}</ref> Her doctoral thesis was titled ''Spacetime Symmetries and the CPT Theorem'' and was supervised by Frank Arntzenius.<ref>{{cite thesis|url=https://rucore.libraries.rutgers.edu/rutgers-lib/24390/|title=Spacetime symmetries and the CPT theorem|website=RUcore|publisher=Rutgers University|access-date=November 2, 2019|doi=10.7282/T3CF9QFX|year=2008|last1=Greaves|first1=Hilary}}</ref> She has held appointments at [[Merton College]] and [[Somerville College]] and, since 2016, has been a professor of philosophy at Oxford.<ref name="cv" />
+
+==Research==
+Greaves' current work is on issues related to [[effective altruism]], particularly in connection to [[Effective altruism#Cause prioritization|global prioritisation]]. Her research interests include [[moral philosophy]] (including foundational issues in [[consequentialism]], [[utilitarianism#Aggregating utility|interpersonal aggregation]], [[population ethics]],<ref>{{cite web|url=https://www.timeshighereducation.com/news/british-academy-announces-rising-star-engagement-winners/2019375.article |title=British Academy announces Rising Star Engagement winners |website=[[Times Higher Education]] |first=Matthew |last=Riesz |date=2015-03-28 |access-date=2019-11-02}}</ref> and moral uncertainty), [[formal epistemology]], and the [[philosophy of physics]],<ref>{{cite web | title = Hilary Greaves' home page | url = http://users.ox.ac.uk/~mert2255/ | access-date = 2019-09-10}}</ref> particularly [[quantum mechanics]].<ref>{{cite encyclopedia|url=http://philsci-archive.pitt.edu/3886/1/Everett-at-50.pdf |first=Huw |last=Price |author-link=Huw Price |title=Decisions, Decisions, Decisions: Can Savage Salvage Everettian Probability? |encyclopedia=Many Worlds? Everett, Quantum Theory, & Reality |publisher=[[Oxford University Press]] |year=2012 |isbn=9780199655502 |oclc=1103786900}}</ref><ref>{{cite journal|first=Foad |last=Dizadji-Bahmani |title=The Probability Problem in Everettian Quantum Mechanics Persists |journal=[[British Journal for the Philosophy of Science]] |volume=66 |pages=257–283 |number=2 |year=2015 |doi=10.1093/bjps/axt035}}</ref>
+
+In October 2022, she was featured in [[Vox Media|Vox's]] ''Future Perfect 50'' for her work on [[longtermism]].<ref>{{Cite web |last=Matthews |first=Dylan |date=2022-10-20 |title=Hilary Greaves is the world’s leading philosopher of the long-term future |url=https://www.vox.com/future-perfect/23357140/future-perfect-50-hilary-greaves-professor-philosophy-oxford |access-date=2023-04-26 |website=Vox |language=en}}</ref> She has argued that, just as [[Drowning child analogy|geographical distance]] should make no difference to how important it is to alleviate a person's suffering (to the extent that one is able to), temporal distance is likewise morally irrelevant. Greaves has defended her longtermist position in terms of both [[Utilitarianism|utilitarian]] outcomes and [[Intergenerational equity|intergenerational justice]].<ref>{{Cite web |last=Samuel |first=Sigal |date=2021-07-02 |title=What we owe to future generations |url=https://www.vox.com/future-perfect/22552963/how-to-be-a-good-ancestor-longtermism-climate-change |access-date=2023-11-17 |website=Vox |language=en}}</ref>
+
+==Selected publications==
+===Books===
+*Greaves, Hilary, and Theron Pummer (eds). ''Effective Altruism: Philosophical Issues.'' Oxford University Press, 2019. {{ISBN|9780192578303}}
+
+===Peer-reviewed articles===
+*Greaves, Hilary. 2013. "Epistemic Decision Theory". ''Mind''. 122, no. 488: 915-952.
+*Greaves, Hilary, and David Wallace. 2006. "Justifying conditionalization: Conditionalization maximizes expected epistemic utility". ''Mind''. 115, no. 459: 607-631.
+*Greaves, Hilary. 2010. "Towards a Geometrical Understanding of the CPT Theorem". ''The British Journal for the Philosophy of Science''. 61, no. 1: 27–50. (Winner of the [[James T. Cushing]] Memorial Prize in History and Philosophy of Physics.<ref>{{cite web | title = Cushing Prize 2012 Winner | website = University of Notre Dame | url = https://reilly.nd.edu/news-and-events/events/cushing-memorial-prize/previous-cushing-prize-winners/cushing-prize-2012-winner/ | access-date = 2 November 2019}}</ref>)
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://users.ox.ac.uk/~mert2255/ Official website]
+* {{Google Scholar|id=Wwui2RsAAAAJ}}
+
+{{Effective altruism}}
+{{Authority control}}
+
+{{DEFAULTSORT:Greaves, Hilary}}
+[[Category:1978 births]]
+[[Category:21st-century British philosophers]]
+[[Category:21st-century British women writers]]
+[[Category:21st-century British essayists]]
+[[Category:Alumni of the University of Oxford]]
+[[Category:Analytic philosophers]]
+[[Category:British ethicists]]
+[[Category:British women essayists]]
+[[Category:British women non-fiction writers]]
+[[Category:British women philosophers]]
+[[Category:Consequentialists]]
+[[Category:British epistemologists]]
+[[Category:Fellows of Merton College, Oxford]]
+[[Category:Fellows of Somerville College, Oxford]]
+[[Category:Living people]]
+[[Category:People associated with effective altruism]]
+[[Category:British philosophers of mind]]
+[[Category:British philosophers of science]]
+[[Category:Rutgers University alumni]]
+[[Category:Utilitarians]]
+[[Category:Writers about activism and social change]]
+[[Category:Henry Wilde Prize winners]]

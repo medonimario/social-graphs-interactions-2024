@@ -1,0 +1,40 @@
+{{Short description|4th-century BCE Chinese philosopher and author}}
+{{about|the philosopher Liezi|the text|Liezi}}
+{{No footnotes|date=August 2022}}
+[[File:Album of 18 Daoist Paintings - 7.jpg|thumb|400px|[[Zhang Lu (painter)|Zhang Lu]]'s painting of Liezi, early 16th century]]
+{{Taoism}}
+
+'''Lie Yukou'''  ({{zh|c=|p=Liè Yǔkòu|w=Lieh<sup>4</sup> Yü<sup>4</sup>-k‘ou<sup>4</sup>|t=列圄寇/列禦寇|j=Lit<sup>6</sup> Jyu<sup>6</sup> Kau<sup>3</sup>}}; {{floruit|{{circa|400 BCE}}}}) was a Chinese philosopher who is considered the author of the [[Daoist]] book ''[[Liezi]]'', which uses his honorific name '''Liezi''' ({{zh|c=列子|p=Lièzǐ|w=Lieh<sup>4</sup>-tzŭ<sup>3</sup>|l=Master Lie}}).
+
+==Early life==
+Lie Yukou was born in the [[State of Zheng]], near today's [[Zhengzhou]], [[Henan Province]].
+
+==History==
+There is little historical evidence of Lie Yukou as a [[Hundred Schools of Thought]] philosopher during the [[Warring States period]]. This could be due to the [[burning of books and burying of scholars]] which occurred during the reign of [[Qin Shi Huang]]. However, some scholars believe that the ''Zhuangzi'' invented him as a Daoist exemplar.  [[Frederic H. Balfour]], who translated several Taoist texts, called Liezi "a philosopher who never lived" (1887:?) [[Lionel Giles]] expresses doubt in his Introduction: <blockquote>Very little is known of our author beyond what he tells us himself. His full name was Lieh Yü-k'ou, and it appears that he was living in the [[Zheng (state)|Chêng State]] not long before the year 398 BC, when the Prime Minister Tzu Yang was killed in a revolution. He figures prominently in the pages of [[Zhuang Zhou|Chuang Tzu]], from whom we learn that he could 'ride upon the wind'. On the insufficient ground that he is not mentioned by the historian [[Sima Qian|Ssu-ma Ch'ien]], a certain critic of the [[Song dynasty|Sung dynasty]] was led to declare that Lieh Tzu was only a fictitious personage invented by Chuang Tzu, and that the treatise which passes under his name was a forgery of later times. This theory is rejected by the compilers of the great [[Siku quanshu|Catalogue]] of [[Qianlong Emperor|Ch‘ien Lung]]'s Library, who represent the cream of Chinese scholarship in the eighteenth century.</blockquote>
+
+In the above quote Mr. Lionel Giles may have been refuting his father [[Herbert Allen Giles]], who wrote of Lie Yukou or Lieh-Tzu in his translation of Chuang Tzu. Here is his quote which runs as follows: <blockquote>
+The extent of the actual mischief done by this " Burning of the Books " has been greatly exaggerated. Still, the mere attempt at such a holocaust gave a fine chance to the scholars of the later [[Han dynasty]] (A.D. 25-221), who seem to have enjoyed nothing so much as forging, if not the whole, at any rate portions, of the works of ancient authors. Some one even produced a treatise under the name of Lieh Tzu, a philosopher mentioned by Chuang Tzu, not seeing that the individual in question was a creation of Chuang Tzu's brain!</blockquote>
+
+==References==
+{{reflist}}
+
+==Further reading==
+*[[Frederic H. Balfour|Balfour, Frederic H]]. ''Leaves from my Chinese Scrapbook''. London: Trubner. 1887. Reprint. 2001.
+*[[Lionel Giles|Giles, Lionel]], tr. ''Taoist Teachings from the Book of Lieh-Tzŭ''. London: Wisdom of the East. 1912.
+*Giles, Herbert A., tr. ''Chuang Tzu: Mystic, Moralist and Social Reformer''. London: Bernard Quaritch 1889.
+
+==External links==
+* [http://www.taopage.org/liehtzu.html Lieh-tzu: A Biographical Note], Taoism Initiation Page
+* ''[[s:Taoist teachings from the book of Lieh Tzŭ|Taoist teachings from the book of Lieh Tzŭ]]'', Giles' translation at Wikisource
+* {{Gutenberg author |id=2430| name=Liezi}}
+* {{Internet Archive author |name=Liezi}}
+* {{Internet Archive author |name=Lieh-tzu}}
+* {{Librivox author |id=6236 |title=Liezi}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lie, Yukou}}
+[[Category:4th-century BC Chinese philosophers]]
+[[Category:Taoist immortals]]
+[[Category:Zhou dynasty philosophers]]
+[[Category:Zhou dynasty Taoists]]

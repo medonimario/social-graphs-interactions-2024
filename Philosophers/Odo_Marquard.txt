@@ -1,0 +1,84 @@
+{{Short description|German philosopher (1928–2015)}}
+{{Infobox philosopher
+| name             = Odo Marquard
+| image            = 
+| alt              = 
+| caption          = 
+| other_names      = 
+| birth_name       =
+| birth_date       = {{Birth date|1928|2|26|df=y}}
+| birth_place      = [[Słupsk|Stolp]], [[Farther Pomerania]], [[Weimar Germany]] (modern Słupsk, Poland)
+| death_date       = {{Death date and age|2015|05|09|1928|2|26|df=y}}
+| death_place      = [[Celle]], Germany
+| nationality      = German
+| era              = [[Contemporary philosophy]]
+| region           = [[Western philosophy]]
+| school_tradition = [[Continental philosophy]]<br>[[Ritter School]]
+| main_interests   = [[Philosophical anthropology]]
+| notable_ideas    = 
+| institutions     = 
+| influences       = [[Immanuel Kant|Kant]]{{·}}[[Sigmund Freud|Freud]]{{·}}[[Arnold Gehlen|Gehlen]]{{·}}[[Max Müller (Catholic intellectual)|Müller]]
+| influenced       = [[Gerd B. Achenbach]]
+| awards           = [[Sigmund Freud Prize]], 1984
+}}
+
+'''Odo Marquard''' (26 February 1928 – 9 May 2015) was a German [[philosophy|philosopher]]. He was a professor of philosophy at the [[University of Giessen]] from 1965 to 1993. In 1984 he received the [[Sigmund Freud Prize]] for Scientific Prose.
+
+==Early life and education==
+Odo Marquard was born in [[Słupsk|Stolp]], [[Farther Pomerania]]. He studied philosophy, German literature and theology, obtaining his doctorate at the [[University of Münster]] and his [[habilitation]] at the [[University of Freiburg]].{{sfn|University of Giessen|2015}} In Münster he studied under [[Joachim Ritter]], whose Ritter School he sometimes is considered a member of.{{sfn|Lübbe|2016|pp=117–118}} An even greater influence was [[Max Müller (Catholic intellectual)|Max Müller]], whom Marquard studied under in Freiburg, and his use of the philosophy of [[Edmund Husserl]] and [[Martin Heidegger]] to create a [[Phenomenology (philosophy)|phenomenological]] update of [[neo-scholasticism]].{{sfn|Lübbe|2016|pp=118–120}}
+
+==Career==
+From 1965 to 1993, Marquard held a chair for philosophy at the [[University of Giessen]], serving as [[Dean (education)|dean]] of the philosophical faculty. In 1982–1983 he was a [[fellow]] at the [[Berlin Institute for Advanced Study]]. From 1985 to 1987 he was the president of the General Society for Philosophy in Germany.{{sfn|University of Giessen|2015}}
+
+In 1984 he was awarded the [[Sigmund Freud Prize]] for Scientific Prose by the [[Deutsche Akademie für Sprache und Dichtung]]. He was awarded the Erwin-Stein-Preis (1992), the [[Ernst-Robert-Curtius-Preis]] for essay writers (1996), the [[Hessian Cultural Prize]] for science (1997), the [[Hessian Order of Merit]] (1990) and two [[Order of Merit of the Federal Republic of Germany|Orders of Merit of the Federal Republic of Germany]]: the Cross of Merit 1. Class (1995) and the Great Cross of Merit (2008). In 1994, the year after he became professor [[emeritus]], he received an honorary doctorate from the [[University of Jena]].{{sfn|University of Giessen|2015}}
+
+==Thought==
+A proponent of philosophical [[hermeneutics]] and [[Philosophical skepticism|skepticism]], Marquards work focuses on aspects of human fallibility, contingency and finitude.<ref>{{Cite book|title=Farewell to Matters of Principle. Philosophical Studies|last=Marquard|first=Odo|publisher=Oxford University Press|year=1989|isbn=978-0-19-505114-8|location=New York/Oxford}}</ref> He rejected idealist, rationalist and universalist conceptions and defended philosophical [[Epistemological particularism|particularism]] and [[Pluralism (philosophy)|pluralism]].<ref>{{Cite book|title=In Defense of the Accidental. Philosophical Studies|last=Marquard|first=Odo|publisher=Oxford University Press|year=1991|isbn=978-0-19-507252-5|location=New York/Oxford}}</ref> His essay "[[In Praise of Polytheism]]" provoked discussion and controversy in Germany. In it, he promotes a "disenchanted return of [[polytheism]]" as a [[political theology]].{{sfn|Gladigow|2004|p=22}}
+
+Criticized by [[Jürgen Habermas]] as a representative of German [[neoconservatism]],<ref>{{Cite journal|last=Habermas|first=Jürgen|date=1983|title=Neoconservative Culture Criticism in the United States and West Germany: An Intellectual Movement in Two Political Cultures|journal=Télos|volume=56}}</ref> his philosophy has been described as a form of [[liberal conservatism]]<ref>{{Cite book|title=Philosophie der Bürgerlichkeit. Die liberalkonservative Begründung der Bundesrepublik|last=Hacke|first=Jens|publisher=Vandenhoeck & Ruprecht|year=2006|isbn=978-3-525-36842-8|location=Göttingen}}</ref> with various parallels to [[postmodernism|postmodern]] thought and the work of [[Richard Rorty]].<ref>{{Cite journal|last=Allen|first=Barry|date=2013|title=Postmodern Pragmatism and Skeptical Hermeneutics: Richard Rorty and Odo Marquard|journal=Contemporary Pragmatism|volume=10|issue=1|pages=91–111|doi=10.1163/18758185-90000250}}</ref>
+
+==Selected bibliography==
+*''Schwierigkeiten mit der Geschichtsphilosophie''. Suhrkamp, Frankfurt am Main 1973, {{ISBN|3-518-27994-7}}
+*''Abschied vom Prinzipiellen''. Reclam, Stuttgart 1981, {{ISBN|3-15-007724-9}}
+*''Apologie des Zufälligen''. Reclam, Stuttgart 1986, {{ISBN|3-15-008351-6}}
+*''Skepsis und Zustimmung''. Reclam, Stuttgart 1994, {{ISBN|3-15-009334-1}}
+*''Glück im Unglück''. Fink, Munich 1995, {{ISBN|3-7705-3065-9}}
+*''Skepsis in der Moderne''. Reclam, Stuttgart 2007, {{ISBN|3-15-018524-6}}
+
+===Works in English translation===
+*"On the importance of the theory of the unconscious for a theory of no longer fine art". Richard E. Amacher and Victor Lange (eds.) ''New perspectives in German literary criticism''. Princeton, N.J.: Princeton University Press 1979. {{ISBN|0-691-06380-X}}
+*''Farewell to Matters of Principle. Philosophical Studies.'' New York/Oxford: Oxford University Press 1989. {{ISBN|978-0-19-505114-8}}
+*''In Defense of the Accidental. Philosophical Studies.'' New York/Oxford: Oxford University Press 1991. {{ISBN|978-0-19-507252-5}}
+*"Presentation off duty and depoliticised revolution. Philosophical remarks on art and politics". Christos M. Joachimides and Norman Rosenthal (eds.) ''The age of modernism. Art in the 20th century''. G. Hatje: Stuttgart 1997, pp.&nbsp;39–48. {{ISBN|978-3-7757-0682-7}}
+*"Several connections between aesthetics and therapeutics in nineteenth-century philosophy". Judith Norman and Alistair Welchman (eds.) ''The new Schelling''. London/New York: Continuum 2004. {{ISBN|978-0-8264-6941-0}}
+
+==References==
+===Citations===
+{{Reflist}}
+
+===Sources===
+{{Refbegin|indent=yes}}
+* {{cite book |last=Gladigow |first=Burkhard |author-link=Burkhard Gladigow |year=2004 |chapter-url=https://books.google.com/books?id=boqCI8cmfv0C&pg=PA22 |chapter=Lectores ad priscum cultum revocare. Popularisierte Religion oder narrative Religionswissenschaft |trans-chapter=Readers recall former cultures. Popularized religion or narrative religious studies |language=de |editor1-last=Piegeler |editor1-first=Hildegard |editor2-last=Prohl |editor2-first=Inken |editor3-last=Rademacher |editor3-first=Stefan |title=Gelebte Religionen. Untersuchungen zur sozialen Gestaltungskraft religiöser Vorstellungen und Praktiken in Geschichte und Gegenwart. Festschrift für Hartmut Zinser zum 60. Geburtstag |trans-title=Lived religions. Studies on the social creative power of religious ideas and practices in history and the present. Commemorative publication for Hartmut Zinser on his 60th birthday |location=Würzburg |publisher=Königshausen & Neumann |pages=17–26 |isbn=3-8260-2768-X }}
+* {{cite journal |last=Lübbe |first=Hermann |author-link=Hermann Lübbe |year=2016 |url=https://www.z-i-g.de/rueckschau.cfm?heft=49 |title=Heitere Hiobsbotschaften. Nachruf auf Odo Marquard |trans-title=Cheerful bad news. Obituary for Odo Marquard |journal=Zeitschrift für Ideengeschichte |language=de |volume=10 |issue=1 |pages=117–127 |doi=10.17104/1863-8937-2016-1-117 |issn=1863-8937 }}
+* {{cite web |author=University of Giessen |author-link=University of Giessen |date=2015-05-11 |url=http://www.uni-giessen.de/cms/ueber-uns/pressestelle/pm/pm77-15 |title=Universität Gießen trauert um Prof. Odo Marquard |trans-title=University of Giessen mourns the loss of Prof. Odo Marquard |work=uni-giessen.de |language=de|access-date=2015-05-12 |archive-url=https://web.archive.org/web/20150514123315/http://www.uni-giessen.de/cms/ueber-uns/pressestelle/pm/pm77-15 |archive-date=2015-05-14 |url-status=live}}
+{{Refend}}
+
+==Further reading==
+{{Refbegin|indent=yes}}
+* {{cite book |last=Leonhardt |first=Rochus |year=2003 |url=https://books.google.com/books?id=_fWaSxhNJH4C |title=Skeptizismus und Protestantismus. Der philosophische Ansatz Odo Marquards als Herausforderung an die evangelische Theologie |trans-title=Scepticism and Protestantism. Odo Marquard's philosophical approach as a challenge to evangelical theology |series=Hermeneutische Untersuchungen zur Theologie |volume=44 |language=de |location=Tübingen |publisher=Mohr Siebeck |isbn=3-16-147864-9 }}
+* {{cite journal |last=Rack |first=Jochen |year=2010 |url=https://sinn-und-form.de/index.php?tabelle=leseprobe&titel_id=4272 |title=Gespräch mit Odo Marquard. Über das Alter (2004) |trans-title=Conversation with Odo Marquard. About old age |journal=Sinn und Form |language=de |volume=62 |issue=5 |pages=611–614 |issn=0037-5756 }}
+* {{cite news |last1=Schmitter |first1=Elke |author-link1=Elke Schmitter |last2=Schreiber |first2=Mathias |date=2003-02-24 |url=https://www.spiegel.de/spiegel/print/d-26448590.html |title='Wir brauchen viele Götter' |trans-title=We need many gods |work=[[Der Spiegel]] |language=de |access-date=2020-06-18 }}
+{{Refend}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Marquard, Odo}}
+[[Category:1928 births]]
+[[Category:2015 deaths]]
+[[Category:People from Słupsk]]
+[[Category:People from the Province of Pomerania]]
+[[Category:20th-century German philosophers]]
+[[Category:German male writers]]
+[[Category:Commanders Crosses of the Order of Merit of the Federal Republic of Germany]]
+[[Category:Political theologians]]
+[[Category:German critics of Christianity]]

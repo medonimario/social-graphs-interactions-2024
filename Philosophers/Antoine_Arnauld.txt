@@ -1,0 +1,112 @@
+{{Short description|French Catholic theologian, philosopher and mathematician (1612–1694)}}
+{{distinguish|text=his father [[Antoine Arnauld (lawyer)]] or his nephew [[Antoine Arnauld (1616–1698)]]}}
+{{more citations needed|date=May 2014}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[17th-century philosophy]]
+| image            = Antoine Arnauld4.jpg
+| caption          = 
+| name             = Antoine Arnauld
+| birth_date       = {{birth date|df=yes|1612|02|06}}
+| birth_place      = [[Paris]], [[Kingdom of France]]
+| death_date       = {{death date and age|df=yes|1694|08|08|1612|02|06}}<ref>''[[Schaff–Herzog Encyclopedia of Religious Knowledge|The new Schaff–Herzog Encyclopedia of Religious Knowledge]]''. Vol. 1. Baker, 1960</ref>
+| death_place      = [[Liège]], [[Prince-Bishopric of Liège]], [[Holy Roman Empire]]
+| education        = [[University of Paris]] ([[Collège de Calvi]] and {{Interlanguage link|Collège de Lisieux|fr}}<ref>Walter Farquhar Hook, ''An ecclesiastical biography, containing the lives of ancient fathers and modern divines, interspersed with notices of heretics and schismatics'', Volume 1, 1844 p. 284.</ref>)
+| nationality      = French
+| school_tradition = {{plainlist|
+*[[Rationalism]]
+*[[Augustine of Hippo|Augustinianism]]
+*[[Jansenism]]
+*[[Cartesianism]]}}
+| main_interests   = [[Theology]], [[metaphysics]], [[epistemology]], [[theodicy]]
+}}
+
+'''Antoine Arnauld''' ({{IPA|fr|ɑ̃twan aʁno}}; 6 February 1612{{snd}}8 August 1694) was a French [[Catholic]] [[theology|theologian]], priest, [[philosopher]] and [[mathematician]]. He was one of the leading intellectuals of the [[Jansenist]] group of [[Port-Royal Abbey, Paris|Port-Royal]] and had a very thorough knowledge of [[patristics]]. Contemporaries called him ''le Grand'' to distinguish him from his father.
+
+==Biography==
+Antoine Arnauld was born in [[Paris]] to the [[Arnauld family]]. The twentieth and youngest child of the original [[Antoine Arnauld (lawyer)|Antoine Arnauld]], he was originally intended for the bar, but decided instead to study [[theology]] at the [[Collège de Sorbonne|Sorbonne]].  Here he was brilliantly successful, and his career was flourishing when he came under the influence of [[Jean du Vergier de Hauranne]], the spiritual director and leader of the convent of Port-Royal, and was drawn in the direction of [[Jansenism]].{{sfn|Chisholm|1911}}
+
+His book, ''De la fréquente Communion'' (1643), was an important step in making the aims and ideals of this movement intelligible to the general public. It attracted controversy by being against [[frequent communion]]. Furthermore, in the frame of the controversy around [[Jansenius]]' ''[[Augustinus (Jansenist book)|Augustinus]]'', during which the [[Jesuit]]s attacked the Jansenists claiming they were heretics similar to [[Calvinist]]s, Arnauld wrote in defense the ''Théologie morale des Jésuites'' (Moral Theology of Jesuits), which would put the base of most of the arguments later used by [[Blaise Pascal|Pascal]] in his ''[[Provincial Letters]]'' denouncing the "relaxed moral" of Jesuit [[casuistry]].<ref name=Carraud>Vincent Carraud (author of ''Pascal et la philosophie'', PUF, 1992), [http://www.amisdeportroyal.org/portroyal/articles.php?lng=fr&pg=282 Le jansénisme] {{webarchive|url=https://web.archive.org/web/20071017110614/http://amisdeportroyal.org/portroyal/articles.php?lng=fr&pg=282 |date=2007-10-17 }}, ''Société des Amis de Port-Royal'', on-line since June 2007 {{in lang|fr}}</ref> Pascal was assisted in this task by Arnauld's nephew [[Antoine Le Maistre]].<ref>[http://concise.britannica.com/oscar/print?articleId=9553&fullArticle=true&tocId=9009553 Arnauld Family] at concise.britannica.com, accessed 25 June 2008</ref> The Jesuit [[Nicolas Caussin]], former penitentiary to [[Louis XIII]], was charged by his order of writing a defense against Arnauld's book, titled ''Réponse au libelle intitulé La Théologie morale des Jésuites'' (1644). Other libels published against Arnauld's ''Moral Theology of Jesuits'' included the one written by the Jesuit polemist [[François Pinthereau]] (1605–1664), under the pseudonym of the abbé de Boisic, titled ''Les Impostures et les ignorances du libelle intitulé: La Théologie Morale des Jésuites'' ([http://corail.sudoc.abes.fr/COOKIE=U10178,Klecteurweb,D2.1,Ee08b07cc-1,I250,B341720009%2B,SY,A%255C9008%2B1,,J,H2-26,,29,,34,,39,,44,,49-50,,53-78,,80-87,NLECTEUR%2BPSI,R66.249.73.154,FN/DB=2.1/FKT=8/FRM=1153-2262/IMPLAND=Y/LIBID=341720009%2B/LNG=FR/LRSET=2/SET=2/SID=e08b07cc-1/SRT=RLV/TTL=6/SHW?FRST=4 1644]), who was also the author of a critical history of Jansenism titled ''La Naissance du Jansénisme découverte à Monsieur le Chancelier'' (The Birth of Jansenism Revealed to Sir the Chancellor, [http://corail.sudoc.abes.fr/COOKIE=U10178,Klecteurweb,D2.1,Ee08b07cc-1,I250,B341720009%2B,SY,A%255C9008%2B1,,J,H2-26,,29,,34,,39,,44,,49-50,,53-78,,80-87,NLECTEUR%2BPSI,R66.249.73.154,FN/DB=2.1/FKT=8/FRM=1153-2262/IMPLAND=Y/LIBID=341720009%2B/LNG=FR/LRSET=2/SET=2/SID=e08b07cc-1/SRT=RLV/TTL=6/SHW?FRST=3 Leuven, 1654]).{{sfn|Chisholm|1911}}
+
+During the [[formulary controversy]] which opposed Jesuits to Jansenists concerning the orthodoxy of Jansenius' propositions, Arnauld was forced to go into hiding. In 1655 two very outspoken ''Lettres à un duc et pair'' on Jesuit methods in the [[Confession (religion)|confession]]al brought a motion of [[censorship]] voted against him in the Sorbonne, in quite an irregular manner. This motion prompted Pascal to anonymously write the ''Provincial Letters''. For more than twenty years Arnauld dared not appear publicly in Paris, hiding in religious retreat.{{sfn|Chisholm|1911}}
+
+Pascal, however, failed to save his friend, and in February 1656 Arnauld was ceremonially degraded. Twelve years later the so-called "peace" of [[Pope Clement IX]] put an end to his troubles; he was graciously received by [[Louis XIV of France|Louis XIV]], and treated almost as a popular hero.{{sfn|Chisholm|1911}}
+
+He now set to work with [[Pierre Nicole]] on a great work against the [[Calvinist]] [[Protestant]]s: ''La perpétuité de la foi de l'Église catholique touchant l'eucharistie''. Ten years later, however, persecution resumed. Arnauld was compelled to leave France for the [[Netherlands]], finally settling down at [[Brussels]]. Here the last sixteen years of his life were spent in incessant controversy with Jesuits, Calvinists and heretics of all kinds. Arnauld gradually evolved away from the rigorous [[Augustine of Hippo|Augustinianism]] professed by Port-Royal and closer to [[Thomism]], which also postulated the centrality of the "[[efficacious grace]]," under the influence of Nicole.{{sfn|Chisholm|1911}}
+
+His inexhaustible energy is best expressed by his famous reply to Nicole, who complained of feeling tired. "Tired!" echoed Arnauld, "when you have all eternity to rest in?" {{Citation needed|date=November 2007}} His energy was not exhausted by purely theological questions. He was one of the first to adopt the philosophy of [[René Descartes]], though with certain orthodox reservations relating to ''[[Meditations on First Philosophy]]''; and between 1683 and 1685 he had a long battle with [[Nicolas Malebranche]] on the relation of theology to [[metaphysics]]. On the whole, public opinion leant to Arnauld's side. When Malebranche complained that his adversary had misunderstood him, [[Nicolas Boileau-Despréaux|Boileau]] silenced him with the question: "My dear sir, whom do you expect to understand you, if M. Arnauld does not?" {{Citation needed|date=November 2007}} Next  Arnauld was engaged in an extensive correspondence with [[Gottfried Wilhelm Leibniz]], regarding the latter's views detailed in his "[[Discourse on Metaphysics]]" (1686).  Arnauld died, aged 82, in [[Brussels]].{{sfn|Chisholm|1911}}
+
+Popular record for Arnauld's penetration was much increased in his ''L'Art de penser'', commonly known as the ''[[Port-Royal Logic]]'',{{sfn|Chisholm|1911}} which kept its place as an elementary text-book until the 20th century and is considered a paradigmatical work of [[term logic]].
+
+Arnauld came to be regarded as important among the mathematicians of his time; one critic described him as the [[Euclid]] of the 17th century. After his death, his reputation began to wane. Contemporaries admired him as a master of intricate reasoning; on this, [[Jacques-Bénigne Bossuet]], the greatest theologian of the age, agreed with [[Henri François d'Aguesseau]], the greatest [[lawyer]].  However, his eagerness to win every argument endeared him to no one.  "In spite of myself," Arnauld once said regretfully, "my books are seldom very short." {{Citation needed|date=November 2007}}. Despite Arnauld's achievements in various fields, his name is mostly known because of Pascal's acclaimed writings, which were more fit for the general public than Arnauld's technical essays. Boileau wrote for him a famous [[epitaph]], consecrating his memory as
+<blockquote>
+“Au pied de cet autel de structure grossière<br />
+ Gît sans pompe, enfermé dans une vile bière,<br />
+ Le plus savant mortel qui jamais ait écrit;”<br />
+...<br /><br />
+(“At the foot of this rough structure altar<br />
+Lies without pomp, locked in a vile casket,<br />
+The most learned mortal who ever wrote;”)<br />
+…
+</blockquote>
+
+Antoine Arnauld's complete works (thirty-seven volumes in forty-two parts) were published in Paris, 1775–1781. There is a study of his philosophy in [[Francisque Bouillier]], ''Histoire de la philosophie cartésienne'' (Paris, 1868); and his mathematical achievements are discussed by [[Franz Bopp]] in the 14th volume of the ''Abhandlung zur Geschichte der mathematischen Wissenschaften'' (Leipzig, 1902).
+
+==Principal works==
+<small>The links are to the [http://gallica.bnf.fr/ Gallica] version.</small>
+* ''Œuvres complètes'', Lausanne, 42 vol in-4°, 1775-1781. [https://fr.wikisource.org/wiki/Discussion_Auteur:Antoine_Arnauld List of volumes online, on wikisource]
+* ''{{lang|fr|De la fréquente communion où les sentimens des Pères, des papes et des Conciles touchant l'usage des sacremens de pénitence et d'Eucharistie sont fidèlement exposez.}}'' Paris : A. Vitré, 1643. Full text in original French : [http://gallica.bnf.fr/ark:/12148/btv1b86262472]
+* ''{{lang|fr|[[Grammaire générale et raisonnée]] contenant les fondemens de l'art de parler, expliqués d'une manière claire et naturelle}}''. Paris : Prault fils l'aîné, 1754. Full text in original French : [http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-84320]
+* ''{{lang|fr|[[Port-Royal Logic|La logique ou l'art de penser]] contenant outre les règles communes, plusieurs observations nouvelles, propres à former le jugement}}''. Paris : G. Desprez, 1683. Full text in original French : [http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-57444]
+* ''{{lang|fr|La perpétuité de la Foy de l'Eglise catholique touchant l'Eucharist deffendue contre le livre du sieur Claude}}. Paris: Charles Savreux, 1669.
+
+==See also==
+{{portal bar|Biography|Catholicism|France}}
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{EB1911|wstitle= Arnauld|display=Arnauld s.v. Antoine—le grand Arnauld| volume=2 |pages=626-627}}
+
+==Further reading==
+*{{cite encyclopedia
+  | last = Nathan
+  | first = Henry
+  | title = Arnauld, Antoine
+  | encyclopedia = [[Dictionary of Scientific Biography]]
+  | volume = 1
+  | pages = 291–292
+  | publisher = Charles Scribner's Sons
+  | location = New York
+  | year = 1970
+  | isbn = 0-684-10114-9
+ }}
+
+==External links==
+{{Commons category|Antoine Arnauld}}
+*{{Internet Archive author |sname=Antoine Arnauld}}
+*{{cite SEP |url-id=arnauld |title=Antoine Arnauld |last=Kremer |first=Elmer}}
+*{{IEP|aarnauld|Antoine Arnauld|Eric Stencil}}
+*{{MacTutor Biography|id=Arnauld}}
+*[http://www.earlymoderntexts.com The Leibniz-Arnauld correspondence, slightly modified for easier reading]
+*{{Cite CE1913|wstitle=Arnauld |short=x}} - Has a significant section on Antoine
+
+{{Authority control}}
+
+{{DEFAULTSORT:Arnauld, Antoine}}
+[[Category:1612 births]]
+[[Category:1694 deaths]]
+[[Category:Writers from Paris]]
+[[Category:University of Paris alumni]]
+[[Category:17th-century French Catholic theologians]]
+[[Category:17th-century French philosophers]]
+[[Category:17th-century French mathematicians]]
+[[Category:17th-century French male writers]]
+[[Category:17th-century Christian mystics]]
+[[Category:Jansenists]]
+[[Category:Catholic philosophers]]
+[[Category:Roman Catholic mystics]]
+[[Category:French male writers]]
+[[Category:French male essayists]]
+[[Category:Cartesianism]]

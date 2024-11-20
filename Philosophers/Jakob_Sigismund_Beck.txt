@@ -1,0 +1,51 @@
+{{Short description|German philosopher (1761–1840)}}
+{{Infobox philosopher
+| region  = [[Western philosophy]]
+| era     = [[18th-century philosophy]]
+| image   =
+| caption = 
+| name    = Jakob Sigismund Beck
+| birth_date = {{birth date|1761|8|6|df=y}}
+| birth_place = [[Lisewo Malborskie|Liessau]] (Lisewo), [[Royal Prussia]], [[Polish–Lithuanian Commonwealth|Crown of Poland]]
+| death_date  = {{death date and age|1840|8|29|1761|8|6|df=y}}
+| death_place = [[Rostock]], [[Mecklenburg]], [[German Confederation]]
+| alma_mater  = [[University of Königsberg]]
+| institutions = 
+| school_tradition = [[Post-Kantian]] [[transcendental idealism]]<ref>Lior Nitzan, ''Jacob Sigismund Beck's Standpunctslehre and the Kantian Thing-in-itself Debate: The Relation Between a Representation and its Object'', Springer, 2014, p. 104.</ref>
+| main_interests   = [[Epistemology]]
+| influences       = [[Christian Jakob Kraus]], [[Johann Schultz]], [[Immanuel Kant]]
+| influenced       =
+| notable_ideas    = Doctrine of the standpoint (''Standpunctslehre'')<ref>George Di Giovanni, ''Between Kant and Hegel: Texts in the Development of Post-Kantian Idealism'', SUNY Press, 1985, pp. 36–38.</ref>
+| academic_advisors = [[Immanuel Kant]]
+}}
+'''Jakob Sigismund Beck''' (originally '''Jacob Sigismund Beck'''; 6 August 1761 – 29 August 1840) was a German [[philosopher]].
+
+==Biography==
+Beck was born in the village of [[Lisewo Malborskie|Liessau]] (Lisewo) in the rural district of [[Malbork|Marienburg]] (Malbork) in [[Royal Prussia]], [[Poland]] in 1761. The son of a priest (of Liessau), he studied (after 1783) [[mathematics]] and [[philosophy]] at the [[University of Königsberg]], where [[Christian Jakob Kraus]], [[Johann Schultz]], and [[Immanuel Kant]] were his teachers. After his studies he first accepted a post as a teacher at a grammar school in [[Halle, Saxony-Anhalt|Halle]]. With his thesis ''Dissertatio de Theoremate Tayloriano, sive de lege generali, secundum quam functionis mutantur, notatis a quibus pendent variabilibus'', which he wrote in Halle, he was qualified as a university lecturer. He then worked as a lecturer of philosophy at the [[University of Halle]] (1791–1799), before he became a professor of philosophy at the [[University of Rostock]]. He devoted himself to criticism and explanation of the doctrine of [[Immanuel Kant|Kant]], and in 1793 published the ''Erläuternder Auszug aus den kritischen Schriften des Herrn Prof. Kant, auf Anrathen desselben'' ([[Riga]], 1793–1796), which has been widely used as a compendium of [[Kantian]] doctrine.<ref name=EB1911/>
+
+Beck endeavoured to explain away certain of the contradictions which are found in Kant's system by saying that much of the language is used in a popular sense for the sake of intelligibility, e.g. where Kant attributes to [[things-in-themselves]] an existence under the conditions of time, space and causality, and yet holds that they furnish the material of our apprehensions. Beck maintains that the real meaning of Kant's theory is [[idealism]]; that knowledge of objects outside the domain of [[consciousness]] is impossible, and hence that nothing positive remains when we have removed the subjective element. Matter is deduced by the original [[Analytic–synthetic distinction|synthesis]]. Similarly, the idea of [[God]] is a [[symbol]]ic representation of the voice of [[conscience]] guiding from within. The value of Beck's exegesis has been to a great extent overlooked owing to the greater attention given to the work of [[J. G. Fichte]]. Beside the three volumes of the ''Erläuternder Auszug'', he published the ''Grundriss der kritischen Philosophie'' (1796), containing an interpretation of the Kantian ''Kritik'' in the manner of [[Salomon Maimon]].<ref name=EB1911>{{EB1911|wstitle=Beck, Jakob Sigismund|volume=3|page=608|inline=1}}</ref>
+
+Beck died in [[Rostock]].
+
+== Works ==
+* ''Erläuternder Auszug aus den Kritischen Schriften des Herrn Prof. Kant'' (1793–96), vol. 3: ''[https://books.google.com/books?id=tegGAAAAcAAJ Einzig-möglicher Standpunct, aus welchem die critische Philosophie beurtheilt werden muß]'' (1796)
+
+==Notes==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Beck, Jakob Sigismund}}
+[[Category:1761 births]]
+[[Category:1840 deaths]]
+[[Category:Philosophers from the Kingdom of Prussia]]
+[[Category:18th-century German philosophers]]
+[[Category:19th-century German philosophers]]
+[[Category:Writers from Gdańsk]]
+[[Category:People from Royal Prussia]]
+[[Category:University of Königsberg alumni]]
+[[Category:Academic staff of the University of Halle]]
+[[Category:German male writers]]
+[[Category:Kantian philosophers]]
+[[Category:Academic staff of the University of Rostock]]
+[[Category:German idealists]]

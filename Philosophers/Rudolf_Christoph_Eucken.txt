@@ -1,0 +1,119 @@
+{{short description|19th/20th-century German philosopher (1846–1926)}}
+{{Use dmy dates|date=August 2023}}
+{{Infobox philosopher
+|image = Eucken-im-Alter.png
+|name             = Rudolf Christoph Eucken
+|birth_date       = {{birth date|1846|1|5|df=y}}
+|birth_place      = [[Aurich]], Kingdom of Hanover, Germany
+|death_date       = {{death date and age|1926|9|14|1846|1|5|df=y}}
+|death_place      = [[Jena]], Thuringia, Germany
+|alma_mater       = [[Göttingen University]]<br>[[Berlin University]]
+|institutions     = [[University of Jena]]<br>[[University of Basel]]
+|school_tradition = [[Continental philosophy]]<br>[[German idealism]]
+|main_interests   = [[Ethics]]
+|notable_ideas    = ''Aktivismus'' ([[Ethical activism]])<ref name="Gibson">[[W. R. Boyce Gibson]], [https://books.google.com/books?id=RWc2V_JnKTMC&dq= ''Rudolf Eucken's Philosophy of Life''], Kessinger Publishing, 2004, p. 170.</ref><br>[[The Real#In philosophy|The Real]]
+|signature        = Rudolf Eucken (signature).jpg
+|awards           = [[Nobel Prize in Literature]] (1908)
+}}
+'''Rudolf Christoph Eucken''' ({{IPA|de|ˈʁuːdɔlf ˈʔɔʏkn̩|-|De-Rudolf Eucken.ogg}}; 5 January 1846{{snd}}14 September 1926<ref>{{cite web |url=https://www.nobelprize.org/prizes/literature/1908/eucken/facts/ |title= Rudolf Eucken |website=Rudolf Eucken Facts |access-date=3 June 2023}}</ref>) was a German [[philosopher]]. He received the [[1908 Nobel Prize in Literature]] "in recognition of his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life", after he had been nominated by a member of the [[Swedish Academy]].<ref>[https://www.nobelprize.org/nomination/archive/show.php?id=3471 nobelprize.org]</ref>
+
+==Early life==
+Eucken was born on 5 January 1846 in [[Aurich]], then in the [[Kingdom of Hanover]] (now [[Lower Saxony]]). His father, Ammo Becker Eucken died when he was a child, and he was brought up by his mother, Ida Maria (née Gittermann).<ref name="Bio2"/> He was educated at Aurich, where one of his teachers was the [[classical philologist]] and philosopher Ludwig Wilhelm Maximilian Reuter.<ref name=eb1911>{{EB1911|inline=y|wstitle=Eucken, Rudolf Christoph|volume=9|page=878}}</ref> He studied at [[Göttingen University]] (1863–1866), where [[Hermann Lotze]] was one of his teachers, and [[Humboldt University of Berlin|Berlin University]].<ref name="Bio2">{{cite web |title=Biografie Rudolf Christoph Eucken (German) |url=https://www.deutsche-biographie.de/sfz19591.html |access-date=5 August 2015 |publisher=Bayerische Nationalbibliothek}}</ref> In the latter place, [[Friedrich Adolf Trendelenburg]] was a professor whose ethical tendencies and historical treatment of philosophy greatly attracted him.
+
+==Career==
+Eucken received his [[PhD]] in classical [[philology]] and [[ancient history]] at [[Göttingen University]] in 1866 with a dissertation titled ''De Aristotelis dicendi ratione''.<ref>The dissertation is available [https://archive.org/details/dearistotelisdi00euckgoog online at Internet Archive].</ref> However, the inclination of his mind was definitely towards the philosophical side of [[theology]].<ref name="eb1911"/> In 1871, after five years working as a school teacher at [[Husum]], Berlin und [[Frankfurt]], he was appointed Professor of [[Philosophy]] at the [[University of Basel]], [[Switzerland]], succeeding another of his former teachers at Göttingen, [[Gustav Teichmüller]], and beating Friedrich Nietzsche in competition for the position. He stayed there until 1874 when he took up a similar position at the [[University of Jena]].<ref name="eb1911"/> He stayed there until he retired in 1920. In 1912–13, Eucken spent half of the year as an exchange professor at [[Harvard University]], and in 1913 he served as a Deem lecturer at [[New York University]].<ref>{{Cite book|url=https://books.google.com/books?id=L3Q7AQAAMAAJ&q=rudolf+eucken+harvard+university&pg=PA28|title=Harvard University Catalogue|last=University|first=Harvard|date=1912|publisher=The University.|language=en}}</ref><ref>{{Cite web|url=https://www.nobelprize.org/nobel_prizes/literature/laureates/1908/eucken-bio.html|title=Rudolf Eucken - Biographical|website=www.nobelprize.org|access-date=2018-03-14}}</ref> During [[World War I]], Eucken, like many of his academic colleagues, took a strong line in favour of the causes with which his country had associated itself.<ref name="Bio2"/><ref>{{Cite EB1922|wstitle=Eucken, Rudolf Christoph|volume=31|pages=13–14}}</ref><ref>{{Cite journal |last=Hiršs |first=Andris |date=2023 |title=FILOSOFA RŪDOLFA EIKENA VIZĪTE LATVIJĀ – NEIZPILDĪTĀ MISIJA |url=https://www.ceeol.com/search/article-detail?id=1248064 |journal=Religiski-filozofiski raksti |language=Latvian |volume=XXXIV |issue=1 |pages=134–155 |issn=1407-1908}}</ref>
+
+[[File:Aurich, Ostfriesland, Osterstraße 27, Geburtshaus von Rudolf Eucken (2).JPG|thumb|Birthplace of Rudolf Eucken in Aurich, Osterstraße 27 (September 2015)]]
+
+==Ethical activism<!--'Ethical activism' and 'Activism (Eucken)' redirect here--->==
+Eucken's philosophical work is partly historical and partly [[Moral constructivism|constructive]], the former side being predominant in his earlier, the latter in his later works. Their most striking feature is the close organic relationship between the two parts. The aim of the historical works is to show the necessary connection between philosophical concepts and the age to which they belong; the same idea is at the root of his constructive speculation. All philosophy is [[philosophy of life]], the development of a new culture, not mere [[intellectualism]], but the application of a vital religious inspiration to the practical problems of society. This practical idealism Eucken described by the term "'''ethical activism'''<!--boldface per WP:R#PLA-->."<ref name="Gibson"/> In accordance with this principle, Eucken gave considerable attention to social and educational problems.<ref name=eb1911/>
+
+He maintained that humans have [[soul]]s, and that they are therefore at the junction between nature and spirit. He believed that people should overcome their non-spiritual nature by continuous efforts to achieve a [[spirituality|spiritual]] life, another aspect of his [[ethical]] [[activism]] and [[meaning of life]].
+
+==Later life and death==
+Rudolf Eucken married Irene Passow in 1882 and had a daughter and two sons. His son [[Walter Eucken]] became a famous founder of [[Ordoliberalism|ordoliberal]] thought in [[Neoliberal economics|economics]]. His son [[Arnold Eucken]] was a chemist and physicist.<ref name="Bio2"/>
+
+Rudolf Eucken died on 15 September 1926 in [[Jena]] at the age of 80.<ref name="Bio2"/>
+
+==Major works==
+He was a prolific writer; his best-known works are:
+* [https://archive.org/details/dielebensanschau00euckuoft ''Die Lebensanschauungen der großen Denker''] (1890; 7th ed., 1907; 1918; Eng. trans., W. Hough and Boyce Gibson, ''The Problem of Human Life'', 1909) (The Problem of Human Life as Viewed by the Great Thinkers)
+* ''Der Kampf um einen geistigen Lebensinhalt'' (1896) (The Struggle for a Spiritual Content of Life)
+* [https://archive.org/details/derwahrheitsgeh00euckgoog ''Der Wahrheitsgehalt der Religion''] (1901) (The Truth of Religion)
+* [https://archive.org/details/grundlinieneine00euckgoog ''Grundlinien einer neuen Lebensanschauung''] (1907) (Life's Basis and Life's Ideal: The Fundamentals of a New Philosophy of Life)
+* [https://archive.org/stream/dersinnundwertde00euck#page/n3/mode/2up ''Der Sinn und Wert des Lebens''] (1908) (The Meaning and Value of Life)
+* ''Geistige Strömungen der Gegenwart'' (1908; first appeared in 1878 as [https://archive.org/details/diegrundbegriff01euckgoog ''Die Grundbegriffe der Gegenwart'']; Eng. trans. by M. Stuart Phelps, New York, 1880) (Main Currents of Modern Thought)
+* ''Können wir noch Christen sein?'' (1911) ([https://archive.org/details/canwestillbechri00euck Can We Still Be Christians?], 1914)
+* ''Present Day Ethics in their Relation to the Spiritual Life'' (1913) (Deem Lectures given at New York University)
+* ''Der Sozialismus und seine Lebensgestaltung'' (1920) ([https://archive.org/details/socialismanalysi00euck Socialism: an Analysis] (1922))
+
+Other notable works are:
+* ''Die Methode der aristotelischen Forschung'' (1872) (The Aristotelian Method of Research)
+* ''Geschichte der philosophische Terminologie'' (1879) (History of Philosophical Terminology)
+* ''Prolegomena zu Forschungen über die Einheit des Geisteslebens'' (1885) (Prolegomena to Research on the Unity of the Spiritual Life)
+* ''Beiträge zur Geschichte der neueren Philosophie'' (1886, 1905) (Contributions to the History of the Newer Philosophies)
+* ''Die Einheit des Geisteslebens'' (1888) (The Unity of the Spiritual Life)
+* [https://archive.org/details/thomasvonaquino00euck ''Thomas von Aquino und Kant''] (1901) (Thomas Aquinas and Kant)
+* ''Gesammelte Aufsätze zu Philosophische und Lebensanschauung (1903) (Collected Essays on Views of Philosophy and Life)
+* ''Philosophie der Geschichte'' (1907) (Philosophy of History)
+* ''Einführung in die Philosophie der Geisteslebens'' (1908; Eng. trans., The Life of the Spirit, F. L. Pogson, 1909, Crown Theological Library) (Introduction to the Philosophy of the Life of the Spirit)
+* [https://archive.org/details/hauptproblemeder00euckuoft ''Hauptprobleme der Religionsphilosophie der Gegenwart''] (1907) (Main Problems of the Current Philosophy of Religion)
+
+Other English translations of his work include:
+* ''Liberty in Teaching in the German Universities'' (1897)
+* ''Are the Germans still a Nation of Thinkers?'' (1898)
+* ''Progress of Philosophy in the 19th Century'' (1899)
+* ''The Finnish Question'' (1899)
+* ''The Present Status of Religion in Germany'' (1901)
+* [https://archive.org/stream/problemhumanlif01euckgoog#page/n8/mode/2up ''The Problem of Human Life as Viewed by the Great Thinkers from Plato to the Present Time''], Charles Scribner's Sons, 1909.
+* [https://archive.org/details/backtoreligion00euckrich ''Back to Religion''], 1912.
+* [https://archive.org/stream/maincurrentsmode00euckuoft#page/n5/mode/2up ''Main Currents of Modern Thought: A Study of the Spiritual and Intellectual Movements of the Present Day''], T. Fisher Unwin, 1912.
+* [https://archive.org/stream/themeaningandval00euckuoft#page/n5/mode/2up ''The Meaning and Value of Life''], A. and C. Black, 1913.
+* [https://archive.org/stream/canwestillbechri00euckrich#page/n5/mode/2up ''Can we Still be Christians?''], The Macmillan Company, 1914.
+* [https://archive.org/stream/collectedessayso00euckuoft#page/n7/mode/2up ''Collected Essays''], edited and translated by [[Meyrick Booth]], [[T. Fisher Unwin]], 1914.
+* [https://archive.org/details/knowledgelife00euck ''Knowledge and Life''] (translation), G.P. Putnam's Sons, 1914.
+
+He delivered lectures in England in 1911 and spent six months lecturing at [[Harvard University]] and elsewhere in the United States in 1912–1913.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Beck, Friedrich Alfred. ''Rudolf Eucken,'' Deutsche Buch-Gemeinschaft, 1927.
+* Booth, Meyrick. [https://archive.org/stream/cu31924029089377#page/n5/mode/2up ''Rudolf Eucken: His Philosophy and Influence,''] Charles Scribner's Sons, 1913.
+* Feuling, Daniel. [https://archive.org/stream/dublinreview155londuoft#page/62/mode/2up ''"Rudolf Eucken's Philosophy,"''] The Dublin Review, Vol. CLV, July/October, 1914.
+* Gibson, W. R. Boyce. [https://archive.org/stream/rudolfeuckensphi00gibs#page/n7/mode/2up ''Rudolf Eucken's Philosophy of Life,''] A. & C. Black, 1915.
+* Jones, Abel J. [https://archive.org/stream/rudolfeuckenphil00joneiala#page/n5/mode/2up ''Rudolf Eucken: A Philosophy of Life,''] T. C. & E. C. Jack, 1913.
+* Jones, W. Tudor. ''Rudolf Eucken: His Life and Philosophy,'' Haldeman-Julius Co., 1920.
+* MacSwiney, Margaret Mary. [https://archive.org/stream/rudolfeuckenspir00macsrich#page/n7/mode/2up ''Rudolf Eucken and the Spiritual Life,''] National Capital Press, 1915.
+
+==External links==
+* {{Commons-inline|Rudolf Eucken}}
+* [https://www.nobel-winners.com/Literature/rudolf_christoph.html Eucken, Rudolf Christoph] at Nobel-winners.com
+* {{Gutenberg author | id=42188| name=Rudolf Eucken}}
+* [http://noblib.internet-box.ch/NLEW.php?authorid=9 List of Works]
+* {{Internet Archive author |sname=Rudolf Christoph Eucken}}
+* {{Librivox author}}
+* {{PM20}}
+* {{Nobelprize}}
+
+{{Nobel Prize in Literature Laureates 1901-1925}}
+{{1908 Nobel Prize winners}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Eucken, Rudolf Christoph}}
+[[Category:1846 births]]
+[[Category:1926 deaths]]
+[[Category:German male writers]]
+[[Category:German Nobel laureates]]
+[[Category:19th-century German philosophers]]
+[[Category:German spiritualists]]
+[[Category:Harvard University staff]]
+[[Category:Humboldt University of Berlin alumni]]
+[[Category:Nobel laureates in Literature]]
+[[Category:People from Aurich]]
+[[Category:People from the Kingdom of Hanover]]
+[[Category:University of Göttingen alumni]]
+[[Category:Academic staff of the University of Jena]]
+[[Category:20th-century German philosophers]]

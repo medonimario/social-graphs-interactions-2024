@@ -1,0 +1,49 @@
+{{Short description|Russian philosopher, publicist, translator and teacher}}
+{{Infobox person
+| name               = Ivan Ivanovich Lapshin
+| image              = 
+| native_name        = Ива́н Ива́нович Лапши́н
+| birth_date         = {{birth date|1870|10|11|df=y}}
+| birth_place        = [[Moscow]], Russian Empire
+| death_date         = {{birth date and age|1952|11|17|df=y}}
+| death_place        = [[Prague]], Czechoslovakia
+| nationality        = Russian
+| education          = Saint Petersburg University
+| known_for          = Philosopher
+}}
+'''Ivan Ivanovich Lapshin''' (11 October 1870 – 17 November 1952) was a Russian philosopher, publicist, translator and teacher.
+
+==Biography==
+Lapshin was born on 11 October in [[Moscow]]. He graduated with his Masters from the Faculty of History and Philology of [[Saint Petersburg State University|St. Petersburg University]], where he worked mainly under the guidance of Professor Alexander Ivanovich Vvedensky<small>([[:ru:Введенский, Александр Иванович (философ)|rus]])</small>.
+
+In the autumn of 1892, he presented his first major work, The Controversy between [[Pierre Gassendi|Gassendi]] and [[René Descartes|Descartes]] on the Meditation (300 pages), for consideration at the faculty. In 1893, at the end of the course, he was left at the university at the department of philosophy "to prepare for a professorship."
+
+He taught logic at the Alexander Lyceum, psychology at women's gymnasiums; the history of pedagogical theories at higher women's and military pedagogical courses. In 1906, he was awarded a Doctorate in Philosophy with his dissertation, "The Laws of Thought and Forms of Cognition."<ref name=":0">{{Cite web |title=Лапшин Иван Иванович |url=https://bioslovhist.spbu.ru/person/420-lapshin-ivan-ivanovich.html |access-date=2023-07-13 |website=bioslovhist.spbu.ru}}</ref>
+
+At St. Petersburg University, he taught courses on the history of pedagogical theories, on the critical [[Epistemology|theory of knowledge]], on the history of [[skepticism]], and on the history of philosophy in the 19th century. He also supervised the practical classes of students on the study of [[Immanuel Kant|Kant]] (analysis of the works " Prolegomena " and "[[Critique of Pure Reason]]" ).
+
+He taught philosophical subjects at the Pedagogical Institute and the history of philosophy in the courses of Professor [[Peter Lesgaft]].
+
+In 1922 he was expelled from Soviet Russia on a "philosophical ship." Beginning in 1923 in Czechoslovakia, he began to be a professor at the Russian Faculty of Law, later at the Russian National University in Prague. While in [[Prague]], he participated in the group known as the "Zbraslav Fridays literary and musical association."<ref name=":0" /> He died on 17 November 1952 in Prague, at the age of 82.
+
+== References==
+{{Reflist}}
+
+==External links==
+* [http://www.hrono.ru/biograf/bio_l/lapshin.html About Ivan Lapshin]
+* [http://kolesnikovx.narod.ru/philosophy/lapshin_ivan_ivanovich/ Major works by Ivan Lapshin]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lapshin, Ivan Ivanovich}}
+[[Category:1952 deaths]]
+[[Category:1870 births]]
+[[Category:Writers from Moscow]]
+[[Category:Burials at Olšany Cemetery]]
+[[Category:White Russian emigrants to Czechoslovakia]]
+[[Category:Denaturalized citizens of the Soviet Union]]
+[[Category:Fyodor Dostoyevsky scholars]]
+[[Category:Russian historians of philosophy]]
+[[Category:20th-century philosophers]]
+[[Category:19th-century philosophers from the Russian Empire]]
+[[Category:20th-century Russian philosophers]]

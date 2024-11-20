@@ -1,0 +1,73 @@
+{{Short description|Georgian philosopher}}
+{{Redirect|Mamardashvili|the goalkeeper|Giorgi Mamardashvili}}
+{{One source|date=February 2021}}
+{{infobox philosopher
+|image=Merab mamardashvili.jpg
+|caption=Merab Mamardashvili on the cover of his book ''The Arrow of Cognition''
+|birth_date=September 15, 1930
+|death_date= November 25, 1990}}
+
+'''Merab Mamardashvili''' ({{lang-ka|მერაბ მამარდაშვილი}}, ; September 15, 1930 – November 25, 1990) was a [[Georgia (country)|Georgian]] [[philosophy|philosopher]].
+
+==Biography==
+He was born in [[Gori, Georgia|Gori]] (Eastern [[Georgia (country)|Georgia]]). In 1955, he graduated from the Faculty of Philosophy, [[Moscow State University]]. From 1968 to 1987, he was a deputy editor of the scientific journal "Voprosy Filosofii" ("Questions of Philosophy"). He became a professor at the Moscow State University and a senior research fellow at the [[Moscow]] Institute of Philosophy of the [[Russian Academy of Science]]. From 1987 to 1990, Mamardashvili was head of the Department at the [[Akaki Tsereteli|Tsereteli]] Institute of Philosophy, at the [[Georgian Academy of Sciences]] and a Professor at the [[Tbilisi State University]].
+
+He died from a heart attack at Moscow [[Vnukovo airport]] on November 25, 1990, and was buried in [[Tbilisi]] in a family grave, at the Saburtalo cemetery. In May 2001, a monument to him was unveiled in [[Tbilisi]].
+
+==Philosophical activity==
+In his life, only a few books were published, his lectures (for his style of lecturing, he and others called them "dialogues" or "conversations", and he was called "Russian (or Georgian) [[Socrates]]") were taped and published after his death by his disciple Yuri Senokosov, co-founder with Elena Nemirovskaya of the former Moscow School of Political Studies [https://www.coe.int/en/web/schools-political-studies/about-the-schools]. Lecturing abroad, Mamardashvili gave talks in [[Germany]], [[France]], and other countries. 
+
+Influenced by [[René Descartes]] and classical [[German philosophy]] (especially [[Immanuel Kant]]), Mamardashvili contributed to the [[rationalism|rationalist]] theory of perception. His main research fields were the general [[gnoseology|gnoseological]] notion of processes of analysis and synthesis, the [[methodology]] of science and the historic-philosophical studies, the role of consciousness in social being, the relationship between consciousness and the aesthetics, and the overall meta-theory of language and consciousness. He considered consciousness the ultimate subject of philosophy. Some of the most famous phrases coined by Mamardashvili are: "consciousness is paradoxicalness impossible to get used to",<ref>{{Cite web|url=http://philosophy.ru/library/mmk/paradox.html|archive-url=https://web.archive.org/web/20130328102318/http://philosophy.ru/library/mmk/paradox.html|archive-date=2013-03-28|title=Philosophy.ru}}</ref> "consciousness is an experience of inexperiencible experiences", "phenomenology is the accompanying feature of all of philosophy", "loneliness is my profession" and so on.
+
+In the preview to the edition of the major compilation of his works in 2002, he was introduced as "one of the most interesting contemporary philosophers, a man of impeccable style, magical fascination and rare kindness". It was also noted there that all of his interests were concentrated around the human [[personality]], its [[freedom]] and [[duty|responsibility]], and the role of philosophy in life and its place in culture.
+
+== Bibliography ==
+* ''The process of analysis and synthesis'' (1958)("Процессы анализа и синтеза") 
+* ''Forms and Contents of Thinking'' (1968) (''Формы и содержание мышления'')
+* ''Converted form'' [1970] ( "Форма превращенная" - article for the Encyclopedia of Philosophy)
+* ''Symbol and Consciousness''  (''Символ и сознание''), (1974), together with [[Alexander Piatigorsky|A. Piatigorsky]] (published 1982)
+* ''The Problem of Objective Method in Psychology'' (1977)
+*  ''The Arrow of Cognition'' (1978) 
+* ''Classic and Non-classic Ideals of Rationality'' (1984) (''Классические и неклассические идеалы рациональности'') 
+* ''Phenomenology and its Role in Contemporary Philosophy'' (1988)
+* ''How Do I Understand Philosophy?'' (1990) (''Как я понимаю философию'') 
+* ''Kantian Themes'' (1990) ("Кантианские вариации", published 1991 in the philosophical almanac "Quintessence" p.&nbsp;120-158)
+* ''Conscious and the Philosophical Calling'' (1988)
+* ''Cartesian Meditations''[1986] (published 1993) (''Картезианские размышления'')
+*  ''Aesthetics of Thinking'' [1987](published 1993) ("Эстетика мышления")
+* ''Psychological Topology of Path (Lectures on [[Proust]])[1981] (published 1997) (''Психологическая топология пути'' (''Лекции о Прусте''))
+
+== Documentaries ==
+* ''Socrates in a duel'' (dir. Tamara Dularidze)
+* ''Georgian Kant'' (dir. Olga Rolengoff)
+* ''The way home'' (dir. Nikolai Drozdov)
+* ''Time of Merab'' (dir. Olesya Fokina)
+* ''Merab Mamardashvili'' (dir. Valery Balayan)
+
+== See also ==
+
+* [[Evald Ilyenkov]]
+* [[List of Georgians]]
+* [[Philosophy in the Soviet Union]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20100712050829/http://car.owu.edu/pdfs/1989-2-3.pdf A 1989 Interview] from ''The Civic Arts Review'' journal of [[Ohio Wesleyan University]]
+* [https://web.archive.org/web/20031204140528/http://english.pravda.ru/culture/2001/05/26/6010.html About the monument]
+* [http://www.isfp.co.uk/russian_thinkers/merab_mamardashvili.html Merab Mamardashvili at the Gallery of ISFP]
+* [https://www.hse.ru/pubs/share/direct/demo_document/138019057 Merab Mamardashvili’s Philosophy of Consciousness]
+{{Authority control}}
+
+{{DEFAULTSORT:Mamardashvili, Merab}}
+[[Category:1930 births]]
+[[Category:1990 deaths]]
+[[Category:20th-century Russian  philosophers]]
+[[Category:Exophonic writers]]
+[[Category:Philosophers from Georgia (country)]]
+[[Category:Moscow State University alumni]]
+[[Category:People from Gori, Georgia]]
+[[Category:Soviet philosophers]]
+[[Category:Academic staff of Tbilisi State University]]
+[[Category:Academic staff of High Courses for Scriptwriters and Film Directors]]

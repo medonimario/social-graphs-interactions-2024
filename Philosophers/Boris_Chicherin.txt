@@ -1,0 +1,69 @@
+{{Short description|Russian philosopher and jurist (1828–1904)}}
+{{Infobox officeholder
+| name                = Boris Chicherin
+| image               = Boris_Chicherin.jpg
+| image_size          = 
+| caption             = 
+| office              = [[List of heads of Moscow government#Gorodskoy golova|Moscow's Gorodskoy Golova]]
+| term_start          = 22 December 1881
+| term_end            = 11 August 1883
+| predecessor         = [[Sergei Tretyakov (arts patron)|Sergei Tretyakov]]
+| successor           = Mikhail Fedorovich Ushakov
+| birth_name          = 
+| birth_date          = {{OldStyleDate|7 June|1828|26 May}}
+| birth_place         = [[Tambov Governorate|Tambov]], [[Russian Empire]]
+| death_date          = {{OldStyleDate|16 February|1904|3 February}} (aged 75)
+| death_place         = 
+| death_cause         = 
+| resting_place       = 
+| relatives           = [[Georgy Chicherin]] (nephew)
+| parents             = Nikolai Vasilyevich Chicherin<br>Ekaterina Borisovna Khvoshchinskaya 
+| relations           = [[Chicherins]] ([[:ru:Чичерины|ru]])
+| alma_mater          = {{nowrap|[[Imperial Moscow University]] (1849)}}
+| party               = 
+| occupation          = {{hlist|Jurist|Philosopher|Historian|Politician}}
+| signature           = 
+}}
+
+'''Boris Nikolayevich Chicherin''' ({{langx|ru|Бори́с Никола́евич Чиче́рин}}; {{OldStyleDateNY|7 June|26 May}} 1828 – {{OldStyleDateNY|16 February|3 February}} 1904) was a Russian jurist and political philosopher, who worked out a theory that Russia needed a strong, authoritative government to persevere with liberal reforms. By the time of the [[October Revolution|Russian Revolution]], Chicherin was probably the most reputable legal philosopher and historian in Russia.
+
+==Biography==
+Chicherin was born in [[Tambov Governorate|Tambov]], where his noble ancestors had been residing for many centuries. In 1849, he matriculated from the law department of the [[Moscow University]]. On insistence of Dr. [[Timofey Granovsky]], he continued to work in the university as a professor of Russian law. Together with his friend [[Konstantin Kavelin]], he penned a comprehensive program of [[Russian liberalism]] which was published by [[Alexander Herzen]] in [[London]].
+
+Chicherin was a great champion of [[Alexander II of Russia|Alexander II]]'s reforms of the 1860s, hailing them as "the best monument of Russian legislation". He said the tsar had been:
+:called upon to execute one of the hardest tasks which can confront an autocratic ruler: to completely remodel the enormous state which had been entrusted to his care, to abolish an age-old order founded on slavery, to replace it with civic decency and freedom, to establish justice in a country which it never known the meaning of legality, to redesign the entire administration, to introduce freedom of the press in the context of untrammeled authority, to call new forces to life at every turn and set them on firm legal foundations, to put a repressed and humiliated society on its feet and to give at the chance to flex its muscles.<ref>Quoted in David Saunders, ‘’Russia in the age of reaction and reform: 1801–1881’’ (1992) p. 213</ref>
+
+Chicherin published the ''Regional Administration of 17th-century Russia'' in 1856, followed by the treatise ''On Popular Representation'' 10 years later. Chicherin's mature works, imbued with [[Hegel]]'s thought as they were, advocated the [[constitutional monarchy]] as an ideal form of government for [[Russia]].
+
+In 1868, Chicherin resigned his position at the university as a protest against government repressions and settled in his estate near [[Tambov]]. It was here that he wrote several volumes of his bulky ''History of Political Theories''. Its magnificent literary style was acclaimed by such masters as [[Ivan Turgenev]] and [[Leo Tolstoy]].
+
+Later, Chicherin returned to [[Moscow]], where he was elected the city [[mayor]] in 1882. At that period, he supported Alexander's harsh measures in [[Poland]] and the tsar's struggle against radical revolutionaries. His speech at [[Alexander III of Russia|Alexander III]]'s coronation in the [[Kremlin]] was interpreted as too liberal, however, and he was forced to resign. He spent his last years writing 4 volumes of memoirs and some books on [[chemistry]], [[zoology]], and [[geometry]].
+The memoirs have been reprinted by Oriental Research Partners (Newtonville, MA) in 1974 with a new introduction on Chicherin's life by Prof. D. Hammer, Indiana University.
+
+The revolutionary [[Georgy Chicherin]], later Soviet Foreign Minister, was Boris Chicherin's nephew.
+
+==See also==
+*[[List of Russian legal historians]]
+
+==References==
+*Hamburg, G. M. ''Boris Chicherin and Early Russian Liberalism, 1828–1866'' (Stanford: Stanford Univ. Press, 1992). {{ISBN|0-8047-2053-3}}
+
+==External links==
+{{commons category|Boris Nikolaevich Chicherin}}
+*{{in lang|ru}} [https://archive.today/20130416175914/http://www.cultinfo.ru/fulltext/1/001/007/114/114015.htm Extensive entry in the Brockhaus-Efron Encyclopaedia]
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chicherin, Boris}}
+[[Category:1828 births]]
+[[Category:1904 deaths]]
+[[Category:Historians from the Russian Empire]]
+[[Category:Philosophers from the Russian Empire]]
+[[Category:Politicians from the Russian Empire]]
+[[Category:Imperial Moscow University alumni]]
+[[Category:Legal historians]]
+[[Category:Liberals from the Russian Empire]]
+[[Category:Mayors of Moscow]]

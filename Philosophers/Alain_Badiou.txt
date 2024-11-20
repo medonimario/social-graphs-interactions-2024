@@ -1,0 +1,389 @@
+{{Short description|French writer and philosopher (born 1937)}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[Contemporary philosophy]]
+| image            = Alain Badiou-2.jpg
+| caption          = Alain Badiou, 2012
+| name             = Alain Badiou
+| birth_date       = {{birth date and age|df=yes|1937|1|17}}
+| birth_place      = [[Rabat]], [[French Morocco]]
+| education        = [[École Normale Supérieure]] ([[Bachelor of Arts|B.A.]], [[Master of Arts|M.A.]])
+| institutions     = [[University of Reims Champagne-Ardenne|University of Reims]]<br />[[University of Paris VIII]]<br />[[École Normale Supérieure|École normale supérieure]]
+| school_tradition = [[Continental philosophy]]<br />[[Maoism]]<ref>{{Cite web|title=Alain Badiou: "Mao thinks in an almost infinite way"|url=https://www.versobooks.com/blogs/2033-alain-badiou-mao-thinks-in-an-almost-infinite-way|access-date=2021-11-19|website=Versobooks.com}}</ref><br />[[Marxism]]<br />[[Modern Platonism]]<ref>Sean Bowden, ''Badiou and Philosophy'', Edinburgh University Press, 2012, p. 63.</ref>        
+| main_interests   = [[Set theory]], [[category theory]], [[topos theory]], [[history of philosophy]], [[philosophy of mathematics]], [[metapolitics]], [[metaphysics]]/[[ontology]], [[psychoanalysis]]
+| notable_ideas    = [[Event (philosophy)|Event]], ontology of the multiple, [[Mathematicism|ontology is mathematics]], the [[Henology|One]] is not, count-as-one, [[metapolitics]]
+| signature        =
+}}
+{{Maoism sidebar |expanded=people}}
+'''Alain Badiou''' ({{IPAc-en|b|ɑː|ˈ|d|j|uː}};<ref>[https://www.youtube.com/watch?v=t06-LktfOEw "Radical thinkers: Alain Badiou's Ethics"]<!--at 0:10--></ref> {{IPA|fr|alɛ̃ badju|lang|Fr-Alain Badiou.oga}}; born 17 January 1937) is a French philosopher, formerly chair of Philosophy at the [[École Normale Supérieure|École normale supérieure]] (ENS) and founder of the faculty of Philosophy of the [[Université de Paris VIII]] with [[Gilles Deleuze]], [[Michel Foucault]] and [[Jean-François Lyotard]]. Badiou's work is heavily informed by philosophical applications of mathematics, in particular set theory and category theory.  Badiou's "Being and Event" project considers the concepts of [[being]], [[truth]], [[Event (philosophy)|event]] and the [[Subject (philosophy)|subject]] defined by a rejection of linguistic relativism seen as typical of postwar French thought. Unlike his peers, Badiou openly believes in the idea of universalism and truth.  His work is notable for his widespread applications of various conceptions of indifference.  Badiou has been involved in a number of political organisations, and regularly comments on political events. Badiou argues for a return of [[communism]] as a political force.<ref>{{cite book|title=Philosophy and the Idea of Communism|last1=Badiou|first1=Alain|last2=Engelmann|first2=Peter|date=27 March 2015|publisher=Polity Press|isbn=978-0745688367|language=en}}<!--|access-date=23 April 2016--></ref>
+
+==Biography==
+Badiou is the son of the mathematician {{ill|Raymond Badiou|fr|vertical-align=sup}} (1905–1996), who was a working member of the [[French Resistance|Resistance]] in France during [[World War II]]. Alain Badiou was a student at the [[Lycée Louis-Le-Grand]] and then the [[École Normale Supérieure]] (1955–1960).<ref>Tzuchien Tho, Giuseppe Bianco, ''Badiou and the Philosophers: Interrogating 1960s French Philosophy'', A&C Black, 2013, pp. xvii.</ref> In 1960, he wrote his ''{{Interlanguage link|diplôme d'études supérieures|fr}}'' (roughly equivalent to an [[Master of Arts|MA]] thesis) on [[Baruch Spinoza|Spinoza]] for [[Georges Canguilhem]] (the topic was "Structures of Demonstration in the First Two Books of Spinoza's [[Ethics (Spinoza)|Ethics]]", "Structures démonstratives dans les deux premiers livres de l'Éthique de Spinoza").<ref>Tzuchien Tho, Giuseppe Bianco, ''Badiou and the Philosophers: Interrogating 1960s French Philosophy'', A&C Black, 2013, pp. xviii–xix.</ref> He taught at the lycée in [[Reims]] from 1963 where he became a close friend of fellow playwright (and philosopher) [[François Regnault]],<ref name="cahiers">[http://www.web.mdx.ac.uk/cahiers/names/regnault.html François Regnault Homepage at Cahiers pour l'Analyse] {{webarchive|url=https://web.archive.org/web/20100818130430/http://www.web.mdx.ac.uk/cahiers/names/regnault.html |date=18 August 2010 }}</ref> and published two novels before moving first to the faculty of letters of the [[University of Reims Champagne-Ardenne|University of Reims]] (the ''collège littéraire universitaire'')<ref>{{Cite web|url=http://alain-badiou.jimdo.com/|title=La chronobiographie|website=alain-badiou|language=fr-FR|access-date=2018-02-24}}</ref> and then to the [[University of Paris VIII]] (Vincennes-Saint Denis) in 1969.<ref name="www.web.mdx.ac.uk">[http://www.web.mdx.ac.uk/cahiers/names/badiou.html Badiou Homepage at Concept and Form: The Cahiers pour l'Analyse and Contemporary French Thought] {{webarchive|url=https://web.archive.org/web/20100417154037/http://www.web.mdx.ac.uk/cahiers/names/badiou.html |date=17 April 2010 }}</ref> Badiou was politically active very early on, and was one of the founding members of the [[Unified Socialist Party (France)|Unified Socialist Party]] (PSU). The PSU was particularly active in the struggle for the [[decolonization]] of Algeria. He wrote his first novel, ''Almagestes'', in 1964. In 1967 he joined a study group organized by [[Louis Althusser]], became increasingly influenced by [[Jacques Lacan]] and became a member of the editorial board of ''[[Cahiers pour l'Analyse]]''.<ref name="www.web.mdx.ac.uk"/> By then he "already had a solid grounding in mathematics and logic (along with [[Lacanianism|Lacanian theory]])",<ref name="www.web.mdx.ac.uk"/> and his own two contributions to the pages of ''Cahiers'' "anticipate many of the distinctive concerns of his later philosophy".<ref name="www.web.mdx.ac.uk"/>
+
+The [[May 1968 in France|student uprisings of May 1968]] reinforced Badiou's commitment to the far Left, and he participated in increasingly militant groups, such as the {{ill|Union des communistes de France marxiste-léniniste|fr|vertical-align=sup}} (UCFml). To quote Badiou himself, the UCFml is "the [[Maoist]] organization established in late 1969 by [[Natacha Michel]], [[Sylvain Lazarus]], myself and a fair number of young people".<ref>{{cite book |last=Badiou |first=Alain |others=translated by David Macey and Steve Corcoran |title=The Communist Hypothesis |year=2010 |type=pbk |publisher=Verso |isbn=978-1-84467-600-2 |page=58 |chapter=Part I: "We Are Still the Contemporaries of May '68"}}</ref> During this time, Badiou joined the faculty of the newly founded University of Paris VIII (Vincennes-Saint Denis) which was a bastion of counter-cultural thought. There he engaged in fierce intellectual debates with fellow professors [[Gilles Deleuze]] and [[Jean-François Lyotard]], whose philosophical works he considered unhealthy deviations from the Althusserian program of a scientific [[Marxism]].
+
+In the 1980s, as both Althusserian [[structural Marxism]] and [[Lacanian psychoanalysis]] went into decline (after Lacan died and Althusser was committed to a psychiatric hospital), Badiou published more technical and [[abstraction|abstract]] philosophical works, such as ''Théorie du sujet'' (1982), and his magnum opus, ''Being and Event'' (1988). Nonetheless, Badiou has never renounced Althusser or Lacan, and sympathetic references to Marxism and psychoanalysis are not uncommon in his more recent works (most notably ''Petit panthéon portatif'' / ''Pocket Pantheon'').<ref name="Pantheon _Lacan">Badiou, Alain. "Jacques Lacan." ''Pocket Pantheon.'' Trans. David Macey. London: Verso, 2009</ref><ref name="Pantheon_Althusser">Badiou, Alain. "Louis Althusser." ''Pocket Pantheon.'' Trans. David Macey. London: Verso, 2009</ref>
+
+He took up his current position at the ENS in 1999. He is also associated with a number of other institutions, such as the [[Collège International de Philosophie]]. He was a member of {{ill|L'Organisation Politique|fr|Organisation politique|vertical-align=sup}} which, as mentioned above, he founded in 1985 with some comrades from the Maoist UCFml. This organization disbanded in 2007, according to the French Wikipedia article (linked to in the previous sentence). In 2002, he was a co-founder of the Centre International d'Etude de la Philosophie Française Contemporaine, alongside [[Yves Duroux]] and his former student [[Quentin Meillassoux]].<ref>{{cite web|url=http://www.ciepfc.fr/spip.php?article83|access-date=24 January 2014|title=Quentin Meillassoux|publisher=CIEFPC|url-status=dead|archive-url=https://web.archive.org/web/20110908155453/http://www.ciepfc.fr/spip.php?article83|archive-date=8 September 2011}}</ref> Badiou has also enjoyed success as a dramatist with plays such as ''Ahmed le Subtil''.
+
+In the last decade, an increasing number of Badiou's works have been translated into English, such as ''Ethics'', ''Deleuze'', ''Manifesto for Philosophy'', ''Metapolitics'', and ''Being and Event''. Short pieces by Badiou have likewise appeared in American and English periodicals, such as ''[[Lacanian Ink]]'', ''[[New Left Review]]'', ''[[Radical Philosophy]]'', ''[[Cosmos and History]]'' and ''Parrhesia''. Unusually for a contemporary European philosopher his work is increasingly being taken up by militants in countries like India, the Democratic Republic of Congo and South Africa.{{Citation needed|date=December 2014}}
+
+In 2014–15, Badiou had the role of Honorary President at [[The Global Center for Advanced Studies]].<ref name="gcas">{{cite web |url=https://globalcenterforadvancedstudies.org/member/alain-badiou/ |title=Alain Badiou. Member Page. |publisher=The Global Center for Advanced Studies |access-date=23 April 2016 |archive-url=https://web.archive.org/web/20160328072024/https://globalcenterforadvancedstudies.org/member/alain-badiou/ |archive-date=28 March 2016 |url-status=dead}}</ref>
+
+== Key concepts ==
+{{Original research section|date=August 2018}}
+Badiou makes repeated use of several concepts throughout his philosophy, which he discerns from close readings of the philosophical literature from the classical period. His own method cannot be fully understood if it is not situated within the tradition of French academic philosophy. Badiou's work engages a detailed decrypting of texts, in line with philosophers such as  [[Michel Foucault|Foucault]], [[Deleuze]], [[Étienne Balibar|Balibar]], [[Bourdieu]], [[Derrida]], [[Jacques Bouveresse|Bouveresse]] and [[Pascal Engel|Engel]], all of whom he studied with at the Ecole Normale Superieure.
+
+One of the aims of his thought is to show that his categories of truth are useful for any type of philosophical critique. Therefore, he uses them to interrogate art and history as well as ontology and scientific discovery. Johannes Thumfart argues that Badiou's philosophy can be regarded as a contemporary reinterpretation of [[Platonism]].<ref>{{cite web|url=https://www.lacan.com/symptom9_articles/thumfart9.html |last=Thumfart | first=Johannes | title=Learning from Las Vegas: Badiou's Platonism Today |publisher=The Symptom 9. Lacan.com |access-date=11 August 2020}}</ref>
+
+===Conditions===
+According to Badiou, philosophy is suspended from four conditions (art, love, politics, and science), each of them fully independent "truth procedures." (For Badiou's notion of truth procedures, see below.) Badiou consistently maintains throughout his work (but most systematically in ''[[Manifesto for Philosophy]]'') that philosophy must avoid the temptation to suture itself ('sew itself', that is, to hand over its entire intellectual effort) to any of these independent truth procedures. When philosophy does suture itself to one of its conditions (and Badiou argues that the history of philosophy during the nineteenth and twentieth centuries is primarily a history of sutures), what results is a philosophical "disaster." Consequently, philosophy is, according to Badiou, a thinking of the ''compossibility'' of the several truth procedures, whether this is undertaken through the investigation of the intersections between distinct truth procedures (the intersection of art and love in the novel, for instance), or whether this is undertaken through the more traditionally philosophical work of addressing categories like truth or the subject (concepts that are, as concepts, external to the individual truth procedures, though they are functionally operative in the truth procedures themselves). For Badiou, when philosophy addresses the four truth procedures in a genuinely philosophical manner, rather than through a suturing abandonment of philosophy as such, it speaks of them with a theoretical terminology that marks its philosophical character: "inaesthetics" rather than art; metapolitics rather than politics; ontology rather than science; etc.
+
+[[Truth]], for Badiou, is a specifically philosophical category. While philosophy's several conditions are, on their own terms, "truth procedures" (i.e., they produce truths as they are pursued), it is only philosophy that can speak of the several truth procedures ''as'' truth procedures. (The lover, for instance, does not think of her love as a question of truth, but simply and rightly as a question of love. Only the philosopher sees in the true lover's love the unfolding of a truth.) Badiou has a very rigorous notion of truth, one that is strongly against the grain of much of contemporary European thought. Badiou at once embraces the traditional modernist notion that truths are genuinely invariant (always and everywhere the case, eternal and unchanging) and the incisively postmodernist notion that truths are constructed through processes. Badiou's theory of truth, exposited throughout his work, accomplishes this strange mixture by uncoupling invariance from self-evidence (such that invariance does not imply self-evidence), as well as by uncoupling constructedness from relativity (such that constructedness does not lead to relativism).
+
+The idea, here, is that a truth's invariance makes it genuinely indiscernible: because a truth is everywhere and always the case, it passes unnoticed unless there is a rupture in the laws of being and appearance, during which the truth in question becomes, but only for a passing moment, discernible. Such a rupture is what Badiou calls an event, according to a theory originally worked out in ''[[Being and Event]]'' and fleshed out in important ways in ''[[Logics of Worlds]]''. The individual who chances to witness such an event, if he is faithful to what he has glimpsed, can then introduce the truth by naming it into worldly situations. For Badiou, it is by positioning oneself to the truth of an event that a human animal becomes a [[Subject (philosophy)|subject]]; subjectivity is not an inherent human trait. According to a process or procedure that subsequently unfolds only if those who subject themselves to the glimpsed truth continue to be faithful in the work of announcing the truth in question, genuine knowledge is produced (knowledge often appears in Badiou's work under the title of the "veridical"). While such knowledge is produced in the process of being faithful to a truth event, for Badiou, knowledge, in the figure of the encyclopedia, always remains fragile, subject to what may yet be produced as faithful subjects of the event produce further knowledge. According to Badiou, truth procedures proceed to infinity, such that faith (fidelity) outstrips knowledge. (Badiou, following both [[Jacques Lacan|Lacan]] and [[Heidegger]], distances truth from knowledge.) The dominating ideology of the day, which Badiou terms "democratic materialism," denies the existence of truth and only recognizes "[[Physical body|bodies]]" and "[[languages]]." Badiou proposes a turn towards the "[[materialist dialectic]]," which recognizes that there are only bodies and languages, ''except'' there are also truths.
+
+===Inaesthetic===
+In ''Handbook of Inaesthetics'' Badiou both draws on the original Greek meaning and the later Kantian concept of  "aesthesis" as "material perception"  and coins the phrase "inaesthetic" to refer to a concept of artistic creation that denies "the reflection/object relation" yet, at the same time, in reaction against the idea of [[mimesis]], or poetic reflection of "nature", he affirms that art is "immanent" and "singular". Art is immanent in the sense that its truth is given in its immediacy in a given work of art, and singular in that its truth is found in art and art alone{{snd}}hence reviving the ancient materialist concept of "aesthesis". His view of the link between philosophy and art is tied into the motif of pedagogy, which he claims functions so as to "arrange the forms of knowledge in a way that some truth may come to pierce a hole in them". He develops these ideas with examples from the prose of [[Samuel Beckett]] and the poetry of [[Stéphane Mallarmé]] and [[Fernando Pessoa]] (who he argues has developed a body of work that philosophy is currently incapable of incorporating), among others.
+
+==''Being and Event''<!--'Being and Event' redirects here-->==
+The major propositions of Badiou's philosophy all find their basis in ''Being and Event'', in which he continues his attempt (which he began in ''Théorie du sujet'') to reconcile a notion of the subject with ontology, and in particular [[post-structuralism|post-structuralist]] and [[Constructivist epistemology|constructivist]] ontologies.<ref>See here Feltham and Clamens's introduction in Badiou's book ''Infinite Thought'', Continuum (2004)</ref> A frequent criticism of post-structuralist work is that it prohibits, through its fixation on [[semiotics]] and language, any notion of a subject. Badiou's work is, by his own admission,<ref>See Badiou's book ''Infinite Thought'', Continuum (2004)</ref> an attempt to break out of contemporary philosophy's fixation upon language, which he sees almost as a straitjacket. This effort leads him, in ''Being and Event'', to combine rigorous mathematical formulae with his readings of poets such as [[Stéphane Mallarmé|Mallarmé]] and [[Friedrich Hölderlin|Hölderlin]] and religious thinkers such as [[Blaise Pascal|Pascal]]. His philosophy draws upon both 'analytical' and 'continental' traditions. In Badiou's own opinion, this combination places him awkwardly relative to his contemporaries, meaning that his work had been only slowly taken up.<ref>See here Badiou's comments in the introduction to the English version of ''Being and Event'', Continuum (2005)</ref> ''Being and Event'' offers an example of this slow uptake, in fact: it was translated into English only in 2005, a full seventeen years after its French publication.
+
+As is implied in the title of the book, two elements mark the thesis of ''Being and Event'': the place of ontology, or 'the science of being qua being' (being in itself), and the place of the event – which is seen as a rupture in being – through which the subject finds realization and reconciliation with truth. This situation of being and the rupture which characterizes the event are thought in terms of [[set theory]], and specifically [[Zermelo–Fraenkel set theory]] with the [[axiom of choice]]. In short, the event is a truth caused by a hidden "part" or set appearing within existence; this part escapes language and known existence, and thus being itself lacks the terms and resources to fully process the event.
+
+===Mathematics as ontology===
+{{Original research section|date=December 2014}}
+For Badiou the problem which the [[Greek philosophy|Greek]] tradition of philosophy has faced and never satisfactorily dealt with is that while beings themselves are plural, and thought in terms of multiplicity, being itself is thought to be singular; that is, ''it'' is thought in terms of the one. He proposes as the solution to this impasse the following declaration: that the [[Henology|One]] is not (''l'Un n'est pas''). This is why Badiou accords set theory (the axioms of which he refers to as the "ideas of the multiple") such stature, and refers to mathematics as the very place of ontology: Only set theory allows one to conceive a 'pure doctrine of the multiple'. Set theory does not operate in terms of definite individual elements in groupings but only functions insofar as what belongs to a set is of the same relation as that set (that is, another set too). What individuates a set, therefore, is not an existential positive proposition, but other multiples whose properties (i.e., ''structural'' relations) validate its presentation. The ''structure'' of being thus secures the regime of the count-as-one. So if one is to think of a set – for instance, the set of people, or humanity – as counting as one, the multiple elements which belong to that set are secured as one consistent concept (humanity), but only in terms of what does ''not'' belong to that set. What is crucial for Badiou is that the structural form of the count-as-one, which makes multiplicities thinkable, implies (somehow or other) that the proper name of ''being'' does not belong to an ''element'' as such (an original 'one'), but rather the void set (written Ø), the set to which nothing (not even the void set itself) belongs. It may help to understand the concept 'count-as-one' if it is associated with the concept of 'terming': a multiple is ''not'' one, but it is referred to with 'multiple': one word. To count a set as one is to mention that set. How the being of terms such as 'multiple' does not contradict the non-being of the one can be understood by considering the multiple nature of terminology: for there to be a term without there also being a system of terminology, within which the difference between terms gives context and meaning to any one term, is impossible. 'Terminology' implies precisely difference between terms (thus multiplicity) as the condition for meaning. The idea of a term without meaning is incoherent, the count-as-one is a ''structural effect'' or a ''situational operation''; it is not an event of 'truth'. Multiples which are 'composed' or 'consistent' are count-effects. 'Inconsistent multiplicity' [''meaning?''] is [somehow or other] 'the presentation of presentation.'
+
+Badiou's use of set theory in this manner is not just illustrative or [[heuristic]]. Badiou uses the [[axiom]]s of Zermelo–Fraenkel set theory to identify the relationship of being to history, Nature, the State, and God. Most significantly this use means that (as with set theory) there is a strict prohibition on self-belonging; a set cannot contain or belong to itself. This results from the [[axiom of foundation]] – or the axiom of regularity – which enacts such a prohibition (cf. p.&nbsp;190 in ''Being and Event''). (This axiom states that every non-empty set A contains an element y that is [[disjoint sets|disjoint]] from A.) Badiou's philosophy draws two major implications from this prohibition. Firstly, it secures the inexistence of the 'one': there cannot be a grand overarching set, and thus it is fallacious to conceive of a grand cosmos, a whole Nature, or a Being of God. Badiou is therefore – against [[Georg Cantor]], from whom he draws heavily – staunchly [[atheism|atheist]]. However, secondly, this prohibition prompts him to introduce the event. Because, according to Badiou, the axiom of foundation 'founds' all sets in the void, it ties all being to the historico-social situation of the multiplicities of de-centred sets – thereby effacing the positivity of subjective action, or an entirely 'new' occurrence. And whilst this is acceptable ontologically, it is unacceptable, Badiou holds, philosophically. Set theory mathematics has consequently 'pragmatically abandoned' an area which philosophy cannot. And so, Badiou argues, there is therefore only one possibility remaining: that ontology can say nothing about the event.
+
+Several critics have questioned Badiou's use of mathematics. Mathematician [[Alan Sokal]] and physicist [[Jean Bricmont]] write that Badiou proposes, with seemingly "utter seriousness," a blending of psychoanalysis, politics and [[set theory]] that they contend is preposterous.<ref>Sokal, Alan and Jean Bricmont (1999) ''Fashionable Nonsense: Postmodern Intellectuals' Abuse of Science '' Macmillan, {{ISBN|9780312204075}}, p. 180</ref> Similarly, philosopher and aesthetics writer [[Roger Scruton]] has questioned Badiou's grasp of the foundation of mathematics, writing in 2012:
+:There is no evidence that I can find in ''Being and Event'' that the author really understands what he is talking about when he invokes (as he constantly does) Georg Cantor's theory of transfinite cardinals, the axioms of set theory, [[Gödel's incompleteness theorems|Gödel's incompleteness proof]] or [[Continuum hypothesis|Paul Cohen's proof of the independence of the continuum hypothesis]]. When these things appear in Badiou's texts it is always allusively, with fragments of symbolism detached from the context that endows them with sense, and often with free variables and bound variables colliding randomly. No proof is clearly stated or examined, and the jargon of set theory is waved like a magician's wand, to give authority to bursts of all but unintelligible metaphysics.<ref>{{cite journal|title=A Nothing Would do As Well|journal=Times Literary Supplement |date=31 August 2012 |author=Scruton, Roger |author-link=Roger Scruton}}</ref>
+
+An example of a critique from a mathematician's point of view is the essay 'Badiou's Number: A Critique of Mathematics as Ontology' by [[Ricardo L. Nirenberg]] and [[David Nirenberg]],<ref>{{cite web |url=http://criticalinquiry.uchicago.edu/uploads/pdf/nirenbergs_badiousnumber_complete.pdf |last=Nirenberg |first=Ricardo L. |author2=David Nirenberg |title=Badiou's Number: A Critique of Mathematics as Ontology |publisher=Critical Inquiry |access-date=20 April 2016 |archive-url=https://web.archive.org/web/20170811064012/http://criticalinquiry.uchicago.edu/uploads/pdf/nirenbergs_badiousnumber_complete.pdf |archive-date=11 August 2017 |url-status=dead}}</ref> which takes issue in particular with Badiou's matheme of the Event in ''Being and Event'', which has already been alluded to in respect of the 'axiom of foundation' above. Nirenberg and Nirenberg write:
+
+:Rather than being defined in terms of objects previously defined, ''e<sub>x</sub>'' is here defined in terms of itself; you must already have it in order to define it. Set theorists call this a not-well-founded set. This kind of set never appears in mathematics{{snd}}not least because it produces an unmathematical ''mise-en-abîme'': if we replace ''e<sub>x</sub>'' inside the bracket by its expression as a bracket, we can go on doing this forever{{snd}}and so can hardly be called "a matheme."'
+
+===The event and the subject===
+<!-- Deleted image removed: [[File:Badiou-an original drawing.jpg|thumb|right|260px|Drawing from 18 November 2006 "Truth procedure in politics" lecture]] -->
+Badiou again turns here to mathematics and set theory – Badiou's language of ontology – to study the possibility of an indiscernible element existing extrinsically to the situation of ontology. He employs the strategy of the mathematician [[Paul Cohen (mathematician)|Paul J. Cohen]], using what are called the ''conditions'' of sets. These conditions are thought of in terms of domination, a domination being that which defines a set. (If one takes, in binary language, the set with the condition 'items marked only with ones', any item marked with zero negates the property of the set. The condition which has only ones is thus dominated by any condition which has zeros in it [cf. pp.&nbsp;367–371 in ''Being and Event''].) Badiou reasons using these conditions that every discernible (nameable or constructible) set is dominated by the conditions which don't possess the property that makes it discernible as a set. (The property 'one' is always dominated by 'not one'.) These sets are, in line with constructible ontology, relative to one's being-in-the-world and one's being in language (where sets and concepts, such as the concept 'humanity', get their names). However, he continues, the dominations themselves are, whilst being relative concepts, not necessarily intrinsic to language and constructible thought; rather one can axiomatically define a domination – in the terms of mathematical ontology – as a set of conditions such that any condition outside the domination is dominated by at least one term inside the domination. One does not necessarily need to refer to constructible language to conceive of a 'set of dominations', which he refers to as the indiscernible set, or the generic set. It is therefore, he continues, possible to think beyond the strictures of the relativistic constructible universe of language, by a process Cohen calls [[Forcing (mathematics)|forcing]]. And he concludes in following that while ontology can mark out a space for an inhabitant of the constructible situation to decide upon the indiscernible, it falls to the subject – about which the ontological situation cannot comment – to nominate this indiscernible, this generic point; and thus nominate, and give name to, the undecidable event. Badiou thereby marks out a philosophy by which to refute the apparent relativism or apoliticism in post-structuralist thought.
+
+Badiou's ultimate ethical maxim is therefore one of: 'decide upon the undecidable'. It is to name the indiscernible, the generic set, and thus name the event that re-casts ontology in a new light. He identifies four domains in which a subject (who, it is important to note, ''becomes'' a subject through this process) can potentially witness an event: love, science, politics and art. By enacting fidelity to the event within these four domains one performs a 'generic procedure', which in its undecidability is necessarily experimental, and one potentially recasts the situation in which being takes place. Through this maintenance of fidelity, truth has the potentiality to emerge.
+
+In line with his concept of the event, Badiou maintains, politics is not about politicians, but activism based on the present situation and the {{Sic|evental}} (his translators' neologism) rupture. So too does love have this characteristic of becoming ''anew''. Even in science the guesswork that marks the event is prominent. He vigorously rejects the tag of '[[Decisionism|decisionist]]' (the idea that once something is decided it 'becomes true'), but rather argues that the recasting of a truth comes prior to its veracity or verifiability. As he says of [[Galileo]] (p.&nbsp;401):
+
+:''When Galileo announced the principle of inertia, he was still separated from the truth of the new physics by all the chance encounters that are named in subjects such as Descartes or Newton. How could he, with the names he fabricated and displaced (because they were at hand – 'movement', 'equal proportion', etc.), have supposed the veracity of his principle for the situation to-come that was the establishment of modern science; that is, the supplementation of his situation with the indiscernible and unfinishable part that one has to name 'rational physics'?''
+
+While Badiou is keen to reject an equivalence between politics and philosophy, he correlates nonetheless his political activism and skepticism toward the parliamentary-democratic process with his philosophy, based around singular, situated truths, and potential revolutions.
+
+==L'Organisation Politique==
+Alain Badiou is a founding member (along with [[Natacha Michel]] and [[Sylvain Lazarus]]) of the militant French political organisation L'Organisation Politique, which was active from 1985 until it disbanded in 2007.<ref>See the organisation's website at https://web.archive.org/web/20071028083920/http://www.orgapoli.net/</ref> It called itself a post-party organization concerned with direct popular intervention in a wide range of issues (including immigration, labor, and housing). In addition to numerous writings and interventions, L'Organisation Politique highlighted the importance of developing political prescriptions concerning undocumented migrants (''les sans papiers''), stressing that they must be conceived primarily as workers and not immigrants.<ref>{{cite web|url=https://ceasefiremagazine.co.uk/alain-badiou-political-action-organisation-politique/ |last=Robinson | first=Andrew | title=An A to Z of Theory. Alain Badiou: Political Action and the Organisation Politique |publisher=Cease Fire Magazine |date= 30 March 2015|access-date=23 April 2016}}</ref>
+
+==Public controversies==
+===Anti-Semitism accusation and response===
+In 2005, a controversy in Parisian intellectual life erupted after the publication of Badiou's ''Circonstances 3: Portées du mot 'juif''' ("The Uses of the Word 'Jew'"). The author criticised Israel's "[[Identitarianism|identitarian]] claim to be a [[Jewish state]]" and advocated for a secular Palestine in its place.<ref>{{cite web|url=http://www.lacan.com/badword.htm |title=Alain Badiou – Uses of the Word "Jew" |publisher=Lacan.com |access-date=18 June 2011| archive-url= https://web.archive.org/web/20110525014305/http://www.lacan.com/badword.htm| archive-date= 25 May 2011 | url-status= live}}</ref> This book generated a strong response, and the wrangling became a ''cause célèbre'' with articles going back and forth in the French newspaper ''[[Le Monde]]'' and in the cultural journal ''[[Les Temps modernes]]''. Linguist and Lacanian philosopher [[Jean-Claude Milner]], a past president of [[Collège international de philosophie]], accused Badiou of [[anti-Semitism]].<ref>On that subject, see articles against Badiou by:
+* Roger-Pol Droit ("Le Monde des livres", 25 November 2005) and Frédéric Nef ("Le Monde des livres", 23 December 2005), and in defense of Badiou by: Daniel Bensaid ("Le Monde des Livres", 26 January 2006);
+against Badiou by:
+* Claude Lanzmann, Jean-Claude Milner and [[Éric Marty]] ("Les Temps modernes", Nov.-December 2005/January 2006), and Meir Waintrater "L'Arche" February 2006: [http://www.col.fr/arche/article.php3?id_article=540 "Alain Badiou et les Juifs: Une violence insoutenable"], and the answers by Alain Badiou and Cécile Winter followed by rejoinders by Claude Lanzmann and Eric Marty ("Les Temps modernes", March–June 2006). See also [http://www.lacan.com/badword.htm Badiou's response to Eric Marty]</ref>
+
+Badiou forcefully rebutted this charge, declaring that his accusers often conflate a nation-state with religious preference and will label as anti-Semitic anyone who objects to this tendency: "It is wholly intolerable to be accused of anti-Semitism by anyone for the sole reason that, from the fact of the [[Holocaust|extermination]], one does not conclude as to the predicate "Jew" and its religious and communitarian dimension that it receive some singular valorization{{snd}}a transcendent annunciation!{{snd}}nor that [[Politics of Israel|Israeli exactions]], whose colonial nature is patent and banal, be specially tolerated. I propose that nobody any longer accept, publicly or privately, this type of political blackmail."<ref name="Corcoran">Alain Badiou, ''[https://www.lacan.com/badword.htm Circonstances 3: Portées du mot 'juif']'', Paris: Leo Schéer, 2005 (The Uses of the Word 'Jew'), translated by Steve Corcoran. Accessed 22 November 2019.</ref>
+
+Badiou characterizes the state of Israel as "neither more nor less impure than all states", but objects to "its exclusive identitarian claim to be a Jewish state, and the way it draws incessant privileges from this claim, especially when it comes to trampling underfoot what serves us as international law." For example, he continues, "The Islamic states are certainly no more progressive as models than the various versions of the 'Arab nation' were. Everyone agrees, it seems, on the point that the [[Taliban]] do not embody the path of modernity for [[Afghanistan]].”<ref name="Corcoran"/> A modern democracy, he writes, must count all its residents as citizens, and "there is no acceptable reason to exempt the state of Israel from that rule. The claim is sometimes made that this state is the only 'democratic' state in the region. But the fact that this state presents itself as a [[Jewish state]] is directly contradictory."<ref name="Corcoran"/>
+
+Badiou is optimistic that ongoing political problems can be resolved by de-emphasizing the communitarian religious dimension: "The signifier 'Palestinian' or 'Arab' should not be glorified any more than is permitted for the signifier 'Jew.' As a result, the legitimate solution to the Middle East conflict is not the dreadful institution of two barbed-wire states. The solution is the creation of a secular and democratic Palestine...which would show that it is perfectly possible to create a place in these lands where, from a political point of view and regardless of the apolitical continuity of customs, there is 'neither Arab nor Jew.' This will undoubtedly demand a regional [[Nelson Mandela|Mandela]]."<ref name="Corcoran"/>
+
+===Sarkozy pamphlet===
+Alain Badiou gained notoriety in 2007 with his pamphlet ''The Meaning of [[Sarkozy]]'' (''De quoi Sarkozy est-il le nom?''), which quickly sold 60,000 copies, whereas for 40 years the sales of his books had oscillated between 2,000 and 6,000 copies.<ref>Eric Conan, [http://toutsurlachine.blogspot.ie/2010/03/portrait-badiou-la-star-de-la-philo-est.html?m=1 "Badiou, la star de la philo est-il un salaud?"], in ''Marianne'' no. 671, 27 Feb 2010, p. 18.</ref>
+
+As Rafael Bahr pointed out at the time (in 2009), Badiou despised Sarkozy and barely could write his name. Instead, Badiou usually called Sarkozy "the Rat Man" throughout ''The Meaning of Sarkozy.''<ref name="auto">{{Cite web|url=https://amp.theguardian.com/world/2009/mar/01/nicolas-sarkozy-politics|title=A denunciation of the 'Rat Man' &#124; Nicolas Sarkozy &#124; The Guardian|website=amp.theguardian.com}}</ref> [[Steven Poole]] also pointed out that this characterization (Rat Man) brought charges of antisemitism against Badiou.<ref>{{Cite web|url=https://amp.theguardian.com/books/2009/feb/06/alain-badiou-meaning-of-sarkozy|title=The Meaning of Sarkozy &#124; Politics books &#124; The Guardian|website=amp.theguardian.com}}</ref> But as Bahr notes, the controversy went beyond antisemitism, striking at the heart of what it means to be French:{{blockquote|“[Badiou] sees Sarkozy as the embodiment of a strain of moral cowardice in French politics, in which the defining moment was the installation of [[Marshal Pétain]] as head of the pro-Nazi collaborationist government. For Badiou, Sarkozy is a symbol of "transcendent [[Pétainism]]".”<ref name="auto"/>}} [[Mark Fisher]] was impressed with Badiou’s efforts: {{blockquote|“The book treats Sarkozy as an emblem of a particular kind of reactionary politics, and identifies him with an attempt to kill off that which is officially already dead: the emancipatory project that, defiantly, Badiou still calls communism. Badiou claims that Sarkozy’s rise is the return of a kind of ‘Pétainist’ mass subjectivity first instigated by the Vichy regime’s collaboration with the Nazis in World War II; the enemy that is being acquiesced to now, though, is of course capital.”<ref>{{Cite journal|url=https://www.frieze.com/article/meaning-sarkozy|title=The Meaning Of Sarkozy|first=Mark|last=Fisher|journal=Frieze |date=4 April 2009|issue=122|via=www.frieze.com}}</ref>}}
+
+==Works==
+{{Refbegin|2}}
+
+===Philosophy===
+* ''Le Concept de modèle'' (1969, 2007)
+* ''Théorie du sujet'' (1982)
+* ''Peut-on penser la politique?'' (1985)
+* ''[[L'Être et l'Événement]]'' (1988)
+* ''Manifeste pour la philosophie'' (1989)
+* ''Le Nombre et les Nombres'' (1990)
+* ''D'un désastre obscur'' (1991)
+* ''Conditions'' (1992)
+* ''L'Éthique'' (1993)
+* ''Deleuze'' (1997)
+* ''[[Paul the Apostle|Saint Paul]]. La Fondation de l'universalisme'' (1997, 2002)
+* ''Abrégé de métapolitique'' (1998)
+* ''Court traité d'ontologie transitoire'' (1998)
+* ''Petit manuel d'inesthétique'' (1998)
+* ''[[The Century (book)|Le Siècle]]'' (2005)
+* ''Logiques des mondes. L'être et l'événement, 2'' (2006)
+* ''Petit panthéon portatif'' (2008)
+* ''Second manifeste pour la philosophie'' (2009)
+* ''L'Antiphilosophie de Wittgenstein'' (2009)
+* ''Éloge de l'Amour'' (2009)
+* ''Heidegger. Le nazisme, les femmes, la philosophie'' co-authored with [[Barbara Cassin]] (2010)
+* ''Il n'y a pas de rapport sexuel'' co-authored with Barbara Cassin (2010)
+* ''La Philosophie et l'Événement'' interviews with Fabien Tarby (ed.) (2010)
+* ''Cinq leçons sur le cas Wagner'' (2010)
+* ''Le Fini et l'Infini'' (2010)
+* ''La Relation énigmatique entre politique et philosophie'' (2011)
+* ''{{ill|La République de Platon|lt=|fr||WD=}}'' (2012)
+* ''L'Aventure de la philosophie française'' (2012)
+* ''Jacques Lacan, passé présent: Dialogue'' (2012) 
+* ''De la fin. Conversations'' with Giovanbattista Tusa (2017)
+* ''L'Immanence des vérités '' (2018)
+* ''Sometimes, We Are Eternal'' with Kenneth Reinhard, Jana Ndiaye Berankova, Nick Nesbitt (Suture Press 2019)
+
+===Critical essays===
+* ''L'autonomie du processus esthétique'' (1966)
+* ''Rhapsodie pour le théâtre'' (1990)
+* ''Beckett, l'increvable désir'' (1995)
+* ''Cinéma'' (2010)
+
+===Literature and drama===
+* ''Almagestes'' (1964)
+* ''Portulans'' (1967)
+* ''L'Écharpe rouge'' (1979)
+* ''Ahmed le subtil'' (1994)
+* ''Ahmed philosophe'', followed by ''Ahmed se fâche'' (1995)
+* ''Les Citrouilles'', a comedy (1996)
+* ''Calme bloc ici-bas'' (1997)
+
+===Political essays===
+* ''Théorie de la contradiction'' (1975)
+* ''De l'idéologie'' with F. Balmès (1976)
+* ''Le Noyau rationnel de la dialectique hégelienne'' with L. Mossot and J. Bellassen (1977)
+* ''Circonstances 1: Kosovo, 11 septembre, Chirac/Le Pen'' (2003)
+* ''Circonstances 2: Irak, foulard, Allemagne/France'' (2004)
+* ''Circonstances 3: Portées du mot "juif"'' (2005)
+* ''Circonstances 4: De quoi Sarkozy est-il le nom ?'' (2007)
+* ''Circonstances 5: L'Hypothèse communiste'' (2009)
+* ''Circonstances 6: Le Réveil de l'Histoire'' (2011)
+* ''Circonstances 7: Sarkozy : pire que prévu, les autres : prévoir le pire'' (2012)
+* ''Mao. De la pratique et de la contradiction'' with [[Slavoj Žižek]] (2008)
+* ''Démocratie, dans quel état ?'' with [[Giorgio Agamben]], [[Daniel Bensaïd]], Wendy Brown, [[Jean-Luc Nancy]], [[Jacques Rancière]], [[Kristin Ross]] and Slavoj Žižek (2009)
+* ''L'Idée du communisme vol. 1 (London Conference, 2009)'' ('''Alain Badiou''' and Slavoj Žižek eds.), with [[Judith Balso]], [[Bruno Bosteels]], [[Susan Buck-Morss]], [[Terry Eagleton]], [[Peter Hallward]], [[Michael Hardt]], [[Minqi Li]], Jean-Luc Nancy, [[Toni Negri]], Jacques Rancière, Alessandro Russo, [[Roberto Toscano]], [[Gianni Vattimo]], [[Wang Hui (intellectual)|Wang Hui]] and Slavoj Žižek (2010)
+* ''L'Explication, conversation avec Aude Lancelin'' with [[Alain Finkielkraut]] (2010)
+* ''L'Antisémitisme partout. Aujourd'hui en France'' with [[Eric Hazan]] (2011)
+* ''L'Idée du communisme, vol. 2 (Berlin Conference, 2010)'', ('''Alain Badiou''' and Slavoj Žižek eds.) with [[Glyn Daly]], [[Saroj Giri]], [[Gernot Kamecke]], [[Janne Kurki]], [[Artemy Magun]], [[Kuba Majmurek]], [[Kuba Mikurda]], [[Toni Negri]], [[Frank Ruda]], [[Bülent Somay]], [[Janek Sowa]], [[G. M. Tamás]], [[Henning Teschke]], [[Jan Völker]], [[Cécile Winter]] and Slavoj Žižek (2011)
+
+===Pamphlets and serial publications===
+* ''Contribution au problème de la construction d'un parti marxiste-léniniste de type nouveau'', with Jancovici, Menetrey, and Terray (Maspero 1970)
+* ''Jean Paul Sartre'' (Éditions Potemkine 1980)
+* ''Le Perroquet. Quinzomadaire d'opinion'' (1981–1990)
+* ''La Distance politique'' (1990–?)
+* ''Notre mal vient de plus loin'' (2016)
+{{Refend}}
+
+===English translations===
+{{Refbegin|2}}
+
+====Books====
+* ''Manifesto for Philosophy'', transl. by Norman Madarasz; (Albany: SUNY Press, 1999): {{ISBN|978-0-7914-4220-3}} (paperback); {{ISBN|978-0-7914-4219-7}} (hardcover)
+* ''Deleuze: The Clamor of Being'', transl. by Louise Burchill; (Minnesota University Press, 1999): {{ISBN|978-0-8166-3140-7}} (paperback); {{ISBN|978-0-8166-3139-1}} (library binding)
+* ''Ethics: An Essay on the Understanding of Evil'', transl. by Peter Hallward; (New York: Verso, 2000): {{ISBN|978-1-85984-435-9}} (paperback); {{ISBN|978-1-85984-297-3}}
+* ''On Beckett'', transl. and ed. by [[Alberto Toscano]] and Nina Power; (London: Clinamen Press, 2003): {{ISBN|978-1-903083-30-7}} (paperback); {{ISBN|978-1-903083-26-0}} (hardcover)
+* ''Infinite Thought: Truth and the Return to Philosophy'', transl. and ed. by [[Oliver Feltham]] & [[Justin Clemens]]; (London: Continuum, 2003): {{ISBN|978-0-8264-7929-7}} (paperback); {{ISBN|978-0-8264-6724-9}} (hardcover)
+* ''Metapolitics'', transl. by [[Jason Barker]]; (New York: Verso, 2005): {{ISBN|978-1-84467-567-8}} (paperback); {{ISBN|978-1-84467-035-2}} (hardcover)
+* ''Saint Paul: The Foundation of Universalism''; transl. by [[Ray Brassier]]; (Stanford: Stanford University Press, 2003): {{ISBN|978-0-8047-4471-3}} (paperback); {{ISBN|978-0-8047-4470-6}} (hardcover)
+* ''Handbook of Inaesthetics'', transl. by Alberto Toscano; (Stanford: Stanford University Press, 2004): {{ISBN|978-0-8047-4409-6}} (paperback); {{ISBN|978-0-8047-4408-9}} (hardcover)
+* ''Theoretical Writings'', transl. by Ray Brassier; (New York: Continuum, 2004)<ref>Includes:
+* ''Mathematics and Philosophy: The Grand Style and the Little Style'', (unpublished)
+* ''Philosophy and Mathematics: Infinity and the End of Romanticism'', (from ''Conditions'', Paris, Seuil, 1992).
+* ''The Question of Being Today'', (from ''Briefings on Existence'', )
+* ''Platonism and Mathematical Ontology'', (from ''Briefings on Existence'')
+* ''The Being of Number'', (from ''Briefings on Existence'')
+* ''One, Multiple, Multiplicities'', (from ''Multitudes, 1'', 2000)
+* ''Spinoza's Closed Ontology'', (from ''Briefings on Existence'')
+* ''The Event as Trans-Being'', (revised and expanded version of an essay of the same title from ''Briefings on Existence'')
+* ''On Subtraction'', (from ''Conditions'', Paris, Seuil, 1992)
+* ''Truth: Forcing and the Unnameable'', (from ''Conditions'', Paris, Seuil, 1992)
+* ''Kant's Subtractive Ontology'', (from ''Briefings on Existence'')
+* ''Eight Theses on the Universal'', (from Jelica Sumic (ed.) ''Universal, Singulier, Subjet'', Paris, Kimé, 2000)
+* ''Politics as a Truth Procedure'', (from ''Metapolitics'')
+* ''Being and Appearance'', (from ''Briefings on Existence'')
+* ''Notes Toward Thinking Appearance'', (unpublished)
+* ''The Transcendental'', (from a draft manuscript [now published] of ''Logiques des mondes'', Paris, Seuil)
+* ''Hegel and the Whole'', (from a draft manuscript [now published] of ''Logiques des mondes'', Paris, Seuil)
+* ''Language, Thought, Poetry'', (unpublished)</ref>
+* ''Briefings on Existence: A Short Treatise on Transitory Ontology'', transl. by Norman Madarasz; (Albany: SUNY Press, 2005)
+* ''Being and Event'', transl. by Oliver Feltham; (New York: Continuum, 2005)
+* ''Polemics'', transl. by Steve Corcoran; (New York: Verso, 2007)
+* ''[[The Century (book)|The Century]]'', transl. by Alberto Toscano; (New York: Polity Press, 2007)
+* ''The Concept of Model: An Introduction to the Materialist Epistemology of Mathematics'', transl. by Zachery Luke Fraser & Tzuchien Tho; (Melbourne: re.press, 2007). Open Access<ref>Alain Badiou, [http://www.re-press.org/book-files/OA_Version_9780980305234_The_Concept_of_Model.pdf ''The Concept of Model''] {{Webarchive|url=https://web.archive.org/web/20080828201145/http://www.re-press.org/book-files/OA_Version_9780980305234_The_Concept_of_Model.pdf |date=28 August 2008 }}.</ref>
+* ''Number and Numbers''  (New York: Polity Press, 2008): {{ISBN|978-0-7456-3879-9}} (paperback); {{ISBN|978-0-7456-3878-2}} (hardcover)
+* ''The Meaning of Sarkozy'' (New York: Verso, 2008): {{ISBN|978-1-84467-309-4}} (hardcover) {{ISBN|978-1-84467-629-3}} (paperback)
+* ''Conditions'', transl. by Steve Corcoran; (New York: Continuum, 2009): {{ISBN|978-0-8264-9827-4}} (hardcover)
+* ''Logics of Worlds: Being and Event, Volume 2'', transl. by Alberto Toscano; (New York: Continuum, 2009): {{ISBN|978-0-8264-9470-2}} (hardcover)
+* ''Pocket Pantheon: Figures of Postwar Philosophy'', transl. by [[David Macey]]; (New York: Verso, 2009): {{ISBN|978-1-84467-357-5}} (hardcover)
+* ''Theory of the Subject'', transl. by [[Bruno Bosteels]]; (New York: Continuum, 2009): {{ISBN|978-0-8264-9673-7}} (hardcover)
+* ''Philosophy in the Present'', (with [[Slavoj Žižek]]); (New York: Polity Press, 2010): {{ISBN|978-0-7456-4097-6}} (paperback)
+* ''The Communist Hypothesis'', transl. by [[David Macey]] and Steve Corcoran; (New York: Verso, 2010): {{ISBN|978-1-84467-600-2}} (hardcover)
+* ''Five Lessons on Wagner'', transl. by Susan Spitzer with an 'Afterword' by Slavoj Žižek; (New York: Verso, 2010): {{ISBN|978-1-84467-481-7}} (paperback)
+* ''Second Manifesto for Philosophy'', transl. by Louise Burchill (New York: Polity Press, 2011)
+* ''Wittgenstein's [[Antiphilosophy]]'', transl. by Bruno Bosteels; (New York: Verso, 2011)
+* ''The Rational Kernel of the Hegelian Dialectic'', transl. by Tzuchien Tho; (Melbourne: re.press, 2011)
+* ''The Rebirth of History: Times of Riots and Uprisings'', transl. by Gregory Elliott; (New York: Verso, 2012): {{ISBN|978-1-84467-879-2}}
+* ''In Praise of Love'', (with [[Nicolas Truong]]); transl. by Peter Bush; (London: Serpent's Tail, 2012)
+* ''Philosophy for Militants'', transl. by Bruno Bosteels; (New York: Verso, 2012)
+* ''The Adventure of French Philosophy'', transl. by Bruno Bosteels; (New York: Verso, 2012)
+* ''Plato's Republic : A Dialogue in 16 Chapters'', transl. by Susan Spitzer; (New York : Columbia University Press, 2013)
+* ''The Incident at Antioch/L'Incident d'Antioche: A Tragedy in Three Acts / Tragédie en trois actes'', transl. by Susan Spitzer; (New York : Columbia University Press, 2013)
+* ''Badiou and the Philosophers : Interrogating 1960s French Philosophy'', transl. and ed. by Tzuchien Tho and Giuseppe Bianco; (New York : Bloomsbury Academic, 2013)
+* ''Philosophy and the Event'', (with [[Fabian Tarby]]); transl. by Louise Burchill; (Malden, MA: Polity, 2013)
+* ''Reflections on Anti-Semitism'', (with [[Eric Hazan]]); transl. by David Fernbach; (London: Verso, 2013)
+* ''Rhapsody for the Theatre'', transl. and ed. by Bruno Bosteels; (London: Verso, 2013)
+* ''Cinema'', transl. by Susan Spitzer; (Malden, MA: Polity, 2013)
+* ''Mathematics of the Transcendental: Onto-logy and being-there'', transl. by A.J. Bartlett and Alex Ling; (London: Bloomsbury, 2014)
+* ''Ahmed the Philosopher: Thirty-four Short Plays for Children and Everyone Else'', transl. by Joseph Litvak; (New York : Columbia University Press, 2014)
+* ''Jacques Lacan, Past and Present: A Dialogue'', (with [[Elisabeth Roudinesco]]); transl. by Jason E. Smith; (New York: Columbia University Press, 2014)
+* ''Controversies: Politics and Philosophy in our Time'', (with [[Jean-Claude Milner]]); transl. by ?; (London: Polity, 2014)
+* ''Confrontation: A Conversation with Aude Lancelin'', (with [[Alain Finkielkraut]]); transl. by Susan Spitzer; (London: Polity, 2014)
+* ''The Age of the Poets: And Other Writings on Twentieth-Century Poetry and Prose'', transl. by Bruno Bosteels; (New York: Verso, 2014)<ref>{{Cite web|url=https://sydneyreviewofbooks.com/review/age-of-poets-alain-badiou/|title = The Age of the Poets &#124; Alain Badiou &#124; Review &#124;}}</ref>
+* ''The end'', (with [[Giovanbattista Tusa]]); transl. by Robin Mackay; (Cambridge: Polity, 2019) {{ISBN|978-1509536276}}
+* ''The Immanence of Truths: Being and Event III'', transl. by Susan Spitzer and Kenneth Reinhard; (London: Bloomsbury Academic, 2022) {{ISBN|978-1350115309}}
+{{Refend}}
+
+====Journals====
+* [https://web.archive.org/web/20171020005144/https://badioustudiesjournal.org/ Journal of Badiou Studies]
+* "The Cultural Revolution: The Last Revolution?", transl. by Bruno Bosteels; [https://web.archive.org/web/20181126065237/http://positions.rice.edu/ positions: asia critique], Volume 13, Issue 3, Winter 2005; (Durham: Duke University Press, 2005): {{ISSN|1067-9847}}
+* "Selections from ''Théorie du sujet'' on the Cultural Revolution", transl. by Alberto Toscano with the assistance of Lorenzo Chiesa and Nina Power; [https://web.archive.org/web/20181126065237/http://positions.rice.edu/ positions: asia critique], Volume 13, Issue 3, Winter 2005; (Durham: Duke University Press, 2005): {{ISSN|1067-9847}}
+* "Further Selections from ''Théorie du sujet'' on the Cultural Revolution", transl. by Lorenzo Chiesa; [https://web.archive.org/web/20181126065237/http://positions.rice.edu/ positions: asia critique], Volume 13, Issue 3, Winter 2005; (Durham: Duke University Press, 2005): {{ISSN|1067-9847}}
+* "The Triumphant Restoration", transl. by Alberto Toscano; [https://web.archive.org/web/20181126065237/http://positions.rice.edu/ positions: asia critique], Volume 13, Issue 3, Winter 2005; (Durham: Duke University Press, 2005): {{ISSN|1067-9847}}
+* "An Essential Philosophical Thesis: 'It Is Right to Rebel against the Reactionaries'", transl. by Alberto Toscano; [https://web.archive.org/web/20181126065237/http://positions.rice.edu/ positions: asia critique], Volume 13, Issue 3, Winter 2005; (Durham: Duke University Press, 2005): {{ISSN|1067-9847}}
+* [http://www.cosmosandhistory.org/index.php/journal/article/view/26/52 What is a philosophical Institution? or: Address, Transmission, Inscription.] {{Webarchive|url=https://web.archive.org/web/20130328062247/http://www.cosmosandhistory.org/index.php/journal/article/view/26/52 |date=28 March 2013 }} Cosmos and History: The Journal of Natural and Social Philosophy, Vol 2, No 1-2 (2006)
+* [https://web.archive.org/web/20130521025652/http://www.lasca.fr/pdf/entretiens/Alain_Badiou.pdf Les Reponses Ecrites D'Alain Badiou] Interviewed by Ata Hoodashtian, for Le journal Philosophie Philosophie, Université Paris VIII.
+
+===DVD===
+{{refbegin}}
+* ''[https://vimeo.com/418047554 Badiou]'', A Film in association with the [[Global Center for Advanced Studies]] (2018), Directed by Gorav Kalyan, Rohan Kalyan Gorav Kalyan.
+* ''Democracy and Disappointment: On the Politics of Resistance: Alain Badiou and Simon Critchley in Conversation'', (Event Date: Thursday, 15 November 2007); Location: Slought Foundation, Conversations in Theory Series | Organized by Aaron Levy | Studio: Microcinema in collaboration with Slought Foundation | DVD Release Date: 26 August 2008
+{{refend}}
+
+===Lectures===
+{{Refbegin|2}}
+* [http://news.bbc.co.uk/2/hi/programmes/hardtalk/8219961.stm "Interview with Alain Badiou"] [[BBC]] [[HARDtalk]]. March 2009.
+* Creative Thinking. [[Al-Quds University]], Jerusalem, Palestine, 17 January 2009.
+* [http://cultureandcommunication.org/badiou/Badiou--_Is%20the%20Word%20%27Communism%27%20Forever%20Doomed__.mp3 "Is the Word Communism forever Doomed?"]. [[Miguel Abreu Gallery]], New York, 6 November 2008.
+* [http://cultureandcommunication.org/badiou/Badiou--_Theatre%20et%20philosophie_.mp3 "Theatre et Philosophie."] with [[Martin Puchner]] & [[Bruno Bosteels]]. La Maison Française, New York University, New York, 7 November 2008.
+* [http://slought.org/media/media-mp3/1385-2007-11-15-1-Badiou.mp3 "Democracy and Disappointment: On the Politics of Resistance"]{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}, with [[Simon Critchley]]. Slought Foundation, Philadelphia, the Departments of Romance Languages, History, and English, and the Program in Comparative Literature at the University of Pennsylvania. 15 November 2007.
+* [http://lecturecast.sdsc.edu/15858.ram "Homage to Jacques Derrida"]{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}, [[University of California, Irvine]], 1 March 2006 ([[RealPlayer]]).
+* [https://web.archive.org/web/20110716113904/http://slought.org/files/downloads/events/SF_1385.pdf "Ours is not a terrible situation."] with Simon Critchley. Labyrinth Books, New York, 6 March 2006.
+* [http://depts.washington.edu/schkatz/podcasts/katz0506_badiou.mp3 "Politics, Democracy and Philosophy: An Obscure Knot"], [[Walter Chapin Simpson Center for the Humanities]] at [[University of Washington]] 23 February 2006.
+* [https://web.archive.org/web/20160310132240/http://ucentral.edu.co/nomadas/nunme-ante/21-25/nomadas-23/23.17b.%20panorama%20de%20la%20filosofia%20francesa%20contemporanea.pdf "Panorama de la Filosofía Francesa Contemporánea"] ''Biblioteca Nacional de Buenos Aires, 2004''
+* [https://web.archive.org/web/20091223035619/http://bibliobs.nouvelobs.com/20091217/16522/finkielkraut-badiou-le-face-a-face "Finkielkraut-Badiou: Le-Face-à-Vace"] [[The Nouvel Obs]] (Transcript in French)<ref>''The Nouvel Obs'' invited the philosophers Alain Finkielkraut and Alain Badiou, members of opposite political camps, to talk about national identity. According to Aude Lancelin who moderated the discussion, "it came to an ideological confrontation of rare violence". [http://www.signandsight.com/features/1972.html]</ref>
+* [https://web.archive.org/web/20121112175958/http://vimeo.com/7486770 "Faut-il réinventer l'amour?"] – Ce Soir. French television. En direct, [[France 3]] (French)
+{{Refend|2}}
+
+==See also==
+* [[Speculative realism]]
+
+==Notes==
+{{reflist}}
+
+==Further reading==
+{{Further reading cleanup|date=February 2017}}
+
+===Secondary literature on Badiou's work===
+
+====in English (books)====
+* [[Jason Barker]], ''Alain Badiou: A Critical Introduction'', London, Pluto Press, 2002.
+* [[Peter Hallward]], ''Badiou: A Subject to Truth'', Minneapolis, University of Minnesota Press, 2003.
+* Peter Hallward (ed.), ''Think Again: Badiou and the Future of Philosophy'', London, Continuum, 2004.
+* [[Andrew William Gibson]], Beckett and Badiou: The Pathos of intermittency, Oxford, Oxford University press, 2006.
+* Paul Ashton (ed.), A. J. Bartlett (ed.), [[Justin Clemens]] (ed.): ''The Praxis of Alain Badiou''; (Melbourne: re.press, 2006).
+* Adam Miller, ''Badiou, Marion, and St. Paul: Immanent Grace'', London, Continuum, 2008.
+* [[Bruno Bosteels]], ''Badiou and Politics'', Durham, Duke University Press, 2011.
+* [[Oliver Feltham]], ''Alain Badiou: Live Theory'', London, Continuum, 2008.
+* Burhanuddin Baki, ''Badiou's Being and Event and the Mathematics of Set Theory'', London, Bloomsbury Academic, 2015.
+* [[Sam Gillespie]], ''The Mathematics of Novelty: Badiou's Minimalist Metaphysics'', (Melbourne, Australia: re.press, 2008) ([http://re-press.org/books/the-mathematics-of-novelty-badiou’s-minimalist-metaphysics/ details on re.press website] {{Webarchive|url=https://web.archive.org/web/20161017125600/http://re-press.org/books/the-mathematics-of-novelty-badiou%E2%80%99s-minimalist-metaphysics/ |date=17 October 2016 }}) (Open Access)
+* Chris Henry, ''The Ethics of Political Resistance: Althusser, Badiou, Deleuze'' (Edinburgh: Edinburgh University Press, 2019)
+* [[Adrian Johnston (philosopher)|Adrian Johnston]], ''Badiou, Žižek, and Political Transformations: The Cadence of Change'', Evanston, Northwestern University Press, 2009.
+* Gabriel Riera (ed.), ''Alain Badiou: Philosophy and its Conditions'', Albany: New York, SUNY Press, 2005.
+* [[Frank Ruda]], ''For Badiou: Idealism Without Idealism'', Illinois, Northwestern University Press, 2015.
+* [[Christopher Norris (critic)|Christopher Norris]], ''Badiou's Being and Event: A Reader's Guide'', London, Continuum, 2009.
+* A. J. Bartlett and Justin Clemens (eds.), ''Badiou: Key Concepts'', London, Acumen, 2010.
+* Alex Ling, ''Badiou and Cinema'', Edinburgh, Edinburgh University Press, 2010.
+* Ed Pluth, ''Badiou: A Philosophy of the New'', Malden, Polity, 2010.
+* A. J. Bartlett, ''Badiou and Plato: An education by truths'', Edinburgh, Edinburgh University Press, 2011.
+* P. M. Livingston, ''The Politics of Logic: Badiou, Wittgenstein, and the Consequences of Formalism'', New York, Routledge, 2011.
+* Steven Corcoran (ed.): ''The Badiou Dictionary'', Edinburgh, Edinburgh University Press 2015, {{ISBN|978-0-7486-4096-6}}
+* Am Johal: ''Ecological Metapolitics: Badiou and the Anthropocence'', New York, Atropos Press, 2015.
+
+====In English (journals, essays and articles)====
+* [https://www.radicalphilosophy.com/article/cantor-lacan-mao-beckett-meme-combat Cantor, Lacan, Mao, Becket, meme combat: The philosophy of Alain Badiou] essay by [[Jean-Jacques Lecercle]]. Radical Philosophy 093. January / February 1999
+* [https://thediscourseunit.files.wordpress.com/2016/05/arcp8gomezcamarena.pdf Je te Mathème: Badiou's De-Psychologisation of Love], essay by [[Carlos Gómez Camarena]]. ''Annual Review of Critical Psychology'' 8 (2010).
+* [https://web.archive.org/web/20110516134242/http://www.warwick.ac.uk/philosophy/pli_journal/pdfs/Vol_12/12_12_Bosteels.pdf Alain Badiou's Theory of the Subject: Part 1. The Recommencement of Dialectical Materialism?] by [[Bruno Bosteels]]
+* [https://web.archive.org/web/20090928083316/http://www.envplan.com/contents.cgi?journal=D Society and Space Theme Issue: Being and Spatialization vol. 27. Issue 5. 2009, interview and articles by M. Constantinou, N. Madarasz, J. Flowers MacCannell](See: {{cite web|url=http://www.envplan.com/contents.cgi?journal=D&issue=current |title=Environment and Planning D: Society and Space contents vol 29 |publisher=Envplan.com |access-date=18 June 2011| archive-url= https://web.archive.org/web/20110622041544/http://envplan.com/contents.cgi?journal=D&issue=current| archive-date= 22 June 2011 | url-status= live}})
+* [http://luchte.wordpress.com/fatal-repetition-badiou-and-the-age-of-the-poets/ Fatal Repetition: Badiou and the Age of the Poets, with Appendix, A Psychoanalysis of Alain Badiou], by James Luchte, Istiraki (Turkey), 5 May 2014.
+
+====In French (books)====
+* Charles Ramond (éd), ''Penser le multiple'', Paris, [[Éditions L'Harmattan]], 2002
+* Fabien Tarby, ''La Philosophie d'Alain Badiou'', Paris, [[Éditions L'Harmattan]], 2005
+* Fabien Tarby, ''Matérialismes d'aujourd'hui : de Deleuze à Badiou'', Paris, [[Éditions L'Harmattan]], 2005
+* Eric Marty, ''Une Querelle avec Alain Badiou, philosophe'', Paris, Editions Gallimard, coll. L'Infini, 2007
+* Bruno Besana et Oliver Feltham (éd), ''Écrits autour de la pensée d'Alain Badiou'', Paris, [[Éditions L'Harmattan]], 2007.
+
+====In Basque (books and articles)====
+* Antton Azkargorta (1996): "Hitzaurrea" in Alain Badiou, ''Etika'', Bilbo, Besatari {{ISBN|84-921104-1-4}}
+* [https://web.archive.org/web/20120607032236/http://basque.criticalstew.org/wp-content/uploads/mundu_galfarsoro.pdf Imanol Galfarsoro (2011): "Alain Badiou. Filosofia etiko-politikoa I", ''hAUSnART'', 0: 124–129]
+* [https://www.dropbox.com/s/sy050vajvojnny9/badiou%20galfarsoro.pdf Imanol Galfarsoro (2012): "Alain Badiou. Filosofia etiko-politikoa II", ''hAUSnART'', 1: 108–114]
+* Imanol Galfarsoro (2012): "Alain Badiou eta hipotesi komunistaren birdefinizioak", ''hAUSnART'', 2: 82–99
+* Imanol Galfarsoro (2012): "(Post)Marxismoa, kultura eta eragiletasuna: Ibilbide historiko labur bat" in Alaitz Aizpuru(koord.), ''Euskal Herriko pentsamenduaren gida'', Bilbo, UEU. {{ISBN|978-84-8438-435-9}}
+* Xabier Insausti & Irati Oliden (2012): ''Konpromisorik gabeko filosofia. Alain Badiou'', Donostia, [[Jakin (magazine)|Jakin]] {{ISBN|978-84-95234-44-5}}
+* [https://www.dropbox.com/s/k5fxaap85kq70w5/106799476-Alain-Badiou-Elkarrizketak-Interviews.pdf Alain Badiou on the Lapiko Kritikoa basque website. ]
+
+====In Spanish (books and articles)====
+* Carlos Gómez Camarena and Angelina Uzín Olleros (eds.), Badiou fuera de sus límites, Buenos Aires, Imago Mundi, 2010. {{ISBN|978-950-793-102-4}}
+* Angelina Uzín Olleros (2008). Introducción al pensamiento de Alain Badiou. Buenos Aires: Imago Mundi. {{ISBN|978-950-793-076-8}}
+* [http://teocripsi.com/documents/2GOMEZ.pdf Je te mathème: Badiou y la despsicologización del amor] (por Carlos Gómez Camarena- Revista Teoría y Crítica de la Psicología)
+* [http://reflexionesmarginales.com/3.0/19-badiou-la-ciencia-el-matema Badiou, la ciencia, el matema] {{Webarchive|url=https://web.archive.org/web/20160822103901/http://reflexionesmarginales.com/3.0/19-badiou-la-ciencia-el-matema/ |date=22 August 2016 }} (por Carlos Gómez Camarena- Revista Reflexiones Marginales)
+* Alfonso Galindo Hervás, ''Pensamiento impolítico contemporáneo. Ontología (y) política en Agamben, Badiou, Esposito y Nancy'', Sequitur, Madrid, 2015.
+
+==External links==
+{{Commons category|Alain Badiou}}
+{{Wikiquote}}
+* [https://web.archive.org/web/20121104114714/http://www.lacan.com/frameabad.htm Alain Badiou Bibliography] at Lacan Dot Com
+* [https://web.archive.org/web/20171020002906/http://mideastdilemma.com/alain_badiou_archive.html Alain Badiou Archive] at MidEastDilemma.com
+* [http://cordite.org.au/essays/plato-badiou-and-i/ Plato, Badiou and I: an Experiment in Writerly Happiness] ''Cordite Poetry Review''
+
+===Critical opinions===
+* [https://web.archive.org/web/20170912120420/http://www.lacan.com/zizbadman.htm On Alain Badiou and ''Logiques des mondes''] by Slavoj Žižek
+* [https://web.archive.org/web/20171020003524/http://platypus1917.org/2010/11/06/the-marxist-hypothesis-a-response-to-alain-badous-communist-hypothesis/ The Marxist hypothesis: a response to Alain Badiou's "communist hypothesis"] by [[Chris Cutrone]]
+* [http://www.alpineanarchist.org/r_anarchist_hypothesis.html The Anarchist Hypothesis, or Badiou, Žižek, and the Anti-Anarchist Prejudice] by [[Gabriel Kuhn]]
+* [http://redcritique.org/WinterSpring2024/speakingofcommunism.htm Speaking of Communism: How Badiou Subtracts Class from Marx's Speeches on the Paris Commune to Produce a New (Infantile) Communism] by [[Stephen Tumino]]
+
+{{social and political philosophy}}
+{{Political philosophy}}
+{{continental philosophy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Badiou, Alain}}
+[[Category:1937 births]]
+[[Category:Living people]]
+[[Category:20th-century French novelists]]
+[[Category:20th-century French male writers]]
+[[Category:20th-century French philosophers]]
+[[Category:Communist writers]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:Academic staff of the École Normale Supérieure]]
+[[Category:Academic staff of the University of Paris]]
+[[Category:Academic staff of Paris 8 University Vincennes-Saint-Denis]]
+[[Category:Academic staff of European Graduate School]]
+[[Category:French activists]]
+[[Category:French Maoists]]
+[[Category:French political philosophers]]
+[[Category:Lycée Louis-le-Grand alumni]]
+[[Category:French male novelists]]
+[[Category:Maoist theorists]]
+[[Category:Moroccan philosophers]]
+[[Category:Materialists]]
+[[Category:Philosophers of mathematics]]
+[[Category:Revolution theorists]]
+[[Category:Writers from Rabat]]
+[[Category:French male poets]]
+[[Category:Spinoza scholars]]
+[[Category:Deleuze scholars]]
+[[Category:Poststructuralists]]
+[[Category:21st-century French philosophers]]

@@ -1,0 +1,61 @@
+{{Short description|British philosopher}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox philosopher
+|image =
+| region          = [[Western philosophy]]
+| era             = [[Contemporary philosophy]] 
+| name             = Mark Sainsbury
+| honorific_suffix = {{post-nominals|country=GBR|size=100%|FBA}}
+| birth_name       = Richard Mark Sainsbury
+| birth_date       = {{Birth year and age|1943}}
+| birth_place      = 
+| education        = [[Oxford University]] (D.Phil.)
+| institutions     = [[King's College London]]<br />[[University of Texas, Austin]]
+| school_tradition = [[Analytic philosophy|Analytic]]
+| main_interests   = [[Philosophy of language]], [[philosophical logic]], [[philosophy of mind]], [[metaphysics]]
+| influences       = [[Bertrand Russell]], [[Gottlob Frege]], [[Michael Dummett]]
+| influenced       = 
+| notable_ideas    = Originalist theory of [[concept]]s
+}}
+
+'''Richard Mark Sainsbury''' {{post-nominals|country=GBR|size=100%|FBA}} ({{IPAc-en|ˈ|s|eɪ|n|z|b|ər|i}}; born 1943) is a [[British people|British]] [[philosopher]] who is Professor of Philosophy at the [[University of Texas, Austin]].  He is known for his work in [[philosophical logic]], [[philosophy of language]], and on the philosophies of [[Bertrand Russell]] and [[Gottlob Frege]].
+
+==Education and career==
+
+Sainsbury earned his D.Phil. at [[Oxford University]] and taught for many years at [[King's College London]] where he was Susan Stebbing Professor of Philosophy.<ref>{{cite web|url=http://www.kcl.ac.uk/schools/humanities/depts/philosophy/people/emeritus/sainsbury.html|title=Former faculty: Professor Mark Sainsbury|publisher=King's College London|accessdate=13 March 2011}}</ref>  He became professor of philosophy at the [[University of Texas at Austin]] in 2002.<ref>[https://liberalarts.utexas.edu/philosophy/faculty/rms9 Faculty page]</ref> He was editor of the leading philosophy journal ''[[Mind (journal)|Mind]]'' from 1990 to 2000. He was elected a Fellow of the [[British Academy]] in 1998.<ref>{{cite web|url=http://www.britac.ac.uk/fellowship/sections/index.cfm?member%3D3144 |title=Sections - British Academy |accessdate=2015-07-12 |url-status=dead |archiveurl=https://web.archive.org/web/20160304061750/http://www.britac.ac.uk/fellowship/sections/index.cfm?member=3144 |archivedate=2016-03-04 }}</ref>
+
+==Books==
+*''Bertrand Russell'' (Routledge, 1979) ("Arguments of the Philosophers" series).
+*''Paradoxes'' (Cambridge University Press, 1988).
+*''Reference Without Referents'' (Oxford University Press, 2005).
+*''Fiction and Fictionalism'' (Routledge, 2009).
+*''Seven Puzzles of Thought and How to Solve Them: An Originalist Theory of Concepts'' (with [[Michael Tye (philosopher)|Michael Tye]]) (Oxford University Press, 2012).
+*''Thinking About Things'' (Oxford University Press, 2018) {{ISBN|9780198803348}}.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Biography}}
+*[https://www.marksainsbury.net/ Personal home page], with CV, book descriptions, and over 25 papers available for download.
+*[https://utexas.academia.edu/MSainsbury Academia.edu page]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sainsbury, Mark}}
+[[Category:1943 births]]
+[[Category:20th-century British philosophers]]
+[[Category:21st-century British philosophers]]
+[[Category:British philosophers of language]]
+[[Category:Living people]]
+[[Category:University of Texas at Austin faculty]]
+[[Category:Academics of King's College London]]
+[[Category:Fellows of King's College London]]
+[[Category:Fellows of Corpus Christi College, Oxford]]
+[[Category:Sainsbury family|Mark]]
+[[Category:Analytic philosophers]]
+[[Category:Fellows of the British Academy]]
+[[Category:Mind (journal) editors]]
+
+
+{{UK-philosopher-stub}}

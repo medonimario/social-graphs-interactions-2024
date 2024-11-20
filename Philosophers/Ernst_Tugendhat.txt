@@ -1,0 +1,165 @@
+{{Short description|Czech-born German philosopher (1930–2023)}}
+{{Use dmy dates|date=March 2023}}
+{{Infobox philosopher
+| name             = Ernst Tugendhat
+| image            = 
+| caption          = 
+| birth_date       = {{birth date|1930|03|08|df=y}}
+| birth_place      = [[Brno]], Czechoslovakia
+| death_date       = {{death date and age|2023|03|13|1930|03|08|df=y}}
+| death_place      = [[Freiburg im Breisgau|Freiburg]], Germany
+| education        = {{ubl| [[Stanford University]] | [[University of Freiburg]] }}
+| institutions     = {{ubl |[[University of Münster]] | [[University of Tübingen]] | [[University of Heidelberg]] | [[Free University of Berlin]] | [[Pontificia Universidad Católica de Chile]] | [[Charles University]] }}
+| main_interests   = [[Philosophy of language]]
+| thesis_title     = The concept of truth in Edmund Husserl and Martin Heidegger
+| thesis_year      = 1966
+| awards           = [[Meister Eckhart Prize]]
+}}
+'''Ernst Tugendhat''' (8 March 1930 – 13 March 2023) was a Czechoslovak-born German philosopher. He was a scion of the wealthy and influential Jewish [[Tugendhat]] family. They lived in Venezuela during the Nazi regime, and he studied first in [[Stanford University]], then in [[University of Freiburg|Freiburg]]. He taught internationally in Europa and South America, with a focus on [[Philosophy of language|language analysis]].<ref name="Brumlik" />
+
+== Life and career ==
+[[File:VT16 PD zahrada.jpg|thumb|Villa Tugendhat, where Ernst Tugendhat grew up]]
+Tugendhat was born in [[Brno]], Czechoslovakia, to Fritz and Grete (Löw-Beer) Tugendhat,<ref>{{cite book | url=https://books.google.com/books?id=7srJBAAAQBAJ&pg=PA163 | title=Mies van der Rohe im Diskurs: Innovationen - Haltungen - Werke. Aktuelle Positionen | isbn=9783839423059 | last1=Plüm | first1=Kerstin | date=31 March 2014 |pages=161–193| publisher=transcript Verlag }}</ref> a wealthy Jewish family that had commissioned [[Mies van der Rohe]] to design of the [[Villa Tugendhat]] in Brno.<ref name="Gauger" /> In 1938 the family escaped the Nazi regime,<ref name="MZ" /> first to [[St. Gallen]], Switzerland, and later to settle in [[Caracas]], Venezuela.<ref name="Geyer-Hindemith" /> Ernst had an older half-sister, Hanna Weiss, and three younger siblings – Herbert, Ruth, and [[Daniela Hammer-Tugendhat|Daniela]].<ref>{{cite book |last1=Jamrozik |first1=Julia |last2=Kempster |first2=Coryn |title=Growing up Modern: Childhoods in Iconic Homes |url=https://books.google.com/books?id=f4cgEAAAQBAJ&pg=PA83 |date=2021 |publisher=[[Birkhäuser]] |location=Basel, Switzerland |isbn=978-3-0356-1905-8 |page=88}}</ref><ref name=Lambeck>{{cite book |last=Lambek |first=Michael |title=Behind the Glass: The Villa Tugendhat and Its Family |url=https://public.ebookcentral.proquest.com/choice/PublicFullRecord.aspx?p=7107149 |date=2022 |publisher=[[University of Toronto Press]] |location=Toronto, Ontario |isbn=978-1-4875-4222-1|pages=208–209}}{{subscription required}}</ref> The last two children were born after the family migrated to Venezuela.<ref name=Lambeck />
+
+Tugendhat studied classics at [[Stanford University]] from 1944 to 1949, and went on to do graduate work in philosophy and classics at the [[University of Freiburg]].<ref name="MZ" /> He achieved his [[Doctor of Philosophy|doctorate]] there with a thesis on [[Aristotle]] in 1956.<ref name="Geyer-Hindemith" /> During the years 1956 to 1958 he performed [[postdoctoral researcher|post-doctoral research]] at the [[University of Münster]]. From then until 1964 he was an assistant professor in the department of philosophy at the [[University of Tübingen]], where, after spending 1965 lecturing at the [[University of Michigan]] in [[Ann Arbor]], he gained his [[habilitation]] in 1966 analyzing the concept of [[truth]] in [[Edmund Husserl]] and Martin Heidegger.<ref name="Geyer-Hindemith" /><ref name="Hesse" />
+
+Tugendhat was professor at the [[University of Heidelberg]] from 1966 to 1975. During the 1960s and 1970s, Heidelberg developed into one of the main scenes of the left-wing [[German student movement|student protests in Germany]].<ref name="Ruprecht12.7.1995">{{cite web |url=http://mathphys.fsk.uni-heidelberg.de/ruprecht2.html |title=Student protests at Heidelberg |access-date=16 May 2008 |work=Ruprecht online – University of Heidelberg Homepage |url-status=dead |archive-url=https://web.archive.org/web/20090215141632/http://mathphys.fsk.uni-heidelberg.de/ruprecht2.html |archive-date=15 February 2009 }} from ''Ruprecht'', issue 37, 12.07.95</ref> Because of the [[student movement]] and as a protest against the situation at German universities in the 1970s, Tugendhat gave up his position and relocated to [[Starnberg]], where [[Jürgen Habermas]] worked at the time.<ref name="Brumlik" /> In 1980 he moved to Berlin, becoming, like his friend [[Michael Theunissen]], a professor of philosophy at the [[Free University of Berlin]].<ref name="Brumlik" />
+
+Tugendhat retired in 1992, but was a visiting professor in philosophy at the [[Pontificia Universidad Católica de Chile]], Santiago (1992–1996),<ref name="MZ" /> a researcher at the [[Institute for Human Sciences]], Vienna (1996), and visiting professor at [[Charles University]] in Prague (1997–1998).<ref name="Brumlik" /><ref name="Rack" />
+
+Tugendhat died in [[Freiburg im Breisgau|Freiburg]] on 12 March 2023 at age 93.<ref name="Brumlik" /><ref name="MZ" />
+
+== Awards ==
+Tugendhat became a honorary professor of the [[Tübingen University]] in 1999,<ref name="Rack" /> and in 2002 a [[fellow]] of the {{ill|Kolleg Friedrich Nietzsche|de}}.<ref name="Klassik">{{cite web |url=https://www.klassik-stiftung.de/forschung/forschungsaktivitaeten/kolleg-friedrich-nietzsche/fellowships/distinguished-fellows/ |title=Distinguished Fellows: Distinguished Fellows im Überblick |work=[[Klassik Stiftung Weimar]] |access-date=13 March 2023}}</ref> He received an honorary doctorate from the [[Universidad Autónoma de Madrid]] in 2005, and from the [[University of Zürich]] in 2009. In 2005 he was awarded the [[Meister Eckhart Prize]];<ref>{{cite web |url=https://identity-foundation.de/meister-eckhart-preis/ |title=Meister Eckhart Preis |website=identity-foundation.de |access-date=18 March 2023}}</ref> he donated the prize money to a school, "[[Talitha Kumi]]", in [[Beit Jala]], Palestine.<ref>{{cite web |url=https://monde-diplomatique.de/artikel/!490139 |title=Über west-östliche Mystik und höhere Traurigkeit |website=monde-diplomatique.de |date=13 January 2006 |language=de |access-date=18 March 2023}}</ref>
+
+== Bibliography ==
+Publications by Tugendhat, many of them published by [[Suhrkamp Verlag|Suhrkamp]],<ref>{{cite web |url=https://www.suhrkamp.de/person/ernst-tugendhat-p-5012 |title=Ernst Tugendhat |work=[[Suhrkamp Verlag]] |language=de |access-date=18 March 2023}}</ref> are held by the [[German National Library]], including:<ref>{{cite web |url=https://portal.dnb.de/opac/simpleSearch?reset=true&cqlMode=true&query=auRef%3D118624504&selectedCategory=any |title=Publications by Ernst Tugendhat |work=[[German National Library]] |access-date=18 March 2023}}</ref>
+* 1958: ''Ti kata tinos''. Karl Alber, Freiburg. {{ISBN|3-495-48080-3}}
+* 1967: ''Der Wahrheitsbegriff bei Husserl und Heidegger.'' [[de Gruyter]], Berlin. {{ISBN|978-3-11-010289-5}}
+* 1970: "The Meaning of 'Bedeutung' in Frege" (''Analysis'' 30, pp 177–189)
+* 1975: ''Vorlesungen zur Einführung in die sprachanalytische Philosophie''. Suhrkamp, Frankfurt am Main. {{ISBN|3-518-27645-X}}, In English: Traditional and analytical philosophy. Lectures on the philosophy of language. Transl. by P.A. Gorner. Cambridge University Press, Cambridge 1982.
+* 1979: ''Selbstbewußtsein und Selbstbestimmung''. Suhrkamp, Frankfurt. {{ISBN|3-518-27821-5}}, In English: ''Self-consciousness and self-determination''. Transl. by Paul Stern. Cambridge, Mass./ London: MIT Press, 1986. (= Studies in contemporary German social thought.)
+* 1984: ''Probleme der Ethik''. Reclam, Stuttgart. {{ISBN|3-15-008250-1}}
+* 1992: ''Philosophische Aufsätze''. Suhrkamp, Frankfurt. {{ISBN|3-518-28617-X}}
+* 1992: ''Ethics and Politics''
+* 1993: ''Vorlesungen über Ethik''. Suhrkamp, Frankfurt. {{ISBN|3-518-28700-1}}
+* 1995: "The Moral Dilemma in the Rescue of Refugees" (''Social Research'' 62:1)
+* 2000: "Zeit und Sein in Heideggers ''Sein und Zeit''" (''Sats: Nordic Journal of Philosophy'' 1.1)
+* 2003: ''Egozentrizität und Mystik. Eine anthropologische Studie''. C. H. Beck. {{ISBN|978-3-406-51049-6}}
+* 2007: ''Anthropologie statt Metaphysik''. C. H. Beck. {{ISBN|978-3-406-55678-4}}
+
+==References==
+{{Reflist
+| refs =
+
+<ref name="Brumlik">{{cite news
+| last = Brumlik
+| first = Micha
+| url = https://taz.de/Nachruf-auf-Ernst-Tugendhat/!5918852/
+| title =  Nachruf auf Ernst Tugendhat: Sprachanalyse und Mystik 
+| newspaper = [[Die Tageszeitung|taz]]
+| date = 13 March 2023
+| language = de
+| access-date = 17 March 2023
+}}</ref>
+
+<ref name="Gauger">{{cite news
+| last = Gauger
+| first = Hans-Martin
+| url = https://www.badische-zeitung.de/der-freiburger-philosoph-ernst-tugendhat-wird-90-jahre-alt
+| title = Der Freiburger Philosoph Ernst Tugendhat wird 90 Jahre alt
+| newspaper = [[Badische Zeitung]]
+| date = 5 March 2020
+| language = de
+| access-date = 13 March 2023
+}}</ref>
+
+<ref name="Geyer-Hindemith">{{cite news
+| last = Geyer-Hindemith
+| first = Christian
+| url = https://www.faz.net/aktuell/feuilleton/der-philosoph-ernst-tugendhat-wird-neunzig-jahre-alt-16667135.html
+| title = Ernst Tugendhat wird 90: Was meint "ich"?
+| newspaper = [[Frankfurter Allgemeine Zeitung|FAZ]]
+| date = 8 March 2020
+| language = de
+| access-date = 23 January 2023
+}}</ref>
+
+<ref name="Hesse">{{cite news
+| last = Hesse
+| first = Michael
+| url = https://www.fr.de/kultur/gesellschaft/philosoph-ernst-tugendhat-der-solitaer-92143082.html
+| title = Philosoph Ernst Tugendhat: Der Solitär
+| newspaper = [[Frankfurter Rundschau]]
+| date = 13 March 2023
+| language = de
+| access-date = 17 March 2023
+}}</ref>
+
+<ref name="Rack">{{cite news
+| last = Raack
+| first = Jochen
+| url = http://www.gkpn.de/Tugendhat_Alter.pdf
+| title = Das Alter – Die Herausforderung der Frustrationen
+| journal = Aufklärung und Kritik
+| date = November 2006
+| language = de
+| page = 77
+| access-date = 17 March 2023
+| archive-date = 9 July 2021
+| archive-url = https://web.archive.org/web/20210709185119/http://www.gkpn.de/Tugendhat_Alter.pdf
+| url-status = dead
+}}</ref>
+
+<ref name="MZ">{{cite web
+| url = https://www.mz.de/kultur/philosoph-ernst-tugendhat-gestorben-3565881
+| title = Mit 93 Jahren: Philosoph Ernst Tugendhat gestorben
+| date = 13 March 2023
+| newspaper = [[Mitteldeutsche Zeitung]]
+| language = de
+| access-date = 13 March 2023
+}}</ref>
+
+}}
+
+== Further reading ==
+* {{cite journal | last=Barth | first=Hans-Martin | title=Egozentrizität, Mystik und christlicher Glaube: Eine Auseinandersetzung mit Ernst Tugendhat | journal=Neue Zeitschrift für Systematische Theologie und Religionsphilosophie | publisher=Walter de Gruyter GmbH | volume=46 | issue=4 | year=2004 | issn=0028-3517 | doi=10.1515/nzst.2004.46.4.467 | pages=467–482 | s2cid=170603621 | language=de}}
+* Bowie, Andrew. "Ernst Tugendhat, Philosophische Aufsätze" (''European Journal of Philosophy'' 2/3 (1994), pp 345–351)
+* {{cite journal | last=Brito | first=Adriano Naves de | title=The Role of Reasons and Sentiments in Tugendhat's Moral Philosophy | journal=Crítica (México D. F. En línea) | publisher=Universidad Nacional Autonoma de Mexico | volume=40 | issue=119 | date=8 January 2008 | issn=1870-4905 | doi=10.22201/iifs.18704905e.2008.1009 | pages=29–43| doi-access=free }}
+* {{cite book | last=Zabala | first=Santiago | title=The hermeneutic nature of analytic philosophy : a study of Ernst Tugendhat | publication-place=New York | date=2008 | isbn=978-0-231-51297-8 | oclc=647929752}}
+
+== External links ==
+* [https://web.archive.org/web/20070311104340/http://www.ksta.de/ks/images/mdsBild/1109243487491l.jpg Photograph of Ernst Tugendhat] ''[[Kölner Stadtanzeiger]]''
+* [http://www.signandsight.com/features/1487.html "The time for philosophising is over"] (interview) ''Sign and Sight'' 20 August 2007
+* [https://web.archive.org/web/20100610071314/http://cup.columbia.edu/static/Zabala-Santiago-interview Interview with Santiago Zabala, author of The Hermeneutic Nature of Analytic Philosophy: A Study of Ernst Tugendhat] [[Columbia University Press]], archived 10 June 2010
+* {{YouTube|Anbp8kDk2eU|Ernst Tugendhat: "Unsere Angst vor dem Tod"}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tugendhat, Ernst}}
+[[Category:1930 births]]
+[[Category:2023 deaths]]
+[[Category:People from Brno]]
+[[Category:Czech philosophers]]
+[[Category:20th-century German philosophers]]
+[[Category:21st-century German philosophers]]
+[[Category:Jewish philosophers]]
+[[Category:Philosophers of language]]
+[[Category:Philosophers of mind]]
+[[Category:Czech Jews]]
+[[Category:Venezuelan people of Czech descent]]
+[[Category:Czechoslovak emigrants to Venezuela]]
+[[Category:Czechoslovak emigrants to West Germany]]
+[[Category:Czechoslovak expatriates in Switzerland]]
+[[Category:Czechoslovak expatriates in the United States]]
+[[Category:German male writers]]
+[[Category:German expatriates in Chile]]
+[[Category:Charles University alumni]]
+[[Category:Stanford University alumni]]
+[[Category:University of Fribourg alumni]]
+[[Category:Academic staff of Charles University]]
+[[Category:Academic staff of Heidelberg University]]
+[[Category:Academic staff of the Free University of Berlin]]
+[[Category:Academic staff of the University of Tübingen]]
+[[Category:Academics of the University of Oxford]]
+[[Category:Academic staff of the Pontifical Catholic University of Chile]]

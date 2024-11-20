@@ -1,0 +1,94 @@
+{{Other people|Wang Hao}}
+{{family name hatnote|[[Wang (surname)|Wang (王)]]|lang=Chinese}}
+{{Use dmy dates|date=March 2023}}
+{{Infobox scientist
+| name = Hao Wang
+| image = File:Hao Wang pic.jpg
+| caption = Hao in 1980
+| birth_date = {{Birth date|df=yes|1921|5|20}}
+| birth_place = [[Jinan]], Shandong, [[Republic of China (1912–1949)|China]]
+| death_date = {{death date and age|df=yes|1995|5|13|1921|5|20}}
+| death_place = New York City, New York, United States
+| residence = 
+| citizenship = 
+| nationality = 
+| field = {{Plainlist|
+*Mathematics
+*Philosophy
+*[[Computer science]]
+}}
+| work_institution = {{Plainlist|
+*[[Harvard University]]
+*[[University of Oxford]]
+*[[Rockefeller University]]
+}}
+| alma_mater = {{Plainlist|
+*[[National Southwestern Associated University]]
+*[[Tsinghua University]]
+|[[Harvard University]]
+}}
+| doctoral_advisor = {{nowrap|[[Willard Van Orman Quine]]}}
+| academic_advisors = [[Paul Bernays]]
+| doctoral_students = {{Plainlist|
+*[[Stephen Cook]]
+*[[Shimon Even]]
+*[[Joyce Friedman]]
+}}
+| known_for = [[Wang tiles]]<br>[[Wang B-machine]]
+}}
+
+'''Hao Wang''' ({{zh|c=王浩|p=Wáng Hào}}; 20 May 1921&nbsp;– 13 May 1995) was a Chinese-American [[logician]], philosopher, mathematician, and commentator on [[Kurt Gödel]].
+
+==Biography==
+Born in [[Jinan]], Shandong, in the [[Republic of China (1912–1949)|Republic of China]] (today in the People's Republic of China), Wang received his early education in China. He obtained a BSc degree in mathematics from the [[National Southwestern Associated University]] in 1943 and an M.A. in philosophy from [[Tsinghua University]] in 1945, where his teachers included [[Feng Youlan]] and [[Jin Yuelin]], after which he moved to the United States for further graduate studies. He studied logic under W.V. Quine at [[Harvard University]], culminating in a Ph.D. in 1948. He was appointed to an assistant professorship at Harvard the same year.
+
+During the early 1950s, Wang studied with [[Paul Bernays]] in [[Zürich]]. In 1956, he was appointed Reader in the Philosophy of Mathematics at the [[University of Oxford]]. In 1959, Wang wrote on an [[IBM 704]] computer a program that in only 9 minutes mechanically proved several hundred [[mathematical logic]] theorems in [[Alfred North Whitehead|Whitehead]] and [[Bertrand Russell|Russell]]'s ''[[Principia Mathematica]]''.<ref>{{Citation |last1=Wang |first1=Hao |title=Toward Mechanical Mathematics |doi=10.1147/rd.41.0002 |journal=IBM Journal of Research and Development |year=1960 |volume=4 |number=1 |pages=2–22}} [Wang 1960a].</ref> In 1961, he was appointed [[Gordon McKay]] Professor of Mathematical Logic and Applied Mathematics at Harvard.<ref>{{cite web |url=http://lewis.seas.harvard.edu/biocv |title = Brief Biography {{!}} Harry R. Lewis}}</ref> From 1967 until 1991, he headed the logic research group at [[Rockefeller University]] in New York City, where he was professor of logic.  In 1972, Wang joined in a group of Chinese American scientists led by [[Chih-Kung Jen]] as the first such delegation from the U.S. to the People's Republic of China.
+
+One of Wang's most important contributions was the [[Wang tile]].<ref>[Wang 1960a].</ref> He showed that any [[Turing machine]] can be turned into a set of Wang tiles. The domino problem is to find an algorithm that uses a set of Wang tiles to tile the plane. The first noted example of [[aperiodic tiling]] is a set of Wang tiles, whose nonexistence Wang had once conjectured, discovered by his student [[Robert Berger (mathematician)|Robert Berger]] in 1966. Wang also had a significant influence on theory of computational complexity.<ref>50 Years of Computational Complexity: Hao Wang and the Theory of Computation, https://arxiv.org/abs/2206.05274</ref>
+
+A philosopher in his own right,<ref>[Wang 1974 and 1985a]</ref> Wang also developed a penetrating interpretation of [[Ludwig Wittgenstein]]'s later philosophy of mathematics, which he called "anthropologism."  Later he broadened this reading in the foundations of mathematics.  He chronicled [[Kurt Gödel]]'s philosophical ideas and authored several books on the subject,<ref>[Wang 1996a, 1987a, and in 1974a].</ref> thereby providing contemporary scholars many insights elucidating Gödel's later philosophical thought. He saw his own philosophy of "substantial factualism" as a middle ground that includes both abstract theoretical formulations and the ordinary language of everyday discourse.
+
+In 1983 he was presented with the first Milestone Prize for [[Automated theorem proving|Automated Theorem-Proving]], sponsored by the [[International Joint Conference on Artificial Intelligence]].<ref>{{cite book |author1=Loveland, Donald W. |author2=Bledsoe, W. W. |title=Automated theorem proving: after 25 years |publisher=American Mathematical Society |location=Providence, Rhode Island |year=1984 |isbn=0-8218-5027-X |url=https://books.google.com/books?id=zJFaRikPhB4C&pg=PA47|page=47}}</ref>
+
+On May 13, 1995, Wang died at [[Weill Cornell Medical Center|New York Hospital]] one week from his 74th birthday. According to his wife Hanne Tierney, Wang's cause of death was from [[lymphoma]].<ref name="NYTObituary">{{Cite news |date=1995-05-17 |title=Hao Wang, 73, Expander of Logician's Themes |url=https://www.nytimes.com/1995/05/17/obituaries/hao-wang-73-expander-of-logician-s-themes.html |access-date=2024-03-30 |work=[[The New York Times]] |language=en-US |issn=0362-4331}}</ref><ref name="TheBulletinOfSymbolicLogic_Parsons1996">{{Cite journal |last=Parsons |first=Charles |date=March 1996 |title=In Memoriam: Hao Wang, 1921-1995 |journal=The Bulletin of Symbolic Logic |volume=2 |issue=1 |jstor=421050 |via=[[JSTOR]]}}</ref> In addition to Tierney, Wang was survived by a daughter and two sons.<ref name="NYTObituary" />
+
+==Books==
+*''Les Systèmes axiomatiques de la Théorie des Ensembles'', Gauthier-Villars; Paris, 1953. [Wang 1953a, with Robert McNaughton].<ref>{{cite journal|author=Halmos, Paul R.|author-link=Paul Halmos|title=Review: ''Les systèmes axiomatiques de la théorie des ensembles'' par Hao Wang et Robert McNaughton|journal=Bull. Amer. Math. Soc.|year=1954|volume=60|issue=1|pages=93–94|url=https://www.ams.org/journals/bull/1954-60-01/S0002-9904-1954-09769-0/S0002-9904-1954-09769-0.pdf|doi=10.1090/s0002-9904-1954-09769-0}}</ref><ref>{{cite journal|doi=10.1215/S0012-7094-37-00324-7|title=The imbedding of Riemann spaces in the large|year=1937|last1=Allendoerfer|first1=Carl B.|journal=Duke Mathematical Journal|volume=3|issue=2}}</ref><ref>{{cite journal|doi=10.2307/2267667|jstor=2267667|last1=Borgers|first1=Alfons|title=Reviewed work: ''Les Systèmes Axiomatiques de la Théorie des Ensembles'', Hao Wang, Robert McNaughton, with a preface by P. Destouches-Fevrier|journal=The Journal of Symbolic Logic|year=1954|volume=19|issue=1|page=64|s2cid=123873097 }}</ref>
+*''A Survey of Mathematical Logic''.  Peking:  Science Press; Amsterdam:  North-Holland, 1962. [Wang 1962a].
+*''From Mathematics to Philosophy''.  London:  Routledge & Kegan Paul, 1974.  [Wang 1974a].
+*''Popular Lectures on Mathematical Logic''.  New York:  Van Nostrand, 1981.  [Wang 1981a].  {{ISBN|0-486-67632-3}}. Dover reprint 2014. {{isbn|9780486676326}}<ref>{{cite journal|author=Stenger, Allen|title=Review of ''Popular Lectures on Mathematical Logic'' by Hao Wang|date=30 November 2015|website=MAA Reviews, Mathematical Association of America|url=https://www.maa.org/press/maa-reviews/popular-lectures-on-mathematical-logic}}</ref>
+*''Beyond Analytic Philosophy: Doing Justice to What We Know''.  Cambridge, Massachusetts:  MIT Press, 1985.  [Wang 1985a].  {{ISBN|0-262-23124-7}}.
+*''Reflections on Kurt Gödel''.  Cambridge, Massachusetts:  MIT Press, 1987.  [Wang 1987a].  {{ISBN|0-262-73087-1}}.
+*''Computation, Logic, Philosophy. A Collection of Essays''.  Beijing:  Science Press; Dordrecht:  Kluwer Academic, 1990.  [Wang 1990a].  {{ISBN|7-03000211-3}}.
+*''A Logical Journey: From Gödel to Philosophy''.  Cambridge, Massachusetts:  MIT Press, 1996.  [Wang 1996a].  {{ISBN|0-262-23189-1}}.<ref>Rodríguez-Consuegra, Francisco. [http://projecteuclid.org/euclid.rml/1081173781 "Philosophy in Hao Wang's Conversations with Gödel: Review of Hao Wang, A Logical Journey. From Gödel to Philosophy."] Modern Logic 8, no. 3–4 (2001): 137–152.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{MathGenealogy|id=29869}}
+*[https://richardzach.org/2016/09/03/interview-with-hao-wang-and-robin-gandy/ Video interview with Hao Wang] and [[Robin Gandy]] (and portrait of Wang)
+
+;Detailed bibliography
+*[https://academic.oup.com/philmat/pages/bibliography-of-hao-wang "A Bibliography of Hao Wang"] from ''Philosophia Mathematica.''  References in square brackets are to this source.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wang, Hao}}
+[[Category:1921 births]]
+[[Category:1995 deaths]]
+[[Category:20th-century American mathematicians]]
+[[Category:Philosophers of mathematics]]
+[[Category:Chinese emigrants to the United States]]
+[[Category:Chinese logicians]]
+[[Category:American logicians]]
+[[Category:Harvard Graduate School of Arts and Sciences alumni]]
+[[Category:Harvard University Department of Philosophy faculty]]
+[[Category:Tsinghua University alumni]]
+[[Category:American writers of Chinese descent]]
+[[Category:Writers from Dezhou]]
+[[Category:Educators from Shandong]]
+[[Category:Scientists from Shandong]]
+[[Category:Philosophers from Shandong]]
+[[Category:Corresponding fellows of the British Academy]]
+[[Category:National Southwestern Associated University alumni]]

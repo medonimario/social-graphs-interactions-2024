@@ -1,0 +1,170 @@
+{{Short description|American philosopher (1892–1987)}}
+{{Use American English|date=January 2023}}
+{{Use mdy dates|date=January 2023}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[20th-century philosophy]]
+|image            = 
+|caption          = 
+|name             = Brand Blanshard
+|birth_date       = {{birth date|1892|8|27}}
+|birth_place      = [[Fredericksburg, Ohio]], U.S.
+|death_date       = {{death date and age|1987|11|19|1892|8|27}}
+|death_place      = [[New Haven, Connecticut]], U.S.
+|alma_mater       = [[University of Michigan]]<br>[[Merton College, Oxford]]
+|school_tradition = American [[rationalism]]<br>[[American idealism]]<br>[[Epistemological idealism]]<ref>Dorothy Emmet, ''The Nature of Metaphysical Thinking'', Springer, 2015, p. 73 n. 1.</ref><br>[[Epistemic coherentism]]<ref name=SEP-CTJ>[https://plato.stanford.edu/entries/justep-coherence/ Coherentist Theories of Epistemic Justification (Stanford Encyclopedia of Philosophy)]</ref><br>[[Coherence theory of truth]]<ref name=SEP-CTT>[https://plato.stanford.edu/entries/truth-coherence/ The Coherence Theory of Truth (Stanford Encyclopedia of Philosophy)]</ref>
+|main_interests   = [[Epistemology]] * [[Ethics]] * [[Metaphilosophy]] * [[Philosophy of Psychology]] * [[Philosophy of Religion]] * [[Philosophy of Education]] 
+|notable_ideas    = Contemporary formulation of the [[coherence theory of truth]]<ref name=SEP-CTT/>
+|influences       = [[Horace W. B. Joseph]], [[William Pepperell Montague]], [[Clarence Irving Lewis]], [[Josiah Royce]], [[F. H. Bradley]], [[Bernard Bosanquet (philosopher)|Bernard Bosanquet]]
+|influenced       = [[A. C. Ewing]], [[James A. Michener]]
+|doctoral_advisor = [[C. I. Lewis]]
+}}
+
+'''Percy Brand Blanshard''' ({{IPAc-en|ˈ|b|l|æ|n|ʃ|ər|d}} {{respell|BLAN|shərd}}; August 27, 1892 – November 19, 1987) was an American philosopher known primarily for his defense of [[rationalism]] and [[idealism]]. 
+
+==Biography==
+Brand Blanshard was born August 27, 1892, in [[Fredericksburg, Ohio]]. His parents were Francis, a Congregational minister, and Emily Coulter Blanshard, Canadians who met in high school in [[Weston, Toronto|Weston]], [[Ontario]]. The [[Freethought|freethinker]] and sometime ''[[The Nation (U.S. periodical)|The Nation]]'' editor [[Paul Blanshard|Paul Beecher Blanshard]] was his fraternal twin. During a visit to Toronto in 1893, their mother Emily fell down stairs while holding a kerosene lamp. She died of burns the next day. The Rev. Mr. Blanshard brought his sons to [[Grand Rapids, Michigan]], for maternal care by his mother, Orminda Adams Blanshard, widow of Methodist clergyman Shem Blanshard. Francis briefly left them in her care to pastor a church in [[Helena, Montana]]. In 1899 the four moved south to [[Edinburg Township, Ohio]]. Upon being diagnosed with [[tuberculosis]], Francis was advised to seek the drier climate of the American West. In 1902, Francis Blanshard bade his mother and sons goodbye. The family moved northwest to [[Bay View, Michigan]], while Francis moved alone to [[Albuquerque, New Mexico]], where, in 1904, he died, alone in a tent.
+
+Mrs. Orminda Blanshard raised her grandsons on an annual pension of $250 from the Methodist church while the boys washed dishes at a restaurant. Realizing their need for good education, the family relocated to Detroit in 1908 so the boys could graduate from the well known [[Central High School (Detroit, Michigan)|Central High School]]. Soon both were at the top of their class, joined the debating team, and Brand was made class Poet. Many years later, [[Bertrand Russell]] was to express surprise at the quality of Brand's poetry. Brand also excelled at baseball.
+
+In 1910 the Blanshard brothers entered the [[University of Michigan]], whose annual tuition was only $30 for state residents. Brand discovered philosophy while majoring in classics. After a mere three years at Michigan, he obtained a [[Rhodes Scholarship]] to study at [[Merton College, Oxford]],<ref name="MCreg">{{cite book|editor1-last=Levens|editor1-first=R.G.C.|title=Merton College Register 1900-1964|date=1964|publisher=Basil Blackwell|location=Oxford|page=94}}</ref> where he studied under [[Horace W. B. Joseph]], who greatly influenced him, and met [[F.H. Bradley]] and [[T.S. Eliot]]. Upon the outbreak of [[World War I]], he interrupted his studies and joined the British Army YMCA, which sent him to [[Bombay]] and [[Amhara Region|Amhara]], where he witnessed poverty and the horrors of war at first hand. German submarine warfare forced him to return to the US via Japan. Fate reunited the Blanshard twins at [[Columbia University]] where Paul was studying the new field of Sociology. The brothers participated in a project run by their shared mentor and friend, [[John Dewey]]. On this project they met Frances Bradshaw of Smith College - see below. Brand obtained his M.A., studying under [[William Pepperell Montague|W.P. Montague]]. From Columbia, he went straight into the US Army, serving in France. Once demobilized, he returned to Oxford to complete his BA (Hons) and then earned his doctorate at Harvard under [[Clarence Irving Lewis]].
+
+After a short teaching stint at Michigan, he taught at [[Swarthmore College]] from 1925 to 1944. He spent the remainder of his career at [[Yale University]] until his retirement in 1961.  At Yale, he served as chairman of the Department of Philosophy for many years. He was elected to the [[American Academy of Arts and Sciences]] in 1946 and the [[American Philosophical Society]] in 1948.<ref>{{Cite web |title=Brand Blanshard |url=https://www.amacad.org/person/brand-blanshard |access-date=2023-03-07 |website=American Academy of Arts & Sciences |date=February 9, 2023 |language=en}}</ref><ref>{{Cite web |title=APS Member History |url=https://search.amphilsoc.org/memhist/search?creator=Brand+Blanshard&title=&subject=&subdiv=&mem=&year=&year-max=&dead=&keyword=&smode=advanced |access-date=2023-03-07 |website=search.amphilsoc.org}}</ref> In 1952, he delivered the [[Gifford Lectures]] in Scotland. In 1955 he was elected as an Honorary Fellow of Merton College.<ref name=MCreg />
+
+In 1918, Blanshard married Frances Bradshaw,<ref name=MCreg /> who would become dean of women at Swarthmore. It came as a great blow to him when Frances died in 1966. He completed her book ''Frank Aydelotte of Swarthmore'', publishing it in 1970. In 1969, after what he later described as "loneliness, failing health, and failing motives," he married Roberta Yerkes, a daughter of his Yale colleague [[Robert M. Yerkes]]. Brand Blanshard died in 1987 at the age of 95, in [[New Haven, Connecticut]].<ref>Most of the information concerning Blanshard's life comes from his autobiographical essay in ''The Philosophy of Brand Blanshard''. Parts of this summary were adapted from the biographical essay at [http://progressiveliving.org/brand_blanshard.htm http://progressiveliving.org/brand_blanshard.htm] {{webarchive |url=https://web.archive.org/web/20040427070122/http://progressiveliving.org/brand_blanshard.htm |date=April 27, 2004 }}, for which Blanshard's autobiography is the major primary source.</ref>
+
+==Philosophical work==
+
+Blanshard was a [[rationalism|rationalist]] who espoused and defended a strong conception of [[reason]] during a century when reason came under attack in philosophy and psychology alike. He was also generally regarded as one of the last absolute [[idealism|idealists]] because he was strongly influenced by [[British idealism]] (especially [[F.H. Bradley]] and [[Bernard Bosanquet (philosopher)|Bernard Bosanquet]]).  However, this influence was felt primarily in his views concerning logic, values, and [[epistemology]].  He departed from absolute idealism in many respects, so much so that he explicitly disavowed being an idealist in an essay in ''The Philosophy of Brand Blanshard'' (in his reply to Charles Hartshorne).  Blanshard sharply distinguished [[epistemological idealism]] (the position that all objects of direct experience exist only in consciousness) from [[ontological]] idealism (the position that the world in itself is mental, or made of mind-stuff).  While he accepted epistemological idealism, he wasn't prepared to take the extra step to ontological idealism, unlike [[George Berkeley|Berkeley]], [[G.W.F. Hegel|Hegel]], [[Josiah Royce|Royce]], or [[Bernard Bosanquet (philosopher)|Bosanquet]].  Rather, he thought it all but certain that the material world exists independently of mind and rejected the basic dictum of Berkeleian ontological idealism, that ''esse est percipi'' (to be is to be perceived).
+
+Strongly critical of [[positivism]], [[logical atomism]], [[pragmatism]], and most varieties of [[empiricism]], he held that the universe consists of an [[Absolute (philosophy)|Absolute]] in the form of a single all-encompassing intelligible system in which each element has a necessary place. Moreover, this Absolute—the universe as a whole—he held to be the only true "[[particular]]", all elements within it being ultimately resoluble into specific "[[Universal (metaphysics)|universals]]" (properties, relations, or combinations thereof that might be given identically in more than one context). He regarded his metaphysical [[monism]] as essentially a form of [[Baruch Spinoza|Spinozism]].
+
+Also strongly critical of [[reductionism|reductionist]] accounts of [[mind]] (e.g., [[behaviorism]]), he maintained to the contrary that mind is the reality of which we are in fact ''most'' certain. Thought, he held, is that activity of mind which aims at [[truth]], and the ultimate object of thought is full understanding of the Absolute. Such understanding comes about, in his view, through a grasp of necessity: to understand (or explain) something is to see it as necessitated within a system of which it is a part.
+
+On Blanshard's view, the Absolute is thus not merely consistent (i.e., noncontradictory) but positively coherent, shot through with relations of necessity and indeed operating purely [[determinism|deterministically]]. (Blanshard held the law of [[causality]], properly understood, to be a logical law and believed that effects logically determine their causes as well as vice versa.) Strictly speaking, he admitted, we cannot ''prove'' that there are no atomic facts, bare conjunctions, or sheer surds in nature, but we can take it as our working hypothesis that relations of necessity are always to be found; until and unless this hypothesis meets with absolute defeat, we are justified in adopting it at least provisionally.
+
+In his early work ''The Nature of Thought'', he defended a [[coherence theory of truth]] (though this is not the main thrust of that book, which, as the title makes explicit, is an essay in philosophical psychology). In his later years, however, he came to think that the relation between thought and object was ''sui generis'' and might be described, about equally inadequately, as either "correspondence" or "coherence"; at any rate, he admitted, the "coherence" between thought and its ideal object differs from the coherence that may obtain among thoughts. He also backed away from his early (more or less Bradleian) claim that the ultimate aim of thought was ''identification'' with its object.
+
+He defended a strong [[doctrine of internal relations]]. He maintained, with longtime friend and philosophical colleague [[A.C. Ewing]], that the doctrine would have caught on far better had it been more accurately described in terms of "relevance" rather than of "internality". His doctrine on this point was that no relation is ''entirely'' irrelevant to the natures of the terms it relates, such relevance (and therefore "internality") being a matter of degree. One of Blanshard's most important exchanges on this topic was with [[Philosophy|philosopher]] [[Ernest Nagel]], who attacked the doctrine of internal relations — indeed, Blanshard's entire conception of reason — in his essay "Sovereign Reason". Blanshard's fullest published reply appears in his book ''Reason and Analysis''.
+
+Sympathetic to [[theism]] but skeptical of traditional religious and theological dogma, he did not regard his Absolute as having the characteristics of a personal [[God]] but nevertheless maintained that it was a proper subject of (rational) religious inquiry and even devotion. Defining "religion" as the dedication of one's whole person to whatever one regards as true and important, he took as his own religion the service of [[reason]] in a very full and all-encompassing metaphysical sense, defending what he called the "rational temper" as a human ideal (though one exceedingly difficult to achieve in practice). His admiration for this temper extended his philosophical loyalties across "party lines", especially to the one philosopher he regarded as exemplifying that temper to the greatest degree: [[Henry Sidgwick]]. (He also spoke highly of [[Bertrand Russell]].) Theologically, Blanshard was raised Methodist but tended toward theological liberalism from an early age, a tendency that became more pronounced as he grew older. Beginning during his time at Swarthmore, he maintained a lifelong connection with the [[Religious Society of Friends]] despite personal disagreements with some of Quakerism's generally accepted tenets (notably its [[pacifism]]).
+
+In ethics, he was broadly [[utilitarianism|utilitarian]]; however, he preferred the term "[[teleology|teleological]]" since the term "utilitarian" suggested that all goods were instrumental and he believed (with, e.g., H.W.B. Joseph and [[W.D. Ross]]) that some experiences were intrinsically good. He also denied that pleasure is the sole good, maintaining instead (with [[Thomas Hill Green|T.H. Green]]) that experiences are good as wholes and that pleasure is not, strictly speaking, a separable element within such wholes. Disagreeing with [[G.E. Moore]] that the "[[naturalistic fallacy]]" is really a fallacy, he gave an entirely naturalistic analysis of goodness, holding that an experience is intrinsically good to the degree that it (a) fulfills an impulse or drive and (b) generates a feeling-tone of satisfaction attendant upon such fulfillment. He regarded the first of these factors as by far the more important and held that the major intrinsic goods of human experience answer to the basic drives of human nature; he maintained that these two factors together provide not merely a criterion for but the actual meaning of intrinsic goodness. (He defined all other ethical terms, including "right", in terms of intrinsic goodness, a right act, for example, being that act which tends to produce the greatest amount of intrinsic goodness under the relevant circumstances.)
+
+The little that Blanshard wrote on [[political theory]] (mainly in ''Reason and Goodness'') owed much to Green and Bosanquet. These two philosophers, he held, had rescued [[Jean-Jacques Rousseau]]'s confused doctrine of the [[general will]] and placed it on a rationally-defensible footing. Our "real will" (in Bosanquet's terms) or "rational will" (in Blanshard's) is simply that which we ''would'' want, all things considered, if our reflections upon what we presently desire were pursued to their ideal limit. Blanshard argued that there is excellent reason to regard this "ideal" will as in fact real, and contended that it provided the foundation for a rational political theory. The state is justified if, and precisely insofar as, it helps individual human beings to pursue and achieve the common end which is the object of their rational will. He did not develop this doctrine to the point of advocating any specific form of political organization or social structure, but in his Schilpp autobiography, he described an early sympathy for [[socialism]] and to having voted the "straight Democratic ticket" over the previous 40-odd years.
+
+A firm believer in clarity of exposition, and himself one of the ablest writers of philosophical prose in the English language, he wrote a short book "On Philosophical Style" in defense of the view that philosophical profundity need not (and should not) be couched in obscurity and obfuscation.  Both this book and his ''Reason and Analysis'' are probably best understood as complementary facets of his extensive work on metaphilosophy (never labeled as such).  While Blanshard was a great admirer of the clarity and rigor of British analytical philosophy, which he saw as its best characteristic, he was appalled by what he regarded as the greatly shrunken scope of philosophy as conceived by both logical positivism and later 'ordinary language' philosophy.  His extraordinarily thorough and telling critique of these approaches in "Reason and Analysis" has profoundly therapeutic implications for how philosophy might be done, and the topics, including metaphysics, with which it may properly be concerned.  However, his incisive critiques of Wittgenstein, Russell, and Moore, though almost superhumanly fair, placed him very much at odds with the main currents of Anglo-American philosophy.  At the same time he was unsympathetic to what he saw as the anti-rationalism, and tendency to obscurantism, of Existentialism, which placed him at odds with some tendencies in Continental philosophy.  Finally, his most ambitious book, "The Nature of Thought", reached publication immediately before the outbreak of war, which severely limited the reception it received.  In consequence of this, his oeuvre hasn't achieved the recognition and influence it otherwise might have.
+
+==Quotations from ''The Philosophy of Brand Blanshard''==
+[[File:Brand Blanshard Lib of Living Philosophers volume.jpg|thumb|250px|right]]
+''[[iarchive:philosophyofbran0000unse|The Philosophy of Brand Blanshard]]'' (Open Court, 1980), edited by [[Paul Arthur Schilpp]], is volume XV in the [[Library of Living Philosophers]] series.  This capstone work contains Blanshard's 183-page autobiography, detailed responses by Blanshard to his critics, and a complete bibliography.<ref>{{Cite book |url=http://archive.org/details/philosophyofbran0000unse |title=The Philosophy of Brand Blanshard |date=1980 |publisher=La Salle, Ill. : Open Court |isbn=978-0-87548-349-8 |editor-last=Schilpp |editor-first=Paul Arthur |editor-link=Paul Arthur Schilpp |url-access=registration |via=[[Internet Archive]]}}</ref>
+
+===On his philosophy===
+{{quote|If there is anything in my philosophy that I should hope might last, it is the quite unoriginal but none the less important thesis that the rational life is at once the worthiest of lives and the most valuable.|"Autobiography" in ''The Philosophy of Brand Blanshard'', p. 97.}}
+
+===On the world===
+{{quote|Many philosophers of the present day are convinced that every existing thing and event is logically unconnected with any other and could disappear from the world without necessarily affecting anything else.  Such a rubbish-heap view of the world I cannot accept.|"Autobiography" in ''The Philosophy of Brand Blanshard'', p. 132.}}
+
+===On mind and consciousness===
+{{quote|What mind is like can be understood only from within.|"Autobiography" in ''The Philosophy of Brand Blanshard'', p. 134.}}
+
+{{quote|I have never been able to accept the realist view that the objects of direct experience are independent of consciousness.  Indeed everything we sense or feel seems to me to exist only in consciousness.|"Autobiography" in ''The Philosophy of Brand Blanshard'', p. 142.}}
+
+{{quote|If science could get rid of consciousness, it would have disposed of the only stumbling block to its universal application.|"Reply to Francis V. Raab" in ''The Philosophy of Brand Blanshard'', p. 807.}}
+
+===On the eternal===
+{{quote|I do not think that G. H. Hardy was talking nonsense when he insisted that the mathematician was discovering rather than creating, nor was it wholly nonsense for Kepler to exult that he was thinking God's thoughts after him.  The world for me is a necessary system, and in the degree to which the thinker can surrender his thought to that system and follow it, he is in a sense participating in that which is timeless or eternal.  This has been part of the thought of all the great rationalists from Plato through Aquinas and Spinoza to Hegel and McTaggart.|"Reply to Lewis Edwin Hahn" in ''The Philosophy of Brand Blanshard'', p. 901.}}
+
+===On Bertrand Russell===
+{{quote|What he loved above all—rationality—and what he hated above all—cruelty—were surely the right things, whether he found them in the right places or not.|"Autobiography" in ''The Philosophy of Brand Blanshard'', p. 89.}}
+
+==Major works==
+* {{cite book
+  | title=The Nature of Thought
+  | url=https://archive.org/details/natureofthought0001blan
+  | url-access=registration
+  | publisher=Allen & Unwin, Library of Philosophy series
+  | location = London
+  | year = 1939
+}}  2 volumes.
+
+* {{cite book
+  | title=Reason and Goodness
+  | publisher=Allen & Unwin, Muirhead Library of Philosophy
+  | location = London
+  | year = 1961
+}} 451 pages.
+
+* {{cite book
+  | title=Reason and Analysis
+  | publisher=Allen & Unwin
+  | location = London
+  | year = 1962
+}} [[The Paul Carus lectures]], 12th series. 505 pages.
+
+* {{cite book
+  | title=The Uses of a Liberal Education
+  | url=https://archive.org/details/usesofliberaledu0000blan
+  | url-access=registration
+  | publisher= Open Court
+  | location = La Salle, Illinois
+  | year = 1973
+| isbn=9780875481227
+ }} 407 pages.
+
+* {{cite book
+  | title=Reason and Belief
+  | publisher=Allen & Unwin
+  | location = London
+  | year = 1974
+}}620 pages. {{ISBN|0-04-230013-4}}.
+
+* {{cite book
+  | title=Four Reasonable Men
+  | publisher=Wesleyan University Press, distributed by Harper & Row
+  | location = Middletown, Conn
+  | year = 1984
+}} His last work. Contains biographical accounts of four exemplars of the rational temper: [[Marcus Aurelius]], [[John Stuart Mill]], [[Ernest Renan]], and [[Henry Sidgwick]]. 308 pages. {{ISBN|0-8195-5100-7}}.
+
+==See also==
+*[[American philosophy]]
+*[[List of American philosophers]]
+
+==Notes==
+{{Reflist}}
+
+==External links==
+*[https://everythingprogressive.org/biography/brand_blanshard/brand_blanshard_biography.html Biography of Blanshard] at the Everything Progressive website.
+*[https://www.youtube.com/watch?v=wFqRQFSoD_A Dewey anecdote], recording of Blanshard lecturing, incorporating the essentials of his critique of Dewey and of pragmatism.  
+*Ryan, Scott. "[https://web.archive.org/web/20060221033410/http://www.monadnock.net/essays/blanshard.html The Rational Temper: Brand Blanshard and What Objectivists Can Learn From Him.]"
+*Branden, Nathaniel, 1963. "[https://web.archive.org/web/20090405143551/http://www.nathanielbranden.com/catalog/articles_essays/review_of_reason.html Review of ''Reason and Analysis''], ''The Objectivist Newsletter''.
+*[http://www.anthonyflood.com/blanshard.htm Brand Blanshard Archive] at AnthonyFlood.com
+* Brand Blanshard - [https://web.archive.org/web/20140723200328/http://www.giffordlectures.org/Author.asp?AuthorID=20 ''"Reason and Belief"'' and ''"Reason and Goodness"'']; the [[Gifford Lectures]]
+* [http://www.anthonyflood.com/blanshardphilostyle.htm "On Philosophical Style"]: Adamson Lecture, Manchester University, 1953.
+* [http://hdl.handle.net/10079/fa/mssa.ms.1488 Brand Blanshard Papers.] Manuscripts and Archives, Yale University Library.
+{{Authority control}}
+
+{{DEFAULTSORT:Blanshard, Brand}}
+[[Category:1892 births]]
+[[Category:1987 deaths]]
+[[Category:20th-century American philosophers]]
+[[Category:University of Michigan College of Literature, Science, and the Arts alumni]]
+[[Category:Columbia University alumni]]
+[[Category:Harvard University alumni]]
+[[Category:Alumni of Merton College, Oxford]]
+[[Category:University of Michigan faculty]]
+[[Category:Swarthmore College faculty]]
+[[Category:Philosophers from Michigan]]
+[[Category:American philosophy academics]]
+[[Category:American Rhodes Scholars]]
+[[Category:Idealists]]
+[[Category:Yale University faculty]]
+[[Category:Yale Sterling Professors]]
+[[Category:American twins]]
+[[Category:People from Helena, Montana]]
+[[Category:People from Wayne County, Ohio]]
+[[Category:Corresponding fellows of the British Academy]]
+[[Category:Philosophers from Montana]]
+[[Category:Philosophers from Ohio]]
+[[Category:Writers from Ohio]]
+[[Category:Members of the American Philosophical Society]]

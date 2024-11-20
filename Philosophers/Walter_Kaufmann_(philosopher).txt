@@ -1,0 +1,214 @@
+{{Short description|German-American philosopher (1921–1980)}}
+{{Infobox philosopher
+|region = [[Western philosophy]]
+|era = [[20th-century philosophy]]
+| image         = Walter Kauffman.jpg
+| caption = Walter Kaufmann, undated
+| alt = A black-and-white photo of Kaufmann looking to the camera
+| name    = Walter Kaufmann
+|birth_date  = {{Birth date|1921|7|1}}
+|birth_place = [[Freiburg]], [[Republic of Baden|Baden]], [[Weimar Republic|Germany]]
+|death_date  = {{Death date and age|1980|9|4|1921|7|1}}
+|death_place = [[Princeton, New Jersey]], [[United States]]<ref>{{cite web|url=http://faculty.gvsu.edu/speara/Walter_Kaufmann_Web_Project/Biographical_Information.html|title=Walter Kaufmann|website=Walter Kaufmann Web Site Project|publisher=Grand Valley State University|access-date=July 16, 2018}}</ref>
+| institutions      = [[Princeton University]]
+|school_tradition = [[Continental philosophy]]
+|main_interests   = [[Existentialism]], [[philosophy of religion]], [[tragedy]]
+|education = [[Williams College]]<br/>[[Harvard University]] ([[Master of Arts|MA]], [[PhD]])
+|influences = [[Martin Buber]], [[Georg Wilhelm Friedrich Hegel]], [[Friedrich Nietzsche]], [[Johann Wolfgang von Goethe]], [[Sigmund Freud]], [[Søren Kierkegaard]], [[Karl Jaspers]]
+|influenced = [[Frithjof Bergmann]], [[Richard Schacht]], [[Ivan Soll]], [[Alexander Nehamas]]
+}}
+'''Walter Arnold Kaufmann''' (July 1, 1921 – September 4, 1980) was a [[Germans|German]]-[[American people|American]] [[philosopher]], [[translator]], and [[poet]].  A prolific author, he wrote extensively on a broad range of subjects, such as [[Authenticity (philosophy)|authenticity]] and [[death]], [[moral philosophy]] and [[existentialism]], [[theism]] and [[atheism]], [[Christianity]] and [[Judaism]], as well as [[philosophy]] and [[literature]]. He served more than 30 years as a [[professor]] at [[Princeton University]].
+
+He is renowned as a [[scholar]] and translator of [[Friedrich Nietzsche]]. He also wrote a 1965 book on [[Georg Wilhelm Friedrich Hegel]] and published a translation of [[Goethe's Faust|Goethe's ''Faust'']], and [[Martin Buber]]'s ''[[I and Thou]]''.
+
+==Biography==
+Walter Kaufmann was born in [[Freiburg im Breisgau]], Germany, on 1 July 1921.<ref name=":0">[[Stanley Corngold|Corngold, Stanley]] “[http://assets.press.princeton.edu/chapters/i13284.pdf Introduction"] in: [https://press.princeton.edu/titles/13284.html ''Walter Kaufmann: Philosopher, Humanist, Heretic''], by STANLEY CORNGOLD, Princeton University Press, 2019, pp. 1–10.</ref><ref name=":2" />
+
+Kaufmann was raised a [[Lutheranism|Lutheran]].<ref name=":1" /> At age 11, finding that he believed neither in the [[Trinity]] nor in the divinity of [[Jesus]], he converted to [[Judaism]].<ref name=":1">{{Cite book|url=https://books.google.com/books?id=QWyYDwAAQBAJ&pg=PA4|title=The Faith of a Heretic: Updated Edition|last=Kaufmann|first=Walter A.|date=2015-06-09|publisher=Princeton University Press|isbn=9780691165486|pages=4, 6|language=en|chapter=Prologue|chapter-url=http://assets.press.princeton.edu/chapters/s10484.pdf}}</ref> Kaufmann subsequently discovered that his grandparents were all Jewish.<ref name=":1" /> Being both descended from Jews and a convert to Judaism placed Kaufmann in real danger in [[Nazi Germany]]. In 1939 Kaufmann emigrated to the United States and began studying at [[Williams College]].<ref name=":0" /><ref name=":1" /> [[Stanley Corngold]] records that there he "abandoned his commitment to Jewish ritual while developing a deeply critical attitude toward all established religions."<ref name=":0" />
+
+Kaufmann graduated from Williams College in 1941, then went to [[Harvard University]], receiving an [[MA (degree)|MA]] degree in Philosophy in 1942.<ref name=":2">{{Cite web|url=https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/kaufmann-walter-arnold-1921-1980|title=Kaufmann, Walter Arnold (1921–1980)|last=Schacht|first=Richard|author-link=Richard Schacht|date=2015|website=[[Encyclopedia.com]]|access-date=2019-09-04}}</ref> His studies were, however, interrupted by the war.<ref name=":3" />  He enlisted with the [[US Army Air Force]], was placed at Camp Ritchie and is one of many [[Ritchie Boys]] who would go on to serve as interrogators for the [[Military Intelligence Service (United States)|Military Intelligence Service]] in Europe. Kaufmann specifically performed interrogations in Germany.<ref name=":0" />
+
+Kaufmann became a citizen of the United States in 1944.<ref name=":3" />
+
+In 1947 he was awarded his PhD by Harvard.<ref name=":0" /><ref name=":2" /> His dissertation, written in under a year, was titled "Nietzsche's Theory of Values."<ref name=":0" /> That same year he joined the Philosophy Department at Princeton University.<ref name=":2" /> Although he would hold visiting appointments in both the US and abroad, he would remain based at Princeton for the rest of his academic career.<ref name=":3">{{Cite web|url=https://philosophy.princeton.edu/about/past-faculty/walter-kaufmann|title=Walter A. Kaufmann {{!}} Department of Philosophy|website=philosophy.princeton.edu|access-date=2019-09-04}}</ref><ref name=":2" />  His students over the years included Nietzsche scholars [[Frithjof Bergmann]],<ref>{{Cite journal |date=1959 |title=Doctoral Dissertations, 1959 |url=https://www.jstor.org/stable/20123751 |journal=[[The Review of Metaphysics]] |volume=13 |issue=1 |page=197 |jstor=20123751 |issn=0034-6632 |quote=FRITHJOF H. BERGMANN , “ Harmony and Reason , An Introduction to the Philosophy of Hegel . ” Adviser : W. Kaufmann}}</ref> [[Richard Schacht]],<ref>{{Cite book |last=Schacht |first=Richard |url=http://archive.org/details/alienation0000scha |title=Alienation |date=1970 |publisher=Garden City, N.Y., Doubleday |pages=xi |via=[[Internet Archive]]}}</ref> [[Ivan Soll]]<ref>{{Cite journal |date=1966 |title=Doctoral Dissertations, 1966 |url=https://www.jstor.org/stable/20124224 |journal=The Review of Metaphysics |volume=20 |issue=1 |page=206 |jstor=20124224 |issn=0034-6632 |quote=A. Ivan Soll, "Hegel's Search for Absolute Knowledge." Adviser: Walter. Kaufmann.}}</ref> and [[Alexander Nehamas]].<ref name=":0" />
+
+Kaufmann died, aged 59, on 4 September 1980.<ref name=":0" /><ref name=":2" />
+
+==Philosophical work==
+In a 1959 article in ''[[Harper's Magazine]]'', he summarily rejected all religious values and practice, especially the liberal [[Protestantism]] of [[continental Europe]] that began with [[Schleiermacher]] and culminated in the writings of [[Paul Tillich]] and [[Rudolf Bultmann]].<ref>{{cite web|url=http://walterkaufmann.com/articles/1959_Faith_of_Heretic.pdf|title=Faith of a Heretic|author=Kaufmann, Walter|date=February 1959|work=[[Harper's Magazine]]|access-date=July 9, 2015}}</ref> In their place, he praised moralists such as the [[bible|biblical]] [[Nevi'im|prophets]], the [[Gautama Buddha|Buddha]], and [[Socrates]]. He argued that [[critical analysis]] and the acquisition of [[knowledge]] were [[emancipation|liberating]] and [[empowerment|empowering]] forces. He forcefully criticized the fashionable [[Liberal Christianity#Liberal Protestantism|liberal Protestantism]] of the 20th century as filled with contradictions and evasions, preferring the austerity of the [[book of Job]] and the [[Jewish existentialism]] of [[Martin Buber]]. Kaufmann discussed many of these issues in his 1958 ''Critique of Religion and Philosophy''.
+
+Kaufmann wrote a good deal on the [[existentialism]] of [[Søren Kierkegaard]] and [[Karl Jaspers]]. Kaufmann had great admiration for Kierkegaard's passion and his insights on [[freedom]], [[anxiety]], and [[individualism]].<ref name="Kierkegaard">Kaufmann, W (1980).''Discovering the Mind: Goethe, Kant, and Hegel.'' New York: McGraw-Hill Co., p.26</ref> Kaufmann wrote: "Nobody before Kierkegaard had seen so clearly that the freedom to make a fateful decision that may change our character and future breeds anxiety."<ref>{{Cite book|url=https://www.taylorfrancis.com/books/9781315125312|title=Nietzsche, Heidegger, and Buber|last=Kaufmann|first=Walter|date=2017-09-29|publisher=Routledge|isbn=9781351502955|language=en|chapter=Kierkegaard as Psychologist|doi=10.4324/9781315125312|chapter-url=https://books.google.com/books?id=rcs3DwAAQBAJ&pg=PT52|editor1-last=Kaufmann|editor1-first=Walter}}</ref> Although Kaufmann did not share Kierkegaard's religious outlook and was critical of his [[Protestantism#Theology|Protestant theology]], Kaufmann was nevertheless sympathetic and impressed with the depth of Kierkegaard's thinking:
+
+{{quote|I know of no other great writer in the whole nineteenth century, perhaps even in the whole of world literature, to whom I respond with less happiness and with a more profound sense that I am on trial and found wanting, unless it were Søren Kierkegaard.<ref name="Kierkegaard2">{{cite book |last=Kaufmann |first=W. |date=1961 |title=Religion From Tolstoy To Camus |publisher=Harper and Brothers |page=3}}</ref>}}
+
+Kaufmann edited the anthology ''Existentialism from Dostoevsky to Sartre''. Kaufmann disliked [[Martin Heidegger]]'s thinking, along with his unclear writing.<ref>[[Denis Dutton]], "[http://www.denisdutton.com/heidegger.htm Kaufmann, Heidegger, and Nazism] {{Webarchive|url=https://web.archive.org/web/20060404105532/http://www.denisdutton.com/heidegger.htm |date=2006-04-04 }}" ''Philosophy and Literature'' 12 (1988): 325–36</ref>
+
+Kaufmann is renowned for his translations and exegesis of [[Friedrich Nietzsche|Nietzsche]], whom he saw as gravely misunderstood by English speakers, as a major early [[existentialist]], and as an unwitting precursor, in some respects, to Anglo-American [[analytic philosophy]]. Michael Tanner called Kaufmann's commentaries on Nietzsche "obtrusive, self-referential, and lacking insight",<ref>{{cite book|url=https://archive.org/details/nietzschepastmas00mich/page/84|title=Nietzsche|last=Tanner|first=Michael|publisher=Oxford University Press|year=1994|isbn=0-19-287680-5|pages=84}}</ref> but [[Llewellyn Jones]] wrote that Kaufmann's "fresh insights into ... Nietzsche ... can deepen the insights of every discriminating student of literature,"<ref>[[Llewellyn Jones|Jones, Llewellyn]], ''[[The Humanist]],''  [https://books.google.com/books?id=FksTAAAAIAAJ Volume 21] (1961) quoted on [https://books.google.com/books?id=fLj1cQDlVWcC&pg=PA458 the back cover] of Kaufmann, Walter Arnold, ''From Shakespeare to Existentialism'' (Princeton University Press 1979),</ref> and ''[[The New Yorker]]'' wrote that Kaufmann "has produced what may be the definitive study of Nietzsche's ... thought—an informed, scholarly, and lustrous work."<ref>Kaufman, Walter Arnold, ''Nietzsche: Philosopher, Psychologist, Antichrist'' (Princeton University Press 1974), on [[iarchive:nietzschephiloso0000kauf/page/n553|back cover]], {{ISBN|0-691-01983-5}}, accessed 2012-Jul-29</ref>
+
+In his ''[[Nietzsche: Philosopher, Psychologist, Antichrist]]'' (1950) Kaufmann wrote that 
+
+{{quote|It is evident at once that Nietzsche is far superior to Kant and Hegel as a stylist; but it also seems that as a philosopher he represents a very sharp decline — and men have not been lacking who have not considered him a philosopher at all — because he had no “system.” Yet this argument is hardly cogent. Schelling and Hegel, Spinoza and Aquinas had their systems; in Kant’s and Plato’s case the word is far less applicable; and of the many important philosophers who very definitely did not have systems one need only mention Socrates and many of the pre-Socratics. Not only can one defend Nietzsche on this score — how many philosophers today have systems? — but one must add that he had strong philosophic reasons for not having a system.<ref>{{cite book| last=Kaufman| first=Walter| title=Nietzsche: Philosopher, Psychologist, Antichrist| publisher=Princeton University Press| year=1974| pages=79| isbn=0-691-01983-5| url=https://archive.org/details/nietzschephiloso0000kauf/page/79/mode/1up| access-date=December 17, 2008}}</ref>}}
+
+Kaufmann also sympathized with Nietzsche's acerbic [[Philosophy of Friedrich Nietzsche#Christianity and morality|criticisms of Christianity]]. However, Kaufmann faulted much in Nietzsche, writing that "my disagreements with [Nietzsche] are legion."<ref>{{cite book| last=Kaufman| first=Walter| title=Nietzsche, Heidegger, and Buber: Discovering the Mind, Volume 2| publisher=Princeton University Press| date=1980| pages=6| isbn=0-88738-394-7| url=https://books.google.com/books?id=2qLGtL7XOjgC| access-date=December 20, 2008}}</ref> Regarding style, Kaufmann argued that Nietzsche's ''[[Thus Spoke Zarathustra]]'', for example, is in parts badly written, melodramatic, or verbose, yet concluded that the book "is not only a mine of ideas, but also a major work of literature and a personal triumph."<ref>Kaufmann, Walter (1976), "[https://books.google.com/books?id=blfwSlxhjvAC&pg=PT70 Editor's Preface]" to ''[[Thus Spoke Zarathustra]]'', in ''The Portable Nietzsche'', New York: Penguin Books, pp. 120–124. {{ISBN|0-14-015062-5}}</ref>
+
+Kaufmann described his own [[ethic]] and his own [[philosophy of life|philosophy of living]] in his books, including ''The Faith of a Heretic'' (1961) and ''Without Guilt and Justice: From Decidophobia to Autonomy'' (1973). In the former work he advocated living in accordance with what he proposed as the four cardinal virtues: "humbition" (a fusion of [[humility]] and ambition), [[love]], [[courage]], and [[honesty]].<ref>{{Cite book |last=Kaufmann |first=Walter Arnold |url=https://archive.org/details/faithofheretic00kaufrich/page/304/mode/1up |title=The Faith of a Heretic |date=1963 |publisher=Doubleday |location=Garden City |pages=304-305, 304-329 |ol=13574757M |quote=My own ethic is not absolute but a morality of openness.  It is not a morality of rules but an ethic of virtues... The first lacks any single name but is a fusion of humility and aspiration.  Humility consists in realizing one’s stark limitations and remembering that one may be wrong.  But humility fused with smugness, with complacency, with resignation is no virtue to my mind.  What I praise is not the meekness that squats in the dust, content to be lowly, eager not to stand out, but humility winged by ambition.  There is no teacher of humility like great ambition.  Petty aspirations can be satisfied and may be hostile to humility.  Hence, ambition and humility are not two virtues: taken separately, they are not admirable.  Fused, they represent the first cardinal virtue.  Since there is no name for it we shall have to coin one-at the risk of sounding humorous: humbition. |url-access=registration}}</ref>
+
+==Partial bibliography==
+
+===Original works===
+* (1950) ''Nietzsche: Philosopher, Psychologist, Antichrist''
+* (1958) ''Critique of Religion and Philosophy''
+* (1959) ''From Shakespeare to Existentialism''
+* (1961) ''The Faith of a Heretic''
+* (1962) ''[[iarchive:cainotherpoems00kauf|Cain and Other Poems]]''
+* (1965) ''[[iarchive:hegelreinterpret0000kauf_f6j4|Hegel: A Reinterpretation]]''
+* (1968) ''[[iarchive:tragedyphilosoph0000kauf|Tragedy and Philosophy]]''
+* (1973) ''[[iarchive:withoutguiltjust0000kauf|Without Guilt and Justice: From Decidophobia to Autonomy]]''
+* (1976) ''Existentialism, Religion, and Death: Thirteen Essays''
+* (1976) ''[[iarchive:religionsinfourd0000kauf|Religions in Four Dimensions]]''
+* (1977) ''The Future of the Humanities''<ref>{{Cite journal |last=Pickus |first=David |date=2009 |title=Walter Kaufmann and the future of the humanities |url=http://www.doiserbia.nb.rs/img/doi/0353-5738/2009/0353-57380903125P.pdf |journal=Filozofija I Drustvo |language=en |volume=20 |issue=3 |pages=125–142 |doi=10.2298/FID0903125P |issn=0353-5738}}</ref>
+* (1978) ''[[iarchive:manslottrilogy0000kauf|Man's Lot: A Trilogy]]'', consisting of
+** ''Life at the Limits''
+** ''[[iarchive:timeisartistphot00kaufrich|Time is an Artist]]''
+** ''What is Man?''
+* {{Cite book |url= |title=Discovering the Mind |date=1980 |isbn=0-07-033311-4 |location=New York |oclc=5264699}}
+** vol. 1 ''Goethe, Kant, and Hegel''  <ref>{{Cite journal |last=Bordeau |first=Edward |date=1981-01-01 |title=Walter Kaufmann, Discovering the Mind: Goethe, Kant, and Hegel |url=https://digitalcommons.sacredheart.edu/cgi/viewcontent.cgi?article=1171&context=shureview |journal=Sacred Heart University Review |volume=1 |issue=2 |issn=0276-7643}}</ref>
+** vol. 2 ''Nietzsche, Heidegger, and Buber''
+** vol. 3 ''Freud Versus Adler and Jung''
+
+===Translations===
+* (1958) ''Judaism and Christianity, essays by [[Leo Baeck]]''
+* (1963) ''[[Goethe]]'s [[Goethe's Faust|Faust]]'' ([[Faust Part 1|Part One]] and selections from [[Faust Part 2|Part Two]])
+* (1965) ''Hegel: Texts and Commentary''
+* (1970) ''[[I and Thou]]'', by [[Martin Buber]]
+* (1975) ''[[iarchive:twentyfivegerman00kauf|Twenty-Five German poets]]'' an extended version of ''[[iarchive:twentygermanpoet00kauf|Twenty German Poets]]'' (1962)
+As written or published by [[Friedrich Nietzsche]] in chronological order:
+* ''[[The Birth of Tragedy]] Or: Hellenism And Pessimism''
+* ''[[The Gay Science]]: With a Prelude in Rhymes and an Appendix of Songs''
+* ''[[Thus Spoke Zarathustra]]: A Book for All and None''
+* ''[[Beyond Good and Evil]]: Prelude to a Philosophy of the Future''
+* ''[[On the Genealogy of Morals]]'' (with [[R. J. Hollingdale]])
+* ''[[The Case of Wagner]]'' ''A Musician's Problem''
+* ''[[Twilight of the Idols]]'' ''How One Philosophizes with a Hammer''
+* ''[[The Antichrist (book)|The Antichrist]]''
+* ''[[Nietzsche contra Wagner]]''
+* ''[[Ecce Homo (book)|Ecce Homo]]: How One Becomes What One Is''
+* ''[[The Will to Power (manuscript)|The Will to Power]]'' (with [[R. J. Hollingdale]])
+
+===Anthologies/edited works===
+* (1954) ''[[iarchive:portablenietzsch00niet|The Portable Nietzsche]]''. Viking.
+* (1961) ''[[iarchive:religionfromtols012944mbp|Religion from Tolstoy to Camus]]'', a companion to the preceding.
+* (1961) ''Philosophic Classics'', in two volumes:
+** ''v. I:'' ''[[iarchive:philosophicclass001218mbp|Thales to Ockham]],'' ''v. II'': [[iarchive:philosophicclass006544mbp|''Bacon to Kant'']]
+* (1968) ''[[iarchive:basicwritingsofn0000niet|Basic Writings of Nietzsche]]''
+* (1970) ''[[iarchive:hegelspoliticalp0000kauf|Hegel's Political Philosophy]]''
+* (1975) ''[[iarchive:isbn_9780452009301|Existentialism from Dostoevsky to Sartre]]''
+
+===Articles, book chapters, and introductions===
+* 'Nietzsche's Admiration for Socrates", ''[[Journal of the History of Ideas]]'', v. 9, October 1948, pp.&nbsp;472–491. Earlier version: "Nietzsche's Admiration for Socrates" (Bowdoin Prize, 1947; pseud. David Dennis)
+* "Goethe and the History of Ideas", ''Journal of the History of Ideas'', v. 10, October 1949, pp.&nbsp;503–516.
+* "The Hegel Myth and Its Method", ''[[Philosophical Review]]'' v.60, No. 4 (October 1951), pp.&nbsp;459–486.
+* Review of ''Nietzsche and Christian Ethics'' by R. Motson Thompson, ''Philosophical Review'' v. 61, no. 4 (October 1952), pp.&nbsp;595–599.<!--This is the only book review here. Add the [http://www.acsu.buffalo.edu/~adspear/articles_and_book_review_by_Kaufmann.htm rest] or delete this?-->
+* "Hegel's Early Antitheological Phase", ''Philosophical Review'' v. 63, no. 1 (January 1954), pp.&nbsp;3–18.
+* "Nietzsche and Rilke", ''[[Kenyon Review]]'', XVII (1955), pp.&nbsp;1–23.
+* "Toynbee and Superhistory", ''[[Partisan Review]]'', vol. 22, no. 4, Fall 1955, pp.&nbsp;531–541. Reprinted in {{Cite book |title=Toynbee and History: Critical Essays and Reviews |year=1956 |editor=Ashley Montagu |editor-link=Ashley Montagu |publisher=Extending Horizons, Porter Sargent |location=Boston |edition=1956 Cloth |isbn=0-87558-026-2}}
+* "A Hundred Years after Kierkegaard", ''Kenyon Review'', XVIII, pp.&nbsp;182–211.
+* "Jaspers' Relation to Nietzsche", in Paul Schilpps, ed., ''The Philosophy of Karl Jaspers'' (New York: Tudor, 1957), pp.&nbsp;407–436.
+* "[https://web.archive.org/web/20001025194826/http://faculty.plts.edu/gpence/html/kaufmann.htm The Faith of a Heretic]", ''[[Harper's Magazine]]'', February 1959, pp.&nbsp;33–39. Reprinted in ''Existentialism, Religion, and Death'' (New York: New American Library, 1976).
+* "Existentialism and Death", ''[[Chicago Review]]'', XIII, 1959, pp.&nbsp;73–93, also in Herman Feifel (ed.) ''[[iarchive:meaningofdeath0000feif_m8l|The Meaning of Death]]'', New York: The Blakiston Division / McGraw-Hill, 1959,  Revised version printed in ''Existentialism, Religion, and Death'' (New York: New American Library, 1976).
+* Preface to ''Europe and the Jews: The Pressure of Christendom on the People of Israel for 1900 Years'', 2d ed, by Malcolm Hay. Boston: Beacon Press, 1961.
+* "A Philosopher's View", in ''Ethics and Business: Three Lectures''. University Park, Pa., 1962, pp.&nbsp;35–54. Originally presented at a seminar sponsored by the College of Business Administration of the Pennsylvania State University on March 19, 1962.
+* "Nietzsche Between Homer and Sartre: Five Treatments of the Orestes Story", ''Revue Internationale de Philosophie'' v. 18, 1964, pp.&nbsp;50–73.
+* "Nietzsche in the Light of his Suppressed Manuscripts", ''[[Journal of the History of Philosophy]]'' v. 2, October 1964, pp.&nbsp;205–226.
+<!--* "," in ''Philosophy and Educational Development'', Ed. by G. Barnett. Boston: Houghton Mifflin Company, 1966.
+* "," in ''Art and philosophy, a symposium''. Hook, Sidney, ed. New York University Press, New York. 1966.-->
+* "Buber's Religious Significance", from ''The Philosophy of Martin Buber'', ed. P. A. Schilpp and Maurice Friedman (London:  Cambridge University Press, 1967) Reprinted in ''Existentialism, Religion, and Death'' (New York: New American Library, 1976).
+* "The Reception of Existentialism in the United States", ''Midway'', vol. 9 (1) (Summer 1968), pp.&nbsp;97–126. Reprinted in ''Existentialism, Religion, and Death'' (New York: New American Library, 1976).
+* Foreword to ''Frau Lou: Nietzsche's Wayward Disciple'', by Rudolph Binion. Princeton, New Jersey: Princeton University Press, 1969.
+* "The Riddle of Oedipus: Tragedy and Philosophy" ''[[iarchive:isenbergmemorial0000unse|The Isenberg memorial lecture series, 1965-1966]]'', 1969
+* Introductory essay, ''Alienation'' [[Richard Schacht]], Garden City, N.Y., Doubleday, 1970
+* "The Future of Jewish Identity", ''The Jerusalem Post Magazine'' August 1, 1969, pp.&nbsp;607.  Reprinted in ''Congressional Bi-Weekly'', April 3, 1970; in ''Conservative Judaism'', Summer 1970; in ''New Theology'' no. 9, 1972, pp.&nbsp;41–58, and in ''Existentialism, Religion, and Death'' (New York: New American Library, 1976.)
+* Foreword to ''An Introduction to Hegel's Metaphysics'', by [[Ivan Soll]]. Chicago and London:  University of Chicago Press, 1969.
+* "The Origin of Justice", ''[[Review of Metaphysics]]'' v. 23, December 1969, pp.&nbsp;209–239.
+* "Beyond Black and White", ''Midway'', v. 10(3) (Winter 1970), pp.&nbsp;49–79.  Also ''Survey'' no. 73 (Autumn 1969), pp.&nbsp;22–46. Reprinted in ''Existentialism, Religion, and Death'' (New York: New American Library, 1976).
+* "Hegel's Ideas about Tragedy" in ''New Studies in Hegel's Philosophy'', ed. Warren E. Steinkraus (New York: Holt, Rinehart and Winston, Inc., 1971), pp.&nbsp;201–220.
+* "The Death of God and the Revaluation", in Robert Solomon, ed., Nietzsche: A Collection of Critical Essays (New York: Anchor Press, 1973), pp.&nbsp;9–28.
+* "The Discovery of the Will to Power", in Robert Solomon, ed., ''Nietzsche: A Collection of Critical Essays'' (New York: Anchor Press, 1973), pp.&nbsp;226–242.
+* Foreword in ''Truth and Value in Nietzsche: A Study of His Metaethics and Epistemology'' by John T. Wilcox. Ann Arbor: University of Michigan Press, 1974
+* "Nietzsche and Existentialism", ''Symposium:  A Quarterly Journal in Modern Foreign Literatures'', v. 28(1) (Spring 1974), pp.&nbsp;7–16.  Reprinted in ''Existentialism, Religion, and Death'' (New York: New American Library, 1976).
+* "Hegel's Conception of Phenomenology" in ''Phenomenology and Philosophical Understanding'', Edo Pivcevič, ed., pp.&nbsp;211–230 (1975).
+* "Unknown Feuerbach Autobiography", ''[[Times Literary Supplement]]'' 1976 (3887):  1123–1124.
+* "A Preface to Kierkegaard", in Søren Kierkegaard, ''The Present Age and Of the Difference Between a Genius and an Apostle'', trans. Alexander Dru, Harper Torchbooks, pp.&nbsp;9–29. Reprinted in ''Existentialism, Religion, and Death'' (New York: New American Library, 1976).
+* "On Death and Lying", Reprinted in ''Existentialism, Religion, and Death'' (New York: New American Library, 1976).
+* "Letter on Nietzsche", ''Times Literary Supplement'' 1978 (3960):  203.
+* "Buber's Failures and Triumph", ''Revue Internationale de Philosophie'' v. 32, 1978, pp.&nbsp;441–459.
+* "Buber: Of His Failures and Triumph", ''[[Encounter (magazine)|Encounter]]'' 52(5):  31–38 1979.
+* Reply to letter, ''Encounter'' 55(4):  95 1980.
+* "Art, Tradition, and Truth", ''Partisan Review'', XVII, pp.&nbsp;9–28.
+
+===Sound recordings===
+* [https://archive.org/details/Prof.KaufmannDiscussesSartreJaspersHeideggerKierkegaard "Prof. Kaufmann discusses Sartre, Jaspers, Heidegger, Kierkegaard"] 
+* "Kierkegaard and the Crisis in Religion" [https://archive.org/details/KierkegaardAndTheCrisisInReligion Part 1 of 3 Lectures]
+* [[iarchive:NietzscheAndTheCrisisInPhilosophyByWalterKaufmann1960|"Nietzsche and the Crisis in Philosophy"]] [https://archive.org/details/NietzscheAndTheCrisisInPhilosophy Part 2 of 3 Lectures]
+* "Sartre and the Crisis in Morality" [https://archive.org/details/SartreAndTheCrisisInMorality Part 3 of 3 Lectures]
+* "Oedipus Rex"<ref name=":4">{{Cite journal |last=Bender |first=Henry V. |date=1997 |title=Survey of Audio-Visual Materials in the Classics |url=https://www.jstor.org/stable/4352056 |journal=[[The Classical World]] |volume=91 |issue=2/3 |page=133 |jstor=4352056 |issn=0009-8418}}</ref>
+* "Homer and the Birth of Tragedy"<ref name=":4" />
+* "Aeschylus and the Death of Tragedy"<ref name=":4" />
+* "The Power of the Single Will"
+* "Three Satanic Interludes, Or, 'How To Go To Hell'"<ref>{{Cite book |last=Pacifica Tape Library |url=https://archive.org/details/pacificaprograms1971pacirich/page/27/mode/1up |title=Pacifica Programs Catalog |date=1971 |others=[[Pacifica Radio Archives]] |pages=27 |quote=Walter Kaufmann, with the assistance of Dennis O'Brian, reads three satanic excerpts from his book "Critique of Religion and Philosophy." The sections are titled "Satan and a Theologian," "Satan and a Christian," and "Satan and an Atheist." 77 min.}}</ref>
+* "The Will to Power Reexamined"
+
+==See also==
+* [[American philosophy]]
+* [[List of American philosophers]]
+
+==Notes and references==
+{{Reflist}}
+
+==Further reading==
+===Biographies===
+* {{cite book | author=Corngold, Stanley |author-link=Stanley Corngold| title=Walter Kaufmann: Philosopher, Humanist, Heretic | publisher=Princeton University Press | location=Princeton, N. J. | year=2019 | isbn=978-0-691-16501-1 }}
+
+===Critical assessments===
+* Pickus, David.  "The Walter Kaufmann Myth: A Study in Academic Judgment", ''Nietzsche-Studien'' 32 (2003), 226–58.
+* Ratner-Rosenhagen, Jennifer.  "'Dionysian Enlightenment': Walter Kaufmann's ''Nietzsche'' in Historical Perspective", ''Modern Intellectual History'' 3 (2006), 239–269.
+* Sokel, Walter.  "Political Uses and Abuses of Nietzsche in Walter Kaufmann's Image of Nietzsche", ''Nietzsche-Studien'' 12 (1983), 436–42.
+
+==External links==
+* {{Internet Archive author |sname=Walter Arnold Kaufmann}}
+{{wikiquote}}
+{{wikisource author}}
+*[http://faculty.gvsu.edu/speara/Walter_Kaufmann_Web_Project/Home.html Walter Kaufmann Web Project] with useful links to his work and life.
+*[http://taimur.wordpress.com/kaufmann/ Selected works of Walter Kaufmann.]
+*{{webarchive |url=https://web.archive.org/web/20071219222334/http://libweb.princeton.edu/libraries/firestone/rbsc/aids/kaufmann.html |date=December 19, 2007 |title=Manuscripts of Walter Kaufmann }},
+*''[https://paw.princeton.edu/article/grateful-student-adds-memorial-kaufmann-chapel-wall Grateful student adds a memorial for Kaufmann to Chapel wall]'' [[Princeton Alumni Weekly]], 2013
+* [http://walterkaufmann.com/ Works by and about Walter Kaufmann.]
+
+{{philosophy of religion}}
+{{Criticism of religion}}
+{{Authority control}}
+
+{{DEFAULTSORT:Kaufmann, Walter}}
+[[Category:1921 births]]
+[[Category:1980 deaths]]
+[[Category:20th-century American philosophers]]
+[[Category:American military personnel of World War II]]
+[[Category:American people of German-Jewish descent]]
+[[Category:German Jews]]
+[[Category:20th-century German philosophers]]
+[[Category:German emigrants to the United States]]
+[[Category:Jewish American academics]]
+[[Category:Jewish existentialists]]
+[[Category:Jewish philosophers]]
+[[Category:Nietzsche scholars]]
+[[Category:People from Freiburg im Breisgau]]
+[[Category:Princeton University faculty]]
+[[Category:Williams College alumni]]
+[[Category:American critics of religions]]
+[[Category:Harvard University alumni]]
+[[Category:Converts to Judaism from Protestantism]]
+[[Category:Former Lutherans]]
+[[Category:Jewish atheists]]
+[[Category:Translators of Johann Wolfgang von Goethe]]
+[[Category:Translators of Friedrich Nietzsche]]
+[[Category:Hegel scholars]]

@@ -1,0 +1,42 @@
+{{Short description|Russian philosopher}}
+[[File:Kozlov-filosof.jpg|thumb|Aleksei Kozlov.]]
+'''Aleksei Aleksandrovich Kozlov''' ({{langx|ru|Алексей Александрович Козлов}}; 20 February 1831 – 12 March 1901) was a [[List of Russian philosophers|Russian philosopher]] known for his contributions to Russian [[idealism]]. He is recognized as the founder of the "[[Gottfried Wilhelm Leibniz|neo-Leibnizian]]" movement in Russia, which involved updating the ideas of philosopher Gottfried Wilhelm Leibniz, as well as the works of [[Hermann Lotze|R.H. Lotze]] and [[Gustav Teichmüller]]. Kozlov's philosophy is also considered a precursor to Russian [[Personalism|personalist]] [[metaphysics]].<ref name="Routledge">Poole, R. (2002). "Kozlov, Aleksei Aleksandrovich (1831–1901)". In ''The Routledge Encyclopedia of Philosophy''. Taylor and Francis. Retrieved 23 Mar. 2023. [https://www.rep.routledge.com/articles/biographical/kozlov-aleksei-aleksandrovich-1831-1901/v-1/sections/epistemology-and-metaphysics-1 Online article].</ref>
+
+Kozlov's influence on [[Russian philosophy]] extended beyond his own ideas. He played a crucial role in defending speculative philosophy against the dominant [[positivism]] of his time.<ref name="Routledge"/> Kozlov's legacy is significant due to his contributions to the development of Russian philosophy at the end of the 19th century and the ongoing impact of his philosophical ideas in the 20th century.<ref name="Routledge"/><ref name="Enc">Scanlan, J.P. (1967). "Kozlov, Aleksei Aleksandrovich (1831–1901)". In ''Encyclopedia.com''. [https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/kozlov-aleksei-aleksandrovich-1831-1901 Online article].</ref> 
+
+== Biography ==
+
+Aleksei Kozlov was born in 1831 in [[Moscow]]. Initially, he studied physics and mathematics, but later obtained a degree in literature in 1854.<ref name="DPR">Avdeïeva, L.R. (2010). "Alexeï Kozlov". In F. Lesourd (dir.). ''Dictionnaire de la philosophie russe'' (1995, 2007). Lausanne: L'Âge d'Homme. pp. 456–459.</ref> Kozlov was drawn to the ideas of [[Ludwig Feuerbach]] and [[Charles Fourier]], which led him to develop [[Socialism|socialist]] views.<ref name="Enc"/> His beliefs resulted in a brief prison term in 1866 and the loss of his teaching position at a Moscow secondary school.<ref name="Enc"/>
+
+Kozlov delved into philosophy in the 1870s, influenced successively by [[Arthur Schopenhauer]], [[Eduard von Hartmann]], and [[Immanuel Kant]].<ref name="Enc"/> He became a professor of philosophy at [[Taras Shevchenko National University of Kyiv|Kyiv University]] in 1876, where he founded the first Russian philosophical journal, ''Filosofskii trekhmesiachnik'' (''Philosophical Quarterly'').<ref name="Enc"/> During this time, he developed his own mature position under the influence of [[Gottfried Wilhelm Leibniz|Leibniz]] and his followers, such as [[Hermann Lotze]] and [[Gustav Teichmüller]].<ref name="Enc"/>
+
+After retiring due to illness in 1887, Kozlov moved to [[Saint Petersburg]] and published his views systematically in a private journal called ''Svoe slovo'' (''A Personal Wor''), which was occasionally published from 1888 to 1898.<ref name="Enc"/> He died in Saint Petersburg in the spring of 1901.
+
+== Philosophy ==
+
+Kozlov was an advocate for a [[Panpsychism|panpsychist]] [[metaphysics]] and developed a form of monadology, in which [[Monad (philosophy)|monad]]s were capable of essential interaction, unlike [[Gottfried Wilhelm Leibniz|Leibniz]]'s theory of [[pre-established harmony]].<ref name="DS">Skrbina, D. (2005). ''Panpsychism in the West''. Cambridge (Massachusetts)/London: MIT Press, p.168.</ref> Kozlov conceptualized these monads as spiritual and conscious, serving as the basis for all reality.<ref name="DS"/> They formed a closed totality grounded in a Supreme Substance, God, within which each monad was connected to the others.<ref name="Enc"/>
+
+Kozlov viewed the human body as a collection of less conscious spiritual substances, which the [[Self|ego]] interacted with until death.<ref name="Enc"/> He suggested that after death, the ego is reincarnated through the interaction with other spiritual substances to form a new body.<ref name="Enc"/>
+
+The Russian philosopher [[Nikolay Lossky]] was highly influenced by Kozlov's ideas, and in a 1901 article entitled "Kozlov: His Panpsychism", Lossky expounded upon Kozlov's system.<ref name="DS"/>
+
+== See also ==
+* [[Leo Mikhailovich Lopatin|Leo Lopatin]]
+* [[Nikolay Lossky]]
+* [[Vladimir Solovyov (philosopher)|Vladimir Solovyov]]
+* [[List of Russian philosophers]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* Poole, R.A., "Aleksei Aleksandrovich Kozlov", in ''Routledge Encyclopedia of Philosophy''. [https://www.rep.routledge.com/articles/biographical/kozlov-aleksei-aleksandrovich-1831-1901/v-1/ Online.]
+* Scanlan, J.P., "Aleksei Aleksandrovich Kozlov" in ''Encyclopedia.com''. [https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/kozlov-aleksei-aleksandrovich-1831-1901/ Online].
+
+{{Authority control}}
+
+{{DEFAULTSORT:Alekei, Kozlov}}
+[[Category:1831 births]]
+[[Category:1901 deaths]]
+[[Category:19th-century philosophers from the Russian Empire]]
+[[Category:Writers from Moscow]]

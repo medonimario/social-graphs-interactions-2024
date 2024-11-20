@@ -1,0 +1,200 @@
+{{Short description|Writer, literary critic and philosopher (1929–2020)}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name             = George Steiner
+| image            = File:George Steiner 2013 (cropped).jpg
+| imagesize        = 
+| caption          = Steiner speaking at the Nexus Institute, the Netherlands, 2013
+| pseudonym        = 
+| birth_name       = Francis George Steiner
+| birth_date       = {{birth date|1929|4|23}}
+| birth_place      = [[Neuilly-sur-Seine]], France
+| death_date       = {{death date and age|2020|2|3|1929|4|23}}
+| death_place      = [[Cambridge]], [[England]]
+| occupation       = {{flatlist|
+* Author
+* essayist
+* [[Literary criticism|literary critic]]
+* professor
+}}
+| nationality      = French, American
+| period           = 1960–2020
+| genre            = History, literature, literary fiction
+| subject          = 
+| movement         = 
+| notableworks     = ''[[After Babel]]'' (1975)
+| spouse           = {{marriage|[[Zara Steiner|Zara Shakow]]|1955}}<ref name="WaPoSchudel">{{cite news|last=Schudel|first=Matt|url=https://www.washingtonpost.com/local/obituaries/zara-steiner-distinguished-scholar-of-diplomatic-history-dies-at-91/2020/02/15/7f1de1f8-5029-11ea-9b5c-eac5b16dafaa_story.html|title=Zara Steiner, distinguished scholar of diplomatic history, dies at 91|newspaper=The Washington Post|date=February 16, 2020|access-date=February 16, 2020}}</ref>
+| partner          = 
+| children         = 2
+| relatives        = 
+| awards           = [[Truman Capote Literary Trust|Truman Capote Lifetime Achievement Award]] (1998)
+| signature        = 
+| website          = 
+| education        = [[University of Chicago]] ([[Bachelor of Arts|BA]])<br />[[Harvard University]] ([[Master of Arts|MA]])<br />[[Balliol College, Oxford]] ([[DPhil]])
+}}
+
+'''Francis George Steiner''',<ref name="Janus">{{cite web|title=The Papers of George Steiner|url=https://archivesearch.lib.cam.ac.uk/repositories/9/resources/1598|access-date=6 October 2021|work=Archivesearch|quote=[Steiner] has not used the name Francis since his undergraduate days.}}</ref> [[Fellow of the British Academy#Fellowship|FBA]] (April 23, 1929 – February 3, 2020)<ref name=Contem>{{cite web |url=http://www.contemporarywriters.com/authors/?p=auth234 |title=George Steiner |work=Contemporary Writers in the UK |first=Daniel |last=Hahn |access-date=March 26, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20071001130147/http://www.contemporarywriters.com/authors/?p=auth234 |archive-date=October 1, 2007 }}</ref><ref name=Lehmann-Haupt>{{cite news |last1=Lehmann-Haupt |first1=Christopher |last2=Grimes |first2=William |url=https://www.nytimes.com/2020/02/03/books/george-steiner-dead.html |title=George Steiner, Prodigious Literary Critic, Dies at 90 |newspaper=[[The New York Times]] |date=February 3, 2020 |access-date=February 4, 2020}}</ref> was a Franco-American literary critic, essayist, philosopher, novelist and educator.<ref>{{cite news |url=http://www.cbc.ca/checkup/rexstein.html |title=ERRATA: An Examined Life by George Steiner |work=[[Canadian Broadcasting Corporation]], January 3, 1998 |first=Rex |last=Murphy |access-date=March 26, 2008 |archive-url = https://web.archive.org/web/20080124123136/http://www.cbc.ca/checkup/rexstein.html <!-- Bot retrieved archive --> |archive-date =January 24, 2008}}</ref> He wrote extensively about the relationship between language, literature and society, as well as the impact of [[the Holocaust]].<ref>{{cite web |url=http://muse.jhu.edu/demo/jewish_social_studies/v005/5.3cheyette.html |title=Between Repulsion and Attraction: George Steiner's Post-Holocaust Fiction |work=Jewish Social Studies |first=Bryan |last=Cheyette |access-date=March 26, 2008 |archive-date=February 18, 2020 |archive-url=https://web.archive.org/web/20200218113056/https://muse.jhu.edu/demo/jewish_social_studies/v005/5.3cheyette.html |url-status=dead }}</ref> A 2001 article in ''[[The Guardian]]'' described Steiner as a "[[Multilingualism|polyglot]] and [[polymath]]".<ref name=Guardian>{{cite news |url=https://www.theguardian.com/Archive/Article/0,4273,4153494,00.html |title=George and his dragons |work=[[The Guardian]] |first=Maya |last=Jaggi |author-link=Maya Jaggi|access-date=March 27, 2008 | location=London | date=March 17, 2001}}</ref>
+
+Among his admirers, Steiner is ranked "among the great minds in today's literary world".<ref name=Contem/> English novelist [[A. S. Byatt]] described him as a "late, late, late Renaissance man ... a European metaphysician with an instinct for the driving ideas of our time".<ref name=Guardian/> Harriet Harvey-Wood, a former literature director of the [[British Council]], described him as a "magnificent lecturer – prophetic and doom-laden [who would] turn up with half a page of scribbled notes, and never refer to them".<ref name=Guardian/>
+
+Steiner was Professor of English and [[comparative literature|Comparative Literature]] in the [[University of Geneva]] (1974–94), Professor of Comparative Literature and Fellow in the [[University of Oxford]] (1994–95), Professor of [[Poetry]] in [[Harvard University]] (2001–02) and an Extraordinary Fellow of [[Churchill College, Cambridge]].<ref name=Janus/>
+
+==Early life==
+George Steiner was born in 1929 in [[Paris]], to [[Viennese Jewish]] parents Else ([[Married and maiden names|née]] Franzos) and Frederick Georg Steiner. He had an elder sister, Ruth Lilian, who was born in [[Vienna]] in 1922.<ref name=Janus/> Else Steiner was a Viennese [[grande dame]].<ref name=TL>{{cite news |url=http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/the_tls/tls_selections/literature_and_criticism/article2305864.ece |title=Büchner lives on |work=[[The Times Literary Supplement]], December 13, 2006 |first=George |last=Steiner |access-date=March 27, 2008| location=London}}{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}}</ref> Frederick Steiner had been a senior lawyer at Austria's central bank, the  [[Oesterreichische Nationalbank]];<ref name=TL/> in Paris he was an investment banker.<ref name=BMFBA>Edward Hughes, Ben Hutchinson, "George Steiner" in ''Biographical Memoirs of Fellows of the British Academy'' (British Academy, 2022), pp. 392–410</ref>
+
+Five years before Steiner's birth, his father had moved his family from Austria to France to escape the growing threat of [[anti-Semitism]]. He believed that [[Jews]] were "endangered guests wherever they went"<ref name=Guardian/> and equipped his children with languages. Steiner grew up with three [[First language|mother tongues]]: German, English, and French; his mother was [[Multilingualism|multilingual]] and would often "begin a sentence in one language and end it in another".<ref name=Guardian/>
+
+When he was six years old, his father, who believed in the importance of [[Classics|classical education]], taught him to read the ''[[Iliad]]'' in the original [[Greek language|Greek]].<ref name=Guardian/><ref>{{cite news |url=http://www.sfgate.com/books/article/Steiner-s-Memoir-a-Sketchy-Mix-of-Reminiscence-3009507.php |title=Steiner's Memoir a Sketchy Mix of Reminiscence and Complaint |work=[[San Francisco Chronicle]]|first=Kenneth |last=Baker |access-date=July 26, 2012 |date=April 12, 1998}}</ref><ref>{{cite web |url=http://magazine.uchicago.edu/9806/html/books.htm |title=Errata: An Examined Life |work=[[University of Chicago]] Magazine |access-date=March 27, 2008}}</ref> His mother, for whom "self-pity was nauseating",<ref name=Guardian/> helped Steiner overcome a [[Disability|handicap]] he had been born with, a withered right arm. Instead of allowing him to become left-handed, she insisted he use his right hand as an able-bodied person would.<ref name=Guardian/>
+
+Steiner's first formal education took place at the [[Lycée Janson de Sailly|Lycée Janson-de-Sailly]] in Paris. In 1940, during [[World War II]], Steiner's father was in [[New York City]] on an economic mission for the French government when the Germans were preparing to invade France, and he got permission for his family to travel to New York. Steiner, his mother, and his sister Lilian, left by ship from [[Genoa]].<ref name=BMFBA/> Within a month of their move, the [[Military Administration in France (Nazi Germany)|Nazis occupied Paris]], and of the many Jewish children in Steiner's class at school, he was one of only two who survived the war.<ref name=Guardian/> Again his father's insight had saved his family, and this made Steiner feel like a survivor, which profoundly influenced his later writings. "My whole life has been about death, remembering and the [[The Holocaust|Holocaust]]."<ref name=Guardian/> Steiner became a "grateful wanderer", saying that "Trees have roots and I have legs; I owe my life to that."<ref name=Guardian/> He spent the rest of his school years at the [[Lycée Français de New York]] in [[Manhattan]], and became a [[United States citizen]] in 1944.<ref name=Lehmann-Haupt/>
+
+After high school, Steiner went to the [[University of Chicago]], where he studied literature as well as mathematics and physics, and obtained a [[Bachelor of Arts|BA]] degree in 1948. This was followed by an [[Master of Arts|MA]] degree from [[Harvard University]] in 1950. He then attended [[Balliol College, Oxford]], on a [[Rhodes Scholarship]].<ref name=Lehmann-Haupt/>
+
+After his [[Doctorate|doctoral]] [[Dissertation|thesis]] at Oxford, a draft of ''The Death of Tragedy'' (later published by [[Faber and Faber]]), was rejected, Steiner took time off from his studies to teach English at [[Williams College]] and to work as [[leader writer]] for the [[London]]-based weekly publication ''[[The Economist]]'' between 1952 and 1956. It was during this time that he met [[Zara Steiner|Zara Shakow]], a [[New York City|New Yorker]] of [[Lithuania]]n<ref name=Guardian/> descent. She had also studied at Harvard and they met in London at the suggestion of their former professors. "The professors had had a bet ... that we would get married if we ever met."<ref>{{cite web |url=http://www.jasoncowley.net/interviews/I19970922_T.html |title=A traveller in the realm of the mind |work=[[The Times]] |date=September 22, 1997 |first=Jason |last=Cowley |author-link=Jason Cowley (journalist) |access-date=March 27, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20070811045224/http://www.jasoncowley.net/interviews/I19970922_T.html |archive-date=August 11, 2007 }}</ref> They married in 1955, the year he received his [[Doctor of Philosophy|DPhil]] from Oxford University.<ref name=Guardian/> They had a son, [[David Steiner (academic)|David Steiner]] (who served as [[New York State's Commissioner of Education]] from 2009 to 2011) and a daughter, Deborah Steiner (Professor of Classics at [[Columbia University]]). He last lived in [[Cambridge]], England.<ref name=Janus/> Zara Steiner died on 13 February 2020, ten days after her husband.<ref name="WaPoSchudel" />
+
+==Career==
+In 1956 Steiner returned to the United States, where for two years he was a scholar at the [[Institute for Advanced Study]] in [[Princeton, New Jersey]]. He also held a [[Fulbright professorship]] in [[Innsbruck]], Austria, from 1958 to 1959. In 1959, he was appointed [[Christian Gauss|Gauss]] Lecturer at Princeton, where he lectured for another two years.  He then became a founding [[Research Fellow|fellow]] of [[Churchill College, Cambridge]] in 1961. Steiner was initially not well received at Cambridge by the English faculty.<ref>{{cite magazine |url=https://www.the-tls.co.uk/articles/george-steiner/ |title=Letters to the Editor: George Steiner, Maugham in China, George Sand, etc |magazine=[[The Times Literary Supplement]] |issn=0307-661X |date=27 March 2020 |access-date=29 March 2020}}</ref> Some disapproved of this charismatic "firebrand with a foreign accent"<ref name=Guardian/> and questioned the relevance of the Holocaust he constantly referred to in his lectures. Bryan Cheyette, professor of 20th-century literature at the [[University of Southampton]] said that at the time, "Britain [...] didn't think it had a relationship to the Holocaust; its mythology of the war was rooted in the [[The Blitz|Blitz]], [[Dunkirk evacuation|Dunkirk]], the [[Battle of Britain]]."<ref name=Guardian/> While Steiner received a professorial salary, he was never made a full professor at Cambridge with the right to examine. He had the option of leaving for professorships in the United States, but Steiner's father objected, saying that [[Adolf Hitler|Hitler]], who said no one bearing their name would be left in Europe, would then have won. Steiner remained in England because "I'd do anything rather than face such contempt from my father."<ref name=Guardian/> He was elected an Extraordinary Fellow of Churchill College in 1969.<ref name=Homberger/>
+
+After several years as a freelance writer and occasional lecturer, Steiner accepted the post of Professor of English and [[comparative literature|Comparative Literature]] at the [[University of Geneva]] in 1974; he held this post for 20 years, teaching in four languages. He lived by [[Johann Wolfgang von Goethe|Goethe]]'s maxim that "no [[Monolingualism|monoglot]] truly knows his own language."<ref name=Guardian/> He became Professor Emeritus in the University of Geneva upon his retirement in 1994 and an Honorary Fellow of [[Balliol College, Oxford]], in 1995. He also held the positions of the first [[Lord Weidenfeld Professor of Comparative European Literature]] and Fellow of [[St Anne's College, Oxford]], from 1994 to 1995,<ref>{{cite web|url=http://www.st-annes.ox.ac.uk/about/the-weidenfeld-chair-in-comparative-european-literature |title=The Weidenfeld Chair in Comparative European Literature |publisher=St Anne's College, Oxford |access-date=December 28, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131230235812/http://www.st-annes.ox.ac.uk/about/the-weidenfeld-chair-in-comparative-european-literature |archive-date=December 30, 2013 }}</ref> and Norton Professor of Poetry at [[Harvard University]] from 2001 to 2002.<ref>{{cite web |url=https://news.harvard.edu/gazette/story/2001/03/george-steiner-named-norton-professor/ |title=George Steiner named Norton Professor |website=[[The Harvard Gazette]] |date=March 15, 2001 |access-date=February 6, 2020}}</ref>
+
+Steiner was called "an intelligent and intellectual critic and essayist."<ref name=Contem /> He was active on undergraduate publications while at the University of Chicago and later became a regular contributor of reviews and articles to many journals and newspapers including ''[[The Times Literary Supplement]]'' and ''[[The Guardian]]''. He wrote for ''[[The New Yorker]]'' for over thirty years, contributing over two hundred reviews.<ref name=NALD>{{cite web |url=http://www.nald.ca/fulltext/ltonword/part4/steiner/steiner.pdf |title=Grammars of Creation |work=National Adult Literacy Database|access-date=March 26, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20070413015759/http://www.nald.ca/fulltext/ltonword/part4/steiner/steiner.pdf |archive-date=April 13, 2007 }}</ref>
+
+While Steiner generally took things very seriously, he also revealed an unexpected [[deadpan]] humor: when he was once asked if he had ever read anything trivial as a child, he replied, ''[[Moby-Dick]]''.<ref name=Guardian/>
+
+==Views==
+Steiner was regarded as a [[polymath]] and is often credited with having recast the role of the critic by having explored art and thought unbounded by national frontiers or academic disciplines. He advocated generalisation over specialisation, and insisted that the notion of being literate must encompass knowledge of both arts and sciences. Steiner believed that nationalism is too inherently violent to satisfy the moral prerogative of Judaism, having said "that because of what we are, there are things we can't do."<ref name=Guardian/>
+
+Among Steiner's non-traditional views, in his autobiography titled ''Errata'' (1997), Steiner related his sympathetic stance towards the use of brothels since his college years at the University of Chicago. As Steiner stated, "My virginity offended Alfie (his college room-mate). He found it ostentatious and vaguely corrupt in a nineteen-year-old... He sniffed the fear in me with disdain. And marched me off to [[Cicero, Illinois]], a town justly ill famed but, by virtue of its name, reassuring to me. There he organized, with casual authority, an initiation as thorough as it was gentle. It is this unlikely gentleness, the caring under circumstances so outwardly crass, that blesses me still."<ref>Steiner, George (1997). ''Errata'', Yale University Press, 1997, pp. 43–44.</ref>
+
+Central to Steiner's thinking, he stated, "is my astonishment, naïve as it seems to people, that you can use human speech both to love, to build, to forgive, and also to torture, to hate, to destroy and to annihilate."<ref name=NALD/>
+
+Steiner received criticism and support<ref name="telegraph.co.uk">{{cite news| url=https://www.telegraph.co.uk/news/uknews/2656774/Cambridge-academic-says-he-would-not-tolerate-Jamaican-neighbours.html | location=London | work=The Daily Telegraph | first1=Aislinn | last1=Simpson | first2=Jessica | last2=Salter | title=Cambridge academic says he would not tolerate Jamaican neighbours |date=August 11, 2008}}</ref><ref>{{cite news| url=https://www.theguardian.com/commentisfree/2008/sep/03/race |location=London |work=The Guardian | first=Lindsay | last=Johns | title=Out of touch, but not a racist | date=September 3, 2008}}</ref> for his views that racism is inherent in everyone and that tolerance is only skin deep. He is reported to have said: "It's very easy to sit here, in this room, and say 'racism is horrible'. But ask me the same thing if a Jamaican family moved next door with six children and they play reggae and rock music all day. Or if an estate agent comes to my house and tells me that because a Jamaican family has moved next door the value of my property has fallen through the floor. Ask me then!"<ref name="telegraph.co.uk"/>
+
+==Works==
+Steiner's literary career spanned half a century. He published original essays and books that address the anomalies of contemporary [[Western culture]], issues of language and its "debasement" in the post-[[The Holocaust|Holocaust]] age.<ref name=Guardian/><ref name=Stanford>{{cite web |url=http://news-service.stanford.edu/news/1998/december9/capote129.html |title=Literary Critic George Steiner wins Truman Capote Award |work=Stanford Online Report |access-date=March 26, 2008 |archive-date=August 22, 2007 |archive-url=https://web.archive.org/web/20070822013142/http://news-service.stanford.edu/news/1998/december9/capote129.html |url-status=dead }}</ref> His field was primarily [[comparative literature]], and his work as a critic tended toward exploring cultural and philosophical issues, particularly dealing with translation and the nature of language and literature.<ref>{{Cite book|last=Steiner|first=George|title=After Babel: Aspects of Language and Translation.|date=2013|publisher=Open Road Media|isbn=978-1-4804-1185-2|oclc=892798474}}</ref>
+
+Steiner's first published book was ''Tolstoy or Dostoevsky: An Essay in Contrast'' (1960), which was a study of the different ideas and ideologies of the Russian writers [[Leo Tolstoy]] and [[Fyodor Dostoevsky]]. ''The Death of Tragedy'' (1961) originated as his [[Doctorate|doctoral]] [[Dissertation|thesis]] at the University of Oxford and examined literature from the [[ancient Greek]]s to the mid-20th century. His best-known book, ''[[After Babel]]'' (1975), was an early and influential contribution to the field of [[translation studies]]. It was adapted for television as ''The Tongues of Men'' (1977),<ref name="MaiaPinto2015">{{cite book |last1=Maia |first1=Rita Bueno |last2=Pinto |first2=Marta Pacheco |last3=Pinto |first3=Sara Ramos |title=How Peripheral is the Periphery? Translating Portugal Back and Forth: Essays in Honour of João Ferreira Duarte |url=https://books.google.com/books?id=XovWCgAAQBAJ&pg=PA244 |date=April 1, 2015 |publisher=Cambridge Scholars Publishing |isbn=978-1-4438-8304-7 |pages=244–245}}</ref> and was the inspiration behind the creation in 1983 of the English [[avant-rock]] [[Musical ensemble|group]] [[News from Babel]].<ref name=Paris-Transatlantic>{{cite magazine |url=http://www.paristransatlantic.com/magazine/monthly2005/11nov_text.html |title=November News 2005 |magazine=Paris Transatlantic |date=November 2005 |access-date=February 4, 2020}}</ref>
+
+Works of [[literary fiction]] by Steiner include four [[Short story|short story collections]], ''Anno Domini: Three Stories'' (1964), ''Proofs and Three Parables'' (1992), ''The Deeps of the Sea'' (1996), and ''A cinq heures de l'après-midi'' (2008); and his controversial<ref>{{cite web |url=http://observer.com/2002/03/mirroring-evil-no-mirroring-art-theory |title=Mirroring Evil? No, Mirroring Art Theory |date=March 17, 2002 |work=[[The New York Observer]] |first=Ron |last=Rosenbaum |access-date=February 28, 2008}}</ref> [[novella]], ''[[The Portage to San Cristobal of A.H.]]'' (1981). ''Portage to San Cristobal'', in which [[Jew]]ish [[Nazi hunters]] find [[Adolf Hitler]] (the "A.H." of the novella's title) alive in the [[Amazon Rainforest|Amazon jungle]] thirty years after the end of [[World War II]], explored ideas about the origins of European [[Antisemitism|anti-semitism]] first expounded by Steiner in his critical work ''[[In Bluebeard's Castle: Some Notes Towards the Redefinition of Culture|In Bluebeard's Castle]]'' (1971). Steiner has suggested that Nazism was Europe's revenge on the Jews for inventing [[conscience]].<ref name=Guardian/> Cheyette sees Steiner's fiction as "an exploratory space where he can think against himself." It "contrasts its humility and openness with his increasingly closed and orthodox critical work." Central to it is the survivor's "terrible, [[wikt:masochistic|masochistic]] envy about not being there – having missed the rendezvous with hell".<ref name=Guardian/>
+
+''No Passion Spent'' (1996) is a collection of essays on topics as diverse as [[Søren Kierkegaard|Kierkegaard]], [[Homer]] in translation, [[Bible|Biblical]] texts, and [[Sigmund Freud|Freud]]'s [[Dream interpretation|dream theory]]. ''Errata: An Examined Life'' (1997) is a semi-autobiography,<ref name=Contem/> and ''Grammars of Creation'' (2001), based on Steiner's 1990 [[Gifford Lectures]] delivered at the [[University of Glasgow]], explores a range of subjects from [[cosmology]] to [[poetry]].<ref name=Gifford-Lectures>{{cite web |url=https://www.giffordlectures.org/lecturers/george-steiner |title=The Gifford Lectures: George Steiner |website=www.giffordlectures.org |date=18 August 2014 |access-date=February 4, 2020}}</ref>
+
+==Awards and honors==
+George Steiner received many honors, including:
+*A [[Rhodes Scholarship]] (1950)<ref name=Lehmann-Haupt/>
+*A [[Guggenheim Fellowship]] (1970/1971)<ref name=Homberger>{{cite news |last=Homberger |first=Eric |url=https://www.theguardian.com/books/2020/feb/05/george-steiner-obituary |title=George Steiner obituary |newspaper=[[The Guardian]] |date=February 5, 2020 |access-date=February 6, 2020}}</ref>
+*[[Légion d'honneur|Chevalier de la Légion d'Honneur]] by the [[Cabinet of France|French Government]] (1984)<ref name=Gifford-Lectures/>
+*The Morton Dauwen Zabel Prize from [[The American Academy of Arts and Letters]] (1989)
+*The [[King Albert Medal]] by the [[Belgian Academy Council of Applied Sciences]]<ref name=Gifford-Lectures/>
+*An honorary fellow of [[Balliol College, Oxford]] (1995)<ref name=Churchill-College>{{cite web |url=https://www.chu.cam.ac.uk/news/2020/feb/4/professor-george-steiner-23-april-1929-3-february-/ |title=Professor George Steiner, 23 April 1929 – 3 February 2020 |website=Churchill College Cambridge |date=February 4, 2020 |access-date=February 6, 2020}}</ref> 
+*The [[Truman Capote Literary Trust|Truman Capote Lifetime Achievement Award]] by [[Stanford University]] (1998)<ref name=Stanford/>
+*The [[Prince of Asturias Awards|Prince of Asturias Award]] for Communication and Humanities (2001)<ref>{{cite web|url=http://www.fundacionprincipedeasturias.org/ing/04/premiados/trayectorias/trayectoria746.html |title=George Steiner |work=Prince of Asturias Awards |access-date=April 8, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20071011031947/http://www.fundacionprincipedeasturias.org/ing/04/premiados/trayectorias/trayectoria746.html |archive-date=October 11, 2007 }}</ref>
+*Fellowship of the [[British Academy]] (1998)<ref name=Contem/>
+*Honorary Fellow of the [[Royal Academy of Arts]]<ref name=Churchill-College/>
+*[[Honorary degree|Honorary]] [[Doctor of Letters|Doctorate]] of Literature degrees from:
+**[[University of East Anglia]] (1976)
+**[[Université catholique de Louvain|University of Leuven]] (1980)
+**[[Mount Holyoke College]] (1983)
+**[[Bristol University]] (1989)
+**[[University of Glasgow]] (1990)
+**[[University of Liège]] (1990)
+**[[University of Ulster]] (1993)
+**[[Durham University]] (1995)
+**[[University of Salamanca]] (2002)
+**[[Queen Mary University of London]] (2006)
+**[[University of Bologna|Alma Mater Studiorum – Università di Bologna]] (2006)
+**[[University of Lisbon|''Honoris Causa'' – Faculty of Letters – University of Lisbon]] (2009)
+
+He has also won numerous awards for his fiction and poetry, including:
+*Remembrance Award (1974) for ''Language and Silence: Essays 1958–1966''.
+*[[International PEN|PEN]]/Macmillan Silver Pen Award (1992) for ''Proofs and Three Parables''.<ref name=Contem/>
+*[[International PEN|PEN]]/Macmillan Fiction Prize (1993) for ''Proofs and Three Parables''.<ref name=Contem/>
+*[[JQ Wingate Prize]] for Non-Fiction (joint winner with Louise Kehoe and [[Silvia Rodgers]]) (1997) for ''No Passion Spent''.
+
+==Bibliography==
+{{Main|George Steiner bibliography}}
+
+==References==
+{{reflist}}
+
+==Sources==
+*Averil Condren, ''Papers of George Steiner'', Churchill Archives Centre, 2001
+*''The Harvard Gazette'' (27.09.01)
+
+==External links==
+{{Wikiquote}}
+{{Commons category}}
+*{{cite journal| url=http://www.theparisreview.org/interviews/1506/the-art-of-criticism-no-2-george-steiner| title=George Steiner, The Art of Criticism No. 2| author= Ronald A. Sharp| journal=The Paris Review| date=Winter 1995 | volume=Winter 1995| issue=137}}
+*[https://literature.britishcouncil.org/writer/george-steiner George Steiner] at ContemporaryWriters.com.
+*[https://www.theguardian.com/Archive/Article/0,4273,4153494,00.html George and his dragons]. ''[[The Guardian]]'', March 17, 2001.
+*[https://web.archive.org/web/20070811045224/http://www.jasoncowley.net/interviews/I19970922_T.html A traveller in the realm of the mind]. Interview with George Steiner, ''[[The Times]]'', September 22, 1997.
+*[http://en.copian.ca/library/research/ltonword/part4/steiner/steiner.pdf ''Grammars of Creation'']. Full text of Steiner's 2001 lecture.
+*[http://muse.jhu.edu/demo/jewish_social_studies/v005/5.3cheyette.html "Between Repulsion and Attraction: George Steiner's Post-Holocaust Fiction"] {{Webarchive|url=https://web.archive.org/web/20200218113056/https://muse.jhu.edu/demo/jewish_social_studies/v005/5.3cheyette.html |date=2020-02-18 }}. ''Jewish Social Studies'', 1999.
+*[http://www.azure.org.il/download/magazine/1147az15_Sagiv.pdf "George Steiner's Jewish Problem"]. ''Azure: Ideas for the Jewish Nation''.
+*{{IMDb name|0825934}}
+*{{in lang|fr}} [https://web.archive.org/web/20070517182242/http://stalker.hautetfort.com/archive/2006/02/13/george-steiner-integralite-des-extraits-de-mon-essai.html About George Steiner, by Juan Asensio, L'Harmattan, 2001]
+*[http://www.fantasticfiction.co.uk/s/george-steiner/ George Steiner bibliography]. ''Fantastic Fiction''
+*[https://web.archive.org/web/20090905025349/http://www.literalmagazine.com/es/archive-L08.php?section=archive&lang=es George Steiner in Literal] – features an essay by Steiner
+* [https://www.sms.cam.ac.uk/media/1130599 Interviewed by Alan Macfarlane 23rd July 2007 (video)]
+*[http://www.bbc.co.uk/worldservice/specials/1246_the_forum/page31.shtml Audio: George Steiner in conversation on the BBC World Service discussion show] [[The Forum (BBC World Service)|''The Forum'']].
+*[https://web.archive.org/web/20100814220547/http://www.giffordlectures.org/Author.asp?AuthorID=239 Biography and summary of Gifford Lectures] by Dr Brannon Hancock
+*The Rest is Silence: On George Steiner,1929–2020. ''Ben Hutchinson'', [[Times Literary Supplement]], 2020 [https://www.the-tls.co.uk/articles/george-steiner-ben-hutchinson/]
+*[https://archivesearch.lib.cam.ac.uk/repositories/9/resources/1598 The Papers of George Steiner] held at [[Churchill Archives Centre]]
+
+{{Prince of Asturias Award for Communication and Humanities}}
+{{Authority control}}
+
+{{DEFAULTSORT:Steiner, George}}
+[[Category:1929 births]]
+[[Category:2020 deaths]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:Alumni of Balliol College, Oxford]]
+[[Category:American academics of English literature]]
+[[Category:American expatriate academics]]
+[[Category:American expatriates in the United Kingdom]]
+[[Category:American literary critics]]
+[[Category:American male novelists]]
+[[Category:American people of Austrian-Jewish descent]]
+[[Category:21st-century American philosophers]]
+[[Category:20th-century American philosophers]]
+[[Category:American Rhodes Scholars]]
+[[Category:American short story writers]]
+[[Category:Knights of the Legion of Honour]]
+[[Category:Fellows of Churchill College, Cambridge]]
+[[Category:Fellows of St Anne's College, Oxford]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of the Royal Society of Literature]]
+[[Category:French emigrants to the United States]]
+[[Category:French expatriates in England]]
+[[Category:20th-century French Jews]]
+[[Category:French people of Austrian-Jewish descent]]
+[[Category:French male short story writers]]
+[[Category:French short story writers]]
+[[Category:Harvard University alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Holocaust survivors]]
+[[Category:Jewish American academics]]
+[[Category:Jewish American novelists]]
+[[Category:Jewish American social scientists]]
+[[Category:Jewish philosophers]]
+[[Category:Jewish scholars]]
+[[Category:Lycée Français de New York alumni]]
+[[Category:Jews who emigrated to escape Nazism]]
+[[Category:Princeton University faculty]]
+[[Category:Translation scholars]]
+[[Category:University of Chicago alumni]]
+[[Category:Academic staff of the University of Geneva]]
+[[Category:Williams College faculty]]
+[[Category:Writers from New York City]]
+[[Category:Writers from Paris]]
+[[Category:American male essayists]]
+[[Category:American male short story writers]]
+[[Category:PEN/Faulkner Award for Fiction winners]]
+[[Category:Novelists from New York (state)]]
+[[Category:Novelists from New Jersey]]
+[[Category:Novelists from Massachusetts]]
+[[Category:Writers from Neuilly-sur-Seine]]
+[[Category:20th-century American essayists]]
+[[Category:21st-century American essayists]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]

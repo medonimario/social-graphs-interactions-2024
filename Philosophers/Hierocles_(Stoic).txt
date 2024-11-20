@@ -1,0 +1,23 @@
+{{Short description|Roman philosopher}}
+{{other people||Hierocles (disambiguation)}}
+'''Hierocles''' ({{langx|el|Ἱεροκλῆς}}; [[floruit|fl.]] 2nd century CE) was a [[Stoicism|Stoic]] philosopher.  Very little is known about his life.  [[Aulus Gellius]] mentions him as one of his contemporaries, and describes him as a "grave and holy man."<ref>Aulus Gellius, ''Attic Nights'', ix. 5. 8.</ref>
+
+==Work==
+Hierocles is famous for a book called ''Elements of Ethics'' ({{langx|el|Ἠθικὴ στοιχείωσις}}), part of which was discovered as a [[papyrus]] fragment at [[Hermopolis]] in 1901. This 300 line fragment discusses self-perception, and argues that all birds, reptiles, and mammals from the moment of birth perceive themselves continuously and that self-perception is both the primary and the most basic faculty of animals.<ref>A.A. Long, ''Stoic Studies''. Chapter 11. Cambridge University Press. (1996).</ref> The argument draws heavily on a Stoic concept known as self-ownership or [[oikeiôsis]] ({{langx|el|οἰκείωσις}}) which was based on the view that all animals behave in a self-preserving way and are not just aware of themselves, but are aware of themselves in relation of other animals. Hierocles's argument about self-perception was part of the groundwork for an entire theory of [[ethics]].
+
+Some other fragments of Hierocles' writings are preserved by [[Stobaeus]].  The most famous fragment<ref>Stobaeus, ''Florilegium'', 4.671 ff.</ref> describes Stoic [[cosmopolitanism]] through the use of concentric circles in regard to oikeiôsis. Hierocles describes individuals as consisting of a series of circles: the first circle is the human mind, next comes the immediate family, followed by the extended family, and then the local community.  Next comes the community of neighbouring towns, followed by your country, and finally the entire human race. Our task, according to Hierocles was to draw the circles in towards the centre, transferring people to the inner circles, making all human beings part of our concern. Contemporary Stoic philosophers Kai Whiting and Leonidas Konstantakos, added a further circle of concern to the original set to reflect a Stoic's relationship, and duty of care towards the environment, as discussed in their book Being Better: Stoicism for a World Worth Living In and various academic papers.<ref>{{cite book |last1=Whiting |first1=Kai |last2=Konstantakos |first2=Leonidas |title=Being Better: Stoicism for a World Worth Living In |date=2021 |publisher=New World Library}}</ref><ref>{{cite journal |last1=Whiting |first1=Kai |last2=Konstantakos |first2=Leonidas |last3=Carrasco |first3=Angeles |last4=Carmona |first4=Luis Gabriel |title=Sustainable Development, Wellbeing and Material Consumption: A Stoic Perspective |journal=Sustainability |date=2018 |volume=10 |issue=2 |page=474 |doi=10.3390/su10020474 |doi-access=free }}</ref>
+
+==Notes==
+{{reflist}}
+
+==Further reading==
+*[[Ilaria Ramelli]], David Konstan, (2009), ''Hierocles the Stoic: Elements of Ethics, Fragments, and Excerpts''. SBL. {{ISBN|1-58983-418-6}}
+
+==External links==
+* {{ws|{{citation |author=Hierocles |title=[[s:Author:Hierocles|Ethical fragments of Hierocles preserved by Stobaeus]] |translator-last=Taylor |translator-first=Thomas |publisher=[[Wikisource]]}}}}, as published in {{cite book |editor-last=Taylor |editor-first=Thomas |editor-link=Thomas Taylor (neoplatonist) |year=1822 |title=Political fragments of Archytas and other ancient Pythagoreans |location=Chiswick, UK |publisher=Charles Whittingham |page=75ff |url=https://archive.org/stream/politicalfragme00taylgoog#page/n94/mode/2up/search/Hierocles}}
+
+{{Stoicism}}
+
+{{Authority control}}
+[[Category:2nd-century Greek philosophers]]
+[[Category:Roman-era Stoic philosophers]]

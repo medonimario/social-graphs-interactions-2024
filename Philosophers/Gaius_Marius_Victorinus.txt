@@ -1,0 +1,94 @@
+'''Gaius Marius Victorinus''' (also known as '''Victorinus Afer'''; {{fl.|{{circa}} 355}}) was a [[Ancient Rome|Roman]] [[Philologist|grammarian]], [[rhetorician]] and [[Neoplatonic]] philosopher. Victorinus was African by birth and experienced the height of his career during the reign of [[Constantius II]]. He is also known for translating two of [[Aristotle]]'s books from [[ancient Greek]] into Latin: the ''[[Categories (Aristotle)|Categories]]'' and ''[[On Interpretation]]'' (''[[De Interpretatione]]'').<ref>"Medieval Philosophy" (section 3), Plato.stanford.edu, Stanford University, December 2009, webpage:   [http://plato.stanford.edu/entries/medieval-philosophy/ PS].</ref> Victorinus had a [[religious conversion]], from being a [[pagan]] to a [[Christians|Christian]], "at an advanced old age" (c. 355).
+
+== Life ==
+
+=== Birthplace and early career ===
+Victorinus, at some unknown point, left his home of [[North Africa]] to live permanently in [[Rome]] (hence some modern scholars have dubbed him ''Afer''), probably for a teaching position, and had great success in his career, eventually being promoted to the lowest level of the senatorial order. That promotion probably came at the time when he received an honorific statue in the [[Forum of Trajan]] in 354. Victorinus' [[religious conversion]] to [[Christianity]] (c. 355), "at an advanced old age" according to [[Jerome]], made a great impression on [[Augustine of Hippo]], as recounted in Book 8<ref>[[Augustine of Hippo]], ''Confessions'', VIII,II, 3-6.</ref> of the latter's ''[[Confessions (Augustine)|Confessions]]''. Marius Victorinus developed a theology of predestination and justification that anticipated St. Augustine, as well as themes that we find again in the anti-Pelagian treatises of Augustine.<ref>Nello Cipriani, "Agostino lettore dei commentari paolini di Mario Vittorino", Augustinianum 38, no. 2 (1998): 413-428</ref> His conversion is historically important in foreshadowing the gradual conversion to Christianity of the traditionally [[pagan]] intellectual class.
+
+Jerome, who was his student of rhetoric,{{sfn|Chisholm|1911}} dedicated the following words to him: <blockquote>I am not unaware that Gaius Marius Victorinus, who taught me rhetoric in Rome when I was a young man, has published commentaries on the apostle; but, versed as he was in knowledge of secular literature, he was completely ignorant of the Scriptures; and no one, no matter how eloquent, can correctly discuss something he knows nothing about.<ref>Jer., Ad Gal., praefatio (p. 6, lines 26-31 Raspanti): Non quo ignorem Gaium Marium Victorinum, qui Romae me puero rhetoricam docuit, edidisse commentarios in Apostolum, sed quod occupatus ille eruditione saecularium litterarum Scripturas omnino ignorauerit et nemo possit, quamuis eloquens, de eo bene disputare, quod nesciat.</ref></blockquote>
+
+=== Victorinus' historical milieu ===
+Brought up a [[Christians|Christian]], Emperor Julian had converted to a philosophical and mystical form of paganism; and once in power upon the providential death of [[Constantius II]], Julian attempted to reorganize the highly decentralized pagan cults, on lines analogous to the Christian Church. The emperor, wanting to purge the schools of Christian teachers, published an edict in June 362 mandating that all state appointed professors receive approval from municipal councils (the emperor's accompanying brief indicated his express disapproval of Christians lecturing on the poems of [[Homer]] or [[Virgil]] with their religion being incongruous with the religion of Homer and Virgil).
+
+Victorinus resigned his position as official ''rhetor'' of the [[city of Rome]], a professor of rhetoric, not an orator. He continued writing treatises on [[Trinity|Trinitarianism]] to defend the adequacy of the [[Nicene Creed]]'s definition of Christ the Son being "[[consubstantial|of the same substance]]" (Gr. ''[[homoousios]]'') with the Father. His writings illustrate a crucial fusion of Neo-Platonic philosophy and Christian theology, in which Victorinus effectively weaponized the former to prove and disprove arguments of the various Trinitarian debates raging during the fourth century B.C. Sister Mary Clark has noted that the fourth century was one of deep conflict between pagans and Christians, which she summarized as ‘the renaissance of pagan culture [and] the birth of Christian culture,’ at the crossroads of which stood Victorinus.<ref>Clark (1978, 6)</ref> His importance is also seen in his large-scale use of [[lexical innovation]] (e.g. neologisms) to introduce new technical terms into Christian theological debates, especially in his translation of Greek theological and philosophical expressions (e.g. ''consubstantialis'' from ὁμοούσιος, ''consistentia'' from σύστασις, ''essentialitas'' from ὀντότης).<ref>See further discussion in Dowson (2022).</ref>
+
+== Works ==
+After finishing this series of works (begun probably in late 357), he turned his hand to writing commentaries on the [[Pauline Epistles]], the first in Latin. Although it seems from internal references that he wrote commentaries on Romans and the Corinthians letters as well, all that remains are works, with some lacunae, on Galatians, Ephesians, and Philippians (the comments from the first 16 verses of this latter are missing).
+
+We are fairly well informed on his previous works, mostly texts for his teaching areas of grammar and rhetoric. His most important works from the standpoint of the history of philosophy were translations of Platonist authors ([[Plotinus]] and [[Porphyry (philosopher)|Porphyry]] at least), which are unfortunately lost. They greatly moved Augustine and set him on a road of creating a careful synthesis of Christianity and Neoplatonism that was very influential. Victorinus wrote a brief treatise ''De Definitionibus'' (''On Definitions''), which lists and discusses various types of definitions used by rhetoricians and philosophers; he recommends the ''substantial definitions'' preferred by the latter (prior to the late 19th century, this work was ascribed to [[Anicius Manlius Severinus Boethius|Boethius]]).<ref>Usener (1877)</ref> Victorinus' manual of [[Prosody (linguistics)|prosody]], in four books, taken almost literally from the work of [[Aphthonius of Antioch|Aphthonius]], still exists. His commentary on [[Cicero]]'s ''De Inventione'' is very diffuse.{{sfn|Chisholm|1911}} It incorporates many paraphrases to enable students to understand Cicero's text, along with philosophical explanations and digressions that reflect its Neoplatonist character.<ref>Cf. Copeland and Sluiter (2015, 104f).</ref>
+
+He retained his [[Neoplatonic]] philosophy after becoming Christian, and in ''Liber de generatione divini Verbi'', he argues that God is above Being, and thus it can be said that He is not. Victorinus noted, "Since God is the cause of Being, it can be said in a certain sense, that God truly is (''vere'' ''ων''), but this expression merely means that Being is in God as an effect is in an eminent cause, which contains it though being superior to it."<ref>Gilson (1952) 32; cf. Victorinus, "Liber de generatione Verbi divini", in [[Jacques Paul Migne]], ''[[Patrologia Latina]]'', VIII, col. 1022.</ref> As well, Victorinus' ''Adversus Arium'' books would prove influential in blending Neo-Platonism and Christianity in the Latin West.
+
+For medieval authors, Victorinus' works became important to students of the [[Scholasticism|Scholastic movement]].<ref>Cf. Bruce (1946, 140).</ref> Later, they were widely exploited by [[Claudius of Turin]] at the beginning of the 9th century,<ref>Pascal Boulhol, Claude de Turin: Un évêque iconoclaste dans l'Occident carolingien (Paris: Institut d'e?tudes augustiniennes, 2002), 250.</ref> by [[Haimo of Auxerre]]<ref>Raymond Étaix, "Les Homéliaires carolingiens de l'école d'Auxerre", en L'École carolingienne d'Auxerre, de Muretach à Rémy (830-908), ed. Dominique Iogna-Prat et al. (París: Beauchesne, 1991), 246.</ref> around 850 and by [[Atto of Vercelli]] around 920.<ref>Boucaud, P. (2013). The Corpus Paulinum: Greek and Latin Exegesis of the Epistles in the First Millennium. Revue de l’histoire des religions, 230, 299-332. https://doi.org/10.4000/rhr.8120</ref>
+
+Sister Mary T. Clark has identified the following works attributed to Victorinus:<ref>{{cite book|last1=Clark|first1=translated by Mary T.|last2=Victorinus|first2=Marius|title=Theological treatises on the Trinity (The Fathers of the Church, Volume 69)|date=1981|publisher=Catholic University of America Press|location=Washington|isbn=9780813211695|page=xiii|url=https://books.google.com/books?id=8byYDOjtw50C&q=Adversus+Arium&pg=PR13|access-date=17 December 2016}}</ref>
+
+=== Theological works ===
+* [http://ardownload.catholiclibrary.org/library/view?docId=Fathers-OR/PL.008.html;query=;subDocument=PL.008.html.xml.00000147;brand=default Candidi Arriani ad Marium Victorinum rhetorem de generatione divina] (in Latin)
+* [https://catholiclibrary.org/library/view?query=&docId=Fathers-OR%2FPL.008.html&chunk.id=00002191 De Generatione Divini Verbi. ad Candidum Arianum] (in Latin)
+* Marii Victorini rhetoris urbis Romae ad Candidum Arrianum
+* [http://ardownload.catholiclibrary.org/library/view?docId=Fathers-OR/PL.008.html;query=;subDocument=PL.008.html.xml.00000151;brand=default Candidi Arriani epistola ad Marium Victorinum rhetorem] (in Latin)
+* [http://ardownload.catholiclibrary.org/library/view?docId=Fathers-OR/PL.008.html;query=;subDocument=PL.008.html.xml.00000155;brand=default Adversus Arium] (in Latin)
+** I.  Liber Primus
+*** IA.  pars prior
+*** IB.  pars posterior
+** II.  Liber Secundus
+** III.  Liber Tertius
+** IV.  Liber Quartus
+* De homoousio recipiendo
+* Hymnus Primus
+* Hymnus Secundus
+* Hymnus Tertius
+
+=== Exegetical works ===
+* [http://ardownload.catholiclibrary.org/library/view?docId=Fathers-OR/PL.008.html;query=;subDocument=PL.008.html.xml.00000175;brand=default In epistolam Pauli ad Ephesios libri duo] (in Latin)
+* [http://ardownload.catholiclibrary.org/library/view?docId=Fathers-OR/PL.008.html;query=;subDocument=PL.008.html.xml.00000167;brand=default In epistolam Pauli ad Galatas libri duo] (in Latin)
+* [http://ardownload.catholiclibrary.org/library/view?docId=Fathers-OR/PL.008.html;query=;subDocument=PL.008.html.xml.00000171;brand=default In epistolam Pauli ad Philippenses liber unicus] (in Latin)
+
+=== Secular works ===
+* [[Ars grammatica]]
+* [[Commenta in Ciceronis Rhetorica|Explanationes in Ciceronis Rhetorica]]
+* In Ciceronis Topica commenta ''(lost)''
+* De syllogismis hypotheticis ''(lost)''
+
+==See also==
+* [[Arianism]]
+* [[Book of the 24 Philosophers]]
+* [[Maria gens]]
+* [[Neoplatonism|Neo-Platonism]]
+* [[Trinity|Trinitarianism]]
+
+==Notes==
+{{more footnotes needed |date=January 2014}}
+{{reflist}}
+
+==References==
+*Bruce, F. F. (1946), ‘Marius Victorinus and his works’, ''The Evangelical Quarterly'' 18, 132–53. 
+*Clark, M.T. (1978). ''Fathers of the Church: Theological Treatises on the Trinity''. Washington, DC. 
+*{{cite book |last=Cooper |first=Stephen Andrew |title=Marius Victorinus' Commentary on Galatians : introduction, translation, and notes |url=https://archive.org/details/mariusvictorinus00coop |url-access=limited |year=2005 |series=Oxford early Christian studies |publisher=Oxford University Press |location=Oxford |chapter=The Life and Times of Marius Victorinus |pages=[https://archive.org/details/mariusvictorinus00coop/page/n32 16]–40 }}
+*Copeland, Rita, and Ineke Sluiter (eds) (2015), 'Marius Victorinus, Commentary on the ''De inventione'', Before 355', in Rita Copeland, and Ineke Sluiter (eds), ''Medieval Grammar and Rhetoric: Language Arts and Literary Theory, AD 300 -1475'' (Oxford, 2012; online edn, Oxford Academic, 3 Mar. 2015). 
+*Dowson, C.J. (2022). 'The Translation of Greek Philosophical Terminology in Marius Victorinus’ ''Opera Theologica'': A Quantitative and Qualitative Study,' ''Antichthon'' 56: 203–225. 
+*{{cite book |last=Gilson |first=Étienne |author-link=Étienne Gilson |title=Being and some philosophers |url=https://archive.org/details/beingsomephiloso0000gils |url-access=registration |year=1952 |edition=2nd ed., corr. and enl. |publisher=Pontifical Institute of Mediaeval Studies |location=Toronto |page=[https://archive.org/details/beingsomephiloso0000gils/page/32 32] }}
+*Usener, H. (1877). ''Anecdoton Holderi: ein beitrag zur Geschichte Roms in ostgotischer Zeit''. Leipzig: Teubner.
+*{{EB1911 |wstitle=Victorinus, Gaius Marius |volume=28|page=46}}
+
+==External links==
+*[http://www.documentacatholicaomnia.eu/30_10_0362-0372-_Victorinus_Afrus.html Opera Omnia by Migne Patrologia Latina]
+*{{cite journal |author=F. F. Bruce |author-link=F. F. Bruce |title=Marius Victorinus and His Works |journal=[[The Evangelical Quarterly]] |volume=18 |year=1946 |pages=132–153 |url=http://www.earlychurch.org.uk/pdf/victorinus_bruce.pdf |access-date=2008-06-01 }}
+*[https://archive.today/20121204163129/http://kaali.linguist.jussieu.fr/CGL/index.jsp Corpus Grammaticorum Latinorum: complete texts and full bibliography]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Marius Victorinus, Gaius}}
+[[Category:Ancient Roman rhetoricians]]
+[[Category:4th-century Romans]]
+[[Category:4th-century Christian theologians]]
+[[Category:4th-century philosophers]]
+[[Category:4th-century writers in Latin]]
+[[Category:4th-century translators]]
+[[Category:Grammarians of Latin|Victorinus Marius Gaius]]
+[[Category:Catholic philosophers]]
+[[Category:Neoplatonists]]
+[[Category:Converts to Christianity from ancient Roman religions]]
+[[Category:Marii|Victorinus, Gaius]]
+[[Category:Greek–Latin translators]]

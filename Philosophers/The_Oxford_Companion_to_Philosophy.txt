@@ -1,0 +1,43 @@
+{{Short description|1995 book edited by Ted Honderich}}
+{{Use mdy dates|date = March 2019}}
+{{Use British English|date = March 2019}}
+{{Infobox book | <!-- See Wikipedia:WikiProject_Books -->
+| name = The Oxford Companion to Philosophy
+| image = File:The Oxford Companion to Philosophy (first edition).jpg
+| caption = Cover of the first edition, featuring [[Pablo Picasso]]'s ''Portrait of Dora Maar''
+| editor = [[Ted Honderich]]
+| country = United Kingdom
+| language = English
+| subject = [[Philosophy]]
+| publisher = [[Oxford University Press]]
+| pub_date = 1995
+| media_type = Print ([[Hardcover]] and [[Paperback]])
+| pages = 1009 (1995 edition)<br>1056 (2005 edition)
+| isbn = 0-19-866132-0 |isbn_note= (1995 edition)<br>0-19-926479-1 (2005 edition)
+}}
+'''''The Oxford Companion to Philosophy''''' (1995; second edition 2005) is a [[reference work]] in [[philosophy]] edited by the philosopher [[Ted Honderich]] and published by [[Oxford University Press]]. The second edition included some 300 new entries. The new edition has over 2,200 entries and 291 contributors.
+
+==Publication history==
+*Honderich, Ted (ed.). ''The Oxford Companion to Philosophy'' (New York: Oxford University Press, 1995) {{ISBN|0-19-866132-0}}
+*Honderich, Ted (ed.). ''The Oxford Companion to Philosophy (Second Edition)'' (New York: Oxford University Press, 2005) {{ISBN|978-0-19-926479-7}}
+
+==References==
+{{No footnotes|date=May 2009}}
+*{{cite journal|last=Spurrett |first=David |title=Book review: ''The Oxford Companion to Philosophy''|journal=South African Journal of Philosophy |date=Nov 1996 |volume=15 |issue=4 |page=159 |id=9701313589}}
+*{{cite journal|title=''The Oxford Companion to Philosophy'', 2d ed |journal=Reference & Research Book News |date=November 1, 2005}}
+*{{cite journal|title=''The Oxford Companion to Philosophy'' |journal=Contemporary Review |date=July 1, 2005}}
+
+==External links==
+*[https://global.oup.com/academic/product/the-oxford-companion-to-philosophy-9780199264797 The OUP page] for the ''Oxford Companion to Philosophy'' second edition
+
+{{DEFAULTSORT:Oxford Companion To Philosophy, The}}
+[[Category:1995 non-fiction books]]
+[[Category:2005 non-fiction books]]
+[[Category:Books by Ted Honderich]]
+[[Category:Encyclopedias of philosophy]]
+[[Category:English-language books]]
+[[Category:Oxford University Press reference books]]
+
+
+{{philo-book-stub}}
+{{encyclopedia-stub}}

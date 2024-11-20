@@ -1,0 +1,55 @@
+{{Short description|Austrian moral philosopher (1917–2010)}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[Contemporary philosophy]]
+|image       = 
+|caption     = 
+|name        = Kurt Baier
+| birth_date  = {{Birth date|1917|1|26|df=y}}
+| birth_place = [[Vienna]], [[Austria-Hungary]]
+| death_date  = {{death date and age|2010|11|7|1917|1|26|df=y}}
+| death_place = [[Dunedin]], New Zealand
+|school_tradition = [[Analytic philosophy|Analytic]]
+|main_interests   = [[Moral philosophy]]
+|notable_ideas    = 
+|influences       = [[Stephen Toulmin]]
+|influenced       = [[Stephen Darwall]]
+}}
+
+'''Kurt Baier''' (26 January 1917 – 7 November 2010)<ref name=PPGobit>{{cite news|title=Obituary: Kurt Baier / One of the founders of Pitt's philosophy department|url=http://www.post-gazette.com/pg/10318/1103194-122.stm|work=Pittsburgh Post Gazette|accessdate=5 May 2011|first=MacKenzie|last=Carpenter|date=14 November 2010}}</ref> was an [[Austrians|Austrian]] [[moral philosopher]] who taught for most of his career in [[Australia]] and the [[United States]].
+
+==Life and career==
+Born in [[Vienna]], [[Austria]], Baier studied law at the [[University of Vienna]].<ref name="post-gazette.com">{{Cite web|url=http://www.post-gazette.com/news/obituaries/2010/11/14/Obituary-Kurt-Baier-One-of-the-founders-of-Pitt-s-philosophy-department/stories/201011140196|title=Obituary: Kurt Baier / One of the founders of Pitt's philosophy department}}</ref> In 1938, after the [[Anschluss]] he had to abandon his studies, and went to the [[United Kingdom]] as a refugee, where he was interned as a "friendly enemy alien" and sent to [[Australia]] on the [[HMT Dunera|''Dunera'']]. There he began studying [[philosophy]].<ref>{{cite book | url = http://www.bookrags.com/research/baier-kurt-1917-eoph/ | title = BookRags biography | accessdate=2008-06-26}}</ref> Baier received his [[Bachelor of Arts|B.A.]] from the [[University of Melbourne]] in 1944, and his [[Master of Arts|M.A.]] in 1947. In 1952, he received his [[DPhil]] at [[Oxford University]].<ref name="post-gazette.com"/>
+
+Baier taught at the University of Melbourne and the [[Australian National University]]. He met and married [[Annette Baier]] in 1958.<ref name=Otago>{{cite web|title=Kurt Baier|url=http://www.otago.ac.nz/philosophy/Baier.pdf|work=University of Otago|accessdate=5 May 2011|url-status=dead|archiveurl=https://web.archive.org/web/20110309150723/http://www.otago.ac.nz/philosophy/Baier.pdf|archivedate=9 March 2011}}</ref> He joined the faculty of the [[University of Pittsburgh]] in 1961, and became Chair of the Department in 1967, and remained at Pitt until his retirement in 1996.<ref name=PPGobit /> He became president of the Eastern Division and chair of the National Board of Officers of the [[American Philosophical Association]], Both Baiers gave the [[Paul Carus lectures]]. He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1974.<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=American Academy of Arts and Sciences|accessdate=5 May 2011}}</ref> In 2001, Kurt was awarded an Honorary Doctorate of Jurisprudence from the [[University of Graz|Karl Franzen University of Graz]]. He was also honored by the Humanist Society.
+
+Baier died at his home in [[Dunedin]], New Zealand.<ref name=PPGobit />
+
+==Philosophical work==
+Beginning with his first and best known book, ''The Moral Point of View'' (1958), Baier has been attempting to construct a justification of [[morality]] that is grounded in [[rationality]]. His original strategy was to find certain nonquestion-begging requirements of practical reason that then could be shown to favor morality over [[egotism|egoism]]. According to Baier, the very raison d'être of a morality is to yield reasons that overrule the reasons of self-interest in those cases when everyone following their own self-interest would be harmful to everyone.	If we appeal to self-interested reasons to be moral, it would seem that such reasons cannot support morality over self-interest in cases of conflict. On the other hand, if we appeal to non-self-interested reasons to justify morality, those reasons seem to be implicitly moral, and so this would just be begging the question against egoistic opponents of morality. While making many contributions to the conceptual analysis of basic concepts in moral, political and legal philosophy such as those of obligation, responsibility, reason for action, egoism and the meaning of life, and also to applied ethics, Baier struggled with the fundamental question of how to justify morality throughout his career. He inspired many other philosophers to do so as well.
+
+In ''The Rational and the Moral Order'' (1995), Baier attempted to answer the question by interpreting morality as a system of reasons of mutual benefit that are appropriate for contexts in which everyone's following self-interested reasons would have suboptimal results for everyone. So interpreted, moral reasons apply only when there exists an adequate enforcement system that makes acting against those reasons unprofitable. Morality so construed never requires any degree of altruism or self-sacrifice; it only requires that people act upon reasons of mutual benefit. Given this interpretation of morality, it is not possible for the egoist to do better by acting against morality. So construed, morality and egoism do not really conflict. This solution to the problem of the justification of morality bears some resemblance to the one offered by [[David Gauthier]] in ''Morals By Agreement'' (1986), a philosopher who was also inspired by Baier’s work and who later joined Baier as a colleague at the University of Pittsburgh in 1980.
+
+==Selected books==
+* ''The Moral Point of View'' (1958)
+* ''The Rational and the Moral Order: The Social Roots of Reason and Morality'' (1995)
+* ''Reason, Ethics and Society: Themes from Kurt Baier with his Responses'', edited by J.B. Schneewind (1995)
+* ''Problems of Life and Death'' (1997)
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Baier, Kurt}}
+[[Category:1917 births]]
+[[Category:2010 deaths]]
+[[Category:Alumni of the University of Oxford]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Writers from Vienna]]
+[[Category:University of Melbourne alumni]]
+[[Category:University of Pittsburgh faculty]]
+[[Category:University of Vienna alumni]]
+[[Category:Austrian emigrants to Australia]]
+[[Category:Austrian expatriates in the United Kingdom]]
+[[Category:Austrian expatriates in the United States]]

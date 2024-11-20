@@ -1,0 +1,131 @@
+{{Use mdy dates|date=May 2023}}
+{{Short description|Canadian philosopher (1936–2023)}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[20th-century philosophy]]
+|image            = Ian Hacking (cropped).jpg
+|caption          = Hacking in 2009
+|name             = Ian Hacking
+|honorific_suffix = {{post-nominals|CC|FRSC|size=100%}} {{post-nominals|country=GBR|FBA|size=100%}}
+|birth_date       = {{birth date|1936|02|18|mf=yes}}
+|birth_place      = [[Vancouver]], British Columbia, Canada
+|death_date       = {{death date and age|2023|05|10|1936|02|18|mf=yes}}
+|death_place      = [[Toronto]], Ontario, Canada
+|alma_mater       = [[University of British Columbia]]<br />[[Trinity College, Cambridge]]
+|school_tradition = [[Analytic philosophy]]
+|main_interests   = [[Philosophy of science]]<br />[[Philosophy of statistics]]
+|notable_ideas    = [[Entity realism]]<br />Historical [[ontology]] ([[transcendental nominalism]])
+|influences       = [[Michel Foucault]], [[Paul Feyerabend]], [[Nelson Goodman]], [[Thomas Kuhn]], [[Charles Sanders Peirce]], [[Ludwig Wittgenstein]], [[J. L. Austin]], [[Casimir Lewy]]
+|influenced       = [[David Papineau]], [[Jason Josephson Storm]]<ref>{{Cite book| publisher = University of Chicago Press| isbn = 978-0-226-78665-0| last = Storm| first = Jason Josephson| title = Metamodernism: The Future of Theory| location = Chicago | pages=119–121 | date = 2021 | url = https://books.google.com/books?id=pEQ6EAAAQBAJ}}</ref>
+|doctoral_advisor = [[Casimir Lewy]]
+|doctoral_students = [[David Papineau]]
+|spouse            = {{ubl|{{marriage|Laura Anne Leach|end = divorced}}|{{marriage|[[Nancy Cartwright (philosopher)|Nancy Cartwright]]|end = divorced}}|{{marriage|Judith Baker||2014|end = died}}}}
+|children          = 3
+}}
+
+'''Ian MacDougall Hacking''' {{post-nominals|CC|FRSC}} {{post-nominals|country=GBR|FBA}} (February 18, 1936 – May 10, 2023) was a Canadian philosopher specializing in the [[philosophy of science]]. Throughout his career, he won numerous awards, such as the [[Killam prize|Killam Prize]] for the Humanities and the [[Balzan Prize]], and was a member of many prestigious groups, including the [[Order of Canada]], the [[Royal Society of Canada]] and the [[British Academy]].
+
+== Life and career ==
+Born in [[Vancouver]], he earned undergraduate degrees from the [[University of British Columbia]] (1956) and the [[University of Cambridge]] (1958), where he was a student at [[Trinity College, Cambridge|Trinity College]].<ref name="Williams">{{cite news |last=Williams |first=Alex |date=May 28, 2023 |title=Ian Hacking, Eminent Philosopher of Science and Much Else, Dies at 87 |url=https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html |url-access=limited |archive-url=https://web.archive.org/web/20230528155111/https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html |archive-date=May 28, 2023 |accessdate=May 28, 2023 |newspaper=[[The New York Times]]}}</ref> Hacking also earned his PhD at Cambridge (1962), under the direction of [[Casimir Lewy]], a former student of [[G. E. Moore]].<ref name=":0">{{Cite web|url=http://www.ianhacking.com|title=Ian Hacking, Philosopher|website=www.ianhacking.com|access-date=June 9, 2016|url-status=dead|archive-url=https://archive.today/20130125172125/http://www.ianhacking.com/|archive-date=January 25, 2013}}</ref>
+
+Hacking started his teaching career as an instructor at [[Princeton University]] in 1960 but, after just one year, moved to the [[University of Virginia]] as an assistant professor. After working as a research fellow at [[Peterhouse, Cambridge]] from 1962 to 1964, he taught at his alma mater, UBC, first as an assistant professor and later as an associate professor from 1964 to 1969. He became a lecturer at Cambridge, again a member of Peterhouse, in 1969 before moving to [[Stanford University]] in 1974. After teaching for several years at Stanford, he spent a year at the [[Center for Interdisciplinary Research]] in [[Bielefeld]], Germany, from 1982 to 1983. Hacking was promoted to Professor of Philosophy at the [[University of Toronto]] in 1983 and University Professor, the highest honour the University of Toronto bestows on faculty, in 1991.<ref name=":0" /> From 2000 to 2006, he held the Chair of Philosophy and History of Scientific Concepts at the [[Collège de France]]. Hacking is the first Anglophone to be elected to a permanent chair in the Collège's history.<ref>Jon Miller, "Review of Ian Hacking, Historical Ontology", ''Theoria'' '''72'''(2) (2006), p. 148. {{doi|10.1111/j.1755-2567.2006.tb00951.x}}</ref> After retiring from the Collège de France, Hacking was a professor of philosophy at [[UC Santa Cruz]], from 2008 to 2010. He concluded his teaching career in 2011 as a visiting professor at the [[University of Cape Town]].<ref>{{Cite web |title=Ian Hacking fonds - Discover Archives |url=https://discoverarchives.library.utoronto.ca/index.php/ian-hacking-fonds |access-date=May 15, 2023 |website=discoverarchives.library.utoronto.ca}}</ref>
+
+Hacking was married three times: his first two marriages, to Laura Anne Leach and fellow philosopher [[Nancy Cartwright (philosopher)|Nancy Cartwright]], ended in divorce. His third marriage, to Judith Baker, also a philosopher, lasted until her death in 2014. He had two daughters and a son, as well as one stepson.<ref name = Williams/>
+
+Hacking died from heart failure at a retirement home in Toronto on May 10, 2023, at the age of 87.<ref name = Williams/><ref>{{Cite web|url=https://philosophy.utoronto.ca/news/in-memoriam-ian-hacking-1936-2023/|title=In memoriam: Ian Hacking (1936-2023)|access-date=May 10, 2023}}</ref>
+
+==Philosophical work<!--'Transcendental nominalism', 'Dynamic nominalism', and 'Dialectical realism' redirect here-->==
+Influenced by debates involving [[Thomas Kuhn]], [[Imre Lakatos]], [[Paul Feyerabend]] and others, Hacking is known for bringing a historical approach to the philosophy of science.<ref>{{Cite book |last=Hacking |first=Ian |url=https://www.jstor.org/stable/j.ctv1n3x198 |title=Historical Ontology |date=2002 |publisher=Harvard University Press |doi=10.2307/j.ctv1n3x198 |jstor=j.ctv1n3x198 |isbn=978-0-674-00616-4}}</ref> The fourth edition (2010) of Feyerabend's 1975 book ''[[Against Method]],'' and the 50th anniversary edition (2012) of Kuhn's ''[[The Structure of Scientific Revolutions]]'' include an Introduction by Hacking. He is sometimes described as a member of the "[[Stanford School]]" in philosophy of science, a group that also includes [[John Dupré]], [[Nancy Cartwright (philosopher)|Nancy Cartwright]] and [[Peter Galison]]. Hacking himself identified as a Cambridge [[analytic philosopher]]. Hacking was a main proponent of a realism about science called "[[entity realism]]."<ref>{{cite web|url=https://philarchive.org/archive/MILWIH |title=What is Hacking's Argument for Entity Realism?|author=Boaz Miller		|website=philarchive.org|access-date=27 June 2023}}</ref> This form of realism encourages a realistic stance towards answers to the scientific unknowns hypothesized by mature sciences (of the future), but skepticism towards current scientific theories. Hacking has also been influential in directing attention to the experimental and even engineering practices of science, and their relative autonomy from theory. Because of this, Hacking moved philosophical thinking a step further than the initial historical, but heavily theory-focused, turn of Kuhn and others.<ref>{{Cite web|url=https://www.thecanadianencyclopedia.ca/en/article/ian-hacking|title=Ian Hacking|last=Grandy|first=Karen|website=The Canadian Encyclopedia|access-date=June 10, 2016|archive-date=August 10, 2016|archive-url=https://web.archive.org/web/20160810074506/http://www.thecanadianencyclopedia.com/en/article/ian-hacking/|url-status=live}}</ref>
+
+After 1990, Hacking shifted his focus somewhat from the natural sciences to the human sciences, partly under the influence of the work of [[Michel Foucault]]. Foucault was an influence as early as 1975 when Hacking wrote ''Why Does Language Matter to Philosophy?'' and ''[[The Emergence of Probability]]''. In the latter book, Hacking proposed that the modern schism between subjective or personalistic probability, and the long-run frequency interpretation, emerged in the early modern era as an [[epistemological]] "break" involving two incompatible models of uncertainty and chance. As history, the idea of a sharp break has been criticized,<ref>{{cite journal |last1=Garber |first1=Daniel |authorlink1=Daniel Garber (philosopher)|last2=Zabell |first2=Sandy |date=1979 |title=On the emergence of probability |url=https://www.jstor.org/stable/41133550 |journal=Archive for History of Exact Sciences |volume=12 |issue=1 |pages=33–53 |doi= 10.1007/BF00327872|jstor=41133550 |s2cid=121660640 |access-date=August 20, 2022}}</ref><ref>{{cite book |last=Franklin |first=James |date=2001 |title=The Science of Conjecture: Evidence and Probability Before Pascal |url=https://books.google.com/books?id=1zDECQAAQBAJ |location=Baltimore |publisher=Johns Hopkins University Press |page=373 |isbn=0-8018-6569-7}}</ref> but competing 'frequentist' and 'subjective' interpretations of probability still remain today. Foucault's approach to [[Episteme|knowledge systems]] and power is also reflected in Hacking's work on the historical mutability of psychiatric disorders and institutional roles for statistical reasoning in the 19th century, his focus in ''[[The Taming of Chance]]'' (1990) and other writings. He labels his approach to the human sciences '''transcendental nominalism'''<!--boldface per WP:R#PLA--><ref>See ''[[Transcendence (philosophy)]] and ''[[Nominalism]]''.</ref><ref>A view that Hacking also ascribes to [[Thomas Kuhn]] (see D. Ginev, Robert S. Cohen (eds.), ''Issues and Images in the Philosophy of Science: Scientific and Philosophical Essays in Honour of Azarya Polikarov'', Springer, 2012, pp. 313–315).</ref> (also '''dynamic nominalism'''<!--boldface per WP:R#PLA--><ref name="Tekin">Ş. Tekin (2014), [http://philsci-archive.pitt.edu/9332/1/Tekin%2C2012%2CMIT.pdf "The Missing Self in Hacking's Looping Effects"].</ref> or '''dialectical realism'''<!--boldface per WP:R#PLA-->),<ref name="Tekin"/> a historicised form of [[nominalism]] that traces the mutual interactions over time between the phenomena of the human world and our conceptions and classifications of them.<ref>{{Cite news|url=http://www.thenation.com/article/root-and-branch?page=full|title=Root and Branch|newspaper=The Nation|issn=0027-8378|access-date=June 10, 2016|archive-date=March 4, 2016|archive-url=https://web.archive.org/web/20160304025934/http://www.thenation.com/article/root-and-branch/?page=full|url-status=dead}}</ref>
+
+In ''[[Mad Travelers: Reflections on the Reality of Transient Mental Illnesses|Mad Travelers]]'' (1998) Hacking provided a historical account of the effects of a medical condition known as [[Fugue state|fugue]] in the late 1890s. Fugue, also known as "mad travel," is a diagnosable type of insanity in which European men would walk in a trance for hundreds of miles without knowledge of their identities.<ref>{{cite web |url=http://www.psychiatryonline.com/content.aspx?aID=9708 |archive-url=https://web.archive.org/web/20070928075634/http://www.psychiatryonline.com/content.aspx?aID=9708 |url-status=dead |archive-date=September 28, 2007 |title=Dissociative Amnesia, DSM-IV Codes 300.12 ( Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition ) |publisher=Psychiatryonline.com |access-date=November 28, 2011 }}</ref>
+
+== Awards and lectures ==
+In 2002, Hacking was awarded the first [[Killam prize|Killam Prize]] for the Humanities, Canada's most distinguished award for outstanding career achievements. He was made a [[Companion of the Order of Canada]] (CC) in 2004.<ref>{{cite web |title=Mr. Ian Hacking |url=https://www.gg.ca/en/honours/recipients/146-15851 |website=[[Governor-General of Canada]] |access-date=May 11, 2023}}</ref> Hacking was appointed visiting professor at [[University of California, Santa Cruz]] for the Winters of 2008 and 2009. On August 25, 2009, Hacking was named winner of the [[Holberg International Memorial Prize]], a Norwegian award for scholarly work in the arts and humanities, social sciences, law and theology.<ref>{{cite news |title=From autism to determinism, science to the soul |url=https://www.theglobeandmail.com/news/national/from-autism-to-determinism-sciencetothesoul/article1264432/ |newspaper=[[The Globe and Mail]] |date=August 26, 2009 |pages=1, 7 |author=Michael Valpy |access-date=April 14, 2012}}</ref>
+
+In 2003, he gave the Sigmund H. Danziger Jr. Memorial Lecture in the Humanities, and in 2010 he gave the René Descartes Lectures at the Tilburg Center for Logic and Philosophy of Science (TiLPS). Hacking also gave the Howison lectures at the [[University of California, Berkeley]], on the topic of mathematics and its sources in human behavior ('Proof, Truth, Hands and Mind') in 2010. In 2012, Hacking was awarded the [[Austrian Decoration for Science and Art]], and in 2014 he was awarded the [[Balzan Prize]].<ref>{{Cite web|url=http://www.balzan.org/en/prizewinners/ian-hacking|title=Ian Hacking – Balzan Prize Epistemology/Philosophy of Mind|website=www.balzan.org|access-date=June 10, 2016}}</ref>
+
+== Selected works ==
+
+===Books===
+Hacking's works have been translated into several languages. His works include:
+* ''[[iarchive:logicofstatistic0000ianh|Logic of Statistical Inference]]'' (1965)<ref>{{Cite book |title=Logic of Statistical Inference &ndash; Ian Hacking |url=https://www.cambridge.org/core/books/logic-of-statistical-inference/BD956F6BB9F16B69F2B314D3CB7DDDDA#:~:text=One%20of%20Ian%20Hacking%27s%20earliest,their%20practical%20consequences%20for%20statisticians. |publisher=Cambridge University Press| year=2016 | doi=10.1017/CBO9781316534960 | last1=Hacking | first1=Ian | last2=Romeijn | first2=Jan-Willem | isbn=9781107144958 }}</ref>
+* ''[[iarchive:isbn_9780394310084|A Concise Introduction to Logic]]'' (1972) {{ISBN|039431008X}}
+* ''[[The Emergence of Probability]]'' (1975)<ref>{{Cite journal |last=Barnouw |first=Jeffrey |date=1979 |title=Review of The Emergence of Probability: A Philosophical Study of Early Ideas About Probability, Induction and Statistical Inference. |url=https://www.jstor.org/stable/2738528 |journal=Eighteenth-Century Studies |volume=12 |issue=3 |pages=438–443 |doi=10.2307/2738528 |issn=0013-2586 |jstor=2738528 |url-access=registration}}</ref>
+* ''Why Does Language Matter to Philosophy?'' (1975)<ref>{{Cite journal |last=Loeb |first=Louis E. |date=1977 |title=Review of Why does Language Matter to Philosophy? |url=https://www.jstor.org/stable/2183805 |journal=The Philosophical Review |volume=86 |issue=3 |pages=437–440 |doi=10.2307/2183805 |issn=0031-8108 |jstor=2183805 |url-access=subscription}}</ref>
+* ''[[Scientific Revolutions (Ian Hacking)|Scientific Revolutions]]'' (1981) {{ISBN|019875051X}}
+* ''Representing and Intervening, Introductory Topics in the Philosophy of Natural Science'', Cambridge University Press, Cambridge, UK, 1983.<ref>{{Cite book |last=Hacking |first=Ian |url=https://books.google.com/books?id=4hIQ5fGf-_oC |title=Representing and Intervening: Introductory Topics in the Philosophy of Natural Science |date=October 20, 1983 |publisher=Cambridge University Press |isbn=978-0-521-28246-8 |language=en}}</ref><ref>{{Cite book |last=Hacking |first=Ian |url=https://www.cambridge.org/core/books/representing-and-intervening/F6506B708BB5A8B6A5D884BDCF28E7B7 |title=Representing and Intervening: Introductory Topics in the Philosophy of Natural Science |date=1983 |publisher=Cambridge University Press |isbn=978-0-521-28246-8 |location=Cambridge}}</ref>
+* ''[[The Taming of Chance]]'' (1990)<ref>{{Cite book |last=Hacking |first=Ian |url=https://www.cambridge.org/core/books/taming-of-chance/79755A47B3FE3A340C2C79FBA1DE53D0 |title=The Taming of Chance |date=1990 |publisher=Cambridge University Press |isbn=978-0-521-38014-0 |series=Ideas in Context |location=Cambridge}}</ref>
+* ''[[Rewriting the Soul: Multiple Personality and the Sciences of Memory]]'' (1995)<ref>{{Cite book |last=Hacking |first=Ian |url=https://www.jstor.org/stable/j.ctt7rr17 |title=Rewriting the Soul: Multiple Personality and the Sciences of Memory |date=1995 |publisher=Princeton University Press |jstor=j.ctt7rr17 |isbn=978-0-691-05908-2}}</ref><ref>{{Cite web |title=Rewriting the soul: Multiple personality and the sciences of memory. |url=https://psycnet.apa.org/record/1995-97589-000 |access-date=May 17, 2023 |website=psycnet.apa.org |language=en}}</ref>
+* ''[[Mad Travelers: Reflections on the Reality of Transient Mental Illnesses]]'' (1998)<ref>{{Cite book |last=Hacking |first=Ian |title=Mad travelers: reflections on the reality of transient mental illnesses |date=1998 |publisher=Univ. Press of Virginia |isbn=978-0-8139-1823-5 |edition=1. publ |series=Page-Barbour lectures for |location=Charlottesville, Va.}}</ref>
+* ''The Social Construction of What?'' (1999)<ref>{{Cite book |last=Hacking |first=Ian |url=https://www.hup.harvard.edu/catalog.php?isbn=9780674004122 |title=The Social Construction of What? |date=November 15, 2000 |publisher=Harvard University Press |isbn=978-0-674-00412-2 |location=Cambridge, MA}}</ref>
+* ''An Introduction to Probability and Inductive Logic'' (2001)<ref>{{Cite book |last=Hacking |first=Ian |url=https://books.google.com/books?id=ycbc5cpAuMAC |title=An Introduction to Probability and Inductive Logic |date=July 2, 2001 |publisher=Cambridge University Press |isbn=978-0-521-77501-4 |language=en}}</ref>
+* ''Historical Ontology'' (2002) {{ISBN|9780674016071}}<ref>{{Cite journal |last=Hyder |first=David |date=2003-06-01 |title=Review of Historical Ontology |url=https://ndpr.nd.edu/reviews/historical-ontology/ |journal=Notre Dame Philosophical Reviews |language=en |issn=1538-1617}}</ref>
+* ''Why Is There Philosophy of Mathematics at All?'' (2014) {{ISBN | 9781107050174}}
+
+=== Chapters in books ===
+
+* {{citation | last = Hacking | first =Ian | contribution = The self-vindication of the laboratory sciences | editor-last = Pickering | editor-first = Andrew | editor-link = Andrew Pickering | title = Science as practice and culture | pages = 29–64 | publisher = University of Chicago Press | location = Chicago | year = 1992 | isbn = 978-0-226-66801-7 | postscript = .}}
+* {{Citation |last=Hacking |first=Ian |title=The Looping Effects of Human Kinds |date=1996 |work= |pages=351–394 |editor-last=Sperber |editor-first=Dan |contribution=Causal Cognition: A Multidisciplinary Debate |publisher=Oxford University Press |isbn=9780191689093 |editor2-last=Premack |editor2-first=David |editor3-last=Premack |editor3-first=Ann James}}
+
+===Articles===
+* {{cite journal|doi=10.1086/288169|title=Slightly More Realistic Personal Probability|journal=Philosophy of Science|volume=34|issue=4|pages=311–325|year=1967|last1=Hacking|first1=Ian|s2cid=14344339}}
+* 1979: "What is Logic?", Journal of Philosophy 76(6), reprinted in A Philosophical Companion to First Order Logic (1993), edited by R.I.G. Hughes
+* {{cite journal|doi=10.1086/354775|title=Telepathy: Origins of Randomization in Experimental Design|journal=Isis|volume=79|issue=3|pages=427–451|year=1988|last1=Hacking|first1=Ian|s2cid=52201011}}
+* {{cite journal|doi=10.1215/0961754X-11-1-160|title=Truthfulness|journal=Common Knowledge|volume=11|pages=160–172|year=2005|last1=Hacking|first1=I.|s2cid=258005264 }}
+* {{cite journal|doi=10.1162/daed.2006.135.4.81|title=Genetics, biosocial groups & the future of identity|journal=Daedalus|volume=135|issue=4|pages=81–95|year=2006|last1=Hacking|first1=Ian|s2cid=57563796|doi-access=free}}
+* 2007: "Root and Branch: A Canadian philosopher surveys some of the livelier flashpoints in America's battle over evolution". {{Webarchive|url=https://web.archive.org/web/20160304025934/http://www.thenation.com/article/root-and-branch/?page=full |date=March 4, 2016 }}, [[The Nation]]
+* {{cite journal |last1=Hacking |first1=Ian |title=Putnam's Theory of Natural Kinds and Their Names is Not the Same as Kripke's |journal=Principia: An International Journal of Epistemology |date=January 1, 2007 |volume=11 |issue=1 |pages=1–24 |url=https://periodicos.ufsc.br/index.php/principia/article/view/14845 |language=pt |issn=1808-1711}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite journal | last=Ruphy | first=Stéphanie | title=From Hacking's Plurality of Styles of Scientific Reasoning to "Foliated" Pluralism: A Philosophically Robust Form of Ontologico-Methodological Pluralism | journal=Philosophy of Science | publisher=Springer Science and Business Media LLC | volume=78 | issue=5 | date=2011 | doi=10.1086/664571 | pages=1212–1222|bibcode=2010SHPSA..41..158K| s2cid=144717363 }}
+* {{cite journal | last=Kusch | first=Martin | title=Hacking's historical epistemology: a critique of styles of reasoning | journal=Studies in History and Philosophy of Science Part A | publisher=Elsevier BV | volume=41 | issue=2 | year=2010 | issn=0039-3681 | doi=10.1016/j.shpsa.2010.03.007 | pages=158–173| bibcode=2010SHPSA..41..158K }}
+* {{cite journal | last=Resnik | first=David B. | title=Hacking's Experimental Realism | journal=Canadian Journal of Philosophy | publisher=Cambridge University Press (CUP) | volume=24 | issue=3 | year=1994 | issn=0045-5091 | doi=10.1080/00455091.1994.10717376 | pages=395–411| s2cid=142532335 }}
+* {{cite journal | last=Sciortino | first=Luca | title=On Ian Hacking's Notion of Style of Reasoning | journal=Erkenntnis | publisher=Springer Science and Business Media LLC | volume=82 | issue=2 | date=2017 | issn=0165-0106 | doi=10.1007/s10670-016-9815-9 | pages=243–264| s2cid=148130603 | url=https://philarchive.org/rec/SCIOIH-2 }}
+* {{cite journal | last=Sciortino | first=Luca | title=Styles of Reasoning, Human Forms of Life, and Relativism | journal=International Studies in the Philosophy of Science | publisher=Informa UK Limited | volume=30 | issue=2 | date=2016 | issn=0269-8595 | doi=10.1080/02698595.2016.1265868 | pages=165–184| s2cid=151642764 | url=https://philarchive.org/rec/SCISOR }}
+* {{cite journal | last=Tsou | first=Jonathan Y. | title=Hacking on the Looping Effects of Psychiatric Classifications: What Is an Interactive and Indifferent Kind? | journal=International Studies in the Philosophy of Science | publisher=Informa UK Limited | volume=21 | issue=3 | year=2007 | issn=0269-8595 | doi=10.1080/02698590701589601 | pages=329–344| s2cid=121742010 }}
+* {{cite journal | last=Vesterinen | first=Tuomas | title=Identifying the Explanatory Domain of the Looping Effect: Congruent and Incongruent Feedback Mechanisms of Interactive Kinds: Winner of the 2020 Essay Competition of the International Social Ontology Society | journal=Journal of Social Ontology | publisher=De Gruyter | volume=6 | issue=2 | year=2020 | issn=2196-9663 | doi=10.1515/jso-2020-0015 | pages=159–185| s2cid=232106024 | url=https://philarchive.org/rec/VESITE-2 | doi-access=free }}
+* {{citation | last = Sciortino | first =Luca | title = History of Rationalities: Ways of Thinking from Vico to Hacking and Beyond | pages = 1–351 | publisher = Springer- Palgrave McMillan | location = New York | year = 2023 | isbn = 978-3-031-24003-4 | postscript = .}}
+*Martínez Rodríguez, María Laura (2021) Texture in the Work of Ian Hacking. Springer International Publishing. {{ISBN|978-3-030-64785-8}}
+
+== External links ==
+{{Archival records|Ian Hacking fonds}}
+{{Wikiquote}}
+*[https://archive.today/20130125172125/http://www.ianhacking.com/ Official website]
+*[https://discoverarchives.library.utoronto.ca/index.php/ian-hacking-fonds Ian Hacking archival papers] held at the [https://utarms.library.utoronto.ca/ University of Toronto Archives and Records Management Services]
+*[https://www.rep.routledge.com/articles/biographical/hacking-ian-1936/v-1 Hacking, Ian (1936–)], Routledge Encyclopedia of Philosophy
+
+{{Analytic philosophy}}
+{{Philosophy of science}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hacking, Ian}}
+[[Category:1936 births]]
+[[Category:2023 deaths]]
+[[Category:20th-century Canadian philosophers]]
+[[Category:21st-century Canadian philosophers]]
+[[Category:Academic staff of the Collège de France]]
+[[Category:Academic staff of the University of Toronto]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Analytic philosophers]]
+[[Category:Canadian expatriates in England]]
+[[Category:Canadian expatriates in France]]
+[[Category:Canadian expatriates in the United States]]
+[[Category:Companions of the Order of Canada]]
+[[Category:Deaths from congestive heart failure]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:Holberg Prize laureates]]
+[[Category:Philosophers of language]]
+[[Category:Canadian philosophers of science]]
+[[Category:Philosophy academics at the University of Cambridge]]
+[[Category:Recipients of the Austrian Decoration for Science and Art]]
+[[Category:Stanford University Department of Philosophy faculty]]
+[[Category:University of British Columbia alumni]]
+[[Category:Writers from Vancouver]]

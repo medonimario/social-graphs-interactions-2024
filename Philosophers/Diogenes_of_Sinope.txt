@@ -1,0 +1,6 @@
+#REDIRECT [[Diogenes]]
+
+{{rcatsh|
+{{r undab}}
+{{R from move}}
+}}

@@ -1,0 +1,165 @@
+{{Short description|Italian legal scholar (1909–2004)}}
+{{expand Italian|topic=bio|date=October 2018}}
+{{Infobox philosopher
+|region           = [[Western philosophy]]
+|era              = [[Contemporary philosophy]]
+|image            = NorbertoBobbio.jpg
+|image_size       = 275px
+|name             = Norberto Bobbio
+|birth_date       = 18 October 1909
+|birth_place      = [[Turin]], Italy
+|death_date       = {{death date and age|df=yes|2004|01|09|1909|10|18}}
+|death_place      = Turin, Italy
+|alma_mater       = [[University of Turin]]
+|school_tradition = [[Social liberalism]] 
+|main_interests   = {{hlist| [[Political philosophy]] | [[legal philosophy]] }}
+|notable_ideas    = 
+|influences       = {{hlist| [[Carlo Cattaneo]] | [[Benedetto Croce]] | [[Giorgio Del Vecchio]] | [[Luigi Einaudi]] | [[Piero Gobetti]] | [[Hans Kelsen]] | [[Vilfredo Pareto]] | [[Carlo Rosselli]] }}
+|influenced       = {{hlist| [[Luiz Carlos Bresser-Pereira]] | [[Tercio Sampaio Ferraz Jr.]] | [[Celso Lafer]] | [[José Guilherme Merquior]] }}
+| module       = {{Infobox officeholder | embed = yes
+| office       = Member of the [[Senate of the Republic (Italy)|Senate of the Republic]]
+| termlabel    = [[Senators for life in Italy|Lifetime tenure]]
+| appointed    = [[Sandro Pertini]]
+| term_start   = 18 July 1984
+| term_end     = 9 January 2004
+}}
+}}
+'''Norberto Bobbio''' ({{IPA|it|norˈbɛrto ˈbɔbbjo|lang}}; 18 October 1909&nbsp;– 9 January 2004) was an Italian [[philosophy of law|philosopher of law]] and [[political science]]s and a historian of political thought. He also wrote regularly for the [[Turin]]-based daily ''[[La Stampa]]''.
+Bobbio was a [[Social Liberalism|social liberal]] in the tradition of [[Piero Gobetti]], [[Carlo Rosselli]], {{ill|Guido Calogero|it}}, and [[Aldo Capitini]]. He was also strongly influenced by [[Hans Kelsen]] and [[Vilfredo Pareto]]. He was considered one of the greatest Italian intellectuals of the 20th century.<ref>{{cite journal |access-date=4 July 2019 |author=Luigi Ferrajoli |author-link=Luigi Ferrajoli |date=2004 |journal=Teoria Politica |number=3 |page=127 |title=L'itinerario di Norberto Bobbio: dalla teoria generale del diritto alla teoria della democrazia |url=http://www.erasmo.it/gobetti/subobbio/valentine/04692.pdf}}<!-- auto-translated from Italian by Module:CS1 translator --></ref>
+
+==Early life==
+Bobbio was born in [[Turin]] on 18 October 1909 to Luigi and Rosa Caviglia. The middle-class status of his family (his father was a doctor) allowed Bobbio to have a comfortable childhood. He wrote verses and loved Bach and Verdi's opera ''[[La traviata]]''. Later, he would develop an unknown illness that caused tiredness and malaise.<ref>«la sensazione della fatica di vivere, di una permanente e invincibile stanchezza» Bobbio continued: «[Fui] esonerato, per mia vergogna, dalle ore di ginnastica per una malattia infantile restata, almeno per me, misteriosa». (Norberto Bobbio, De senectute, Einaudi, Torino 1996, pp. 27, 31 e passim)</ref> The feeling worsened with age but became an important part of his intellectual growth.
+
+Bobbio studied at the [[Liceo Classico Massimo d'Azeglio]], where he met [[Leone Ginzburg]], [[Cesare Pavese]],<ref>{{cite web|first1=Norberto|last1=Bobbio|first2=Pietro|last2=Polito|url=https://www.centrogobetti.it/rubriche/865-chiave-di-lettura-il-mestiere-di-vivere-norberto-bobbio.html|title=Chiave di lettura – Il mestiere di vivere (Norberto Bobbio|language=Italian|access-date=June 15, 2021|location=Florence|year=2014|pages=35–42}}</ref> and [[Vittorio Foa]], who would all become major figures in the culture of the Italian Republic. From 1928, like many other youth in the era, Bobbio registered with the [[National Fascist Party]].
+
+==Life and views==
+In high school Bobbio met [[Vittorio Foa]], [[Leone Ginzburg]] and [[Cesare Pavese]], and at the university, he became a friend of {{ill|Alessandro Galante Garrone|it}}.
+
+In 1942, under the Fascist regime of [[Benito Mussolini]] and during [[World War II]], Bobbio joined the [[Partito d'Azione]] ("Party of Action"), illegal at the time, and was imprisoned in 1943 and 1944. He was a candidate in the 1946 [[Constituent Assembly of Italy]] elections, but failed to win a seat. With the party's failure in a post-war Italy dominated by the [[Christian Democracy (Italy)|Christian Democrats]], Bobbio left electoral politics and returned his focus to academia.<ref>Bellamy, Richard, "Norberto Bobbio," in James Wright (ed.), ''International Encyclopaedia of Social and Behavioural Sciences'', 2nd ed., Elsevier, 2015. p. 714.</ref>
+
+He was one of the major exponents of [[left-right politics|left-right political]] distinctions, arguing that the Left believes in attempting to eradicate [[social inequality]], while the Right regards most social inequality as the result of ineradicable natural inequalities, and sees attempts to enforce social equality as utopian or authoritarian.<ref>Bobbio, Norberto, ''[[Left and Right: The Significance of a Political Distinction]]'' (translated by Allan Cameron), 1997, [[University of Chicago Press]]. {{ISBN|0-226-06246-5}}</ref>
+
+A strong advocate of the [[rule of law]], the [[separation of powers]], and the limitation of powers, he was a socialist, but opposed to what he perceived as the anti-democratic, authoritarian elements in most of [[Marxism]]. He was a strong partisan of the [[Historic Compromise]] between the [[Italian Communist Party]] and the Christian Democrats, and a fierce critic of [[Silvio Berlusconi]]. Bobbio died in Turin, the same city in which he was born and lived most of his life.
+
+==Academic career and honors==
+Bobbio studied philosophy of law with {{ill|Gioele Solari|it}}; he later taught this subject in [[Camerino]], [[Siena]], [[Padua]], and ultimately back in [[Turin]] as Solari's successor in 1948; from 1972 to 1984, he was a professor of political science in Turin.<ref>Bellamy, Richard, "Norberto Bobbio," in James Wright (ed.), ''International Encyclopaedia of Social and Behavioural Sciences'', 2nd ed., Elsevier, 2015. p. 714.</ref>
+
+He was a National Associate of the [[Lincean Academy]] and longtime co-director of the ''Rivista di Filosofia''. He became a Corresponding Associate of the [[British Academy]] in 1966; in 1984 he was nominated as [[Senator for life|Senator-for-life]] by Italian President [[Sandro Pertini]].<ref>Bellamy, Richard, "Norberto Bobbio," in James Wright (ed.), ''International Encyclopaedia of Social and Behavioural Sciences'', 2nd ed., Elsevier, 2015. p. 714.</ref>
+
+The awards received by Bobbio include:
+
+* Election into the [[American Academy of Arts and Sciences]] in 1994<ref>{{cite web | url=https://www.amacad.org/person/norberto-bobbio | title=Norberto Bobbio | date=9 February 2023 }}</ref>
+* The 1994 [[Balzan Prize]] for Law and Political Science (Governments and Democracy)<ref>{{cite web | url=https://www.balzan.org/en/prizewinners/norberto-bobbio/ | title=Norberto Bobbio – Balzan Prize Law and Political Science }}</ref>
+* The 2000 [[Hegel Prize]] for a contribution to the development of the humanities
+
+Bobbio also received, among others, doctorates ''[[honoris causa]]'' from the Universities of [[University of Paris, Nanterre|Paris (Nanterre)]], [[Complutense University of Madrid|Madrid (Complutense)]], [[University of Bologna|Bologna]], [[Chambéry University|Chambéry]], [[Charles III University of Madrid|Madrid (Carlos III)]], [[University of Sassari|Sassari]], [[University of Camerino|Camerino]], [[Autonomous University of Madrid|Madrid (Autónoma)]], and [[University of Buenos Aires|Buenos Aires]].<ref>Bellamy, Richard, "Norberto Bobbio," in James Wright (ed.), ''International Encyclopaedia of Social and Behavioural Sciences'', 2nd ed., Elsevier, 2015. p. 714.</ref>
+
+To celebrate the centenary of Norberto Bobbio's birth, a committee was established, constituted by more than a hundred Italian and international public institutions and intellectual figures, which formulated a wide-ranging programme of activities to promote dialogue and reflection on the thought and figure of Bobbio, and on the future of democracy, culture and civilisation.<ref>Anticipated from the [http://www.centenariobobbio.it/en.html Bobbio Centenary] {{webarchive|url=https://web.archive.org/web/20110912021659/http://www.centenariobobbio.it/en.html |date=2011-09-12 }} website</ref> Celebrations were officially opened on 10 January 2009 at the [[University of Turin]].
+
+==Public intellectual==
+According to Richard Bellamy, Bobbio was a public intellectual and throughout his life worked on several causes, including the defence of social democracy and supporting nuclear disarmament.<ref>Bellamy, Richard, "Norberto Bobbio," in James Wright (ed.), ''International Encyclopaedia of Social and Behavioural Sciences'', 2nd ed., Elsevier, 2015. p. 714.</ref>
+
+==Major works==
+Bobbio's first book was ''The Phenomenological Turn in Social and Legal Philosophy'' (1934). It was followed by ''The Use of Analogy in Legal Logic'' (1938) and ''The Philosophy of Decadence'' (1944).
+
+Next, Bobbio sought to elaborate a general theory of law, a project that was influenced by [[Hans Kelsen]]'s work. This research led to the publication of ''A Theory of Judicial Norms'' (1958) and ''A Theory of the Legal Order'' (1960).
+
+Coinciding with his new position as chair in Politics at Turin in 1972, Bobbio turned his attention from a pure theory of law to more political issues. He wrote on Hobbes, Mosca, and Pareto.<ref>Bellamy, Richard, "Norberto Bobbio," in James Wright (ed.), ''International Encyclopaedia of Social and Behavioural Sciences'', 2nd ed., Elsevier, 2015. p. 715.</ref>
+
+Publications from this period that address the rule of law, rights, and democracy include: ''Which Socialism?'' (1976); ''[[The Future of Democracy|The Future of Democracy: A Defense of the Rules of the Game]]'' (1984); ''State, Government and Society'' (1985); ''The Age of Rights'' (1990).
+
+''[[Liberalism and Democracy]]'' (1985) explores the relationship between liberalism and democracy, highlighting tensions and complementarities. Other works include ''The Problem of War and the Roads to Peace'' (1979); ''The Absent Third'' (1989); and ''A Just War?'' (1991).<ref>Bellamy, Richard, "Norberto Bobbio," in James Wright (ed.), ''International Encyclopaedia of Social and Behavioural Sciences'', 2nd ed., Elsevier, 2015. p. 715-16.</ref>
+
+==Democracy==
+Bobbio defended the view that "the only way a meaningful discussion of democracy, as distinct from all forms of autocratic government, ... is to consider it as characterized by a set of rules (primary or basic) which establish ''who'' is authorised to take collective decisions and which ''procedures'' are to be applied. Every social group needs to take decisions binding on all members of the group so as to ensure its own survival."<ref>Norberto Bobbio, ''The Future of Democracy: A Defense of the Rules of the Game.'' Minneapolis, MN: University of Minnesota Press, 1987, p. 24.</ref>
+
+==Major works==
+*''L'indirizzo fenomenologico nella filosofia sociale e giuridica'' (''The [[Phenomenology (philosophy)|Phenomenological]] Turn in Social and Legal Philosophy'', 1934)
+*''Scienza e tecnica del diritto'' (''The Science and Technical Aspects of Law'', 1934)
+*''L'analogia nella logica del diritto'' (''The Use of Analogy in Legal Logic'', 1938)
+*''La consuetudine come fatto normativo'' (''Custom as a Normative Fact'', 1942)
+*''La filosofia del decadentismo'' (''The Philosophy of Decadence'', 1945)
+*''Teoria della scienza giuridica'' (''Theory of Legal Science'', 1950)
+*''Politica e cultura'' (''Politics and Culture'', 1955)
+*''Studi sulla teoria generale del diritto'' (''Essays in the General Theory of Law'', 1955)
+*''Teoria della norma giuridica'' (''[[Theory of Legal Norms]]'', 1958)
+*''Teoria dell'ordinamento giuridico'' (''A Theory of Legal Order'', 1960)
+*''Profilo ideologico del Novecento italiano'' (''An [[Ideology|Ideological]] Profile of Twentieth Century Italy'', 1960)
+*''Il positivismo giuridico'' (''[[Legal Positivism (Book of Bobbio)|Legal Positivism]]'', 1961)
+*''Locke e il diritto naturale'' (''[[John Locke|Locke]] and [[Natural Law]]'', 1963)
+*''Italia civile'' (''Civil Italy'', 1964)
+*''Giusnaturalismo e positivismo giuridico'' (''Natural Law and Legal [[Positivism]]'', 1965)
+*''Da Hobbes a Marx'' (''From [[Thomas Hobbes|Hobbes]] to [[Karl Marx|Marx]]'', 1965)
+*''Saggi sulla scienza politica in Italia'' (''Tests of Political Science in Italy'', 1969)
+*''Diritto e Stato nel pensiero di E. Kant'' (''Law and State in the Thought of [[Immanuel Kant]]'', 1969)
+*''Ideological Profile of Italy in the Twentieth Century'' (1969)
+*''Una filosofia militante: studi su Carlo Cattaneo'' (''A Militant Philosopher: Essays on [[Carlo Cattaneo]]'', 1971)
+*''On Mosca and Pareto'' (1972)
+*''Quale socialismo'' (1976) (''Which Socialism? Marxism, Socialism and Democracy'', 1986)
+*''[[I problemi della guerra e le vie della pace]]'' (''The Problem of War and the Roads to Peace'', 1979)
+*''Studi hegeliani'' (''[[Hegel]]ian Essays'', 1981)
+*''[[The Future of Democracy|Il futuro della democrazia]]'' (''The Future of Democracy: A Defence Of The Rules Of The Game'', 1984)
+*''Maestri e compagni'' (''Teachers and Companions'', 1984)
+* “The Future of Democracy”. ''[[Telos (journal)|Telos]]'' 61 (Fall 1984). New York: [http://www.telospress.com Telos Press]
+*''[[Liberalism and Democracy|Liberalismo e democrazia]]'' (''Liberalism and democracy'', 1985)
+*''State, Government and Society'' (''Democracy and Dictatorship: The Nature and Limits of State Power'', 1985)
+*''Il terzo assente'' (''The Absent Third'', 1988)
+*''Thomas Hobbes'' (1989)
+*''L'età dei diritti'' (''The Rule of Law'', 1989)
+*''The Age of Rights'' (English-language publication, 1990)
+*''A Just War?'' (1991), a defense of the [[Gulf War]], about which he later changed his mind.
+*''[[Left and Right: The Significance of a Political Distinction|Destra e sinistra]]'' (''Right and Left''), Roma, 1994
+*''In Praise of Meekness'' (1994)
+*''De senectute'' (''Of Old Age''; the Latin title is an allusion to [[Cicero]]'s ''[[Cato Maior de Senectute]]'', 1996)
+*''Autobiografia'' (''Autobiography'', 1999)
+*''Teoria Generale della Politica'' (''General Theory of Politics'', 1999)
+*''Dialogo intorno alla repubblica'' (''Dialogue about the Republic'', 2001)
+*''Etica e politica: Scritti di impegno civile'' (''Ethics and Politics:  writings on civil obligation''), ed. Marco Revelli.  Milano: Mondadori, 2009.
+
+==References==
+{{reflist}}
+
+==Further reading==
+* ''Anderson, Perry, "The Affinities of Norberto Bobbio," New Left Review 170 (July–August 1988): 3–36.''
+* ''Bellamy, Richard, "The legacy of Norberto Bobbio: Assessments and Recollections," Critical Review of International Social and Political Philosophy 7(3) (2004): 67–83''
+* ''Bellamy, Richard, [http://education.guardian.co.uk/obituary/story/0,12212,1122036,00.html "Norberto Bobbio"], obituary in [[The Guardian]], January 13, 2004.''
+* ''Bellamy, Richard, "Norberto Bobbio," in James Wright (ed.), International Encyclopaedia of Social and Behavioural Sciences, 2nd ed., Elsevier, 2015. Available at SSRN: https://ssrn.com/abstract=2371294''
+* ''Chataway, Teresa, "Norberto Bobbio (1909–2004) and Law: A Centennial Tribute," Studies in Law, Politics, and Society 55 (2011): 173–202.[https://research-repository.griffith.edu.au/bitstream/handle/10072/42289/72488_1.pdf;jsessionid=FD150F077895F5FAB13A4F2BA44C1544?sequence=1]''
+*''Johnson, Alan, [https://archive.today/20050316221311/http://www.workersliberty.org/node/view/1613 "Norberto Bobbio, 1909–2004"], obituary from Workers' Liberty as retrieved on Jan 23, 2005''
+*''Leone, Giuseppe, "Destra e Sinistra, una distinzione che non c'è più? – Un saggio appassionato per dire se l'uomo conti ancora", su "Ricorditi di me..." in Lecco 2000, Lecco 1999''
+*''Maissin, Gabriel, [https://web.archive.org/web/20130619065600/http://politique.eu.org/spip.php?article114 "L'égalité, étoile polaire de la gauche : à propos du livre de Noberto Bobbio « Droite et gauche »"] obituary in Politique (Brussels), April 2004.''
+*{{cite journal|last1=Tosel|first1=André|author-link=André Tosel|title=La philosophie politique de Norberto Bobbio ou un social-libéralisme tragique|journal=Les Études philosophiques|date=October–December 1994|volume=4|issue=4|pages=555–568|jstor=20848889}}
+* ''Pasquino, Gianfranco, Bobbio y Sartori. Comprender y cambiar la política. Buenos Aires: Eudeba, 2022.''
+* ''Yturbe, Corina. “On Norberto Bobbio’s Theory of Democracy.” Political Theory 25(3): 1997: 377–400.[https://www.jstor.org/stable/191985#metadata_info_tab_contents]''
+
+==External links==
+{{Wikiquote}}
+* [http://www.erasmo.it/gobetti/ The Works of Norberto Bobbio], a multilingual site
+* [https://web.archive.org/web/20110912021659/http://www.centenariobobbio.it/en.html Bobbio Centenary], official website
+
+{{Norberto Bobbio}}
+{{jurisprudence}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bobbio, Norberto}}
+[[Category:1909 births]]
+[[Category:2004 deaths]]
+[[Category:Academic staff of the University of Siena]]
+[[Category:Academic staff of the University of Padua]]
+[[Category:Academic staff of the University of Turin]]
+[[Category:Journalists from Turin]]
+[[Category:Italian male journalists]]
+[[Category:20th-century Italian philosophers]]
+[[Category:Italian socialists]]
+[[Category:Italian anti-fascists]]
+[[Category:Action Party (Italy) politicians]]
+[[Category:Italian political philosophers]]
+[[Category:Italian life senators]]
+[[Category:Italian political scientists]]
+[[Category:Philosophers of law]]
+[[Category:Italian social liberals]]
+[[Category:20th-century Italian journalists]]
+[[Category:Corresponding fellows of the British Academy]]
+[[Category:20th-century Italian male writers]]
+[[Category:20th-century political scientists]]

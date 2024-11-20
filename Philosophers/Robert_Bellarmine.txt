@@ -1,0 +1,336 @@
+{{Short description|Italian Jesuit cardinal and saint (1542–1621)}}
+{{Use dmy dates|date=September 2021}}
+{{Infobox Christian leader
+| type = Cardinal
+| honorific_prefix = [[Saint]]
+| name = Robert Bellarmine
+| honorific_suffix = [[Society of Jesus|SJ]]
+| image = Portret van kardinaal Robertus Bellarminus, onbekend, schilderij, Museum Plantin-Moretus (Antwerpen) - MPM V IV 110 (cropped).jpg
+| caption = 17th-century portrait of Robert Bellarmine, Antwerp, [[Museum Plantin-Moretus]]
+| title = [[Cardinal (Catholic Church)|Cardinal]], [[Roman Catholic Archdiocese of Capua|Archbishop Emeritus of Capua]]
+| church = [[Catholic Church]]
+| archdiocese = Capua
+| province = 
+| metropolis = 
+| diocese = 
+| see = 
+| appointed = 18 March 1602
+| term_start = 21 April 1602
+| term_end = August 1605
+| predecessor = Cesare Costa
+| successor = [[Antonio Caetani (iuniore)|Antonio Caetani Jr.]]
+| opposed = 
+| other_post = [[Santa Prassede|Cardinal-Priest of Santa Prassede]]
+<!---------- Orders ---------->
+| ordination = 19 March 1570
+| consecration = 21 April 1602
+| consecrated_by = [[Pope Clement VIII|Clement VIII]]
+| cardinal = 3 March 1599
+| created_cardinal_by = Clement VIII
+| rank = Cardinal-Priest
+<!---------- Personal details ---------->
+| birth_name = 
+| birth_date = {{birth date|1542|10|04|df=yes}}
+| birth_place = [[Montepulciano]], [[Grand Duchy of Tuscany]]
+| death_date = {{death date and age|df=yes|1621|9|17|1542|10|4}}
+| death_place = Rome, Papal States
+| buried = 
+| residence = 
+| parents = 
+| occupation = 
+| profession = <!-- or | previous_post = -->
+| alma_mater = 
+| motto = 
+| signature = 
+| signature_alt = 
+| coat_of_arms = Coat of arms cardinal Roberto Bellarmino.svg
+| coat_of_arms_alt = <!---------- Sainthood ---------->
+| feast_day = 17 September; 13 May ([[General Roman Calendar]], 1932&ndash;1969)
+| venerated = [[Catholic Church]]
+| beatified_date = 13 May 1923
+| beatified_place = Rome, [[Kingdom of Italy]]
+| beatified_by = [[Pope Pius XI|Pius XI]]
+| canonized_date = 29 June 1930
+| canonized_place = Rome, [[Vatican City]]
+| canonized_by = Pius XI
+| shrine = [[Sant'Ignazio|Chiesa di Sant'Ignazio]], [[Rome]], [[Italy]]
+| attributes = 
+| saint_title = [[Confessor]] and [[Doctor of the Church]]
+| patronage = [[Bellarmine University]], [[Bellarmine Preparatory School]], [[Fairfield University]], [[Bellarmine College Preparatory]], [[St. Robert's School, Darjeeling]], [[canonists]], [[canon lawyers]], [[Catechism|catechists]], [[Robert Barron (bishop)]], [[catechumens]], [[Roman Catholic Archdiocese of Cincinnati|Archdiocese of Cincinnati]], [[St. Robert Catholic High School]]
+<!---------- Other ---------->
+| other = 
+}}
+
+'''Robert Bellarmine''' {{post-nominals|post-noms=[[Society of Jesus|SJ]]}} ({{langx|it|Roberto Francesco Romolo Bellarmino}}; 4 October 1542 – 17 September 1621) was an Italian [[Jesuit]] and a [[Cardinal (Catholicism)|cardinal]] of the [[Catholic Church]]. He was [[canonization|canonized a saint]] in 1930<ref>{{cite book |last1=Jestice |first1=Phyllis G. |title=Holy People of the World: A Cross-cultural Encyclopedia |date=2004 |publisher=ABC-CLIO |isbn=978-1-57607-355-1 |page=114 |url=https://books.google.com/books?id=H5cQH17-HnMC&q=Robert+Bellarmine+canonization&pg=PA114 |language=en |access-date=19 November 2020 |archive-date=20 February 2023 |archive-url=https://web.archive.org/web/20230220051900/https://books.google.com/books?id=H5cQH17-HnMC&q=Robert+Bellarmine+canonization&pg=PA114 |url-status=live }}</ref> and named [[Doctor of the Church]], one of only 37. He was one of the most important figures in the [[Counter-Reformation]].
+
+Bellarmine was a professor of theology and later [[Rector (academia)|rector]] of the [[Roman College]], and in 1602 became [[Roman Catholic Archdiocese of Capua|Archbishop of Capua]]. He supported the reform decrees of the [[Council of Trent]]. He is also widely remembered for his role in the [[Giordano Bruno]] affair,<ref>{{cite book |last1=Gibbings |first1=Richard |title=Were "heretics" Ever Burned Alive at Rome?: A Report of the Proceedings in the Roman Inquisition Against Fulgentio Manfredi. Taken from the Original Manuscript Brought from Italy by a French Officer, and Edited, with a Parallel English Version and Illustrative Additions |date=1852 |publisher=John Petheram |pages=44–45 |url=https://books.google.com/books?id=OaI3zQEACAAJ |language=en |access-date=19 November 2020 |archive-date=20 February 2023 |archive-url=https://web.archive.org/web/20230220051903/https://books.google.com/books?id=OaI3zQEACAAJ |url-status=live }}</ref><ref>{{cite journal |last1=Martinez |first1=Alberto A. |title=Giordano Bruno and the heresy of many worlds |journal=Annals of Science |date=1 October 2016 |volume=73 |issue=4 |pages=345–374 |doi=10.1080/00033790.2016.1193627 |pmid=27607442 |s2cid=25425481 |issn=0003-3790}}</ref> the [[Galileo affair]], and the trial of Friar [[Fulgenzio Manfredi]].<ref>{{cite book |last1=Perkins |first1=William |title=A Golden Chain or the description of Theology |date=1600 |publisher=University of Cambridge |page=155 |url=http://www.onthewing.org/user/Perkins%20-%20Golden%20Chain%20-%20Modern.pdf |archive-url=https://ghostarchive.org/archive/20221009/http://www.onthewing.org/user/Perkins%20-%20Golden%20Chain%20-%20Modern.pdf |archive-date=2022-10-09 |url-status=live}}</ref>
+
+==Early life==
+Robert Bellarmine was born in [[Montepulciano]], the son of noble, albeit impoverished, parents, Vincenzo Bellarmino and his wife Cinzia Cervini, who was the sister of [[Pope Marcellus II]].<ref name="smith">{{cite CE1913|wstitle=St. Robert Francis Romulus Bellarmine|volume=2|first=Sydney Fenn|last=Smith|url=http://www.newadvent.org/cathen/02411d.htm}}</ref> As a boy he knew [[Virgil]] by heart and composed a number of poems in [[Italian language|Italian]] and [[Latin]]. One of his hymns, on [[Mary Magdalene]], is included in the [[Roman Breviary]].
+
+Bellarmine entered the Roman [[Jesuits|Jesuit]] novitiate in 1560, remaining in Rome for three years. He then went to a Jesuit house at [[Mondovì]], in [[Piedmont (Italy)|Piedmont]], where he learned [[Greek language|Greek]]. While at Mondovì, he came to the attention of [[Francis Adorno|Francesco Adorno]], the local Jesuit provincial superior, who sent him to the [[University of Padua]].<ref>{{cite book |last1=Rule|first1=William Harris|title=Celebrated Jesuits|volume=2|year=1853|publisher=John Mason|location=London|page=20|chapter=A Jesuit cardinal: Robert Bellarmine}}</ref>
+
+==Career==
+Bellarmine's systematic studies of [[theology]] began at Padua in 1567 and 1568, where his teachers were adherents of [[Thomism]]. In 1569, he was sent to finish his studies at the [[Old University of Leuven|University of Leuven]] in [[Duchy of Brabant|Brabant]]. There he was ordained and obtained a reputation both as a professor and as a preacher. He was the first Jesuit to teach at the university, where the subject of his course was the ''[[Summa Theologica]]'' of [[Thomas Aquinas]]. He was involved in a controversy with [[Michael Baius]] on the subject of [[Divine grace|Grace]] and [[free will]], and wrote a [[Hebrew language|Hebrew]] grammar.{{sfn|Farmer|2011}} His residency in Leuven lasted seven years. In poor health, in 1576 he made a journey to Italy. Here he remained, commissioned by [[Pope Gregory XIII]] to lecture on [[polemical theology]] in the new [[Roman College]], now known as the [[Pontifical Gregorian University]]. Later, he would promote the cause of the beatification of [[Aloysius Gonzaga]], who had been a student at the college during Bellarmine's tenure.<ref name=smith/> His lectures were published under the title ''De Controversias'' in four large volumes.<ref>{{cite web |title=St. Robert Bellarmine The Great Defender of the Faith |url=https://christianapostles.com/st-robert-bellarmine/ |website=ChristianApostles.com |access-date=2 December 2020 |archive-date=31 December 2022 |archive-url=https://web.archive.org/web/20221231130202/https://christianapostles.com/st-robert-bellarmine/ |url-status=live }}</ref>
+
+===New duties after 1589===
+{{Jesuit}}
+Until 1589, Bellarmine was occupied as professor of theology. After the murder in that year of [[Henry III of France]], [[Pope Sixtus V]] sent [[Enrico Caetani]] as [[Papal legate|legate]] to Paris<ref>{{Cite web|url=https://cardinals.fiu.edu/bios1585-ii.htm#Caetani|title=The Cardinals of the Holy Roman Church – Biographical Dictionary – CAETANI, Enrico (1550-1599)|last=Miranda|first=Salvador|authorlink1=Salvador Miranda (historian)|website=www2.fiu.edu|access-date=23 June 2017|archive-date=23 March 2020|archive-url=https://web.archive.org/web/20200323184306/http://cardinals.fiu.edu/bios1585-ii.htm#Caetani|url-status=live}}</ref> to negotiate with the [[Catholic League (French)|Catholic League of France]], and chose Bellarmine to accompany him as theologian.<ref>{{Cite web|url=https://cardinals.fiu.edu/bios1599.htm#Bellarmino|title=The Cardinals of the Holy Roman Church – Biographical Dictionary – BELLARMINO, S.J., Roberto (1542-1621)|last=Miranda|first=Salvador|authorlink1=Salvador Miranda (historian)|website=www2.fiu.edu|access-date=23 June 2017|archive-date=23 March 2020|archive-url=https://web.archive.org/web/20200323184305/http://cardinals.fiu.edu/bios1599.htm#Bellarmino|url-status=live}}</ref> He was in the city during its siege by [[Henry of Navarre]].
+
+Upon the death of Pope Sixtus V in 1590, the Count of Olivares wrote to King Philip III of Spain, "Bellarmine ... would not do for a Pope, for he is mindful only of the interests of the Church and is unresponsive to the reasons of princes."<ref name="rice" />
+
+Pope [[Pope Clement VIII|Clement VIII]], said of him, "the Church of God had not his equal in learning".<ref name="smith" /> Bellarmine was made rector of the [[Roman College]] in 1592, examiner of [[bishop]]s in 1598, and cardinal in 1599. Immediately after his appointment as Cardinal, Pope Clement made him a [[Inquisition|Cardinal Inquisitor]], in which capacity he served as one of the judges at the trial of [[Giordano Bruno]], and concurred in the decision which condemned Bruno to be [[burned at the stake]] as a [[heretic]].<ref>Blackwell [[#Reference-Blackwell-1991|(1991, pp.&nbsp;47&ndash;48)]].</ref>
+
+In 1602 he was made [[archbishop of Capua]]. He had written against pluralism and non-residence of bishops within their [[diocese]]s. As bishop he put into effect the reforming decrees of the [[Council of Trent]]. He received some votes in the 1605 [[papal election|conclaves]] which elected [[Pope Leo XI]], [[Pope Paul V]], and in 1621 when [[Pope Gregory XV]] was elected, but his being a Jesuit counted against him in the judgement of many of the cardinals.<ref name="smith" />
+
+[[Thomas Hobbes]] saw Bellarmine in Rome at a service on All Saints Day (1 November) 1614 and, exempting him alone from a general castigation of cardinals, described him as "a little lean old man" who lived "more retired".<ref>{{cite book|last=Martinich|first=A. P.|title=Thomas Hobbes: a Biography|location=Cambridge|publisher=Cambridge U.P.|date=1999|page=34}}</ref>
+
+===The Galileo case===
+{{Main|Galileo affair}}
+In 1616, on the orders of Paul V, Bellarmine summoned [[Galileo Galilei|Galileo]], notified him of a forthcoming [[decree]] of the [[Congregation of the Index]] condemning the [[Nicolaus Copernicus|Copernican]] doctrine of the mobility of the Earth and the immobility of the Sun, and ordered him to abandon it.<ref>Blackwell [[#Reference-Blackwell-1991|(1991, p. 126)]].<div id="disputedinjunction" zoompage-fontsize="12"> The Vatican archives contain an unsigned copy of a more strongly worded formal injunction purporting to have been served on Galileo shortly after Bellarmine's admonition, ordering him "not to hold, teach, or defend" the condemned doctrine "in any way whatever, either orally or in writing", and threatening him with imprisonment if he refused to obey.</div> However, whether this injunction was ever properly served on Galileo is a subject of much scholarly disagreement.[[#Reference-Blackwell-1991|(Blackwell, 1991, p. 127&ndash;128)]]</ref> Galileo agreed to do so.<ref>[[#Reference-Fantoli-2005|Fantoli (2005, p.119)]]. Some scholars have suggested that Galileo's agreement was only obtained after some initial resistance. Otherwise, the formal injunction purporting to have been served on him during his meeting with Bellarmine [[#disputedinjunction|(see earlier footnote)]] would have been contrary to the Pope's instructions [[#Reference-Fantoli-2005|(Fantoli. 2005, pp.121, 124)]].</ref>
+
+When Galileo later complained of rumours to the effect that he had been forced to abjure and do penance, Bellarmine wrote out a certificate denying the rumours, stating that Galileo had merely been notified of the decree and informed that, as a consequence of it, the Copernican doctrine could not be "defended or held". Unlike the previously mentioned formal injunction [[#disputedinjunction|(see earlier footnote)]], this certificate would have allowed Galileo to continue using and teaching the mathematical content of Copernicus's theory as a purely theoretical device for predicting the apparent motions of the planets.<ref>Blackwell [[#Reference-Blackwell-1991|(1991, p.127)]]. [[Maurice Finocchiaro]]'s English translations of the purported [https://web.archive.org/web/20070930013053/http://astro.wcupa.edu/mgagne/ess362/resources/finocchiaro.html#specinj formal injunction], the [https://web.archive.org/web/20070930013053/http://astro.wcupa.edu/mgagne/ess362/resources/finocchiaro.html#indexdecree decree] of the Congregation of the Index and Cardinal Bellarmine's [https://web.archive.org/web/20070930013053/http://astro.wcupa.edu/mgagne/ess362/resources/finocchiaro.html#certificate certificate] are available on-line.</ref><ref>{{Cite book|url = https://books.google.com/books?id=v1gFDgAAQBAJ&q=bellarmine+galileo&pg=PT124|title = Galileo, Bellarmine, and the Bible|isbn = 9780268158934|last1 = Blackwell|first1 = Richard J.|date = 31 January 1991| publisher=University of Notre Dame Pess |access-date = 19 November 2020|archive-date = 20 February 2023|archive-url = https://web.archive.org/web/20230220051904/https://books.google.com/books?id=v1gFDgAAQBAJ&q=bellarmine+galileo&pg=PT124|url-status = live}}</ref>
+
+According to some of his letters, Cardinal Bellarmine believed that a demonstration for heliocentrism could not be found because it would contradict the unanimous consent of the [[Fathers of the Church|Fathers]]' [[scriptural exegesis]], to which the [[Council of Trent]], in 1546,<ref>{{cite web|title=Fourth Session of the Council of Trent|date=8 April 1546|url=http://www.ccel.org/ccel/schaff/creeds2.v.i.i.ii.html#v.i.i.ii-p0.55|access-date=16 December 2013|archive-date=21 October 2013|archive-url=https://web.archive.org/web/20131021173738/http://www.ccel.org/ccel/schaff/creeds2.v.i.i.ii.html#v.i.i.ii-p0.55|url-status=live}}</ref> [[Dogmatic definition|defined]] all Catholics must adhere. In other passages, Bellarmine argued that he did not support the heliocentric model for the lack of evidence of the time ("I will not believe that there is such a demonstration, until it is shown to me").<ref name="letter to Foscarini">Bellarmine's letter of 12 April 1615 to Foscarini, translated in {{Cite book|editor-last=Finocchiaro|editor-first=Maurice A. |title=The Galileo Affair: a Documentary History |url=https://books.google.com/books?id=k7D1CXFBl2gC&pg=PA67 |location=Berkeley|publisher=U. California P.|date=1989|pages=67–8|isbn=0520066626}}</ref>
+
+Bellarmine wrote to [[heliocentrism|heliocentrist]] [[Paolo Antonio Foscarini]] in 1615:<ref name="letter to Foscarini"/>
+
+{{Blockquote|The Council [of Trent] prohibits interpreting Scripture against the common consensus of the Holy Fathers; and if Your Paternity wants to read not only the Holy Fathers, but also the modern commentaries on [[Book of Genesis|Genesis]], the [[Psalm]]s, [[Ecclesiastes]], and Joshua, you will find all agreeing in the literal interpretation that the sun is in heaven and turns around the earth with great speed, and that the earth is very far from heaven and sits motionless at the center of the world.}}and{{Blockquote|I say that if there were a true demonstration that the sun is at the center of the world and the earth in the third heaven, and that the sun does not circle the earth but the earth circles the sun, then one would have to proceed with great care in explaining the Scriptures that appear contrary, and say rather that we do not understand them, than that what is demonstrated is false. But I will not believe that there is such a demonstration, until it is shown me. Nor is it the same to demonstrate that by supposing the sun to be at the center and the earth in heaven one can [[Saving the phenomena|save the appearances]], and to demonstrate that in truth the sun is at the center and the earth in heaven; for I believe the first demonstration may be available, but I have very great doubts about the second, and in case of doubt one must not abandon the Holy Scripture as interpreted by the Holy Fathers.}}
+
+In 1633, nearly twelve years after Bellarmine's death, Galileo was again called before the Inquisition in this matter. Galileo produced Bellarmine's certificate for his defense at the trial.<ref>Galileo's third deposition (10 May 1633), translated in {{Cite book|editor-last=Finocchiaro|editor-first=Maurice A. |title=The Trial of Galileo: Essential Documents |url=https://books.google.com/books?id=U69aBAAAQBAJ&pg=PA130 |location=Indianapolis|publisher=Hackett Publishing Company, Inc.|date=2014|pages=130|isbn=9781624661358}}</ref>
+
+According to [[Pierre Duhem]] and [[Karl Popper]] "in one respect, at least, Bellarmine had shown himself a better scientist than Galileo by disallowing the possibility of a "strict proof" of the earth's motion, on the grounds that an astronomical theory merely "saves the appearances" without necessarily revealing what "really happens."<ref>{{Cite encyclopedia |year=2008 |title=Robert Bellarmine |encyclopedia=[[Dictionary of Scientific Biography]] |publisher=Scribner & American Council of Learned Societies |last=McMullin |first=Ernan |editor-last=Gillispie |editor-first=Charles |ref=Reference-McMullin-2008}}</ref> Philosopher of science [[Thomas Kuhn]], in his book, ''The Copernican Revolution'', after commenting on [[Cesare Cremonini (philosopher)|Cesare Cremonini]], who refused to look through Galileo's [[telescope]], wrote:
+
+{{blockquote|Most of Galileo’s opponents behaved more rationally. Like Bellarmine, they agreed that the phenomena were in the sky but denied that they proved Galileo’s contentions. In this, of course, they were quite right. Though the telescope argued much, it proved nothing.<ref>{{cite book|first=Thomas|last=Kuhn|title=The Copernican Revolution|location=New York|publisher=Random House / Vintage Books|year=1957|page=226}}</ref>}}
+
+==Death==
+Robert Bellarmine retired to [[Sant'Andrea degli Scozzesi]], the Jesuit college of Saint Andrew in Rome. He died on 17 September 1621, aged 78.<ref>Chisholm (1911)</ref> He was buried in the [[Sant'Ignazio, Rome|Church of St. Ignatius]] in Rome.<ref>{{cite web
+	| url = https://www.romereports.com/en/2021/01/10/church-of-st-ignatius-in-rome-the-jewel-of-baroque-architecture-has-a-false-dome
+	| title = Church of St. Ignatius in Rome: the jewel of baroque architecture
+	| last = Díaz Vizzi
+	| first = Daniel
+	| date = January 10, 2021
+	| website = Rome Reports
+	| publisher = 
+	| access-date = 15 September 2023
+	| translator = Christian Campos
+}}</ref> 
+[[File:San Roberto Bellarmino.jpg|thumb|271x271px|16th-century portrait of Saint Robert Bellarmine|left]]
+
+==Works==
+Bellarmine's books bear the stamp of their period; the effort for literary elegance (so-called ''"maraviglia"'') had given place to a desire to pile up as much material as possible, to embrace the whole field of human knowledge, and incorporate it into theology. His controversial works provoked many replies, and were studied for some decades after his death.{{Efn|''On Laymen or Secular People''; ''On the Temporal Power of the Pope. Against William Barclay''; and ''On the Primary Duty of the Supreme Pontiff'', are included in Bellarmine, [https://oll.libertyfund.org/titles/on-temporal-and-spiritual-authority ''On Temporal and Spiritual Authority''], Stefania Tutino (ed.) trans., Indianapolis, IN: Liberty Fund, 2012|name=|group=}} At Leuven he made extensive studies in the [[Church Fathers]] and [[scholastic theologian]]s, which gave him the material for his book ''De scriptoribus ecclesiasticis'' (Rome, 1613). It was later revised and enlarged by [[Sirmond]], [[Labbeus]], and [[Casimir Oudin]]. Bellarmine wrote the preface to the new [[Sixto-Clementine Vulgate]].<ref name=smith/> Bellarmine also prepared for posterity his own commentary on each of the Psalms. An English translation from the Latin was published in 1866.<ref>{{Cite web|url=https://www.ecatholic2000.com/bell/psalms.shtml#_toc417747136|title=A COMMENTARY ON THE BOOK OF PSALMS|website=www.ecatholic2000.com|access-date=22 November 2019|archive-date=8 January 2020|archive-url=https://web.archive.org/web/20200108231532/https://www.ecatholic2000.com/bell/psalms.shtml#_toc417747136|url-status=live}}</ref>
+
+===Dogmatics===
+{{main|Disputationes de Controversiis}}
+From his research grew ''[[Disputationes de controversiis christianae fidei]]'' (also called ''Controversiae''), first published at [[Ingolstadt]] in 1581&ndash;1593. This major work was the earliest attempt to systematize the various religious disputes between Catholics and Protestants. Bellarmine reviewed the issues<ref name="rice">{{Cite web|url=http://galileo.rice.edu/chr/bellarmine.html|title=The Galileo Project {{!}} Christianity {{!}} Robert Cardinal Bellarmine|website=galileo.rice.edu|access-date=23 June 2017|archive-date=7 January 2018|archive-url=https://web.archive.org/web/20180107211216/http://galileo.rice.edu/chr/bellarmine.html|url-status=live}}</ref> and devoted eleven years to it while at the Roman College. In August 1590, [[Pope Sixtus V]] decided to place the first volume of the ''Disputationes'' on the [[Index Librorum Prohibitorum|Index]] because Bellarmine argued in it that the Pope is not the temporal ruler of the whole world and that temporal rulers do not derive their authority to rule from God but from the [[consent of the governed]]. However, Sixtus died before the revised Index was published, and the next Pope, [[Pope Urban VII|Urban VII]], removed the book from the Index during his brief twelve-day reign.<ref>{{Cite book|last=Blackwell|first=Richard J.|chapter-url=https://books.google.com/books?id=v1gFDgAAQBAJ&pg=PT123|title=Galileo, Bellarmine, and the Bible|date=31 January 1991|publisher=University of Notre Dame Press|isbn=978-0-268-15893-4|page=30|language=en|chapter=Chapter 2: Bellarmine's Views Before the Galileo Affair|doi=10.2307/j.ctvpg847x|quote=Bellarmine himself was not a stranger to theological condemnation. In August 1590 Pope Sixtus V decided to place the first volume of the ''Controversies'' on the ''Index'' because Bellarmine had argued that the pope is not the temporal ruler of the whole world and that temporal rulers do not derive their authority to rule from God through the pope but through the consent of the people governed. However Sixtus died before the revised ''Index'' was published, and the next pope, Urban VII, who reigned for only twelve days before his own death, removed Bellarmine’s book from the list during that brief period. The times were precarious.|access-date=4 September 2020|archive-date=20 February 2023|archive-url=https://web.archive.org/web/20230220051915/https://books.google.com/books?id=v1gFDgAAQBAJ&pg=PT123|url-status=live}}</ref>[[File:Dottrina cristiana tradotta in lingua arabica.tif|thumb|Page of the short catechism of Bellarmine: ''Dottrina cristiana breve'', 1752]]
+
+In 1597-98 he published a ''[[Catechism]]'' in two versions ({{Interlanguage link|A Short Christian Doctrine|lt=short|it|Dottrina cristiana breve|WD=}} and {{Interlanguage link|An Ample Declaration of the Christian Doctrine|lt=full|it|Dichiarazione più copiosa della dottrina cristiana|WD=}}) which has been translated to 60 languages and was the official teaching of the [[Catholic Church]] for centuries.<ref>Introduction by Bishop Athanasius Schneider to {{Cite book|title=Doctrina Christiana: The Timeless Catechism of St. Robert Bellarmine|author-last=Bellarmine|author-first=St. Robert|translator-last=Grant|translator-first=Ryan|publisher=Mediatrix Press|year=2016|pages=xiv-xv}}</ref>
+
+===Venetian Interdict===
+{{main|Venetian Interdict}}
+Under [[Pope Paul V]] (reigned 1605&ndash;1621), a major conflict arose between [[Venice]] and the [[Papacy]]. [[Paolo Sarpi]], as spokesman for the Republic of Venice, protested against the papal [[Interdict (Catholic canon law)|interdict]], and reasserted the principles of the [[Council of Constance]] and of the [[Council of Basel]], denying the pope's authority in secular matters. Bellarmine wrote three rejoinders to the Venetian theologians, and may have warned Sarpi of an impending murderous attack, when in September 1607, an unfrocked friar and brigand by the name of Rotilio Orlandini planned to kill Sarpi for the sum of 8,000 crowns.<ref>''The Cambridge Modern History, Volume 4: Fra Paolo Sarpi'' (Cambridge University Press 1906), p. 671</ref> Orlandini's plot was discovered, and when he and his accomplices crossed from Papal into Venetian territory they were arrested.<ref>Robertson, Alexander (1893) ''Fra Paolo Sarpi: the Greatest of the Venetians'', London: Sampson, Low, Marston & Co. pp. 114–117</ref>
+
+===Allegiance oath controversy and papal authority===
+{{Further|Oath of Allegiance of James I of England}}
+Bellarmine also became involved in controversy with King [[James I of England]]. From a point of principle for [[English Catholics]], this debate drew in figures from much of Western Europe.<ref>W. B. Patterson, ''James VI and I and the Reunion of Christendom'' (1997), pp. 76–77.</ref> It raised the profile of both protagonists, King James as a champion of his own restricted [[Calvinist]] Protestantism, and Bellarmine for [[Counter-Reformation|Tridentine Catholicism]].<ref>{{Cite news|url=http://www.ncregister.com/site/article/bellarmine-jefferson-and-the-declaration-of-independence|title=Bellarmine, Jefferson and the Declaration of Independence|work=National Catholic Register|access-date=23 June 2017|archive-date=16 November 2016|archive-url=https://web.archive.org/web/20161116194004/http://www.ncregister.com/site/article/bellarmine-jefferson-and-the-declaration-of-independence|url-status=live}}</ref>
+
+===Devotional works===
+During his retirement, he wrote several short books intended to help ordinary people in their spiritual life: ''De ascensione mentis in Deum per scalas rerum creatorum opusculum'' (''The Mind's Ascent to God by the Ladder of Created Things''; 1614) which was translated into English as ''Jacob's Ladder'' (1638) without acknowledgement by {{ill|Henry Isaacson (biographer)|lt=Henry Isaacson|wd=Q18671422|s=1|v=sup}},<ref>{{Cite web|url=http://quod.lib.umich.edu/e/eebo/A08025.0001.001?view=toc|title=Iacob's ladder consisting of fifteene degrees or ascents to the knowledge of God by the consideration of his creatures and attributes.|website=quod.lib.umich.edu|access-date=23 June 2017|archive-date=18 April 2016|archive-url=https://web.archive.org/web/20160418153334/http://quod.lib.umich.edu/e/eebo/A08025.0001.001?view=toc|url-status=live}}</ref> ''[[s:The Art of Dying Well|The Art of Dying Well]]'' (1619) (in Latin, English translation under this title by [[Edward Coffin]]),<ref>{{CathEncy|wstitle=Edward Coffin}}</ref> and ''The Seven Words on the Cross''.
+
+==Canonization and final resting place==
+Robert Bellarmine was [[canonized]] by [[Pope Pius XI]] in 1930;<ref>{{cite book |last1=Tutino |first1=Stefania |title=Empire of Souls: Robert Bellarmine and the Christian Commonwealth |date=2010 |publisher=Oxford University Press |isbn=978-0-19-978058-7 |page=289 |url=https://books.google.com/books?id=k1czB51a8eEC&q=Robert+Bellarmine+canonization&pg=PA289 |language=en |access-date=19 November 2020 |archive-date=20 February 2023 |archive-url=https://web.archive.org/web/20230220051905/https://books.google.com/books?id=k1czB51a8eEC&q=Robert+Bellarmine+canonization&pg=PA289 |url-status=live }}</ref> the following year he was declared a [[Doctor of the Church]]. His remains, in a cardinal's red robes, are displayed behind glass under a side altar in the [[Sant'Ignazio|Church of Saint Ignatius]], the chapel of the Roman College, next to the body of his student [[Aloysius Gonzaga]], as he himself had wished. In the [[General Roman Calendar]] Saint Robert Bellarmine's [[feast day]] is on 17 September, the day of his death; but some continue to use pre-1969 calendars, in which for 37 years his feast day was on 13 May. The [[ranking of liturgical days in the Roman Rite|rank]] assigned to his feast has been "double" (1932&ndash;1959), "third-class feast" (1960&ndash;1968), and since the [[Mysterii Paschalis|1969 revision]] "[[memorial (liturgy)|memorial]]".
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{Reflist|30em}}
+
+===Sources===
+* {{cite book |title= Galileo, Bellarmine, and the Bible
+| author= Blackwell, Richard J.
+| publisher= University of Notre Dame Press
+| location= Notre Dame, IN
+| year= 1991
+| isbn= 0-268-01024-2
+| ref=Reference-Blackwell-1991}}
+* {{cite book | title= The Disputed Injunction and its Role in Galileo's Trial
+| first= Annibale
+| last= Fantoli
+| others= In [[#Reference-McMullin-2005|McMullin (2005, pp.117–149)]]
+| year= 2005
+| ref=Reference-Fantoli-2005}}
+
+==Further reading==
+{{refbegin}}
+* {{DBI |title= ROBERTO BELLARMINO, santo |url=https://www.treccani.it/enciclopedia/santo-roberto-bellarmino_(Dizionario-Biografico)|last= Motta|first= Franco|volume= 87}}
+* {{cite book |title= On the Roman Pontiff: In Five Books
+| last= Bellarmine
+| first= Robert
+| translator= Ryan Grant
+| publisher= Mediatrix Press
+| location= Post Falls, ID
+| year= 2016
+| isbn= 9780692705704
+}}
+* {{cite book|title= Spiritual Writings
+| last= Bellarmine
+| first= Robert
+|editor= Roland J. Teske
+|editor-link= Roland J. Teske
+|editor2=John Patrick Donnelly
+| location= New York
+| publisher= Paulist Press
+| year= 1989
+| isbn= 0-8091-0389-3}}
+* {{cite book | title= The Church and Galileo
+| editor= McMullin, Ernan
+| publisher= University of Notre Dame Press
+| year= 2005
+| location= Notre Dame, IN
+| isbn= 0-268-03483-4
+| ref=Reference-McMullin-2005}}
+* {{Cite encyclopedia
+| first = Ernan
+| last = McMullin
+| title = Robert Bellarmine
+| url = http://www.encyclopedia.com/topic/Robert_Bellarmine.aspx
+| publisher = Scribner & American Council of Learned Societies
+| editor-last = Gillispie
+| editor-first = Charles
+| editor-link = Charles Coulston Gillispie
+| encyclopedia = [[Dictionary of Scientific Biography]]
+| year = 2008
+| ref = Reference-McMullin-2008
+| access-date = 23 December 2012
+| archive-date = 22 June 2016
+| archive-url = https://web.archive.org/web/20160622020624/http://www.encyclopedia.com/topic/Robert_Bellarmine.aspx
+| url-status = live
+}}
+* {{cite EB1911|wstitle=Bellarmine, Roberto Francesco Romolo, Duc de|volume=3}}
+{{refend}}
+
+* Butler, Alban (1866). [http://www.u.arizona.edu/~aversa/bellarmine.pdf ''May XIII. St. Robert Bellarmine, Archbishop of Capua and Cardinal, Doctor of the Church, A.D. 1621'']. In [http://www.bartleby.com/210/ ''The Lives of the Fathers, Martyrs, and Other Principal Saints'']. Dublin: James Duffy. PDF File. [https://web.archive.org/web/20110605061248/http://www.u.arizona.edu/~aversa/bellarmine.pdf Archived] from the original on 2011-06-05.
+* {{Cite web|url=http://www.crisismagazine.com/1994/saint-robert-bellarmine-a-moderate-in-a-disputatious-age|title=Saint Robert Bellarmine: A Moderate in a Disputatious Age|last=Dulles|first=Avery|author-link=Avery Dulles|date=1 December 1994|website=Crisis Magazine|language=en-US|access-date=6 March 2020}}
+* {{Cite book|url=http://archive.org/details/notesofchurchasl00bell|title=Notes of the church, as laid down by Cardinal Bellarmin : examined and confuted|date=1687|publisher=Rose and Crown|others=Princeton Theological Seminary Library|location=London}} ([[iarchive:a624983500teniuoft/page/n1/mode/2up|1839 edition]])
+* Rager, John C. (1930). [https://web.archive.org/web/20140711211920/http://catholiceducation.org/articles/politics/pg0003.html ''Catholic Sources and the Declaration of Independence'']. The Catholic Mind, XXVIII, no. 13. Contains notable quotations by St. Robert Bellarmine and St. Thomas Aquinas in reference to the Declaration of Independence. Archived from [http://catholiceducation.org/articles/politics/pg0003.html the original] on 2014-07-11
+* {{Cite encyclopedia
+| first = Vernon J.
+| last = Bourke
+| author-link = Vernon Bourke
+| title = Bellarmine, St. Robert (1542–1621)
+| url = https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/bellarmine-st-robert-1542-1621
+| volume = 1
+| editor-last = Edwards
+| editor-first = Paul
+| editor-link = Paul Edwards (philosopher)
+| encyclopedia = [[The Encyclopedia of Philosophy]]
+| year = 1967
+| pages = 277–278
+| access-date = 15 September 2023
+}}
+* {{Cite journal
+| first = Patricia
+| last = Springborg
+| title = Thomas Hobbes and Cardinal Bellarmine: Leviathan and the 'Ghost of the Roman Empire.'
+| volume = 16
+| issue = 4
+| journal = [[History of Political Thought]] 
+| year = 1995
+| pages = 503–531
+| jstor = 26215899
+}}
+* {{cite encyclopedia|first=J.|last=Friske|encyclopedia=[[New Catholic Encyclopedia]]|title=Bellarmine, Robert (Roberto), St.|url=https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/bellarmine-robert-roberto-st|pages=226–228|volume=2: Baa-Cam|year=2003|edition=2|publisher=[[Thomson Gale]]|location=Detroit|editor=}}
+* {{Cite encyclopedia
+| first = G.
+| last = Campbell
+| title = Bellarmino, Roberto 
+| url = https://www.oxfordreference.com/view/10.1093/acref/9780198601753.001.0001/acref-9780198601753-e-378
+| publisher = [[Oxford University Press]]
+| encyclopedia = The Oxford Dictionary of the Renaissance
+| year = 2003
+| access-date = 15 September 2023
+| isbn = 978-0-19-860175-3
+}}
+* [[Bauer, Stefan]] (2006). ''The Censorship and Fortuna of Platina's Lives of the Popes in the Sixteenth Century''. {{ISBN|978-2-503-51814-5}}.
+* {{Cite encyclopedia
+| first = D.
+| last = Farmer
+| title = Bellarmine, Robert
+| url = https://www.oxfordreference.com/view/10.1093/acref/9780199596607.001.0001/acref-9780199596607-e-164
+| publisher = [[Oxford University Press]]
+| encyclopedia = [[Oxford Dictionary of Saints]]
+| year = 2011
+| access-date = 15 September 2023
+| edition = 5
+| isbn = 978-0-19-959660-7
+}}
+* {{Cite encyclopedia
+| first = Gennaro Maria
+| last = Barbuto
+| title = Bellarmino, Roberto
+| url = https://www.treccani.it/enciclopedia/roberto-bellarmino_(Enciclopedia-machiavelliana)
+| publisher = [[Istituto dell'Enciclopedia Italiana]]
+| encyclopedia = Enciclopedia machiavelliana
+| year = 2014
+| access-date = 15 September 2023
+}}
+
+==External links==
+{{sister project links|auto=1}}
+'''Works of Bellarmine'''
+* ''[https://www.roger-pearse.com/weblog/2022/03/03/robert-bellarmine-opera-omnia-volumes-at-google-books/ Opera Omnia]'' - Google Books links to the 1870-74 reprint of his collected works in Latin.
+* {{Librivox author |id=16210}}
+* {{Cite web|url=https://oll.libertyfund.org/titles/on-temporal-and-spiritual-authority|title=On Temporal and Spiritual Authority|last=Bellarmine|first=Robert|date=2012|editor-last=Tutino|editor-first=Stefania|website=Online Library of Liberty|publisher=Liberty Fund|location=Indianapolis|access-date=1 October 2019}}
+*Bellarmine, Robert (1614). ''[https://archive.org/details/bub_gb_YX6E6R32EpwC A Shorte Catechisme of Card.<sup>all</sup> Bellarmine Illustrated with the Images].'' On Google Books.
+*Bellarmine, Robert (n. d.). ''[http://www.cmri.org/02-bellarmine-roman-pontiff.html On the Roman Pontiff. An Extract from St. Robert Bellarmine, De Romano Pontifice, lib. II, cap. 30]''. Translated by Jim Larraby. With Introductory Remarks by John Lane. [https://archive.today/20181206161549/http://www.cmri.org/02-bellarmine-roman-pontiff.html Archived] from the original on 2018-12-06.
+*Bellarmine, Robert (n.d.). ''De Romano Pontifice, On the Roman Pontiff'', 2 vol., 2015–2016, Mediatrix Press. [https://novusordowatch.org/de-romano-pontifice-book2-chapter30/ Extract of Book II, Chapter 30 (published online with permission)]; [https://novusordowatch.org/de-romano-pontifice-book4-chapters6-7/ extract of Book IV, Chapters 6 & 7 (published online with permission)].
+*Bellarmine, Robert (1705). [[iarchive:stepsofascension00bell/page/n3|''Steps of Ascension to God'']]. Second Edition. London: W. Freeman. On Internet Archive.
+*Bellarmine, Robert (1753). ''[https://books.google.com/books?id=kbs-xzAKadgC&pg=PA5 Vita ven. Roberti cardinalis Bellarmini quam ipsemet scripsit rogatu familiaris sui p. Eudæmon Johannis Cretensis eruta ex scriniis Societatis]'' [autobiography] (in Latin). On Google Books. In [https://jesuitonlinelibrary.bc.edu/?a=d&d=wlet19600201-01&e=-------en-20--1--txt-txIN------- English in ''Woodstock Letters'', Volume LXXXIX, Number 1, 1 February 1960, on the Jesuit Online Library] (in Italian [[iarchive:autobiografia16100bell|here]], in French [https://gallica.bnf.fr/ark:/12148/bpt6k932002v/f87.image here])
+*{{cite book|title=[[s:The Art of Dying Well|The Art of Dying Well]]|year=1847|publisher=Richardson and Son|first=Robert|last=Bellarmine|author-link=Robert Bellarmine|translator=John Dalton}}
+*Bellarmine, Robert (1847). [http://goodcatholicbooks.org/pdf/bellarmine_art-of-dying-well.pdf ''The Art of Dying Well'']. Translated by John Dalton. London: Richardson and Son. PDF File. [https://web.archive.org/web/20081218182421/http://goodcatholicbooks.org/pdf/bellarmine_art-of-dying-well.pdf Archived] from the original on 2008-12-18.
+*Bellarmine, Robert (2008). ''[[iarchive:ArtDyingBell|The Art of Dying Well]]''. Read by [[Maureen O'Brien]]. Audiobook. On Internet Archive.
+*Bellarmine, Robert (n.d.). [[iarchive:theeternalhappin00belluoft|''The Eternal Happiness of the Saints'']]. London: Richardson and Son. On Internet Archive
+*Bellarmine, Robert (n.d.). [http://www.traditionalcatholicpriest.com/wp-content/uploads/2015/09/Cardinal-Belarmine-Eternal-Happiness-of-the-Saints.pdf ''The Eternal Happiness of the Saints'']. London: Richardson and Son. PDF File. [https://web.archive.org/web/20150908155449/http://www.traditionalcatholicpriest.com:80/wp-content/uploads/2015/09/Cardinal-Belarmine-Eternal-Happiness-of-the-Saints.pdf Archived] from the original on 2015-09-08.
+*{{Cite web|url=https://www.cfpeople.org/Books/7Words/cfptoc.htm|title=The Seven Words on the Cross|last=Bellarmine|first=Robert|date=n.d.|website=Christ's Faithful People|url-status=dead|archive-url=https://web.archive.org/web/20160302224829/http://www.cfpeople.org/Books/7Words/cfptoc.htm|archive-date=2 March 2016|access-date=1 October 2019}}
+
+'''Works about Bellarmine'''
+*CERL-Thesaurus on [https://web.archive.org/web/20120317111653/http://thesaurus.cerl.org/record/cnp01259823 Robert Bellarmin (1542–1621)]
+
+{{History of the Roman Catholic Church}}
+{{Navboxes
+|list=
+{{History of Catholic theology}}
+{{Jesuits}}
+{{Catholic Counter-Reformation|expanded=people}}
+{{Catholic saints}}
+}}
+{{Subject bar |portal1= Saints |portal2= Biography |portal3= Christianity |portal4= Italy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bellarmine}}
+[[Category:1542 births]]
+[[Category:1621 deaths]]
+[[Category:People from Montepulciano]]
+[[Category:17th-century Italian Roman Catholic archbishops]]
+[[Category:Archbishops of Capua]]
+[[Category:Cervini family]]
+[[Category:Bishops in Tuscany]]
+[[Category:17th-century Italian cardinals]]
+[[Category:16th-century Italian Jesuits]]
+[[Category:Italian Roman Catholic saints]]
+[[Category:16th-century Italian Roman Catholic theologians]]
+[[Category:Doctors of the Church]]
+[[Category:Early modern Christian devotional writers]]
+[[Category:Pontifical Gregorian University alumni]]
+[[Category:University of Padua alumni]]
+[[Category:Old University of Leuven alumni]]
+[[Category:Academic staff of the Old University of Leuven]]
+[[Category:Burials at Sant'Ignazio, Rome]]
+[[Category:17th-century Italian Jesuits]]
+[[Category:Jesuit saints]]
+[[Category:Jesuit cardinals]]
+[[Category:Jesuit archbishops]]
+[[Category:Inquisitors]]
+[[Category:17th-century Italian Roman Catholic theologians]]
+[[Category:Italian librarians]]

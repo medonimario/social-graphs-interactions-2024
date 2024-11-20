@@ -1,0 +1,6 @@
+#REDIRECT [[Friedrich Schlegel]]
+
+{{Rcat shell|
+{{R from full name}}
+{{R from move}}
+}}

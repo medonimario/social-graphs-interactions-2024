@@ -1,0 +1,42 @@
+{{short description|German politician and writer}}
+{{Infobox philosopher
+|region = [[Western philosophy]]
+|era    =
+|color  = 
+|image = 
+|name  = '''August Wilhelm Rehberg''' 
+|birth_date = 13 January 1757 
+|birth_place = Hannover
+|death_date = 10 August 1836  (aged 79)
+|death_place = Göttingen
+|school_tradition = 
+| institutions      =
+|main_interests   = [[Kantian philosophy]]
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = 
+| doctoral_students = 
+|notable_ideas    = 
+| spouse            = 
+| education         = [[University of Göttingen]]
+| alma_mater        = 
+|awards           = 
+|website  = 
+}}
+
+'''August Wilhelm Rehberg''' (13 January 1757 – 10 August 1836) was a German philosopher.<ref>{{cite web |last1=Beiser |first1=Fred |title=August Wilhelm Rehberg |url=https://plato.stanford.edu/entries/august-rehberg/ |website=[[The Stanford Encyclopedia of Philosophy]] |publisher=Metaphysics Research Lab, Stanford University |accessdate=13 November 2018 |date=2012}}</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rehberg, August Wilhelm}}
+[[Category:Kant scholars]]
+[[Category:German philosophy academics]]
+[[Category:1757 births]]
+[[Category:1836 deaths]]
+[[Category:University of Göttingen alumni]]
+[[Category:18th-century German philosophers]]
+{{Germany-academic-bio-stub}}

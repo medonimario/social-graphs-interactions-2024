@@ -1,0 +1,233 @@
+{{Short description|German scientist and satirist (1742–1799)}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox scientist
+| name              = Georg Christoph Lichtenberg
+| image             = Georg Christoph Lichtenberg2.jpg
+| caption           = 
+| birth_date        = {{birth date|1742|7|1|df=y}}
+| birth_place       = [[Ober-Ramstadt]] near [[Darmstadt]], [[Landgraviate of Hesse-Darmstadt]], [[Holy Roman Empire]]
+| death_date        = {{death date and age|1799|2|24|1742|7|1|df=y}}
+| death_place       = [[Göttingen]], [[Electorate of Hanover]], [[Holy Roman Empire]]
+| residence         = 
+| citizenship       = 
+| nationality       = [[Germany|German]]
+| ethnicity         = 
+| field             = [[Scientist]], [[satirist]] and [[aphorist]]
+| work_institutions = 
+| alma_mater        = [[University of Göttingen]]<br>(1763–67)<ref>Øksenholt (1963), ch. 1.</ref>
+| doctoral_advisor  = [[Abraham Gotthelf Kästner]]
+| doctoral_students = [[Heinrich Wilhelm Brandes]]<br>[[Johann Tobias Mayer]]<br>[[Ernst Chladni]]
+| known_for         = 
+| influences        = 
+| influenced        = 
+| prizes            = 
+| footnotes         = 
+| signature         = 
+}}
+'''Georg Christoph Lichtenberg''' (1 July 1742 – 24 February 1799) was a German [[physicist]], [[satirist]], and [[Anglophile]]. He was the first person in Germany to hold a professorship explicitly dedicated to [[experimental physics]]. He is remembered for his posthumously published notebooks, which he himself called ''{{ill|Sudelbücher|de}}'', a description modelled on the [[English language|English]] [[bookkeeping]] term "[[waste book]]s" or "scrapbooks",<ref>Lichtenberg explained the purpose of his "scrapbook" in his notebook E: ''Die Kaufleute haben ihr'' Waste book ''(Sudelbuch, Klitterbuch glaube ich im deutschen), darin tragen sie von Tag zu Tag alles ein was sie verkaufen und kaufen, alles durch einander ohne Ordnung, aus diesem wird es in das Journal getragen, wo alles mehr systematisch steht ... Dieses verdient von den Gelehrten nachgeahmt zu werden. Erst ein Buch worin ich alles einschreibe, so wie ich es sehe oder wie es mir meine Gedancken eingeben, alsdann kan dieses wieder in ein anderes getragen werden, wo die Materien mehr abgesondert und geordnet sind.'' "Tradesmen have their 'scrapbook' (scrawl-book, composition book I think in German), in which they enter from day to day everything they buy and sell, everything all mixed up without any order to it, from there it is transferred to the day-book, where everything appears in more systematic fashion ... This deserves to be imitated by scholars. First a book where I write down everything as I see it or as my thoughts put it before me, later this can be transcribed into another, where the materials are more distinguished and ordered."</ref> and for his discovery of the tree-like electrical discharge patterns now called [[Lichtenberg figure]]s.
+
+==Life==
+Georg Christoph Lichtenberg was born in [[Ober-Ramstadt]] near [[Darmstadt]], [[Landgraviate of Hesse-Darmstadt]], the youngest of 17 children. His father, {{ill|Johann Conrad Lichtenberg|de}} (1689–1751), was a [[pastor]] ascending through the ranks of the church hierarchy, who eventually became superintendent for [[Darmstadt]]. Mother of Georg Christoph Lichtenberg was Henriette Katharina Lichtenberg, nee Eckhardt (1696–1764), daughter of pastor Johann Peter Eckhardt (1659–1702). Unusually for a clergyman in those times, he seems to have possessed a fair amount of scientific knowledge. Lichtenberg was educated at his parents' house until 10 years old, when he joined the [[Lateinschule]] in Darmstadt. His intelligence became obvious at a very early age. He wanted to study mathematics, but his family could not afford to pay for lessons. In 1762, his mother applied to [[Louis VIII, Landgrave of Hesse-Darmstadt|Ludwig VIII, Landgrave of Hesse-Darmstadt]], who granted sufficient funds. In 1763, Lichtenberg entered the [[University of Göttingen]].
+[[File:Georg Christoph Lichtenberg statue in Göttingen 2024 (003).jpg|thumb|Statue of Lichtenberg at the University of Göttingen ]]
+
+In 1769 he became [[extraordinary professor]] of [[physics]], and six years later [[ordinary professor]]. He held this post till his death. Invited by his students, he visited [[England]] twice, from Easter to early Summer 1770 and from August 1774 to Christmas 1775, where he was received cordially by [[George III of the United Kingdom|George III]] and [[Queen Charlotte]]. He led the King through the royal observatory in [[Richmond, London|Richmond]], upon which the king proposed that he become professor of philosophy. He also met with participants of [[Captain Cook|Cook]]'s voyages. Great Britain impressed him, and he subsequently became a well-known Anglophile.
+
+One of the first scientists to introduce [[experiment]]s with apparatus in their lectures, Lichtenberg was a popular and respected figure in contemporary European intellectual circles. He was one of the first to introduce [[Benjamin Franklin]]'s lightning rod to Germany by installing such devices in his house and garden sheds. He maintained relations with most of the great figures of that era, including [[Goethe]] and [[Immanuel Kant|Kant]]. In 1784, [[Alessandro Volta]] visited Göttingen especially to see him and his experiments. Mathematician [[Karl Friedrich Gauss]] sat in on his lectures. In 1793, he was elected a member of the [[Royal Society]].
+
+Lichtenberg was prone to [[procrastination]]. He failed to launch the first [[gas balloon|hydrogen balloon]]. He always dreamed of writing a novel à la [[Henry Fielding|Fielding]]'s ''[[The History of Tom Jones, a Foundling|Tom Jones]]'', but never finished more than a few pages.
+
+Lichtenberg became a [[kyphosis|hunchback]] as a child owing to a malformation of his [[vertebral column|spine]] suffered from a fall. This left him unusually short, even by 18th-century standards. Over time, this malformation grew worse, ultimately affecting his breathing.
+
+===Personal life===
+In 1777, he met Maria Stechard, then aged 13, who lived with the professor permanently after 1780. She died in 1782. Their relationship was made into a novel by [[Gert Hofmann]], which was translated by his son [[Michael Hofmann]] into English with the title ''Lichtenberg and the Little Flower Girl''.
+
+In 1783, the following year, Lichtenberg met Margarethe Kellner (1768–1848). He married her in 1789, to give her a [[pension]], as he thought he was to die soon. They had six children: Georg Christoph Lichtenberg (1786–1845), Louise Wilhelmina Lichtenberg (1789–1802), Agnes Lichtenberg (1793–1820), Augusta Friederike Lichtenberg (1795–1837), Heinrich August Lichtenberg (1797–1836) and Christian Wilhelm Lichtenberg (1799–1860), and she outlived him by 49 years.
+
+In 1799, Lichtenberg died in Göttingen after a short illness at the age of 56.
+
+[[File:Lichtenberg Denkmal Goettingen.jpg|thumb|Lichtenberg's monument at the marketplace in Göttingen]]
+
+===Brothers and sisters===
+At Georg Christoph Lichtenberg was 17 brothers and sisters, most of whom died in infancy.
+* Klara Sophie Lichtenberg (1718–1780)
+* Gottlieb Christoph Lichtenberg (1724–1756)
+* Christian Friedrich Lichtenberg (1734–1790)
+* {{ill|Ludwig Christian Lichtenberg|de}} (1737–1812)
+
+==Scrap books==
+
+The "scrapbooks" (''[[:de:Sudelbücher|Sudelbücher]]'' in [[German language|German]]) are notebooks, in the tradition of [[commonplace book]]s or [[waste book]]s,<ref>{{cite book |last=Lichtenberg  |first=Georg Christoph |author-link=Georg Christoph Lichtenberg |date= |title=''Sudelbücher'' Volume 1 |page=352 }}</ref> which  Lichtenberg kept from his student days until the end of his life. Each volume was accorded a letter of the alphabet from A, which began in 1765, to L, which broke off at Lichtenberg's death in 1799.
+
+These notebooks first became known to the world after the man's death, when the first and second editions of ''Lichtenbergs Vermischte Schriften'' (1800–06 and 1844–53) were published by his sons and brothers. After the initial publications, however, notebooks G and H, and most of notebook K, were destroyed or disappeared. Those missing parts are believed to have contained sensitive materials. The manuscripts of the remaining notebooks are preserved in Göttingen University.
+
+The notebooks contain quotations of passages that struck Lichtenberg (like his recension of the [[supercentenarian]] [[Francesco Hupazoli]]'s life), titles of books to read, autobiographical sketches, and short or long reflections, including keen observations on human nature, in the manner of the 17th-century [[French moralists]]. Those reflections helped him earn his posthumous fame as one of the best [[aphorist]]s in Western intellectual history. Some scholars have attempted to distill a system of thought of Lichtenberg's scattered musings, but he was not a professional philosopher, and had no need to present, or to conceive, a consistent philosophy.
+
+The scrapbooks reveal a critical and analytical way of thinking and emphasis on experimental evidence in physics, through which he became one of the early founders and advocates of modern scientific methodology.
+<blockquote>The more experience and experiments are accumulated during the exploration of nature, the more faltering its theories become. It is always good though not to abandon them instantly. For every hypothesis which used to be good at least serves the purpose of duly summarizing and keeping all phenomena until its own time. One should lay down the conflicting experience separately, until it has accumulated sufficiently to justify the efforts necessary to edifice a new theory. (Lichtenberg: scrapbook JII/1602)</blockquote> Lichtenberg, an atheist, satirized religion saying "I thank the Lord a thousand times for having made me become an atheist."<ref>Waste Books E 252, 1765-1770</ref>
+
+[[Arthur Schopenhauer]] admired Lichtenberg greatly for what he had written in his notebooks. He called him one of those who "think ... for their own instruction", who are "genuine 'thinkers for themselves' in both senses of the words".<ref>Arthur Schopenhauer, trans. R.J. Hollingdale, ''Essays and Arphorisms'', Harmondsworth: Penguin Books, 1970, p. 93.</ref> 
+Other admirers of Lichtenberg's notebooks include [[Friedrich Nietzsche]], [[Sigmund Freud]], [[Ludwig Wittgenstein]] and [[Jacques Barzun]].<ref>Barzun dedicated a chapter to the "Forgotten Troop" of intellectuals who reoriented the world in 1775-1815, among whom Lichtenberg was "the most grievous" omission from modern memory:  ''From Dawn to Decadence: 500 Years of Western Cultural Life" (Harper Collins, 2000) p. 439. For Lichtenberg's influences on German writers, see Dieter Lamping, ''Lichtenbergs literarisches Nachleben'', Göttingen: Vandenhoeck & Ruprecht, 1992.</ref>
+
+[[Sigmund Freud]] (in his "Why War?” letter to Albert Einstein) mentioned Lichtenberg's invention of a "Compass of Motives" in a discussion on the combination of human compounded motives and quoted him as saying, "The motives that lead us to do anything might be arranged like the thirty-two winds and might be given names on the same pattern: for instance, 'food-food-fame' or 'fame-fame-food'.”
+
+Lichtenberg is not read by many outside Germany. [[Leo Tolstoy]] held Lichtenberg's writings in high esteem, expressing his perplexity of "why the Germans of the present day neglect this writer so much."<ref>Carl Brinitzer, trans. Bernard Smith, ''A Reasonable Rebel'', New York: Macmillan, 1960, p. 194.</ref> 
+The Chinese scholar and wit [[Qian Zhongshu]] quotes the ''Scrapbooks'' in his works several times.<ref>For example, in his essay [http://www.literature.org.cn/Article.asp?ID=4362 ''Zhongguo Shi Yu Zhongguo Hua''] {{webarchive|url=https://web.archive.org/web/20070928043834/http://www.literature.org.cn/Article.asp?ID=4362 |date=28 September 2007 }} (中国诗与中国画 "Chinese poetry and Chinese paintings").</ref>
+
+==Other works==
+As a satirist, Lichtenberg takes high rank among the German writers of the 18th century. His biting wit involved him in many controversies with well-known contemporaries, such as the [[Switzerland|Swiss]] physiognomist [[Johann Kaspar Lavater]] whose science of [[physiognomy]] he ridiculed, and [[Johann Heinrich Voss]], whose views on [[Greek language|Greek]] pronunciation called forth a powerful satire, ''Über die Pronunciation der Schöpse des alten Griechenlandes''.<ref name=eb>{{EB1911|inline=1|wstitle=Lichtenberg, Georg Christoph}}</ref> For [[Laurence Sterne]]'s wit on the [[bigotry]] of the [[clergy]], in his novel ''[[Tristram Shandy]]'', Lichtenberg condemned him as a ''scandalum ecclesiae'' (a scandal for the Church).<ref name="Bridgwater1988p352">Bridgwater, Patrick (1988) [https://books.google.com/books?id=Lx4OAAAAQAAJ&pg=PA352 ''Arthur Schopenhauer's English schooling''], pp. 352–3: {{blockquote|Not only are the two longest chapters in the novel (Trim's sermon and Slawkenbergius's tale) concerned with the bigotry of the orthodox clergy, but, even more significantly, the whole novel, which breathes tolerance, is implicitly concerned with the same thing. And the bigotry of the orthodox (Anglican) clergy was as much Schopenhauer's hobby-horse as the arts of fortification were Uncle Toby's. He was obsessed by it, as his vitriolic comments on Samuel Johnson – and on the Anglican clergy – show. Lichtenberg condemned Sterne as a 'scandalum ecclesiae'; no doubt it was precisely this that Schopenhauer appreciated. He also shared, to a marked degree, Sterne's delight in ridiculing pedantry.}}</ref>
+
+In 1777, Lichtenberg opposed the apparent misrepresentation of science by [[Jacob Philadelphia]]. Lichtenberg considered him to be a magician, not a physicist, and created a satirical poster that was intended to prevent Philadelphia from performing his exhibition in Göttingen. The placard, called “[[Lichtenberg's Avertissement]],” described extravagant and miraculous tricks that were to be performed. As a result, Philadelphia left the city without a performance.
+
+Based on his visits to England, his ''Briefe aus England'', with admirable descriptions of [[David Garrick]]'s acting, are the most attractive of his writings published during his lifetime.
+ 
+From 1778 onward, Lichtenberg published the ''Göttinger Taschen Calender'' and contributed to the ''Göttingisches Magazin der Wissenschaften und Literatur'', which he edited for three years (1780–1782) with [[Georg Forster|J. G. A. Forster]]. The ''Göttinger Taschen Calender'', beside being a usual Calendar for everyday usage, contained not only short writings on natural phenomena and new scientific discoveries (which would be termed popular science today), but also essays in which he contested quackery and superstition. It also contained attacks on the “[[Sturm und Drang]]” writers. In the spirit of the [[Age of Enlightenment]], he strove to educate the common people to use logic, wit and the power of their own senses.<ref>{{cite book |last1=Voskuhl |first1=Adelheid |title=Androids in the Enlightenment: Mechanics, Artisans, and Cultures of the Self |date=2013 |publisher=University of Chicago Press |page=78}}</ref>
+
+In 1784 he took over the publication of the textbook ''Anfangsgründe der Naturlehre'' ("Foundations of the Natural Sciences") from his friend and colleague [[Johann Christian Erxleben]] upon his premature death in 1777. Until 1794, three further editions followed, which for many years, remained the standard textbook for physics in German.
+
+From 1794 to 1799 he published an ''Ausführliche Erklärung der Hogarthischen Kupferstiche'', in which he described the satirical details in [[William Hogarth]]'s prints.
+
+==Legacy==
+As a physicist, Lichtenberg is remembered for his investigations in [[electricity]], for discovering branching discharge patterns on [[dielectrics]], now called [[Lichtenberg figures]]. In 1777, he built a large [[electrophorus]] to generate [[static electricity]] through [[electrostatic induction|induction]].<ref name="Harris">{{Citation
+|last=Harris
+|first=William Snow
+|title=A Treatise on Frictional Electricity in Theory and Practice
+|year=1867
+|publisher=Virtue & Co.
+|location=London
+|url=https://books.google.com/books?id=tehLAAAAMAAJ&pg=PA86}}, p.86</ref> One of the largest made, it was {{convert|2|m}} in diameter and could produce {{convert|38|cm|adj=on}} sparks. With it, he discovered the basic principle of modern [[xerography]] copy machine [[technology]]. By discharging a high [[voltage]] point near an [[Electrical insulation|insulator]], he was able to record strange, tree-like patterns in fixed dust. These [[Lichtenberg figure]]s are considered today to be examples of [[fractals]].
+A crater on the [[Moon]] is named [[Lichtenberg (crater)|Lichtenberg]] in his honour. His life and works are fictionalized in French novelist Pierre Senges's ''Fragments de Lichtenberg'' (2008; English translation, 2017).
+
+He proposed the standardized paper size system used globally today except in [[Canada]] and the [[United States|US]] defined by [[ISO 216]], which has A4 as the most commonly used size.<ref>In one of his letters dated 25 October 1786 to Johann Beckmann.</ref>
+
+[[Robert Wichard Pohl]], a 20th-century successor of Lichtenberg in Göttingen and one of the founders of solid state physics used a similar research programme, in which the experiment was an essential part of narrating scientific knowledge.<ref>Teichmann, J.  Point defects and Ionic Crystals: Color Centers as the Key to Imperfection, part 1, (1992), pp. 236-69; in Hoddeson et al. eds. (1992)</ref>
+
+==Selected bibliography==
+'''Works published during his lifetime'''
+* ''Briefe aus England'', 1776–78
+* ''Über Physiognomik, wider die Physiognomen'', 1778
+* ''Göttingisches Magazin der Wissenschaften und Litteratur'', 1780–85 (ed. by Georg Christoph Lichtenberg and Georg Forster)
+* ''Über die Pronunciation der Schöpse des alten Griechenlandes'', 1782
+* ''Ausführliche Erklärung der Hogarthischen Kupferstiche'', 1794–1799
+
+'''Complete works in German'''
+* ''Schriften und Briefe'', 1968–72 (4 vols., ed. by Wolfgang Promies)
+
+'''English translations'''
+* ''The Reflections of Lichtenberg'', Swan Sonnenschein, 1908 (selected and translated by Norman Alliston).
+* ''Lichtenberg's Visits to England, as Described in his Letters and Diaries'', Oxford, The Clarendon Press, 1938 (trans. and ed., by Margaret L. Mare and W. H. Quarrell)
+* ''The Lichtenberg Reader'', Beacon Press, 1959 (trans. and ed. by Franz H. Mautner and Henry Hatfield)
+* ''The World of Hogarth. Lichtenberg's Commentaries on Hogarth's Engravings'', Houghton Mifflin Company, 1966 (trans. by Innes and Gustav Herdan)
+* ''Hogarth on High Life. The Marriage à la Mode Series, from Georg Christoph Lichtenberg's Commentaries'', 1970 (trans. and ed. by Arthur S. Wensinger and W. B. Coley)
+* ''Aphorisms'', Penguin, 1990 (trans. with an introduction and notes by [[R. J. Hollingdale]]), {{ISBN|0-14-044519-6}}, reprinted as ''The Waste Books'', 2000, {{ISBN|978-0-940322-50-9}}
+* ''Lichtenberg: Aphorisms & Letters'', Johnathan Cape, 1969 (trans. and ed. by Franz H. Mautner and Henry Hatfield), SBN 224-61286-7
+* ''G.C. Lichtenberg: Philosophical Writings'', (trans. and ed. by Steven Tester), Albany: State University of New York Press, 2012.
+
+==Notes==
+{{Reflist}}
+
+==References==
+* {{Citation
+|pmid = 13086258
+|last=Bloch
+|first=K
+|publication-date=25 July 1953
+|year=1953
+|title=Medical remarks in Georg Christoph Lichtenberg's writings.
+|volume=29–30
+|periodical=Die Medizinische
+|pages=960–1
+}}
+* {{Citation
+|pmid = 352823
+|last=Gresky
+|first=W
+|publication-date=1978
+|year=1978
+|title=2 letters by the Bernese Professor Johann Georg Tralles to Georg Christoph Lichtenberg (1786)
+|volume=35
+|issue=1–2
+|periodical=Gesnerus
+|pages=87–106
+}}
+* {{Citation
+|pmid = 6372678
+|last=Grupe
+|first=G
+|publication-date=Mar 1984
+|year=1984
+|title=Identification of the skeleton of Georg Christoph Lichtenberg
+|volume=42
+|issue=1
+|periodical=Anthropologischer Anzeiger; Bericht über die Biologisch-anthropologische Literatur
+|pages=1–9
+}}
+* {{Citation
+|pmid = 11611016
+|last=Eulner
+|first=H H
+|publication-date=1982
+|year=1982
+|title=Zur Geschichte der Meeresheilkunde: Georg Christoph Lichtenberg und das Seebad Cuxhaven
+|volume=17
+|issue=1–2
+|periodical=Medizinhistorisches Journal
+|pages=115–28
+}}
+* Øksenholt, Svein (1963). ''Thoughts Concerning Education in the Works of Georg Christoph Lichtenberg: An Introductory Study in Comparative Education'', Martinus Nijhoff.
+* {{Citation
+|pmid = 1401720
+|last=Tomlinson
+|first=C
+|publication-date=1992
+|year=1992
+|title=G. C. Lichtenberg: dreams, jokes, and the unconscious in eighteenth-century Germany
+|volume=40
+|issue=3
+|periodical=Journal of the American Psychoanalytic Association
+|pages=761–99
+|doi=10.1177/000306519204000305
+|s2cid=46322856
+}}
+* {{Cite NIE|wstitle=Lichtenberg, Georg Christoph|year=1905}}
+
+==Further reading==
+* Buechler, Ralph Wolfgang (1988). ''Science, Satire and Wit: The Essays of Georg Christoph Lichtenberg'', University of Wisconsin-Madison.
+* Katritzky, Linde (1995). "Coleridge's Links with Leading Men of Science," ''Notes and Records of the Royal Society of London'', Vol. 49, No. 2.
+* Mautner, Franz H. and Miller Jr., Franklin (1952). "Remarks on G. C. Lichtenberg, Humanist-Scientist," ''Isis'', Vol. 43, No. 3.
+* Milch, Werner J. (1942). "Georg Christoph Lichtenberg: On the Occasion of the Two Hundredth Anniversary of His Birth, 9 July 1942," ''The Modern Language Review'', Vol. 37, No. 3.
+* Sanke, Jean M. (1999). ''Georg Christoph Lichtenberg: A Critical Bibliography of Research and Criticism, 1948–1996'', Purdue University.
+* [[J. P. Stern]] (1959). [http://babel.hathitrust.org/cgi/pt?id=mdp.39015058012892;view=1up;seq=7 ''Lichtenberg: A Doctrine of Scattered Occasions; Reconstructed from his Aphorisms and Reflections''], Indiana University Press.
+
+==External links==
+{{sister project auto}}
+* [http://www.lichtenberg-gesellschaft.de/ The Lichtenberg Society] lichtenberg-gesellschaft.de
+* {{Internet Archive author |sname=Georg Christoph Lichtenberg}}
+* {{Librivox author |id=766}}
+* {{Cite Americana|wstitle=Lichtenberg, Georg Christoph |year=1920 |short=x}}
+* {{Books and Writers |id=lichten |name=Georg Christoph Lichtenberg}}
+* [http://gutenberg.spiegel.de/autoren/lichtenb.htm Original Lichtenberg texts] Projekt Gutenberg, spiegel.de
+* [https://web.archive.org/web/20040215002205/http://www.newcriterion.com/archive/20/may02/lichtenberg.htm Book review: G. C. Lichtenberg: a "spy on humanity"] New Criterion, 20 May 2002
+* Clive James [http://www.slate.com/articles/news_and_politics/clives_lives/2007/03/georg_christoph_lichtenberg.single.html Georg Christoph Lichtenberg: Lessons on how to write] 2 March 2007, Slate.com
+* [https://web.archive.org/web/20060418123232/http://cscs.umich.edu/~crshalizi/reviews/lichtenberg/ Book review: Aphorisms by Georg Christoph Lichtenberg] umich.edu
+* Jürgen Teichmann [http://ppp.unipv.it/Collana/Pages/Libri/Saggi/Volta%20and%20the%20History%20of%20Electricity/V&H%20Sect3/V&H%20229-244.pdf Georg Christoph Lichtenberg : Experimental Physics from the Spirit of Aphorism] (PDF) January 2000 pp 229–244, chapter, in: K. von Meyenn: Die großen Physiker, 2 volumes, München, Beck, ppp.unipv.it
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lichtenberg, Georg Christoph}}
+[[Category:1742 births]]
+[[Category:1799 deaths]]
+[[Category:18th-century German physicists]]
+[[Category:Aphorists]]
+[[Category:Atheist philosophers]]
+[[Category:German atheists]]
+[[Category:German satirists]]
+[[Category:People from the Landgraviate of Hesse-Darmstadt]]
+[[Category:University of Göttingen alumni]]
+[[Category:Academic staff of the University of Göttingen]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Honorary members of the Saint Petersburg Academy of Sciences]]
+[[Category:German male non-fiction writers]]
+[[Category:Enlightenment philosophers]]
+[[Category:Members of the Göttingen Academy of Sciences and Humanities]]
+[[Category:German writers with disabilities]]
+[[Category:German scientists with disabilities]]

@@ -1,0 +1,78 @@
+{{Short description|Italian philosopher}}
+[[File:Busto Agostino Nifo (Liceo classico "A. Nifo", Sessa Aurunca).jpg|thumb|Bust of Agostino Nifo ([[Liceo classico]] "Agostino Nifo", Sessa Aurunca)]]
+'''Agostino Nifo''' ([[Latinisation of names|Latinized]] as '''Augustinus Niphus'''; {{circa|1473}}{{snd}}1538 or 1545) was an Italian [[philosopher]] and commentator.
+
+==Life==
+He was born at [[Sessa Aurunca]] near [[Naples]]. He proceeded to [[Padua]], where he studied philosophy. He lectured at [[Padua]], [[Naples]], [[Rome]], and [[Pisa]], and won so high a reputation that he was deputed by [[Leo X]] to defend the [[Catholic]] doctrine of [[immortality]] against the attack of [[Pomponazzi]] and the [[Alexandrists]]. In return for this he was made Count [[Palatinus (Roman Catholic Church)|Palatine]], with the right to call himself by the name [[Medici]].<ref name="EB1911">{{EB1911|inline=1|wstitle=Nifo, Agostino|volume=19|page=673}}</ref>
+[[File:Nifo - In libris Aristotelis meteorologicis commentaria, 1547 - 4778434.tif |thumb|''In libris Aristotelis meteorologicis commentaria'', 1547]]
+
+==Work==
+In his early thought he followed [[Averroes]], but afterwards modified his views so far as to make himself acceptable to the orthodox Catholics. In 1495 he produced an edition of the works of Averroes; with a commentary compatible with his acquired orthodoxy.<ref name="EB1911"/>
+
+In the great controversy with the Alexandrists he opposed the theory of [[Pietro Pomponazzi]], that the rational [[Soul (spirit)|soul]] is inseparably bound up with the material part of the individual, and hence that the death of the body carries with it the death of the soul. He insisted that the individual soul, as part of absolute intellect, is indestructible, and on the death of the body is merged in the eternal unity.<ref name="EB1911"/>
+
+==Writings==
+[[File:Nifo, Agostino – Ad Apotelesmata Ptolemaei eruditiones, 1513 – BEIC 13171665.jpg|thumb|''Ad Apotelesmata [[Ptolemy|Ptolemaei]] eruditiones'', 1513]]
+His principal philosophical works are:
+*''{{lang|la|Liber de intellectu}}'' (1503).
+* {{Cite book|title=Ad Apotelesmata Ptolemaei eruditiones|volume=|publisher=Pietro Maria De Richis|location=Napoli|year=1513|language=la|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=13171665}}
+*''{{lang|la|De immortalitate animae libellus}}'' (1518).
+* {{Cite book|title=De falsa diluvii prognosticatione|volume=|publisher=eredi Filippo Giunta (1.)|location=Firenze|year=1520|language=la|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=13266774}}
+*''{{lang|la|Dialectica ludicra}}'' (1521).
+*''{{lang|la|De regnandi peritia}}'' (1523).
+*''{{lang|la|Quaestio de infinitate primi motoris}}'' (1526, written in 1504).
+*''{{lang|la|Prima pars opusculorum}}'' (1535) reprinted by Gabriel Naudè with the title ''{{lang|la|Opuscula moralia et politica}}'' (1645).<ref name="EB1911"/>
+
+His numerous commentaries on [[Aristotle]] were widely read and frequently reprinted, the best-known edition being one printed at [[Paris]] in 1645 in fourteen volumes (including the ''Opuscula'').<ref name="EB1911"/>
+* {{Cite book|title=In libris Aristotelis meteorologicis commentaria|volume=|publisher=Ottaviano Scoto (2.)|location=Venezia|year=1547|language=la|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=4778434}}
+
+Other works were ''{{lang|la|De Auguriis}}'' (Bologna, 1531), ''{{lang|la|De Pulchro Liber Primus, De Amore Liber Secundus}}'' (Lyon, 1549),<ref>Or 1529 or 1531.</ref> and a commentary on [[Ptolemy]].
+
+The famous phrase, to 'think with the learned, and speak with the vulgar' is attributed to Nifo.{{Citation needed|date=January 2015}}
+
+===English translations===
+* Leen Spruit (ed.), ''Agostino Nifo: De intellectu'', Leiden: Brill, 2011 (Brill's Studies in Intellectual History).
+
+==See also==
+* [[Nicoletto Vernia]], his teacher
+* [[Gian Giacomo Adria]], a pupil
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite journal
+	| last = Ashworth
+	| first = E. J.
+	| date = 1976
+	| title = Agostino Nifo's Reinterpretation of Medieval Logic
+	| journal = Rivista critica di storia della filosofia
+	| volume = 31
+	| issue = 4
+	| pages = 354–374
+	| jstor = 44021814
+}}
+* {{cite journal
+	| last = Jardine
+	| first = Lisa
+	| date = 1981
+	| title = Dialectic or dialectical rhetoric? Agostino Nifo’s criticism of Lorenzo Valla
+	| journal = Rivista critica di storia della filosofia
+	| volume = 36
+	| issue = 3
+	| pages = 253–270
+	| jstor = 44022047
+}}
+* E. P. Mahoney, ''Two Aristotelians of the Italian Renaissance. Nicoletto Vernia and Agostino  Nifo'', Aldershot: Ashgate 2000.
+
+==External links==
+{{wikisource author}}
+* {{DBI|title=NIFO, Agostino|url=https://www.treccani.it/enciclopedia/agostino-nifo_(Dizionario-Biografico)|first=Margherita|last=Palumbo|volume=78}}
+* Heinrich C. Kuhn [http://www.phil-hum-ren.uni-muenchen.de/php/Kuhn/ePub/NiphusWolfenb1994.htm Augustinus Niphus on Why to study Aristotle at Universities: The ''Præfatio in libros de anima''] {{Webarchive|url=https://web.archive.org/web/20071001004554/http://www.phil-hum-ren.uni-muenchen.de/php/Kuhn/ePub/NiphusWolfenb1994.htm |date=2007-10-01 }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nifo, Agostino}}
+[[Category:1473 births]]
+[[Category:16th-century deaths]]
+[[Category:Academic staff of the University of Pisa]]

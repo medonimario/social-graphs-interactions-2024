@@ -1,0 +1,43 @@
+{{Short description|German philosopher (1761–1833)}}
+{{Infobox philosopher
+| region  = [[Western philosophy]]
+| era     = [[18th-century philosophy]]
+| image   = Gottlob Ernst Schulze.jpg
+| caption = 
+| name    = Gottlob Ernst Schulze
+| birth_date = 23 August 1761
+| birth_place = [[Heldrungen]], [[Germany]]
+| death_date  = 14 January 1833 (aged 71)
+| death_place = [[Göttingen]], Germany
+| alma_mater  = [[Martin Luther University of Halle-Wittenberg|University of Wittenberg]]
+| institutions = [[Martin Luther University of Halle-Wittenberg|University of Wittenberg]]<br>[[University of Helmstedt]]<br>[[University of Göttingen]]
+| school_tradition = [[German idealism]]<br>[[German skepticism]]
+| main_interests   = [[Epistemology]]
+| influences       = [[David Hume]], [[Immanuel Kant]]
+| influenced       = [[Johann Gottlieb Fichte]], [[Arthur Schopenhauer]]
+| notable_ideas    = [[Hume's skepticism about induction]] was not disproved by [[Immanuel Kant|Kant]]'s ''[[Critique of Pure Reason]]''
+}}
+'''Gottlob Ernst Schulze''' ({{IPA|de|ˈʃʊltsə|lang}}; 23 August 1761 – 14 January 1833) was a [[Germans|German]] [[philosopher]], born in [[Heldrungen]] (modern-day [[Thuringia]], [[Germany]]). He was the grandfather of the pioneering [[biochemist]] [[Ernst Schulze (chemist)|Ernst Schulze]].
+
+==Biography==
+Schulze was a [[professor]] at [[University of Wittenberg|Wittenberg]], [[University of Helmstedt|Helmstedt]], and [[University of Göttingen|Göttingen]].<ref>''Encyclopedia of Philosophy'', Vol. 7, New York: Macmillan, 1972.</ref> His most influential book was ''[[Aenesidemus (book)|Aenesidemus]]'' (1792), a [[skeptic]]al polemic against [[Immanuel Kant]]'s ''[[Critique of Pure Reason]]'' and [[Karl Leonhard Reinhold]]'s ''Philosophy of the Elements''.
+
+In Göttingen, he advised his student [[Arthur Schopenhauer]] to concentrate on the philosophies of [[Plato]] and Kant. This advice had a strong influence on Schopenhauer's [[philosophy]]. In the winter [[semester]] of 1810 and 1811, Schopenhauer studied both [[psychology]] and [[metaphysics]] under Schulze.<ref>Arthur Schopenhauer, ''Manuscript Remains'', Vol. 2, Berg, 1988, {{ISBN|0-85496-539-4}}.</ref>
+
+Schulze died in [[Göttingen]] on January 14, 1833.
+
+==Quotes==
+*"As determined by the ''Critique of Pure Reason'', the function of the principle of [[causality]] thus undercuts all philosophizing about the where or how of the origin of our cognitions. All assertions on the matter, and every conclusion drawn from them, become empty subtleties, for once we accept that determination of the principle as our rule of thought, we could never ask, "Does anything actually exist which is the ground and cause of our representations?". We can only ask, "How must the understanding join these representations together, in keeping with the pre-determined functions of its activity, in order to gather them as one experience?"<ref>Di Giovanni, George, and H. S. Harris (eds.), ''Between Kant and Hegel'', Indianapolis: Hackett, 2000, p. 131, {{ISBN|0-87220-504-5}} (original quote from: Gottlob Ernst Schulze, ''Aenesidemus'', 1792, pp. 176–7).</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Schulze, Gottlob Ernst}}
+[[Category:1761 births]]
+[[Category:1833 deaths]]
+[[Category:19th-century German philosophers]]
+[[Category:German male writers]]
+[[Category:German idealists]]
+[[Category:18th-century German philosophers]]

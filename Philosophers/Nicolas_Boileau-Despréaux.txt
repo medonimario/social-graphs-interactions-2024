@@ -1,0 +1,94 @@
+{{Short description|French poet and critic (1636–1711)}}
+{{Infobox writer
+| name        = Nicolas Boileau-Despréaux
+| image       = Nicolas Boileau.PNG
+| image_size  = 225px
+| caption     = Portrait of Boileau by [[Jean-Baptiste Santerre]], 1678
+| birth_date  = {{birth date|1636|11|01|df=y}}
+| birth_place = [[Paris]], [[Kingdom of France]]
+| death_date  = {{death date and age|1711|03|13|1636|11|01|df=y}}
+| death_place = Paris, Kingdom of France
+| alma_mater  = [[College of Sorbonne]], [[University of Paris|Paris]]
+| occupation  = Poet, critic
+}}
+[[File:Blason Nicolas Boileau.svg|thumb|upright|Coat of arms of Boileau-Despréaux family]]
+
+'''Nicolas Boileau-Despréaux''' ({{IPA|fr|nikɔla bwalo depʁeo|lang}}; 1 November 1636 – 13 March 1711), often known simply as '''Boileau''' ({{IPAc-en|UK|ˈ|b|w|ʌ|l|oʊ}},<ref>{{Cite dictionary |url=http://www.lexico.com/definition/Boileau,+Nicholas |archive-url=https://web.archive.org/web/20220828214523/https://www.dictionary.com/ |url-status=dead |archive-date=2022-08-28 |title=Boileau, Nicholas |dictionary=[[Lexico]] UK English Dictionary |publisher=[[Oxford University Press]]}}</ref> {{IPAc-en|US|b|w|ɑː|ˈ|l|oʊ|,_|ˈ|b|w|ɑː|l|oʊ}}<ref>{{Cite American Heritage Dictionary|Boileau-Despréaux|access-date=29 August 2019}}</ref><ref>{{Cite Merriam-Webster|Boileau-Despréaux|access-date=29 August 2019}}</ref>), was a [[French people|French]] [[poet]] and [[critic]]. He did much to reform the prevailing form of French poetry, in the same way that [[Blaise Pascal]] did to reform the prose. He was greatly influenced by [[Horace]].
+
+==Family and education==
+Boileau was the fifteenth child of Gilles Boileau, a clerk in the [[Parlement of Paris]]. Two of his brothers attained some distinction: [[Gilles Boileau]], the author of a translation of [[Epictetus]]; and [[Jacques Boileau]], who became a canon of the [[Sainte-Chapelle]], and made valuable contributions to church history. The surname "[[Despréaux (disambiguation)|Despréaux]]" was derived from a small property at [[Crosne, Essonne|Crosne]] near [[Villeneuve-Saint-Georges]]. His mother died when he was two years old; and Nicolas Boileau, who had a delicate constitution, seems to have suffered something from want of care.<ref name=EB11>{{cite EB1911|wstitle=Boileau-Despréaux, Nicolas}}</ref>
+
+[[Charles Augustin Sainte-Beuve|Sainte-Beuve]] puts down his somewhat hard and unsympathetic outlook quite as much to the uninspiring circumstances of these days as to the general character of his time. He cannot be said to have been early disenchanted, for he never seems to have had any illusions; he grew up with a single passion, "the hatred of stupid books." He was educated at the Collège de Beauvais, and was then sent to study [[theology]] at the [[Collège de Sorbonne|Sorbonne]]. He exchanged theology for [[law]], however, and was called to the bar on December 4, 1656. From the profession of law, after a short trial, he recoiled in disgust, complaining bitterly of the amount of chicanery which passed under the name of law and justice. His father died in 1657, leaving him a small fortune, and thenceforward he devoted himself to letters.<ref name=EB11/>
+
+==1660s==
+[[File:Boileau - Les Satires, 1868.djvu|page=5|thumb|upright|''Les satires'']]
+
+Much of Boileau's early poems as have been preserved hardly contain the promise of what he ultimately became. The first piece in which his peculiar powers were displayed was the first satire (1660), in imitation of the [[Satires of Juvenal#Satire III|third satire]] of [[Juvenal]]; it embodied the farewell of a poet to the city of Paris. This was quickly followed by eight others, and the number was at a later period increased to twelve. A twofold interest attaches to the satires. In the first place the author skilfully parodies and attacks writers who at the time were placed in the very first rank, such as [[Jean Chapelain]], the abbé [[Charles Cotin]], [[Philippe Quinault]] and [[Georges de Scudéry]]; he openly raised the standard of revolt against the older poets. But in the second place he showed both by precept and practice what were the poetical capabilities of the French language. Prose in the hands of such writers as [[René Descartes]] and [[Blaise Pascal]] had proved itself a flexible and powerful instrument of expression, with a distinct mechanism and form. But except with [[Francois de Malherbe]], there had been no attempt to fashion French versification according to rule or method. In Boileau for the first time appeared terseness and vigour of expression, with perfect regularity of verse structure.<ref name=EB11/>
+
+His admiration for [[Molière]] found expression in the stanzas addressed to him (1663) and in the second satire (1664). In 1664 or 1665,<ref>{{cite book |editor1-last=Crane |editor1-first=Thomas Frederick |title=Les héros de roman: dialogue de Nicolas Boileau-Despréaux |date=1902 |publisher=Ginn & Co. |page=33 |url=https://archive.org/details/leshrosderomand00despgoog/page/n43 |access-date=8 March 2019 |language=fr}}</ref> he composed his prose ''Dialogue sur les héros de roman'', a satire on the elaborate romances of the time, which may be said to have once for all abolished the lucubrations of La Calprenède, Mlle de Scudéry and their fellows. Though fairly widely read in manuscript and also released in an unauthorized edition in 1668,<ref>{{cite book |editor1-last=Crane |editor1-first=Thomas Frederick |title=Les héros de roman: dialogue de Nicolas Boileau-Despréaux |date=1902 |publisher=Ginn & Co. |page=38 |url=https://archive.org/details/leshrosderomand00despgoog/page/n49 |access-date=8 March 2019 |language=fr}}</ref> the book was not published till 1713, out of regard, it is said, for [[Mlle de Scudéry]]. To these early days belong the reunions at the Mouton Blanc and the Pomme du Pin, where Boileau, Molière, [[Jean Racine]], [[Jean de La Chapelle]] and [[Antoine Furetière]] met to discuss literary questions. To Molière and Racine he proved a constant friend, and supported their interests on many occasions.<ref name=EB11/>
+
+In 1666, prompted by the publication of two unauthorized editions, he published ''Satires du Sieur D....'', containing seven satires and the Discours au roi. From 1669 onwards appeared his ''epistles'', graver in tone than the satires, maturer in thought, more exquisite and polished in style. The ''Épîtres'' gained for him the favour of [[Louis XIV of France|Louis XIV]], who desired his presence at court. The king asked him which he thought his best verses. Whereupon Boileau diplomatically selected as his "least bad" some still unprinted lines in honour of the grand monarch and proceeded to recite them. He received forthwith a pension of 2000 livres.<ref name=EB11/>
+
+==1670s==
+In 1674 Boileau's ''L'Art poétique'' (in imitation of the ''[[Ars Poetica (Horace)|Ars Poetica]]'' of [[Horace]]) and ''Le Lutrin'' were published with some earlier works as the ''L'Œuvres diverses du sieur D...''. Boileau rules on the language of poetry, and analyses various kinds of verse composition. He influenced English literature through the translation of  ''L'Art poétique'' by [[Sir William Soame]] and [[John Dryden]], and their imitation in [[Alexander Pope]]'s ''[[Essay on Criticism]]''.<ref name=EB11/>
+
+Of the four books of ''L'Art poétique'', the first and last consist of general precepts, inculcating mainly the great rule of ''bon sens''; the second treats of the pastoral, the elegy, the ode, the epigram and satire; and the third of tragic and epic poetry. Though the rules laid down are of value, their tendency is rather to hamper and render too mechanical the efforts of poetry. Boileau himself, a great, though, by no means infallible critic in verse, cannot be considered a great poet. He rendered the utmost service in destroying the exaggerated reputations of the mediocrities of his time, but his judgment was sometimes at fault. The ''Lutrin'', a mock heroic poem, of which four cantos appeared in 1674, is sometimes said to have furnished Alexander Pope with a model for the [[Rape of the Lock]], but the English poem is superior in richness of imagination and subtlety of invention. The fifth and sixth cantos, afterwards added by Boileau, rather detract from the beauty of the poem; the last canto in particular is quite unworthy of his genius.<ref name=EB11/>
+
+In 1674 Boileau published his translation of [[Longinus (literature)|Longinus]]' ''On the Sublime'', making Longinus' ideas available to a wider audience, and influencing [[Edmund Burke]]'s work on the same subject.<ref>{{cite book |title=Edmund Burke: A Philosophical Enquiry into the Sublime and Beautiful |publisher=Routledge Classics |year=2008 |editor=Boulton |editor-first=James T. |editor-link=James Boulton |pages=xlii}}</ref> In 1693 he added some critical reflections to the translation, chiefly directed against the theory of the [[Quarrel of the Ancients and the Moderns|superiority of the moderns over the ancients]] as advanced by [[Charles Perrault]].<ref name=EB11/>
+
+Boileau was made historiographer to the king in 1677. From this time the amount of his production diminished. To this period of his life belong the satire, ''Sur les femmes'', the ode, ''Sur la prise de Namur'', the epistles, ''A mes vers'' and ''Sur l'amour de Dieu'', and the satire ''Sur l'homme''. The satires had raised up a crowd of enemies against Boileau. The 10th satire, on women, provoked an ''Apologie des femmes'' from Charles Perrault. Antoine Arnauld in the year of his death wrote a letter in defence of Boileau, but when at the desire of his friends he submitted his reply to Bossuet, the bishop pronounced all satire to be incompatible with the spirit of Christianity, and the 10th satire to be subversive of morality. The friends of [[Antoine Arnauld]] had declared that it was inconsistent with the dignity of a churchman to write on any subject so trivial as poetry. The epistle, ''Sur l'amour de Dieu'', was a triumphant vindication on the part of Boileau of the dignity of his art. It was not until April 15, 1684, that he was admitted to the [[Académie française]], and then only by the king's wish. In 1687 he retired to a country-house he had bought at [[Auteuil, Paris|Auteuil]], which [[Jean Racine]], because of the numerous guests, calls his ''hôtellerie d'Auteuil''.<ref name=EB11/>
+
+==1700–1711==
+In 1705 Boileau sold his house and returned to Paris, where he lived with his confessor in the [[cloister]]s of [[Notre Dame de Paris|Notre Dame]]. In the 12th satire, ''Sur l'équivoque'', he attacked the [[Jesuits]] in verses which Sainte-Beuve called a recapitulation of the ''[[Lettres provinciales]]'' of Pascal. This was written about 1705. He then gave his attention to the arrangement of a complete and definitive edition of his works. But the Jesuit fathers obtained from Louis XIV the withdrawal of the privilege already granted for the publication, and demanded the suppression of the 12th satire. These annoyances are said to have hastened his death, which took place on 13 March 1711.<ref name=EB11/>
+
+He was a man of warm and kindly feelings, honest, outspoken and benevolent. Many anecdotes are told of his frankness of speech at court, and of his generous actions. He holds a well-defined place in French literature, as the first who reduced its versification to rule, and taught the value of workmanship for its own sake. His influence on English literature, through Pope and his contemporaries, was not less strong, though less durable. After much undue depreciation, Boileau's critical work has been rehabilitated by recent writers, perhaps to the extent of some exaggeration in the other direction. It has been shown that in spite of undue harshness in individual cases most of his criticisms have been substantially adopted by his successors.<ref name=EB11/>
+
+Numerous editions of Boileau's works were published during his lifetime. The last of these, ''l'Œuvres diverses'' (1701), known as the "favourite" edition of the poet, was reprinted with variants and notes by Alphonse Pauly (2 vols., 1894). The critical text of his works was established by Berriat Saint-Prix, ''Œuvres de Boileau'' (4 vols., 1830–1837), who made use of some 350 editions. This text, edited with notes by [[Paul Chéron]], with the ''Boloeana'' of 1740, and an essay by [[Sainte-Beuve]], was reprinted by Garnier frères (1860).<ref name=EB11/>
+
+==See also==
+
+* [[Liksom en Herdinna, högtids klädd]], a 1790 song by Carl Michael Bellman, closely following Boileau's guide to pastoral verse
+
+==References==
+{{Reflist|30em}}
+
+==Sources==
+* Sainte-Beuve, ''Causeries du lundi'', vol. vi.; [[Ferdinand Brunetière|F. Brunetière]], "''L'Esthétique de Boileau''" (''[[Revue des Deux Mondes]]'', June 1889), and an exhaustive article by the same critic in ''La Grande Encyclopédie''; [[Gustave Lanson]], ''Boileau'' (1892), in the series of ''Grands écrivains français''.
+* {{cite book| chapter-url=https://archive.org/stream/livesofmostemine01shel#page/258/mode/2up| chapter=Boileau| title=Lives of the most eminent literary and scientific men of France| place=London | publisher= Longman, Orme, Brown, Green & Longmans | year= 1838 | last=Shelley |first=Mary Wollstonecraft |author-link=Mary Wollstonecraft Shelley }}
+* {{EB1911|wstitle=Boileau-Despréaux, Nicolas}}
+* {{Catholic|wstitle=Nicolas Boileau-Despréaux}}
+* {{Nuttall|title=Boileau, Nicolas}}
+
+==Further reading==
+* Doran, Robert. "Boileau" in ''The Theory of the Sublime from Longinus to Kant''. Cambridge: Cambridge University Press, 2015.
+* ''Boileau's Works'', (in French) illustrated by [[Rémy Lejeune]] (Ladoré), edited by Pierre et Berthe Bricage (1961), in 5 volumes.
+* {{cite journal|last=Hatzfeld|first=H.|title=Three national deformations of Aristotle: Tesauro, Gracián, Boileau|journal=Studi secenteschi|volume=II|year=1961|pages=3–21}}
+
+==External links==
+*{{commonscat-inline}}
+*{{wikisource author-inline}}
+*{{wikiquote-inline}}
+* {{Gutenberg author |id=1715| name=Nicolas Boileau-Despréaux}}
+* {{Internet Archive author |sname=Nicolas Boileau-Despréaux |sopt=w}}
+* {{Librivox author |id=11114}}
+
+{{Académie française Seat 1}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Boileau-Despreaux, Nicolas}}
+[[Category:1636 births]]
+[[Category:1711 deaths]]
+[[Category:Writers from Paris]]
+[[Category:Lycée Saint-Louis alumni]]
+[[Category:University of Paris alumni]]
+[[Category:17th-century French poets]]
+[[Category:French literary critics]]
+[[Category:17th-century French male writers]]
+[[Category:18th-century French writers]]
+[[Category:18th-century French male writers]]
+[[Category:Members of the Académie Française]]
+[[Category:Members of the Académie des Inscriptions et Belles-Lettres]]
+[[Category:Burials at Saint-Germain-des-Prés (abbey)]]
+[[Category:French male poets]]
+[[Category:17th-century journalists]]

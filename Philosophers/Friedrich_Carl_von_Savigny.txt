@@ -1,0 +1,117 @@
+{{Short description|German jurist and historian (1779–1861)}}
+{{Infobox philosopher
+|region           =[[Western philosophy]]
+* [[German philosophy]] 
+|era              =[[19th century philosophy]] 
+|image            = Savigny02.jpg
+|alt              = 
+|caption          =
+|module={{Infobox officeholder
+| embed       = yes
+| office      = [[List of justice ministers of Prussia|Minister of Justice of Prussia]] <br /> (Minister for the Revision of Laws)
+| term_start  = 28 February 1842
+| term_end    = 20 March 1848
+| monarch     = [[Frederick William IV]]
+| predecessor = [[Karl Albert von Kamptz]]
+| successor   =  {{Ill|Friedrich Wilhelm Ludwig Bornemann|de}}}}
+|name             = Friedrich Carl von Savigny
+|birth_date       = {{birth date|1779|02|21|df=y}}
+|birth_place      = [[Frankfurt|Frankfurt am Main]], [[Holy Roman Empire]]
+|death_date       = {{death date and age|1861|10|25|1779|02|21|df=y}}
+|death_place      = [[Berlin]], [[Kingdom of Prussia]]
+|school_tradition = [[German Historical School]]
+|main_interests   = [[Legal studies]], [[legal philosophy]]
+|notable_ideas    = 
+|signature        = 
+|signature_alt    = 
+}}
+{{Conservatism in Germany|Intellectuals}}
+'''Friedrich Carl von Savigny''' (21 February 1779 – 25 October 1861) was a German [[jurist]] and historian.<ref>{{Cite EB1911|wstitle=Savigny, Friedrich Karl von |volume= 24 | pages = 242&ndash;243}}</ref><ref>{{cite book|last=Montmorency|first=James E. G. de |chapter=Friedrich Carl von Savigny|editor1-last=Macdonell|editor1-first=John|editor1-link =John Macdonell (judge)|editor2-last=Manson|editor2-first=Edward William Donoghue|title=Great Jurists of the World|place=London|publisher=John Murray|year=1913|pages=561–589|chapter-url=https://archive.org/details/in.ernet.dli.2015.13326/page/n607 |access-date= 14 February 2019|via= Internet Archive}}</ref>
+
+==Early life and education==
+Savigny was born at [[Frankfurt am Main]], of a family recorded in the history of [[Lorraine (province)|Lorraine]], deriving its name from the castle of Savigny near [[Charmes-la-Côte|Charmes]] in the valley of the [[Moselle]]. Left as [[orphan]] at the age of 13, Savigny was brought up by a guardian. In 1795, he entered the [[University of Marburg]], where, though in poor health, he studied under Professors {{interlanguage link|Anton Bauer (jurist)|de|Anton Bauer (Rechtswissenschaftler)|eo||es|Anton Bauer (jurista)|fr||ru|Бауэр, Антон|sv}} and {{interlanguage link|Philipp Friedrich Weiss|de|Philipp Friedrich Weis}}, the former a pioneer in the reform of the German criminal law, the latter distinguished for his knowledge of medieval jurisprudence. After the fashion of German students, Savigny visited several universities, notably [[university of Jena|Jena]], [[university of Leipzig|Leipzig]] and [[university of Halle|Halle]]; and returning to Marburg, took his doctorate in 1800. At Marburg he lectured as ''[[Privatdozent]]'' on criminal law and the [[Pandects]].
+
+==Work==
+In 1803 Savigny published ''Das Recht des Besitzes'' (The Law of Possession).<ref>[https://archive.org/details/dasrechtdesbesi00savigoog archive.org]</ref> [[Anton Friedrich Justus Thibaut|Anton Thibaut]] hailed it as a masterpiece which brought the old uncritical study of [[Roman law]] to an end. It quickly obtained a European reputation, and remains a prominent landmark in the history of jurisprudence. In 1804 he married Kunigunde Brentano, sister of [[Bettina von Arnim]] and [[Clemens Brentano]] the poet. The same year he embarked on an extensive tour through France and south Germany in search of fresh sources of Roman law.
+
+In 1808 Savigny was appointed full professor of Roman law at [[Landshut]]. He remained in this position for a year and a half. In 1810 he was appointed to the chair of Roman law at the new [[Humboldt University of Berlin|University of Berlin]], chiefly at the insistence of [[Wilhelm von Humboldt]]. Here, in connection with the faculty of law, he created a ''Spruch-Collegium'', an extraordinary tribunal competent to deliver opinions on cases remitted to it by the ordinary courts; and he took an active part in its labours. This was the busiest time of his life. He was engaged in lecturing, in government of the university (of which he was the third rector), and as tutor to the crown prince in Roman, criminal and Prussian law. During his time in Berlin, Savigny befriended [[Barthold Georg Niebuhr]] and [[Karl Friedrich Eichhorn]].
+
+In 1814 Savigny wrote the pamphlet ''{{interlanguage link|Vom Beruf unserer Zeit für Gesetzgebung und Rechtswissenschaft|de|Vom Beruf unserer Zeit|ja|立法と法学に対するわれわれの時代の使命について}}'' (Of the Vocation of our Age for Legislation and Legal Science). In an earlier pamphlet Thibaut had argued for the creation of a unified legal code for Germany, independent of the influence of foreign legal systems. Savigny argued that such a codification of the law would have an adverse effect. In his view, the damage that had been caused by the neglect of former generations of jurists could not be quickly repaired, and more time was required to set the house in order. Moreover, a unified legal code would almost certainly be influenced by natural law, with its "infinite arrogance" and its "shallow philosophy". It was Savigny's opinion that legal science should be saved from the "hollow abstractions" of such a work as [[Christian Wolff (philosopher)|Christian Wolff]]'s ''{{lang|la|Institutiones juris naturae et gentium}}''.  Savigny opposed this conception of legal science to the "historical study of positive law", which according to him is "a condition precedent to right understanding of the science of all law". Savigny did not oppose the introduction of new laws or of a new system of laws, but considered that the laws of any nation should reflect the "national spirit (''Volksgeist'')".<ref>{{cite book|url=https://books.google.com/books?id=L1UrrPav_QgC|last=von Savigny|first=Frederick Charles|title=Of the Vocation of Our Age for Legislation and Jurisprudence|translator=Abraham Hayward|location=London|publisher=Littlewood|edition=2|date=1831|isbn=9781584771890}}</ref><ref>{{cite book|title=Thibaut und Savigny: ihre programmatischen Schriften|editor-last=Hattenhauer|editor-first=Hans|location=München|publisher=Verlag Franz Vahlen|edition=2|date=2002}}</ref>
+
+In 1815 Savigny, together with Eichhorn and {{interlanguage link|Johann Friedrich Ludwig Göschen|de||hu||it||ru|Гёшен, Иоганн Фридрих Людвиг|sv}}, founded the ''{{lang|de|{{ill|Zeitschrift für geschichtliche Rechtswissenschaft|de||no}}}}'' (Journal for Historical Legal Science), the organ of the [[German Historical School|new historical school]]. In this periodical (vol. iii. p.&nbsp;129 seq.) Savigny made known to the world the discovery by Niebuhr in [[Verona, Italy|Verona]] of the lost ''[[Institutes of Gaius|Institutes]]'' of [[Gaius (jurist)|Gaius]]. Savigny pronounced it to be the work of Gaius himself and not, as Niebuhr had suggested, of [[Ulpian]].
+
+The same year, 1815, Savigny published the first volume of his ''{{lang|de|Geschichte des römischen Rechts im Mittelalter}}'' (History of Roman Law in the Middle Ages),<ref>[https://archive.org/details/bub_gb__UYbAAAAYAAJ ''Geschichte des römischen Rechts im Mittelalter'', erster Band]</ref> the sixth and final volume of which did not appear until 1831. He had been prompted to write this work by his early instructor Weiss. Savigny intended it to be a literary history of Roman law from [[Irnerius]] to the present time. His design was in some respects narrowed; in others it was widened. He did not continue the narrative beyond the 16th century, when the separation of nationalities disturbed the foundations of the science of law. In the first volume, Savigny treated the history of Roman law from the breaking up of the empire until the beginning of the 12th century. According to Savigny, Roman law, although considered dead, lived on in local customs, in towns, in ecclesiastical doctrines and school teachings, until it once again reappeared in [[Bologna]] and other Italian cities.
+
+In 1817 Savigny was appointed a member of the commission for organizing the [[Prussia]]n provincial estates, and also a member of the department of justice in the ''{{lang|de|Staatsrath}}'' (State Council). In 1819 he became a member of the supreme court of appeal for the Rhine Provinces. In 1820 he was made a member of the commission for revising the Prussian code. In 1822 he was afflicted with nervous illness, which compelled him to seek relief in travel. In 1835 Savigny began his elaborate work on contemporary Roman law, ''{{lang|de|System des heutigen römischen Rechts}}'' (8 vols., 1840–1849). His activity as professor ceased in March 1842, when he was appointed "{{lang|de|Grosskanzler}}" (High Chancellor), the head of the Prussian legal system. In this position he carried out several important law reforms in regard to bills of exchange and divorce. He held the office until 1848, when he resigned.
+
+In 1850, on the occasion of the jubilee of obtaining his doctor's degree, appeared in five volumes his ''Vermischte Schriften'' (Miscellaneous Writings), consisting of a collection of minor works published between 1800 and 1844. Savigny was hailed throughout Germany as "the great master" and founder of modern jurisprudence. In 1851 and 1853 he published the two volumes of his treatise on the law of obligations, ''{{lang|de|Das Obligationenrecht}}'', mostly on what English-speaking lawyers consider as contract law. It was a supplement to his work on modern Roman law, in which he again argued for the necessity of the historical treatment of law.
+
+Savigny died in Berlin. His son, [[Karl Friedrich von Savigny]] (1814–1875), was Prussian minister of foreign affairs in 1849. He represented Prussia in important diplomatic transactions, especially in 1866.
+
+==Ideas and influence==
+Savigny belongs to the German [[German Historical School|historical school of jurists]], founded by [[Gustav Hugo]], and served a role in its consolidation. The works for which Savigny is best known are the ''Recht des Besitzes'' and the ''Beruf unserer Zeit für Gesetzgebung''. According to [[Rudolf von Jhering|Jhering]] "with the ''Recht des Besitzes'' the juridical method of the Romans was regained, and modern jurisprudence born." It was seen as a great advance both in results and method, and rendered obsolete a large body of literature. Savigny argued that in Roman law possession had always reference to "usucapion" or to "interdicts". It did not include a right to continuance in possession but only to immunity from interference as possession is based on the consciousness of unlimited power. These and other propositions were derived by the interpretation and harmonization of the Roman jurists. However, many of Savigny's conclusions did not meet with universal acclaim. They were opposed by, among others, [[Rudolf von Jhering|Jhering]], [[Eduard Gans|Gans]], and Bruns.
+
+Savigny argued in the ''Beruf unserer Zeit'' that law is part and parcel of national life. He opposed the idea, common to French 18th century jurists and Bentham, that law can be arbitrarily imposed on a country irrespective of its state of civilization and history. Another important idea of Savigny is that the practice and theory of [[jurisprudence]] cannot be divorced without injury to both.
+
+== Publications ==
+Major publications by Savigny include:
+
+* {{Cite book|last=von Savigny|first=Friedrich Carl|url=https://digitale-sammlungen.de/en/view/bsb10567076|title=Das Recht des Besitzes. Eine civilistische Abhandlung|publisher=Heyer|year=1803|edition=1|location=Gießen|language=de}}
+** English translation by [[Thomas Erskine Perry|Perry, Thomas Erskine]]  (1848): "[https://hdl.handle.net/2027/mdp.35112105157178 Von Savigny's Treatise on Possession: Or, the Jus Possessionis of the Civil Law]", (6 ed.). London: S. Sweet.
+** Abridged English translation by Kelleher, J. (1888): "[https://hdl.handle.net/2027/osu.32437000289336 Possession in the civil law. Abridged from the Treatise of von Savigny to which added the Text of the Title on Possession from the Digest]". Calcutta: Thacker.
+* {{Cite book|last=von Savigny|first=Friedrich Carl|url=https://doi.org/10.11588/diglit.11451|title=Vom Beruf unserer Zeit für Gesetzgebung und Rechtswissenschaft|publisher=Mohr und Zimmer|year=1814|edition=1|location=Heidelberg|doi=10.11588/diglit.11451|language=de}}
+** English translation by [[Abraham Hayward|Hayward, Abraham]] (1831): "[https://books.google.com/books?id=JvukCY8Rbz0C Of the Vocation of our Age for Legislation and Jurisprudence]". London: Littlewood.
+* {{Cite book|last=von Savigny|first=Friedrich Carl|url=http://mdz-nbn-resolving.de/urn=urn:nbn:de:bvb:12-bsb10565865-7|title=System des heutigen römischen Rechts|publisher=Veit|year=1840|volume=1|location=Berlin|language=de}}
+** English translation of Volume 1 by Holloway, William (1867): "[https://hdl.handle.net/2027/wu.89097651095 System of the Modern Roman Law, Volume I]". Madras: Higginbotham.
+* {{Cite book|last=von Savigny|first=Friedrich Carl|url=http://mdz-nbn-resolving.de/urn=urn:nbn:de:bvb:12-bsb10565866-2|title=System des heutigen römischen Rechts|publisher=Veit|year=1840|volume=2|location=Berlin|language=de}}
+** English translation of Volume 2 by Rattigan, Henry (1884): "[[iarchive:JuralRelations/page/n7/mode/2up|Jural Relations: Or, The Roman Law of Persons as Subjects of Jural Relations]]". London: Wildly.
+* {{Cite book|last=von Savigny|first=Friedrich Carl|url=http://mdz-nbn-resolving.de/urn=urn:nbn:de:bvb:12-bsb10565867-7|title=System des heutigen römischen Rechts|publisher=Veit|year=1840|volume=3|location=Berlin|language=de}}
+* {{Cite book|last=von Savigny|first=Friedrich Carl|url=http://mdz-nbn-resolving.de/urn=urn:nbn:de:bvb:12-bsb10565868-3|title=System des heutigen römischen Rechts|publisher=Veit|year=1841|volume=4|location=Berlin|language=de}}
+* {{Cite book|last=von Savigny|first=Friedrich Carl|url=http://mdz-nbn-resolving.de/urn=urn:nbn:de:bvb:12-bsb10565869-3|title=System des heutigen römischen Rechts|publisher=Veit|year=1841|volume=5|location=Berlin|language=de}}
+* {{Cite book|last=von Savigny|first=Friedrich Carl|url=http://mdz-nbn-resolving.de/urn=urn:nbn:de:bvb:12-bsb10565870-5|title=System des heutigen römischen Rechts|publisher=Veit|year=1847|volume=6|location=Berlin|language=de}}
+* {{Cite book|last=von Savigny|first=Friedrich Carl|url=http://mdz-nbn-resolving.de/urn=urn:nbn:de:bvb:12-bsb10565871-0|title=System des heutigen römischen Rechts|publisher=Veit|year=1848|volume=7|location=Berlin|language=de}}
+* {{Cite book|last=von Savigny|first=Friedrich Carl|url=http://mdz-nbn-resolving.de/urn=urn:nbn:de:bvb:12-bsb10565872-6|title=System des heutigen römischen Rechts|publisher=Veit|year=1849|volume=8|location=Berlin|language=de}}
+** English translation of Volume 8 by Guthrie, William (1869): "[[iarchive:privateinternat00guthgoog/page/n6/mode/2up|Private International Law. A Treatise on the Conflict of Laws]]". London: T & T Clark.
+
+== Bibliography ==
+*{{citation|last=Beiser|first=Frederick C.|chapter=Savigny and the Historical School of Law|location=Oxford|publisher=Oxford University Press|year=2011|title=The German Historist Tradition|isbn=9780199691555|pages=214–252|doi=10.1093/acprof:oso/9780199691555.003.0006}}
+*{{Citation |last=Berkowitz |first=Roger |chapter=From Science to Technique: Friedrich Carl von Savigny, the BGB, and the Self-Overcoming of Legal Science |title=The Gift of Science: Leibniz and the Modern Legal Tradition |pages=109–158|year=2005 |publisher=Harvard University Press |location=Cambridge |doi=10.4159/9780674020795|isbn=978-0-674-02079-5}}.
+*{{Cite book|last=Bethmann-Hollweg|first=Moritz August|url=https://books.google.com/books?id=65UKAAAAYAAJ|title=Erinnerung an Friedrich Carl von Savigny als Rechtslehrer, Staatsmann und Christ|publisher=Böhlau|year=1867|location=Weimar|language=de|author-link=August von Bethmann-Hollweg}}
+*{{Cite EB1911|wstitle=Savigny, Friedrich Karl von |volume= 24 | pages = 242&ndash;243}}
+*{{CathEncy|wstitle=Karl Friedrich Savigny}}
+*{{Cite journal|last=Kantorowicz|first=Hermann|author-link=Hermann Kantorowicz|date=1937|title=Savigny and the Historical School of Law|url=https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/stanit18&section=11|journal=Law Quarterly Review|volume=53|pages=326}}
+*{{cite journal|last=Klenner|first=Hermann|title=Savigny's Research Program of the Historical School of Law and Its Intellectual Impact in 19th Century Berlin|journal=American Journal of Comparative Law|volume=37|issue=1|pages=67–80|year=1989|doi=10.2307/840441|jstor=840441}}
+*{{Cite book|last=Landsberg|first=Ernst|url=https://books.google.com/books?id=tnMwAQAAMAAJ|title=Friedrich Karl von Savigny|publisher=Duncker & Humblot|year=1890|location=Leipzig|language=de}}
+*{{Cite book|last=de Montmorency|first=James Edward Geoffrey|url=https://archive.org/details/cu31924017097035|title=Great Jurists of the World|publisher=Little, Brown, and Company|year=1914|editor-last=Macdonell|editor-first=John|editor-link=John Macdonell (judge)|pages=561–589|chapter=Friedrich Carl von Savigny|lccn=14013574|editor-last2=Manson|editor-first2=Edward|chapter-url=https://archive.org/details/cu31924017097035/page/n631/mode/2up}}
+*{{Cite book|last=Rudorff|first=Adolf August Friedrich|url=https://books.google.com/books?id=ebCEv_B-xEoC|title=Friedrich Carl von Savigny: Erinnerung an sein Wesen und Wirken|publisher=Böhlau|year=1862|location=Weimar|language=de}}
+*{{Cite book|last=Stinzing|first=Johann August Roderich|url=http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10066519-2|title=Friedrich Carl von Savigny. Ein Beitrag zu seiner Würdigung.|publisher=Reimer|year=1862|location=Berlin|language=de}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[https://www.paralipomenaiuris.com/direito-comum-vii-escola-hist%C3%B3rica Complete works and editions from Savigny] at ''ParalipomenaIuris''
+
+{{jurisprudence}}
+{{Conservatism}}
+{{Authority control}}
+
+{{DEFAULTSORT:Savigny, Friedrich Carl Von}}
+[[Category:1779 births]]
+[[Category:1861 deaths]]
+[[Category:Writers from Frankfurt]]
+[[Category:Lorraine nobility]]
+[[Category:Jurists from Hesse]]
+[[Category:Recipients of the Pour le Mérite (civil class)]]
+[[Category:University of Jena alumni]]
+[[Category:Leipzig University alumni]]
+[[Category:University of Halle alumni]]
+[[Category:German monarchists]]
+[[Category:Scholars of comparative law]]
+[[Category:University of Marburg alumni]]
+[[Category:Academic staff of the University of Marburg]]
+[[Category:Academic staff of the Humboldt University of Berlin]]
+[[Category:Members of the Prussian House of Lords]]
+[[Category:Members of the Prussian State Council (1817-1918)]]
+[[Category:German legal scholars]]
+[[Category:Justice ministers of Prussia]]

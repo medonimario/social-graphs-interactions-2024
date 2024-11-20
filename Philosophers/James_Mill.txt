@@ -1,0 +1,162 @@
+{{Short description|Scottish intellectual (1773–1836)}}
+{{Use dmy dates|date=April 2024}}
+{{Infobox philosopher
+| era             = [[Modern philosophy]]
+* [[19th-century philosophy]]
+| region          = [[Western philosophy]]
+* [[British philosophy]]
+** [[Scottish philosophy]]
+| image           = James Mill.jpg
+| name        = James Mill
+| birth_name  = James Milne<ref name=SEP/>
+| birth_date  = {{birth date|1773|4|6|df=yes}}
+| birth_place = Northwater Bridge, parish of Logie Pert, [[Angus, Scotland]]
+| death_date  = {{death date and age|1836|6|23|1773|4|8|df=yes}}
+| death_place = [[Kensington]], London, England
+| alma_mater  = [[University of Edinburgh]]
+| spouse      = Harriet Burrow
+| children    = [[John Stuart Mill]]
+| main_interests   = [[Psychology]]<br />[[Ethics]]<br />[[Economics]]
+| school_tradition = [[Associationism]]<br />[[Classical liberalism]]<br />[[Economic liberalism]]<br />[[Ricardian economics]]<br />[[Utilitarianism]]
+| influences       = {{flatlist|
+* [[David Hartley (philosopher)|Hartley]]
+* [[Jeremy Bentham|Bentham]]
+* [[Dugald Stewart|Stewart]]
+* [[David Ricardo|Ricardo]]
+}}
+| influenced       = {{flatlist|
+* [[William Thompson (philosopher)|Thompson]]
+* [[J. S. Mill|Mill]]
+* [[Franz Brentano|Brentano]]
+}}
+| notable_works    = ''[[The History of British India]]'' (1817)
+}}
+{{Capitalism sidebar}}
+{{Radicalism sidebar|people}}
+'''James Mill''' (born '''James Milne''';<ref name=SEP>{{cite encyclopedia|url=http://plato.stanford.edu/entries/james-mill/#Bio |title=James Mill |encyclopedia=Stanford Encyclopedia of Philosophy | publisher=Stanford University |date=19 June 2014|first=Terence |last=Ball|access-date=4 April 2018}}</ref> 6 April 1773 – 23 June 1836{{sfn|Chisholm|1911|p=453}}) was a Scottish [[historian]], [[economist]], [[political theorist]] and [[philosopher]]. He is counted among the founders of the [[Ricardian economics|Ricardian school]] of economics.<ref name="keynes11">{{cite book | title=The General Theory of Employment, Interest and Money | first=John Maynard |last=Keynes|author-link=John Maynard Keynes |chapter=The General Theory |url=http://www.marxists.org/reference/subject/economics/keynes/general-theory/ch01.htm|access-date=4 April 2018}}</ref> He also wrote ''[[The History of British India]] (1817)'' and was one of the prominent historians to take a colonial approach.<ref>{{Cite book |last=Ahir |first=Rajiv |url=https://books.google.com/books?id=HBziwQEACAAJ&q=history+of+modern+india+rajiv+ahir |title=A Brief History of Modern India |date=2018 |publisher=Spectrum Books (P) Limited |isbn=978-8179306888 |pages=14 |language=en}}</ref>  He was the first writer to divide Indian history into three parts: Hindu, Muslim and British,<ref>{{Cite web |date=25 May 2022 |title=Explained: Who was Prithviraj Chauhan, the fearless hero of folk legend? |url=https://indianexpress.com/article/explained/everyday-explainers/prithviraj-chauhan-akshay-kumar-gujjar-rajput-communities-rajasthan-7934307/ |access-date=26 May 2022 |website=The Indian Express |language=en}}</ref>{{sfn|Chisholm|1911|p=453}} a classification which has proved surpassingly influential in the field of Indian historical studies.
+
+Mill was the father of [[John Stuart Mill]], a noted philosopher of [[liberalism]] and [[utilitarianism]], and a colonial administrator at the [[East India Company]].
+
+==Biography==
+James Milne, later known as James Mill, was born in Northwater Bridge, in the parish of Logie Pert, [[Angus, Scotland]], the son of James Milne, a [[shoemaker]] and small farmer. His mother, Isabel Fenton, of a family that had suffered from connection with the [[Jacobite risings|Stuart rising]],{{which|date=January 2018}} resolved that he should receive a first-rate education, and after the parish school they sent him on to the [[Montrose Academy]], where he remained until the unusual age of seventeen and a half. He then entered the [[University of Edinburgh]], where he distinguished himself as a Greek scholar.{{sfn|Chisholm|1911|p=453}}
+
+In October 1789, he was ordained as a [[minister of the Church of Scotland]], but met with little further success. According to John Stuart Mill's ''Autobiography,'' his father, though "educated in the creed of Scotch Presbyterianism, had, by his own studies and reflections, been early led to reject not only the belief in Revelation, but the foundations of what is commonly called Natural Religion."<ref>{{Cite web|url=https://www.laits.utexas.edu/poltheory/mill/auto/auto.c02.html|title = AUTO Chapter 2, John Stuart Mill, Autobiography}}</ref> From 1790 to 1802, while supporting himself by various tutorships, he also pursued various historical and philosophical studies. With little prospect of a career in Scotland, in 1802, he went to London in company with [[Sir John Stuart, 4th Baronet|Sir John Stuart]] of [[Fettercairn]], then member of parliament for [[Kincardineshire]], and devoted himself to his literary work. From 1803 to 1806, he was editor of an ambitious periodical called the ''Literary Journal'', which tried to give a summary view of all the leading departments of human knowledge. During this time, he also edited the ''St James's Chronicle'', published by the same proprietor. In 1804, he wrote a pamphlet on the corn trade, arguing against a tariff (or 'bounty') on the export of grain. In 1805, he published a translation (with notes and quotations) of ''An Essay on the Spirit and Influence of the Reformation of Luther'' by [[Charles de Villers]] on the [[Protestant Reformation|Reformation]], and an attack on the alleged vices of the papal system.  About the end of this year, he began work on ''[[The History of British India]]'', which was to occupy him for twelve years, rather than the three or four that he had expected.{{sfn|Chisholm|1911|p=453}}
+
+In that year, too, he married Harriet Burrow, whose mother, a widow, kept what was then known as an [[lunatic asylum|establishment for lunatics]] in [[Hoxton#Almshouses_and_madhouses|Hoxton]]. They took a house in [[Pentonville]] where their eldest son [[John Stuart Mill]] was born in 1806.{{sfn|Chisholm|1911|p=453}}
+
+[[File:19 York Street, Westminster (1848).jpg|thumb|The back of No. 19, York Street (1848). In 1651, [[John Milton]] moved into a "pretty garden-house" in [[Petty France, London|Petty France]]. He lived there until the [[Restoration (England)|Restoration]]. Later it became No. 19 York Street, belonged to [[Jeremy Bentham]], was occupied successively by James Mill and [[William Hazlitt]], and was demolished in 1877.{{sfn|Stephen|1894|p=32}}]]
+In 1808, he became acquainted with [[Jeremy Bentham]], who was twenty-five years his senior and, for many years, his chief companion and ally. He adopted Bentham's principles in their entirety, and determined to devote all his energies to bringing them before the world. Between 1806 and 1818, he wrote for the ''[[Anti-Jacobin Review]]'', the ''British Review'' and ''[[The Eclectic Review]]''; but there is no means of tracing his contributions. In 1808, he began to write for the more prominent [[Edinburgh Review]], to which he contributed steadily till 1813, his first known article being "Money and Exchange". He also wrote on Spanish America, China, [[Francisco de Miranda]], the [[British East India Company|East India Company]], and freedom of the press. In the ''Annual Review'' for 1808, two articles of his are traced – a "Review of Fox's History", and an article on "Bentham's Law Reforms", probably his first published notice of Bentham. In 1811, he co-operated with [[William Allen (English Quaker)|William Allen]] (1770–1843), a [[Quaker]] and [[chemist]], in a periodical called the ''Philanthropist''. He contributed largely to every issue – his principal topics being Education, Freedom of the Press, and Prison Discipline (under which he expounded Bentham's [[Panopticon]]). He made powerful onslaughts on the Church in connection with the [[Monitorial System|Bell and Lancaster]] controversy, and took a part in the discussions that led to the foundation of the [[University of London]] in 1825. In 1814, he wrote a number of articles, containing an exposition of [[utilitarianism]], for the supplement to the fifth edition of the ''[[Encyclopædia Britannica]]'', the most important being those on "Jurisprudence", "Prisons", "Government"{{sfn|Chisholm|1911|p=453}} and "Law of Nations".
+
+''[[The History of British India]]'' was published in 1818, and obtained a great immediate and enduring success.<ref>{{Citation |last=Mill |first=James |year=1817 |title= The History of British India |edition=1 |publisher= Baldwin, Cradock, and Joy |publication-date=1817 |location=London |url= https://archive.org/stream/historyofbritish1817mill#page/n5/mode/2up |access-date=11 December 2012 }}</ref> It brought about a matching change in the author's fortunes, and in the year following, he was appointed an official in India House in the important department of the Examiner of Indian Correspondence. He gradually rose through the ranks until, in 1830, he was appointed head of the office, with a salary of £1900, raised in 1836 to £2000. His great work on economics, the ''Elements of Political Economy'', appeared in 1821 (3rd and revised ed. 1825).{{sfn|Chisholm|1911|p=453}}<ref>{{Citation |last=Mill |first=James |year=1821 |title= Elements of Political Economy |edition=First |publisher= Baldwin, Cradock, and Joy |publication-date=1821 |location=London |url= https://archive.org/stream/elementsofpoliti00millrich#page/n5/mode/2up |access-date=11 December 2012 }}</ref>
+
+From 1824 to 1826, Mill contributed a number of articles to ''[[The Westminster Review]]'', the organ of the Radical party, in which he attacked the ''[[Edinburgh Review|Edinburgh]]'' and the ''[[Quarterly Review|Quarterly]]'' Reviews, and the ecclesiastical establishment. In 1829, appeared the ''Analysis of the Phenomena of the Human Mind''. From 1831 to 1833, Mill was largely occupied in the defence of the East India Company, during the controversy attending the renewal of its charter, he being in virtue of his office the spokesman of its Court of Directors. For the ''[[Westminster Review#London and Westminster Review|London Review]]'', founded by [[Sir William Molesworth, 8th Baronet|Sir William Molesworth]] in 1834, he wrote a notable article entitled "The Church and its Reform", which was much too sceptical for the time and injured ''The Westminster Review''. Mill himself was an [[atheist]].<ref>{{Cite news|url=https://mises.org/library/james-mill-laissez-faires-lenin|title=James Mill: Laissez-Faire's Lenin|newspaper=Mises Institute |date=28 March 2012 |author1=Kanopiadmin }}</ref> His last published book was the ''Fragment on Mackintosh'' (1835).{{sfn|Chisholm|1911|p=453}}
+
+==Intellectual legacy==
+
+===''The History of British India''===
+{{Main|The History of British India}}
+
+Mill was a proponent of British imperialism, justifying it on [[Utilitarianism|utilitarian]] grounds.<ref name=":0">{{Cite book |last=Pitts |first=Jennifer |url=https://books.google.com/books?id=szeU8olEDewC |title=A Turn to Empire: The Rise of Imperial Liberalism in Britain and France |date=2005 |publisher=Princeton University Press |isbn=978-1400826636 |pages=123–126 |language=en}}</ref> He considered it part of a [[civilising mission]] for Britain to impose its rule on India.<ref name=":0" /> Mill saw his own work for the East India Company as important for the improvement of Indian society.<ref name=":0" /> Mill portrayed Indian society as morally degraded and argued that Hindus had never possessed "a high state of civilisation".<ref>{{Cite book |last=Elkins |first=Caroline |url=https://books.google.com/books?id=3icqEAAAQBAJ |title=Legacy of Violence: A History of the British Empire |date=2022 |publisher=Knopf Doubleday Publishing Group |isbn=978-0593320082 |pages=43–44 |language=en}}</ref>
+
+Mill preferred to take a more theoretical approach to social subjects than the [[Empiricism|empirical]] one common at the time. His best known literary work is his ''History of British India'', in which he describes the acquisition of the [[British India|Indian Empire]] by England and later the [[United Kingdom of Great Britain and Ireland|United Kingdom]]. In the work, he characterises Indian society as barbaric and Indians as incapable of self-government.<ref name=":0" /> He also brings political theory to bear on the delineation of the [[Hinduism|Hindu]] civilization, and subjects the conduct of the actors in the successive stages of the conquest and administration of India to severe criticism. The work itself, and the author's official connection with India for the last seventeen years of his life, effected a complete change in the whole system of governance in the country.{{sfn|Chisholm|1911|p=453}} Mill never visited the Indian colony, relying solely on documentary material and archival records in compiling his work. This fact has led to severe criticism of Mill's ''History of India'' by notable economist [[Amartya Sen]].<ref>[[Amartya Sen]]'s address given to the Millennium Session of the Indian History Congress [https://newhumanist.org.uk/articles/458/history-and-the-enterprise-of-knowledge]</ref>
+
+According to [[Thomas Trautmann]], "James Mill's highly influential ''History of British India'' (1817) – most particularly the long essay "Of the Hindus" comprising ten chapters&nbsp;– is the single most important source of British Indophobia and hostility to Orientalism".<ref>{{cite book |title=Aryans and British India |pages=117 |first=Thomas R. |last=Trautmann |location=New Delhi |publisher=YODA Press |edition=2nd Indian |year=2006 |orig-year=1997 |isbn=8190227211 |url=https://books.google.com/books?id=jR_LPnEH3GsC&pg=PA117}}</ref> In the chapter titled General Reflections in "Of the Hindus", Mill wrote "under the glosing exterior of the Hindu, lies a general disposition to deceit and perfidy".<ref>{{cite book |title=The History of British India |first= James |last=Mill |publisher = Madden |year=1858 |url=https://archive.org/details/historybritishi24wilsgoog|page=[https://archive.org/details/historybritishi24wilsgoog/page/n170 150] }}</ref> According to Mill, "the same insincerity, mendacity, and perfidy; the same indifference to the feelings of others; the same prostitution and venality" were the conspicuous characteristics of both the Hindoos and the Muslims. The Muslims, however, were perfuse, when possessed of wealth, and devoted to pleasure; the Hindoos almost always penurious and ascetic; and "in truth, the Hindoo like the eunuch, excels in the qualities of a slave". Furthermore, similar to the Chinese, the Hindoos were "dissembling, treacherous, mendacious, to an excess which surpasses even the usual measure of uncultivated society". Both the Chinese and the Hindoos were "disposed to excessive exaggeration with regard to everything relating to themselves". Both were "cowardly and unfeeling". Both were "in the highest degree conceited of themselves, and full of affected contempt for others". And both were "in physical sense, disgustingly unclean in their persons and houses".<ref>Dharampal, ''The Beautiful Tree''.</ref>
+
+[[Max Müller]] argued against the opinion that Indians were an 'inferior race', not only because such a view was wrong but because it made an Englishman's life there a 'moral exile'. One source of such mistaken notions and 'poison' had been, and still was, Mill's ''History of British India'', which in his view was 'responsible for some of the greatest misfortunes' that had happened to India. Those who were going out to rule India 'should shake off national prejudices, which are apt to degenerate into a kind of madness'.
+
+===British politics===
+Mill also played a great part in British politics, and was a dominant figure in the establishment of what was called "[[Philosophical Radicals|philosophic radicalism]]". His writings on government and his personal influence among the [[Liberal Party (UK)|Liberal]] politicians of his time determined the change of view from the [[French Revolution]] theories of the rights of man and the absolute equality of men to the claiming of securities for good government through a wide extension of the franchise. It was under this banner that the [[Reform Bill]] was fought and won. His ''Elements of Political Economy'' followed up the views of his friend [[David Ricardo]]. By 1911, the [[Encyclopædia Britannica]] described it as being of mainly historical interest, "an accurate summary of views that are now largely discarded".{{sfn|Chisholm|1911|p=453}} Among the more important of its theses are:{{sfn|Chisholm|1911|p=453}}
+# that the chief problem of practical reformers is to limit the increase of population, on the assumption that capital does not naturally increase at the same rate as population (ii. § 2, art. 3)
+# that the value of a thing depends entirely on the quantity of labour put into it; and
+# that what is now known as the "[[unearned increment]]" of land is a proper object for taxation.
+
+===Other areas===
+By his ''Analysis of the Phenomena of the Human Mind'' and his ''Fragment on Mackintosh'' Mill acquired a position in the history of psychology and ethics. He took up the problems of mind very much after the fashion of the [[Scottish Enlightenment]], as then represented by [[Thomas Reid]], [[Dugald Stewart]] and [[Thomas Brown (philosopher)|Thomas Brown]], but made a new start, due in part to [[David Hartley (philosopher)|David Hartley]], and still more to his own independent thinking. He carried out the principle of association into the analysis of the complex emotional states, as the affections, the aesthetic emotions and the moral sentiment, all which he endeavoured to resolve into pleasurable and painful sensations. But the salient merit of the ''Analysis'' is the constant endeavour after precise definition of terms and clear statement of doctrines. He had a great effect on [[Franz Brentano]] who discussed his work in his own empirical psychology.<ref>Franz Brentano: ''Psychologie vom empirischen Standpunkt''. Ed. Oskar Kraus, 2 vols. Leipzig: Meiner, 1924–25; ed. Mauro Antonelli. Heusenstamm: Ontos, 2008</ref> The ''Fragment on Mackintosh'' severely criticizes the alleged flimsiness and misrepresentations of Sir [[James Mackintosh]]'s ''Dissertation on the Progress of Ethical Philosophy'' (1830), and discusses the foundations of ethics from the author's utilitarian point of view.{{sfn|Chisholm|1911|p=4543}}
+
+==Major works==
+[[File:Bain - James Mill, 1882 - 5825460.tif|thumb|[[Alexander Bain (philosopher)|Alexander Bain]], ''James Mill. A biography'', 1882]]
+* [[s:An essay of the impolicy of a bounty on the exportation of grain|An essay of the impolicy of a bounty on the exportation of grain]], 1804.
+* "Lord Lauderdale on Public Wealth", 1804, ''Literary Journal'' Vol. IV, No. 1<ref name="Sowell2015">{{cite book|last=Sowell|first=Thomas|title=Say's Law: An Historical Analysis|url=https://books.google.com/books?id=7pl9BgAAQBAJ&pg=PA115|access-date=6 April 2018|date=8 March 2015|publisher=Princeton University Press|isbn=978-1400871223|page=115}}</ref>
+* [https://books.google.com/books/about/Commerce_Defended.html?id=Yqs4AQAAMAAJ ''Commerce Defended''], 1808.
+* "Thomas Smith on Money and Exchange", 1808, ''Edinburgh Review'' no. XXV, pp.&nbsp;35–68<ref name="HendersonDavis2012">{{cite book|last1=Henderson|first1=John P.|last2=Davis|first2=John B.|title=The Life and Economics of David Ricardo|url=https://books.google.com/books?id=o6TaBwAAQBAJ&pg=PA668|access-date=6 April 2018|date=6 December 2012|publisher=Springer Science & Business Media|isbn=978-1461561293|page=668}}</ref>
+* ''[[The History of British India]]'', 3 vols., 1817 (and many later editions)
+* [http://studymore.org.uk/xmilgov.htm "Government"], 1820, ''Encyclopædia Britannica''
+* [https://archive.org/details/ofpolitielements00millrich ''Elements of Political Economy''],  1821
+* "Liberty of the Press", 1825, ''Encyclopædia Britannica''
+* [https://books.google.com/books?id=Bm9jAAAAcAAJ ''Essays on Government, Jurisprudence, Liberty of the Press, Education, and Prisons and Prison Discipline''], 1823.
+* ''Analysis of the Phenomena of the Human Mind'', 2 vols., 1829.<ref>{{cite book |url=https://archive.org/details/analysisofphen01milluoft |title=Analysis of the Phenomena of the Human Mind |volume=1 |year=1829}} {{cite book |url=https://archive.org/details/analysisphenome00millgoog |title=Analysis of the Phenomena of the Human Mind |volume=2 |year=1829|publisher=New York, A. M. Kelley }}</ref> Revised edn, 2 vols, 1869.<ref>{{cite book |url=https://archive.org/details/analysisphenome01millgoog |title=Analysis of the Phenomena of the Human Mind |volume=1 |year=1869|publisher=Longmans, Green, Reader , and Dyer }} {{cite book |url=https://archive.org/details/analysisphenome03millgoog |title=Analysis of the Phenomena of the Human Mind |volume=2 |year=1869|publisher=New York, A. M. Kelley }}</ref>
+* ''Essay on the Ballot <ref>{{cite book | url=https://archive.org/details/onballot00milluoft | title=Essay on the Ballot | year=1830}}</ref> and Fragment on Mackintosh <ref>{{cite book | url=https://archive.org/details/fragmentonmackin00mill | title=A Fragment on Mackintosh | year=1835}}</ref>'', 1830.
+* "Whether Political Economy is Useful", 1836, ''London Review'', vol. II, pp.&nbsp;553–572.
+* [https://books.google.com/books/about/The_Principles_of_Toleration.html?id=etbe_oqUAKkC ''The Principles of Toleration''], 1837.
+
+==See also==
+* [[Capitalism]]
+* [[Free trade]]
+* [[James Tod]]
+* [[List of liberal theorists]]
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+* {{EB1911|wstitle=Mill, James |volume=19|pages=453–454}} Endnotes:
+** {{cite book|first=Leslie |last=Stephen |author-link=Sir Leslie Stephen |title=The English Utilitarians: James Mill|url=https://books.google.com/books?id=vx_kAAAAMAAJ|volume=ii |year= 1900|publisher=Duckworth & Co.}}
+** {{cite DNB |last=Stephen |first=Leslie |author-link=Sir Leslie Stephen |wstitle=Mill, James (1773-1836)  <!--NB dash not ndash on wikisource--> |display=Mill, James (1773–1836) |volume=37 |pages=382–388}}
+** {{cite book |last=Bain |first=Alexander |author-link=Alexander Bain (philosopher) |year=1882 |title=James Mill, A Biography |edition=1 |publisher=Logmans, Green & Co.|location=London  |url= https://archive.org/stream/jamesmillabiogr00baingoog#page/n9/mode/2up  }}
+** {{cite book |first=G.S. |last=Bower |title=Hartley and James Mill|url=https://archive.org/details/hartleyandjames00bowegoog|publisher=Putnam|year=1881}}
+** {{cite book |first=James |last=McCosh |author-link=James McCosh |title=Scottish Philosophy |year=1885}}
+** {{cite book |first=J.S. |last=Mill |author-link=John Stuart Mill|title=Autobiography |url=https://archive.org/details/autobiography01mill|publisher=Henry Holt|year=1873}}
+** {{cite book |first=Théodule-Armand |last=Ribot |author-link=Théodule-Armand Ribot |title=La Psychologie anglaise |orig-year=1870 |edition=Eng. trans. |year=1873}}
+** {{cite journal |first=John |last=Morley |author-link=John Morley |title=The Life of James Mill|url=https://books.google.com/books?id=U3fPAAAAMAAJ&pg=476|page=476|journal=Fortnightly Review |volume=xxxvii |year=1882}}
+** {{cite book |first=Graham |last=Wallas |author-link=Graham Wallas |title=The Life of Francis Place |url=https://archive.org/details/in.ernet.dli.2015.161387 |year=1898}}
+
+==Further reading==
+* {{cite journal|first=Alexander |last=Bain |author-link=Alexander Bain (philosopher) |date=January 1876 |url=http://fair-use.org/mind/1876/01/the-early-life-of-james-mill |title=The Early Life of James Mill |journal=[[Mind (journal)|Mind]] |volume=1 |number=1}}
+* {{cite book |chapter=Tod vs Mill: Clashing Perspectives on British Rule in India and Indian Civilization |first=Lloyd I. |last=Rudolph  |editor-first=Giles |editor-last=Tillotson |title=James Tod's Rajasthan: The Historian and His Collections |publisher=Radhika Sabavala for Marg Publications on behalf of the National Centre for the Performing Arts |location=Mumbai |year=2008 |isbn=978-8185026800 |url=https://books.google.com/books?id=U6DpAAAAMAAJ}}
+* {{Cite NIE|wstitle=Mill, James |short=x}}
+* {{Cite SBDEL|wstitle=Mill, James |short=x}}
+* {{cite DNB |last=Stephen |first=Leslie |wstitle=Milton, John (1608-1674)  <!--NB dash not ndash on wikisource--> |display=Milton, John (1608–1674) |volume=38 |page=32|short=x}}
+
+==External links==
+{{Wikisource author}}
+{{Wikiquote}}
+* {{Find a Grave |id= 16123430}}
+* {{Gutenberg author|id=48846}}
+* [http://utilitarian.net/jmill James Mill] {{Webarchive|url=https://web.archive.org/web/20050301010344/http://www.utilitarian.net/jmill/ |date=1 March 2005 }}
+* {{Librivox author |id=14733}}
+* [http://plato.stanford.edu/entries/james-mill/ Stanford Encyclopedia of Philosophy entry]
+* [https://web.archive.org/web/20121007025732/http://www.intellectualhistory.net/mill/ James Mill's common place books]
+* E-text of [http://www.gutenberg.org/ebooks/56441 ''Analysis of the Phenomena of the Human Mind''], as edited by J.S. Mill, with commentaries by himself and others.
+* {{cite web|title=James Mill|url=http://www.hetwebsite.net/het/profiles/jamesmill.htm|publisher=HET, The [[Institute for New Economic Thinking]]}}
+
+{{Classical economists}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mill, James}}
+[[Category:1773 births]]
+[[Category:1836 deaths]]
+[[Category:18th-century ministers of the Church of Scotland]]
+[[Category:18th-century Scottish Presbyterian ministers]]
+[[Category:19th-century British essayists]]
+[[Category:19th-century Scottish philosophers]]
+[[Category:19th-century Scottish historians]]
+[[Category:19th-century Scottish translators]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:British radicals]]
+[[Category:Classical economists]]
+[[Category:Committee members of the Society for the Diffusion of Useful Knowledge]]
+[[Category:Consequentialists]]
+[[Category:Historians of India]]
+[[Category:People from Angus, Scotland]]
+[[Category:People of the Scottish Enlightenment]]
+[[Category:Scottish atheists]]
+[[Category:Scottish economists]]
+[[Category:Scottish educators]]
+[[Category:Scottish essayists]]
+[[Category:Scottish Indologists]]
+[[Category:Scottish literary critics]]
+[[Category:Scottish magazine editors]]
+[[Category:Scottish political philosophers]]
+[[Category:Scottish political writers]]
+[[Category:Scottish radicals]]
+[[Category:Utilitarians]]

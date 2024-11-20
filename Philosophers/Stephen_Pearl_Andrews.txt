@@ -1,0 +1,100 @@
+{{short description|American anarchist (1812–1886)}}
+{{use American English|date=June 2024}}
+{{use mdy dates|date=June 2024}}
+{{Infobox person
+| name               = Stephen Pearl Andrews
+| image              = StephenPearlAndrews.jpg
+| birth_date         = {{birth date|1812|3|22}}
+| birth_place        = [[Templeton, Massachusetts]], US
+| death_date         = {{death date and age|1886|5|21|1812|3|22}}
+| death_place        = [[New York City]], US
+| occupation         = Activist, journalist, philosopher, writer
+| known_for          = [[American individualist anarchist]] and outspoken [[Abolitionism in the United States|abolitionist]]
+}}
+{{anarchism sidebar}}
+{{libertarian socialism sidebar}}
+
+'''Stephen Pearl Andrews''' (March 22, 1812 – May 21, 1886) was an American [[libertarian socialist]], [[individualist anarchist]], [[linguist]], [[political philosopher]], and outspoken [[Abolitionism in the United States|abolitionist]].<ref name=":0">{{Cite journal |last=Wish |first=Harvey |date=1941 |title=Stephen Pearl Andrews, American Pioneer Sociologist |url=https://www.jstor.org/stable/2571204 |journal=Social Forces |volume=19 |issue=4 |pages=477–482 |doi=10.2307/2571204 |issn=0037-7732}}</ref>
+
+== Life ==
+
+Andrews was born on March 22, 1812 in Templeton, Massachusetts.<ref name=":0" /><ref name=":1" /> His father, Elisha Andrews, was a Baptist clergyman and revivalist.<ref name=":0" /><ref name=":1" /> He graduated from the Classics department at Amherst College.<ref name=":2">{{Cite web |last=Association |first=Texas State Historical |title=Andrews, Stephen Pearl |url=https://www.tshaonline.org/handbook/entries/andrews-stephen-pearl |access-date=2024-08-26 |website=Texas State Historical Association |language=en}}</ref> He studied law and was admitted to the state bar in 1833.<ref name=":2" /> He moved to New Orleans where he became a wealthy lawyer and slaveowner.<ref name=":0" /> He was converted by abolitionism and became an abolitionist leader.<ref name=":0" />
+
+He moved to Houston, Texas in 1839.<ref name=":2" /> He was a prominent advocate for abolitionism in the Republic of Texas and an active member of the [[Liberty Party (United States, 1840)|Liberty Party]].<ref name=":0" /> Andrews was mobbed for his abolitionist rhetoric in Texas, prompting him to leave the state in 1843 for England.<ref name=":2" /> In England, he sought funds to buy slaves in the United States in order to free them.<ref name=":1" />
+
+By the end of the 1840s, Andrews began to focus his energies on utopian communities. Fellow [[Individualist anarchism|individualist anarchist]] [[Josiah Warren]] was responsible for Andrew's conversion to radical individualism and in 1851 they established [[Modern Times (community)|Modern Times]] in [[Brentwood, New York#History|Brentwood, New York]]. He was elected an Associate Fellow of the [[American Academy of Arts and Sciences]] in 1846.<ref name="AAAS">{{cite web|title=Book of Members, 1780–2010: Chapter A|url=http://www.amacad.org/publications/BookofMembers/ChapterA.pdf|publisher=American Academy of Arts and Sciences|access-date=April 18, 2011}}</ref> In 1857, Andrews established the Unitary Homes on East 14 St. and Stuyvesant St. in New York City.<ref>{{Cite web|url=https://timesmachine.nytimes.com/timesmachine/1859/07/07/issue.html|title=TimesMachine: Thursday July 7, 1859 - NYTimes.com|via=TimesMachine}}</ref>
+
+Andrews was a supporter of the [[Women's suffrage|woman suffrage movement]].<ref name=":2" />
+
+== Thought ==
+
+In the 1870s, Andrews promoted [[Joseph Rodes Buchanan]]'s [[Psychometry (paranormal)|psychometry]] besides his own universology predicting that [[A priori and a posteriori|a priori]] derived knowledge would supersede empirical science as exact science.<ref>[https://timesmachine.nytimes.com/timesmachine/1878/03/17/81722786.pdf "A discourse on Seven Sciences.; Cerebral Physiology, Cerebral Psychology, Sarcognomy, Psychometry, Pneumatology, Pathology, and Cerebral Pathology"]. ''[[The New York Times]]''.  March 17, 1878. Retrieved March 31, 2019.</ref> Andrews was also considered a leader in the religious movement of [[Spiritualism (movement)|spiritualism]].<ref name=":1">[https://query.nytimes.com/gst/abstract.html?res=9E04E2DD1738E533A25750C2A9639C94679FD7CF "Stephen Pearl Andrews.; Death of the Well Known Abolitionist, Philosopher, and Linguist"]. ''[[The New York Times]]''. May 23, 1886. Retrieved March 31, 2019.</ref> [[Anarcho-syndicalist]] [[Rudolf Rocker]] called Andrews a significant exponent of [[libertarian socialism]] in the United States.<ref>[[Rudolf Rocker|Rocker, Rudolf]] (1949). ''Pioneers of American Freedom''. New York: J. J. Little and Ives Co. pp. 85.</ref>
+
+Andrews' individualist anarchism is a form of [[Mutualism (economic theory)|economic mutualism]].<ref>Martin, James J. (1970). ''Men Against the State''. Colorado Springs: Ralph Myles Publisher. p. 44.</ref>
+
+==Personal life==
+In 1835, he married Mary Ann Gordon, with whom he had four children.<ref name=":2" /> He died at the residence of his son in New York City on May 21, 1886.<ref name=":1" />
+
+==Works==
+* ''The Phonographic Reader: A Complete Course of Inductive Reading Lessons in Phonography'' (1846), with Augustus Boyle
+* ''Cost the Limit of Price'' (1851)
+* ''The true Constitution of Government in the Sovereignty of the Individual'' (1851)<ref>{{cite web | url=https://discover.libraryhub.jisc.ac.uk/id/230864232 | title=The science of society | date=1888 }}</ref>
+* ''[https://archive.org/details/scienceofsociety00andrrich The Science of Society]'' (1851)
+* ''The Sovereignty of the Individual'' (1853)
+* ''Discoveries in Chinese or the Symbolism of the Primitive Characters'' (1854)
+* ''Principles of Nature, Original Physiocracy, the New Order of Government'' (1857)
+* ''The [[Pantarchy]]'' (1871)
+* ''[https://archive.org/details/primarysynopsiso00andrrich The Primary Synopsis of Universology and Alwato: The New Scientific Universal Language]'' (1871)
+* ''[https://archive.org/details/basicoutlineofun00andrrich The Basic Outline of Universology]'' (1872)
+* ''The Primary Grammar of Alwato'' (1877)
+* ''[https://archive.org/details/2916966.0001.001.umich.edu The Labor Dollar]'' (1881)
+* ''Elements of Universology'' (1881)
+* ''The New Civilization'' (1885)
+
+==Notes==
+{{reflist}}
+
+==Further reading==
+{{refbegin}}
+
+* {{cite book|title=The Pantarch: A Biography of Stephen Pearl Andrews|first=Madeleine|last=Stern|publisher=University of Texas Press|year=1968}}
+
+{{refend}}
+
+==External links==
+* {{Commonsinline}}
+* {{cite BDA1906 |wstitle= Andrews, Stephen Pearl |volume= 1 |pages= 121-122 |year=1906 |short=1}}
+
+{{Portal bar|Anarchism|Libertarianism|Politics|Socialism}}
+{{anarchism}}
+{{libertarianism}}
+{{libertarian socialism navbox}}
+{{socialism}}
+{{American socialism navbox}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Andrews, Stephen Pearl}}
+[[Category:1812 births]]
+[[Category:1886 deaths]]
+[[Category:19th-century American journalists]]
+[[Category:19th-century American male writers]]
+[[Category:19th-century American non-fiction writers]]
+[[Category:American abolitionists]]
+[[Category:American anarchists]]
+[[Category:American magazine editors]]
+[[Category:American male journalists]]
+[[Category:American male non-fiction writers]]
+[[Category:American political philosophers]]
+[[Category:American political writers]]
+[[Category:American spiritualists]]
+[[Category:Anarchist writers]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Free love advocates]]
+[[Category:Individualist anarchists]]
+[[Category:Libertarian socialists]]
+[[Category:Linguists from the United States]]
+[[Category:Mutualists]]
+[[Category:People from Templeton, Massachusetts]]
+[[Category:Philosophy writers]]
+[[Category:Writers from Massachusetts]]

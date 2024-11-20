@@ -1,0 +1,96 @@
+{{family name hatnote|[[Hayashi]]|lang=Japanese}}
+
+{{Infobox philosopher
+| name        = Hayashi Razan 
+| image       = File:Razan Hayashi.jpg
+| caption     = Hayashi Razan, 18th century portrait
+| birth_date  = 1583
+| birth_place = 
+| death_date  = March 7, 1657
+| death_place = Edo
+| occupation  = Historian, philosopher, political consultant, writer
+| children    = [[Hayashi Gahō]] (son)
+|main_interests=[[Japanese history]], [[Japanese literature|literature]]|region=[[Eastern philosophy]]
+* [[Japanese philosophy]]|influences={{flatlist|
+* [[Zhu Xi]]
+* [[Fujiwara Seika]]
+}}|era=[[Edo period]]|school_tradition=[[Japanese Confucianism]]|influenced={{flatlist|
+* [[Hayashi Gahō]]
+* [[Arai Hakuseki]]
+}}|notable_works=''[[Nihon Ōdai Ichiran]]''|family=[[Hayashi clan (Confucian scholars)|Hayashi]]|notable_ideas=[[Three Views of Japan]]}}
+{{nihongo|'''Hayashi Razan'''|林 羅山|extra=1583 – March 7, 1657}}, also known as Hayashi Dōshun,<ref>Ponsonby-Fane, Richard A. B. (1956). ''Kyoto: the Old Capital of Japan, 794–1869'', p. 418.</ref> was a Japanese historian, philosopher, political consultant, and writer, serving as a tutor and an advisor to the first four ''[[shōgun]]s'' of the [[Tokugawa shogunate|Tokugawa ''bakufu'']].  He is also attributed with first listing the [[Three Views of Japan]]. Razan was the founder of the [[Hayashi clan (Confucian scholars)|Hayashi clan]] of Confucian scholars.
+
+Razan was an influential scholar, teacher and administrator.  Together with his sons and grandsons, he is credited with establishing the official neo-Confucian doctrine of the Tokugawa shogunate.  Razan's emphasis on the values inherent in a static conservative perspective provided the intellectual underpinnings for the Edo bakufu. Razan also reinterpreted [[Shinto]], and thus created a foundation for the eventual development of Confucianised Shinto in the 20th century.
+
+The intellectual foundation of Razan's life's work was based on early studies with [[Fujiwara Seika]] (1561–1619), the first Japanese scholar who is known for a close study of Confucius and the Confucian commentators. This ''[[kuge]]'' noble had become a Buddhist priest; but Fujiwara's dissatisfaction with the philosophy and doctrines of Buddhism led him to a study of Confucianism.  In due course, Fujiwara drew other similarly motivated scholars to join him in studies which were greatly influenced by the work of Chinese Neo-Confucianist [[Zhu Xi]], a philosopher of the [[Song dynasty]].<ref>Ponsonby-Fane, R. (1956). ''Kyoto: the Old Capital of Japan, 794–1869'', p. 418.</ref>  Zhu Xi and Fujiwara emphasized the role of the individual as a functionary of a society which naturally settles into a certain [[hierarchy|hierarchical]] form. He separated people into four distinct classes: [[samurai]] (ruling class), farmers, artisans and merchants.
+
+==Academician==
+Razan developed a practical blending of [[Shinto]] and [[Confucian]] beliefs and practices. In particular, he argued that Shinto was a provisional and local form of Confucian ideas, enabling a Confucian interpretation of Shinto shrine rituals.<ref>{{cite book|last=Josephson |first=Jason |title=The Invention of Religion in Japan|publisher=University of Chicago Press|page=28|location = Chicago|year=2012|isbn=9780226412351 |url=https://books.google.com/books?id=gxzuzIszO60C}}</ref> This coherent construct of inter-related ideas lent themselves to a well-accepted program of samurai and bureaucrat educational, training and testing protocols.  In 1607, Hayashi was accepted as a political advisor to the second ''[[shōgun]]'', [[Tokugawa Hidetada]].
+
+Razan became the [[Rector (academia)|rector]] of Edo's Confucian Academy, the [[Shōhei-kō]] (afterwards known at the [[Yushima Seidō]]) which was built on land provided by the ''[[shōgun]]''. This institution stood at the apex of the country-wide educational and training system which was created and maintained by the Tokugawa shogunate. Razan had the honorific title ''[[Daigaku-no-kami]],'' which became hereditary in his family.  It also happened that the position as head of the Seidō became hereditary in the Hayashi family. ''Daigaku-no-kami'', in the context of the Tokugawa shogunate hierarchy, effectively translates as "Head of the State University.<ref>Ponsonby-Fane, p. 418.</ref>
+
+In the elevated context his father engendered, [[Hayashi Gahō]] (formerly Harukatsu), worked on editing a chronicle of Japanese emperors compiled in conformance with his father's principles. ''[[Nihon Ōdai Ichiran]]'' grew into a seven-volume text which was completed in 1650. Gahō himself was accepted as a noteworthy scholar in that period; but the Hayashi and the Shōhei-kō links to the work's circulation are part of the explanation for this work's 18th and 19th century popularity. Contemporary readers must have found some degree of usefulness in this summary drawn from historical records.
+
+The narrative of ''Nihon Ōdai Ichiran'' stops around 1600, most likely in deference to the sensibilities of the Tokugawa regime.  Gahō's text did not continue up through his present day; but rather, he terminated the chronicles just before the last pre-Tokugawa ruler.  This book was published in the mid-17th century and it was reissued in 1803, "perhaps because it was a necessary reference work for officials".<ref>Screech, ''Secret Memoirs of the Shoguns: Isaac Titsingh and Japan, 1779–1822''. p. 65.</ref>
+
+Razan's successor as the Tokugawa's chief scholar was his third son, Gahō.  After Razan's death, Gahō finished work his father had begun, including a number of other works designed to help readers learn from Japan's history. In 1670, the Hayashi family's scholarly reputation was burnished when Gahō published the 310 volumes of ''The Comprehensive History of Japan'' (本朝通鑑, ''Honchō-tsugan'').<ref>Brownlee, John. (1999). ''Political Thought in Japanese Historical Writing'', p. 120</ref>
+
+Razan argued that [[Emperor Jimmu]] and the Imperial line were ultimately descended from an offshoot Chinese royal family by [[Taibo|Wu Taibo]]. This opinion was considered dangerous to publish widely, and thus he argued it in a private work entitled ''Jimmu'' ''Tennō Ron'' (''Essay on Emperor Jimmu''). These unorthodox claims were supposedly opposed by [[Tokugawa Mitsukuni]], and as a result there were obstacles in being able to publish such ideas.<ref>{{Cite journal|last=Maitre|first=Cl. E.|date=1903|title=LA LITTÉRATURE HISTORIQUE DU JAPON: DES ORIGINES AUX ASHIKAGA|url=https://www.jstor.org/stable/43729146|journal=Bulletin de l'École française d'Extrême-Orient|volume=3|issue=4|pages=564–596|doi=10.3406/befeo.1903.1256 |jstor=43729146 |issn=0336-1519}}</ref>
+
+Razan's writings were compiled, edited and posthumously published by Hayashi Gahō and his younger brother, [[Hayashi Dokkōsai]] (formerly Morikatsu):
+* ''Hayashi Razan bunshū'' (''The Collected Works of Hayashi Razan''), reissued in 1918
+* ''Razan sensei isshū'' (''Master Razan's Poems''), reissued in 1921
+
+Razan's grandson, [[Hayashi Hōkō]] (formerly Nobuatsu) would head the Yushima Seidō and he would bear the inherited title ''Daigaku-no kami''. Hōkō's progeny would continue the work begun in the 18th century by the scholarly Hayashi patriarch.
+
+==Political influence==
+As a political theorist, Hayashi lived to witness his philosophical and pragmatic reasoning become a foundation for the dominant ideology of the ''[[bakufu]]''. The political dominance of Hayashi's ideas lasted until the end of the 18th century.  This evolution developed in part from Razan's equating samurai with the cultured governing class.  Razan helped to legitimize the role of the militaristic ''bakufu'' at the beginning of its existence.  His philosophy moreover encouraged the samurai class to cultivate themselves, a trend which became increasingly widespread over the course of his lifetime and after his death.  Razan's aphorism encapsulates this view:
+:::"No true learning without arms and no true arms without learning."<ref>Blomberg, Catherina. (1999). ''The Heart of the Warrior'', p. 158.</ref>
+Hayashi Razan and his family played a significant role is helping to crystallize the theoretical underpinnings of the Tokugawa regime.
+
+In January 1858, [[Hayashi Akira]], the hereditary ''Daigaku-no-kami'' descendant of Hayashi Razan, headed the bakufu delegation that sought advice from the emperor in deciding how to deal with newly assertive foreign powers.<ref>Cullen, L. M. (2003). ''A History of Japan, 1582–1941: Internal and External Worlds'',  p. 178 n11.</ref>  This was the first time the Emperor's counsel was actively sought since the establishment of the Tokugawa shogunate.  The most obvious consequence of this transitional overture was the increased numbers of messengers which were constantly streaming back and forth between Tokyo and Kyoto during the next decade. In the 19th century, this scholar-bureaucrat found himself at a crucial nexus of managing political change, moving arguably "by the book" through uncharted waters with Razan's well-settled theories as the only guide.<ref>Ponsonby-Fane, p. 324.</ref>
+
+== Legacy ==
+Razan's legacy has been memorialized and praised by some Japanese scholars for his relatively dispassionate attempt at understanding history for the time, leading some scholars to call him the "founder of [[Historical criticism|modern historical research]]" in Japan. His work was influential on [[Arai Hakuseki]], who is considered to have been even more dispassionate scholar.<ref>{{Cite journal|last=Brownlee|first=John S.|date=1988|title=The Jeweled Comb-Box. Motoori Norinaga's Tamakushige|url=https://www.jstor.org/stable/2384516|journal=Monumenta Nipponica|volume=43|issue=1|pages=35–44|doi=10.2307/2384516|jstor=2384516 |issn=0027-0741}}</ref>
+
+==Notes==
+{{reflist|2}}
+
+==See also==
+* [[Hayashi clan (Confucian scholars)]]
+
+==References==
+[[File:YushimaSeidoFlags8628.jpg|left|upright|thumb|Banners mark the entrance to the reconstructed ''[[Yushima Seidō]]'' (Tokyo).]]
+* Brownlee, John S. (1997) ''Japanese historians and the national myths, 1600–1945: The Age of the Gods and Emperor Jimmu''. Vancouver: [[University of British Columbia Press]]. {{ISBN|0-7748-0644-3}}  Tokyo: [[University of Tokyo Press]]. {{ISBN|4-13-027031-1}}
+*Brownlee, John S.  (1991). ''Political Thought in Japanese Historical Writing: From Kojiki (712) to Tokushi Yoron (1712)''. Waterloo, Ontario: Wilfrid Laurier University Press. {{ISBN|0-88920-997-9}}
+*Blomberg, Catherina. (1994). ''The Heart of the Warrior: Origins and Religious Background of the Samurai in Feudal Japan.'' London: [[RoutledgeCurzon]]. {{ISBN|1-873410-06-9}}
+* Cullen, L. M. (2003). ''A History of Japan, 1582–1941: Internal and External Worlds''. Cambridge: [[Cambridge University Press]]. {{ISBN|0-521-82155-X}} (cloth). {{ISBN|0-521-52918-2}} (paper)
+*[[Donald Keene|Keene]], Donald. (1999). ''[[Travelers of a Hundred Ages]]: The Japanese as Revealed through 1,000 Years of Diaries''. New York: [[Columbia University Press]]. {{ISBN|0-231-11437-0}}
+* Ponsonby-Fane, Richard A. B. (1956). ''Kyoto: The Old Capital of Japan, 794–1869''. Kyoto: The Ponsonby Memorial Society.
+* {{cite book|last=Josephson |first=Jason |title=The Invention of Religion in Japan|publisher=University of Chicago Press|location = Chicago|year=2012|isbn=9780226412351 |url=https://books.google.com/books?id=gxzuzIszO60C}}
+* [[Timon Screech|Screech]], Timon. (2006). ''Secret Memoirs of the Shoguns: Isaac Titsingh and Japan, 1779–1822.'' London: [[RoutledgeCurzon]]. {{ISBN|0-7007-1720-X}}
+* Yamashita, Samuel Hideo. "Yamasaki Ansai and Confucian School Relations, 1650–1675" in ''Early Modern Japan'', (Fall 2001).  Ann Arbor: University of Michigan.
+
+==External links==
+* [http://www.japanvisitor.com/index.php?cID=357&pID=1187#bridge Tokyo's ''Shōhei-kō'' (Yushima Sedō) today]
+* East Asia Institute, [[University of Cambridge]]: [https://web.archive.org/web/20070807114606/http://www.oriental.cam.ac.uk/jbib/edoint2.html Further reading/bibliography]
+
+{{s-start}}
+{{succession box | title=''Daigaku-no-kami''<br/> (Head of the state educational system)  | before= none | after=[[Hayashi Gahō]] | years= }}
+{{s-end}}
+
+{{Social and political philosophy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hayashi, Razan}}
+[[Category:1583 births]]
+[[Category:1657 deaths]]
+[[Category:17th-century Japanese historians]]
+[[Category:17th-century Japanese philosophers]]
+[[Category:Advisors to Tokugawa shoguns]]
+[[Category:Confucianism in Japan]]
+[[Category:Japanese Confucianists]]
+[[Category:Japanese writers of the Edo period]]
+[[Category:Neo-Confucian scholars]]
+[[Category:Political consultants]]

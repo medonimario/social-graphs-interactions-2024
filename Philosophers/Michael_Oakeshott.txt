@@ -1,0 +1,205 @@
+{{Short description|British philosopher (1901–1990)}}
+{{Use dmy dates|date=August 2021}}
+{{use British English|date=August 2012}}
+{{Infobox philosopher
+| region = [[Western philosophy]]
+* [[British philosophy]]
+| era = [[20th-century philosophy]]
+| image = Michael Oakeshott.jpg
+| caption = Oakeshott in the 1960s
+| birth_name  = Michael Joseph Oakeshott
+| birth_date  = {{birth date|1901|12|11|df=y}}
+| birth_place = [[Chelsfield]], [[London]], England
+| death_date  = {{death date and age|1990|12|19|1901|12|11|df=y}}
+| death_place = [[Acton, Dorset|Acton]], England
+| alma_mater  = [[Gonville and Caius College, Cambridge]]
+| school_tradition = {{unbulleted list
+ |[[British idealism]]<ref name=SEP>[https://plato.stanford.edu/entries/oakeshott/ Michael Oakeshott (Stanford Encyclopedia of Philosophy)]</ref>
+ |[[Liberal conservatism]]<ref>Mark Garnett (ed.), ''Conservative Moments: Reading Conservative Texts'', Bloomsbury Academic, 2018, [https://www.bloomsburycollections.com/book/conservative-moments-reading-conservative-texts/ch9-michael-oakeshott-on-being-conservative ch. 9].</ref>
+ }}
+| main_interests = {{unbulleted list
+ |[[History of philosophy]]
+ |[[Intellectual history]]
+ |[[History of political thought]]
+ |[[Philosophy of religion]]
+ |[[Philosophy of history]]
+ |[[Philosophy of politics]]
+ }}
+| notable_ideas = Adverbial conditions
+}}{{Conservatism UK|Intellectuals}}
+'''Michael Joseph Oakeshott''' [[Fellow of the British Academy|FBA]] ({{IPAc-en|ˈ|oʊ|k|ʃ|ɒ|t}}; 11 December 1901 – 19 December 1990) was an English philosopher and political theorist who wrote on the philosophies of [[philosophy of history|history]], [[philosophy of religion|religion]], [[aesthetics]], [[philosophy of education|education]], and [[philosophy of law|law]].<ref name=political_theory_journal>Fuller, T. (1991) 'The Work of Michael Oakeshott', ''Political Theory'', Vol. 19 No. 3.</ref>
+
+==Early life and education==
+Oakeshott was born in [[Chelsfield]], London, on 11 December 1901, the son of [[Joseph Francis Oakeshott]], a [[civil servant]] with the [[Inland Revenue]],<ref name="Franco p16">Paul Franco, Leslie Marsh, ''A Companion to Michael Oakeshott'', pp. 16</ref> and member of the [[Fabian Society]],<ref>{{cite web |url=http://www.aim25.ac.uk/cgi-bin/vcdf/detail?coll_id=8042&inst_id=1 |title=AIM25 collection description |website=www.aim25.ac.uk |url-status=dead |archive-url=https://web.archive.org/web/20170321081401/http://www.aim25.ac.uk/cgi-bin/vcdf/detail?coll_id=8042&inst_id=1 |archive-date=2017-03-21}}</ref> and Frances Maude, daughter of George Thistle Hellicar, a well-off [[Islington]] silk-merchant.<ref name="Franco p16"/> Though there is no evidence that he knew her, he was related by marriage to the women's rights activist [[Grace Oakeshott]],<ref>Radical Reformers and Respectable Rebels: How the two lives of Grace Oakeshott defined an era, Jocelyn Robson, Palgrave Macmillan, 2016, p. xvii</ref> and to the economist and social reformer [[Gilbert Slater]].<ref>Full of Hope and Fear: The Great War Letters of an Oxford Family, ed. Margaret Bonfiglioli and James Munson, Oxford University Press, 2014, pp. xxxiii-xxxiv</ref>
+
+Michael Oakeshott attended [[St George's School, Harpenden]], a new co-educational and 'progressive' boarding school from 1912 to 1920. He enjoyed his schooldays, and the Headmaster, the Rev. Cecil Grant, a disciple of [[Maria Montessori]], later became a friend.{{citation needed|date=October 2011}}  
+
+In 1920, Oakeshott matriculated with a Scholarship at [[Gonville and Caius College, Cambridge]], where he read history, taking the Political Science options in both parts of the [[Tripos]], the University of Cambridge's degree examinations. He graduated in 1923 with a first-class degree, and subsequently received an unexamined [[Master of Arts|M.A.]], and was elected a Fellow of Caius in 1925. 
+
+As a University of Cambridge student, he admired the [[British idealist]] philosophers [[J. M. E. McTaggart]] and [[John Grote]], and the medieval historian [[Zachary Nugent Brooke]]. He said that McTaggart's introductory lectures were the only formal philosophical training he ever received. The historian [[Herbert Butterfield]] was a contemporary, friend and fellow member of the Junior Historians society.{{citation needed|date=October 2011}}
+
+After graduation in 1923, Oakeshott pursued [[theology]] and [[German literature]] in a summer course at the universities of [[University of Marburg|Marburg]] and [[University of Tübingen|Tübingen]], and again in 1925. In between, he taught literature for a year as Senior English Master at [[King Edward VII School, Lytham|King Edward VII Grammar School, Lytham]], while simultaneously writing his fellowship dissertation, which he said was a 'dry run' for his first book, ''Experience and its Modes''.
+
+==Career==
+Oakeshott was dismayed by the political extremism that occurred in Europe during the 1930s, and his surviving lectures from this period reveal a dislike of [[Nazism]] and [[Marxism]].<ref>See M. Oakeshott, Review of H. Levy and others, ''Aspects of Dialectical Materialism'', in ''Cambridge Review'', 56 (1934–5), pp. 108–9</ref> He is said to have been the first at Cambridge to lecture on [[Marx]]. At the suggestion of [[Ernest Barker|Sir Ernest Barker]], who sought to see Oakeshott succeed to his own chair of political science at the [[University of Cambridge]], he produced an anthology, with commentary, ''The Social and Political Doctrines of Contemporary Europe'', published in 1939. For all its muddle and incoherence, as Oakeshott saw it, he found [[representative democracy]] the least unsatisfactory, in part because "the imposition of a universal plan of life on a society is at once stupid and immoral."
+
+===Second World War===
+Oakeshott joined the [[British Army]] in 1940, before being [[conscription in the United Kingdom|conscripted]] under the [[National Service (Armed Forces) Act 1939|National Service Act]]. He volunteered for the virtually suicidal [[Special Operations Executive]] (SOE), where the average life expectancy was about six weeks, and was interviewed by [[Hugh Trevor-Roper]], who felt that he was "too unmistakably English" to conduct covert operations on the Continent.<ref>{{cite web |last1=Gray |first1=John |title=Last of the Idealists |url=http://www.literaryreview.co.uk/gray_07_14.php |website=Literary Review |access-date=23 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140717092255/http://www.literaryreview.co.uk/gray_07_14.php |archive-date=17 July 2014}}</ref> 
+
+Oakeshott saw active service in Europe with the battlefield intelligence unit [[GHQ Liaison Regiment|Phantom]], a semi-freelance quasi-Signals organisation which also had connections with the [[Special Air Service]] (SAS). Though always at the front, the unit was seldom directly involved in any actual fighting. Oakeshott's military competence did not go unnoticed, and he ended the war as Adjutant of Phantom's 'B' Squadron and an acting [[Major (United Kingdom)|major]].
+
+===Postwar===
+In 1945, Oakeshott was demobilised and returned to the [[University of Cambridge]]. In 1949, he left Cambridge for [[Nuffield College, Oxford]], but after only two years, in 1951, he was appointed Professor of Political Science at the [[London School of Economics]] (LSE), succeeding the leftist [[Harold Laski]], an appointment noted by the popular press. Oakeshott was deeply unsympathetic to the student activism at LSE [[Protests of 1968|during the late 1960s]], and highly critical of what he saw as the authorities' insufficiently robust response. He retired from the LSE in 1969, but continued teaching and conducting seminars until 1980.
+
+In his retirement, he retreated to live quietly in a country cottage in [[Langton Matravers]] in [[Dorset]] with his third wife. He was twice divorced and had numerous affairs, many of them with wives of his students, colleagues and friends, and even with his son Simon's girlfriend.<ref>Paul Franco, Leslie Marsh, ''A Companion to Michael Oakeshott'', pp. 31</ref> He also had a son out of wedlock, whom he abandoned together with the mother when the child was two, and whom he did not meet again for nearly twenty years. Oakeshott's most famous lover was [[Iris Murdoch]].<ref>Paul Franco, ''Michael Oakeshott: An Introduction'', pp. 22</ref>
+
+Oakeshott lived long enough to experience increasing recognition, although he has become much more widely written about since his death. Oakeshott declined an offer to be made a [[Companion of Honour]], for which he was proposed by [[Margaret Thatcher]].<ref>{{cite web |url=http://www.michael-oakeshott-association.org/aboutoak_thatcher.html |title=A Letter from Margaret Thatcher |website=www.michael-oakeshott-association.org |access-date=2016-12-04 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20080526060822/http://www.michael-oakeshott-association.org/aboutoak_thatcher.html |archive-date=26 May 2008}}</ref>
+
+== Philosophy ==
+
+===Early works===
+{{Expand section|date=January 2009}}
+Oakeshott's early work, some of which has been published posthumously as ''What is History? and Other Essays'' (2004) and ''The Concept of a Philosophical Jurisprudence'' (2007), shows that he was more interested in the philosophical problems that derived from his historical studies than he was in the history, even though he was officially a historian. Some of his very early essays are on religion (of a Christian 'modernist' kind), though after his first marital break-up ({{circa|1934}}) he published no more on the topic except for a couple of pages in his ''magnum opus'', titled ''On Human Conduct''. However, his posthumously published and voluminous ''Notebooks'' (1919-) show a lifelong preoccupation with religion and questions of mortality. In his youth he had considered taking Holy Orders, but later inclined towards a non-specific Romantic mysticism.
+
+===Philosophy and modes of experience===
+Oakeshott published his first book in 1933, ''Experience and its Modes'', when he was thirty-one. He acknowledged the influence of [[Georg Wilhelm Friedrich Hegel]] and [[F. H. Bradley]];<ref>Oakeshott, ''Experience and Its Modes'', p. 6</ref> commentators also noticed resemblances between this work and the ideas of thinkers such as [[R. G. Collingwood]]<ref>Paul Franco, ''Michael Oakeshott: An Introduction'', pp. 45–46</ref> and [[Georg Simmel]].<ref>Efraim Podoksik, 'Ethics and the Conduct of Life in the old Georg Simmel and the young Michael Oakeshott', ''Simmel Studies'' 17(2), 2007, pp. 197–221</ref>
+
+The book argued that our experience is usually modal, in the sense that we almost always have a governing perspective on the world, be it practical or theoretical. One may take various theoretical approaches to the world: [[natural science]], history and practice, for example, are quite separate, immiscible modes of experience. It is a mistake, he declared, to treat history on the model of the sciences, or to read into it one's current practical concerns.
+
+Philosophy, however, is not a mode. At this stage of his career Oakeshott understood philosophy as the world seen, in Spinoza's phrase, ''{{lang|la|[[sub specie aeternitatis]]}}'', literally "under the aspect of eternity", free from presuppositions, whereas science and history and the practical mode rely on certain assumptions. Later (there is disagreement about exactly when) Oakeshott adopted a pluralistic view of the various modes of experience, with philosophy just one voice among others, though it retained its self-critical character.
+
+According to Oakeshott, the dominating principles of scientific and historical thought are quantity (the world ''{{lang|la|sub specie quantitatis}}'') and pastness (the world ''{{lang|la|sub specie praeteritorum}}'') respectively. Oakeshott distinguished the academic perspective on the past from the practical, in which the past is seen in terms of its relevance to our present and future. His insistence on the autonomy of history places him close to [[R. G. Collingwood|Collingwood]], who also argued for the autonomy of historical knowledge.
+
+The practical world view (the world ''{{lang|la|sub specie voluntatis}}'') presupposes the ideas of will and value. It is only in terms of these that practical action, for example in politics, economics, and ethics, makes sense. Because all action is conditioned by presuppositions, Oakeshott saw any attempt to change the world as reliant upon a scale of values, which themselves presuppose a context in which ''this'' is preferable to ''that''. Even the conservative disposition to maintain the ''status quo'' (so long as the latter is tolerable) relies upon managing inevitable change, a point he later elaborated in his essay "On Being Conservative".
+
+===Post-war essays===
+{{conservatism sidebar|philosophers}}
+During this period, Oakeshott published what became his best known work during his lifetime, the collection entitled ''Rationalism in Politics and Other Essays'' (1962), and notable for its elegance of style. Some of his near-polemics against the direction that Britain was taking, in particular towards [[socialism]], gained Oakeshott a reputation as a traditionalist conservative, sceptical about [[rationalism]] and rigid [[ideology|ideologies]]. [[Bernard Crick]] described him as a "lonely [[Nihilism|nihilist]]".<ref>Bernard Crick, 'The World of Michael Oakeshott: Or the Lonely Nihilist', ''Encounter'', 20 (June 1963), pp. 65–74</ref>
+
+Oakeshott's opposition to political utopianism is summed up in his analogy (possibly borrowed from a pamphlet by the 17th-century statesman [[George Savile, 1st Marquess of Halifax]], ''The Character of a Trimmer'') of a ship of state that has "neither starting-place nor appointed destination...[and where] the enterprise is to keep afloat on an even keel".<ref>Oakeshott, Michael. ''Rationalism in Politics''. London: Methuen, 1962: p. 127; [https://books.google.com/books?id=2YbevnCXAhgC&pg=PA120]</ref> He was a severe critic of [[E. H. Carr]], the Cambridge historian of Soviet Russia, claiming that Carr was fatally uncritical of the [[Bolshevik]] regime and took some of its propaganda at face value.<ref>M. Oakeshott, Review of E. H. Carr, ''The New Society'', in ''Times Literary Supplement'' (12 October 1951); 'Mr Carr's First Volume', ''Cambridge Journal'', vol. 4 (1950-1), pp. 344-52</ref>
+
+===''On Human Conduct'' and Oakeshott's political theory===
+In his essay "On Being Conservative" (1956)<ref>''Rationalism in Politics and Other Essays'' (London: Methuen,1962), pp. 168–96</ref> Oakeshott characterised conservatism as a disposition rather than a political stance: "To be conservative ... is to prefer the familiar to the unknown, to prefer the tried to the untried, fact to mystery, the actual to the possible, the limited to the unbounded, the near to the distant, the sufficient to the superabundant, the convenient to the perfect, present laughter to utopian bliss."
+
+Oakeshott's political philosophy, as advanced in ''On Human Conduct'' (1975), is free of any recognisable [[political party|party politics]]. The book's first part ("On the Theoretical Understanding of Human Conduct") develops a [[theory]] of human action as the exercise of intelligent [[agency (philosophy)|agency]] in activities such as wanting and choosing, the second ("On the Civil Condition") discusses the formal conditions of association appropriate to such intelligent agents, described as "civil" or legal association, and the third ("On the Character of a Modern European State") examines how far this understanding of human association has affected politics and political ideas in post-Renaissance [[European history]].
+
+Oakeshott suggests that there had been two major modes or understandings of political organization. In the first, which he calls "enterprise association" (or ''{{lang|la|universitas}}''), the state is (illegitimately) understood as imposing some universal purpose ([[Profit (economics)|profit]], [[salvation]], progress, racial domination) on its subjects. (As its name indicates, enterprise association is perfectly appropriate to the management of ''enterprises''; however, except in emergencies such as war, where all resources must be commandeered into the pursuit of victory, the state is not an enterprise, properly so called.) By contrast, "civil association" (or ''{{lang|la|societas}}'') is primarily a legal relationship in which laws impose obligatory conditions of action but do not require the associates to choose one action rather than another. (Compare [[Robert Nozick]] on 'side-constraints'.)
+
+The complex, technical and often rebarbative style of ''On Human Conduct'' found few readers, and its initial reception was mostly one of bafflement.  Oakeshott, who rarely responded to critics, replied sardonically in ''Political Theory'' to some of the contributions made in a symposium on the book in the same journal.<ref>M. Oakeshott, "On Misunderstanding Human Conduct: A Reply to My Critics," ''Political Theory'', 4 (1976), pp. 353–67.</ref>
+
+In his posthumously published ''The Politics of Faith and the Politics of Scepticism'' Oakeshott describes enterprise associations and civil associations in different terms. In politics, an enterprise association is based on a fundamental faith in human ability to ascertain and grasp some universal good (leading to the Politics of Faith), and civil association is based on a fundamental scepticism about human ability to either ascertain or achieve this good (leading to the Politics of Scepticism). Oakeshott considers power (especially technological power) as a necessary prerequisite for the Politics of Faith, because it allows people to believe that they can achieve something great and to implement the policies necessary to achieve their goal. The Politics of Scepticism, on the other hand, rests on the idea that government should concern itself with preventing bad things from happening, rather than enabling ambiguously good events. Oakeshott was presumably dissatisfied with this book, which, like much of what he wrote, he never published. It was evidently written well before ''On Human Conduct''.
+
+In the latter book Oakeshott employs the analogy of the [[adverb]] to describe the kind of restraint that law involves. Laws prescribe "adverbial conditions": they condition our actions, but they do not determine their substantive chosen ends. For example, the law against murder is not a law against killing as such, but only a law against killing "murderously". Or, to choose a more trivial example, the law does not dictate that I have a car, but if I do, I must drive it on the same side of the road as everybody else. This contrasts with the rules of enterprise associations, in which the actions required by the management are made compulsory for all.
+
+===Philosophy of history===
+In the final work that Oakeshott published in his lifetime, ''On History'' (1983), he returned to the idea that history is a distinct mode of experience, but this time building on the theory of action developed in ''On Human Conduct''. Much of ''On History'' had emerged from Oakeshott's post-retirement graduate seminars at LSE, and had been written at the same time as ''On Human Conduct'', in the early 1970s.
+
+During the mid-1960s Oakeshott declared an admiration for [[Wilhelm Dilthey]], one of the pioneers of [[hermeneutics]]. ''On History'' can be interpreted as an essentially [[neo-Kantian]] enterprise of working out the conditions of the possibility of historical knowledge, work that Dilthey had begun.
+
+The first three essays set out the distinction between the present of historical experience and the present of practical experience, as well as the concepts of historical situation, historical event, and what is meant by change in history. ''On History'' includes an essay on [[jurisprudence]] ("The Rule of Law"). It also includes a retelling of ''[[The Tower of Babel]]'' in a modern setting<ref>Reprinted as {{cite book |last=Oakeshott |first=Michael |chapter=The Tower of Babel |editor-last=Clarke |editor-first=S.G. |editor-last2=Simpson |editor-first2=E. |title=Anti-Theory in Ethics and Moral Conservatism |publisher=State University of New York Press |series=SUNY Series in Ethical Theory |year=1989 |isbn=978-0-88706-912-3 |chapter-url=https://books.google.com/books?id=xnOMf9Yr0kgC&pg=PA185 |access-date=25 May 2018 |page=185ff}}</ref> in which Oakeshott expresses disdain for human willingness to sacrifice individuality, culture, and quality of life for grand collective projects. He attributes this behaviour to fascination with novelty, persistent dissatisfaction, greed, and lack of self-reflection.<ref name="Corey 2006 p. 130">{{cite book |last=Corey |first=E.C. |title=Michael Oakeshott on Religion, Aesthetics, and Politics |publisher=[[University of Missouri Press]] |series=Eric Voegelin Institute series in political philosophy |year=2006 |isbn=978-0-8262-6517-3 |url=https://archive.org/details/michaeloakeshott00core_0 |url-access=registration |page=[https://archive.org/details/michaeloakeshott00core_0/page/129 129]-131}}</ref>
+
+===Other works===
+Oakeshott's other works included a reader, already mentioned, on ''The Social and Political Doctrines of Contemporary Europe''. It consisted of selected texts illustrating the main doctrines of [[liberalism]], [[Nazism|national socialism]], [[fascism]], [[communism]], and [[Roman Catholicism]] (1939). He edited [[Thomas Hobbes]]'s ''[[Leviathan (Hobbes book)|Leviathan]]'' (1946), with an introduction that has been recognised as a significant contribution to the literature by some later scholars. Several of Oakeshott's writings on Hobbes were collected and published in 1975 as ''Hobbes on Civil Association''.
+
+With his Cambridge colleague [[Guy Thompson Griffith]], Oakeshott wrote ''A Guide to the Classics, or How to Pick The Derby Winner'' (1936), a guide to the principles of successful betting on horse-racing. This was his only published non-academic work.
+
+Oakeshott was the author of well over 150 essays and reviews, most of which have now been republished.
+
+Just before he died Oakeshott approved two edited collections of his works, ''The Voice of Liberal Learning'' (1989), a collection of his essays on education, and a second, revised and expanded edition of ''Rationalism in Politics'' (1991). Posthumous collections of his writings include ''Morality and Politics in Modern Europe'' (1993), a lecture series he gave at [[Harvard]] in 1958; ''Religion, Politics, and the Moral Life'' (1993), essays mostly from his early and middle periods; and ''The Politics of Faith and the Politics of Scepticism'' (1996), an already-mentioned manuscript from the 1950s contemporary with much of ''Rationalism in Politics'' but written in a more considered tone.
+
+The bulk of his papers are now in the Oakeshott Archive at the [[London School of Economics]]. Further volumes of posthumous writings are in preparation, as is a biography, and a series of monographs devoted to his work were published during the first decade of the 21st century, and continue to be produced.
+
+== Bibliography ==
+* 1933. ''Experience and Its Modes''. [[Cambridge University Press]]
+* 1936. ''A Guide to the Classics, or, How to Pick the Derby Winner''. With G.T. Griffith. London: Faber and Faber
+* 1939. ''The Social and Political Doctrines of Contemporary Europe''. Cambridge: Cambridge University Press
+* 1941. ''The Social and Political Doctrines of Contemporary Europe'', 2nd edition. Cambridge: Cambridge University Press
+* 1942. ''The Social and Political Doctrines of Contemporary Europe'' with five additional prefaces by F.A. Ogg. Cambridge: Cambridge University Press
+* 1947. ''A New Guide to the Derby: How to Pick the Winner''. With G.T. Griffith. London: Faber and Faber
+* 1955. ''La Idea de Gobierno en la Europa Moderna''. Madrid: Ateneo
+* 1959. ''The voice of poetry in the conversation of mankind: an essay''. Cambridge: Bowes & Bowes
+* 1962. ''Rationalism in Politics and Other Essays''. London: Methuen (Expanded edition – 1991, by Liberty Fund)
+* 1966. ''Rationalismus in der Politik''. (trans. K. Streifthau) Neuwied und Berlin: Luchterhard
+* 1975. ''On Human Conduct''. Oxford: [[Oxford University Press]]
+* 1975. ''Hobbes on Civil Association''. Oxford: Basil Blackwell
+* 1983. ''On History and Other Essays''. Basil Blackwell
+* 1985. ''La Condotta Umana''. Bologna: Società Editrice il Mulino
+* 1989. ''The Voice of Liberal Learning''. New Haven and London: [[Yale University Press]]
+
+===Posthumous===
+* 1991. ''Rationalism in Politics and Other Essays''. Indianapolis: Liberty Press
+* 1993. ''Morality and Politics in Modern Europe''. New Haven: Yale University Press
+* 1993. ''Religion, Politics, and the Moral Life''. New Haven: Yale University Press
+* 1996. ''The Politics of Faith and the Politics of Skepticism''. New Haven: Yale University Press
+* 2000. ''Zuversicht und Skepsis: Zwei Prinzipien neuzeitlicher Politik''. (trans. C. Goldmann). Berlin: Fest
+* 2004. ''What Is History? And Other Essays''. Thorverton: Imprint Academic
+* 2006. ''Lectures in the History of Political Thought''. Thorverton: Imprint Academic
+* 2007. ''The Concept of a Philosophical Jurisprudence: Essays and Reviews 1926–51''. Thorverton: Imprint Academic
+* 2008. ''The Vocabulary of a Modern European State: Essays and Reviews 1952–88''. Thorverton: Imprint Academic
+* 2010. ''Early Political Writings 1925–30''. Thorverton: Imprint Academic
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+* Corey Abel & Timothy Fuller, eds. ''The Intellectual Legacy of Michael Oakeshott'' (Imprint Academic, 2005, {{ISBN|1-84540-009-7}})
+* Corey Abel, ed, ''The Meanings of Michael Oakeshott's Conservatism'' (Imprint Academic, 2010, {{ISBN|978-1845402181}})
+* {{cite book |author=Gene Callahan |title=Oakeshott on Rome and America |year=2012 |publisher=Exeter: Imprint Academic |location=Charlottesville, VA |isbn=978-1845403133 |pages=227 |oclc= 800863300}}
+* Wendell John Coats, Jr., ''Michael Oakeshott as a Philosopher of the Creative and Other Essays'' (Imprint Academic, 2019, {{ISBN|978-1845409937}})
+* Wendell John Coats, Jr. & Chor-Yung Cheung, ''The Poetic Character of Human Activity: Collected Essays on the Thought of Michael Oakeshott'' (Lexington Books, 2012, {{ISBN|978-0739171615}})
+* Elizabeth Campbell Corey, ''Michael Oakeshott on Religion, Aesthetics, and Politics'' ([[University of Missouri Press]], 2006, {{ISBN|978-0826216403}})
+* [[Paul Franco]], ''Michael Oakeshott: An Introduction'' (Yale, 2004, {{ISBN|0-300-10404-9}})
+* Paul Franco & Leslie Marsh, eds, ''[http://www.psupress.org/books/titles/978-0-271-05407-0.html A Companion to Michael Oakeshott]'' (Penn State University Press, 2012) {{ISBN|978-0271054070}}. {{OCLC|793497138}}
+* Robert Grant, ''Oakeshott'' (The Claridge Press, 1990).
+*[[W. H. Greenleaf]], ''Oakeshott's Philosophical Politics'' (Longmans, 1966).
+* Alexandre Guilherme and W. John Morgan, 'Michael Oakeshott (1901-1990)-dialogue as conversation'. Chapter 8 in ''Philosophy, Dialogue, and Education: Nine modern European philosophers'', Routledge, London and New York, pp.&nbsp;127–139. {{ISBN|978-1-138-83149-0}}.
+* Till Kinzel, ''Michael Oakeshott. Philosoph der Politik (Perspektiven, 9)'' (Antaios, 2007, {{ISBN|978-3935063098}})
+* [[Terry Nardin]], ''[http://www.psupress.psu.edu/books/titles/0-271-02156-X.html The Philosophy of Michael Oakeshott]'' (Penn State, 2001, {{ISBN|0-271-02156-X}})
+* Efraim Podoksik, ''[http://www.imprint.co.uk/idealists/jcsmainframe.html#podoksik In Defence of Modernity: Vision and Philosophy in Michael Oakeshott]'' (Imprint Academic, 2003, {{ISBN|0-907845-66-5}})
+* Efraim Podoksik, ed, ''The Cambridge Companion to Oakeshott'' ([[Cambridge University Press]], 2012) {{ISBN|978-0521764674}}. {{OCLC|770694299}}
+* [[Andrew Sullivan]], ''[http://www.imprint.co.uk/idealists/jcsmainframe.html#oakeshott Intimations Pursued: The Voice of Practice in the Conversation of Michael Oakeshott]'' (Imprint Academic, 2007)
+
+==External links==
+{{Commons}}
+{{Wikiquote}}
+* [https://web.archive.org/web/20080526060822/http://www.michael-oakeshott-association.org/ Michael Oakeshott Association]
+* [https://web.archive.org/web/20080514211157/http://www.michael-oakeshott-association.org/bibliography.htm The Michael Oakeshott Bibliography]
+* Michael Oakeshott, [https://web.archive.org/web/20041205054654/http://www.mugu.com/cgi-bin/Upstream/oakeshott-rationalism-politics "Rationalism in Politics"]. ''Cambridge Journal,'' Volume I, 1947 (broken link – go through your State or Provincial library's subscription service)
+* [http://archives.lse.ac.uk/TreeBrowse.aspx?src=CalmView.Catalog&field=RefNo&key=OAKESHOTT Catalogue of the Oakeshott papers] at the [https://web.archive.org/web/20070618035533/http://www.lse.ac.uk/library/archive/Default.htm Archives Division] of the [[London School of Economics]].
+* {{Internet Archive author |sname= Michael Joseph Oakeshott}}
+
+{{social and political philosophy}}
+{{Political philosophy}}
+{{conservatism footer}}
+{{authority control}}
+
+{{DEFAULTSORT:Oakeshott, Michael}}
+[[Category:1901 births]]
+[[Category:1990 deaths]]
+[[Category:20th-century British philosophers]]
+[[Category:20th-century British essayists]]
+[[Category:20th-century English historians]]
+[[Category:Academics of the London School of Economics]]
+[[Category:Alumni of Gonville and Caius College, Cambridge]]
+[[Category:Conservatism]]
+[[Category:Critics of Marxism]]
+[[Category:English essayists]]
+[[Category:English male non-fiction writers]]
+[[Category:English political philosophers]]
+[[Category:Fellows of Nuffield College, Oxford]]
+[[Category:Fellows of the British Academy]]
+[[Category:Historians of political thought]]
+[[Category:Hobbes scholars]]
+[[Category:Idealists]]
+[[Category:British lecturers]]
+[[Category:Liberal conservatism]]
+[[Category:People educated at St George's School, Harpenden]]
+[[Category:People from Bromley]]
+[[Category:British philosophers of art]]
+[[Category:British philosophers of culture]]
+[[Category:British philosophers of education]]
+[[Category:Philosophers of history]]
+[[Category:Philosophers of law]]
+[[Category:British philosophers of religion]]
+[[Category:British philosophy academics]]
+[[Category:British Army personnel of World War II]]

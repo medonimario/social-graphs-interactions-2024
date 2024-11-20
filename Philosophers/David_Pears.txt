@@ -1,0 +1,39 @@
+{{Short description|British philosopher (1921–2009)}}
+{{for|the rugby union player|David Pears (rugby union)}}
+{{Use dmy dates|date=April 2022}}
+__NOTOC__
+'''David Francis Pears''', [[Fellow of the British Academy|FBA]] (8 August 1921 – 1 July 2009) was a British [[philosopher]] renowned for his work on [[Ludwig Wittgenstein]].<ref>{{cite web|url=https://www.theguardian.com/world/2009/jul/03/david-pears-obituary|title=Obituary: David Pears|first=Jane|last=O'Grady|date=2 July 2009|website=The Guardian}}</ref><ref>{{cite web|url=https://www.independent.co.uk/news/obituaries/david-pears-philosopher-renowned-for-his-work-on-wittgenstein-1737961.html%3C|title=David Pears: Philosopher renowned for his work on Wittgenstein|last=|first=|date=9 July 2009|website=The Independent|publisher=|access-date=}}</ref>
+
+An Old Boy of [[Westminster School]],<ref>''[https://web.archive.org/web/20100524114535/http://www.timesonline.co.uk/tol/comment/obituaries/ David Pears: philosopher],'' (obituary) ''[[The Times]],'' 3 July 2009, Archived from [https://web.archive.org/web/20100524114535/http://www.timesonline.co.uk/tol/comment/obituaries/article6625699.ece the original] by [[Wayback Machine]]</ref> he was in the [[Royal Artillery]] during [[World War II]], and was seriously injured in a practice gas attack. After leaving the army he studied classics at [[Balliol College]], [[Oxford]], and was then for many years a Student (Fellow) of [[Christ Church, Oxford]].
+
+==Bibliography==
+* ''[[iarchive:ludwigwittgenste0000pear|Ludwig Wittgenstein]].'' Viking Press 1970.
+* ''[[iarchive:trent 0116301451401|Motivated Irrationality.]]'' Oxford: Clarendon Press 1984.
+* ''The False Prison: A Study of the Development of Wittgenstein's Philosophy.'' 2 vols. Oxford: Oxford University Press 1987/1988.
+* ''Hume's System: An Examination of the First Book of His Treatise.'' Oxford: Oxford University Press 1991.
+* ''Paradox and Platitude in Wittgenstein's Philosophy.'' Oxford: Oxford University Press 2006.
+
+==References==
+{{reflist}}
+
+==Further reading==
+* [[David Charles (philosopher)|David Charles]] and William Child (Eds.). ''Wittgensteinian Themes: Essays in Honour of David Pears.'' Oxford: Oxford University Press 2002.
+
+== External links ==
+{{Wikiquote}}
+*[https://web.archive.org/web/20210311160846/https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-102104 "Pears, David Francis (1921–2009), philosopher"]. ''[[Oxford Dictionary of National Biography]]''. (Archived by [[Wayback Machine]]).
+*"[https://www.britac.ac.uk/sites/default/files/12%20Pears.pdf David Francis Pears 1921–2009"] - [[British Academy]] Memoir of Pears by [[Christopher Peacocke]], FBA.
+*[https://www.youtube.com/watch?v=zJHIwnr3UlI "The Idea of Freedom"] (1972)  A philosophical conversation between [[Iris Murdoch]] and David Pears on ethics, freedom, determinism, and [[Sigmund Freud|Freud]], from the ''[[Logic Lane (films)|Logic Lane]]'' series of educational films by Michael Chanan.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pears, David}}
+[[Category:British philosophers]]
+[[Category:1921 births]]
+[[Category:2009 deaths]]
+[[Category:Alumni of Balliol College, Oxford]]
+[[Category:British Army personnel of World War II]]
+[[Category:Fellows of Christ Church, Oxford]]
+[[Category:People educated at Westminster School, London]]
+[[Category:Royal Artillery officers]]
+[[Category:Wittgensteinian philosophers]]

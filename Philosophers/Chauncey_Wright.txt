@@ -1,0 +1,60 @@
+{{short description|American philosopher and mathematician}}
+[[File:Chauncey Wright.jpg|thumb|200px|Chauncey Wright, c.&nbsp;1870]]
+'''Chauncey Wright''' (September 10, 1830 – September 12, 1875) was an American [[philosopher]] and [[mathematician]], who was an influential early defender of [[Darwinism]] and an important influence on American [[pragmatists]] such as [[Charles Sanders Peirce]] and [[William James]].
+
+==Biography==
+Wright was born in [[Northampton, Massachusetts]], the son of a merchant and a pillar of the local [[Unitarianism|Unitarian church]].{{sfn|Madden|1963|p=3}} With financial help from a benefactor, Wright attended Harvard, where his reading of [[Ralph Waldo Emerson]] led him to abandon his youthful Unitarianism. In 1852 he graduated from [[Harvard University|Harvard]] and became a computer to the ''[[Nautical Almanac]]''. In college, he was mainly interested in science and mathematics. In the 1850s, however, he began reading philosophers such as [[Francis Bacon]], [[John Stuart Mill]], and [[Sir William Hamilton, 9th Baronet|William Hamilton]], and he became a frequent contributor to the ''[[North American Review]]'' and ''[[The Nation]]'', becoming a well-known defender of Darwinism and a critic of the English philosopher and social theorist [[Herbert Spencer]].
+
+In 1870-71 he lectured on [[psychology]] at Harvard. Although he was best known to the reading public as a defender of Darwinism, he was an eclectic free-lancer in thought. Among his essays may be mentioned "The Evolution of Self-Consciousness" (1873) and two articles on evolution published in the early 1870s. Of these, the former endeavors to explain the most elaborate psychical activities of men as developments of elementary forms of conscious processes in the animal kingdom as a whole; the latter is a defense of the theory of natural selection against the attacks of [[George Jackson Mivart|St George Mivart]] and [[Alfred Russel Wallace]]. From 1863 to 1870 he was secretary and recorder to the [[American Academy of Arts and Sciences]], and in the last year of his life he lectured on mathematical physics at Harvard.{{sfn|Chisholm|1911}} He never married and was subject to periodic bouts of depression and alcoholism.{{sfn|Madden|1963|p=14}} He died of a stroke just after his forty-fifth birthday.{{sfn|Madden|1963|p=29}} Following his death, his close friend [[Charles Eliot Norton]] spoke of his great devotion to truth and his eagerness to hear criticisms of his own views. "To argue with him," Norton wrote, "was a moral no less than an intellectual discipline."{{sfn|Madden|1963|p=30}}
+
+In 1872, Wright helped found [[The Metaphysical Club]] with other Harvard intellectuals such as [[Charles Sanders Peirce]], [[William James]] and [[Oliver Wendell Holmes Jr.]] His views on Darwinism played a significant role in shaping the ideas of the other members of the club.<ref>{{harvnb|De Groot|2015}}, [https://plato.stanford.edu/archives/spr2015/entries/wright/notes.html#2 note 2]</ref>
+
+Religiously, Wright was an agnostic, arguing that we should suspend judgment on the existence of God because there is no firm evidence either way.{{sfn|Madden|1963|p=31}} William James's famous will-to-believe argument was partly aimed at Wright's brand of agnosticism.{{sfn|Madden|1963|p=48}}  In ethics, he embraced [[utilitarianism]], agreeing with [[John Stuart Mill]] that pleasures differ in quality as well as quantity. He was a staunch critic of [[Herbert Spencer]]'s attempt to extend Darwinism into a law of cosmic and social progress. Like Mill and [[Auguste Comte]], Wright embraced a positivistic approach to science that rejects the possibility (or even meaningfulness) of metaphysics.{{sfn|Madden|1963|p=91}} His idea that scientific principles are "working hypotheses" influenced [[John Dewey]] and other later pragmatists. Wright's thesis that science is metaphysically neutral (being uncommitted to [[naturalism (philosophy)|naturalism]], [[idealism]], or any other general philosophical worldview or [[ontology]]) is seen by some as Wright's central contribution to philosophy.{{sfn|Madden|1963|p=92}}
+
+His essays were collected and published, with a biographical sketch, by [[Charles Eliot Norton]] in 1877, and his ''Letters'' were edited and privately printed at [[Cambridge, Massachusetts]], in 1878 by [[James Bradley Thayer]].{{sfn|Chisholm|1911}}
+
+==Publications==
+* By Wright 
+**(1857) "The Winds and the Weather" (review of books on physical geography and climatology, accompanied by some philosophical observations), ''Proceedings of the British Association for the Advancement of Science''. [http://www.cspeirce.com/menu/library/aboutcsp/wright/weather.htm Eprint]. Word DOC [http://www.cspeirce.com/menu/library/aboutcsp/wright/weather.doc Eprint].
+**(1871) [http://darwin-online.org.uk/converted/Ancillary/1871_Wright_A576.html ''Darwinism: Being an Examination of Mr. St. George Mivart's 'Genesis of Species''']. North American Review. London: John Murray.
+**(1878) ''Philosophical Discussions: With a Biographical Sketch of the Author by Charles Eliot Norton'', Henry Holt and Company, New York. Google Books [https://books.google.com/books?id=Sw3pjq8fX8IC Eprint].
+**(1878) ''Letters of Chauncey Wright: With Some Account of His Life by James Bradley Thayer'', privately printed, Press of John Wilson and Son, Cambridge, MA. Google Books [https://books.google.com/books?id=VxsQAAAAYAAJ Eprint].
+**(2016) ''[http://www.nlx.com/collections/541 The Collected Works and Correspondence of Chauncey Wright. Electronic Edition.]'' In the ''[http://www.nlx.com Past Masters series]''.
+*On Wright
+** [[John Fiske (philosopher)|Fiske, John]], "Chauncey Wright" (written December 1876), ''[[Charles Darwin|Darwinism]] and other Essays'' (London and New York: MacMillan and Co., 1879), pp.&nbsp;78–109. Google Books [https://books.google.com/books?id=8O27uYlYrAgC&pg=PA78 Eprint].
+
+==See also==
+* [[American philosophy]]
+* [[List of American philosophers]]
+
+==Notes==
+{{reflist}}
+
+'''Sources'''
+* {{cite book |last=De Groot |first=Jean |chapter=Chauncey Wright |title=The Stanford Encyclopedia of Philosophy |date=Spring 2015 |publisher=Metaphysics Research Lab, Stanford University |editor=Edward N. Zalta  |url=http://plato.stanford.edu/archives/spr2015/entries/wright/}}
+* {{cite book |first=Edward H. |last=Madden |title=Chauncey Wright and the Foundations of Pragmatism |location=Seattle |publisher=University of Washington Press |year=1963}}
+
+'''Attribution'''
+* {{EB1911|wstitle=Wright, Chauncey|volume=28|page=846}}
+
+==Further reading==
+* {{Cite Appletons'|wstitle=Wright, Chauncey|year=1889}}
+* Flower, Elizabeth and [[Murray G. Murphey]], ''A History of Philosophy in America'', Vol. 2. New York: G. P. Putnam's Sons, 1977.
+* James, William, 1875, "Chauncey Wright", ''Nation'', 21: 194.
+* Menand, Louis, 2001, ''The Metaphysical Club''. New York: Farrar, Straus and Giroux.
+
+==External links==
+* {{Internet Archive author |sname=Chauncey Wright |sopt=t}}
+* {{cite IEP |url-id=wright |title=Chauncey Wright}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wright, Chauncey}}
+[[Category:1830 births]]
+[[Category:1875 deaths]]
+[[Category:Harvard University alumni]]
+[[Category:Harvard University Department of Philosophy faculty]]
+[[Category:19th-century American mathematicians]]
+[[Category:American philosophers]]
+[[Category:People from Northampton, Massachusetts]]
+[[Category:Pragmatists]]

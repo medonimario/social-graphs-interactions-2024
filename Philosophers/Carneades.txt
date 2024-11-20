@@ -1,0 +1,82 @@
+{{Short description|Hellenistic skeptic philosopher (214/3 BC – 129/8 BC)}}
+{{About|the philosopher|the genus of longhorn beetles|Carneades (beetle)}}
+{{use dmy dates|date=October 2023}}
+{{Infobox philosopher
+| region          = [[Western philosophy]]
+| era             = [[Hellenistic philosophy]]
+| image      = Head Karneades Glyptothek Munich.jpg
+| caption    = Carneades, Roman copy after the statue exhibited on the [[agora of Athens]], c. 150 BC, [[Glyptothek]]
+| name            = Carneades
+| birth_date       = 214/213 BC
+| birth_place      = [[Cyrene, Libya|Cyrene]]
+| death_date       = 129/128 BC
+| death_place      = [[Athens]]
+| school_tradition = [[Academic skepticism]], [[Platonism]]
+| main_interests   = [[Epistemology]], [[ethics]]
+| notable_ideas    = [[Philosophical skepticism]], [[probabilism]],<ref>{{cite SEP |url-id=carneades |title=Carneades |last=Allen |first=James}}</ref> [[Plank of Carneades]]
+| influences = [[Plato]], [[Arcesilaus]], [[Diogenes of Babylon]]
+| influenced = [[Clitomachus (philosopher)|Clitomachus]], [[Philo of Larissa]], [[Sextus Empiricus]]
+}}
+
+'''Carneades''' ({{IPAc-en|k|ɑr|ˈ|n|iː|ə|d|iː|z}}; {{langx|el|Καρνεάδης}}, ''Karneadēs'', "of [[Carnea]]"; 214/3–129/8 BC{{sfn|Dorandi|1999|p=48}}) was a [[Greeks|Greek]] philosopher,<ref name=":0">{{Cite web|title=Carneades {{!}} Greek philosopher|url=https://www.britannica.com/biography/Carneades|access-date=2021-09-11|website=Encyclopedia Britannica|language=en}}</ref> perhaps the most prominent head of the [[Academic skepticism|Skeptical Academy]] in ancient Greece.<ref name=":0" /> He was born in [[Cyrene, Libya|Cyrene]].<ref>{{cite web |last1=Allen |first1=James |title=Carneades |url=https://plato.stanford.edu/entries/carneades/ |website=Stanford Encyclopedia of Philosophy |publisher=Stanford University |access-date=8 March 2021 |quote=Born in Cyrene, then a Greek-speaking city on the Mediterranean coast of North Africa, Carneades pursued his philosophical studies in Athens}}</ref> By the year 159 BC,{{Citation needed|date=March 2021}} he had begun to attack many previous [[dogma]]tic doctrines, especially [[Stoicism]] and even the [[Epicurean]]s,<ref>{{cite book |last1=Sharples |first1=R.W. |editor1-last=Honderich |editor1-first=Ted |title=The Oxford Companion to Philosophy |date=1995 |publisher=Oxford University Press |location=Oxford |isbn=0198661320 |page=122 |quote=Criticizing both Stoic and Epicurean views in the debate on freedom and determinism...}}</ref> whom previous skeptics had spared.{{Citation needed|reason=Arcesilaus (Carneades's predecessor) critiqued the Epicureans as well according to the SEP (from the SEP article on Arcesilaus https://plato.stanford.edu/entries/arcesilaus/ And this explains his reputation as a ‘dialectician’ (or, more negatively, as a ‘sophist’ or ‘eristic’ or ‘magician’), as well as why the skeptical Academy came to be defined primarily by its critical stance towards the doctrines of other schools (and particularly towards the energetic philosophical programs of the new movements initiated by Epicurus and Zeno during his lifetime))|date=March 2021}}
+
+As [[scholarch]] (leader) of the [[Platonic Academy|Academy]], he was one of three philosophers sent to [[Rome]] in 155 BC where his lectures on the uncertainty of [[justice]] caused consternation among leading politicians.<ref>{{cite book |last1=Sharples |first1=R.W. |editor1-last=Honderich |editor1-first=Ted |title=The Oxford Companion to Philosophy |date=1995 |publisher=Oxford University Press |location=Oxford |isbn=0198661320 |page=122 |quote=Carneades scandalized Cato the Elder by arguing in favour of justice and against it on successive days}}</ref><ref>{{cite book |last1=Allen |first1=James |editor1-last=Borchert |editor1-first=David |title=Encyclopedia of Philosophy |date=2006 |publisher=Macmillan Reference |location=USA |isbn=0028657829 |pages=46–48 |edition=2nd |quote=Carneades became scholarch of the Academy (Plato's school) sometime before 155BCE, when he was sent to Rome along with the leaders of the Stoa and the Peripatos (Aristotle's school) to represent the interest of Athens before the senate.  It was during the embassy to Rome that the most notorious episode in this life took place.  According to tradition, Carneades delivered public lectures on succeeding days, defending justice on the first and arguing that it is a form of folly on the second day.}}</ref><ref>{{cite book |last1=Barnes |first1=Jonathan |title=Concise Routledge Encyclopedia of Philosophy |date=2000 |publisher=Routledge |location=New York |isbn=0415223644 |page=124 |quote=He was a celebrated figure; and in 155 BC he was sent by Athens to Rome as a political ambassador where he astounded the youth by his rhetorical powers and outraged their elders by his arguments against justice.}}</ref> He left no writings.<ref>{{cite book |last1=Allen |first1=James |editor1-last=Borchert |editor1-first=David |title=Encyclopedia of Philosophy |date=2006 |publisher=Macmillan Reference |location=USA |isbn=0028657829 |pages=46–48 |edition=2nd |quote=Like Arcesilaus and Socrates before him, Carneades wrote nothing, but exerted an influence on his students and contemporaries through his teaching and in-person practice of philosophical debate}}</ref> Many of his opinions are known only via his successor [[Clitomachus (philosopher)|Clitomachus]]. <ref>{{cite book |last1=Allen |first1=James |editor1-last=Borchert |editor1-first=David |title=Encyclopedia of Philosophy |date=2006 |publisher=Macmillan Reference |location=USA |isbn=0028657829 |pages=46–48 |edition=2nd |quote=What is known of him depends ultimately on works written by those who were in a position to observe him, especially Cliomachus, his student and, after an interval, successor as head of the Academy.}}</ref> He seems to have doubted the ability not just of the [[senses]] but of [[reason]] too in acquiring [[truth]]. His skepticism was, however, moderated by the belief that we can, nevertheless, ascertain probabilities (not in the sense of statistical probability, but in the sense of persuasiveness)<ref>{{cite book |last1=Sharples |first1=R.W. |editor1-last=Honderich |editor1-first=Ted |title=The Oxford Companion to Philosophy |date=1995 |publisher=Oxford University Press |location=Oxford |isbn=0198661320 |page=122}}</ref> of truth, to enable us to act.<ref>{{cite book |last1=Sharples |first1=R.W. |editor1-last=Honderich |editor1-first=Ted |title=The Oxford Companion to Philosophy |date=1995 |publisher=Oxford University Press |location=Oxford |isbn=0198661320 |page=122}}</ref>
+
+==Biography==
+Carneades, the son of Epicomus or Philokomus, was born at [[Cyrene, Libya|Cyrene]], [[North Africa]] in 214/213 BC. He migrated early to [[Athens]]. There he attended the lectures of the [[Stoics]], learning their logic from [[Diogenes of Babylon]] and studying the works of [[Chrysippus]]. He subsequently focused his efforts on refuting the Stoics, attaching himself to the [[Platonic Academy]], which had suffered from the attacks of the Stoics. On the death of [[Hegesinus of Pergamon]], he was chosen [[scholarch]] (head) of the Academy. His great eloquence and skill in argument revived the glories of the Academic Skeptics. He asserted nothing (not even that nothing can be asserted), and carried on a vigorous argument against every [[dogma]] maintained by other sects.
+
+In the year 155 BC, when he was fifty-eight years old, he was chosen with the Stoic [[Diogenes of Babylon]] and the [[Peripatetic school|Peripatetic]] [[Critolaus]] to go as ambassadors to [[Rome]] to deprecate the fine of 500 talents which had been imposed on the Athenians for the destruction of [[Oropus]]. During his stay at Rome, he attracted great notice from his eloquent speeches on philosophical subjects. It was here that, in the presence of [[Cato the Elder]], he delivered his several orations on [[justice]]. The first oration was in commendation of the [[Justice (virtue)|virtue]] of [[Roman law|Roman justice]]. The next day he delivered the second oration, in which he refuted all the arguments he had made the day before. He persuasively attempted to prove that justice was inevitably problematic, and not a given when it came to virtue, but merely a compact device deemed necessary for the maintenance of a well-ordered society. This oration shocked Cato. Recognizing the potential danger of Carneades' arguments, Cato moved the [[Roman Senate]] to send Carneades back to Athens to prevent Roman youth from being exposed to a re-examining of Roman doctrines. Carneades lived twenty-seven years after this at [[Athens]].
+
+Due to Carneades' ill health, he was succeeded as scholarch by Polemarchus of Nicomedia (137/136 BC),<ref>* Kilian Fleischer: ''Carneades: The One and Only''. In: ''[[The Journal of Hellenic Studies]]'' 138, 2019, pp. 116–124.</ref> who died 131/130 BC and was succeeded by Crates of Tarsus.{{sfn|Dorandi|1999|p=33}} Crates died in 127/126 BC and was succeeded by [[Clitomachus (philosopher)|Clitomachus]].{{sfn|Dorandi|1999|p=33}}  Carneades died in 129/128 BC, at the advanced age of 85 (although [[Cicero]] says 90).
+
+Carneades is described as a man of unwearied industry. He was so engrossed in his studies, that he let his hair and nails grow to an immoderate length, and was so absent at his own table (for he would never dine out), that his servant and concubine, Melissa, was constantly obliged to feed him. [[Latin]] writer and author [[Valerius Maximus]], to whom we owe the last anecdote, tells us that Carneades, before discussing with [[Chrysippus]], was wont to purge himself with [[hellebore]], to have a sharper mind.<ref>Val. Max., VIII,7, ext.., 5: Idem cum Chrysippo disputaturus elleboro se ante purgabat ad expromendum ingenium suum attentius et illius refellendum acrius.</ref> In his old age, he suffered from cataract in his eyes, which he bore with great impatience, and was so little resigned to the decay of nature, that he used to ask angrily, if this was the way in which nature undid what she had done, and sometimes expressed a wish to [[suicide|poison himself]].{{citation needed|date=September 2013}}
+
+==Philosophy==
+[[Image:Carneades Nuremberg Chronicle.jpg|left|thumb|Carneades, depicted as a medieval scholar in the ''[[Nuremberg Chronicle]]'', where he is called "Carmeides".<ref>[http://de.wikisource.org/wiki/Die_Schedelsche_Weltchronik_(deutsch):079 ''Die Schedelsche Weltchronik'', 079]</ref>]]
+
+Carneades is known as an [[Academic skepticism|Academic Skeptic]].  Academic Skeptics (so called because this was the type of skepticism taught in [[Plato]]'s [[Platonic Academy|Academy]] in [[Athens]]) hold that [[acatalepsy|all knowledge is impossible]], except for the knowledge that all other knowledge is impossible.
+
+Carneades left no writings, and all that is known of his lectures is derived from his intimate friend and pupil, [[Clitomachus (philosopher)|Clitomachus]]; but so true was he to his own principles of withholding assent, that Clitomachus confesses he never could ascertain what his master really thought on any subject.{{citation needed|date=December 2010}} In [[ethics]], which more particularly were the subject of his long and laborious study, he seems to have denied the conformity of the moral ideas with nature. This he particularly insisted on in the second oration on [[Justice]], in which he manifestly wished to convey his own notions on the subject; and he there maintains that ideas of justice are not derived from nature, but that they are purely artificial for purposes of expediency.{{citation needed|date=July 2015}}
+
+All this, however, was nothing but the special application of his general theory, that people did not possess, and never could possess, any criterion of [[truth]].
+
+Carneades argued that, if there were a criterion, it must exist either in [[reason]] (''logos''), or [[wikt:sensation|sensation]] (''aisthêsis''), or [[concept]]ion (''[[Phantasiai|phantasia]]''). But then reason itself depends on conception, and this again on sensation; and we have no means of judging whether our sensations are true or false, whether they correspond to the objects that produce them, or carry wrong impressions to the mind, producing false conceptions and ideas, and leading reason also into error. Therefore, sensation, conception, and reason, are alike disqualified for being the criterion of truth.{{citation needed|date=September 2013}}
+
+But after all, people must live and act, and must have some rule of [[personal life|practical life]]; therefore, although it is impossible to pronounce anything as absolutely true, we may yet establish probabilities of various degrees. For, although we cannot say that any given conception or sensation is in itself true, yet some sensations appear to us more true than others, and we must be guided by that which seems the most true. Again, sensations are not single, but generally combined with others, which either confirm or contradict them; and the greater this combination the greater is the probability of that being true which the rest combine to confirm; and the case in which the greatest number of conceptions, each in themselves apparently most true, should combine to affirm that which also in itself appears most true, would present to Carneades the highest probability, and his nearest approach to truth.{{sfn|Grenfell|1870|p=614}}
+
+==See also==
+* [[Academica (Cicero)]]
+* [[Anti-realism]]
+* [[Moral relativism]]
+* [[Philosophical skepticism]]
+* [[Pyrrhonism]]
+* [[Subjectivism]]
+
+==Notes==
+{{reflist}}
+
+==Sources==
+{{sfn whitelist|CITEREFGrenfell1870}}
+* {{cite book |last=Dorandi |first=Tiziano |chapter=Chapter 2: Chronology |editor-last=Algra |editor-first=Keimpe |display-editors=etal |year=1999 |title=The Cambridge History of Hellenistic Philosophy |url=https://archive.org/details/cambridgehistory00algr |url-access=limited |pages=[https://archive.org/details/cambridgehistory00algr/page/n52 33], 48 |location=Cambridge |publisher=Cambridge University Press |isbn=9780521250283 }}
+* {{DGRBM |author=AG |title=Carneades |volume=1|page=614|url=http://quod.lib.umich.edu/m/moa/acl3129.0001.001/629?view=image&size=100}} <!-- machine readable version: http://www.ebooksread.com/authors-eng/drayton-griffin-and-smith/dictionary-of-greek-and-roman-biography-and-mythology-volume-1-tim/page-169-dictionary-of-greek-and-roman-biography-and-mythology-volume-1-tim.shtml -->
+
+==External links==
+{{Commons category|Carneades}}
+* {{cite SEP |url-id=carneades |title=Carneades |last=Allen |first=James}}
+* {{cite IEP|url-id=c/carneade.htm}}
+* {{cite LotEP |chapter=Carneades |short=x}}
+* {{Cite Americana|wstitle=Carneades |short=x}}
+* {{Cite EB1911|wstitle=Carneades |short=x}}
+
+{{Platonists}}
+{{skepticism}}
+
+{{Authority control}}
+
+[[Category:210s BC births]]
+[[Category:120s BC deaths]]
+[[Category:2nd-century BC Greek philosophers]]
+[[Category:Cyrenean Greeks]]
+[[Category:Ancient Greeks in Rome]]
+[[Category:Hellenistic-era philosophers in Athens]]
+[[Category:Academic skeptics]]

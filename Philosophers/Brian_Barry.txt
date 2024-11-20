@@ -1,0 +1,120 @@
+{{Short description|English philosopher (1936–2009)}}
+{{Use British English|date=October 2012}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox academic
+| honorific_prefix   = <!-- see [[MOS:CREDENTIAL]] and [[MOS:HONORIFIC]] -->
+| name               = Brian Barry
+| honorific_suffix   = 
+| image              = Brian Barry.jpg
+| image_size         = 
+| alt                = 
+| caption            = Barry in the 1980s
+| native_name        = 
+| native_name_lang   = 
+| birth_name         = <!-- use only if different from full/othernames -->
+| birth_date         = {{birth date|1936|08|07|df=y}}<!-- {{birth date and age|YYYY|MM|DD}}  -->
+| birth_place        = 
+| death_date         = {{death date and age|2009|03|10|1936|08|07|df=y}}<!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place        = 
+| death_cause        = 
+| nationality        = <!-- use only when necessary per [[WP:INFONAT]] -->
+| citizenship        = <!-- use only when necessary per [[WP:INFONAT]] -->
+| other_names        = 
+| occupation         = Moral and political philosopher
+| period             = 
+| known_for          = 
+| title              = 
+| boards             = <!--board or similar positions extraneous to main occupation-->
+| spouse             = 
+| partner            = 
+| children           = 
+| parents            = 
+| relatives          = 
+| awards             = <!--notable national-level awards only-->
+| website            = 
+| education          = 
+| alma_mater         = [[The Queen's College, Oxford]]<!--will often consist of the linked name of the last-attended higher education institution-->
+| thesis_title       = The language of political argument
+| thesis_url         = https://solo.bodleian.ox.ac.uk/permalink/f/89vilt/oxfaleph015258357
+| thesis_year        = 1963
+| school_tradition   = 
+| doctoral_advisor   = [[H. L. A. Hart]]
+| academic_advisors  = 
+| influences         = <!--must be referenced from a third-party source-->
+| era                = 
+| discipline         = <!--major academic discipline – e.g. Physicist, Sociologist, New Testament scholar, Ancient Near Eastern Linguist-->
+| sub_discipline     = <!--academic discipline specialist area – e.g. Sub-atomic research, 20th-century Danish specialist, Pauline research, Arcadian and Ugaritic specialist-->
+| workplaces         = [[London School of Economics|London School of Economics and Political Science]]<!--full-time positions only, not student positions-->
+| doctoral_students  = <!--only those with WP articles-->
+| notable_students   = 
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = <!--must be referenced from a third-party source-->
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| footnotes          = 
+}}
+'''Brian Barry''', {{post-nominals|country=GBR|commas=on|FBA|size=100%}} (7 August 1936 – 10 March 2009) was a [[Ethics|moral]] and [[Political philosophy|political]] [[philosopher]]. He was educated at the [[Queen's College, Oxford]], obtaining the degrees of B.A. and D.Phil. under the direction of [[H. L. A. Hart]].
+
+Along with [[David Braybrooke]], [[Richard E. Flathman]], Felix Oppenheim, and [[Abraham Kaplan]], he is widely credited with having fused [[analytic philosophy]] and [[political science]].{{Citation needed|date=October 2008}} Barry also fused political theory and [[social choice theory]] and was a persistent critic of [[public choice theory]].
+
+==Life==
+During his early career, Barry held teaching posts at the [[University of Birmingham]], [[Keele University]] and the [[University of Southampton]]. In 1965 he was appointed a teaching fellow at [[University College, Oxford]] and then [[Nuffield College]]. In 1969 he became a professor at [[Essex University]].<ref>{{cite web|url=https://www.telegraph.co.uk/news/obituaries/politics-obituaries/5110440/Professor-Brian-Barry.html|title=Professor Brian Barry|date=5 April 2009|work=The Telegraph|location=UK|accessdate=9 November 2010}}</ref>
+
+Barry was [[Francis Lieber|Lieber]] Professor Emeritus of Political Philosophy at [[Columbia University]] and Professor Emeritus of Political Science at the [[London School of Economics]]. He was awarded the [[Johan Skytte Prize in Political Science]] in 2001. Barry also taught at the [[University of Chicago]], in the departments of philosophy and political science. During this time he edited the journal ''[[Ethics (journal)|Ethics]]'', helping raise its publication standards.<ref>{{Cite web |last=Kelly |first=Paul |date=2009-03-30 |title=Obituary: Brian Barry |url=http://www.theguardian.com/books/2009/mar/31/brian-barry-philosophy |access-date=2022-11-30 |website=the Guardian |language=en}}</ref> Under his editorship, it became perhaps the leading journal for moral and political philosophy.<ref>{{Cite web |title=Professor Brian Barry |url=https://www.telegraph.co.uk/news/obituaries/politics-obituaries/5110440/Professor-Brian-Barry.html |access-date=2022-11-30 |website=www.telegraph.co.uk}}</ref>
+
+He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1978.<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=American Academy of Arts and Sciences|accessdate=17 May 2011}}</ref> Barry was a Distinguished Supporter of the [[British Humanist Association]], and was awarded an honorary doctorate by the [[University of York]] in 2006.<ref>{{Cite web |url=http://www.york.ac.uk/admin/presspr/pressreleases/hongradsjuly06.htm |title=University of York press release<!-- Bot generated title --> |access-date=26 January 2007 |archive-url=https://web.archive.org/web/20060706204616/http://www.york.ac.uk/admin/presspr/pressreleases/hongradsjuly06.htm |archive-date=6 July 2006 |url-status=dead }}</ref>
+
+In 2014, the British Academy, in partnership with Cambridge University Press and the ''[[British Journal of Political Science]]'', founded an annual prize in political science in his honour: the [[Brian Barry Prize in Political Science]].<ref>{{cite web | url=http://www.britac.ac.uk/prizes/Brian_Barry_Prize.cfm | title=Brian Barry Prize in Political Science }}</ref>
+
+== Selected publications ==
+* ''Why Social Justice Matters'' (Polity 2005)
+* ''Culture & Equality: An Egalitarian Critique of Multiculturalism'' (2001)
+* ''Justice as Impartiality'' (1995)
+* ''Liberty and Justice: Essays in Political Theory'' (1991)
+* ''Theories of Justice'' (Berkeley, 1989)
+* ''Democracy, Power, and Justice: Essays in Political Theory'' (Oxford, 1989)
+* ''The Liberal Theory of Justice'' (1973)
+* ''Sociologists, Economists and Democracy'' (1970)
+*  {{cite book |title= Political Argument   |year= 1965 |url=https://archive.org/details/politicalargumen0000barr_c3n7/page/4/mode/2up |url-access= registration |via= [[Internet Archive]]}}
+
+==Further reading==
+* ''Justice & Democracy: Essays for Brian Barry'', edited by Keith Dowding, Robert E. Goodin, and [[Carole Pateman]] (2004)
+* ''Multiculturalism Reconsidered: 'Culture and Equality' and Its Critics'', edited by Paul Kelly (2002)
+* ''Impartiality, Neutrality and Justice: Re-Reading Brian Barry's 'Justice as Impartiality', edited by Paul Kelly (2001)
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[https://web.archive.org/web/20070709031219/http://www.columbia.edu/~bmb21/ Columbia profile]
+*[https://www.theguardian.com/books/2009/mar/31/brian-barry-philosophy Obituary, ''The Guardian'']
+*[https://www.telegraph.co.uk/news/obituaries/politics-obituaries/5110440/Professor-Brian-Barry.html Obituary, ''The Telegraph'']
+*[https://web.archive.org/web/20100525014437/http://www.timesonline.co.uk/tol/comment/obituaries/article6010790.ece Obituary, ''The Times''] [Archived by Wayback Machine]
+*[https://sites.google.com/a/york.ac.uk/brianbarryarchive/ The Brian Barry Literary Archive] A 'work in progress' site for Brian Barry's unpublished writings.  
+*''[https://www.britannica.com/biography/Brian-Barry Brian Barry, British Political Philosopher]'' by The Editors of [[Encyclopædia Britannica Online|Encyclopædia Britannica]] [Archival content - originally published in the Britannica Book of the Year, originally published on 14 May 2009]
+*''[http://crookedtimber.org/2009/03/11/brian-barry-is-dead/ Brian Barry is dead]'' remembrance from [[Harry Brighouse]] on the [[Crooked Timber]] group blog.
+* {{Internet Archive author |sname= Brian Barry}}
+{{Recipients of the Johan Skytte Prize in Political Science}}{{Authority control}}
+
+{{DEFAULTSORT:Barry, Brian}}
+[[Category:20th-century English philosophers]]
+[[Category:21st-century English philosophers]]
+[[Category:Academics of the London School of Economics]]
+[[Category:Academics of the University of Birmingham]]
+[[Category:Academics of Keele University]]
+[[Category:Academics of the University of Southampton]]
+[[Category:Academics of the University of Essex]]
+[[Category:Alumni of the Queen's College, Oxford]]
+[[Category:British humanists]]
+[[Category:Columbia University faculty]]
+[[Category:Critics of multiculturalism]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the British Academy]]
+[[Category:British political philosophers]]
+[[Category:Scholars of nationalism]]
+[[Category:1936 births]]
+[[Category:2009 deaths]]
+[[Category:Fellows of Nuffield College, Oxford]]

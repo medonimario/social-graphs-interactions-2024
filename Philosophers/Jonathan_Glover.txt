@@ -1,0 +1,88 @@
+{{Short description|British philosopher}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{BLP sources|date=February 2010}}
+'''Jonathan Glover''' ({{IPAc-en|ˈ|ɡ|l|ʌ|v|ər}}; born 1941) is a British philosopher known for his books and studies on [[ethics]]. He currently teaches ethics at [[King's College London]]. Glover is a fellow of the [[Hastings Center]], an independent [[bioethics]] research institution in the [[United States]],<ref>{{Cite web|url=http://www.practicalethics.ox.ac.uk/people/professor-jonathan-glover|title = Professor Jonathan Glover}}</ref> and is a Distinguished Research Fellow at the [[Oxford Uehiro Centre for Practical Ethics]].<ref>{{Cite web|url=http://www.kcl.ac.uk/law/people/academic-profiles/glover-j.aspx|title=People &#124; the Dickson Poon School of Law &#124; King's College London}}</ref>
+
+==Education==
+Glover was educated at [[Tonbridge School]], later going on to [[Corpus Christi College, Oxford]]. He was a fellow and tutor in [[philosophy]] at [[New College, Oxford]], and is now a Distinguished Research Fellow at the Oxford Uehiro Centre for Practical Ethics.<ref>{{Cite web|url=http://www.kcl.ac.uk/law/people/academic-profiles/glover-j.aspx|title=People &#124; the Dickson Poon School of Law &#124; King's College London}}</ref>
+
+==Career==
+Glover's book ''Causing Death and Saving Lives'', first published in 1977, addresses practical [[moral questions]] about life and death decisions in the areas of [[abortion]], [[infanticide]], [[suicide]], [[euthanasia]], choices between people, [[capital punishment]], and issues of [[war]] and [[peace]]. His approach is broadly [[consequentialist]] (utilitarian), though he gives significant weight to questions of individual autonomy, the [[Kantian]] notion that we ought to treat other people as ends in themselves rather than merely as means. He criticises the idea that time periods of mere consciousness or life itself are intrinsically valuable: these states matter, he argues, because they are pre-requisites for other things that are valuable and make for a life worth living. There is, then, no absolute [[sanctity of human life]].<ref>{{cite book|last=Glover|first=Jonathan|title=Causing Death and Saving Lives|year=1977|publisher=Penguin|isbn=0-14-013479-4|pages=[https://archive.org/details/causingdeathsavi00glov/page/39 39]–59|url=https://archive.org/details/causingdeathsavi00glov|url-access=registration}}</ref> He criticises the [[principle of double effect]],<ref>{{cite book|last=Glover|first=Jonathan|title=Causing Death and Saving Lives|year=1977|publisher=Penguin|isbn=0-14-013479-4|pages=[https://archive.org/details/causingdeathsavi00glov/page/86 86]–91|url=https://archive.org/details/causingdeathsavi00glov|url-access=registration}}</ref> as well as the acts and omissions doctrine,<ref>{{cite book|last=Glover|first=Jonathan|title=Causing Death and Saving Lives|year=1977|publisher=Penguin|isbn=0-14-013479-4|pages=[https://archive.org/details/causingdeathsavi00glov/page/92 92]–112|url=https://archive.org/details/causingdeathsavi00glov|url-access=registration}}</ref> specifically the notion that there is a huge moral difference between [[homicide|killing]] someone and intentionally [[letting die|letting them die]].  He also draws on insights from history and literature, not just strictly from philosophy. On the topic of 20th century war and moral distance, he writes, "There is the feeling that because killing at a distance is easier, one would not have to be such a monster to do it."<ref>[https://books.google.com/books?id=Pc4XS-IuQBgC&dq=%22There+is+the+feeling+that+because+killing+at+a+distance+is+easier%2C+one+would+not+have+to+be+such+a+monster+to+do+it.%22&pg=PA73 ''Enders Game and Philosophy''], edited by Kevin S. Decker, 2013, Chapter 6: "War Games as Child's Play," Matthew Brophy, page 73.</ref> Throughout, the emphasis is on the consequences of moral choices for those affected, rather than on abstract principles applied impersonally.
+
+In ''Humanity: A Moral History of the Twentieth Century'', published in 1999, Glover considers the psychological factors that predispose us to commit barbaric acts, and suggests how man-made moral traditions and the cultivation of moral imagination can work to restrain us from a ruthlessly selfish treatment of others. Gaining greater understanding of the monsters within us, he argues, is part of the process of caging and containing them.<ref>{{cite book|last=Glover|first=Jonathan|title=Humanity|year=2001|publisher=Pimlico|isbn=978-0-7126-6541-4|pages=7}}</ref> He examines the various types of atrocity that were perpetrated in the 20th century, including [[The Holocaust|Nazi genocide]], [[Mass killings in Communist countries|mass killings under Stalin, Mao, and Pol Pot]], and more recent slaughter [[Bosnian Genocide|in Bosnia]] and [[Rwandan genocide|Rwanda]], and examines what sort of bulwarks there could be against them. He allows that religion has provided bulwarks, which are getting eroded. He identifies three types of bulwark. The two more dependable are sympathy and respect for [[human dignity]]. The less dependable third is Moral Identity: "I belong to a kind of person who would not do that sort of thing". This third is less dependable because notions of moral identity can themselves be warped, as was done by the [[Nazis]].<ref name="The Independent Article">{{cite news
+|author = David Cesarani
+|author-link = David Cesarani
+|title = BOOK REVIEW: THE EVILS OF BANALITY; HUMANITY: A MORAL HISTORY OF THE TWENTIETH CENTURY BY JONATHAN GLOVER JONATHAN CAPE, POUNDS 18.99, 476PP
+|quote =  Nor is it easy to see the moral slippage that ended in genocide beginning with the much-maligned figure of [[Nietzsche]]. Glover blames him for liberating Nazi Germans from the constraints of "[[Judeo-Christian morality]]" but, in earlier times, the Bible hardly inhibited the practitioners of [[slavery]] or [[Colonial empire|European imperialism]] from inflicting massive human suffering wherever they went. And what has Nietzsche got to do with the [[Armenian genocide]]?
+|work = [[The Independent]]
+|date =  9 October 1999
+|url = http://www.lexisnexis.com/us/lnacademic/results/docview/docview.do?docLinkInd=true&risb=21_T8615326486&format=GNBFI&sort=RELEVANCE&startDocNo=1&resultsUrlKey=29_T8615326489&cisb=22_T8615326488&treeMax=true&treeWidth=0&csi=8200&docNo=3
+|access-date = 21 February 2010
+}}</ref>
+
+In ''[[The End of Faith: Religion, Terror, and the Future of Reason]]'', [[Sam Harris (author)|Sam Harris]] quotes Glover as saying: "Our entanglements with people close to us erode simple self-interest.  Husbands, wives, lovers, parents, children and friends all blur the boundaries of selfish concern.  Francis Bacon rightly said that people with children have given hostages to fortune.  Inescapably, other forms of friendship and love hold us hostage too...Narrow self-interest is destabilized."<ref>{{cite book|author1=Sam Harris|title=The End of Faith: Religion, Terror, and the Future of Reason|url=https://archive.org/details/isbn_9780739453797|url-access=registration|date=August 11, 2004|publisher=[[W. W. Norton]]|isbn=0-7432-6809-1|page=[https://archive.org/details/isbn_9780739453797/page/186 186]}}</ref>
+
+In 1989, the [[European Commission]] hired Glover to head a panel on embryo research and assisted reproduction.<ref name="The Sunday Times Article">{{cite news
+|author = Ellis Downes
+|title = Europeans to explore new frontiers; Embryo research
+|quote = The Brussels authorities commissioned Dr Jonathan Glover, the Oxford philosopher, and a panel of specialists to establish some common ground after a community-wide meeting in Mainz, West Germany, last autumn, failed to agree on any ground rules.
+|publisher = [[The Sunday Times]]
+|date =  26 February 1989
+|url = http://www.lexisnexis.com/us/lnacademic/results/docview/docview.do?docLinkInd=true&risb=21_T8615326486&format=GNBFI&sort=RELEVANCE&startDocNo=1&resultsUrlKey=29_T8615326489&cisb=22_T8615326488&treeMax=true&treeWidth=0&csi=332263&docNo=7
+|access-date = 21 February 2010
+}}</ref><ref>{{Cite web|url=https://www.practicalethics.ox.ac.uk/people/professor-jonathan-glover|title=Professor Jonathan Glover}}</ref>
+
+In 2018, Glover was awarded the [[Dan David Prize]] for his work in bioethics.<ref>{{Cite news|title=Can the world cope with half a billion refugees? Philosopher Jonathan Glover talks death and decency|url=https://www.haaretz.com/science-and-health/.premium.MAGAZINE-how-can-the-world-cope-with-half-a-billion-refugees-1.6069684|access-date=2020-10-25|newspaper=Haaretz|language=en}}</ref><ref>{{Cite web|last=Prize|first=Dan David|title=Prof. Jonathan Glover|url=https://www.dandavidprize.org/laureates/2018/present-bioethics/prof-jonathan-glover|access-date=2020-10-25|website=www.dandavidprize.org|language=en-gb}}</ref>
+
+==Bibliography==
+=== Books ===
+*{{cite book|last=Glover|first=Jonathan|title=Responsibility|year=1970|publisher=[[Routledge]]|location=London|isbn=0-7100-6879-4|lccn=72538624|url=https://archive.org/details/responsibility0000glov}}
+*{{cite book|last=Glover|first=Jonathan|title=The Philosophy of Mind|year=1976|publisher=[[Oxford University Press]]|location=Oxford|isbn=0-19-875038-2|lccn=77362023|url-access=registration|url=https://archive.org/details/philosophyofmind0000unse}}
+*{{cite book|last=Glover|first=Jonathan|title=Causing Death and Saving Lives|year=1977|publisher=[[Penguin Books|Penguin]]|location=Harmondsworth|isbn=0-14-022003-8|lccn=78311606}}
+*{{cite book|last=Glover|first=Jonathan|title=What Sort of People Should There Be?|year=1984|publisher=[[Penguin Books|Penguin]]|location=Harmondsworth|isbn=0-14-022224-3|lccn=84230104}}
+*{{cite book|last=Glover|first=Jonathan|title=I: The Philosophy and Psychology of Personal Identity|year=1988|publisher=[[Penguin Books|Allen Lane]]|location=London|isbn=0-7139-9001-5|lccn=87083462}}
+*{{cite book|last=Glover|first=Jonathan|title=Ethics of new reproductive technologies : the Glover report to the European Commission|year=1989|publisher=[[Northern Illinois University Press]]|location=DeKalb|isbn=0-87580-147-1|lccn=88034523|display-authors=etal}}
+*{{cite book|editor=Glover, Jonathan|title=Utilitarianism and Its Critics|year=1990|publisher=[[Macmillan Publishers|Macmillan]]|location=New York|isbn=0-02-344134-8|lccn=89008279}}
+*{{cite book|editor1-last=Nussbaum|editor1-first=Martha C.|editor2-last=Glover|editor2-first=Jonathan|editor1-link=Martha Nussbaum|title=Women, Culture, and Development : A Study of Human Capabilities|year=1995|publisher=[[Oxford University Press|Clarendon Press]]|location=Oxford|isbn=0-19-828917-0|lccn=94042602}}
+*{{cite book|last=Glover|first=Jonathan|title=Humanity: A Moral History of the Twentieth Century|year=1999|publisher=[[Jonathan Cape]]|location=London|isbn=0-224-05240-3|lccn=00274389}}
+*{{cite book|last=Glover|first=Jonathan|title=Choosing Children: Genes, Disability, and Design|year=2006|publisher=[[Oxford University Press|Clarendon Press]]|location=Oxford|isbn=0-19-929092-X|lccn=2005030309}}
+*{{cite book|last=Glover|first=Jonathan|url=http://www.hup.harvard.edu/catalog.php?isbn=9780674368361 |title=Alien Landscapes?: Interpreting Disordered Minds |year=2014|publisher=[[Harvard University Press]]|location=Cambridge|isbn=9780674599185|lccn=2014005635}}B
+
+=== Book chapters ===
+* {{Citation |last=Glover|first=Jonathan| contribution = Identity, violence and the power of illusion | editor-last1 = Kanbur | editor-first1 = Ravi | editor-last2 = Basu | editor-first2 = Kaushik | editor-link1= Ravi Kanbur | editor-link2 = Kaushik Basu | title = Arguments for a better world: essays in honor of [[Amartya Sen]] &#124; Volume II: Society, institutions and development | pages = 452–469 | publisher = Oxford University Press | location = Oxford New York | year = 2009 | isbn = 9780199239979 | postscript = .}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin|2}}
+*Davis, N. Ann; Keshen, Richard; [[Jeff McMahan (philosopher)|McMahan, Jeff]]. (eds) (2010). ''Ethics and Humanity: Themes From the Philosophy of Jonathan Glover''. [[Oxford University Press]].
+*[[Scialabba, George]]. [http://www.highbeam.com/doc/1P2-8628076.htmle "Oh, the humanity reflecting on the 20th century's horrors – with understanding and some hope"]{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}} {{subscription required}}. ''[[Boston Globe]]''. 22 October 2000.
+*[[Tharoor, Shashi]]. [https://www.latimes.com/archives/la-xpm-2000-sep-17-bk-22271-story.html "Guns, Rights and People..."]. ''[[Los Angeles Times]]''. 17 September 2000. Accessed 6 August 2011.
+*[[Steven Pinker|Pinker, Steven]]. [https://www.nytimes.com/books/00/10/29/reviews/001029.29pinkert.html "All About Evil "]. ''[[The New York Times]]''. 29 October 2000. Accessed 6 August 2011.
+*[https://doi.org/10.1023%2FA%3A1014956925654 Review of ''Humanity: A Moral History of the 20th Century''] by [[Margaret Urban Walker]] {{subscription required}}. ''[[The Journal of Value Inquiry]]'' '''36''' (1): 119–123. 2002. {{doi|10.1023/A:1014956925654}}.
+*Lanigan, John. [http://www.philosophynow.org/issue55/Choosing_Children_by_Jonathan_Glover "''Choosing Children'' by Jonathan Glover"]. ''[[Philosophy Now]]''. 2006. Accessed 6 August 2011. [https://web.archive.org/web/20110927044220/http://www.philosophynow.org/issue55/Choosing_Children_by_Jonathan_Glover Archived] 5 August 2011.
+{{refend}}
+
+==External links==
+*[http://www.jonathanglover.org Jonathan Glover's website]
+*[https://www.kcl.ac.uk/law/people/academic-profiles/glover-j.aspx King's College Page on Glover]
+*{{IMDb name|1909929}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Glover, Jonathan}}
+[[Category:1941 births]]
+[[Category:20th-century British philosophers]]
+[[Category:21st-century British philosophers]]
+[[Category:British abortion-rights activists]]
+[[Category:Living people]]
+[[Category:Academics of King's College London]]
+[[Category:Fellows of New College, Oxford]]
+[[Category:Fellows of King's College London]]
+[[Category:People educated at Tonbridge School]]
+[[Category:Alumni of Corpus Christi College, Oxford]]
+[[Category:Utilitarians]]
+[[Category:Fellows of the Hastings Center]]
+[[Category:Bioethicists]]

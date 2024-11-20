@@ -1,0 +1,34 @@
+{{Short description|German philosopher and academic (1780-1819)}}
+'''Karl Wilhelm Ferdinand Solger''' (28 November 1780, [[Schwedt]] – 20 October 1819, [[Berlin]]) was a German [[philosopher]] and academic. He is known as a theorist of [[Romanticism]], and of [[irony]].
+[[File:KarlWilhelmFerdinandSolger.jpg|right|thumb|Bust of Karl Wilhelm Ferdinand Solger]]
+
+==Biography==
+Solger's extensive studies included attending [[Friedrich Wilhelm Joseph Schelling]]'s ''Darstellung meines Systems der Philosophie'' [Presentation of My System of Philosophy] lectures at the [[University of Jena]] in 1800–01<ref>Walter Jaeschke, Helmut Holzhey (eds.), ''Transzendentalphilosophie und Spekulation: Der Streit um die Gestalt einer Ersten Philosophie (1799-1807)'', Meiner Verlag, 2013, p. 168.</ref> and [[Johann Gottlieb Fichte]]'s "[[Wissenschaftslehre (Fichte)|Wissenschaftslehre]]" lectures in [[Berlin]] 1804.<ref>''Tieck and Solger: The Complete Correspondence'', Berlin: Westermann Company, 1933, p. 39.</ref> In 1811, Solger became professor of philosophy at the [[Humboldt University of Berlin|University of Berlin]]
+
+==Works==
+* ''Des Sophokles Tragödien'' [''[[Sophocles]]' Tragedies''] (2 vols., 1808; 2d ed., 1824)
+* ''Erwin, Vier Gespräche über das Schöne und die Kunst'' [''Erwin, or Four Dialogues on Beauty and Art''] (2 vols., 1815) [A work on [[aesthetics]], in which he took issue with [[August Wilhelm Schlegel]], and which influenced both [[Hegel]] and [[Heinrich Heine]].]
+* ''Philosophische Gespräche'' [''Philosophical Dialogues''] (1817)
+* ''Solger's nachgelassene Schriften und Briefwechsel'' [''Posthumous writings and letters''], edited by Tieck and Raumer (2 vols., 1826)
+* ''K. W. F. Solger’s Vorlesungen über Aesthetik'' [''Lectures in Aesthetics''], edited by Heyse (1829)
+
+==Notes==
+{{reflist|2}}
+
+==References==
+* {{AmCyc|wstitle=Solger, Karl Wilhelm Ferdinand}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Solger, Karl Wilhelm Ferdinand}}
+[[Category:1780 births]]
+[[Category:1819 deaths]]
+[[Category:Philosophers from the Kingdom of Prussia]]
+[[Category:19th-century German philosophers]]
+[[Category:People from the Margraviate of Brandenburg]]
+[[Category:Academic staff of European University Viadrina]]
+[[Category:Academic staff of the Humboldt University of Berlin]]
+[[Category:German male writers]]
+
+
+{{Germany-philosopher-stub}}

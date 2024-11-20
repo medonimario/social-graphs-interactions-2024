@@ -1,0 +1,204 @@
+{{short description|German jurist and socialist (1825–1864)}}
+{{For|the 1918 film|Ferdinand Lassalle (film){{!}}''Ferdinand Lassalle'' (film)}}
+{{Infobox person
+| image            = Bundesarchiv Bild 183-J0827-500-002, Ferdinand Lassalle.jpg
+| caption          = Lassalle in 1860
+| birth_name       = Ferdinand Johann Gottlieb Lassal
+| birth_date       = {{birth date|df=yes|1825|04|11}}
+| birth_place      = [[Breslau]], [[Province of Silesia]], [[Kingdom of Prussia]]<br>(now [[Wrocław]], [[Poland]])
+| death_date       = {{death date and age|df=yes|1864|08|31|1825|04|11}}
+| death_place      = [[Carouge]], [[Canton of Geneva]], [[Switzerland]]
+| resting_place    = [[Old Jewish Cemetery, Wrocław]]
+| nationality      = German
+| party            = [[General German Workers' Association]]
+| signature        = 
+| module = {{Infobox philosopher
+| embed = yes
+| region           = [[Western philosophy]], [[German philosophy]]
+| era              = [[19th-century philosophy]]
+| school_tradition = [[Social democracy]]
+| main_interests   = Political philosophy, economics, history
+| influences       = 
+| influenced       = 
+| alma_mater       =
+| notable_ideas    = [[Iron law of wages]], [[Lassallism]]
+| signature        = БСЭ1. Автограф. Автографы. 1.svg
+}}
+}}
+'''Ferdinand Lassalle''' (11 April 1825 – 31 August 1864) was a German socialist activist and politician who founded the first German workers' party, the [[General German Workers' Association]] (ADAV), in 1863. He is best remembered as the initiator of the country's [[Social democracy|social-democratic]] movement, which after his death led to the formation of the [[Social Democratic Party of Germany]] (SPD) in 1875.
+
+Lassalle studied philosophy at the [[University of Breslau|Universities of Breslau]] and [[Humboldt University of Berlin|Berlin]], and was involved as an agitator in the [[German revolutions of 1848–1849|German Revolutions of 1848]]. [[Lassallism|Lassalle's socialism]] viewed the state as the expression of the people, not as a construct of social class, and he argued that industry should be placed in the hands of the workers by the existing government, pressured by the labor movement. This was a form of [[state socialism]] opposed to the [[revolutionary socialism]] of [[Karl Marx]], one of his greatest rivals. Lassalle based his politics on his "[[iron law of wages]]", which posited that wages could never rise above the subsistence level in the capitalist system. He died in a [[duel]] related to a love affair in 1864; ADAV remained the largest German socialist party until 1875.
+{{socialism sidebar}}
+{{social democracy sidebar}}
+== Biography ==
+=== Early life ===
+Lassalle was born '''Ferdinand Johann Gottlieb Lassal''' on 11 April 1825 in [[Breslau]], [[Province of Silesia|Silesia]] (now [[Wrocław]], [[Poland]]). His father Heyman Lassal was a Jewish [[silk]] merchant and intended his son for a business career, sending him to the commercial school at [[Leipzig]]. However, Lassalle soon transferred to university, studying first in the [[University of Wrocław|University of Breslau]] and later at the [[Humboldt University of Berlin|University of Berlin]]. There, Lassalle studied [[philology]] and [[philosophy]] and became a devotee of the philosophical system of [[Georg Wilhelm Friedrich Hegel|Georg Hegel]]. Lassalle changed his name at a young age to disassociate himself from Judaism.{{Sfn | Dawson | 1891 | pp = 114–116}}
+
+Lassalle passed his university examinations with distinction in 1845 and thereafter traveled to [[Paris]] to write a book on [[Heraclitus]].{{Sfn | Dawson | 1891 | p = 116}} There, Lassalle met the poet [[Heinrich Heine]], who wrote of his intense young friend in 1846: "I have found in no one so much passion and clearness of intellect united in action. You have good right to be audacious – we others only usurp this divine right, this heavenly privilege".{{Sfn | Dawson | 1891 | p = 115}}
+
+Back in [[Berlin]] to work on his book, Lassalle met Countess [[Sophie von Hatzfeldt]], a woman in her early 40s who had been separated from her husband of many years and who had an ongoing dispute with him regarding the disposition of the couple's property. Lassalle volunteered himself to her cause and the offer was readily accepted.{{Sfn | Dawson | 1891 | p = 117}} Lassalle first challenged her husband to a [[duel]], but his challenge was rejected.{{Sfn | Dawson | 1891 | p = 117}}
+
+An eight-year legal battle followed in which Lassalle defended Countess von Hatzfeldt's interests in 36 different courtrooms.{{Sfn | Dawson | 1891 | p = 118}} Ultimately, a settlement was made in her favor, bringing her a substantial fortune. In her gratitude, she agreed to pay Lassalle an annual income of 5,000 [[thaler]]s (about £750) for the rest of his life.{{Sfn | Dawson | 1891 | pp = 118–9}}
+
+=== 1848 Revolution and its aftermath ===
+Lassalle was a committed socialist from an early age. During the [[Revolutions of 1848 in the German states|German Revolutions of 1848]], he spoke at public meetings in favor of the revolutionary-democratic cause and urged the citizens of [[Düsseldorf]] to prepare themselves for armed resistance in advance of the violence that was expected after the decision of the [[Prussia|Prussian government]] to dissolve the National Assembly.{{Sfn | Dawson | 1891 | p = 120}} Lassalle was subsequently arrested for his involvement in this activity and he was charged with inciting armed opposition to the state.{{Sfn | Dawson | 1891 | pp = 120–1}}
+
+Although Lassalle was acquitted of this serious charge, he was kept in prison until he could be tried on a lesser charge of inciting resistance against public officials.{{Sfn | Dawson | 1891 | p = 121}} He was convicted of this lesser charge and the 23-year-old Lassalle served a sentence of six months in prison.{{Sfn | Dawson | 1891 | p = 121}}
+
+Banned from residence in Berlin in the aftermath of his conviction, Lassalle moved to the [[Rhineland]], where he continued to pursue the lawsuit of the Countess von Hatzfeldt (settled in 1854) and finished his work on the [[philosophy]] of Heraclitus, (completed in 1857 and published in two volumes the following year).{{Sfn | Dawson | 1891 | p = 123}} Reaction to the book was mixed as some declared the work seminal while others, including [[Karl Marx]], considered it a mere recitation of [[Hegelian]] axioms.{{Sfn | Bernstein | 1893 | p = 29}} However, even the book's detractors had to admire the scope of the work and the publication gave Lassalle lasting status among German intellectuals.{{Sfn | Bernstein | 1893 | p = 29}}
+
+During this period, Lassalle was not politically active, although he remained interested in labor affairs. He left his legal practice and philosophy in favor of drama, authoring a play called ''Franz von Sickingen, a Historical Tragedy''.{{Sfn | Bernstein | 1893 | p = 33}} Sent anonymously to the Royal Theatre, the play was rejected by a manager, causing Lassalle to publish it under his own name in 1859.{{Sfn | Bernstein | 1893 | p = 33}} The work was characterized by [[Eduard Bernstein]], an early and sympathetic biographer, as awkward and prone to excessive oratory, unsuited for the stage despite several effective scenes.{{Sfn | Bernstein | 1893 | p = 33}}
+
+Lassalle wanted to live in Berlin and despite the ban in 1859 made his return disguised as a wagon driver.{{Sfn | Dawson | 1891 | p = 125}} Lassalle appealed to his friend, the aging scholar [[Alexander von Humboldt]], to intercede on his behalf before the king to rescind the ban and allow his return.{{Sfn | Dawson | 1891 | p = 125}} The appeal was successful and Lassalle was again officially allowed to live in the Prussian capital.{{Sfn | Dawson | 1891 | p = 125}}
+
+Lassalle avoided revolutionary activity for several years thereafter.{{Sfn | Dawson | 1891 | p = 125}} He became a political commentator and wrote a short book on the war in Italy in which he warned Prussia against rushing to the aid of the [[Austrian Empire]] in its war with France. Lassalle followed this with a larger work on legal theory, published in two volumes in 1861 as ''Das System der erworbenen Rechte'' (''The System of Acquired Rights'').{{Sfn | Dawson | 1891 | p = 127}} According to Bernstein, Lassalle wanted the book "to establish a legal and scientific principle which shall once for all determine under what circumstances, and how far laws may be retroactive without violating the idea of right itself"; that is, determining the circumstances under which laws may be made retroactive when they come into conflict with previously established laws.{{Sfn | Bernstein | 1893 | p = 80}}
+
+=== Political activism ===
+[[File:Lassalle-RussianCDV.jpg|thumb|200px|Photo of Ferdinand Lassalle on a [[carte de visite]]]]
+Only briefly engaged in the revolutionary struggle during 1848, Lassalle reentered public politics in 1862, motivated by a [[constitution]]al struggle in Prussia.{{Sfn | Dawson | 1891 | p = 127}} [[William I, German Emperor|King Wilhelm I]], who became king on 2 January 1861, had repeatedly clashed with the liberal Chamber of Deputies, resulting in multiple dissolutions of the Diet.{{Sfn | Dawson | 1891 | p = 127}} As a recognized legal scholar, Lassalle was asked to make public addresses dealing with the nature of the constitution and its relationship to the social forces within society.{{Sfn | Dawson | 1891 | p = 128}}
+
+Lassalle replied by giving a speech wherein he set out that constitutional matters are merely questions of power. The liberal press was enraged by his speech. Lassalle reacted by holding the same lecture two more times.<ref>{{Cite book|last=Russell|first=Bertrand|url=https://archive.org/details/germansocialdem00russgoog/page/n72/mode/2up|title=German Social Democracy|year=1896|location=London, New York and Bombay|pages=52–53}}</ref>
+
+In another speech, delivered in Berlin on 12 April 1862, later known as the ''Workers' Program,'' Lassalle assigned moral primacy in society to the working class over the bourgeosie, an assertion regarded as dangerous by the Prussian censorship.{{Sfn|Dawson|1891|p=129}} The entire print run of 3,000 copies of the [[pamphlet]] of Lassalle's speech was seized by the authorities, who issued a legal charge against Lassalle for allegedly endangering the public peace.{{Sfn|Dawson|1891|p=129}}
+
+Lassalle was brought to trial to answer this accusation in Berlin on 16 January 1863.{{Sfn|Dawson|1891|p=129}} Lawsuits would continue to interfere with his political activity for the rest of his life. After a widely publicized trial at which he presented his own defense, Lassalle was convicted of the charges levied against him, sentenced to four months' imprisonment and assessed the costs of the trial.{{Sfn|Dawson|1891|p=131}} This term was later replaced by a fine upon appeal.{{Sfn|Dawson|1891|p=131}}
+
+=== Foundation of the socialist party ===
+On 22 October 1862, a few worker delegates that had visited London that had come back with left-wing ideas, published an open letter about the political and economic situation of the working class. Lassalle was delighted to find workers whose ideas went even further than the socialist statements which he made in public, and replied with his own open letter in which he called for a workers party, independent of the liberal [[German Progress Party]].<ref>{{Cite web|last=Bernstein|first=Eduard|title=Gesammelte Reden und Schriften|year=1919 |publisher=Berlin, Paul Cassirer |url=https://archive.org/details/gesammelteredenu03lassuoft/page/16/mode/2up}}</ref>
+
+By arguing that the working class had nothing to gain from the liberal party, he was in a state of war with the liberal party and newspapers for the next months until his death.<ref>{{Cite web|last=Bernstein|first=Eduard|title=Ferdinand Lassalle as a social reformer|url=https://marxists.catbull.com/reference/archive/bernstein/works/1893/lassalle/chap06.htm|access-date=2020-06-19|archive-date=2020-09-18|archive-url=https://web.archive.org/web/20200918224210/https://marxists.catbull.com/reference/archive/bernstein/works/1893/lassalle/chap06.htm|url-status=dead}}</ref> Lassalle soon began a new career as a political agitator, traveling around Germany, giving speeches and writing pamphlets in an attempt to organise and rouse the working class. As he tried to make the working class break with the liberals, this would eventually lead to an alliance with the [[reactionary]] [[Otto von Bismarck|Prince Bismarck]].
+
+In 1864, Lassalle made several secret appeals to Bismarck, later the main proponent of the [[Anti-Socialist Laws]], in favor of the immediate implementation of progressive policies such as [[universal suffrage]]. He also asked for the protection of his own publications from police seizure.{{Sfn|Footman|1994|pp=193–4}} Lassalle attempted to make common cause with the conservative Bismarck in his book ''Herr Basitat-Schulze,'' declaring that he "must inform Your Excellency that this work will bring about the utter destruction of Liberals and the whole Progressive bourgeoisie".{{Sfn|Footman|1994|p=194}} Lassalle asked Bismarck to exert his influence at the Ministry of Justice to prevent the seizure of the book.{{Sfn|Footman|1994|p=194}} The book subsequently appeared without police interference, but Bismarck, occupied with other matters, refused a request by Lassalle for another meeting and no further direct contacts between the pair were made.{{Sfn|Footman|1994|pp=194–5}}
+
+[[Élie Halévy]] would later write on this situation:{{quote|Lassalle was the first man in Germany, the first in Europe, who succeeded in organising a party of socialist action. Yet he viewed the emerging bourgeois parties as more inimical to the working class than the aristocracy and hence he supported universal manhood suffrage at a time when the liberals preferred a limited, property-based suffrage which excluded the working class and enhanced the middle classes. This created a strange alliance between Lassalle and Bismarck. When in 1866 Bismarck founded the [[North German Confederation|Confederation of Northern Germany]] on a basis of universal suffrage, he was acting on advice which came directly from Lassalle. And I am convinced that after 1878, when he began to practise "State Socialism" and "Christian Socialism" and "Monarchial Socialism," he had not forgotten what he had learnt from the socialist leader.<ref name=Halevy>{{Citation | first1 = Élie | last1 = Halévy | first2 = May | last2 = Wallas | title = The Age of Tyrannies | journal = Economica | year = 1941 | volume = 8 | number = 29 | pages = 77–93 | jstor=2549522 | doi = 10.2307/2549522 }}.</ref>}}
+
+The only stated purpose of the party was the winning of equal, universal and direct [[suffrage]] by peaceful and legal means.{{Sfn | Berlau | 1949 | p = 22}}
+
+=== Personality ===
+Lassalle was remembered by biographers as a contradictory personality, earnestly committed to the benefit of the masses, but driven by personal ambition and possessing extreme vanity. Indeed, one early biographer declared:
+
+{{quote|[His vanity] was one of the most striking, though at the same time most harmless traits of his character. His vanity was of the kind that neither hurts nor offends. Vanity seemed natural to him as it is to the peacock, and if he had been less vain he would have been less interesting. Even in his manhood, when at the head of a popular agitation, he was excessively fond of dressing well. He appeared both on the platform and in the Court of Law attired like a fop. He was in the habit, too, of comparing himself with great men. Now it was [[Socrates]], now [[Martin Luther|Luther]], or [[Robespierre]], or [[Richard Cobden|Cobden]], or [[Robert Peel|Sir Robert Peel]], and once he found his parallel by going to [[Faust]]. Heine told him that he had good reason to be proud of his attainments, and Lassalle took Heine at his word.{{Sfn | Dawson | 1891 | pp = 189–90}}}}
+
+[[Bertrand Russell]] said about Lassalle: "No one has ever understood the power of [[activism|agitation]] and organisation better than Lassalle … The secret of his influence lay in his overpowering and imperious will, in his impatience of the passive endurance of evil, and in his absolute confidence in his own power. His whole character is that of an [[Epicureanism#Gods|epicurean god]], unwittingly become man, awakening suddenly to the existence of evil, and finding with amazement that his will is not omnipotent to set it right."<ref>{{Cite book|last=Russell|first=Bertrand|url=https://archive.org/details/germansocialdem00russgoog/page/n62/mode/1up|title=German Social Democracy|year=1896|location=London, New York and Bombay|pages=42}}</ref>
+
+=== Death and legacy ===
+[[File:Grobowiec-Lassal.jpg|thumb|Lassalle's tomb in Breslau, now the [[Old Jewish Cemetery, Wrocław]]]]
+In [[Rigi Kaltbad]], Lassalle met a young woman named Helene von Dönniges and during the summer of 1864 they decided to marry. She was the daughter of a Protestant family<ref>{{cite book | url=https://books.google.com/books?id=u8FWAAAAYAAJ&dq=%22ferdinand+lassalle%22+%22protestant%22&pg=RA12-PP52 | title=Religious pamphlets | year=1921 }}</ref> then living in [[Geneva]], who wanted nothing to do with Lassalle. The father, a historian, prevented Helene from seeing him and Lassalle protested vehemently. Apparently under duress, she soon renounced Lassalle in favour of another suitor, a [[Wallachia]]n prince named [[Count von Racowitza|Iancu Racoviță]], to whom she had previously been betrothed.<ref name="NDB">{{NDB|13|661|669|Lassalle, Ferdinand|Fetscher, Iring|118569910}}</ref>
+
+Lassalle sent [[duel]]ing challenges both to Helene's father von Dönniges and to Racoviță, who accepted. Lassalle had no experience in the use of pistols and only one day to exercise. At the [[Carouge]], a suburb of [[Geneva]], a duel was held on the morning of 28 August. Lassalle was shot in the abdomen by Racoviță and died three days later on 31 August 1864.<ref name="NDB"/> Following the duel Racoviţă fell ill and died not long after Helene von Dönniges married him.
+
+At the time of his death, Lassalle's political party had 4,610 members and no detailed political program.{{Sfn | Berlau | 1949 | p = 22}} The ADAV continued after his death, going on to help establish the [[Social Democratic Party of Germany]] in 1875.  "Lassalle was the first man in Germany, the first in Europe, who succeeded in organising a party of socialist action", according to [[Élie Halévy]]. Or, as [[Rosa Luxemburg]] put it: "what Lassalle managed to wrestle from history in two years of flaming agitation needed many decades to come about".
+
+Ferdinand Lassalle is buried in Breslau (now [[Wrocław]], Poland), in the [[Old Jewish Cemetery, Wrocław|Old Jewish Cemetery]].
+
+== Political relations ==
+
+=== Relations with Marx ===
+Lassalle and [[Karl Marx|Marx]] became friends during the [[Revolutions of 1848]]. When the protests were crushed, Lassalle was imprisoned and Marx fled Germany. They continued correspondence through letters, and would not meet again until 1861. In the meantime Marx grew to distrust Lassalle under influence of [[Friedrich Engels|Engels]], who had never much sympathy for him. Marx often responded to Lassalle's warm letters by mirroring this tone, but in his letters to Engels he expressed antipathy towards Lassalle, including calling him "the Jewish nigger Lassalle".<ref>{{Cite web|last=Marx|first=Karl|title=Marx-Engels Correspondence 1862|url=https://marxists.architexturez.net/archive/marx/works/1862/letters/62_07_30a.htm}}</ref> Lassalle continued to believe that their friendship was genuine until at least 1862.<ref>{{Cite book|last=Mayer|first=Gustav|url=https://archive.org/details/nachgelassenebri03lassuoft/page/n17/mode/2up|title=Nachgelassene Briefe und Schriften|year=1921 |volume=3|location=Stuttgart-Berlin|pages=1–27}}</ref> [[Franz Mehring]] called Marx's "attitude to Lassalle [...] the most difficult psychological problem his life offers".<ref>{{Cite web |last=Mehring |first=Franz |date=1918 |title=Karl Marx: The Story of His Life |url=https://www.marxists.org/archive/mehring/1918/marx/ch06b.htm |access-date=14 March 2022 |website=Marxists.org}}</ref>
+
+The difference in character between the two men presented itself in a clear manner when they had to defend themselves for their support of 1848 revolutions, in front of a jury:<ref>{{Cite web|last=Bernstein|first=Eduard|title=Ferdinand Lassalle as social reformer|url=https://marxists.catbull.com/reference/archive/bernstein/works/1893/lassalle/chap02.htm|access-date=2020-06-19|archive-date=2020-09-18|archive-url=https://web.archive.org/web/20200918232802/https://marxists.catbull.com/reference/archive/bernstein/works/1893/lassalle/chap02.htm|url-status=dead}}</ref>{{Quote|text=Marx refrains from all oratorical flourish; he goes straight to the point, in simple and terse language; sentence by sentence he develops incisively, and with ruthless logic, his own standpoint, and, without any peroration, ends with a summary of the political situation. Anyone would think that Marx’ own personality was in no wise concerned, and that his only business was to deliver a political lecture to the jury. Lassalle’s peroration, on the other hand, lasts almost from beginning to end; he exhausts himself in images – often very beautiful – and superlatives. It is all sentiment, and whether he refers to the cause he represented or to himself, he never speaks to the jury, but to the gallery, to an imaginary mass meeting, and after declaring a vengeance that should be "as tremendous" as "the insult offered the people," he ended with a recitation from [[Schiller]]’s ''[[William Tell (play)|Tell]]''.|author=Eduard Bernstein|title=|source=}}Also on theoretical and political matters, their opinions diverged. Indeed, Marx's essay ''[[Critique of the Gotha Program]]'' is written in part as a reaction to Lassalle's ideas within the [[Social Democratic Party of Germany|socialist party of Germany]]. Lassalle was a German [[Patriotism|patriot]], and supported [[Prussia]] in its quest for German unification. In February 1864, Lassalle wrote to Engels that despite being a republican since infancy, "I have come to the conviction that nothing could have a greater future or a more beneficent role than the monarchy, if it could only make up its mind to become a social monarchy. In that case I would passionately bear its banner, and the constitutional theories would be quickly enough thrown into the lumber room".<ref>Butler, p. 134.</ref>{{Quote|text=Marx was international, Lassalle was national. Marx regards social equivalence as only feasible in his Social Democratic Republic, from which religion was banned, and his idea is a federation of European Republics. Lassalle saw that the European nationalities were still firmly established, that national ideas were a factor of supreme importance, and that religion would long retain an influence which no one could afford to neglect, and he thought it possible, even under existing political circumstances, to give the initial impulse to a movement for transforming social conditions.<ref>{{Cite book|last=Brandes|first=Georg Morris Cohen|url=https://archive.org/details/ferdinandlassall00bran/page/190/mode/2up/|title=Ferdinand Lassalle|year=1911 |pages=190}}</ref>|author=[[Georg Morris Brandes]]|title=|source=}}
+
+=== Relations with Bismarck ===
+[[File:Otto+von+bismarck.jpg|thumb|220px|[[Minister President of Prussia]] [[Otto von Bismarck]], with whom Lassalle started political relations]]
+On 11 May 1863, [[Otto von Bismarck]], Minister President of [[Prussia]], wrote a letter to Lassalle. This letter was delivered and the two met face to face within 48 hours.{{Sfn | Footman | 1994 | p = 175}} This was the first of several such meetings, during which Bismarck and Lassalle freely exchanged views on matters of common concern. This Bismarck-Lassalle correspondence was not made public until 1927 and was therefore not mentioned by earlier biographers.{{Sfn | Footman | 1994 | p = 175}}
+
+In September 1878, Bismarck was pressed by [[Social Democratic Party of Germany|Social Democratic]] representative [[August Bebel]] in the [[Reichstag (German Empire)|Reichstag]] to provide details about his past relationship with Lassalle, prompting the Chancellor to make the following statement:
+
+{{quote|I saw him, and since my first conversation I have never regretted doing so. [...] I saw him perhaps three or four times altogether. There was never the possibility of our talks taking the form of political negotiations. What could Lassalle have offered me? He had nothing behind him. [...] But he attracted me as an individual. He was one of the most intelligent and likable men I had ever come across. He was very ambitious and by no means a republican. He was very much a [[nationalist]] and a [[monarchist]]. His ideal was the [[German Empire]], and here was our point of contact. As I have said he was ambitious, on a large scale, and there is perhaps room for doubt as to whether, in his eyes, the German Empire ultimately entailed the [[Hohenzollern]] or the Lassalle dynasty. [...] Our talks lasted for hours and I was always sorry when they came to an end.{{Sfn | Footman | 1994 | pp = 175–6}}}}
+
+[[Eduard Bernstein]] noted that it is highly unlikely that Bismarck was telling the truth about their relation.<ref>{{Cite web|last=Bernstein|first=Eduard|title=Ferdinand Lassalle as social reformer|url=https://www.marxists.org/reference/archive/bernstein/works/1893/lassalle/index.htm}}</ref>
+
+== Political ideas ==
+Owing to his premature death by a [[duel]] at age 39, just two years after his serious entry into German radical politics, Lassalle's actual contributions to socialist theory are modest. He was remembered by [[Richard T. Ely]], one of the earliest serious scholars of international socialism, as a popularizer of the ideas of others rather than an innovator:
+
+{{quote|Lassalle's writings did not advance materially the theory of social democracy. He drew from [[Rodbertus]] and [[Marx]] in his economic writings, but he clothed their thoughts in such manner as to enable ordinary laborers to understand them, and this they never could have done without his help. [...] Lassalle's speeches and pamphlets were eloquent sermons on texts taken from Marx. Lassalle gave to [[David Ricardo|Ricardo]]'s law of wages the designation the [[iron law of wages]], and expounded to the laborers its full significance. [...]
+
+Laborers were told that this law could be overthrown only by the abolition of the wages system. How Lassalle really thought this was to be accomplished is not so evident.<ref>{{Citation | first = Richard T | last = Ely | title = French and German Socialism in Modern Times | place = New York | publisher = Harper and Brothers | year = 1883 | page = 191}}.</ref>}}
+
+=== State ===
+In contrast with Marx and his adherents, Lassalle rejected the idea that the state was a class-based power structure with the function of preserving existing class relations and destined to [[Withering away of the state|wither away]] in a future [[classless society]]. Instead, Lassalle considered the state as an independent entity, an instrument of justice essential for the achievement of the socialist program.{{Sfn|Berlau|1949|p=21}}
+
+=== Iron law of wages ===
+Lassalle accepted the idea first posited by the [[classical economist]] [[David Ricardo]] that wage rates in the long term tended towards the minimum level necessary to sustain the life of the worker and to provide for his reproduction. In accord with the [[law of rent]], Lassalle coined his own [[iron law of wages]]. Lassalle argued that individual measures of self-help by wage workers were destined to failure and that only producers' [[cooperatives]] established with the financial aid of the state would make economic improvement of the workers' lives possible.{{Sfn | Berlau | 1949 | pp = 21–22}} From this, it followed that the [[political action]] of the workers to capture the power of the state was paramount and the organization of [[trade unions]] to struggle for ephemeral wage improvements is more or less a diversion from the primary struggle.
+
+=== Philosophy ===
+Lassalle considered [[Johann Gottlieb Fichte]] as "one of the mightiest thinkers of all peoples and ages", praising Fichte's ''[[Addresses to the German Nation]]'' in a May 1862 speech as "one of the mightiest monuments of fame which our people possesses, and which, in depth and power, far surpass everything of this sort which has been handed down to us from the literature of all time and peoples".<ref>Rohan Butler, ''The Roots of National Socialism, 1783–1933'' (London: Faber and Faber, 1941), p. 130.</ref>
+
+=== Homosexuality ===
+Lassalle defended a homosexual member of his party, [[Jean Baptista von Schweitzer|Johann Baptista von Schweitzer]], who was attacked{{clarify|date=January 2024}} merely because of his [[sexual orientation]]. Marx and Engels wrote about Schweitzer in a pejorative manner and made jokes about his homosexuality. Lassalle on the other hand defended Schweitzer against such attacks:<ref name=Queer></ref>
+{{Quote|text=Such behavior against a man of your character and your intelligence only proves how confused and narrow-minded the political ideas of our people still are. I, for my part at least, whatever the members of our Association may say, will never hide the fact that I have the highest respect for you and set the highest value on yours, and I therefore leave it to you to show this letter to whomever you wish.<ref name=Queer></ref>}}
+Lassalle also responded by walking with Schweitzer, arm in arm, through [[Frankfurt]]. He reminded that in [[Ancient Greece]] homosexuality was socially acceptable: "However incomprehensible such unnatural tastes appear to us, the tendency of which Dr. von Schweitzer is accused was the general rule among the ancient Greeks, their statesmen and their philosophers. Ancient Greece saw nothing wrong in it, and I consider the great Greek philosophers and the Greek people knew the meaning of morality."<ref name=Queer>{{Cite journal |last=Kennedy |first=Hubert |date=February 1995 |title=Johann Baptist von Schweitzer:: The Queer Marx Loved to Hate |url=https://www.researchgate.net/publication/14534042 |journal=Journal of Homosexuality |volume=29 |issue=2–3 |pages=69–96 |doi=10.1300/J082v29n02_03 |pmid=8666759 |via=ResearchGate}}</ref>
+
+== Works ==
+=== German editions ===
+* ''[[Die Philosophie Herakleitos des Dunklen von Ephesos]]'' (The Philosophy of Heraclitus the Obscure of Ephesus) Berlin: Franz Duncker, 1858.
+* ''Der italienische Krieg und die Aufgabe Preussens: eine Stimme aus der Demokratie'' (The Italian War and the Tasks of Prussia: A Voice of Democracy). Berlin: Franz Duncker, 1859.
+* ''Das System der erworbenen Rechte'' (The System of Acquired Rights). Two volumes. Leipzig: 1861.
+* ''Über Verfassungswesen: zwei Vorträge und ein offenes Sendschreiben'' (On The Essence of a Constitution: Two Lectures and an Open Letter). Berlin: 1862.
+* ''Offenes Antwortschreiben an das Zentralkomitee zur Berufung eines Allgemeinen Deutschen Arbeiter-Kongresses zu Leipzig'' (Open Letter Answering the Central Committee on the Convening of a General German Workers' Congress in Leipzig). Zürich: Meyer and Zeller, 1863.
+* ''Zur Arbeiterfrage: Lassalle's Rede bei der am 16. April in Leipzig abgehaltenen Arbeiterversammlung nebst Briefen der Herren Professoren Wuttke und Dr. Lothar Bucher.'' (On the Labor Problem: Lassalle's Speech on the 16th of April [1863] at a Leipzig Workers' Meeting, Together with the Letters of Professor Wuttke and Dr. Lothar Bucher). Leipzig: 1863.
+* ''Herr Bastiat-Schulze von Delitzsch, der ökonomische Julian, oder Kapital und Arbeit'' (Mr. Bastiat-Schulze von Delitzsch, the Economic Julian, or, Capital and Labour). Berlin: Reinhold Schlingmann, 1864.
+* ''Reden und Schriften'' (Speeches and Writings). In three volumes. New York: Wolff and Höhne, n.d. [1883].
+* ''Gesammelte Reden und Schriften'' (Collected Speeches and Writings). In 12 volumes. Berlin: P. Cassirer, 1919–1920.
+**<small>[https://archive.org/details/gesammelteredenu01lassuoft vol. 1] | [https://archive.org/details/gesammelteredenu02lassuoft vol. 2] | [https://archive.org/details/gesammelteredenu03lassuoft vol. 3] | [https://archive.org/details/gesammelteredenu04lassuoft vol. 4] | [https://archive.org/details/gesammelteredenu05lassuoft vol. 5] | [https://archive.org/details/gesammelteredenu06lassuoft vol. 6] | [https://archive.org/details/gesammelteredenu07lassuoft vol. 7] | [https://archive.org/details/gesammelteredenu08lassuoft vol. 8] | [https://archive.org/details/gesammelteredenu09lassuoft vol. 9] | [https://archive.org/details/gesammelteredenu10lassuoft vol. 10] | [https://archive.org/details/gesammelteredenu11lassuoft vol. 11] | [https://archive.org/details/gesammelteredenu12lassuoft vol. 12]</small>
+
+=== English translations ===
+* [https://archive.org/details/workingmansprogr00lassiala ''The Working Man's Programme: An Address.''] Edward Peters, trans. London: The Modern Press, 1884.
+* ''What is Capital?'' F. Keddell, trans. New York: New York Labor News Co., 1900.
+* ''Lassalle's Open Letter to the National Labor Association of Germany.'' John Ehmann and Fred Bader, trans. New York: International Library Publishing, 1901. <small>Originally published in US in 1879.</small>
+* [https://archive.org/details/franzvonsickinge00tranrich Franz von Sickingen: A Tragedy in Five Acts.] Daniel DeLeon, trans. New York: New York Labor News, 1904.
+* ''Voices of Revolt, Volume 3: Speeches of Ferdinand Lassalle with a Biographical Sketch.'' Introduction by Jakob Altmaier. New York: International Publishers, 1927.
+
+== See also ==
+* [[Friedrich Engels]], German contemporary who explicitly references Lassalle in his preface to the 1890 German edition of ''[[The Communist Manifesto]]''
+* [[General German Workers' Association]]
+* [[International Workingmen's Association]]
+* [[Iron law of wages]]
+* [[Lassallism]]
+* [[Critique of the Gotha Programme]]
+* [[Night-watchman state]]
+* [[Pierre-Joseph Proudhon]], French contemporary anarchist theorist
+
+== Notes ==
+{{reflist|40em}}
+
+== References ==
+* {{citation | first = A Joseph | last = Berlau | title = The German Social Democratic Party, 1914–1921 | place = New York | publisher = Columbia University Press | year = 1949}}.
+* {{citation | first = Edward | last = Bernstein | title = Ferdinand Lassalle as a Social Reformer | place = London | publisher = Swan Sonnenschein & Co | year = 1893}}.
+* {{citation | first = WH | last = Dawson | url = https://archive.org/details/germansocialism01dawsgoog | title = German Socialism and Ferdinand Lassalle | place = London | publisher = Swan Sonnenschein | year = 1891}}.
+* {{citation | first = David | last = Footman | title = The Primrose Path: A Biography of Ferdinand Lassalle | place = London | publisher = Cresset Press | year = 1994}}.
+* {{Cite EB1911|wstitle= Lassalle, Ferdinand |volume= 16 |last= Kirkup |first= Thomas | pages = 235&ndash;236 |short= 1}}
+
+== Further reading ==
+* [[Eduard Bernstein]], [http://www.marxists.org/reference/archive/bernstein/works/1893/lassalle/index.htm ''Ferdinand Lassalle as a Social Reformer.''] Eleanor Marx Aveling, trans. London: Swan Sonnenschein, 1893.
+* William Harbutt Dawson, [https://archive.org/details/germansocialism01dawsgoog ''German Socialism and Ferdinand Lassalle.''] London: Swan Sonnenschein, 1891.
+* David Footman, ''The Primrose Path: A Biography of Ferdinand Lassalle.'' London: Cresset Press, 1946.
+* Arno Schirokauer, ''Lassalle: The Power of Illusion and the Illusion of Power.'' Eden and Cedar Paul, trans. London: George Allen and Unwin, 1931.
+*Carlton J. H. Hayes. “The History of German Socialism Reconsidered.” The American Historical Review 23, no. 1 (1917): 62–101. [https://doi.org/10.2307/1837686].
+
+== External links ==
+{{Commons}}
+* {{citation|url=http://www.marxists.org/archive/lassalle/|title=Ferdinand Lassalle|format=archive|publisher=[[Marxists Internet Archive]]}}
+* {{PM20|FID=pe/010995}}
+
+{{social democracy}}
+{{socialism}}
+{{authority control}}
+
+{{DEFAULTSORT:Lassalle, Ferdinand}}
+[[Category:Ferdinand Lassalle| ]]
+[[Category:1825 births]]
+[[Category:1864 deaths]]
+[[Category:Deaths by firearm in Switzerland]]
+[[Category:Politicians killed in duels]]
+[[Category:European social democrats]]
+[[Category:General German Workers' Association politicians]]
+[[Category:German social democrats]]
+[[Category:Jewish German politicians]]
+[[Category:Jewish socialists]]
+[[Category:Lawyers from Wrocław]]
+[[Category:People from the Province of Silesia]]
+[[Category:German people of the Revolutions of 1848]]
+[[Category:Political party founders]]
+[[Category:Politicians from Wrocław]]
+[[Category:Socialist economists]]

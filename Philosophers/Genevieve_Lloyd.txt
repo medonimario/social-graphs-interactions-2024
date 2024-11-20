@@ -1,0 +1,57 @@
+{{Short description|Australian philosopher and feminist}}
+{{Use dmy dates|date=October 2016}}
+{{Use Australian English|date=October 2016}}
+'''Genevieve Mary Lloyd''' {{Post-nominals|country=AUS|FAHA}} (born 16 October 1941 at [[Cootamundra, New South Wales]]), is an Australian [[philosopher]] and [[feminism|feminist]].
+
+==Biography==
+Lloyd studied philosophy at the [[University of Sydney]] in the early 1960s and then at [[Somerville College, Oxford]]. Her [[Doctor of Philosophy|D.Phil]], awarded in 1973, was on "Time and Tense". From 1967 until 1987 she lectured at the [[Australian National University]], during which period she developed her most influential ideas and wrote ''[[The Man of Reason]]'', which was published in 1984. In 1987 she was appointed to the chair of philosophy at the [[University of New South Wales]], being the first female professor of philosophy appointed in Australia.<ref name=eophcit>[http://www.bookrags.com/research/lloyd-genevieve-1941-eoph/ Lloyd, Genevieve (1941–)] ''Encyclopedia of Philosophy'' Macmillan Reference USA, cited at BookRags{{subscription required}}</ref> She was elected a Fellow of the [[Australian Academy of the Humanities]] in 1995.<ref>{{Cite web |title=Fellow Profile: Genevieve Lloyd |url=https://humanities.org.au/fellows/fellow-profile/?fellow_id=445 |access-date=2024-04-29 |website=Australian Academy of the Humanities |language=en-AU}}</ref> On retirement, she was appointed [[Professor]] [[Emeritus|Emerita]].
+
+==Philosophical work==
+Lloyd's 1979 paper ''The Man of Reason'' explores the influence of seventeenth century [[Rationalism|rationalist]] philosophy on contemporary views of gender and reason.<ref>{{cite journal |last1=Lloyd |first1=Genevieve |title=The Man of Reason |journal=Metaphilosophy |date=1979 |volume=10 |issue=1 |pages=18–37 |doi=10.1111/j.1467-9973.1979.tb00062.x |jstor=24435599 |url=https://www.jstor.org/stable/24435599 |access-date=3 May 2023}}</ref>  It argues that [[René Descartes|Cartesian method]] encouraged a new polarisation between reason, on the one side, and emotion and imagination on the other.  The ''Man of Reason'' was further elevated to an ethical (not merely epistemic) ideal in Spinoza's [[Ethics (Spinoza book)|Ethics]].  Even though Descartes and Spinoza's rationalism is less popular today, Lloyd argues that we continue to live with the ideal of the Man of Reason their work gave rise to.  She went on to develop these ideas further in her 1984 [[The Man of Reason|book]] of the same name.
+
+==Bibliography==
+=== Books ===
+* {{cite book | last = Lloyd | first = Genevieve | title = [[The Man of Reason|The man of reason: "male" and "female" in Western philosophy]] | year = 1986 | orig-year = 1984 | publisher = Methuen & Co Ltd | isbn = 0-416-34920-X }} 
+* {{cite book | last = Lloyd | first = Genevieve | title = The man of reason: "male" and "female" in Western philosophy (second ed.) | year = 1993 | publisher = [[Routledge]] | isbn = 0-415-09681-2 }} 
+* {{cite book | last = Lloyd | first = Genevieve | title = Being in time: selves and narrators in philosophy and literature | url = https://archive.org/details/beingintimeselve0000lloy | url-access = registration | year = 1993 | publisher = [[Routledge]] | isbn = 9780415071963 }} 
+* {{cite book | last = Lloyd | first = Genevieve | title = Part of nature: self-knowledge in Spinoza's Ethics | year = 1994 | publisher = [[Cornell University Press]] | isbn = 9780801429996 | url-access = registration | url = https://archive.org/details/partofnatureself00lloy }} 
+* {{cite book | last = Lloyd | first = Genevieve | title = Routledge philosophy guidebook to Spinoza and the ethics | year = 1996 | publisher = [[Routledge]] | isbn = 9780415107822 }} 
+* {{cite book | last1 = Lloyd | first1 = Genevieve | last2 = Gatens | first2 = Moira | author-link2 = Moira Gatens | title = Collective imaginings: Spinoza, past and present | year = 1999 | publisher = [[Routledge]] | isbn = 9780415165716 }} 
+* {{cite book | last = Lloyd | first = Genevieve | title = Spinoza: critical assessments | year = 2001 | publisher = [[Routledge]] | isbn = 9780415186223 }} 
+* {{cite book | last = Lloyd | first = Genevieve | title = Feminism and history of philosophy | year = 2002 | publisher = [[OUP]] | isbn = 9780199243747 }} 
+* {{cite book | last = Lloyd | first = Genevieve | title = Providence lost | year = 2008 | publisher = [[Harvard University Press]] | isbn = 9780674031531 }}
+* {{cite book | last = Lloyd | first = Genevieve | title = Enlightenment Shadows | year = 2013 | publisher = [[Oxford University Press]] | isbn = 9780199669561 }}
+* {{cite book | last = Lloyd | first = Genevieve | title = Reclaiming Wonder: After the Sublime | year = 2018 | publisher = [[Edinburgh University Press]] | isbn = 9781474433112 }}
+
+=== Chapters in books ===
+* {{citation | last = Lloyd | first = Genevieve | contribution = The man of reason | editor-last1 = Cudd | editor-first1 = Ann E. | editor-last2 = Andreasen | editor-first2 = Robin O. | editor-link1 = Ann Cudd | title = Feminist theory: a philosophical anthology | publisher = Blackwell Publishing | pages = 177–187 | location = Oxford, UK Malden, Massachusetts | year = 2005 | isbn = 9781405116619 | postscript = .}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://uhaweb.hartford.edu/moen/for%20WKV%20site/LLOYDHelpsheet.html Help Sheet on Genevieve Lloyd]
+* [https://web.archive.org/web/20070927224143/http://members.cruzio.com/~syoung/Terra/eng2a3c.htm Women of Philosophy, Stirring Up The Pot] Report of talk
+* [https://web.archive.org/web/20060903035454/http://dscholarship.lib.fsu.edu/cgi/viewcontent.cgi?article=1157&context=undergrad Waking Sleeping Beauty] Honours thesis discussing Lloyd on [[Descartes]] {{dead link|date=September 2010}}
+* {{Australian Women and Leadership|WLE0358b|Lloyd, Genevieve Mary}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lloyd, Genevieve}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:Australian non-fiction writers]]
+[[Category:Alumni of Somerville College, Oxford]]
+[[Category:University of Sydney alumni]]
+[[Category:Academic staff of the Australian National University]]
+[[Category:Academic staff of the University of New South Wales]]
+[[Category:Australian women philosophers]]
+[[Category:Scholars of feminist philosophy]]
+[[Category:20th-century Australian philosophers]]
+[[Category:21st-century Australian philosophers]]
+[[Category:Australian feminist writers]]
+[[Category:Spinoza scholars]]
+
+
+{{Australia-philosopher-stub}}
+[[Category:Fellows of the Australian Academy of the Humanities]]

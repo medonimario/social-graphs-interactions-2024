@@ -1,0 +1,63 @@
+{{Short description|German philosopher (1635–1703)}}
+{{distinguish|Johannes Sturm}}
+{{Infobox person
+| name        = Johann Sturm
+| image       = Johann Christoph Sturm.jpg
+| alt         = 
+| caption     = 
+| birth_name  = 
+| birth_date  = {{Birth date|df=y|1635|11|3}}
+| birth_place = [[Hilpoltstein]]
+| death_date  = {{Death date and age|df=y|1703|12|26|1635|11|3}}
+| death_place = [[Altdorf bei Nürnberg]]
+| nationality = German
+| other_names = 
+| known_for   = 
+| occupation  = Philosopher
+}}
+
+'''Johann Christoph Sturm''' (3 November 1635 – 26 December 1703)<ref name="google">{{cite book|title=A New and General Biographical Dictionary|author1=Tooke, W.|author2=Beloe, W.|author3=Nares, R.|date=1798|publisher=G. G. and J. Robinson|page=[https://archive.org/details/newgeneralbiogra14took/page/221 221]}}</ref> was a German [[philosopher]], professor at [[University of Altdorf]] and founder of a short-lived scientific academy known as the [[Collegium Curiosum]], based on the model of the Florentine [[Accademia del Cimento]].<ref name=EB14>{{cite encyclopedia |year=1930 |title=Academies: Scientific Academies |encyclopedia=Encyclopaedia Britannica |edition=14|volume=1|page=81 |language=en}}</ref> He edited two volumes of the academy's proceedings under the title ''Collegium Experimentale'' (1676 and 1685).<ref name=EB14/> In 1670, he translated the works of Archimedes into German.<ref name="google"/>
+
+Sturm is the author of ''Physica Electiva'' (1697), a book that criticized [[Gottfried Wilhelm Leibniz]] and prompted him to publish a [[rebuke]]. Sturm's critique was aimed at Leibniz's view that [[Nature]] and/or its constituent parts possess some creative force of their own. This criticism was partly [[theological]], in that Sturm claimed Leibniz's view of Nature undermined the sovereignty of the [[Christian God]].<ref>Gottfried Leibniz, Philosophical Papers and Letters, ed. by Leroy Loemker, (Dordrecht, Holland: D. Reidel Publishing, 1969) 499-508.</ref>
+
+==Works==
+* ''Collegium experimentale'', Nuremberg: Endter, vol. 1 (1676), available [http://diglib.hab.de/wdb.php?dir=drucke/nc-509-1 here] and [https://web.archive.org/web/20110719154655/http://digital.slub-dresden.de/sammlungen/titeldaten/271502983/ here]; vol. 2 (1685) available [https://web.archive.org/web/20110719154715/http://digital.slub-dresden.de/sammlungen/titeldaten/271508469/ here], [http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-95099 here], and [http://diglib.hab.de/wdb.php?dir=drucke/nc-509-2 here].
+* ''Physica electiva sive hypothetica'', vol 1, Nuremberg: Endter, 1697, available [https://books.google.com/books?id=BWQ_AAAAcAAJ here] and [http://diglib.hab.de/wdb.php?dir=drucke/xb-255-1 here]; vol.2, Altdorf: Kohles, 1698.
+
+As well as the following: <ref name="google2">{{cite book|title=The General Biographical Dictionary: Containing an Hist. and Crit. Account of the Lives and Writings of the Most Eminent Persons in Every Nation; Particularly the British and Irish; from the Earliest Accounts to the Present Time. Sim - Sty|author=Chalmers, A.|date=1816|volume=28|publisher=Nichols|url=https://books.google.com/books?id=YMI5AAAAcAAJ&pg=PA495|page=495|accessdate=2017-01-08}}</ref>
+* ''Mathesis Juvenilis''
+* ''Physica Modernae Compendium''
+* ''Praelectiones Academicae''
+* A list of works by Sturm with links to online versions is available at [http://naa.net/ain/personen/show.asp?ID=46 Astronomie in Nürnberg], section "Ausgewählte Werke".
+
+<gallery>
+File:Acta Eruditorum - II astronomia, 1690 – BEIC 13400291.jpg|Illustratiom from ''Excerpta ex literis...'' published in [[Acta Eruditorum]], 1690
+File:Sturm, Johann Christoph – Physica electiva sive hypothetica, 1730 – BEIC 8658008.jpg|''Physica electiva sive hypothetica''
+</gallery>
+
+==Further reading==
+* Ahnert, Thomas (2002), ''The Culture of Experimentalism in the Holy Roman Empire: Johann Christoph Sturm (1635-1703) and the Collegium Experimentale'' [http://sammelpunkt.philo.at/308/] {{Webarchive|url=https://web.archive.org/web/20200606123109/http://sammelpunkt.philo.at/308/ |date=2020-06-06 }}.
+* Wiesenfeldt, Gerhard, "[http://blogs.otago.ac.nz/emxphi/2010/12/experimental-philosophy-in-universities-eclecticism/ Speculative and Experimental Philosophy in Universities: Eclecticism] {{Webarchive|url=https://web.archive.org/web/20110809125049/https://blogs.otago.ac.nz/emxphi/2010/12/experimental-philosophy-in-universities-eclecticism/ |date=2011-08-09 }}", ''[https://blogs.otago.ac.nz/emxphi/ Early Modern Experimental Philosophy]'', 6 December 2010.
+* [[A philosophical and mathematical dictionary]] by [[Charles Hutton]]<ref name="mpiwg-berlin">{{cite web|url=http://archimedes.mpiwg-berlin.mpg.de/cgi-bin/toc/toc.cgi?page=1246;dir=hutto_dicti_078_en_1795;step=textonly|publisher=archimedes.mpiwg-berlin.mpg.de|title=Archimedes Project|accessdate=2017-01-08}}</ref>
+* [[The Biographical Treasury]] by [[Samuel Maunder]]<ref name="google3">{{cite book|title=The biographical treasury: a dictionary of universal biography|author=Maunder, S.|date=1838|publisher=Longman|url=https://books.google.com/books?id=zloEAAAAQAAJ&pg=PT774|accessdate=2017-01-08}}</ref>
+* [[John Gorton's General Biographical Dictionary]]<ref name="google4">{{cite book|title=A General Biographical Dictionary|author=Gorton, J.|date=1838|volume=3|publisher=Whittaker and Company|url=https://books.google.com/books?id=kzVjAAAAMAAJ&pg=RA1-PT200|accessdate=2017-01-08}}</ref>
+* [[Alexander Chalmers' General Biographical Dictionary]]<ref name="google2"/>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category-inline}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sturm, Johann}}
+[[Category:1635 births]]
+[[Category:1703 deaths]]
+[[Category:Academic staff of the University of Altdorf]]
+[[Category:17th-century German philosophers]]
+[[Category:17th-century German writers]]
+[[Category:17th-century German male writers]]
+[[Category:17th-century German mathematicians]]
+[[Category:17th-century German translators]]
+[[Category:People from Roth (district)]]

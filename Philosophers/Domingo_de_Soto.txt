@@ -1,0 +1,133 @@
+{{Short description|Spanish theologian (1494–1560)}}
+{{Infobox philosopher
+| region           = {{tree list}}
+* [[Western philosophy]]
+** [[Spanish philosophy]]{{tree list/end}}
+| era              = {{flatlist|
+* [[Early modern philosophy]]
+* [[Renaissance philosophy]]
+}}
+| image            = DOMINGO DE SOTO016.JPG
+| honorific_prefix = [[The Reverend]]
+| name             = Domingo de Soto
+| honorific_suffix = {{post-nominals|post-noms=[[Dominican Order|OP]]}}
+| other_names      = 
+| birth_date       = 1494
+| birth_place      = [[Segovia]], [[Crown of Castile]]
+| death_date       = {{Death date and age|1560|11|15|1494|||df=y}}
+| death_place      = [[Salamanca]], [[Crown of Castile]]
+| school_tradition = [[Scholasticism]]<br>[[Medieval realism]]<br>[[School of Salamanca]]
+| alma_mater       = {{flatlist|
+* [[University of Alcalá]]
+* [[University of Paris]]
+}}
+| main_interests   = [[Theology]], [[metaphysics]], [[Philosophy of law]]
+| notable_ideas    = 
+}}
+
+'''Domingo de Soto''', [[Dominican Order|O.P.]] (1494 – 15 November 1560) was a Spanish [[Dominican order|Dominican]] priest and [[Scholasticism|Scholastic]] theologian born in [[Segovia]] ([[Spain]]), and died in [[Salamanca]] ([[Spain]]), at the age of 66. He is best known as one of the founders of international law and of the Spanish Thomistic philosophical and theological movement known as the [[School of Salamanca]].
+
+He is also known for his contributions to mechanical physics: His works on [[mechanics]], which he presented in his book "''Physicorum Aristotelis quaestiones''", in 1551, served as the basis for [[Galileo Galilei|Galileo]]'s and [[Isaac Newton]] studies.
+
+==Biography==
+De Soto was born in [[Segovia]] in 1494. He studied philosophy and theology at the Universities of [[University of Alcalá|Alcalá]] and [[University of Paris|Paris]], and obtained a chair in philosophy at Alcalá in 1520. Soto resigned from this post suddenly and headed for the [[Santa Maria de Montserrat Abbey|abbey of Montserrat]], hoping to join the [[Benedictines]], but he was instead led to the [[Dominican Order|Dominicans]], entering their community at San Pablo de Burgos in 1524 and becoming professor of dialectics at their Segovia house of studies in 1525. Appointed to the Dominican chair in theology at Salamanca in 1532,<ref>{{CathEncy|wstitle=Dominic Soto}}</ref> he was promoted to the principal chair in 1552, as successor to [[Melchor Cano]].
+
+From his earliest days in the university classroom, Soto undertook an attack on the ''via moderna'' and pressed for a revival of [[Aristotle]]. At [[University of Salamanca|Salamanca]] he collaborated with [[Francisco de Vitoria]] and Cano in their methodological reforms and on the development of what came to be known as positive or [[fundamental theology]]. Sent as imperial theologian to the [[Council of Trent]] by the emperor [[Charles V, Holy Roman Emperor|Charles V]], Soto soon distinguished himself for his learning and piety (1545–1547). Steering the council away from compromise with the Protestants, he served as one of the principal defenders of tradition on such key questions as [[original sin]], [[predestination]], [[Justification (theology)|justification]], the scriptural canon, and the authority of the [[Vulgate|Vulgate Bible]].
+
+In 1547, when the council was interrupted, Soto was appointed confessor and spiritual adviser to Charles V, a post he fulfilled for two years. Immensely pleased by Soto, Charles offered him the bishopric of Segovia. Soto refused the honor and in 1550 returned to teaching at Salamanca. That same year he took part in the celebrated [[Valladolid debate|debate held at Valladolid]] on the treatment of New World natives, joining his Dominican brethren in a thorough condemnation of the idea that the Indians were inferior beings worthy of [[Slavery|enslavement]]. Soto’s chief opponent in this controversy was [[Juan Ginés de Sepúlveda]], chaplain and official chronicler to Emperor Charles V. Sepúlveda’s defeat at the hands of Soto and other Dominicans led to the enactment of [[New Laws|laws protecting the rights of native peoples in the New World]].
+
+In addition to producing such influential philosophical and theological works as the ''Summulae'' (1529), a manual of [[logic]]; ''De natura et gratia'' (1547), a polemic against Protestant [[soteriology]]; and his commentaries on Aristotle (1543 and 1545), on [[Paul the Apostle|Paul]]'s [[epistle to the Romans]] (1550), and on [[Peter Lombard]]'s ''[[Sentences]]'' (1557), Soto contributed significantly to the development of political and legal theory, principally through his ''De iustitia et iure'' (1553), his most important jurisprudential work, in which he proposed that the ordinance of reason (''rationis ordinatio'') was the mechanism by which laws could be evaluated. He also took the view that international law ([[jus gentium]]) was a part of the law of specific communities (later termed [[positive law]]) rather than a moral or natural law.
+
+True to the [[school of Salamanca]]'s predilection for ethical questions and to its conviction that theology should be used to create a Christian moral order based on [[natural law]], Soto also devoted attention to the issue of [[poverty]], producing a landmark study, ''Deliberatio in causa pauperum'' (1545), and devising ways to feed and lodge the poorer students at Salamanca. Like his fellow Spanish Dominicans Vitoria and Cano, Soto contributed substantially to the reinvigoration of Roman Catholicism in the sixteenth century by strengthening and broadening the theological curriculum, by stressing the need for continuity with the scholastic tradition (especially with [[Thomism]]), and by actively seeking [[social justice]]. 
+
+Soto died in [[Salamanca]] on 15 November 1560.
+
+==Thought==
+[[File:Soto - De iustitia & iure, 1568 - 397.tif|thumb|''De iustitia et iure'', 1568.]]
+===Usury===
+De Soto was concerned about the complexity that had emerged from unclear moral standards of [[usury]]. He complained that the merchants had invented convoluted schemes in order to meet the conflicting demands of church leaders.{{sfn|Poitras|2016|p=75}}{{sfn|Poitras|2000|p=81}} His position should be seen within the background of his Dominican background and historical context.{{sfn|Todeschini|2009|p=186}} De Soto was involved in an active debate in the medieval era on the sterility of money and the requirements of [[natural law]] given this sterility.{{sfn|Garcia|1985|p=75-77}}{{sfn|Doe|2017|p=13}} His rationale on interest is explained by Langholm.{{sfn|Langholm|1998|p=73-74, 235-237}} Woods and D'Emic characterize de Soto's attitude toward [[usury]] in significantly different ways. D'Emic reports that De Soto thought voluntary contributions given from borrower to lender in gratitude were acceptable, but strictly forbid the lender from pressuring the borrower.{{sfn|D'Emic|2014|p=16}} He also asserts that De Soto thought lenders were permitted to hope for such contributions along with other motives of benevolence and friendship, but regarded the sole motivation of financial gain as immoral "mental usury".{{sfn|D'Emic|2014|p=16}} Woods, on the other hand, reports that De Soto did not believe Christ had declared usury to be sinful at all, and did not believe that {{cite bible|Luke|6:35}} had anything to do with lending at interest.{{sfn|Woods|2015|p=111}}
+
+===Mechanics===
+{{See also|History of gravitational theory}}
+In 1551, Domingo de Soto became the first to state that a body in [[free fall]] accelerates uniformly.<ref>{{Cite book|last=Wallace|first=William A.|url=https://books.google.com/books?id=8GxQDwAAQBAJ&pg=PR21|title=Domingo de Soto and the Early Galileo: Essays on Intellectual History|publisher=Routledge|year=2018|isbn=978-1-351-15959-3|location=Abingdon, UK|pages=119|language=en|orig-year=2004}}</ref> This key concept of physics was essential for the later studies of gravity by [[Galileo]] and [[Isaac Newton|Newton]]. Galileo credited De Soto as his inspiration and source of his studies, but [[Isaac Newton]] despite having read [[Galileo Galilei ]] never mentioned him. In the 20th century, [[Pierre Duhem]] credited him with important achievements in dynamics and viewed his work as a forerunner of modern mechanics.<ref>{{cite book|last=Duhem|first=Pierre|title=Etudes sur Léonard de Vinci|publisher=Hermann|year=1913|volume=3|language=French|oclc=612509355|authorlink=Pierre Duhem}}</ref><ref>{{cite book|author=Wallace, William A.|title=Domingo de Soto and the Early Galileo|publisher=Ashgate Publishing|year=2004|isbn=0-86078-964-0|location=Aldershot}}</ref>
+
+===Law===
+In 1556, Soto published a treatise on law, ''De Justitia and Jure'' (''Justice and the Law''), that is considered a foundational text in the general theory of law, and international law, in particular. This opus was also considered as one of the first attempt of systematisation of Contract Law,{{sfn|Decock|2013|p=53}} even if this characteristic must be reevaluated in light of previous works of german legal thinkers like [[Matthew of Kraków]] and {{ill|Konrad Summenhart|de}}.{{sfn|Decock|2013|p=53-54}}
+
+More conservative than the later members of the [[School of Salamanca]],{{sfn|Decock|2016|p=85}} Soto believed that, although [[contractual freedom]] stemed from [[natural law]] does indeed exists,{{sfn|Decock|2013|p=373}} it must been more supervised by the authorities, which are attentive to public interests. They can, for example, restrict free management of people's goods, due to immaturity, ill or insanity,{{sfn|Decock|2013|p=372}} or scrupulously apply the prohibition of [[usury]].{{sfn|Decock|2016|p=85}} Opposed like [[Francisco de Vitoria]] to any contractual consensualism,{{sfn|Decock|2013|p=369-384}} Soto was criticized by [[Leonardus Lessius]] and [[Luis de Molina]].{{sfn|Decock|2013|p=437}}
+
+Like his teacher [[Francisco de Vitoria]], Soto helped to provide a modern insight to the Spanish conquests in the New World, helping to build the concept of people's rights, including the right to private property of the native Americans.<ref>Sebastián Contreras. (2013) 'La determinación del Derecho en Domingo de Soto y Francisco Suárez'.http://dx.doi.org/10.4067/S0716-54552013000100021.</ref> 
+
+Soto is also famous for having defended the rights of the legitimate poor, based on [[natural law]], against imperial and urban policies restricting access to poor relief<ref>{{Cite book |last=Schwartz |first=Daniel |title=Introduction, in: Domingo de Soto, Deliberation on the Cause of the Poor (ed. W. Decock, transl. J. Possemiers and J. Lasquety-Reyes) |publisher=CLP Academic |year=2022 |isbn=978-1949011098 |location=Grand Rapids |pages=ix-xliii}}</ref> and secularizing charities,<ref>{{cite book|language=en|last1=Decock|first1=Wim|chapter=Salamanca Meets Secularism. Clerics’ Role in the Administration of Justice and Charity|title=Protestants Legacies in Nordic Law. The Early Modern Period|editor1=T. Rasmussen|editor2=J. Sunde|publisher=Brill-Schöningh|date=2023|pages=57-78}}</ref> as advocated by [[Juan Luis Vives]].{{sfn|Decock|2022|p=252-255}} For him, the rich and the poors are binded in a symbiotic relation of mutual necessity, inasmuch as the second need the material support of the first to survive but the first need also the second to apply [[charity (Christian virtue)|charity]] and get the [[Salvation in Christianity|salvation of their souls]].{{sfn|Decock|2022|p=255}}
+
+==Works==
+*''Summulae'', 1529. (A manual of logic.)
+*''De ratione tegendi et detegendi secretum'', 1541
+*[https://books.google.com/books?id=_EKD05-0rqwC ''In dialecticam Aristotelis commentarii''], 1544
+*''In VIII libros physicorum'', 1545 (An influential commentary on Aristotle's ''Physics''.)
+*''Deliberacion en la causa de los pobres'', 1545
+*''De natura et gratia libri III'', 1547 (A treatise on original sin and grace, written from a Thomistic point of view.)
+*''Comment. in Ep. ad Romanos'', 1550
+*''In IV sent. libros comment.'' 1555-6.
+*''De justitia et jure libri X'', 1556 (A treatise on law.)
+* Jaime Brufau Prats and Sixto Sanchez-Lauro, eds. Domingo de Soto, OP., ''Relecciones y opúsculos'' (Salamanca, Editorial San Esteban, 2011).
+
+==Notes==
+{{reflist}}
+
+==References==
+*[https://web.archive.org/web/20081222021652/http://cepa.newschool.edu/het/schools/salamanca.htm History of Economic Thought "Salamanca School"]
+* {{cite book |last=D'Emic |first=M.T. |title=Justice in the Marketplace in Early Modern Spain: Saravia, Villalon and the Religious Origins of Economic Analysis |publisher=Lexington Books |year=2014 |isbn=978-0-7391-8129-4 |url=https://books.google.com/books?id=4aXcAwAAQBAJ&pg=PA16 }}
+* {{cite journal|language=fr|last1=Decock|first1=Wim|title=Mendicité et migration. Domingo de Soto, O.P., sur les droits fondamentaux des pauvres|journal=Revue de droit canonique|volume=72|issue=1-2|date=2022|pages=243-265}}
+* Decock, W. (2016). [https://www.academia.edu/37718587/Domingo_de_Soto_De_iustitia_et_iure Domingo de Soto: De iustitia et iure (1553-1554)]. In: S. Dauchy et al. (eds.), The Formation and Transmission of Western Legal Culture. 150 Books that Made the Law in the Age of Printing, 2016, 84-86.
+* Decock, W. (ed.), Schwartz D. (introd.), Possemiers, J., Lasquety-Reyes (transl.). ''[https://www.academia.edu/84784381/Domingo_de_Soto_Deliberation_on_the_Cause_of_the_Poor Domingo de Soto: Deliberation on the Cause of the Poor]'', CLP Academic. ISBN 978-1-949-01109-8
+* {{Cite book|last1=Decock|first1=Wim|title=Theologians and Contract Law : The Moral Transformation of the Ius commune (ca. 1500-1650)|location=Leiden/Boston|publisher=Martinus Nijhoff Publishers|date=2013|pages=723|url=https://brill.com/display/title/21931}}
+* {{cite book |last=Doe |first=N. |title=Christianity and Natural Law: An Introduction |publisher=Cambridge University Press |series=Law and Christianity |year=2017 |isbn=978-1-316-94956-6 |url=https://books.google.com/books?id=JRwsDwAAQBAJ&pg=PA13 }}
+* {{cite book |last=Garcia |first=Jose B. |title=Un Siglo de moral economica en Salamanca, 1526-1629: Francisco de Vitoria y Domingo de Soto |location=Salamanca |publisher=Ediciones Universidad Salamanca |year=1985 |language=es }}
+* {{cite book |last=Langholm |first=O. |title=The Legacy of Scholasticism in Economic Thought: Antecedents of Choice and Power |publisher=Cambridge University Press |series=Historical Perspectives on Mod |year=1998 |isbn=978-0-521-62159-5 |url=https://books.google.com/books?id=sTMvElDGCo0C&pg=PA73 }}
+* {{cite book |last=Poitras |first=G. |title=The Early History of Financial Economics, 1478-1776: From Commercial Arithmetic to Life Annuities and Joint Stocks |publisher=Edward Elgar |year=2000 |isbn=978-1-84064-455-5 |url=https://books.google.com/books?id=QoqZAAAAIAAJ&q=Domingo+Soto }}
+* {{cite book |last=Poitras |first=G. |title=Equity Capital: From Ancient Partnerships to Modern Exchange Traded Funds |publisher=Taylor & Francis |series=Routledge International Studies in Business History |year=2016 |isbn=978-1-317-59103-0 |url=https://books.google.com/books?id=8jEFDAAAQBAJ&pg=PA75 }}
+* {{cite book |last=Todeschini |first=Giacomo |title=Franciscan Wealth: From Voluntary Poverty to Market Society |publisher=Franciscan Institute, Saint Bonaventure University |series=Espiritualidad y religion |year=2009 |isbn=978-1-57659-153-6 }}
+* {{cite book |last=Woods |first=T.E. |title=The Church and the Market: A Catholic Defense of the Free Economy |publisher=Lexington Books |series=Studies in ethics and economics |year=2015 |isbn=978-0-7391-8801-9 |url=https://books.google.com/books?id=oPnbBgAAQBAJ&pg=PA111 }}
+
+* {{cite journal |last=Contreras |first=Sebastián |title=La determinación del Derecho en Domingo de Soto y Francisco Suárez|journal=Revista de Estudios Histórico-Jurídicos |year=2013 |issue=35 |pages=655–680 |doi=10.4067/S0716-54552013000100021 |url=http://dx.doi.org/10.4067/S0716-54552013000100021 |doi-access=free }}
+
+==External links==
+{{commonscat|Domingo de Soto}}
+* {{Cite encyclopedia
+| first = Vernon J.
+| last = Bourke
+| author-link = Vernon Bourke
+| title = Soto, Dominic De (1494–1560)
+| url = https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/soto-dominic-de-1494-1560
+| volume = 7
+| editor-last = Edwards
+| editor-first = Paul
+| editor-link = Paul Edwards (philosopher)
+| encyclopedia = [[The Encyclopedia of Philosophy]]
+| year = 1967
+| page = 500
+| access-date = 11 October 2023
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Soto, Domingo de}}
+[[Category:1494 births]]
+[[Category:1560 deaths]]
+[[Category:People from Segovia]]
+[[Category:Catholic philosophers]]
+[[Category:16th-century Spanish Roman Catholic theologians]]
+[[Category:Spanish Dominicans]]
+[[Category:16th-century Spanish Roman Catholic priests]]
+[[Category:Participants in the Council of Trent]]
+[[Category:16th-century Spanish male writers]]
+[[Category:Latin commentators on Aristotle]]
+[[Category:Mercantilists]]
+[[Category:Academic staff of the University of Salamanca]]
+[[Category:16th-century writers in Latin]]
+[[Category:16th-century Spanish jurists]]
+[[Category:16th-century Spanish philosophers]]
+[[Category:School of Salamanca]]
+[[Category:Spanish scientists]]
+[[Category:Spanish theologians]]

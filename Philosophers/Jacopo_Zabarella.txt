@@ -1,0 +1,82 @@
+{{Short description|Italian philosopher}}
+[[File:Jacobus_Zabarella._Line_engraving_by_C._Ammon,_1652._Wellcome_V0006406.jpg|thumb|Engraving of Zabarella, 1652]]
+'''Giacomo''' (or '''Jacopo''') '''Zabarella'''  (5 September 1533 – 15 October 1589) was an Italian [[Aristotle|Aristotelian]] [[philosopher]] and [[logician]].
+
+==Life==
+Zabarella was born into a noble Paduan family. He received a [[Renaissance Humanism|humanist]] education and entered the [[University of Padua]], where he received a doctorate in 1553. His teachers included [[Francis Robortello|Francesco Robortello]] in humanities, [[Bernardino Tomitano]] in logic, [[Marcantonio Genua]] in physics and metaphysics, and [[Pietro Catena]] in mathematics. In 1564 he succeeded Tomitano in a chair of logic. In 1577 he was promoted to the first extraordinary chair of [[natural philosophy]].  He died in Padua at the age of 56 in 1589.  His entire teaching career was spent at his native university.  His successor was [[Cesare Cremonini (philosopher)|Cesare Cremonini]].
+
+==Work==
+[[Image:Opera Logica 1578.png|thumb|right|Title page of ''Opera logica'' (1578).]] 
+Zabarella's work reflects his teaching in the Aristotelian tradition. His first published work was ''Opera logica'' (Venice 1578), followed by ''Tabula logicae'' (1578). His commentary on Aristotle's ''[[Posterior Analytics]]'' appeared in 1582. His great work in [[natural philosophy]] was ''De rebus naturalibus'', published posthumously in 1590. It constituted 30 treatises on Aristotelian natural philosophy, the introduction to which was written only weeks before his death. His two sons edited his incomplete commentaries on Aristotle's texts, also published posthumously (the commentary on the ''[[Physics (Aristotle)|Physics]]'' in 1601 and the commentary on ''[[On the Soul]]'' (1605).<ref>''Stanford Encyclopedia of Philosophy''</ref>
+
+Zabarella consulted newly recovered Greek commentators such as [[Alexander of Aphrodisias]], [[Philoponus]], [[Simplicius of Cilicia|Simplicius]], and [[Themistius]], as well as medieval commentators like [[Thomas Aquinas]], [[Walter Burley]], and [[Averroes]]. Unlike some earlier [[scholasticism|scholastic]] philosophers, he was literate in Greek, and was therefore able to use the Greek texts of Aristotle. He devoted much effort to presenting what he considered to be the true meaning of Aristotle's texts.
+
+==Writings==
+* {{Cite book|title=Opera logica|url=https://www.digitale-sammlungen.de/de/view/bsb10139003?page=3}} 1st edition (Venice, 1578). Contains:
+{{columns-list|colwidth=30em|{{ordered list
+|De natura logicae
+|De quarta figura syllogismorum
+|De methodis
+|De conversione demonstrationi in definitionem
+|De propositionibus necessariis
+|De speciebus demonstrationis
+|De regressus
+|De tribus praecognitis
+|De medio demonstrationis}}}}
+* {{Cite book|title=De naturalis scientiae constitutione|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=4765827}} (Venice, 1586).
+* ''De rebus naturalibus: libri XXX'' (Koln, 1590).
+* {{cite book|title=Opera logica |url=https://www.digitale-sammlungen.de/de/view/bsb11109544?page=6}} 3rd edition (Koln, 1597). With the addition of:
+{{columns-list|colwidth=30em|{{ordered list|start=10
+|In II libros Posteriores analyticos commentarii (Venice, 1582)
+|De doctrinae ordine apologia (Padua, 1585)
+|Tabulae logicae (Venice, 1578)
+}}}}
+* {{Cite book|title=In libros Aristotelis physicorum commentarii|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=4623625}} (Venice, 1601).
+* ''Commentarii in III libros De anima'' (Venice, 1605).
+
+==Editions and translations==
+* ''Opera logica'', anastatic reprint of the Kōln 1597 edition by Wilhelm Risse (Hildesheim: Georg Olms, 1966).
+* ''Tables de logique. Sur l'Introduction de Porphyre, les Catégories, le De l'interprétation et les Premiers Analytiques d'Aristote: Petite synopse introductive à la logique aristotélicienne'', tr. Michel Bastit (Paris: L'Harmattan, 2003).
+* ''La nature de la logique'', tr. Dominique Bouillon (Paris: Vrin, 2009).
+* ''On Methods'' and ''On Regressus'', ed. and tr. John P. McCaskey (I Tatti Renaissance Library; Harvard University Press, 2014).
+** Volume 1, ''On Methods'', Books I–II.
+** Volume 2, ''On Methods'', Books III–IV and ''On Regressus''.
+* ''De rebus naturalibus libri XXX'', ed. José M. García Valverde (Brill, 2016). See also:
+{{ordered list
+| {{lang|la|De inventione aeterni motoris}}. ''De rebus naturalibus liber V'', ed. J. M. García Valverde (Bruniana & Campanelliana, 2012).
+| ''De sensu gente''. ''De rebus naturalibus liber XXIV'', ed. J. M. García Valverde (Rivista di Storia della Filosofia, 2012).
+|''De mente agente''. ''De rebus naturalibus liber XXIX'', ed. J. M. García Valverde, ''Fragmentos de Filosofía'', 9 (2011). 
+}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Edwards, William F. (1960): ''The Logic of Iacopo Zabarella (1533–1589)''. Unpublished Ph.D.thesis, Columbia University.
+* H. Mikkeli (1992): ''An Aristotelian Response to Renaissance Humanism. Jacopo Zabarella on the Nature of Arts and Sciences'', Helsinki: The Finnish Historical Society.
+* [[John Herman Randall, Jr.|Randall, J.H.]] (1961): ''The School of Padua and the Emergence of Modern Science''. Padova: Editrice Antenore.
+
+==External links==
+{{commons category|Jacopo Zabarella}}
+* {{cite SEP |url-id=zabarella |title=Giacomo Zabarella |last=Mikkeli |first=Heikki}}
+* {{DBI|first=Laura|last=Carotti|title=ZABARELLA, Iacopo|url=https://www.treccani.it/enciclopedia/iacopo-zabarella_(Dizionario-Biografico)|volume=100}}
+* [http://galileo.rice.edu/Catalog/NewFiles/zabarella.html Biography at The Galileo Project]
+* {{BBKL|z/zabarella_j|band=14|autor= Ulrich G. Leinsle|spalten=292-295}}, biography of Jacopo Zabarella
+* Philosophy Institute of the Düsseldorf University: ''Philosophengalerie'', [http://phil-fak.uni-duesseldorf.de/philo/galerie/neuzeit/zabar.htm article "Jacobus Zabarella (Giacomo Zabarella)" (in German) online] : with picture
+
+; Texts of Zabarella
+* [http://www.phil-hum-ren.uni-muenchen.de/Versiones/ZabOrdoInt.htm German translation of ''De ordine intelligendi''], by Rudolf Schicker
+* [http://www.phil-hum-ren.uni-muenchen.de/Versiones/ZabNatura.htm German translation of Zabarella's ''De natura''], by Rudolf Schicker
+* [http://sul-derivatives.stanford.edu/derivative?CSNID=00003142&mediaType=application/pdf Opera Logica] {{Webarchive|url=https://web.archive.org/web/20161107105146/http://sul-derivatives.stanford.edu/derivative?CSNID=00003142&mediaType=application%2Fpdf |date=2016-11-07 }} (PDF)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zabarella, Jacopo}}
+[[Category:1533 births]]
+[[Category:1589 deaths]]
+[[Category:Academic staff of the University of Padua]]
+[[Category:Scholastic philosophers]]
+[[Category:Aristotelian philosophers]]
+[[Category:Latin commentators on Aristotle]]
+[[Category:16th-century Italian philosophers]]
+[[Category:16th-century Italian male writers]]

@@ -1,0 +1,184 @@
+{{Short description|Hellenistic philosopher, founder of Stoicism (c. 334–c. 262 BC)}}
+{{distinguish|Zeno of Elea}}
+{{About|the Hellenistic philosopher|other uses|Zeno (disambiguation){{!}}Zeno}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[Hellenistic philosophy]]
+| image            = Paolo Monti - Servizio fotografico (Napoli, 1969) - BEIC 6353768.jpg
+| caption          = Zeno of Citium. Bust in the [[Farnese collection]], Naples. Photo by [[Paolo Monti]], 1969.
+| name             = Zeno of Citium
+| birth_date       = c. 334 BC
+| birth_place      = [[Kition|Citium]], [[Cyprus]]
+| death_date       = c. 262 BC (aged c. 72)
+| death_place      = [[Athens]]
+| nationality      =  
+| school_tradition = [[Stoicism]]
+| main_interests   = [[Logic]], [[Physics]], [[Ethics]]
+| notable_ideas    = Founder of [[Stoicism]], [[Philosophy#Knowledge|three branches of philosophy (physics, ethics, logic)]],<ref>{{cite web|url=http://www.iep.utm.edu/stoicism/|title=Stoicism – Internet Encyclopedia of Philosophy|website=www.iep.utm.edu|access-date=19 March 2018}}</ref> ''[[Logos]]'', [[Stoic ethics|rationality of human nature]], ''[[phantasiai]]'', ''[[katalepsis]]'', [[Cosmopolitanism|world citizenship]]<ref>Bunnin & Yu (2004). ''The Blackwell Dictionary of Western Philosophy''. Oxford: Blackwell Publishing.</ref>
+}}
+'''Zeno of Citium''' ({{IPAc-en|ˈ|z|iː|n|oʊ}}; {{langx|grc-x-koine|[[wikt:Ζήνων|Ζήνων]] ὁ Κιτιεύς}}, {{transliteration|grc|Zēnōn ho Kitieus}}; c. 334 – c. 262 BC) was a [[Hellenistic philosophy|Hellenistic]] philosopher  <!-- {{efn|name="ethnicity"}} --> from [[Kition|Citium]] ({{lang|grc|Κίτιον}}, {{transliteration|grc|Kition}}), [[Cyprus]].<ref>{{Cite book|last=Craig|first=Edward|url=https://books.google.com/books?id=ZEh-AgAAQBAJ|title=The Shorter Routledge Encyclopedia of Philosophy|date=2005|publisher=Routledge|isbn=978-1134344093|pages=1076|language=en}}</ref> 
+He was the founder of the [[Stoicism|Stoic]] school of philosophy, which he taught in [[Athens]] from about 300 BC. Based on the moral ideas of the [[Cynicism (philosophy)|Cynics]], Stoicism laid great emphasis on [[good and evil|goodness]] and [[calmness|peace of mind]] gained from living a life of [[virtue]] in accordance with [[nature]]. It proved very popular, and flourished as one of the [[Hellenistic philosophy|major schools of philosophy]] from the [[Hellenistic period]] through to the [[Roman era]], and enjoyed revivals in the Renaissance as [[Neostoicism]] and in the current era as [[Modern Stoicism]].
+
+==Life==
+Zeno was born c. 334 BC,{{efn|name="dates"}} in the colony of [[Kition|Citium]] in [[Cyprus]].<ref>{{cite book|last=Hadjisavvas|first=Sophocles|title=The Phoenician Period Necropolis of Kition| volume =I|year=2013|publisher=Shelby White and Leon Levy Program for Archaeological Publications|url=http://www.fas.harvard.edu/~semitic/wl/publications/2012/hadjisavvas.html|page=1|url-status=dead|archive-url=https://web.archive.org/web/20160304111945/http://www.fas.harvard.edu/~semitic/wl/publications/2012/hadjisavvas.html|archive-date=2016-03-04}}</ref><ref name="Yon 9">{{cite journal | title = Kition in the Tenth to Fourth Centuries B.C. | journal = Bulletin of the American Schools of Oriental Research | date = Nov 1997 | first = Marguerite | last = Yon |author2=William A. P.  | volume=308 | issue = 308 | pages = 9–17 | doi = 10.2307/1357405 | jstor=1357405 | s2cid = 156694103 }}</ref> His ancestry is disputed between [[Phoenicia]]n and [[Greeks|Greek]],<ref name="Pearson">{{Cite book |last=Pearson |first=Alfred Chilton |author-link=Alfred Chilton Pearson |title=The Fragments of Zeno & Cleanthes with Introduction & Explanatory Notes |date=1891 |publisher=C.J. Clay & Sons |pages=2 |language= |quote=Zeno, the son of Mnaseas', was born at Citium , a Greek city in the south-east of Cyprus, whose population had been increased by Phoenician immigrants. Whether he was of pure Greek blood or not we cannot tell...}}</ref><ref>{{Cite book |last=Thereianos |first=Dionysios |url=https://books.google.com/books?id=N30vAAAAYAAJ&pg=PA27 |title=Διάγραμμα Στωικής Φιλοσοφίας |date=1892 |publisher=Τυπογραφείον του Αυστριακού Λόυδ |location=Trieste, Austro-Hungarian Empire |page=27 |language=el |trans-title=Diagram of Stoic Philosophy |quote=Αλλ ̓ αὐτὸς οὗτος ὁ Stein, ἀλλαχοῦ τοῦ ἀξιολόγου αὑτοῦ συγγράμματος, παρατηρεῖ «ὅτι δὲν ἐλύθη εἰσέτι ὁριστικῶς τὸ ζήτημα ἂν ὁ Ζήνων κατήγετο ἐκ Φοινίκων ἢ ἐξ Ἑλλήνων»...}}</ref> because Citium contained both Phoenician and Greek inhabitants.<ref name="Pearson" /><ref name="Whibley">{{Cite book |last=Whibley |first=Leonard |url= |title=A Companion to Greek Studies |date=2015 |publisher=[[Cambridge University Press]] |isbn=978-1-107-49754-2 |pages=219 |language=en |quote=Citium in Cyprus, contained Phoenician as well as Greek inhabitants, but there is no real evidence that he was of Phoenician descent. |author-link=Leonard Whibley}}</ref> While a number of contemporary and modern historians regard Zeno as a Phoenician,<ref name="Tarn">{{cite book|last=Tarn|first=W.W.|author-link=William Woodthorpe Tarn|date=1952|title=Hellenistic Civilisation|url=https://archive.org/details/HellenisticCivilisation1952ByW.W.TARNREVISEDG.T.GRIFFITH|page=330}}</ref><ref>Max Pohlenz, ''Die Stoa: Geschichte einer geistigen Bewegung''. As reviewed by {{cite book|author=Phillip de Lacy|title=Reviewed Work: Die Stoa: Geschichte einer geistigen Bewegung by Max Pohlenz|volume=46|issue=4|date=October 1, 1951|pages= 260–262|publisher=The University of Chicago Press|jstor=265746}}</ref> other modern scholars have contested this arguing for a Greek{{efn|Claims of Zeno's Phoenician descent are often based on the fact that he was often called "Phoenician" by his contemporaries, but such epithets do not necessarily indicate ethnic origin.<ref>{{Cite journal |last=Brown |first=Edwin L. |date=1981 |title=The Origin of the Constellation Name 'Cynosura'|url=https://www.jstor.org/stable/43077542 |journal=Orientalia |volume=50 |issue=4 |pages=384–402 |jstor=43077542 |issn=0030-5367}}</ref>}}<ref name=Whibley /> or Greco-Phoenician background.<ref>{{Cite book |last=Hicks |first=R. D. |url= |title=Stoic and Epicurean |date=2019 |publisher=Courier Dover Publications |isbn=978-0-486-83960-8 |page=4 |language=en}}</ref> The only things that historians know with certainty, are that Zeno had a [[Greek name]], a [[Education in Greece|Greek higher education]] and that there is no evidence he knew a language other than Greek.<ref>{{Cite book |last=Bar-Kochva |first=Bezalel |url= |title=The Image of the Jews in Greek Literature: The Hellenistic Period |date=2016 |publisher=University of California Press |isbn=978-0-520-29084-6 |pages=341 |language=en}}</ref> His father, Mnaseas, had a name ambiguously meaningful both in Phoenician ("one causing to forget") and in Greek ("mindful").<ref name=":0">{{Cite book |last=Magill |first=Frank N. |url= |title=The Ancient World: Dictionary of World Biography|volume= 1 |year=2003 |publisher=Routledge |isbn=978-1-135-45739-6 |pages=1273 |language=en}}</ref> His mother and her name are not recorded.<ref name=":0" />
+
+Most of the details known about his life come from the biography and anecdotes preserved by [[Diogenes Laërtius]] in his ''[[Lives and Opinions of Eminent Philosophers]]'' written in the 3rd century AD, a few of which are confirmed by the ''[[Suda]]'' (a 10th-century Byzantine encyclopedia).<ref>[[Suda]] https://www.cs.uky.edu/~raphael/sol/sol-cgi-bin/search.cgi?login=guest&enlogin=guest&db=REAL&field=adlerhw_gr&searchstr=zeta,79 ''Zeno''</ref> Diogenes reports that Zeno's interest in philosophy began when "he consulted [[Pythia|the oracle]] to know what he should do to attain the best life, and that the gods' response was that he should take on the complexion of the dead. Whereupon, perceiving what this meant, he studied ancient authors."<ref>{{cite web|url=https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0258:book=7:chapter=1|title=Diogenes Laertius, Lives of Eminent Philosophers, Book VII, Chapter 1. Zeno (333–261 B.C.)|website=www.perseus.tufts.edu|access-date=19 March 2018}}</ref> Zeno became a wealthy merchant.
+
+On a voyage from [[Phoenicia]] to [[Peiraeus]] he survived a shipwreck, after which he went to Athens and visited a bookseller. There he encountered [[Xenophon]]'s ''[[Memorabilia (Xenophon)|Memorabilia]]''. He was so pleased with the book's portrayal of [[Socrates]] that he asked the bookseller where men like Socrates were to be found. Just then, [[Crates of Thebes]]{{snd}}the most famous [[Cynicism (philosophy)|Cynic]] living at that time in [[Greece]]{{snd}}happened to be walking by, and the bookseller pointed to him.{{sfn|Laërtius|1925|loc=§ 2–3}}
+
+Diogenes Laërtius describes Zeno as a haggard, dark-skinned person,{{sfn|Laërtius|1925|loc=§ 1}} living a spare, [[ascetic]] life{{sfn|Laërtius|1925|loc=§ 26–27}} despite his wealth. This coincides with the influences of Cynic teaching, and was, at least in part, continued in his Stoic philosophy. From the day Zeno became Crates’ pupil, he showed a strong bent for philosophy, though with too much native modesty to assimilate Cynic shamelessness. Hence Crates, desirous of curing this defect in him, gave him a potful of lentil-soup to carry through the [[Ceramicus]] (the pottery district); and when he saw that Zeno was ashamed and tried to keep it out of sight, Crates broke the pot with a blow of his staff. As Zeno began to run off in embarrassment with the lentil-soup flowing down his legs, Crates chided, "Why run away, my little Phoenician? Nothing terrible has befallen you."{{sfn|Laërtius|1925|loc=§ 3}}
+
+Apart from Crates, Zeno studied under the philosophers of the [[Megarian school]], including [[Stilpo]],{{sfn|Laërtius|1925|loc=§ 2, 24}} and the [[dialectic]]ians [[Diodorus Cronus]],{{sfn|Laërtius|1925|loc=§ 16, 25}} and [[Philo the Dialectician|Philo]].{{sfn|Laërtius|1925|loc=§ 16}} He is also said to have studied [[Platonist]] philosophy under the direction of [[Xenocrates]],<ref>{{harvnb|Laërtius|1925|loc=§ 2}}; but note that Xenocrates died 314/13 BC</ref> and [[Polemon (scholarch)|Polemo]].{{sfn|Laërtius|1925|loc=§ 2, 25}}
+
+Zeno began teaching in the [[Stoa|colonnade]] in the [[Ancient Agora of Athens|Agora of Athens]] known as the [[Stoa Poikile]] (Greek Στοὰ Ποικίλη) in 301 BC. His disciples were initially called "Zenonians," but eventually they came to be known as "Stoics," a name previously applied to poets who congregated in the Stoa Poikile.
+
+Among the admirers of Zeno was king [[Antigonus II Gonatas]] of [[Macedon]]ia,<ref>{{harvnb|Laërtius|1925|loc=§ 6–9, 13–15, 36}}; Epictetus, ''Discourses'', ii. 13. 14–15; Simplicius, ''in Epictetus Enchiridion'', 51; Aelian, ''Varia Historia'', ix. 26</ref> who, whenever he came to Athens, would visit Zeno. Zeno is said to have declined an invitation to visit Antigonus in Macedonia, although their supposed correspondence preserved by Laërtius{{sfn|Laërtius|1925|loc=§ 6–9}} is undoubtedly the invention of a later writer.<ref name="brunt">{{cite book|first=P. A.|last=Brunt|chapter=The Political Attitudes of the Old Stoa|page=87|title=Studies in Stoicism|publisher =Oxford University Press|editor1-first=Miriam|editor1-last=Griffin|editor2-first=Alison|editor2-last=Samuels|year=2013|isbn=978-0199695850}}</ref> Zeno instead sent his friend and disciple [[Persaeus]],{{sfn|Laërtius|1925|loc=§ 6–9}} who had lived with Zeno in his house.{{sfn|Laërtius|1925|loc=§ 13, comp. 36}} Among Zeno's other pupils there were [[Aristo of Chios]], [[Sphaerus]], and [[Cleanthes]] who succeeded Zeno as the head (''[[scholarch]]'') of the Stoic school in Athens.{{sfn|Laërtius|1925|loc=§ 37}}
+
+Zeno is said to have declined Athenian citizenship when it was offered to him, fearing that he would appear unfaithful to his native land,<ref>Plutarch, ''de Stoicor. repugn'', p. 1034; comp. {{harvnb|Laërtius|1925|loc=§ 12}}.</ref> where he was highly esteemed, and where he contributed to the restoration of its baths, after which his name was inscribed upon a pillar there as "Zeno the philosopher".{{sfn|Laërtius|1925|loc=§ 6}} We are also told that Zeno was of an earnest, gloomy disposition;<ref>{{harvnb|Laërtius|1925|loc=§ 16, comp. 26}}; Sidonius Apollinaris, ''Epistles'', ix. 9</ref> that he preferred the company of the few to the many;{{sfn|Laërtius|1925|loc=§ 14}} that he was fond of burying himself in investigations;{{sfn|Laërtius|1925|loc=§ 15}} and that he disliked verbose and elaborate speeches.{{sfn|Laërtius|1925|loc=§ 18, 22}} Diogenes Laërtius has preserved many clever and witty remarks by Zeno,{{sfn|Laërtius|1925|loc=§ 18–25}} although these anecdotes are generally considered unreliable.<ref name="brunt"/>
+
+Zeno died around 262 BC.{{Ref label|A|a|none}} Laërtius reports about his death:
+
+{{blockquote|
+As he was leaving the school he tripped and fell, breaking his toe. Striking the ground with his fist, he [[last words|quoted]] the line from the ''[[Aeschylus#Niobe|Niobe]]'':
+<blockquote>I come, I come, why dost thou call for me?</blockquote>
+and died on the spot through holding his breath.{{sfn|Laërtius|1925|loc=§ 28}}
+}}
+
+At Zeno's funeral an [[epitaph]] was composed for him stating:
+
+{{blockquote|And if thy native country was Phoenicia,
+
+What need to slight thee? Came not Cadmus thence,
+
+Who gave to Greece her books and art of writing?{{sfn|Laërtius|1925|loc=§ 30}}
+}}
+
+This signified that even though Zeno was of [[barbarian|non-Greek]] background the Greeks still respected him, comparing him to the legendary Phoenician hero [[Cadmus]] who had brought the [[Phoenician alphabet|alphabet]] to the Greeks, as Zeno had brought Stoicism to them and was described as "the noblest man of his age" with a bronze statue being built in his honor.<ref name="Tarn" />{{sfn|Laërtius|1925|loc=§ 6, 11}}
+
+During his lifetime, Zeno received appreciation for his philosophical and [[pedagogical]] teachings. Among other things, Zeno was honored with the golden crown,{{sfn|Laërtius|1925|loc=§ 6, 11}} and a tomb was built in honor of his moral influence on the youth of his era.{{sfn|Laërtius|1925|loc=§ 10–12}}
+
+The crater [[Zeno (crater)|Zeno]] on the [[Moon]] is named in his honour.
+
+==Philosophy==
+[[File:Zenon Kitiefs.JPG|thumb|Modern bust of Zeno in Athens]]
+Following the ideas of the [[Platonic Academy|Old Academy]], Zeno divided [[philosophy]] into three parts: [[logic]] (a wide subject including [[rhetoric]], [[grammar]], and the theories of [[perception]] and [[thought]]); [[physics]] (not just [[science]], but the [[divinity|divine]] nature of the universe as well); and [[ethics]], the end goal of which was to achieve [[eudaimonia]] through the right way of living according to Nature. Because Zeno's ideas were later expanded upon by [[Chrysippus]] and other Stoics, it can be difficult to determine precisely what he thought. But his general views can be outlined as follows:
+[[File:1 Socrate 2 Platon 3 Pythagore 4 Aristote 5 Zenon - Pouqueville François Charles Hugues Laurent - 1835.jpg|thumb| [[Socrates]], [[Plato]], [[Pythagoras]], [[Aristotle]] & Zeno by [[François Pouqueville]]]]
+
+===Logic===
+In his treatment of logic, Zeno was influenced by [[Stilpo]] and the other [[Megarian school of philosophy|Megarians]]. Zeno urged the need to lay down a basis for logic because the wise person must know how to avoid deception.<ref>Cicero, ''Academica'', ii. 20.</ref> [[Cicero]] accused Zeno of being inferior to his philosophical predecessors in his treatment of logic,<ref>Cicero, ''de Finibus'', iv. 4.</ref> and it seems true that a more exact treatment of the subject was laid down by his successors, including [[Chrysippus]].<ref>Sextus Empiricus, ''adv. Math.'' vii. 253.</ref> Zeno divided true conceptions into the comprehensible and the incomprehensible,<ref>Cicero, ''Academica'', ii. 6, 24.</ref> permitting for free-will the power of assent (''sinkatathesis''/συνκατάθεσις) in distinguishing between sense impressions.<ref name="cicero1">Cicero, ''Academica'', i. 11.</ref> Zeno said that there were four stages in the process leading to true [[knowledge]], which he illustrated with the example of the flat, extended hand, and the gradual closing of the fist:
+<blockquote>Zeno stretched out his fingers, and showed the palm of his hand, – "Perception," – he said, – "is a thing like this."– 
+Then, when he had closed his fingers a little, – "Assent is like this." – Afterwards, when he had completely closed his hand, and showed his fist, that, he said, was Comprehension. From which simile he also gave that state a new name, calling it ''[[katalepsis]]'' (κατάληψις). But when he brought his left hand against his right, and with it took a firm and tight hold of his fist: – "Knowledge" – he said, was of that character; and that was what none but a wise person possessed.<ref>Cicero, ''Academica'', 2.145 [47]</ref></blockquote>
+
+===Physics===
+The [[universe]], in Zeno's view, is [[God]]:{{sfn|Laërtius|1925|loc=§ 148}} a divine reasoning entity, where all the parts belong to the whole.<ref>Sextus Empiricus, ''adv. Math.'' ix. 104, 101; Cicero, ''de Natura Deorum'', ii. 8.</ref>  Into this [[pantheistic]] system he incorporated the physics of [[Heraclitus]]; the universe contains a divine artisan-fire, which foresees everything,<ref name="cicero2">Cicero, ''de Natura Deorum'', ii. 22.</ref> and extending throughout the universe, must produce everything:
+<blockquote>Zeno, then, defines nature by saying that it is artistically working fire, which advances by fixed methods to creation. For he maintains that it is the main function of art to create and produce and that what the hand accomplishes in the productions of the arts we employ, is accomplished much more artistically by nature, that is, as I said, by artistically working fire, which is the master of the other arts.<ref name="cicero2"/></blockquote>
+
+This divine fire,<ref name="cicero1"/> or aether,<ref>Cicero, ''Academica'', ii. 41.</ref> is the basis for all activity in the universe,<ref>Cicero, ''de Natura Deorum'', ii. 9, iii. 14.</ref> operating on otherwise passive matter, which neither increases nor diminishes itself.{{sfn|Laërtius|1925|loc=§ 150}} The primary substance in the universe comes from fire, passes through the stage of air, and then becomes water: the thicker portion becoming earth, and the thinner portion becoming air again, and then rarefying back into fire.{{sfn|Laërtius|1925|loc=§ 142, comp. 136}} Individual [[souls]] are part of the same fire as the [[Anima mundi|world-soul]] of the universe.<ref>Cicero, ''Tusculanae Quaestiones'', i. 9, ''de Natura Deorum'', iii. 14; {{harvnb|Laërtius|1925|loc=§ 156}}.</ref> Following Heraclitus, Zeno adopted the view that the universe underwent regular cycles of formation and destruction.<ref>Stobaeus, ''Ecl. Phys.'' i.{{full citation needed|date=September 2021}}</ref>
+
+The nature of the universe is such that it accomplishes what is right and prevents the opposite,<ref name="cicero3">Cicero, ''de Natura Deorum'', i. 14.</ref> and is identified with unconditional [[Destiny|Fate]],{{sfn|Laërtius|1925|loc=§ 88, 148, etc., 156}} while allowing it the free-will attributed to it.<ref name="cicero2"/> According to Zeno's beliefs, "[t]rue happiness" can only be found by obeying natural laws and living in tune with the course of fate.<ref>{{Cite book |last=Caldwell |first=Wallace E. |title=History of the World |last2=Merrill |first2=Edward H. |publisher=The Greystone Press |year=1964 |volume=1 |location=[[United States]] |pages=119}}</ref>
+
+===Ethics===
+[[File:Zeno of Citium Nuremberg Chronicle.jpg|right|thumb|Zeno, portrayed as a medieval scholar in the ''[[Nuremberg Chronicle]]'']]
+Like the [[Cynicism (philosophy)|Cynics]], Zeno recognised a single, sole and simple good,<ref>Cicero, ''Academica'', i. 10. 35–36 : "Zeno igitur nullo modo is erat qui ut Theophrastus nervos virtutis inciderit, sed contra qui omnia quae ad beatam vitam pertinerent in una virtute poneret nec quicquam aliud numeraret hi bonis idque appellaret honestum quod esset simplex quoddam et solum et unum bonum."</ref> which is the only goal to strive for.<ref>Cicero, ''de Finibus'', iii. 6. 8; comp. {{harvnb|Laërtius|1925|loc=§ 100, etc}}.</ref> "Happiness is a good flow of life," said Zeno,<ref>Stobaeus, 2.77.</ref> and this can only be achieved through the use of right reason coinciding with the universal reason (''[[Logos]]''), which governs everything. A bad feeling (''pathos'') "is a disturbance of the mind repugnant to reason, and against Nature."<ref>Cicero, ''Tusculanae Quaestiones'', iv. 6.</ref> This consistency of soul, out of which morally good actions spring, is [[virtue]],<ref>Cicero, ''Tusculanae Quaestiones'', iv. 15.</ref> true good can only consist in virtue.{{sfn|Laërtius|1925|loc=§ 102, 127}}
+
+Zeno deviated from the Cynics in saying that things that are morally [[adiaphora]] (indifferent) could nevertheless have value. Things have a relative value in proportion to how they aid the natural instinct for self-preservation.<ref>{{harvnb|Laërtius|1925|loc=§ 85}}; Cicero, ''de Finibus'', iii. 5, 15, iv. 10, v. 9, ''Academica'', i. 16.</ref> That which is to be preferred is a "fitting action" (''[[kathekon|kathêkon]]''/καθῆκον), a designation Zeno first introduced.  Self-preservation, and the things that contribute towards it, has only a conditional value; it does not aid happiness, which depends only on moral actions.<ref>Cicero, ''de Finibus'', iii. 13.</ref>
+
+Just as virtue can only exist within the dominion of reason, so [[evil|vice]] can only exist with the rejection of reason. Virtue is absolutely opposed to vice,<ref>Cicero, ''Tusculanae Quaestiones'', iv. 13, ''Academica'', i. 10, ''de Finibus'', iii. 21, iv. 9, ''Parad.'' iii. 1; {{harvnb|Laërtius|1925|loc=§ 127}}.</ref> the two cannot exist in the same thing together, and cannot be increased or decreased;<ref>Cicero, ''de Finibus'', iii. 14, etc.</ref> no one moral action is more virtuous than another.<ref>Cicero, ''de Finibus'', iii. 14; Sextus Empiricus, ''adv. Math.'' vii. 422.</ref> All actions are either good or bad, since impulses and desires rest upon free consent,<ref>Cicero, ''Tusculanae Quaestiones'', iv. 9, ''Academica'', i. 10.</ref> and hence even passive mental states or emotions that are not guided by reason are immoral,<ref>{{harvnb|Laërtius|1925|loc=§ 110}}; Cicero, ''Tusculanae Quaestiones'', iv. 6. 14.</ref> and produce immoral actions.<ref>Cicero, ''de Finibus'', iv. 38; Plutarch, ''de Virt. mor.''</ref> Zeno distinguished four negative [[emotions]]: desire, fear, pleasure and sorrow (''epithumia, phobos, hêdonê, lupê'' / ἐπιθυμία, φόβος, ἡδονή, λύπη),<ref>Cicero, ''Tusculanae Quaestiones'', iv. 6; {{harvnb|Laërtius|1925|loc=§ 110}}.</ref> and he was probably responsible for distinguishing the three corresponding positive emotions: will, caution, and joy (''boulêsis, eulabeia, chara'' / βούλησις, εὐλάβεια, χαρά), with no corresponding rational equivalent for pain. All errors must be rooted out, not merely set aside,<ref>Cicero, ''Tusculanae Quaestiones'', iv. 18, etc.</ref> and replaced with right reason.
+
+==Works==
+None of Zeno's original writings have survived except as fragmentary quotations preserved by later writers. The most famous of his works was his ''Republic'', written in conscious imitation of, or opposition to, [[Plato]]'s ''[[Republic (Plato)|Republic]]''. Although it has not survived, more is known about it than any of his other works. It outlined Zeno's vision of the ideal Stoic society.
+
+A manuscript that was attributed to Zeno, matching a known title of one of Zeno's works,  Περὶ φύσεως (''On Nature),'' was discovered in 1949 in an [[Classical Armenian|Old Armenian]] translation. In 1956 it was translated into Russian and published with an extensive commentary.<ref>{{Cite journal|last=Аревшатян|first=C.|title=Трактат Зенона Стоика "О Природе" и его древнеармянский перевод|url=https://www.matenadaran.am/ftp/data/Banber3/19.S.Arevshatyan.pdf |archive-url=https://ghostarchive.org/archive/20221009/https://www.matenadaran.am/ftp/data/Banber3/19.S.Arevshatyan.pdf |archive-date=2022-10-09 |url-status=live|journal=Вестник Матенадарана|volume=1956. – № 3.|pages=315–342}}</ref> Subsequent philological investigation concluded that the author could not have been Zeno and was instead an anonymous Christian philosopher of the late sixth century or a little later, writing in the tradition of ancient philosophy, but doing so as a Christian. He is now known as [[Pseudo-Zeno]]. His work shows an integration of Christian and philosophical concepts, but in a very restrained way.<ref>M E Stone and M E Shirinian, ''Pseudo-Zeno: Anonymous Philosophical Treatise'' December 1, 1999, p. 18</ref>
+
+The titles of many of Zeno's writings are, however, known and are as follows:{{sfn|Laërtius|1925|loc=§ 4}}
+* Ethical writings:
+** Πολιτεία – ''The Republic''
+** Περὶ τοῦ κατὰ φύσιν βίου – ''On Life according to Nature''
+** Περὶ ὁρμῆς ἢ Περὶ ἀνθρώπου φύσεως – ''On Impulse, or on the Nature of Humans''
+** Περὶ παθῶν – ''On Passions''
+** Περὶ τοῦ καθήκοντος – ''On Duty''
+** Περὶ νόμου – ''On Law''
+** Περὶ τῆς Ἑλληνικῆς παιδείας – ''On Greek Education''
+* Physical writings:
+** Περὶ ὄψεως – ''On Sight''
+** Περὶ τοῦ ὅλου – ''On the Universe''
+** Περὶ σημείων – ''On Signs''
+** Πυθαγορικά – ''Pythagorean Doctrines''
+* Logical writings:
+** Καθολικά – ''General Things''
+** Περὶ λέξεων
+** Προβλημάτων Ὁμηρικῶν εʹ – ''Homeric Problems''
+** Περὶ ποιητικῆς ἀκροάσεως – ''On Poetical Readings''
+* Other works:
+** Τέχνη
+** Λύσεις – ''Solutions''
+** Ἔλεγχοι βʹ
+** Ἄπομνημονεύματα Κράτητος ἠθικά
+** Περὶ οὐσίας – ''On Being''
+** Περὶ φύσεως – ''On Nature''
+** Περὶ λόγου – ''On the Logos''
+** Εἰς Ἡσιόδου θεογονίαν
+** Διατριβαί – ''Discourses''
+** Χρεῖαι
+
+==Notes==
+{{notelist|refs=
+{{efn|name="dates"|1=The dates for Zeno's life are controversial. According to [[Apollodorus of Athens|Apollodorus]], as quoted by [[Philodemus]], Zeno died in Arrheneides' [[Archon of Athens|archonship]] (262/1 BC). According to [[Persaeus]] ([[Diogenes Laërtius]] vii. 28), Zeno lived for 72 years. His date of birth is thus 334/3 BC. A plausible chronology for his life is as follows: He was born 334/3 BC, and came to Athens in 312/11 BC at the age of 22 {{harv|Laërtius|1925|loc=§ 28}}. He studied philosophy for about 10 years {{harv|Laërtius|1925|loc=§ 2}}; opened his own school during Clearchus' archonship in 301/0 BC (Philodemus, ''On the Stoics'', col. 4); and was the head of the school for 39 years and 3 months (Philodemus, ''On the Stoics'', col. 4), and died 262/1 BC. For more information see {{harvnb|Ferguson|1911|pp=185–186}}; and {{harvnb|Dorandi|2005|p=38}} }}
+<!-- {{efn|name="ethnicity"|Some tertiary sources ascribe Syrian ethnicity to Zeno, e.g., [https://www.britannica.com/topic/Western-philosophy/Hellenistic-and-Roman-philosophy#ref365643 Britannica] and [https://www.encyclopedia.com/humanities/culture-magazines/stoics Encyclopedia.com] without providing evidence and which is contradicted by primary sources.}} -->
+}}
+{{Reflist|30em}}
+
+==References==
+* {{cite book |last=Dorandi  |first=Tiziano |chapter=Chapter 2: Chronology |editor-last=Algra |editor-first=Keimpe |display-editors=etal |year=2005 |title=The Cambridge History of Hellenistic Philosophy |page=38 |location=Cambridge |publisher=Cambridge University Press |isbn=978-0521616706 }}
+* {{cite book |last=Ferguson |first=William Scott <!--|author-link=William Scott Ferguson--> |year=1911 |title=Hellenistic Athens: An Historical Essay |location=London |publisher=Macmillan |pages=[https://archive.org/stream/athenshistoric00ferguoft#page/185/mode/1up 185]–186 |url=https://archive.org/details/athenshistoric00ferguoft }}
+* {{cite LotEP |chapter=Zeno|§=1–160 }}
+* {{cite book|last=Marshall|first=Peter|author-link=Peter Marshall (author)|title=Demanding the Impossible: A History of Anarchism|year=1993|publisher=PM Press|place=Oakland, California|isbn=978-1604860641}}
+
+==Further reading==
+* Dawson, Doyne (1992). ''Cities of the Gods: Communist Utopias in Greek Thought''. Oxford University Press.{{ISBN?}}
+* {{cite book |last1=Holiday |first1=Ryan |author1-link=Ryan Holiday|last2=Hanselman |first2=Stephen |title=Lives of the Stoics |date=2020 |publisher=Portfolio/Penguin |location=New York |isbn=978-0525541875 |pages=1–10 |chapter=Zeno the Prophet}}
+* Hunt, Harold. ''A Physical Interpretation of the Universe. The Doctrines of Zeno the Stoic''. Melbourne: Melbourne University Press, 1976. {{ISBN|0522841007}}
+* Long, Anthony A., Sedley, David N. ''The Hellenistic Philosophers'', Volume 1. Cambridge: Cambridge University Press, 1987. {{ISBN|0521275563}}
+* {{cite book |editor1-last=Mason|editor1-first=Theodore |editor2-last=Scaltsas|editor2-first=Andrew S. |title=The philosophy of Zeno: Zeno of Citium and his legacy |year=2002 |publisher=Municipality of Larnaca |isbn=978-9963603237}}
+* Pearson, Alfred C. [https://web.archive.org/web/20131220060107/https://archive.org/details/thefragmentsofze00zenouoft ''Fragments of Zeno and Cleanthes''], (1891). Greek/Latin fragments with English commentary.
+* Reale, Giovanni. ''A History of Ancient Philosophy. III. The systems of the Hellenistic Age'', (translated by John R. Catan, 1985 [https://books.google.com/books?id=6_gk7SH2C9cC&dq=jew%20zeno%20of%20citium&pg=PA209 ''Zeno, the Foundation of the Stoa, and the Different Phases of Stoicism''])
+* Schofield, Malcolm. ''The Stoic Idea of the City''. Cambridge: Cambridge University Press, 1991. {{ISBN|0226740064}}
+
+==External links==
+{{wikiquote}}
+{{commons category|Zeno of Citium}}
+* [https://web.archive.org/web/20080107034842/http://www.sensiblemarks.info/zeno.html ''Zeno of Citium''] by Robin Turner in [https://web.archive.org/web/20080106081956/http://www.sensiblemarks.info/ ''Sensible Marks of Ideas'']
+* [https://web.archive.org/web/20090628102922/http://www.pantheism.net/paul/zeno.htm ''Zeno of Cittium – founder of Stoicism''] by [[Paul Harrison (pantheist)|Paul Harrison]].
+* [https://www.historyoflogic.com/biblio/stoic-logicians-biblio.htm Selected Bibliography on the Early Stoic Logicians: Zeno, Cleanthes, Chrysippus]
+* https://cordis.europa.eu/project/id/101086695/it
+
+{{s-start}}
+{{s-new|first}}
+{{s-ttl|title=Leader of the Stoic school|years = 300–262 BC}}
+{{s-aft|after=[[Cleanthes]]}}
+{{s-end}}
+
+{{Stoicism}}
+{{Greek schools of philosophy}}
+{{Ancient Greece topics}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zeno Of Citium}}
+[[Category:330s BC births]]
+[[Category:260s BC deaths]]
+[[Category:4th-century BC Greek philosophers]]
+[[Category:4th-century BC Phoenician people]]
+[[Category:3rd-century BC Greek philosophers]]
+[[Category:3rd-century BC Phoenician people]]
+[[Category:Ancient Cypriots]]
+[[Category:Ancient Greek ethicists]]
+[[Category:Ancient Greek metaphysicians]]
+[[Category:Ancient Greek philosophers of mind]]
+[[Category:Natural philosophers]]
+[[Category:Cypriot educators]]
+[[Category:Cypriot writers]]
+[[Category:People from Larnaca]]
+[[Category:Philosophy writers]]
+[[Category:Phoenician philosophers]]
+[[Category:Stoic philosophers]]

@@ -1,0 +1,129 @@
+{{short description|4th-century theologian, namesake of Pelagianism}}
+{{other uses}}
+{{Infobox theologian
+| image              = File:Pelagius.jpg|thumb|
+| caption            = 
+| period             = {{circa|AD&nbsp;390}}&nbsp;– 418
+| birth_place        = 
+| death_place        = [[Roman Egypt|Egypt]], [[Roman Empire]]
+| era                = [[Patristics|Patristic age]]
+| notable_works      = 
+| tradition_movement = 
+| main_interests     = [[Free will]], [[Asceticism]]
+| notable_ideas      = [[Pelagianism]]
+}}
+'''Pelagius''' ({{IPAc-en|p|ə|ˈ|l|eɪ|dʒ|i|ə|s}}; c. 354–418) was a British ([[Celtic Britons|Brittonic]]) theologian known for promoting a system of doctrines (termed [[Pelagianism]] by his opponents) which emphasized human choice in salvation and denied [[original sin]].<ref name=DNB/> Pelagius was accused of heresy at the synod of Jerusalem in 415 and his doctrines were harshly criticized by [[Augustine of Hippo]], especially the Pelagian views about mankind's good nature and individual responsibility for choosing [[asceticism]].<ref>{{Cite web|title=Pelagius {{!}} Biography, Beliefs, & Facts {{!}} Britannica|url=https://www.britannica.com/biography/Pelagius-Christian-theologian|access-date=2021-12-02|website=www.britannica.com|language=en}}</ref> Pelagius especially stressed the freedom of human will.<ref>{{Cite web|title=Pelagianism {{!}} Description, History, & Beliefs {{!}} Britannica|url=https://www.britannica.com/topic/Pelagianism|access-date=2021-12-02|website=www.britannica.com|language=en}}</ref> Very little is known about the personal life and career of Pelagius.<ref>{{Cite web|title=CATHOLIC ENCYCLOPEDIA: Pelagius and Pelagianism|url=https://www.newadvent.org/cathen/11604a.htm|access-date=2021-12-02|website=www.newadvent.org}}</ref>
+
+== Beginnings ==
+Pelagius was active between about 390 and 418.<ref name=DNB/> He was said by his contemporaries, such as Augustine of Hippo, [[Prosper of Aquitaine]], [[Marius Mercator]], and [[Orosius|Paul Orosius]], to have been of Celtic British origin.<ref name=DNB>{{cite encyclopedia |first=Gerald |last = Bonner| publisher = Oxford University Press | encyclopedia= Oxford Dictionary of National Biography| title= Pelagius (fl. c.390–418), theologian| year = 2004 | url = http://www.oxforddnb.com/view/article/21784?docPos=1| access-date=28 October 2012 |doi= 10.1093/ref:odnb/21784 }} {{ODNBsub}}</ref> [[Jerome]] apparently thought that Pelagius was Irish, suggesting that he was "stuffed with Irish porridge" ({{lang|la|Scotorum pultibus praegravatus}}).<ref name="early medieval">{{cite book |last=O Croinin |first=Daibhi |title=Early Medieval Ireland 400–1200 |date=2013}}</ref>{{rp|206}} He was tall in stature and portly in appearance. Pelagius was also highly educated, spoke and wrote Latin and Greek with great fluency, and was well versed in theology. His name has traditionally been understood as a Graecized form (from {{transliteration|grc|pélagos}}, "sea") of the Welsh name Morgan ("sea-born"), or another Celtic equivalent.<ref>Dods, Marcus (1911). "Pelagius". ''The Encyclopædia Britannica'', vol. 21. Cambridge University Press.</ref>
+
+Pelagius became better known around 380 when he moved to Rome.<ref name=Fletcher_11>{{cite book |last= Fletcher|first= Richard|title= Who's Who in Roman Britain and Anglo-Saxon England|pages=11–12|year= 1989|publisher= Shepheard-Walwyn|isbn=0-85683-089-5}}</ref> There he enjoyed a reputation of austerity; he also corresponded with [[Paulinus of Nola]].<ref name="pohle">{{Cite web|url=http://www.newadvent.org/cathen/11604a.htm|title=CATHOLIC ENCYCLOPEDIA: Pelagius and Pelagianism|website=www.newadvent.org|access-date=2020-04-14}}</ref> Twenty-five years after the fact, Augustine related that Pelagius had reacted strongly to the statement from Augustine's ''[[Confessions (Augustine)|Confessions]]'' (397–401) "Give what you command and command what you will", as he believed that it undermined human responsibility.{{sfn|Harrison|2016|p=79}}{{sfn|Teselle|2014|p=4}}{{sfn|Scheck|2012|p=81}} However, this incident's historicity is questioned by scholars.{{sfn|Scheck|2012|pp=81–82}}
+
+When [[Alaric I|Alaric]] sacked Rome in 410, Pelagius and his follower [[Caelestius]] fled to [[Carthage]], where he continued his work.<ref name=Fletcher_11 />
+
+== Opponents ==
+[[File:Saint Augustine of Hippo.jpg|thumb|180px|[[Saint Augustine of Hippo]]]]
+
+=== Augustine of Hippo ===
+Pelagianism quickly spread, especially around Carthage. Augustine wrote {{lang|la|De peccatorum meritis et remissione libri III}} (''Three Books on the Merits and Forgiveness of Sins'') in 412, and {{lang|la|De spiritu et littera}} (''On the Spirit and the Letter'') in 414. When in 414 disquieting rumours arrived from Sicily and the so-called {{lang|la|Definitiones Caelestii}}, said to be the work of Caelestius, were sent to him, he at once (414 or 415) published the rejoinder, {{lang|la|De perfectione justitiae hominis}}. In these, he strongly affirmed the existence of original sin, the need for infant baptism, the impossibility of a sinless life without Christ, and the necessity of Christ's grace. Augustine stands as an important source on the life and theology of Pelagius, and wrote about him extensively.<ref name=pohle/>
+
+=== Jerome ===
+Pelagius soon left for Palestine, befriending the bishop there. Jerome, who also lived there, became involved as well. Pelagius had criticized his commentary on the [[Epistle to the Ephesians]].<ref name=pohle/> Jerome wrote against Pelagius in his Letter to Ctesiphon and {{lang|la|Dialogus contra Pelagianos}}. With Jerome at the time was [[Paulus Orosius|Orosius]], a visiting pupil of Augustine, who had similar views on the dangers of Pelagianism. Together, they publicly condemned Pelagius. Bishop [[John II, Bishop of Jerusalem|John of Jerusalem]], a personal friend of Pelagius, called a council in July 415. Church sources claim Orosius' lack of fluency in Greek rendered him unconvincing and John's Eastern background made him more willing to accept that humans did not have inherent sinfulness, yet the council rendered no verdict and passed the controversy to the Latin Church because Pelagius, Jerome, and Orosius were all Latin.
+
+===Diospolis===
+A few months later in December of 415, at the [[synod of Diospolis|synod of Diospolis]] ([[Lydda]]) under the [[Caesarea in Palaestina (diocese)|bishop of Cæsarea]] was called by two deposed bishops who came to the Holy Land. For unrelated reasons, neither bishop attended, and Orosius left after consultation with Bishop John. Pelagius explained to the synod that he did believe God was necessary for salvation because every human is created by God. He also claimed that many works of [[Celestius]] did not represent his own views. He showed letters of recommendation by other authoritative figures, including Augustine himself — who, for all their disagreements, thought highly of Pelagius's character.{{cn|date=October 2024}}
+
+The Synod of Diospolis therefore concluded: "Now since we have received satisfaction in respect of the charges brought against the monk Pelagius in his presence, and since he gives his assent to sound doctrines but condemns and anathematises those contrary to the faith of the Church, we adjudge him to belong to the communion of the Catholic Church."<ref>{{Cite web|url=http://www.seanmultimedia.com/Pie_Pelagius_Synod_Lydda_415AD.html|title=Pie_Pelagius_Synod_Lydda_415AD|website=www.seanmultimedia.com|access-date=2020-04-14}}</ref>
+[[File:Pelagius from Nuremberg Chronicle.jpg|thumb|Pelagius, as depicted in the [[Nuremberg Chronicle]]]]
+
+== Teachings ==
+[[Manichaeism]] stressed that the spirit was God-created, while material substance was corrupt and evil. Theologian Gerald Bonner felt that Pelagius's purported views were in part an "over-reaction" to Manicheanism. Pelagius held that everything created by God was good, therefore, he "could not see" how God had made humans fallen creatures.<ref>{{cite book|last=Bonner |first=Gerald |title=St. Augustine of Hippo: Life and Controversies |location=Philadelphia |publisher=The Westminster Press |date=1963}}</ref> The Pelagians accused Augustine of bringing Manichaeian theology into the Christian church, which Augustine himself denied.<ref>{{Cite web |title=CHURCH FATHERS: Against Two Letters of the Pelagians, Book II (Augustine) |url=https://www.newadvent.org/fathers/15092.htm |access-date=2021-12-02 |website=www.newadvent.org}}</ref>
+
+The view that mankind can avoid sinning, and that humans can freely choose to obey God's commandments, is held to have stood at the core of Pelagian teaching. Pelagius stressed human autonomy and freedom of the will;<ref name="Filippo">{{Cite web|url=http://www.ignatiusinsight.com/features2008/sfilippo_augustinepelag_jan08.asp|title=St. Augustine and Pelagianism {{!}} Stephen N. Filippo {{!}} Ignatius Insight|website=www.ignatiusinsight.com|access-date=2020-04-14|archive-date=2008-04-09|archive-url=https://web.archive.org/web/20080409215444/http://www.ignatiusinsight.com/features2008/sfilippo_augustinepelag_jan08.asp|url-status=dead}}</ref> an illustration of Pelagius' views on man's "moral ability" not to sin can be found in his Letter to Demetrias.<ref>[https://epistolae.ctl.columbia.edu/letter/1296.html "A letter from Pelagius"]. Epistolae. Accessed 19 February 2021.</ref>
+
+For Pelagius, "[[Grace in Christianity|grace]]" consisted of the gift of [[free will]], the [[Law of Moses]], and the teachings of Jesus.<ref>Stephen J. Duffy, Stephen J., ''The Dynamics of Grace: Perspectives in Theological Anthropology'', Collegeville, Minnesota: The Liturgical Press, 1993</ref> According to Augustine, Pelagians saw baptism of infants as useless because they had no sin.<ref>{{Cite web|title=CHURCH FATHERS: Against Two Letters of the Pelagians, Book II (Augustine) |url=https://www.newadvent.org/fathers/15092.htm  |website=www.newadvent.org |quote=But the Pelagians assert that what is said in holy baptism for the putting away of sins is of no avail to infants, as they have no sin; and thus in the baptism of infants}}</ref> Celestius, who was a disciple of Pelagius, also was to have denied original sin and the necessity of infant baptism for salvation.<ref>{{Cite web |title=Celestius {{!}} Pelagian theologian {{!}} Britannica |url=https://www.britannica.com/biography/Celestius |access-date=2021-12-02 |website=www.britannica.com |language=en}}</ref>
+
+==Pope Zosimus ==
+Seeking to undo his condemnation, Pelagius wrote a letter and statement of belief to [[Pope Zosimus]], Innocent I's successor, arguing that he was orthodox. In these he articulated his beliefs so as not to contradict what the synods condemned. Zosimus was persuaded by Celestius to reopen the case, but opposition from the African bishops and [[Honorius (emperor)|Emperor Honorius]] forced Zosimus to condemn and excommunicate Celestius and Pelagius in 418.<ref name=DNB/>
+
+Pelagianism was condemned at the [[Council of Carthage (418)|Council of Carthage in 418]].<ref name=Filippo/> Augustine, shocked that Pelagius and Celestius were not denounced as heretics, had called the Council of Carthage in 418.
+
+== Death and aftermath ==
+After his condemnation, Pelagius was expelled from Jerusalem, and Saint [[Cyril of Alexandria]] allowed him to settle in Egypt. He is not heard of thereafter.<ref name=DNB/>
+
+His death did not end his teachings, although those who followed him may have modified those teachings. Because little information remains with regard to Pelagius' actual teachings, some of his doctrines possibly were subject to revision and suppression by his enemies (followers of Augustine and the Church leadership as a whole at that time).
+
+Pelagius and Caelestius were declared heretics by the [[First Council of Ephesus]] in 431.<ref>Schaff, Philip. [http://www.ccel.org/ccel/schaff/npnf214.x.xvi.vii.html The Seven Ecumenical Councils: Excursus on Pelagianism], ''Nicene and Post-Nicene Fathers'', series II, vol 14.</ref>
+
+Belief in Pelagianism and [[Semipelagianism]] was common for the next few centuries, especially in Britain, Palestine and North Africa. [[Germanus of Auxerre|St Germanus]] visited Britain to combat Pelagianism in or around 429 AD. In Wales, [[Saint David]] was credited with convening the [[Synod of Brefi]] and the [[Synod of Victory]] against the followers of Pelagius in the sixth century.
+
+==Evaluation==
+Because of the fifth-century condemnations of him, Pelagius became known as "a [[heresiarch]] of the deepest dye". Evaluation of him changed after the publication of a 1943 biography by [[Georges de Plinval]] and more recent scholars have viewed him as an orthodox Christian theologian who was a victim of denunciation. His Pauline commentaries were popular during the Middle Ages but frequently claimed to be the work of other authors.<ref name=DNB/>
+
+An objective view of Pelagius and his effect is difficult. His name has been used as an epithet for centuries by both Protestants and Catholics, and he has had few defenders. The very early church denounced his ideas and the Reformation accused Roman Catholics of adhering to his beliefs and condemned both Pelagius and the Catholic Church. Modern scholarship suggests that Pelagius did not take the more extreme positions later associated with his followers.<ref name="Clark">{{Cite web|url=http://americanphilosophy.net/pelagianheresy.htm|archive-url=https://web.archive.org/web/20111006045016/http://americanphilosophy.net/pelagianheresy.htm|url-status=dead|archive-date=2011-10-06|title=Pelagius|date=2011-10-06|access-date=2020-04-14}}</ref> [[Ronald Hutton]] describes him as "a first-rate theologian".<ref>{{cite book|title=Pagan Britain|first=Ronald|last=Hutton|author-link=Ronald Hutton|publisher=[[Yale University Press]]|location=New Haven, Connecticut|year=2013|isbn=978-0-300-19771-6|page=280}}</ref>
+
+The theologian [[Carol Harrison (theologian)|Carol Harrison]] commented that Pelagius presented "a radically different alternative to Western understandings of the human person, human responsibility and freedom, ethics and the nature of salvation" which might have come about if Augustine had not been victorious in the Pelagian controversy.{{sfn|Harrison|2016|p=78}} According to Harrison, "Pelagianism represents an attempt to safeguard God's justice, to preserve the integrity of human nature as created by God, and of human beings' obligation, responsibility and ability to attain a life of perfect righteousness."{{sfn|Harrison|2016|p=82}} However, this is at the expense of downplaying human frailty and presenting "the operation of divine grace as being merely external".{{sfn|Harrison|2016|p=82}} According to the scholar [[Rebecca Weaver (theologian)|Rebecca Weaver]], "what most distinguished Pelagius was his conviction of an unrestricted freedom of choice, given by God and immune to alteration by sin or circumstance."{{sfn|Weaver|2014|p=xviii}}
+In 1956, John Ferguson wrote: {{blockquote|If a heretic is one who emphasizes one truth to the exclusion of others, it would at any rate appear that [Pelagius] was no more a heretic than Augustine. His fault was in exaggerated emphasis, but in the final form his philosophy took, after necessary and proper modifications as a result of criticism, it is not certain that any statement of his is totally irreconcilable with the Christian faith or indefensible in terms of the [[New Testament]]. It is by no means so clear that the same may be said of Augustine.{{sfn|Beck|2007|p=694}}}}
+
+== Writings==
+Of his surviving works, only few are known in full. These are:
+
+* {{lang|la|De fide Trinitatis libri III}} ("On Faith in the Trinity: Three Books")
+* {{lang|la|Eclogarum ex divinis Scripturis liber primus}} ("Excerpts out of Divine Scriptures: Book One")
+* {{lang|la|Commentarii in epistolas S. Pauli}} ("Commentary on the Epistles of Saint Paul")
+
+Unfortunately, most of his work survives only in the quotations of his opponents. Only in the past century have works attributable to Pelagius been identified as such.
+
+Other writings include ''On Nature'', parts of which are quoted in Augustine's ''[[On Nature and Grace]]'', and ''Defense of the Freedom of the Will'', quoted in Augustine's ''On the Grace of Christ''. Also surviving are his letter to Demetrias, along with fragments of other letters, and the written statement of faith which was received by Pope Zosimus.
+
+== See also ==
+* [[Julian of Eclanum]]
+
+==References==
+{{Reflist}}
+
+===Sources===
+*{{cite journal |last1=Beck |first1=John H. |title=The Pelagian Controversy: An Economic Analysis |journal=[[American Journal of Economics and Sociology]] |date=2007 |volume=66 |issue=4 |pages=681–696 |doi=10.1111/j.1536-7150.2007.00535.x|s2cid=144950796 }}
+*{{cite journal |last1=Harrison |first1=Carol|author-link=Carol Harrison (theologian) |title=Truth in a Heresy? |journal=[[The Expository Times]] |date=2016 |volume=112 |issue=3 |pages=78–82 |doi=10.1177/001452460011200302|s2cid=170152314}}
+*{{cite book |last1=Scheck |first1=Thomas P. |editor1-last=Cartwright |editor1-first=Steven |title=A Companion to St. Paul in the Middle Ages |date=2012 |publisher=Brill |location=Leiden |isbn=978-90-04-23671-4 |pages=79–114 |language=en |chapter=Pelagius's Interpretation of Romans}}
+*{{cite book |editor1-last=Hwang |editor1-first=Alexander Y. |editor2-last=Matz |editor2-first=Brian J. |editor3-last=Casiday |editor3-first=Augustine |title=Grace for Grace: The Debates after Augustine and Pelagius |date=2014 |publisher=[[Catholic University of America Press]]|location=Washington, D.C. |isbn=978-0-8132-2601-9 |language=en|chapter=The Background: Augustine and the Pelagian Controversy|last=Teselle|first=Eugene|author-link=Eugene Teselle|pages=1–13}}
+*{{cite book |editor1-last=Hwang |editor1-first=Alexander Y. |editor2-last=Matz |editor2-first=Brian J. |editor3-last=Casiday |editor3-first=Augustine |title=Grace for Grace: The Debates after Augustine and Pelagius |date=2014 |publisher=Catholic University of America Press|location=Washington, D.C. |isbn=978-0-8132-2601-9 |language=en|chapter=Introduction|last=Weaver|first=Rebecca|pages=xi–xxvi|author-link=Rebecca Weaver (theologian)}}
+
+==Further reading==
+'''Translations'''
+* ''Pelagius's Commentary on St Paul's Epistle to the Romans'' (translated with introduction and notes by Theodore de Bruyn), Oxford: Clarendon Press, 1993 {{ISBN|0-19-814399-0}}
+* ''Pelagius's Expositions of the Thirteen Epistles of St. Paul'' (edited by A. Souter) Texts and Studies; 9, 3 vols. in 1. Cambridge: Cambridge University Press, 1922–1931 1: Introduction'' 2: Text – 3: Pseudo-Jerome interpolations
+
+'''Other works'''
+*{{cite journal|last=Axworthy|first= Michael|title=The Revenge of Pelagius|journal=New Statesman|date=7 December 2018}}
+* Bonner, Ali, ''The Myth of Pelagianism'', Oxford University Press, 2018.
+* [[Brinley Rees]], ''Pelagius A Reluctant Heretic'', The Boydell Press, Woodbridge, 1988.
+* Brinley Rees (ed.), [https://books.google.com/books?isbn=0851157149 ''Pelagius: Life and Letters''], The Boydell Press, Woodbridge:1989, 1991. {{ISBN|0-85115-282-1}} Translation of 18 letters, including ''Epistle to Demetrias'', and minor treatises attributed at various times to Pelagius or his followers.{{ISBN|0-85115-714-9}} 
+*{{cite journal|url=https://www.christianitytoday.com/ct/2019/june-web-only/age-of-pelagius-joshua-hawley.html|journal=Christianity Today|title=The Age of Pelagius|first=Joshua|last=Hawley|date=4 June 2019}}
+*Nelson, Eric, ''The Theology of Liberalism: Political Philosophy and the Justice of God'', Harvard University Press, 2019
+* Robert Van de Weyer (ed.), ''The Letters of Pelagius: Celtic Soul Friend'', Little Gidding books, Evesham: Arthur James, 1995.
+* Pelagius, ''Epistula ad Demetriadem. Brief an Demetrias'', Einleitung, Edition und Übersetzung von Gisbert Greshake, [Fontes Christiani], Band 65, Herder, Freiburg, 2015
+* Squires, Stuart. The Pelagian Controversy: An Introduction to the Enemies of Grace and the Conspiracy of Lost Souls. Eugene: Wipf and Stock, 2019.
+*Yamada, N. (2020). Pelagius' View of Ideal Christian Women in his Letters, Scrinium, 1-22. doi: https://doi.org/10.1163/18177565-00160A17 {{open access}}
+
+== External links ==
+*{{wikisource author-inline}}
+*{{wikiquote-inline}}
+*[http://www.seanmultimedia.com/Pie_homepage.html The Patristics in English Project] provides English translations of several of Pelagius's writings.
+*[https://web.archive.org/web/20140317175252/http://www.brojed.org/pelagius.html "Pelagius: To Demetrias"], an analysis of the letter and a brief biography by Deacon Geoffrey Ó Riada.
+*{{In Our Time|The Pelagian Controversy|b010dstl|}}
+
+{{authority control}}
+
+[[Category:418 deaths]]
+[[Category:4th-century births]]
+[[Category:5th-century Christians]]
+[[Category:5th-century Christian theologians]]
+[[Category:5th-century writers in Latin]]
+[[Category:5th-century Greek philosophers]]
+[[Category:Christian ascetics]]
+[[Category:Founders of religions]]
+[[Category:Letter writers in Latin]]
+[[Category:People declared heretics by the first seven ecumenical councils]]
+[[Category:Romano-British Christians]]
+[[Category:Pelagians]]

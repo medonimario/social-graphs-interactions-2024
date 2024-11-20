@@ -1,0 +1,48 @@
+{{Use dmy dates|date=June 2020}}
+{{Refimprove|date=December 2009}}
+'''Shadworth Hollway Hodgson''', [[Fellow of the British Academy|FBA]] (25 December 1832 – 13 June 1912) was an [[England|English]] [[philosopher]].
+
+==Biography==
+He worked independently, without academic affiliation. He was acknowledged by [[William James]]<ref>{{Cite book |last=Perry |first=Ralph Barton |title=William James, Essays in Radical Empiricism |publisher=University of Nebraska Press |year=1996 |edition= |publication-date=1996 |pages=xv - xxv |chapter=Preface |author-link=Ralph Barton Perry |chapter-url=http://www.brocku.ca/MeadProject/James/James_1912/James_1912_pref.html}}</ref> as a forerunner of [[Pragmatism]], although he viewed his work as a completion of [[Immanuel Kant|Kant's]] project.  Hodgson was a member of a London philosophy club with James, called the "Scratch Eight". Hodgson regarded the poets [[William Wordsworth]] and [[Samuel Taylor Coleridge]] as his chief inspirations, and had no academic background, though he was a member of the [[Metaphysical Society]].
+
+He was the first president of the [[Aristotelian Society]] and held that post from 1880 to 1894.
+
+His principal work was ''The Metaphysic of Experience'' (1898)<ref>{{cite journal|url=https://books.google.com/books?id=5q05AQAAIAAJ&pg=PA216| pages=216–218 |title=Review of ''The Metaphysic of Experience'' by Shadworth H. Hodgson. 4 vols.|journal=The Athenaeum: Journal of Literature, Science, the Fine Arts, Music, and the Drama |issue=3746 |date=August 12, 1899 }}</ref> which prepared the way for New Realism. He objected to the stance of [[empiricism]] in its postulating of persons and things, and insisted that neither subject nor object are warranted as initial considerations of philosophy.
+
+He died on 13 June 1912.<ref>{{Cite news |url=https://www.newspapers.com/clip/53978664/shadworth-h-hodgson/ |title=Shadworth H. Hodgson |newspaper=[[Argus Leader]] |page=4 |date=1912-07-13 |access-date=2020-06-22 |via=Newspapers.com}}</ref>
+
+Hodgson believed in what he called the principle of reflective consciousness, namely that "A thing is what it is known as, this is the principle in its objective formula; 'the objective and subjective aspects are inseparable,' this is its subjective formula, expressing the way in which the same truth appears in reflection itself.".<ref>{{cite journal |author-link=William T. Parry |first=William T. |last=Parry |date=December 1955 |title=Are Things What They are Known As? |url=https://www.jstor.org/stable/2103777 |journal=Philosophy and Phenomenological Research |volume=16 |issue=2 |pages=237–239 |doi=10.2307/2103777 |jstor=2103777 |url-access=registration}}</ref>
+
+Attention to Hodgson was briefly enlivened by an article by [[Wolfe Mays]] in a British phenomenology journal in the 1970s.
+
+The volumes of Hodgson's principal work were often shipped with uncut pages and visits to libraries with these volumes has revealed that sometimes most pages of all 4 volumes remained uncut even one hundred years later.
+
+==Notes==
+{{reflist}}
+
+==Further reading==
+
+* [[H. Wildon Carr|H. WILDON CARR]], [[iarchive:sim_mind_1912-10_21_84/mode/1up|SHADWORTH HOLLWAY HODGSON]], ''[[Mind (journal)|Mind]]'', Volume XXI, Issue 84, 1912, pp.473–485
+* [[Dawes Hicks|G. Dawes Hicks]], [[iarchive:in.ernet.dli.2015.475379/page/n559/mode/1up|SHADWORTH HOLLWAY HODGSON (1832–1912)]] ''Proceedings Of The British Academy 1913-1914''
+* [[George Stout|G. F. Stout]], (1892). [https://www.jstor.org/stable/4543598 "The Philosophy of Mr. Shadworth Hodgson"]. ''Proceedings of the Aristotelian Society''. '''2''' (2): 107–120. 
+
+==External links==
+*[https://web.archive.org/web/20100612172651/http://www.iep.utm.edu/hodgson/ Internet Encyclopedia of Philosophy] article on Hodgson (Archived)
+*[https://openlibrary.org/books/OL7020442M/The_philosophy_of_reflection Philosophy of Reflection] at openlibrary.org
+*[https://archive.org/details/metaphysicexper00hodggoog The metaphysic of experience] University of Wisconsin - Madison scan
+*[http://psychclassics.yorku.ca/James/consciousness.htm Wm James on Hodgson]
+*{{Internet Archive author |sname= Shadworth Hodgson}}
+{{FBA 1902}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hodgson, Shadworth}}
+[[Category:British metaphysicians]]
+[[Category:English philosophers]]
+[[Category:1832 births]]
+[[Category:1912 deaths]]
+[[Category:Presidents of the Aristotelian Society]]
+[[Category:Burials at Kensal Green Cemetery]]
+[[Category:Fellows of the British Academy]]
+
+
+{{UK-philosopher-stub}}

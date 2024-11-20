@@ -1,0 +1,55 @@
+{{Short description|German philosopher (1547–1606)}}
+[[File:Nicolaus Taurellus.jpg|thumb|Nicolaus Taurellus]]
+'''Nicolaus Taurellus''' (Latin, from {{langx|de|Nikolaus Öchslin}}<ref>Herbert Jaumann: ''Handbuch Gelehrtenkultur der Frühen Neuzeit: Bio-bibliographisches Repertorium'', Band 1, Walter de Gruyter, 2004, {{ISBN|3-11-016069-2}}, {{ISBN|978-3-11-016069-7}} [https://books.google.com/books?id=PCNN_blc77kC&q=%C3%96chslin&pg=PA647 S. 647]</ref><ref>in 19th century translated to French as ''Nicolas Tourot''. No Google Books hit before [http://www.google.com/search?tbs=bks:1,cdr:1,cd_min:Jan%203_2%201,cd_max:Dec%2031_2%201860&tbo=p&q=%22Nicolas+Tourot%22&num=10 1859]</ref>) (November 26, 1547{{snd}}September 28, 1606) was a German [[philosopher]] and medical academic.
+
+==Life==
+He was born in the [[County]] of [[Mömpelgard]], then part of the [[Duchy of Württemberg]]. With support from Duke Georg I. of Württemberg-Mömpelgard, he read theology at [[University of Tübingen]] and medicine at the [[University of Basel]], where he lectured on physical science. 
+He subsequently became professor of medicine at the [[University of Altdorf]].{{sfn|Chisholm|1911}}
+There he died in 1606 from the plague, despite treatment by [[Ernst Soner]].
+
+He attacked the dominant [[Aristotelianism]] of the time, and endeavoured to construct a philosophy which should harmonize faith and knowledge, and bridge over the chasm made by the first Renaissance writers who followed [[Pomponazzi]]. 
+[[Scholasticism]] he condemned on account of its unquestioning submission to Aristotle. 
+Taurellus maintained the necessity of going back to Christianity itself, as at once the superstructure and the justification of philosophy.{{sfn|Chisholm|1911}}
+
+His chief works were ''Philosophiae Triumphus'' (1573); ''Synopsis Metaphysicae Aristolelis'' (1596); ''De Rerum Aeternitate'' (1604); and a treatise written in criticism of [[Caesalpinus]] entitled ''Caesae Alpes'' (1597). See [[Franz Xaver Schmid|Schmid-Schwarzenburg]], ''Nicolaus Taurellus'' (1860 and 1864).{{sfn|Chisholm|1911}}
+
+== Works ==
+* ''Theses Philosophicae, De Ortu Rationalis Animae''. Nürnberg: Kauffmann, 1596. [http://diglib.hab.de/drucke/174-quod-13/start.htm at Herzog August Bibliothek Wolfenbüttel]
+* ''Philosophiae triumphus seu metaphysica philosophandi methodus''. Basel 1573.
+* ''Medicae praedictionis methodus''. Frankfurt, 1581.
+* ''Carmina Funebria, Quae Magnorum Aliquot, Clarorumque virorum felici memoriae dicavit.'' Nürnberg: Lochner, 1602. [http://www.uni-mannheim.de/mateo/camena/taur2/te01.html at Universität Mannheim]
+* ''Emblemata Physico-Ethica, Hoc Est: naturae morum moderatricis picta præcepta''. Nürnberg: Halbmayer, 1617. [[Mikrofiche]]-Ausgabe Zug: IDC, 1981.
+* ''Tavrellvs Defensvs : H. E. Iac. Wilh. Feverlini ... Dissertatio Apologetica Pro Nic. Tavrello ... Atheismi Et Deismi Iniuste Accusato''. Nürnberg: Schmid, 1734. [[CD-ROM]]-Ausgabe, Mannheim: Univ.-Bibl., 2007 (Zusammen mit Jakob Wilhelm Feuerlein).
+
+==Notes==
+{{Reflist}}
+'''Attribution:'''
+* {{EB1911|wstitle=Taurellus, Nicolaus|volume=26|page=455}}
+
+==References==
+* Melchior Adam: ''Vitae Germanorum medicorum qui seculo superiori, et quod excurrit, claruerunt congestae & ad annum usque MDCXX deductae a Melchiore Adamo''. Heidelberg: Rosa, 1620. [[Mikrofilm]]-Ausgabe New Haven, Conn.: Research Publications, 1973.
+* Magnus Daniel Omeis: ''Gloria Academiae Altdorfinae sive Orationum Fasciculus Universitatis Noricae Ortum, Progressum & cuncta Memorabilia, omniumq[ue] Professorum, qui in quatuor, uti vocant, Facultatibus, a primis eam ornarunt incunabulis, Vitas, Mortes ac Scripta, exhibens''. Altdorf, 1683
+* Paul Freher: ''Theatrum virorum eruditione clarorum''. Nürnberg: Hoffmann, 1688, S. 1320
+* Konrad Lengenfelder: ''Die Emblemata der Hohen Schule zu Altdorf, in Altnürnberger Landschaft Mitteilungen 26'', 1977, 13–20
+* Stefan Folaron: ''Philosophie der Menschenwürde nach Nikolaus Taurellus''. Częstochowa: Wydawn. WSP, 2002. {{ISBN|83-7098-730-3}}
+
+== External links ==
+
+*{{cite SEP |url-id=taurellus |title=Nicolaus Taurellus |last=Blank |first=Andreas}}
+* [https://archive.today/20130210134957/http://pollux.bsz-bw.de/DB=2.1/SET=2/TTL=1/REL?PPN=16763349X&INDEXSET=1&NOABS=Y Literatur von und über Nicolaus Taurellus] im Katalog des [[Bibliotheksverbund#Südwestdeutscher Bibliotheksverbund (SWB)|SWB, Südwestdeutscher Bibliotheksverbund]]
+* {{BBKL|t/taurellus_n}}
+* {{de-ADB|37|467|471|Taurellus, Nicolaus|Groos, Karl|ADB:Taurellus, Nicolaus}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Taurellus, Nicolaus}}
+[[Category:17th-century German philosophers]]
+[[Category:16th-century German philosophers]]
+[[Category:German medical researchers]]
+[[Category:16th-century German physicians]]
+[[Category:1547 births]]
+[[Category:1606 deaths]]
+[[Category:16th-century German writers]]
+[[Category:16th-century German male writers]]
+[[Category:17th-century German writers]]
+[[Category:17th-century German male writers]]
