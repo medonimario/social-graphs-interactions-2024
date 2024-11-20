@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 #  All the downloaded  files and pickle files
+graph.pkl
 *.pkl
 Philosophers/
 downloads/
