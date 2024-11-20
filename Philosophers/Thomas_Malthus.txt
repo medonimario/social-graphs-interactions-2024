@@ -1,6 +1,0 @@
-#REDIRECT [[Thomas Robert Malthus]]
-
-{{Redirect category shell|
-{{R from move}}
-{{R from short name}}
-}}

@@ -1,6 +1,0 @@
-#REDIRECT [[John of Ruusbroec]]
-
-
-{{Redirect category shell |
-  {{R from move}}
-}}

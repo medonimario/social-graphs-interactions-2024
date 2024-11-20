@@ -1,5 +1,0 @@
-#REDIRECT [[H. A. Prichard]]
-
-{{Redirect category shell|
-{{R from move}}
-}}

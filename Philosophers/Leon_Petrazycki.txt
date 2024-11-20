@@ -1,4 +1,0 @@
-#REDIRECT [[Leon Petrażycki]]
-{{rcat shell|
-{{r to diacritic}}
-}}

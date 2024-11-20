@@ -1,8 +1,0 @@
-#REDIRECT [[Philosophy]]
-
-{{Redirect category shell|
-{{R with history}}
-{{R with possibilities}}
-}}
-
-[[Category:Philosophers| ]]

@@ -1,5 +1,0 @@
-#REDIRECT [[Shihab al-Din Yahya ibn Habash Suhrawardi]]
-
-{{Redirect category shell|
-{{R from move}}
-}}
