@@ -36,3 +36,16 @@ labmt_wordlist = load_labmt_wordlist(local_filename)
 
 # Check to ensure the list is loaded correctly
 print(list(labmt_wordlist.items())[:10])
+
+# This function will return a list of words for each artist’s page, ready for sentiment scoring
+def clean_and_tokenize(text):
+    text = text.lower()  # Convert to lowercase
+    text = re.sub(r'[^\w\s]', '', text)  # Remove punctuation
+    text = re.sub(r'\d+', '', text)  # Remove numbers
+    tokens = text.split()  # Tokenize (split into words)
+    return tokens
+
+# Calculate sentiment based on the LabMT wordlist
+def calculate_sentiment(tokens, labmt_dict):
+    scores = [labmt_dict[word] for word in tokens if word in labmt_dict]
+    return sum(scores) / len(scores) if scores else None
