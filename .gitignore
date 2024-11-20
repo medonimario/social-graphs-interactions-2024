@@ -3,7 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-Philosophers/
+# Philosophers either in the following two
+Philosophers/ 
+downloads/
+title_links.json
 # C extensions
 *.so
 
@@ -12,7 +15,6 @@ Philosophers/
 build/
 develop-eggs/
 dist/
-downloads/
 eggs/
 .eggs/
 lib/
