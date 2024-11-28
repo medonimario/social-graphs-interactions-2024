@@ -1,19 +1,13 @@
 import urllib.request
 import urllib.parse  # to handle special characters in the title
 import json
-import shutil
 import re
 import os
 import networkx as nx
-import csv
-import numpy as np
-import matplotlib.pyplot as plt
 from collections import Counter
-import pickle
 
 # Set the directory to downloads
 DOWNLOADS_DIR = "downloads"
-TITLE_LINKS_FILE = "title_links.json"
 
 def getJsonResponse(title):
   # Define the components of the query
