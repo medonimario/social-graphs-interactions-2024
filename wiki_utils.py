@@ -133,3 +133,76 @@ def build_graph_from_files(path):
         S = G.subgraph(largest_cc).copy()
     
     return S
+
+def get_category_data(links, replace_terms, verbose=False):
+    """
+    Processes a list of links, fetches philosopher data, and organizes it into a clean format.
+    
+    Args:
+        links (list): List of Wikipedia links to process.
+        replace_terms (list of tuples): Terms to replace in the keys for cleaning data (e.g., "List of").
+        verbose (bool): Whether to print detailed output during processing.
+        
+    Returns:
+        tuple: A dictionary mapping cleaned categories to philosophers and a dictionary mapping philosophers to categories.
+    """
+    # Step 1: Fetch and organize raw data
+    raw_data = {}
+    for link in links:
+        wiki_markup = getJsonResponse(link)
+        philosopher_list = findLinks(wiki_markup)
+        if link not in raw_data:
+            raw_data[link] = []
+        raw_data[link].extend(philosopher_list)
+
+    # Step 2: Clean the data
+    clean_data = {}
+    for category in raw_data:
+        cleaned_category = category
+        for old, new in replace_terms:
+            cleaned_category = cleaned_category.replace(old, new).strip()
+        clean_data[cleaned_category] = raw_data[category]
+
+    # Step 3: Convert to philosopher-to-category mapping
+    philosopher_info = {}
+    for category, philosopher_list in clean_data.items():
+        if verbose:
+            print(f"- {category}: {len(philosopher_list)}")
+        for philosopher in philosopher_list:
+            if philosopher not in philosopher_info:
+                philosopher_info[philosopher] = []
+            philosopher_info[philosopher].append(category)
+
+    return clean_data, philosopher_info
+
+def filter_graph_by_attribute(graph, attribute_info, attribute_name, verbose=False):
+    """
+    Filters a graph by adding attributes to nodes or removing nodes if attribute info is missing.
+    
+    Args:
+        graph (networkx.Graph): The input graph to filter.
+        attribute_info (dict): A dictionary mapping nodes to their attributes (e.g., subfields or traditions).
+        attribute_name (str): The name of the attribute to add to the graph nodes.
+        verbose (bool): Whether to print details about the filtering process.
+    
+    Returns:
+        networkx.Graph: A filtered copy of the graph with attributes added or nodes removed.
+    """
+    filtered_graph = graph.copy()
+    nodes_to_remove = []  # Collect nodes to remove
+
+    for node in list(filtered_graph.nodes):
+        if node in attribute_info:
+            filtered_graph.nodes[node][attribute_name] = attribute_info[node]
+        else:
+            nodes_to_remove.append(node)  # Mark node for removal if no attribute info
+
+    filtered_graph.remove_nodes_from(nodes_to_remove)
+
+    if verbose:
+        print(f"Did not find {attribute_name} for: {len(nodes_to_remove)} philosophers (therefore not included in the filtered graph)")
+        print(f" -> Example of removed nodes: {list(nodes_to_remove[:3])}")
+        print(f"Original graph: {len(graph.nodes)} nodes and {len(graph.edges)} edges")
+        print(f"Filtered '{attribute_name}' graph: {len(filtered_graph.nodes)} nodes and {len(filtered_graph.edges)} edges")
+
+    return filtered_graph
