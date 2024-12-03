@@ -28,7 +28,6 @@ def clean_wikipedia_text(text):
 
 
 def process_text(text, stop_words, lemmatizer):
-    """Tokenize, remove stopwords, lemmatize, and count word frequencies."""
     tokens = word_tokenize(text)
     tokens = [word.lower() for word in tokens if word.isalpha()]  # Only keep alphabetic tokens
     tokens = [word for word in tokens if word not in stop_words]  # Remove stopwords
@@ -37,15 +36,6 @@ def process_text(text, stop_words, lemmatizer):
 
 
 def compute_tf_idf(word_counts_dict):
-    """
-    Compute TF-IDF scores for terms across subfields.
-
-    Parameters:
-    - word_counts_dict: Dictionary where keys are subfields and values are word count dictionaries.
-
-    Returns:
-    - tf_idf_scores: Dictionary where keys are subfields and values are TF-IDF scores for terms.
-    """
     # Calculate document frequency (df) for each term
     all_terms = set(term for counts in word_counts_dict.values() for term in counts.keys())
     df = {term: sum(1 for counts in word_counts_dict.values() if term in counts) for term in all_terms}
