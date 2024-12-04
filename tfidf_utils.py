@@ -35,12 +35,13 @@ def clean_wikipedia_text(text):
 #     return Counter(tokens)  # Count word frequencies
 
 
-def process_text(text, lemmatizer, exclusion_list=None):
+def process_text(text, stop_words , lemmatizer, exclusion_list):
     """Process text with optional exclusion of specific terms."""
     if exclusion_list is None:
         exclusion_list = set()  # Default to an empty set
     tokens = word_tokenize(text)
     tokens = [word.lower() for word in tokens if word.isalpha()]  # Convert to lowercase and filter alphabetic tokens
+    tokens = [word for word in tokens if word not in stop_words]  # Remove stopwords
     tokens = [word for word in tokens if word not in exclusion_list]  # Remove excluded terms
     tokens = [lemmatizer.lemmatize(word) for word in tokens]  # Lemmatize words
     return Counter(tokens)  # Count word frequencies
