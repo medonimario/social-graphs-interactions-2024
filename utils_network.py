@@ -3,7 +3,7 @@ import networkx as nx
 import random
 import matplotlib.pyplot as plt
 import plotly.express as px
-
+from fa2_modified import ForceAtlas2
 import numpy as np
 import pandas as pd
 from scipy.stats import poisson, expon, lognorm
@@ -451,3 +451,134 @@ def plot_centrality_comparison(graph, centrality_x, centrality_y, x_label, y_lab
     )
     
     fig.show()
+
+
+    # Function to create subgraphs for each subfield
+def create_subfield_subgraphs(graph):
+    subfield_subgraphs = {}
+    for subfield in set(subfield for subfields in nx.get_node_attributes(graph, 'subfields').values() for subfield in subfields):
+        nodes_in_subfield = [
+            node for node, data in graph.nodes(data=True) if subfield in data.get('subfields', [])
+        ]
+        subfield_subgraphs[subfield] = graph.subgraph(nodes_in_subfield).copy()
+    return subfield_subgraphs
+
+
+# Function to compute centrality measures
+def compute_centrality_measures(subgraph):
+    degree_centrality = nx.degree_centrality(subgraph)
+    closeness_centrality = nx.closeness_centrality(subgraph)
+    betweenness_centrality = nx.betweenness_centrality(subgraph)
+    eigenvector_centrality = nx.eigenvector_centrality(subgraph)
+    page_rank = nx.pagerank(subgraph)
+    clustering = nx.clustering(subgraph)
+    return {
+        "degree": degree_centrality,
+        "closeness": closeness_centrality,
+        "betweenness": betweenness_centrality,
+        "eigenvector": eigenvector_centrality,
+        "pagerank": page_rank,
+        "clustering": clustering
+    }
+
+
+# Function to find the top nodes by each centrality measure
+def get_top_nodes_by_centrality(centrality_measures, top_n=5):
+    top_nodes = {}
+    for measure_name, centrality_dict in centrality_measures.items():
+        sorted_nodes = sorted(centrality_dict.items(), key=lambda x: x[1], reverse=True)[:top_n]
+        top_nodes[measure_name] = sorted_nodes
+    return top_nodes
+
+
+# Function to visualize a subgraph
+def plot_subgraph(subgraph, centrality_measures, subfield_name, top_n=5):
+    # Use degree centrality for node size
+    degree_centrality = centrality_measures["degree"]
+    node_sizes = [1000 * degree_centrality[node] for node in subgraph.nodes()]
+
+    # Use closeness centrality for node color
+    closeness_centrality = centrality_measures["closeness"]
+    closeness_values = list(closeness_centrality.values())
+    cmap = plt.cm.plasma  # Updated colormap
+    norm = plt.Normalize(vmin=min(closeness_values), vmax=max(closeness_values))
+    node_colors = [cmap(norm(closeness_centrality[node])) for node in subgraph.nodes()]
+
+    # Compute layout
+    forceatlas2 = ForceAtlas2(
+        outboundAttractionDistribution=True,
+        edgeWeightInfluence=1.0,
+        jitterTolerance=0.05,
+        barnesHutOptimize=True,
+        barnesHutTheta=1.2,
+        scalingRatio=0.1,
+        strongGravityMode=False,
+        gravity=0.1,
+        verbose=False
+    )
+    positions = forceatlas2.forceatlas2_networkx_layout(subgraph, pos=None, iterations=2000)
+
+    # Plot
+    fig, ax = plt.subplots(figsize=(14, 14))
+    nx.draw_networkx_nodes(
+        subgraph,
+        positions,
+        node_size=node_sizes,
+        node_color=node_colors,
+        alpha=0.8,
+        ax=ax
+    )
+    nx.draw_networkx_edges(
+        subgraph,
+        positions,
+        edge_color='lightgray',
+        alpha=0.5,
+        ax=ax
+    )
+
+    # Add labels for the top `n` nodes by degree centrality
+    top_degree_nodes = sorted(degree_centrality.items(), key=lambda x: x[1], reverse=True)[:top_n]
+    for node, _ in top_degree_nodes:
+        x, y = positions[node]
+        last_name = node.split('_')[-1]  # Use last name for labeling
+        ax.text(
+            x, y,
+            last_name,
+            fontsize=8,
+            fontweight='bold',
+            color='black',
+            bbox=dict(facecolor='white', edgecolor='black', boxstyle='round,pad=0.2', alpha=0.6)
+        )
+
+    # Add color bar
+    sm = plt.cm.ScalarMappable(cmap=cmap, norm=norm)
+    sm.set_array([])
+    cbar = fig.colorbar(sm, ax=ax, shrink=0.8)
+    cbar.set_label('Closeness Centrality', fontsize=12)
+
+    plt.title(f"Subgraph for Subfield: {subfield_name}", fontsize=16)
+    plt.axis('off')
+    plt.show()
+
+
+# Function to process and visualize all subfields
+def process_and_visualize_subfields(graph, top_n=5):
+    subfield_subgraphs = create_subfield_subgraphs(graph)
+    for subfield_name, subgraph in subfield_subgraphs.items():
+        print(f"Processing subfield: {subfield_name}")
+        
+        # Compute centrality measures
+        centrality_measures = compute_centrality_measures(subgraph)
+        
+        # Get top nodes by centrality
+        top_nodes = get_top_nodes_by_centrality(centrality_measures, top_n)
+        
+        # Print top nodes
+        print(f"Top {top_n} nodes by centrality for subfield '{subfield_name}':")
+        for measure, nodes in top_nodes.items():
+            print(f"  {measure.capitalize()} Centrality:")
+            for node, value in nodes:
+                print(f"    {node}: {value:.4f}")
+        
+        # Plot subgraph
+        plot_subgraph(subgraph, centrality_measures, subfield_name, top_n=top_n)
