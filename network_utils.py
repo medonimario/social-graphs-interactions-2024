@@ -1,6 +1,9 @@
 from collections import defaultdict
 import networkx as nx
 import random
+import matplotlib.pyplot as plt
+import numpy as np
+from scipy.stats import poisson, expon, lognorm
 
 
 def filter_graph_by_attribute(graph, attribute_info, attribute_name, verbose=False):
@@ -117,6 +120,10 @@ def grow_Barabasi_Albert_graph(n=5000, E=None):
 
     return F_BA
 
+###################
+# Network Metrics #
+###################
+
 
 def compute_network_metrics(graph):
     """Computes and returns key metrics for a graph."""
@@ -148,3 +155,156 @@ def compute_network_metrics(graph):
     metrics['degree_centrality'] = nx.degree_centrality(graph)
 
     return metrics
+
+# Function to plot empirical data and fitted model on log-log scale
+
+
+def plot_degree_distribution_loglog(degrees, model_name, fitted_params):
+    plt.figure(figsize=(8, 6))
+
+    # Empirical degree distribution
+    degree_counts = np.bincount(degrees)
+    degrees_unique = np.nonzero(degree_counts)[0]
+    counts = degree_counts[degrees_unique]
+    prob = counts / counts.sum()
+
+    plt.scatter(degrees_unique, prob, color='blue',
+                marker='o', label='Empirical', alpha=0.6)
+
+    # Generate degrees for plotting fitted model
+    x = np.arange(degrees_unique.min(), degrees_unique.max()+1)
+
+    if model_name == 'Poisson':
+        pmf = poisson.pmf(x, fitted_params['lambda'])
+        plt.plot(x, pmf, 'r-', label='Poisson Fit')
+    elif model_name == 'Exponential':
+        # For discrete plotting, use the CDF to approximate
+        # Alternatively, treat as continuous
+        pdf = expon.pdf(x, scale=fitted_params['scale'])
+        plt.plot(x, pdf, 'g-', label='Exponential Fit')
+    elif model_name == 'Log-Normal':
+        # Avoid zero by starting from 1
+        pdf = lognorm.pdf(
+            x, fitted_params['sigma'], loc=fitted_params['loc'], scale=fitted_params['scale'])
+        plt.plot(x, pdf, 'm-', label='Log-Normal Fit')
+    elif model_name == 'Power-Law':
+        # Power-law PDF: C * x^{-alpha}
+        pdf = (x ** (-fitted_params['alpha']))
+        # Normalize the PDF over the range xmin to max(x)
+        pdf = pdf / pdf.sum()
+        plt.plot(x, pdf, 'k-', label='Power-Law Fit')
+
+    plt.xscale('log')
+    plt.yscale('log')
+    plt.xlabel('Degree (log scale)')
+    plt.ylabel('Probability (log scale)')
+    plt.title(f'Degree Distribution with {model_name} Fit')
+    plt.legend()
+    plt.tight_layout()
+    plt.show()
+
+
+def plot_all_models_loglog(degrees, fitted_models):
+    fig, axes = plt.subplots(2, 2, figsize=(16, 12))
+    models = ['Poisson', 'Exponential', 'Log-Normal', 'Power-Law']
+    colors = ['r', 'g', 'm', 'k']
+
+    for ax, model, color in zip(axes.flatten(), models, colors):
+        # Empirical degree distribution
+        degree_counts = np.bincount(degrees)
+        degrees_unique = np.nonzero(degree_counts)[0]
+        counts = degree_counts[degrees_unique]
+        prob = counts / counts.sum()
+
+        ax.scatter(degrees_unique, prob, color='blue',
+                   marker='o', label='Empirical', alpha=0.6)
+
+        # Generate degrees for plotting fitted model
+        x = np.arange(degrees_unique.min(), degrees_unique.max()+1)
+
+        if model == 'Poisson':
+            pmf = poisson.pmf(x, fitted_models['Poisson']['lambda'])
+            ax.plot(x, pmf, color=color, linestyle='-', label='Poisson Fit')
+        elif model == 'Exponential':
+            pdf = expon.pdf(x, scale=fitted_models['Exponential']['scale'])
+            ax.plot(x, pdf, color=color, linestyle='-',
+                    label='Exponential Fit')
+        elif model == 'Log-Normal':
+            pdf = lognorm.pdf(x, fitted_models['Log-Normal']['sigma'],
+                              loc=fitted_models['Log-Normal']['loc'], scale=fitted_models['Log-Normal']['scale'])
+            ax.plot(x, pdf, color=color, linestyle='-', label='Log-Normal Fit')
+        elif model == 'Power-Law':
+            pdf = (x ** (-fitted_models['Power-Law']['alpha']))
+            pdf = pdf / pdf.sum()
+            ax.plot(x[x >= fitted_models['Power-Law']['xmin']], pdf[x >= fitted_models['Power-Law']
+                    ['xmin']], color=color, linestyle='-', label='Power-Law Fit')
+
+        ax.set_xscale('log')
+        ax.set_yscale('log')
+        ax.set_xlabel('Degree (log scale)')
+        ax.set_ylabel('Probability (log scale)')
+        ax.set_title(f'Degree Distribution with {model} Fit')
+        ax.legend()
+
+    plt.tight_layout()
+    plt.show()
+
+
+def plot_all_models_linear(degrees, fitted_models):
+    fig, axes = plt.subplots(2, 2, figsize=(16, 12))
+    models = ['Poisson', 'Exponential', 'Log-Normal', 'Power-Law']
+    colors = ['r', 'g', 'm', 'k']
+
+    for ax, model, color in zip(axes.flatten(), models, colors):
+        # Empirical degree distribution
+        degree_counts = np.bincount(degrees)
+        degrees_unique = np.nonzero(degree_counts)[0]
+        counts = degree_counts[degrees_unique]
+        prob = counts / counts.sum()
+
+        ax.scatter(degrees_unique, prob, color='blue',
+                   marker='o', label='Empirical', alpha=0.6)
+
+        # Generate degrees for plotting fitted model
+        x = np.arange(degrees_unique.min(), degrees_unique.max() + 1)
+
+        if model == 'Poisson':
+            pmf = poisson.pmf(x, fitted_models['Poisson']['lambda'])
+            ax.plot(x, pmf, color=color, linestyle='-', label='Poisson Fit')
+        elif model == 'Exponential':
+            pdf = expon.pdf(x, scale=fitted_models['Exponential']['scale'])
+            ax.plot(x, pdf, color=color, linestyle='-',
+                    label='Exponential Fit')
+        elif model == 'Log-Normal':
+            pdf = lognorm.pdf(x, fitted_models['Log-Normal']['sigma'],
+                              loc=fitted_models['Log-Normal']['loc'], scale=fitted_models['Log-Normal']['scale'])
+            ax.plot(x, pdf, color=color, linestyle='-', label='Log-Normal Fit')
+        elif model == 'Power-Law':
+            pdf = (x ** (-fitted_models['Power-Law']['alpha']))
+            pdf = pdf / pdf.sum()
+            ax.plot(x[x >= fitted_models['Power-Law']['xmin']], pdf[x >= fitted_models['Power-Law']
+                    ['xmin']], color=color, linestyle='-', label='Power-Law Fit')
+
+        ax.set_xlabel('Degree')
+        ax.set_ylabel('Probability')
+        ax.set_title(f'Degree Distribution with {model} Fit')
+        ax.legend()
+
+    plt.tight_layout()
+    plt.show()
+
+
+def effective_size(graph, node):
+    """Calculate the effective size of a node."""
+    neighbors = set(graph.neighbors(node))  # Immediate neighbors
+    total_neighbors = len(neighbors)
+
+    if total_neighbors <= 1:
+        return total_neighbors  # No structural hole if only 1 neighbor
+
+    redundancy = 0
+    for neighbor in neighbors:
+        shared_neighbors = set(graph.neighbors(neighbor)) & neighbors
+        redundancy += len(shared_neighbors) / total_neighbors
+
+    return total_neighbors - redundancy
