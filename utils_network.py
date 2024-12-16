@@ -2,9 +2,15 @@ from collections import defaultdict
 import networkx as nx
 import random
 import matplotlib.pyplot as plt
-import numpy as np
-from scipy.stats import poisson, expon, lognorm
+import plotly.express as px
 
+import numpy as np
+import pandas as pd
+from scipy.stats import poisson, expon, lognorm
+import powerlaw
+import warnings
+# Ignore warnings from powerlaw package
+warnings.filterwarnings("ignore")
 
 def filter_graph_by_attribute(graph, attribute_info, attribute_name, verbose=False):
     """
@@ -156,9 +162,110 @@ def compute_network_metrics(graph):
 
     return metrics
 
+def model_fitting(degrees):
+	# Step 1: Extract the degree sequence
+    print(f"Minimum degree: {np.min(degrees)}")
+    print(f"Maximum degree: {np.max(degrees)}")
+
+		# Step 2: Fit candidate distributions using MLE
+
+		# 2a. Poisson Distribution
+    lambda_poisson = np.mean(degrees)
+    log_likelihood_poisson = np.sum(poisson.logpmf(degrees, lambda_poisson))
+
+		# 2b. Exponential Distribution (continuous approximation)
+    params_exp = expon.fit(degrees, floc=0)  # Fix loc=0
+    lambda_exp = 1 / params_exp[1]  # Scale parameter is 1/lambda
+    log_likelihood_exp = np.sum(expon.logpdf(degrees, *params_exp))
+
+		# 2c. Log-Normal Distribution
+    params_lognorm = lognorm.fit(degrees[degrees > 0], floc=0)  # Exclude zeros
+    sigma_lognorm, loc_lognorm, scale_lognorm = params_lognorm
+    log_likelihood_lognorm = np.sum(lognorm.logpdf(degrees[degrees > 0], *params_lognorm))
+
+		# 2d. Power-Law Distribution
+    fit = powerlaw.Fit(degrees, xmin=1)
+    alpha_powerlaw = fit.power_law.alpha
+    xmin_powerlaw = fit.power_law.xmin
+    log_likelihood_powerlaw = fit.power_law.loglikelihoods(degrees).sum()
+
+		# Step 3: Compute AIC and BIC for each model
+    n = len(degrees)
+
+		# Poisson
+    k_poisson = 1  # lambda
+    AIC_poisson = 2 * k_poisson - 2 * log_likelihood_poisson
+    BIC_poisson = k_poisson * np.log(n) - 2 * log_likelihood_poisson
+
+		# Exponential
+    k_exp = 1  # lambda
+    AIC_exp = 2 * k_exp - 2 * log_likelihood_exp
+    BIC_exp = k_exp * np.log(n) - 2 * log_likelihood_exp
+
+		# Log-Normal
+    n_lognorm = len(degrees[degrees > 0])
+    k_lognorm = 2  # sigma and scale
+    AIC_lognorm = 2 * k_lognorm - 2 * log_likelihood_lognorm
+    BIC_lognorm = k_lognorm * np.log(n_lognorm) - 2 * log_likelihood_lognorm
+
+		# Power-Law
+    n_powerlaw = len(degrees[degrees >= xmin_powerlaw])
+    k_powerlaw = 2  # alpha and xmin
+    AIC_powerlaw = 2 * k_powerlaw - 2 * log_likelihood_powerlaw
+    BIC_powerlaw = k_powerlaw * np.log(n_powerlaw) - 2 * log_likelihood_powerlaw
+
+		# Step 4: Select the best-fitting model based on AIC and BIC
+    AICs = {
+    'Poisson': AIC_poisson,
+    'Exponential': AIC_exp,
+    'Log-Normal': AIC_lognorm,
+    'Power-Law': AIC_powerlaw
+		}
+
+    BICs = {
+    'Poisson': BIC_poisson,
+    'Exponential': BIC_exp,
+    'Log-Normal': BIC_lognorm,
+    'Power-Law': BIC_powerlaw
+		}
+
+    best_fit_aic = min(AICs, key=AICs.get)
+    best_fit_bic = min(BICs, key=BICs.get)
+
+		# Output results
+    print("\nModel fitting results:")
+    print("-----------------------")
+    print("Log-Likelihoods:")
+    print(f"-Poisson: {log_likelihood_poisson:.1f}")
+    print(f"-Exponential: {log_likelihood_exp:.1f}")
+    print(f"-Log-Normal: {log_likelihood_lognorm:.1f}")
+    print(f"-Power-Law: {log_likelihood_powerlaw:.1f}")
+
+    print(f"\nAIC values:")
+    for dist, aic in AICs.items():
+        print(f"-{dist}: {aic:.2f} {'<- Best fit' if dist == best_fit_aic else ''}")
+
+    print(f"\nBIC Values:")
+    for dist, bic in BICs.items():
+        print(f"-{dist}: {bic:.1f} {'<- Best fit' if dist == best_fit_bic else ''}")
+
+    print("\nEstimated parameters:")
+    print("---------------------")
+    print(f"Poisson lambda: {lambda_poisson:.2f}")
+    print(f"Exponential lambda: {lambda_exp:.4f}")
+    print(f"Log-Normal sigma: {sigma_lognorm:.4f}, scale: {scale_lognorm:.2f}")
+    print(f"Power-Law alpha: {alpha_powerlaw:.2f}, xmin: {xmin_powerlaw}")
+
+    fitted_models = {
+        'Poisson': {'lambda': lambda_poisson},
+        'Exponential': {'scale': params_exp[1]},  # scale = 1/lambda
+        'Log-Normal': {'sigma': sigma_lognorm, 'loc': loc_lognorm, 'scale': scale_lognorm},
+        'Power-Law': {'alpha': alpha_powerlaw, 'xmin': xmin_powerlaw}
+    }
+    return fitted_models
+
+
 # Function to plot empirical data and fitted model on log-log scale
-
-
 def plot_degree_distribution_loglog(degrees, model_name, fitted_params):
     plt.figure(figsize=(8, 6))
 
@@ -293,7 +400,6 @@ def plot_all_models_linear(degrees, fitted_models):
     plt.tight_layout()
     plt.show()
 
-
 def effective_size(graph, node):
     """Calculate the effective size of a node."""
     neighbors = set(graph.neighbors(node))  # Immediate neighbors
@@ -308,3 +414,40 @@ def effective_size(graph, node):
         redundancy += len(shared_neighbors) / total_neighbors
 
     return total_neighbors - redundancy
+
+
+def plot_centrality_comparison(graph, centrality_x, centrality_y, x_label, y_label, title):
+    """
+    Creates an interactive scatter plot to compare two centrality measures.
+
+    Parameters:
+    - graph: NetworkX graph
+    - centrality_x: Dictionary of centrality values for x-axis
+    - centrality_y: Dictionary of centrality values for y-axis
+    - x_label: Label for x-axis
+    - y_label: Label for y-axis
+    - title: Title of the plot
+    """
+    # Prepare data for the plot
+    data = pd.DataFrame({
+        'Node': list(centrality_x.keys()),
+        x_label: list(centrality_x.values()),
+        y_label: list(centrality_y.values())
+    })
+
+    # Create an interactive scatter plot
+    fig = px.scatter(
+        data,
+        x=x_label,
+        y=y_label,
+        hover_name='Node',  # Display node name on hover
+        hover_data={
+            x_label: ':.4f',  # Format centrality values
+            y_label: ':.4f'
+        },
+        title=title,
+        labels={x_label: x_label, y_label: y_label},
+        template="plotly_white"
+    )
+    
+    fig.show()
