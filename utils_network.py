@@ -98,7 +98,7 @@ def grow_Barabasi_Albert_graph(n=5000, E=None):
         return best_m
 
     m = approximate_m(n, E)
-    print(f"Using m = {m} to approximate E = {E}")
+    # print(f"Using m = {m} to approximate E = {E}")
 
     # Initialize the graph with a complete graph of m nodes
     F_BA = nx.complete_graph(m)
