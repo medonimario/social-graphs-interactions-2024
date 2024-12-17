@@ -8,6 +8,7 @@ graph.pkl
 *.pkl
 Philosophers/
 downloads/
+glove.6B.300d.txt
 # C extensions
 *.so
 
